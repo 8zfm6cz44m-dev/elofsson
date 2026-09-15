@@ -1,0 +1,778 @@
+[
+ {
+  "id": "p-sune-iwona",
+  "type": "partner",
+  "a": "sune",
+  "b": "iwona",
+  "status": "family",
+  "basis": "Martins föräldrar (familjeuppgift)."
+ },
+ {
+  "id": "c-sune-iwona-martin",
+  "type": "child",
+  "parents": [
+   "sune",
+   "iwona"
+  ],
+  "child": "martin",
+  "status": "family",
+  "basis": "Martin är användaren; Sune och Iwona är hans föräldrar."
+ },
+ {
+  "id": "p-elof-ellen",
+  "type": "partner",
+  "a": "elof",
+  "b": "ellen",
+  "status": "verified",
+  "basis": "Gemensamma föräldrar till Sune och Rolf enligt masterns säkra kärna."
+ },
+ {
+  "id": "c-elof-ellen-sune",
+  "type": "child",
+  "parents": [
+   "elof",
+   "ellen"
+  ],
+  "child": "sune",
+  "status": "verified",
+  "basis": "Master: VERIFIERAD Elof + Ellen → Sune. Sune = Max Sune Elofsson är 100 % familjebekräftat."
+ },
+ {
+  "id": "c-elof-ellen-rolf",
+  "type": "child",
+  "parents": [
+   "elof",
+   "ellen"
+  ],
+  "child": "rolf",
+  "status": "verified",
+  "basis": "Master: VERIFIERAD Elof + Ellen → Rolf. Rolf Elofsson, Lycka Takene, på skolfoto VT 1956."
+ },
+ {
+  "id": "p-karl-hanna",
+  "type": "partner",
+  "a": "karl",
+  "b": "hanna",
+  "status": "verified",
+  "basis": "Bildtext: ”Karl Andersson och Hanna med barnen Bertil och Ellen”."
+ },
+ {
+  "id": "c-karl-hanna-ellen",
+  "type": "child",
+  "parents": [
+   "karl",
+   "hanna"
+  ],
+  "child": "ellen",
+  "status": "verified",
+  "basis": "Bildtext: ”Karl Andersson och Hanna med barnen Bertil och Ellen”; Ellens personpost länkar till bilden."
+ },
+ {
+  "id": "c-karl-hanna-nilsbertil",
+  "type": "child",
+  "parents": [
+   "karl",
+   "hanna"
+  ],
+  "child": "nilsbertil",
+  "status": "verified",
+  "basis": "Samma bildtext."
+ },
+ {
+  "id": "c-karl-hanna-goran_nolemark",
+  "type": "child",
+  "parents": [
+   "karl",
+   "hanna"
+  ],
+  "child": "goran_nolemark",
+  "status": "strong",
+  "basis": "Där Nole-fotot ca 1932 och skolfoton visar honom i samma hushåll, men ingen källa säger uttryckligen ”barn”."
+ },
+ {
+  "id": "c-karl-hanna-annabritta",
+  "type": "child",
+  "parents": [
+   "karl",
+   "hanna"
+  ],
+  "child": "annabritta",
+  "status": "strong",
+  "basis": "Där Nole-fotot ca 1932, Takene 1934–36 och missionshuset 1937 knyter henne till Där Nole, men ingen uttrycklig barntext."
+ },
+ {
+  "id": "c-nilsbertil-inge",
+  "type": "child",
+  "parents": [
+   "nilsbertil"
+  ],
+  "child": "inge",
+  "status": "candidate",
+  "basis": "Inget dokument anger far/son. Om det bevisas blir Sune och Inge kusiner."
+ },
+ {
+  "id": "p-annabritta-erikgeorg",
+  "type": "partner",
+  "a": "annabritta",
+  "b": "erikgeorg",
+  "status": "strong",
+  "basis": "Gemensam grav Silbodal 1 07 69; Geneanet anger vigsel 1948. Vigselakt saknas."
+ },
+ {
+  "id": "c-annabritta-erikgeorg-goranlennart",
+  "type": "child",
+  "parents": [
+   "annabritta",
+   "erikgeorg"
+  ],
+  "child": "goranlennart",
+  "status": "strong",
+  "basis": "Geneanet (sekundärträd). Oberoende relationskälla saknas."
+ },
+ {
+  "id": "c-annabritta-erikgeorg-inger",
+  "type": "child",
+  "parents": [
+   "annabritta",
+   "erikgeorg"
+  ],
+  "child": "inger",
+  "status": "strong",
+  "basis": "Geneanet (sekundärträd)."
+ },
+ {
+  "id": "p-goranlennart-lena",
+  "type": "partner",
+  "a": "goranlennart",
+  "b": "lena",
+  "status": "strong",
+  "basis": "Geneanet (sekundärträd)."
+ },
+ {
+  "id": "c-goranlennart-lena-dan",
+  "type": "child",
+  "parents": [
+   "goranlennart",
+   "lena"
+  ],
+  "child": "dan",
+  "status": "strong",
+  "basis": "Geneanet anger Göran Lennart + Lena som Dans föräldrar. Förklarar familjeminnet om Dans far."
+ },
+ {
+  "id": "c-goranlennart-lena-pergoran",
+  "type": "child",
+  "parents": [
+   "goranlennart",
+   "lena"
+  ],
+  "child": "pergoran",
+  "status": "lead",
+  "basis": "Geneanet."
+ },
+ {
+  "id": "c-goranlennart-lena-pernilla_e",
+  "type": "child",
+  "parents": [
+   "goranlennart",
+   "lena"
+  ],
+  "child": "pernilla_e",
+  "status": "lead",
+  "basis": "Geneanet."
+ },
+ {
+  "id": "p-johanhilmer-annaviktoria",
+  "type": "partner",
+  "a": "johanhilmer",
+  "b": "annaviktoria",
+  "status": "lead",
+  "basis": "Geneanet: gifta 1916."
+ },
+ {
+  "id": "c-johanhilmer-annaviktoria-erikgeorg",
+  "type": "child",
+  "parents": [
+   "johanhilmer",
+   "annaviktoria"
+  ],
+  "child": "erikgeorg",
+  "status": "lead",
+  "basis": "Geneanet."
+ },
+ {
+  "id": "p-martineriksson-lovisa",
+  "type": "partner",
+  "a": "martineriksson",
+  "b": "lovisa",
+  "status": "lead",
+  "basis": "Geneanet: gifta 1880."
+ },
+ {
+  "id": "c-martineriksson-lovisa-johanhilmer",
+  "type": "child",
+  "parents": [
+   "martineriksson",
+   "lovisa"
+  ],
+  "child": "johanhilmer",
+  "status": "lead",
+  "basis": "Geneanet."
+ },
+ {
+  "id": "p-arvidpersson-sally",
+  "type": "partner",
+  "a": "arvidpersson",
+  "b": "sally",
+  "status": "verified",
+  "basis": "Nedre Lycka-bildtext anger dem som föräldrar till Anna och Ester."
+ },
+ {
+  "id": "c-arvidpersson-sally-anna_arvidsson",
+  "type": "child",
+  "parents": [
+   "arvidpersson",
+   "sally"
+  ],
+  "child": "anna_arvidsson",
+  "status": "verified",
+  "basis": "Nedre Lycka 07-190-01-02: föräldrar till döttrarna Anna g. Nolemark och Ester g. Tholén."
+ },
+ {
+  "id": "c-arvidpersson-sally-ester",
+  "type": "child",
+  "parents": [
+   "arvidpersson",
+   "sally"
+  ],
+  "child": "ester",
+  "status": "verified",
+  "basis": "Samma bildtext."
+ },
+ {
+  "id": "c-johannespersson-arvidpersson",
+  "type": "child",
+  "parents": [
+   "johannespersson"
+  ],
+  "child": "arvidpersson",
+  "status": "verified",
+  "basis": "Master: VERIFIERAD Johannes Persson → Arvid Persson."
+ },
+ {
+  "id": "p-johan-hulda",
+  "type": "partner",
+  "a": "johan",
+  "b": "hulda",
+  "status": "strong",
+  "basis": "Användarträdet anger paret; båda är lokalt belagda i Skog 1921. Vigsel inte funnen."
+ },
+ {
+  "id": "c-johan-hulda-elof",
+  "type": "child",
+  "parents": [
+   "johan",
+   "hulda"
+  ],
+  "child": "elof",
+  "status": "strong",
+  "basis": "STARK KANDIDAT, INTE BEVISAD. Användarträdet anger Johan + Hulda; lokala belägg samstämmer. Ingen födelsenotis eller hushållssida namnger föräldrarna. Elof är inte född i Mangskog eller Brunskog.",
+  "label": "föräldrar ej bevisade"
+ },
+ {
+  "id": "p-olofaugust-maria",
+  "type": "partner",
+  "a": "olofaugust",
+  "b": "maria",
+  "status": "candidate",
+  "basis": "Användarträdet och masterns kandidatgren."
+ },
+ {
+  "id": "c-olofaugust-maria-johan",
+  "type": "child",
+  "parents": [
+   "olofaugust",
+   "maria"
+  ],
+  "child": "johan",
+  "status": "candidate",
+  "basis": "Ingen källa binder Johan som son till Olof August + Maria. Äldre gren får inte presenteras som antavla."
+ },
+ {
+  "id": "p-zetterlund-annaandersdotter",
+  "type": "partner",
+  "a": "zetterlund",
+  "b": "annaandersdotter",
+  "status": "strong",
+  "basis": "Samma platspost/postfamilj i Brunskogs personregister."
+ },
+ {
+  "id": "c-zetterlund-annaandersdotter-hulda",
+  "type": "child",
+  "parents": [
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "child": "hulda",
+  "status": "strong",
+  "basis": "Exakta år och rätt lokal miljö sammanfaller med användarträdet; födelsebok/församlingsbok ej läst."
+ },
+ {
+  "id": "p-johannesolsson-anna1821",
+  "type": "partner",
+  "a": "johannesolsson",
+  "b": "anna1821",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "c-johannesolsson-anna1821-olofaugust",
+  "type": "child",
+  "parents": [
+   "johannesolsson",
+   "anna1821"
+  ],
+  "child": "olofaugust",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "p-olofelofsson-kajsa",
+  "type": "partner",
+  "a": "olofelofsson",
+  "b": "kajsa",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "c-olofelofsson-kajsa-maria",
+  "type": "child",
+  "parents": [
+   "olofelofsson",
+   "kajsa"
+  ],
+  "child": "maria",
+  "status": "lead",
+  "basis": "Användarträd (Maria Olsdotter f. 1863)."
+ },
+ {
+  "id": "p-nilseriksson-brittanils",
+  "type": "partner",
+  "a": "nilseriksson",
+  "b": "brittanils",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "c-nilseriksson-brittanils-zetterlund",
+  "type": "child",
+  "parents": [
+   "nilseriksson",
+   "brittanils"
+  ],
+  "child": "zetterlund",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "p-andersmansson-annaolsdotter",
+  "type": "partner",
+  "a": "andersmansson",
+  "b": "annaolsdotter",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "c-andersmansson-annaolsdotter-annaandersdotter",
+  "type": "child",
+  "parents": [
+   "andersmansson",
+   "annaolsdotter"
+  ],
+  "child": "annaandersdotter",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "s-elof-valborg",
+  "type": "sibling",
+  "a": "elof",
+  "b": "valborg",
+  "status": "candidate",
+  "basis": "Lycka-hushållet 1921–1930 och gruppfotot i Skog. Syskonskap är hypotes; samma Mangskog-kod bevisar inget."
+ },
+ {
+  "id": "s-elof-anna_lycka",
+  "type": "sibling",
+  "a": "elof",
+  "b": "anna_lycka",
+  "status": "candidate",
+  "basis": "Samma gård på skolfoto 1926. Hypotes."
+ },
+ {
+  "id": "s-elof-arvid_lycka",
+  "type": "sibling",
+  "a": "elof",
+  "b": "arvid_lycka",
+  "status": "candidate",
+  "basis": "Samma gård på skolfoto 1921. Hypotes."
+ },
+ {
+  "id": "p-boleslaw-irena",
+  "type": "partner",
+  "a": "boleslaw",
+  "b": "irena",
+  "status": "family",
+  "basis": "Familjen: Bolesław var far till samtliga Irenas barn. Vigselakt/civilstånd saknas.",
+  "label": "vigsel ej belagd"
+ },
+ {
+  "id": "c-boleslaw-irena-zdzislaw",
+  "type": "child",
+  "parents": [
+   "boleslaw",
+   "irena"
+  ],
+  "child": "zdzislaw",
+  "status": "family",
+  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+ },
+ {
+  "id": "c-boleslaw-irena-grzegorz",
+  "type": "child",
+  "parents": [
+   "boleslaw",
+   "irena"
+  ],
+  "child": "grzegorz",
+  "status": "family",
+  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+ },
+ {
+  "id": "c-boleslaw-irena-roman",
+  "type": "child",
+  "parents": [
+   "boleslaw",
+   "irena"
+  ],
+  "child": "roman",
+  "status": "family",
+  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+ },
+ {
+  "id": "c-boleslaw-irena-janina",
+  "type": "child",
+  "parents": [
+   "boleslaw",
+   "irena"
+  ],
+  "child": "janina",
+  "status": "family",
+  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+ },
+ {
+  "id": "c-boleslaw-irena-iwona",
+  "type": "child",
+  "parents": [
+   "boleslaw",
+   "irena"
+  ],
+  "child": "iwona",
+  "status": "family",
+  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+ },
+ {
+  "id": "p-stefan-zofia",
+  "type": "partner",
+  "a": "stefan",
+  "b": "zofia",
+  "status": "lead",
+  "basis": "Användarträd."
+ },
+ {
+  "id": "c-stefan-zofia-irena",
+  "type": "child",
+  "parents": [
+   "stefan",
+   "zofia"
+  ],
+  "child": "irena",
+  "status": "lead",
+  "basis": "Användarträd – konflikt med födelsenamnet Jarczyńska."
+ },
+ {
+  "id": "p-zdzislaw-celina",
+  "type": "partner",
+  "a": "zdzislaw",
+  "b": "celina",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "c-zdzislaw-celina-kasia",
+  "type": "child",
+  "parents": [
+   "zdzislaw",
+   "celina"
+  ],
+  "child": "kasia",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "c-zdzislaw-celina-maciek",
+  "type": "child",
+  "parents": [
+   "zdzislaw",
+   "celina"
+  ],
+  "child": "maciek",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "p-grzegorz-ella",
+  "type": "partner",
+  "a": "grzegorz",
+  "b": "ella",
+  "status": "family",
+  "basis": "Familjeuppgift: tidigare/frånskild hustru.",
+  "label": "tidigare"
+ },
+ {
+  "id": "c-grzegorz-ella-dawid",
+  "type": "child",
+  "parents": [
+   "grzegorz",
+   "ella"
+  ],
+  "child": "dawid",
+  "status": "family",
+  "basis": "Familjebekräftat; får inte nedgraderas."
+ },
+ {
+  "id": "c-grzegorz-ella-izabela",
+  "type": "child",
+  "parents": [
+   "grzegorz",
+   "ella"
+  ],
+  "child": "izabela",
+  "status": "family",
+  "basis": "Familjebekräftat."
+ },
+ {
+  "id": "p-janina-adam",
+  "type": "partner",
+  "a": "janina",
+  "b": "adam",
+  "status": "family",
+  "basis": "MyHeritage-vy/familjeuppgift."
+ },
+ {
+  "id": "c-janina-adam-mariusz",
+  "type": "child",
+  "parents": [
+   "janina",
+   "adam"
+  ],
+  "child": "mariusz",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "c-janina-adam-pawel",
+  "type": "child",
+  "parents": [
+   "janina",
+   "adam"
+  ],
+  "child": "pawel",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "p-mariusz-beata",
+  "type": "partner",
+  "a": "mariusz",
+  "b": "beata",
+  "status": "family",
+  "basis": "Familjebekräftat."
+ },
+ {
+  "id": "c-karin-morgan",
+  "type": "child",
+  "parents": [
+   "karin"
+  ],
+  "child": "morgan",
+  "status": "strong",
+  "basis": "Gåvan av Tobyn 1:158 (2026-01-28) till de tre. Extremt stark arvsindikator men ingen uttrycklig mor/barn-källa."
+ },
+ {
+  "id": "c-karin-monika",
+  "type": "child",
+  "parents": [
+   "karin"
+  ],
+  "child": "monika",
+  "status": "strong",
+  "basis": "Gåvan av Tobyn 1:158 (2026-01-28) till de tre. Extremt stark arvsindikator men ingen uttrycklig mor/barn-källa."
+ },
+ {
+  "id": "c-karin-marita",
+  "type": "child",
+  "parents": [
+   "karin"
+  ],
+  "child": "marita",
+  "status": "strong",
+  "basis": "Gåvan av Tobyn 1:158 (2026-01-28) till de tre. Extremt stark arvsindikator men ingen uttrycklig mor/barn-källa."
+ },
+ {
+  "id": "p-morgan-danuta",
+  "type": "partner",
+  "a": "morgan",
+  "b": "danuta",
+  "status": "family",
+  "basis": "Familje-/identitetsuppgift."
+ },
+ {
+  "id": "p-anna_jakobsson-rune",
+  "type": "partner",
+  "a": "anna_jakobsson",
+  "b": "rune",
+  "status": "candidate",
+  "basis": "Familjeminne om Anna och Rune i Kil. Att Rune var Anna Olsson g. Jakobssons make är inte visat."
+ },
+ {
+  "id": "c-anna_jakobsson-rune-bo",
+  "type": "child",
+  "parents": [
+   "anna_jakobsson",
+   "rune"
+  ],
+  "child": "bo",
+  "status": "candidate",
+  "basis": "Familjeminne. Bo Jakobssons föräldrar är inte dokumenterade."
+ },
+ {
+  "id": "c-bo-mats",
+  "type": "child",
+  "parents": [
+   "bo"
+  ],
+  "child": "mats",
+  "status": "family",
+  "basis": "Familjeuppgift: Bo → Mats."
+ },
+ {
+  "id": "c-anna_jakobsson-jonny",
+  "type": "child",
+  "parents": [
+   "anna_jakobsson"
+  ],
+  "child": "jonny",
+  "status": "candidate",
+  "basis": "Mangskogs kompletteringsbok: ”Anna Olsson f. 1916” med sonen Jonny. Identitet med Anna Olsson g. Jakobsson 1916-10-01 är kandidat."
+ },
+ {
+  "id": "s-jonny-bo",
+  "type": "sibling",
+  "a": "jonny",
+  "b": "bo",
+  "status": "candidate",
+  "basis": "Hypotes: Jonny (1941) och Bo (ca 1942) som bröder. Ingen källa."
+ },
+ {
+  "id": "p-jonny-maigon",
+  "type": "partner",
+  "a": "jonny",
+  "b": "maigon",
+  "status": "strong",
+  "basis": "Mangskogs kompletteringsbok: gifta 1968–1976.",
+  "label": "1968–1976"
+ },
+ {
+  "id": "c-jonny-maigon-anders_pe",
+  "type": "child",
+  "parents": [
+   "jonny",
+   "maigon"
+  ],
+  "child": "anders_pe",
+  "status": "strong",
+  "basis": "Listade under Jonny i Mangskogs kompletteringsbok (lokalhistoriskt; ej grönmarkerat i master). Modern anges inte uttryckligen."
+ },
+ {
+  "id": "c-jonny-maigon-christina_j",
+  "type": "child",
+  "parents": [
+   "jonny",
+   "maigon"
+  ],
+  "child": "christina_j",
+  "status": "strong",
+  "basis": "Listade under Jonny i Mangskogs kompletteringsbok (lokalhistoriskt; ej grönmarkerat i master). Modern anges inte uttryckligen."
+ },
+ {
+  "id": "c-jonny-maigon-pernilla_j",
+  "type": "child",
+  "parents": [
+   "jonny",
+   "maigon"
+  ],
+  "child": "pernilla_j",
+  "status": "strong",
+  "basis": "Listade under Jonny i Mangskogs kompletteringsbok (lokalhistoriskt; ej grönmarkerat i master). Modern anges inte uttryckligen."
+ },
+ {
+  "id": "p-goranp-ingmarie",
+  "type": "partner",
+  "a": "goranp",
+  "b": "ingmarie",
+  "status": "verified",
+  "basis": "Ratsit anger civilstånd gift med Göran Persson; familjeuppgift."
+ },
+ {
+  "id": "c-goranp-ingmarie-elin",
+  "type": "child",
+  "parents": [
+   "goranp",
+   "ingmarie"
+  ],
+  "child": "elin",
+  "status": "family",
+  "basis": "Familjeuppgift."
+ },
+ {
+  "id": "c-goranp-peter",
+  "type": "child",
+  "parents": [
+   "goranp"
+  ],
+  "child": "peter",
+  "status": "family",
+  "basis": "Familjeuppgift: son från tidigare relation."
+ },
+ {
+  "id": "p-ingmarie-johnny_klahr",
+  "type": "partner",
+  "a": "ingmarie",
+  "b": "johnny_klahr",
+  "status": "family",
+  "basis": "Familjeuppgift: tidigare relation.",
+  "label": "tidigare"
+ },
+ {
+  "id": "c-ingmarie-johnny_klahr-anders_klahr",
+  "type": "child",
+  "parents": [
+   "ingmarie",
+   "johnny_klahr"
+  ],
+  "child": "anders_klahr",
+  "status": "verified",
+  "basis": "Familjeuppgift + företagsbeskrivning (”sonen Anders”) + samma hushåll."
+ }
+]

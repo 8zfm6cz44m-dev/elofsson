@@ -1,0 +1,254 @@
+[
+ {
+  "id": "img01",
+  "title": "Tegelslagning vid Där Nole",
+  "date": "ca 1932",
+  "bildpost": "25-03-01-Skog-Där Nole-03",
+  "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482",
+  "persons": [
+   "karl",
+   "hanna",
+   "annabritta",
+   "ellen",
+   "nilsbertil",
+   "goran_nolemark"
+  ],
+  "names": "Karl Andersson, Hanna Andersson, Anna-Britta Nolemark, Ellen på Lycka, Bertil Nolemark, Karl Wester, Erik Johansson och Göran Nolemark",
+  "comment": "Tegel till ladugården på Lycka i Finnebäck. Personerna anges från vänster. Retroaktiv bildtext kan använda senare efternamn. Starkt hushållsstöd, inte uttrycklig barntext för Anna-Britta och Göran.",
+  "kind": "släktfoto"
+ },
+ {
+  "id": "img02",
+  "title": "Karl Andersson och Hanna med barnen Bertil och Ellen",
+  "date": "odaterat",
+  "bildpost": "25-03-01-1888-Karl Andersson-03",
+  "url": "https://www.hembygd.se/brunskog/plats/221748/picture/3334494",
+  "persons": [
+   "karl",
+   "hanna",
+   "nilsbertil",
+   "ellen"
+  ],
+  "names": "Karl Andersson, Hanna, Bertil och Ellen",
+  "comment": "Direkt relationsbevis genom bildtexten. Bildlänkens nummer (3334494) avviker från övriga (233xxxx) och bör kontrolleras.",
+  "kind": "släktfoto",
+  "flag": "Kontrollera URL"
+ },
+ {
+  "id": "img03",
+  "title": "Takene skola",
+  "date": "1921-05-30",
+  "bildpost": "34-02-1921-Takene-Skolfoton-01",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585",
+  "persons": [
+   "johan",
+   "hulda",
+   "nilsbertil",
+   "arvid_lycka",
+   "georg_e",
+   "anna_e"
+  ],
+  "names": "Johan Olsson (Där Nere i Skog), Hulda, Georg och Anna Eriksson (Boställe Skog), Arvid Olsson (Lycka Takene), Bertil Nolemark m.fl.",
+  "comment": "Bertil står i nedersta raden. Personen Rut på fotot är Rut Widner, Skogstorpet – inte Rut Eriksson.",
+  "kind": "skolfoto"
+ },
+ {
+  "id": "img04",
+  "title": "Takene skola",
+  "date": "1934–35 (bildposten anger 1935-36)",
+  "bildpost": "34-02-1935-36-Takene-Skolfoton-01",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338609",
+  "persons": [
+   "annabritta",
+   "goran_nolemark"
+  ],
+  "names": "Anna-Britta Andersson och Göran Andersson, Där Nole i Skog, samt klasskamrater",
+  "comment": "Anna-Britta nr 2 bland stående; Göran Andersson nr 20. Dateringen skiljer sig mellan registerrubrik (1934–35) och bildpost (1935-36).",
+  "kind": "skolfoto",
+  "flag": "Dateringskonflikt"
+ },
+ {
+  "id": "img05",
+  "title": "Takene skola",
+  "date": "1935–36",
+  "bildpost": "34-02-1935-36-Takene-Skolfoton-02",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338604",
+  "persons": [
+   "annabritta"
+  ],
+  "names": "Anna-Britta Andersson och klasskamrater",
+  "comment": "Anna-Britta i mittenraden.",
+  "kind": "skolfoto"
+ },
+ {
+  "id": "img06",
+  "title": "Fest hos Nils Olsson på Nytomta i Finnebäck",
+  "date": "odaterat",
+  "bildpost": "450602_07_11_01_finneback_nytomta_02",
+  "url": "https://shfstor.blob.core.windows.net/brunskog/files/uploaded/165/450602_07_11_01_finneback_nytomta_02.pdf",
+  "persons": [
+   "sally",
+   "ester",
+   "anna_arvidsson"
+  ],
+  "names": "Sally Persson (nr 7), Ester Tholén (nr 10), Anna Nolemark (nr 14) och övriga gäster",
+  "comment": "Viktigt identitetsfoto: ”Anna Nolemark, Nole i Skog” = Anna Arvidsson genom mor och syster på samma bild.",
+  "kind": "släktfoto"
+ },
+ {
+  "id": "img07",
+  "title": "Älgjaktlag",
+  "date": "ca 1960",
+  "bildpost": "34-01-00-Takene-Övrigt-02-AL",
+  "url": "https://www.hembygd.se/brunskog/plats/226399/picture/2338879",
+  "persons": [
+   "elof",
+   "nilsbertil"
+  ],
+  "names": "Elof Olsson Lycka Takene, Bertil Nolemark och jaktlaget",
+  "comment": "Båda uttryckligen namngivna. Socialt nät, inte relationsbevis.",
+  "kind": "gruppfoto"
+ },
+ {
+  "id": "img08",
+  "title": "Brunsbergs skola",
+  "date": "1958",
+  "bildpost": "Brunsbergs skolfoto 1958",
+  "url": "https://www.hembygd.se/brunskog/",
+  "persons": [
+   "sune"
+  ],
+  "names": "Sune Elofsson (främre raden)",
+  "comment": "Exakt bild-URL saknas i underlaget och ska återhämtas.",
+  "kind": "skolfoto",
+  "flag": "URL saknas"
+ },
+ {
+  "id": "img09",
+  "title": "Takene skola",
+  "date": "1926-05-10",
+  "bildpost": "Takene skola 10 maj 1926",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338617",
+  "persons": [
+   "anna_lycka",
+   "elof",
+   "ellen",
+   "rut_e"
+  ],
+  "names": "Anna Olsson och Elov Olsson (Lycka Takene), Ellen Andersson (Där Nole Skog), Rut Eriksson (Bostället Skog)",
+  "comment": "Elov på exakt Lycka och i rätt ålder är mycket stark kandidat för Elof f. 1914-12-14. Placerar Elof och Ellen i samma skolmiljö.",
+  "kind": "skolfoto"
+ },
+ {
+  "id": "img10",
+  "title": "Takene skola",
+  "date": "1930-05-06",
+  "bildpost": "Takene skola 6 maj 1930",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338619",
+  "persons": [
+   "valborg",
+   "arvid_framme"
+  ],
+  "names": "Valborg Olsson (Lycka Takene), Arvid Olsson (Där Framme Takene)",
+  "comment": "Loggen anger även bildnummer 2338620 för samma foto. Arvid Där Framme hålls isär från Arvid Lycka 1921.",
+  "kind": "skolfoto",
+  "flag": "Två URL-varianter"
+ },
+ {
+  "id": "img11",
+  "title": "Takene skola",
+  "date": "VT 1956",
+  "bildpost": "Takene skola VT 1956",
+  "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338621",
+  "persons": [
+   "rolf"
+  ],
+  "names": "Rolf Elofsson, Lycka Takene",
+  "comment": "Dokumenterar nästa generation på Lycka.",
+  "kind": "skolfoto"
+ },
+ {
+  "id": "img12",
+  "title": "Sjukvårdsutbildning för män, Takene",
+  "date": "odaterat",
+  "bildpost": "34-01-01-Takene-Övrigt-05-Sjukvårdskurs.jpg",
+  "url": "https://www.hembygd.se/brunskog/plats/226399/picture/2338886",
+  "persons": [
+   "elof"
+  ],
+  "names": "Elof Olsson, Lycka Takene (mellanraden nr 6); Arvid Olsson (utan gård); Bernhard Persson, Där Sö Takene m.fl.",
+  "comment": "Knyter den vuxne Elof till samma Lycka som Elov 1926. FAN-stöd, inte syskonbevis för Arvid.",
+  "kind": "gruppfoto"
+ },
+ {
+  "id": "img16",
+  "title": "Där Sö i Tortan, inför cykelutflykt",
+  "date": "odaterat",
+  "bildpost": "36-03-01-Tortan-Där Sö-02.jpg",
+  "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180",
+  "persons": [
+   "valborg",
+   "elof",
+   "johan",
+   "gustav",
+   "anna_jakobsson"
+  ],
+  "names": "Valborg Olsson (Pettersson) och Elof Olsson, Hagen Skog; Johan och Gustav Olsson, Där Nere Skog; Anna Olsson (Jakobsson), Hagen i Skog. Fotograf: Elof Persson.",
+  "comment": "Starkaste öppna bildstödet för klustret Elof–Valborg–Johan. Belägger Valborgs senare namn Pettersson. Bevisar inte syskon- eller föräldrarelation.",
+  "kind": "gruppfoto"
+ },
+ {
+  "id": "img20",
+  "title": "Takene missionshus",
+  "date": "1937",
+  "bildpost": "Takene Missionshus 1937",
+  "url": "https://www.hembygd.se/brunskog/plats/226344/picture/2338743",
+  "persons": [
+   "annabritta"
+  ],
+  "names": "Anna-Britta Andersson, Där Nole",
+  "comment": "Nämnd i forskningsloggen.",
+  "kind": "gruppfoto"
+ },
+ {
+  "id": "img14",
+  "title": "Användarträd ovanför Elof Olsson",
+  "date": "mottagen 2026-08-25",
+  "bildpost": "codex-clipboard-a0fb319b-72ff-41ad-bf1c-e73df1e117f5.png + fem utsnitt",
+  "url": null,
+  "persons": [
+   "elof",
+   "johan",
+   "hulda",
+   "olofaugust",
+   "maria",
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "names": "78 av 197 personer visas; Johan + Hulda som Elofs föräldrar, Olof + Maria och Erik + Anna ovanför",
+  "comment": "Endast leads. Filerna finns i arbetsmappen och publiceras inte.",
+  "kind": "användarträd"
+ },
+ {
+  "id": "img19",
+  "title": "Arkivbilder: Elofs födelseförsamling prövad",
+  "date": "kontrollerad 2026-08-25",
+  "bildpost": "Mangskog C I/9 bild 95–97; Brunskog C I/8 bild 189–190; SCB A0031112 bild 396–397",
+  "url": "https://sok.riksarkivet.se/bildvisning/00053728_00095",
+  "persons": [
+   "elof"
+  ],
+  "names": "Födda 1914",
+  "comment": "Källbilder, inte släktfoton. Ingen Elof och ingen födelse 14 december 1914 i Mangskog eller Brunskog.",
+  "kind": "källbild",
+  "links": [
+   "https://sok.riksarkivet.se/bildvisning/00053728_00095",
+   "https://sok.riksarkivet.se/bildvisning/00053728_00096",
+   "https://sok.riksarkivet.se/bildvisning/00053728_00097",
+   "https://sok.riksarkivet.se/bildvisning/00053637_00189",
+   "https://sok.riksarkivet.se/bildvisning/00053637_00190",
+   "https://sok.riksarkivet.se/bildvisning/A0031112_00396",
+   "https://sok.riksarkivet.se/bildvisning/A0031112_00397"
+  ]
+ }
+]

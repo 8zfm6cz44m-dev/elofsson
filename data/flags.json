@@ -1,0 +1,202 @@
+{
+ "open": [
+  {
+   "title": "Elofs föräldrar",
+   "text": "Johan Olsson + Hulda Eriksson är starka kandidater men inte bevisade. Ingen födelsenotis eller hushållssida namnger dem.",
+   "persons": [
+    "elof",
+    "johan",
+    "hulda"
+   ]
+  },
+  {
+   "title": "Elofs födelseförsamling",
+   "text": "Inte Mangskog och inte Brunskog (originalböcker lästa). Nästa steg: SCB-utdrag och originalböcker för angränsande församlingar 1914, datum 14 december.",
+   "persons": [
+    "elof"
+   ]
+  },
+  {
+   "title": "Erik Johan Erikssons USA-spår",
+   "text": "Emigrationen till Nordamerika 1903 är lokalhistoriskt belagd. Destination, hamn och utflyttningsrad (Brunskog B:7) är olösta. Minneapolis/Minnesota och California är endast familjeleads. Relationen till familjen anges inte i underlaget.",
+   "persons": [
+    "erikjohan"
+   ]
+  },
+  {
+   "title": "Nils Bertil → Bertil Inge",
+   "text": "Avgör om Sune och Inge är kusiner. Nästa källa: bouppteckning 1972.",
+   "persons": [
+    "nilsbertil",
+    "inge"
+   ]
+  },
+  {
+   "title": "Karl och Hannas fulla barnaskara och namnbytet till Nolemark",
+   "text": "Nolemark finns i Svensk namnbok 1940 och i tillägget för 1941–1946. Själva namnbytesakten saknas.",
+   "persons": [
+    "karl",
+    "hanna"
+   ]
+  },
+  {
+   "title": "Anna Arvidssons make",
+   "text": "Okänd. Nils Bertil och Göran/Jöran Nolemark är likvärdiga kandidater.",
+   "persons": [
+    "anna_arvidsson"
+   ]
+  },
+  {
+   "title": "Dan-kedjan",
+   "text": "Anna-Britta → Göran Lennart → Dan bygger på Geneanet. Vigselakt 1948 och oberoende far/son-källa saknas.",
+   "persons": [
+    "dan",
+    "goranlennart"
+   ]
+  },
+  {
+   "title": "Morgans och Göran Perssons släktskap",
+   "text": "Båda är enligt familjen släkt med Martins pappa. Graden är okänd.",
+   "persons": [
+    "morgan",
+    "goranp"
+   ]
+  },
+  {
+   "title": "Anna, Rune och Bo",
+   "text": "Rune är okänd. Kil-minnet om det gula tegelhuset med taxi mittemot är bevarat oförkortat.",
+   "persons": [
+    "rune",
+    "bo",
+    "anna_jakobsson"
+   ]
+  },
+  {
+   "title": "Irena och Bolesław",
+   "text": "Födelseakter, föräldrar och vigsel saknas. Två icke-digitaliserade akter i Trzcińsko-Zdrój: ca 65/1059/0/2.34/670 (1980) och …/399 (1982).",
+   "persons": [
+    "irena",
+    "boleslaw"
+   ]
+  }
+ ],
+ "conflicts": [
+  {
+   "title": "Janina: Kogut eller Orzechowska",
+   "text": "Master: ”INTE Kogut”. MyHeritage-vyn: ”Janina Jaćkiewicz, född Kogut”.",
+   "persons": [
+    "janina"
+   ]
+  },
+  {
+   "title": "Irena eller Helena",
+   "text": "Irena Jarczyńska 1926–2017 och ”Helena Orzechowska (1926–2017)” i MyHeritage-vyn har samma årtal. Användarträdet skriver dessutom ”Irena Orzechowski, född Jarczyńska”.",
+   "persons": [
+    "irena"
+   ]
+  },
+  {
+   "title": "Takene 1930, två bildlänkar",
+   "text": "Bildregistret anger picture/2338619, forskningsloggen picture/2338620.",
+   "images": [
+    "img10"
+   ]
+  },
+  {
+   "title": "Karl/Hanna-bildens länk",
+   "text": "picture/3334494 avviker från mönstret 233xxxx.",
+   "images": [
+    "img02"
+   ]
+  },
+  {
+   "title": "Skolfoto 1934–35 eller 1935–36",
+   "text": "Registerrubriken säger 1934–35, bildposten 34-02-1935-36-…-01.",
+   "images": [
+    "img04"
+   ]
+  },
+  {
+   "title": "Sunes skolfoto 1958",
+   "text": "Exakt bild-URL saknas.",
+   "images": [
+    "img08"
+   ]
+  },
+  {
+   "title": "Valborgs registerhänvisning",
+   "text": "Anges både som ”A” och ”A och LS” i Mangskogs O-register.",
+   "persons": [
+    "valborg"
+   ]
+  },
+  {
+   "title": "Anna Olsson 1916 i Mangskog",
+   "text": "Först avgränsad som fel kandidat, senare uttryckligen återöppnad. Gällande status: kandidat.",
+   "persons": [
+    "anna_jakobsson",
+    "jonny"
+   ]
+  },
+  {
+   "title": "Anna Olsson g. Jakobssons personpost",
+   "text": "Två URL-varianter: plats/438120 och plats/230918.",
+   "persons": [
+    "anna_jakobsson"
+   ]
+  },
+  {
+   "title": "Karl Anderssons och Johan Olssons årtal",
+   "text": "1890–1953 respektive 1880–1945 finns bara i användarträdet.",
+   "persons": [
+    "karl",
+    "johan"
+   ]
+  },
+  {
+   "title": "Rolfs födelseår",
+   "text": "1943 finns bara som registerindex i Mangskogs E-register.",
+   "persons": [
+    "rolf"
+   ]
+  },
+  {
+   "title": "Mangskogs E-register",
+   "text": "Kristina (1951), Lena (1953), Magnus (1960) och Sören (1948) Elofsson står i registret. Endast Rolf och Sune är familjebekräftade barn till Elof och Ellen.",
+   "persons": [
+    "rolf",
+    "sune"
+   ]
+  }
+ ],
+ "excluded": [
+  "Mangskog och Brunskog som Elofs födelseförsamling 1914-12-14.",
+  "Mangskogs registerkod A som bevis för födelseort eller släktskap.",
+  "Karl Andersson och Hanna som Elofs föräldrar.",
+  "Rut på Takene-fotot 1921 som Rut Eriksson (hon är Rut Widner, Skogstorpet).",
+  "Erik Johan Eriksson som emigrerade 1895 – fel person.",
+  "Slumpmässiga Erik/Eric/John Erickson i USA utan exakt svensk identitetskedja.",
+  "Användarträdskandidater för Olof August/Maria med fel datum eller ort.",
+  "Där Nole i Skärmnäs (≠ Där Nole i Skog, Brunskog).",
+  "Tobyn/Mangskog som samma plats som Där Nole i Skog.",
+  "Där Sör i Bogerud, Östra Ämtervik (≠ Östra Takene 1:36 Där Sör).",
+  "Karin Birgitta Arvidsson i Stenungsund (namnlik).",
+  "Irena Jarczyńska, Poznań, ca född 1912/1913 – fel ålder.",
+  "Irena Jarczyńska, Staroźreby 1926 – förekommer i skolmiljö 1926.",
+  "Bolesław Orzechowski/Kogut som dog 1944.",
+  "Zdzisław Orzechowski 1939–1964, Łasin.",
+  "Janina Kogut (enligt masterns korrigering).",
+  "Helena Orzechowska 1925–2006 (kyrkogårdssammanställning).",
+  "Hieronim Kogut, Monitor Polski 1947 (endast namnlik).",
+  "Slutsatsen att Orzechowski-namnet i sig bevisar annan biologisk far."
+ ],
+ "rules": [
+  "En verifierad person innebär inte automatiskt en verifierad relation.",
+  "Samma namn, ungefär rätt ålder och region räcker aldrig för grönt.",
+  "Användarträd och sekundärträd är endast leads.",
+  "Familjebekräftade uppgifter får inte nedgraderas för att extern dokumentation saknas.",
+  "Gårdar med liknande namn får inte blandas utan bevis.",
+  "Retroaktiva bildtexter kan använda senare efternamn.",
+  "Interna registerkoder måste tolkas innan de används genealogiskt."
+ ]
+}

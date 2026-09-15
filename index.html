@@ -4,8 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Släktträd och forskningsunderlag – Martin Elofsson</title>
-<meta name="description" content="Interaktivt släktträd med källkritisk statusmärkning, sammanställt för Jan Källne.">
+<title>Släktträd – Martin Elofsson</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,700;1,400&family=Alegreya+Sans:wght@400;500;700&display=swap" rel="stylesheet">
@@ -13,19 +12,18 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌲</text></svg>">
 </head>
 <body>
-<a class="skip" href="#main">Hoppa till innehållet</a>
+<a class="skip" href="#main">Hoppa till innehåll</a>
 <header class="top">
   <div class="brand">
-    <h1>Släktträd och forskningsunderlag</h1>
-    <p>Martin Elofsson, sammanställt för Jan Källne. Underlag: Master, Forskningslogg och Bildregister, version 2026-08-25.</p>
+    <h1>Släktträd och forskningsunderlag – Martin Elofsson</h1>
+    <p>Sammanställt för Jan Källne · Underlag: Master, Forskningslogg och Bildregister, version 2026-08-25</p>
   </div>
   <div class="search" role="search">
-    <label for="q" class="vh">Sök personer och noteringar</label>
-    <input id="q" type="search" autocomplete="off" placeholder="Sök namn, gård, årtal eller källa" aria-controls="suggest" aria-expanded="false">
+    <label for="q" class="vh">Sök namn, gård, år eller källa</label>
+    <input id="q" type="search" autocomplete="off" placeholder="🔍 Sök namn, gård, år eller källa" aria-controls="suggest" aria-expanded="false">
     <div id="suggest" class="suggest" role="listbox" hidden></div>
   </div>
 </header>
-
 <nav class="tabs" aria-label="Vyer">
   <a href="#pappa" data-tab="pappa">Pappas sida</a>
   <a href="#mamma" data-tab="mamma">Mammas sida</a>
@@ -33,72 +31,80 @@
   <a href="#bevis" data-tab="bevis">Bevisläge</a>
   <a href="#noteringar" data-tab="noteringar">Noteringar</a>
   <a href="#bilder" data-tab="bilder">Bilder</a>
-  <a href="#om" data-tab="om">Om sidan</a>
+  <a href="#om" data-tab="om">Om</a>
 </nav>
-
-<main id="main">
-  <section id="view-tree" class="view" hidden>
-    <div class="treebar">
-      <p id="tree-intro" class="intro"></p>
-      <div class="controls">
-        <label class="toggle"><input type="checkbox" id="show-leads"> Visa leads (användar- och sekundärträd)</label>
-        <div class="btns" role="group" aria-label="Zoom">
-          <button type="button" id="zoom-out" aria-label="Zooma ut">−</button>
-          <button type="button" id="zoom-in" aria-label="Zooma in">+</button>
-          <button type="button" id="zoom-fit">Visa hela</button>
-          <button type="button" id="zoom-focus">Centrera</button>
+<div class="views" id="main">
+  <!-- TREE VIEW -->
+  <div id="view-tree" class="view active">
+    <div class="tree-wrap">
+      <div class="tree-left">
+        <div class="treebar">
+          <p id="tree-intro" class="intro"></p>
+          <div class="controls">
+            <label class="toggle"><input type="checkbox" id="show-leads" checked> Visa alla (inkl. leads ur användarträd)</label>
+            <div class="btns" role="group" aria-label="Zoom">
+              <button type="button" id="zoom-out">−</button>
+              <button type="button" id="zoom-in">+</button>
+              <button type="button" id="zoom-fit">Visa hela</button>
+              <button type="button" id="zoom-focus">Centrera</button>
+            </div>
+          </div>
+          <div id="legend" class="legend" aria-label="Teckenförklaring"></div>
+        </div>
+        <div id="viewport" class="viewport" tabindex="0">
+          <div id="stage" class="stage"></div>
         </div>
       </div>
-      <div id="legend" class="legend" aria-label="Teckenförklaring"></div>
+      <!-- Right: person panel -->
+      <aside id="person-panel" class="person-panel empty" aria-label="Personkort">
+        <div class="panel-body">
+          <p style="font-size:40px;line-height:1">👤</p>
+          <p>Klicka på ett kort i trädet för att öppna personkortet.</p>
+        </div>
+      </aside>
     </div>
-    <div id="viewport" class="viewport" tabindex="0" aria-label="Släktträd. Dra för att flytta, använd knapparna för att zooma.">
-      <div id="stage" class="stage"></div>
-    </div>
-  </section>
+  </div>
 
-  <section id="view-bevis" class="view page" hidden></section>
-  <section id="view-noteringar" class="view page" hidden>
-    <div class="page-head">
+  <!-- NOTES VIEW -->
+  <div id="view-noteringar" class="view">
+    <div class="page-view">
       <h2>Noteringar</h2>
-      <p>Hela Master, Forskningslogg och Bildregister, oförkortat. Statusmärkena står där de stod i originalet.</p>
-    </div>
-    <div class="notes-tools">
-      <label for="nq" class="vh">Sök i noteringar</label>
-      <input id="nq" type="search" placeholder="Sök i noteringar">
-      <div class="chips" role="group" aria-label="Dokument">
-        <label><input type="checkbox" name="doc" value="master" checked> Master</label>
-        <label><input type="checkbox" name="doc" value="logg" checked> Forskningslogg</label>
-        <label><input type="checkbox" name="doc" value="bild" checked> Bildregister</label>
+      <p>Hela Master, Forskningslogg och Bildregister, oförkortat. 280 avsnitt, 1 624 rader. Statusmärkena stand i originalet.</p>
+      <div class="notes-tools">
+        <label for="nq" class="vh">Sök i noteringar</label>
+        <input id="nq" type="search" placeholder="Sök i noteringar">
+        <div class="chips" role="group" aria-label="Dokument">
+          <label><input type="checkbox" name="doc" value="master" checked> Master</label>
+          <label><input type="checkbox" name="doc" value="logg" checked> Forskningslogg</label>
+          <label><input type="checkbox" name="doc" value="bild" checked> Bildregister</label>
+        </div>
+        <label>Status
+          <select id="nstatus">
+            <option value="">Alla rader</option>
+            <option value="any">Rader med statusmärke</option>
+            <option value="verified">Verifierad</option>
+            <option value="strong">Mycket stark kandidat</option>
+            <option value="candidate">Kandidat</option>
+            <option value="excluded">Utesluten</option>
+          </select>
+        </label>
+        <label class="toggle"><input type="checkbox" id="nonly" checked> Bara träffande rader</label>
+        <div class="btns">
+          <button type="button" id="nopen">Fäll ut alla</button>
+          <button type="button" id="nclose">Fäll ihop alla</button>
+        </div>
+        <p id="ncount" class="count" aria-live="polite"></p>
       </div>
-      <label>Status
-        <select id="nstatus">
-          <option value="">Alla rader</option>
-          <option value="any">Rader med statusmärke</option>
-          <option value="verified">Verifierad</option>
-          <option value="strong">Mycket stark kandidat</option>
-          <option value="candidate">Kandidat</option>
-          <option value="excluded">Utesluten</option>
-        </select>
-      </label>
-      <label class="toggle"><input type="checkbox" id="nonly" checked> Visa bara träffande rader</label>
-      <div class="btns">
-        <button type="button" id="nopen">Fäll ut alla</button>
-        <button type="button" id="nclose">Fäll ihop alla</button>
-      </div>
-      <p id="ncount" class="count" aria-live="polite"></p>
+      <div id="notes"></div>
     </div>
-    <div id="notes"></div>
-  </section>
-  <section id="view-bilder" class="view page" hidden></section>
-  <section id="view-om" class="view page" hidden></section>
+  </div>
+
+  <div id="view-bevis" class="view"><div class="page-view" id="bevis-body"></div></div>
+  <div id="view-bilder" class="view"><div class="page-view" id="bilder-body"></div></div>
+  <div id="view-om" class="view"><div class="page-view" id="om-body"></div></div>
+
   <p id="loaderr" class="loaderr" hidden></p>
-</main>
-
-<aside id="drawer" class="drawer" aria-labelledby="d-name" hidden>
-  <button type="button" class="close" id="drawer-close" aria-label="Stäng personkort">×</button>
-  <div id="drawer-body"></div>
-</aside>
-
+</div>
 <script src="assets/app.js" defer></script>
 </body>
 </html>

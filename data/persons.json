@@ -1,0 +1,2333 @@
+[
+ {
+  "id": "martin",
+  "name": "Martin Elofsson",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "summary": "Utgångsperson. Son till Sune Elofsson och Iwona Elofsson, född Kogut.",
+  "search": [
+   "användarens pappa",
+   "Martin"
+  ]
+ },
+ {
+  "id": "sune",
+  "name": "Sune Elofsson",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Max Elofsson",
+   "Max Sune Elofsson"
+  ],
+  "born": {
+   "date": "1949-05-02"
+  },
+  "places": [
+   "Östra Takene Södra Lyckan 1, Brunskog",
+   "Östra Takene 1:40 + 1:41 (Lyckan)"
+  ],
+  "summary": "Martins pappa. Son till Elof och Ellen. Identiteten Max = Max Sune = Sune är familjebekräftad till 100 %.",
+  "notes": [
+   "Brunsbergs skola 1958: Sune Elofsson namngiven i främre raden (lokalhistoriskt barndomsankare).",
+   "Mangskogs E-register: ”Elofsson, Sune 1949- → A”. A är en avsnittskod, inte en släkt- eller födelseortskod.",
+   "Lagfart: Östra Takene 1:40 och 1:41 såldes 2019-11-29 av Max Elofsson (ca 102 ha).",
+   "Kandidat: rallykartläsare Sune Elofsson (Kils MK 1977, MK Team Westom) – identitet sannolik men inte bevisad i underlaget."
+  ],
+  "sources": [
+   {
+    "label": "Brunsbergs skolfoto 1958 – exakt bildlänk saknas i underlaget",
+    "url": "https://www.hembygd.se/brunskog/"
+   },
+   {
+    "label": "Mangskogs personregister E (PDF)",
+    "url": "https://www.mangskog.se/register/E.pdf"
+   },
+   {
+    "label": "ATL/Lantmäteridata: Östra Takene 1:40 + 1:41",
+    "url": "https://www.atl.nu/fastigheter/salda/nya-agare-till-gard-i-varmland-115"
+   },
+   {
+    "label": "Arvika kommun, kulturmiljöprogram 1994 (Östra Takene)",
+    "url": "https://ems.dimu.org/file/019EGJDQeg8Nn?filename=VA_00001%3A1784-Kulturmilj%C3%B6program+f%C3%B6r+Arvika+kommun+Del+IV+Mangskog+Brunsk"
+   }
+  ],
+  "images": [
+   "img08"
+  ],
+  "search": [
+   "Sune",
+   "Max Elofsson"
+  ]
+ },
+ {
+  "id": "rolf",
+  "name": "Rolf Elofsson",
+  "status": "family",
+  "sex": "m",
+  "living": null,
+  "born": {
+   "date": "1943",
+   "note": "Endast årtal i Mangskogs registerindex (”Rolf Elofsson 1943-”); inte verifierat mot födelsebok."
+  },
+  "places": [
+   "Lycka, Takene"
+  ],
+  "summary": "Son till Elof och Ellen enligt masterns säkra kärna. Namngiven på Takene skolfoto VT 1956 som ”Rolf Elofsson, Lycka Takene”.",
+  "sources": [
+   {
+    "label": "Takene skola VT 1956",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338621"
+   },
+   {
+    "label": "Mangskogs personregister E (PDF)",
+    "url": "https://www.mangskog.se/register/E.pdf"
+   }
+  ],
+  "images": [
+   "img11"
+  ],
+  "search": [
+   "Rolf"
+  ]
+ },
+ {
+  "id": "elof",
+  "name": "Elof Olsson",
+  "status": "verified",
+  "sex": "m",
+  "altNames": [
+   "Elov Olsson (skolfoto 1926, mycket stark kandidat)"
+  ],
+  "born": {
+   "date": "1914-12-14",
+   "place": "Födelseförsamling olöst (inte Mangskog eller Brunskog)"
+  },
+  "died": {
+   "date": "1995-12-27"
+  },
+  "places": [
+   "Lyckan/Lycka, Takene, Brunskog",
+   "Hagen, Skog (gruppfoto Där Sö i Tortan)"
+  ],
+  "summary": "Martins farfar. Personen är verifierad. Föräldrarna är inte bevisade och födelseförsamlingen är olöst.",
+  "flags": [
+   "Föräldrar ej bevisade",
+   "Födelseförsamling olöst"
+  ],
+  "notes": [
+   "Originalkontroll: Mangskog C I/9 (1914, 22 födda, sista 20 dec) och Brunskog C I/8 (bild 189–190) saknar Elof och saknar födelse 14 december 1914. Mangskog och Brunskog är därmed uteslutna som födelseförsamling.",
+   "Mangskogs O-register ”Olsson, Elof 1914-1995 → A” är en registerhänvisning, inte bevis för födelse i Mangskog.",
+   "Johan Olsson + Hulda Eriksson är starka kandidater som föräldrar (användarträd + samstämmiga lokala belägg), men ingen födelsenotis eller hushållssida namnger dem.",
+   "Takene skolfoto 1926: ”Elov Olsson, Lycka Takene”, rätt ålder – mycket stark kandidat för Elof som barn.",
+   "Sjukvårdsutbildning för män: ”Elof Olsson, Lycka Takene”. Älgjaktlag ca 1960: Elof Olsson Lycka Takene tillsammans med Bertil Nolemark (FAN, inte relationsbevis).",
+   "Nästa steg enligt master: SCB-utdrag och originalböcker för angränsande församlingar 1914 med datumet 14 december som söknyckel.",
+   "Möjliga syskon (hypotes): Arvid Olsson (Lycka 1921), Anna Olsson (Lycka 1926), Valborg Olsson (Lycka 1930)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Mangskog C I/9 bild 95",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053728_00095"
+   },
+   {
+    "label": "Riksarkivet, Mangskog C I/9 bild 96",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053728_00096"
+   },
+   {
+    "label": "Riksarkivet, Mangskog C I/9 bild 97",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053728_00097"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/8 bild 189",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053637_00189"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/8 bild 190",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053637_00190"
+   },
+   {
+    "label": "Riksarkivet, SCB-utdrag Mangskog 1914, bild 396",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0031112_00396"
+   },
+   {
+    "label": "Riksarkivet, SCB-utdrag Mangskog 1914, bild 397",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0031112_00397"
+   },
+   {
+    "label": "Mangskogs personregister O (PDF)",
+    "url": "https://www.mangskog.se/register/O.pdf"
+   },
+   {
+    "label": "Takene skola 10 maj 1926",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338617"
+   },
+   {
+    "label": "Sjukvårdsutbildning för män, Takene",
+    "url": "https://www.hembygd.se/brunskog/plats/226399/picture/2338886"
+   },
+   {
+    "label": "Älgjaktlag ca 1960",
+    "url": "https://www.hembygd.se/brunskog/plats/226399/picture/2338879"
+   },
+   {
+    "label": "Där Sö i Tortan, gruppfoto",
+    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+   },
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "images": [
+   "img09",
+   "img12",
+   "img07",
+   "img16",
+   "img19",
+   "img14"
+  ],
+  "search": [
+   "Elof Olsson",
+   "Elov",
+   "Elofs föräldrar",
+   "Elofs födel",
+   "Elof ←",
+   "Elof <-",
+   "Elofs far",
+   "Elofs mor",
+   "Elofs födelsefamilj"
+  ]
+ },
+ {
+  "id": "ellen",
+  "name": "Ellen Maria Andersson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Ellen Olsson",
+   "Ellen på Lycka"
+  ],
+  "born": {
+   "date": "1915-11-20"
+  },
+  "died": {
+   "date": "2006-05-09"
+  },
+  "places": [
+   "Där Nole i Skog, Brunskog",
+   "Lycka"
+  ],
+  "summary": "Martins farmor. Dotter till Karl Andersson och Hanna (bildtext). Syster till Nils Bertil Nolemark.",
+  "notes": [
+   "Takene skola 1926 namnger ”Ellen Andersson Där Nole Skog” – samma skolmiljö som Elov/Elof.",
+   "Där Nole-fotot ca 1932 namnger ”Ellen på Lycka”."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening: bildtext ”Karl Andersson och Hanna med barnen Bertil och Ellen”",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/3334494"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   },
+   {
+    "label": "Takene skola 10 maj 1926",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338617"
+   }
+  ],
+  "images": [
+   "img02",
+   "img01",
+   "img09"
+  ],
+  "search": [
+   "Ellen"
+  ]
+ },
+ {
+  "id": "karl",
+  "name": "Karl Andersson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1890",
+   "note": "Årtalen 1890–1953 kommer endast från användarträdet."
+  },
+  "died": {
+   "date": "1953",
+   "note": "Endast användarträd."
+  },
+  "places": [
+   "Där Nole i Skog, Brunskog"
+  ],
+  "summary": "Far till Ellen och Nils Bertil enligt uttrycklig bildtext. Ska inte blandas in som Elofs far.",
+  "notes": [
+   "Troligen ur Där Nole-familjen som antog namnet Nolemark ca 1941–46 (arbetsmodell; namnbytesakten saknas).",
+   "Full barnaskara är olöst: Anna-Britta och Göran/Jöran är starka kandidater men saknar uttrycklig barntext."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening: bildtext ”Karl Andersson och Hanna med barnen Bertil och Ellen”",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/3334494"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   },
+   {
+    "label": "Svensk namnbok 1940 (SOU 1940:10), Nolemark listat",
+    "url": "https://www.tacticab.se/wp-content/uploads/2024/01/Svensk-Namnbok-1940-10.pdf"
+   },
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "images": [
+   "img02",
+   "img01"
+  ],
+  "search": [
+   "Karl Andersson",
+   "Karl/Hanna",
+   "Karl + Hanna"
+  ]
+ },
+ {
+  "id": "hanna",
+  "name": "Hanna Andersson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Hanna"
+  ],
+  "places": [
+   "Där Nole i Skog, Brunskog"
+  ],
+  "summary": "Mor till Ellen och Nils Bertil enligt uttrycklig bildtext. Efternamn och livsdata saknas i underlaget.",
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening: bildtext ”Karl Andersson och Hanna med barnen Bertil och Ellen”",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/3334494"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   }
+  ],
+  "images": [
+   "img02",
+   "img01"
+  ],
+  "search": [
+   "Hanna"
+  ]
+ },
+ {
+  "id": "nilsbertil",
+  "name": "Nils Bertil Nolemark",
+  "status": "verified",
+  "sex": "m",
+  "altNames": [
+   "Bertil Nolemark",
+   "Bertil Andersson"
+  ],
+  "born": {
+   "date": "1910-10-05"
+  },
+  "died": {
+   "date": "1972-02-14"
+  },
+  "places": [
+   "Där Nole i Skog, Brunskog"
+  ],
+  "summary": "Ellens bror (verifierat via föräldrarna). Möjlig far till Bertil Inge Nolemark (kandidat).",
+  "notes": [
+   "Om Nils Bertil → Bertil Inge bevisas blir Sune och Inge kusiner.",
+   "Nils Bertil som make till Anna Arvidsson är inte längre huvudspår; maken är okänd.",
+   "Nästa källa: Nils Bertils bouppteckning 1972."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/438106/person/253266"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: bildtext ”Karl Andersson och Hanna med barnen Bertil och Ellen”",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/3334494"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   },
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   },
+   {
+    "label": "Älgjaktlag ca 1960",
+    "url": "https://www.hembygd.se/brunskog/plats/226399/picture/2338879"
+   }
+  ],
+  "images": [
+   "img02",
+   "img01",
+   "img03",
+   "img07"
+  ],
+  "search": [
+   "Nils Bertil",
+   "Bertil Nolemark"
+  ]
+ },
+ {
+  "id": "inge",
+  "name": "Bertil Inge Nolemark",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1954-05-29"
+  },
+  "died": {
+   "date": "2009-06-01"
+  },
+  "summary": "Personen är verifierad. Föräldrarna är okända.",
+  "flags": [
+   "Föräldrar okända"
+  ],
+  "notes": [
+   "Kandidat: son till Nils Bertil Nolemark. Inget dokument med orden far/son/föräldrar hittat.",
+   "Anna Arvidsson som mor är en försvagad hypotes (hennes dödsannons listar inga egna barn eller make).",
+   "Nästa källor: födelse-/församlingsuppgift 1954, bouppteckning eller dödsannons 2009."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/232068"
+   }
+  ],
+  "search": [
+   "Inge"
+  ]
+ },
+ {
+  "id": "goran_nolemark",
+  "name": "Göran/Jöran Nolemark",
+  "status": "strong",
+  "sex": "m",
+  "altNames": [
+   "Göran Andersson",
+   "Jöran Nolemark"
+  ],
+  "born": {
+   "date": "ca 1921"
+  },
+  "died": {
+   "date": "ca 1980"
+  },
+  "places": [
+   "Där Nole i Skog",
+   "Filipstad (kamrer)"
+  ],
+  "summary": "Göran Andersson = Jöran/Göran Nolemark är en mycket stark identitetskandidat. Barn till Karl och Hanna är en stark kandidat utan uttrycklig barntext.",
+  "notes": [
+   "Takene skola 1934–35: ”Göran Andersson” nr 20, Där Nole i Skog.",
+   "Jöran Nolemark: kamrer och författare till avsnittet om Wermlands enskilda bank i En bok om Filipstad (1961).",
+   "Alternativ kandidat som make till Anna Arvidsson (endast ålder och familjekrets)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   },
+   {
+    "label": "Takene skola 1934–35 (bildpost 34-02-1935-36-…-01)",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338609"
+   },
+   {
+    "label": "Wiki-Rötter: En bok om Filipstad (Jöran Nolemark)",
+    "url": "https://wiki.rotter.se/index.php?title=En_bok_om_Filipstad"
+   }
+  ],
+  "images": [
+   "img01",
+   "img04"
+  ],
+  "search": [
+   "Göran Nolemark",
+   "Jöran",
+   "Göran Andersson",
+   "Göran/Jöran"
+  ]
+ },
+ {
+  "id": "annabritta",
+  "name": "Anna-Britta Nolemark",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Anna-Britta Andersson",
+   "Märta Anna-Britta Erikson",
+   "Märta Anna-Brita Nolemark"
+  ],
+  "born": {
+   "date": "1924-06-19"
+  },
+  "died": {
+   "date": "1979-12-11"
+  },
+  "places": [
+   "Där Nole i Skog",
+   "Silbodal (grav 1 07 69)"
+  ],
+  "summary": "Identiteten Anna-Britta Nolemark = Märta Anna-Britta Erikson är verifierad via exakta datum i gravregister. Barn till Karl och Hanna är en stark kandidat.",
+  "notes": [
+   "Takene skola 1934–35 och 1935–36 samt missionshuset 1937 namnger Anna-Britta Andersson, Där Nole.",
+   "Gemensam grav med Erik Georg Eriksson; Geneanet anger vigsel 1948 (vigselakten saknas)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/438120/person/253271"
+   },
+   {
+    "label": "Gravar.se, Märta Anna-Britta Erikson, Silbodal",
+    "url": "https://gravar.se/forsamling/nordmarkens-pastorat/1-silbodal/07/marta-anna-britta-erikson-e1768"
+   },
+   {
+    "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
+   },
+   {
+    "label": "Takene skola 1934–35 (bildpost 34-02-1935-36-…-01)",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338609"
+   },
+   {
+    "label": "Takene skola 1935–36",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338604"
+   },
+   {
+    "label": "Takene missionshus 1937",
+    "url": "https://www.hembygd.se/brunskog/plats/226344/picture/2338743"
+   },
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "images": [
+   "img01",
+   "img04",
+   "img05",
+   "img20"
+  ],
+  "search": [
+   "Anna-Britta",
+   "Anna-Brita"
+  ]
+ },
+ {
+  "id": "erikgeorg",
+  "name": "Erik Georg Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1921-05-20"
+  },
+  "died": {
+   "date": "2022-08-29"
+  },
+  "places": [
+   "Arvika",
+   "Silbodal (grav 1 07 69, gravsatt 2022-11-14)"
+  ],
+  "summary": "Livsdata verifierade i gravregister. Äktenskapet med Anna-Britta är en mycket stark kandidat (gemensam grav, Geneanet vigsel 1948).",
+  "notes": [
+   "Syskon enligt Geneanet (leads): Johan Gustaf Arne (1916–1997), Margit Lovisa (1919–1993), Ellen Ingeborg (1923–2012, g. Olav Johan Rödland)."
+  ],
+  "sources": [
+   {
+    "label": "Gravar.se, Erik Georg Eriksson, Silbodal",
+    "url": "https://gravar.se/forsamling/nordmarkens-pastorat/1-silbodal/07/erik-georg-eriksson-d3e1c"
+   },
+   {
+    "label": "The 110 Club, svenska hundraåringar",
+    "url": "https://the110club.com/swedish-centenarians-t7104-s700.html"
+   },
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Erik Georg"
+  ]
+ },
+ {
+  "id": "goranlennart",
+  "name": "Göran Lennart Eriksson",
+  "status": "strong",
+  "sex": "m",
+  "living": true,
+  "summary": "Son till Erik Georg och Anna-Britta enligt Geneanet. Om kedjan verifieras är han Dans far och förklarar familjeminnet att Dans pappa var släkt med Martins pappa.",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Göran Lennart"
+  ]
+ },
+ {
+  "id": "inger",
+  "name": "Inger Agneta Eriksson",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "summary": "Dotter till Erik Georg och Anna-Britta enligt Geneanet. Partner Jan Erik Gösta Björk; barn markerade men inte namngivna.",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Inger Agneta"
+  ]
+ },
+ {
+  "id": "lena",
+  "name": "Lena Karolina Halwarsson",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "summary": "Mor till Dan enligt Geneanet.",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Halwarsson"
+  ]
+ },
+ {
+  "id": "dan",
+  "name": "Dan Johan Lennart Eriksson",
+  "status": "strong",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1980-10-22"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Stark identitetskandidat till familjens ”Dan Eriksson, f. 1980, skolgång i Klässbol”. Klässbol-skolgången är inte verifierad.",
+  "notes": [
+   "Familjeminne: Dans pappa var släkt med Martins pappa.",
+   "Registerlänkar (Hitta, Merinfo, Ratsit) finns i forskningsloggen."
+  ],
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Dan Eriksson",
+   "Dan Johan",
+   "Klässbol"
+  ]
+ },
+ {
+  "id": "pergoran",
+  "name": "Per Göran Eriksson",
+  "status": "lead",
+  "sex": "m",
+  "living": true,
+  "summary": "Syskon till Dan enligt Geneanet (lead).",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Per Göran"
+  ]
+ },
+ {
+  "id": "pernilla_e",
+  "name": "Pernilla Marie Eriksson",
+  "status": "lead",
+  "sex": "f",
+  "living": true,
+  "summary": "Syskon till Dan enligt Geneanet (lead).",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Pernilla Marie"
+  ]
+ },
+ {
+  "id": "johanhilmer",
+  "name": "Johan Hilmer Eriksson",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1883"
+  },
+  "died": {
+   "date": "1963"
+  },
+  "summary": "Erik Georgs far enligt Geneanet (gift 1916 med Anna Viktoria Göransdotter).",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Johan Hilmer"
+  ]
+ },
+ {
+  "id": "annaviktoria",
+  "name": "Anna Viktoria Göransdotter",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1884"
+  },
+  "died": {
+   "date": "1944"
+  },
+  "summary": "Erik Georgs mor enligt Geneanet.",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Anna Viktoria"
+  ]
+ },
+ {
+  "id": "martineriksson",
+  "name": "Martin Eriksson",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1849"
+  },
+  "died": {
+   "date": "1929"
+  },
+  "summary": "Johan Hilmers far enligt Geneanet (gift 1880 med Lovisa Pettersdotter).",
+  "notes": [
+   "Barn enligt Geneanet: Frenelia Elin (1881-), Johan Hilmer, Karl Eber (1886–1962), Albert Evald (1892–1958), Maria (1889–1974), Petrus (1893–1953), David (1895–1921), Anna Cecilia (1895–1985), Alda Emilia (1898–1982), Astrid Lovisa Paulina (1901–1989).",
+   "Far: Erik Nilsson (1818-12-16 – 1864-09-20, Svarttjärn, Laxarby), mor Anna Lisa Olofsdotter (1819–1886), vigda 1844-02-27 i Ärtemark.",
+   "Äldre: Nils Nilsson (1789–1823) + Catharina Ersdotter (1792–1862); Nils Bryngelsson (1740–1820) + Britta Andersdotter (1750–1817); Erik Olofsson (1755–1817) + Maria Bryngelsdotter (1755–1815). Allt sekundärleads."
+  ],
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Martin Eriksson",
+   "Karl Eber",
+   "Petrus Eriksson",
+   "Albert Evald"
+  ]
+ },
+ {
+  "id": "lovisa",
+  "name": "Lovisa Pettersdotter",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1860"
+  },
+  "died": {
+   "date": "1943"
+  },
+  "summary": "Johan Hilmers mor enligt Geneanet.",
+  "sources": [
+   {
+    "label": "Geneanet, Sven-Göran Sjöbergs träd (sekundärkälla)",
+    "url": "https://gw.geneanet.org/svengos?lang=sv&m=N&v=eriksson"
+   }
+  ],
+  "search": [
+   "Lovisa Pettersdotter"
+  ]
+ },
+ {
+  "id": "anna_arvidsson",
+  "name": "Anna Arvidsson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Anna Nolemark",
+   "Anna Arvidsson g. Nolemark"
+  ],
+  "born": {
+   "date": "1922-12-24"
+  },
+  "died": {
+   "date": "2014-02-24"
+  },
+  "places": [
+   "Nedre Lycka, Finnebäck",
+   "Nole i Skog"
+  ],
+  "summary": "Dotter till Arvid Persson och Sally Svelander/Persson (bildtext). Gift Nolemark, men maken är okänd.",
+  "flags": [
+   "Make okänd"
+  ],
+  "notes": [
+   "Makekandidater: Nils Bertil Nolemark och Göran/Jöran Nolemark – ingen verifierad.",
+   "Dödsannons: ”Min kära Syster och Min Moster”, efterlevande Ester och Ola med familj. Inga egna barn eller make listas.",
+   "Anna som mor till Bertil Inge är en försvagad hypotes.",
+   "Håll isär: Anna-Britta Andersson/Nolemark (1924), Anna Arvidsson/Nolemark (1922) och Anna Andersson ”gift Johansson”."
+  ],
+  "sources": [
+   {
+    "label": "Fest hos Nils Olsson på Nytomta i Finnebäck (PDF)",
+    "url": "https://shfstor.blob.core.windows.net/brunskog/files/uploaded/165/450602_07_11_01_finneback_nytomta_02.pdf"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, Nedre Lycka 07-190-01-02"
+   }
+  ],
+  "images": [
+   "img06"
+  ],
+  "search": [
+   "Anna Arvidsson",
+   "Anna Nolemark"
+  ]
+ },
+ {
+  "id": "ester",
+  "name": "Ester Arvidsson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Ester Tholén"
+  ],
+  "summary": "Annas syster, gift Tholén. Dotter till Arvid Persson och Sally.",
+  "sources": [
+   {
+    "label": "Fest hos Nils Olsson på Nytomta i Finnebäck (PDF)",
+    "url": "https://shfstor.blob.core.windows.net/brunskog/files/uploaded/165/450602_07_11_01_finneback_nytomta_02.pdf"
+   }
+  ],
+  "images": [
+   "img06"
+  ],
+  "search": [
+   "Ester"
+  ]
+ },
+ {
+  "id": "arvidpersson",
+  "name": "Arvid Persson",
+  "status": "verified",
+  "sex": "m",
+  "places": [
+   "Nedre Lycka, Finnebäck"
+  ],
+  "summary": "Far till Anna och Ester (bildtext). Son till Johannes Persson.",
+  "search": [
+   "Arvid Persson"
+  ]
+ },
+ {
+  "id": "sally",
+  "name": "Sally Persson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Sally Svelander"
+  ],
+  "places": [
+   "Nedre Lycka, Finnebäck"
+  ],
+  "summary": "Mor till Anna och Ester (bildtext).",
+  "sources": [
+   {
+    "label": "Fest hos Nils Olsson på Nytomta i Finnebäck (PDF)",
+    "url": "https://shfstor.blob.core.windows.net/brunskog/files/uploaded/165/450602_07_11_01_finneback_nytomta_02.pdf"
+   }
+  ],
+  "images": [
+   "img06"
+  ],
+  "search": [
+   "Sally"
+  ]
+ },
+ {
+  "id": "johannespersson",
+  "name": "Johannes Persson",
+  "status": "verified",
+  "sex": "m",
+  "summary": "Far till Arvid Persson enligt master.",
+  "search": [
+   "Johannes Persson"
+  ]
+ },
+ {
+  "id": "johan",
+  "name": "Johan Olsson",
+  "status": "candidate",
+  "sex": "m",
+  "born": {
+   "date": "1880",
+   "note": "1880–1945 endast från användarträdet."
+  },
+  "died": {
+   "date": "1945",
+   "note": "Endast användarträd."
+  },
+  "places": [
+   "Där Nere i Skog, Brunskog"
+  ],
+  "summary": "Stark kandidat som Elofs far. Johan Olsson, Där Nere i Skog, är belagd på Takene-fotot 1921 och på gruppfotot vid Där Sö i Tortan.",
+  "flags": [
+   "Ej bevisad förälder"
+  ],
+  "notes": [
+   "Användarträdet anger Johan (1880–1945) + Hulda som Elofs föräldrar. Användarträd är endast leads.",
+   "Att bildernas Johan är samma person som trädets Johan är inte bevisat.",
+   "Föräldrakandidater: Olof August Johannesson (f. 1857-02-03) och Maria Olofsdotter (f. 1863-08-09).",
+   "Gustav Olsson, Där Nere Skog, förekommer på samma gruppfoto (FAN)."
+  ],
+  "sources": [
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   },
+   {
+    "label": "Där Sö i Tortan, gruppfoto",
+    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+   },
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "images": [
+   "img03",
+   "img16",
+   "img14"
+  ],
+  "search": [
+   "Johan Olsson",
+   "Där Nere",
+   "Johan/Hulda",
+   "Johan + Hulda",
+   "Johan ->"
+  ]
+ },
+ {
+  "id": "hulda",
+  "name": "Hulda Eriksson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Hulda Olsson, född Eriksson"
+  ],
+  "born": {
+   "date": "1885-03-16"
+  },
+  "died": {
+   "date": "1971-08-03"
+  },
+  "places": [
+   "Boställe/Bostället, Skog"
+  ],
+  "summary": "Personen är verifierad i lokalt personregister (årtalen stämmer exakt med användarträdet). Stark kandidat som Elofs mor.",
+  "flags": [
+   "Ej bevisad förälder"
+  ],
+  "notes": [
+   "Takene 1921: Hulda, Georg och Anna Eriksson, Boställe Skog. Takene 1926: Rut Eriksson, Bostället Skog.",
+   "Föräldrar: Erik Nilsson Zetterlund + Anna Andersdotter är en mycket stark kandidat (exakta år, samma platspost).",
+   "Nästa steg: Huldas födelsenotis 1885-03-16."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/389454"
+   },
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   },
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "images": [
+   "img03",
+   "img14"
+  ],
+  "search": [
+   "Hulda",
+   "Boställe",
+   "Bostället"
+  ]
+ },
+ {
+  "id": "olofaugust",
+  "name": "Olof August Johannesson",
+  "status": "candidate",
+  "sex": "m",
+  "born": {
+   "date": "1857-02-03"
+  },
+  "summary": "Kandidat som Johans far. Ingen källa binder Johan som son.",
+  "notes": [
+   "Tidigare användarträdskandidater för Olof August/Maria med fel datum/ort är uteslutna.",
+   "Användarträd: son till Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821)."
+  ],
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Olof August"
+  ]
+ },
+ {
+  "id": "maria",
+  "name": "Maria Olofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Maria Olofsdotter g. Johannesson",
+   "Maria Olsdotter (användarträd)"
+  ],
+  "born": {
+   "date": "1863-08-09"
+  },
+  "died": {
+   "date": "1955-02-03"
+  },
+  "summary": "Personen är verifierad i lokalt personregister. Kandidat som Johans mor. Namnvarianten Olofsdotter/Olsdotter måste följas.",
+  "notes": [
+   "Användarträd: dotter till Olof Elofsson (f. 1826) + Kajsa Jansson (f. 1826)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/438106/person/140910"
+   }
+  ],
+  "search": [
+   "Maria Olofsdotter",
+   "Maria Olsdotter"
+  ]
+ },
+ {
+  "id": "zetterlund",
+  "name": "Erik Nilsson Zetterlund",
+  "status": "verified",
+  "sex": "m",
+  "altNames": [
+   "Erik Nilsson"
+  ],
+  "born": {
+   "date": "1843-02-08"
+  },
+  "died": {
+   "date": "1936-02-24"
+  },
+  "summary": "Personen är verifierad. Mycket stark kandidat som Huldas far.",
+  "notes": [
+   "GID: 472.66.5100; 472.66.7000; 472.39.15800 (ej upplösta).",
+   "Användarträdet kortar namnet till Erik Nilsson (1843–1936). Efternamnet Zetterlund får inte automatiskt likställas utan kyrkobok.",
+   "Användarträd: son till Nils Eriksson (1820–1850) + Britta Nilsdotter (1820–1891)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/221740/person/389449"
+   }
+  ],
+  "search": [
+   "Zetterlund",
+   "Erik Nilsson"
+  ]
+ },
+ {
+  "id": "annaandersdotter",
+  "name": "Anna Andersdotter",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "Anna Nilsson, född Andersdotter"
+  ],
+  "born": {
+   "date": "1846-12-14"
+  },
+  "died": {
+   "date": "1932-10-12"
+  },
+  "summary": "Personen är verifierad på samma platspost som Erik Nilsson Zetterlund. Mycket stark kandidat som Huldas mor.",
+  "notes": [
+   "Användarträd: dotter till Anders Månsson (1818–1905) + Anna Olsdotter (1813–1885)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/221740/person/389450"
+   }
+  ],
+  "search": [
+   "Anna Andersdotter"
+  ]
+ },
+ {
+  "id": "johannesolsson",
+  "name": "Johannes Olsson",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1830"
+  },
+  "died": {
+   "date": "1870"
+  },
+  "summary": "Olof Augusts far enligt användarträdet.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Johannes Olsson"
+  ]
+ },
+ {
+  "id": "anna1821",
+  "name": "Anna Andersdotter (f. 1821)",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1821"
+  },
+  "summary": "Olof Augusts mor enligt användarträdet. Inte samma som Anna Andersdotter 1846–1932.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "född 1821"
+  ]
+ },
+ {
+  "id": "olofelofsson",
+  "name": "Olof Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1826-11-26"
+  },
+  "died": {
+   "date": "1910-02-03"
+  },
+  "summary": "Kyrkvärd. Personen är verifierad; relationen som Marias far är endast användarträd.",
+  "notes": [
+   "Användarträd: son till Elof Persson (f. 1776-11-29) + Maria Andersdotter.",
+   "Äldre användarträdskedja: Elof Persson ← Per Elofsson (1728–1800) + Karin Elofsdotter (1735–1823); Maria Andersdotter ← Anders Arnesson (1754–1828) + Kjersti Olsdotter (1760–1790)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140954"
+   },
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Olof Elofsson",
+   "Elof Persson",
+   "Per Elofsson"
+  ]
+ },
+ {
+  "id": "kajsa",
+  "name": "Kajsa Jansson",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1826"
+  },
+  "summary": "Marias mor enligt användarträdet.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Kajsa Jansson"
+  ]
+ },
+ {
+  "id": "nilseriksson",
+  "name": "Nils Eriksson",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1820"
+  },
+  "died": {
+   "date": "1850"
+  },
+  "summary": "Erik Nilssons far enligt användarträdet.",
+  "notes": [
+   "Äldre: Erik Christophersson (1779–1818) + Britta Olsdotter (1790–1877); Britta ← Olof Olsson (1757–1835) + Ingerd Nilsdotter (1761–1850)."
+  ],
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Nils Eriksson",
+   "Christophersson"
+  ]
+ },
+ {
+  "id": "brittanils",
+  "name": "Britta Nilsdotter",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1820"
+  },
+  "died": {
+   "date": "1891"
+  },
+  "summary": "Erik Nilssons mor enligt användarträdet.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Britta Nilsdotter"
+  ]
+ },
+ {
+  "id": "andersmansson",
+  "name": "Anders Månsson",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1818"
+  },
+  "died": {
+   "date": "1905"
+  },
+  "summary": "Anna Andersdotters far enligt användarträdet.",
+  "notes": [
+   "Äldre: Måns Danielsson (1797–1849) + Marit Olsdotter (1798–1859); Måns ← Daniel Nilsson (1757–1849) + Anna Jonsdotter (1768–1833); Marit ← Olof Nilsson (1754–1831) + Britta Nilsdotter (1757–1850)."
+  ],
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Anders Månsson",
+   "Måns Danielsson"
+  ]
+ },
+ {
+  "id": "annaolsdotter",
+  "name": "Anna Olsdotter",
+  "status": "lead",
+  "sex": "f",
+  "born": {
+   "date": "1813"
+  },
+  "died": {
+   "date": "1885"
+  },
+  "summary": "Anna Andersdotters mor enligt användarträdet.",
+  "notes": [
+   "Äldre: Olof Andersson (1782–1828) + Karin Jansdotter (1785–1831); Olof ← Anders Olsson (1751–1808) + Ingeborg Eriksdotter (1753–1819); Karin ← Jon Ersson (1741–1808) + Anna Andersdotter (1756–1808)."
+  ],
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Anna Olsdotter"
+  ]
+ },
+ {
+  "id": "arvid_lycka",
+  "name": "Arvid Olsson (Lycka 1921)",
+  "status": "candidate",
+  "sex": "m",
+  "places": [
+   "Lycka, Takene"
+  ],
+  "summary": "Namngiven på Takene skolfoto 1921. Möjligt syskon till Elof (hypotes). Hålls isär från Arvid Olsson, Där Framme (1930).",
+  "sources": [
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   }
+  ],
+  "images": [
+   "img03"
+  ],
+  "search": [
+   "Arvid Olsson"
+  ]
+ },
+ {
+  "id": "anna_lycka",
+  "name": "Anna Olsson (Lycka 1926)",
+  "status": "candidate",
+  "sex": "f",
+  "places": [
+   "Lycka, Takene"
+  ],
+  "summary": "Namngiven på Takene skolfoto 1926. Möjligt syskon till Elof. Inte visad vara samma som Anna Olsson (Jakobsson), Hagen i Skog.",
+  "sources": [
+   {
+    "label": "Takene skola 10 maj 1926",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338617"
+   }
+  ],
+  "images": [
+   "img09"
+  ],
+  "search": [
+   "Anna Olsson Lycka"
+  ]
+ },
+ {
+  "id": "valborg",
+  "name": "Valborg Olsson",
+  "status": "strong",
+  "sex": "f",
+  "altNames": [
+   "Valborg Olsson (Pettersson)",
+   "Valborg Olsson, Lycka Takene"
+  ],
+  "born": {
+   "date": "1919",
+   "note": "1919–1999 enligt Mangskogs O-register; stark identitetskandidat."
+  },
+  "died": {
+   "date": "1999"
+  },
+  "places": [
+   "Lycka, Takene (1930)",
+   "Hagen, Skog",
+   "Årjäng (familjeminne, obevisat)"
+  ],
+  "summary": "Huvudkandidat till familjeminnets Valborg. Möjligt syskon till Elof (hypotes).",
+  "notes": [
+   "Takene skolfoto 1930: ”Valborg Olsson Lycka Takene”.",
+   "Gruppfoto Där Sö i Tortan: ”Valborg Olsson (Pettersson) Hagen Skog” tillsammans med Elof Olsson Hagen Skog – belägger senare namnet Pettersson.",
+   "Att Valborg Lycka och Valborg (Pettersson) Hagen är samma person är inte bevisat med födelsedatum.",
+   "Mangskogs register: ”Olsson, Valborg 1919-1999 → A” (på annat ställe ”A och LS”). Samma A-kod som Elof bevisar inte syskonskap.",
+   "Flytt till Årjäng och relation till familjen är obevisade."
+  ],
+  "sources": [
+   {
+    "label": "Takene skola 6 maj 1930",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338619"
+   },
+   {
+    "label": "Där Sö i Tortan, gruppfoto",
+    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+   },
+   {
+    "label": "Mangskogs personregister O (PDF)",
+    "url": "https://www.mangskog.se/register/O.pdf"
+   }
+  ],
+  "images": [
+   "img10",
+   "img16"
+  ],
+  "search": [
+   "Valborg"
+  ]
+ },
+ {
+  "id": "erikjohan",
+  "name": "Erik Johan Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1878-12-30"
+  },
+  "places": [
+   "Där Nole, Brunskog",
+   "Nordamerika (1903)"
+  ],
+  "summary": "Lokalhistoriskt verifierad: född 1878-12-30, knuten till Där Nole, emigrerade till Nordamerika 1903. USA-spåret är olöst och relationen till familjen är inte angiven i underlaget.",
+  "flags": [
+   "USA-spår olöst",
+   "Relation till familjen okänd"
+  ],
+  "notes": [
+   "Olöst: exakt utflyttningsdatum, hamn och amerikansk destination.",
+   "Minneapolis/Minnesota och California är endast familjeleads, inte fakta.",
+   "Central volym: Brunskog SE/VA/13065/B/7, in- och utflyttningslängd 1895–1912. Navigationsankare: 1906 ligger på bild 27/sida 24; 1903 bör ligga tidigare i volymen.",
+   "Ingen amerikansk Erik/Eric/John Erickson accepteras utan match på svensk identitet, födelsedatum och 1903-emigration.",
+   "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/389452"
+   },
+   {
+    "label": "Navigationsankare Brunskog B:7 (1906 = bild 27/sida 24)",
+    "url": "https://genealogi.ronnyhagerman.com/person/ddf5939c79542ef7de36d17c5ee"
+   }
+  ],
+  "search": [
+   "Erik Johan",
+   "Erickson",
+   "Nordamerika",
+   "Minnesota",
+   "Minneapolis",
+   "California",
+   "B:7",
+   "B/7"
+  ]
+ },
+ {
+  "id": "iwona",
+  "name": "Iwona Elofsson",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Iwona Kogut"
+  ],
+  "born": {
+   "date": "1956-09-08",
+   "place": "Trzcińsko-Zdrój"
+  },
+  "summary": "Martins mamma. Dotter till Irena Jarczyńska och Bolesław Kogut enligt familjen.",
+  "search": [
+   "Iwona"
+  ]
+ },
+ {
+  "id": "irena",
+  "name": "Irena Jarczyńska",
+  "status": "family",
+  "sex": "f",
+  "altNames": [
+   "Irena Orzechowski, född Jarczyńska (användarträd)",
+   "Helena Orzechowska (MyHeritage-vy, 1926–2017)"
+  ],
+  "born": {
+   "date": "1926",
+   "place": "Okänd – Trzcińsko-Zdrój får inte antas"
+  },
+  "died": {
+   "date": "2017"
+  },
+  "summary": "Iwonas mor enligt familjen. Födelseort och föräldrar okända.",
+  "flags": [
+   "Namnkonflikt Irena/Helena",
+   "Föräldrar okända"
+  ],
+  "notes": [
+   "Historiskt namn för Trzcińsko-Zdrój: Bad Schönfließ före 1945. Sök polska och tyska ortnamn.",
+   "Användarträdet visar Stefan Orzechowski + Zofia Młodowska ovanför Irena – källkritisk konflikt med födelsenamnet Jarczyńska.",
+   "Uteslutna: Irena Jarczyńska, Poznań, ca 1912/13; Irena Jarczyńska, Staroźreby 1926; Helena Orzechowska 1925–2006."
+  ],
+  "sources": [
+   {
+    "label": "Szukaj w Archiwach",
+    "url": "https://www.szukajwarchiwach.gov.pl/"
+   }
+  ],
+  "search": [
+   "Irena",
+   "Jarczy",
+   "Helena Orzechowska"
+  ]
+ },
+ {
+  "id": "boleslaw",
+  "name": "Bolesław Kogut",
+  "status": "family",
+  "sex": "m",
+  "summary": "Far till samtliga Irenas barn enligt familjen. Födelsedata, föräldrar och vigsel okända.",
+  "notes": [
+   "Utesluten: Bolesław Orzechowski/Kogut som dog 1944.",
+   "Utesluten: Hieronim Kogut (Monitor Polski 1947), endast namnlik."
+  ],
+  "search": [
+   "Bolesław",
+   "Boleslaw"
+  ]
+ },
+ {
+  "id": "stefan",
+  "name": "Stefan Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "born": {
+   "date": "1902"
+  },
+  "died": {
+   "date": "1972"
+  },
+  "summary": "Visas ovanför Irena i användarträdet. Konflikt med födelsenamnet Jarczyńska.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Stefan Orzechowski"
+  ]
+ },
+ {
+  "id": "zofia",
+  "name": "Zofia Młodowska",
+  "status": "lead",
+  "sex": "f",
+  "altNames": [
+   "Zofia Orzechowska"
+  ],
+  "born": {
+   "date": "1904"
+  },
+  "died": {
+   "date": "1933"
+  },
+  "summary": "Visas ovanför Irena i användarträdet.",
+  "sources": [
+   {
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   }
+  ],
+  "search": [
+   "Zofia"
+  ]
+ },
+ {
+  "id": "zdzislaw",
+  "name": "Zdzisław Orzechowski",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1946-05-22"
+  },
+  "summary": "Irenas son enligt familjen. Gift med Celina.",
+  "notes": [
+   "Utesluten: Zdzisław Orzechowski 1939–1964, Łasin."
+  ],
+  "search": [
+   "Zdzis"
+  ]
+ },
+ {
+  "id": "celina",
+  "name": "Celina Orzechowska",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "search": [
+   "Celina"
+  ]
+ },
+ {
+  "id": "kasia",
+  "name": "Kasia",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Barn till Zdzisław och Celina. Full namnform bör verifieras.",
+  "search": [
+   "Kasia"
+  ]
+ },
+ {
+  "id": "maciek",
+  "name": "Maciek/Maczek",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "summary": "Barn till Zdzisław och Celina. Stavning osäker.",
+  "search": [
+   "Maciek",
+   "Maczek"
+  ]
+ },
+ {
+  "id": "grzegorz",
+  "name": "Edward Grzegorz Orzechowski",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Grzegorz"
+  ],
+  "born": {
+   "date": "1952-04-04"
+  },
+  "places": [
+   "Chojna"
+  ],
+  "summary": "Irenas son enligt familjen. Identiteten är verifierad via PROGRES i Chojna (familjens egen verifieringsregel).",
+  "notes": [
+   "Vice VD/styrelseledamot och delägare i PROGRES; kopplad till POMOT och MKS Odra Chojna.",
+   "Användarträdet visar även Dawid Rózek, ett okänt barn samt Sara och Kuba i nästa generation – linjerna ska verifieras separat."
+  ],
+  "sources": [
+   {
+    "label": "Rejestr.io, PROGRES (KRS 75707)",
+    "url": "https://rejestr.io/krs/75707/wielobranzowe-przedsiebiorstwo-uslugowo-handlowe-progres"
+   },
+   {
+    "label": "ALEO, PROGRES",
+    "url": "https://aleo.com/pl/firma/wielobranzowe-przedsiebiorstwo-uslugowo-handlowe-progres-spolka-z-ograniczona-odpowiedzialnoscia"
+   },
+   {
+    "label": "ZSP Chojna 2018",
+    "url": "https://arch.zsp1chojna.pl/3-09-2018-r-o-godz-9-00-odbedzie-sie-uroczyste-rozpoczecie-roku-szkolnego-20182019-serdecznie-zapraszamy/"
+   },
+   {
+    "label": "Rejestr.io, POMOT",
+    "url": "https://rejestr.io/krs/28788/przedsiebiorstwo-uslugowo-produkcyjne-pomot"
+   }
+  ],
+  "search": [
+   "Grzegorz",
+   "PROGRES",
+   "POMOT"
+  ]
+ },
+ {
+  "id": "ella",
+  "name": "Ella Orzechowska",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Grzegorz tidigare/frånskilda hustru. Arbetar på en tandläkarmottagning i Chojna (familjeuppgift).",
+  "search": [
+   "Ella"
+  ]
+ },
+ {
+  "id": "dawid",
+  "name": "Dawid (David) Orzechowski",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "summary": "Grzegorz son (familjebekräftat). PROGRES-organ sedan 2002 är extern identitetsförstärkning.",
+  "sources": [
+   {
+    "label": "Rejestr.io, PROGRES (KRS 75707)",
+    "url": "https://rejestr.io/krs/75707/wielobranzowe-przedsiebiorstwo-uslugowo-handlowe-progres"
+   }
+  ],
+  "search": [
+   "Dawid",
+   "David"
+  ]
+ },
+ {
+  "id": "izabela",
+  "name": "Izabela Orzechowska",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Isabella"
+  ],
+  "born": {
+   "date": "1983-12-30"
+  },
+  "summary": "Grzegorz dotter (familjebekräftat). Izabela är den bekräftade namnformen.",
+  "search": [
+   "Izabela",
+   "Isabella"
+  ]
+ },
+ {
+  "id": "roman",
+  "name": "Roman Orzechowski",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1955-01-19"
+  },
+  "search": [
+   "Roman"
+  ]
+ },
+ {
+  "id": "janina",
+  "name": "Janina Orzechowska",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Janina Jaćkiewicz"
+  ],
+  "summary": "Irenas dotter enligt familjen.",
+  "flags": [
+   "Namnkonflikt Kogut/Orzechowska"
+  ],
+  "notes": [
+   "Master: ”Janina Orzechowska; viktig korrigering: INTE Kogut.” MyHeritage-vyn anger däremot ”Janina Jaćkiewicz, född Kogut”. Motsägelsen är olöst."
+  ],
+  "search": [
+   "Janina"
+  ]
+ },
+ {
+  "id": "adam",
+  "name": "Adam Jaćkiewicz",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "summary": "Janinas make enligt MyHeritage-vyn (familjebekräftat sökankare).",
+  "search": [
+   "Adam Ja"
+  ]
+ },
+ {
+  "id": "mariusz",
+  "name": "Mariusz Jaćkiewicz",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1978-12-23"
+  },
+  "search": [
+   "Mariusz"
+  ]
+ },
+ {
+  "id": "beata",
+  "name": "Beata",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Gift med Mariusz (familjebekräftat).",
+  "search": [
+   "Beata"
+  ]
+ },
+ {
+  "id": "pawel",
+  "name": "Paweł Jaćkiewicz",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1980-11-23"
+  },
+  "search": [
+   "Paweł",
+   "Pawel"
+  ]
+ },
+ {
+  "id": "karin",
+  "name": "Karin Birgitta Arvidsson",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1942-06-07"
+  },
+  "died": {
+   "date": "2026-02-19"
+  },
+  "places": [
+   "Tobyn 1:158 / Tobyn Petsamo 1, Mangskog",
+   "Utblicksvägen 8 A, Arvika (skogsfirma c/o Marita)"
+  ],
+  "summary": "Gav 2026-01-28 Tobyn 1:158 till Morgan, Monika och Marita (köpeskilling 0 kr), 22 dagar före sin död. Mycket stark familje-/arvsindikator, men uttrycklig barnrelation saknas.",
+  "notes": [
+   "Hålls isär från namnlika Karin Birgitta Arvidsson i Stenungsund (bolag med Jimmy och Jonny Arvidsson)."
+  ],
+  "sources": [
+   {
+    "label": "ATL/Lantmäteridata: Tobyn 1:158",
+    "url": "https://www.atl.nu/fastigheter/salda/skogsfastighet-i-varmland-far-nya-agare-2"
+   }
+  ],
+  "search": [
+   "Karin Birgitta",
+   "Tobyn"
+  ]
+ },
+ {
+  "id": "morgan",
+  "name": "Jan Morgan Arvidsson",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1959-10-20"
+  },
+  "places": [
+   "Kil"
+  ],
+  "summary": "Familjeuppgift: Morgan och Martins pappa är släkt, exakt relation okänd. Knuten till Värmlands Lastbilskonsult AB.",
+  "flags": [
+   "Släktskap med pappa: grad okänd"
+  ],
+  "notes": [
+   "Karl Axel Arvidsson 1914–1986 får inte kopplas till Morgan enbart via registerkod."
+  ],
+  "search": [
+   "Morgan"
+  ]
+ },
+ {
+  "id": "danuta",
+  "name": "Danuta Arvidsson",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Morgans hustru. Hålls separat från det äldre minnet av en polsk hustru ”Mikki” tills familjen bekräftar.",
+  "search": [
+   "Danuta",
+   "Mikki"
+  ]
+ },
+ {
+  "id": "monika",
+  "name": "Monika Karina Henner",
+  "status": "verified",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Monika Arvidsson"
+  ],
+  "born": {
+   "date": "1961",
+   "note": "Arbetsdata"
+  },
+  "places": [
+   "Kyrkebyn Där Öste 1, Brunskog"
+  ],
+  "search": [
+   "Monika"
+  ]
+ },
+ {
+  "id": "marita",
+  "name": "Marita Kristina Arvidsson",
+  "status": "verified",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1967",
+   "note": "Arbetsdata"
+  },
+  "places": [
+   "Utblicksvägen 8 A, Arvika"
+  ],
+  "search": [
+   "Marita"
+  ]
+ },
+ {
+  "id": "mona",
+  "name": "Mona Arvidsson, Ed",
+  "status": "candidate",
+  "sex": "f",
+  "living": true,
+  "summary": "FAN-person: långvarig häst-/ägarrelation med Morgan. Mangskogs Mona f. 1948 är inte visad vara samma person. Ingen släktrelation antas.",
+  "search": [
+   "Mona"
+  ]
+ },
+ {
+  "id": "anna_jakobsson",
+  "name": "Anna Olsson g. Jakobsson",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1916-10-01"
+  },
+  "died": {
+   "date": "2011-05-22"
+  },
+  "places": [
+   "Hagen i Skog"
+  ],
+  "summary": "Personen är verifierad. Återöppnad kandidat till ”Anna” i Anna + Rune-spåret.",
+  "notes": [
+   "Gruppfoto Där Sö i Tortan: ”Anna Olsson (Jakobsson) Hagen i Skog”.",
+   "Identitet med Mangskogs ”Anna Olsson 1916” (mor till Jonny Jakobsson) är kandidat.",
+   "Konflikt: ”Anna Andersson gift Johansson” kontra Anna + Rune – möjligen två Anna, omgifte eller felaktigt minne.",
+   "Två URL-varianter för personposten förekommer (plats 438120 och 230918)."
+  ],
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost",
+    "url": "https://www.hembygd.se/brunskog/plats/438120/person/128839"
+   },
+   {
+    "label": "Där Sö i Tortan, gruppfoto",
+    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+   },
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "images": [
+   "img16"
+  ],
+  "search": [
+   "Anna Olsson g",
+   "Jakobsson",
+   "Anna + Rune",
+   "Anna/Rune"
+  ]
+ },
+ {
+  "id": "rune",
+  "name": "Rune",
+  "status": "candidate",
+  "sex": "m",
+  "summary": "Känd endast ur familjeminne. Det mest diagnostiska saknade namnet.",
+  "notes": [
+   "Familjeminne: Anna och Rune bodde i ett litet friliggande hus av gult tegel norr om Kil station, ungefär kring Grinnemogatan, Odalgatan, Ringvägen, Allégatan och anslutningen mot S-698/S-715. Mittemot fanns/bodde någon som körde taxi."
+  ],
+  "search": [
+   "Rune",
+   "taxi",
+   "gult tegel"
+  ]
+ },
+ {
+  "id": "bo",
+  "name": "Bo ”Bosse” Jakobsson",
+  "status": "candidate",
+  "sex": "m",
+  "born": {
+   "date": "ca 1942"
+  },
+  "died": {
+   "date": "2010"
+  },
+  "places": [
+   "Kil",
+   "Tomtvägen 4, Kil (1969)",
+   "Skogsvägen 65, Kil (1970)"
+  ],
+  "summary": "Kandidat. Martin tror att Bo Jakobsson 1942–2010 i Kil är rätt person.",
+  "notes": [
+   "Bågskytten 1958: junior, 417 poäng. 1969: kontakt för Bågskyttarna Kil, Tomtvägen 4. 1970: Skogsvägen 65 (Sannerudsområdet).",
+   "Adresserna hålls separata från Anna och Runes hus tills en adresskedja finns.",
+   "K.-B. Johnsson, Sannerudsgatan 27 – föreningskontakt 1970, inte släkting."
+  ],
+  "sources": [
+   {
+    "label": "Bågskytten 1969 nr 4 (PDF)",
+    "url": "https://www.bagskytte.se/download/18.42b8a9cb184849f5a908d3c8/1668980730370/1969_4_bagskytten.pdf"
+   },
+   {
+    "label": "Bågskytten 1970 nr 1–2 (PDF)",
+    "url": "https://www.bagskytte.se/download/18.42b8a9cb184849f5a908d436/1668981060918/1970_1_2_bagskytten.pdf"
+   }
+  ],
+  "search": [
+   "Bo Jakobsson",
+   "Bosse"
+  ]
+ },
+ {
+  "id": "mats",
+  "name": "Mats Jakobsson",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "summary": "Son till Bo enligt familjen.",
+  "search": [
+   "Mats"
+  ]
+ },
+ {
+  "id": "jonny",
+  "name": "Jonny Jakobsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1941-04-22"
+  },
+  "died": {
+   "date": "2001-06-16"
+  },
+  "places": [
+   "Forsbacka, Bortan",
+   "Semnebyn (Glava)",
+   "Berghem, Stora Årbotten (Gunnarskog)",
+   "Dalen i Ny"
+  ],
+  "summary": "Lokalhistoriskt publicerad i Mangskogs kompletteringsbok. Son till ”Anna Olsson f. 1916” enligt samma källa. Möjlig bror till Bo (hypotes).",
+  "notes": [
+   "Gift 1968–1976 med Maigon Magnusson (f. 1947-02-26 i Bortan, Gunnarskog). Metallarbetare; flyttade 1986 till Dalen i Ny.",
+   "Barn: Anders Per Erik (1966-01-03 – 2004-05-15, g. Lisbeth Persson f. 1968-07-15), Christina (1968-11-19, sambo Lars Olov Henriksson; barn Daniel 1990, Mathias 1993, Sofia 1996), Pernilla (1972, sambo Peter Svensson; dotter Johanna 2001)."
+  ],
+  "sources": [
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "search": [
+   "Jonny"
+  ]
+ },
+ {
+  "id": "maigon",
+  "name": "Maigon Magnusson",
+  "status": "strong",
+  "sex": "f",
+  "born": {
+   "date": "1947-02-26",
+   "place": "Bortan, Gunnarskog"
+  },
+  "summary": "Gift med Jonny 1968–1976 enligt Mangskogs kompletteringsbok.",
+  "sources": [
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "search": [
+   "Maigon"
+  ]
+ },
+ {
+  "id": "anders_pe",
+  "name": "Anders Per Erik Jakobsson",
+  "status": "strong",
+  "sex": "m",
+  "born": {
+   "date": "1966-01-03"
+  },
+  "died": {
+   "date": "2004-05-15",
+   "place": "Trång, Vitsand"
+  },
+  "sources": [
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "search": [
+   "Anders Per Erik"
+  ]
+ },
+ {
+  "id": "christina_j",
+  "name": "Christina Jakobsson",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1968-11-19"
+  },
+  "sources": [
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "search": [
+   "Christina Jakobsson"
+  ]
+ },
+ {
+  "id": "pernilla_j",
+  "name": "Pernilla Jakobsson",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1972"
+  },
+  "sources": [
+   {
+    "label": "Mangskogs sockenbok, kompletteringar del II (PDF)",
+    "url": "https://www.mangskog.se/Del%20II%20komp.pdf"
+   }
+  ],
+  "search": [
+   "Pernilla Jakobsson"
+  ]
+ },
+ {
+  "id": "goranp",
+  "name": "Göran Ingemar Persson",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "16 april (ca 1953)",
+   "note": "1953-04-16 är härlett ur ålder och födelsedag."
+  },
+  "places": [
+   "Östra Takene Där Sör 1, Brunskog (Östra Takene 1:36)"
+  ],
+  "summary": "Familjeuppgift: kan vara avlägset släkt med Martins familj. Grad och föräldrar okända.",
+  "flags": [
+   "Släktskap: grad okänd",
+   "Föräldrar okända"
+  ],
+  "notes": [
+   "1:36 Där Sör: boningshus 1862, ombyggt 1956; ladugård 1936. (Äldre uppgift om byggår ca 1900 ska inte användas.)",
+   "Både 1:36 Där Sör och Sunes 1:40/1:41 ligger i samma Östra Takene-miljö – forskningslead, inte släktbevis.",
+   "Fel gård: Där Sör i Bogerud, Östra Ämtervik – avvisad.",
+   "Bernhard Persson och Inga Andersson (Persson) vid Där Sö Takene får inte sammanblandas med Göran.",
+   "Disa Lovisa Elisabeth Åkerström (f. 1984) finns på samma adress – endast FAN."
+  ],
+  "sources": [
+   {
+    "label": "Arvika kommun, kulturmiljöprogram 1994 (Östra Takene)",
+    "url": "https://ems.dimu.org/file/019EGJDQeg8Nn?filename=VA_00001%3A1784-Kulturmilj%C3%B6program+f%C3%B6r+Arvika+kommun+Del+IV+Mangskog+Brunsk"
+   }
+  ],
+  "search": [
+   "Göran Persson",
+   "Göran Ingemar",
+   "Där Sör",
+   "1:36"
+  ]
+ },
+ {
+  "id": "ingmarie",
+  "name": "Karin Ing-Marie Eleonor Persson",
+  "status": "verified",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1956-02-16"
+  },
+  "places": [
+   "Östra Takene Där Sör 1"
+  ],
+  "summary": "Gift med Göran Persson (registerbelagt).",
+  "search": [
+   "Ing-Marie"
+  ]
+ },
+ {
+  "id": "elin",
+  "name": "Elin Persson",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Dotter till Göran och Ing-Marie (familjeuppgift). Får inte identifieras via namnlika register.",
+  "search": [
+   "Elin Persson"
+  ]
+ },
+ {
+  "id": "peter",
+  "name": "Peter Persson",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "ca 1980"
+  },
+  "summary": "Görans son från tidigare relation (familjeuppgift). Modern ej namngiven.",
+  "search": [
+   "Peter"
+  ]
+ },
+ {
+  "id": "anders_klahr",
+  "name": "Anders Jonas Klahr",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1980-05-10"
+  },
+  "places": [
+   "Östra Takene Där Sör 1"
+  ],
+  "summary": "Ing-Maries son från tidigare relation med Johnny Klahr. Styvfamiljegren, inte väg till Görans anor.",
+  "sources": [
+   {
+    "label": "Ola By Bilbärgning, företagshistorik",
+    "url": "https://www.eniro.se/ola%2Bby%2Bbilb%C3%A4rgning%2Bab%2Btorsby/51158222/firma"
+   }
+  ],
+  "search": [
+   "Klahr"
+  ]
+ },
+ {
+  "id": "johnny_klahr",
+  "name": "Johnny Klahr",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Adrian Johnny Klahr"
+  ],
+  "summary": "Tog över Ola By Bilbärgning 1988; ”sonen Anders” delägare sedan 1999.",
+  "sources": [
+   {
+    "label": "Ola By Bilbärgning, företagshistorik",
+    "url": "https://www.eniro.se/ola%2Bby%2Bbilb%C3%A4rgning%2Bab%2Btorsby/51158222/firma"
+   }
+  ],
+  "search": [
+   "Johnny Klahr"
+  ]
+ },
+ {
+  "id": "georg_e",
+  "name": "Georg Eriksson",
+  "status": "candidate",
+  "sex": "m",
+  "places": [
+   "Boställe Skog (1921)"
+  ],
+  "summary": "Boställe-hushållet 1921. Relation till Hulda antas inte.",
+  "sources": [
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   }
+  ],
+  "images": [
+   "img03"
+  ],
+  "search": [
+   "Georg Eriksson"
+  ]
+ },
+ {
+  "id": "anna_e",
+  "name": "Anna Eriksson",
+  "status": "candidate",
+  "sex": "f",
+  "places": [
+   "Boställe Skog (1921)"
+  ],
+  "summary": "Boställe-hushållet 1921. Relation till Hulda antas inte.",
+  "sources": [
+   {
+    "label": "Takene skola 30 maj 1921",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+   }
+  ],
+  "images": [
+   "img03"
+  ],
+  "search": [
+   "Anna Eriksson"
+  ]
+ },
+ {
+  "id": "rut_e",
+  "name": "Rut Eriksson",
+  "status": "candidate",
+  "sex": "f",
+  "places": [
+   "Bostället Skog (1926)"
+  ],
+  "summary": "Uttryckligen belagd på Bostället 1926. Rut på 1921-fotot är Rut Widner, Skogstorpet – annan person.",
+  "sources": [
+   {
+    "label": "Takene skola 10 maj 1926",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338617"
+   }
+  ],
+  "images": [
+   "img09"
+  ],
+  "search": [
+   "Rut Eriksson",
+   "Rut Widner"
+  ]
+ },
+ {
+  "id": "gustav",
+  "name": "Gustav Olsson",
+  "status": "candidate",
+  "sex": "m",
+  "places": [
+   "Där Nere, Skog"
+  ],
+  "summary": "FAN på gruppfotot vid Där Sö i Tortan tillsammans med Johan, Elof och Valborg. Ingen relation antas.",
+  "sources": [
+   {
+    "label": "Där Sö i Tortan, gruppfoto",
+    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+   }
+  ],
+  "images": [
+   "img16"
+  ],
+  "search": [
+   "Gustav Olsson"
+  ]
+ },
+ {
+  "id": "arvid_framme",
+  "name": "Arvid Olsson (Där Framme 1930)",
+  "status": "candidate",
+  "sex": "m",
+  "places": [
+   "Där Framme, Takene"
+  ],
+  "summary": "Hålls isär från Arvid Olsson, Lycka (1921) tills identitet bevisas.",
+  "sources": [
+   {
+    "label": "Takene skola 6 maj 1930",
+    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338619"
+   }
+  ],
+  "images": [
+   "img10"
+  ],
+  "search": [
+   "Där Framme"
+  ]
+ }
+]

@@ -1,0 +1,467 @@
+[
+ {
+  "id": "pappa",
+  "title": "Pappas sida",
+  "intro": "Elof Olssons och Ellen Anderssons familjer, med Där Nole/Nolemark och Eriksson-grenen. Linjernas färg och streck visar relationens bevisläge, inte personens.",
+  "focus": "elof",
+  "rows": {
+   "0": "Äldre leads, födda ca 1810–1830",
+   "1": "Födda ca 1840–1865",
+   "2": "Födda ca 1875–1895",
+   "3": "Födda ca 1910–1925",
+   "4": "Födda ca 1940–1960",
+   "5": "Födda ca 1980"
+  },
+  "leadRows": [
+   0
+  ],
+  "pos": {
+   "johannesolsson": [
+    0.5,
+    0
+   ],
+   "anna1821": [
+    1.5,
+    0
+   ],
+   "olofelofsson": [
+    2.5,
+    0
+   ],
+   "kajsa": [
+    3.5,
+    0
+   ],
+   "nilseriksson": [
+    4.5,
+    0
+   ],
+   "brittanils": [
+    5.5,
+    0
+   ],
+   "andersmansson": [
+    6.5,
+    0
+   ],
+   "annaolsdotter": [
+    7.5,
+    0
+   ],
+   "olofaugust": [
+    1.5,
+    1
+   ],
+   "maria": [
+    2.5,
+    1
+   ],
+   "zetterlund": [
+    3.5,
+    1
+   ],
+   "annaandersdotter": [
+    4.5,
+    1
+   ],
+   "martineriksson": [
+    7.5,
+    1
+   ],
+   "lovisa": [
+    8.5,
+    1
+   ],
+   "johannespersson": [
+    10,
+    1
+   ],
+   "erikjohan": [
+    12,
+    1
+   ],
+   "johan": [
+    2.5,
+    2
+   ],
+   "hulda": [
+    3.5,
+    2
+   ],
+   "karl": [
+    5,
+    2
+   ],
+   "hanna": [
+    6,
+    2
+   ],
+   "johanhilmer": [
+    7.5,
+    2
+   ],
+   "annaviktoria": [
+    8.5,
+    2
+   ],
+   "arvidpersson": [
+    9.5,
+    2
+   ],
+   "sally": [
+    10.5,
+    2
+   ],
+   "arvid_lycka": [
+    0,
+    3
+   ],
+   "anna_lycka": [
+    1,
+    3
+   ],
+   "valborg": [
+    2,
+    3
+   ],
+   "elof": [
+    3,
+    3
+   ],
+   "ellen": [
+    4,
+    3
+   ],
+   "nilsbertil": [
+    5,
+    3
+   ],
+   "goran_nolemark": [
+    6,
+    3
+   ],
+   "annabritta": [
+    7,
+    3
+   ],
+   "erikgeorg": [
+    8,
+    3
+   ],
+   "anna_arvidsson": [
+    9.5,
+    3
+   ],
+   "ester": [
+    10.5,
+    3
+   ],
+   "rolf": [
+    2.5,
+    4
+   ],
+   "sune": [
+    3.5,
+    4
+   ],
+   "iwona": [
+    4.5,
+    4
+   ],
+   "inge": [
+    5.5,
+    4
+   ],
+   "lena": [
+    6.5,
+    4
+   ],
+   "goranlennart": [
+    7.5,
+    4
+   ],
+   "inger": [
+    8.5,
+    4
+   ],
+   "martin": [
+    4,
+    5
+   ],
+   "pergoran": [
+    6,
+    5
+   ],
+   "dan": [
+    7,
+    5
+   ],
+   "pernilla_e": [
+    8,
+    5
+   ]
+  },
+  "groups": [
+   {
+    "label": "Olöst spår, relation okänd",
+    "x": 12,
+    "y": 1,
+    "w": 1,
+    "h": 1
+   }
+  ]
+ },
+ {
+  "id": "mamma",
+  "title": "Mammas sida",
+  "intro": "Den polska grenen. Nästan alla relationer är familjebekräftade (blå), inte dokumentärt verifierade.",
+  "focus": "irena",
+  "rows": {
+   "0": "Användarträd ovanför Irena",
+   "1": "Födda ca 1926",
+   "2": "Födda 1946–1956",
+   "3": "Födda ca 1975–1985"
+  },
+  "leadRows": [
+   0
+  ],
+  "pos": {
+   "stefan": [
+    2.5,
+    0
+   ],
+   "zofia": [
+    3.5,
+    0
+   ],
+   "boleslaw": [
+    2,
+    1
+   ],
+   "irena": [
+    3,
+    1
+   ],
+   "zdzislaw": [
+    0,
+    2
+   ],
+   "celina": [
+    1,
+    2
+   ],
+   "ella": [
+    2,
+    2
+   ],
+   "grzegorz": [
+    3,
+    2
+   ],
+   "roman": [
+    4.25,
+    2
+   ],
+   "janina": [
+    5.5,
+    2
+   ],
+   "adam": [
+    6.5,
+    2
+   ],
+   "iwona": [
+    8,
+    2
+   ],
+   "sune": [
+    9,
+    2
+   ],
+   "kasia": [
+    0,
+    3
+   ],
+   "maciek": [
+    1,
+    3
+   ],
+   "dawid": [
+    2,
+    3
+   ],
+   "izabela": [
+    3,
+    3
+   ],
+   "beata": [
+    4.5,
+    3
+   ],
+   "mariusz": [
+    5.5,
+    3
+   ],
+   "pawel": [
+    6.5,
+    3
+   ],
+   "martin": [
+    8.5,
+    3
+   ]
+  },
+  "groups": []
+ },
+ {
+  "id": "ovriga",
+  "title": "Övriga spår",
+  "intro": "Grenar där släktskapen med familjen är okänd eller bara familjeminne. Visas separat så att de inte läses som en del av den säkra antavlan.",
+  "focus": "morgan",
+  "rows": {},
+  "leadRows": [],
+  "pos": {
+   "karin": [
+    2,
+    0
+   ],
+   "mona": [
+    3.75,
+    0
+   ],
+   "danuta": [
+    0,
+    1
+   ],
+   "morgan": [
+    1,
+    1
+   ],
+   "monika": [
+    2,
+    1
+   ],
+   "marita": [
+    3,
+    1
+   ],
+   "anna_jakobsson": [
+    7,
+    0
+   ],
+   "rune": [
+    8,
+    0
+   ],
+   "maigon": [
+    6,
+    1
+   ],
+   "jonny": [
+    7,
+    1
+   ],
+   "bo": [
+    8.5,
+    1
+   ],
+   "anders_pe": [
+    5.5,
+    2
+   ],
+   "christina_j": [
+    6.5,
+    2
+   ],
+   "pernilla_j": [
+    7.5,
+    2
+   ],
+   "mats": [
+    8.5,
+    2
+   ],
+   "goranp": [
+    1,
+    3.4
+   ],
+   "ingmarie": [
+    2,
+    3.4
+   ],
+   "johnny_klahr": [
+    3,
+    3.4
+   ],
+   "peter": [
+    0,
+    4.4
+   ],
+   "elin": [
+    1.5,
+    4.4
+   ],
+   "anders_klahr": [
+    2.5,
+    4.4
+   ],
+   "georg_e": [
+    5.5,
+    3.4
+   ],
+   "anna_e": [
+    6.5,
+    3.4
+   ],
+   "rut_e": [
+    7.5,
+    3.4
+   ],
+   "gustav": [
+    9,
+    3.4
+   ],
+   "arvid_framme": [
+    10,
+    3.4
+   ]
+  },
+  "groups": [
+   {
+    "label": "Karin, Morgan, Monika och Marita (Tobyn, Mangskog). Släkt med pappa – grad okänd",
+    "x": -0.1,
+    "y": 0,
+    "w": 4.4,
+    "h": 2
+   },
+   {
+    "label": "Anna, Rune, Bo och Jonny (Kil, Mangskog)",
+    "x": 5.4,
+    "y": 0,
+    "w": 4.2,
+    "h": 3
+   },
+   {
+    "label": "Göran Persson, Där Sör. Avlägset släkt enligt familjen – grad okänd",
+    "x": -0.1,
+    "y": 3.4,
+    "w": 3.2,
+    "h": 2
+   },
+   {
+    "label": "Boställe Skog 1921–1926. Hushållet ej rekonstruerat",
+    "x": 5.4,
+    "y": 3.4,
+    "w": 3.2,
+    "h": 1
+   },
+   {
+    "label": "Skog och Takene, hålls isär",
+    "x": 8.9,
+    "y": 3.4,
+    "w": 2.2,
+    "h": 1
+   }
+  ]
+ }
+]
