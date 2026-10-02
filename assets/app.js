@@ -297,14 +297,14 @@ function applyTf() { const{x,y,k}=S.tf; $("#stage").style.transform=`translate($
 function zoomBy(f,cx,cy) {
   const vp=$("#viewport").getBoundingClientRect();
   cx=cx??vp.width/2; cy=cy??vp.height/2;
-  const k=Math.min(1.8,Math.max(0.2,S.tf.k*f));
+  const k=Math.min(1.8,Math.max(0.08,S.tf.k*f));
   S.tf.x=cx-(cx-S.tf.x)*(k/S.tf.k); S.tf.y=cy-(cy-S.tf.y)*(k/S.tf.k);
   S.tf.k=k; applyTf();
 }
 function fit() {
   const vp=$("#viewport").getBoundingClientRect(), st=$("#stage");
   const w=parseFloat(st.style.width), h=parseFloat(st.style.height);
-  const k=Math.max(0.2,Math.min(1,vp.width/w,vp.height/h));
+  const k=Math.max(0.08,Math.min(1,vp.width/w,vp.height/h));
   S.tf={k,x:(vp.width-w*k)/2,y:10}; applyTf();
 }
 function focusOn(id) {
@@ -359,7 +359,7 @@ function openPanel(id) {
   panel.classList.remove("empty");
   const rels=relsOf(id);
   const roleOf=r=>{
-    if(r.type==="child"&&r.child===id) return{k:0,t:"F\xf6r\xe4ldrar",who:r.parents};
+    if(r.type==="child"&&r.child===id) return{k:0,t:r.parents.length>1?"F\xf6r\xe4ldrar":(S.P[r.parents[0]]?.sex==="f"?"Mor":"Far"),who:r.parents};
     if(r.type==="child") return{k:2,t:"Barn",who:[r.child]};
     if(r.type==="partner") return{k:1,t:"Partner",who:[r.a===id?r.b:r.a]};
     return{k:3,t:"M\xf6jligt syskon",who:[r.a===id?r.b:r.a]};
