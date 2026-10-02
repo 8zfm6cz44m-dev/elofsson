@@ -1114,7 +1114,7 @@
   "a": "per_elofsson28",
   "b": "karin_elofsd35",
   "status": "verified",
-  "basis": "Brunskogs födelsebok 1776: föräldrapar till Elof."
+  "basis": "Brunskogs födelsebok 1776: föräldrapar till Elof. Husförhörslängd 1775–1781: Karin Elofsdotter hustru."
  },
  {
   "id": "c-per_elofsson28-karin_elofsd35-elofpersson",
@@ -1125,7 +1125,7 @@
   ],
   "child": "elofpersson",
   "status": "verified",
-  "basis": "Brunskogs födelsebok C I/2 bild 152: ”[Sept] 29 [1776]: Uppsjön, Elof. Per Elofsson, Kari Elofsdotter.” Husförhörslängd 1831–1835 (A I/17 bild 112) ger Elof Perssons födelse 27/9 1776 i Toltan – samma månad och trakt."
+  "basis": "Brunskogs födelsebok C I/2 bild 152: ”[Sept] 29 [1776]: Uppsjön, Elof. Per Elofsson, Kari Elofsdotter.” Husförhörslängd 1831–1835 (A I/17 bild 112) ger Elof Perssons födelse 27/9 1776 i Toltan – samma månad och trakt. Husförhörslängd A I/4 bild 178: ”S. Elof Persson 29/9 1776” i Per Elofssons och Karin Elofsdotters hushåll på Toltan."
  },
  {
   "id": "c-johannesolsson-anna1821-brittamajsa_j",
@@ -1367,5 +1367,87 @@
   "child": "anders_dn",
   "status": "verified",
   "basis": "Brunskogs födelsebok 1797 bild 56 (tvilling)."
+ },
+ {
+  "id": "c-per_elofsson28-karin_elofsd35-marit_p68",
+  "type": "child",
+  "parents": [
+   "per_elofsson28",
+   "karin_elofsd35"
+  ],
+  "child": "marit_p68",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/4 bild 178, Toltan nr 8."
+ },
+ {
+  "id": "c-per_elofsson28-karin_elofsd35-olof_p72",
+  "type": "child",
+  "parents": [
+   "per_elofsson28",
+   "karin_elofsd35"
+  ],
+  "child": "olof_p72",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/4 bild 178, Toltan nr 8."
+ },
+ {
+  "id": "c-per_elofsson28-karin_elofsd35-brita_p80",
+  "type": "child",
+  "parents": [
+   "per_elofsson28",
+   "karin_elofsd35"
+  ],
+  "child": "brita_p80",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/4 bild 178, Toltan nr 8."
+ },
+ {
+  "id": "p-elof_nilsson-marit_isaksd",
+  "type": "partner",
+  "a": "elof_nilsson",
+  "b": "marit_isaksd",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1728: ”Elof Nilssons och h. Marit Isaksdotters … barn”."
+ },
+ {
+  "id": "c-elof_nilsson-marit_isaksd-per_elofsson28",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "marit_isaksd"
+  ],
+  "child": "per_elofsson28",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/1 bild 170, 1728 nr 1: ”d. 14 Januarii christnades … Elof Nilssons och h. Marit Isaksdotters i Toltan barn, Pehr kallad”; marginal begr. 9/4 1800 (stämmer med Per Elofssons död 1800). Per är 1775–81 bonde på Toltan med sonen Elof (1776)."
+ },
+ {
+  "id": "p-elof_nilsson-kari_nilsd07",
+  "type": "partner",
+  "a": "elof_nilsson",
+  "b": "kari_nilsd07",
+  "status": "verified",
+  "basis": "Husförhörslängd 1760–63: Kari Nilsdotter ”H.” (hustru) till Elof Nilsson."
+ },
+ {
+  "id": "c-elof_nilsson-kari_nilsd07-marit_en38",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "kari_nilsd07"
+  ],
+  "child": "marit_en38",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/1 bild 181."
+ },
+ {
+  "id": "c-elof_nilsson-kari_nilsd07-christopher_en48",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "kari_nilsd07"
+  ],
+  "child": "christopher_en48",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/1 bild 181."
  }
 ]

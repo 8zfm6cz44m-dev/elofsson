@@ -2737,7 +2737,7 @@
    "Oppsjön Mellstuga",
    "Lycka, Östra Takene"
   ],
-  "summary": "Född 1776-11-29 i Brunskog, död 1856-03-07. Står som ”Fadr” i sonen Per Elofssons hushåll på Östra Takene med barnen Olof, Ingierd, Stina och Britta (husförhörslängd 1846–1850).",
+  "summary": "Född 1776-09-27 på Toltan (Uppsjön), Brunskog, död 1856-03-07. Son till Per Elofsson och Karin Elofsdotter. Bonde på Östra Takene; står som ”Fadr” i sonen Per Elofssons hushåll 1846–1850.",
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 112, sida 94), Ö. Takene: ”Bond. Elof Persson 27/9 1776 Toltan”, hustru Maria Andersdotter (1787), barnen Per (30/3 1811), Anders (1816), Jan (11/1 1819), Jonas (28/7 1821), Britta (3/3 1824), Olof (26/11 1826), Ingegerd (28/2 1829), Marit (1808) och Stina (1835). Födelsedagen 27/9 bekräftar födelseboken (september) – registrets 29/11 är fel.",
    "FÖDELSEBOK Brunskog 1776 (C I/2 bild 152): ”[Sept] 29: Uppsjön, Elof. Per Elofsson, Kari Elofsdotter.” Platsen stämmer med registrets ”Oppsjön Mellstuga”; månaden skiljer sig från registrets 29 november.",
@@ -2745,6 +2745,10 @@
    "MyHeritage: Elof Persson f. 1776-11-29, gift med Maria Andersdotter. Användarträdet anger föräldrar Per Elofsson (1728–1800) + Karin Elofsdotter (1735–1823) – leads."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   },
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
@@ -3630,18 +3634,27 @@
  },
  {
   "id": "per_elofsson28",
-  "name": "Per Elofsson (1728)",
+  "name": "Per Elofsson",
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1728",
-   "note": "Användarträdet: 1728–1800."
+   "date": "1728-01-14",
+   "place": "Toltan, Brunskog",
+   "note": "Dopdatum."
   },
   "places": [
-   "Uppsjön/Oppsjön, Brunskog"
+   "Toltan, Brunskog"
   ],
-  "summary": "Far till Elof, f. 1776 på Uppsjön, enligt Brunskogs födelsebok.",
+  "summary": "Bonde på Toltan. Döpt 14 jan 1728 som son till Elof Nilsson och Marit Isaksdotter i Toltan; begravd 9/4 1800. Far till Elof Persson (1776) enligt husförhörslängden 1775–1781.",
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1 (1688–1736), bild 170, 1728 nr 1: 14 jan döpt Pehr, föräldrar Elof Nilsson och Marit Isaksdotter i Toltan; marginal: begr. 9/4 1800",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00170"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   },
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 152: 29 [sept] 1776 Elof, Uppsjön, föräldrar Per Elofsson och Kari Elofsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00152"
@@ -3651,9 +3664,13 @@
    "Per Elofsson"
   ],
   "notes": [
-   "SÖKT 2026-10-02: Husförhörslängd A I/4 (1775–1781), Toltan (bild 171–177, sida 152–158). Hushållet där finns inte på de lästa sidorna. Lead: på bild 176 (”Toltan Åsen”, nr 6) står ”Mattes Elofsson” f. ca 1732 – möjligen Per Elofssons bror. Bild 177–178 (Toltan) ej färdiglästa.",
-   "SÖKT 2026-10-02: Brunskogs födelsebok C I/1, år 1728, poster nr 4–19 (bild 170–172) och 20–31 (bild 173–174) genomlästa – ingen Per med fadern Elof hittad. Födelseåret 1728 (användarträdet) är därför osäkert, eller så är han född i annan socken. Husförhörslängden A I/1 (1760–63) har kolumn för födelseår men Toltan/Uppsjön saknas i dess register; Ö. Takene (bild 84–93) innehåller inte hans hushåll."
-  ]
+   "FÖDELSEBOK Brunskog 1728 (C I/1 bild 170, nr 1): ”d. 14 Januarii christnades … Elof Nilssons och h. Marit Isaksdotters i Toltan barn, Pehr kallad.” Marginal: ”Begr. 9/4 1800”.",
+   "HUSFÖRHÖRSLÄNGD 1775–1781 (A I/4 bild 178, sida 159), Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, barnen Marit (1768), Olof Persson (1772), Elof Persson (29/9 1776), Brita Persdotter (21/5 1780)."
+  ],
+  "died": {
+   "date": "1800",
+   "note": "Begravd 9/4 1800 enligt marginalanteckning i födelseboken."
+  }
  },
  {
   "id": "karin_elofsd35",
@@ -3665,10 +3682,14 @@
    "note": "Användarträdet: 1735–1823."
   },
   "places": [
-   "Uppsjön/Oppsjön, Brunskog"
+   "Toltan, Brunskog"
   ],
-  "summary": "Mor till Elof, f. 1776 på Uppsjön, enligt Brunskogs födelsebok.",
+  "summary": "Per Elofssons hustru på Toltan (husförhörslängd 1775–1781) och mor till Elof Persson (födelsebok 1776).",
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   },
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 152: 29 [sept] 1776 Elof, Uppsjön, föräldrar Per Elofsson och Kari Elofsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00152"
@@ -4195,6 +4216,216 @@
   ],
   "search": [
    "Anders Danielsson"
+  ]
+ },
+ {
+  "id": "elof_nilsson",
+  "name": "Elof Nilsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "ca 1687–1689",
+   "note": "Husförhör 1760–63: ”1689”, men 73 år 1760 → ca 1687."
+  },
+  "places": [
+   "Toltan, Brunskog",
+   "Toltan Åsen"
+  ],
+  "summary": "Född på 1600-talet (ca 1687–1689). Far till Per Elofsson (döpt 1728 i Toltan). 1760–63 inhyses på Toltan Åsen med andra hustrun Kari Nilsdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1 (1688–1736), bild 170, 1728 nr 1: 14 jan döpt Pehr, föräldrar Elof Nilsson och Marit Isaksdotter i Toltan; marginal: begr. 9/4 1800",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00170"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   }
+  ],
+  "search": [
+   "Elof Nilsson"
+  ],
+  "notes": [
+   "FÖDELSEBOK 1728 (C I/1 bild 170): far till Pehr, ”Elof Nilssons och h. Marit Isaksdotters i Toltan barn”.",
+   "HUSFÖRHÖRSLÄNGD 1760–1763 (A I/1 bild 181), Toltan Åsen nr 7: ”Inh. Elof Nilsson”, födelseår 1689, ålder 73–76 åren 1760–63; hustru Kari Nilsdotter (1707); barnen Marit (1738), Christopher (1748). I hushållet även Kari Bengtsdotter (f. 1681). Identiteten med Per Elofssons far bygger på samma gård (Toltan) och namn – mycket stark.",
+   "Elof Nilssons eget dop: Brunskogs födelsebok börjar 1688 och de första åren har få poster – ej funnet än."
+  ]
+ },
+ {
+  "id": "marit_isaksd",
+  "name": "Marit Isaksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "",
+   "note": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mor till Per Elofsson (döpt 14 jan 1728 i Toltan) enligt Brunskogs födelsebok. Elof Nilssons första hustru.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1 (1688–1736), bild 170, 1728 nr 1: 14 jan döpt Pehr, föräldrar Elof Nilsson och Marit Isaksdotter i Toltan; marginal: begr. 9/4 1800",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00170"
+   }
+  ],
+  "search": [
+   "Marit Isaksdotter"
+  ]
+ },
+ {
+  "id": "kari_nilsd07",
+  "name": "Kari Nilsdotter (1707)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1707"
+  },
+  "places": [
+   "Toltan Åsen"
+  ],
+  "summary": "Elof Nilssons hustru 1760–63 på Toltan Åsen (troligen andra hustrun). Mor till Marit (1738) och Christopher (1748).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   }
+  ],
+  "search": [
+   "Kari Nilsdotter"
+  ]
+ },
+ {
+  "id": "marit_en38",
+  "name": "Marit Elofsdotter (1738)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1738"
+  },
+  "places": [
+   "Toltan Åsen"
+  ],
+  "summary": "Dotter till Elof Nilsson och Kari Nilsdotter (husförhör 1760–63) – Per Elofssons halvsyster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   }
+  ],
+  "search": [
+   "Marit Elofsdotter"
+  ]
+ },
+ {
+  "id": "christopher_en48",
+  "name": "Christopher Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1748"
+  },
+  "places": [
+   "Toltan Åsen"
+  ],
+  "summary": "Son till Elof Nilsson och Kari Nilsdotter (husförhör 1760–63) – Per Elofssons halvbror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   }
+  ],
+  "search": [
+   "Christopher Elofsson"
+  ]
+ },
+ {
+  "id": "kari_bengtsd81",
+  "name": "Kari Bengtsdotter (1681)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1681"
+  },
+  "places": [
+   "Toltan Åsen"
+  ],
+  "summary": "Född 1681, bor 1760–63 i Elof Nilssons hushåll på Toltan Åsen. Relation ej angiven (möjligen svärmor eller änka).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   }
+  ],
+  "search": [
+   "Kari Bengtsdotter"
+  ]
+ },
+ {
+  "id": "marit_p68",
+  "name": "Marit Persdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1768"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Barn till Per Elofsson och Karin Elofsdotter på Toltan (husförhör 1775–1781) – Elof Perssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   }
+  ],
+  "search": [
+   "Marit Persdotter"
+  ]
+ },
+ {
+  "id": "olof_p72",
+  "name": "Olof Persson (1772)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1772"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Barn till Per Elofsson och Karin Elofsdotter på Toltan (husförhör 1775–1781) – Elof Perssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   }
+  ],
+  "search": [
+   "Olof Persson"
+  ]
+ },
+ {
+  "id": "brita_p80",
+  "name": "Brita Persdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1780-05-21"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Barn till Per Elofsson och Karin Elofsdotter på Toltan (husförhör 1775–1781) – Elof Perssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
+   }
+  ],
+  "search": [
+   "Brita Persdotter"
   ]
  }
 ]
