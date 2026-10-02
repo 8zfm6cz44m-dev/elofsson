@@ -41,15 +41,13 @@
   "bildpost": "34-02-1921-Takene-Skolfoton-01",
   "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585",
   "persons": [
-   "johan",
-   "hulda",
    "nilsbertil",
    "arvid_lycka",
    "georg_e",
    "anna_e"
   ],
   "names": "Johan Olsson (Där Nere i Skog), Hulda, Georg och Anna Eriksson (Boställe Skog), Arvid Olsson (Lycka Takene), Bertil Nolemark m.fl.",
-  "comment": "Bertil står i nedersta raden. Personen Rut på fotot är Rut Widner, Skogstorpet – inte Rut Eriksson.",
+  "comment": "Bertil står i nedersta raden. Personen Rut på fotot är Rut Widner, Skogstorpet – inte Rut Eriksson. KORRIGERING 2026-10-02: Johan Olsson (Där Nere) och Hulda Eriksson (Boställe) på fotot är skolbarn födda ca 1907–1914, inte Johan f. 1880 och Hulda f. 1885.",
   "kind": "skolfoto"
  },
  {
@@ -189,12 +187,11 @@
   "persons": [
    "valborg",
    "elof",
-   "johan",
    "gustav",
    "anna_jakobsson"
   ],
   "names": "Valborg Olsson (Pettersson) och Elof Olsson, Hagen Skog; Johan och Gustav Olsson, Där Nere Skog; Anna Olsson (Jakobsson), Hagen i Skog. Fotograf: Elof Persson.",
-  "comment": "Starkaste öppna bildstödet för klustret Elof–Valborg–Johan. Belägger Valborgs senare namn Pettersson. Bevisar inte syskon- eller föräldrarelation.",
+  "comment": "Starkaste öppna bildstödet för klustret Elof–Valborg–Johan. Belägger Valborgs senare namn Pettersson. Bevisar inte syskon- eller föräldrarelation. Johan och Gustav Olsson, Där Nere, är troligen jämnåriga med Elof – inte hans far.",
   "kind": "gruppfoto"
  },
  {
@@ -225,7 +222,7 @@
    "zetterlund",
    "annaandersdotter"
   ],
-  "names": "78 av 197 personer visas; Johan + Hulda som Elofs föräldrar, Olof + Maria och Erik + Anna ovanför",
+  "names": "78 av 197 personer visas; Johan + Hulda som Elofs föräldrar, Olof + Maria och Erik + Anna ovanför; MyHeritage-stamtavlan 2026-10-02 visar samma kedja med exakta datum för Olof August (3 feb 1857), Erik Nilsson (8 feb 1843 – 24 mar 1936) och Anna Andersdotter (14 dec 1846 – 12 okt 1932).",
   "comment": "Endast leads. Filerna finns i arbetsmappen och publiceras inte.",
   "kind": "användarträd"
  },
@@ -250,5 +247,49 @@
    "https://sok.riksarkivet.se/bildvisning/A0031112_00396",
    "https://sok.riksarkivet.se/bildvisning/A0031112_00397"
   ]
+ },
+ {
+  "id": "img21",
+  "title": "Olof Elofsson, Kajsa Jansdotter, dottern Maria och hennes dotter Anna på trappan till Lycka",
+  "date": "odaterat",
+  "bildpost": "34-24-01-1826-Olof Elofsson-02",
+  "url": "https://www.hembygd.se/brunskog/plats/226310/picture/3338647",
+  "persons": [
+   "olofelofsson",
+   "kajsa",
+   "maria",
+   "annamaria"
+  ],
+  "names": "Kyrkvärden Olof Elofsson, hans fru Kajsa Jansdotter, dottern Maria och hennes dotter Anna",
+  "comment": "Direkt relationsbevis: make/hustru Olof–Kajsa, dotter Maria, dotterdotter Anna. Knyter Elofs farmors familj till Lycka.",
+  "kind": "släktfoto"
+ },
+ {
+  "id": "img22",
+  "title": "Olof Elofsson och Kajsa Jansdotter utanför deras bostad Lycka",
+  "date": "odaterat",
+  "bildpost": "34-24-01-Östra Takene-Lycka-03",
+  "url": "https://www.hembygd.se/brunskog/plats/226273/picture/3338502",
+  "persons": [
+   "olofelofsson",
+   "kajsa"
+  ],
+  "names": "Olof Elofsson och Kajsa Jansdotter",
+  "comment": "”deras bostad Lycka i Takene” – belägger att paret bodde på Lycka.",
+  "kind": "släktfoto"
+ },
+ {
+  "id": "img23",
+  "title": "Takenes bandylag i Skogsviken, Rinnen",
+  "date": "början av 1930-talet",
+  "bildpost": "61-01-10-Sport o Idrott-02-Takene Bandylag 1932",
+  "url": "https://www.hembygd.se/brunskog/plats/226232/picture/2338477",
+  "persons": [
+   "arvid_lycka",
+   "elof"
+  ],
+  "names": "Bl.a. Arvid Olsson Lycka Takene (stående nr 2) och Elof Olsson Lycka Takene (framför nr 2)",
+  "comment": "Bröderna (mycket stark kandidat) Arvid och Elof från Lycka i samma lag.",
+  "kind": "gruppfoto"
  }
 ]

@@ -264,47 +264,16 @@
   "type": "partner",
   "a": "johan",
   "b": "hulda",
-  "status": "strong",
-  "basis": "Användarträdet anger paret; båda är lokalt belagda i Skog 1921. Vigsel inte funnen."
- },
- {
-  "id": "c-johan-hulda-elof",
-  "type": "child",
-  "parents": [
-   "johan",
-   "hulda"
-  ],
-  "child": "elof",
-  "status": "strong",
-  "basis": "STARK KANDIDAT, INTE BEVISAD. Användarträdet anger Johan + Hulda; lokala belägg samstämmer. Ingen födelsenotis eller hushållssida namnger föräldrarna. Elof är inte född i Mangskog eller Brunskog.",
-  "label": "föräldrar ej bevisade"
- },
- {
-  "id": "p-olofaugust-maria",
-  "type": "partner",
-  "a": "olofaugust",
-  "b": "maria",
-  "status": "candidate",
-  "basis": "Användarträdet och masterns kandidatgren."
- },
- {
-  "id": "c-olofaugust-maria-johan",
-  "type": "child",
-  "parents": [
-   "olofaugust",
-   "maria"
-  ],
-  "child": "johan",
-  "status": "candidate",
-  "basis": "Ingen källa binder Johan som son till Olof August + Maria. Äldre gren får inte presenteras som antavla."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Takene: Hulda ”h.” (hustru), gift, i Johan Olof Olssons familj. Familjebekräftat."
  },
  {
   "id": "p-zetterlund-annaandersdotter",
   "type": "partner",
   "a": "zetterlund",
   "b": "annaandersdotter",
-  "status": "strong",
-  "basis": "Samma platspost/postfamilj i Brunskogs personregister."
+  "status": "verified",
+  "basis": "Folkräkningar 1880, 1890, 1900, 1930 Skog: gifta, samma hushåll."
  },
  {
   "id": "c-zetterlund-annaandersdotter-hulda",
@@ -314,16 +283,16 @@
    "annaandersdotter"
   ],
   "child": "hulda",
-  "status": "strong",
-  "basis": "Exakta år och rätt lokal miljö sammanfaller med användarträdet; födelsebok/församlingsbok ej läst."
+  "status": "verified",
+  "basis": "Folkräkningar 1890 och 1900 Skog: Hulda ”d.” (dotter) till Erik Nilsson och Anna Andersdotter."
  },
  {
   "id": "p-johannesolsson-anna1821",
   "type": "partner",
   "a": "johannesolsson",
   "b": "anna1821",
-  "status": "lead",
-  "basis": "Användarträd."
+  "status": "verified",
+  "basis": "Bodas födelsebok 1857: gifta (”B. Johannes Olsson och H. Anna Andersdotter”)."
  },
  {
   "id": "c-johannesolsson-anna1821-olofaugust",
@@ -333,35 +302,16 @@
    "anna1821"
   ],
   "child": "olofaugust",
-  "status": "lead",
-  "basis": "Användarträd."
- },
- {
-  "id": "p-olofelofsson-kajsa",
-  "type": "partner",
-  "a": "olofelofsson",
-  "b": "kajsa",
-  "status": "lead",
-  "basis": "Användarträd."
- },
- {
-  "id": "c-olofelofsson-kajsa-maria",
-  "type": "child",
-  "parents": [
-   "olofelofsson",
-   "kajsa"
-  ],
-  "child": "maria",
-  "status": "lead",
-  "basis": "Användarträd (Maria Olsdotter f. 1863)."
+  "status": "verified",
+  "basis": "Bodas födelsebok C I/3 bild 104: ”Februari 3 [1857] Olof August, B. Johannes Olsson och H. Anna Andersdotter, Nordsjö.” Även husförhörslängd A I/20 bild 230: ”S. Olof August 1857”."
  },
  {
   "id": "p-nilseriksson-brittanils",
   "type": "partner",
   "a": "nilseriksson",
   "b": "brittanils",
-  "status": "lead",
-  "basis": "Användarträd."
+  "status": "verified",
+  "basis": "Husförhörslängd A I/23 bild 145: Britta Nilsdotter hustru till Nils Ersson."
  },
  {
   "id": "c-nilseriksson-brittanils-zetterlund",
@@ -371,16 +321,16 @@
    "brittanils"
   ],
   "child": "zetterlund",
-  "status": "lead",
-  "basis": "Användarträd."
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/23 (1846–1850) bild 145: Erik f. 8/2 1843 i Nils Erssons och Britta Nilsdotters hushåll på Östra Takene (samma datum som Erik Nilsson Zetterlund)."
  },
  {
   "id": "p-andersmansson-annaolsdotter",
   "type": "partner",
   "a": "andersmansson",
   "b": "annaolsdotter",
-  "status": "lead",
-  "basis": "Användarträd."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Skog: Anna Olsdotter ”h.” (hustru) till Anders Månsson."
  },
  {
   "id": "c-andersmansson-annaolsdotter-annaandersdotter",
@@ -390,8 +340,8 @@
    "annaolsdotter"
   ],
   "child": "annaandersdotter",
-  "status": "lead",
-  "basis": "Användarträd."
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/23 (1846–1850) bild 125: ”Dott. Anna 14/12 1846” i Anders Månssons och Anna Olsdotters hushåll på Skog."
  },
  {
   "id": "s-elof-valborg",
@@ -408,14 +358,6 @@
   "b": "anna_lycka",
   "status": "candidate",
   "basis": "Samma gård på skolfoto 1926. Hypotes."
- },
- {
-  "id": "s-elof-arvid_lycka",
-  "type": "sibling",
-  "a": "elof",
-  "b": "arvid_lycka",
-  "status": "candidate",
-  "basis": "Samma gård på skolfoto 1921. Hypotes."
  },
  {
   "id": "p-boleslaw-irena",
@@ -774,5 +716,656 @@
   "child": "anders_klahr",
   "status": "verified",
   "basis": "Familjeuppgift + företagsbeskrivning (”sonen Anders”) + samma hushåll."
+ },
+ {
+  "id": "c-johan-hulda-elof",
+  "type": "child",
+  "parents": [
+   "johan",
+   "hulda"
+  ],
+  "child": "elof",
+  "status": "family",
+  "basis": "Familjebekräftat av Martin 2026-10-02. Stöd: Johan, Hulda och Elof är alla registrerade på Lycka i hembygdsföreningens personregister. Födelsenotis saknas (Elof inte född i Brunskog/Mangskog)."
+ },
+ {
+  "id": "c-johan-hulda-arvid_lycka",
+  "type": "child",
+  "parents": [
+   "johan",
+   "hulda"
+  ],
+  "child": "arvid_lycka",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Takene: Arvid f. 1909 i Johan Olof Olssons och Hulda Erikssons familj (Fam. nr 3)."
+ },
+ {
+  "id": "p-olofelofsson-kajsa",
+  "type": "partner",
+  "a": "olofelofsson",
+  "b": "kajsa",
+  "status": "verified",
+  "basis": "Bildtext: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter”."
+ },
+ {
+  "id": "c-olofelofsson-kajsa-maria",
+  "type": "child",
+  "parents": [
+   "olofelofsson",
+   "kajsa"
+  ],
+  "child": "maria",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene: Maria ”d.” (dotter) till Olof Elofsson och Kajsa Jansdotter. Även bildtext ”dottern Maria”."
+ },
+ {
+  "id": "c-olofelofsson-kajsa-johan_olofsson",
+  "type": "child",
+  "parents": [
+   "olofelofsson",
+   "kajsa"
+  ],
+  "child": "johan_olofsson",
+  "status": "verified",
+  "basis": "Folkräkningar 1880 och 1890: Johan f. 1850 i Olof Elofssons och Kajsa Jansdotters familj. Även husförhörslängd A I/23 bild 136: son Johannes 11/1850."
+ },
+ {
+  "id": "c-olofelofsson-kajsa-majakajsa",
+  "type": "child",
+  "parents": [
+   "olofelofsson",
+   "kajsa"
+  ],
+  "child": "majakajsa",
+  "status": "strong",
+  "basis": "Registrerad på Lycka, Maja KAJSA Olofsdotter – namngiven efter modern."
+ },
+ {
+  "id": "p-maria-olofaugust",
+  "type": "partner",
+  "a": "maria",
+  "b": "olofaugust",
+  "status": "verified",
+  "basis": "Folkräkningar 1890, 1900 och 1910: gifta, samma hushåll."
+ },
+ {
+  "id": "c-maria-olofaugust-johan",
+  "type": "child",
+  "parents": [
+   "maria",
+   "olofaugust"
+  ],
+  "child": "johan",
+  "status": "verified",
+  "basis": "Folkräkning 1890 Takene: Johan Olof ”s.” (son) till Olof August Johannesson och Maria Olsdotter; 1910 ”Gifte son”."
+ },
+ {
+  "id": "c-maria-olofaugust-arvid1890",
+  "type": "child",
+  "parents": [
+   "maria",
+   "olofaugust"
+  ],
+  "child": "arvid1890",
+  "status": "verified",
+  "basis": "Folkräkningar 1890 och 1900: Arvid f. 1890 i Olof August Johannessons och Maria Olsdotters familj."
+ },
+ {
+  "id": "p-elofpersson-mariaand1787",
+  "type": "partner",
+  "a": "elofpersson",
+  "b": "mariaand1787",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1826: föräldrapar till Olof."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-olofelofsson",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "olofelofsson",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Olof 26/11 1826 i Elof Perssons och Maria Andersdotters hushåll. Även födelsebok 1826 bild 171."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-jonas_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "jonas_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Jonas 28/7 1821 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-ingegerd_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "ingegerd_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Ingegerd 28/2 1829 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-stina_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "stina_e",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/3 bild 202: ”Stina. Föräldrarna bonden Elof Persson uti Östra Takene och dess hustru Maria Andersdotter 48 år.” Född 10, döpt 11 jan 1835."
+ },
+ {
+  "id": "c-zetterlund-annaandersdotter-hanna_e",
+  "type": "child",
+  "parents": [
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "child": "hanna_e",
+  "status": "verified",
+  "basis": "Folkräkningar 1880/1890/1900 Skog: barn i Erik Nilssons och Anna Andersdotters familj."
+ },
+ {
+  "id": "c-zetterlund-annaandersdotter-erikjohan",
+  "type": "child",
+  "parents": [
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "child": "erikjohan",
+  "status": "verified",
+  "basis": "Folkräkningar 1880/1890/1900 Skog: barn i Erik Nilssons och Anna Andersdotters familj."
+ },
+ {
+  "id": "c-zetterlund-annaandersdotter-paul_e",
+  "type": "child",
+  "parents": [
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "child": "paul_e",
+  "status": "verified",
+  "basis": "Folkräkningar 1880/1890/1900 Skog: barn i Erik Nilssons och Anna Andersdotters familj."
+ },
+ {
+  "id": "c-zetterlund-annaandersdotter-signe_e",
+  "type": "child",
+  "parents": [
+   "zetterlund",
+   "annaandersdotter"
+  ],
+  "child": "signe_e",
+  "status": "verified",
+  "basis": "Folkräkningar 1880/1890/1900 Skog: barn i Erik Nilssons och Anna Andersdotters familj."
+ },
+ {
+  "id": "c-nilseriksson-brittanils-johannes_z",
+  "type": "child",
+  "parents": [
+   "nilseriksson",
+   "brittanils"
+  ],
+  "child": "johannes_z",
+  "status": "verified",
+  "basis": "Hembygdsföreningens personpost 389315: ”Far Nils Eriksson, mor Britta Nilsdotter.” Även husförhörslängd A I/23 bild 145: son Johannes f. 11/1848."
+ },
+ {
+  "id": "c-maria-olofaugust-annamaria",
+  "type": "child",
+  "parents": [
+   "maria",
+   "olofaugust"
+  ],
+  "child": "annamaria",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Takene: Anna Maria f. 1901 i Boda i Olof August Johannessons och Maria Olssons familj. Bildtext: ”dottern Maria och hennes dotter Anna”."
+ },
+ {
+  "id": "p-anna1821-andersjansson",
+  "type": "partner",
+  "a": "anna1821",
+  "b": "andersjansson",
+  "status": "verified",
+  "basis": "Folkräkningar 1880 och 1890 Boda: Anna Andersdotter ”h.” (hustru) till Anders Jansson."
+ },
+ {
+  "id": "c-andersmansson-annaolsdotter-olof_am",
+  "type": "child",
+  "parents": [
+   "andersmansson",
+   "annaolsdotter"
+  ],
+  "child": "olof_am",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Skog: Olof f. 1841 i Anders Månssons och Anna Olsdotters hushåll."
+ },
+ {
+  "id": "p-brittanils-olofjansson",
+  "type": "partner",
+  "a": "brittanils",
+  "b": "olofjansson",
+  "status": "verified",
+  "basis": "Folkräkningar 1880 och 1890: Britta Nilsdotter ”h.” (hustru) till Olof Jansson. Andra äktenskapet."
+ },
+ {
+  "id": "c-andersmansson-annaolsdotter-cajsa_am",
+  "type": "child",
+  "parents": [
+   "andersmansson",
+   "annaolsdotter"
+  ],
+  "child": "cajsa_am",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/23 bild 125: Dott. Cajsa 10/2 1844."
+ },
+ {
+  "id": "c-nilseriksson-brittanils-nils_ne",
+  "type": "child",
+  "parents": [
+   "nilseriksson",
+   "brittanils"
+  ],
+  "child": "nils_ne",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/23 bild 145."
+ },
+ {
+  "id": "c-nilseriksson-brittanils-cajsa_ne",
+  "type": "child",
+  "parents": [
+   "nilseriksson",
+   "brittanils"
+  ],
+  "child": "cajsa_ne",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/23 bild 145."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-per_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "per_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Per 30/3 1811 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-anders_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "anders_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Anders 1816 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-jan_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "jan_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Jan 11/1 1819 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-britta_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "britta_e",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 112: Britta 3/3 1824 i Elof Perssons och Maria Andersdotters hushåll."
+ },
+ {
+  "id": "p-jan_jonasson-kajsa_persd",
+  "type": "partner",
+  "a": "jan_jonasson",
+  "b": "kajsa_persd",
+  "status": "verified",
+  "basis": "Bodas födelsebok 1826: föräldrapar till Kaisa."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-kajsa",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "kajsa",
+  "status": "verified",
+  "basis": "Bodas födelsebok C I/3 bild 25: ”Juni 9 [1826] Kaisa, Lerbodatorp. Jan Jonasson, Kaisa Persdotter.” Identifierad via exakt födelsedatum 1826-06-09, födelseort Boda (folkräkningar och husförhör) och patronymikon Jansdotter."
+ },
+ {
+  "id": "p-olof_andersson82-kari_jonsd",
+  "type": "partner",
+  "a": "olof_andersson82",
+  "b": "kari_jonsd",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1813: föräldrapar till Anna, Lerhol."
+ },
+ {
+  "id": "c-olof_andersson82-kari_jonsd-annaolsdotter",
+  "type": "child",
+  "parents": [
+   "olof_andersson82",
+   "kari_jonsd"
+  ],
+  "child": "annaolsdotter",
+  "status": "strong",
+  "basis": "Brunskogs födelsebok C I/3 bild 110: Anna f. 1813 på Lerhol, föräldrar Olof Andersson och Kari Jonsdotter – samma föräldranamn som användarträdet anger för Anna Olsdotter. Födelsedagen (22 mars i födelseboken, 24/2 i husförhörslängden 1846–50) måste stämmas av."
+ },
+ {
+  "id": "p-mans_daniels-marit_olsd98",
+  "type": "partner",
+  "a": "mans_daniels",
+  "b": "marit_olsd98",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1818: föräldrapar till Anders."
+ },
+ {
+  "id": "c-mans_daniels-marit_olsd98-andersmansson",
+  "type": "child",
+  "parents": [
+   "mans_daniels",
+   "marit_olsd98"
+  ],
+  "child": "andersmansson",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/17 (1831–1835) bild 100: ”deras son Anders 18/9 1818” hos Måns Danielsson och Marit Olsdotter på Skog. Även födelsebok 1818 (bild 132), där posten står under 1 oktober (sannolikt registreringsordning)."
+ },
+ {
+  "id": "p-erik_christ-brita_olsd90",
+  "type": "partner",
+  "a": "erik_christ",
+  "b": "brita_olsd90",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1820: föräldrapar till Nils."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-nilseriksson",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "nilseriksson",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/3 bild 140: ”Maj 4, döpt 7 [1820]: Ö. Takene, Nils. Erik Christophersson, Brita Olsdotter.” Husförhörslängden 1846–50 anger samma födelsedag 4/5 1820 för Nils Ersson på Östra Takene. Även husförhörslängd A I/17 (1831–1835) bild 117: Son Nils 5/1820 i samma hushåll."
+ },
+ {
+  "id": "p-per_elofsson28-karin_elofsd35",
+  "type": "partner",
+  "a": "per_elofsson28",
+  "b": "karin_elofsd35",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1776: föräldrapar till Elof."
+ },
+ {
+  "id": "c-per_elofsson28-karin_elofsd35-elofpersson",
+  "type": "child",
+  "parents": [
+   "per_elofsson28",
+   "karin_elofsd35"
+  ],
+  "child": "elofpersson",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/2 bild 152: ”[Sept] 29 [1776]: Uppsjön, Elof. Per Elofsson, Kari Elofsdotter.” Husförhörslängd 1831–1835 (A I/17 bild 112) ger Elof Perssons födelse 27/9 1776 i Toltan – samma månad och trakt."
+ },
+ {
+  "id": "c-johannesolsson-anna1821-brittamajsa_j",
+  "type": "child",
+  "parents": [
+   "johannesolsson",
+   "anna1821"
+  ],
+  "child": "brittamajsa_j",
+  "status": "verified",
+  "basis": "Bodas husförhörslängd A I/20 bild 230, Nordsjö."
+ },
+ {
+  "id": "c-johannesolsson-anna1821-maria_j",
+  "type": "child",
+  "parents": [
+   "johannesolsson",
+   "anna1821"
+  ],
+  "child": "maria_j",
+  "status": "verified",
+  "basis": "Bodas husförhörslängd A I/20 bild 230, Nordsjö."
+ },
+ {
+  "id": "c-johannesolsson-anna1821-brittacaisa_j",
+  "type": "child",
+  "parents": [
+   "johannesolsson",
+   "anna1821"
+  ],
+  "child": "brittacaisa_j",
+  "status": "verified",
+  "basis": "Bodas husförhörslängd A I/20 bild 230, Nordsjö."
+ },
+ {
+  "id": "p-olof_christ-britta_nilsd_boda",
+  "type": "partner",
+  "a": "olof_christ",
+  "b": "britta_nilsd_boda",
+  "status": "verified",
+  "basis": "Bodas födelsebok 1830: föräldrapar till Johannes."
+ },
+ {
+  "id": "c-olof_christ-britta_nilsd_boda-johannesolsson",
+  "type": "child",
+  "parents": [
+   "olof_christ",
+   "britta_nilsd_boda"
+  ],
+  "child": "johannesolsson",
+  "status": "strong",
+  "basis": "Bodas födelsebok C I/3 bild 31: ”[Maj] 17 [1830]: Johannes, Boda. Olof Christophersson, Britta Nilsdotter.” Socken, månad och patronymikon stämmer med Johannes Olsson (husförhör: 12/5 1830 i Boda). Dagen (12 eller 17) och moderns namn (användarträdet: Karin Olsdotter) behöver stämmas av."
+ },
+ {
+  "id": "c-elofpersson-mariaand1787-marit_e",
+  "type": "child",
+  "parents": [
+   "elofpersson",
+   "mariaand1787"
+  ],
+  "child": "marit_e",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 112: Dtr Marit 1808."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-sven_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "sven_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-maria_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "maria_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-olof_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "olof_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-cajsa_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "cajsa_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-jonas_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "jonas_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-ingard_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "ingard_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-anna_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "anna_ec",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 117."
+ },
+ {
+  "id": "c-mans_daniels-marit_olsd98-maria_md",
+  "type": "child",
+  "parents": [
+   "mans_daniels",
+   "marit_olsd98"
+  ],
+  "child": "maria_md",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 100."
+ },
+ {
+  "id": "c-mans_daniels-marit_olsd98-cajsa_md",
+  "type": "child",
+  "parents": [
+   "mans_daniels",
+   "marit_olsd98"
+  ],
+  "child": "cajsa_md",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 100."
+ },
+ {
+  "id": "c-mans_daniels-marit_olsd98-olof_md",
+  "type": "child",
+  "parents": [
+   "mans_daniels",
+   "marit_olsd98"
+  ],
+  "child": "olof_md",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/17 bild 100."
+ },
+ {
+  "id": "p-anders_arnesson-kjersti_olsd66",
+  "type": "partner",
+  "a": "anders_arnesson",
+  "b": "kjersti_olsd66",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1787: föräldrapar till Maria."
+ },
+ {
+  "id": "c-anders_arnesson-kjersti_olsd66-mariaand1787",
+  "type": "child",
+  "parents": [
+   "anders_arnesson",
+   "kjersti_olsd66"
+  ],
+  "child": "mariaand1787",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/3 bild 25: ”[Sept] 16 [1787]: Ö. Takene, nr 45 Maria. And. Arnesson, Kjersti Olsdotter.” Exakt samma datum (1787-09-16) och gård som Maria Andersdotter."
+ },
+ {
+  "id": "p-olof_olsson_s-ingierd_nilsd61",
+  "type": "partner",
+  "a": "olof_olsson_s",
+  "b": "ingierd_nilsd61",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1790: föräldrapar till Brita."
+ },
+ {
+  "id": "c-olof_olsson_s-ingierd_nilsd61-brita_olsd90",
+  "type": "child",
+  "parents": [
+   "olof_olsson_s",
+   "ingierd_nilsd61"
+  ],
+  "child": "brita_olsd90",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/3 bild 38: ”[Nov] 15 [1790]: Ö. Takene, nr 63 Brita. S. Olof Olsson, Ingierd Nilsdotter.” Exakt samma datum (15/11 1790, husförhör 1831–35) och gård."
+ },
+ {
+  "id": "p-daniel_nilsson-anna_jonsd67",
+  "type": "partner",
+  "a": "daniel_nilsson",
+  "b": "anna_jonsd67",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1797: föräldrapar till Måns och Anders."
+ },
+ {
+  "id": "c-daniel_nilsson-anna_jonsd67-mans_daniels",
+  "type": "child",
+  "parents": [
+   "daniel_nilsson",
+   "anna_jonsd67"
+  ],
+  "child": "mans_daniels",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/3 bild 56: ”[Juni] 14 [1797]: Smådal, nr 38 Måns, nr 39 Anders. Daniel Nilsson, Anna Jonsdotter.” Exakt samma datum och gård som husförhöret (14/6 1797 Småd.)."
+ },
+ {
+  "id": "c-daniel_nilsson-anna_jonsd67-anders_dn",
+  "type": "child",
+  "parents": [
+   "daniel_nilsson",
+   "anna_jonsd67"
+  ],
+  "child": "anders_dn",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok 1797 bild 56 (tvilling)."
  }
 ]

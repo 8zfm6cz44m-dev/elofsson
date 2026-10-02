@@ -111,21 +111,27 @@
    "Lyckan/Lycka, Takene, Brunskog",
    "Hagen, Skog (gruppfoto Där Sö i Tortan)"
   ],
-  "summary": "Martins farfar. Personen är verifierad. Föräldrarna är inte bevisade och födelseförsamlingen är olöst.",
+  "summary": "Martins farfar, konsthantverkare. Född 1914-12-14, död 1995-12-27, Lycka. Föräldrar Johan Olof Olsson och Hulda Eriksson (familjebekräftat). Födelseförsamlingen är olöst.",
   "flags": [
-   "Föräldrar ej bevisade",
    "Födelseförsamling olöst"
   ],
   "notes": [
+   "FOLKRÄKNING 1910: Föräldrarna Johan Olof Olsson (korpral) och Hulda bodde då på Takene i Brunskog med sonen Arvid (1909), i samma gårdshushåll som farföräldrarna Olof August Johannesson och Maria samt farmors mor Kajsa Jansdotter.",
+   "Registerpost 128838 (Lycka): ”Konsthantverkare”.",
+   "Ny ledtråd för födelseförsamlingen: fadern var korpral vid Kungliga Fälttelegrafkåren. Elof kan vara född där kåren var förlagd 1914.",
    "Originalkontroll: Mangskog C I/9 (1914, 22 födda, sista 20 dec) och Brunskog C I/8 (bild 189–190) saknar Elof och saknar födelse 14 december 1914. Mangskog och Brunskog är därmed uteslutna som födelseförsamling.",
    "Mangskogs O-register ”Olsson, Elof 1914-1995 → A” är en registerhänvisning, inte bevis för födelse i Mangskog.",
-   "Johan Olsson + Hulda Eriksson är starka kandidater som föräldrar (användarträd + samstämmiga lokala belägg), men ingen födelsenotis eller hushållssida namnger dem.",
+   "Föräldrarna Johan Olsson och Hulda Eriksson är familjebekräftade (2026-10-02). Ingen födelsenotis eller hushållssida har ännu hittats.",
    "Takene skolfoto 1926: ”Elov Olsson, Lycka Takene”, rätt ålder – mycket stark kandidat för Elof som barn.",
    "Sjukvårdsutbildning för män: ”Elof Olsson, Lycka Takene”. Älgjaktlag ca 1960: Elof Olsson Lycka Takene tillsammans med Bertil Nolemark (FAN, inte relationsbevis).",
    "Nästa steg enligt master: SCB-utdrag och originalböcker för angränsande församlingar 1914 med datumet 14 december som söknyckel.",
    "Möjliga syskon (hypotes): Arvid Olsson (Lycka 1921), Anna Olsson (Lycka 1926), Valborg Olsson (Lycka 1930)."
   ],
   "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost 128838",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/128838"
+   },
    {
     "label": "Riksarkivet, Mangskog C I/9 bild 95",
     "url": "https://sok.riksarkivet.se/bildvisning/00053728_00095"
@@ -420,10 +426,10 @@
    "Jöran Nolemark"
   ],
   "born": {
-   "date": "ca 1921"
+   "date": "1921-08-06"
   },
   "died": {
-   "date": "ca 1980"
+   "date": "1980-07-06"
   },
   "places": [
    "Där Nole i Skog",
@@ -431,11 +437,16 @@
   ],
   "summary": "Göran Andersson = Jöran/Göran Nolemark är en mycket stark identitetskandidat. Barn till Karl och Hanna är en stark kandidat utan uttrycklig barntext.",
   "notes": [
+   "Registerpost 253270 (Där Nole): Jöran Nolemark, 1921-08-06 – 1980-07-06, ”Bankdirektör”.",
    "Takene skola 1934–35: ”Göran Andersson” nr 20, Där Nole i Skog.",
    "Jöran Nolemark: kamrer och författare till avsnittet om Wermlands enskilda bank i En bok om Filipstad (1961).",
    "Alternativ kandidat som make till Anna Arvidsson (endast ålder och familjekrets)."
   ],
   "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost 253270",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/253270"
+   },
    {
     "label": "Brunskogs hembygdsförening: Där Nole, tegelslagning ca 1932",
     "url": "https://www.hembygd.se/brunskog/plats/221748/picture/2334482"
@@ -891,41 +902,56 @@
  },
  {
   "id": "johan",
-  "name": "Johan Olsson",
-  "status": "candidate",
+  "name": "Johan Olof Olsson",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1880",
-   "note": "1880–1945 endast från användarträdet."
+   "date": "1886-09-23",
+   "place": "Brunskogs församling"
   },
   "died": {
-   "date": "1945",
-   "note": "Endast användarträd."
+   "date": "1945-11-11"
   },
   "places": [
-   "Där Nere i Skog, Brunskog"
+   "Lycka, Östra Takene, Brunskog"
   ],
-  "summary": "Stark kandidat som Elofs far. Johan Olsson, Där Nere i Skog, är belagd på Takene-fotot 1921 och på gruppfotot vid Där Sö i Tortan.",
-  "flags": [
-   "Ej bevisad förälder"
-  ],
+  "summary": "Elofs far och Huldas make (familjebekräftat). Exakta livsdata i hembygdsföreningens register: f. 1886-09-23, d. 1945-11-11, Lycka. Korpral vid Kungliga Fälttelegrafkåren, byggnadssnickare.",
+  "flags": [],
   "notes": [
-   "Användarträdet anger Johan (1880–1945) + Hulda som Elofs föräldrar. Användarträd är endast leads.",
-   "Att bildernas Johan är samma person som trädets Johan är inte bevisat.",
-   "Föräldrakandidater: Olof August Johannesson (f. 1857-02-03) och Maria Olofsdotter (f. 1863-08-09).",
-   "Gustav Olsson, Där Nere Skog, förekommer på samma gruppfoto (FAN)."
+   "FOLKRÄKNINGAR (Riksarkivet): 1890 Takene – ”s.” (son) till Olof August Johannesson och Maria Olsdotter. 1900 Boda (Jonsbohl) – i föräldrarnas hushåll. 1910 Takene – ”Gifte son”, korpral, gift med Hulda Eriksson (”h.”), sonen Arvid f. 1909. Född 1886 i Brunskog.",
+   "Registerpost 386020: ”Korpral vid K. Fälttelegrafkåren. Byggnadssnickare.” Platser: Lycka, Brunskogs församling.",
+   "KORRIGERING: Användarträdet och MyHeritage anger ”ca 1880”. Registret ger exakt 1886-09-23. Dödsåret 1945 stämmer.",
+   "Militärtjänsten vid Fälttelegrafkåren kan förklara varför Elof (f. 1914-12-14) inte är född i Brunskog eller Mangskog. Pröva var kåren var förlagd 1914 och sök Elofs födelse där, samt Johans tjänst i arméns rullor hos Riksarkivet.",
+   "Patronymikon Olsson stämmer med fadern Olof August Johannesson. Olof Augusts personpost skapades 2017-01-12 17:45, Johans uppdaterades 17:48 samma dag – samma redigeringstillfälle.",
+   "Skolbarnet ”Johan Olsson Där Nere i Skog” på Takene skolfoto 1921 är en annan, yngre person."
   ],
   "sources": [
    {
-    "label": "Takene skola 30 maj 1921",
-    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Jonsbohl: Olof August Johannesson + Maria + Johan Olof + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109943379"
    },
    {
-    "label": "Där Sö i Tortan, gruppfoto",
-    "url": "https://www.hembygd.se/brunskog/plats/223592/picture/2336180"
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Takene: Johan Olof (s.) hos Olof August Johannesson + Maria Olsdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103598056"
    },
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: Johan Olof Olsson, gifte son, korpral",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549840"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 386020",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/386020"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personregistret för Lycka (plats 226273), läst 2026-10-02",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/text/37495"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, stamtavla (sekundärkälla, skärmbild 2026-10-02)"
    }
   ],
   "images": [
@@ -935,10 +961,15 @@
   ],
   "search": [
    "Johan Olsson",
-   "Där Nere",
-   "Johan/Hulda",
+   "Johan Olof",
+   "Fälttelegraf",
    "Johan + Hulda",
-   "Johan ->"
+   "Johan/Hulda",
+   "Elofs far"
+  ],
+  "altNames": [
+   "JOHAN Olof Olsson",
+   "Johan Olsson"
   ]
  },
  {
@@ -956,28 +987,45 @@
    "date": "1971-08-03"
   },
   "places": [
-   "Boställe/Bostället, Skog"
+   "Skog, Brunskog (barndomshem, folkräkning 1880–1900)",
+   "Takene/Lycka, Brunskog (gift, folkräkning 1910)"
   ],
-  "summary": "Personen är verifierad i lokalt personregister (årtalen stämmer exakt med användarträdet). Stark kandidat som Elofs mor.",
-  "flags": [
-   "Ej bevisad förälder"
-  ],
+  "summary": "Elofs mor och Johans hustru (familjebekräftat). Registrerad på Lycka och Där Nole. I registret inlagd som en sammanhållen syskongrupp med Erik Nilsson Zetterlund och Anna Andersdotter som föräldrar.",
+  "flags": [],
   "notes": [
-   "Takene 1921: Hulda, Georg och Anna Eriksson, Boställe Skog. Takene 1926: Rut Eriksson, Bostället Skog.",
-   "Föräldrar: Erik Nilsson Zetterlund + Anna Andersdotter är en mycket stark kandidat (exakta år, samma platspost).",
-   "Nästa steg: Huldas födelsenotis 1885-03-16."
+   "FOLKRÄKNINGAR (Riksarkivet): 1880, 1890 och 1900 Skog i Brunskog – ”d.” (dotter) till hemmansägare Erik Nilsson (f. 1843) och Anna Andersdotter (f. 1846), med syskonen Hanna Elisabeth, Erik Johan, Paul och Signe Maria. 1910 Takene – ”h.” (hustru), gift med Johan Olof Olsson. Född 1885 i Brunskog.",
+   "Familjebekräftat 2026-10-02: Hulda var Elofs mor och Johans hustru.",
+   "Personpost 389454 kopplad till platserna Lycka och Där Nole.",
+   "Registerposterna 389449–389455 skapades i följd 2011-04-02 kl. 10:02–10:08 av samma redaktör: Erik Nilsson Zetterlund (1843), Anna Andersdotter (1846), Hanna Elisabeth Eriksdotter (1876), Erik Johan Eriksson (1878), Paul Eriksson (1881), Hulda Eriksson (1885), Signe Maria Eriksdotter (1889). En inlagd familjegrupp: föräldrar och fem barn.",
+   "KORRIGERING: Uppgiften ”Boställe/Bostället i Skog” gäller en skolflicka med samma namn på Takene skolfoto 1921.",
+   "Nästa steg: Huldas födelsenotis 1885-03-16 i Brunskogs födelsebok – den namnger föräldrarna."
   ],
   "sources": [
    {
-    "label": "Brunskogs hembygdsförening, personpost",
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost (plats 226273 = Lycka)",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/389454"
    },
    {
-    "label": "Takene skola 30 maj 1921",
-    "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
+    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
    },
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Brunskogs hembygdsförening: Lycka, gård i hemmanet Östra Takene (plats 226273)",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/text/37495"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, stamtavla för Elof Olsson (sekundärkälla, skärmbild 2026-10-02)"
    }
   ],
   "images": [
@@ -985,36 +1033,69 @@
    "img14"
   ],
   "search": [
-   "Hulda",
-   "Boställe",
-   "Bostället"
+   "Hulda Eriksson 1885",
+   "Hulda Olsson",
+   "Hulda (1885",
+   "Huldas"
   ]
  },
  {
   "id": "olofaugust",
   "name": "Olof August Johannesson",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1857-02-03"
+   "date": "1857-02-03",
+   "place": "Nordsjö, Boda"
   },
-  "summary": "Kandidat som Johans far. Ingen källa binder Johan som son.",
+  "summary": "Johans far (mycket stark kandidat). Registrerad med exakt födelsedatum 1857-02-03, platser Lyckane, Boda och Brunskog.",
   "notes": [
-   "Tidigare användarträdskandidater för Olof August/Maria med fel datum/ort är uteslutna.",
-   "Användarträd: son till Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821)."
+   "FÖDELSEBOK Boda 1857 (C I/3 bild 104): ”Februari 3, döpt 4: Olof August. Föräldrar: B[onde] Johannes Olsson och H[ustru] Anna Andersdotter, Nordsjö (218).” Moderns ålder 30. Faddrar: B. Erik Nilsson i Ölserud och änkan Anna Pålsdotter i Nordsjö.",
+   "FOLKRÄKNINGAR: 1880 Boda (Nordsjö) – ”stjs.” (styvson) till hemmansägare Anders Jansson (f. 1834); modern Anna Andersdotter (f. 1826 i Boda); syskon Britta Kajsa Johannesdotter (1859) och Johan Johannesson (1861). 1890 Takene, 1900 Boda (Jonsbohl), 1910 Takene som hemmansägare. Född 1857 i Boda.",
+   "Registerpost 241318 (Lyckane, plats 226371), skapad 2017-01-12 17:45 – tre minuter före uppdateringen av Johan Olof Olssons post.",
+   "Samma plats: ARVID Olsson, 1890-11-27 – 1903-07-21 – sannolikt Johans bror som dog som barn.",
+   "MyHeritage: Olof August Johannesson f. 3 feb 1857, far till Johan; föräldrar Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821)."
   ],
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   },
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 104: 3 feb 1857 Olof August, föräldrar Johannes Olsson och Anna Andersdotter, Nordsjö",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00104"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Jonsbohl: Olof August Johannesson + Maria + Johan Olof + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109943379"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö: Olof August Johannesson, styvson till Anders Jansson; modern Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120430864"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 241318",
+    "url": "https://www.hembygd.se/brunskog/plats/226371/person/241318"
    }
   ],
   "search": [
-   "Olof August"
+   "Olof August",
+   "Johannesson 1857",
+   "Olof August Johannesson"
+  ],
+  "places": [
+   "Lyckane",
+   "Boda församling (Kils kommun)",
+   "Brunskogs församling"
   ]
  },
  {
   "id": "maria",
-  "name": "Maria Olofsdotter",
+  "name": "Maria Olofsdotter g. Johannesson",
   "status": "verified",
   "sex": "f",
   "altNames": [
@@ -1027,19 +1108,45 @@
   "died": {
    "date": "1955-02-03"
   },
-  "summary": "Personen är verifierad i lokalt personregister. Kandidat som Johans mor. Namnvarianten Olofsdotter/Olsdotter måste följas.",
+  "summary": "Johans mor (mycket stark kandidat). Uttryckligen dotter till kyrkvärden Olof Elofsson och Kajsa Jansdotter enligt bildtext. Gift Johannesson.",
   "notes": [
-   "Användarträd: dotter till Olof Elofsson (f. 1826) + Kajsa Jansson (f. 1826)."
+   "FOLKRÄKNINGAR: 1880 Ö. Takene – ”d.” till Olof Elofsson och Kajsa Jansdotter. 1890 Takene – gift med Olof August Johannesson, barnen Johan Olof (1886) och Arvid (1890). 1900 Boda (Jonsbohl). 1910 Takene, med dottern Anna Maria (f. 1901 i Boda).",
+   "Bildtext: ”…dottern Maria och hennes dotter Anna” – dotter till Olof Elofsson och Kajsa Jansdotter.",
+   "Registret kallar henne ”g Johannesson” = gift med en Johannesson, vilket stämmer med Olof August Johannesson.",
+   "Hennes dotter heter ANNA Maria Olsson – patronymikon från en far som heter Olof.",
+   "MyHeritage visar henne som ”<Private> Olsdotter”, mor till Johan."
   ],
   "sources": [
    {
-    "label": "Brunskogs hembygdsförening, personpost",
-    "url": "https://www.hembygd.se/brunskog/plats/438106/person/140910"
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Jonsbohl: Olof August Johannesson + Maria + Johan Olof + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109943379"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene: Maria (d.) hos Olof Elofsson + Kajsa Jansdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423111"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140910",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140910"
+   },
+   {
+    "label": "Bildtext: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene. Till höger står dottern Maria och hennes dotter Anna.”",
+    "url": "https://www.hembygd.se/brunskog/plats/226310/picture/3338647"
    }
   ],
   "search": [
    "Maria Olofsdotter",
-   "Maria Olsdotter"
+   "Maria Olsdotter",
+   "dottern Maria",
+   "Maria Olofsdotter g. Johannesson"
+  ],
+  "places": [
+   "Lycka, Östra Takene",
+   "Brunskogs församling"
   ]
  },
  {
@@ -1056,13 +1163,36 @@
   "died": {
    "date": "1936-02-24"
   },
-  "summary": "Personen är verifierad. Mycket stark kandidat som Huldas far.",
+  "summary": "Huldas far (folkräkningar 1880–1930). Son till Nils Ersson och Britta Nilsdotter på Östra Takene enligt husförhörslängden 1846–1850 (f. 8/2 1843).",
   "notes": [
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 145): ”— Erik” f. 8/2 1843, son till Nils Ersson och Britta Nilsdotter på Östra Takene. Primärbelägg för föräldrarna.",
+   "FOLKRÄKNINGAR 1880, 1890, 1900 och 1930, Skog i Brunskog: Erik Nilsson (f. 1843 i Brunskog, hemmansägare) och Anna Andersdotter (f. 1846 i Brunskog) med barnen Hanna Elisabeth (1876), Erik Johan (1878), Paul (1881), Hulda (1885) och Signe Maria (1889).",
+   "Bror (mycket stark kandidat): Johannes Zetterlund, 1848-11-01 – 1941-04-20, Östra Takene/Eda, med uttryckligen angivna föräldrar Nils Eriksson och Britta Nilsdotter.",
    "GID: 472.66.5100; 472.66.7000; 472.39.15800 (ej upplösta).",
    "Användarträdet kortar namnet till Erik Nilsson (1843–1936). Efternamnet Zetterlund får inte automatiskt likställas utan kyrkobok.",
    "Användarträd: son till Nils Eriksson (1820–1850) + Britta Nilsdotter (1820–1891)."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog: Erik Nilsson + Anna Andersdotter, Hanna Elisabeth, Erik Johan",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423023"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog: Erik Nilsson + Anna Andersdotter; Signe Maria (änka) med sonen Erik 1915",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_128883435"
+   },
    {
     "label": "Brunskogs hembygdsförening, personpost",
     "url": "https://www.hembygd.se/brunskog/plats/221740/person/389449"
@@ -1071,6 +1201,9 @@
   "search": [
    "Zetterlund",
    "Erik Nilsson"
+  ],
+  "places": [
+   "Hagen (plats 221740)"
   ]
  },
  {
@@ -1087,11 +1220,33 @@
   "died": {
    "date": "1932-10-12"
   },
-  "summary": "Personen är verifierad på samma platspost som Erik Nilsson Zetterlund. Mycket stark kandidat som Huldas mor.",
+  "summary": "Huldas mor (folkräkningar 1880–1930). Dotter till Anders Månsson och Anna Olsdotter på Skog enligt husförhörslängden 1846–1850 (f. 14/12 1846).",
   "notes": [
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (Brunskog A I/23, bild 125), Skog: ”Dott. Anna 14/12 1846” i Anders Månssons och Anna Olsdotters hushåll. Primärbelägg för föräldrarna.",
+   "FOLKRÄKNINGAR 1880, 1890, 1900 och 1930, Skog i Brunskog: Erik Nilsson (f. 1843 i Brunskog, hemmansägare) och Anna Andersdotter (f. 1846 i Brunskog) med barnen Hanna Elisabeth (1876), Erik Johan (1878), Paul (1881), Hulda (1885) och Signe Maria (1889).",
    "Användarträd: dotter till Anders Månsson (1818–1905) + Anna Olsdotter (1813–1885)."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog: Erik Nilsson + Anna Andersdotter, Hanna Elisabeth, Erik Johan",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423023"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog: Erik Nilsson + Anna Andersdotter; Signe Maria (änka) med sonen Erik 1915",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_128883435"
+   },
    {
     "label": "Brunskogs hembygdsförening, personpost",
     "url": "https://www.hembygd.se/brunskog/plats/221740/person/389450"
@@ -1099,45 +1254,85 @@
   ],
   "search": [
    "Anna Andersdotter"
+  ],
+  "places": [
+   "Hagen (plats 221740)"
   ]
  },
  {
   "id": "johannesolsson",
   "name": "Johannes Olsson",
-  "status": "lead",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1830"
+   "date": "1830-05-12",
+   "place": "Boda"
   },
   "died": {
-   "date": "1870"
+   "date": "före 1880",
+   "note": "Användarträdet anger 1870."
   },
-  "summary": "Olof Augusts far enligt användarträdet.",
+  "summary": "Bonde på Nordsjö i Boda. Uttryckligen far till Olof August enligt Bodas födelsebok 1857. Död före 1880, då änkan Anna Andersdotter är omgift med Anders Jansson.",
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 31: [maj] 17 1830 Johannes, Boda, föräldrar Olof Christophersson och Britta Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00031"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   },
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 104: 3 feb 1857 Olof August, föräldrar Johannes Olsson och Anna Andersdotter, Nordsjö",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00104"
    }
   ],
   "search": [
    "Johannes Olsson"
+  ],
+  "notes": [
+   "FÖDELSEBOK Boda 1830 (C I/3 bild 31): ”17 [maj], döpt 20: Johannes, Boda. Olof Christophersson, Britta Nilsdotter.” Faddrar Nils Svensson och Stina Nilsdotter.",
+   "HUSFÖRHÖRSLÄNGD Boda 1856–1860 (A I/20 bild 230, sida 218), Nordsjö: ”B. Johannes Olsson” f. 12/5 1830 i Boda, hustru Anna Andersdotter f. 24/11 1826 i Boda, barnen Britta Majsa (2/4 1853), Maria (1855), Olof August (1857) och Britta Caisa (1859).",
+   "FÖDELSEBOK Boda 1857 (bild 104): ”B. Johannes Olsson och H. Anna Andersdotter” är föräldrar till Olof August, f. 3 feb 1857 på Nordsjö.",
+   "Livsårtalen 1830–1870 kommer från användarträdet och är inte kontrollerade."
+  ],
+  "places": [
+   "Nordsjö, Boda"
   ]
  },
  {
   "id": "anna1821",
-  "name": "Anna Andersdotter (f. 1821)",
-  "status": "lead",
+  "name": "Anna Andersdotter (f. 1826, Boda)",
+  "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1821"
+   "date": "1826-11-24",
+   "place": "Boda"
   },
-  "summary": "Olof Augusts mor enligt användarträdet. Inte samma som Anna Andersdotter 1846–1932.",
+  "summary": "Olof August Johannessons mor. Omgift med hemmansägare Anders Jansson (f. 1834) i Boda; 1880 bor sönerna Olof August och Johan samt dottern Britta Kajsa Johannesdotter som styvbarn i hushållet.",
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   },
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 104: 3 feb 1857 Olof August, föräldrar Johannes Olsson och Anna Andersdotter, Nordsjö",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00104"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö: Olof August Johannesson, styvson till Anders Jansson; modern Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120430864"
    }
   ],
   "search": [
-   "född 1821"
+   "Anna Andersdotter 1826",
+   "Nordsjö"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD Boda 1856–1860 (bild 230): f. 24/11 1826 i Boda, hustru till bonden Johannes Olsson på Nordsjö.",
+   "FÖDELSEBOK Boda 1857 (bild 104): mor till Olof August, hustru till bonden Johannes Olsson på Nordsjö, 30 år gammal – stämmer med f. 1826.",
+   "Folkräkning 1880 Boda (Nordsjö): ”h.” (hustru) till Anders Jansson; barnen heter Johannesson/Johannesdotter efter en tidigare make Johannes.",
+   "Födelseåret 1821 i användarträdet stämmer inte med folkräkningarnas 1826."
   ]
  },
  {
@@ -1146,154 +1341,328 @@
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1826-11-26"
+   "date": "1826-11-26",
+   "place": "Östra Takene, Brunskog"
   },
   "died": {
    "date": "1910-02-03"
   },
-  "summary": "Kyrkvärd. Personen är verifierad; relationen som Marias far är endast användarträd.",
+  "summary": "Kyrkvärd på Lycka, gift med Kajsa Jansdotter och far till Maria (bildtext och folkräkningar). Son till Elof Persson enligt husförhörslängden 1846–1850 (f. 26/11 1826).",
   "notes": [
-   "Användarträd: son till Elof Persson (f. 1776-11-29) + Maria Andersdotter.",
-   "Äldre användarträdskedja: Elof Persson ← Per Elofsson (1728–1800) + Karin Elofsdotter (1735–1823); Maria Andersdotter ← Anders Arnesson (1754–1828) + Kjersti Olsdotter (1760–1790)."
+   "FÖDELSEBOK Brunskog 1826 (C I/3 bild 171): ”Nov. 26, döpt 27: Olof, Takene. Föräldrar: Elof Persson, Maria Andersdotter.” Faddrar: sergeant Carl Harfel och hustru Maria Nilsdotter, Ö. Takene.",
+   "HUSFÖRHÖRSLÄNGD 1846–1850: bild 135 – ”Son Olof 26/11 1826” hos fadern Elof Persson; flyttar 1847 till sida 136 (bild 148) som dräng hos Jonas Olsson; bild 136 – egen familj med hustrun Cajsa Jansdotter (f. 1826 i Boda, inflyttad 1850) och sonen Johannes (f. 11/1850).",
+   "FOLKRÄKNINGAR 1880 och 1890, Takene: hemmansägare, f. 1826 i Brunskog, med hustrun Kajsa Jansdotter och barnen Johan (1850) och Maria (1863).",
+   "Bildtexter: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene” och ”Olof Elofsson och Kajsa Jansdotter utanför deras bostad Lycka i Takene”.",
+   "Sannolikt son till Elof Persson (1776) och Maria Andersdotter (1787), som också är registrerade på Lycka – samma patronymikon som syskonen Jonas, Ingegerd och Stina Elofsdotter.",
+   "Namnmönstret Elof Persson → Olof Elofsson → … → Elof Olsson (1914)."
   ],
   "sources": [
    {
-    "label": "Brunskogs hembygdsförening, personpost",
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 171: 26 nov 1826 Olof, Takene, föräldrar Elof Persson och Maria Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00171"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 148 (sida 136): Olof Elofsson dräng hos Jonas Olsson 1847–49",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00148"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 136, Ö. Takene: Olof Elofsson 26/11 1826, hustru Cajsa Jansdotter 1826 från Boda, son Johannes 1850",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00136"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Takene: Johan Olof (s.) hos Olof August Johannesson + Maria Olsdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103598056"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene: Maria (d.) hos Olof Elofsson + Kajsa Jansdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423111"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140954",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/140954"
    },
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Bildtext: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene. Till höger står dottern Maria och hennes dotter Anna.”",
+    "url": "https://www.hembygd.se/brunskog/plats/226310/picture/3338647"
+   },
+   {
+    "label": "Bildtext: Olof Elofsson och Kajsa Jansdotter utanför Lycka",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/picture/3338502"
    }
   ],
   "search": [
    "Olof Elofsson",
    "Elof Persson",
-   "Per Elofsson"
+   "Per Elofsson",
+   "Olof Elofsson"
+  ],
+  "places": [
+   "Lycka, Östra Takene",
+   "Brunskogs församling"
   ]
  },
  {
   "id": "kajsa",
-  "name": "Kajsa Jansson",
-  "status": "lead",
+  "name": "Kajsa Jansdotter",
+  "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1826"
+   "date": "1826-06-09",
+   "place": "Lerbodatorp, Boda"
   },
-  "summary": "Marias mor enligt användarträdet.",
+  "summary": "Olof Elofssons hustru och Marias mor, uttryckligen enligt bildtext. Kopplad till Boda församling – trolig födelseförsamling.",
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 25: 9 juni 1826 Kaisa, Lerbodatorp, föräldrar Jan Jonasson och Kaisa Persdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00025"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 136, Ö. Takene: Olof Elofsson 26/11 1826, hustru Cajsa Jansdotter 1826 från Boda, son Johannes 1850",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00136"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene: Maria (d.) hos Olof Elofsson + Kajsa Jansdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423111"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140905",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140905"
+   },
+   {
+    "label": "Bildtext: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene. Till höger står dottern Maria och hennes dotter Anna.”",
+    "url": "https://www.hembygd.se/brunskog/plats/226310/picture/3338647"
    }
   ],
   "search": [
-   "Kajsa Jansson"
+   "Kajsa Jansson",
+   "Kajsa Jansdotter"
+  ],
+  "died": {
+   "date": "1919-01-11"
+  },
+  "places": [
+   "Lycka, Östra Takene",
+   "Boda församling (Kils kommun)",
+   "Brunskogs församling"
+  ],
+  "notes": [
+   "FÖDELSEBOK Boda 1826 (C I/3 bild 25): ”Juni 9, döpt 11: Kaisa, Lerbodatorp. Föräldrar: Jan Jonasson, Kaisa Persdotter.” Faddrar: Nils Månsson och Brita Nilsdotter, Lerbodatorp. Exakt samma födelsedatum som i registret.",
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): hustru till Olof Elofsson, f. 1826 i Boda, inflyttad från Boda 1850. Vigseln skedde alltså troligen 1849–1850, sannolikt i Boda.",
+   "FOLKRÄKNINGAR 1880–1910: född 1826 i Boda, hustru till Olof Elofsson; 1910 bor hon kvar på Takene i dotterns hushåll.",
+   "MyHeritage kallar henne Kajsa Jansson (1826). Registret ger exakta datum.",
+   "Boda församling i registret: pröva Bodas födelsebok 1826-06-09."
   ]
  },
  {
   "id": "nilseriksson",
-  "name": "Nils Eriksson",
-  "status": "lead",
+  "name": "Nils Eriksson (Ersson)",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1820"
+   "date": "1820-05-04",
+   "place": "Östra Takene, Brunskog"
   },
   "died": {
    "date": "1850"
   },
-  "summary": "Erik Nilssons far enligt användarträdet.",
+  "summary": "Bonde på Östra Takene, död omkring 1850. Far till Erik Nilsson Zetterlund (f. 8/2 1843) och Johannes Zetterlund (f. 1848) enligt husförhörslängden 1846–1850.",
   "notes": [
-   "Äldre: Erik Christophersson (1779–1818) + Britta Olsdotter (1790–1877); Britta ← Olof Olsson (1757–1835) + Ingerd Nilsdotter (1761–1850)."
+   "FÖDELSEBOK Brunskog 1820 (C I/3 bild 140): ”Maj 4, döpt 7: Ö. Takene, Nils. Erik Christophersson, Brita Olsdotter (40).” Samma datum 4/5 1820 som i husförhörslängden.",
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (Brunskog A I/23, bild 145), Ö. Takene: ”B. Nils Ersson” f. 1820 i Brunskog, markerad som död; hustru Britta Nilsdotter (antecknad som änka); barnen Nils (1841), Erik (8/2 1843), Cajsa (1846) och Johannes (11/1848).",
+   "Död 1850 enligt användarträdet; hans änka Britta Nilsdotter är omgift med Olof Jansson och får barn från 1852 – stämmer."
   ],
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 140: 4 maj 1820 Nils, Ö. Takene, föräldrar Erik Christophersson och Brita Olsdotter (40 år)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
    }
   ],
   "search": [
    "Nils Eriksson",
    "Christophersson"
+  ],
+  "places": [
+   "Ö. Takene, Brunskog"
   ]
  },
  {
   "id": "brittanils",
   "name": "Britta Nilsdotter",
-  "status": "lead",
+  "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1820"
+   "date": "1820",
+   "place": "Brunskog"
   },
   "died": {
    "date": "1891"
   },
-  "summary": "Erik Nilssons mor enligt användarträdet.",
+  "summary": "Änka efter Nils Eriksson (d. 1850). Omgift med hemmansägare Olof Jansson (f. 1821) på Östra Takene; barn i nya äktenskapet 1852–1866. Lever 1890 (d. 1891 enligt användarträdet).",
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene: Olof Jansson + Britta Nilsdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Takene: Olof Jansson + Brita Nilsdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103598075"
    }
   ],
   "search": [
    "Britta Nilsdotter"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 145), Ö. Takene: hustru till Nils Ersson, antecknad som änka, med barnen Nils (1841), Erik (1843), Cajsa (1846) och Johannes (1848).",
+   "Folkräkning 1880 Ö. Takene: Britta Nilsdotter f. 1820 i Brunskog, ”h.” till Olof Jansson; barnen Britta (1852), Karl (1861), Karin (1864), Gustaf (1866).",
+   "Folkräkning 1890 Takene: Brita Nilsdotter, gift med Olof Jansson.",
+   "Sonen Johannes Zetterlund (f. 1848) från första äktenskapet är också registrerad på Östra Takene.",
+   "Möjligen identisk med ”Gryt-Britta”, f. 1820-05-12, i hembygdsföreningens register.",
+   "Möjlig identitet: ”Britta Nilsdotter, f. 1820-05-12, kallad Gryt-Britta” i hembygdsföreningens register. Födelseåret stämmer med användarträdet (1820), men identiteten är inte bevisad."
+  ],
+  "places": [
+   "Ö. Takene, Brunskog"
   ]
  },
  {
   "id": "andersmansson",
   "name": "Anders Månsson",
-  "status": "lead",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1818"
+   "date": "1818-09-18",
+   "place": "Skog, Brunskog"
   },
   "died": {
    "date": "1905"
   },
-  "summary": "Anna Andersdotters far enligt användarträdet.",
+  "summary": "Hemmansägare på Skog i Brunskog – samma gård som dottern Anna Andersdotter och svärsonen Erik Nilsson Zetterlund. Änkling 1890, lever 1900 (d. 1905 enligt användarträdet).",
   "notes": [
-   "Äldre: Måns Danielsson (1797–1849) + Marit Olsdotter (1798–1859); Måns ← Daniel Nilsson (1757–1849) + Anna Jonsdotter (1768–1833); Marit ← Olof Nilsson (1754–1831) + Britta Nilsdotter (1757–1850)."
+   "FÖDELSEBOK Brunskog 1818 (C I/3 bild 132): ”Oktober, nr 58, född 1, döpt 3: Skog, Anders. Måns Danielsson, Marit Olsdotter (20).” Faddrar: Per Olsson och Karin Andersdotter. Husförhöret 1846–50 anger 18/9 1818.",
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 125), Skog: ”Gift dr. Anders Månsson” f. 1818 i Brunskog, hustru Anna Olsdotter f. 24/2 1813, barnen Olof (24/11 1841), Cajsa (10/2 1844) och Anna (14/12 1846). Bor i bonden Per Olssons (1785) och Karin Andersdotters (1784) hushåll.",
+   "Folkräkning 1880 Skog: Anders Månsson f. 1818 i Brunskog, hemmansägare, hustru Anna Olsdotter f. 1813, sonen Olof f. 1841. Posten står direkt före Erik Nilssons och Anna Andersdotters hushåll (post-id 120423020 och 120423023).",
+   "Folkräkning 1890 och 1900 Skog: änkling.",
+   "Dottern Anna (f. 1846) bor inte i hushållet 1880 eftersom hon då är gift med Erik Nilsson på samma gård."
   ],
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 132: 1 okt 1818 Anders, Skog, föräldrar Måns Danielsson och Marit Olsdotter (20 år); faddrar Per Olsson och Karin Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00132"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog: Anders Månsson + Anna Olsdotter + Olof 1841",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423020"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Anders Månsson, änkling",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597978"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Anders Månsson, änkling",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937584"
    }
   ],
   "search": [
    "Anders Månsson",
    "Måns Danielsson"
+  ],
+  "places": [
+   "Skog, Brunskog"
   ]
  },
  {
   "id": "annaolsdotter",
   "name": "Anna Olsdotter",
-  "status": "lead",
+  "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1813"
+   "date": "1813-02-24",
+   "place": "Brunskog"
   },
   "died": {
    "date": "1885"
   },
-  "summary": "Anna Andersdotters mor enligt användarträdet.",
+  "summary": "Anders Månssons hustru på Skog (folkräkning 1880). Död före 1890 – stämmer med 1885 i användarträdet.",
   "notes": [
+   "FÖDELSEBOK Brunskog 1813 (C I/3 bild 110): ”22 [mars], nr 21: Lerhol, Anna. Olof Andersson, Kari Jonsdotter.” Föräldranamnen stämmer med användarträdet (Olof Andersson 1782–1828, Karin Jansdotter 1785–1831). Husförhörslängden 1846–1850 anger dock födelsedag 24/2 1813 – datumet måste kontrolleras innan relationen blir grön.",
    "Äldre: Olof Andersson (1782–1828) + Karin Jansdotter (1785–1831); Olof ← Anders Olsson (1751–1808) + Ingeborg Eriksdotter (1753–1819); Karin ← Jon Ersson (1741–1808) + Anna Andersdotter (1756–1808)."
   ],
   "sources": [
    {
-    "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 110: [mars] 22 1813 Anna, Lerhol, föräldrar Olof Andersson och Kari Jonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00110"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog: Anna Olsdotter, hustru till Anders Månsson",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423021"
    }
   ],
   "search": [
    "Anna Olsdotter"
+  ],
+  "places": [
+   "Skog, Brunskog"
   ]
  },
  {
   "id": "arvid_lycka",
-  "name": "Arvid Olsson (Lycka 1921)",
-  "status": "candidate",
+  "name": "Arvid Olsson",
+  "status": "verified",
   "sex": "m",
   "places": [
-   "Lycka, Takene"
+   "Lycka, Östra Takene",
+   "Där Öste",
+   "Brunskogs församling"
   ],
-  "summary": "Namngiven på Takene skolfoto 1921. Möjligt syskon till Elof (hypotes). Hålls isär från Arvid Olsson, Där Framme (1930).",
+  "summary": "Elofs äldre bror. Folkräkningen 1910 visar honom som barn i Johan Olof Olssons och Hulda Erikssons familj på Takene.",
   "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene: hushåll Olof August Johannesson / Kajsa Jansdotter / Johan Olof Olsson + Hulda + Arvid",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549841"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 357810",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/357810"
+   },
+   {
+    "label": "Bildtext: Takenes bandylag, början av 1930-talet",
+    "url": "https://www.hembygd.se/brunskog/plats/226232/picture/2338477"
+   },
    {
     "label": "Takene skola 30 maj 1921",
     "url": "https://www.hembygd.se/brunskog/plats/226292/picture/2338585"
@@ -1303,7 +1672,20 @@
    "img03"
   ],
   "search": [
-   "Arvid Olsson"
+   "Arvid Olsson",
+   "Arvid (1909"
+  ],
+  "born": {
+   "date": "1909-12-20"
+  },
+  "died": {
+   "date": "1967-05-15"
+  },
+  "notes": [
+   "FOLKRÄKNING 1910 (Riksarkivet), Takene: Arvid f. 1909 i Brunskog, i Johan Olof Olssons och Hulda Erikssons familj (Fam. nr 3).",
+   "Registerpost 357810, platser Lycka, Där Öste, Brunskogs församling.",
+   "Elev på Takene skolfoto 1921 (”Arvid Olsson Lycka Takene”, nedersta raden) – stämmer med födelseår 1909.",
+   "Bandylag i Skogsviken, Rinnen, början av 1930-talet: Arvid och Elof Olsson, båda Lycka Takene."
   ]
  },
  {
@@ -1391,12 +1773,13 @@
    "Där Nole, Brunskog",
    "Nordamerika (1903)"
   ],
-  "summary": "Lokalhistoriskt verifierad: född 1878-12-30, knuten till Där Nole, emigrerade till Nordamerika 1903. USA-spåret är olöst och relationen till familjen är inte angiven i underlaget.",
+  "summary": "Huldas bror och Elofs morbror (folkräkningar 1880–1900). Född 1878-12-30 i Brunskog, emigrerade till Nordamerika 1903. Destinationen i USA är olöst.",
   "flags": [
-   "USA-spår olöst",
-   "Relation till familjen okänd"
+   "USA-spår olöst"
   ],
   "notes": [
+   "FOLKRÄKNINGAR 1880, 1890 och 1900: barn i Erik Nilssons och Anna Andersdotters hushåll på Skog, Brunskog. Finns kvar hemma 1900 – emigrerade alltså mellan 1900 och 1903. Han är därmed belagd som Huldas bror och Elofs morbror.",
+   "NYTT 2026-10-02: Registerpost 389452 skapades i följd med Zetterlund-familjen (389449–389455). Patronymikon Eriksson. Han är därmed mycket stark kandidat som Huldas bror – det förklarar varför USA-spåret finns i familjens minne.",
    "Olöst: exakt utflyttningsdatum, hamn och amerikansk destination.",
    "Minneapolis/Minnesota och California är endast familjeleads, inte fakta.",
    "Central volym: Brunskog SE/VA/13065/B/7, in- och utflyttningslängd 1895–1912. Navigationsankare: 1906 ligger på bild 27/sida 24; 1903 bör ligga tidigare i volymen.",
@@ -1404,6 +1787,14 @@
    "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
    {
     "label": "Brunskogs hembygdsförening, personpost",
     "url": "https://www.hembygd.se/brunskog/plats/221748/person/389452"
@@ -2328,6 +2719,1482 @@
   ],
   "search": [
    "Där Framme"
+  ]
+ },
+ {
+  "id": "elofpersson",
+  "name": "Elof Persson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1776-09-27",
+   "place": "Toltan (Uppsjön), Brunskog"
+  },
+  "died": {
+   "date": "1856-03-07"
+  },
+  "places": [
+   "Oppsjön Mellstuga",
+   "Lycka, Östra Takene"
+  ],
+  "summary": "Född 1776-11-29 i Brunskog, död 1856-03-07. Står som ”Fadr” i sonen Per Elofssons hushåll på Östra Takene med barnen Olof, Ingierd, Stina och Britta (husförhörslängd 1846–1850).",
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 112, sida 94), Ö. Takene: ”Bond. Elof Persson 27/9 1776 Toltan”, hustru Maria Andersdotter (1787), barnen Per (30/3 1811), Anders (1816), Jan (11/1 1819), Jonas (28/7 1821), Britta (3/3 1824), Olof (26/11 1826), Ingegerd (28/2 1829), Marit (1808) och Stina (1835). Födelsedagen 27/9 bekräftar födelseboken (september) – registrets 29/11 är fel.",
+   "FÖDELSEBOK Brunskog 1776 (C I/2 bild 152): ”[Sept] 29: Uppsjön, Elof. Per Elofsson, Kari Elofsdotter.” Platsen stämmer med registrets ”Oppsjön Mellstuga”; månaden skiljer sig från registrets 29 november.",
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (Brunskog A I/23, bild 135, sida 123), Ö. Takene ½ skatte: ”Fadr Elof Persson” f. 29/11 1776 i Brunskog i sonen Per Elofssons (f. 1811) hushåll, med barnen Britta (1824), Olof (26/11 1826), Ingierd (28/2 1829) och Stina (1835). På samma uppslag: Anders Elofsson (f. 1816) med familj och Jan Elofsson (f. 1819).",
+   "MyHeritage: Elof Persson f. 1776-11-29, gift med Maria Andersdotter. Användarträdet anger föräldrar Per Elofsson (1728–1800) + Karin Elofsdotter (1735–1823) – leads."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 152: 29 [sept] 1776 Elof, Uppsjön, föräldrar Per Elofsson och Kari Elofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00152"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 171: 26 nov 1826 Olof, Takene, föräldrar Elof Persson och Maria Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00171"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 277053",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/277053"
+   }
+  ],
+  "search": [
+   "Elof Persson"
+  ]
+ },
+ {
+  "id": "mariaand1787",
+  "name": "Maria Andersdotter (1787)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1787-09-16",
+   "place": "Östra Takene, Brunskog"
+  },
+  "died": {
+   "date": "1838-12-01"
+  },
+  "places": [
+   "Nytomta",
+   "Lycka, Östra Takene",
+   "Brunskogs församling"
+  ],
+  "summary": "Elof Perssons hustru och uttryckligen mor till Olof Elofsson (Brunskogs födelsebok 1826). Död 1838.",
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1831–1835 (bild 112): hustru till Elof Persson, f. 1787, med barnen Per (1811) till Stina (1835).",
+   "FÖDELSEBOK Brunskog 1826 (bild 171): uttryckligen mor till Olof, f. 26 nov 1826 på Takene, med maken Elof Persson.",
+   "Användarträd: dotter till Anders Arnesson (1754–1828) + Kjersti Olsdotter (1760–1790) – leads.",
+   "Obs: om hon är mor till Stina Elofsdotter (f. 1835) var hon 47 år vid födseln – möjligt men ovanligt; kontrollera."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 25: 16 sept 1787 Maria, Ö. Takene, föräldrar Anders Arnesson och Kjersti Olsdotter (f. 1766)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00025"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 202: 10 jan 1835 Stina, föräldrar bonden Elof Persson i Östra Takene och hustru Maria Andersdotter 48 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00202"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 171: 26 nov 1826 Olof, Takene, föräldrar Elof Persson och Maria Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00171"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 277054",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/277054"
+   }
+  ],
+  "search": [
+   "Maria Andersdotter 1787",
+   "Anders Arnesson"
+  ]
+ },
+ {
+  "id": "jonas_e",
+  "name": "Jonas Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1821-07-28"
+  },
+  "died": {
+   "date": "1898-07-24"
+  },
+  "places": [
+   "Lycka",
+   "San"
+  ],
+  "summary": "”Jonas var specialist på laggkärl.” Registrerad på Lycka; troligen Olof Elofssons bror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140953",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140953"
+   }
+  ],
+  "search": [
+   "Jonas Elofsson"
+  ]
+ },
+ {
+  "id": "ingegerd_e",
+  "name": "Ingegerd Elofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1829-02-28"
+  },
+  "places": [
+   "Lycka"
+  ],
+  "summary": "Registrerad på Lycka; troligen Olof Elofssons syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140924",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140924"
+   }
+  ],
+  "search": [
+   "Ingegerd"
+  ]
+ },
+ {
+  "id": "stina_e",
+  "name": "Stina Elofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1835-01-10",
+   "place": "Östra Takene, Brunskog"
+  },
+  "died": {
+   "date": "1921-11-15"
+  },
+  "places": [
+   "Bärmyra",
+   "Lycka"
+  ],
+  "summary": "Registrerad på Lycka; troligen Olof Elofssons syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 202: 10 jan 1835 Stina, föräldrar bonden Elof Persson i Östra Takene och hustru Maria Andersdotter 48 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00202"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 277906",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/277906"
+   }
+  ],
+  "search": [
+   "Stina Elofsdotter"
+  ]
+ },
+ {
+  "id": "johan_olofsson",
+  "name": "Johan Olofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1850-11-19"
+  },
+  "died": {
+   "date": "1930-02-03"
+  },
+  "places": [
+   "Lycka",
+   "Arvika västra församling"
+  ],
+  "summary": "Kommissionär. Registrerad på Lycka; patronymikon Olofsson – sannolikt son till Olof Elofsson och Kajsa, alltså Marias bror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 136, Ö. Takene: Olof Elofsson 26/11 1826, hustru Cajsa Jansdotter 1826 från Boda, son Johannes 1850",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00136"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140906",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140906"
+   }
+  ],
+  "search": [
+   "Johan Olofsson",
+   "Komisionär"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): ”Son Johannes” f. 11/1850 hos Olof Elofsson och Cajsa Jansdotter."
+  ]
+ },
+ {
+  "id": "majakajsa",
+  "name": "Maja Kajsa Olofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1859-01-23"
+  },
+  "died": {
+   "date": "1859-09-06"
+  },
+  "places": [
+   "Lycka"
+  ],
+  "summary": "Dog som spädbarn. Sannolikt dotter till Olof Elofsson och Kajsa.",
+  "sources": [
+   {
+    "label": "Brunskogs hembygdsförening, personpost 140909",
+    "url": "https://www.hembygd.se/brunskog/plats/226273/person/140909"
+   }
+  ],
+  "search": [
+   "Maja KAJSA",
+   "Maja Kajsa"
+  ]
+ },
+ {
+  "id": "annamaria",
+  "name": "Anna Maria Olsson",
+  "status": "verified",
+  "sex": "f",
+  "altNames": [
+   "ANNA Maria Olsson"
+  ],
+  "places": [
+   "Lycka"
+  ],
+  "summary": "Marias dotter enligt bildtext – alltså Johans syster och Elofs faster.",
+  "sources": [
+   {
+    "label": "Bildtext: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene. Till höger står dottern Maria och hennes dotter Anna.”",
+    "url": "https://www.hembygd.se/brunskog/plats/226310/picture/3338647"
+   }
+  ],
+  "search": [
+   "ANNA Maria Olsson",
+   "Anna Maria Olsson"
+  ],
+  "born": {
+   "date": "1901",
+   "place": "Boda"
+  }
+ },
+ {
+  "id": "arvid1890",
+  "name": "Arvid Olsson (1890)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1890-11-27"
+  },
+  "died": {
+   "date": "1903-07-21"
+  },
+  "places": [
+   "Lyckane"
+  ],
+  "summary": "Registrerad på Lyckane tillsammans med Olof August Johannesson. Sannolikt hans son, Johans bror, död 12 år gammal.",
+  "sources": [
+   {
+    "label": "Lyckane, se Olof August Johannessons personpost 241318",
+    "url": "https://www.hembygd.se/brunskog/plats/226371/person/241318"
+   }
+  ],
+  "search": [
+   "ARVID Olsson",
+   "1890-11-27"
+  ]
+ },
+ {
+  "id": "hanna_e",
+  "name": "Hanna Elisabeth Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1876-07-05"
+  },
+  "died": {
+   "date": "1915-08-12"
+  },
+  "places": [
+   "Där Nole i Skog",
+   "Hagen"
+  ],
+  "summary": "Ogift dam. Huldas syster/bror (mycket stark kandidat): inlagd i registret i samma följd som föräldrarna Erik Nilsson Zetterlund och Anna Andersdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 389451",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/389451"
+   }
+  ],
+  "search": [
+   "Hanna Elisabeth Eriksdotter"
+  ]
+ },
+ {
+  "id": "paul_e",
+  "name": "Paul Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1881-11-06"
+  },
+  "died": {
+   "date": "1959-07-24"
+  },
+  "places": [
+   "Där Nole i Skog"
+  ],
+  "summary": "Huldas syster/bror (mycket stark kandidat): inlagd i registret i samma följd som föräldrarna Erik Nilsson Zetterlund och Anna Andersdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 389453",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/389453"
+   }
+  ],
+  "search": [
+   "Paul Eriksson"
+  ]
+ },
+ {
+  "id": "signe_e",
+  "name": "Signe Maria Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1889-02-08"
+  },
+  "died": {
+   "date": "1982-08-19"
+  },
+  "places": [
+   "Där Nole i Skog"
+  ],
+  "summary": "Huldas syster/bror (mycket stark kandidat): inlagd i registret i samma följd som föräldrarna Erik Nilsson Zetterlund och Anna Andersdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog: Erik Nilsson + Anna Andersdotter; Signe Maria (änka) med sonen Erik 1915",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_128883435"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Erik Nilsson + Anna Andersdotter med fem barn",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109937602"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 389455",
+    "url": "https://www.hembygd.se/brunskog/plats/221748/person/389455"
+   }
+  ],
+  "search": [
+   "Signe Maria Eriksdotter"
+  ],
+  "notes": [
+   "Folkräkning 1930: änka Johansson Eriksson, bor hos föräldrarna på Skog med sonen Erik f. 1915 (= ERIK Johansson 1915–2000 på Hagen)."
+  ]
+ },
+ {
+  "id": "johannes_z",
+  "name": "Johannes Zetterlund",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1848-11-01"
+  },
+  "died": {
+   "date": "1941-04-20"
+  },
+  "places": [
+   "Östra Takene",
+   "Eda församling"
+  ],
+  "summary": "Registerposten anger uttryckligen: ”Far Nils Eriksson, mor Britta Nilsdotter.” Samma efternamn och samma föräldrar som MyHeritage anger för Erik Nilsson Zetterlund – alltså mycket stark kandidat som Eriks bror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   },
+   {
+    "label": "Brunskogs hembygdsförening, personpost 389315",
+    "url": "https://www.hembygd.se/brunskog/plats/226232/person/389315"
+   }
+  ],
+  "search": [
+   "Johannes Zetterlund"
+  ]
+ },
+ {
+  "id": "andersjansson",
+  "name": "Anders Jansson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1834",
+   "place": "Boda, Värmland"
+  },
+  "places": [
+   "Nordsjö/Nohlsjö, Boda"
+  ],
+  "summary": "Hemmansägare i Boda. Andra make till Anna Andersdotter och styvfar till Olof August Johannesson (folkräkning 1880).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö: Olof August Johannesson, styvson till Anders Jansson; modern Anna Andersdotter",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120430864"
+   }
+  ],
+  "search": [
+   "Anders Jansson"
+  ]
+ },
+ {
+  "id": "olof_am",
+  "name": "Olof Andersson (1841)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1841-11-24",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Son till Anders Månsson och Anna Olsdotter (folkräkning 1880) – alltså Anna Andersdotters bror och Huldas morbror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423020"
+   }
+  ],
+  "search": [
+   "Olof, f. 1841"
+  ]
+ },
+ {
+  "id": "olofjansson",
+  "name": "Olof Jansson (1821)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1821",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hemmansägare på Östra Takene; Britta Nilsdotters andra make och styvfar till Erik Nilsson Zetterlund och Johannes Zetterlund.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_120423125"
+   }
+  ],
+  "search": [
+   "Olof Jansson"
+  ]
+ },
+ {
+  "id": "cajsa_am",
+  "name": "Cajsa Andersdotter (1844)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1844-02-10",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Dotter till Anders Månsson och Anna Olsdotter – Anna Andersdotters syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   }
+  ],
+  "search": [
+   "Cajsa 1844"
+  ]
+ },
+ {
+  "id": "nils_ne",
+  "name": "Nils Nilsson (1841)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1841",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Nils Ersson och Britta Nilsdotter (husförhörslängd 1846–1850) – Erik Nilsson Zetterlunds syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   }
+  ],
+  "search": [
+   "Nils Nilsson (1841)"
+  ]
+ },
+ {
+  "id": "cajsa_ne",
+  "name": "Cajsa Nilsdotter (1846)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1846",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Nils Ersson och Britta Nilsdotter (husförhörslängd 1846–1850) – Erik Nilsson Zetterlunds syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   }
+  ],
+  "search": [
+   "Cajsa Nilsdotter (1846)"
+  ]
+ },
+ {
+  "id": "per_e",
+  "name": "Per Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1811-03-30",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "I Elof Perssons familj på Östra Takene ½ skatte (husförhörslängd 1846–1850) – Olof Elofssons syskon. Bonde, hushållsföreståndare.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   }
+  ],
+  "search": [
+   "Per Elofsson"
+  ]
+ },
+ {
+  "id": "anders_e",
+  "name": "Anders Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1816",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "I Elof Perssons familj på Östra Takene ½ skatte (husförhörslängd 1846–1850) – Olof Elofssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   }
+  ],
+  "search": [
+   "Anders Elofsson"
+  ]
+ },
+ {
+  "id": "jan_e",
+  "name": "Jan Elofsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1819-01-11",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "I Elof Perssons familj på Östra Takene ½ skatte (husförhörslängd 1846–1850) – Olof Elofssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   }
+  ],
+  "search": [
+   "Jan Elofsson"
+  ]
+ },
+ {
+  "id": "britta_e",
+  "name": "Britta Elofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1824-03-03",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "I Elof Perssons familj på Östra Takene ½ skatte (husförhörslängd 1846–1850) – Olof Elofssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   }
+  ],
+  "search": [
+   "Britta Elofsdotter"
+  ]
+ },
+ {
+  "id": "jan_jonasson",
+  "name": "Jan Jonasson",
+  "status": "verified",
+  "sex": "m",
+  "places": [
+   "Lerbodatorp, Boda"
+  ],
+  "summary": "Kajsa Jansdotters far enligt Bodas födelsebok 1826 – alltså Maria Olofsdotters morfar och Johans mormors far.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 25: 9 juni 1826 Kaisa, Lerbodatorp, föräldrar Jan Jonasson och Kaisa Persdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00025"
+   }
+  ],
+  "search": [
+   "Jan Jonasson"
+  ]
+ },
+ {
+  "id": "kajsa_persd",
+  "name": "Kaisa Persdotter",
+  "status": "verified",
+  "sex": "f",
+  "places": [
+   "Lerbodatorp, Boda"
+  ],
+  "summary": "Kajsa Jansdotters mor enligt Bodas födelsebok 1826 – alltså Maria Olofsdotters mormor och Johans mormors mor.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 25: 9 juni 1826 Kaisa, Lerbodatorp, föräldrar Jan Jonasson och Kaisa Persdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00025"
+   }
+  ],
+  "search": [
+   "Kaisa Persdotter"
+  ]
+ },
+ {
+  "id": "olof_andersson82",
+  "name": "Olof Andersson (1782)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1782",
+   "note": "Årtalet från användarträdet."
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Namngiven som far till Anna, f. 1813 på Lerhol, i Brunskogs födelsebok. Mycket stark kandidat som far till Anna Olsdotter (Huldas mormor).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 110: [mars] 22 1813 Anna, Lerhol, föräldrar Olof Andersson och Kari Jonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00110"
+   }
+  ],
+  "search": [
+   "Olof Andersson"
+  ]
+ },
+ {
+  "id": "kari_jonsd",
+  "name": "Kari (Karin) Jonsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1785",
+   "note": "Årtalet från användarträdet."
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Namngiven som mor till Anna, f. 1813 på Lerhol, i Brunskogs födelsebok. Mycket stark kandidat som mor till Anna Olsdotter (Huldas mormor).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 110: [mars] 22 1813 Anna, Lerhol, föräldrar Olof Andersson och Kari Jonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00110"
+   }
+  ],
+  "search": [
+   "Kari"
+  ]
+ },
+ {
+  "id": "mans_daniels",
+  "name": "Måns Danielsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1797-06-14",
+   "place": "Smådal, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Bonde på Skog, f. 14/6 1797. Uttryckligen far till Anders Månsson (”deras son Anders 18/9 1818”) i husförhörslängden 1831–1835.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 56: 14 juni 1797 tvillingarna Måns och Anders, Smådal, föräldrar Daniel Nilsson och Anna Jonsdotter (f. 1767)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00056"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 132: 1 okt 1818 Anders, Skog, föräldrar Måns Danielsson och Marit Olsdotter (20 år); faddrar Per Olsson och Karin Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00132"
+   }
+  ],
+  "search": [
+   "Måns Danielsson"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 100), Skog: ”Bond. Måns Danielsson 14/6 1797”, hustru Marit Olsdotter (1798), deras son Anders (18/9 1818), dottern Maria (12/2 1821), dottern Cajsa (3/2 1824) och sonen Olof (21/7 1831)."
+  ]
+ },
+ {
+  "id": "marit_olsd98",
+  "name": "Marit Olsdotter (1798)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1798"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Mor till Anders Månsson enligt Brunskogs födelsebok 1818.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 132: 1 okt 1818 Anders, Skog, föräldrar Måns Danielsson och Marit Olsdotter (20 år); faddrar Per Olsson och Karin Andersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00132"
+   }
+  ],
+  "search": [
+   "Marit Olsdotter"
+  ]
+ },
+ {
+  "id": "erik_christ",
+  "name": "Erik Christophersson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1779-05-25",
+   "place": "Fryksände"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Bonde på Östra Takene, f. 25/5 1779 i Fryksände. Far till Nils (f. 1820) och åtta syskon enligt födelsebok 1820 och husförhörslängd 1831–1835. Lever 1831–35 – användarträdets dödsår 1818 är fel.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 140: 4 maj 1820 Nils, Ö. Takene, föräldrar Erik Christophersson och Brita Olsdotter (40 år)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00140"
+   }
+  ],
+  "search": [
+   "Erik Christophersson"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 117), Ö. Takene: ”Bonde Erik Christophersson 25/5 1779 Fryksände”, hustru Britta Olsdotter (15/11 1790), barnen Sven (29/1 1811), Maria (4/2 1813), Olof (2/5 1815), Cajsa (1817), Nils (5/1820), Jonas (18/8 1822), Ingård (2/2 1825), Anna (4/8 1827) och Karin."
+  ]
+ },
+ {
+  "id": "brita_olsd90",
+  "name": "Brita Olsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1790-11-15",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Erik Christopherssons hustru, f. 15/11 1790 i Brunskog. Mor till Nils (1820) och åtta syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 38: 15 nov 1790 Brita, Ö. Takene, föräldrar S. Olof Olsson och Ingierd Nilsdotter (f. 1761)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00038"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 140: 4 maj 1820 Nils, Ö. Takene, föräldrar Erik Christophersson och Brita Olsdotter (40 år)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00140"
+   }
+  ],
+  "search": [
+   "Brita Olsdotter"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1831–1835 (bild 117): f. 15/11 1790, hustru till Erik Christophersson. Födelsebokens ”40 år” 1820 bör alltså läsas som 30."
+  ]
+ },
+ {
+  "id": "per_elofsson28",
+  "name": "Per Elofsson (1728)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1728",
+   "note": "Användarträdet: 1728–1800."
+  },
+  "places": [
+   "Uppsjön/Oppsjön, Brunskog"
+  ],
+  "summary": "Far till Elof, f. 1776 på Uppsjön, enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 152: 29 [sept] 1776 Elof, Uppsjön, föräldrar Per Elofsson och Kari Elofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00152"
+   }
+  ],
+  "search": [
+   "Per Elofsson"
+  ],
+  "notes": [
+   "SÖKT 2026-10-02: Husförhörslängd A I/4 (1775–1781), Toltan (bild 171–177, sida 152–158). Hushållet där finns inte på de lästa sidorna. Lead: på bild 176 (”Toltan Åsen”, nr 6) står ”Mattes Elofsson” f. ca 1732 – möjligen Per Elofssons bror. Bild 177–178 (Toltan) ej färdiglästa.",
+   "SÖKT 2026-10-02: Brunskogs födelsebok C I/1, år 1728, poster nr 4–19 (bild 170–172) och 20–31 (bild 173–174) genomlästa – ingen Per med fadern Elof hittad. Födelseåret 1728 (användarträdet) är därför osäkert, eller så är han född i annan socken. Husförhörslängden A I/1 (1760–63) har kolumn för födelseår men Toltan/Uppsjön saknas i dess register; Ö. Takene (bild 84–93) innehåller inte hans hushåll."
+  ]
+ },
+ {
+  "id": "karin_elofsd35",
+  "name": "Kari (Karin) Elofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1735",
+   "note": "Användarträdet: 1735–1823."
+  },
+  "places": [
+   "Uppsjön/Oppsjön, Brunskog"
+  ],
+  "summary": "Mor till Elof, f. 1776 på Uppsjön, enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 152: 29 [sept] 1776 Elof, Uppsjön, föräldrar Per Elofsson och Kari Elofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00152"
+   }
+  ],
+  "search": [
+   "Kari"
+  ]
+ },
+ {
+  "id": "brittamajsa_j",
+  "name": "Britta Majsa Johannesdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1853-04-02",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter till Johannes Olsson och Anna Andersdotter (husförhörslängd Boda 1856–1860) – Olof August Johannessons syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   }
+  ],
+  "search": [
+   "Britta Majsa Johannesdotter"
+  ]
+ },
+ {
+  "id": "maria_j",
+  "name": "Maria Johannesdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1855",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter till Johannes Olsson och Anna Andersdotter (husförhörslängd Boda 1856–1860) – Olof August Johannessons syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   }
+  ],
+  "search": [
+   "Maria Johannesdotter"
+  ]
+ },
+ {
+  "id": "brittacaisa_j",
+  "name": "Britta Caisa Johannesdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1859",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter till Johannes Olsson och Anna Andersdotter (husförhörslängd Boda 1856–1860) – Olof August Johannessons syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   }
+  ],
+  "search": [
+   "Britta Caisa Johannesdotter"
+  ]
+ },
+ {
+  "id": "olof_christ",
+  "name": "Olof Christophersson",
+  "status": "verified",
+  "sex": "m",
+  "places": [
+   "Boda"
+  ],
+  "summary": "Namngiven som far till Johannes, född i maj 1830 i Boda, enligt Bodas födelsebok. Mycket stark kandidat som far till Johannes Olsson (Olof Augusts far).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 31: [maj] 17 1830 Johannes, Boda, föräldrar Olof Christophersson och Britta Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00031"
+   }
+  ],
+  "search": [
+   "Olof Christophersson"
+  ]
+ },
+ {
+  "id": "britta_nilsd_boda",
+  "name": "Britta Nilsdotter (Boda)",
+  "status": "verified",
+  "sex": "f",
+  "places": [
+   "Boda"
+  ],
+  "summary": "Namngiven som mor till Johannes, född i maj 1830 i Boda, enligt Bodas födelsebok. Mycket stark kandidat som mor till Johannes Olsson (Olof Augusts far). Användarträdet anger i stället modern Karin Olsdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelsebok C I/3 (1820–1858), bild 31: [maj] 17 1830 Johannes, Boda, föräldrar Olof Christophersson och Britta Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00031"
+   }
+  ],
+  "search": [
+   "Britta Nilsdotter"
+  ]
+ },
+ {
+  "id": "marit_e",
+  "name": "Marit Elofsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1808",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Dotter till Elof Persson och Maria Andersdotter (husförhörslängd 1831–1835) – Olof Elofssons äldsta syster.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 112: sida 94, Ö. Takene: bonde Elof Persson 27/9 1776 Toltan, hustru Maria Andersdotter 1787, barnen Per, Anders, Jan, Jonas, Britta, Olof, Ingegerd, Marit och Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00112"
+   }
+  ],
+  "search": [
+   "Marit Elofsdotter",
+   "Dtr Marit"
+  ]
+ },
+ {
+  "id": "sven_ec",
+  "name": "Sven Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1811-01-29",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Sven Eriksson"
+  ]
+ },
+ {
+  "id": "maria_ec",
+  "name": "Maria Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1813-02-04",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Maria Eriksdotter"
+  ]
+ },
+ {
+  "id": "olof_ec",
+  "name": "Olof Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1815-05-02",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Olof Eriksson"
+  ]
+ },
+ {
+  "id": "cajsa_ec",
+  "name": "Cajsa Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1817",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Cajsa Eriksdotter"
+  ]
+ },
+ {
+  "id": "jonas_ec",
+  "name": "Jonas Eriksson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1822-08-18",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Jonas Eriksson"
+  ]
+ },
+ {
+  "id": "ingard_ec",
+  "name": "Ingård Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1825-02-02",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Ingård Eriksdotter"
+  ]
+ },
+ {
+  "id": "anna_ec",
+  "name": "Anna Eriksdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1827-08-04",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   }
+  ],
+  "search": [
+   "Anna Eriksdotter"
+  ]
+ },
+ {
+  "id": "maria_md",
+  "name": "Maria Månsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1821-02-12",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Barn till Måns Danielsson och Marit Olsdotter (husförhörslängd 1831–1835) – Anders Månssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   }
+  ],
+  "search": [
+   "Maria Månsdotter"
+  ]
+ },
+ {
+  "id": "cajsa_md",
+  "name": "Cajsa Månsdotter",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1824-02-03",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Barn till Måns Danielsson och Marit Olsdotter (husförhörslängd 1831–1835) – Anders Månssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   }
+  ],
+  "search": [
+   "Cajsa Månsdotter"
+  ]
+ },
+ {
+  "id": "olof_md",
+  "name": "Olof Månsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1831-07-21",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Barn till Måns Danielsson och Marit Olsdotter (husförhörslängd 1831–1835) – Anders Månssons syskon.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 100, Skog: bonde Måns Danielsson 14/6 1797, hustru Marit Olsdotter 1798, deras son Anders 18/9 1818, Maria 1821, Cajsa 1824, Olof 1831",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   }
+  ],
+  "search": [
+   "Olof Månsson"
+  ]
+ },
+ {
+  "id": "anders_arnesson",
+  "name": "Anders Arnesson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1754",
+   "note": "Årtal från användarträdet (1754–1828)."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Maria Andersdotter (f. 16/9 1787 på Ö. Takene) enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 25: 16 sept 1787 Maria, Ö. Takene, föräldrar Anders Arnesson och Kjersti Olsdotter (f. 1766)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00025"
+   }
+  ],
+  "search": [
+   "Anders Arnesson"
+  ]
+ },
+ {
+  "id": "kjersti_olsd66",
+  "name": "Kjersti Olsdotter (1766)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1766",
+   "note": "Födelseboken 1787 anger 1766; användarträdet anger 1760–1790."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Mor till Maria Andersdotter enligt Brunskogs födelsebok 1787.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 25: 16 sept 1787 Maria, Ö. Takene, föräldrar Anders Arnesson och Kjersti Olsdotter (f. 1766)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00025"
+   }
+  ],
+  "search": [
+   "Kjersti Olsdotter"
+  ]
+ },
+ {
+  "id": "olof_olsson_s",
+  "name": "Olof Olsson (soldat?)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "",
+   "note": "Betecknas ”S.” i födelseboken 1790, troligen soldat."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Brita (f. 15/11 1790 på Ö. Takene) enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 38: 15 nov 1790 Brita, Ö. Takene, föräldrar S. Olof Olsson och Ingierd Nilsdotter (f. 1761)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00038"
+   }
+  ],
+  "search": [
+   "Olof Olsson"
+  ]
+ },
+ {
+  "id": "ingierd_nilsd61",
+  "name": "Ingierd Nilsdotter (1761)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1761"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Mor till Brita (f. 15/11 1790) enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 38: 15 nov 1790 Brita, Ö. Takene, föräldrar S. Olof Olsson och Ingierd Nilsdotter (f. 1761)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00038"
+   }
+  ],
+  "search": [
+   "Ingierd Nilsdotter"
+  ]
+ },
+ {
+  "id": "daniel_nilsson",
+  "name": "Daniel Nilsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Smådal, Brunskog"
+  ],
+  "summary": "Far till tvillingarna Måns och Anders, f. 14/6 1797 på Smådal, enligt Brunskogs födelsebok.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 56: 14 juni 1797 tvillingarna Måns och Anders, Smådal, föräldrar Daniel Nilsson och Anna Jonsdotter (f. 1767)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00056"
+   }
+  ],
+  "search": [
+   "Daniel Nilsson"
+  ]
+ },
+ {
+  "id": "anna_jonsd67",
+  "name": "Anna Jonsdotter (1767)",
+  "status": "verified",
+  "sex": "f",
+  "born": {
+   "date": "1767"
+  },
+  "places": [
+   "Smådal, Brunskog"
+  ],
+  "summary": "Mor till tvillingarna Måns och Anders, f. 14/6 1797 på Smådal.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 56: 14 juni 1797 tvillingarna Måns och Anders, Smådal, föräldrar Daniel Nilsson och Anna Jonsdotter (f. 1767)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00056"
+   }
+  ],
+  "search": [
+   "Anna Jonsdotter"
+  ]
+ },
+ {
+  "id": "anders_dn",
+  "name": "Anders Danielsson",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1797-06-14",
+   "place": "Smådal, Brunskog"
+  },
+  "places": [
+   "Smådal, Brunskog"
+  ],
+  "summary": "Måns Danielssons tvillingbror (Brunskogs födelsebok 1797).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 56: 14 juni 1797 tvillingarna Måns och Anders, Smådal, föräldrar Daniel Nilsson och Anna Jonsdotter (f. 1767)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00056"
+   }
+  ],
+  "search": [
+   "Anders Danielsson"
   ]
  }
 ]

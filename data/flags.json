@@ -1,12 +1,26 @@
 {
  "open": [
   {
-   "title": "Elofs föräldrar",
-   "text": "Johan Olsson + Hulda Eriksson är starka kandidater men inte bevisade. Ingen födelsenotis eller hushållssida namnger dem.",
+   "title": "Per Elofssons födelse (”1728”)",
+   "text": "Ej funnen i Brunskogs födelsebok 1728 (nr 4–31). Nästa: husförhörslängderna A I/2–A I/5 (1764–1789) för Uppsjön/Toltan, som ger hans exakta födelsedata, samt hans död 1800 (dödbok med ålder).",
+   "persons": [
+    "per_elofsson28",
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Elofs födelseförsamling – ny ledtråd",
+   "text": "Fadern Johan Olof Olsson var korpral vid Kungliga Fälttelegrafkåren. Elof (f. 1914-12-14) kan vara född där kåren var förlagd. Sök i kårens rullor och i den församlingens födelsebok 1914.",
    "persons": [
     "elof",
-    "johan",
-    "hulda"
+    "johan"
+   ]
+  },
+  {
+   "title": "Erik Johan Eriksson i USA",
+   "text": "Han är nu belagd som Huldas bror (folkräkningar 1880–1900). Han finns hemma 1900 och emigrerade 1903. Destinationen i USA är olöst; Minneapolis/Minnesota och California är familjeleads.",
+   "persons": [
+    "erikjohan"
    ]
   },
   {
@@ -14,13 +28,6 @@
    "text": "Inte Mangskog och inte Brunskog (originalböcker lästa). Nästa steg: SCB-utdrag och originalböcker för angränsande församlingar 1914, datum 14 december.",
    "persons": [
     "elof"
-   ]
-  },
-  {
-   "title": "Erik Johan Erikssons USA-spår",
-   "text": "Emigrationen till Nordamerika 1903 är lokalhistoriskt belagd. Destination, hamn och utflyttningsrad (Brunskog B:7) är olösta. Minneapolis/Minnesota och California är endast familjeleads. Relationen till familjen anges inte i underlaget.",
-   "persons": [
-    "erikjohan"
    ]
   },
   {
@@ -81,6 +88,62 @@
   }
  ],
  "conflicts": [
+  {
+   "title": "Löst: Anders Månssons födelsedag",
+   "text": "Två husförhörslängder (1831–35 och 1846–50) anger 18/9 1818. Födelsebokens post för Anders, Skog, med samma föräldrar står under 1 oktober.",
+   "persons": [
+    "andersmansson"
+   ]
+  },
+  {
+   "title": "Löst: Elof Perssons födelsedag, Erik Christopherssons dödsår, Brita Olsdotters ålder",
+   "text": "Husförhörslängd 1831–1835: Elof Persson f. 27/9 1776 (inte 29/11). Erik Christophersson lever 1831–35 (inte död 1818). Britta Olsdotter f. 15/11 1790 (födelsebokens ”40” = 30).",
+   "persons": [
+    "elofpersson",
+    "erik_christ",
+    "brita_olsd90"
+   ]
+  },
+  {
+   "title": "Johannes Olssons födelsedag och mor",
+   "text": "Husförhöret Boda 1856–60 kan läsas 12/5 1830; födelseboken 1830 har dag 17 i maj. Födelseboken anger modern Britta Nilsdotter, användarträdet Karin Olsdotter.",
+   "persons": [
+    "johannesolsson",
+    "britta_nilsd_boda"
+   ]
+  },
+  {
+   "title": "Anna Olsdotters födelsedag: 24/2 eller 22/3 1813",
+   "text": "Husförhörslängden 1846–1850 (bild 125) läses som 24/2 1813. Födelseboken 1813 (bild 110) har ”Anna, Lerhol, Olof Andersson och Kari Jonsdotter” under mars, dag 22. Läs om båda sidorna eller sök en annan Anna Olsdotter född 24/2 1813.",
+   "persons": [
+    "annaolsdotter"
+   ]
+  },
+  {
+   "title": "Anna Andersdotters födelseår: 1821 eller 1826",
+   "text": "Användarträdet och MyHeritage anger 1821. Folkräkningarna 1880 och 1890 i Boda anger 1826.",
+   "persons": [
+    "anna1821"
+   ]
+  },
+  {
+   "title": "Johans födelseår: ca 1880 eller 1886",
+   "text": "Användarträdet och MyHeritage anger ca 1880. Hembygdsföreningens register anger exakt 1886-09-23. Registret är närmare källorna; MyHeritage-årtalet är troligen en uppskattning.",
+   "persons": [
+    "johan"
+   ]
+  },
+  {
+   "title": "Skolfotot 1921 användes som belägg för fel generation",
+   "text": "”Johan Olsson Där Nere i Skog” och ”Hulda Eriksson Boställe Skog” på Takene skolfoto 1921 är skolbarn födda ca 1907–1914. De kan inte vara Johan f. 1880 eller Hulda f. 1885. Huldas Boställe-uppgift och Johans platsankare har tagits bort.",
+   "persons": [
+    "johan",
+    "hulda"
+   ],
+   "images": [
+    "img03"
+   ]
+  },
   {
    "title": "Janina: Kogut eller Orzechowska",
    "text": "Master: ”INTE Kogut”. MyHeritage-vyn: ”Janina Jaćkiewicz, född Kogut”.",

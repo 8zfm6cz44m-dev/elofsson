@@ -5,122 +5,170 @@
   "intro": "Elof Olssons och Ellen Anderssons familjer, med Där Nole/Nolemark och Eriksson-grenen. Linjernas färg och streck visar relationens bevisläge, inte personens.",
   "focus": "elof",
   "rows": {
-   "0": "Äldre leads, födda ca 1810–1830",
-   "1": "Födda ca 1840–1865",
-   "2": "Födda ca 1875–1895",
-   "3": "Födda ca 1910–1925",
+   "0": "Födda ca 1813–1835",
+   "1": "Födda ca 1843–1863",
+   "2": "Födda ca 1876–1890",
+   "3": "Födda ca 1909–1925",
    "4": "Födda ca 1940–1960",
-   "5": "Födda ca 1980"
+   "5": "Födda ca 1980",
+   "-1": "Födda ca 1776–1798",
+   "-2": "Födda ca 1728–1767"
   },
-  "leadRows": [
-   0
-  ],
+  "leadRows": [],
   "pos": {
-   "johannesolsson": [
+   "elofpersson": [
+    2.5,
+    -1
+   ],
+   "mariaand1787": [
+    3.5,
+    -1
+   ],
+   "nilseriksson": [
+    -3.5,
+    0
+   ],
+   "brittanils": [
+    -2.5,
+    0
+   ],
+   "andersmansson": [
+    -0.5,
+    0
+   ],
+   "annaolsdotter": [
     0.5,
     0
    ],
-   "anna1821": [
+   "jonas_e": [
+    -4.5,
+    0
+   ],
+   "ingegerd_e": [
+    2.5,
+    0
+   ],
+   "stina_e": [
     1.5,
     0
    ],
    "olofelofsson": [
-    2.5,
+    3.5,
     0
    ],
    "kajsa": [
-    3.5,
-    0
-   ],
-   "nilseriksson": [
     4.5,
     0
    ],
-   "brittanils": [
+   "johannesolsson": [
     5.5,
     0
    ],
-   "andersmansson": [
+   "anna1821": [
     6.5,
     0
    ],
-   "annaolsdotter": [
-    7.5,
-    0
-   ],
-   "olofaugust": [
-    1.5,
-    1
-   ],
-   "maria": [
-    2.5,
-    1
-   ],
    "zetterlund": [
-    3.5,
+    0.5,
     1
    ],
    "annaandersdotter": [
+    1.5,
+    1
+   ],
+   "johan_olofsson": [
+    2.5,
+    1
+   ],
+   "majakajsa": [
+    3.5,
+    1
+   ],
+   "maria": [
     4.5,
     1
    ],
+   "olofaugust": [
+    5.5,
+    1
+   ],
    "martineriksson": [
-    7.5,
+    9.5,
     1
    ],
    "lovisa": [
-    8.5,
+    10.5,
     1
    ],
    "johannespersson": [
-    10,
-    1
-   ],
-   "erikjohan": [
     12,
     1
    ],
-   "johan": [
-    2.5,
+   "hanna_e": [
+    -1.5,
+    2
+   ],
+   "erikjohan": [
+    -0.5,
+    2
+   ],
+   "paul_e": [
+    0.5,
+    2
+   ],
+   "signe_e": [
+    1.5,
     2
    ],
    "hulda": [
+    2.5,
+    2
+   ],
+   "johan": [
     3.5,
     2
    ],
+   "annamaria": [
+    4.5,
+    2
+   ],
+   "arvid1890": [
+    5.5,
+    2
+   ],
    "karl": [
-    5,
+    7,
     2
    ],
    "hanna": [
-    6,
+    8,
     2
    ],
    "johanhilmer": [
-    7.5,
-    2
-   ],
-   "annaviktoria": [
-    8.5,
-    2
-   ],
-   "arvidpersson": [
     9.5,
     2
    ],
-   "sally": [
+   "annaviktoria": [
     10.5,
     2
    ],
-   "arvid_lycka": [
+   "arvidpersson": [
+    11.5,
+    2
+   ],
+   "sally": [
+    12.5,
+    2
+   ],
+   "anna_lycka": [
     0,
     3
    ],
-   "anna_lycka": [
+   "valborg": [
     1,
     3
    ],
-   "valborg": [
+   "arvid_lycka": [
     2,
     3
    ],
@@ -149,11 +197,11 @@
     3
    ],
    "anna_arvidsson": [
-    9.5,
+    11.5,
     3
    ],
    "ester": [
-    10.5,
+    12.5,
     3
    ],
    "rolf": [
@@ -199,17 +247,185 @@
    "pernilla_e": [
     8,
     5
+   ],
+   "johannes_z": [
+    -0.5,
+    1
+   ],
+   "andersjansson": [
+    7.5,
+    0
+   ],
+   "olof_am": [
+    -5.5,
+    1
+   ],
+   "olofjansson": [
+    -1.5,
+    0
+   ],
+   "per_e": [
+    -8.5,
+    0
+   ],
+   "anders_e": [
+    -7.5,
+    0
+   ],
+   "jan_e": [
+    -6.5,
+    0
+   ],
+   "britta_e": [
+    -5.5,
+    0
+   ],
+   "nils_ne": [
+    -2.5,
+    1
+   ],
+   "cajsa_ne": [
+    -1.5,
+    1
+   ],
+   "cajsa_am": [
+    -4.5,
+    1
+   ],
+   "jan_jonasson": [
+    5.5,
+    -1
+   ],
+   "kajsa_persd": [
+    6.5,
+    -1
+   ],
+   "olof_andersson82": [
+    -0.5,
+    -1
+   ],
+   "kari_jonsd": [
+    0.5,
+    -1
+   ],
+   "mans_daniels": [
+    -2.5,
+    -1
+   ],
+   "marit_olsd98": [
+    -1.5,
+    -1
+   ],
+   "erik_christ": [
+    -4.5,
+    -1
+   ],
+   "brita_olsd90": [
+    -3.5,
+    -1
+   ],
+   "per_elofsson28": [
+    2.5,
+    -2
+   ],
+   "karin_elofsd35": [
+    3.5,
+    -2
+   ],
+   "brittamajsa_j": [
+    6.5,
+    1
+   ],
+   "maria_j": [
+    7.5,
+    1
+   ],
+   "brittacaisa_j": [
+    8.5,
+    1
+   ],
+   "olof_christ": [
+    7.5,
+    -1
+   ],
+   "britta_nilsd_boda": [
+    8.5,
+    -1
+   ],
+   "marit_e": [
+    -9.5,
+    0
+   ],
+   "sven_ec": [
+    -16.5,
+    0
+   ],
+   "maria_ec": [
+    -15.5,
+    0
+   ],
+   "olof_ec": [
+    -14.5,
+    0
+   ],
+   "cajsa_ec": [
+    -13.5,
+    0
+   ],
+   "jonas_ec": [
+    -12.5,
+    0
+   ],
+   "ingard_ec": [
+    -11.5,
+    0
+   ],
+   "anna_ec": [
+    -10.5,
+    0
+   ],
+   "maria_md": [
+    -19.5,
+    0
+   ],
+   "cajsa_md": [
+    -18.5,
+    0
+   ],
+   "olof_md": [
+    -17.5,
+    0
+   ],
+   "anders_arnesson": [
+    4.5,
+    -2
+   ],
+   "kjersti_olsd66": [
+    5.5,
+    -2
+   ],
+   "olof_olsson_s": [
+    -4.5,
+    -2
+   ],
+   "ingierd_nilsd61": [
+    -3.5,
+    -2
+   ],
+   "daniel_nilsson": [
+    -2.5,
+    -2
+   ],
+   "anna_jonsd67": [
+    -1.5,
+    -2
+   ],
+   "anders_dn": [
+    -5.5,
+    -1
    ]
   },
-  "groups": [
-   {
-    "label": "Olöst spår, relation okänd",
-    "x": 12,
-    "y": 1,
-    "w": 1,
-    "h": 1
-   }
-  ]
+  "groups": []
  },
  {
   "id": "mamma",
