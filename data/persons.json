@@ -102,7 +102,7 @@
   ],
   "born": {
    "date": "1914-12-14",
-   "place": "Födelseförsamling olöst (inte Mangskog eller Brunskog)"
+   "place": "Arvika stadsförsamling, Värmland"
   },
   "died": {
    "date": "1995-12-27"
@@ -111,11 +111,12 @@
    "Lyckan/Lycka, Takene, Brunskog",
    "Hagen, Skog (gruppfoto Där Sö i Tortan)"
   ],
-  "summary": "Martins farfar, konsthantverkare. Född 1914-12-14, död 1995-12-27, Lycka. Föräldrar Johan Olof Olsson och Hulda Eriksson (familjebekräftat). Födelseförsamlingen är olöst.",
+  "summary": "Martins farfar, konsthantverkare. Född 1914-12-14 i Arvika stad, död 1995-12-27, Lycka. Föräldrar Johan Olof Olsson och Hulda Eriksson (familjebekräftat). Födelseförsamlingen är olöst.",
   "flags": [
    "Födelseförsamling olöst"
   ],
   "notes": [
+   "FÖDELSEBOK (SCB-utdrag) Arvika stad 1914, nr 117: ”Dec. 14 – Elof. Fader: Johan Olof Olsson, mek. arb. N:o 347, 86 23/9. Moder: Hulda Eriksson, 85 16/3” (gifta 1909). Löser frågan om födelseförsamlingen – inte Brunskog eller Mangskog utan Arvika stad.",
    "FOLKRÄKNING 1910: Föräldrarna Johan Olof Olsson (korpral) och Hulda bodde då på Takene i Brunskog med sonen Arvid (1909), i samma gårdshushåll som farföräldrarna Olof August Johannesson och Maria samt farmors mor Kajsa Jansdotter.",
    "Registerpost 128838 (Lycka): ”Konsthantverkare”.",
    "Ny ledtråd för födelseförsamlingen: fadern var korpral vid Kungliga Fälttelegrafkåren. Elof kan vara född där kåren var förlagd 1914.",
@@ -128,6 +129,10 @@
    "Möjliga syskon (hypotes): Arvid Olsson (Lycka 1921), Anna Olsson (Lycka 1926), Valborg Olsson (Lycka 1930)."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, SCB-utdrag ur 1914 års födelse- och dopbok för Arvika stads församling (Jösse kontrakt), nr 117: 14 dec 1914 Elof; fader Johan Olof Olsson, mek. arb., nr 347, f. 23/9 1886; moder Hulda Eriksson f. 16/3 1885; gifta 1909",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0031112_00661"
+   },
    {
     "label": "Brunskogs hembygdsförening, personpost 128838",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/128838"
@@ -209,7 +214,7 @@
   "timeline": [
    [
     "1914",
-    "Född 14 december – troligen i Arvika, dit familjen flyttade 1913 (Jan Källne). Inte i Brunskogs eller Mangskogs födelsebok."
+    "Född 14 december i Arvika stadsförsamling; fadern mekanisk arbetare (SCB-utdrag ur Arvika stads födelsebok, nr 117)."
    ],
    [
     "1921",
@@ -972,6 +977,10 @@
   ],
   "sources": [
    {
+    "label": "Riksarkivet, SCB-utdrag ur 1914 års födelse- och dopbok för Arvika stads församling (Jösse kontrakt), nr 117: 14 dec 1914 Elof; fader Johan Olof Olsson, mek. arb., nr 347, f. 23/9 1886; moder Hulda Eriksson f. 16/3 1885; gifta 1909",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0031112_00661"
+   },
+   {
     "label": "Riksarkivet, Folkräkning 1900, Boda, Jonsbohl: Olof August Johannesson + Maria + Johan Olof + Arvid",
     "url": "https://sok.riksarkivet.se/?postid=Folk_109943379"
    },
@@ -1057,6 +1066,10 @@
     "Flyttar med familjen till Arvika, mekanisk arbetare (Jan Källne). Elof föds 1914, Anna 1916, Valborg 1919."
    ],
    [
+    "1914",
+    "Mekanisk arbetare i Arvika (nr 347); sonen Elof föds 14 december."
+   ],
+   [
     "1921",
     "Familjen flyttar till Ormåsen."
    ],
@@ -1111,6 +1124,10 @@
    "Nästa steg: Huldas födelsenotis 1885-03-16 i Brunskogs födelsebok – den namnger föräldrarna."
   ],
   "sources": [
+   {
+    "label": "Riksarkivet, SCB-utdrag ur 1914 års födelse- och dopbok för Arvika stads församling (Jösse kontrakt), nr 117: 14 dec 1914 Elof; fader Johan Olof Olsson, mek. arb., nr 347, f. 23/9 1886; moder Hulda Eriksson f. 16/3 1885; gifta 1909",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0031112_00661"
+   },
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskog, Skog: Hulda (d.) hos Erik Nilsson + Anna Andersdotter",
     "url": "https://sok.riksarkivet.se/?postid=Folk_103597985"
@@ -4131,10 +4148,14 @@
    "note": "Dopdatum."
   },
   "places": [
-   "Toltan, Brunskog"
+   "Toltan Uppsjön, Brunskog"
   ],
   "summary": "Bonde på Toltan. Döpt 14 jan 1728 som son till Elof Nilsson och Marit Isaksdotter i Toltan; begravd 9/4 1800. Far till Elof Persson (1776) enligt husförhörslängden 1775–1781.",
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 201, Toltan Uppsjön nr 6: Per Elofsson 14/1 1728 Toltan, hustru Kari Elofsdotter 1735 Åmot, Olof 27/8 1772, Elof 1776, Brita 1780, Marit 1768",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00201"
+   },
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/1 (1688–1736), bild 170, 1728 nr 1: 14 jan döpt Pehr, föräldrar Elof Nilsson och Marit Isaksdotter i Toltan; marginal: begr. 9/4 1800",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00170"
@@ -4152,6 +4173,7 @@
    "Per Elofsson"
   ],
   "notes": [
+   "HUSFÖRHÖRSLÄNGD 1782–1789 (A I/5 bild 201), Toltan Uppsjön nr 6: ”Per Elofsson 14/1 1728 Toltan” – exakt samma datum som dopet; hustru Kari Elofsdotter f. 1735 i Åmot.",
    "FÖDELSEBOK Brunskog 1728 (C I/1 bild 170, nr 1): ”d. 14 Januarii christnades … Elof Nilssons och h. Marit Isaksdotters i Toltan barn, Pehr kallad.” Marginal: ”Begr. 9/4 1800”.",
    "HUSFÖRHÖRSLÄNGD 1775–1781 (A I/4 bild 178, sida 159), Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, barnen Marit (1768), Olof Persson (1772), Elof Persson (29/9 1776), Brita Persdotter (21/5 1780)."
   ],
@@ -4169,6 +4191,10 @@
     "Bonde på Toltan med hustrun Karin Elofsdotter; barnen Marit (1768), Olof (1772), Elof (1776), Brita (1780)."
    ],
    [
+    "1782–1789",
+    "Bonde på Toltan Uppsjön (nr 6) med hustrun Kari och barnen Olof, Elof och Brita."
+   ],
+   [
     "1800",
     "Begravd 9 april."
    ]
@@ -4181,13 +4207,18 @@
   "sex": "f",
   "born": {
    "date": "1735",
-   "note": "Användarträdet: 1735–1823."
+   "place": "Åmot, Brunskog",
+   "note": "Födelseort enligt husförhör 1782–89; dopet ej funnet bland 1735 års poster 1–41."
   },
   "places": [
    "Toltan, Brunskog"
   ],
   "summary": "Per Elofssons hustru på Toltan (husförhörslängd 1775–1781) och mor till Elof Persson (födelsebok 1776).",
   "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 201, Toltan Uppsjön nr 6: Per Elofsson 14/1 1728 Toltan, hustru Kari Elofsdotter 1735 Åmot, Olof 27/8 1772, Elof 1776, Brita 1780, Marit 1768",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00201"
+   },
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/4 (1775–1781), bild 178, sida 159, Toltan nr 8: Per Elofsson 1728, hustru Karin Elofsdotter 1735, Marit 1768, Olof 1772, Elof Persson 29/9 1776, Brita 21/5 1780",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036743_00178"
@@ -4199,6 +4230,9 @@
   ],
   "search": [
    "Kari"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD 1782–1789 (bild 201): ”H. Kari Elofsdotter 1735 Åmot”. Hennes far bör alltså vara en Elof på Åmot. Dopet finns inte i födelseboken 1735 nr 1–41 – årtalet kan vara ungefärligt (sök 1733–1737)."
   ]
  },
  {
@@ -4583,6 +4617,9 @@
   ],
   "search": [
    "Anders Arnesson"
+  ],
+  "notes": [
+   "VIGSELBOK 1785 (E I/3 bild 11, okt nr 10): ”Dr. Anders Arnesson från Mölnerud och Pig. Karin Svensdotter från Gyllerud” – troligen en annan Anders Arnesson, eftersom Marias mor 1787 heter Kjersti Olsdotter. Vårt par bör ha vigts före 1784 (E I/2, 1763–1783, ej genomläst)."
   ]
  },
  {
@@ -4606,6 +4643,9 @@
   ],
   "search": [
    "Kjersti Olsdotter"
+  ],
+  "notes": [
+   "Kandidat: Kjersti Olofsdotter f. 1760 på Ö. Takene, dotter till Olof Andersson (1733) och Kjersti Jonsdotter, ogift där 1775–89 (A I/4 bild 70, A I/5 bild 74). Användarträdet anger Kjersti Olsdotter f. 1760. Ej bevisat samma person."
   ]
  },
  {
@@ -4742,6 +4782,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1, bild 212, 1735 nr 32: Elof Nilssons och h. Karin Nilsdotters i Toltan son Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00212"
    }
   ],
   "search": [
@@ -4760,6 +4804,10 @@
    [
     "1728",
     "Sonen Per döps i Toltan; hustru Marit Isaksdotter."
+   ],
+   [
+    "1735",
+    "Sonen Nils döps i Toltan; hustrun heter nu Karin Nilsdotter – Marit Isaksdotter är alltså död eller borta före 1735."
    ],
    [
     "1738–1748",
@@ -4810,6 +4858,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–1763), bild 181, Toltan Åsen nr 7: inh. Elof Nilsson f. 1689 (73 år 1760), hustru Kari Nilsdotter 1707, Marit Elofsdotter 1738, Christopher Elofsson 1748; Kari Bengtsdotter 1681",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00181"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1, bild 212, 1735 nr 32: Elof Nilssons och h. Karin Nilsdotters i Toltan son Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00212"
    }
   ],
   "search": [
@@ -4989,6 +5041,52 @@
   "search": [
    "Jan Källne",
    "Källne"
+  ]
+ },
+ {
+  "id": "nils_elofsson35",
+  "name": "Nils Elofsson (1735)",
+  "status": "verified",
+  "sex": "m",
+  "born": {
+   "date": "1735-10",
+   "place": "Toltan, Brunskog"
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Son till Elof Nilsson och Karin Nilsdotter i Toltan, döpt oktober 1735 – Per Elofssons halvbror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelsebok C I/1, bild 212, 1735 nr 32: Elof Nilssons och h. Karin Nilsdotters i Toltan son Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00212"
+   }
+  ],
+  "search": [
+   "Nils Elofsson"
+  ]
+ },
+ {
+  "id": "jan_elofsson18",
+  "name": "Jan Elofsson (1718)",
+  "status": "strong",
+  "sex": "m",
+  "born": {
+   "date": "1718",
+   "place": "Toltan, Brunskog"
+  },
+  "places": [
+   "Toltan Uppsjön"
+  ],
+  "summary": "Född 1718 på Toltan, bonde på Toltan Uppsjön nr 5 (granne med Per Elofsson) 1782–89, gift med Börit Andersdotter (1718, Tobyn). Mycket stark kandidat som Elof Nilssons äldre son och Pers helbror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 200, Toltan Uppsjön nr 5: Jan Elofsson 1718 Toltan, hustru Börit Andersdotter 1718 Tobyn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00200"
+   }
+  ],
+  "search": [
+   "Jan Elofsson"
   ]
  }
 ]

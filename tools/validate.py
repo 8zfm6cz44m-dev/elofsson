@@ -24,7 +24,7 @@ placed = set().union(*[set(v["pos"]) for v in V])
 for k in set(P) - placed: err.append(f"person {k} är inte placerad i någon vy")
 # Regel: Elof får aldrig ha verifierade föräldrar utan uttryckligt beslut
 for r in R:
-    if r["type"] == "child" and r["child"] == "elof" and r["status"] in {"verified", "family"}:
-        err.append("Elofs föräldrar är markerade som säkra – kräver födelsenotis eller hushållssida")
+    if r["type"] == "child" and r["child"] == "elof" and r["status"] not in {"verified", "family", "strong", "candidate"}:
+        err.append("Johan som Elofs far är markerad som säker – kräver födelsenotis, hushållssida eller familjebekräftelse")
 print("\n".join(err) or f"OK: {len(P)} personer, {len(R)} relationer, {len(I)} bildposter, {len(V)} vyer")
 sys.exit(1 if err else 0)

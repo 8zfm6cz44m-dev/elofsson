@@ -9,25 +9,10 @@
    ]
   },
   {
-   "title": "Elofs födelseförsamling – ny ledtråd",
-   "text": "Fadern Johan Olof Olsson var korpral vid Kungliga Fälttelegrafkåren. Elof (f. 1914-12-14) kan vara född där kåren var förlagd. Sök i kårens rullor och i den församlingens födelsebok 1914.",
-   "persons": [
-    "elof",
-    "johan"
-   ]
-  },
-  {
    "title": "Erik Johan Eriksson i USA",
    "text": "Han är nu belagd som Huldas bror (folkräkningar 1880–1900). Han finns hemma 1900 och emigrerade 1903. Destinationen i USA är olöst; Minneapolis/Minnesota och California är familjeleads.",
    "persons": [
     "erikjohan"
-   ]
-  },
-  {
-   "title": "Elofs födelseförsamling",
-   "text": "Inte Mangskog och inte Brunskog (originalböcker lästa). Nästa steg: SCB-utdrag och originalböcker för angränsande församlingar 1914, datum 14 december.",
-   "persons": [
-    "elof"
    ]
   },
   {
@@ -88,6 +73,14 @@
   }
  ],
  "conflicts": [
+  {
+   "title": "Anders Arnesson – två män med samma namn?",
+   "text": "1785 vigs Anders Arnesson (Mölnerud) med Karin Svensdotter. Marias far 1787 är Anders Arnesson med hustru Kjersti Olsdotter. Kontrollera vigsel före 1784 och husförhör 1782–89 (A I/5) i Mölnerud.",
+   "persons": [
+    "anders_arnesson",
+    "kjersti_olsd66"
+   ]
+  },
   {
    "title": "Löst: Anders Månssons födelsedag",
    "text": "Två husförhörslängder (1831–35 och 1846–50) anger 18/9 1818. Födelsebokens post för Anders, Skog, med samma föräldrar står under 1 oktober.",
@@ -261,5 +254,11 @@
   "Gårdar med liknande namn får inte blandas utan bevis.",
   "Retroaktiva bildtexter kan använda senare efternamn.",
   "Interna registerkoder måste tolkas innan de används genealogiskt."
+ ],
+ "resolved": [
+  {
+   "title": "Elofs födelseförsamling",
+   "text": "Arvika stadsförsamling, 14 dec 1914 (SCB-utdrag nr 117)."
+  }
  ]
 }

@@ -265,7 +265,7 @@
   "a": "johan",
   "b": "hulda",
   "status": "verified",
-  "basis": "Folkräkning 1910 Takene: Hulda ”h.” (hustru), gift, i Johan Olof Olssons familj. Familjebekräftat."
+  "basis": "Folkräkning 1910 Takene: Hulda ”h.” (hustru), gift, i Johan Olof Olssons familj. Familjebekräftat. Arvika stads födelsebok 1914: gifta 1909."
  },
  {
   "id": "p-zetterlund-annaandersdotter",
@@ -709,8 +709,8 @@
    "hulda"
   ],
   "child": "elof",
-  "status": "family",
-  "basis": "Familjebekräftat av Martin 2026-10-02. Stöd: Johan, Hulda och Elof är alla registrerade på Lycka i hembygdsföreningens personregister. Födelsenotis saknas (Elof inte född i Brunskog/Mangskog)."
+  "status": "verified",
+  "basis": "Arvika stads födelsebok 1914 nr 117 (SCB-utdrag): fader Johan Olof Olsson f. 23/9 1886, moder Hulda Eriksson f. 16/3 1885. Även familjebekräftat (Martin) och Jan Källnes JOO-historia."
  },
  {
   "id": "c-johan-hulda-arvid_lycka",
@@ -1463,5 +1463,27 @@
   "b": "anna_gata",
   "status": "family",
   "basis": "Jan Källne: JO gifte sig 1895 med Anna från Gata."
+ },
+ {
+  "id": "c-elof_nilsson-kari_nilsd07-nils_elofsson35",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "kari_nilsd07"
+  ],
+  "child": "nils_elofsson35",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/1 bild 212, 1735 nr 32: ”Elof Nilssons och h. Karin Nilsdotters i Toltan son Nils”."
+ },
+ {
+  "id": "c-elof_nilsson-marit_isaksd-jan_elofsson18",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "marit_isaksd"
+  ],
+  "child": "jan_elofsson18",
+  "status": "candidate",
+  "basis": "Samma gård (Toltan), patronymikon Elofsson och ålder passar; dopet 1718 ej kontrollerat i C I/1."
  }
 ]
