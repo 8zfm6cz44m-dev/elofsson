@@ -78,7 +78,7 @@
     1
    ],
    "johan_olofsson": [
-    2.5,
+    14.5,
     1
    ],
    "majakajsa": [
@@ -466,7 +466,7 @@
     1
    ],
    "jan_kallne": [
-    13.5,
+    14,
     3
    ],
    "nils_elofsson35": [
@@ -476,6 +476,10 @@
    "jan_elofsson18": [
     7.5,
     -2
+   ],
+   "jan_forald": [
+    14,
+    2
    ]
   },
   "groups": []
@@ -487,9 +491,10 @@
   "focus": "irena",
   "rows": {
    "0": "Användarträd ovanför Irena",
-   "1": "Födda ca 1926",
+   "1": "Födda ca 1926–1933",
    "2": "Födda 1946–1956",
-   "3": "Födda ca 1975–1985"
+   "3": "Födda ca 1975–1985",
+   "4": "Födda ca 1990–2020"
   },
   "leadRows": [
    0
@@ -564,20 +569,68 @@
     3
    ],
    "beata": [
-    4.5,
+    5,
     3
    ],
    "mariusz": [
-    5.5,
+    6,
     3
    ],
    "pawel": [
-    6.5,
+    7,
     3
    ],
    "martin": [
     8.5,
     3
+   ],
+   "ryszard_o": [
+    4.5,
+    1
+   ],
+   "czeslaw_o": [
+    5.5,
+    1
+   ],
+   "stefania_o": [
+    6.5,
+    1
+   ],
+   "lucyna_o": [
+    7.5,
+    1
+   ],
+   "christian": [
+    9.5,
+    3
+   ],
+   "zbigniew_o": [
+    10.5,
+    2
+   ],
+   "leszek_o": [
+    11.5,
+    2
+   ],
+   "krzysztof_o": [
+    12.5,
+    2
+   ],
+   "bozena_o": [
+    13.5,
+    2
+   ],
+   "david_rozek": [
+    4,
+    3
+   ],
+   "sara_o": [
+    3.5,
+    4
+   ],
+   "kuba_o": [
+    2,
+    4
    ]
   },
   "groups": []

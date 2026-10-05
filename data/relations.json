@@ -1485,5 +1485,88 @@
   "child": "jan_elofsson18",
   "status": "candidate",
   "basis": "Samma gård (Toltan), patronymikon Elofsson och ålder passar; dopet 1718 ej kontrollerat i C I/1."
+ },
+ {
+  "id": "c-johan_olofsson-anna_gata-jan_forald",
+  "type": "child",
+  "parents": [
+   "johan_olofsson",
+   "anna_gata"
+  ],
+  "child": "jan_forald",
+  "status": "family",
+  "basis": "Jan Källne är barnbarn till JO och Anna från Gata (JOO-historien); mellanledet är inte namngivet."
+ },
+ {
+  "id": "c-jan_forald-jan_kallne",
+  "type": "child",
+  "parents": [
+   "jan_forald"
+  ],
+  "child": "jan_kallne",
+  "status": "family",
+  "basis": "Jan Källne är barnbarn till JO och Anna från Gata (JOO-historien); föräldern är inte namngiven."
+ },
+ {
+  "type": "child",
+  "parents": [
+   "sune",
+   "iwona"
+  ],
+  "child": "christian",
+  "status": "family",
+  "basis": "MyHeritage-trädet: Christian är Martins bror.",
+  "id": "c-sune-iwona-christian"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "stefan",
+   "zofia"
+  ],
+  "child": "ryszard_o",
+  "status": "lead",
+  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa.",
+  "id": "c-stefan-zofia-ryszard_o"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "stefan",
+   "zofia"
+  ],
+  "child": "czeslaw_o",
+  "status": "lead",
+  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa.",
+  "id": "c-stefan-zofia-czeslaw_o"
+ },
+ {
+  "type": "partner",
+  "a": "izabela",
+  "b": "david_rozek",
+  "status": "family",
+  "basis": "MyHeritage: ”Kusins make” David Różek.",
+  "id": "p-izabela-david_rozek"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "izabela",
+   "david_rozek"
+  ],
+  "child": "sara_o",
+  "status": "lead",
+  "basis": "MyHeritage-trädvyn: Sara under Izabela och David Różek.",
+  "id": "c-izabela-david_rozek-sara_o"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "dawid"
+  ],
+  "child": "kuba_o",
+  "status": "lead",
+  "basis": "MyHeritage-trädvyn: Kuba under Dawid; modern står som Okänd.",
+  "id": "c-dawid-kuba_o"
  }
 ]

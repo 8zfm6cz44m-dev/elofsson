@@ -2257,6 +2257,12 @@
   "summary": "Martins mamma. Dotter till Irena Jarczyńska och Bolesław Kogut enligt familjen.",
   "search": [
    "Iwona"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2270,10 +2276,11 @@
   ],
   "born": {
    "date": "1926",
-   "place": "Okänd – Trzcińsko-Zdrój får inte antas"
+   "place": "Trzcińsko-Zdrój"
   },
   "died": {
-   "date": "2017"
+   "date": "2017",
+   "place": "Trzcińsko-Zdrój"
   },
   "summary": "Iwonas mor enligt familjen. Födelseort och föräldrar okända.",
   "flags": [
@@ -2289,6 +2296,10 @@
    {
     "label": "Szukaj w Archiwach",
     "url": "https://www.szukajwarchiwach.gov.pl/"
+   },
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -2318,15 +2329,21 @@
   "status": "lead",
   "sex": "m",
   "born": {
-   "date": "1902"
+   "date": "1902-09-07",
+   "place": "Kielce"
   },
   "died": {
-   "date": "1972"
+   "date": "1972-08-13",
+   "place": "Trzcińsko-Zdrój"
   },
-  "summary": "Visas ovanför Irena i användarträdet. Konflikt med födelsenamnet Jarczyńska.",
+  "summary": "Irenas far enligt MyHeritage (Mormorsfar). Född 7 sep 1902 i Kielce, död 13 aug 1972 i Trzcińsko-Zdrój. Konflikt kvarstår: Irenas flicknamn anges som Jarczyńska.",
   "sources": [
    {
     "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   },
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -2342,15 +2359,20 @@
    "Zofia Orzechowska"
   ],
   "born": {
-   "date": "1904"
+   "date": "1904-06-28"
   },
   "died": {
-   "date": "1933"
+   "date": "1933-10-24",
+   "place": "Kielce"
   },
-  "summary": "Visas ovanför Irena i användarträdet.",
+  "summary": "Irenas mor enligt MyHeritage (Mormorsmor). Född 28 juni 1904, död 24 okt 1933 (Kielce enligt listvyn).",
   "sources": [
    {
     "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
+   },
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -2364,7 +2386,8 @@
   "sex": "m",
   "living": true,
   "born": {
-   "date": "1946-05-22"
+   "date": "1946-05-22",
+   "place": "Trzcińsko-Zdrój"
   },
   "summary": "Irenas son enligt familjen. Gift med Celina.",
   "notes": [
@@ -2372,6 +2395,12 @@
   ],
   "search": [
    "Zdzis"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2386,13 +2415,25 @@
  },
  {
   "id": "kasia",
-  "name": "Kasia",
+  "name": "Katarzyna Dzierżba (f. Orzechowska)",
   "status": "family",
   "sex": "f",
   "living": true,
-  "summary": "Barn till Zdzisław och Celina. Full namnform bör verifieras.",
+  "summary": "Barn till Zdzisław och Celina; kusin till Martin. Fullt namn enligt MyHeritage: Katarzyna Dzierżba, född Orzechowska, f. 22 feb 1979.",
   "search": [
+   "Katarzyna Dzierżba",
+   "Katarzyna Orzechowska",
    "Kasia"
+  ],
+  "born": {
+   "date": "1979-02-22",
+   "place": "Trzcińsko-Zdrój"
+  },
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2417,7 +2458,8 @@
    "Grzegorz"
   ],
   "born": {
-   "date": "1952-04-04"
+   "date": "1952-04-04",
+   "place": "Trzcińsko-Zdrój"
   },
   "places": [
    "Chojna"
@@ -2443,6 +2485,10 @@
    {
     "label": "Rejestr.io, POMOT",
     "url": "https://rejestr.io/krs/28788/przedsiebiorstwo-uslugowo-produkcyjne-pomot"
+   },
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -2490,12 +2536,19 @@
    "Isabella"
   ],
   "born": {
-   "date": "1983-12-30"
+   "date": "1983-12-30",
+   "place": "Trzcińsko-Zdrój"
   },
   "summary": "Grzegorz dotter (familjebekräftat). Izabela är den bekräftade namnformen.",
   "search": [
    "Izabela",
    "Isabella"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2505,22 +2558,29 @@
   "sex": "m",
   "living": true,
   "born": {
-   "date": "1955-01-19"
+   "date": "1955-01-19",
+   "place": "Trzcińsko-Zdrój"
   },
   "search": [
    "Roman"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
   "id": "janina",
-  "name": "Janina Orzechowska",
+  "name": "Janina Jaćkiewicz (f. Kogut)",
   "status": "family",
   "sex": "f",
   "living": true,
   "altNames": [
    "Janina Jaćkiewicz"
   ],
-  "summary": "Irenas dotter enligt familjen.",
+  "summary": "Irenas dotter, Martins moster. MyHeritage anger födelsenamn Kogut (inte Orzechowska), boende/född Trzcińsko-Zdrój.",
   "flags": [
    "Namnkonflikt Kogut/Orzechowska"
   ],
@@ -2529,6 +2589,12 @@
   ],
   "search": [
    "Janina"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2549,10 +2615,17 @@
   "sex": "m",
   "living": true,
   "born": {
-   "date": "1978-12-23"
+   "date": "1978-12-23",
+   "place": "Trzcińsko-Zdrój"
   },
   "search": [
    "Mariusz"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -2573,11 +2646,18 @@
   "sex": "m",
   "living": true,
   "born": {
-   "date": "1980-11-23"
+   "date": "1980-11-23",
+   "place": "Trzcińsko-Zdrój"
   },
   "search": [
    "Paweł",
    "Pawel"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
   ]
  },
  {
@@ -5087,6 +5167,276 @@
   ],
   "search": [
    "Jan Elofsson"
+  ]
+ },
+ {
+  "id": "jan_forald",
+  "name": "Förälder till Jan Källne (JO:s barn, ej namngiven)",
+  "status": "family",
+  "sex": "",
+  "living": false,
+  "places": [],
+  "summary": "JO:s och Annas barn och Jan Källnes mor eller far. Namn och födelsedata saknas – fråga Jan. Platshållare som knyter Jan till släktträdet.",
+  "sources": [
+   {
+    "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026) – Jan är barnbarn till JO och Anna från Gata"
+   }
+  ],
+  "search": [
+   "Källne"
+  ]
+ },
+ {
+  "id": "christian",
+  "name": "Christian Elofson",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "places": [],
+  "summary": "Martins bror, son till Sune Elofsson och Iwona Elofsson (MyHeritage: ”Din bror”).",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Christian Elofson"
+  ],
+  "born": {
+   "date": "1987-06-29",
+   "place": "Brunskog"
+  }
+ },
+ {
+  "id": "ryszard_o",
+  "name": "Ryszard Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [],
+  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”), alltså son till Stefan och Zofia Orzechowski. Användarträd – obekräftat.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Ryszard Orzechowski"
+  ],
+  "born": {
+   "date": "1931-06-11",
+   "place": "Kielce"
+  }
+ },
+ {
+  "id": "czeslaw_o",
+  "name": "Czesław Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [],
+  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”, avliden). Stavningen i trädet är ”Czcslaw”.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Czesław Orzechowski"
+  ]
+ },
+ {
+  "id": "stefania_o",
+  "name": "Stefania Orzechowski",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [],
+  "summary": "Ingift moster till Iwona enligt MyHeritage (”Mors ingifta moster”); gift med en av Irenas bröder (vilken är inte angivet i listvyn).",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Stefania Orzechowski"
+  ],
+  "born": {
+   "date": "1933-06-05",
+   "place": "Kielce"
+  }
+ },
+ {
+  "id": "lucyna_o",
+  "name": "Lucyna Orzechowska",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [],
+  "summary": "Ingift moster till Iwona enligt MyHeritage; gift med en av Irenas bröder (vilken är inte angivet).",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Lucyna Orzechowska"
+  ],
+  "born": {
+   "date": "1931"
+  },
+  "died": {
+   "date": "Avliden"
+  }
+ },
+ {
+  "id": "zbigniew_o",
+  "name": "Zbigniew Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [],
+  "summary": "Iwonas kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Zbigniew Orzechowski"
+  ],
+  "born": {
+   "date": "1955-07-01",
+   "place": "Kielce"
+  }
+ },
+ {
+  "id": "leszek_o",
+  "name": "Leszek Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [],
+  "summary": "Iwonas kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Leszek Orzechowski"
+  ],
+  "born": {
+   "date": "ca 1950"
+  },
+  "died": {
+   "date": "1985"
+  }
+ },
+ {
+  "id": "krzysztof_o",
+  "name": "Krzysztof Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [],
+  "summary": "Iwonas kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Krzysztof Orzechowski"
+  ],
+  "born": {
+   "date": "1955-10-04"
+  },
+  "died": {
+   "date": "2017"
+  }
+ },
+ {
+  "id": "bozena_o",
+  "name": "Bozena Orzechowska",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [],
+  "summary": "Iwonas kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Bozena Orzechowska"
+  ],
+  "born": {
+   "date": "1960-06-19"
+  }
+ },
+ {
+  "id": "david_rozek",
+  "name": "David Różek",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "places": [],
+  "summary": "Make/partner till kusinen Izabela enligt MyHeritage (”Kusins make”).",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "David Różek"
+  ]
+ },
+ {
+  "id": "sara_o",
+  "name": "Sara Orzechowska",
+  "status": "lead",
+  "sex": "f",
+  "living": true,
+  "places": [],
+  "summary": "Syns i MyHeritage-trädet under Izabela och David Różek. Barn – inga födelsedata.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Sara Orzechowska"
+  ]
+ },
+ {
+  "id": "kuba_o",
+  "name": "Kuba Orzechowski",
+  "status": "lead",
+  "sex": "m",
+  "living": true,
+  "places": [],
+  "summary": "Syns i MyHeritage-trädet under Dawid Orzechowski (moder ”Okänd”). Barn – inga födelsedata.",
+  "sources": [
+   {
+    "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Kuba Orzechowski"
   ]
  }
 ]
