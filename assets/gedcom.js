@@ -1,6 +1,6 @@
 /* GEDCOM 5.5.1-export för släktträdet. Ren JS, körs i webbläsaren (och i Node för test).
    buildGedcom(persons, relations, opts) -> { text, stats }
-   opts: { scope: "all"|"nolead"|"solid", maskLiving: true|false, date: Date } */
+   opts: { scope: "all"|"nolead"|"solid", maskLiving: true|false (döljer detaljer, inte namn, för levande), date: Date } */
 (function (root) {
 "use strict";
 
@@ -129,15 +129,10 @@ function buildGedcom(persons, relations, opts) {
     if (mask) livingMasked++;
     const nm = parseName(p.name, p.id);
     emit(out, 0, "INDI", "", iid[p.id]);
-    if (mask) {
-      emit(out, 1, "NAME", `Levande /${nm.surname || nm.married || ""}/`);
-      emit(out, 2, "GIVN", "Levande"); if (nm.surname || nm.married) emit(out, 2, "SURN", nm.surname || nm.married);
-    } else {
-      emit(out, 1, "NAME", `${nm.given} /${nm.surname}/`);
-      if (nm.given) emit(out, 2, "GIVN", nm.given);
-      if (nm.surname) emit(out, 2, "SURN", nm.surname);
-      if (nm.married) { emit(out, 1, "NAME", `${nm.given} /${nm.married}/`); emit(out, 2, "TYPE", "married"); }
-    }
+    emit(out, 1, "NAME", `${nm.given} /${nm.surname}/`);
+    if (nm.given) emit(out, 2, "GIVN", nm.given);
+    if (nm.surname) emit(out, 2, "SURN", nm.surname);
+    if (nm.married && !mask) { emit(out, 1, "NAME", `${nm.given} /${nm.married}/`); emit(out, 2, "TYPE", "married"); }
     if (p.sex === "m" || p.sex === "f") emit(out, 1, "SEX", p.sex.toUpperCase());
     if (p.living) emit(out, 1, "RESN", "privacy");
     if (!mask) {

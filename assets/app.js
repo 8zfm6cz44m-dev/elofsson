@@ -633,7 +633,7 @@ function renderExport() {
         <option value="nolead">Utan leads (verifierade, familjebekräftade, starka och kandidater)</option>
         <option value="solid">Bara verifierade och familjebekräftade</option>
       </select>
-      <label class="toggle"><input type="checkbox" id="exp-mask" checked> Dölj uppgifter om levande personer (visas som ”Levande”)</label>
+      <label class="toggle"><input type="checkbox" id="exp-mask" checked> Dölj detaljer om levande personer (namn och släktskap visas, men inga datum, platser, anteckningar eller källor)</label>
       <p id="exp-info" class="muted"></p>
       <button type="button" id="exp-go" class="exp-btn">⬇ Ladda ner GEDCOM</button>
     </div>
@@ -648,7 +648,7 @@ function renderExport() {
     if(!window.GedcomExport){ $("#exp-info").textContent="Exportmodulen kunde inte laddas."; return; }
     const r=GedcomExport.buildGedcom(S.persons,S.rels,{scope:$("#exp-scope").value,maskLiving:$("#exp-mask").checked});
     $("#exp-info").textContent=`${r.stats.persons} personer, ${r.stats.families} familjer, ${r.stats.sources} källor`+
-      (r.stats.livingMasked?` · ${r.stats.livingMasked} levande personer dolda`:"")+".";
+      (r.stats.livingMasked?` · ${r.stats.livingMasked} levande personer med dolda detaljer`:"")+".";
     return r;
   };
   $("#exp-scope").onchange=upd; $("#exp-mask").onchange=upd; upd();
