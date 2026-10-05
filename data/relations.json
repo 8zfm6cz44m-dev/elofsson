@@ -344,22 +344,6 @@
   "basis": "Husförhörslängd Brunskog A I/23 (1846–1850) bild 125: ”Dott. Anna 14/12 1846” i Anders Månssons och Anna Olsdotters hushåll på Skog."
  },
  {
-  "id": "s-elof-valborg",
-  "type": "sibling",
-  "a": "elof",
-  "b": "valborg",
-  "status": "candidate",
-  "basis": "Lycka-hushållet 1921–1930 och gruppfotot i Skog. Syskonskap är hypotes; samma Mangskog-kod bevisar inget."
- },
- {
-  "id": "s-elof-anna_lycka",
-  "type": "sibling",
-  "a": "elof",
-  "b": "anna_lycka",
-  "status": "candidate",
-  "basis": "Samma gård på skolfoto 1926. Hypotes."
- },
- {
   "id": "p-boleslaw-irena",
   "type": "partner",
   "a": "boleslaw",
@@ -737,7 +721,7 @@
   ],
   "child": "arvid_lycka",
   "status": "verified",
-  "basis": "Folkräkning 1910 Takene: Arvid f. 1909 i Johan Olof Olssons och Hulda Erikssons familj (Fam. nr 3)."
+  "basis": "Folkräkning 1910 Takene: Arvid f. 1909 i Johan Olof Olssons och Hulda Erikssons familj (Fam. nr 3). Även Jan Källnes JOO-historia: Arvid (1909–67)."
  },
  {
   "id": "p-olofelofsson-kajsa",
@@ -1449,5 +1433,35 @@
   "child": "christopher_en48",
   "status": "verified",
   "basis": "Husförhörslängd A I/1 bild 181."
+ },
+ {
+  "id": "c-johan-hulda-anna_lycka",
+  "type": "child",
+  "parents": [
+   "johan",
+   "hulda"
+  ],
+  "child": "anna_lycka",
+  "status": "family",
+  "basis": "Jan Källne, JOO-historia: barn till Johan Olof Olsson och Hulda – Arvid (1909), Elof (1914), Anna (1916), Valborg (1919)."
+ },
+ {
+  "id": "c-johan-hulda-valborg",
+  "type": "child",
+  "parents": [
+   "johan",
+   "hulda"
+  ],
+  "child": "valborg",
+  "status": "family",
+  "basis": "Jan Källne, JOO-historia: barn till Johan Olof Olsson och Hulda – Arvid (1909), Elof (1914), Anna (1916), Valborg (1919)."
+ },
+ {
+  "id": "p-johan_olofsson-anna_gata",
+  "type": "partner",
+  "a": "johan_olofsson",
+  "b": "anna_gata",
+  "status": "family",
+  "basis": "Jan Källne: JO gifte sig 1895 med Anna från Gata."
  }
 ]
