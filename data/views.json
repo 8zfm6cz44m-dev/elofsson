@@ -13,7 +13,8 @@
    "4": "Födda ca 1940–1960",
    "5": "Födda ca 1980",
    "-2": "Födda ca 1728–1767",
-   "-3": "Födda ca 1681–1731"
+   "-3": "Födda ca 1681–1731",
+   "-4": "Födda ca 1693 och tidigare"
   },
   "leadRows": [],
   "pos": {
@@ -488,6 +489,14 @@
    "brita_christ_1730": [
     -4,
     -3
+   ],
+   "olof_persson_takene": [
+    -6,
+    -4
+   ],
+   "ingrid_olofsd_1693": [
+    -5,
+    -4
    ]
   },
   "groups": []

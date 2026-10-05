@@ -2252,7 +2252,8 @@
   ],
   "born": {
    "date": "1956-09-08",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "summary": "Martins mamma. Dotter till Irena Jarczyńska och Bolesław Kogut enligt familjen.",
   "search": [
@@ -2276,7 +2277,8 @@
   ],
   "born": {
    "date": "1926",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Okänd",
+   "note": "MyHeritage-listan anger Trzcińsko-Zdrój, men orten var tyska Bad Schönfließ till 1945 – hon kan inte vara född där 1926. Troligen anges bosättningsorten. Fadern Stefan och bröderna är födda i Kielce."
   },
   "died": {
    "date": "2017",
@@ -2290,7 +2292,8 @@
   "notes": [
    "Historiskt namn för Trzcińsko-Zdrój: Bad Schönfließ före 1945. Sök polska och tyska ortnamn.",
    "Användarträdet visar Stefan Orzechowski + Zofia Młodowska ovanför Irena – källkritisk konflikt med födelsenamnet Jarczyńska.",
-   "Uteslutna: Irena Jarczyńska, Poznań, ca 1912/13; Irena Jarczyńska, Staroźreby 1926; Helena Orzechowska 1925–2006."
+   "Uteslutna: Irena Jarczyńska, Poznań, ca 1912/13; Irena Jarczyńska, Staroźreby 1926; Helena Orzechowska 1925–2006.",
+   "Polenfynd: Trzcińsko-Zdrój var tyskt (Bad Schönfließ) till 1945. Familjen kom troligen från Kielce-trakten (Stefan f. 1902 Kielce, Zofia d. 1933 Kielce, Ryszard f. 1931 Kielce) och bosatte sig efter kriget där tyskarna hade fördrivits."
   ],
   "sources": [
    {
@@ -2300,6 +2303,10 @@
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Wikipedia, ”Trzcińsko-Zdrój” (tyska Bad Schönfließ, Neumark; tyskt 1871–1945, därefter polskt)",
+    "url": "https://en.wikipedia.org/wiki/Trzci%C5%84sko-Zdr%C3%B3j"
    }
   ],
   "search": [
@@ -2344,10 +2351,17 @@
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Wikipedia, ”Trzcińsko-Zdrój” (tyska Bad Schönfließ, Neumark; tyskt 1871–1945, därefter polskt)",
+    "url": "https://en.wikipedia.org/wiki/Trzci%C5%84sko-Zdr%C3%B3j"
    }
   ],
   "search": [
    "Stefan Orzechowski"
+  ],
+  "notes": [
+   "Född i Kielce 1902, död i Trzcińsko-Zdrój 1972 – orten var tyskt Bad Schönfließ före 1945, så han flyttade dit efter kriget (efterkrigstidens bosättning i de ”återvunna områdena”)."
   ]
  },
  {
@@ -2387,7 +2401,8 @@
   "living": true,
   "born": {
    "date": "1946-05-22",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "summary": "Irenas son enligt familjen. Gift med Celina.",
   "notes": [
@@ -2427,7 +2442,8 @@
   ],
   "born": {
    "date": "1979-02-22",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "sources": [
    {
@@ -2459,7 +2475,8 @@
   ],
   "born": {
    "date": "1952-04-04",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "places": [
    "Chojna"
@@ -2537,7 +2554,8 @@
   ],
   "born": {
    "date": "1983-12-30",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "summary": "Grzegorz dotter (familjebekräftat). Izabela är den bekräftade namnformen.",
   "search": [
@@ -2559,7 +2577,8 @@
   "living": true,
   "born": {
    "date": "1955-01-19",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "search": [
    "Roman"
@@ -2616,7 +2635,8 @@
   "living": true,
   "born": {
    "date": "1978-12-23",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "search": [
    "Mariusz"
@@ -2647,7 +2667,8 @@
   "living": true,
   "born": {
    "date": "1980-11-23",
-   "place": "Trzcińsko-Zdrój"
+   "place": "Trzcińsko-Zdrój",
+   "note": ""
   },
   "search": [
    "Paweł",
@@ -5459,22 +5480,33 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1731",
-   "place": "Ö. Takene",
-   "note": "Husförhörslängd A I/5 bild 75; exakt dag ej läst."
+   "date": "1731-02-07",
+   "place": "Takene, Brunskog",
+   "note": "Dop/födelse 7 feb 1731 (C I/1 bild 187, nr 7); husförhörslängd A I/5 anger ”7/2 1731”."
   },
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Hushållets huvud, Ö. Takene nr 10 (A I/5, 1782–89). Far till Olof Olsson (1757). Dop 1731 ej funnet säkert – se flagga.",
+  "summary": "Hushållets huvud, Ö. Takene nr 10 (A I/5, 1782–89) och nr 13 (A I/1, 1760–63). Född 7 feb 1731 på Takene som son till Olof Persson och Ingrid Olofsdotter. Far till Olof Olsson (1757), Nils (1758) och Britta (1761).",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 187 (1731), nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdotter i Takene Barn, Olof; fadd. Olof Olofsson, Per Nilsson i Takene, Malin Olofsd., Kierstin Erlsd. ibidem”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00187"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–63), bild 91 (sida 54), Ö. Takene hushåll nr 13: ”Olof Olss. ung. 1731, H. Britta Christoph. 1730, D. Olof Olss 1757, D. Nils Olss 1758, D. Britta Olsd 1761” och längre ned ”Enk. Mod. Ingrid Olofsd” f. 1693",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00091"
    }
   ],
   "search": [
    "Olof Olsson (1731)"
+  ],
+  "notes": [
+   "DOPBOK C I/1 1731 bild 187 nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdotter i Takene Barn, Olof”. Patronymikon Olsson kommer av faderns förnamn Olof. A I/1 (1760–63) visar ”Enk. Mod. Ingrid Olofsd” f. 1693 i hans hushåll, vilket stärker identiteten."
   ]
  },
  {
@@ -5499,6 +5531,57 @@
   ],
   "search": [
    "Brita Christophersdotter (1730)"
+  ]
+ },
+ {
+  "id": "olof_persson_takene",
+  "name": "Olof Persson (Takene, d. före 1760)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänd; död före 1760 (änkan bor hos sonen i A I/1)."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Olof Olsson (f. 7/2 1731) enligt dopboken 1731. Gift med Ingrid Olofsdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 187 (1731), nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdotter i Takene Barn, Olof; fadd. Olof Olofsson, Per Nilsson i Takene, Malin Olofsd., Kierstin Erlsd. ibidem”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00187"
+   }
+  ],
+  "search": [
+   "Olof Persson (Takene, d. före 1760)"
+  ]
+ },
+ {
+  "id": "ingrid_olofsd_1693",
+  "name": "Ingrid Olofsdotter (1693)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1693"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Mor till Olof Olsson (f. 1731). I husförhörslängden 1760–63 ”Enk. Mod. Ingrid Olofsd”, född 1693, i sonens hushåll på Ö. Takene.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 187 (1731), nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdotter i Takene Barn, Olof; fadd. Olof Olofsson, Per Nilsson i Takene, Malin Olofsd., Kierstin Erlsd. ibidem”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00187"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–63), bild 91 (sida 54), Ö. Takene hushåll nr 13: ”Olof Olss. ung. 1731, H. Britta Christoph. 1730, D. Olof Olss 1757, D. Nils Olss 1758, D. Britta Olsd 1761” och längre ned ”Enk. Mod. Ingrid Olofsd” f. 1693",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00091"
+   }
+  ],
+  "search": [
+   "Ingrid Olofsdotter (1693)"
   ]
  }
 ]
