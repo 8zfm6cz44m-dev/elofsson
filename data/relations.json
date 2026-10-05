@@ -1568,5 +1568,24 @@
   "status": "lead",
   "basis": "MyHeritage-trädvyn: Kuba under Dawid; modern står som Okänd.",
   "id": "c-dawid-kuba_o"
+ },
+ {
+  "id": "p-olof_olsson_1731-brita_christ_1730",
+  "type": "partner",
+  "a": "olof_olsson_1731",
+  "b": "brita_christ_1730",
+  "status": "verified",
+  "basis": "Husförhörslängd A I/5 bild 75: ”H. Olof Olsson 1731” och ”H. Brita Christophersd. 1730” som hushållets huvud och hustru (nr 10)."
+ },
+ {
+  "id": "c-olof_olsson_1731-brita_christ_1730-olof_olsson_s",
+  "type": "child",
+  "parents": [
+   "olof_olsson_1731",
+   "brita_christ_1730"
+  ],
+  "child": "olof_olsson_s",
+  "status": "strong",
+  "basis": "Husförhörslängd A I/5 bild 75: ”S. Olof Olsson 1757” i hushållet, med hustrun Ingjerd Nilsd. 1761 Skog. Bevisläget är starkt men inte grönt: kopplingen till ”S. Olof Olsson” i födelseboken 1790 går via hustruns namn/år och gården."
  }
 ]

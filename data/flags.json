@@ -246,6 +246,22 @@
     "rolf",
     "sune"
    ]
+  },
+  {
+   "title": "Olof Olsson (1731) – dop",
+   "text": "Husförhör A I/5 bild 75 ger Olof Olsson f. 1731 på Ö. Takene. Dopet 7/2 1731 på Takene (C I/1 bild 187, nr 7) har fadern Olof Persson (”Ohr… Pehrsson”) och modern Ingrid Olofsdotter, alltså inte Olsson/Brita Christophersdotter. Dagen i husförhöret är inte säkert läst. Leta i C I/1 1731 efter ett barn Olof med far Olof/Ole Olsson och mor Brita Christophersdotter, eller i 1730–32 års böcker.",
+   "persons": [
+    "olof_olsson_1731",
+    "brita_christ_1730"
+   ]
+  },
+  {
+   "title": "Anders Arnesson – inte i A I/5 Ö. Takene",
+   "text": "A I/5 bild 73–79 (sidorna 61–67, Ö. Takene/Svartå) har ingen Anders Arnesson f. 1754; där står Anders Andersson f. 1752 med Kjersti Jansdotter f. 1755 (Rengstad). Kjersti Olsdotter f. 1760 på Ö. Takene (bild 74) är ogift dotter till Olof Andersson (1733). Maria f. 1787 hör därför troligen till en annan gård eller socken – leta i A I/5 sidorna 68+ och A I/6 (1787–).",
+   "persons": [
+    "anders_arnesson",
+    "kjersti_olsd66"
+   ]
   }
  ],
  "excluded": [

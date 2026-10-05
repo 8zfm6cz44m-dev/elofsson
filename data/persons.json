@@ -4730,25 +4730,33 @@
  },
  {
   "id": "olof_olsson_s",
-  "name": "Olof Olsson (soldat?)",
+  "name": "Olof Olsson (1757)",
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "",
-   "note": "Betecknas ”S.” i födelseboken 1790, troligen soldat."
+   "date": "1757",
+   "place": "Ö. Takene",
+   "note": "Husförhörslängd A I/5 bild 75: ”S.” (son) f. 1757. ”S.” i födelseboken 1790 betyder alltså son i hushållet, inte soldat."
   },
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Far till Brita (f. 15/11 1790 på Ö. Takene) enligt Brunskogs födelsebok.",
+  "summary": "Far till Brita (f. 15/11 1790 på Ö. Takene). Född 1757 på Ö. Takene som son till Olof Olsson (1731) och Brita Christophersdotter (1730); gift med Ingierd Nilsdotter (f. 1761, Skog).",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 38: 15 nov 1790 Brita, Ö. Takene, föräldrar S. Olof Olsson och Ingierd Nilsdotter (f. 1761)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00038"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
    }
   ],
   "search": [
    "Olof Olsson"
+  ],
+  "notes": [
+   "HUSFÖRHÖRSLÄNGD A I/5 (1782–89) bild 75: ”S. Olof Olsson 1757 ö. Takene” med hustrun ”H. Ingjerd Nilsd. 1761 Skog” i föräldrarnas hushåll (nr 10). Identiteten med ”S. Olof Olsson” i födelseboken 1790 bygger på samma hustru (Ingierd, f. 1761), gård och beteckningen S."
   ]
  },
  {
@@ -4757,7 +4765,8 @@
   "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1761"
+   "date": "1761",
+   "place": "Skog"
   },
   "places": [
    "Ö. Takene, Brunskog"
@@ -4767,6 +4776,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 38: 15 nov 1790 Brita, Ö. Takene, föräldrar S. Olof Olsson och Ingierd Nilsdotter (f. 1761)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00038"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
    }
   ],
   "search": [
@@ -5437,6 +5450,55 @@
   ],
   "search": [
    "Kuba Orzechowski"
+  ]
+ },
+ {
+  "id": "olof_olsson_1731",
+  "name": "Olof Olsson (1731)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1731",
+   "place": "Ö. Takene",
+   "note": "Husförhörslängd A I/5 bild 75; exakt dag ej läst."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hushållets huvud, Ö. Takene nr 10 (A I/5, 1782–89). Far till Olof Olsson (1757). Dop 1731 ej funnet säkert – se flagga.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
+   }
+  ],
+  "search": [
+   "Olof Olsson (1731)"
+  ]
+ },
+ {
+  "id": "brita_christ_1730",
+  "name": "Brita Christophersdotter (1730)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1730",
+   "place": "Åsen"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hustru till Olof Olsson (1731), Ö. Takene nr 10. Född 1730 på Åsen enligt husförhörslängden.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
+   }
+  ],
+  "search": [
+   "Brita Christophersdotter (1730)"
   ]
  }
 ]
