@@ -154,6 +154,7 @@ function route() {
     if(tab==="bevis") renderBevis();
     else if(tab==="bilder") renderBilder();
     else if(tab==="om") renderOm();
+    else if(tab==="export") renderExport();
   }
 }
 
@@ -619,6 +620,46 @@ function renderOm() {
     <p>Ursprunglig HTML-export: <a href="arkiv/Slakttrad_export_2026-08-25.html">arkiv/</a>. Validering och dataextraktion: <a href="tools/">tools/</a>.</p>
     <h3>Integritet</h3>
     <p>Sidan har <code>noindex</code> och <code>robots.txt</code> men \xe4r \xe4nd\xe5 publik f\xf6r den som har l\xe4nken. Den inneh\xe5ller uppgifter om levande personer.</p>`;
+}
+
+function renderExport() {
+  const el=$("#export-body"); if(el.dataset.done) return; el.dataset.done="1";
+  el.innerHTML=`<h2>Exportera släktträdet (GEDCOM)</h2>
+    <p>Laddar ner hela trädet som en <strong>GEDCOM 5.5.1</strong>-fil (.ged, UTF-8) som går att importera i MyHeritage, Ancestry, Geneanet, Gramps m.fl. Alla personer, relationer, datum, platser, anteckningar och källor (med länkar) följer med.</p>
+    <div class="exp-box">
+      <label for="exp-scope"><strong>Omfattning</strong></label>
+      <select id="exp-scope">
+        <option value="all">Allt (inkl. leads ur användarträd)</option>
+        <option value="nolead">Utan leads (verifierade, familjebekräftade, starka och kandidater)</option>
+        <option value="solid">Bara verifierade och familjebekräftade</option>
+      </select>
+      <label class="toggle"><input type="checkbox" id="exp-mask" checked> Dölj uppgifter om levande personer (visas som ”Levande”)</label>
+      <p id="exp-info" class="muted"></p>
+      <button type="button" id="exp-go" class="exp-btn">⬇ Ladda ner GEDCOM</button>
+    </div>
+    <h3>Så importerar du i MyHeritage</h3>
+    <ol>
+      <li>Ladda ner filen här.</li>
+      <li>I MyHeritage: <em>Släktträd → Importera släktträd</em> (eller <em>Hantera träd → Importera GEDCOM</em>) och välj .ged-filen.</li>
+      <li>Importera helst som <strong>ett nytt träd</strong> för att inte blanda in hypoteser i ditt ordinarie träd.</li>
+    </ol>
+    <p class="muted">Bevisläget (Verifierad, Familjebekräftad, Mycket stark kandidat, Kandidat, Lead) står i varje persons anteckning och i släktskapsanteckningarna. Behandla allt utom ”Verifierad” som hypoteser. Gratiskonton har ofta en gräns för antal personer, så använd gärna ”Utan leads” eller ”Bara verifierade”. Filen skapas i webbläsaren; ingenting skickas någonstans.</p>`;
+  const upd=()=>{
+    if(!window.GedcomExport){ $("#exp-info").textContent="Exportmodulen kunde inte laddas."; return; }
+    const r=GedcomExport.buildGedcom(S.persons,S.rels,{scope:$("#exp-scope").value,maskLiving:$("#exp-mask").checked});
+    $("#exp-info").textContent=`${r.stats.persons} personer, ${r.stats.families} familjer, ${r.stats.sources} källor`+
+      (r.stats.livingMasked?` · ${r.stats.livingMasked} levande personer dolda`:"")+".";
+    return r;
+  };
+  $("#exp-scope").onchange=upd; $("#exp-mask").onchange=upd; upd();
+  $("#exp-go").onclick=()=>{
+    const r=upd(); if(!r) return;
+    const d=new Date(), pad=n=>String(n).padStart(2,"0");
+    const name=`Elofsson_slakttrad_${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}.ged`;
+    const url=URL.createObjectURL(new Blob([r.text],{type:"text/plain;charset=utf-8"}));
+    const a=document.createElement("a"); a.href=url; a.download=name; document.body.appendChild(a); a.click();
+    setTimeout(()=>{ a.remove(); URL.revokeObjectURL(url); },1000);
+  };
 }
 
 load();
