@@ -21,7 +21,7 @@ const LINE   = {
   excluded:  { c:"var(--excluded)", w:2,   d:"2 4" }
 };
 const DOCNAME = { master:'Släktforskningsmaster', logg:'Forskningslogg', bild:'Bildregister' };
-const COLW=208, ROWH=190, CW=184, CH=124, GUT=170, PAD=56;
+const COLW=208, ROWH=190, CW=184, CH=140, GUT=170, PAD=56;
 let OX=0, OY=0;
 
 const S = { persons:[], P:{}, rels:[], views:[], V:{}, images:[], notes:[], flags:{},
@@ -190,6 +190,52 @@ function visible(v) {
 const X=c=>GUT+(c-OX)*COLW;
 const Y=r=>PAD+(r-OY)*ROWH;
 
+/* Korta relationsrader på korten: Gift med / Far till / Son till / Bror till */
+function buildKin(vis) {
+  const K={partners:{},kids:{},pars:{},sibs:{},maybe:{}};
+  const add=(o,k,v)=>{ (o[k]=o[k]||[]); if(!o[k].includes(v)) o[k].push(v); };
+  const ok=r=>S.showLeads||r.status!=="lead";
+  S.rels.forEach(r=>{
+    if(!ok(r)) return;
+    if(r.type==="partner"){ const m=!(r.status==="lead"||r.status==="candidate"||/ex-?partner|sambo|s\u00e4rbo|fr\u00e5nskild|tidigare|hypotes/i.test(r.basis||""));
+      add(K.partners,r.a,{id:r.b,m}); add(K.partners,r.b,{id:r.a,m}); }
+    else if(r.type==="child"){ r.parents.forEach(p=>{ add(K.kids,p,r.child); add(K.pars,r.child,p); }); }
+    else if(r.type==="sibling"){ add(K.maybe,r.a,r.b); add(K.maybe,r.b,r.a); }
+  });
+  Object.keys(K.pars).forEach(c=>{
+    K.pars[c].forEach(p=>(K.kids[p]||[]).forEach(s=>{ if(s!==c) add(K.sibs,c,s); }));
+  });
+  K.vis=vis; return K;
+}
+const given=id=>{ if(id==="jan_forald") return "Jans f\u00f6r\u00e4lder"; const n=(S.P[id]?.name||"").replace(/\([^)]*\)|\[[^\]]*\]/g," ").replace(/,.*$/,"").trim(); return n.split(/\s+/)[0]||"?"; };
+function kinParts(id,K,max) {
+  const p=S.P[id], sex=p.sex, vis=K.vis, parts=[], full=[];
+  const nm=(arr,n)=>{ const l=arr.filter(x=>vis.has(x)); if(!l.length) return null;
+    const s=l.slice(0,n).map(given).join(", ")+(l.length>n?` +${l.length-n}`:""); return {s,all:l.map(x=>S.P[x].name).join(", ")}; };
+  const pt=(K.partners[id]||[]).filter(x=>vis.has(x.id));
+  [[true,"Gift med "],[false,"Par med "]].forEach(([m,w])=>{
+    const l=pt.filter(x=>x.m===m).map(x=>x.id); if(!l.length) return;
+    const n=nm(l,2); parts.push(w+n.s); full.push(w+n.all); });
+  const ch=nm(K.kids[id]||[],2);
+  if(ch){ const w=sex==="m"?"Far till ":sex==="f"?"Mor till ":"F\u00f6r\u00e4lder till ";
+    parts.push(w+ch.s); full.push(w+ch.all); }
+  const pr=(K.pars[id]||[]).filter(x=>vis.has(x));
+  if(pr.length){ const w=sex==="m"?"Son till ":sex==="f"?"Dotter till ":"Barn till ";
+    const s=pr.slice(0,2).map(given).join(" & "); parts.push(w+s); full.push(w+pr.map(x=>S.P[x].name).join(" & ")); }
+  const sb=nm(K.sibs[id]||[],2);
+  if(sb){ const w=sex==="m"?"Bror till ":sex==="f"?"Syster till ":"Syskon till ";
+    parts.push(w+sb.s); full.push(w+sb.all); }
+  const mb=nm(K.maybe[id]||[],2);
+  if(mb){ const w=sex==="m"?"M\u00f6jlig bror till ":sex==="f"?"M\u00f6jlig syster till ":"M\u00f6jligt syskon till ";
+    parts.push(w+mb.s); full.push(w+mb.all); }
+  return {parts:parts.slice(0,max),full};
+}
+
+function fitKin(stage) {
+  $$(".card .rl",stage).forEach(rl=>{
+    while(rl.children.length && rl.scrollHeight>rl.clientHeight+1) rl.removeChild(rl.lastElementChild);
+  });
+}
 function renderTree() {
   const v=S.V[S.view]; if(!v) return;
   $("#tree-intro").textContent=v.intro;
@@ -259,8 +305,10 @@ function renderTree() {
     if(label&&lx!=null) svg+=`<text class="lnlabel" x="${lx}" y="${ly}" fill="${L.c}">${esc(label)}</text>`;
   });
   html+=`<svg class="lines" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">${svg}</svg>`;
+  const KIN=buildKin(vis);
   vis.forEach(id=>{
     const p=S.P[id], [c,r]=v.pos[id];
+    const kin=kinParts(id,KIN,3);
     const place=(p.places&&p.places[0])||"";
     const flag=(p.flags&&p.flags[0])||"";
     const fc=flag?"var(--unresolved)":"var(--muted)";
@@ -271,10 +319,12 @@ function renderTree() {
       <span class="nm">${esc(p.name)}</span>
       <span class="dt">${esc(years(p,true))||"&nbsp;"}</span>
       <span class="pl">${esc(place)}</span>
+      <span class="rl" title="${esc(kin.full.join(" \u00b7 "))}">${kin.parts.map(t=>`<i>${esc(t)}</i>`).join("")}</span>
       <span class="fl" style="color:${fc}">${ft}</span>
     </button>`;
   });
   stage.innerHTML=html;
+  fitKin(stage);
   $$(".card",stage).forEach(b=>b.addEventListener("click",e=>{ e.stopPropagation(); gotoPerson(b.dataset.card); }));
   applyTf();
   if(S.sel) applySelect(S.sel);

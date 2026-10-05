@@ -1822,8 +1822,8 @@
   "type": "partner",
   "a": "olof_arnesson_ragnilsrud",
   "b": "ingrid_persd_vikene",
-  "status": "verified",
-  "basis": "Vigselbok E I/3 bild 12, nr 20 (1786)."
+  "status": "strong",
+  "basis": "Vigselbok E I/3 bild 12, nr 20 (1786). (Status nedsatt till strong: personens identitet är bara kandidat/lead.)"
  },
  {
   "id": "s-anders_arnesson-anna_arnesd68",
@@ -2021,7 +2021,7 @@
    "brita_christ_1730"
   ],
   "child": "nils_olofsson_1758",
-  "status": "verified",
+  "status": "strong",
   "basis": "C I/2 bild 105 nr 36: ”3 Dec: Unge Olof Olofsson och hustru Britta Christophers dotter i Öst. Takene Son Nils”."
  },
  {
@@ -2032,7 +2032,7 @@
    "brita_christ_1730"
   ],
   "child": "britta_olofsd_1761",
-  "status": "verified",
+  "status": "strong",
   "basis": "C I/2 bild 112 nr 8: ”14 Öfwertakene Britta; … Olsson / Britta Christ.d”; A I/1 bild 91: ”D. Britta Olsd 1761” (faderns förnamn osäkert läst i dopet)."
  },
  {
@@ -2070,7 +2070,7 @@
   "type": "sibling",
   "a": "nils_olofsson_1758",
   "b": "britta_olofsd_1761",
-  "status": "verified",
+  "status": "strong",
   "basis": "Samma föräldrar Olof Olofsson och Britta Christophersdotter, Ö. Takene (C I/2 bild 105 och 112)."
  },
  {
@@ -2078,7 +2078,7 @@
   "type": "sibling",
   "a": "olof_olsson_s",
   "b": "nils_olofsson_1758",
-  "status": "verified",
+  "status": "strong",
   "basis": "Båda barn i Olof Olss (1731)s hushåll, A I/1 bild 91, samt dop 1758 med föräldrarna Olof och Britta Christophers dotter."
  },
  {
@@ -2222,8 +2222,8 @@
   "type": "partner",
   "a": "per_olofsson85",
   "b": "karin_andersd84",
-  "status": "verified",
-  "basis": "A I/17 bild 103 och A I/23 bild 125 Skog: ”Mond. Pär Olson 23/3 85” + ”hustru Karin Andersdotter 16/4 84”."
+  "status": "strong",
+  "basis": "A I/17 bild 103 och A I/23 bild 125 Skog: ”Mond. Pär Olson 23/3 85” + ”hustru Karin Andersdotter 16/4 84”. (Status nedsatt till strong: personens identitet är bara kandidat/lead.)"
  },
  {
   "id": "c-elof_nilsson-marit_isaksd-marit_en24",
@@ -2292,5 +2292,720 @@
   "b": "per_nilsson_toltan",
   "status": "lead",
   "basis": "C I/1 bild 176, 1729: ”Fadd: Elof och Pehr Nilssonar i Toltan”. Ej bevisat."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-marit_nilsd54",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "marit_nilsd54",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 90, 1754 nr 22: ”d 16 Junii. Nils Jönsson och hust. Marit Jönsdotter i Skog dotter Marit.”"
+ },
+ {
+  "id": "c-nils_ihrsson_toltan-marit_nilsd_toltan-olof_nilsson54",
+  "type": "child",
+  "parents": [
+   "nils_ihrsson_toltan",
+   "marit_nilsd_toltan"
+  ],
+  "child": "olof_nilsson54",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof.” (faderns patronymikon osäkert läst; dag 7/7 = A I/8)."
+ },
+ {
+  "id": "p-nils_ihrsson_toltan-marit_nilsd_toltan",
+  "type": "partner",
+  "a": "nils_ihrsson_toltan",
+  "b": "marit_nilsd_toltan",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 90 nr 23: 'Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan'."
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-marit_jonsd21",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "marit_jonsd21",
+  "status": "strong",
+  "basis": "Dopbok C I/1 bild 132, 1721 nr 12: ”d 12 Martii … Jöns(?) och h. Karin(?) barn i Skog vid namn Marit”; dag 12/3 + Skog + patronymikon Jönsd. stämmer med A I/8/A I/1; föräldrarnas förnamn ej fullt säkert lästa."
+ },
+ {
+  "id": "c-jon_nilsson_skidene22-ingrid_andersd_skidene22-nils_jonsson22",
+  "type": "child",
+  "parents": [
+   "jon_nilsson_skidene22",
+   "ingrid_andersd_skidene22"
+  ],
+  "child": "nils_jonsson22",
+  "status": "candidate",
+  "basis": "Dopbok C I/1 bild 141, 1722 nr 34: Nils, 17 sept 1722, föräldrar Jon Nilsson och Ingrid Andersd. Ort läses 'Skidene' (ej tydligt Skog). Enda Nils med fader Jon i 1722 års bok."
+ },
+ {
+  "id": "p-olof_ihrsson_toltan45-marit_jonsd21",
+  "type": "partner",
+  "a": "olof_ihrsson_toltan45",
+  "b": "marit_jonsd21",
+  "status": "lead",
+  "basis": "Vigselbok E I/1 bild 64, 1745 nr 5: ”d 29 Dec: Dr. Olof Ihrsson(?) från Toltan, pig. Marit Jons dr från Skog.” Osäkert om detta är samma Marit som Nils Jonssons hustru – SE FLAGGA."
+ },
+ {
+  "id": "c-olof_andersson33-kjersti_jonsd28-jonas_olofsson57",
+  "type": "child",
+  "parents": [
+   "olof_andersson33",
+   "kjersti_jonsd28"
+  ],
+  "child": "jonas_olofsson57",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 102: ”Olof Andersson och hustru Kjerstin Jonsd. i Öst. Takene, Son Jonas”; husförhör A I/5 bild 74: S. Jonas Olofson 28/8 1757"
+ },
+ {
+  "id": "c-olof_andersson33-kjersti_jonsd28-olof_olofsson63",
+  "type": "child",
+  "parents": [
+   "olof_andersson33",
+   "kjersti_jonsd28"
+  ],
+  "child": "olof_olofsson63",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 119: 13 Febr 1763 Olof, föräldrar Olof Andersson / Kjerstin Jonsd.; husförhör A I/5 bild 74 S. Olof Olss 13/2 1763"
+ },
+ {
+  "id": "c-anders_nilsson_takene33-marit_olofsd_takene-olof_andersson33",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_takene33",
+   "marit_olofsd_takene"
+  ],
+  "child": "olof_andersson33",
+  "status": "candidate",
+  "basis": "Dopbok C I/1 bild 198 nr 20: 28 Martii 1733 Anders Nilsson och Marit Olofsdotter i Öster Takene, barn (namn överstruket); stämmer i år/ort/patronymikon-avvikelse (Andersson vs Nilsson är faderns förnamn Anders = OK)"
+ },
+ {
+  "id": "p-anders_nilsson_takene33-marit_olofsd_takene",
+  "type": "partner",
+  "a": "anders_nilsson_takene33",
+  "b": "marit_olofsd_takene",
+  "status": "candidate",
+  "basis": "Dopbok C I/1 bild 198 nr 20"
+ },
+ {
+  "id": "s-kjersti_olsd66-jonas_olofsson57",
+  "type": "sibling",
+  "a": "kjersti_olsd66",
+  "b": "jonas_olofsson57",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt dopböckerna 1757 och 1760"
+ },
+ {
+  "id": "c-daniel_nilsson-anna_jonsd67-ingerd_dd90",
+  "type": "child",
+  "parents": [
+   "daniel_nilsson",
+   "anna_jonsd67"
+  ],
+  "child": "ingerd_dd90",
+  "status": "verified",
+  "basis": "A I/8 bild 370 (fol. 347), Smådal: ”d. Ingerd” 9/6 1790 i hushållet Daniel Nilsen / f. Anna Jons."
+ },
+ {
+  "id": "c-jon_jonsson_sandvik-gunild_andersd_sandvik-anna_jonsd67",
+  "type": "child",
+  "parents": [
+   "jon_jonsson_sandvik",
+   "gunild_andersd_sandvik"
+  ],
+  "child": "anna_jonsd67",
+  "status": "strong",
+  "basis": "Dop C I/2 bild 132 nr 41 (9 okt 1767): Sandviken, Anna; Jon Jonsson, Hustru Gunild(?) Andersd.; A I/8 bild 370: Anna Jons. f. 9/10 1767 Sandvik. Strong: Jon Jonsson/Gunild ej följda i husförhör."
+ },
+ {
+  "id": "p-jon_jonsson_sandvik-gunild_andersd_sandvik",
+  "type": "partner",
+  "a": "jon_jonsson_sandvik",
+  "b": "gunild_andersd_sandvik",
+  "status": "strong",
+  "basis": "Dop C I/2 bild 132 nr 41: ”Jon Jonsson, Hustru Gunild(?) Andersd.”"
+ },
+ {
+  "id": "s-ingerd_dd90-maria_dd93",
+  "type": "sibling",
+  "a": "ingerd_dd90",
+  "b": "maria_dd93",
+  "status": "verified",
+  "basis": "Samma föräldrar Daniel Nilsson / Anna Jonsdotter, A I/8 bild 370."
+ },
+ {
+  "id": "c-per_ingemarsson-brita_jansd_lerbodatorp-kajsa_persd",
+  "type": "child",
+  "parents": [
+   "per_ingemarsson",
+   "brita_jansd_lerbodatorp"
+  ],
+  "child": "kajsa_persd",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 173: ”Lerbodatorp. Cajsa. Far: Per Ingemars:s, Brita Jans:d” (3/2 1799 = husförhörets 3/2 1799; Svärmoder Britta Jansdr bild 144)."
+ },
+ {
+  "id": "p-per_ingemarsson-brita_jansd_lerbodatorp",
+  "type": "partner",
+  "a": "per_ingemarsson",
+  "b": "brita_jansd_lerbodatorp",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 173 (föräldrar till Cajsa 1799)."
+ },
+ {
+  "id": "c-jonas_andersson_grimstad-ingeborg_jonsd_grimstad-jan_jonasson",
+  "type": "child",
+  "parents": [
+   "jonas_andersson_grimstad",
+   "ingeborg_jonsd_grimstad"
+  ],
+  "child": "jan_jonasson",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 168: ”Grimstad. Jan. Far: Jonas Anders:s. Ingeborg Jons:d.” 14 maj 1797 = husförhörets 14/5 1797 Grimstad."
+ },
+ {
+  "id": "p-jonas_andersson_grimstad-ingeborg_jonsd_grimstad",
+  "type": "partner",
+  "a": "jonas_andersson_grimstad",
+  "b": "ingeborg_jonsd_grimstad",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 168."
+ },
+ {
+  "id": "c-anders_nilsson_boda-kaisa_olsd_boda-kaisa_an_1825",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_boda",
+   "kaisa_olsd_boda"
+  ],
+  "child": "kaisa_an_1825",
+  "status": "verified",
+  "basis": "Husförhör A I/14 bild 17: ”D. Kaisa” 14/? 1825, död 1826."
+ },
+ {
+  "id": "c-anders_nilsson_boda-kaisa_olsd_boda-cajsa_an_1828",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_boda",
+   "kaisa_olsd_boda"
+  ],
+  "child": "cajsa_an_1828",
+  "status": "verified",
+  "basis": "Husförhör A I/14 bild 17: ”Dr Cajsa” 18/9 1828 ibm."
+ },
+ {
+  "id": "c-anders_nilsson_boda-kaisa_olsd_boda-nils_an_1830",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_boda",
+   "kaisa_olsd_boda"
+  ],
+  "child": "nils_an_1830",
+  "status": "verified",
+  "basis": "Dopbok C I/3 bild 31 (15/16 sept 1830) + husförhör bild 17: Son Nils 15/9 1830."
+ },
+ {
+  "id": "c-nils_arnesson_boda-kari_andersd_boda-anders_nilsson_boda",
+  "type": "child",
+  "parents": [
+   "nils_arnesson_boda",
+   "kari_andersd_boda"
+  ],
+  "child": "anders_nilsson_boda",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 165: ”13 nov 1796 Boda. Anders. Far: Nils Arneson. Kari Anders:d” – husförhör: Anders f. 2/11 1796 Boda. Dagen 2/11 ej direkt bekräftad i dopboken."
+ },
+ {
+  "id": "p-nils_arnesson_boda-kari_andersd_boda",
+  "type": "partner",
+  "a": "nils_arnesson_boda",
+  "b": "kari_andersd_boda",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 165."
+ },
+ {
+  "id": "c-olof_jonsson_boda-ingeborg_nilsd_boda-kaisa_olsd_boda",
+  "type": "child",
+  "parents": [
+   "olof_jonsson_boda",
+   "ingeborg_nilsd_boda"
+  ],
+  "child": "kaisa_olsd_boda",
+  "status": "candidate",
+  "basis": "Dopbok C I/2 bild 182: ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d” (aug 1802); husförhör: Kaisa f. 3/? 1802 Boda. Enda Cajsa i Boda 1802; fadern ev. Olof Jönsson f. 1772 N. Boda."
+ },
+ {
+  "id": "c-olof_christ-britta_nilsd_boda-christopher_oc",
+  "type": "child",
+  "parents": [
+   "olof_christ",
+   "britta_nilsd_boda"
+  ],
+  "child": "christopher_oc",
+  "status": "verified",
+  "basis": "Husförhör A I/14 bild 40: ”S. Christopher” 1828 Boda i Olof Christopherssons familj."
+ },
+ {
+  "id": "c-nils_svensson_boda-ingeborg_jansd_boda-britta_nilsd_boda",
+  "type": "child",
+  "parents": [
+   "nils_svensson_boda",
+   "ingeborg_jansd_boda"
+  ],
+  "child": "britta_nilsd_boda",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 199 (febr 1807): ”Boda. Britta. Par: Nils Svensson & Ingeborg Jons(d)”; husförhör A I/14 bild 40: ”Dtr Britta” 3/2 1807 i Nils Svenssons hushåll, gift med måg Olof Christophersson."
+ },
+ {
+  "id": "p-nils_svensson_boda-ingeborg_jansd_boda",
+  "type": "partner",
+  "a": "nils_svensson_boda",
+  "b": "ingeborg_jansd_boda",
+  "status": "verified",
+  "basis": "Husförhör A I/14 bild 40: ”Bond Nils Svensson” + ”H. Ingeborg Jansdr”."
+ },
+ {
+  "id": "p-martin-yvonne_mosling",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy 2026-10-06: relationsetiketter mot Martin / listordning; ej kontrollerat mot primärkälla",
+  "a": "martin",
+  "b": "yvonne_mosling"
+ },
+ {
+  "id": "c-martin-yvonne_mosling-benjamin_solheim",
+  "type": "child",
+  "status": "lead",
+  "basis": "MyHeritage: 'Din son' (Benjamin Solheim, f. 2004); mor ej angiven, Yvonne Mosling (f. Solheim) listad som partner – mor ej bekräftad",
+  "parents": [
+   "martin",
+   "yvonne_mosling"
+  ],
+  "child": "benjamin_solheim"
+ },
+ {
+  "id": "p-sune-solveig_backdahl",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage: 'Fars ex-partner'",
+  "a": "sune",
+  "b": "solveig_backdahl"
+ },
+ {
+  "id": "c-sune-solveig_backdahl-lisalotte_backdahl",
+  "type": "child",
+  "status": "lead",
+  "basis": "MyHeritage: Lise-Lotte 'Halvsyster via far' (f. 1971) och Solveig 'fars ex-partner'; Solveig som mor är en slutsats från Bäckdahl-namnet",
+  "parents": [
+   "sune",
+   "solveig_backdahl"
+  ],
+  "child": "lisalotte_backdahl"
+ },
+ {
+  "id": "p-lisalotte_backdahl-robert_hansson",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage: 'Make till halvsyster via far'",
+  "a": "lisalotte_backdahl",
+  "b": "robert_hansson"
+ },
+ {
+  "id": "c-lisalotte_backdahl-robert_hansson-niklas_h_backdahl",
+  "type": "child",
+  "status": "lead",
+  "basis": "MyHeritage: 'Son/Dotter till halvsyster via far'; fadern Robert Hansson är en slutsats från efternamnet Hansson",
+  "parents": [
+   "lisalotte_backdahl",
+   "robert_hansson"
+  ],
+  "child": "niklas_h_backdahl"
+ },
+ {
+  "id": "c-lisalotte_backdahl-robert_hansson-ellen_h_backdahl",
+  "type": "child",
+  "status": "lead",
+  "basis": "MyHeritage: 'Son/Dotter till halvsyster via far'; fadern Robert Hansson är en slutsats från efternamnet Hansson",
+  "parents": [
+   "lisalotte_backdahl",
+   "robert_hansson"
+  ],
+  "child": "ellen_h_backdahl"
+ },
+ {
+  "id": "s-annabritta_andersson-hanna",
+  "type": "sibling",
+  "status": "lead",
+  "basis": "MyHeritage: Anna-Britta Andersson 'Farmors syster' (Ellen Andersson = farmor)",
+  "a": "annabritta_andersson",
+  "b": "hanna"
+ },
+ {
+  "id": "p-sven_ersson-karin_nilsdotter19",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "sven_ersson",
+  "b": "karin_nilsdotter19"
+ },
+ {
+  "id": "p-sven_eriksson02-elin_palsdotter35",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "sven_eriksson02",
+  "b": "elin_palsdotter35"
+ },
+ {
+  "id": "p-jon_jansson44-ingjerd_andersd40",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_jansson44",
+  "b": "ingjerd_andersd40"
+ },
+ {
+  "id": "p-nils_persson19-marit_nilsd27",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "nils_persson19",
+  "b": "marit_nilsd27"
+ },
+ {
+  "id": "p-olof_andersson21-ingrid_jonsd23",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_andersson21",
+  "b": "ingrid_jonsd23"
+ },
+ {
+  "id": "p-erik_olsson26-boret_johansd30",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "erik_olsson26",
+  "b": "boret_johansd30"
+ },
+ {
+  "id": "p-erik_jonsson91-britta_jansd07",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "erik_jonsson91",
+  "b": "britta_jansd07"
+ },
+ {
+  "id": "p-anders_andersson20-kjersti_palsd21",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "anders_andersson20",
+  "b": "kjersti_palsd21"
+ },
+ {
+  "id": "p-arun_andersson24-marit_andersson27",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "arne_andersson",
+  "b": "marit_jonsd_ragnilsrud"
+ },
+ {
+  "id": "p-anders_olsson51-ingeborg_eriksd53",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "anders_olsson51",
+  "b": "ingeborg_eriksd53"
+ },
+ {
+  "id": "p-jon_ersson41-anna_andersd56",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_ersson41",
+  "b": "anna_andersd56"
+ },
+ {
+  "id": "p-christopher_svensson54-elin_svensd55",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "christopher_svensson54",
+  "b": "elin_svensd55"
+ },
+ {
+  "id": "p-anders_nilsson11-marit_olofsd11",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "anders_nilsson11",
+  "b": "marit_olofsd11"
+ },
+ {
+  "id": "p-isak_bjorsson-boret_eriksd53",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "isak_bjorsson",
+  "b": "boret_eriksd53"
+ },
+ {
+  "id": "p-anders_arnesson85-dordi_persd84",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "anders_arnesson85",
+  "b": "dordi_persd84"
+ },
+ {
+  "id": "p-jon_jonsson90-anna_andersd00",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_jonsson90",
+  "b": "anna_andersd00"
+ },
+ {
+  "id": "p-pal_nilsson_a-elin_svensdotter_a",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "pal_nilsson_a",
+  "b": "elin_svensdotter_a"
+ },
+ {
+  "id": "p-olof_persson03-ingrid_olsd93",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_persson_takene",
+  "b": "ingrid_olofsd_1693"
+ },
+ {
+  "id": "p-okand_palsson10-ingjerd_mattesd03",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "okand_palsson10",
+  "b": "ingjerd_mattesd03"
+ },
+ {
+  "id": "p-jon_tholsson-ingjerd_jonsd_a",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_tholsson",
+  "b": "ingjerd_jonsd_a"
+ },
+ {
+  "id": "p-jon_gostasson80-karin_nilsd86",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_gostasson80",
+  "b": "karin_nilsd86"
+ },
+ {
+  "id": "p-nils_isaksson91-marit_olsd92",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "nils_isaksson91",
+  "b": "marit_olsd92"
+ },
+ {
+  "id": "p-jonas_tholsson-ingegjerd_jonsd95",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jonas_tholsson",
+  "b": "ingegjerd_jonsd95"
+ },
+ {
+  "id": "p-jon_gustafsson-karin_nilsd_b",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_gustafsson",
+  "b": "karin_nilsd_b"
+ },
+ {
+  "id": "p-olof_jansson_b-marit_nilsd99",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_jansson_b",
+  "b": "marit_nilsd99"
+ },
+ {
+  "id": "p-johan_andersson_b-ingeborg_bryntesd",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "johan_andersson_b",
+  "b": "ingeborg_bryntesd"
+ },
+ {
+  "id": "p-jon_svensson-anna_jonsd_wikene",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "jon_svensson",
+  "b": "anna_jonsd_wikene"
+ },
+ {
+  "id": "p-pal_nilsson96-kari_nilsd_pal",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "pal_nilsson96",
+  "b": "kari_nilsd_pal"
+ },
+ {
+  "id": "p-bjor_x-marit_swansd",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "bjor_x",
+  "b": "marit_swansd"
+ },
+ {
+  "id": "p-arne_andersson45-sigri_johansd48",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "arne_andersson45",
+  "b": "sigri_johansd48"
+ },
+ {
+  "id": "p-anders_olufsson40-cecilia_jonsd",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "anders_olufsson40",
+  "b": "cecilia_jonsd"
+ },
+ {
+  "id": "p-nils_knutsson91-ilin_andersd88",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "nils_knutsson91",
+  "b": "ilin_andersd88"
+ },
+ {
+  "id": "p-olof_olofsson_10-ingeborg_persd_10",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_olofsson_10",
+  "b": "ingeborg_persd_10"
+ },
+ {
+  "id": "p-olof_nilsson_10-boret_persd_10",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_nilsson_10",
+  "b": "boret_persd_10"
+ },
+ {
+  "id": "p-pal_nilsson_hagen-gertrud_bondesd_toltan",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "pal_nilsson_hagen",
+  "b": "gertrud_bondesd_toltan"
+ },
+ {
+  "id": "p-nils_christophersson33-anna_jonsd50",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "nils_christophersson33",
+  "b": "anna_jonsd50"
+ },
+ {
+  "id": "p-johan_andersson_11-nn_olsd_11",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "johan_andersson_11",
+  "b": "nn_olsd_11"
+ },
+ {
+  "id": "p-christopher_persson_toltan-margareta_jonsd",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "christopher_persson_asen",
+  "b": "margareta_jonsd"
+ },
+ {
+  "id": "p-olof_claesson-marit_larsd",
+  "type": "partner",
+  "status": "lead",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "a": "olof_claesson",
+  "b": "marit_larsd"
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-stefan",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "stefan",
+  "status": "strong",
+  "basis": "Föräldrar angivna i vigselindex 1923 nr 1 ('Józef, Katarzyna Zatorska'). Sekundärt index, ej skanning."
+ },
+ {
+  "id": "c-jan_mlodawski-wiktoria_szewczyk-zofia",
+  "type": "child",
+  "parents": [
+   "jan_mlodawski",
+   "wiktoria_szewczyk"
+  ],
+  "child": "zofia",
+  "status": "strong",
+  "basis": "Föräldrar angivna i vigselindex 1923 nr 1 ('Jan, Wiktoria Szewczyk'). Sekundärt index, ej skanning."
+ },
+ {
+  "id": "p-jozef_orzechowski-katarzyna_zatorska",
+  "type": "partner",
+  "a": "jozef_orzechowski",
+  "b": "katarzyna_zatorska",
+  "status": "candidate",
+  "basis": "Geneteka vigselindex Kielce Katedra 1895 nr 169 Józef Orzechowski + Katarzyna Zatorski; endast namn – kandidat."
+ },
+ {
+  "id": "c-nils_svensson_lerhol-anna_andersd_lerhol41-brita_nilsd_lerhol1820",
+  "type": "child",
+  "parents": [
+   "nils_svensson_lerhol",
+   "anna_andersd_lerhol41"
+  ],
+  "child": "brita_nilsd_lerhol1820",
+  "status": "verified",
+  "basis": "C I/3 bild 139 nr 13: ”Lerhol – Brita | Nils Svensson, H. Anna Andersd. (41)” 6/7 feb 1820"
+ },
+ {
+  "id": "p-nils_svensson_lerhol-anna_andersd_lerhol41",
+  "type": "partner",
+  "a": "nils_svensson_lerhol",
+  "b": "anna_andersd_lerhol41",
+  "status": "verified",
+  "basis": "C I/3 bild 139 nr 13 (föräldrar)"
  }
 ]

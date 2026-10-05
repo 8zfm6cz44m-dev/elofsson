@@ -85,7 +85,7 @@ button,input,select{font:inherit;color:inherit}
 .group{position:absolute;border:1.5px dashed #aebfb5;border-radius:10px;background:rgba(255,255,255,.2);pointer-events:none}
 .group span{position:absolute;left:10px;top:-21px;font:600 12.5px/1.2 var(--sans);color:var(--muted);white-space:nowrap}
 
-.card{position:absolute;width:188px;height:124px;padding:7px 10px 7px 13px;text-align:left;
+.card{position:absolute;width:188px;height:140px;padding:7px 10px 7px 13px;text-align:left;
   background:var(--paper);border:1px solid var(--rule);border-left:6px solid var(--lead);
   border-radius:6px;cursor:pointer;box-shadow:0 1px 3px rgba(20,40,40,.07);
   overflow:hidden;display:flex;flex-direction:column;gap:2px}
@@ -240,3 +240,8 @@ ol.tl .tly{font-weight:700;color:var(--muted)}
 .exp-box select{font:inherit;padding:8px;border-radius:6px;border:1px solid var(--line,#c9c1ae);max-width:100%}
 .exp-btn{font:inherit;font-weight:700;padding:10px 16px;border-radius:8px;border:0;background:var(--verified,#2f6b3a);color:#fff;cursor:pointer;justify-self:start}
 .exp-btn:hover{filter:brightness(1.1)}
+
+/* Relationsrad på kort */
+.card .rl{flex:1 1 auto;min-height:0;overflow:hidden;margin-top:2px;font-size:11px;line-height:1.25;color:#4a5a5e}
+.card .rl i{display:block;font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card.c-lead .rl{color:#5a666a}
