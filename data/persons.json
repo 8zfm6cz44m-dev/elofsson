@@ -5516,21 +5516,30 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1730",
-   "place": "Åsen"
+   "date": "1730-07-25",
+   "place": "Åsen, Brunskog",
+   "note": "Dopdatum 25 juli 1730 (C I/1 bild 184, nr 19); husförhör anger 1730, Åsen."
   },
   "places": [
+   "Åsen, Brunskog",
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Hustru till Olof Olsson (1731), Ö. Takene nr 10. Född 1730 på Åsen enligt husförhörslängden.",
+  "summary": "Hustru till Olof Olsson (1731). Född/döpt 25 juli 1730 på Åsen, dotter till Christopher Persson och Ingrid [Mattsdotter?]. Mor till Olof (1757), Nils (1758) och Britta (1761).",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 75 (sida 63), Ö. Takene hushåll nr 10: ”H. Olof Olsson 1731 ö. Takene, H. Brita Christophersd. 1730 Åsen; S. Olof Olsson 1757 ö. Takene, H. Ingjerd Nilsd. 1761 Skog, D. Marit Ols. 1782 Takene”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00075"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 184 (1730), nr 19: ”25 Julii: Christopher Pehrsson och Hust. Ingrid [Mat?]tsd. i Åsen Barn, som i Dopet kallad Brita. Fadd. Olof Nilsson i Toltan, Nils Jönsson i Åsen, Hust. Marit Olofsd. i Toltan, Anna Torbjörnsd. i Åsen”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00184"
    }
   ],
   "search": [
    "Brita Christophersdotter (1730)"
+  ],
+  "notes": [
+   "DOPBOK C I/1 1730 bild 184 nr 19: ”25 Julii Christopher Pehrsson och Hust. Ingrid … i Åsen Barn, som i Dopet kallad Brita”. Husförhör A I/1/A I/5: Brita Christophers(d.) f. 1730, Åsen. Moderns patronymikon läses osäkert (Mattsdotter?)."
   ]
  },
  {
@@ -5582,6 +5591,54 @@
   ],
   "search": [
    "Ingrid Olofsdotter (1693)"
+  ]
+ },
+ {
+  "id": "christopher_persson_asen",
+  "name": "Christopher Persson (Åsen)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänd"
+  },
+  "places": [
+   "Åsen, Brunskog"
+  ],
+  "summary": "Far till Brita (döpt 25 juli 1730) enligt dopboken 1730, Åsen. Födelseår okänt.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 184 (1730), nr 19: ”25 Julii: Christopher Pehrsson och Hust. Ingrid [Mat?]tsd. i Åsen Barn, som i Dopet kallad Brita. Fadd. Olof Nilsson i Toltan, Nils Jönsson i Åsen, Hust. Marit Olofsd. i Toltan, Anna Torbjörnsd. i Åsen”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00184"
+   }
+  ],
+  "search": [
+   "Christopher Persson (Åsen)"
+  ]
+ },
+ {
+  "id": "ingrid_asen",
+  "name": "Ingrid [Mattsdotter?] (Åsen)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänd"
+  },
+  "places": [
+   "Åsen, Brunskog"
+  ],
+  "summary": "Mor till Brita (döpt 25 juli 1730) enligt dopboken 1730, Åsen. Patronymikon osäkert läst.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 184 (1730), nr 19: ”25 Julii: Christopher Pehrsson och Hust. Ingrid [Mat?]tsd. i Åsen Barn, som i Dopet kallad Brita. Fadd. Olof Nilsson i Toltan, Nils Jönsson i Åsen, Hust. Marit Olofsd. i Toltan, Anna Torbjörnsd. i Åsen”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00184"
+   }
+  ],
+  "search": [
+   "Ingrid [Mattsdotter?] (Åsen)"
   ]
  }
 ]

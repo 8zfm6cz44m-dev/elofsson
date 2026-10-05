@@ -1606,5 +1606,24 @@
   "child": "olof_olsson_1731",
   "status": "strong",
   "basis": "Dopbok C I/1 bild 187 nr 7 (7/2 1731, Takene, barnet Olof) = husförhörslängd A I/5 ”7/2 1731”; modern Ingrid Olofsdotter bor 1760–63 som ”Enk. Mod.” hos Olof Olsson (A I/1 bild 91). Strong, inte grön: dag/månad/år/plats stämmer, men ingen källa säger uttryckligen ”son till”."
+ },
+ {
+  "id": "p-christopher_persson_asen-ingrid_asen",
+  "type": "partner",
+  "a": "christopher_persson_asen",
+  "b": "ingrid_asen",
+  "status": "strong",
+  "basis": "Dopbok C I/1 bild 184 nr 19: ”Christopher Pehrsson och Hust. Ingrid … i Åsen”."
+ },
+ {
+  "id": "c-christopher_persson_asen-ingrid_asen-brita_christ_1730",
+  "type": "child",
+  "parents": [
+   "christopher_persson_asen",
+   "ingrid_asen"
+  ],
+  "child": "brita_christ_1730",
+  "status": "strong",
+  "basis": "Dopbok C I/1 bild 184 nr 19: barnet Brita, fader Christopher Pehrsson, Åsen. Matchar Brita Christophersd. f. 1730 från Åsen i husförhören; strong, eftersom husförhöret ger bara år och fadersnamn, inte dagen."
  }
 ]
