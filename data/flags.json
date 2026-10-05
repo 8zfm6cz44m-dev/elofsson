@@ -113,18 +113,129 @@
    ]
   },
   {
-   "title": "Ingierd Nilsdotter (1761, Skog) – dop ej funnet",
-   "text": "Husförhör A I/5 bild 75 ger Ingjerd Nilsd., f. ca 20/11 1761, Skog. Dopbok C I/2 bild 115 (aug–dec 1761) har ingen Ingierd Nilsdotter från Skog; nov-posterna är nr 53 (1 nov) och nr 54 (25 nov). Kontrollera 1760 och 1762 (bild 111–118) och Skog-poster, samt Brunskogs husförhör A I/4 (Skog) för hennes föräldrahushåll.",
-   "persons": [
-    "ingierd_nilsd61"
-   ]
-  },
-  {
    "title": "Christopher Persson (Åsen) – egen härkomst",
    "text": "Brita Christophersdotters far är Christopher Persson i Åsen (dop 1730). Hans födelseår/föräldrar är ej undersökta. Åsen i husförhör A I/1 (1760–63) ej lokaliserad (registret på bild 312–313 läst men sidan för Åsen inte avgjord).",
    "persons": [
     "christopher_persson_asen",
     "ingrid_asen"
+   ]
+  },
+  {
+   "title": "Per Olofsson (f. 1785) – dop ej funnen",
+   "text": "A I/8 bild 379 anger ”S. Per 23/3 85” i Olof Nilssons hushåll på Skog. Brunskog C I/3 bild 17 (1785 feb–apr) saknar 23 mars; dop kan stå på annan bild eller datum avlästs fel.",
+   "persons": [
+    "per_olofsson85"
+   ]
+  },
+  {
+   "title": "Britta Nilsdotter: 1757 eller 1758?",
+   "text": "A I/1 anger ”1757” som annus nativitatis, men dopet är 26 jan 1758 (C I/2 bild 103) och A I/8/A I/17 anger 26/1 1758 – troligen årsfel i A I/1 (A I/1 skrevs 1760).",
+   "persons": [
+    "britta_nilsd58"
+   ]
+  },
+  {
+   "title": "Olof Nilssons föräldrar (f. 1754 Toltan)",
+   "text": "Olof Nilsson (f. 1754 på Toltan), Marit Olsdotters far, ej spårad bakåt. Nästa steg: Toltan i A I/1 (1760–63) och dop C I/2 ca 1754.",
+   "persons": [
+    "olof_nilsson54"
+   ]
+  },
+  {
+   "title": "Var bodde Anders Arnesson före 1786, och vem var hans släkt?",
+   "text": "Han är f. 22/9 1754 i Ragnilsrud (föräldrar Arne Andersson och Marit Jönsdotter) och var 1786 dräng i Ö. Fosred (A I/6 bild 223). Hushållet Arne/Marit finns inte i Ragnilsrud 1760–68 (A I/1 s.212–214, A I/2 s.221–222). I Fosred står bredvid honom en genomstruken ”Hu Anna Jansd” (f. 1761) – troligen ej hustru (han gifte sig med Kjersti dec 1786). Olof Arnesson (Ragnilsrud, gift 1786) och Anna Arnesd. (1768) är möjliga syskon.",
+   "persons": [
+    "anders_arnesson",
+    "arne_andersson",
+    "olof_arnesson_ragnilsrud",
+    "anna_arnesd68"
+   ]
+  },
+  {
+   "title": "Christophers patronymikon: Påhlsson eller Pehrsson?",
+   "text": "I vigseln 1729 (E I/1 bild 46) och dopen 1730/1731 (C I/1 bild 184, 191) ser patronymikonet ut att stå ”Påhlsson” (Pahlsson), medan tidigare läsning gav ”Pehrsson”. Samma skrivare skriver ”Pehr” tydligt på andra rader. Bör verifieras mot A I/1/A I/5-rader för Åsen och mot Christophers dop.",
+   "persons": [
+    "christopher_persson_asen",
+    "brita_christ_1730"
+   ]
+  },
+  {
+   "title": "Vigseln Olof Persson + Ingrid Olofsdotter ej funnen",
+   "text": "E I/1 (C0036786) bild 25–47 (1708–1731) genomläst på översiktsnivå: ingen tydlig vigsel Olof Persson/Ingrid Olofsd. Notera 25 mars 1718 (bild 34): ”Per Larsson i Tolta/Toltan och Pigan Ingrid Olufsd. i Talene/Takene” – kan vara en annan Ingrid. Paret kan ha gift sig i annan socken eller före 1708.",
+   "persons": [
+    "olof_persson_takene",
+    "ingrid_olofsd_1693"
+   ]
+  },
+  {
+   "title": "Ingrid Olofsdotter 1693 – hushållet i A I/1 bild 91",
+   "text": "Under hushåll nr 13 (Ö. Takene) står en egen grupp inhysta: ”Enk. Mod. Ingrid Olofsd” (1693), därunder bl.a. en ”Pig. Ingrid …” (1700), ”Dr. Nils/…” (1730-tal), ”Pig. …” (1746), ”Dr. Lars Jonsson?” (1744), ”Pig. Ingrid Larsd.” (1724), ”Pig. Ingerd Jonsd.” (1748). Raderna är överstrukna/svårlästa och ingen släkt är bevisad; bör läsas om i högre upplösning.",
+   "persons": [
+    "ingrid_olofsd_1693"
+   ]
+  },
+  {
+   "title": "Möjliga släktingar bland fadderna 1731",
+   "text": "I Olofs dop 7/2 1731 (C I/1 bild 187) är faddrarna Olof Olofsson, Per Nilsson i Takene, Malin Olofsd. och Kierstin Erlsd. ibid. Malin Olofsd. (Takene) och en Olof Olofsson (”Olof Olofsson i Takene/Unge Olof”) återkommer i dopen 1733 (bild 197–198); kan vara Ingrids syskon, ej bevisat.",
+   "persons": [
+    "ingrid_olofsd_1693"
+   ]
+  },
+  {
+   "title": "Johannes Olssons föräldrar: Olof Christophersson och Britta Nilsdotter ej funna i husförhör",
+   "text": "Dopboken 1830 (bild 31) ger tydligt Olof Christophersson + Britta Nilsdotter, födelse 17/5 (döpt 20/5). De finns inte i Bodas husförhör 1831-35 i byarna Boda 1-7, Södra Boda f. 18/26/33/40/45 (urval), Nordsjö 3 hemman, Lerbodatorp. Olof kan ha dött/flyttat före 1831 eller bott i annan by (Högboda, Grimstad, Lerboda m.fl.). Moder Karin Olsdotter (användarträd) saknar stöd.",
+   "persons": [
+    "johannesolsson",
+    "olof_christ",
+    "britta_nilsd_boda"
+   ]
+  },
+  {
+   "title": "Britta Nilsdotter (f. 1820): ingen dop i Brunskog 1820 hittad",
+   "text": "Hela Brunskogs födelsebok 1820 (C0036784 bild 139–142, nr 1–82) har ingen Brita/Britta med far Nils. Husförhöret A I/23 bild 145 anger födelseort ”ibm” (Brunskog) och dag/månad ej säkert läsbar. ’Gryt-Britta 12/5’ kan inte stödjas av Brunskogs dopbok (inga 12/5-dop). Möjligt att hon är född i grannsocken (Boda C I/3 C0036594 1820) eller att åldern/året är fel. Nästa steg: A I/17 (1831–35) för Britta Nilsdotter 11–15 år i annat hushåll; Boda C I/3 1820; vigselbok Brunskog E I 1840 (Nils Ersson + Britta).",
+   "persons": [
+    "brittanils",
+    "nilseriksson"
+   ]
+  },
+  {
+   "title": "Erik Christopherssons dop i Fryksände ej funnet",
+   "text": "Fryksände C I/4 (C0037199) bild 108–109 (1779) saknar Erik med far Christopher 25 maj; Fryksände dopbok är tabulerad med dopdag, gårdsnamn, föräldrar, faddrar. Sven Eriksson flyttade 1832 till Fryksände (A I/17 bild 117), vilket stöder släktkontakt dit. Nästa steg: skanna Fryksände C I/4 bild 105–111 helt (1778–80) efter ”Christopher”, samt Fryksände A I/12 (1790–1803) C-id? för hushållet.",
+   "persons": [
+    "erik_christ",
+    "sven_ec"
+   ]
+  },
+  {
+   "title": "Elof Nilssons eget dop ej funnet",
+   "text": "Brunskogs dopbok C I/1 bild 11–20 (1688–1690) lästa: mycket få poster per år (enstaka dop, rader saknas), ingen Elof Nilsson/Nils i Toltan identifierad. Husförhör anger 1689 (73 år 1760 → ca 1687), dvs. kan vara född före bokens början eller i annan socken. 1691–1721 (bild 21–99) återstår.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Möjliga syskon till Elof Nilsson: Nils i Stoy och Per i Toltan",
+   "text": "1727–1735 är Nils Nilsson i Stoy (hustru Britta Claesdotter) och Elof Nilsson återkommande faddrar hos varandra; 1729 anges ”Elof och Pehr Nilssonar i Toltan” som faddrar. Karin Nilsdotter i Stoy 1729 kan vara Elofs senare hustru Karin Nilsdotter (f. 1707) – hypotes, kräver vigselbok (E I) eller husförhör.",
+   "persons": [
+    "elof_nilsson",
+    "nils_n_stoy",
+    "per_nilsson_toltan",
+    "kari_nilsd07"
+   ]
+  },
+  {
+   "title": "Ingrid Elofsdotter i Åsen/Toltan – släkting?",
+   "text": "Gudmor 1724 (Åsen), 1730 (”Ingerd Mattsdotter” är annan), 1735 och 1748 (Toltan). Relation okänd.",
+   "persons": [
+    "ingrid_elofsd_toltan"
+   ]
+  },
+  {
+   "title": "Marit Elofsdotter 1738 och Karin Elofsdotter 1735 – dop ej funna",
+   "text": "C I/2 bild 17–21 (1738) innehåller ingen Elof Nilsson-post som jag kan läsa; Karin Elofsdotter (Åmot, ca 1735) ej funnen i C I/1 bild 206–215.",
+   "persons": [
+    "marit_en38",
+    "karin_elofsd35"
    ]
   }
  ],
@@ -281,11 +392,12 @@
    ]
   },
   {
-   "title": "Anders Arnesson – inte i A I/5 Ö. Takene",
-   "text": "A I/5 bild 73–79 (sidorna 61–67, Ö. Takene/Svartå) har ingen Anders Arnesson f. 1754; där står Anders Andersson f. 1752 med Kjersti Jansdotter f. 1755 (Rengstad). Kjersti Olsdotter f. 1760 på Ö. Takene (bild 74) är ogift dotter till Olof Andersson (1733). Maria f. 1787 hör därför troligen till en annan gård eller socken – leta i A I/5 sidorna 68+ och A I/6 (1787–).",
+   "title": "Daniel Nilsson i Smådal: f. 1757 eller 1764?",
+   "text": "Ett Smådal-barn Daniel Nilsson f. 18 sept 1757 (föräldrar Nils Andersson och Kjerstin Danielsd., C I/2 bild 102) finns, men vid dopet 1793 (C I/3 bild 46, nr 61) läses åldersmarkeringen vid Daniel Nilsson som 64. Ingen Daniel f. 1764 hittades i Smådal i A I/2 (sidorna 244–248). Kontrollera A I/8 (1795–99) Smådal samt dop 1764. Anna Jonsdotters (f. 1767) föräldrar är inte funna.",
    "persons": [
-    "anders_arnesson",
-    "kjersti_olsd66"
+    "daniel_nilsson",
+    "anna_jonsd67",
+    "nils_andersson_smadal"
    ]
   }
  ],
@@ -327,6 +439,36 @@
   {
    "title": "Olof Olsson (1731) – dop",
    "text": "Löst: dopet 7/2 1731 på Takene (C I/1 bild 187 nr 7) har fadern Olof Persson och modern Ingrid Olofsdotter. Patronymikon Olsson kommer av faderns förnamn Olof, så Persson är inget motsägande. Änkemodern Ingrid Olofsd f. 1693 finns i sonens hushåll i A I/1 bild 91."
+  },
+  {
+   "title": "Kjersti Olsdotters födelseår: 1760, inte 1766",
+   "text": "Dopboken 1787 (C I/3 bild 25) anger hennes ålder så att 1766 räknas fram, men husförhören A I/6 bild 74 och A I/7 bild 72 anger 3/8 1760 Ö. Takene, och dopboken C I/2 bild 111 (nr 38) har Kjerstin, Ö. Takene, 3 aug 1760, föräldrar Olof Andersson och Kjersti Jonsd. Hon dog aug 1790 (A I/7 ”+ 90”, marginal ”Begr. 14 Aug 1790”).",
+   "persons": [
+    "kjersti_olsd66"
+   ]
+  },
+  {
+   "title": "Johannes Olssons födelsedag 12 eller 17 maj",
+   "text": "Dopboken (omläst på förstoring) säger 17 maj, döpt 20 maj 1830. Husförhörets ’12/5’ avviker; dopboken som primärkälla väger tyngst.",
+   "persons": [
+    "johannesolsson"
+   ]
+  },
+  {
+   "title": "Annas födelsedag: 22/3 (dopbok) mot 24/2 (husförhör)",
+   "text": "Ingen motsägelse: Brunskogs födelsebok 1813 (C I/3 bild 110, nr 21) anger endast dopdag (22 mars) i första kolumnen; födelsedagen 24/2 1813 kommer från husförhöret A I/23 bild 125. Intervallet 26 dagar är normalt för 1813. Faderns/moderns namn (Olof Andersson/Kari Jonsdotter) i dopboken är fortfarande länken till Anna Olsdotter (relationen kan förbli ’strong’ tills ett husförhör med Anna i föräldrahushållet hittas).",
+   "persons": [
+    "annaolsdotter",
+    "olof_andersson82",
+    "kari_jonsd"
+   ]
+  },
+  {
+   "title": "Ingierd Nilsdotter (1761): dop och föräldrar funna",
+   "text": "Dop 20 nov 1761, Skog (C I/2 bild 115): föräldrar Nils Jonsson och Marit Jönsdotter; hushållet i A I/1 bild 279.",
+   "persons": [
+    "ingierd_nilsd61"
+   ]
   }
  ]
 }

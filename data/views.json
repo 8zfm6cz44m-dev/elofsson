@@ -13,8 +13,8 @@
    "4": "Födda ca 1940–1960",
    "5": "Födda ca 1980",
    "-2": "Födda ca 1728–1767",
-   "-3": "Födda ca 1681–1731",
-   "-4": "Födda ca 1693 och tidigare"
+   "-3": "Födda ca 1681–1735",
+   "-4": "Födda före ca 1710 och äldre led"
   },
   "leadRows": [],
   "pos": {
@@ -505,6 +505,318 @@
    "ingrid_asen": [
     -3.5,
     -4
+   ],
+   "anders_aa92": [
+    10.5,
+    -1
+   ],
+   "nils_aa93": [
+    11.5,
+    -1
+   ],
+   "ingeborg_jj": [
+    8.5,
+    0
+   ],
+   "brita_jj": [
+    9.5,
+    0
+   ],
+   "anna_jj": [
+    10.5,
+    0
+   ],
+   "mertha_jj": [
+    11.5,
+    0
+   ],
+   "johannes_jj": [
+    12.5,
+    0
+   ],
+   "anders_nilsson_boda": [
+    12.5,
+    -1
+   ],
+   "kaisa_olsd_boda": [
+    13.5,
+    -1
+   ],
+   "christian": [
+    2.5,
+    5
+   ],
+   "boleslaw": [
+    9.5,
+    3
+   ],
+   "irena": [
+    10.5,
+    3
+   ],
+   "maria_dd93": [
+    -6.5,
+    -1
+   ],
+   "olof_nilsson54": [
+    -0.5,
+    -2
+   ],
+   "britta_nilsd58": [
+    -5.5,
+    -2
+   ],
+   "karin_ec": [
+    -20.5,
+    0
+   ],
+   "christopher_ec": [
+    -21.5,
+    0
+   ],
+   "arne_andersson": [
+    4.5,
+    -3
+   ],
+   "marit_jonsd_ragnilsrud": [
+    5.5,
+    -3
+   ],
+   "ingerd_arnesd52": [
+    8.5,
+    -2
+   ],
+   "olof_arnesson_ragnilsrud": [
+    9.5,
+    -2
+   ],
+   "anna_arnesd68": [
+    10.5,
+    -2
+   ],
+   "marit_andersd67": [
+    11.5,
+    -2
+   ],
+   "olof_andersson33": [
+    6.5,
+    -3
+   ],
+   "kjersti_jonsd28": [
+    7.5,
+    -3
+   ],
+   "marit_olsd_1782": [
+    -7.5,
+    -1
+   ],
+   "nils_olofsson_1758": [
+    -6.5,
+    -2
+   ],
+   "nils_jonsson22": [
+    -2.5,
+    -3
+   ],
+   "marit_jonsd21": [
+    -1.5,
+    -3
+   ],
+   "nils_andersson_smadal": [
+    -6.5,
+    -3
+   ],
+   "kjerstin_danielsd25": [
+    -7.5,
+    -3
+   ],
+   "marit_en24": [
+    -7.5,
+    -2
+   ],
+   "anna_en30": [
+    -8.5,
+    -2
+   ],
+   "nils_n_stoy": [
+    3.5,
+    -3
+   ],
+   "per_nilsson_toltan": [
+    8.5,
+    -3
+   ],
+   "britta_olofsd_1761": [
+    -10.0,
+    -2
+   ],
+   "barn_christophersd_1731": [
+    -9.0,
+    -3
+   ],
+   "zdzislaw": [
+    9.5,
+    4
+   ],
+   "grzegorz": [
+    10.5,
+    4
+   ],
+   "roman": [
+    11.5,
+    4
+   ],
+   "janina": [
+    12.5,
+    4
+   ],
+   "stefan": [
+    15.5,
+    2
+   ],
+   "zofia": [
+    16.5,
+    2
+   ],
+   "per_olofsson85": [
+    -8.5,
+    -1
+   ],
+   "nils_olofsson95": [
+    -9.5,
+    -1
+   ],
+   "ingrid_persd_vikene": [
+    12.5,
+    -2
+   ],
+   "nils_olsson72": [
+    13.5,
+    -2
+   ],
+   "per_nilsson46": [
+    -11.5,
+    -2
+   ],
+   "jon_nilsson49": [
+    -12.5,
+    -2
+   ],
+   "kari_nilsd51": [
+    -13.5,
+    -2
+   ],
+   "anna_nilsd52": [
+    -14.5,
+    -2
+   ],
+   "marit_nilsd56": [
+    -15.5,
+    -2
+   ],
+   "nils_nilsson60": [
+    -16.5,
+    -2
+   ],
+   "britta_nd50": [
+    -17.5,
+    -2
+   ],
+   "kjersti_nd53": [
+    -18.5,
+    -2
+   ],
+   "anna_nd55": [
+    -19.5,
+    -2
+   ],
+   "ingerd_nd60": [
+    -20.5,
+    -2
+   ],
+   "karin_nd62": [
+    -21.5,
+    -2
+   ],
+   "mans_nd66": [
+    -22.5,
+    -2
+   ],
+   "nils_nn27": [
+    14.5,
+    -2
+   ],
+   "anders_nn29": [
+    15.5,
+    -2
+   ],
+   "britta_claesd_stoy": [
+    9.5,
+    -3
+   ],
+   "celina": [
+    13.5,
+    4
+   ],
+   "kasia": [
+    9.5,
+    5
+   ],
+   "maciek": [
+    10.5,
+    5
+   ],
+   "ella": [
+    14.5,
+    4
+   ],
+   "dawid": [
+    11.5,
+    5
+   ],
+   "izabela": [
+    12.5,
+    5
+   ],
+   "adam": [
+    15.5,
+    4
+   ],
+   "mariusz": [
+    13.5,
+    5
+   ],
+   "pawel": [
+    14.5,
+    5
+   ],
+   "ryszard_o": [
+    15.5,
+    3
+   ],
+   "czeslaw_o": [
+    16.5,
+    3
+   ],
+   "karin_andersd84": [
+    -10.5,
+    -1
+   ],
+   "kuba_o": [
+    11.5,
+    6
+   ],
+   "david_rozek": [
+    15.5,
+    5
+   ],
+   "sara_o": [
+    12.5,
+    6
+   ],
+   "beata": [
+    16.5,
+    5
    ]
   },
   "groups": []
@@ -771,6 +1083,22 @@
    "arvid_framme": [
     10,
     3.4
+   ],
+   "britta_jonsd35": [
+    4.0,
+    4.4
+   ],
+   "kerstin_jonsd43": [
+    5.5,
+    4.4
+   ],
+   "ingrid_elofsd_toltan": [
+    7.0,
+    4.4
+   ],
+   "gertrud_bondesd_toltan": [
+    8.5,
+    4.4
    ]
   },
   "groups": [

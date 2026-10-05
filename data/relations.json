@@ -1625,5 +1625,672 @@
   "child": "brita_christ_1730",
   "status": "strong",
   "basis": "Dopbok C I/1 bild 184 nr 19: barnet Brita, fader Christopher Pehrsson, Åsen. Matchar Brita Christophersd. f. 1730 från Åsen i husförhören; strong, eftersom husförhöret ger bara år och fadersnamn, inte dagen."
+ },
+ {
+  "id": "p-nils_jonsson22-marit_jonsd21",
+  "type": "partner",
+  "a": "nils_jonsson22",
+  "b": "marit_jonsd21",
+  "status": "verified",
+  "basis": "A I/1 bild 279: ”Nils Jonsson 1722 / H. Marit Jönsd. 1721”; dopböckerna 1758/1761 nämner båda som föräldrar."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-ingierd_nilsd61",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "ingierd_nilsd61",
+  "status": "verified",
+  "basis": "Dop C I/2 bild 115 (20 nov 1761): Ingierd, Skog, föräldrar Nils Jonsson och Marit Jönsd.; A I/1 bild 279: D. Ingierd Nilsd 1761."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-britta_nilsd58",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "britta_nilsd58",
+  "status": "verified",
+  "basis": "Dop C I/2 bild 103 (26 jan 1758): Britta, Skog, föräldrar Nils Jonsson och Marit Jonsd."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-per_nilsson46",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "per_nilsson46",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-jon_nilsson49",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "jon_nilsson49",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-kari_nilsd51",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "kari_nilsd51",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-anna_nilsd52",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "anna_nilsd52",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-marit_nilsd56",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "marit_nilsd56",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "c-nils_jonsson22-marit_jonsd21-nils_nilsson60",
+  "type": "child",
+  "parents": [
+   "nils_jonsson22",
+   "marit_jonsd21"
+  ],
+  "child": "nils_nilsson60",
+  "status": "verified",
+  "basis": "A I/1 bild 279: S./D. i Nils Jonssons hushåll på Skog nr 2."
+ },
+ {
+  "id": "p-olof_nilsson54-britta_nilsd58",
+  "type": "partner",
+  "a": "olof_nilsson54",
+  "b": "britta_nilsd58",
+  "status": "verified",
+  "basis": "A I/8 bild 379: ”Olof Nilsson 54 Toltan / H. Brita Nilsd. 58 Skog”; dop C I/3 bild 58: föräldrar Olof Nilsson och Brita Nilsd."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-marit_olsd98",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "marit_olsd98",
+  "status": "verified",
+  "basis": "Dop C I/3 bild 58 (17 jan 1798): Marit, Skog, föräldrar Olof Nilsson och Brita Nilsd.; A I/8 bild 379: D. Marit 17/1 98; A I/17 bild 100: Marit Olsdotter 1798 hustru till Måns Danielsson, svärmor Britta Nilsdotter 26/1 1758."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-per_olofsson85",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "per_olofsson85",
+  "status": "strong",
+  "basis": "A I/8 bild 379: S. Per 1785 i Olof Nilssons hushåll."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-nils_olofsson95",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "nils_olofsson95",
+  "status": "verified",
+  "basis": "A I/8 bild 379: S. Nils 9/11 1795, †1796."
+ },
+ {
+  "id": "s-ingierd_nilsd61-britta_nilsd58",
+  "type": "sibling",
+  "a": "ingierd_nilsd61",
+  "b": "britta_nilsd58",
+  "status": "verified",
+  "basis": "Båda döpta som döttrar till Nils Jonsson och Marit Jönsd. i Skog (C I/2 bild 103 och 115) och står i samma hushåll i A I/1 bild 279."
+ },
+ {
+  "id": "c-arne_andersson-marit_jonsd_ragnilsrud-anders_arnesson",
+  "type": "child",
+  "parents": [
+   "arne_andersson",
+   "marit_jonsd_ragnilsrud"
+  ],
+  "child": "anders_arnesson",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/2 bild 91, nr 32 (22 sept 1754): ”Arne Anderssons och Hust. Marit Jönsdotter i Ragnilsrud, Son Anders” – samma datum och gård som husförhörets ”Anders Arneson 22/9 1754 Ragnilsrud” (A I/6 bild 74, A I/7 bild 72)."
+ },
+ {
+  "id": "c-arne_andersson-marit_jonsd_ragnilsrud-ingerd_arnesd52",
+  "type": "child",
+  "parents": [
+   "arne_andersson",
+   "marit_jonsd_ragnilsrud"
+  ],
+  "child": "ingerd_arnesd52",
+  "status": "verified",
+  "basis": "Brunskogs födelsebok C I/2 bild 85, nr 47 (29 nov 1752): ”Arne Anderssons och Hust. Marit Jönsdotter i Ragnilsrud, Dotter Ingierd.”"
+ },
+ {
+  "id": "p-arne_andersson-marit_jonsd_ragnilsrud",
+  "type": "partner",
+  "a": "arne_andersson",
+  "b": "marit_jonsd_ragnilsrud",
+  "status": "verified",
+  "basis": "Födelsebok C I/2 bild 85 och 91: föräldrapar till Ingerd (1752) och Anders (1754) i Ragnilsrud."
+ },
+ {
+  "id": "s-anders_arnesson-ingerd_arnesd52",
+  "type": "sibling",
+  "a": "anders_arnesson",
+  "b": "ingerd_arnesd52",
+  "status": "strong",
+  "basis": "Samma föräldrapar (Arne Andersson/Marit Jönsdotter, Ragnilsrud) i dopböckerna 1752 och 1754; ej bekräftat på annat sätt."
+ },
+ {
+  "id": "s-anders_arnesson-olof_arnesson_ragnilsrud",
+  "type": "sibling",
+  "a": "anders_arnesson",
+  "b": "olof_arnesson_ragnilsrud",
+  "status": "candidate",
+  "basis": "Båda ”frå Ragnilsrud”, patronymikon Arneson, gifta samma dag 1786 (E I/3 bild 12, nr 17 och 20) – bror ej bevisad."
+ },
+ {
+  "id": "p-olof_arnesson_ragnilsrud-ingrid_persd_vikene",
+  "type": "partner",
+  "a": "olof_arnesson_ragnilsrud",
+  "b": "ingrid_persd_vikene",
+  "status": "verified",
+  "basis": "Vigselbok E I/3 bild 12, nr 20 (1786)."
+ },
+ {
+  "id": "s-anders_arnesson-anna_arnesd68",
+  "type": "sibling",
+  "a": "anders_arnesson",
+  "b": "anna_arnesd68",
+  "status": "lead",
+  "basis": "A I/5 bild 225: Anna Arnesd. 1768 med födelseort ”Rågnilsb…” (osäker läsning); ej bekräftad."
+ },
+ {
+  "id": "c-olof_andersson33-kjersti_jonsd28-kjersti_olsd66",
+  "type": "child",
+  "parents": [
+   "olof_andersson33",
+   "kjersti_jonsd28"
+  ],
+  "child": "kjersti_olsd66",
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 111, nr 38 (3 aug 1760): Ö. Takene, Kjerstin; föräldrar Olof Andersson och Kjersti Jonsd. Husförhör A I/6 bild 74: Kjersti Olsd. 3/8 1760 i Olof Anderssons hushåll."
+ },
+ {
+  "id": "c-olof_andersson33-kjersti_jonsd28-nils_olsson72",
+  "type": "child",
+  "parents": [
+   "olof_andersson33",
+   "kjersti_jonsd28"
+  ],
+  "child": "nils_olsson72",
+  "status": "verified",
+  "basis": "Husförhör A I/6 bild 74 (sida 63): ”S. Nils Olsson” 16/2 1772 i Olof Anderssons och Kjersti Jonsdotters hushåll."
+ },
+ {
+  "id": "p-olof_andersson33-kjersti_jonsd28",
+  "type": "partner",
+  "a": "olof_andersson33",
+  "b": "kjersti_jonsd28",
+  "status": "verified",
+  "basis": "Husförhör A I/6 bild 74: Olof Andersson 1733 och hustru Kjersti Jonsd. 1728 med barn."
+ },
+ {
+  "id": "p-anders_arnesson-marit_andersd67",
+  "type": "partner",
+  "a": "anders_arnesson",
+  "b": "marit_andersd67",
+  "status": "verified",
+  "basis": "Husförhör A I/7 bild 72 (sida 61): Marit Andersd. 1767 efter Kjerstis död 1790; dopböcker 1792 och 1793 anger dem som föräldrar. Vigselbok 1790 ej läst."
+ },
+ {
+  "id": "c-anders_arnesson-marit_andersd67-anders_aa92",
+  "type": "child",
+  "parents": [
+   "anders_arnesson",
+   "marit_andersd67"
+  ],
+  "child": "anders_aa92",
+  "status": "verified",
+  "basis": "Dopbok C I/3 bild 42, nr 11 (4 feb 1792): Ö. Takene, Anders; Anders Arnes[son], Marit Andersd. 67."
+ },
+ {
+  "id": "c-anders_arnesson-marit_andersd67-nils_aa93",
+  "type": "child",
+  "parents": [
+   "anders_arnesson",
+   "marit_andersd67"
+  ],
+  "child": "nils_aa93",
+  "status": "verified",
+  "basis": "Dopbok C I/3 bild 46, nr 55 (24 dec 1793): Takene, Nils; Anders Arnes[son], Marit Andersd. 67."
+ },
+ {
+  "id": "s-mariaand1787-anders_aa92",
+  "type": "sibling",
+  "a": "mariaand1787",
+  "b": "anders_aa92",
+  "status": "verified",
+  "basis": "Halvsyskon: gemensam far Anders Arnesson; husförhör A I/7 bild 72 – alla i samma hushåll."
+ },
+ {
+  "id": "s-mariaand1787-nils_aa93",
+  "type": "sibling",
+  "a": "mariaand1787",
+  "b": "nils_aa93",
+  "status": "verified",
+  "basis": "Halvsyskon: gemensam far Anders Arnesson; husförhör A I/7 bild 72 – alla i samma hushåll."
+ },
+ {
+  "id": "c-daniel_nilsson-anna_jonsd67-maria_dd93",
+  "type": "child",
+  "parents": [
+   "daniel_nilsson",
+   "anna_jonsd67"
+  ],
+  "child": "maria_dd93",
+  "status": "verified",
+  "basis": "Dopbok C I/3 bild 46, nr 61 (8 dec 1793): Smådal, Maria; Daniel Nilsson, Anna Jonsd. 67."
+ },
+ {
+  "id": "s-mans_daniels-maria_dd93",
+  "type": "sibling",
+  "a": "mans_daniels",
+  "b": "maria_dd93",
+  "status": "verified",
+  "basis": "Samma föräldrar Daniel Nilsson/Anna Jonsdotter, Smådal (C I/3 bild 46 resp. bild 56)."
+ },
+ {
+  "id": "p-nils_andersson_smadal-kjerstin_danielsd25",
+  "type": "partner",
+  "a": "nils_andersson_smadal",
+  "b": "kjerstin_danielsd25",
+  "status": "strong",
+  "basis": "Dopbok C I/2 bild 102 (1757) och A I/2 bild 259 (sida 247, Smådal)."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-britta_nd50",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "britta_nd50",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-kjersti_nd53",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "kjersti_nd53",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-anna_nd55",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "anna_nd55",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-ingerd_nd60",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "ingerd_nd60",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-karin_nd62",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "karin_nd62",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-mans_nd66",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "mans_nd66",
+  "status": "strong",
+  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+ },
+ {
+  "id": "c-nils_andersson_smadal-kjerstin_danielsd25-daniel_nilsson",
+  "type": "child",
+  "parents": [
+   "nils_andersson_smadal",
+   "kjerstin_danielsd25"
+  ],
+  "child": "daniel_nilsson",
+  "status": "candidate",
+  "basis": "Dopbok C I/2 bild 102 (18 sept 1757): Smådal, son Daniel till Nils [Andersson] och Kjerstin Danielsd.; husförhör A I/2 sida 247: Daniel Nilsson 1757. Identiteten med Daniel som far till Måns (1797) är ej bevisad (åldersmarkering 64 vid 1793 års dop)."
+ },
+ {
+  "id": "c-olof_olsson_1731-brita_christ_1730-nils_olofsson_1758",
+  "type": "child",
+  "parents": [
+   "olof_olsson_1731",
+   "brita_christ_1730"
+  ],
+  "child": "nils_olofsson_1758",
+  "status": "verified",
+  "basis": "C I/2 bild 105 nr 36: ”3 Dec: Unge Olof Olofsson och hustru Britta Christophers dotter i Öst. Takene Son Nils”."
+ },
+ {
+  "id": "c-olof_olsson_1731-brita_christ_1730-britta_olofsd_1761",
+  "type": "child",
+  "parents": [
+   "olof_olsson_1731",
+   "brita_christ_1730"
+  ],
+  "child": "britta_olofsd_1761",
+  "status": "verified",
+  "basis": "C I/2 bild 112 nr 8: ”14 Öfwertakene Britta; … Olsson / Britta Christ.d”; A I/1 bild 91: ”D. Britta Olsd 1761” (faderns förnamn osäkert läst i dopet)."
+ },
+ {
+  "id": "c-olof_olsson_s-ingierd_nilsd61-marit_olsd_1782",
+  "type": "child",
+  "parents": [
+   "olof_olsson_s",
+   "ingierd_nilsd61"
+  ],
+  "child": "marit_olsd_1782",
+  "status": "strong",
+  "basis": "A I/5 bild 75: ”S. Olof Olsson 1757, H. Ingjerd Nilsd. 1761, D. Marit Ols. 1782 Takene” i samma hushåll; dop ej läst."
+ },
+ {
+  "id": "c-christopher_persson_asen-ingrid_asen-barn_christophersd_1731",
+  "type": "child",
+  "parents": [
+   "christopher_persson_asen",
+   "ingrid_asen"
+  ],
+  "child": "barn_christophersd_1731",
+  "status": "strong",
+  "basis": "C I/1 bild 191 nr 46: ”Christopher Påhlsson och H. Ingrid Mattsd. i Åsen Barn, [namn oläsligt]”."
+ },
+ {
+  "id": "s-brita_christ_1730-barn_christophersd_1731",
+  "type": "sibling",
+  "a": "brita_christ_1730",
+  "b": "barn_christophersd_1731",
+  "status": "strong",
+  "basis": "Samma föräldrapar Christopher/Ingrid i Åsen, C I/1 bild 184 nr 19 och bild 191 nr 46."
+ },
+ {
+  "id": "s-nils_olofsson_1758-britta_olofsd_1761",
+  "type": "sibling",
+  "a": "nils_olofsson_1758",
+  "b": "britta_olofsd_1761",
+  "status": "verified",
+  "basis": "Samma föräldrar Olof Olofsson och Britta Christophersdotter, Ö. Takene (C I/2 bild 105 och 112)."
+ },
+ {
+  "id": "s-olof_olsson_s-nils_olofsson_1758",
+  "type": "sibling",
+  "a": "olof_olsson_s",
+  "b": "nils_olofsson_1758",
+  "status": "verified",
+  "basis": "Båda barn i Olof Olss (1731)s hushåll, A I/1 bild 91, samt dop 1758 med föräldrarna Olof och Britta Christophers dotter."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-ingeborg_jj",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "ingeborg_jj",
+  "status": "verified",
+  "basis": "Husförhörslängd Boda A I/15 bild 134: barnet står i hushållet under Bonde Jan Jonasson och H. Cajsa Persd., Lerbodatorp."
+ },
+ {
+  "id": "s-kajsa-ingeborg_jj",
+  "type": "sibling",
+  "a": "kajsa",
+  "b": "ingeborg_jj",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt husförhörslängd Boda A I/15 bild 134."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-brita_jj",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "brita_jj",
+  "status": "verified",
+  "basis": "Husförhörslängd Boda A I/15 bild 134: barnet står i hushållet under Bonde Jan Jonasson och H. Cajsa Persd., Lerbodatorp."
+ },
+ {
+  "id": "s-kajsa-brita_jj",
+  "type": "sibling",
+  "a": "kajsa",
+  "b": "brita_jj",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt husförhörslängd Boda A I/15 bild 134."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-anna_jj",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "anna_jj",
+  "status": "verified",
+  "basis": "Husförhörslängd Boda A I/15 bild 134: barnet står i hushållet under Bonde Jan Jonasson och H. Cajsa Persd., Lerbodatorp."
+ },
+ {
+  "id": "s-kajsa-anna_jj",
+  "type": "sibling",
+  "a": "kajsa",
+  "b": "anna_jj",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt husförhörslängd Boda A I/15 bild 134."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-mertha_jj",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "mertha_jj",
+  "status": "verified",
+  "basis": "Husförhörslängd Boda A I/15 bild 134: barnet står i hushållet under Bonde Jan Jonasson och H. Cajsa Persd., Lerbodatorp."
+ },
+ {
+  "id": "s-kajsa-mertha_jj",
+  "type": "sibling",
+  "a": "kajsa",
+  "b": "mertha_jj",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt husförhörslängd Boda A I/15 bild 134."
+ },
+ {
+  "id": "c-jan_jonasson-kajsa_persd-johannes_jj",
+  "type": "child",
+  "parents": [
+   "jan_jonasson",
+   "kajsa_persd"
+  ],
+  "child": "johannes_jj",
+  "status": "verified",
+  "basis": "Husförhörslängd Boda A I/15 bild 134: barnet står i hushållet under Bonde Jan Jonasson och H. Cajsa Persd., Lerbodatorp."
+ },
+ {
+  "id": "s-kajsa-johannes_jj",
+  "type": "sibling",
+  "a": "kajsa",
+  "b": "johannes_jj",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt husförhörslängd Boda A I/15 bild 134."
+ },
+ {
+  "id": "p-anders_nilsson_boda-kaisa_olsd_boda",
+  "type": "partner",
+  "a": "anders_nilsson_boda",
+  "b": "kaisa_olsd_boda",
+  "status": "strong",
+  "basis": "Föräldrapar i Bodas födelsebok C I/3 bild 26 (24 nov 1826)."
+ },
+ {
+  "id": "c-anders_nilsson_boda-kaisa_olsd_boda-anna1821",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_boda",
+   "kaisa_olsd_boda"
+  ],
+  "child": "anna1821",
+  "status": "strong",
+  "basis": "Dopbok Boda 1826: ”Nov. 24, döpt 26: Anna, Boda. u. Anders Nilss., Kaisa Olsdr”. Datumet 24/11 1826 = Annas födelsedatum i husförhöret 1856 (A I/20 bild 230). Starkt men ej verified: inget hushåll med Anna som dotter funnet, och Annas folkbokförda födelseort är bara ’Boda’."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-karin_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "karin_ec",
+  "status": "verified",
+  "basis": "A I/17 bild 117, Ö. Takene: ”Dtr Karin 10/2 30” i Erik Christopherssons och Britta Olsdotters hushåll."
+ },
+ {
+  "id": "c-erik_christ-brita_olsd90-christopher_ec",
+  "type": "child",
+  "parents": [
+   "erik_christ",
+   "brita_olsd90"
+  ],
+  "child": "christopher_ec",
+  "status": "verified",
+  "basis": "A I/17 bild 117: tillagd rad ”Son Christopher 29/? 1835” sist i familjens hushåll."
+ },
+ {
+  "id": "p-per_olofsson85-karin_andersd84",
+  "type": "partner",
+  "a": "per_olofsson85",
+  "b": "karin_andersd84",
+  "status": "verified",
+  "basis": "A I/17 bild 103 och A I/23 bild 125 Skog: ”Mond. Pär Olson 23/3 85” + ”hustru Karin Andersdotter 16/4 84”."
+ },
+ {
+  "id": "c-elof_nilsson-marit_isaksd-marit_en24",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "marit_isaksd"
+  ],
+  "child": "marit_en24",
+  "status": "verified",
+  "basis": "C I/1 bild 153, 1724 nr 45: ”Elof Nilss: och h. Marit Isaksdotter: barn i Toltan vid namn Marit”"
+ },
+ {
+  "id": "c-elof_nilsson-marit_isaksd-anna_en30",
+  "type": "child",
+  "parents": [
+   "elof_nilsson",
+   "marit_isaksd"
+  ],
+  "child": "anna_en30",
+  "status": "strong",
+  "basis": "C I/1 bild 186, 1730 nr 37: ”Olof [Elof?] Nilsson och hust. Marit Isaacs-dotter i Toltan Barn Anna”"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-nils_nn27",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "nils_nn27",
+  "status": "verified",
+  "basis": "C I/1 bild 165, 1727 nr 10"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-anders_nn29",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "anders_nn29",
+  "status": "verified",
+  "basis": "C I/1 bild 176, 1729 nr 7"
+ },
+ {
+  "id": "p-nils_n_stoy-britta_claesd_stoy",
+  "type": "partner",
+  "a": "nils_n_stoy",
+  "b": "britta_claesd_stoy",
+  "status": "verified",
+  "basis": "Föräldrar i dopen 1727 och 1729 (bild 165, 176)"
+ },
+ {
+  "id": "s-elof_nilsson-nils_n_stoy",
+  "type": "sibling",
+  "a": "elof_nilsson",
+  "b": "nils_n_stoy",
+  "status": "lead",
+  "basis": "Samma patronymikon, ömsesidiga faddrar 1727–1735; 1729 ”Elof och Pehr Nilssonar i Toltan” fadder hos Nils Nilsson i Stoy. Ej bevisat."
+ },
+ {
+  "id": "s-elof_nilsson-per_nilsson_toltan",
+  "type": "sibling",
+  "a": "elof_nilsson",
+  "b": "per_nilsson_toltan",
+  "status": "lead",
+  "basis": "C I/1 bild 176, 1729: ”Fadd: Elof och Pehr Nilssonar i Toltan”. Ej bevisat."
  }
 ]
