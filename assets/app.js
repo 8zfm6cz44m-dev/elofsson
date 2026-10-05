@@ -392,6 +392,11 @@ function openPanel(id) {
   <div data-pane="info">
     ${p.summary?`<p class="psum">${esc(p.summary)}</p>`:""}
     ${facts.length?`<dl class="facts">${facts.map(([k,v2,n])=>`<dt>${esc(k)}</dt><dd>${esc(v2||"")}${n?`<br><small>\u26a0 ${esc(n)}</small>`:""}</dd>`).join("")}</dl>`:""}
+    ${(()=>{const ev=[...(p.timeline||[])];const has=y=>ev.some(e=>String(e[0]).includes(y));
+      if(p.born?.date&&!has(String(p.born.date).slice(0,4)))ev.unshift([String(p.born.date).slice(0,4)||p.born.date,"F\xf6dd "+[p.born.date,p.born.place].filter(Boolean).join(", ")]);
+      if(p.died?.date&&!has(String(p.died.date).slice(0,4)))ev.push([String(p.died.date).slice(0,4),"D\xf6d "+[p.died.date,p.died.place].filter(Boolean).join(", ")]);
+      if(ev.length<2&&!p.timeline)return "";
+      return `<div class="sec-title">Livshistoria</div><ol class="tl">${ev.map(([y,t])=>`<li><span class="tly">${esc(y)}</span><span class="tlt">${richText(t)}</span></li>`).join("")}</ol>`;})()}
     ${p.notes?.length?`<div class="sec-title">Anteckningar</div><ul class="bullets">${p.notes.map(n=>`<li>${richText(n)}</li>`).join("")}</ul>`:""}
     ${sortedRels.length?`<div class="sec-title">Relationer</div><ul class="rl" style="margin-bottom:10px">${sortedRels.map(x=>`<li>
       <div class="rtype">${esc(x.t)}</div>

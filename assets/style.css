@@ -229,3 +229,8 @@ mark{background:#ffe27a;color:inherit;padding:0 1px;border-radius:2px}
 @media(max-width:600px){body{font-size:15px}.panel-head h2{font-size:18px}}
 .hidden{display:none!important}
 .loaderr{margin:24px;padding:16px;background:var(--excluded-bg);border:1px solid var(--excluded);border-radius:6px}
+
+ol.tl{list-style:none;margin:4px 0 12px;padding:0;border-left:2px solid var(--line,#ddd)}
+ol.tl li{display:grid;grid-template-columns:96px 1fr;gap:8px;padding:5px 0 5px 10px;position:relative;font-size:14.5px}
+ol.tl li::before{content:"";position:absolute;left:-6px;top:11px;width:10px;height:10px;border-radius:50%;background:var(--accent,#2f6b4f)}
+ol.tl .tly{font-weight:700;color:var(--muted)}
