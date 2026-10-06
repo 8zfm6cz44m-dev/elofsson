@@ -10575,5 +10575,243 @@
   "status": "verified",
   "basis": "Husförhör A II a/3 bild 279: ”d. Lilly Maria” 15 7/2 under David/Betty.",
   "id": "c-aq2_david_nilsson_1887_takene-aq2_betty_olsson_1887_takene-aq2_lilly_maria_nilsson_1915"
+ },
+ {
+  "id": "p-larsson_karljohan89-aq3_gerda_goransson85",
+  "type": "partner",
+  "a": "larsson_karljohan89",
+  "b": "aq3_gerda_goransson85",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925."
+ },
+ {
+  "id": "c-larsson_karljohan89-aq3_gerda_goransson85-aq3_karlerik_jansson19",
+  "type": "child",
+  "parents": [
+   "larsson_karljohan89",
+   "aq3_gerda_goransson85"
+  ],
+  "child": "aq3_karlerik_jansson19",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst."
+ },
+ {
+  "id": "c-larsson_karljohan89-aq3_gerda_goransson85-aq3_gerdulla_jansson25",
+  "type": "child",
+  "parents": [
+   "larsson_karljohan89",
+   "aq3_gerda_goransson85"
+  ],
+  "child": "aq3_gerdulla_jansson25",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst."
+ },
+ {
+  "id": "p-larsson_ellenmaria85-aq3_johangustaf_jonasson84",
+  "type": "partner",
+  "a": "larsson_ellenmaria85",
+  "b": "aq3_johangustaf_jonasson84",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil."
+ },
+ {
+  "id": "c-aq3_johangustaf_jonasson84-larsson_ellenmaria85-aq3_hildakristina_jonasson07",
+  "type": "child",
+  "parents": [
+   "aq3_johangustaf_jonasson84",
+   "larsson_ellenmaria85"
+  ],
+  "child": "aq3_hildakristina_jonasson07",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil."
+ },
+ {
+  "id": "c-aq3_johangustaf_jonasson84-larsson_ellenmaria85-aq3_jannenatanael_jonasson11",
+  "type": "child",
+  "parents": [
+   "aq3_johangustaf_jonasson84",
+   "larsson_ellenmaria85"
+  ],
+  "child": "aq3_jannenatanael_jonasson11",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil."
+ },
+ {
+  "id": "c-n44k_karljohan77-milla_fagerheim73-aq3_gustafadolf_skoldberg13",
+  "type": "child",
+  "parents": [
+   "n44k_karljohan77",
+   "milla_fagerheim73"
+  ],
+  "child": "aq3_gustafadolf_skoldberg13",
+  "status": "candidate",
+  "basis": "Folkräkning 1930 Norra Boda s.3 r.28: Gustaf Adolf Sköldberg f. 1913 Stockholm i hushållet; efternamnet avviker -> sannolikt foster-/pleje-barn, ej biologiskt barn belagt."
+ },
+ {
+  "id": "p-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50",
+  "type": "partner",
+  "a": "aq3_emanuel_johannesson44",
+  "b": "aq3_kajsa_gudmundsd50",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-oskaralfred_emanuelsson81",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "oskaralfred_emanuelsson81",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. Oskar Alfred har uttrycklig familjeställning ”s.”."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_johangottfrid_emanuelsson73",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "aq3_johangottfrid_emanuelsson73",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_jonasalbin_emanuelsson77",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "aq3_jonasalbin_emanuelsson77",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_gerdamaria_emanuelsson83",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "aq3_gerdamaria_emanuelsson83",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_enokferdinand_emanuelsson86",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "aq3_enokferdinand_emanuelsson86",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_abelfritof_emanuelsson88",
+  "type": "child",
+  "parents": [
+   "aq3_emanuel_johannesson44",
+   "aq3_kajsa_gudmundsd50"
+  ],
+  "child": "aq3_abelfritof_emanuelsson88",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+ },
+ {
+  "id": "p-aq3_karlemil_nilsson68-aq3_gerdamaria_emanuelsson83",
+  "type": "partner",
+  "a": "aq3_karlemil_nilsson68",
+  "b": "aq3_gerdamaria_emanuelsson83",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918."
+ },
+ {
+  "id": "c-aq3_karlemil_nilsson68-aq3_gerdamaria_emanuelsson83-aq3_ruth_nilsson13",
+  "type": "child",
+  "parents": [
+   "aq3_karlemil_nilsson68",
+   "aq3_gerdamaria_emanuelsson83"
+  ],
+  "child": "aq3_ruth_nilsson13",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918."
+ },
+ {
+  "id": "c-aq3_karlemil_nilsson68-aq3_gerdamaria_emanuelsson83-aq3_gunwor_nilsson18",
+  "type": "child",
+  "parents": [
+   "aq3_karlemil_nilsson68",
+   "aq3_gerdamaria_emanuelsson83"
+  ],
+  "child": "aq3_gunwor_nilsson18",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918."
+ },
+ {
+  "id": "p-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90",
+  "type": "partner",
+  "a": "aq3_jonasalbin_emanuelsson77",
+  "b": "aq3_hulda_nilsson90",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_nilsgustaf_emanuelsson14",
+  "type": "child",
+  "parents": [
+   "aq3_jonasalbin_emanuelsson77",
+   "aq3_hulda_nilsson90"
+  ],
+  "child": "aq3_nilsgustaf_emanuelsson14",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_kjellolof_emanuelsson16",
+  "type": "child",
+  "parents": [
+   "aq3_jonasalbin_emanuelsson77",
+   "aq3_hulda_nilsson90"
+  ],
+  "child": "aq3_kjellolof_emanuelsson16",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_johnoskar_emanuelsson19",
+  "type": "child",
+  "parents": [
+   "aq3_jonasalbin_emanuelsson77",
+   "aq3_hulda_nilsson90"
+  ],
+  "child": "aq3_johnoskar_emanuelsson19",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_karlerikenok_emanuelsson21",
+  "type": "child",
+  "parents": [
+   "aq3_jonasalbin_emanuelsson77",
+   "aq3_hulda_nilsson90"
+  ],
+  "child": "aq3_karlerikenok_emanuelsson21",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_ingridmaria_emanuelsson26",
+  "type": "child",
+  "parents": [
+   "aq3_jonasalbin_emanuelsson77",
+   "aq3_hulda_nilsson90"
+  ],
+  "child": "aq3_ingridmaria_emanuelsson26",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
  }
 ]
