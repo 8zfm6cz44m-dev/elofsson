@@ -1108,7 +1108,8 @@
    "Militärtjänsten vid Fälttelegrafkåren kan förklara varför Elof (f. 1914-12-14) inte är född i Brunskog eller Mangskog. Pröva var kåren var förlagd 1914 och sök Elofs födelse där, samt Johans tjänst i arméns rullor hos Riksarkivet.",
    "Patronymikon Olsson stämmer med fadern Olof August Johannesson. Olof Augusts personpost skapades 2017-01-12 17:45, Johans uppdaterades 17:48 samma dag – samma redigeringstillfälle.",
    "Skolbarnet ”Johan Olsson Där Nere i Skog” på Takene skolfoto 1921 är en annan, yngre person.",
-   "USA 1923 (Z2): Ellis Island-passagerarlista: 'Johan Olaf Olsson', ankomst 10 aug 1923 Ellis Island, fartyg Berengaria från Southampton, gift, fodd 1887 (tree: 23/9 1886), 36 år, senaste hemvist indexerat 'Brunsberg, Sweden' (sannolik felläsning av Brunskog). Passenger-id JNXV-W62, bildref T715-3347-477. Starkt sammanfallande med familjeuppgiften 'emigrerade ensam 1923'. Destination/kontaktperson ej läst (kräver manifestbilden). Status: strong, ej verified (identitet via namn+ålder+gift+Brunskog-felläsning; hustru Hulda ej angiven på posten)."
+   "USA 1923 (Z2): Ellis Island-passagerarlista: 'Johan Olaf Olsson', ankomst 10 aug 1923 Ellis Island, fartyg Berengaria från Southampton, gift, fodd 1887 (tree: 23/9 1886), 36 år, senaste hemvist indexerat 'Brunsberg, Sweden' (sannolik felläsning av Brunskog). Passenger-id JNXV-W62, bildref T715-3347-477. Starkt sammanfallande med familjeuppgiften 'emigrerade ensam 1923'. Destination/kontaktperson ej läst (kräver manifestbilden). Status: strong, ej verified (identitet via namn+ålder+gift+Brunskog-felläsning; hustru Hulda ej angiven på posten).",
+   "USA 1923 (A1, manifestbild läst): Ellis Island, S.S. Berengaria från Southampton, ankomst 10 aug 1923, manifestblad T715-3347-477 rad 15: ”OLSSON JOHAN OLAF 36 M[arried] … CARPENTER … SWEDISH … Sweden, Brunsberg”; närmaste anhörig i hemlandet: ”WIFE, HILDA OLSSON, BRUNSBERG.”; slutdestination: ”N.Y., JAMESTOWN” (Jamestown, Chautauqua Co., New York – stor svensk koloni). Hustrun Hilda Olsson angiven som anhörig i Sverige = starkt stöd för att posten är Hulda Erikssons make (Hulda = Hilda). Kolumnerna 'betalat biljett'/'ska till släkting/vän' i USA ej läst (bild 478 gick inte att visa)."
   ],
   "sources": [
    {
@@ -1147,6 +1148,10 @@
    },
    {
     "label": "Ellis Island Foundation, Arrival Record: Johan Olaf Olsson, 10 Aug 1923, Berengaria, age 36, b. 1887, married, last residence Brunsberg, Sweden (id JNXV-W62; image T715-3347-477)",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
+   },
+   {
+    "label": "Ellis Island manifest Berengaria 10 aug 1923, T715-3347-477 rad 15: nearest relative ”Wife, Hilda Olsson, Brunsberg”, destination ”N.Y., Jamestown”, yrke carpenter",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
    }
   ],
@@ -2409,7 +2414,8 @@
    "Minneapolis/Minnesota och California är endast familjeleads, inte fakta.",
    "Central volym: Brunskog SE/VA/13065/B/7, in- och utflyttningslängd 1895–1912. Navigationsankare: 1906 ligger på bild 27/sida 24; 1903 bör ligga tidigare i volymen.",
    "Ingen amerikansk Erik/Eric/John Erickson accepteras utan match på svensk identitet, födelsedatum och 1903-emigration.",
-   "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895."
+   "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895.",
+   "USA 1903 (A1): MÖJLIG match = ”Erik J. Erikson” 24 år, gift, från Brunskog, med hustru Anna 23 och spädbarn Eric H., S.S. New York ankomst 3 okt 1903, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Se person erik_j_erikson_1903 (candidate). Ej bevisad – kräver Brunskog dop/vigsel 1901-02 eller flyttlängd 1903."
   ],
   "sources": [
    {
@@ -2585,6 +2591,14 @@
    {
     "label": "Geneteka-index (geneteka.genealodzy.pl, woj. świętokrzyskie): Stefan Orzechowski × Zofia Młodawska, Kielce św. Wojciech 1923 nr 1, 7.1.1923, Szydłówek, 'Uwagi: 21 i 18'; föräldrar Józef + Katarzyna Zatorska / Jan + Wiktoria Szewczyk",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1897 (kt1), skan 001-003.jpg, akt nr 3, marginal 'Szydłówek'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1897&kt=1&plik=001-003.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1903 (kt1), skan 063-068.jpg, akt nr 67 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1903&kt=1&plik=063-068.jpg"
    }
   ],
   "search": [
@@ -2595,7 +2609,8 @@
    "VIGSELINDEX 1923: Stefan Orzechowski, föräldrar 'Józef, Katarzyna Zatorska', ålder 21 (=> född ca 1901/02, stämmer med 7/9 1902; födelseindex 1903 nr 68 anger år 1903 utan föräldrar/datum – oklart om registerår eller annan person). Status strong: identitet Stefan+Zofia stöds av namnparet och Zofias ålder, men vigselposten nämner inga barn och själva akten/skanningen är ej läst.",
    "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
-   "MARGINALNOT vid akt 68 (polska, ca 1923): \"Szydłówek. Stefan Orzechowski dnia 7 stycznia 1923 r. w Kościele Sw. Wojciecha w Kielcach zaślubił Zofję Młodawską. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach ...\" (lösa ord i slutet osäkra). = Stefan Orzechowski gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Zofia Młodawska; införd på prästens skrivelse."
+   "MARGINALNOT vid akt 68 (polska, ca 1923): \"Szydłówek. Stefan Orzechowski dnia 7 stycznia 1923 r. w Kościele Sw. Wojciecha w Kielcach zaślubił Zofję Młodawską. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach ...\" (lösa ord i slutet osäkra). = Stefan Orzechowski gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Zofia Młodawska; införd på prästens skrivelse.",
+   "SYSKON (verifierade födelseakter): Marianna Orzechowska f. 1.1.1897 (1897 akt 3) och Bronisława Orzechowska f. 15.3.1903 (1903 akt 67, anmäld samma dag som Stefans akt 68). Stanisław Orzechowski finns i födelseindex 1905 (akt nr oläsligt '1?3', ej 123/153) – ev. syskon, ej läst."
   ]
  },
  {
@@ -2639,6 +2654,10 @@
    {
     "label": "Geneteka-index (geneteka.genealodzy.pl, woj. świętokrzyskie): Stefan Orzechowski × Zofia Młodawska, Kielce św. Wojciech 1923 nr 1, 7.1.1923, Szydłówek, 'Uwagi: 21 i 18'; föräldrar Józef + Katarzyna Zatorska / Jan + Wiktoria Szewczyk",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1902 (kt1), skan 205-212.jpg, akt nr 211 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1902&kt=1&plik=205-212.jpg"
    }
   ],
   "search": [
@@ -2651,7 +2670,8 @@
    "FÖDELSEINDEX Kielce św. Wojciech 1904 nr 125 'Zofia Młodawski' (föräldrar ej indexerade) – kandidat, samma parish som vigseln. Uteslutna namnlika: Zofia Młodawska f. 30.6.1904 Komorów (föräldrar Jan+Anna Skowron, vilket motsäger Wiktoria Szewczyk), Zofia Stanisława f. 17.8.1904 Czarna, Zofia f. 1901 Czarna, Zofia Łucja f. 1902 Niekłań.",
    "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
-   "MARGINALNOT vid akt 125 (polska): \"Szydłówek. Zofja Młodawska dnia 7 stycznia 1923 r. w kościele Sw. Wojciecha w Kielcach zaślubiła Stefana Orzechowskiego. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach (Nr dzienn. ...) ...\" = Zofia Młodawska gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Stefan Orzechowski."
+   "MARGINALNOT vid akt 125 (polska): \"Szydłówek. Zofja Młodawska dnia 7 stycznia 1923 r. w kościele Sw. Wojciecha w Kielcach zaślubiła Stefana Orzechowskiego. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach (Nr dzienn. ...) ...\" = Zofia Młodawska gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Stefan Orzechowski.",
+   "SYSKON: Bolesław Stanisław Młodawski f. 13.7.1902 (akt 211) – äldre bror; samma föräldrar Jan Młodawski + Wiktoria Szewczyk."
   ]
  },
  {
@@ -3978,10 +3998,17 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 389453",
     "url": "https://www.hembygd.se/brunskog/plats/221748/person/389453"
+   },
+   {
+    "label": "Riksarkivet folkräkningsindex, Paul Eriksson f. 1881, Brunskog: 1890, 1910, 1930",
+    "url": "https://sok.riksarkivet.se/folkrakningar?Fornamn=Paul&Efternamn=Eriksson&Fodelsear=1881&Fodelseforsamling=Brunskog"
    }
   ],
   "search": [
    "Paul Eriksson"
+  ],
+  "notes": [
+   "FOLKRÄKNINGSINDEX (Riksarkivet, sök Fornamn=Paul, Efternamn=Eriksson, Fodelsear=1881, Fodelseforsamling=Brunskog): träffar 1890, 1910 och 1930 i Värmlands län => troligen inte emigrant (index visar inga hushållsdetaljer, ej verifierat att det är samme Paul)."
   ]
  },
  {
@@ -4252,6 +4279,22 @@
    {
     "label": "Digitalarkivet, Folketelling 1875 for 0237P Eidsvoll prestegjeld, Hoel: Anders Elofsen, pf01052052001547",
     "url": "https://www.digitalarkivet.no/census/person/pf01052052001547"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Eidsvoll prestegjeld (0237P), krets 004, Hoel, hush. 02: 013 Anders Elofsen, husfader inderst, g, skindfeldmager, f. 1816 Brunskog S Sverige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052052001547"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Ullensaker (0235), krets 14 Øvre Sundby, Thorsten Nielsen (gnr 163/3): 002 Anders Ellefsen, logerende hørende til familien, e-mand (enkemann), f. 1816 Brunskog, Vermeland, Sverige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005286"
+   },
+   {
+    "label": "Digitalarkivet, Parish register (official) Eidsvoll 1891-1900, begravde 1893 s. 204 nr 45: Anders Ellefsen, avdød, f. 1816 Vermeland, dødsdato 11-15, begravet 1893-11-24",
+    "url": "https://www.digitalarkivet.no/en/view/267/pg00000003938234"
+   },
+   {
+    "label": "Digitalarkivet, Parish register (copy) Eidsvoll 1884-1894, begravde 1893 s. 303 nr 45: Anders Ellessen, f. 1816, død 11-15, begravet 1893-11-24",
+    "url": "https://www.digitalarkivet.no/en/view/267/pg00000003122225"
    }
   ],
   "search": [
@@ -4262,7 +4305,9 @@
    "NORGE (candidate): Norsk folkräkning 1875 (Digitalarkivet, pf01052052001547): Anders Elofsen f. 1816 i Brunskog, skinnberedare (Skindfeldmager) på Hoel i Eidsvoll, gift med Stina Nilsdatter f. 1813 i Frykerud (Sverige). Troligen samma person som Anders Elofsson f. 1816 i Elof Perssons familj, men identiteten är inte bevisad.",
    "FOLKRÄKNING NORGE 1875 Eidsvoll prestegjeld, krets 004, Hoel (lopenr 75a), hushåll 02: 013 Anders Elofsen, Husfader Inderst, G, Skindfeldmager, f. 1816 Brunskog S Sverige; 014 Stina Nilsdatter, hans kone, G, f. 1813 Frykerud S, Sverige. Inga barn i hushållet. Bodde som inderst i Ole Amundsens gård.",
    "Matchar tree: Anders Elofsson f. 1816 Brunskog, son till Elof Persson/Maria Andersdotter (A I/17 bild 112). Patronymikon Elofs- ovanligt, födelseår och församling stämmer. Saknas: dop 1816 och utflyttningsnotering i Brunskog (flyttlängd) samt partner Stina Nilsdotter i Svensk källa.",
-   "Intilliggande sökträffar: Mons Andersen f. 1815 och Niels Andersen f. 1808, båda skinnberedare från Brunskog i Hurdal (1875) – yrkesgemenskap, släktskap okänd."
+   "Intilliggande sökträffar: Mons Andersen f. 1815 och Niels Andersen f. 1808, båda skinnberedare från Brunskog i Hurdal (1875) – yrkesgemenskap, släktskap okänd.",
+   "NORGE (Z-A3, strong/möjligen): Anders Elofsen/Ellefsen f. 1816 Brunskog (\"Vermeland\") återfinns i tre norska källor: FT 1875 Eidsvoll, Hoel, skindfeldmager, inderst, g. m. Stina Nilsdatter f. 1813 Frykerud, inga barn i hushållet; FT 1891 Ullensaker (Øvre Sundby, hos Thorsten Nielsen), logerende, e-mand (enkemann) – Stina alltså död 1875–1891; begravning Eidsvoll 24 nov 1893 (död 15 nov 1893), s. 204 nr 45: \"Anders Ellefsen, avdød, f. 1816 Vermeland\" (kopian: 'Anders Ellessen', s. 303 nr 45). Stämmer med trädet: MÖJLIGEN (namn+födelseår+socken+patronymikon Elof- stämmer, men ingen post nämner föräldrarna Elof Persson/Maria Andersdotter; även ingen post visar utflyttning från Brunskog). Ej funnet: FT 1865 (flera sökvägar prövade), 1900/1910 (död 1893), vigsel, barn, Stinas död.",
+   "Kollision att utesluta: Anders Elofsen f. 20/12 1828 'Sverige', Brandval (FT 1910, död 27/2 1915) är en annan person."
   ]
  },
  {
@@ -4512,6 +4557,14 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 132: 1 okt 1818 Anders, Skog, föräldrar Måns Danielsson och Marit Olsdotter (20 år); faddrar Per Olsson och Karin Andersdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00132"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 121 (s. 109), Skog ¼ kr. skatte: ”Måns Danielsson 14/6 97 Brunskog – Död 49”; hustru Marit Olsd.; dotter Maria 12/2 21; son Olof 21/7? 31",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00121"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 114 (1849, nov): ”Gifte m. Måns Danielsson fr Skog – Feber – 52 år 5 mån”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00114"
    }
   ],
   "search": [
@@ -4519,7 +4572,9 @@
   ],
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 100), Skog: ”Bond. Måns Danielsson 14/6 1797”, hustru Marit Olsdotter (1798), deras son Anders (18/9 1818), dottern Maria (12/2 1821), dottern Cajsa (3/2 1824) och sonen Olof (21/7 1831).",
-   "A I/17 bild 100: i samma Skog-hushåll bor svärmodern ”Enk. Britta Nilsdotter 26/1 1758” (Marit Olsdotters mor), samt piga Maria Nilsdotter (8/1 1812), dräng Anders Andersson (7/11, Boda), dräng Nils Jansson (17/3 1816, Takene) och piga Anna Persdotter (5/10 1819) – tjänstefolk utan känd släktskap."
+   "A I/17 bild 100: i samma Skog-hushåll bor svärmodern ”Enk. Britta Nilsdotter 26/1 1758” (Marit Olsdotters mor), samt piga Maria Nilsdotter (8/1 1812), dräng Anders Andersson (7/11, Boda), dräng Nils Jansson (17/3 1816, Takene) och piga Anna Persdotter (5/10 1819) – tjänstefolk utan känd släktskap.",
+   "HUSFÖRHÖR A I/23 bild 121 (s. 109), Skog ¼ Kr. skatte: ”Bde. [Måns Danielsson, överstruket] 14/6 97 Brunskog, X X X – i kolumnen Utflyttad: Död 49”; ”Enk. H. Marit Ols.dr [17/1?] 98 ibm”; ”Dotter Maria 12/2 21 ibm”, ”Son Olof 21/7? 31 ibm” (båda utflyttade ”113 – 48”); ”Svärmodern Enk. Britta Nilsd. 26/1 58 Brunskog – Död 1850”. På s. 113/114 (bild 125) bor Maria Månsd. (12/2 1821) och Olof Månsson (21/7? 1831) som piga och dräng hos Per Olsson (f. 1785) på Skog, där även Anders Månsson (18/9 1818) med hustru Anna Olsd. (24/2 1813) och barn Olof 24/11 1841, Cajsa 10/2 1844, Anna 14/12 1846 bor.",
+   "DÖDBOK F I/2 bild 114 (s. 187, Döde och begrafne 1849), nov: rad ”9 | 25 | Gifte m. Måns Danielsson fr Skog | Feber | 52 | 5 …”; närmast före: ”1 | 11 | Gifte m. afsk. Soldat Nils Strömberg fr Skog | do | 52 | 5”, efter: ”11 | 25 | Hustrun Marit Olsd. fr Ö. Takene | Slag | 71 | 9 | 27” (annan Marit, ej släkt)."
   ],
   "timeline": [
    [
@@ -4530,7 +4585,12 @@
     "1818–1831",
     "Bonde på Skog; barnen Anders, Maria, Cajsa och Olof föds."
    ]
-  ]
+  ],
+  "died": {
+   "date": "1849-11",
+   "place": "Skog, Brunskog",
+   "note": "Husförhör A I/23 bild 121 (s. 109): ”Död 49” vid Måns Danielsson 14/6 97; dödbok F I/2 bild 114 (1849, nov): ”Gifte m. Måns Danielsson fr Skog – Feber – 52 år 5 mån”. Dödsdag läses 9 nov, begravning 25 nov 1849 (osäker tolkning av de två dagskolumnerna)."
+  }
  },
  {
   "id": "marit_olsd98",
@@ -4566,6 +4626,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–35), bild 100, Skog: Måns Danielsson och Marit Olsdotter 1798; ”Sv:mor Enk. Britta Nilsdotter 26/1 1758 Loco”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 121 (s. 109), Skog: ”Enk. H. Marit Ols.dr” f. 98 Brunskog, make Måns Danielsson ”Död 49”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00121"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 132 (s. 219, 1859 nr 69): ”Skog – B. Enkan Marit Olsdotter – 61 år 7 mån 27 d – Enka”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00132"
    }
   ],
   "search": [
@@ -4573,8 +4641,15 @@
   ],
   "notes": [
    "DOPBOK C I/3 bild 58 nr 4: ”17. Skog, Marit – Olof Nilsson, Brita Nilsd. [58] – Nils Jonsson, anna Nilsd. ibm”.",
-   "HUSFÖRHÖR A I/8 bild 379 (Skog ¼ skatte): barn i Olof Nilssons hushåll; mormor Marit Jonsdotter (f. 1721) bor i hushållet. A I/17 bild 100: ”Sv:mor Enk. Britta Nilsdotter 26/1 1758” hos Måns Danielsson."
-  ]
+   "HUSFÖRHÖR A I/8 bild 379 (Skog ¼ skatte): barn i Olof Nilssons hushåll; mormor Marit Jonsdotter (f. 1721) bor i hushållet. A I/17 bild 100: ”Sv:mor Enk. Britta Nilsdotter 26/1 1758” hos Måns Danielsson.",
+   "HUSFÖRHÖR A I/23 bild 121 (s. 109), Skog ¼ kr. skatte: ”Enk. H. Marit Olsd.” f. 98 Brunskog (efter ”Död 49” vid maken Måns Danielsson). Hon är alltså änka efter 1849 och lever 1850 på Skog; barnen Maria (12/2 1821) och Olof (21/7? 1831) flyttar 1848 till s. 113. Egen död ej funnen i F I/2 bild 98–122 (1836–1854).",
+   "DÖDBOK F I/2 bild 132 (s. 219), 1859 nr 69: ”69 | – | 30 | ²²⁄₁ 60 | Skog | 114 | B. Enkan Marit Olsdotter | [sjukdom: moderssjuka?] | 61 | 7 | 27 | Enka”. Hemvist Skog + enka stämmer med A I/23 bild 121 (Enk. Marit Olsd., maken Måns Danielsson död 1849). Ålder 61 år 7 mån 27 d ger född ca 3 maj 1798, vilket stämmer med husförhörets ”4/5 98” (A I/23 bild 121) men INTE med dopboken C I/3 bild 58 nr 4 (”17 Jan 1798, Skog, Marit, Olof Nilsson / Brita Nilsd.”) – se flagga."
+  ],
+  "died": {
+   "date": "1859-12-30",
+   "place": "Skog, Brunskog",
+   "note": "Dödbok F I/2 bild 132 (s. 219, 1859 nr 69, efter ”Uppgifvet till Härads Rätten den 18 Januari 1860”): ”69 | – | 30 | 22/1 60 | Skog | 114 | B. Enkan Marit Olsdotter | Moder-sjuka(?) | 61 | 7 | 27 | Enka”. Död 30 (dec 1859, månad ”–” = som raden ovan), begravd 22/1 1860 – månad/dag något osäkra."
+  }
  },
  {
   "id": "erik_christ",
@@ -4673,6 +4748,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 140: 4 maj 1820 Nils, Ö. Takene, föräldrar Erik Christophersson och Brita Olsdotter (40 år)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 144 (s. 142), Ö. Takene: ”Madz. Enk. Britta Olsd.” 15/11 90 Brunskog, med barnen Jonas Ersson 18/8 1822, Ingjerd Ersd. 2/2 1825, Karin Ersd. 10/2 1840(?), Christopher Ersson 29/8 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00144"
    }
   ],
   "search": [
@@ -4680,7 +4759,8 @@
   ],
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1831–1835 (bild 117): f. 15/11 1790, hustru till Erik Christophersson. Födelsebokens ”40 år” 1820 bör alltså läsas som 30.",
-   "DÖDBOK F I/2: ingen dödspost för Brita Olsdotter (Ö. Takene) funnen i de genomsökta åren 1828–1835 (bild 87–96). Maken Erik Christophersson d. 30/5 1838 (bild 100, redan registrerad)."
+   "DÖDBOK F I/2: ingen dödspost för Brita Olsdotter (Ö. Takene) funnen i de genomsökta åren 1828–1835 (bild 87–96). Maken Erik Christophersson d. 30/5 1838 (bild 100, redan registrerad).",
+   "HUSFÖRHÖR A I/23 bild 144 (s. 142), Ö. Takene: ”Madz. Enk. Britta Olsd.” f. ”15/11 90” Brunskog (läskunnighetsrutor XXX), hushållet: ”Son Jonas Ersson 18/8 22”, ”Dotter Ingjerd Ersd. 2/2 25”, ”Dotter Karin Ersd. 10/2 40” (Karin överstruken/utflyttad ”25 – …”), ”Son Christopher Ersson 29/8 35”. Alltså änka (efter Erik Christophersson † 30/5 1838) och lever 1846–50."
   ]
  },
  {
@@ -4823,6 +4903,18 @@
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783-1809), bild 73, Begrafne 1800 nr 14 (s. 118): 'Bondemannen Per Elofsson från Toltan ibm född 1728 14/1 af Dm. Elof Nilsson och h. Marit Isaaksd. Gift 1761 [sic; vigseln E I/2 = 1767] 19/10 med Pig. Kari Elofsd. fr Persjön i Ny, Eds sochn' (omläst Y1 i högupplöst utsnitt; ordet efter 'fr' = Persjön/Persjon, därefter 'i Ny,' radbrytning 'Eds sochn' = Ny-Eds = Nyeds socken)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/2, bild 17 (Vigde 1767, 9 okt, nr 4): 'Drängen Per Elofsson ifrån Toltan och Pigan Kari Elofsdotter ifrån Per[sjön?] i Ny[eds sochn], men tjenande hos [..] i Åmot' (läsning av ortsnamnet osäker)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036787_00017"
+   },
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783-1809), bild 73 (Begrafne 1800, nr 14, 27 apr): Per Elofsson från Toltan, f. 1728 14/1, gift 1767 19/10 med Pig. Kari Elofsd. fr Persjon i Ny[eds sochn]; avled 78 1/4 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
+   },
+   {
+    "label": "Riksarkivet, Brunskog in- och utflyttningslängd B/1 (1760-1776), bild 28 (Inflyttade 1765, nr 12, 4 nov): Pig. Kari Olofsd[otter? Elofsd.?] ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot, f. 1734 (KANDIDAT, ej verifierad)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036778_00028"
    }
   ],
   "search": [
@@ -4839,7 +4931,12 @@
    "NY (Norra Ny, SE/VA/13406) DOPBOK C/3 (1729–1771) = C0038508: 1735 (bild 29–32, sid 35–41, nr 1–19) läst – ingen Kari/Karin med fader Elof, inga barn från Åmot/Persjön. Ny är därmed sannolikt utesluten som födelsesocken; leta i Nyed.",
    "NYEDS HUSFÖRHÖR A I/1a (1776–82) = C0038516 (140 bilder; bild ≈ sida+35): byrubriker kontrollerade i varannan bild 41–139. Funna byar: S. Nuus (b.40–41), Forserud (43–45), Gaperud (47–49), N. Norum (51), Hedås (53–55), S. Norum (57), Nås (61–63), Raglanda (65), Gelserud (67), V. Acksjön (69), Wallserud (71), Lasserud (73), Rudsberg & Krakerud (75–77), Edet (81), Upperud (83), Hängserud (85), Almbjörbyn? (87), Hjorketorp (89), Västby med Grafdal (91), Carlsberg (97–99), Ö. Acksjön (101), Hackå & Hängstorp? (103), Fagerås höjd (107), Hängserudstorp (109), Jasterud (111), … Sutterkärn & Persbol (b.127, sida 66), Hjorsundet & Sundstorp (126), Getebol (89/130–131), Prästgården (b.138 = s. 97). Ingen rubrik 'Persjön' sedd. 'Persbol' (b.127) har hushåll Nils Olsson f. 1726 / Ingrid Håkansd. 1722 m.fl., ingen Elof. OBS: ortsordet i dödboken kan vara 'Persbol' snarare än 'Persjön' (handstilen tvetydig) – ej utrett.",
    "NYEDS KYRKOARKIV (SE/VA/13409) volym-id: dop C/1 1716–27 C0038557; C/2 1721–33 C0038558; C/3 1727–35 C0038559; C/4 1738–61 C0038560 (lucka 1736–37!); C/5 1762–1813 C0038561; vigsel E I/2 1742–1830 C0038565; död F/1 1716–40 C0038568, F/2 1740–96 C0038569; in/utflytt B/1 1747–68 C0038554; husförhör A I/1a–b 1776–82 C0038516–17, A I/2 1783–90 C0038518. NY (SE/VA/13406): dop C/2 1712–28 C0038507, C/3 1729–71 C0038508 (bild ≈ sida+17; 1731 b.20, 1735 b.29–32, 1736 b.33–34), C/4 1772–1830 C0038509; HF A I/1 1711–50 C0038487, A I/2 1772–78 C0038488.",
-   "NYED-SÖK (Z3, negativt resultat): (1) Nyed dopbok C/3 (C0038559) bild 67–91 = dop c:a 20 jan 1734 – dec 1735 genomläst i 3 delbilder per uppslag (bild 79 = början av 1735, s. 148; bild 91 = slutet av 1735; bild 69 = apr 1734 s. 128; bild 75 = nov 1734). Inget barn Kari/Karin med fader Elof i Persjön/Persbol/Persbo påträffat. Läsningen är översiktlig (svår handstil, delbilder överlappar ej helt) – inte garanterat heltäckande. Notera: dödbokens ålder 88 år vid död 14/1 1823 ger födelse ca 15 jan 1734–14 jan 1735, dvs 1734 är sannolikare än 1735. (2) Nyed B/1 (C0038554) utflyttningslistor 1763 (bild 148), 1764 (bild 149–151), 1765 (bild 152–153), 1766 (bild 153–154), 1767 (bild 155–156), 1768 (bild 156–158): ingen post ”Kari Elofsd.” med ursprung Persbol/Persjön och destination Brunskog. (3) Nyed husförhör A I/1a (C0038516) bild 127 (s. 66, rubrik ”Sutterkärn & Persbol”): Persbol hushåll 1776–82 = Nils Olsson f. 1726, hustru Ingrid Håkansdotter 1722, barn m.fl.; ingen Elof eller Kari Elofsdotter."
+   "NYED-SÖK (Z3, negativt resultat): (1) Nyed dopbok C/3 (C0038559) bild 67–91 = dop c:a 20 jan 1734 – dec 1735 genomläst i 3 delbilder per uppslag (bild 79 = början av 1735, s. 148; bild 91 = slutet av 1735; bild 69 = apr 1734 s. 128; bild 75 = nov 1734). Inget barn Kari/Karin med fader Elof i Persjön/Persbol/Persbo påträffat. Läsningen är översiktlig (svår handstil, delbilder överlappar ej helt) – inte garanterat heltäckande. Notera: dödbokens ålder 88 år vid död 14/1 1823 ger födelse ca 15 jan 1734–14 jan 1735, dvs 1734 är sannolikare än 1735. (2) Nyed B/1 (C0038554) utflyttningslistor 1763 (bild 148), 1764 (bild 149–151), 1765 (bild 152–153), 1766 (bild 153–154), 1767 (bild 155–156), 1768 (bild 156–158): ingen post ”Kari Elofsd.” med ursprung Persbol/Persjön och destination Brunskog. (3) Nyed husförhör A I/1a (C0038516) bild 127 (s. 66, rubrik ”Sutterkärn & Persbol”): Persbol hushåll 1776–82 = Nils Olsson f. 1726, hustru Ingrid Håkansdotter 1722, barn m.fl.; ingen Elof eller Kari Elofsdotter.",
+   "VIGSEL 1767 (E I/2 bild 17, nr 4, 9 okt), ordagrant så långt läsbart: \"Drängen Per Elofsson ifrån Toltan och Pigan Kari Elofsdotter ifrån Per[sjön?] i Ny[eds sochn?], men tjenande hos [...] i Åmot\". Stödjer 'Persjön i Nyed' och att hon vid giftet tjänade i Åmot.",
+   "DÖDBOK 1800 (F I/1 bild 73, nr 14): \"Gift 1767 19/10 med Pig. Kari Elofsd. fr Persjon: i Ny[eds sochn]\" (ordet 'Eds' sitter som överskrift över ett överstruket ord; läses 'Ny-eds sochn').",
+   "KANDIDAT INFLYTTNING 1765: Brunskog B/1 bild 28 (sida 35), Inflyttade 1765, nr 12 (4 nov): \"Pig. Kari Olofsd[ott/Elofsd?]: ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot[?]\" födelseår 1734. Tidpunkt (nov 1765), födelseår (1734/35) och Åmot (tjänande 1767) stämmer med Kari, men fadersnamn Olof/Elof är svårläst och 'Hunterud' är inte Persjön. Status: candidate.",
+   "EJ SAMMA (troligen): Brunskog B/1 bild 22 (Inflyttade 1763, nr 15, 29 nov): \"Pig: Karin Elofsdotter ifrån [Öf?]stad i Gillberga Socken till Mäst. [Sven?] Nils Christersson Stake wid [..]by Bruk\", födelseår 1735. Samma namn och födelseår men Gillberga socken och bruk, inte Åmot/Persjön. Kan vara hustrun om dödboken/vigselbokens ortsuppgift är fel, men ingen länk finns.",
+   "NYED C/3 (C0038559) bild 67-80 (dec 1733 - feb 1735): ingen post 'Kari/Karin' med fader Elof/Olof och Persjön/Persbol/Persbo/Persby hittad. Byar i 1734 års dop: Carlsborg, Rätorp, Månstorp, Askerö, Näs, Bårs, Hälta, Ed (Edt), Gerslön m.fl. Fadder 'Kari Elofsd. på Ed(t)' förekommer (C0038559_00078, mars 1735): \"[...] Hust: Catharina Eriksd. H: Kari Elofsd. på Edt\" och \"Hust: Maria Jonsd. H: Kari Elofsd. ibid\" - gudmor, ej bevis för identitet."
   ],
   "died": {
    "date": "1823-01-14",
@@ -5479,6 +5576,14 @@
    {
     "label": "F I/2 bild 115 (dec 1850): Enkan Ingjerd Nilsdr fr Ö. Takene, ålderd., 80 år 5 mån (lead)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 147 (s. 135), Ö. Takene: ”Mad. Enk. Ingjerd Nilsd.” född 20/11 61 Brunskog, i kolumnen Utflyttad: ”Död 50”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00147"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 115 (1850, dec): ”Enkan Ingjerd Nilsd. fr Ö. Takene – Ålderd. – 80 (år) …”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
    }
   ],
   "search": [
@@ -5491,8 +5596,15 @@
    "LEAD (ej verifierad) för död: Dödbok F I/2 1850 bild 115 (längst ned i dec): ”27 | 26/12 | Enkan Ingjerd Nilsdr fr Ö. Takene | Ålderd. | 80 år 5 mån” (död 27 dec 1850, begr. 26(?)/12). Hemvist Ö. Takene stämmer, änka stämmer (maken Olof Olsson † 20/1 1835), men åldern 80 y 5 m ⇒ f. ca juli 1770 mot dop 20/11 1761 (89 år). Olika ålder kan bero på okunnig ålder hos gamla, men 9 år är mycket – kan även vara annan Ingerd Nilsdotter, ev. svärdotter. Behöver husförhör A I/23 (1846–50, Ö. Takene) för att verifiera.",
    "DÖDBOK F I/1 bild 15 (1785 nr 25): första dottern Kari Olofsd. (f. 1784 Ö. Takene) dog späd 1785 – ”mod. Ingierd Nilsdotter”. Ingierds egen död ej funnen i F I/1 bilderna 10–31 (1783–1790).",
    "DÖDBOK F I/1 bild 58 (s. 91), Begrafne 1797, mars, nr 7: ”Ett dödfödt Piltbarn från D. Olof Olsson och H. Ingierd Nilsd. i Ö. Takene.” – mor Ingierd Nilsdotter (dödfött gossebarn mars 1797). Egen död ej funnen t.o.m. bild 59 (1797).",
-   "DÖDBOK F I/2 bild 115 (1850) omläst på förstoring: rad ”27 | 26/12 | Enkan Ingjerd Nilsd.[dotter] fr Ö. Takene | Ålderd.[om] | 80 | 5 | …”. Ålder 80 år 5 mån bekräftad (ej felläsning). Död ca 26/12 1850 (rad 27 för året; datumkolumn ”26/12”). Åldern 80 år 5 mån ger f. ca juli 1770 – motsäger dop 20/11 1761 (89 år). Identitet därför OBEVISAD (kan vara annan Enkan Ingerd Nilsdotter i Ö. Takene eller felaktig ålder); avgörs endast av husförhör A I/23 Ö. Takene 1846–50."
-  ]
+   "DÖDBOK F I/2 bild 115 (1850) omläst på förstoring: rad ”27 | 26/12 | Enkan Ingjerd Nilsd.[dotter] fr Ö. Takene | Ålderd.[om] | 80 | 5 | …”. Ålder 80 år 5 mån bekräftad (ej felläsning). Död ca 26/12 1850 (rad 27 för året; datumkolumn ”26/12”). Åldern 80 år 5 mån ger f. ca juli 1770 – motsäger dop 20/11 1761 (89 år). Identitet därför OBEVISAD (kan vara annan Enkan Ingerd Nilsdotter i Ö. Takene eller felaktig ålder); avgörs endast av husförhör A I/23 Ö. Takene 1846–50.",
+   "HUSFÖRHÖR A I/23 bild 147 (s. 135), Ö. Takene: i bonden Olof Olssons (f. 1804, hustru Britta Nilsd. 1802) hushåll står längre ned i blocket ”Mad. Enk. Ingjerd Nilsd.” född ”20/11 61” i Brunskog, läs- och förhörsrutor ”XXX”, i kolumnen Utflyttad ”Död 50” (död 1850). Födelsedag 20/11 1761 = dop 20 nov 1761 (C I/2 bild 115). Hon är alltså änkan efter Olof Olsson (d. 20/1 1835) och identisk med den ”Enkan Ingjerd Nilsd. fr Ö. Takene” i dödboken 1850. Dödbokens ålder 80 år (5 mån?) är oförenlig med 89 år – troligen felskrivning av 89 (9 skrivet som a/0) – men husförhörets datum är avgörande.",
+   "DÖDBOK F I/2 bild 115 (förstoring): rad ”27 | 26/12 | Enkan Ingjerd Nilsd.[otter] fr Ö. Takene | [—] | Ålderd. | 80 | 5(?) |”; föregående rader: ”25 8/12 Enkem. Nils Andersson fr H. Skärmenäs, Ålderd., 92 år 8 mån 22 d”, ”28 8/12 Rotelj. Enkef. Nils Jansson fr Malmerud, 82 år 8 mån 15 d”."
+  ],
+  "died": {
+   "date": "1850-11-27",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 115: rad ”27 | 26/12 | Enkan Ingjerd Nilsd. fr Ö. Takene | Ålderd. | 80 …”; kolumnerna tolkas som död 27 (nov) och begravd 26/12 1850 (jfr raderna ovanför: ”25 | 8/12”, ”28 | 8/12”). Husförhör A I/23 bild 147 anger födelsedag 20/11 1761 och ”Död 50” – identiteten är därmed säkerställd; dödbokens ålder 80 år är fel/felläst (rätt ca 89 år)."
+  }
  },
  {
   "id": "daniel_nilsson",
@@ -5751,7 +5863,12 @@
    "MANTALSLÄNGD Brunskog – Toltan 1665–1700 (egen läsning, osäker i detalj): 1665 (A0003146_00175, höger sida) 'Öst. Tortan': Claes, Olof. 1670 (A0003151_00194) 'Öst. Tortan': Claes, Olof. 1679 (A0003160_00222) 'Öste Tortan': Claes, Olof. 1685 (A0003165_00242) 'Öst. Tortan': Claes(?), Anders, Börje, Hans. 1690 (A0003170_00284) 'Öst. Tortan': Olof Matsson ux., dr Olof Matsson, piga Marit, Hans ux. 1695–1700 (A0003175_00490, A0003180_00385) 'Öster Tortan': Olof Matsson, Hans Ersson, Olof Andersson, Anders Olofsson, Måns Olofsson. SLUTSATS: ingen Nils/Isak/Elof syns i gruppen 'Öst. Tortan' 1665–1700; Elofs far Nils (f. före 1687) är inte funnen. Elof f. 1687 var barn 1690–1700 och räknas ej i längderna. Toltan–Åsen tillhörde möjligen annan rubrik (Åsen) – se christopher_persson_asen.",
    "JORDEBOK 1643 (Värmlands län, A0055920_NNNNN; GUID 3C36BA5A… omdirigeras dit, 459 bilder): Brunskog = bild 318–324 (318 sid 612 rubrik 'Brunskogh', 324 'Summa Brunskogh Sochn'). Gårdar 1643: 'Tooltaken' (Toltan; bild 319, 1 hemman, marginal om korpral/soldat under Patricks kompani 1643), 'M. Takenne' (bild 319), 'Arnaas' (=Åsnäs/Åsen, bild 319), 'Brythorn' (Gryttorn, bild 318). Jordeboken 1643 anger endast gårdar och skatter, INGA brukarnamn – ingen släktkoppling. Jösse härad i volymen: Köla b.294, Kroppa b.300, Gunnarskog b.306, Ny b.312, Brunskog b.318–324, Boda b.324–.",
    "MANTALSLÄNGD 1642 (A0001908_00093, höger sida, 'Mantals Längd af Brunskogh Sochn Pro Anno 1642'): endast förnamn + 'ibidem' under gårdsrubriker i svårläst vänstermarginal – ej användbar. 1650 (A0001915_00089 höger sida): Åstnäs: Börje, Per; Ö. Takene: Olof, Per, Lars; Öst. Tortan: Olof(?); Gryttorn: Hr Nils m.fl.",
-   "Z5: Tholén 1914 (s. 3) nämner som fadder 2/2 1715 ”Elof i Toltan, hustru Gertrud och Marit i Toltan” – oklart om denne Elof är Elof Nilsson; hans 1:a giftermål var 1717 med Marit Isaksdotter, så ”hustru Gertrud” 1715 talar för annan Elof (alternativt feltolkning). Publicerad uppgift – ej primärkälla."
+   "Z5: Tholén 1914 (s. 3) nämner som fadder 2/2 1715 ”Elof i Toltan, hustru Gertrud och Marit i Toltan” – oklart om denne Elof är Elof Nilsson; hans 1:a giftermål var 1717 med Marit Isaksdotter, så ”hustru Gertrud” 1715 talar för annan Elof (alternativt feltolkning). Publicerad uppgift – ej primärkälla.",
+   "MANTAL (A4): Ingen ”Elof/Olof Nilsson” hittad i Toltan-grupperna 1696, 1706, 1713. Toltan 1696 (A0003176_00614 hö): Nils Larsson, Lars Ersson, Isak Larsson, (?) Björsson, Per Ersson, Jöns Ersson, [?] Per Ersson; Wester Toltan: Arne Jonsson, Mattis Börjesson, Börje Jonsson, Enkan Anna E…, Nils Andersson; Östra Toltan: Olof Matsson, Enkan Kärin, Börje Olofsson, Anders Olofsson. Möjliga faderskandidater ”Nils”: Nils Larsson (Toltan), Nils Andersson (W. Toltan) – ej bevisat.",
+   "MANTALSLÄNGD 1696 (A0003176_00613-00615, bild 614 vä/hö, 615 hö): Åsen (\"Åsnäs\"): Olof Andersson, Nils Jonsson, Elof Jonsson, Jon Börjesson | Ö. Takene (rubrik svårläst): Enkan Nils Stensson(?), Knut Olofsson, Enkan Marit, Nils Jönsson, Brynjulf Olofsson, Olof Nilsson, Anders Olofsson, Dr. Nils (Hulmer?) | Stoy (\"Stoven\"): Engelbrekt, Nils Ersson, Jon Bryntsson, Börje Persson, Per Andersson, Knut Börjesson | Östra Toltan: Olof Matsson, Enkan Kärin, Börje Olofsson, Anders Olofsson | Toltan (mellan Bytarud och Wester Toltan): Nils Larsson, Lars Ersson, Isak Larsson, (?) Björsson, Per Ersson, Jöns Ersson, [Cornet?/kronotjänare] Per Ersson | Wester Toltan: Arne Jonsson, Mattis Börjesson, Börje Jonsson, Enkan Anna E., Nils Andersson | Smådal: Nils Andersson, Olof Bryntsson, Nils Pehrsson, Erik Jönsson | Skog: Måns Jonsson, Nils Christophersson",
+   "MANTALSLÄNGD 1706 (A0003188_00475-00477 (Brunskog börjar bild 475 vä; Gunnarskog slutar 465-466)): Åsen (\"Åsenäs\"), 475 hö: (?) Bryntes Jonsson, Olof Andersson, Per Nilsson, Nils Nilsson, Gustaf Gunnilsson(?), Erik Jonsson, Per Åsenen(?) | Slobyn/Skoby(?) 475 hö: Hindrich Andersson, Lars Nilsson(?), Johan Mattsson, Anders Andersson, Olof Olofsson, Gustaf Kjerstin(?), Jon Nilsson | Ö. Takene (\"Öst. Tak(en)\") 475 hö: Nils Stensson, Erik Larsson, Gamle Nils Jonsson, Nils Larsson, Unge Nils Jonsson, Nils Gustafsson, Olof Nilsson, Gunnar Olofsson, Enkan Gunnar Olofsson(?), Nils Nilsson, Per Larsson | Stoy (stor, \"Stoven\") 476 vä: Engelbrekt, Jon Knutsson, Nils Ersson, Mattis Ersson, Per Andersson, Knut Bryntsson, Brynte Larsson | Östre Toltan (\"Östre Torten\") 476 vä: (?) Bryntsson, Hans(?) Ersson, Olof Andersson, Anders Olofsson | Toltan 476 hö+477 vä (rubrik \"Toltan\"): Lars Ersson, Per Ersson, Isak Larsson/Olofsson(?), Lars Nilsson, Isak Björsson(?), Nils Larsson, Mattis Ersson, Anders Jonsson | Wester Toltan 477 vä: Jon Nilsson, Sven(?) Knutsson, Anders Ersson, Erik Larsson | Öfverskog/Skog(?) 477 hö: Jon Mattsson, Per Kjesson(?), Lars Bryntsson, Modren Elin | Berga 477 hö: Nils Månsson, Anders Månsson, Enkan Anna, Mårten Knutsson, Daniel, Bengt Larsson || Rubrikerna och radindelningen är osäkra (1706 års hand); kolumnen för Toltan kan innehålla grannbyar. Ingen Elof/Elof Nilsson sedd.",
+   "MANTALSLÄNGD 1713 (A0003194_00481 hö (Brunskog Sochn börjar) – 00483): Öst. Toltan (\"Öst: Torten\", 483 vä överst): (?) Bryntesson, Jons/Hans Ersson, Daniel Andersson(?), Olof Hansson, Börje Bryntesson, Gustafs änka Brita | grupp före Öst. Toltan (483 vä överst, rubrik på föregående sida): Anders Persson, Erik Bryntesson, Per Jonsson, Nils Ersson(?) | grupp under Öst. Toltan (\"Moron/Marstad?\" 483 vä): Olof Olofsson, Olof Salomonsson, Anders Ersson, Gustaf Ersson, Hans Andersson, Per Olofsson | Byn?/Bryn (483 vä): Hans Jonsson, Brynte Johansson, Gustafs änka Brita?, Nils Gustafsson, Mattis Persson, Anders Persson, Olof Ersson, Per Jakobsson | Gylleby? (483 vä nederst): Erik Bryntesson, Hans Mattsson | Åsmotta/Åsnok (482 hö överst): Anders Olofsson, Torbjörn Andersson, Salomon, Brynte Jonsson, Olof Andersson, Per Nilsson, Nils Nilsson, Erik Olofsson | Näbyn(?) (482 hö): Jakob Jonsson, Per Ers(?), Nils Åsmoter(?), Mattis Mickelsson, Anders Olofsson, Olof Mattsson, Håkan Mårtensson, Olof Olofsson, Jon Nilsson || Skog/Smådal/Stoy/Ö. Takene/Åsen 1713 inte säkert lokaliserade (rubriker svårlästa). 1712 (Y4): Toltan = Anders(?) Håkansson, Daniel Ersson, Per Nilsson, Olof/Claes Hansson, Börje Bryntesson, Gustafs änka.",
+   "MANTALSLÄNGD 1714 (A0003195_00480-00481; Brunskog börjar 480 vä): 481 vä (rubriker oläsliga; Ö. Takene/Åsen-trakten, läsning osäker): Anders Larsson, Erik Ersson, Nils Ersson, Anders Knutsson, Per Börgesson, Per Nilsson, Gunnar(?), Olof Ersson, Anders Nilsson, Jakob Andersson, Börje Torstensson, Anders Engbrektsson (Åsen?), Erik Larsson, Engbrekt Ersson, Claes Torbjörnsson, Nils Knutsson, Torbjörn Torbjörnsson, Olof Andersson, Halfward Olofsson, Anders Knutsson, Hans Bryntesson, Anders Eriksson, Måns Andersson || 1714: Åsen/Ö. Takene/Toltan ligger på 481 vä men byrubrikerna är inte säkert lästa; ingen Elof/Påhl Nilsson utpekad."
   ],
   "timeline": [
    [
@@ -5970,14 +6087,24 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/5 (1782–1789), bild 201, Toltan Uppsjön nr 6: 'D. Marit Pers. 10/11 1768 ibm'",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00201"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 125 (s. 205, aug 1855), nr 70: ”Ö.n Takene – Enkan Marit Persdotter – ålderdom – 86 år 9 mån 9 d – Enka”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00125"
    }
   ],
   "search": [
    "Marit Persdotter"
   ],
   "notes": [
-   "DOPBOK C I/2 bild 134, 1768 nr 40: ”Nov. 10 – Uppsjön – Marit – Per Elofsson / Karin Elofsdotter – Nils Persson, h. Marit Nilsdotter i Toltan”. Månads-/dagskolumn och sidrubrik ”1768 Döpte”."
-  ]
+   "DOPBOK C I/2 bild 134, 1768 nr 40: ”Nov. 10 – Uppsjön – Marit – Per Elofsson / Karin Elofsdotter – Nils Persson, h. Marit Nilsdotter i Toltan”. Månads-/dagskolumn och sidrubrik ”1768 Döpte”.",
+   "DÖDBOK F I/2 bild 125 (s. 205), 1855 nr 70, augusti: ”70 | 19 | 26 | Ö.n Takene | Dto Enkan Marit Persdotter | ålderdom | 86 | 9 | 9 | Enka”. Födelse 10/11 1768 + 86 år 9 mån 9 dagar = 19 aug 1855 (exakt). Husförhör A I/23 bild 135 (s. 123) har hos Ö. Takene ”Enkan Marit Pers.dr” f. 68 Brunskog i Per Elofssons (f. 1811) hushåll. Identiteten stark (namn + exakt födelsedatum + ort), men dödboken anger inga föräldrar."
+  ],
+  "died": {
+   "date": "1855-08-19",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 125 (s. 205, 1855 nr 70): ”70 | 19 | 26 | Ö.n Takene | Dto Enkan Marit Persdotter | ålderdom | 86 | 9 | 9 | Enka”. Död 19 aug, begravd 26 aug 1855. Ålder 86 år 9 mån 9 dagar från dop/födelse 10/11 1768 ger exakt 19/8 1855."
+  }
  },
  {
   "id": "olof_p72",
@@ -7098,7 +7225,8 @@
    "DOPBOK C I/2 bild 103, 1758 nr 4: ”d 26 Jan. Nils Jonsson och hust. Marit Jonsd. i Skog dotter Britta. Fadder H. Nils Nilsson [og] i Skog; hustr. Britta Clavesdotter, Elin Olofsd. i Skog”.",
    "HUSFÖRHÖR A I/8 bild 379: ”f. Brita Nilsd.” 26/1 1758 Skog, hustru till Olof Nilsson. A I/17 bild 100: ”Sv:mor Enk. Britta Nilsdotter 26/1 1758 Loco” hos Måns Danielsson (svärmor).",
    "Identiteten dop 1758 = Britta 1757 i A I/1 = Brita i A I/8 vilar på samma dag/månad (26/1), samma by och föräldrarnas namn; A I/1 anger året 1757.",
-   "DÖDBOK 1850 (bild 115): ”Enkan Britta Nilsdr fr Skog | Ålderd. | 92 . 2” – dödsdag text '2? | begr. 14/4' (mars). Ålder 92y 2m ⇒ f. jan 1758, vilket stämmer med dop 26/1 1758. Förefaller vara Olof Nilsson (f. 1754) hustru Britta."
+   "DÖDBOK 1850 (bild 115): ”Enkan Britta Nilsdr fr Skog | Ålderd. | 92 . 2” – dödsdag text '2? | begr. 14/4' (mars). Ålder 92y 2m ⇒ f. jan 1758, vilket stämmer med dop 26/1 1758. Förefaller vara Olof Nilsson (f. 1754) hustru Britta.",
+   "HUSFÖRHÖR A I/23 bild 121 (s. 109), Skog ¼ Kr. skatte, i svärsonen Måns Danielssons hushåll: ”Svärmodern Enk. Britta Nilsd. 26/1 58 Brunskog – Död. 1850.” Födelsedatum 26/1 1758 = dop C I/2 bild 103; ”Död 1850” = dödbok F I/2 bild 115 (mars 1850, ”Enkan Britta Nilsd fr Skog 92 år 2 mån”). Identiteten är därmed verifierad (tidigare strong)."
   ],
   "sources": [
    {
@@ -7120,6 +7248,10 @@
    {
     "label": "Riksarkivet, Brunskog dödbok F I/2 (1850), bild 115 (rad strax före 'Giftem. Jon Ersson fr Vikene 81'): Enkan Britta Nilsdr fr Skog, ålderd., 92 år 2 mån, begr. 14/4",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 121 (s. 109), Skog: ”Svärmodern Enk. Britta Nilsd. 26/1 58 Brunskog – Död 1850”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00121"
    }
   ],
   "search": [
@@ -8781,7 +8913,8 @@
    "Identitet mellan Per Nilsson 1729 och Per Nilsson 1748 ej bevisad.",
    "MANTALSLÄNGD 1712 (A0003193_00445, block 'Öst. Tortan'): ”Per Nilsson” bland Toltans bönder (efter Daniel Ersson?, före Olof Hansson). Stöder att Per Nilsson bor i Toltan redan 1712 (bror till Elof? ej bevisat).",
    "Dödbok F I/1 bild 94 (1805 nr 10): dottern Britta (f. ibid 4/3 1748, gift 1773 med Per Olofsson fr. Skog, 9 barn) skrivs ”af Nils Persson och H. Marit Nilsd.” – dop 1748 säger Per Nilsson. Per Nilssons egen död ej funnen i F I/1 bild 10–95 (1783–1805); han föddes senast ca 1700 och kan ha dött före 1783 (äldre dödbok ej i F I/1).",
-   "MANTALSLÄNGD 1712 omläst (Y4, A0003193_00445, 1:1): Toltan-gruppen (rubrik ”Öst: Tortane”): [Anders(?) Håkansson]; Daniel Ersson; ”Per Nilsson”; Olof/Claes Hansson; Börje Bryntesson; ”Gustafs änka”. ”Per Nilsson” står alltså som egen bonde i Toltan 1712 mellan Daniel Ersson och Olof Hansson – bekräftar tidigare läsning. Ingen ”Isak” i Toltan-gruppen 1712 och ingen ”Påhl Nilsson” (se pal_nilsson_hagen: Hagen, Toltan – kan stå under annan rubrik/by 1712, ej funnen)."
+   "MANTALSLÄNGD 1712 omläst (Y4, A0003193_00445, 1:1): Toltan-gruppen (rubrik ”Öst: Tortane”): [Anders(?) Håkansson]; Daniel Ersson; ”Per Nilsson”; Olof/Claes Hansson; Börje Bryntesson; ”Gustafs änka”. ”Per Nilsson” står alltså som egen bonde i Toltan 1712 mellan Daniel Ersson och Olof Hansson – bekräftar tidigare läsning. Ingen ”Isak” i Toltan-gruppen 1712 och ingen ”Påhl Nilsson” (se pal_nilsson_hagen: Hagen, Toltan – kan stå under annan rubrik/by 1712, ej funnen).",
+   "MANTAL 1713 (A0003194_00483 vä): Östra Toltan-gruppen läses ”(?) Bryntesson; Hans/Jons Ersson; Daniel Andersson; Olof Hansson; Börje Bryntesson; Gustafs änka Brita” – ingen säker ”Per Nilsson” (1712 enl. Y4 fanns han)."
   ],
   "sources": [
    {
@@ -11926,7 +12059,8 @@
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 10:e generationen; gift med Gertrud Bondesdotter (gertrud_bondesd_toltan finns hos oss).",
    "Faddrar vid Påhls barn: 1710 Nils i Swartaun, Erik Knutsson i Takene, Mäss Pehrsson i Åsen; 1717 Jon Nilsson i Åsen, Per Eriks i Tolta, h. Dordi Nilsd, h. Marit Isaacsd i Tolta; 1720 Jon i Åsen m.fl. Påhl Nilsson är själv fadder 1720 (Olof, barn till Nils …/Marit Olufsd), 1723 (Per Eriksson + Karin Jonsd barn, med Elof Nilsson ibid) och 1724 (Nils Persson, Uppsjön).",
-   "Z5: Geni-profil ”Nils Pålsson (1712–1746)” bosatt Hagen, Toltan finns (möjligt barn; ej kontrollerat, Geni-captcha hindrade läsning). Publicerad uppgift – ej primärkälla."
+   "Z5: Geni-profil ”Nils Pålsson (1712–1746)” bosatt Hagen, Toltan finns (möjligt barn; ej kontrollerat, Geni-captcha hindrade läsning). Publicerad uppgift – ej primärkälla.",
+   "MANTAL (A4): Ingen ”Påhl Nilsson” identifierad i Toltan 1696, 1706, 1713 (rubriker/hand osäkra). Kvar att kolla: 1709, 1711, 1714 samt Wester Toltan."
   ],
   "born": {
    "date": "",
@@ -12167,7 +12301,9 @@
    "VIGSEL 1923 (index): Stefan Orzechowski, föräldrar 'Józef, Katarzyna Zatorska'.",
    "KANDIDAT: Geneteka vigsel Kielce Katedra 1895 nr 169 'Józef Orzechowski' + 'Katarzyna Zatorski' – namnlikhet, ingen föräldra-/åldersdata indexerad. Józef Orzechowski är ett vanligt namn; kräver skanning eller aktens text.",
    "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
-   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet."
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
+   "YRKE: 'сапожникъ' (skomakare) 1897; 'рабочій' (arbetare) 1903. Bosatt Szydłówek. Vittnen 1897: Józef Wojciechowski 34 och Jan Zatorski 28. Barn: Marianna 1897, Stefan 1901, Bronisława 1903.",
+   "VIGSEL: ej i Kielce św. Wojciech 1895–1900 (alfabetiska vigselindex SkM 1895–1900 genomlästa: ingen Orzechowski). Konsistent med Genetekas index 'Kielce Katedra 1895 nr 169' (annan församling, ej id239)."
   ],
   "sources": [
    {
@@ -12185,6 +12321,14 @@
    {
     "label": "Geneteka-index: vigsel Kielce Katedra 1895 nr 169, Józef Orzechowski × Katarzyna Zatorski (akt ej läst; Skanoteka 1895 UMZ Małżeństwa har bara 82 sidor, nr 169 ligger alltså i annan enhet/numrering)",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1897 (kt1), skan 001-003.jpg, akt nr 3, marginal 'Szydłówek'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1897&kt=1&plik=001-003.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1903 (kt1), skan 063-068.jpg, akt nr 67 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1903&kt=1&plik=063-068.jpg"
    }
   ],
   "search": [
@@ -12192,7 +12336,7 @@
   ],
   "born": {
    "date": "ca 1875",
-   "note": "28 år gammal mars 1903 (akt 68)"
+   "note": "22 år 22.12.1896/3.1.1897 (akt 3 1897) och 28 år 15.3.1903 (akt 67/68) – konsistent"
   }
  },
  {
@@ -12208,7 +12352,8 @@
   "notes": [
    "VIGSEL 1923 (index): 'Józef, Katarzyna Zatorska' som Stefans föräldrar.",
    "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
-   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet."
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
+   "Möjlig släkting: Jan Zatorski, 28 år, vittne vid Mariannas födelseakt 1897. Dessutom 'Заторская Марианна' i födelseindex 1902 (akt 59) – ev. släkting, ej läst."
   ],
   "sources": [
    {
@@ -12222,14 +12367,18 @@
    {
     "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1903 UMZ-1903 Urodzenia, skan 063-068.jpg (13 av 59), akt nr 68 (nedre högra sidan, marginalnot 'Szydłówek')",
     "url": "https://metryki.genealodzy.pl/id239-sy1903-kt1"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1897 (kt1), skan 001-003.jpg, akt nr 3, marginal 'Szydłówek'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1897&kt=1&plik=001-003.jpg"
    }
   ],
   "search": [
    "Katarzyna Zatorska"
   ],
   "born": {
-   "date": "ca 1874",
-   "note": "29 år mars 1903 (akt 68)"
+   "date": "ca 1873",
+   "note": "24 år 22.12.1896 (akt 3, 1897); 29 år 15.3.1903 – konsistent"
   }
  },
  {
@@ -12245,7 +12394,9 @@
   "notes": [
    "VIGSEL 1923 (index): Zofia Młodawska, föräldrar 'Jan, Wiktoria Szewczyk'. Uteslutna namnlika: Jan Młodawski (Odrowąż, Czarna/Stąporków, Mniów/Komorów, Niekłań) – inget belägg för koppling.",
    "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
-   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk."
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
+   "VIGSELAKT 1900 nr 23 (Kielce, 2/14 feb 1900, kl. 10, präst Adam Kumiński): 'заключенъ ... религіозный брачный союзъ между Яномъ Младавскимъ (Jan Młodawski) вдовымъ послѣ Маріянны изъ Лютавскихъ, родившимся въ деревнѣ Одровонжъ того же прихода тридцати семи лѣтъ отъ роду, жительствующимъ въ деревнѣ [Рожовице?] прихода Мніовъ рабочимъ, сыномъ Яцка и Анны изъ Бартосинскихъ земледѣльцевъ и Викторіею Шевчикъ (Wiktorya Szewczyk) дѣвицею тридцати трехъ лѣтъ отъ роду, родившеюся въ деревнѣ [Вылѣзовъ?] жительствующею въ Кѣльцахъ ... служанною, дочерью Щепана и умершей Антонины изъ Градзиковъ рабочихъ.' Översättning: Jan Młodawski, änkling efter Marianna f. Lutawska, född i by Odrowąż [?] i samma socken, 37 år, arbetare bosatt i by i Mniów-socknen, son till lantbrukarna Jacek och Anna f. Bartosińska; brud Wiktoria Szewczyk, ogift, 33 år, piga i Kielce. Vittnen: arbetarna Wojciech Gaba/Gab[?] 40 år och Józef Zacharski 50 år (båda från Kielce). Byarna Odrowąż/Rożowice/Wylezów läsningen osäker.",
+   "VIGSEL 1900 nr 23 + födelse 1902 nr 211 + 1904 nr 125 = samma par, bor i Szydłówek 1902/1904."
   ],
   "sources": [
    {
@@ -12255,14 +12406,23 @@
    {
     "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1904 UMZ-1904 Urodzenia, skan 124-129.jpg (23 av 59), akt nr 125 (vänstra sidan, mitten; marginalnot 'Szydłówek')",
     "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1902 (kt1), skan 205-212.jpg, akt nr 211 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1902&kt=1&plik=205-212.jpg"
    }
   ],
   "search": [
    "Jan Młodawski"
   ],
   "born": {
-   "date": "ca 1860-1875",
-   "note": "ålder ej säkert läst i akt 125 (slutar på '-ка'; ev. 'сорока' = 40)"
+   "date": "ca 1863",
+   "place": "Odrowąż? (by i Mniów-socknen)",
+   "note": "37 år 14.2.1900 enligt vigselakt; 40 år 13.7.1902 (akt 211) – 3 års diskrepans mellan akterna"
   }
  },
  {
@@ -12278,7 +12438,8 @@
   "notes": [
    "VIGSEL 1923 (index): 'Jan, Wiktoria Szewczyk'. Sökning på vigsel Młodawski+Szewczyk 1885–1905 i woj. świętokrzyskie gav inga träffar (osäkert, kan vara oindexerad/annan region).",
    "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
-   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk."
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
+   "Vigselakt 1900 nr 23: 'дѣвицею тридцати трехъ лѣтъ' (33 år), piga i Kielce, dotter till Szczepan och avlidna Antonina f. Gradzik. Barn: Bolesław Stanisław (1902, akt 211), Zofia (1904, akt 125)."
   ],
   "sources": [
    {
@@ -12288,14 +12449,23 @@
    {
     "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1904 UMZ-1904 Urodzenia, skan 124-129.jpg (23 av 59), akt nr 125 (vänstra sidan, mitten; marginalnot 'Szydłówek')",
     "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1902 (kt1), skan 205-212.jpg, akt nr 211 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1902&kt=1&plik=205-212.jpg"
    }
   ],
   "search": [
    "Wiktoria Szewczyk"
   ],
   "born": {
-   "date": "ca 1875/76",
-   "note": "28 år april 1904 (akt 125)"
+   "date": "ca 1866/67 (eller ca 1875)",
+   "place": "by [Wylezów?]",
+   "note": "KONFLIKT: 33 år i vigselakt 14.2.1900; men 28 år i födelseakt 1902 (nr 211) och 1904 (nr 125)"
   }
  },
  {
@@ -12441,7 +12611,8 @@
   "notes": [
    "MANTALSLÄNGD 1712, A0003193_00445 (Åsen-block): ”Olof Nilsson” efter Håkan Nilsson/Per Ersson.",
    "MANTALSLÄNGD 1719, A0003198_00504 (Åsen-block): ”Olof Nilsson” efter Mattias Persson.",
-   "KORRIGERING BLOCKTILLHÖRIGHET 1712 (Y4, 1:1-zoom av A0003193_00445 högersida): byrubrikerna står i vänstermarginalen på FÖRSTA raden i varje by-grupp. Högersidan börjar efter ”Transporterat” med rubriken ”Öst: Takene” på första raden. Ö. Takene 1712 läses: ”Nils [Persson/Månsson?]”; ”Erik [Pehrs-/Jons-]son”; ”Nils Jonsson”; ”Olof Nilsson”; ”Olof Gunnarsson”; ”Olof Olofsson”; ”Håkan Nilsson”; ”Per Ersson”; ”Olof Nilsson”. Därefter rubriken ”Åsen” (marg. ”Åhsen”) på raden ”Ingebrecht …”. De tre sista namnen före Åsen-rubriken (Håkan Nilsson, Per Ersson, Olof Nilsson) är alltså Ö. Takene, inte Åsen (tidigare tabell i elof_nilsson placerade dem i Åsen). Observera också att ett ”Olof Nilsson” förekommer tidigare i samma Ö. Takene-grupp (4:e namnet) – två män med samma namn i gruppen 1712. 1718 har ”Olof Nilsson” och ”Per Nilsson” i Ö. Takene (A0003197_00487). Kontrollera 1719 (A0003198_00503/504) på motsvarande sätt med rubrikläge."
+   "KORRIGERING BLOCKTILLHÖRIGHET 1712 (Y4, 1:1-zoom av A0003193_00445 högersida): byrubrikerna står i vänstermarginalen på FÖRSTA raden i varje by-grupp. Högersidan börjar efter ”Transporterat” med rubriken ”Öst: Takene” på första raden. Ö. Takene 1712 läses: ”Nils [Persson/Månsson?]”; ”Erik [Pehrs-/Jons-]son”; ”Nils Jonsson”; ”Olof Nilsson”; ”Olof Gunnarsson”; ”Olof Olofsson”; ”Håkan Nilsson”; ”Per Ersson”; ”Olof Nilsson”. Därefter rubriken ”Åsen” (marg. ”Åhsen”) på raden ”Ingebrecht …”. De tre sista namnen före Åsen-rubriken (Håkan Nilsson, Per Ersson, Olof Nilsson) är alltså Ö. Takene, inte Åsen (tidigare tabell i elof_nilsson placerade dem i Åsen). Observera också att ett ”Olof Nilsson” förekommer tidigare i samma Ö. Takene-grupp (4:e namnet) – två män med samma namn i gruppen 1712. 1718 har ”Olof Nilsson” och ”Per Nilsson” i Ö. Takene (A0003197_00487). Kontrollera 1719 (A0003198_00503/504) på motsvarande sätt med rubrikläge.",
+   "MANTAL Ö. Takene: 1696 ”Olof Nilsson” (614 vä); 1706 ”Olof Nilsson” (475 hö, mellan Nils Gustafsson och Gunnar Olofsson); 1713 TVÅ ”Olof Nilsson” (äldre/yngre?) i Ö. Takene-gruppen (A0003194_00482 hö, nederst). Alltså Takene-bonde redan 1696; flera med samma namn."
   ],
   "sources": [
    {
@@ -13363,7 +13534,8 @@
   ],
   "summary": "Far till Oluff Nilsson, döpt 26 maj 1689 (kandidat till Elof Nilssons dop).",
   "notes": [
-   "BILD 15, 1689 ”Nilß Christopherson / Anna Jonsd.” som föräldrar till ”Oluff Nilsson i Skog”."
+   "BILD 15, 1689 ”Nilß Christopherson / Anna Jonsd.” som föräldrar till ”Oluff Nilsson i Skog”.",
+   "MANTAL 1696 (A0003176_00615 hö nederst): Skog: ”Måns Jonsson” och ”Nils Christophersson” (två gårdar/brukare). Nils Christophersson är alltså mantalsskriven i Skog 1696 – stärker identiteten med fadern till Oluff Nilsson (dop 1689)."
   ],
   "sources": [
    {
@@ -13417,7 +13589,8 @@
   "notes": [
    "BILD 15, 1689: ”Isaac L. i Zolta” bland faddrar vid Oluff Nilsson i Skog.",
    "BILD 22 (sida 23), 1691 ”Den 15 feb Matts barn i Finbek föddes och kalladés Per”: faddrar ”Per i Finbek / Isaac L. i Zoltan / Hans ibid / Nilß Ersson i Åsen”.",
-   "Inte funnen som far i dopboken 1688–1693 (inga barn hittade)."
+   "Inte funnen som far i dopboken 1688–1693 (inga barn hittade).",
+   "MANTAL 1696: ”Isak Larsson” i Toltan (A0003176_00614 hö, tredje namn i Toltan-gruppen) – stärker att ”Isaac L.” = Isak Larsson. Se isak_larsson_toltan."
   ],
   "sources": [
    {
@@ -14150,7 +14323,8 @@
   },
   "summary": "Hannas bror, f. 1887.",
   "notes": [
-   "Folkräkning 1900 Gullsbyn i August Nilssons hushåll."
+   "Folkräkning 1900 Gullsbyn i August Nilssons hushåll.",
+   "USA/KANADA 1903 (A1): reste enligt manifest S.S. Teutonic ankomst 7 maj 1903 (rad 4 ”Nils Einar 16 joiner”, efternamn ditto efter Augustsson) tillsammans med brodern Johan Albin till Winnipeg, Man. (cousin Anton …, 371 Alexander Ave.). Ålder 16 (f. 21/8 1887 → 15 år 8 mån; åldern något avrundad). Status: strong (namn + ålder + följe med bror)."
   ],
   "sources": [
    {
@@ -14160,6 +14334,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, bild Folk_017069-015",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_017069-015"
+   },
+   {
+    "label": "Ellis Island manifest Teutonic 7 maj 1903, bild 352-208 rad 4",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
    }
   ],
   "places": [],
@@ -14285,13 +14463,18 @@
    {
     "label": "Ellis Island Foundation, Arrival Record: Johan Albin Augustson, 7 May 1903, Teutonic, age 19, b. 1884, single, Vermland (id JF5P-9Q3)",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
+   },
+   {
+    "label": "Ellis Island manifest Teutonic 7 maj 1903, bild 352-208 rad 3-4: ”Augustsson, Johan Albin 19” + ”Nils Einar 16 joiner”; Winnipeg, Man., cousin Anton … 371 Alexander Ave.",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
    }
   ],
   "search": [
    "Johan Albin Augustsson"
   ],
   "notes": [
-   "USA 1903 (Z2): Ellis Island: 'Johan Albin Augustson/Augustsson', ankomst 7 maj 1903 Ellis Island, fartyg Teutonic från Liverpool, ogift man, f. 1884, 19 år, senaste hemvist 'Vermland', nationalitet indexerad 'Norway, Scandinavian' (felindex). Passenger-id JF5P-9Q3. Ovanligt namn + ålder (f. juli 1883 -> 19 i maj 1903) + Värmland ger STARK match, men släktskap ej bevisat av posten (ingen föräldranamn/kontakt läst). Destination ej läst (manifestbild)."
+   "USA 1903 (Z2): Ellis Island: 'Johan Albin Augustson/Augustsson', ankomst 7 maj 1903 Ellis Island, fartyg Teutonic från Liverpool, ogift man, f. 1884, 19 år, senaste hemvist 'Vermland', nationalitet indexerad 'Norway, Scandinavian' (felindex). Passenger-id JF5P-9Q3. Ovanligt namn + ålder (f. juli 1883 -> 19 i maj 1903) + Värmland ger STARK match, men släktskap ej bevisat av posten (ingen föräldranamn/kontakt läst). Destination ej läst (manifestbild).",
+   "USA/KANADA 1903 (A1, manifestbild läst): S.S. Teutonic från Liverpool 29 apr 1903, ankomst Ellis Island 7 maj 1903, bild 352-208 rad 3: ”Augustsson, Johan Albin 19 … [labourer] … Vermland”; destination ”Winnipeg, Man.” (Kanada, ej USA); medföljande rad 4: ”Nils Einar 16 joiner” (efternamn ditto = Augustsson; = brodern Nils Ejnar f. 1887-08-21, id nils_ejnar_augustsson); anhörig: ”Cousin Anton [Kjerstrom/Nystrom? svårläst], 371 Alexander Ave., Winnipeg, Man.” Pengar ca $75/$100. Identitet stark: ovanligt namn+Albin+ålder 19+Värmland + yngre bror Nils Einar 16 i direkt följd. Ellis Island-indexet ger 'Norway, Scandinavian' (felindex)."
   ]
  },
  {
@@ -15325,7 +15508,8 @@
   ],
   "summary": "Mantalsskriven i Åsen (Åsnäs), Brunskog, 1670–1700; troligen son till en Börje (Åsen 1650).",
   "notes": [
-   "MANTALSLÄNGD: Jon Börjesson i Åsen 1670, 1679, 1685, 1690, 1695, 1700 (A0003151_00194; A0003160_00222; A0003165_00242; A0003170_00284; A0003175_00490; A0003180_00385)."
+   "MANTALSLÄNGD: Jon Börjesson i Åsen 1670, 1679, 1685, 1690, 1695, 1700 (A0003151_00194; A0003160_00222; A0003165_00242; A0003170_00284; A0003175_00490; A0003180_00385).",
+   "MANTAL 1696 Åsen (A0003176_00614 vä överst): Olof Andersson, Nils Jonsson, Elof Jonsson, Jon Börjesson. 1706 Åsen: Olof Andersson, Per Nilsson, Nils Nilsson m.fl. (Jon Börjesson ej sedd)."
   ],
   "sources": [
    {
@@ -15356,7 +15540,8 @@
   ],
   "summary": "Mantalsskriven i Ö. Takene 1659–1700 (så lång period att det sannolikt rör sig om minst två personer med samma namn).",
   "notes": [
-   "MANTALSLÄNGD: Knut Olofsson i Ö. Takene 1659, 1665, 1670, 1679, 1685, 1690, 1699, 1700 (A0003140_00265; A0003146_00175; A0003151_00194; A0003160_00222; A0003165_00242; A0003170_00284; A0003179_00341; A0003180_00385)."
+   "MANTALSLÄNGD: Knut Olofsson i Ö. Takene 1659, 1665, 1670, 1679, 1685, 1690, 1699, 1700 (A0003140_00265; A0003146_00175; A0003151_00194; A0003160_00222; A0003165_00242; A0003170_00284; A0003179_00341; A0003180_00385).",
+   "MANTAL 1696 (A0003176_00614 vä): Ö. Takene-gruppen: Enkan Nils Stensson(?), Knut Olofsson, Enkan Marit, Nils Jönsson, Brynjulf Olofsson, Olof Nilsson, Anders Olofsson, Dr. Nils [?]."
   ],
   "sources": [
    {
@@ -15506,6 +15691,703 @@
   ],
   "search": [
    "Nils Pålsson (1712–1746, Hagen, Toltan)"
+  ]
+ },
+ {
+  "id": "anton_winnipeg_cousin",
+  "name": "Anton [K?]strom (kusin i Winnipeg 1903)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "371 Alexander Ave., Winnipeg, Manitoba, Kanada (1903)"
+  ],
+  "summary": "Kusin (”cousin”) som Johan Albin Augustsson och Nils Einar Augustsson reste till 1903 enligt Ellis Island-manifest. Efternamnet svårläst (Kjerstrom/Nystrom?).",
+  "notes": [
+   "MANIFEST: ”Cousin Anton [Kjerstrom/Nystrom? – svårläst], 371 Alexander Ave., Winnipeg, Man.”"
+  ],
+  "sources": [
+   {
+    "label": "Ellis Island-manifest S.S. Teutonic, Liverpool 29 apr 1903, ankomst 7 maj 1903, bild 352-208 rad 3-4, kolumn 'joining a relative or friend': ”Cousin Anton … 371 Alexander Ave. Winnipeg, Man.”",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
+   }
+  ],
+  "search": [
+   "Anton [K?]strom (kusin i Winnipeg 1903)"
+  ]
+ },
+ {
+  "id": "nels_nelson_mtjewett",
+  "name": "Nels Nelson (Mt. Jewett, Pennsylvania, 1903)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Mt. Jewett, McKean County, Pennsylvania, USA"
+  ],
+  "summary": "Vän (”friend”) som Erik J. Erikson, hustru Anna och spädbarn reste till 1903; även ”relative” till Olof T. Olson på samma manifest.",
+  "notes": [
+   "MANIFEST: ”To friend Nels Nelson, Mt. Jewett, Pa”; Olof T. Olson: ”To above named relative Nels Nelson”."
+  ],
+  "sources": [
+   {
+    "label": "Ellis Island-manifest S.S. New York, Southampton 26 sep 1903, ankomst 3 okt 1903, T715-0400-264 rad 3-6",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SWL"
+   }
+  ],
+  "search": [
+   "Nels Nelson (Mt. Jewett, Pennsylvania, 1903)"
+  ]
+ },
+ {
+  "id": "erik_j_erikson_1903",
+  "name": "Erik J. Erikson (Ellis Island 3 okt 1903, Brunskog)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "note": "ålder 24 vid ankomst okt 1903 (manifest); Erik Johan Eriksson f. 1878-12-30 skulle vara 24"
+  },
+  "places": [
+   "Brunskog, Sweden",
+   "Mt. Jewett, Pennsylvania, USA (destination 1903)"
+  ],
+  "summary": "Gift man 24 år från Brunskog, reste med hustru Anna (23) och spädbarn Eric H. Möjlig identitet med Erik Johan Eriksson (id erikjohan) – ej bevisad: hustru/barn okända i svenska källor.",
+  "notes": [
+   "MANIFEST rad 3: ”Erikson, Erik J. 24 M[arried] … Swedish … Brunskog, Sweden”; rad 4: ”Anna 23 wife”; rad 5: ”Eric H. infant”. Destination ”Mt. Jewett, Pa”: ”To friend Nels Nelson, Mt. Jewett, Pa”; pengar $90; ”no” = inte tidigare i USA. Fartyg S.S. New York från Southampton 26 sep 1903, ankomst New York 3 okt 1903.",
+   "Ellis Island-indexet har felaktigt Erik J. som kvinna f. 1900 (3 år); Anna Erikson 24 f. 1879 (JFYM-SWG); Eric H. Erikson 1 år f. 1902 (JFYM-SWP). Samma sida: Olof T. Olson 18/19 Brunskog (JFYM-SW5), Beda Lundqvist 31 (US-medborgare, Topeka Kans.) och Emma K. Lundqvist 22 (JFYM-SWR/SWT) från Brunskog.",
+   "VERIFIERA: finns Erik Johan Eriksson (f. 1878-12-30 Skog) i Brunskog dop/vigsel ca 1901-02 (hustru Anna, son Erik H. f. ca 1902)? Brunskog B:7 flyttlängd 1903 ej funnen digitaliserad av A1."
+  ],
+  "sources": [
+   {
+    "label": "Ellis Island Foundation, S.S. New York, ankomst 3 okt 1903, T715-0400-264 rad 3 (post JFYM-SWL; Anna JFYM-SWG; Eric H. JFYM-SWP)",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SWL"
+   }
+  ],
+  "search": [
+   "Erik J. Erikson (Ellis Island 3 okt 1903, Brunskog)"
+  ]
+ },
+ {
+  "id": "anna_erikson_1903",
+  "name": "Anna Erikson (f. ca 1880, Brunskog; Ellis Island 1903)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "note": "23-24 år 1903"
+  },
+  "summary": "Hustru till Erik J. Erikson på manifest 3 okt 1903.",
+  "notes": [
+   "MANIFEST rad 4: ”Anna 23 wife”."
+  ],
+  "sources": [
+   {
+    "label": "Ellis Island 3 okt 1903, T715-0400-264 rad 4 (JFYM-SWG)",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SWG"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Anna Erikson (f. ca 1880, Brunskog; Ellis Island 1903)"
+  ]
+ },
+ {
+  "id": "eric_h_erikson_1902",
+  "name": "Eric H. Erikson (spädbarn f. ca 1902)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902"
+  },
+  "summary": "Spädbarn (infant) i Erik J. Eriksons hushåll på manifest 1903.",
+  "notes": [
+   "MANIFEST rad 5: ”Eric H. infant”."
+  ],
+  "sources": [
+   {
+    "label": "Ellis Island 3 okt 1903, T715-0400-264 rad 5 (JFYM-SWP)",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SWP"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Eric H. Erikson (spädbarn f. ca 1902)"
+  ]
+ },
+ {
+  "id": "no_stina_nilsd13",
+  "name": "Stina Nilsdatter (f. 1813 Frykerud, Eidsvoll)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1813",
+   "place": "Frykerud, Värmland",
+   "note": "enligt norsk folkräkning 1875"
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "död före 1891-01-01 (Anders Ellefsen står som enkemann 1891) – dödspost ej funnen"
+  },
+  "places": [
+   "Eidsvoll (Hoel), Norge"
+  ],
+  "summary": "Hustru till Anders Elofsen (skinnberedare, Hoel, Eidsvoll) 1875; född Frykerud. Ingen föräldrauppgift funnen, ej knuten till trädet.",
+  "notes": [
+   "FOLKRÄKNING 1875 Eidsvoll, Hoel, hush. 02: \"014 Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud S, Sverige\". Inga barn i hushållet. Dödspost 1876–1891 ej funnen i Digitalarkivets sök (namn kan vara Kristina/Christine)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Eidsvoll (0237P), Hoel, hush. 02: 014 Stina Nilsdatter, hans kone, g, f. 1813 Frykerud S, Sverige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052052001548"
+   }
+  ],
+  "search": [
+   "Stina Nilsdatter (f. 1813 Frykerud, Eidsvoll)"
+  ]
+ },
+ {
+  "id": "no_mons_andersen15",
+  "name": "Mons Andersen (f. 1815 Brunskog, skinnberedare, Hurdal/Eidsvoll)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1815",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eidsvoll (Langsæt) 1865",
+   "Hurdal (Bækkeli) 1875"
+  ],
+  "summary": "Skinnberedare född i Brunskog (yrkeskollega till Anders Elofsen); ingen föräldrauppgift – släktkoppling till trädet okänd.",
+  "notes": [
+   "1875 Hurdal prestegjeld, Bækkeli (af Rognstad nedre), hush. 1: \"Mons Andersen f. 1815 Brunskog i Sverrige, hf ug, Selveier og Skindfeldmager\"; samma hushåll Niels Andersen f. 1808 Brunskog, inderst, f(?), skindfeldmager. 1865 Eidsvoll Langsæt hush. 02: Mons Andersen f. 1815 (beräknat) Sverige, inderst ug skindfældmager hos Ole Andersen f. ca 1814 Sverige, forpagter/skindfældmager (hustru Marie Johnasdatter f. ca 1812; söner Johnas, Ole, Magnus Olsen f. ca 1842–51). Tre skinnberedare med efternamn Andersen/Andersen (Mons, Niels, Ole) – troligen syskon, men inga föräldrar nämnda."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Hurdal (0239P), Bækkeli: Mons Andersen f. 1815 Brunskog i Sverrige, selveier og skindfeldmager",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054000835"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1865 Eidsvoll (0237P), Langsæt: Mons Andersen f. 1815 Sverige, inderst ug skindfældmager",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01038024010352"
+   }
+  ],
+  "search": [
+   "Mons Andersen (f. 1815 Brunskog, skinnberedare, Hurdal/Eidsvoll)"
+  ]
+ },
+ {
+  "id": "no_niels_andersen08",
+  "name": "Niels Andersen (f. 1808 Brunskog, skinnberedare, Hurdal/Eidsvoll)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1808",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eidsvoll (Langsæt) 1865",
+   "Hurdal 1875",
+   "Eidsvoll (Trandumshagen) 1891"
+  ],
+  "summary": "Skinnberedare född i Brunskog, enkemann 1891 i Eidsvoll; föräldrar okända.",
+  "notes": [
+   "1875 Hurdal, Bækkeli: \"Niels Andersen f. 1808 Brunskog i Sverrige, Inderst f, Skindfeldmager\". 1891 Eidsvoll herred, Trandumshagen: \"Nils Anndersen f. 1808 Brunskog Sverige, Familiens overhode e-mand\" (hush. 1 med Johan Andersen f. 1811 Eidsvold och Morte Katrine Johnsdotter f. 1818 Eidsvold – hushållets inbördes relationer oklara i transkriptionen)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Hurdal (0239P), Bækkeli: Niels Andersen f. 1808 Brunskog i Sverrige, skindfeldmager",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054000836"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Eidsvoll (0237), Trandumshagen: Nils Anndersen f. 1808 Brunskog Sverige, e-mand",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052717008101"
+   }
+  ],
+  "search": [
+   "Niels Andersen (f. 1808 Brunskog, skinnberedare, Hurdal/Eidsvoll)"
+  ]
+ },
+ {
+  "id": "no_anders_andersen23",
+  "name": "Anders Andersen (f. 1823 Brunskog, gårdbruker Stubrud, Løiten)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1823",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Løiten (Stubrud) 1875"
+  ],
+  "summary": "Gift med Kaisa Olsdatter f. 1817 Boda; sonen Johan f. 1864 i Boda. Ingen föräldrar nämnda; ingen träff i trädet.",
+  "notes": [
+   "1875 Løiten (0415P), Stubrud, hush. 01: \"Anders Andersen f. 1823 Brunskog Sverige, Husfader g, Gaardbruger Selveier Jordarbeider; Kaisa Olsdatter f. 1817 Boda Sverige, Kone g; Johan Andersen f. 1864 Boda Sverige, Søn\". Sonens födelse i Boda 1864 ger en kontrollerbar dopuppgift i Boda C I/3 (1820–1858 slutar före 1864 – sök i C I/4). Trädets Kaisa Olsdotter (id kaisa_olsd_boda, f. 1802) och Kajsa Olofsdotter (kajsa_olofsd18, Lerhol) stämmer INTE (annat födelseår/patronymikon)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Løiten (0415P), Stubrud: Anders Andersen f. 1823 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052061002668"
+   }
+  ],
+  "search": [
+   "Anders Andersen (f. 1823 Brunskog, gårdbruker Stubrud, Løiten)"
+  ]
+ },
+ {
+  "id": "no_ole_danielsen40",
+  "name": "Ole Danielsen Blomstrøm (f. 1840 Brunskog, møller/smed, Eidsvoll/Hurdal)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1840",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eidsvoll (Habbarstadbakken) 1875",
+   "Hurdal 1891–1900"
+  ],
+  "summary": "Född Brunskog, fader troligen Daniel (patronymikon Danielsen); hustru Kristine Andreasdatter f. 1839 Brunskog. Möjlig släkt till Danielssönerna i trädet (Smådal/Skog) men ingen länk.",
+  "notes": [
+   "1875 Eidsvoll, Habbarstadbakken, hush. 099: Ole Danielsen Blomstrøm f. 1840 Brunskog (møller), Kristine Andreasdatter f. 1839 Brunskog, söner Johan Olsen f. 1860 Brunskog, Anders Olsen f. 1864 Brunskog; barn födda från 1870 i Eidsvoll. 1891 och 1900 Hurdal (Møllerstuen/Myrvold; smed og fisker)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Eidsvoll, Habbarstadbakken: Ole Danielsen Blomstrøm f. 1840 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052052002193"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1900 Hurdal (0239), Myrvold: Ole Danielsen Blomstrøm f. 1840 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01037043000158"
+   }
+  ],
+  "search": [
+   "Ole Danielsen Blomstrøm (f. 1840 Brunskog, møller/smed, Eidsvoll/Hurdal)"
+  ]
+ },
+ {
+  "id": "no_daniel_danielsen25",
+  "name": "Daniel Danielsen (f. 1825 Brunskog, snekker, Vestre Aker)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1825",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Aker (Sandakerjordet) 1875"
+  ],
+  "summary": "Bor nära moder Kerstine Persdatter f. 1795 och systrarna Kaisa f. 1831 och Marie f. 1817 (alla Brunskog). Möjligen släkt till Danielsson-familjen i trädet (Måns/Anders Danielsson f. 1797) men ingen länk; far Daniel okänd.",
+  "notes": [
+   "1875 Vestre Aker, Sandagerjordet Svenskegaarden hush. 0013: Kerstine Persdatter f. 1795 Brunskog (Moder, e), Kaisa Danielsdatter f. 1831 (huseier), Marie Danielsdatter f. 1817, Emanuel Olsen f. 1851 (Søn af No 3). Daniel Danielsen f. 1825 Brunskog (huseier og snedker) bor i granngården, hush. 0018."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Vestre Aker, Sandakerjordet: Daniel Danielsen f. 1825 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052039004741"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Vestre Aker, Sandagerjordet Svenskegaarden: Kerstine Persdatter f. 1795 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052039004580"
+   }
+  ],
+  "search": [
+   "Daniel Danielsen (f. 1825 Brunskog, snekker, Vestre Aker)"
+  ]
+ },
+ {
+  "id": "no_anna_ellefsen53",
+  "name": "Anna Ellefsen (f. 1853 Brunskog, Kristiania)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Kristiania (Maridalsveien 56) 1875"
+  ],
+  "summary": "Seildugsarbeiderske, logerende; patronymikon Ellefsen tyder på fader Elof/Ellef, ingen föräldrauppgift. Ingen träff i trädet (Elof Perssons barn födda före 1830).",
+  "notes": [
+   "1875 Kristiania, Maridalsveien 56, hush. 07: \"Anna Ellefsen f. 1853 Brunskog Sverige, Logerende, ug, Seildugsarbeiderske\"."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Kristiania, Maridalsveien 56: Anna Ellefsen f. 1853 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055187"
+   }
+  ],
+  "search": [
+   "Anna Ellefsen (f. 1853 Brunskog, Kristiania)"
+  ]
+ },
+ {
+  "id": "isak_larsson_toltan",
+  "name": "Isak Larsson (Toltan)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mantalsskriven i Toltan 1696 (och troligen 1706) som Isak Larsson; sannolikt identisk med ”Isaac L. i Zolta” (fadder 1689/1691). Möjlig far/släkting till Marit Isaksdotter (g. 1717 med Elof Nilsson) – ej bevisat.",
+  "notes": [
+   "MANTAL 1696: Toltan-gruppen (mellan Bytarud och Wester Toltan) ”Nils Larsson, Lars Ersson, Isak Larsson, (?) Björsson, Per Ersson, Jöns Ersson, … Per Ersson” – Isak Larsson är tredje namnet.",
+   "MANTAL 1706: Toltan-gruppen innehåller ett namn läst ”Isak Larsson/Olofsson(?)” (osäkert, 476 hö)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog mantalslängd 1696 (A0003176), bild 614 hö: Toltan: ”Ifaack Larsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003176_00614"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1706 (A0003188), bild 476 hö: Toltan-gruppen",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003188_00476"
+   }
+  ],
+  "search": [
+   "Isak Larsson (Toltan)"
+  ]
+ },
+ {
+  "id": "nils_larsson_toltan",
+  "name": "Nils Larsson (Toltan)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Först i Toltan-gruppen i mantalslängden 1696 (och namn ”Nils Larsson” åter 1706). Möjlig kandidat för Elof Nilssons far ”Nils” – endast namnsamband, ej bevisat.",
+  "notes": [
+   "MANTAL 1696: första namnet i Toltan-gruppen: ”Nils Larsson”.",
+   "MANTAL 1706: Toltan-gruppen: ”Lars Nilsson”, ”Nils Larsson” (hö 476 nederst).",
+   "Alternativ far: Nils Andersson i Wester Toltan 1696 (sista namn)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog mantalslängd 1696 (A0003176), bild 614 hö: Toltan",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003176_00614"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1706 (A0003188), bild 476 hö",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003188_00476"
+   }
+  ],
+  "search": [
+   "Nils Larsson (Toltan)"
+  ]
+ },
+ {
+  "id": "karin_elofsd44",
+  "name": "Karin Elofsdotter (f. ca 1744, från Fryserud)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1744",
+   "place": "",
+   "note": "Födelseår enligt Brunskog inflyttningslängd 1761; plats ej angiven"
+  },
+  "places": [
+   "Fryserud",
+   "Åmot, Brunskog"
+  ],
+  "summary": "Pigan Karin Elofsdotter flyttade 5 mars 1761 från Fryserud till Jon Persson i Åmot, Brunskog. Troligen en annan Karin Elofsdotter än Per Elofssons hustru (f. 1734/35), men namnet/orten Åmot gör att hon måste hållas isär.",
+  "notes": [
+   "INFLYTTNING BRUNSKOG 1761 (B/1 bild 13, nr 2, 5 mars): \"Pig: Karin Elofsd: ifrån Fryserud till Jon [Persson?]: Åmot\" födelseår \"1744\". Nr 3 samma datum: \"Marit Elofsd: ifrån Fryserud till Jan Jonsson i [Brynnesby/Byrkeby?]\" födelseår \"1747\"."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog in- och utflyttningslängd B/1 (1760-1776), bild 13 (Inflyttade 1761, nr 2): Karin Elofsd. ifrån Fryserud till Jon Persson i Åmot, f. 1744",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036778_00013"
+   }
+  ],
+  "search": [
+   "Karin Elofsdotter (f. ca 1744, från Fryserud)"
+  ]
+ },
+ {
+  "id": "marianna_orzechowska_1897",
+  "name": "Marianna Orzechowska (f. 1897)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897-01-01",
+   "place": "Szydłówek (Kielce)",
+   "note": "20.12.1896 enligt julianska kalendern ('завчера' = förrgår före anmälan 22.12.1896/3.1.1897); kl. 01 på natten; döptes 3.1.1897 av kanik Adam Kumiński"
+  },
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Äldre syster till Stefan Orzechowski; dotter till skomakaren Józef Orzechowski och Katarzyna f. Zatorska.",
+  "notes": [
+   "FÖDELSEAKT 1897 nr 3 (ryska, translitterat): 'Состоялось въ городѣ Кѣльцахъ двадцать втораго Декабря тысяча восемьсотъ девяносто шестаго года, третьяго Января тысяча восемьсотъ девяносто седьмаго года, въ первый часъ съ полудня. Явился сапожникъ изъ Шидлувка Юзефъ Ожеховскій (Józef Orzechowski) двадцати двухъ лѣтъ отъ роду ... и предъявилъ Намъ младенца женскаго пола объявляя что онъ родился тамъ же завчерашняго дня въ первомъ часу ночью отъ жены его Екатерины урожденной Заторской двадцати четырехъ лѣтъ. Младенцу сему ... дано имя: Марианна, воспріемниками были: Юзефъ Вощховскій и Маріанна Цедро.' Översättning: Kielce 22 dec 1896 (3 jan 1897) kl. 1 em. Skomakaren Józef Orzechowski, 22 år, från Szydłówek anmälde en flickebarn född där förrgår kl. 1 på natten av hans hustru Katarzyna f. Zatorska, 24 år. Fick namnet Marianna; faddrar Józef Wojciechowski och Marianna Cedro. Vittnen: arbetarna Józef Wojciechowski 34 år och Jan Zatorski 28 år (Zatorski = möjlig släkting till modern).",
+   "IDENTITET: samma föräldrapar (Józef Orzechowski + Katarzyna f. Zatorska, Szydłówek) som i Stefans akt 1903 nr 68; åldrarna stämmer (22+6=28, 24+5=29)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1897 (kt1), skan 001-003.jpg, akt nr 3, marginal 'Szydłówek'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1897&kt=1&plik=001-003.jpg"
+   }
+  ],
+  "search": [
+   "Marianna Orzechowska (f. 1897)"
+  ]
+ },
+ {
+  "id": "bronislawa_orzechowska",
+  "name": "Bronisława Orzechowska (f. 1903)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1903-03-15",
+   "place": "Szydłówek (Kielce)",
+   "note": "15.3.1903 (nytt stil; 2.3. enligt julianska) kl. 24 (midnatt) samma dag som anmälan; döptes samma dag av ksiądz Adam Iwiński"
+  },
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Yngre syster till Stefan Orzechowski; anmäldes samma dag som Stefans sena anmälan (akt 67 resp. 68).",
+  "notes": [
+   "FÖDELSEAKT 1903 nr 67 (ryska, translitterat): 'Состоялось въ городѣ Кѣльцахъ втораго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился рабочій изъ Шидлувка Юзефъ Ожеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи рабочихъ изъ Шидлувка Людовика Вржховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола родившагося въ Шидлувку сегодня въ двѣнадцать часовъ почи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему ... Ксендзомъ Адамомъ Ивинскимъ дано имя Бронислава, воспріемниками были Людовикъ Вржховскій и Юлія Вещына[?].' Översättning: Józef Orzechowski, arbetare från Szydłówek, 28 år, anmälde en dotter född i Szydłówek idag kl. 12 natten av hustrun Katarzyna f. Zatorska, 29 år; namn Bronisława; faddrar Ludwik Wrzchowski[?] och Julia W...[sista efternamnet osäkert]."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1903 (kt1), skan 063-068.jpg, akt nr 67 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1903&kt=1&plik=063-068.jpg"
+   }
+  ],
+  "search": [
+   "Bronisława Orzechowska (f. 1903)"
+  ]
+ },
+ {
+  "id": "boleslaw_mlodawski",
+  "name": "Bolesław Stanisław Młodawski",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902-07-13",
+   "place": "Szydłówek (Kielce)",
+   "note": "30.6.1902 julianskt = 13.7.1902; kl. 7 på morgonen; anmäld samma dag"
+  },
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Äldre bror till Zofia Młodawska (g. Orzechowska); son till Jan Młodawski och Wiktoria f. Szewczyk.",
+  "notes": [
+   "FÖDELSEAKT 1902 nr 211 (ryska, translitterat): 'Состоялось въ городѣ Кѣльцахъ тридцатаго Іюня тринадцатаго Іюля тысяча девятьсотъ втораго года въ часъ дня. Явился рабочій изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) сорока лѣтъ отъ роду, въ присутствіи рабочихъ изъ Шидлувка Адама Коханоўскаго и Мартина Босъ обоихъ двадцати девяти лѣтъ отъ роду, и предъявилъ Намъ младенца мужскаго пола родившагося въ Шидлувку сегодня въ семь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему ... дано имя Болеславъ Станиславъ (Bolesław Stanisław), воспріемниками были Адамъ Кохановскій и Антонина Босъ.' Översättning: Arbetaren Jan Młodawski, 40 år, från Szydłówek anmälde en son född idag kl. 7 f.m. av hustrun Wiktoria f. Szewczyk, 28 år; namn Bolesław Stanisław; faddrar Adam Kochanowski och Antonina Bos.",
+   "FYND via födelseindex 1902 (SkU): 'Млодавскій Болеславъ 211'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) födelseakter 1902 (kt1), skan 205-212.jpg, akt nr 211 (marginal 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1902&kt=1&plik=205-212.jpg"
+   }
+  ],
+  "search": [
+   "Bolesław Stanisław Młodawski"
+  ]
+ },
+ {
+  "id": "marianna_lutawska",
+  "name": "Marianna Lutawska (Jan Młodawskis första hustru)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "okänt"
+  ],
+  "summary": "Jan Młodawskis första hustru; död före 14.2.1900 (han var änkling i vigselakten).",
+  "notes": [
+   "VIGSELAKT 1900 nr 23: 'вдовымъ послѣ Маріянны изъ Лютавскихъ' = änkling efter Marianna f. Lutawska. Inga datum/ålder för henne. Nästa steg: leta Młodawski × Lutawska vigsel/barn (Jan f. ca 1863; sannolikt Mniów-socknen)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   }
+  ],
+  "search": [
+   "Marianna Lutawska (Jan Młodawskis första hustru)"
+  ]
+ },
+ {
+  "id": "jacek_mlodawski",
+  "name": "Jacek Młodawski",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Odrowąż? (Mniów-socknen)"
+  ],
+  "summary": "Far till Jan Młodawski (g.m. Wiktoria Szewczyk); lantbrukare.",
+  "notes": [
+   "VIGSELAKT 1900 nr 23: Jan Młodawski var 'сыномъ Яцка и Анны изъ Бартосинскихъ земледѣльцевъ' = son till lantbrukarna Jacek (Яцекъ) och Anna f. Bartosińska."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   }
+  ],
+  "search": [
+   "Jacek Młodawski"
+  ]
+ },
+ {
+  "id": "anna_bartosinska",
+  "name": "Anna Bartosińska",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Odrowąż? (Mniów-socknen)"
+  ],
+  "summary": "Mor till Jan Młodawski; f. Bartosińska.",
+  "notes": [
+   "VIGSELAKT 1900 nr 23: 'сыномъ Яцка и Анны изъ Бартосинскихъ земледѣльцевъ'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   }
+  ],
+  "search": [
+   "Anna Bartosińska"
+  ]
+ },
+ {
+  "id": "szczepan_szewczyk",
+  "name": "Szczepan Szewczyk",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Kielce"
+  ],
+  "summary": "Far till Wiktoria Szewczyk (g. Młodawska); arbetare.",
+  "notes": [
+   "VIGSELAKT 1900 nr 23: Wiktoria var 'служанкою, дочерью Щепана и умершей Антонины изъ Градзиковъ рабочихъ' = piga, dotter till arbetaren Szczepan och avlidna Antonina f. Gradzik."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   }
+  ],
+  "search": [
+   "Szczepan Szewczyk"
+  ]
+ },
+ {
+  "id": "antonina_gradzik",
+  "name": "Antonina Gradzik",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "died": {
+   "date": "före 1900",
+   "note": "'умершей' i vigselakten 1900"
+  },
+  "places": [
+   "Kielce"
+  ],
+  "summary": "Mor till Wiktoria Szewczyk; död före 14.2.1900.",
+  "notes": [
+   "VIGSELAKT 1900 nr 23: 'дочерью Щепана и умершей Антонины изъ Градзиковъ'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce (id239) vigselakter 1900 (kt2), skan 022-023.jpg, akt nr 23 (marginal 'Kielce'; sid 152)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
+   }
+  ],
+  "search": [
+   "Antonina Gradzik"
+  ]
+ },
+ {
+  "id": "anna_danielsd22",
+  "name": "Anna Danielsdotter (1722, Berga)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1722-01-12",
+   "place": "Berga",
+   "note": "Dödbok F I/2 bild 47: ”född i Berga den 12 Jan: 1722”."
+  },
+  "died": {
+   "date": "1814-01",
+   "place": "Gunnarbytorp, Brunskog",
+   "note": "Dödbok F I/2 bild 47 (s. 63), 1814 nr 6, begravd 6 febr 1814: ”afled i Gunnarbytorp af ålderdomsbräcklighet … uti 92 år 17 dagar” (12 jan 1722 + 92 år 17 d ger ca 29 jan 1814)."
+  },
+  "places": [
+   "Berga",
+   "Strand, Brunskog",
+   "Gunnarbytorp, Brunskog"
+  ],
+  "summary": "Enka från Strand, f. 12 jan 1722 i Berga som dotter till klockaren Daniel [Svensson/Olsson] och Görel Knutsdotter i Berga – äldre syster (samma föräldrar) till Kjerstin Danielsdotter (f. 1725), gift 1745 med Johan Arnesson från Stora Skärmnäs.",
+  "notes": [
+   "DÖDBOK F I/2 bild 47 (1814 febr nr 6): ”Enkan Anna Danielsdotter från Strand född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [sic] och Hustru Görel Knutsdotter i Berga. 1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka. Hon afled i Gunnarbytorp af ålderdomsbräcklighet efter en berömlig vandel uti 92 år 17 dagar.”",
+   "Fadern kallas här ”Klockaren Daniel Olson” (förstoring, tydligt ”Olson”), men i systerns dödbok (Kjerstin Danielsd., F I/2 bild 43 nr 20) ”Klockaren Daniel Svensson”; samma moder Görel Knutsdotter i Berga. Se flagga."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 47 (s. 63, 1814, febr, nr 6): ”Enkan Anna Danielsdotter från Strand född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [Svensson?] och Hustru Görel Knutsdotter i Berga. 1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka. Hon afled i Gunnarbytorp af ålderdomsbräcklighet … uti 92 år 17 dagar”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00047"
+   }
+  ],
+  "search": [
+   "Anna Danielsdotter (1722, Berga)"
+  ]
+ },
+ {
+  "id": "johan_arnesson_skarmnas",
+  "name": "Johan Arnesson (Stora Skärmnäs)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "note": "Okänd; från Stora Skärmnäs."
+  },
+  "died": {
+   "date": "1789",
+   "note": "Dödbok F I/2 bild 47 (hustruns post 1814): ”1789 blef hon Enka”."
+  },
+  "places": [
+   "Stora Skärmnäs, Brunskog"
+  ],
+  "summary": "Dräng från Stora Skärmnäs; gift 1745 med Anna Danielsdotter (f. 1722 Berga), 8 barn; död 1789.",
+  "notes": [
+   "Nämns endast i hustruns dödboksnotis (F I/2 bild 47, 1814 nr 6): ”1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1809–1860), bild 47 (s. 63, 1814, febr, nr 6): ”Enkan Anna Danielsdotter från Strand född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [Svensson?] och Hustru Görel Knutsdotter i Berga. 1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka. Hon afled i Gunnarbytorp af ålderdomsbräcklighet … uti 92 år 17 dagar”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00047"
+   }
+  ],
+  "search": [
+   "Johan Arnesson (Stora Skärmnäs)"
   ]
  }
 ]

@@ -978,6 +978,111 @@
     "stefan",
     "zofia"
    ]
+  },
+  {
+   "title": "Johan Olof Olsson 1923 – destination Jamestown NY",
+   "text": "Manifestet anger N.Y., Jamestown; hustru Hilda Olsson i Brunsberg angiven som anhörig i hemlandet. Sök Johan Olsson/Olson snickare i Jamestown (Chautauqua Co.): NY State census 1925, US census 1930, tidningen Jamestown Evening Journal. Vem han reste till i USA är ej läst.",
+   "persons": [
+    "johan"
+   ]
+  },
+  {
+   "title": "Johan Albin + Nils Einar Augustsson – Winnipeg, Kanada 1903",
+   "text": "Brödernas mål var Winnipeg, Manitoba (cousin Anton …, 371 Alexander Ave.), inte USA direkt. Sök Kanada-folkräkning 1911/1921 (Winnipeg) och eventuella senare USA-gränsövergångar (St. Albans Vermont/Ellis). Faster/moster/farbror till kusinen Anton okänd. Moder Maria Katrina Andersdotter f. Segerstad – kusinen Anton kan vara släkt på mors eller fars sida.",
+   "persons": [
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Erik Johan Eriksson – möjlig match Erik J. Erikson 1903 (Mt. Jewett PA)",
+   "text": "Gift 24-åring från Brunskog med hustru Anna och barn Eric H. Verifiera mot svenska källor (vigsel ca 1901, dop 1902) innan status höjs. Ellis Island-indexet har fel kön/ålder för honom.",
+   "persons": [
+    "erikjohan",
+    "erik_j_erikson_1903"
+   ]
+  },
+  {
+   "title": "Emigrantsökning A2: inga nya emigranter styrkta",
+   "text": "Endast kända spår: Erik Johan Eriksson (1878, emigrerade 1903, destination olöst) och Johan Albin Augustsson (Ellis Island 1903, strong). Nåbarhet: emigranten.se (DNS-fel/ej nåbar), Find a Grave-sökning (JS-renderad, ingen data via WebFetch), Riksarkivet via WebFetch (captcha), Riksarkivet emigration-URL 403. Folkräkningsindex via inloggad webbläsarflik fungerar men ger bara namn/år/år.",
+   "persons": [
+    "erikjohan",
+    "johan_albin_augustsson"
+   ]
+  },
+  {
+   "title": "Anders Elofsen i Eidsvoll – saknad länk till föräldrar",
+   "text": "Norsk identitet (1875, 1891, död 15/11 1893 Eidsvoll) överensstämmer med anders_e f. 1816, men ingen norsk post nämner föräldrar. Nästa steg: Brunskogs flyttlängd/utflyttning ca 1840–1860 (A I/23 1846–50 fortsättning) och Eidsvoll vigsel/dödsbok (ministerialbok, ej transkriberad i sök); Stina Nilsdatters föräldrar i Frykerud (dop 1813).",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Skinnberedare från Brunskog i Eidsvoll/Hurdal",
+   "text": "Mons (1815), Niels (1808) och Ole Andersen (ca 1814) – alla skindfeldmager födda i Sverige/Brunskog, boende på Langsæt (Eidsvoll) 1865. Syskonskap med varandra troligt men ej belagt; släkt med Anders Elofsen okänd (yrkesgemenskap).",
+   "persons": [
+    "no_mons_andersen15",
+    "no_niels_andersen08",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Mantalslängder Brunskog – bildplatser 1696–1714 (A4)",
+   "text": "Brunskog börjar: 1696 A0003176_00613 hö (Åsen/Takene/Stoy/Toltan 614, Skog/Smådal 615 hö); 1706 A0003188_00475 vä (Åsen/Takene 475 hö, Stoy/Ö.Toltan 476 vä, Toltan 476 hö–477 vä, Överskog/Berga 477 hö); 1713 A0003194_00481 hö (Ö. Toltan/Åsen/Ö. Takene 482 hö–483 vä); 1714 A0003195_00480 vä. 1707 (A0003189) Brunskog ej lokaliserad (bild 428–500 skannade; Gunnarskog 480–482, Älgå 485). Volymerna är Örebro län-längder med flera socknar.",
+   "persons": []
+  },
+  {
+   "title": "Kari Elofsdotter: ortsuppgift Persjön i Nyed bekräftad i två källor men dop ej funnet",
+   "text": "Både vigselboken 1767 (E I/2 bild 17) och Pers dödbok 1800 (F I/1 bild 73) anger att Kari kommer från Persjön i Ny[eds socken] och vid giftet tjänade i Åmot. Nyed dopbok C/3 bild 67-80 (dec 1733 - feb 1735) har ingen träff på Kari med fader Elof. Nyed utflyttningslängd B/1 1761-1767 (bild 116-119, 138-145, 152-155) har ingen post för Kari Elofsdotter till Brunskog. Möjliga förklaringar: dop i annat år (ålder 88 kan vara avrundad), fel socken, eller att hon inte registrerades vid flytt (pig).",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Tre kandidater med liknande namn i Brunskog inflyttningslängd 1761-1765",
+   "text": "B/1 (C0036778): (1) bild 13, 5 mars 1761: Karin Elofsd. f. 1744 från Fryserud till Jon Persson i Åmot (syster Marit Elofsd. f. 1747); (2) bild 22, 29 nov 1763: Karin Elofsdotter f. 1735 från Gillberga socken till mäst. Nils Christersson Stake vid [..]by bruk; (3) bild 28, 4 nov 1765: Kari Olofsd[?] f. 1734 från Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot. Alla tre kan vara olika personer. Nr 3 passar bäst tid/ålder/Åmot men saknar Persjön.",
+   "persons": [
+    "karin_elofsd35",
+    "karin_elofsd44"
+   ]
+  },
+  {
+   "title": "Orzechowski × Zatorska vigsel ej i Kielce św. Wojciech 1895–1900",
+   "text": "Alfabetiska vigselindex (SkM) 1895, 1896, 1897, 1898, 1899, 1900 samt 1901 genomlästa: ingen Orzechowski. Nästa steg: vigselakt Kielce Katedra 1895 nr 169 (Geneteka-index) – Katedra finns ej under id239; sök annan Skanoteka-id. Notera: Marianna f. 1.1.1897 passar med vigsel 1895/96.",
+   "persons": [
+    "jozef_orzechowski",
+    "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Stanisław Orzechowski f. 1905 – ev. syskon till Stefan",
+   "text": "Födelseindex 1905 (kt1, SkU-2) har 'Оржеховскій Станиславъ' men aktnumret är skymt av tejp ('1?3'); ej akt 123 eller 153 (båda lästa, andra personer). Kandidater 133/143/163/173. Läs akt för att se föräldrar.",
+   "persons": [
+    "stefan"
+   ]
+  },
+  {
+   "title": "Młodawski 'Teodor' i Kielce 1903 (annan familj?)",
+   "text": "Födelseakt 1903 nr 108: köpmannen Teodor Młodawski, 59 år, Kielce, son Jan Bogumił f. 6.1.1903 (hustru Maria f. Dęgólska[?]). Ingen känd koppling till Jan Młodawski (Szydłówek) – ev. släkt, lead.",
+   "persons": [
+    "jan_mlodawski"
+   ]
+  },
+  {
+   "title": "Nils Elofsson, Ö. Takene, d. 17/3 1856 (77 år 3 mån 19 d) – släkt?",
+   "text": "Dödbok F I/2 bild 126 (1856 nr 19): ”17 | 30 | Ö. Takene | Enkem. Nils Elofsson | 77 | 3 | 19 | Enkling” – född ca 29 nov 1778. Samma sida har Elof Persson (nr 16, död 7/3 1856, redan registrerad). Nils Elofsson f. ~1778 finns inte bland Per Elofsson/Kari Elofsdotters barn (Marit 1768, Olof 1772, Elof 1776, Brita 1780); möjligen son till Elof Nilsson/Nils Elofsson-linjen i Ö. Takene. Obekräftat.",
+   "persons": [
+    "elofpersson"
+   ]
+  },
+  {
+   "title": "Olof Olsson (f. 24/?/1804, Ö. Takene, hustru Britta Nilsd. 1802) – son till Olof Olsson 1757 och Ingierd Nilsd.?",
+   "text": "A I/23 bild 147 (s. 135): ”B.u. Olof Olsson” f. ca 20–24/(3?)/1804 Brunskog, hustru Britta Nilsd. f. 3?/10 1802 Brunskog, barn Olof 22/?/1846, Britta 14/8? 1848(?), Nils 2?/10 1840, Ingierd ?/? 1845; i samma hushåll bor ”Mad. Enk. Ingjerd Nilsd.” (f. 20/11 1761, d. 1850). Sonskap till Ingierd/Olof Olsson 1757 ej bevisat: dopbok C I/3 bild 79–80 (1804) har bara en Ö. Takene-pojke Olof (nr 47, föräldrar Olof Andersson + Marit Olsd.), ingen Olof med föräldrar Olof Olsson/Ingierd – dopet kan ligga på annat blad eller vara 1803/1805. Obekräftat; ej registrerat som person.",
+   "persons": [
+    "ingierd_nilsd61",
+    "olof_olsson_s"
+   ]
   }
  ],
  "conflicts": [
@@ -1284,6 +1389,32 @@
     "elof_nilsson",
     "olof_nilsson_asen_mantal"
    ]
+  },
+  {
+   "title": "Wiktoria Szewczyks ålder: 33 (1900) mot 28 (1902, 1904)",
+   "text": "Vigselakt 14.2.1900 nr 23: 'тридцати трехъ лѣтъ' (33). Födelseakt 1902 nr 211: 28 år; 1904 nr 125: 28 år. Födelseår ca 1867 mot ca 1875. Även Jan Młodawski: 37 år (1900) mot 40 år (1902). Åldrar i ryska akter är ofta avrundade/slarviga; ej lösbart utan dödsakt/senare akt.",
+   "persons": [
+    "wiktoria_szewczyk",
+    "jan_mlodawski"
+   ]
+  },
+  {
+   "title": "Marit Olsdotter (f. 1798, Skog) – födelsedatum 17/1 eller 4/5 1798?",
+   "text": "Dopbok C I/3 bild 58 nr 4: ”Jan 17 – Skog – Marit – Olof Nilsson, Brita Nilsd. (58)” (även A I/8 bild 379: 17/1 1798). Husförhör A I/23 bild 121 (Skog s. 109): Marit Olsd. födelsedag läst ”4/5 98” (litet ⁴⁄₅), och dödboken F I/2 bild 132 (1859 nr 69, Enkan Marit Olsdotter, Skog, 61 år 7 mån 27 d) ger vid död 30/12 1859 född ca 3 maj 1798. Två källor (A I/23 + dödbokens ålder) pekar på 3–4 maj, dopboken på 17 jan. Sannolikt felaktigt dagsdatum i någon av dem (dopdatum 17 jan är primärkälla). Åldern i dödboken kan vara räknad från husförhörets datum.",
+   "persons": [
+    "marit_olsd98",
+    "mans_daniels"
+   ]
+  },
+  {
+   "title": "Klockaren i Berga: Daniel Svensson eller Daniel Olsson?",
+   "text": "Kjerstin Danielsdotters dödbok (F I/2 bild 43 nr 20, 1813) läser ”Klockaren Daniel Svensson och Hustru Görel Knuts Dotter i Berga”; systern Anna Danielsdotters dödbok (F I/2 bild 47, 1814 nr 6) läser på förstoring ”Klockaren Daniel Olson och Hustru Görel Knutsdotter i Berga”. Samma mor/yrke/ort – troligen samma man; patronymikon måste kontrolleras i dop-/vigselbok för Berga (Boda/Fryksände?) eller Brunskogs äldre böcker.",
+   "persons": [
+    "daniel_svensson_berga",
+    "gorel_knutsdotter_berga",
+    "anna_danielsd22",
+    "kjerstin_danielsd25"
+   ]
   }
  ],
  "excluded": [
@@ -1427,6 +1558,22 @@
    "persons": [
     "marit_en24",
     "marit_en38"
+   ]
+  },
+  {
+   "title": "Ingierd Nilsdotter (f. 20/11 1761) död 1850 – identitet avgjord",
+   "text": "Dödboken F I/2 bild 115 (dec 1850) anger ”Enkan Ingjerd Nilsd. fr Ö. Takene, 80 år …” (passar inte 89 år). Husförhörslängden A I/23 (1846–50) bild 147 (s. 135) Ö. Takene har ”Mad. Enk. Ingjerd Nilsd.” f. 20/11 1761 i Brunskog med noteringen ”Död 50” – samma person (dop C I/2 bild 115 = 20 nov 1761). Ingen annan Ingerd Nilsdotter (f. ~1770) finns som änka i Ö. Takene i A I/23 bild 135–149. Dödbokens ålder är felaktig (ev. 89 felskrivet 80).",
+   "persons": [
+    "ingierd_nilsd61",
+    "olof_olsson_s"
+   ]
+  },
+  {
+   "title": "Måns Danielsson (f. 14/6 1797) död 1849",
+   "text": "A I/23 bild 121 (s. 109, Skog): ”Måns Danielsson 14/6 97 … Död 49”, änkan Marit Olsd. (98) kvar med dotter Maria och son Olof; dödbok F I/2 bild 114 (nov 1849): ”Gifte m. Måns Danielsson fr Skog – Feber – 52 år 5 mån” (ålder stämmer med f. 14/6 1797). Dödsdag ca 9 nov, begravning 25 nov 1849 (dagskolumnerna något osäkra).",
+   "persons": [
+    "mans_daniels",
+    "marit_olsd98"
    ]
   }
  ]

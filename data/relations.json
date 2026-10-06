@@ -4241,5 +4241,170 @@
   "child": "z5_erik_nilsson_toltan",
   "status": "lead",
   "basis": "PUBLICERAD UPPGIFT – EJ PRIMÄRKÄLLA. Tholén 1914 s. 3: ”christnades Nils och Marit i Toltan barn vid namn Erik.”"
+ },
+ {
+  "id": "s-johan_albin_augustsson-nils_ejnar_augustsson",
+  "type": "sibling",
+  "a": "johan_albin_augustsson",
+  "b": "nils_ejnar_augustsson",
+  "status": "strong",
+  "basis": "Brunskog A I/35 bild 254 (redan i repot) + gemensam manifestsida Teutonic 1903 rad 3-4"
+ },
+ {
+  "id": "p-erik_j_erikson_1903-anna_erikson_1903",
+  "type": "partner",
+  "a": "erik_j_erikson_1903",
+  "b": "anna_erikson_1903",
+  "status": "candidate",
+  "basis": "Manifest S.S. New York 3 okt 1903: ”Anna 23 wife”"
+ },
+ {
+  "id": "c-erik_j_erikson_1903-anna_erikson_1903-eric_h_erikson_1902",
+  "type": "child",
+  "parents": [
+   "erik_j_erikson_1903",
+   "anna_erikson_1903"
+  ],
+  "child": "eric_h_erikson_1902",
+  "status": "candidate",
+  "basis": "Manifest rad 5 ”Eric H. infant” under samma familjepost"
+ },
+ {
+  "id": "p-anders_e-no_stina_nilsd13",
+  "type": "partner",
+  "a": "anders_e",
+  "b": "no_stina_nilsd13",
+  "status": "candidate",
+  "basis": "Folketelling 1875 Eidsvoll, Hoel, hush. 02: Anders Elofsen f. 1816 Brunskog 'Husfader Inderst G' och 'Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud' (pf01052052001547/-1548). Identiteten Anders Elofsen = anders_e är ej bevisad (saknar föräldrar). Vigselpost ej funnen."
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-marianna_orzechowska_1897",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "marianna_orzechowska_1897",
+  "status": "verified",
+  "basis": "1897 akt 3 (skan 001-003): 'отъ жены его Екатерины урожденной Заторской'; far Юзефъ Ожеховскій, сапожникъ изъ Шидлувка, 22 år"
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-bronislawa_orzechowska",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "bronislawa_orzechowska",
+  "status": "verified",
+  "basis": "1903 akt 67 (skan 063-068): 'отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ'; far Юзефъ Ожеховскій 28"
+ },
+ {
+  "id": "s-stefan-marianna_orzechowska_1897",
+  "type": "sibling",
+  "a": "stefan",
+  "b": "marianna_orzechowska_1897",
+  "status": "verified",
+  "basis": "samma föräldrar enligt 1897 akt 3 och 1903 akt 68"
+ },
+ {
+  "id": "s-stefan-bronislawa_orzechowska",
+  "type": "sibling",
+  "a": "stefan",
+  "b": "bronislawa_orzechowska",
+  "status": "verified",
+  "basis": "samma föräldrar enligt 1903 akt 67 och 68"
+ },
+ {
+  "id": "c-jan_mlodawski-wiktoria_szewczyk-boleslaw_mlodawski",
+  "type": "child",
+  "parents": [
+   "jan_mlodawski",
+   "wiktoria_szewczyk"
+  ],
+  "child": "boleslaw_mlodawski",
+  "status": "verified",
+  "basis": "1902 akt 211 (skan 205-212): 'отъ жены его Викторіи урожденной Шевчикъ'"
+ },
+ {
+  "id": "s-zofia-boleslaw_mlodawski",
+  "type": "sibling",
+  "a": "zofia",
+  "b": "boleslaw_mlodawski",
+  "status": "verified",
+  "basis": "samma föräldrar enligt 1902 akt 211 och 1904 akt 125"
+ },
+ {
+  "id": "p-jan_mlodawski-marianna_lutawska",
+  "type": "partner",
+  "a": "jan_mlodawski",
+  "b": "marianna_lutawska",
+  "status": "strong",
+  "basis": "Vigselakt 1900 nr 23: Jan 'вдовымъ послѣ Маріянны изъ Лютавскихъ'"
+ },
+ {
+  "id": "c-jacek_mlodawski-anna_bartosinska-jan_mlodawski",
+  "type": "child",
+  "parents": [
+   "jacek_mlodawski",
+   "anna_bartosinska"
+  ],
+  "child": "jan_mlodawski",
+  "status": "verified",
+  "basis": "Vigselakt 1900 nr 23: 'сыномъ Яцка и Анны изъ Бартосинскихъ земледѣльцевъ'"
+ },
+ {
+  "id": "c-szczepan_szewczyk-antonina_gradzik-wiktoria_szewczyk",
+  "type": "child",
+  "parents": [
+   "szczepan_szewczyk",
+   "antonina_gradzik"
+  ],
+  "child": "wiktoria_szewczyk",
+  "status": "verified",
+  "basis": "Vigselakt 1900 nr 23: 'дочерью Щепана и умершей Антонины изъ Градзиковъ'"
+ },
+ {
+  "id": "p-szczepan_szewczyk-antonina_gradzik",
+  "type": "partner",
+  "a": "szczepan_szewczyk",
+  "b": "antonina_gradzik",
+  "status": "verified",
+  "basis": "Vigselakt 1900 nr 23 (föräldrar till bruden)"
+ },
+ {
+  "id": "p-jacek_mlodawski-anna_bartosinska",
+  "type": "partner",
+  "a": "jacek_mlodawski",
+  "b": "anna_bartosinska",
+  "status": "verified",
+  "basis": "Vigselakt 1900 nr 23 (föräldrar till brudgummen)"
+ },
+ {
+  "id": "c-daniel_svensson_berga-gorel_knutsdotter_berga-anna_danielsd22",
+  "type": "child",
+  "parents": [
+   "daniel_svensson_berga",
+   "gorel_knutsdotter_berga"
+  ],
+  "child": "anna_danielsd22",
+  "status": "strong",
+  "basis": "Dödbok F I/2 bild 47 (1814 nr 6): ”född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [Svensson?] och Hustru Görel Knutsdotter i Berga.” Faderns patronymikon avviker (Olson/Svensson), modern och yrket (klockaren i Berga) stämmer med systerns dödbok."
+ },
+ {
+  "id": "s-anna_danielsd22-kjerstin_danielsd25",
+  "type": "sibling",
+  "a": "anna_danielsd22",
+  "b": "kjerstin_danielsd25",
+  "status": "strong",
+  "basis": "Samma föräldrar: klockaren Daniel [Svensson] + Görel Knutsdotter i Berga (F I/2 bild 47 resp. bild 43 nr 20)."
+ },
+ {
+  "id": "p-johan_arnesson_skarmnas-anna_danielsd22",
+  "type": "partner",
+  "a": "johan_arnesson_skarmnas",
+  "b": "anna_danielsd22",
+  "status": "strong",
+  "basis": "Dödbok F I/2 bild 47: ”1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.”"
  }
 ]
