@@ -1721,7 +1721,8 @@
   "sex": "m",
   "born": {
    "date": "1830-05-17",
-   "place": "Boda"
+   "place": "Boda",
+   "note": "Dop 20/5; husförhör A I/20 bild 230 läses nu 17/5 (inte 12/5)"
   },
   "died": {
    "date": "före 1880",
@@ -1752,6 +1753,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/14 (1825–1830), bild 40 (fol. 26), Boda: Bond Nils Svensson 27/11 1774, H. Ingeborg Jansdr 17/2 1765; Dtr Britta 3/2 1807 här (gifte); måg Dr Olof Christophersson 19/2 1802 Fryker(ud?), inflyttad Frykerud 27; S. Christopher 3/? 1828 Boda; Son Johannes 17/5 1830",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036579_00040"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhör A I/20 (1856–60), bild 230, Nordsjö: ”B. Johannes Olsson” f. 17/5 1830 Boda, ”H. Anna Andersd:r” 24/11 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
    }
   ],
   "search": [
@@ -1764,7 +1769,8 @@
    "Livsårtalen 1830–1870 kommer från användarträdet och är inte kontrollerade.",
    "FÖDELSEBOK Boda 1830 (C I/3 bild 31), omläst på förstoring: ”Maj 17, döpt 20: Johannes, Boda. Föräldrar: Olof Christophersson, Britta Nilsdotter.” Faddrar: ”Nils Svensson ibm, H. Stina Nils dotter ibm”. Födelsedagen är alltså 17 maj (inte 12; husförhörets ”12/5” är sannolikt en felläsning/felskrivning av 17/5). En annan Johannes föddes 30 juli 1830 i Grimstad (andra föräldrar) – ej förväxla.",
    "Olof Christophersson och Britta Nilsdotter har ej hittats i Bodas husförhör 1831-35 i byarna Boda (1-7, Södra Boda f. 18/26/33/40) eller Nordsjö (fol. 124-127); ingen Karin Olsdotter som moder styrks.",
-   "DOPBOK Boda 1830 (C I/3 bild 31): f. 17 maj, döpt 20 maj, ”Johannes, Boda; Olof Christophersson, Britta Nilsdotter”; faddrar Nils Svensson ibm, H. Stina Nilsdotter ibm. HUSFÖRHÖR A I/14 bild 40: ”Son Johannes 17/5 1830” i Olof Christopherssons familj hos Nils Svensson, Boda."
+   "DOPBOK Boda 1830 (C I/3 bild 31): f. 17 maj, döpt 20 maj, ”Johannes, Boda; Olof Christophersson, Britta Nilsdotter”; faddrar Nils Svensson ibm, H. Stina Nilsdotter ibm. HUSFÖRHÖR A I/14 bild 40: ”Son Johannes 17/5 1830” i Olof Christopherssons familj hos Nils Svensson, Boda.",
+   "OMLÄSNING 2026-10-06: Boda C I/3 bild 31 (zoom): ”17 | 20 | Johannes. Boda. | Olof Christophersson. Britta Nilsdotter. | Nils Svensson ibm, H. Stina Nilsdotter ibm.” A I/20 bild 230 (zoom): ”B. Johannes Olsson 17/5 30 Boda” – dagen är 17/5 (12/5 var felläsning). Modern är Britta Nilsdotter; Karin Olsdotter (MH) saknar stöd i alla lästa kyrkböcker."
   ],
   "places": [
    "Nordsjö, Boda"
@@ -1826,7 +1832,8 @@
    "Folkräkning 1880 Boda (Nordsjö): ”h.” (hustru) till Anders Jansson; barnen heter Johannesson/Johannesdotter efter en tidigare make Johannes.",
    "Födelseåret 1821 i användarträdet stämmer inte med folkräkningarnas 1826.",
    "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Nov. 24, döpt 26: Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr.” Faddrar Olof Nilsson och Karin Ersdr. Exakt födelsedatum 24/11 1826 stämmer med husförhöret 1856.",
-   "KONFLIKT MH/KYRKBOK: MH anger Anna Andersdotter f. 24 nov 1821 (g.m. Johannes Olsson, mor till Olof August); vår verifierade läsning är 24/11 1826. Dag och månad stämmer, årtalet i MH-trädet (1821) skiljer."
+   "KONFLIKT MH/KYRKBOK: MH anger Anna Andersdotter f. 24 nov 1821 (g.m. Johannes Olsson, mor till Olof August); vår verifierade läsning är 24/11 1826. Dag och månad stämmer, årtalet i MH-trädet (1821) skiljer.",
+   "DOPBOK Boda C I/3 bild 26 (24/26 nov 1826): föräldrar ”Anders Nilss., Kaisa Olsdr”; A I/20 bild 230: ”H. Anna Andersd:r 24/11 26 Boda”. Moder Karin Olsdotter (MH) saknar kyrkboksstöd – Kaisa Olsdotter är dopbokens namn (Kaisa/Karin är ej samma i dopboken)."
   ]
  },
  {
@@ -5259,6 +5266,14 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 164: 19/21 febr 1802 Såldebråten, Christopher Svensons och Hust: Lena Salomonsdotrs son (marg. Olof)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00164"
+   },
+   {
+    "label": "Riksarkivet, Boda vigselbok E I/2, bild 123: ”Tjenstedr. Olof Christophersson fr Boda och Pigan Britta Nilsdotter S:bm”, N. Frykstén, 26/12 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00123"
    }
   ],
   "search": [
@@ -5266,15 +5281,17 @@
   ],
   "born": {
    "date": "1802-02-19",
-   "place": "Fryksände(?)",
-   "note": "husförhör: ’19/2 1802, Fryker…’; inflyttad från Frykerud 1827. Dop ej funnet."
+   "place": "Frykerud",
+   "note": "Husförhör A I/14 bild 40: ’19/2 02 Fryker[ud]’, inflyttad ’Frykerud 27’. Troligt dop: Frykerud C/5 bild 164, 19/21 febr 1802, Såldebråten, Christopher Svensson + Lena Salomonsdotter, son Olof (strong, ej bevisat identitet)."
   },
   "notes": [
    "HUSFÖRHÖR Boda A I/14 bild 40 (fol. 26): ”måg Dr Olof Christophersson” f. 19/2 1802 ”Fryker…” (Fryksände?), inflyttad ”Frykerud 27”; hustru Britta Nilsd 3/2 1807 Boda; S. Christopher 1828; Son Johannes 17/5 1830.",
    "VIGSEL Boda E I/2 bild 123 (s. 217): ”Tjenstedr. Olof Christophersson fr. Boda och Pigan Britta Nilsdotter S:bm”, lysning 18 nov 1827, vigde 26/12 1827.",
    "Fryksände dopbok C I/4 bild 160 (1802): ingen 19/2-post funnen (feb 1802 har nr 13 den 12/14 och nr 14 den 18/21) – dop ej hittat; kan vara i annan församling.",
    "MYHERITAGE: i MH är Johannes Olssons mor Karin Olsdotter (karin_olsd_6g_a) – hos oss Britta Nilsdotter (Boda). Konflikt, se flagga.",
-   "GRANSKNING: vigselboken 1827 anger ”fr. Boda”, medan husförhör/användarträd anger Fryksände/Frykerud. Konflikt."
+   "GRANSKNING: vigselboken 1827 anger ”fr. Boda”, medan husförhör/användarträd anger Fryksände/Frykerud. Konflikt.",
+   "OMLÄSNING A I/14 bild 40 (zoom): ”Dr Olof Christophersson 19/2 02 Fryker[…] … inflyttad Frykerud 27”; ”H. Britta Nils d:r 3/2 07 Boda”; ”S. Christopher 3/? 28 do”; ”Son Johannes 17/5 30”. Utflyttning ”Frykerud 27” = socknen Frykerud (inte Fryksände). Vigselbokens ”fr Boda” = bosatt i Boda när han lystes (tjänstedräng hos svärfar), ej födelseort. LÖSNING: födelsesocken Frykerud, ej Fryksände; Fryksände C I/4 bild 160 är fel bok.",
+   "DOP Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. ”Olof”) – exakt samma dag som husförhörets 19/2 1802."
   ]
  },
  {
@@ -5314,7 +5331,8 @@
   },
   "notes": [
    "DOPBOK Boda febr 1807 (C I/2 bild 199, nr 10): ”Boda. Britta. Par: Nils Svensson & Ingeborg Jons(d). Test: Anders Nilsson & Kari Svensd ibm.” HUSFÖRHÖR A I/14 bild 40: Dtr Britta 3/2 1807 här i Nils Svenssons hushåll, gift med måg Olof Christophersson.",
-   "GRANSKNING 2026-10-06: dopboken 1807 ger bara dopdag 8 febr; moderns patronymikon läses ”Jons(dotter)”, inte Jansdotter. Vigselboken 1827 anger inga föräldrar – identiteten (hustru 1827 = döpt 1807) bygger på husförhör: strong."
+   "GRANSKNING 2026-10-06: dopboken 1807 ger bara dopdag 8 febr; moderns patronymikon läses ”Jons(dotter)”, inte Jansdotter. Vigselboken 1827 anger inga föräldrar – identiteten (hustru 1827 = döpt 1807) bygger på husförhör: strong.",
+   "Dopbok C0036593 bild 199 och A I/14 bild 40 omlästa: hustru ”Britta Nils d:r 3/2 07 Boda” i hushållet med Olof Christophersson, svärfar Nils Svensson; vigsel E I/2 bild 123 ”Pigan Britta Nilsdotter S:bm” (samma boende). Mor till Johannes enligt dopbok 1830."
   ]
  },
  {
@@ -5918,7 +5936,8 @@
   "notes": [
    "DOP C I/2 bild 132 nr 41: 9 okt 1767, ”Sandwiken, Anna”, föräldrar Jon Jonsson och Hustru Gunild(?) Andersd.",
    "HUSFÖRHÖR A I/8 bild 370: ”f. Anna Jons.” 9/10 1767, från Sandvik.",
-   "DÖDBOK 1833 (bild 94): ”Oct: 16 | 27 | Hustr. Anna Jonsdotter | Smådal | do. | 66 – 7” – ålder 66 år 7 dagar = född 9/10 1767, vilket stämmer exakt med Anna Jonsdotter (f. 9/10 1767 Sandviken), hustru till Daniel Nilsson i Smådal. Daniel Nilsson själv (f. 1757) lever alltså 16/10 1833 (hustrun benämns 'Hustr.', ej 'Enkan')."
+   "DÖDBOK 1833 (bild 94): ”Oct: 16 | 27 | Hustr. Anna Jonsdotter | Smådal | do. | 66 – 7” – ålder 66 år 7 dagar = född 9/10 1767, vilket stämmer exakt med Anna Jonsdotter (f. 9/10 1767 Sandviken), hustru till Daniel Nilsson i Smådal. Daniel Nilsson själv (f. 1757) lever alltså 16/10 1833 (hustrun benämns 'Hustr.', ej 'Enkan').",
+   "FÖRÄLDRAR (omläst C I/2 bild 132, nr 41): ”9 | Sandwiken Anna | Jon Jonsson, Gunild(?) Andersd:” – fadern skrivs Jonsson (inte Jansson). Datum 9/10 1767 = A I/8 bild 370 och dödbok 1833 (66 år 7 d). MH:s föräldrar Jon Jansson + Ingjerd Andersdotter (1744/1740) har fel patronymikon och ingen kyrkboksgrund – nedgraderas till lead."
   ],
   "died": {
    "date": "1833-10-16",
@@ -6083,6 +6102,14 @@
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 34: 28 okt 1717 D. Elof Nilsson i Hög[?]/Hagen[?] × Jung. Marit Isaksdotter i Tolta",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1734), bild 51, nr 3: Enklingen och Bonmannen Elof Nilsson från Toltan och pig. Karin Nilsdotter från Åsnäs(?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00051"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 159 (s. 147, Toltan): Elof Nilsson 1687 (77–81 år), hustru Karin Nilsd. 1707 (57–61), son Christoph. Elofs. 1748 genomstruken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00159"
    }
   ],
   "search": [
@@ -6146,7 +6173,11 @@
    "MANTAL 1732 (A0003211 b.517 vs, ’Toltan ½’, Brunskog b.514): ”Nils Larsson”, {”Nils Påhlsson(?)” + ”Christopher Påhlsson”} (klammer), ”Elof Nilsson” (tydligt), ”Nils Hälfsson”, {”Nils Persson” + ”Gust. Brita”}, ”Nils Jönsson”.",
    "MANTAL 1733 (A0003212 b.554 vs, ’Toltan ½’, Brunskog b.552; Toltan följer efter ’Gyltarud ½’, därefter ’Öst. Torten ½’): ”Nils Larsson”, ”Nils Påhlsson(?)”, ”Christopher Påhlsson” (tydligt), ”Olof/Elof Nilsson”, ”Nils Hälfsson”, ”Nils Larsson/Persson”, ”Gust. Britta Bengt…”, ”Nils Jönsson”. (1734 saknas i serien: A0003213 finns inte i Riksarkivets IIIF.)",
    "MANTAL 1735 (A0003214 b.543 vs, ’Toltan ½’, Brunskog b.539; ny skrivarhand): ”Nils Larsson”, ”Nils Påhlsson”, {”Christopher Påhlsson”} (klammer), ”Olof Nilsson” (= Elof), ”Nils Hälfsson?”, ”Nils Larsson”, {”G. Britta Bengtsd.”}, ”Nils Larsson”. Elof Nilsson alltså i Toltan-mantalet 1722–1733 och 1735 (1734 saknas) – ingen dödsmarkering; hans död 1734 (brief-hypotes) är EJ stödd: han är ”Inh. Elof Nilsson” 73 år i husförhör 1760 (se tidigare notering).",
-   "SAMMANFATTNING MANTAL TOLTAN 1726–1735 (kolumn: Elof Nilsson | Påhl Nilsson | Christopher Påhlsson): 1726 ja | ja | – ; 1727 ja | ja | – ; 1728 ja | ja | – ; 1729 ja | ja | ja (klammer med Påhl) ; 1731 osäker (”Pehr Nilsson”?) | ”Nils Påhlsson”? | ja ; 1732 ja | ”Nils Påhlsson”?(klammer med Christopher) | ja ; 1733 ja (”Olof Nilsson”) | ”Nils Påhlsson”? | ja ; 1735 ja (”Olof Nilsson”) | ”Nils Påhlsson”? | ja (klammer). Gruppens första rad är ’Gust. Dordi’ (1726–29: ’gustru’ = hustru/gummorna; ’Dordi’ = Dordi/Gertrud, tolkas som Påhls hustru Gertrud Bondesdotter) och sedan ’Nils Larsson’. Kvinnor förs under ’Gust.’ utan namn på make; Marit Isaksdotters död 1730–34 kan inte utläsas (ingen ’Gust. Marit’ i Toltan-gruppen men ’Gust. Marit/Britta’ vid Öst. Torten)."
+   "SAMMANFATTNING MANTAL TOLTAN 1726–1735 (kolumn: Elof Nilsson | Påhl Nilsson | Christopher Påhlsson): 1726 ja | ja | – ; 1727 ja | ja | – ; 1728 ja | ja | – ; 1729 ja | ja | ja (klammer med Påhl) ; 1731 osäker (”Pehr Nilsson”?) | ”Nils Påhlsson”? | ja ; 1732 ja | ”Nils Påhlsson”?(klammer med Christopher) | ja ; 1733 ja (”Olof Nilsson”) | ”Nils Påhlsson”? | ja ; 1735 ja (”Olof Nilsson”) | ”Nils Påhlsson”? | ja (klammer). Gruppens första rad är ’Gust. Dordi’ (1726–29: ’gustru’ = hustru/gummorna; ’Dordi’ = Dordi/Gertrud, tolkas som Påhls hustru Gertrud Bondesdotter) och sedan ’Nils Larsson’. Kvinnor förs under ’Gust.’ utan namn på make; Marit Isaksdotters död 1730–34 kan inte utläsas (ingen ’Gust. Marit’ i Toltan-gruppen men ’Gust. Marit/Britta’ vid Öst. Torten).",
+   "VIGSEL E I/1 bild 51 (s. 82-83), 1734 nr 3, omläst ordagrant: ”d 29 Sept. Enklingen och Bonmannen Elof Nilsson från Toltan, och pig. Karin Nils Dr [Nilsdotter] från Åsnäs[?]” (ortnamnet efter Karin sista ord på raden, svårläst: Åsnäs/Ännäs). Föregående post nr 2 och nr 1 på samma sida: andra par. Hustruns far nämns inte (”Karin Nilsdotter”).",
+   "HUSFÖRHÖR A I/1 bild 181 (s. 144, Toltan Åsen nr 7), omläst: ”Inh. Elof Nilsson” ålder 73-74-75-76 (1760-63), annus nativitatis ”1689” (sista siffran överskriven, jfr 1687); ”H. Kari Nilsd.” 53-54-55-56, 1707; ”S. Christoph. Elofss.” 12-13 (1760-61), f. 1748 (en tidigare rad ”Christoph Elofss” med ålder 12, 13, 10(?) är genomstruken/omskriven); genomstruken rad ”D. Marit Elofsd.” 1738, ålder 24 vid 1762 (utflyttad/struken); därefter rad ”S. Christoph. Elofss.” 1748 med ålder 15 (1763). Kari Nilsdotter född 1707 enligt husförhöret (ålder 27 vid vigseln 1734).",
+   "HUSFÖRHÖR A I/2 (1764–68) bild 159 (s. 147, Toltan), omläst: första gården ”Elof Nilsson” ålder 77-78-79-80-81 (1764–68), annus nativitatis ”1687”; ”H. Karin Nilsd.” 57-58-59-60-61, 1707; ”S. Christoph. Elofs.” 16 (1764) genomstruken, f. 1748; separat hushåll nedanför: ”Per Elofsson” 1728, ”H. Karin Elofsd.” 1735, ”Dotter Marit Pehrsd.” 1768. Elof och Karin lever alltså båda 1768 (81 resp. 61 år).",
+   "HUSFÖRHÖR A I/4 (1775–81) bild 176 (s. 157, Toltan Åsen nr 6): Elof Nilsson och Karin Nilsdotter står inte längre (sidan har Christopher Påhlsson-gården m.fl.); A I/3 (1769–74, C0036742) Åmot b.150/160, Uppsjön/Takene b.140 genomsökta utan att Toltan-sidan med Elof hittades. Elof (f. 1687) levde alltså senast 1768 (81 år); dödsår 1769–1775 ej fastställt (dödbok saknas före 1783)."
   ],
   "timeline": [
    [
@@ -11086,7 +11117,8 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+   "Ej Annas far enligt dopbok 1767 (Jon JONSSON). Rekommendation: ta bort/ersätt relationen till anna_jonsd67."
   ],
   "born": {
    "date": "1744?",
@@ -11548,7 +11580,7 @@
  {
   "id": "karin_olsd_6g_a",
   "name": "Karin Olsdotter (maka till Olof Christophersson?)",
-  "status": "lead",
+  "status": "excluded",
   "sex": "f",
   "living": false,
   "sources": [
@@ -11558,7 +11590,8 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 6:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 6:e generationen.",
+   "UTESLUTEN (omgång 17, L3): Johannes Olssons mor är Britta Nilsdotter enligt Boda dopbok C I/3 bild 31, husförhör A I/14 bild 40 och vigsel 26/12 1827 (E I/2 bild 123). Ingen källa nämner Karin Olsdotter; MyHeritage-uppgiften var fel."
   ],
   "summary": "Karin Olsdotter (maka till Olof Christophersson?) – MyHeritage: direkt anfader/anmoder, 6:e generationen.",
   "places": [],
@@ -11569,7 +11602,7 @@
  {
   "id": "karin_olsd_6g_b",
   "name": "Karin Olsdotter (maka till Anders Nilsson?)",
-  "status": "lead",
+  "status": "excluded",
   "sex": "f",
   "living": false,
   "sources": [
@@ -11579,7 +11612,8 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 6:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 6:e generationen.",
+   "UTESLUTEN (omgång 17, L3): Anna Andersdotters föräldrar enligt Boda dopbok C I/3 bild 26 är Anders Nilsson och Kaisa Olsdotter. MyHeritage-moder Karin Olsdotter saknar stöd."
   ],
   "summary": "Karin Olsdotter (maka till Anders Nilsson?) – MyHeritage: direkt anfader/anmoder, 6:e generationen.",
   "places": [],
@@ -19810,6 +19844,52 @@
   ],
   "search": [
    "Andreas Stridsberg"
+  ]
+ },
+ {
+  "id": "christopher_svensson_saldebraten",
+  "name": "Christopher Svensson (Såldebråten, Frykerud)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Far till Olof f. 19/2 1802 i Frykerud enligt dopboken; Olof stämmer exakt (dag, socken, förnamn) med Olof Christophersson (gift i Boda 1827).",
+  "notes": [
+   "DOPBOK Frykerud C/5 (1778–1807) bild 164 (s. 283, 1802): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son. vit: Nils Svensson och Torsten Månsson, Hust: Ingeborg Olsdotrs Hust Stina Olsdotr i Dedeta och Pig: Maria Halfvardsdotr i N. Glenna”; marginalen: ”Olof”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 164: 19/21 febr 1802 Såldebråten, Christopher Svensons och Hust: Lena Salomonsdotrs son (marg. Olof)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00164"
+   }
+  ],
+  "search": [
+   "Christopher Svensson (Såldebråten, Frykerud)"
+  ]
+ },
+ {
+  "id": "lena_salomonsd_saldebraten",
+  "name": "Lena Salomonsdotter (Såldebråten, Frykerud)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Hustru till Christopher Svensson; mor till Olof f. 19/2 1802 i Frykerud (dop).",
+  "notes": [
+   "DOPBOK Frykerud C/5 bild 164: ”Christopher Svensons och Hust: Lena Salomonsdotrs Son”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 164, 19/21 febr 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00164"
+   }
+  ],
+  "search": [
+   "Lena Salomonsdotter (Såldebråten, Frykerud)"
   ]
  }
 ]

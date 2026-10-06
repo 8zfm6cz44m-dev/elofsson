@@ -1160,8 +1160,8 @@
    "britta_nilsd_boda"
   ],
   "child": "johannesolsson",
-  "status": "strong",
-  "basis": "Bodas födelsebok C I/3 bild 31: ”[Maj] 17 [1830]: Johannes, Boda. Olof Christophersson, Britta Nilsdotter.” Socken, månad och patronymikon stämmer med Johannes Olsson (husförhör: 12/5 1830 i Boda). Dagen (12 eller 17) och moderns namn (användarträdet: Karin Olsdotter) behöver stämmas av."
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 31: ”17 | 20 | Johannes. Boda. | Olof Christophersson. Britta Nilsdotter.” + husförhör A I/14 bild 40: ”Son Johannes 17/5 30” i Olof Christopherssons familj + A I/20 bild 230: ”B. Johannes Olsson 17/5 30 Boda”. Dag, socken och patronymikon stämmer i alla tre."
  },
  {
   "id": "c-elofpersson-mariaand1787-marit_e",
@@ -2411,8 +2411,8 @@
    "gunild_andersd_sandvik"
   ],
   "child": "anna_jonsd67",
-  "status": "strong",
-  "basis": "Dop C I/2 bild 132 nr 41 (9 okt 1767): Sandviken, Anna; Jon Jonsson, Hustru Gunild(?) Andersd.; A I/8 bild 370: Anna Jons. f. 9/10 1767 Sandvik. Strong: Jon Jonsson/Gunild ej följda i husförhör."
+  "status": "verified",
+  "basis": "Dopbok Brunskog C I/2 bild 132 nr 41: ”9 | Sandwiken Anna | Jon Jonsson, Gunild(?) Andersd:”; samma dag 9/10 1767 i A I/8 bild 370 och dödbok F I/2 bild 94 (66 år 7 d, d. 16/10 1833). Moderns förnamn svårläst, men föräldrapar uttryckligt."
  },
  {
   "id": "p-jon_jonsson_sandvik-gunild_andersd_sandvik",
@@ -3088,8 +3088,8 @@
    "ingjerd_andersd40"
   ],
   "child": "anna_jonsd67",
-  "status": "candidate",
-  "basis": "MyHeritage-trädet: Anna Nilsson f. Jonsdotter 1768–1833 (g.m. Daniel Nilsson 1757–1849): far Jon Jansson 1744–1828, mor Ingjerd Jansson f. Andersdotter 1740–1812. Vår anna_jonsd67 är verifierad f. 9/10 1767 (Sandvik) och gift med Daniel Nilsson – identiteten ligger nära (ett års skillnad)."
+  "status": "lead",
+  "basis": "MyHeritage-trädet: Anna Nilsson f. Jonsdotter 1768–1833 (g.m. Daniel Nilsson 1757–1849): far Jon Jansson 1744–1828, mor Ingjerd Jansson f. Andersdotter 1740–1812. Vår anna_jonsd67 är verifierad f. 9/10 1767 (Sandvik) och gift med Daniel Nilsson – identiteten ligger nära (ett års skillnad). Nedgraderad: dopboken (bild 132) anger föräldrarna Jon Jonsson och Gunild Andersdotter."
  },
  {
   "id": "c-nils_isaksson91-marit_olsd92-marit_nilsd27",
@@ -3285,8 +3285,8 @@
    "karin_olsd_6g_b"
   ],
   "child": "anna1821",
-  "status": "candidate",
-  "basis": "MyHeritage-trädet: Anna Andersdotter (MH: f. 24 nov 1821, g.m. Johannes Olsson): far Anders Nilsson, mor Karin Olsdotter (ej daterade). Hos oss har anna1821 strong-föräldrarna Anders Nilsson och Kaisa Olsdotter i Boda (anders_nilsson_boda/kaisa_olsd_boda). OBS födelseår: MH 1821, vår verifierade läsning 24/11 1826."
+  "status": "excluded",
+  "basis": "MyHeritage-trädet: Anna Andersdotter (MH: f. 24 nov 1821, g.m. Johannes Olsson): far Anders Nilsson, mor Karin Olsdotter (ej daterade). Hos oss har anna1821 strong-föräldrarna Anders Nilsson och Kaisa Olsdotter i Boda (anders_nilsson_boda/kaisa_olsd_boda). OBS födelseår: MH 1821, vår verifierade läsning 24/11 1826. UTESLUTEN (omgång 17): motsägs av primärkälla."
  },
  {
   "id": "c-olof_christ-karin_olsd_6g_a-johannesolsson",
@@ -3296,8 +3296,8 @@
    "karin_olsd_6g_a"
   ],
   "child": "johannesolsson",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Johannes Olsson (1830–1870): far Olof Christophersson, mor Karin Olsdotter. KONFLIKT: våra kyrkboksuppgifter ger modern Britta Nilsdotter (Boda, f. 1807, gift 26/12 1827 med Olof Christophersson f. 1802)."
+  "status": "excluded",
+  "basis": "MyHeritage-trädet: Johannes Olsson (1830–1870): far Olof Christophersson, mor Karin Olsdotter. KONFLIKT: våra kyrkboksuppgifter ger modern Britta Nilsdotter (Boda, f. 1807, gift 26/12 1827 med Olof Christophersson f. 1802). UTESLUTEN (omgång 17): motsägs av primärkälla."
  },
  {
   "id": "p-christopher_persson_11-margareta_jonsd",
@@ -3312,16 +3312,16 @@
   "type": "partner",
   "a": "anders_nilsson_boda",
   "b": "karin_olsd_6g_b",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: paret står tillsammans som make/maka (sammanboende föräldrar till barn i trädet); ingen primärkälla."
+  "status": "excluded",
+  "basis": "MyHeritage-trädet: paret står tillsammans som make/maka (sammanboende föräldrar till barn i trädet); ingen primärkälla. UTESLUTEN (omgång 17): motsägs av primärkälla."
  },
  {
   "id": "p-olof_christ-karin_olsd_6g_a",
   "type": "partner",
   "a": "olof_christ",
   "b": "karin_olsd_6g_a",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: paret står tillsammans som make/maka (sammanboende föräldrar till barn i trädet); ingen primärkälla."
+  "status": "excluded",
+  "basis": "MyHeritage-trädet: paret står tillsammans som make/maka (sammanboende föräldrar till barn i trädet); ingen primärkälla. UTESLUTEN (omgång 17): motsägs av primärkälla."
  },
  {
   "id": "c-matts_asen_1703-ingri_mattsd_asen03",
@@ -4994,5 +4994,24 @@
   "child": "andreas_stridsberg_1806",
   "status": "verified",
   "basis": "Segerstad A I/9 bild 38 (fol. 26): ”Son Andreas … 1806 här” i hushållet ”Clarin. blås. And. Stridsberg / Hustru Britta Lisa Jonsdr”; dop Segerstad C/2 bild 41: ”Andreas – Clarinet. Blås. Anders Stridsberg och dess hustr. Britta Lisa Jonsdr i Mällgårds boställe”"
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-olof_christ",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "olof_christ",
+  "status": "strong",
+  "basis": "Dop Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. Olof). Matchar husförhörets Olof Christophersson f. 19/2 1802 ”Fryker…”, inflyttad Frykerud 1827 (A I/14 bild 40). Strong, ej verified: ingen text kopplar uttryckligen dopbarnet till Boda-mannen."
+ },
+ {
+  "id": "p-christopher_svensson_saldebraten-lena_salomonsd_saldebraten",
+  "type": "partner",
+  "a": "christopher_svensson_saldebraten",
+  "b": "lena_salomonsd_saldebraten",
+  "status": "verified",
+  "basis": "Dop Frykerud C/5 bild 164: ”Christopher Svensons och Hust: Lena Salomonsdotrs Son”."
  }
 ]

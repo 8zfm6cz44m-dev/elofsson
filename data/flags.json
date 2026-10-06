@@ -1782,6 +1782,38 @@
    "persons": [
     "marit_isaksd"
    ]
+  },
+  {
+   "title": "Anna Andersdotter (f. 1826): föräldrar ej verified",
+   "text": "Dop 24/26 nov 1826 Boda ger Anders Nilsson + Kaisa Olsdotter (strong). Ingen husförhörsrad med Anna som dotter funnen utöver A I/14 bild 17 (dtr Anna 1826). Karin Olsdotter (MH, candidate) bör tas bort; födelseåret är 1826, inte 1821.",
+   "persons": [
+    "anna1821",
+    "anders_nilsson_boda",
+    "kaisa_olsd_boda",
+    "karin_olsd_6g_b"
+   ]
+  },
+  {
+   "title": "Christophers och Lenas Olof (Frykerud 1802): identitet med Boda-Olof ej uttrycklig",
+   "text": "Nästa steg: Frykerud A I/ (1820-tal, Såldebråten) för Olof, samt Frykerud flyttlängd 1827 (utflyttad till Boda). Frykerud-volymer: dop C/5 C0037138, C/6 C0037139, vigsel E I/2 C0037141, död F/2 C0037143; husförhör A I/1 = C0037102 (A I/n = C0037101+n).",
+   "persons": [
+    "olof_christ"
+   ]
+  },
+  {
+   "title": "Elof Nilsson och Karin Nilsdotter – dödsår",
+   "text": "Båda lever 1768 (A I/2 bild 159: Elof 81 år, Karin 61 år). Saknas i A I/4 Toltan Åsen 1775–81 (bild 176). Dödsår 1769–74 sannolikt; A I/3 (C0036742) Toltan-sidan ej lokaliserad (b.140/150/160 är Takene/Åmot).",
+   "persons": [
+    "elof_nilsson",
+    "kari_nilsd07"
+   ]
+  },
+  {
+   "title": "Karin Nilsdotter f. 1707 – härkomst",
+   "text": "Vigselbok 1734: ”pig. Karin Nilsdotter från Åsnäs[?]” (ort svårläst). Dop 1707 i Brunskog C I/1 (bild 72–74) hittades ej. Far Nils, ev. i annan församling.",
+   "persons": [
+    "kari_nilsd07"
+   ]
   }
  ],
  "conflicts": [
@@ -2377,6 +2409,26 @@
    "text": "Brief-hypotesen att Elof Nilsson dog 1734 stöds inte: han står i Toltan-mantalet 1726–1733 och 1735 (Olof Nilsson) och som ’Inh.’ 73 år i husförhör 1760.",
    "persons": [
     "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Olof Christophersson: född i Frykerud (inte Boda, inte Fryksände)",
+   "text": "Husförhör A I/14 bild 40: inflyttad ”Frykerud 27”. Dop Frykerud C/5 (C0037138) bild 164: 19/21 febr 1802 Såldebråten, Christopher Svensson + Lena Salomonsdotter, son Olof. Vigsel E I/2 bild 123 ”fr Boda” = bosatt. Fryksände C I/4 bild 160 är fel bok (tidigare flaggor om Fryksände kan stängas). Relationen till föräldrarna strong.",
+   "persons": [
+    "olof_christ",
+    "christopher_svensson_saldebraten",
+    "lena_salomonsd_saldebraten"
+   ]
+  },
+  {
+   "title": "Anna Jonsdotter (f. 1767): föräldrar Jon Jonsson + Gunild(?) Andersdotter",
+   "text": "Dop C I/2 bild 132 nr 41 anger Jon Jonsson; MH:s Jon Jansson + Ingjerd Andersdotter har fel patronymikon och ingen primärkälla. Nedgradera MH-paret till lead/ta bort. Sandvik-paret verified (dop + exakt dödsålder).",
+   "persons": [
+    "anna_jonsd67",
+    "jon_jonsson_sandvik",
+    "gunild_andersd_sandvik",
+    "jon_jansson44",
+    "ingjerd_andersd40"
    ]
   }
  ]
