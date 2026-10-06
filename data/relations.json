@@ -1594,8 +1594,8 @@
   "type": "partner",
   "a": "olof_persson_takene",
   "b": "ingrid_olofsd_1693",
-  "status": "strong",
-  "basis": "Dopboken 1731 bild 187 nr 7: ”Olof Persson och h. Ingrid Olofsdotter i Takene”. Änkan Ingrid Olofsd. f. 1693 bor hos sonen 1760–63. | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla"
+  "status": "verified",
+  "basis": "Dopboken 1731 bild 187 nr 7: ”Olof Persson och h. Ingrid Olofsdotter i Takene”. Änkan Ingrid Olofsd. f. 1693 bor hos sonen 1760–63. | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1731) bild 187 (C0036782_00187), nr 7: ”d 7 Febr. Olof Persson och h. Ingrid Olofsd: i Takene Barn, … Fadd. Olof Olofsson, Per Nilsson i Takene, Hust. …” – båda namnges som föräldrar, hustru (”h.”). Länk: https://sok.riksarkivet.se/bildvisning/C0036782_00187"
  },
  {
   "id": "c-olof_persson_takene-ingrid_olofsd_1693-olof_olsson_1731",
@@ -1613,8 +1613,8 @@
   "type": "partner",
   "a": "christopher_persson_asen",
   "b": "ingrid_asen",
-  "status": "strong",
-  "basis": "Dopbok C I/1 bild 184 nr 19: ”Christopher Pehrsson och Hust. Ingrid … i Åsen”. | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla"
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 184 nr 19: ”Christopher Pehrsson och Hust. Ingrid … i Åsen”. | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1730) bild 184 (C0036782_00184), nr 19: ”d 25 Julii Christopher Påhlsson och Hust. Ingrid [Matts]d: i Åsen Barn, … Brita” (Mattsd-delen vid sidkanten, osäker läsning). Båda föräldrar, hustru. https://sok.riksarkivet.se/bildvisning/C0036782_00184"
  },
  {
   "id": "c-christopher_persson_asen-ingrid_asen-brita_christ_1730",
@@ -1823,8 +1823,8 @@
   "type": "partner",
   "a": "olof_arnesson_ragnilsrud",
   "b": "ingrid_persd_vikene",
-  "status": "strong",
-  "basis": "Vigselbok E I/3 bild 12, nr 20 (1786). (Status nedsatt till strong: personens identitet är bara kandidat/lead.)"
+  "status": "verified",
+  "basis": "Vigselbok E I/3 bild 12, nr 20 (1786). (Status nedsatt till strong: personens identitet är bara kandidat/lead.) VERIFIERAD (omgång 24): Brunskog vigselbok E I/3 (1786) bild 12 (C0036788_00012), nr 20: ”Dr. Olof Arnesson från Ragnilsrud och Pig. Ingrid Persdotter från Vikene wid Boda” (osäker läsning av 'Persdotter'). Identiteten med ev. senare släktled är inte prövad. https://sok.riksarkivet.se/bildvisning/C0036788_00012"
  },
  {
   "id": "s-anders_arnesson-anna_arnesd68",
@@ -2182,8 +2182,8 @@
   "type": "partner",
   "a": "anders_nilsson_boda",
   "b": "kaisa_olsd_boda",
-  "status": "strong",
-  "basis": "Föräldrapar i Bodas födelsebok C I/3 bild 26 (24 nov 1826)."
+  "status": "verified",
+  "basis": "Föräldrapar i Bodas födelsebok C I/3 bild 26 (24 nov 1826). VERIFIERAD (omgång 24): Boda dopbok C I/3 (1826) bild 26 (C0036594_00026), 24 nov, barn Anna Boda: föräldrar ”Anders Nilss., Kaisa Olsd.” (föräldrakolumn, ingen hustru-markering; ’v.’ framför Anders osäkert läst). https://sok.riksarkivet.se/bildvisning/C0036594_00026"
  },
  {
   "id": "c-anders_nilsson_boda-kaisa_olsd_boda-anna1821",
@@ -2223,8 +2223,8 @@
   "type": "partner",
   "a": "per_olofsson85",
   "b": "karin_andersd84",
-  "status": "strong",
-  "basis": "A I/17 bild 103 och A I/23 bild 125 Skog: ”Mond. Pär Olson 23/3 85” + ”hustru Karin Andersdotter 16/4 84”. (Status nedsatt till strong: personens identitet är bara kandidat/lead.)"
+  "status": "verified",
+  "basis": "A I/17 bild 103 och A I/23 bild 125 Skog: ”Mond. Pär Olson 23/3 85” + ”hustru Karin Andersdotter 16/4 84”. (Status nedsatt till strong: personens identitet är bara kandidat/lead.) VERIFIERAD (omgång 24): Brunskog husförhör A I/17 (1831–35) bild 103 (C0036756_00103), Skog, sid 85: ”Mond. Pär Olofson 23/3 85 Loco … och h. Karin Andersdr 16/4 84 [ofosted/ö. fosted?]” (födelsedatum 23/3 1785 resp. 16/4 1784 stämmer med vår post; hustru-ord ’h.’). https://sok.riksarkivet.se/bildvisning/C0036756_00103"
  },
  {
   "id": "c-elof_nilsson-marit_isaksd-marit_en24",
@@ -2381,8 +2381,8 @@
   "type": "partner",
   "a": "anders_nilsson_takene33",
   "b": "marit_olofsd_takene",
-  "status": "candidate",
-  "basis": "Dopbok C I/1 bild 198 nr 20 | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla"
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 198 nr 20 | MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1733) bild 198 (C0036782_00198), nr 20: ”d 28 Martii Anders Nilsson och h. Marit Olofsdotter i Öster Takene Barn, Olof. Fadd: Olof … Nilsson i Takene: Hust: Malin Olofsd, Anna Pehrsd ibidem” (marginal: ”Död 1801 13/12”). https://sok.riksarkivet.se/bildvisning/C0036782_00198"
  },
  {
   "id": "s-kjersti_olsd66-jonas_olofsson57",
@@ -2419,8 +2419,8 @@
   "type": "partner",
   "a": "jon_jonsson_sandvik",
   "b": "gunild_andersd_sandvik",
-  "status": "strong",
-  "basis": "Dop C I/2 bild 132 nr 41: ”Jon Jonsson, Hustru Gunild(?) Andersd.”"
+  "status": "verified",
+  "basis": "Dop C I/2 bild 132 nr 41: ”Jon Jonsson, Hustru Gunild(?) Andersd.” VERIFIERAD (omgång 24): Brunskog dopbok C I/2 (1767) bild 132 (C0036783_00132), nr 41, 9 [sept?], barn Anna: föräldrakolumn ”Jon Jonsson, Hustru Gunild(?) Andersd.” (förnamnet Gunild osäker läsning). https://sok.riksarkivet.se/bildvisning/C0036783_00132"
  },
  {
   "id": "s-ingerd_dd90-maria_dd93",
@@ -2446,8 +2446,8 @@
   "type": "partner",
   "a": "per_ingemarsson",
   "b": "brita_jansd_lerbodatorp",
-  "status": "strong",
-  "basis": "Dopbok C I/2 bild 173 (föräldrar till Cajsa 1799)."
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 173 (föräldrar till Cajsa 1799). VERIFIERAD (omgång 24): Boda dopbok C I/2 (1799) bild 173 (C0036593_00173), nr 8, 3 febr: ”Lerbodatorp. Cajsa. Far. Per Ingemarss. Brita Jans[d].” (far/mor-kolumner). https://sok.riksarkivet.se/bildvisning/C0036593_00173"
  },
  {
   "id": "c-jonas_andersson_grimstad-ingeborg_jonsd_grimstad-jan_jonasson",
@@ -2465,8 +2465,8 @@
   "type": "partner",
   "a": "jonas_andersson_grimstad",
   "b": "ingeborg_jonsd_grimstad",
-  "status": "strong",
-  "basis": "Dopbok C I/2 bild 168."
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 168. VERIFIERAD (omgång 24): Boda dopbok C I/2 (1797) bild 168 (C0036593_00168), nr 20, 14 maj: ”P. Grimstad. Jan. Jonas Anderss. Ingeborg Jons[d].” (far/mor-kolumner). https://sok.riksarkivet.se/bildvisning/C0036593_00168"
  },
  {
   "id": "c-anders_nilsson_boda-kaisa_olsd_boda-kaisa_an_1825",
@@ -2517,8 +2517,8 @@
   "type": "partner",
   "a": "nils_arnesson_boda",
   "b": "kari_andersd_boda",
-  "status": "strong",
-  "basis": "Dopbok C I/2 bild 165."
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 165. VERIFIERAD (omgång 24): Boda dopbok C I/2 (1796) bild 165 (C0036593_00165), nr 36, 13 nov: ”Boda. Anders. Far. Nils Arnesson. Kari Anders[d].” (far/mor-kolumner, inga hustru-markering men inget oäkta-tecken). https://sok.riksarkivet.se/bildvisning/C0036593_00165"
  },
  {
   "id": "c-olof_jonsson_boda-ingeborg_nilsd_boda-kaisa_olsd_boda",
@@ -2848,8 +2848,8 @@
  {
   "id": "p-pal_nilsson_hagen-gertrud_bondesd_toltan",
   "type": "partner",
-  "status": "strong",
-  "basis": "Dopbok C I/1 bild 109 (1717 d 15 sept): ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”; bild 126 (1720 nr 4): ”Påhl Nilss: ox h. Gertrud Bondesd: barn ifrån Toltan vid namn Elof”.",
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 109 (1717 d 15 sept): ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”; bild 126 (1720 nr 4): ”Påhl Nilss: ox h. Gertrud Bondesd: barn ifrån Toltan vid namn Elof”. VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1717) bild 109 (C0036782_00109), 15 sept: ”d 15 Sept: Christnades uti Gud(s) … Påhl Nilsson o(ch) h. Gertrud Bondesdotter barn i Tolta vid namn [Johan, överstruket]. Fadd: Jon Nilsson i Åsen …” (båda föräldrar, hustru). https://sok.riksarkivet.se/bildvisning/C0036782_00109",
   "a": "pal_nilsson_hagen",
   "b": "gertrud_bondesd_toltan"
  },
@@ -3338,8 +3338,8 @@
   "type": "partner",
   "a": "matts_asen_1703",
   "b": "ingrid_hustru_matts_asen",
-  "status": "candidate",
-  "basis": "C I/1 bild 56 (1701): ”Matz och h. Ingrid barn i Åsen” – par i Åsen 1701; samma Matts som 1703 ej bevisat."
+  "status": "verified",
+  "basis": "C I/1 bild 56 (1701): ”Matz och h. Ingrid barn i Åsen” – par i Åsen 1701; samma Matts som 1703 ej bevisat. VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1701) bild 56 (C0036782_00056), Dnca 2 p. Epiph.: ”Matz och h. Ingrid barn i Åsen”. OBS: bevisar paret Matts+hustru Ingrid i Åsen 1701; att det är samme Matts som far till Ingri f. 1703 är inte prövat här (men samma ort och samma hustru Ingrid). https://sok.riksarkivet.se/bildvisning/C0036782_00056"
  },
  {
   "id": "c-pal_nilsson_hagen-gertrud_bondesd_toltan-barn_palsson_1717",
@@ -3390,8 +3390,8 @@
   "type": "partner",
   "a": "per_nilsson_toltan",
   "b": "karin_olofsd_toltan",
-  "status": "strong",
-  "basis": "Dopbok C I/1 bild 149 (1724 d 15 jan): ”Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena”; bild 134 (1721 nr 30)."
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 149 (1724 d 15 jan): ”Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena”; bild 134 (1721 nr 30). VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1724) bild 149 (C0036782_00149), nr 9, 15 jan: ”Christnades uti Gud(s) … Per Nilsson och h. Kari Olufsd: Twillinge barn i Tol[tan]”. https://sok.riksarkivet.se/bildvisning/C0036782_00149"
  },
  {
   "id": "c-per_nilsson_toltan-karin_olofsd_toltan-per_pn24",
@@ -3692,8 +3692,8 @@
   "type": "partner",
   "a": "olof_olsson_1749",
   "b": "kari_nilsd51",
-  "status": "strong",
-  "basis": "Dödbok F I/1 b.64 (1798) nr 24: ”Gift 1776 … med Pigan Kari Nilsd. från Skog”; b.90 (1804) nr 24: Kari Nilsd. född i Skog 1751 af Nils Jonsson och Marit Jonsd., gift med ”Olof Olsson fr. Ö. Takene som afled 1798 16/7”."
+  "status": "verified",
+  "basis": "Dödbok F I/1 b.64 (1798) nr 24: ”Gift 1776 … med Pigan Kari Nilsd. från Skog”; b.90 (1804) nr 24: Kari Nilsd. född i Skog 1751 af Nils Jonsson och Marit Jonsd., gift med ”Olof Olsson fr. Ö. Takene som afled 1798 16/7”. VERIFIERAD (omgång 24): Brunskog dödbok F I/1 bild 64 (C0036789_00064), 1798 nr 24 (22 juli): ”… Olof Olsen i Takene ibm född 1749 ²⁴⁄₁₂(?) af Wäl. H. Olof Persson och h. Kjersti Ers[d]. Gift 1776 ²⁷⁄₁₂(?) med Pigan Kari Nilsd. från Skog, [efterlämnade] …”; samt hennes egen post F I/1 bild 90 (C0036789_00090), 1804 nr 24: ”Enkan Kari Nilsd. från Ö. Takene, född i Skog 1751 … af Wäl. Nils Jonson och h. Marit Jons[d]. Gift 1776 … med Dr. Olof Olsen fr. Ö. Takene, som afled 1798 ¹⁶⁄₇”. Två oberoende dödboksposter som uttryckligen namnger varandra som makar (ej vigselpost, men uttrycklig)."
  },
  {
   "id": "p-per_olofsson_1747-anna_nilsd52",
@@ -4085,8 +4085,8 @@
   "type": "partner",
   "a": "christopher_persson_asen",
   "b": "karin_olsd12_asen",
-  "status": "strong",
-  "basis": "F I/1 bild 29 (1788 nr 41): ”Gift d. 26 Dec 1736 med Enkl. Christopher Pålsson fr. Toltan” – Karin från Åsen; Christopher då enkling (första hustru Ingrid Mattsdotter, vigd 1729)."
+  "status": "verified",
+  "basis": "F I/1 bild 29 (1788 nr 41): ”Gift d. 26 Dec 1736 med Enkl. Christopher Pålsson fr. Toltan” – Karin från Åsen; Christopher då enkling (första hustru Ingrid Mattsdotter, vigd 1729). VERIFIERAD (omgång 24): Brunskog dödbok F I/1 bild 29 (C0036789_00029), 1788 nr 41 (7 sept): ”Enkan Karin Olsd. fr. Åsen, född i Sandviken 1712 af Olof Nilsson och H. Marit Andersdotter. Gift d. 26 Dec. 1736 med Enkl. Christopher Pålsson fr. Toltan, … Afled … 76 år” (dödbokspost som namnger maken uttryckligen, gifter datum; ej vigselpost). https://sok.riksarkivet.se/bildvisning/C0036789_00029"
  },
  {
   "id": "c-olof_olsson_s-ingierd_nilsd61-kari_olofsd84_takene",
@@ -4163,8 +4163,8 @@
   "type": "partner",
   "a": "erik_nilsson12_kyrkebyn",
   "b": "marit_en24",
-  "status": "strong",
-  "basis": "F I/1 bild 32 (1790 nr 11): ”2:o 1758 [?]/11 med Pigan Marit Elofsd. från Toltan”; F I/2 bild 65 (1816 nr 37): ”Enkan Marit Elofsdotter i Kyrkebyn”. Identitet med dottern f. 1724 följer av åldern 92 år."
+  "status": "verified",
+  "basis": "F I/1 bild 32 (1790 nr 11): ”2:o 1758 [?]/11 med Pigan Marit Elofsd. från Toltan”; F I/2 bild 65 (1816 nr 37): ”Enkan Marit Elofsdotter i Kyrkebyn”. Identitet med dottern f. 1724 följer av åldern 92 år. VERIFIERAD (omgång 24): Brunskog dödbok F I/1 bild 32 (C0036789_00032), 1790 nr 11: ”Wäl. Erik Nilsson från Kyrkeby ibm född 1712 af Wäl. Nils Ersson och H. Ingrid Mattsd. Gift 1:o 1736 … med Pigan Marit Bengtsd. fr. Ö. Fosked …; 2:o 1758 med Pigan Marit Elofsd. från Toltan. … 78 år” (dödboksuppgift om äktenskap, ej vigselpost; identitet Marit Elofsd Toltan f. 1724 = bruden 1758 följer av åldern 92 år i F I/2 b.65, ej omläst). https://sok.riksarkivet.se/bildvisning/C0036789_00032"
  },
  {
   "id": "c-olof_andersson60_lerhol--nils_olsson90_lerhol",
@@ -4404,8 +4404,8 @@
   "type": "partner",
   "a": "johan_arnesson_skarmnas",
   "b": "anna_danielsd22",
-  "status": "strong",
-  "basis": "Dödbok F I/2 bild 47: ”1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.”"
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 47: ”1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.” VERIFIERAD (omgång 24): Brunskog dödbok F I/2 bild 47 (C0036790_00047), 1814 nr 6 (6 febr): ”Enkan Anna Danielsdotter från Strand född i Berga den 12 Jan 1722 af Klockaren Daniel Olsson och Hustru Görel Knutsdotter i Berga. Gift 1745 med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.” (dödboksuppgift, ej vigselpost; födelsedatum/ort stämmer). https://sok.riksarkivet.se/bildvisning/C0036790_00047"
  },
  {
   "id": "c-michal_orzechowski-antonina_pecl-jozef_orzechowski",
@@ -5278,8 +5278,8 @@
   "type": "partner",
   "a": "christopher_svensson_saldebraten",
   "b": "elin_svensdotter_gonas",
-  "status": "strong",
-  "basis": "Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar."
+  "status": "verified",
+  "basis": "Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar. VERIFIERAD (omgång 24): Frykerud vigselbok E I/1 (1778) bild 114 (C0037140_00114), 24 juni: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs, morgongåfvan efter lag” (Elins patronymikon ej läsbart i vigselposten). https://sok.riksarkivet.se/bildvisning/C0037140_00114"
  },
  {
   "id": "c-anders_svensson_nboda-maria_jordsd_nboda-ingegard_andersdotter",
@@ -5297,8 +5297,8 @@
   "type": "partner",
   "a": "anders_svensson_nboda",
   "b": "maria_jordsd_nboda",
-  "status": "strong",
-  "basis": "Boda dopbok C I/3 bild 107: ”B. Anders Swensson och H. Maria Jordsd.” (föräldrar, N. Boda 25)."
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 107: ”B. Anders Swensson och H. Maria Jordsd.” (föräldrar, N. Boda 25). VERIFIERAD (omgång 24): Boda dopbok C I/3 (1857) bild 107 (C0036594_00107), 14 dec, barn Ingerid Maria: ”N. Boda (25) B. Anders Swensson och H. Maria Jordsd. Åstrin(?)”. https://sok.riksarkivet.se/bildvisning/C0036594_00107"
  },
  {
   "id": "c-jan_svensson_gullsby-maria_andersd_gullsby-stina_jansdotter",
@@ -5316,8 +5316,8 @@
   "type": "partner",
   "a": "jan_svensson_gullsby",
   "b": "maria_andersd_gullsby",
-  "status": "strong",
-  "basis": "Brunskog dopbok C I/5 bild 20: ”Jan Swensson / H. Maria Andersd.” som föräldrar."
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/5 bild 20: ”Jan Swensson / H. Maria Andersd.” som föräldrar. VERIFIERAD (omgång 24): Brunskog dopbok C I/5 (1847) bild 20 (C0036785_00020), barn i Gullsby: ”Gullsby. Jan Swensson / (H.) Maria Andersd.” (förkortningen före Maria svårläst, troligen H.). https://sok.riksarkivet.se/bildvisning/C0036785_00020"
  },
  {
   "id": "c-jan_jonsson_nordsjo-kajsa_olsdotter_nordsjo-andersjansson",
@@ -5335,16 +5335,16 @@
   "type": "partner",
   "a": "jan_jonsson_nordsjo",
   "b": "kajsa_olsdotter_nordsjo",
-  "status": "candidate",
-  "basis": "Boda dopbok C I/3 bild 42 nr 50: ”B. Jan Jonsson, Kajsa Olsdotter”."
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 42 nr 50: ”B. Jan Jonsson, Kajsa Olsdotter”. VERIFIERAD (omgång 24): Boda dopbok C I/3 (1834) bild 42 (C0036594_00042), nr 50, 28 nov, barn Anders Nordsjö: ”B. Jan Jonsson, Kajsa Olsdotter / Vitt. Nils Pettersson, Britta Jans(d) …ibm”. (Bonden + moder i föräldrakolumn; ingen hustru-markering). https://sok.riksarkivet.se/bildvisning/C0036594_00042"
  },
  {
   "id": "p-nils_andersson_takene91-brita_olsd_takene91",
   "type": "partner",
   "a": "nils_andersson_takene91",
   "b": "brita_olsd_takene91",
-  "status": "strong",
-  "basis": "Brunskog vigselbok E I/3 bild 15, 1790 nr 5: ”Dr. Nils Andersson …, Ö. Takene och Pig. Brita Olsd. ibm”; dop 1791 (C I/3 bild 40) anger samma namn som föräldrar i Ö. Takene"
+  "status": "verified",
+  "basis": "Brunskog vigselbok E I/3 bild 15, 1790 nr 5: ”Dr. Nils Andersson …, Ö. Takene och Pig. Brita Olsd. ibm”; dop 1791 (C I/3 bild 40) anger samma namn som föräldrar i Ö. Takene VERIFIERAD (omgång 24): Brunskog vigselbok E I/3 (1790) bild 15 (C0036788_00015), nr 5, 4 april: ”Dr. Nils Andersson …mm(?), Ö. Takene och Pig. Brita Olsd. ibm – utan bru(d)(?)” https://sok.riksarkivet.se/bildvisning/C0036788_00015"
  },
  {
   "id": "p-anders_mattsson_grimstad86-brita_nilsd_grimstad86",
@@ -6315,8 +6315,8 @@
   "type": "partner",
   "a": "fr_palmansson_rorbacken",
   "b": "fr_elinnilsd_rorbacken",
-  "status": "strong",
-  "basis": "A I/1 C0037102 bild 55: ”Pähl Månsson / H: Elin Nilsdotter”."
+  "status": "verified",
+  "basis": "A I/1 C0037102 bild 55: ”Pähl Månsson / H: Elin Nilsdotter”. VERIFIERAD (omgång 24): Frykerud husförhör A I/1 (1725–29) bild 55 (C0037102_00055), Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter” följt av ”mg: Pehr Tarbod(?) / H: Brita Påhlsd(?) …” (makarna står tillsammans som hushållshuvud + ’H:’ hustru). https://sok.riksarkivet.se/bildvisning/C0037102_00055"
  },
  {
   "id": "s-fr_jonaspalsson-fr_britapalsd_rorbacken",
@@ -7338,8 +7338,8 @@
   "type": "partner",
   "a": "ao4_olof_olsson93",
   "b": "ao4_marit_olsd02",
-  "status": "strong",
-  "basis": "A I/17 b.144: ”inhy. Olof … 6/2 93; hust. Marit Olsdr 10/1 02” (hushåll)."
+  "status": "verified",
+  "basis": "A I/17 b.144: ”inhy. Olof … 6/2 93; hust. Marit Olsdr 10/1 02” (hushåll). VERIFIERAD (omgång 24): Brunskog husförhör A I/17 bild 144 (C0036756_00144), Ö. Takene, sid 126: ”inhys. Olof Nilsson 6/2 93 Loco” + ”hust. Marit Olsdr 10/1 02 Loco” (födelsedatum stämmer). OBS: i källan står mannens patronymikon som ’Nilsson’ (tydligt), vår post har ’Olsson’ – kontrollera personnamnet. https://sok.riksarkivet.se/bildvisning/C0036756_00144"
  },
  {
   "id": "c-ao4_olof_olsson93-ao4_marit_olsd02-ao4_olof_olsson25",
@@ -9897,8 +9897,8 @@
   "type": "partner",
   "a": "ar1_lars_jonsson_toltan92",
   "b": "ar1_ingeri_ersd_toltan92",
-  "status": "candidate",
-  "basis": "”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39) (C0036782_00030)"
+  "status": "verified",
+  "basis": "”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39) (C0036782_00030) VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1692) bild 30 (C0036782_00030), nr 15 (sid 39): ”Fadren Lars Jönsson, Modren H. Ingeri Ersd(?): i Holta” (barnet Marit Larsd). Patronymikon efter Ingeri svårläst (osäker). https://sok.riksarkivet.se/bildvisning/C0036782_00030"
  },
  {
   "id": "c-ar1_lars_jonsson_toltan92-ar1_ingeri_ersd_toltan92-c3_marit_larsd92_toltan",
@@ -9916,8 +9916,8 @@
   "type": "partner",
   "a": "ar1_anders_jonsson_otortan89",
   "b": "ar1_christin_persd_otortan89",
-  "status": "candidate",
-  "basis": "”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11) (C0036782_00015)"
+  "status": "verified",
+  "basis": "”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11) (C0036782_00015) VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1689) bild 15 (C0036782_00015), 21 april, tabell: barn Nils Anderson i ö. Tortan, kolumn Föräldrars namn: ”Anders Jonson, Christin Persdotter” (inget hustru-ord; båda står som föräldrar). https://sok.riksarkivet.se/bildvisning/C0036782_00015"
  },
  {
   "id": "c-ar1_anders_jonsson_otortan89-ar1_christin_persd_otortan89-nils_andersson89_otortan",
@@ -9935,8 +9935,8 @@
   "type": "partner",
   "a": "ar1_anders_nilsson_vtortan89",
   "b": "ar1_gunila_gerlsd_vtortan89",
-  "status": "candidate",
-  "basis": "”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13) (C0036782_00016)"
+  "status": "verified",
+  "basis": "”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13) (C0036782_00016) VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1689) bild 16 (C0036782_00016), aug, tabell: barn Nils Andersson i v. Tortan, föräldrar ”Anders Nilsson, Gunila Gerlsd.” (inget hustru-ord). https://sok.riksarkivet.se/bildvisning/C0036782_00016"
  },
  {
   "id": "c-ar1_anders_nilsson_vtortan89-ar1_gunila_gerlsd_vtortan89-nils_andersson89_vtortan",
@@ -9954,8 +9954,8 @@
   "type": "partner",
   "a": "ar1_christopher_toltan89",
   "b": "ar1_mari_johansd_toltan89",
-  "status": "candidate",
-  "basis": "”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11) (C0036782_00015)"
+  "status": "verified",
+  "basis": "”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11) (C0036782_00015) VERIFIERAD (omgång 24): Brunskog dopbok C I/1 (1689) bild 15 (C0036782_00015), 23 juni, tabell: barn Oluff Christopherson i Zolta, föräldrar ”Christoph Thoms(?), Mari Johans-dotter” (osäker läsning av faderns patronymikon; inget hustru-ord). https://sok.riksarkivet.se/bildvisning/C0036782_00015"
  },
  {
   "id": "c-ar1_christopher_toltan89-ar1_mari_johansd_toltan89-olof_christophersson89_toltan",
@@ -11202,8 +11202,8 @@
   "type": "partner",
   "a": "anders_arnesson",
   "b": "aq5_kari_mansd53_skog",
-  "status": "candidate",
-  "basis": "Husförhör A I/10 bild 82 (s. 70): ”H. Kari Månsdr” 53 Skog står som hustru under ”Anders Arneson” 22/9 54 Ragnilsrud, Ö. Takene, med sönerna Anders 1792, Nils 1793, Olof 1795."
+  "status": "verified",
+  "basis": "Husförhör A I/10 bild 82 (s. 70): ”H. Kari Månsdr” 53 Skog står som hustru under ”Anders Arneson” 22/9 54 Ragnilsrud, Ö. Takene, med sönerna Anders 1792, Nils 1793, Olof 1795. VERIFIERAD (omgång 24): Brunskog husförhör A I/10 (1805–09) bild 82 (C0036749_00082), Ö. Takene sid 70: ”Anders Arneson 22/9 54 Ragnilsrud / H. Kari Månsdr 4/11 53 Skog / Son Anders 4/2 92 Takene / Son Nils 24/12 94 ibm / Son Olof 12/12 95 ibm” (födelsedata stämmer). https://sok.riksarkivet.se/bildvisning/C0036749_00082"
  },
  {
   "id": "c-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol-no_olaf_josephsen44",
@@ -11221,8 +11221,8 @@
   "type": "partner",
   "a": "ar2_josef_berg_lerhol",
   "b": "ar2_cajsa_olsd_lerhol",
-  "status": "strong",
-  "basis": "Dop 1844 C0036784_00246: föräldrar Joseph Berg och hustru Cajsa Olsdotter, Lerhol."
+  "status": "verified",
+  "basis": "Dop 1844 C0036784_00246: föräldrar Joseph Berg och hustru Cajsa Olsdotter, Lerhol. VERIFIERAD (omgång 24): Brunskog dopbok C I/3 (1844) bild 246 (C0036784_00246), barn Olof: ”Lerhol. Joseph Berg / H. Cajsa Ols[d]”. https://sok.riksarkivet.se/bildvisning/C0036784_00246"
  },
  {
   "id": "c-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof-no_kaisa_ellefsd42",
@@ -11240,8 +11240,8 @@
   "type": "partner",
   "a": "ar2_elof_larsson_brunskog",
   "b": "ar2_brita_nilsd_elof",
-  "status": "strong",
-  "basis": "Dop 1842 C0036784_00237 nr 112."
+  "status": "verified",
+  "basis": "Dop 1842 C0036784_00237 nr 112. VERIFIERAD (omgång 24): Brunskog dopbok C I/3 (1842) bild 237 (C0036784_00237), nr 112, 7 dec: ”… Elof Larsson Hu. Brita Nilsd.” (barn Kajsa; fadder Nils Månsson h. Marit Persd.). https://sok.riksarkivet.se/bildvisning/C0036784_00237"
  },
  {
   "id": "c-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof-no_anna_ellefsen53",
@@ -11362,8 +11362,8 @@
   "type": "partner",
   "a": "as1_olof_andersson_lyckan_svartana",
   "b": "as1_ingegard_olsdotter_1832_lyckan",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11” VERIFIERAD (omgång 24): Brunskog husförhör A I/37 (1891–95) bild 213 (C0036776_00213), Svartåna fol. 218, Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67 24/7 Svartåna; Nils … ; Elisabeth 74 28/11”. https://sok.riksarkivet.se/bildvisning/C0036776_00213"
  },
  {
   "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-as1_johannes_olofsson_lyckan_1867",
@@ -11433,8 +11433,8 @@
   "type": "partner",
   "a": "as1_olof_jansson_gunnarsbytorp",
   "b": "as1_brita_nilsdotter_1839_skog",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” VERIFIERAD (omgång 24): Brunskog husförhör A I/37 bild 164 (C0036776_00164), fol. 168, Skog/Gärde: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Tolkan; Karin 74 16/11 ”; Karl Oskar 79 2/5 Gunnarsbytorp”. https://sok.riksarkivet.se/bildvisning/C0036776_00164"
  },
  {
   "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-d7_anna_maria_olofsdotter_1874",
