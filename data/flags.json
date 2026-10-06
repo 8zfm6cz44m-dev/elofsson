@@ -2291,6 +2291,18 @@
     "agnieszka_orzechowska_1849",
     "hencel_agnieszka_1847"
    ]
+  },
+  {
+   "title": "Stina Nilsdatter (f. 1813 Frykerud, no_stina_nilsd13) - dodsbok-genomgang Eidsvoll 1876-1889: ingen traff",
+   "text": "Digitalarkivet Eidsvoll prestekontor, klokkerbocker (kopi). Kolumnen 'Alder'/'Fodsels-aar' = fodelsear (1876-77) resp. alder i 'aar' (1879-82) resp. fodelsear (1883-89). Last (alla rader inom lasta sidor, endast det som syntes i bild): (1) Kilde 497 L0003 (1871-77) Dode og begravede 1876, bilde 124-127 (s.239-242): rader 1-19, 22-28, 37-43, 46-72 - ingen kvinna f. 1813/Stina Nilsd. Ej lasta: rad 20-21, 29-36, 44-45. (2) Kilde 498 L0004 (1877-84) Dode og begravede KVINNER, bilde 188-196 (s.178-186): 1877 rad 1-48 (s.178-180), 1878 (rad 1-34), 1879, 1880, 1881 (rad 1-33), 1882 (rad 4-24 + hogerpage), 1883 (rad 8-27 + 1-8 + 28-41 vansterpage), 1884 (delvis, rad ca 35-45 + 8-21) - ingen Stina/Kristina Nilsd. fodd 1813 eller i 'alder 66-70'. Narmast: 'Anne Malene Andersdt 69 aar' (1883, 'Gruncie'); 'Inget Hansdt f. 1814 Sinkerud' (1882); 'Katrine Olsdt 69/f.1814 Sandholt' (1883); 'Ragnhild Marie Jensdt f. 1812 Blegstad' (1888); 'Stina Persdatter, Enke, f. 1820, Bjornasbakken?' (1889). Inga av dessa ar Stina Nilsdatter. (3) Kilde 499 L0005 (1884-94) Dode og begravede KVINNER 1888-1889, bilde 280-281 (s.315-316): 1888 rad 22-53, 1889 rad 1-6 + 13-29 + ca 39-54 - ingen Stina Nilsd. Ej lasta: 1884-1887 (s.310-313), 1889 rad 7-12 och 30-38, 1890 (s.317, bilde 282). Struktur i 499: Menn s.290 (1884)-s.306+, Kvinner fran ca s.310; bilde 280 = s.315.",
+   "persons": [
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Digitalarkivet-index for dodsfall 1882-95 saknas",
+   "text": "Kilde 3467 (Eidsvoll 1882-95, officiell) har bara fodte/konfirmerte i sokbar version -> forklarar att personindexet inte gav traff. Dodsboken 1882-95 finns i kilde 3468 (list-typ 'Dode og begravede', uuid 332a418b-30a7-41fa-9052-4c3cc7261959) och 1877-81 i kilde 3466 (uuid d6bb073e-4e2f-4e6a-855e-d3c0f6b02761); 1871-77 kilde 497 (08f7813c-4ff6-4fab-a678-e231b5cb2f24); 1877-84 kilde 498 (7b0d7c40-8934-4480-a3d4-015b9aab1ca9); 1884-94 kilde 499 (6bbdb106-3ecd-4c31-b497-3138e72031f9). Bildvisaren ar mycket langsam (1-2 min/bild) och sidan visas som uppslag; panorera nedat for att se hela sidan.",
+   "persons": []
   }
  ],
  "conflicts": [
