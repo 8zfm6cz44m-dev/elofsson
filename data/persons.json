@@ -18998,7 +18998,8 @@
    "AK6 CANDIDATE: Boda in- och utflyttningslängd B/1 (C0036591) bild 11, ”Inflyttade Personer till Boda Församling under 1841”, nr 1: ”Hust. Maria Nilsdotter – Frykerud – flyttar till St. Boda – L. Rolander”. Kan vara Maja (utflyttning ”Boda 41” stämmer), men ”Hust.” = gift och make ej namngiven; ej styrkt. Sökt i Boda husförhör A I/17 (1841–45, C0036582) St. Boda s. 37 (bild 48) och Smedsered s. 233–235 (bild 245–247): ej funnen där.",
    "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 75 (1838): lysn. 7 dec, vigd 26 dec 1838, ”v. Ringstad” Brudgum Nils Persson (31), ”ibm. Pig. Maja Nilsd.” (28) – ort Ringstad, ej Lene; ålder 28 vs Maja 27; EJ identifierad med Maja.",
    "HUSFÖRHÖR Frykerud A I/18 bild 183 (Lene, Nils Jonssons hushåll): barn ”Maja” 10/10 11 ibm; utflyttad ”Boda 41”; anm. höger sida: ”Gift d. 4/1 41. Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda”.",
-   "VIGSEL Frykerud E I/2 bild 79 (1841, jan): ”4 ... N. Boda. Br. Dr. Kristoffer Nilsson / Lene pig. Maja Nilsdr / vigde af L. Ralander” åldrar 25 resp. 28 (brudgum 25, brud 28)."
+   "VIGSEL Frykerud E I/2 bild 79 (1841, jan): ”4 ... N. Boda. Br. Dr. Kristoffer Nilsson / Lene pig. Maja Nilsdr / vigde af L. Ralander” åldrar 25 resp. 28 (brudgum 25, brud 28).",
+   "FOLKRÄKNING 1880–1910: Ingen Maja/Maria Nilsdotter f. 1811 i Frykerud/Boda funnen (sökt Maja och Maria Nilsdotter 1811 + Frykerud-filter; Värmlandsträffar var Brattfors/Fernebo, Nyed, Övre Ullerud, Segerstad, Eda-Köla, Brunskog m.fl., ingen med Frykerud/Boda som födelseort) ⇒ död före 1880."
   ],
   "sources": [
    {
@@ -19045,7 +19046,8 @@
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "HUSFÖRHÖR A I/14 bild 99: ”Lena 1815”; A I/15 bild 126: ”Lena 27/12 1815” i Nils Jonssons hushåll, Lene.",
    "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 81 (1842): lysn. 24 nov, vigd 27 nov? 1842, ”Lene. T.Dr. Lars Bengtsson ibm. pig. Elin Lisa Nilsd[otter]”, åldrar 27 och 25. Lars Bengtsson f. 1815 ”Nor” var dräng i Nils Jonssons hushåll (A I/18 bild 183), men bruden är 25 år och heter Elin Lisa; ingen koppling till Lena (f. 27/12 1815, 26 år) bevisad.",
-   "HUSFÖRHÖR Frykerud A I/20 (1846–50) bild 200 (sid 182) Lene: ”Syskon: Pigan Lena Nilsd 27/12 15 ibm” – ogift, kvar på Lene efter moderns död 1848; yngre syskon Jonas och Sven bor samma sida. (Rad kan bära anteckning ’Sjukling’ – ej säkert läst.)"
+   "HUSFÖRHÖR Frykerud A I/20 (1846–50) bild 200 (sid 182) Lene: ”Syskon: Pigan Lena Nilsd 27/12 15 ibm” – ogift, kvar på Lene efter moderns död 1848; yngre syskon Jonas och Sven bor samma sida. (Rad kan bära anteckning ’Sjukling’ – ej säkert läst.)",
+   "FOLKRÄKNING 1880 Frykerud/Lene s.32 r.28: ”Nilsdotter, Lena f. 1815 i Frykerud, ogift, Barn” i hushåll med brodern Sven Nilsson f. 1828 (Hemmansägare). 1890 Lene s.39 r.17 (Ensamstående, hushåll med Sven). 1900 Lene s.34 r.41: ensamt hushåll, Hemmansägare, 85 år, ogift. Levde alltså kvar på hemgården Lene livet ut (död efter 1900). Inga Amerika-/Norgeindikationer."
   ],
   "sources": [
    {
@@ -19063,6 +19065,14 @@
    {
     "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Syskon, Pigan Lena Nilsd 27/12 15 ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Frykerud/Lene s.32 r.28: Lena Nilsdotter f. 1815 Frykerud, Ogift, Barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119246448&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900 Frykerud/Lene s.34 r.41: Lena Nilsdotter f. 1815 Frykerud, Hemmansägare, Ensamstående",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119379630&tab=post"
    }
   ],
   "search": [
@@ -19088,7 +19098,8 @@
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Caisa 20/12 1818” i Nils Jonssons hushåll, Lene.",
    "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”D. Kajsa Nilsd 20/12 18 ibm”, utflyttad ”p:193:49” (till sid 193 i boken, 1849). Bild 211 (sid 193) Lene: ”Pig. Cajsa Nilsd 20/12 18 ibm, inflyttad p.182 49” – piga i annat hushåll på Lene 1849–50. Ogift.",
-   "VIGSEL Frykerud E I/2 bild 105 (1855): 5 aug 1855 (lysning 10/12 1854): ”Torparen Drängen Nils Bengtsson [25] och Pigan Cajsa Nilsdatter, bygg. från Lene [37]”. Ålder 37 stämmer med f. 20/12 1818; Lene; förälder ej nämnd i vigselboken → strong (ej verified)."
+   "VIGSEL Frykerud E I/2 bild 105 (1855): 5 aug 1855 (lysning 10/12 1854): ”Torparen Drängen Nils Bengtsson [25] och Pigan Cajsa Nilsdatter, bygg. från Lene [37]”. Ålder 37 stämmer med f. 20/12 1818; Lene; förälder ej nämnd i vigselboken → strong (ej verified).",
+   "FOLKRÄKNING 1880 Klaxås s.22 r.19: ”Nilsdotter, Kajsa f. 1818 i Frykerud, Gift, Mor/fru” i Nils Bengtssons hushåll; 1890 s.32 r.41?, 1900 s.28 (hemma, 82 år). Död mellan 1900 och 1910 (Nils änkling 1910). Barnlöst äktenskap (inga barn i hushållen)."
   ],
   "sources": [
    {
@@ -19110,6 +19121,10 @@
    {
     "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 105, 1855: Nils Bengtsson & Cajsa Nilsdatter från Lene",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00105"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Frykerud/Klaxås s.22 r.19: Kajsa Nilsdotter f. 1818 Frykerud, Gift, Mor/fru (hos Nils Bengtsson f. 1830)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119245956&tab=post"
    }
   ],
   "search": [
@@ -19135,7 +19150,8 @@
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Son Jonas 1821” tillagd (blekare) sist i Nils Jonssons hushåll, Lene.",
    "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden S. Jonas Nilsson 3/5 21 ibm” – kvar på Lene 1846–50, ogift.",
-   "VIGSEL Frykerud E I/2 bild 108 (1857, s.187): lysning 16/11 1856, vigsel 4/1 1857: ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, åldrar 36 resp. 26 (36 stämmer med f. 3/5 1821). Identifiering strong (förälder ej nämnd)."
+   "VIGSEL Frykerud E I/2 bild 108 (1857, s.187): lysning 16/11 1856, vigsel 4/1 1857: ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, åldrar 36 resp. 26 (36 stämmer med f. 3/5 1821). Identifiering strong (förälder ej nämnd).",
+   "FOLKRÄKNING 1880–1930: Ingen Jonas Nilsson f. 1821 med födelseort Frykerud/Lene funnen bland 11 värmländska träffar ⇒ död före 1880 eller ej indexerad. Maria Stina f. 1858 lever 1880 som piga (fadern sannolikt död)."
   ],
   "sources": [
    {
@@ -19177,7 +19193,8 @@
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "AK6 LEAD (svag): Boda B/1 (C0036591) bild 11, inflyttade 1842, nr 4: ”G.Dr. Kristoffer Nilsson – Frykerud – Smedsered – L. Rolander” (G.Dr = gift dräng). Kristofer f. 1823 vore 19 år – troligen annan person; ej identifierad.",
-   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”S. Christoffer 10/12 2? ibm” överstruken, utflyttad ”p:193:48”. Bild 211 (sid 193) Lene: ”B. Christoffer Nilsson 10/12 23 Frykerud, inflyttad p.182 48” – egen bonde på sid 193 från 1848. Ogift (ingen hustru på raden)."
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”S. Christoffer 10/12 2? ibm” överstruken, utflyttad ”p:193:48”. Bild 211 (sid 193) Lene: ”B. Christoffer Nilsson 10/12 23 Frykerud, inflyttad p.182 48” – egen bonde på sid 193 från 1848. Ogift (ingen hustru på raden).",
+   "FOLKRÄKNING 1880–1910: Ingen Kristofer/Christofer/Kristoffer Nilsson f. 1823 (Krist*/Christ*) i Värmlands län ⇒ död före 1880 eller emigrerad (ingen Amerikaindikation i folkräkningen; ej belagt)."
   ],
   "sources": [
    {
@@ -19214,7 +19231,8 @@
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
-   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden Dr. Sven Nilsson 27/9 28 ibm” – tar över hemmanet efter moderns död 1848; ogift. Anm. höger: ”Casser(?) Bus 1850” (oklar)."
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden Dr. Sven Nilsson 27/9 28 ibm” – tar över hemmanet efter moderns död 1848; ogift. Anm. höger: ”Casser(?) Bus 1850” (oklar).",
+   "FOLKRÄKNING 1880 Frykerud/Lene s.32 r.27: ”Nilsson, Sven f. 1828 i Frykerud, Hemmansägare, Ogift”, hushåll med systern Lena Nilsdotter f. 1815. 1890 s.39 r.16 samma (Hemmanseg., ogift). Ej i 1900 års träff (död 1890–1900 eller ej indexerad). Ogift, inga barn."
   ],
   "sources": [
    {
@@ -19224,6 +19242,14 @@
    {
     "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Bonden Dr. Sven Nilsson 27/9 28 ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Frykerud/Lene s.32 r.27: Sven Nilsson f. 1828 Frykerud, Hemmansägare, Ogift, Barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119246447&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890 Frykerud/Lene s.39 r.16",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103489497&tab=post"
    }
   ],
   "search": [
@@ -25152,7 +25178,8 @@
   "summary": "Dräng/bonde från Boda socken, gift 4 jan 1841 i Frykerud med Maja Nilsdotter (f. 1811, Lene). Maja flyttade till Boda 1841.",
   "notes": [
    "VIGSEL Frykerud E I/2 bild 79: ”Br. Dr. Kristoffer Nilsson … pig. Maja Nilsdr … vigde af L. Ralander”, brudgum 25 år, brud 28 år; kolumn bostad: ”N. Boda” (läsning ’Boda Sn’?).",
-   "HUSFÖRHÖR A I/18 bild 183: ”Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda” (efternamn/gårdsnamn osäkert läst)."
+   "HUSFÖRHÖR A I/18 bild 183: ”Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda” (efternamn/gårdsnamn osäkert läst).",
+   "FOLKRÄKNING: Ingen Kristoffer/Christoffer Nilsson f. 1815 (stavning Krist*/Christ*) finns i Sverige 1880–1910-räkningarna (0 träffar bland värmländska poster) ⇒ död före 1880 (eller ej indexerad). Hustrun Maja Nilsdotter f. 1811 inte funnen i Boda 1880+ (Maria/Maja Nilsdotter f. 1811 träffar är andra personer: Fernebo, Nyed, Övre Ullerud, Eda m.fl.). Barnen 1880 hos Johannes i Lerboda utan föräldrar."
   ],
   "sources": [
    {
@@ -25171,25 +25198,29 @@
  {
   "id": "nilsbengtsson_fr30",
   "name": "Nils Bengtsson (g. 1855 med Kajsa Nilsdotter, Lene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1829/1830",
-   "place": "",
-   "note": "Ålder 25 vid vigsel 5/8 1855."
+   "date": "1830",
+   "place": "Frykerud"
   },
   "places": [
    "Frykerud"
   ],
   "summary": "Torpare/dräng, gift 5 aug 1855 i Frykerud med Cajsa Nilsdotter, boende ’från Lene’, 37 år.",
   "notes": [
-   "VIGSEL Frykerud E I/2 bild 105 (1855, s. 181): ”1854 Dec. 10 [lysning] … Augusti 5. Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg(d) från Lene. Vigde af Magn: Lanner” – åldrar 25 resp. 37."
+   "VIGSEL Frykerud E I/2 bild 105 (1855, s. 181): ”1854 Dec. 10 [lysning] … Augusti 5. Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg(d) från Lene. Vigde af Magn: Lanner” – åldrar 25 resp. 37.",
+   "FOLKRÄKNING 1880 Klaxås s.22: ”Bengtsson, Nils f. 1830 i Frykerud, Hemmansägare, Gift, Far/man” + hustru ”Nilsdotter, Kajsa f. 1818 i Frykerud, Mor/fru”; inga barn i hushållet. 1890 s.32, 1900 s.28 samma par (Kajsa 82 år 1900). 1910 s.25: Nils änkling (f.d. hemmansägare) ⇒ Kajsa död 1900–1910. Obs: bosatt Klaxås (ej torpare Lene) och hemmansägare."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 105, 1855: 5 aug, Torparen Drängen Nils Bengtsson (25) & Pigan Cajsa Nilsdatter från Lene (37)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00105"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Frykerud/Klaxås s.22 r.18: Nils Bengtsson f. 1830 Frykerud, Hemmansägare, Gift, Far/man",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119245955&tab=post"
    }
   ],
   "search": [
@@ -25240,12 +25271,29 @@
   ],
   "summary": "Dotter till Jonas Nilsson och Lovisa Carlsdotter på Lene, Frykerud (dop 22/2 1858). Identiteten för föräldern Jonas = Jonas Nilsson f. 1821 (Stinas bror) är trolig via hustruns namn Lovisa Carlsd och Lene (vigsel 4/1 1857).",
   "notes": [
-   "DOP: Frykerud C/6 bild 231, 1858 feb: ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” med barnnamn ”Maria Stina” (kolumnen ”Maria Stina” står på samma rad; läst via närbild)"
+   "DOP: Frykerud C/6 bild 231, 1858 feb: ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” med barnnamn ”Maria Stina” (kolumnen ”Maria Stina” står på samma rad; läst via närbild)",
+   "FOLKRÄKNING: Enda Maria Stina Jonasdotter/Jonsdotter f. 1858 med födelseförsamling Frykerud i Värmland. 1880 piga i Hannäs Södra, Kihl (ogift); 1890 gift med dagkarlen Jan Petter Larsson f. 1856 Botilsäter, bosatt Prestbol (Frykerud) med barn Oskar 1883, Ellen Maria 1885, Karolina 1887, Karl Johan 1889 (alla f. Nor); 1900/1910 Grava (Hynboholm/Hjärpetan) med även Josefina Albertina 1892, Bror Gustaf 1895, Vilhelm 1898. Identiteten (barn till Jonas Nilsson, Lene) ej belagd i folkräkningen – föräldrar anges ej; fortfarande strong. Ingen Amerika-/Norgeindikation (men bodde i Nor/Stora Kil/Grava)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806-1860), bild 231 (sid 431): 1858 ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” barn ”Maria Stina”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00231"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Kihl/Hannäs Södra s.18 r.27: Maria Stina Jonasdotter f. 1858 Frykerud, Piga, hos Gustaf Andersson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120336731&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890 Frykerud/Prestbol. s.49 r.42: Maria Stina Jonasdotter f. 1858 Frykerud, Gift, Mor/fru (Jan Petter Larsson)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103490014&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910 Grava/Hjärpetan s.17 r.20",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125484829&tab=post"
    }
   ],
   "search": [
@@ -25296,12 +25344,25 @@
   ],
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
   "notes": [
-   "DOP: Boda C I/3 bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32"
+   "DOP: Boda C I/3 bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32",
+   "FOLKRÄKNING: Kajsa Kristoffersdotter f. 1843 i Boda var gift med hemmansägaren Nils Jansson f. 1842 (Brunskog), Gullsby, Brunskog (1880 s.9 r.10, 1890 s.7 r.16: ”Mor/fru”), son Johan f. 1877. 1900 och 1910 änka och hemmansägare i Gullsby (1910 s.13 r.16, ensamstående). Står även i föräldrahemmets (Lerboda) hushåll 1880–1910 som frånvarande ”Barn, Gift/Änka”. Detta är Kajsa som gift sig till Brunskog. Ingen Amerikaindikation."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00067"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Brunskogs moder/Gullsby s.9 r.10: Kajsa Kristoffersdotter f. 1843 Boda, Gift, Mor/fru (Nils Jansson f. 1842 Brunskog)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422255&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900 Brunskog/Gullsbyn s.14 r.38: Kajsa Kristoffersdotter f. 1843 Boda, Änka, Hemmansegare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937325&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.48: Kajsa Kristoffersdotter f. 1843 Boda, Gift, Barn (i hemhushållet, bortgift)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430569&tab=post"
    }
   ],
   "search": [
@@ -25324,12 +25385,21 @@
   ],
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
   "notes": [
-   "DOP: Boda C I/3 bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda"
+   "DOP: Boda C I/3 bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda",
+   "FOLKRÄKNING Boda/Lerboda: Anna Stina Kristoffersdotter f. 1845 Boda, ogift, ”Barn” i hushållet 1880 s.25 r.49 (piga), 1890 s.23 r.43 (Hemeg.), 1900 s.21 r.36 (Hemegare), 1910 s.21 r.27 (Hemmansägare, 65 år). Ogift, stannade på hemgården Lerboda. Hushåll 1890–1910 även syskonet Kajsa (änka, nominellt)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00076"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda s.25 r.49: Anna Stina Kristoffersdotter f. 1845 Boda, Piga, Ogift, Barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430570&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910 Boda annex/Lerboda 'Der Framme' s.21 r.27: Hemmansägare, Ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553187&tab=post"
    }
   ],
   "search": [
@@ -25352,12 +25422,17 @@
   ],
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
   "notes": [
-   "DOP: Boda C I/3 bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm"
+   "DOP: Boda C I/3 bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm",
+   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.47: ”Kristoffersson, Johannes f. 1848 i Boda, Hemmansägare, Ogift, Barn” (hushållets första namn). Hushåll: Johannes 1848, Kajsa 1843 (Gift), Anna Stina 1845 (Piga), Karl 1851. Ej funnen 1890/1900/1910 under namnet Kristoffersson (död 1880–90 eller emigrerad? ej belagt)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00082"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47: Johannes Kristoffersson f. 1848 Boda, Hemmansägare, Ogift, Barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430568&tab=post"
    }
   ],
   "search": [
@@ -25380,12 +25455,17 @@
   ],
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter, Leboda, Boda (moderns ålder 40 stämmer med Maja f. 1811).",
   "notes": [
-   "DOP: Boda C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda"
+   "DOP: Boda C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda",
+   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.50: ”Kristoffersson, Karl f. 1851 i Boda, Ogift, Barn”. Inte funnen 1890–1910 med Kristoffersson/Christoffersson (Värmlands län) – möjlig emigration eller död, EJ belagt."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00088"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda s.25 r.50: Karl Kristoffersson f. 1851 Boda, Ogift, Barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430571&tab=post"
    }
   ],
   "search": [
@@ -27310,6 +27390,284 @@
   ],
   "search": [
    "Anna Valborg Elvira Olsson (f. 1909)"
+  ]
+ },
+ {
+  "id": "nils_jansson42_gullsby",
+  "name": "Nils Jansson (f. 1842, Gullsby, Brunskog)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1842",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Gullsby, Brunskog"
+  ],
+  "summary": "Hemmansägare i Gullsby; gift med Kajsa Kristoffersdotter f. 1843 (Boda). Död före 1900.",
+  "notes": [
+   "FOLKRÄKNING 1880 Brunskogs moder/Gullsby s.9 r.10: ”Jansson, Nils, f. 1842 i Brunskog, Hemmansägare” hushållet: Kajsa Kristoffersdotter f. 1843 Boda (Gift, Mor/fru), Johan f. 1877 Brunskog, Jan Olsson f. 1806 Brunskog.",
+   "1890 s.7 r.16 samma hushåll; 1900/1910 är Kajsa änka."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1880 Brunskogs moder, Gullsby, s.9 r.10: Nils Jansson f. 1842, Kajsa Kristoffersdotter f. 1843 Boda (Gift, Mor/fru)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422255&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890 Brunskogs moder, Gullsby, s.7 r.16",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597349&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Jansson (f. 1842, Gullsby, Brunskog)"
+  ]
+ },
+ {
+  "id": "johan_nilsson77_gullsby",
+  "name": "Johan Nilsson (f. 1877, Gullsby, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1877",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Gullsby, Brunskog"
+  ],
+  "summary": "Son i hushållet Nils Jansson/Kajsa Kristoffersdotter, Gullsby (1880, 1890, 1900).",
+  "notes": [
+   "FOLKRÄKNING 1880 s.9 r.10: ”Johan, f. 1877 i Brunskog” i hushållet Nils Jansson; 1900: ”Nilsson, Johan, f. 1877” hos Kajsa Kristoffersdotter (änka, Hemmansegare), Gullsbyn s.14 r.38. Familjeställning (son) ej uttryckligen läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Brunskog/Gullsbyn, s.14 r.38: Johan Nilsson f. 1877 hos Kajsa Kristoffersdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937325&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Nilsson (f. 1877, Gullsby, Brunskog)"
+  ]
+ },
+ {
+  "id": "jan_petter_larsson56",
+  "name": "Jan Petter Larsson (f. 1856, Botilsäter)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1856",
+   "place": "Botilsäter"
+  },
+  "places": [
+   "Prestbol, Frykerud",
+   "Nor",
+   "Stora Kil",
+   "Grava, Hynboholm"
+  ],
+  "summary": "Dagkarl; gift med Maria Stina Jonasdotter f. 1858 Frykerud (1890, 1900, 1910).",
+  "notes": [
+   "FOLKRÄKNING 1890 Frykeruds/Prestbol. s.49 r.42: ”Larsson, Jan Petter, f. 1856 i Botilsäter, Dagk.” + Maria Stina Jonasdotter f. 1858 Frykerud (Gift, Mor/fru)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890 Frykerud/Prestbol., s.49 r.42",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103490014&tab=post"
+   }
+  ],
+  "search": [
+   "Jan Petter Larsson (f. 1856, Botilsäter)"
+  ]
+ },
+ {
+  "id": "larsson_oskar83",
+  "name": "Oskar Larsson (f. 1883, Nor)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1883",
+   "place": "Nor"
+  },
+  "places": [
+   "Nor"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1883 i Nor. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Oskar Larsson (f. 1883, Nor)"
+  ]
+ },
+ {
+  "id": "larsson_ellenmaria85",
+  "name": "Ellen Maria Larsson (f. 1885, Nor)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1885",
+   "place": "Nor"
+  },
+  "places": [
+   "Nor"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1885 i Nor. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Ellen Maria Larsson (f. 1885, Nor)"
+  ]
+ },
+ {
+  "id": "larsson_karolina87",
+  "name": "Karolina Larsson (f. 1887, Nor)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Nor"
+  },
+  "places": [
+   "Nor"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1887 i Nor. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Karolina Larsson (f. 1887, Nor)"
+  ]
+ },
+ {
+  "id": "larsson_karljohan89",
+  "name": "Karl Johan Larsson (f. 1889, Nor)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Nor"
+  },
+  "places": [
+   "Nor"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1889 i Nor. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Johan Larsson (f. 1889, Nor)"
+  ]
+ },
+ {
+  "id": "larsson_josefina92",
+  "name": "Josefina Albertina Larsson (f. 1892, Stora Kil)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1892",
+   "place": "Stora Kil"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1892 i Stora Kil. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Josefina Albertina Larsson (f. 1892, Stora Kil)"
+  ]
+ },
+ {
+  "id": "larsson_brorgustaf95",
+  "name": "Bror Gustaf Larsson (f. 1895, Stora Kil)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1895",
+   "place": "Stora Kil"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1895 i Stora Kil. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Bror Gustaf Larsson (f. 1895, Stora Kil)"
+  ]
+ },
+ {
+  "id": "larsson_vilhelm98",
+  "name": "Vilhelm Larsson (f. 1898, Grava)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Grava"
+  },
+  "places": [
+   "Grava"
+  ],
+  "summary": "Barn till Jan Petter Larsson och Maria Stina Jonasdotter (hushåll Prestbol 1890, Grava Hynboholm 1900).",
+  "notes": [
+   "FOLKRÄKNING 1900 Grava/Hynboholm s.56 r.12: barn i hushållet Larsson, Jan Petter / Maria Stina Jonsdotter (f. 1858 Frykerud), f. 1898 i Grava. Familjeställning ej individuellt läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900 Grava/Hynboholm, s.56 r.12",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_108722396&tab=post"
+   }
+  ],
+  "search": [
+   "Vilhelm Larsson (f. 1898, Grava)"
   ]
  }
 ]

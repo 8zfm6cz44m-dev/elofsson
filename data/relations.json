@@ -7088,5 +7088,173 @@
    "anna_gata"
   ],
   "child": "annavalborg_jo09"
+ },
+ {
+  "id": "s-fr_svennilsson1828-fr_lenanilsd1815",
+  "type": "sibling",
+  "a": "fr_svennilsson1828",
+  "b": "fr_lenanilsd1815",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Frykerud/Lene s.32 r.27–28 (post 119246447/119246448): Sven Nilsson f. 1828 (Hemmansägare, ogift) och Lena Nilsdotter f. 1815 (ogift), båda ”Barn”, båda f. Frykerud, samma hushåll; 1890 s.39 r.16–17; stämmer med husförhör A I/18 bild 183 (syskon)."
+ },
+ {
+  "id": "p-nilsbengtsson_fr30-fr_kajsanilsd1818",
+  "type": "partner",
+  "a": "nilsbengtsson_fr30",
+  "b": "fr_kajsanilsd1818",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Frykerud/Klaxås s.22 r.18–19: ”Bengtsson, Nils f. 1830 i Frykerud, Hemmansägare, Gift, Far/man”; ”Nilsdotter, Kajsa f. 1818 i Frykerud, Gift, Mor/fru”. Samma 1890 s.32, 1900 s.28."
+ },
+ {
+  "id": "p-nils_jansson42_gullsby-kn_kajsa1843",
+  "type": "partner",
+  "a": "nils_jansson42_gullsby",
+  "b": "kn_kajsa1843",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Brunskogs moder/Gullsby s.9 r.10: ”Jansson, Nils f. 1842 i Brunskog, Hemmansägare”; ”Kristoffersdotter, Kajsa f. 1843 i Boda, Gift, Mor/fru”; Johan f. 1877 Brunskog. Samma 1890 s.7 r.16."
+ },
+ {
+  "id": "c-nils_jansson42_gullsby-kn_kajsa1843-johan_nilsson77_gullsby",
+  "type": "child",
+  "parents": [
+   "nils_jansson42_gullsby",
+   "kn_kajsa1843"
+  ],
+  "child": "johan_nilsson77_gullsby",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Gullsby s.9 r.10: Johan f. 1877 Brunskog i hushållet Nils Jansson/Kajsa; 1900: Johan Nilsson f. 1877 hos Kajsa (änka). Familjeställning för Johan ej individuellt läst."
+ },
+ {
+  "id": "p-jan_petter_larsson56-fr_mariastinajonasd1858",
+  "type": "partner",
+  "a": "jan_petter_larsson56",
+  "b": "fr_mariastinajonasd1858",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Frykerud/Prestbol. s.49 r.42: Jan Petter Larsson f. 1856 Botilsäter (Dagk.), Maria Stina Jonasdotter f. 1858 Frykerud (Gift, Mor/fru); 1900 Grava/Hynboholm s.56 r.12. (Identitet Maria Stina = dotter till Jonas Nilsson ej uttryckligen belagd.)"
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_oskar83",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_oskar83",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1883 Nor i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_ellenmaria85",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_ellenmaria85",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1885 Nor i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_karolina87",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_karolina87",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1887 Nor i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_karljohan89",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_karljohan89",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1889 Nor i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_josefina92",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_josefina92",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1892 Stora Kil i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_brorgustaf95",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_brorgustaf95",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1895 Stora Kil i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_vilhelm98",
+  "type": "child",
+  "parents": [
+   "jan_petter_larsson56",
+   "fr_mariastinajonasd1858"
+  ],
+  "child": "larsson_vilhelm98",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Grava/Hynboholm s.56 r.12 (post 108722396): barn f. 1898 Grava i hushållet Larsson/Maria Stina Jonsdotter."
+ },
+ {
+  "id": "s-kn_johannes1848-kn_kajsa1843",
+  "type": "sibling",
+  "a": "kn_johannes1848",
+  "b": "kn_kajsa1843",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "s-kn_johannes1848-kn_annastina1845",
+  "type": "sibling",
+  "a": "kn_johannes1848",
+  "b": "kn_annastina1845",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "s-kn_johannes1848-kn_carl1851",
+  "type": "sibling",
+  "a": "kn_johannes1848",
+  "b": "kn_carl1851",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "s-kn_annastina1845-kn_carl1851",
+  "type": "sibling",
+  "a": "kn_annastina1845",
+  "b": "kn_carl1851",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "s-kn_kajsa1843-kn_annastina1845",
+  "type": "sibling",
+  "a": "kn_kajsa1843",
+  "b": "kn_annastina1845",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "s-kn_kajsa1843-kn_carl1851",
+  "type": "sibling",
+  "a": "kn_kajsa1843",
+  "b": "kn_carl1851",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
  }
 ]

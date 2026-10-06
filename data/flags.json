@@ -2826,6 +2826,36 @@
     "jan_kallne",
     "elof"
    ]
+  },
+  {
+   "title": "Kristoffer Nilsson (f. 1815) och Maja Nilsdotter (f. 1811) saknas i folkräkningarna",
+   "text": "Inga träffar 1880–1910 för Kristoffer (Krist*/Christ* Nilsson 1815) eller Maja/Maria Nilsdotter f. 1811 med Frykerud/Boda som födelseort; sannolikt döda före 1880. Dödsdatum bör sökas i Boda dödbok (F I). Barnen bor 1880 hos Johannes i Lerboda utan föräldrar.",
+   "persons": [
+    "kn_boda1815",
+    "fr_majanilsd1811"
+   ]
+  },
+  {
+   "title": "Jonas Nilsson (f. 1821) och Kristofer Nilsson (f. 1823) ej i folkräkning",
+   "text": "Ingen Jonas Nilsson f. 1821 / Kristofer Nilsson f. 1823 med födelseort Frykerud 1880–1910. Antingen döda före 1880 eller emigrerade; inga Amerika-/Norgeuppgifter i folkräkningen. Maria Stina f. 1858 (piga 1880) tyder på att Jonas dog tidigt. Sök Frykerud dödbok F/2 1857–79 och flyttlängder B/1 (utflytt Amerika/Norge).",
+   "persons": [
+    "fr_jonasnilsson1821",
+    "fr_kristofernilsson1823"
+   ]
+  },
+  {
+   "title": "Maria Stina Jonasdotter f. 1858 – identitet ej fullt belagd",
+   "text": "Folkräkningen anger födelseort Frykerud 1858 och patronymikon Jonas, men inga föräldrar. Gift med Jan Petter Larsson f. 1856 (Botilsäter), 7 barn, bodde Prestbol/Nor/Stora Kil/Grava. Bekräfta via vigsel (Frykerud E I/2 ~1881–83) eller 1858 års dop (Lene, 21/2).",
+   "persons": [
+    "fr_mariastinajonasd1858"
+   ]
+  },
+  {
+   "title": "Nils Fredrik Kristoffersson f. 1841 Frykerud – annan person",
+   "text": "Nils Fredrik Kristoffersson f. 1841 Frykerud (Wäsby, hemmansägare) är INTE Kristoffer Nilssons son Nils f. 1841 (Boda). Kristoffers son Nils (f. 22/8 1841 St. Boda) saknas i alla folkräkningar 1880–1910 (sökt Krist*/Christ* + Nils 1841): död före 1880 eller emigrerad, ej belagt.",
+   "persons": [
+    "kn_nils1841"
+   ]
   }
  ],
  "conflicts": [
@@ -3599,6 +3629,13 @@
    "persons": [
     "anders_persson_vakarr_1851",
     "brita_cajsa_andersdotter_1851"
+   ]
+  },
+  {
+   "title": "Kajsa Kristoffersdotter f. 1843 dubbelnotering",
+   "text": "Hon står både i Lerboda (Boda) som ”Barn, Gift/Änka” och i Gullsby (Brunskog) som hustru till Nils Jansson f. 1842. Det är en och samma person (frånvarande bortgift syskon i föräldrahemmet).",
+   "persons": [
+    "kn_kajsa1843"
    ]
   }
  ]
