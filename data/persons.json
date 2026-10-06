@@ -18702,8 +18702,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "ca 1804",
-   "note": "Beräknat av ”92 år gammal” vid dödsfallet 27 nov 1896; OCR i tidningen är delvis förvriden."
+   "date": "1804",
+   "place": "Brunskog",
+   "note": "folkräkning 1880: Olof Olsson f. 1804 Brunskog, Ö. Takene s.27 rad 13, hustru Brita Nilsdotter f. 1802"
   },
   "died": {
    "date": "1896-11-27",
@@ -18718,7 +18719,9 @@
    "ANSGARII-POSTEN 1895-09-18 s.1 (OCR): ”… vår gamle vän och broder Olof Olsson i Takene, ’ålderspresidenten’ inom föreningen” (Brunskogs missionsförening); samma tidning 1895-09-25: ”O. Olsson, Takene, kassör”, ”Olof Olsson i Takene till år 1874” (styrelseledamot) och brodern Nils Olsson (Nolgård/Takene).",
    "KONTROLL: Ej i trädet. Bör sökas i Brunskogs dödbok F I/2 (1896) och husförhör Ö. Takene A I/23 (1846–50, b.135–190) – där finns Olof Olsson f. ca 1804?",
    "D4: Missionsvännen 1923-03-27 s.4 bekräftar att Olof Olsson i Takene var värd för Värmlands Ansgariiförening (bildad Takene 5 mars 1865; Svenska Amerikanaren/Covenant Weekly 1930-01-14 nämner ”Takene, Brunskog, den 5 mars 1865 bildades Värmlands Ansgariiförening, och Nyvall var bland initiativtagarna”). Inget i amerikanska tidningar kopplar honom till trädets Olof Olsson 1804 – fortfarande öppet.",
-   "D4: KB-sökning (tidningar.kb.se/search?q=…) efter ”Takene Olsson” 28/11–31/12 1896 och ”Olof Olsson i Takene” 1895–97 gav 0 träffar i denna session (OCR-varianter) – ingen ny källa utöver Svenska Morgonbladet 1896-12-07."
+   "D4: KB-sökning (tidningar.kb.se/search?q=…) efter ”Takene Olsson” 28/11–31/12 1896 och ”Olof Olsson i Takene” 1895–97 gav 0 träffar i denna session (OCR-varianter) – ingen ny källa utöver Svenska Morgonbladet 1896-12-07.",
+   "D4/AO4: FOLKRÄKNING 1880 Ö. Takene s.27 rad 13: ”Olsson, Olof f. 1804 i Brunskog, fadern, gift; hustru Nilsdotter, Brita f. 1802 i Brunskog”; grannfamilj nr 1 Nils Olsson f. 1840 (hemmansägare). Sannolik identitet med Olof Olsson i Takene (92 år vid d. 27/11 1896).",
+   "AO4: Olof f. 1804 är INTE far till Anders f. 1831 (se anders_olsson31); Anders far är Olof f. 6/2 1793. Kandidat för Olofs dop: Brunskog C I/3 b.80 (1804) nr 47 ”Ö. Takene Olof – Olof Andersson/Marit Olsd.” (ej verifierat; flera Olof-dop 1804)."
   ],
   "sources": [
    {
@@ -18736,6 +18739,10 @@
    {
     "label": "Missionsvännen 1916-11-21, s.7: predikant Petrus Johansson övertog svärfaderns gård Takene",
     "url": "https://swedishamericannews.mnhs.org/?a=d&d=mvnn19161121-01.1.7"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene s.27 rad 13: Olsson, Olof f. 1804 Brunskog, hustru Brita Nilsdotter 1802",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423136&tab=post"
    }
   ],
   "search": [
@@ -19493,12 +19500,17 @@
   "summary": "Predikant i Missionsförbundet; 70-årsnotis 1916: efter tjänst i Stora Tuna flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Svärfadern ej namngiven – möjligen Olof Olsson i Takene (d. 1896)? Ej belagt.",
   "notes": [
    "MISSIONSVÄNNEN 1916-11-21 s.7 (OCR): ”Den 4 oktober fyllde predikant Petrus Johansson i Strömtorp 70 år. Han var år 1846 född i Väse … År 1874 antog han kallelse till Värmlandsnäs … Efter fem och ett halft års verksamhet därstädes flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Emellanåt och särskildt under vintern verkade han som predikant i Brunnskog, på Hammarön, Gr…”",
-   "KONTROLL: Svärfadern kan vara Olof Olsson i Takene (d. 27/11 1896, 92 år) men hans dotter var enligt Svenska Morgonbladet gift med predikanten D. Hagström i Arvika – så en andra dotter/annan svärfader måste klarläggas (husförhör Takene 1885–1895, Brunskog A I/30–A I/36)."
+   "KONTROLL: Svärfadern kan vara Olof Olsson i Takene (d. 27/11 1896, 92 år) men hans dotter var enligt Svenska Morgonbladet gift med predikanten D. Hagström i Arvika – så en andra dotter/annan svärfader måste klarläggas (husförhör Takene 1885–1895, Brunskog A I/30–A I/36).",
+   "AO4: FOLKRÄKNING 1890 Takene s.21 r.45 och 1900 Ö. Takene s.30 r.41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Brita Olsson/Olsdotter f. 1852 Brunskog (se ao4_brita_olsd52). Hennes far kan vara Olof Olsson i Takene (d. 1896) – ej belagt; hustrun 1852 stämmer ej med Olofs hustru Brita Nilsdotter f. 1802."
   ],
   "sources": [
    {
     "label": "Missionsvännen 1916-11-21, s.7: predikant Petrus Johansson övertog svärfaderns gård Takene",
     "url": "https://swedishamericannews.mnhs.org/?a=d&d=mvnn19161121-01.1.7"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene s.21 rad 45: Johansson, Petrus f. 1846 Väse; hustru Olsson, Brita f. 1852 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
    }
   ],
   "search": [
@@ -27195,7 +27207,9 @@
   "summary": "Hemmansägare på Ö. Takene; gift med Stina Elofsdotter (f. 1835); död 1890–1900 (Stina änka 1900).",
   "notes": [
    "FOLKRÄKNING 1880 Ö. Takene sida 29 rad 10–16, fam. nr 1: Olsson, Anders f. 1831 i Brunskog, Hemmansägare; hustru Elofsdotter, Stina f. 1835 (Familjeställning ”h.”); barn Olof 1861, Emil 1863, Maria 1868, Johannes 1873, Anna Lisa 1876.",
-   "FOLKRÄKNING 1890 Takene sida 23 rad 31–35: Olsson, Anders f. 1831, hem.eg.; hustru Stina; barn Maria, Johannes, Anna Lisa. Före 1900 död (1900: Stina änka)."
+   "FOLKRÄKNING 1890 Takene sida 23 rad 31–35: Olsson, Anders f. 1831, hem.eg.; hustru Stina; barn Maria, Johannes, Anna Lisa. Före 1900 död (1900: Stina änka).",
+   "DOP 8/3 1831 (C I/3 b.185): ”Anders, Ö. Takene – Olof Olsson, Kjerstin Olsdr”. HUSFÖRHÖR A I/17 b.144 (s.126, Ö. Takene): ”Son Anders 8/3 31 loco” i hushållet inhyses Olof Nilsson [sic] f. 6/2 1793 + Marit Olsdr f. 10/1 1802. Fadern är alltså Olof f. 1793 – inte Olof f. 1804 (d. 1896). Obs: ytterligare en Anders Olsson f. 1831 Brunskog (arrendator Gullsby 1880, hyresgäst/fjärdingsman Wikene 1890/1900, hustru Lovisa Jonasdotter f. 1839 Grava) – identiteten mellan dessa Anders och Takene-Anders (Stinas make) har inte prövats mot husförhör efter 1835.",
+   "Äldre Anders Olofsson/Olsson f. 10/12 1829 (dop 9/12 1829 C I/3 b.180: Olof Olsson/Ingierd Nilsdr) är son till ”Bonde äldre” Olof Olsson 4/6 1799 + Ingierd Nilsdr 24/11 1793 (A I/17 b.142, s.124) – en annan Anders."
   ],
   "sources": [
    {
@@ -27205,11 +27219,20 @@
    {
     "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene sida 23: Olsson, Anders f. 1831, hem.eg.; hustru Stina",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598152&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782-1844), bild 185 (1831, s.328): 8 mars 1831 ”Anders, Ö. Takene – Olof Olsson, Kjerstin Olsdr – Fadren Olof Olsson, Enkan Ingjerd Olsdr S:bn(?)”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00185"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
    }
   ],
   "born": {
-   "date": "1831",
-   "place": "Brunskog"
+   "date": "1831-03-08",
+   "place": "Ö. Takene, Brunskog",
+   "note": "dop 8/3 1831 C I/3 b.185 och husförhör A I/17 b.144 (8/3 31)"
   },
   "places": [
    "Ö. Takene, Brunskog"
@@ -27991,6 +28014,232 @@
   ],
   "search": [
    "Maja Cajsa Johannesdotter (f. 1855, Boda; piga Stockholm 1880)"
+  ]
+ },
+ {
+  "id": "ao4_olof_olsson93",
+  "name": "Olof Olsson (f. 6/2 1793), inhyses Ö. Takene",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1793-02-06",
+   "place": "Brunskog",
+   "note": "husförhör A I/17 b.144: ”6/2 93 loco”"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Inhyses på Ö. Takene 1831–35; far till Anders (f. 8/3 1831) enligt dop och husförhör. Skrivs ”Olof Nilsson” i A I/17 men barnen ”Olsson”. Ej Olof f. 1804.",
+  "notes": [
+   "HUSFÖRHÖR A I/17 b.144 (s.126): ”inhy. Olof Nilsson 6/2 93 loco; hust. Marit Olsdr 10/1 02 loco; Son Nils Olsson 1823 (överstruken, död 18/8 32); Son Olof 25; Son Per 1830? (död 2/7 32); Son Anders 8/3 31 loco; Dotter Lisa 7/2 34 loco”. Mors namn Marit i husförhöret men Kjerstin i dopet 8/3 1831."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782-1844), bild 185 (1831, s.328): 8 mars 1831 ”Anders, Ö. Takene – Olof Olsson, Kjerstin Olsdr – Fadren Olof Olsson, Enkan Ingjerd Olsdr S:bn(?)”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00185"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   }
+  ],
+  "search": [
+   "Olof Olsson (f. 6/2 1793), inhyses Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_marit_olsd02",
+  "name": "Marit Olsdotter (f. 10/1 1802), Ö. Takene",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1802-01-10",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hustru till inhyses Olof (f. 1793) 1831–35; enligt husförhöret mor till Anders (f. 1831). Dopet 1831 anger modern som Kjerstin Olsd. – konflikt.",
+  "notes": [
+   "Se Olof f. 1793."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   }
+  ],
+  "search": [
+   "Marit Olsdotter (f. 10/1 1802), Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_olof_olsson25",
+  "name": "Olof Olsson (f. 1825), Ö. Takene",
+  "status": "candidate",
+  "sex": "m",
+  "living": null,
+  "born": {
+   "date": "1825",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene"
+  ],
+  "summary": "Son i Olof f. 1793:s hushåll (A I/17 b.144). Äldre bror till Anders f. 1831.",
+  "notes": [
+   "A I/17 b.144: ”Son Olof 25 loco”. Senare öde ej utrett."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   }
+  ],
+  "search": [
+   "Olof Olsson (f. 1825), Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_lisa_olsd34",
+  "name": "Lisa Olsdotter (f. 7/2 1834), Ö. Takene",
+  "status": "candidate",
+  "sex": "f",
+  "living": null,
+  "born": {
+   "date": "1834-02-07",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene"
+  ],
+  "summary": "Dotter i Olof f. 1793:s hushåll (A I/17 b.144), yngre syster till Anders.",
+  "notes": [
+   "A I/17 b.144: ”Dotter Lisa 7/2 34 loco”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   }
+  ],
+  "search": [
+   "Lisa Olsdotter (f. 7/2 1834), Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_brita_nilsd02",
+  "name": "Brita Nilsdotter (f. 1802), Ö. Takene",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1802",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene"
+  ],
+  "summary": "Hustru till Olof Olsson f. 1804 i folkräkning 1880 (Ö. Takene s.27 rad 13, fam. nr 2).",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene s.27: ”Olsson, Olof f. 1804 Brunskog (fadern); Nilsdotter, Brita f. 1802 Brunskog”. Grannfamilj nr 1: Olsson, Nils f. 1840 Brunskog, hemmansägare, hustru Katrina Persdotter 1849 (Västra Ämtervik), barn Olof Simon 1873, Maria Elisabeth 1875, Hanna 1877, Nils Efraim 1880."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene s.27 rad 13: Olsson, Olof f. 1804 Brunskog, fadern, gift; hustru Brita Nilsdotter f. 1802",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423136&tab=post"
+   }
+  ],
+  "search": [
+   "Brita Nilsdotter (f. 1802), Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_nils_olsson40",
+  "name": "Nils Olsson (f. 1840), hemmansägare Ö. Takene",
+  "status": "candidate",
+  "sex": "m",
+  "living": null,
+  "born": {
+   "date": "1840",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene"
+  ],
+  "summary": "Hemmansägare Ö. Takene 1880, i samma hus som Olof Olsson f. 1804 (möjligen son). Ej verifierat.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene s.27 fam. nr 1 (se Brita Nilsdotter f. 1802). Släktskap med Olof f. 1804 inte uttryckligen angivet i hushållslistan (fam.nr 1 och 2 skilda)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene s.27",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423136&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Olsson (f. 1840), hemmansägare Ö. Takene"
+  ]
+ },
+ {
+  "id": "ao4_brita_olsd52",
+  "name": "Brita Olsdotter (f. 1852 Brunskog), g. Petrus Johansson",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1852",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ny",
+   "Stora Tuna",
+   "Takene, Brunskog"
+  ],
+  "summary": "Gift med predikanten Petrus Johansson (f. 1846 Väse); bosatta Takene från ca 1890. Möjlig dotter till Olof Olsson i Takene (d. 1896) – ej belagt.",
+  "notes": [
+   "FOLKRÄKNING 1890 Takene s.21 rad 45 och 1900 Ö. Takene s.30 rad 41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Olsson/Olsdotter, Brita f. 1852 Brunskog; barn 1890: Ester 1876, Josef Emanuel 1879 (båda Ny), Rebecka Naemi 1881, Hezekiel Natanael 1883 (Ljusnarsberg), Hanna Maria 1885, Sara Elisabeth 1887, Elsa Debora 1889 (Stora Tuna); 1900 även Bror Gustaf Benjamin 1892, Rut 1894, Elias Ernfrid 1897 (Brunskog). Olof f. 1804:s hustru Brita Nilsdotter f. 1802 kan knappast ha fött Brita 1852 (50 år) – ev. annan hustru/annan Olof."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene s.21 rad 45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 rad 41: Johansson, Petrus f. 1846 Väse; hustru Olsdotter, Britta f. 1852 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   }
+  ],
+  "search": [
+   "Brita Olsdotter (f. 1852 Brunskog), g. Petrus Johansson"
+  ]
+ },
+ {
+  "id": "ao4_olof_andersson_takene",
+  "name": "Olof Andersson (Ö. Takene, far till Olof f. 1804?)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Ö. Takene"
+  ],
+  "summary": "Namnges som far i dopet av ”Olof, Ö. Takene” 1804 (C I/3 b.80 nr 47, mor Marit Olsd.). Koppling till Olof Olsson d. 1896 är endast en kandidat.",
+  "notes": [
+   "DOP 1804 C I/3 bild 80 (s.131) nr 47: ”Ö. Takene Olof – Olof Andersson / Marit Olsd. 76” (dop utan synligt datum, efter nr 44 från 26/30 nov, dvs. troligen dec 1804). Patronymikon Olsson passar. Mer än ett Olof-dop 1804 (bild 79: bl.a. rad 26 Krona? ”Olof”, rad 25 Kalviken ”Olof”) – ej uteslutet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 80 (1804, nr 47): ”Ö. Takene Olof – Olof Andersson, Marit Olsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00080"
+   }
+  ],
+  "search": [
+   "Olof Andersson (Ö. Takene, far till Olof f. 1804?)"
   ]
  }
 ]

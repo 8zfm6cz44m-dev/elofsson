@@ -2885,6 +2885,22 @@
    "persons": [
     "johan"
    ]
+  },
+  {
+   "title": "Två Anders Olsson f. 1831 Brunskog",
+   "text": "Förutom Takene-Anders finns Anders Olsson f. 1831 Brunskog, arrendator Gullsby 1880 (hustru Lovisa Jonasdotter f. 1839 Grava), hyresgäst Wikene 1890, fjärdingsman Wikene 1900. Dop ”Anders Gullsby” 22/9 1831 (C I/3 b.187?) kan vara honom. Kontrollera att Stina Elofsdotters make = Takene-Anders (8/3 1831) via husförhör A I/23–A I/29 (1846–70).",
+   "persons": [
+    "anders_olsson31"
+   ]
+  },
+  {
+   "title": "Olof Olsson i Takene (d. 1896): dotter Brita f. 1852?",
+   "text": "Petrus Johansson (f. 1846 Väse) × Brita Olsdotter f. 1852 Brunskog, Takene 1890/1900. Olof f. 1804:s hustru Brita Nilsdotter f. 1802 kan ej vara hennes mor (50 år 1852). Olofs barn (inkl. dotter g. predikant D. Hagström, Arvika) ej utredda; husförhör Ö. Takene 1840–70 återstår (A I/23 b.135–190, A I/25–29).",
+   "persons": [
+    "olof_olsson_takene_1896",
+    "petrus_johansson_strmtorp",
+    "ao4_brita_olsd52"
+   ]
   }
  ],
  "conflicts": [
@@ -3362,6 +3378,13 @@
    "persons": [
     "ellen"
    ]
+  },
+  {
+   "title": "Anders f. 8/3 1831: mors namn Kjerstin (dop) vs Marit (husförhör); fars namn Olsson vs Nilsson",
+   "text": "Dop C I/3 b.185: Olof Olsson / Kjerstin Olsdr. Husförhör A I/17 b.144: Olof Nilsson f. 6/2 1793 / Marit Olsdr f. 10/1 1802; barnen kallas Olsson (Nils Olsson). Samma dag/år/by. Troligen skrivfel/omgifte; ej avgjort.",
+   "persons": [
+    "anders_olsson31"
+   ]
   }
  ],
  "excluded": [
@@ -3665,6 +3688,14 @@
    "text": "Hon står både i Lerboda (Boda) som ”Barn, Gift/Änka” och i Gullsby (Brunskog) som hustru till Nils Jansson f. 1842. Det är en och samma person (frånvarande bortgift syskon i föräldrahemmet).",
    "persons": [
     "kn_kajsa1843"
+   ]
+  },
+  {
+   "title": "Anders Olsson f. 1831 (Stinas make) är INTE son till Olof Olsson i Takene (f. 1804, d. 1896)",
+   "text": "Dop 8/3 1831 (C I/3 b.185) och husförhör A I/17 b.144: Anders är son till inhyses Olof f. 6/2 1793 och Marit (dop: Kjerstin) Olsd. Olof f. 1804 (1880 Ö. Takene s.27, hustru Brita Nilsdotter 1802) var 27 år 1831 med annan hustru. Ingen känd släkt mellan Stinas make och Olof d. 1896 (Takene är bara samma by).",
+   "persons": [
+    "anders_olsson31",
+    "olof_olsson_takene_1896"
    ]
   }
  ]

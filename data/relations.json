@@ -7321,5 +7321,88 @@
   "child": "jo_johan_j61",
   "status": "verified",
   "basis": "Folkräkning 1880 Boda, Nordsjö (s. 32): Johannesson, Johan f. 1861, ”stjs.” hos Anders Jansson/Anna Andersdotter; samma mor och syskon som Olof August."
+ },
+ {
+  "id": "c-ao4_olof_olsson93-ao4_marit_olsd02-anders_olsson31",
+  "type": "child",
+  "parents": [
+   "ao4_olof_olsson93",
+   "ao4_marit_olsd02"
+  ],
+  "child": "anders_olsson31",
+  "status": "strong",
+  "basis": "Husförhör Brunskog A I/17 b.144 (s.126, Ö. Takene): ”Son Anders 8/3 31 loco” under inhyses Olof [Nilsson sic] 6/2 93 + hust. Marit Olsdr 10/1 02; dop 8/3 1831 C I/3 b.185: ”Anders, Ö. Takene – Olof Olsson, Kjerstin Olsdr”. Samma födelsedag; moderns namn avviker (Marit/Kjerstin) och fadern skrivs Nilsson i husförhöret → strong, ej verified; identitet med Stinas make Anders ej prövad mot senare husförhör."
+ },
+ {
+  "id": "p-ao4_olof_olsson93-ao4_marit_olsd02",
+  "type": "partner",
+  "a": "ao4_olof_olsson93",
+  "b": "ao4_marit_olsd02",
+  "status": "strong",
+  "basis": "A I/17 b.144: ”inhy. Olof … 6/2 93; hust. Marit Olsdr 10/1 02” (hushåll)."
+ },
+ {
+  "id": "c-ao4_olof_olsson93-ao4_marit_olsd02-ao4_olof_olsson25",
+  "type": "child",
+  "parents": [
+   "ao4_olof_olsson93",
+   "ao4_marit_olsd02"
+  ],
+  "child": "ao4_olof_olsson25",
+  "status": "strong",
+  "basis": "A I/17 b.144: ”Son Olof 25 loco” i hushållet."
+ },
+ {
+  "id": "c-ao4_olof_olsson93-ao4_marit_olsd02-ao4_lisa_olsd34",
+  "type": "child",
+  "parents": [
+   "ao4_olof_olsson93",
+   "ao4_marit_olsd02"
+  ],
+  "child": "ao4_lisa_olsd34",
+  "status": "strong",
+  "basis": "A I/17 b.144: ”Dotter Lisa 7/2 34 loco” i hushållet."
+ },
+ {
+  "id": "s-ao4_olof_olsson25-anders_olsson31",
+  "type": "sibling",
+  "a": "ao4_olof_olsson25",
+  "b": "anders_olsson31",
+  "status": "strong",
+  "basis": "Samma hushåll A I/17 b.144 (s.126)."
+ },
+ {
+  "id": "s-ao4_lisa_olsd34-anders_olsson31",
+  "type": "sibling",
+  "a": "ao4_lisa_olsd34",
+  "b": "anders_olsson31",
+  "status": "strong",
+  "basis": "Samma hushåll A I/17 b.144 (s.126)."
+ },
+ {
+  "id": "p-olof_olsson_takene_1896-ao4_brita_nilsd02",
+  "type": "partner",
+  "a": "olof_olsson_takene_1896",
+  "b": "ao4_brita_nilsd02",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Ö. Takene s.27: Olof f. 1804 + Brita Nilsdotter f. 1802, fam. nr 2 (gift). Identitet Olof f. 1804 = Olof d. 1896 sannolik men ej bevisad."
+ },
+ {
+  "id": "c-ao4_olof_andersson_takene-olof_olsson_takene_1896",
+  "type": "child",
+  "parents": [
+   "ao4_olof_andersson_takene"
+  ],
+  "child": "olof_olsson_takene_1896",
+  "status": "lead",
+  "basis": "Dop 1804 C I/3 b.80 nr 47: ”Ö. Takene Olof – Olof Andersson / Marit Olsd.” – endast kandidatdop."
+ },
+ {
+  "id": "p-petrus_johansson_strmtorp-ao4_brita_olsd52",
+  "type": "partner",
+  "a": "petrus_johansson_strmtorp",
+  "b": "ao4_brita_olsd52",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Takene s.21 r.45 / 1900 Ö. Takene s.30 r.41: Petrus Johansson + hustru Brita Olsson/Olsdotter f. 1852 Brunskog (hushåll, gift)."
  }
 ]
