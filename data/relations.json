@@ -4047,8 +4047,8 @@
   "type": "partner",
   "a": "olof_andersson_takene_1826",
   "b": "maria_nilsdotter_takene_1826",
-  "status": "strong",
-  "basis": "Dop Brunskog 1826 bild 170: föräldrar Olof Anderss., Maria Nilsd."
+  "status": "verified",
+  "basis": "A I/17 bild 115: ”Bond. U. Olof Anderson … dess hustru Maria Nilsdr”"
  },
  {
   "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-maria_katrina_andersdotter",
@@ -4079,5 +4079,156 @@
   "child": "nils_jansson_svartana",
   "status": "candidate",
   "basis": "Dop Boda 8/9 1824 nr 37: ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”; matchar A I/35 bild 254 (Nils Jansson 24 ?/9 Boda) men ej A I/25 (år 23) och oklart vilken av två Nils Jansson."
+ },
+ {
+  "id": "p-christopher_persson_asen-karin_olsd12_asen",
+  "type": "partner",
+  "a": "christopher_persson_asen",
+  "b": "karin_olsd12_asen",
+  "status": "strong",
+  "basis": "F I/1 bild 29 (1788 nr 41): ”Gift d. 26 Dec 1736 med Enkl. Christopher Pålsson fr. Toltan” – Karin från Åsen; Christopher då enkling (första hustru Ingrid Mattsdotter, vigd 1729)."
+ },
+ {
+  "id": "c-olof_olsson_s-ingierd_nilsd61-kari_olofsd84_takene",
+  "type": "child",
+  "parents": [
+   "olof_olsson_s",
+   "ingierd_nilsd61"
+  ],
+  "child": "kari_olofsd84_takene",
+  "status": "strong",
+  "basis": "F I/1 bild 15 (1785 nr 25): ”fad. [Hr.] Olof Olofsson, mod. Ingierd Nilsdotter”, Ö. Takene (fadern kallas Olofsson i dödboken)."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-marit_olsd88_skog",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "marit_olsd88_skog",
+  "status": "verified",
+  "basis": "F I/1 bild 47 (1794 nr 16): ”af D.M. Olof Nilsson och H. Brita Nilsd.”, född i Skog; samma föräldrar som Marit (1798)/Per (1785)/Nils (1795)."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-nils_olofsson91_skog",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "nils_olofsson91_skog",
+  "status": "verified",
+  "basis": "F I/1 bild 47 (1794 nr 19): ”af D.M. Olof Nilsson och H. Brita Nilsd.”, född i Skog; samma föräldrar som Marit (1798)/Per (1785)/Nils (1795)."
+ },
+ {
+  "id": "c-olof_nilsson54-britta_nilsd58-olof_olofsson93_skog",
+  "type": "child",
+  "parents": [
+   "olof_nilsson54",
+   "britta_nilsd58"
+  ],
+  "child": "olof_olofsson93_skog",
+  "status": "verified",
+  "basis": "F I/1 bild 47 (1794 nr 20): ”af D.M. Olof Nilsson och H. Brita Nilsd.”, född i Skog; samma föräldrar som Marit (1798)/Per (1785)/Nils (1795)."
+ },
+ {
+  "id": "p-jan_elofsson18-borit_andersd18_tobyn",
+  "type": "partner",
+  "a": "jan_elofsson18",
+  "b": "borit_andersd18_tobyn",
+  "status": "verified",
+  "basis": "F I/1 bild 53 (1795 nr 27): ”Gift 1749 3/12 med D.M. Jan Elofsson från Toltan, som afled 1786 21/1” och bild 16 (1786 nr 2) för maken."
+ },
+ {
+  "id": "p-nils_nilsson35_fraston-marit_christophersd_asen",
+  "type": "partner",
+  "a": "nils_nilsson35_fraston",
+  "b": "marit_christophersd_asen",
+  "status": "verified",
+  "basis": "F I/1 bild 66 (1799 nr 1): ”Gift 1758 28/12 med H. Marit Christophersd. från Åsen”."
+ },
+ {
+  "id": "c-christopher_persson_asen--marit_christophersd_asen",
+  "type": "child",
+  "parents": [
+   "christopher_persson_asen"
+  ],
+  "child": "marit_christophersd_asen",
+  "status": "candidate",
+  "basis": "Endast patronymikon Christophersdotter och Åsen – ingen primärkälla som namnger fadern; kontrollera dop 1730–45 (C I/2)."
+ },
+ {
+  "id": "p-erik_nilsson12_kyrkebyn-marit_en24",
+  "type": "partner",
+  "a": "erik_nilsson12_kyrkebyn",
+  "b": "marit_en24",
+  "status": "strong",
+  "basis": "F I/1 bild 32 (1790 nr 11): ”2:o 1758 [?]/11 med Pigan Marit Elofsd. från Toltan”; F I/2 bild 65 (1816 nr 37): ”Enkan Marit Elofsdotter i Kyrkebyn”. Identitet med dottern f. 1724 följer av åldern 92 år."
+ },
+ {
+  "id": "c-olof_andersson60_lerhol--nils_olsson90_lerhol",
+  "type": "child",
+  "parents": [
+   "olof_andersson60_lerhol"
+  ],
+  "child": "nils_olsson90_lerhol",
+  "status": "strong",
+  "basis": "F I/2 bild 53 (1815 nr 2): ”af Olof Andersson och Hustru Britta Nilsdotter i Lerhol”. Olof Andersson f. 1760 är enkeman på Lerhol 1820 med barn f. 1787 och 1793; modern Britta Nilsdotter ej namngiven i husförhör – därför strong, ej verified."
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-anders_olofsson_takene_1821",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "anders_olofsson_takene_1821",
+  "status": "strong",
+  "basis": "A I/17 bild 115: ”deras Son Anders 9/4 21”"
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-maria_olofsdotter_takene_1823",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "maria_olofsdotter_takene_1823",
+  "status": "strong",
+  "basis": "A I/17 bild 115: ”Dtr Maria 10/4 23”"
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-nils_olofsson_takene_1829",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "nils_olofsson_takene_1829",
+  "status": "candidate",
+  "basis": "A I/17 bild 115: ”Son Nils 14/3 29” (överstruket)"
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-olof_olofsson_takene_1831",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "olof_olofsson_takene_1831",
+  "status": "candidate",
+  "basis": "A I/17 bild 115: ”Son Olof …/1831” (överstruket)"
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-nils_olofsson_takene_1835",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "nils_olofsson_takene_1835",
+  "status": "candidate",
+  "basis": "A I/17 bild 115: ”Son Nils …/5 1835” (överstruket)"
  }
 ]

@@ -804,6 +804,81 @@
    "title": "Geneteka-API fortfarande trasigt (2026-10-06)",
    "text": "GET https://geneteka.genealodzy.pl/api/getAct.php med bdm=B, w=13sk, search_lastname=Orzechowski, from_date=1901, to_date=1901, lang=pol, start=0, length=10, draw=1 gav slumpmässiga träffar: efternamn Wojciechowski, Kowalewski, Kwiatek, Maławski, Zakrzewski m.fl., orter Przasnysz, Warszawa, Poznań, Kraków m.fl., år 1805-1920. Inga Orzechowski, inget filter på år/woj. recordsTotal varierade mellan anrop (32078 resp. 38927). Parametrarna ignoreras; sökning avbruten, inga fynd kan verifieras via API:t.",
    "persons": []
+  },
+  {
+   "title": "Kari Elofsdotter: hemort Persjön i Nyeds socken",
+   "text": "Dödboken Brunskog 1800 (F I/1 bild 73 nr 14) anger Karis hemort som 'Persjön i Ny, Eds sochn' = Nyeds socken (SE/VA/13409), inte Ny socken. Ny dopbok C/3 1735 (C0038508 bild 29-32) har ingen Kari Elofsdotter. Nästa steg: Nyeds dop C/3 (C0038559, 1727-1735, hela 1734-35) och husförhör Nyed A I/1a-b (C0038516-17, 1776-82) efter Elof i Persjön. Y1: Nyeds HF 1776–82 saknar byrubrik Persjön (kontrollerad varannan bild); möjligen står 'Persbol' (b.127) i dödboken. Kari kan vara född i lucka 1734 i Nyed C/3 (b.70–78, ej genomläst) eller 1736–37 (dopbok saknas).",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Anders Nilsson f. 1853 – föräldrahushåll ej funnet",
+   "text": "Dopbok C I/3 bild 91 (15/10 1853) bekräftat i förstoring: Nils Olson o. h. Anna Andersd. i N:r Boda. Inga syskon till Anders hittade i dopboken 1854–55 (bild 92–99) med dessa föräldrar. Dödboken F I/1 1853–56 saknar träff. Möjlig förklaring: familjen utflyttade 1853/54 eller dopbokens mamma-patronymikon är felskrivet (lysning 7/5 1852 Nils Olsson fr Jonsbol + Anna Nilsd. i N:r Boda). Obesvarat.",
+   "persons": [
+    "anders_nilsson53_boda",
+    "nils_olsson_nboda",
+    "anna_andersd_nboda"
+   ]
+  },
+  {
+   "title": "Marit Elofsdotter från Toltan gift 1758 med Erik Nilsson (Kyrkebyn) – vilken Marit?",
+   "text": "F I/1 bild 32 (maj 1790): Erik Nilsson fr. Kyrkebyn, f. 1712, d. 1790, gift 1:o 1736 med Marit Bengtsd. (d. 1756), 2:o nov 1758 med Pigan Marit Elofsd. från Toltan. Kandidater: Marit Elofsdotter f. 1724 (dotter till Marit Isaksdotter) eller Marit f. 1738 (dotter till Kari Nilsdotter). Vigsel 1758 (E I/1) bör läsas för att avgöra; hennes död (som ’Enkan Marit Elofsd. från Kyrkebyn’) efter 1790 ska sökas.",
+   "persons": [
+    "marit_en24",
+    "marit_en38"
+   ]
+  },
+  {
+   "title": "Tre barn till Olof Nilsson och Britta Nilsdotter (Skog) dog i epidemi apr–maj 1794",
+   "text": "F I/1 bild 47 (s. 71) nr 16, 19, 20: Marit f. 1788, Nils f. 1791 och Olof f. 1793 (alla f. Skog) dog 1794 i ”Rozzor”. Päron: Olof Nilsson och Brita Nilsd. Observera att namnen Nils och Olof återanvänds senare (Nils 1795). Födelsedagar bör kontrolleras mot C I/3 (1782–1844).",
+   "persons": [
+    "olof_nilsson54",
+    "britta_nilsd58"
+   ]
+  },
+  {
+   "title": "Britta Nilsdotter (f. 4/3 1748 Toltan): död 10/3 1805 – inte 22/2",
+   "text": "Tidigare registrerad dödsdag 22/2 1805 är insjuknandet; hon dog 10 mars 1805 (57 år 6 dagar, bekräftat av födelsedagen 4/3 1748). Fadern är skriven ’Nils Persson’ i dödboken men ’Per Nilsson’ i dopet 1748 – troligen kasuell inversion; Per Nilsson i Toltan bör ändå markeras som far (strong/verified efter dop).",
+   "persons": [
+    "britta_nilsd_toltan48",
+    "per_nilsson_toltan"
+   ]
+  },
+  {
+   "title": "Ingrid Elofsdotter (Åsen) – mor till Per Nilsson (f. Åsen 1728)?",
+   "text": "Dödbok F I/1 bild 82 (1802): Per Nilsson i Skog f. Åsen 1728 ’af Nils Jonsson och Ingrid Elofsd.’. Kan vara samma Ingrid Elofsdotter i Åsen som är gudmor i Toltan 1724/1735/1748. Dop 1728 (C I/1) bör läsas.",
+   "persons": [
+    "per_nilsson28_skog",
+    "ingrid_elofsd_toltan"
+   ]
+  },
+  {
+   "title": "Mantalslängder 1708, 1716 och 1717 saknas i serien",
+   "text": "Volymföljden A0003189 (1707) → A0003190 (1709) och A0003196 (1715) → A0003197 (1718) visar att 1708, 1716 och 1717 inte finns digitaliserade. Elofs ogifta drängår och vigselåret 1717 kan därför inte kontrolleras mot mantal; dräng nämns normalt inte i mantalslängd ändå.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Jan Nilsson i Boda hade två söner Nils (aug 1823 och sept 1824)",
+   "text": "Boda C I/3 bild 19 (1823): ”Nils, Boda – Jan Nilson, Maria Nilsd.” (21/8) och bild 21 (1824): ”Nils, Olserud – Jan Nilsson, Stina Jonsd.” (7/9). Olika mödrar; kan vara olika Jan Nilsson. Månad 9 i husförhören talar för 1824-kandidaten (Olserud), ej verified eftersom dagen i A I/25 läses ’1’ (jfr dopbokens 7).",
+   "persons": [
+    "nils_jansson_svartana",
+    "jan_nilsson_olserud_1824"
+   ]
+  },
+  {
+   "title": "Britta Olsdotters födelsedag: 1/9 (A I/17) mot 9/9 (dop 11/9?)",
+   "text": "A I/17 bild 115 anger ”Dtr Britta 1/9 26”; tidigare läsning av dopboken C I/3 bild 170 är ”9 / 11 Brita, Takene”. Kontrollera dopboken igen.",
+   "persons": [
+    "britta_olsdotter_svartana"
+   ]
+  },
+  {
+   "title": "Geneteka-sökning ger fortfarande slumpmässiga träffar",
+   "text": "2026-10-06: Både API (getAct.php, bdm=B, w=13sk, Orzechowski, 1901) och webbgränssnittet (index.php?op=gt, formuläret ifyllt, 1895-1915, Urodzenia) returnerar träffar som inte matchar efternamnet (t.ex. Maciejak, Kowalewski, Tomczak; 38 690 träffar, 774 sidor, ingen Orzechowski) och ignorerar filtren för woj./efternamn. Inga Orzechowski/Młodawski/Kogut-träffar kunde verifieras. Inga fynd registrerade.",
+   "persons": []
   }
  ],
  "conflicts": [
@@ -1102,6 +1177,14 @@
     "nils_jansson_svartana",
     "britta_olsdotter_svartana"
    ]
+  },
+  {
+   "title": "Olof Nilsson 1712 – Ö. Takene eller Åsen?",
+   "text": "Tidigare mantalstabell (elof_nilsson/olof_nilsson_asen_mantal) placerade Olof Nilsson, Håkan Nilsson och Per Ersson i Åsen-blocket 1712. Omläsning av A0003193_00445 visar att by-rubriken står på gruppens första rad: de tre namnen står sist i Ö. Takene-gruppen och Åsen börjar först vid ”Ingebrecht”. Konsekvens: ’Olof Nilsson’ 1712 är Ö. Takene-bonde, inte Åsen; hypotesen ’Elof Nilsson = Olof Nilsson i Åsen’ försvagas. Kontrollera 1718/1719 med samma regel.",
+   "persons": [
+    "elof_nilsson",
+    "olof_nilsson_asen_mantal"
+   ]
   }
  ],
  "excluded": [
@@ -1237,6 +1320,14 @@
    "text": "A I/2 bild 159 anger ”Annus Nativitatis 1687” (ålder 77–81 år 1764–68). Dopet saknas eftersom dopboken började 1688.",
    "persons": [
     "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Marit Elofsdotter (f. 1724) gift 1758 med Erik Nilsson i Kyrkebyn, död 4/7 1816",
+   "text": "F I/2 bild 65 (1816 nr 37) ’Enkan Marit Elofsdotter i Kyrkebyn 92 år, dog 4 Julii’ + F I/1 bild 32 (1790) ’gift 2:o 1758 med Pigan Marit Elofsd. från Toltan’. Åldern gör att hon är dottern f. 1724 (ej 1738). Vigsel E I/1 1758 bör läsas för att bekräfta (strong, ej verified).",
+   "persons": [
+    "marit_en24",
+    "marit_en38"
    ]
   }
  ]
