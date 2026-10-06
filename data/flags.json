@@ -645,6 +645,30 @@
    "persons": [
     "per_elofsson28"
    ]
+  },
+  {
+   "title": "Kari Elofsdotter: Åmot i Nyed?",
+   "text": "Vigseln 1767 (E I/2 bild 17) säger ”ifrån Åmot”; dödboken 1800 (F I/1 bild 73) ”… i Ny[Eds?] sochn”. Nyeds dopbok C/3 (C0038559) 1735 läst delvis (bild 80–86, 89–90) utan träff; bild 79, 87–88 och 1733–34 återstår, liksom Nyed C/4 (1738–) för syskon.",
+   "persons": [
+    "karin_elofsd35",
+    "per_elofsson28"
+   ]
+  },
+  {
+   "title": "Elof Nilsson: ortnamnet vid vigseln 1717",
+   "text": "E I/1 bild 34 läses ”D. Elof Nilsson i H/Weg[?] med Ehr: Marit Isaksdotter i Tolta”. Ortnamnet är olöst (inte Skog). Mantalslängderna 1711, 1713 och 1714 är oläsa.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Ellens släkt: nästa steg",
+   "text": "Karls död 1953 och Anders Nilssons föräldrar Nils Olsson + Anna Andersdotter (Boda A I/19 bild 44+, A I/20, A I/24); Nils Jansson + Britta Olsdotter (Svartåna, Brunskog A I/25 bild 131–175 osökt); Maria Katrinas dop (Segerstad 1851) och vigsel 1880; Anders Nilssons liv efter 1892 (A I/38).",
+   "persons": [
+    "karl",
+    "anders_nilsson53_boda",
+    "august_nilsson_gullsbyn"
+   ]
   }
  ],
  "conflicts": [
@@ -920,6 +944,13 @@
    "persons": [
     "olof_christ"
    ]
+  },
+  {
+   "title": "Hannas födelsedag: 12/12 eller 13/12 1889?",
+   "text": "Husförhör A I/35 bild 254 skriver tydligt 12/12 1889; SCB-födelseutdraget 1915 anger moderns födelse ’89 13/12. Dopböcker efter 1860 är inte digitaliserade.",
+   "persons": [
+    "hanna"
+   ]
   }
  ],
  "excluded": [
@@ -1048,6 +1079,13 @@
    "text": "Husförhör A I/5 bild 201 tolkades tidigare 'Olof 27/8 1772'. Vid inzoomning står '27 / 2'. Dopboken C I/2 bild 142 (1772 nr 13, Toltan, Per Elofsson/Karin Elofsdotter) ligger mellan nr 12 (23 febr) och nr 14 (4 mars) → döpt 27 febr 1772. Inga poster med Per Elofsson i aug 1772 (bild 142–143).",
    "persons": [
     "olof_p72"
+   ]
+  },
+  {
+   "title": "Elof Nilssons födelseår: 1687",
+   "text": "A I/2 bild 159 anger ”Annus Nativitatis 1687” (ålder 77–81 år 1764–68). Dopet saknas eftersom dopboken började 1688.",
+   "persons": [
+    "elof_nilsson"
    ]
   }
  ]

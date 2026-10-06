@@ -473,7 +473,8 @@
    "note": "SCB-utdrag 1915: moderns födelse '89 13/12'; folkräkning 1900/1930 anger 1889 Brunskog."
   },
   "notes": [
-   "SCB 1915 nr 43: 'Moder: hh Hanna Elisabet Augustsson' (f. 89 13/12, g. 10 19/3). 1910 års folkräkning skriver 'Anna Elisabet Augustsson' (skrivfel/uppläsning)."
+   "SCB 1915 nr 43: 'Moder: hh Hanna Elisabet Augustsson' (f. 89 13/12, g. 10 19/3). 1910 års folkräkning skriver 'Anna Elisabet Augustsson' (skrivfel/uppläsning).",
+   "OMGÅNG 8 (agent W3): Hannas mor är Maria Katrina Andersdotter (f. 24/7 1851 Segerstad, d. 17/12 1889), inte Stina Jansdotter (styvmor). Husförhör A I/35 bild 254 anger Hanna född 12/12 1889; SCB 1915 anger 13/12."
   ]
  },
  {
@@ -4684,6 +4685,10 @@
    {
     "label": "Riksarkivet, dopbok C I/2: bild 134 (1768 Marit), bild 142 (1772 Olof), bild 152 (1776 Elof), bild 162 (1780 Brita)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00162"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1800), bild 73 (s. 119, nr 14): ”Bonden Per Elofsson från Toltan ibm född 1728 14/1 af Dr. Elof Nilsson och h. Marit Isaaksd. Gift 1767 19/10 med Pig. Kari Elofsd. fr [ort svårläst] i Ny[Eds] sochn. Afled … d. 14 april … 72¼ år.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
    }
   ],
   "search": [
@@ -4698,8 +4703,8 @@
   ],
   "died": {
    "date": "1800-04-14",
-   "place": "Toltan, Brunskog",
-   "note": "Dödbok F I/1 bild 73 (s. 118), nr 14, marginal ’Apr 27 | 14’: ”… Per Elofsson från Toltan, född 1728 ¹⁴⁄₁ af Wäl. Elof Nilsson och h. Marit Isaksd. Gift 1761 ¹⁹⁄₁₀ med Pig. Kari Elofsd. [fr. … Persson i Ny…] … afled af [gikt?] den 14 april efter en stilla och [fridfull?] vandel af 72¼ år.” Dödsdag 14 apr, begravning 27 apr 1800 (inte 9/4 som i dopbokens marginal – se flagga). Ålder 72¼ stämmer med f. 14/1 1728."
+   "place": "Toltan",
+   "note": "Begravd 27 april 1800, 72¼ år."
   },
   "timeline": [
    [
@@ -4758,6 +4763,10 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2, bild 134 (1768 nr 40): Marit, föräldrar Per Elofsson, Karin Elofsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00134"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1800), bild 73: Per Elofsson gift 1767 19/10 med Kari Elofsd. fr … i Ny[Eds?] sochn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
    }
   ],
   "search": [
@@ -4765,7 +4774,8 @@
   ],
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1782–1789 (bild 201): ”H. Kari Elofsdotter 1735 Åmot”. Hennes far bör alltså vara en Elof på Åmot. Dopet finns inte i födelseboken 1735 nr 1–41 – årtalet kan vara ungefärligt (sök 1733–1737).",
-   "VIGSELBOK E I/2 bild 17, 1767 nr 4: ”Octob. 9(?): 4. Drängen Per Elofsson ifrån Toltan och pigan Kari Elofsdotter ifrån Åmot … (ej fått …, men tjänande i Toltan)” – sista delen svårläst."
+   "VIGSELBOK E I/2 bild 17, 1767 nr 4: ”Octob. 9(?): 4. Drängen Per Elofsson ifrån Toltan och pigan Kari Elofsdotter ifrån Åmot … (ej fått …, men tjänande i Toltan)” – sista delen svårläst.",
+   "OMGÅNG 8 (agent W4): Dödboken 1800 (F I/1 bild 73) anger att Kari kom från [?] i ”Ny…” (troligen Nyeds socken) – vigseln E I/2 bild 17 anger ”ifrån Åmot”, datum 19 oktober 1767. Åmot i Brunskog har ingen Elof med hustru (A I/1 b.159); Nyeds dopbok C/3 (C0038559) bild 80–86, 89–90 läst utan träff."
   ]
  },
  {
@@ -5503,8 +5513,8 @@
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "ca 1687–1689",
-   "note": "Husförhör 1760–63: ”1689”, men 73 år 1760 → ca 1687."
+   "date": "1687",
+   "note": "Husförhör Brunskog A I/2 (C0036741) bild 159 (Toltan s. 147): ”Annus Nativitatis 1687”, ålder 77–81 år 1764–68; A I/1 bild 181 ger 73–76 år 1760–63 = 1687 (”1689” har överskriven sista siffra). Dopboken upprättades 1688 (C I/1 bild 9) – dopet finns inte bevarat."
   },
   "places": [
    "Toltan, Brunskog",
@@ -5571,6 +5581,14 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 9 (titelsida): ”Brunskogs Dooprbook upprättad 1688, då varande Pastor Raquel Fagrell” – boken börjar 1688, inga äldre uppgifter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00009"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–68), bild 159 (Toltan s. 147): Elof Nilsson Annus Nativitatis 1687, ålder 77–81, hustru Karin Nilsd. 1707",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00159"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1, bild 9: ”Brunskogs Dooprbook upprättad 1688” – dopet 1687 finns därför inte bevarat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00009"
    }
   ],
   "search": [
@@ -5594,7 +5612,8 @@
    "Fadder i Toltan 1723 (bild 144, s. 265): ”Fadd: Påhl Nilsson ibid, Elof Nilsson ibid, h. Dordi Nilsd … ibid, h. Marit Olufsd ibid” vid barn till ”Per Erikss?” och Karin Jonsd i Toltan (vid namn [överstruket]; Begr. 1801 3/4). Skrivs ibland ”Oluf Nilsson i Tolena” (1721, bild 136?). Dotter Britta döpt 16/6 1721 (bild 133). Sannolikt barn 2/2 1718 (bild 113).",
    "SÖKNING C I/1 bild 11–25 (1688–1691): ingen post ”Elof/Olof” med fader Nils i Toltan funnen. Enda Olof/Oluff Nilsson 1688–91 är ”Oluff Nilsson i Skog” 26 maj 1689 (far Nils Christophersson, mor Anna Jonsd.; bild 15) – kandidat, ej bevisad (Skog, inte Toltan). Se ny person olof_nilsson_skog1689.",
    "Toltan skrivs 1688–1691 ”Tortan/Förtan/Zolta” (ö./v. = östra/västra), 1693 ”Toltan/Furtan”. Dopboken är gles 1688–1690 (ca 3–6 poster per uppslag).",
-   "GRANSKNING: vid vigseln 28/10 1717 står Elof Nilsson ”i Weg” (ortnamnet oklart), bara bruden står ”i Tolta”. Vigseln 1734 anger ”från Toltan”."
+   "GRANSKNING: vid vigseln 28/10 1717 står Elof Nilsson ”i Weg” (ortnamnet oklart), bara bruden står ”i Tolta”. Vigseln 1734 anger ”från Toltan”.",
+   "OMGÅNG 8 (agent W1): Mantalslängderna 1694–1709 ger ingen Nils Christophersson i Skog; en ”Olof Nilsson” står i Toltan 1694/1706/1709 (1694 som gift man) – koppling till Elof obevisad. Vid vigseln 1717 läses hemorten ”i H/Weg[?]” (ej Skog)."
   ],
   "timeline": [
    [
@@ -12956,7 +12975,7 @@
  {
   "id": "olof_nilsson_skog1689",
   "name": "Olof (Oluff) Nilsson (Skog, 1689)",
-  "status": "candidate",
+  "status": "lead",
   "sex": "m",
   "living": false,
   "born": {
@@ -12970,7 +12989,8 @@
   "summary": "Enda pojke ”Oluff Nilsson” i det glesa dopmaterialet 1688–1690 vars år (1689) stämmer med annus nativitatis för Elof Nilsson i A I/1 (”1689”). Bor dock i Skog, inte Toltan; fadern heter Nils Christophersson, modern Anna Jonsdotter. Identitet med Elof Nilsson i Toltan OBEVISAD – bara en kandidat; peterskap (fadder Isaac L. i Zolta) är det enda tydliga Toltan-spåret.",
   "notes": [
    "BILD 15 (sida 11), 1689: ”Den 26 Maj” – barn: ”Oluff Nilsson i Skog” – föräldrar: ”Nilß Christopherson / Anna Jonsd.” – fadder: ”Amun Olsson i Kalmer / Nilß Hansson ibid / Isaac L. i Zolta / Oluff N. i Kalmer” – gudmödrar: ”H. Marit Nilsd(?) i Kalmer / H. Christin Anders-dotter i Skogs / Carin Lars-dotter i Kalmer / Börit Bröntesd. ibid”. (Läsning av enskilda ord osäker; ”Skog” och faderns namn dock tydliga vid zoom.)",
-   "Elof Nilsson i Toltan (A I/1 bild 181) anges ”1689” men 73 år 1760 ger 1687. Posten ger varken Toltan eller bevis; kräver t.ex. mantalslängd/husförhör med Olof/Elof Nilsson från Skog som flyttat till Toltan, eller dödbok (ålder)."
+   "Elof Nilsson i Toltan (A I/1 bild 181) anges ”1689” men 73 år 1760 ger 1687. Posten ger varken Toltan eller bevis; kräver t.ex. mantalslängd/husförhör med Olof/Elof Nilsson från Skog som flyttat till Toltan, eller dödbok (ålder).",
+   "Skulle vara 71 år 1760 (inte 73 som Elof Nilsson) – troligen en annan person än Elof Nilsson i Toltan."
   ],
   "sources": [
    {
@@ -13487,12 +13507,12 @@
  {
   "id": "ingegard_andersdotter",
   "name": "Ingegärd Maria Andersdotter",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1857",
-   "place": "Boda, Värmlands län"
+   "date": "1857-12-14",
+   "place": "Boda"
   },
   "places": [
    "Renstad (Ängen), Boda"
@@ -13509,6 +13529,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1890, bild Folk_917071-031",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_917071-031"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
    }
   ],
   "search": [
@@ -13561,8 +13585,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1884",
-   "place": "Boda, Värmlands län"
+   "date": "1884-07-04",
+   "place": "Boda"
   },
   "summary": "Karl Augusts äldre bror, f. 1884.",
   "notes": [
@@ -13580,6 +13604,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910, Brunskog, Svartåna, sida 22 rad 29, fam. 2: Karl August Andersson (Gifte s.) + Anna Elisabet Augustsson + Nils Bertil 1910; fam. 1: Anders Nilsson m.fl.",
     "url": "https://sok.riksarkivet.se/?postid=Folk_125549641"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
    }
   ],
   "places": [],
@@ -13594,8 +13622,8 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1886",
-   "place": "Boda, Värmlands län"
+   "date": "1886-02-07",
+   "place": "Boda"
   },
   "summary": "Karl Augusts syster, f. 1886.",
   "notes": [
@@ -13609,6 +13637,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, Brunskog, Svartåna, sida 27 rad 1: Karl August (1888, 'hans s. i 1:a g.') hos Anders Nilsson",
     "url": "https://sok.riksarkivet.se/?postid=Folk_109937928"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
    }
   ],
   "places": [],
@@ -13652,8 +13684,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1855",
-   "place": "Brunskog, Värmlands län"
+   "date": "1855-04-22",
+   "place": "Svartåna, Brunskog"
   },
   "places": [
    "Gullsbyn, Brunskog"
@@ -13670,6 +13702,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, bild Folk_017069-015",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_017069-015"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Svartåna): ”August Nilsson 55 22/4 Svartåna, hustru Maria Katrina Andersdotter f. 24/7 1851 Segerstad (Dog 89 17/12), barnen Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8, Hanna Elisabeth 89 12/12”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
    }
   ],
   "search": [
@@ -13689,7 +13729,7 @@
   "places": [
    "Gullsbyn, Brunskog"
   ],
-  "summary": "August Nilssons hustru 1900; troligen Hannas mor (hon var 42 vid Hannas födelse; moderskap ej uttryckligen angivet).",
+  "summary": "Augusts hustru från ca 1890–1900 (styvmor till Hanna); f. 1847.",
   "notes": [
    "FOLKRÄKNING 1900 Gullsbyn: 'Jansdotter, Stina, f. 1847 i Brunskog' i hushållet. Åldern 42 år 1889 gör moderskap möjligt men inte bevisat; kontrollera födelsebok 1889 (se unresolved)."
   ],
@@ -13768,12 +13808,12 @@
  {
   "id": "anders_nilsson53_boda",
   "name": "Anders Nilsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1853",
-   "place": "Boda, Värmlands län"
+   "date": "1853-10-15",
+   "place": "Norra Boda"
   },
   "places": [
    "Renstad (Ängen), Boda",
@@ -13782,7 +13822,8 @@
   "summary": "Hemmansägare, Karl August Anderssons far (Karl 'hans s.' i 1900 och 'Fam. 1' 1910). Farmors farfar.",
   "notes": [
    "FOLKRÄKNING 1890 Boda, Renstad: 'Nilsson, Anders, f. 1853 i Boda, Hemeg.' med hustrun Ingegärd Maria Andersdotter f. 1857 och barnen Johan Alfred 1884, Anna Maria 1886, Karl August 1888.",
-   "FOLKRÄKNING 1900 Brunskog, Svartåna: Anders Nilsson f. 1853 Boda, hemmansegare; hustru Lena Andersdotter f. 1858; Karl August 'hans s. i 1:a g.' (alltså son i hans första äktenskap)."
+   "FOLKRÄKNING 1900 Brunskog, Svartåna: Anders Nilsson f. 1853 Boda, hemmansegare; hustru Lena Andersdotter f. 1858; Karl August 'hans s. i 1:a g.' (alltså son i hans första äktenskap).",
+   "Husförhör A I/25 bild 311: ”Hitflyttad Amerika 8?” (sista siffran osäker) – Anders var i Amerika; familjen bortflyttad till Brunskog ca 1892. Ingegärd Maria är borta före 1900; Lena/Lina (f. 1858) är styvmor."
   ],
   "sources": [
    {
@@ -13808,10 +13849,164 @@
    {
     "label": "Riksarkivet, Folkräkning 1910, bild Folk_117068-022",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_117068-022"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
+   },
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594), bild 91 (s. 147): 15 okt 1853 ”Anders; Nils Olsson o. h. Anna Andersd. i N:r Boda”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00091"
    }
   ],
   "search": [
    "Anders Nilsson"
+  ]
+ },
+ {
+  "id": "maria_katrina_andersdotter",
+  "name": "Maria Katrina Andersdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1851-07-24",
+   "place": "Segerstad"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "August Nilssons första hustru och Hannas mor. Död 17 dec 1889, fem dagar efter Hannas födelse.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Svartåna): ”August Nilsson 55 22/4 Svartåna, hustru Maria Katrina Andersdotter f. 24/7 1851 Segerstad (Dog 89 17/12), barnen Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8, Hanna Elisabeth 89 12/12”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   }
+  ],
+  "search": [
+   "Maria Katrina Andersdotter"
+  ],
+  "died": {
+   "date": "1889-12-17",
+   "place": "Svartåna, Brunskog"
+  }
+ },
+ {
+  "id": "johan_albin_augustsson",
+  "name": "Johan Albin Augustsson",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1883-07-27",
+   "place": "Uppsala"
+  },
+  "places": [],
+  "summary": "Son till August Nilsson och Maria Katrina Andersdotter; Hannas äldre bror.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Svartåna): ”August Nilsson 55 22/4 Svartåna, hustru Maria Katrina Andersdotter f. 24/7 1851 Segerstad (Dog 89 17/12), barnen Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8, Hanna Elisabeth 89 12/12”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   }
+  ],
+  "search": [
+   "Johan Albin Augustsson"
+  ]
+ },
+ {
+  "id": "nils_olsson_nboda",
+  "name": "Nils Olsson (N. Boda)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt; far till Anders f. 15/10 1853 enligt dopboken."
+  },
+  "places": [
+   "Norra Boda"
+  ],
+  "summary": "Far till Anders Nilsson (f. 15/10 1853, N. Boda) enligt Bodas dopbok 1853.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594), bild 91 (s. 147): 15 okt 1853 ”Anders; Nils Olsson o. h. Anna Andersd. i N:r Boda”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00091"
+   }
+  ],
+  "search": [
+   "Nils Olsson (N. Boda)"
+  ]
+ },
+ {
+  "id": "anna_andersd_nboda",
+  "name": "Anna Andersdotter (N. Boda)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt; mor till Anders f. 15/10 1853 enligt dopboken."
+  },
+  "places": [
+   "Norra Boda"
+  ],
+  "summary": "Mor till Anders Nilsson (f. 15/10 1853, N. Boda) enligt Bodas dopbok 1853.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594), bild 91 (s. 147): 15 okt 1853 ”Anders; Nils Olsson o. h. Anna Andersd. i N:r Boda”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00091"
+   }
+  ],
+  "search": [
+   "Anna Andersdotter (N. Boda)"
+  ]
+ },
+ {
+  "id": "nils_jansson_svartana",
+  "name": "Nils Jansson (Svartåna)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt; far till August f. 22/4 1855 enligt dopboken."
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Far till August Nilsson (f. 22/4 1855, Svartåna) enligt Brunskogs dopbok 1855.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
+   }
+  ],
+  "search": [
+   "Nils Jansson (Svartåna)"
+  ]
+ },
+ {
+  "id": "britta_olsdotter_svartana",
+  "name": "Britta Olsdotter (Svartåna)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt; mor till August f. 22/4 1855 enligt dopboken."
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Mor till August Nilsson (f. 22/4 1855, Svartåna) enligt Brunskogs dopbok 1855.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
+   }
+  ],
+  "search": [
+   "Britta Olsdotter (Svartåna)"
   ]
  }
 ]

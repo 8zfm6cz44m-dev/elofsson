@@ -3763,16 +3763,16 @@
    "ingegard_andersdotter"
   ],
   "child": "karl",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Boda Renstad (Folk_103604828, bild Folk_917071-031): Karl August f. 1888 's.' i Anders Nilssons hushåll med Ingegärd Maria; 1900 (Folk_109937928): 'hans s. i 1:a g.' – fadern verifierad, modern sannolik."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Boda Renstad (Folk_103604828, bild Folk_917071-031): Karl August f. 1888 's.' i Anders Nilssons hushåll med Ingegärd Maria; 1900 (Folk_109937928): 'hans s. i 1:a g.' – fadern verifierad, modern sannolik. Boda husförhör A I/25 bild 311: Anders Nilsson 1853 och Ingegärd Maria Andersdotter 1857 (gift mars 1880) med barnen Johan Alfred 1884, Anna Maria 1886 och Karl August 1/1 1888."
  },
  {
   "id": "p-anders_nilsson53_boda-ingegard_andersdotter",
   "type": "partner",
   "a": "anders_nilsson53_boda",
   "b": "ingegard_andersdotter",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Boda Renstad: Anders Nilsson och Ingegärd Maria Andersdotter som familjens huvud respektive hustru (Folk_103604828)."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Boda Renstad: Anders Nilsson och Ingegärd Maria Andersdotter som familjens huvud respektive hustru (Folk_103604828). Boda husförhör A I/25 bild 311: Anders Nilsson 1853 och Ingegärd Maria Andersdotter 1857 (gift mars 1880) med barnen Johan Alfred 1884, Anna Maria 1886 och Karl August 1/1 1888."
  },
  {
   "id": "p-anders_nilsson53_boda-lena_andersdotter",
@@ -3807,23 +3807,12 @@
   "basis": "Folkräkning 1900/1910: Arvid Emanuel f. 1896 i samma hushåll; sannolikt halvbror (Karl 'i 1:a g.')."
  },
  {
-  "id": "c-august_nilsson_gullsbyn-stina_jansdotter-hanna",
-  "type": "child",
-  "parents": [
-   "august_nilsson_gullsbyn",
-   "stina_jansdotter"
-  ],
-  "child": "hanna",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Brunskog Gullsbyn s. 15 rad 8 (Folk_109937345, bild Folk_017069-015): Hanna Elisabet f. 1889 'hans d.' hos August Nilsson; modern Stina Jansdotter f. 1847 står i hushållet men moderskap ej uttryckligt."
- },
- {
   "id": "p-august_nilsson_gullsbyn-stina_jansdotter",
   "type": "partner",
   "a": "august_nilsson_gullsbyn",
   "b": "stina_jansdotter",
   "status": "strong",
-  "basis": "Folkräkning 1900 Gullsbyn (Folk_109937345): husfader och hustru i samma familj."
+  "basis": "Folkräkning 1900 Gullsbyn (Folk_109937345): husfader och hustru i samma familj. Stina är styvmor: gift med August först efter 1890 (Maria Katrina dog 17/12 1889; folkräkning 1890: änkling)."
  },
  {
   "id": "s-hanna-anna_maria_augustsson_1885",
@@ -3840,5 +3829,117 @@
   "b": "nils_ejnar_augustsson",
   "status": "strong",
   "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll."
+ },
+ {
+  "type": "partner",
+  "a": "august_nilsson_gullsbyn",
+  "b": "maria_katrina_andersdotter",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/35 bild 254: August Nilsson 55 22/4 Svartåna med hustru Maria Katrina Andersdotter f. 24/7 1851 Segerstad.",
+  "id": "p-august_nilsson_gullsbyn-maria_katrina_andersdotter"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn",
+   "maria_katrina_andersdotter"
+  ],
+  "child": "hanna",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/35 bild 254 (Svartåna): barn i hushållet: Hanna Elisabeth 89 12/12.",
+  "id": "c-august_nilsson_gullsbyn-maria_katrina_andersdotter-hanna"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn",
+   "maria_katrina_andersdotter"
+  ],
+  "child": "johan_albin_augustsson",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/35 bild 254 (Svartåna): barn i hushållet: Johan Albin 83 27/7 Uppsala.",
+  "id": "c-august_nilsson_gullsbyn-maria_katrina_andersdotter-johan_albin_augustsson"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn",
+   "maria_katrina_andersdotter"
+  ],
+  "child": "anna_maria_augustsson_1885",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/35 bild 254 (Svartåna): barn i hushållet: Anna Maria 85 19/7 Uppsala.",
+  "id": "c-august_nilsson_gullsbyn-maria_katrina_andersdotter-anna_maria_augustsson_1885"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn",
+   "maria_katrina_andersdotter"
+  ],
+  "child": "nils_ejnar_augustsson",
+  "status": "verified",
+  "basis": "Husförhörslängd Brunskog A I/35 bild 254 (Svartåna): barn i hushållet: Nils Einar 87 21/8.",
+  "id": "c-august_nilsson_gullsbyn-maria_katrina_andersdotter-nils_ejnar_augustsson"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "anders_nilsson53_boda",
+   "ingegard_andersdotter"
+  ],
+  "child": "johan_alfred_nilsson",
+  "status": "verified",
+  "basis": "Boda husförhör A I/25 bild 311: barn i hushållet.",
+  "id": "c-anders_nilsson53_boda-ingegard_andersdotter-johan_alfred_nilsson"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "anders_nilsson53_boda",
+   "ingegard_andersdotter"
+  ],
+  "child": "anna_maria_nilsson_1886",
+  "status": "verified",
+  "basis": "Boda husförhör A I/25 bild 311: barn i hushållet.",
+  "id": "c-anders_nilsson53_boda-ingegard_andersdotter-anna_maria_nilsson_1886"
+ },
+ {
+  "type": "partner",
+  "a": "nils_olsson_nboda",
+  "b": "anna_andersd_nboda",
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 91 (1853): ”Nils Olsson o. h. Anna Andersd. i N:r Boda”.",
+  "id": "p-nils_olsson_nboda-anna_andersd_nboda"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "nils_olsson_nboda",
+   "anna_andersd_nboda"
+  ],
+  "child": "anders_nilsson53_boda",
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 91: 15 okt 1853 ”Anders; Nils Olsson o. h. Anna Andersd. i N:r Boda” = husförhör A I/25 (Anders f. 15/10 1853 Boda).",
+  "id": "c-nils_olsson_nboda-anna_andersd_nboda-anders_nilsson53_boda"
+ },
+ {
+  "type": "partner",
+  "a": "nils_jansson_svartana",
+  "b": "britta_olsdotter_svartana",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/5 bild 57 (1855): ”Dg. Nils Jansson, Britta Olsdotter”, Svartåna.",
+  "id": "p-nils_jansson_svartana-britta_olsdotter_svartana"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "august_nilsson_gullsbyn",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/5 bild 57: 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter” = August Nilsson f. 22/4 1855 Svartåna (husförhör A I/35 bild 254).",
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-august_nilsson_gullsbyn"
  }
 ]
