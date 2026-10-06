@@ -24394,7 +24394,7 @@
  {
   "id": "z_johan_albin_efraim",
   "name": "Johan Albin Efraim Johannesson (Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26703,7 +26703,7 @@
  {
   "id": "vilhelm_nilsson04",
   "name": "Vilhelm Nilsson (f. 1904, Kristiania)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26730,7 +26730,7 @@
  {
   "id": "hermansigurd_nilsson08",
   "name": "Herman Sigurd Nilsson (f. 1908, Kristiania)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26790,7 +26790,7 @@
  {
   "id": "gurlielsa_emanuelsson20",
   "name": "Gurli Elsa Maria Emanuelsson (f. 1920, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28097,7 +28097,7 @@
  {
   "id": "larsson_ellenmaria85",
   "name": "Ellen Maria Larsson (f. 1885, Nor)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28125,7 +28125,7 @@
  {
   "id": "larsson_karolina87",
   "name": "Karolina Larsson (f. 1887, Nor)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28152,7 +28152,7 @@
  {
   "id": "larsson_karljohan89",
   "name": "Karl Johan Larsson (f. 1889, Nor)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28180,7 +28180,7 @@
  {
   "id": "larsson_josefina92",
   "name": "Josefina Albertina Larsson (f. 1892, Stora Kil)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28207,7 +28207,7 @@
  {
   "id": "larsson_brorgustaf95",
   "name": "Bror Gustaf Larsson (f. 1895, Stora Kil)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28234,7 +28234,7 @@
  {
   "id": "larsson_vilhelm98",
   "name": "Vilhelm Larsson (f. 1898, Grava)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29972,7 +29972,7 @@
  {
   "id": "gretamaria_kj10",
   "name": "Greta Maria Johansson (f. 1910, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30433,7 +30433,7 @@
  {
   "id": "z_vera_maria",
   "name": "Vera Maria Zetterlund",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30460,7 +30460,7 @@
  {
   "id": "z_stig_ingemar_brandt",
   "name": "Stig Ingemar Brandt (f. 1909)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": true,
   "born": {
@@ -30514,7 +30514,7 @@
  {
   "id": "helena_emogenia_andersdotter",
   "name": "Helena Emogenia Andersdotter (f. 1901)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -30541,7 +30541,7 @@
  {
   "id": "gunnar_stina_1908",
   "name": "Gunnar (f. 1908, Gunnarskog), son till Stina Bryntesdotter",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": true,
   "born": {
@@ -30595,7 +30595,7 @@
  {
   "id": "z_astrid_maria_d",
   "name": "Astrid Maria Zetterlund (f. 1910)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30622,7 +30622,7 @@
  {
   "id": "z_inez_helena_d",
   "name": "Inez Helena Zetterlund (f. 1912)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30649,7 +30649,7 @@
  {
   "id": "z_karl_bertil_d",
   "name": "Karl Bertil Zetterlund (f. 1914)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -30676,7 +30676,7 @@
  {
   "id": "z_marta_sofia_d",
   "name": "Märta Sofia Zetterlund (f. 1917)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30703,7 +30703,7 @@
  {
   "id": "z_anna_magdalena_d",
   "name": "Anna Magdalena Zetterlund (f. 1919)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30730,7 +30730,7 @@
  {
   "id": "z_sven_olov_d",
   "name": "Sven Olov Zetterlund (f. 1923)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -30757,7 +30757,7 @@
  {
   "id": "z_karin_ingrid_d",
   "name": "Karin Ingrid Elisabet Zetterlund (f. 1926)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -31297,7 +31297,7 @@
  {
   "id": "z_erik_gustaf_d",
   "name": "Erik Gustaf Sätterlund/Zetterlund (f. 1908)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31975,7 +31975,7 @@
  {
   "id": "janne_an_1881",
   "name": "Janne Andersson/Nilsson (f. 1881)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32002,7 +32002,7 @@
  {
   "id": "august_an_1889",
   "name": "August Nilsson (f. 1889)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32029,7 +32029,7 @@
  {
   "id": "hanna_maria_an_1890",
   "name": "Hanna Maria Nilsson (f. 1890)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32056,7 +32056,7 @@
  {
   "id": "berta_emilia_an_1894",
   "name": "Berta Emilia Nilsson (f. 1894)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32083,7 +32083,7 @@
  {
   "id": "erik_an_1897",
   "name": "Erik Nilsson (f. 1897)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
