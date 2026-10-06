@@ -7081,8 +7081,8 @@
  {
   "id": "c-johan_olofsson-anna_gata-annavalborg_jo09",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Arvika köping N:o 266, s.87: Anna Valborg Elvira Olsson f. 1909 i hushållet Johan Olsson/Anna Nilsson (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika, Stadsägan no 392, sida 145 rad 36: Anna Valborg Elvira f. 1909 Arvika, ogift, Familjeställning ”d.” (Famstkod Barn) hos ”Olsson Nilsson, Anna, f. 1870 Brunskog, Kommissionärsänka” (Folk_129011712). Moderns och dotterns namn/födelseorter + 1910 N:o 266 → dotter till kommissionär Johan Olsson (död 1930).",
   "parents": [
    "johan_olofsson",
    "anna_gata"

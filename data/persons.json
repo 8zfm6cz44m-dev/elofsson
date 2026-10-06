@@ -7056,6 +7056,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266, sida 87: Nilsson, Anna f. 1870 Brunskog, hustru i hushållet Johan Olsson (Kommissionär) f. 1850",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan no 392: Olsson Nilsson, Anna f. 1870 Brunskog, Kommissionärsänka",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
    }
   ],
   "search": [
@@ -7063,7 +7067,8 @@
    "Gata"
   ],
   "notes": [
-   "FOLKRÄKNING 1900 (Ö. Takene): Anna Nilsdotter f. 1870; 1910 (Arvika köping): Nilsson, Anna f. 1870 i Brunskog, i hushållet Johan Olsson, kommissionär (gift). Familjeställning ”h.” ej utläst ur sökposten; gift 1895 enligt släktuppgift."
+   "FOLKRÄKNING 1900 (Ö. Takene): Anna Nilsdotter f. 1870; 1910 (Arvika köping): Nilsson, Anna f. 1870 i Brunskog, i hushållet Johan Olsson, kommissionär (gift). Familjeställning ”h.” ej utläst ur sökposten; gift 1895 enligt släktuppgift.",
+   "FOLKRÄKNING 1930 Arvika (Folk_129011712): ”Olsson Nilsson, Anna, f. 1870 i Brunskog Värmlands län, Kommissionärsänka” med dottern Anna Valborg Elvira 1909 – bekräftar att Johan Olofsson var död 1930 (dödsdag 3 feb 1930 stämmer) och att Anna är hans änka."
   ]
  },
  {
@@ -7076,7 +7081,8 @@
   "summary": "Släktforskare och mottagare av den här sidan. Barnbarn till Johan Olofsson (JO, 1850–1930) och Anna från Gata – alltså tremänning till Elof Olsson. Förälder (JO:s barn) ej namngiven här.",
   "notes": [
    "Jan skriver att Elof Olsson är hans tremänning (”Elof är också min [tremänning]”) och att hans morfar är JO från Lycka.",
-   "Släktskap: Kajsa Jansdotter + Olof Elofsson → JO → (Jans mor) → Jan; Kajsa + Olof → Maria → Johan Olof Olsson → Elof. Gemensamma anor: Olof Elofsson och Kajsa Jansdotter."
+   "Släktskap: Kajsa Jansdotter + Olof Elofsson → JO → (Jans mor) → Jan; Kajsa + Olof → Maria → Johan Olof Olsson → Elof. Gemensamma anor: Olof Elofsson och Kajsa Jansdotter.",
+   "SLÄKTSKAP (AO2): Gemensamma anor Olof Elofsson + Kajsa Jansdotter. Elof: Olof+Kajsa → Maria → Johan Olof Olsson → Elof (de är Elofs gammelfarföräldrar, 3 led upp). Jan: Olof+Kajsa → JO → Jans mor → Jan (Jans gammelmorföräldrar). Delade gammelföräldrar = genealogiskt syssling (second cousin); ”tremänning” är Jans egen benämning (dagligt tal). Förutsätter att Jans mor är JO:s dotter – namn ej belagt."
   ],
   "sources": [
    {
@@ -27217,12 +27223,17 @@
   "living": false,
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266). Olof Gunnar finns även i folkräkning 1900 Ö. Takene.",
   "notes": [
-   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Olof Gunnar f. 1897 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Olof Gunnar f. 1897 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
+   "FOLKRÄKNING 1930 Nyed (Molkom), sida 55 rad 42 (Folk_128911700): Olsson, Olof Gunnar f. 1897 i Brunskog, Banktjänsteman Kassakontrollant, gift (vigselår 1926), inflyttad 1920 från Arvika; hustru Svensson, Arvida f. 1900 i Borås; barn Karin Gunnel f. 1927 Nyed, Åke Gunnar f. 1929 Nyed. Samma namn+födelseår+ort; ”inflyttad från Arvika” stämmer med familjen i Arvika 1910, men föräldrar nämns inte i posten."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Olof Gunnar Olsson f. 1897 i hushållet Johan Olsson, kommissionär",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Nyed (Molkom) sida 55 rad 42: Olof Gunnar Olsson f. 1897 Brunskog, banktjänsteman, gift 1926, inflyttad 1920 från Arvika; hustru Arvida Svensson f. 1900 Borås; barn Karin Gunnel 1927, Åke Gunnar 1929",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128911700&tab=post"
    }
   ],
   "born": {
@@ -27245,12 +27256,17 @@
   "living": false,
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
   "notes": [
-   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Johan Gottfrid f. 1904 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Johan Gottfrid f. 1904 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
+   "FOLKRÄKNING 1930 Silbodal (Årjängs municipalsamhälle), sida 54 rad 25: Olsson, Johan Gottfrid f. 1904 i Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika, ensamstående. Samma namn+födelseår+ort; ”från Arvika” stämmer; föräldrar nämns ej."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Johan Gottfrid Olsson f. 1904 i hushållet Johan Olsson, kommissionär",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Silbodal (Årjängs municipalsamhälle) sida 54 rad 25: Johan Gottfrid Olsson f. 1904 Brunskog, folkskollärare, ogift, inflyttad 1928 från Arvika",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128882563&tab=post"
    }
   ],
   "born": {
@@ -27267,17 +27283,22 @@
  {
   "id": "annavalborg_jo09",
   "name": "Anna Valborg Elvira Olsson (f. 1909)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
   "notes": [
-   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Anna Valborg Elvira f. 1909 i Arvika i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Anna Valborg Elvira f. 1909 i Arvika i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
+   "FOLKRÄKNING 1930 Arvika (Stadsägan no 392, Jösse kontrakt, Folk_129011712), sida 145 rad 36: ”Anna Valborg Elvira” f. 1909 i Arvika, Ogift, Familjeställning ”d.”, Famstkod Barn, familj nr 1, hos ”Olsson Nilsson, Anna, f. 1870 i Brunskog, Kommissionärsänka”. Ogift 1930 (21 år) – alltså ännu inte Källne 1930; ev. senare giftermål ej belagt. Dotterskapet nu uttryckligt (Familjeställning d.)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Anna Valborg Elvira Olsson f. 1909 i hushållet Johan Olsson, kommissionär",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan no 392, sida 145 rad 36: Anna Valborg Elvira f. 1909 Arvika, ogift, d. (dotter) hos kommissionärsänkan Anna Olsson Nilsson f. 1870",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
    }
   ],
   "born": {
