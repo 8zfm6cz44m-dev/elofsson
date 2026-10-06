@@ -16549,7 +16549,8 @@
    "BODA 1840: Boda B/1 bild 10 (inflyttade 1840): ”2. Bönd Anders Elofsson – Frykerud – [flyttar till] Åstetan/Ärtetan(?) – Rolander” och ”3. Hu Stina Nilsdotter – Dº”. Paret flyttade alltså 1840 från Frykerud till Boda, inte direkt till Norge.",
    "E8 KONTROLL: Husförhör A I/18 bild 183: ”H. [Stina]” 26/10 13 ibm (överstruken). Dopbok C/6 (C0037139) bild 56 (sid 93, okt 1813; året fastställt via bild 55 sid 91 med ”Död 1813”-anteckningar): kolumner ”26 | 27 | Lene Nils Jöns jons och H: Caisa Christoffersd:r barn | Stina” = född 26 okt, döpt 27 okt 1813, Lene, föräldrar Nils Jonsson och Kajsa Kristoffersdotter. Födelsedatum 26/10 1813 bekräftat av två oberoende poster (födelsen i sig kan betraktas som verified).",
    "F2: Dödspost för Stina ej funnen i Digitalarkivet. Sökt förnamn Stina*/Kristina/Kristine/Christine/Kirsti*/Karen/Kjersti* × f. 1811–1815 × Sverige/Värmland/Frykerud, begravningar/avdød 1876–1892: inga matchningar. Enda Stina Nilsdatter f. 1813 i 1875-6 års poster: Stina Nilsdatter f. 1813 Aker (Hægdehaugen, fattiglem, annan person), pf01052039013442, och Stina Marie Nilsdatter f. 1813 Kristiania d. 1887 Gamle Aker – båda andra personer. Dödsår därför ospecificerat 1875–1890.",
-   "H3: Barn i Boda: Maria Cajsa f. 23 jan 1842 och Nils f. 30 aug 1844 (Ärtetan), moder Stina Nilsd.r."
+   "H3: Barn i Boda: Maria Cajsa f. 23 jan 1842 och Nils f. 30 aug 1844 (Ärtetan), moder Stina Nilsd.r.",
+   "HUSFÖRHÖR A I/14 bild 99: ”D. Stina 1813 26/10”; A I/15 bild 126: ”Stina 1813 26/10” i Nils Jonssons hushåll, Lene. Äldre Stina f. 1808 överstruken i A I/14 (se fr_stinanilsd1808)."
   ],
   "sources": [
    {
@@ -16571,6 +16572,14 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/3 (1820-1858), bild 62 (jan 1842) och bild 74 (aug 1844): Ärtetan, B: Anders Elofsson / Stina Nilsd.r – barnen Maria Cajsa och Nils",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00074"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18029,8 +18038,8 @@
   "living": false,
   "born": {
    "date": "1782-03-07",
-   "place": "Frykerud",
-   "note": "husförhör A I/18 bild 183: ”7/3 82 Frykerud” (dagen avläst)"
+   "place": "Lene, Frykerud",
+   "note": "dop 9/3 1782, Frykerud C/5 bild 43"
   },
   "died": {
    "date": "1837-03-31",
@@ -18042,12 +18051,32 @@
   ],
   "summary": "Hemmansbrukare på Lene i Frykerud, fader till Stina Nilsdotter (g. 1837 med Anders Elofsson).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: ”Nils Jonsson” 7/3 1782 Frykerud, ”H. Kajsa Kristofers dr” 27/7 1784 ibm; barn Maja 10/10 1811, Stina 26/10 1813 (överstruken), Lena 27/12 1815, Kajsa 20/12 1818, Jonas 3/5 1821, Kristofer 10/12 1823, Sven 27/9 1828. Raden för Nils överstruken, utflyttningskolumn ”död 31/3 37”."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: ”Nils Jonsson” 7/3 1782 Frykerud, ”H. Kajsa Kristofers dr” 27/7 1784 ibm; barn Maja 10/10 1811, Stina 26/10 1813 (överstruken), Lena 27/12 1815, Kajsa 20/12 1818, Jonas 3/5 1821, Kristofer 10/12 1823, Sven 27/9 1828. Raden för Nils överstruken, utflyttningskolumn ”död 31/3 37”.",
+   "DOP: Frykerud C/5 bild 43 (s. 57) 1782: ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”.",
+   "VIGSEL: Frykerud E I/1 bild 164 (s. 312): ”Enke och Danemannen Nils Jonsson i Lene och Pig: Caisa Christophersdotr i Saldebraten”; vigseldatum ”vigde den 28 Dec: af v. Past. Jacob Ekstedt” (år 1810 enligt placering före rubriken ”Vigde 1811”). Nils var alltså ENKEMAN – tidigare gift, första hustru ej funnen.",
+   "HUSFÖRHÖR A I/14 bild 99 (s. 83) Lene: ”Nils Jonsson” 1782, ”H. Caisa Christofferd” 1784 27/7; barn ”D. Stina” 1808 (överstruken), ”Marja” 1811, ”D. Stina 1813 26/10”, ”Lena 1815”. Hushållet står direkt före Magnus och Jonas Christoffersson (inflyttade ”Såldebråt 12”, överstrukna).",
+   "HUSFÖRHÖR A I/15 bild 126 (s. 105) Lene: ”Nils Jonsson” 1782, ”H. Caisa Christoffersd” 1784 27/7, ”D Maria 1811”, ”Stina 1813 26/10”, ”Lena 27/12 1815”, ”Caisa 20/12 1818”, ”Son Jonas 1821” (tillagd senare)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 43 (s. 57): ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00043"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/1 (1708–1814) C0037140, bild 164 (s. 312): ”Enke och Danemannen Nils Jonsson i Lene och Pig: Caisa Christophersdotr i Saldebraten”, vigde 28 dec (1810) af v. Past. Jacob Ekstedt",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00164"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18062,20 +18091,39 @@
   "living": false,
   "born": {
    "date": "1784-07-27",
-   "place": "Frykerud",
-   "note": "husförhör A I/18 bild 183"
+   "place": "Klaxås, Frykerud",
+   "note": "dop 29/7 1784, Frykerud C/5 bild 55"
   },
   "places": [
    "Lene, Frykerud"
   ],
   "summary": "Hustru till Nils Jonsson på Lene, moder till Stina Nilsdotter.",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183: ”H. Kajsa Kristofers dr” 27/7 1784 ibm (Frykerud)."
+   "HUSFÖRHÖR A I/18 bild 183: ”H. Kajsa Kristofers dr” 27/7 1784 ibm (Frykerud).",
+   "DOP: Frykerud C/5 bild 55 (s. 77) 1784: ”Caisa – 27. 29. Christopher Svensson, H: Lena Salomonsdr i Klaxås”; faddrar ”Drängen Erik Bengtsson, H: Maria Ersdotter i Klaxås”. Födelse 27/7, dop 29/7 (juli 1784) = stämmer med husförhör ”27/7 84”.",
+   "VIGSEL: se E I/1 bild 164, ”Pig: Caisa Christophersdotr i Saldebraten”.",
+   "HUSFÖRHÖR A I/14 bild 99 och A I/15 bild 126: ”H. Caisa Christofferd(ottir)” 1784 27/7 i Nils Jonssons hushåll, Lene."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 55 (s. 77): ”Caisa 27. 29. Jul(i) Christopher Svensson, Hu. Lena Salomonsdr i Klaxås”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00055"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 bild 164 (s. 312): Pig. Caisa Christophersdotr i Saldebraten, vigd 28 dec 1810",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00164"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18099,12 +18147,21 @@
   ],
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll, utflyttningskolumn ”Boda 41”."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll, utflyttningskolumn ”Boda 41”.",
+   "HUSFÖRHÖR A I/14 bild 99: ”Marja 1811”; A I/15 bild 126: ”D Maria 1811” i Nils Jonssons hushåll, Lene."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18127,12 +18184,21 @@
   ],
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
+   "HUSFÖRHÖR A I/14 bild 99: ”Lena 1815”; A I/15 bild 126: ”Lena 27/12 1815” i Nils Jonssons hushåll, Lene."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18155,12 +18221,17 @@
   ],
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
+   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Caisa 20/12 1818” i Nils Jonssons hushåll, Lene."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -18183,12 +18254,17 @@
   ],
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
+   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Son Jonas 1821” tillagd (blekare) sist i Nils Jonssons hushåll, Lene."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
    }
   ],
   "search": [
@@ -20191,6 +20267,80 @@
   ],
   "search": [
    "Jonas Christophersson"
+  ]
+ },
+ {
+  "id": "fr_jonasandersson_lene",
+  "name": "Jonas Andersson (Lene, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Fader till Nils Jonsson f. 7/3 1782 (dop 9/3 1782, Frykerud).",
+  "notes": [
+   "DOP Frykerud C/5 bild 43 (s. 57, 1782): ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”; fadder bl.a. ”Eric Olsson uti Karsbole”, ”Nils Månsson uti Lene”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807) C0037138, bild 43 (s. 57): 7/9 mars 1782 Nils Jonsson ifrån Lene, föräldrar Jonas Andersson och hust. Stina Månsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00043"
+   }
+  ],
+  "search": [
+   "Jonas Andersson (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_stinamansd_lene",
+  "name": "Stina Månsdotter (Lene, Frykerud)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Moder till Nils Jonsson f. 7/3 1782 (Frykerud); hustru till Jonas Andersson.",
+  "notes": [
+   "DOP Frykerud C/5 bild 43: ”Föräld: Jonas Andersson och hust: Stina Månsdr” (efternamnsändelsen avläst Månsd.)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 43 (s. 57): 7/9 mars 1782 Nils Jonsson ifrån Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00043"
+   }
+  ],
+  "search": [
+   "Stina Månsdotter (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_stinanilsd1808",
+  "name": "Stina Nilsdotter (f. 1808)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1808",
+   "place": "Frykerud",
+   "note": "årtal avläst ur husförhör A I/14 bild 99"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Nils Jonsson, född 1808, alltså före hans andra gifte 1810; överstruken i A I/14 (död/utflyttad före 1813; namnet Stina återanvänds 1813).",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 99 (s. 83) Lene: i Nils Jonssons hushåll ”D. Stina 1808” (överstruken) före ”Marja 1811”. Modern ej namngiven; Nils var ”Enke” vid vigseln dec 1810, så troligen dotter i hans första gifte."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–1817) C0037115, bild 99 (s. 83), Lene: Nils Jonsson 1782, H. Caisa Christofferd 1784 27/7, barn Stina 1808 (överstruken), Marja 1811, Stina 1813 26/10, Lena 1815",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00099"
+   }
+  ],
+  "search": [
+   "Stina Nilsdotter (f. 1808)"
   ]
  }
 ]
