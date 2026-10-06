@@ -7256,5 +7256,70 @@
   "b": "kn_carl1851",
   "status": "strong",
   "basis": "Folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47–50: Johannes 1848, Kajsa 1843, Anna Stina 1845 och Karl 1851 Kristoffersson/-dotter, alla f. Boda, ”Barn” i samma hushåll (Kajsa som bortgift, Gift). Samma efternamn/födelseort som dopböckernas syskon."
+ },
+ {
+  "id": "p-jo_johannes_eriksson-brittacaisa_j",
+  "type": "partner",
+  "a": "jo_johannes_eriksson",
+  "b": "brittacaisa_j",
+  "status": "verified",
+  "basis": "Folkräkning 1890 Boda, Renstad. Bråten (s. 32): Britta Kajsa Johannesdotter f. 1859 ”h.” (hustru) i hushåll med Johannes Eriksson f. 1848."
+ },
+ {
+  "id": "c-jo_johannes_eriksson-brittacaisa_j-jo_johanaugust",
+  "type": "child",
+  "parents": [
+   "jo_johannes_eriksson",
+   "brittacaisa_j"
+  ],
+  "child": "jo_johanaugust",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda, Renstad: Johan August f. 1882 i Johannes Erikssons och Britta Kajsas hushåll; 1900 ”s.” till Britta Kajsa, 1910 hon ”moder” i hans hushåll (fader ej uttryckligen angiven)."
+ },
+ {
+  "id": "p-jo_august_andersson54-maria_j",
+  "type": "partner",
+  "a": "jo_august_andersson54",
+  "b": "maria_j",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda, Renstad (s. 35): August Andersson f. 1854 och ”Johannesdotter, Maria, f. 1855” i fam. nr 2 (gift)."
+ },
+ {
+  "id": "c-jo_august_andersson54-maria_j-jo_johanalfred79",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54",
+   "maria_j"
+  ],
+  "child": "jo_johanalfred79",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda, Renstad: Johan Alfred f. 1879 i fam. nr 2 med August och Maria."
+ },
+ {
+  "id": "p-jo_johanaugust-jo_hulda_maria81",
+  "type": "partner",
+  "a": "jo_johanaugust",
+  "b": "jo_hulda_maria81",
+  "status": "candidate",
+  "basis": "Folkräkning 1910/1930 Boda, Renstad: hushåll med Johan August f. 1882 och Hulda Maria Johannesdotter f. 1881, gift (familjeställning ej utläst)."
+ },
+ {
+  "id": "s-olofaugust-brittacaisa_j",
+  "type": "sibling",
+  "a": "olofaugust",
+  "b": "brittacaisa_j",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda, Nordsjö (s. 32): Olof August (stjs.) och Britta Kajsa (stjd.) i samma hushåll hos Anders Jansson/Anna Andersdotter."
+ },
+ {
+  "id": "c-johannesolsson-anna1821-jo_johan_j61",
+  "type": "child",
+  "parents": [
+   "johannesolsson",
+   "anna1821"
+  ],
+  "child": "jo_johan_j61",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda, Nordsjö (s. 32): Johannesson, Johan f. 1861, ”stjs.” hos Anders Jansson/Anna Andersdotter; samma mor och syskon som Olof August."
  }
 ]

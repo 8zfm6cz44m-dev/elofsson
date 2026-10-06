@@ -1477,7 +1477,8 @@
    "MyHeritage: Olof August Johannesson f. 3 feb 1857, far till Johan; föräldrar Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821).",
    "HUSFÖRHÖR A I/37 bild 168 (fol. 172, Östra Takene): ”Inh./Mjölnare? Olof August Johannesson 57 3/2 Boda; H. Maria Olsdotter 63 9/8 Takene; Johan Olof 86 23/9; Arvid 90 27/11”. Bortflyttad-kolumn: ”Boda 94 26/10 96–99” – familjen flyttade till Boda 26 okt 1894 (EJ Amerika).",
    "FÖRSAMLINGSBOK A II a/1 bild 307 (sida 297, Lyckan): ”Olof August Johannesson 57 3/2 Boda”, gift ”14/6 86”, inflyttad ”Boda 04 2/11” (1904-11-02), titel ”Eg.” (egendomsägare). Hushåll: Maria Olsdotter 63 9/10 Brunskog (obs 9/10 eller 9/8, sista siffran svårläst), Johan Olof 86 23/9, Anna Maria 01 1/12 Boda; samt Anna Maria Andersdotter 83 28/8 Boda (piga; överstruket, flyttat ”p. 298” 06 13/11).",
-   "HUSFÖRHÖR A II a/3 bild 286 (Takene ”41. Lyckan”, rad 2): ”B. Olof August Johannesson” Hemäg 57 3/2 Boda, gift ”86 14/6”; rad 3 ”H. Maria Olsson” 63 9/10 (f. Takene); rad 4 son Johan Olof Olsson, korpral; rad 5 ”d. Anna Maria” 01 1/12 Boda."
+   "HUSFÖRHÖR A II a/3 bild 286 (Takene ”41. Lyckan”, rad 2): ”B. Olof August Johannesson” Hemäg 57 3/2 Boda, gift ”86 14/6”; rad 3 ”H. Maria Olsson” 63 9/10 (f. Takene); rad 4 son Johan Olof Olsson, korpral; rad 5 ”d. Anna Maria” 01 1/12 Boda.",
+   "FOLKRÄKNING 1910 Brunskog, Takene (s. 26 rad 38–42): Olof August Johannesson f. 1857 Boda, Hemmansägare; Maria Olsson f. 1863 Brunskog; Anna Maria f. 1901 Boda (d.); fam. nr 2 Kajsa Jansdotter f. 1826 Boda; fam. nr 3 Johan Olof Olsson f. 1886 Brunskog, Korpral, Hulda Eriksson f. 1885 Brunskog, Arvid f. 1909 Brunskog. 1930 Takene: Olof August och Maria med dottern Anna Maria."
   ],
   "sources": [
    {
@@ -1518,6 +1519,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A II a/3 (1909-1920), Takene nr 41 Lyckan, bild 286 rad 2-5: Olof August Johannesson, Maria Olsson, Johan Olof Olsson, Anna Maria",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00286"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene (s. 26)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549838&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene (s. 23)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883842&tab=post"
    }
   ],
   "search": [
@@ -1924,6 +1933,10 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö (s. 32): hushåll Anders Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430865&tab=post"
    }
   ],
   "search": [
@@ -1937,7 +1950,8 @@
    "Födelseåret 1821 i användarträdet stämmer inte med folkräkningarnas 1826.",
    "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Nov. 24, döpt 26: Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr.” Faddrar Olof Nilsson och Karin Ersdr. Exakt födelsedatum 24/11 1826 stämmer med husförhöret 1856.",
    "KONFLIKT MH/KYRKBOK: MH anger Anna Andersdotter f. 24 nov 1821 (g.m. Johannes Olsson, mor till Olof August); vår verifierade läsning är 24/11 1826. Dag och månad stämmer, årtalet i MH-trädet (1821) skiljer.",
-   "DOPBOK Boda C I/3 bild 26 (24/26 nov 1826): föräldrar ”Anders Nilss., Kaisa Olsdr”; A I/20 bild 230: ”H. Anna Andersd:r 24/11 26 Boda”. Moder Karin Olsdotter (MH) saknar kyrkboksstöd – Kaisa Olsdotter är dopbokens namn (Kaisa/Karin är ej samma i dopboken)."
+   "DOPBOK Boda C I/3 bild 26 (24/26 nov 1826): föräldrar ”Anders Nilss., Kaisa Olsdr”; A I/20 bild 230: ”H. Anna Andersd:r 24/11 26 Boda”. Moder Karin Olsdotter (MH) saknar kyrkboksstöd – Kaisa Olsdotter är dopbokens namn (Kaisa/Karin är ej samma i dopboken).",
+   "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32): hustru (”Andersdotter, Anna, f. 1826 i Boda”) till hemmansägare Anders Jansson f. 1834; hushållet innehåller stjs./stjd. Olof August 1857, Britta Kajsa 1859, Johan 1861 (Johannesson/Johannesdotter)."
   ]
  },
  {
@@ -4214,6 +4228,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A II a/3, Takene Lyckan, bild 286 rad 5: d. Anna Maria 01 1/12 Boda",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00286"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene (s. 26): Anna Maria f. 1901 Boda, d.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549838&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene (s. 23): Anna Maria f. 1901 Boda, d.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883842&tab=post"
    }
   ],
   "search": [
@@ -4227,7 +4249,8 @@
   },
   "notes": [
    "FÖRSAMLINGSBOK A II a/1 bild 307 (sida 297, Lyckan rad 24): ”Anna Maria 01 1/12 Boda” – systern till Johan Olof; föräldrahushållet inflyttade från Boda 2/11 1904. Ingen utflyttningsnotering 1904–1909 (bor kvar vid Lyckan).",
-   "HUSFÖRHÖR A II a/3 bild 286 rad 5: ”d. Anna Maria” 01 1/12, f. Boda, på Lyckan 1909–."
+   "HUSFÖRHÖR A II a/3 bild 286 rad 5: ”d. Anna Maria” 01 1/12, f. Boda, på Lyckan 1909–.",
+   "FOLKRÄKNING 1910 Brunskog, Takene (s. 26 rad 42): ”Anna Maria, f. 1901 i Boda”, familjeställning ”d.” (dotter), ogift, hos Olof August Johannesson f. 1857 Boda, Hemmansägare, och Maria Olsson f. 1863 Brunskog. 1930 Brunskog, Takene (s. 23 rad 19): ”Anna Maria, f. 1901 iB”, ”d.”, ogift, hos Olov August och Maria (föräldrarna). Senare öde ej känt."
   ]
  },
  {
@@ -5605,12 +5628,15 @@
   ],
   "search": [
    "Britta Majsa Johannesdotter"
+  ],
+  "notes": [
+   "FOLKRÄKNING: Britta Majsa Johannesdotter f. 1853 Boda är INTE funnen i folkräkningarna 1880–1930 (sökning Britta/Brita/Maja/Majsa/Britta Maja + Boda 1853; Johannesdotter + Boda 1853 ger bara Karolina). Britta Kajsa Johannesdotter f. 1853 Stavnäs (Finserud) är en annan person. Troligen död före 1880 eller utvandrad/gift under annat namn."
   ]
  },
  {
   "id": "maria_j",
-  "name": "Maria Johannesdotter",
-  "status": "verified",
+  "name": "Maria Johannesdotter (g. Andersson)",
+  "status": "strong",
   "sex": "f",
   "born": {
    "date": "1855",
@@ -5624,15 +5650,22 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Renstad 1/3 m. Kr.sk. (s. 35): Maria Johannesdotter f. 1855 Boda, hustru till August Andersson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431050&tab=post"
    }
   ],
   "search": [
    "Maria Johannesdotter"
+  ],
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 45): ”Johannesdotter, Maria, f. 1855 i Boda”, gift, hustru till August Andersson f. 1854 Boda (fam. nr 2 hos hans föräldrar Anders Andersson/Kajsa Olsdotter); son Johan Alfred f. 1879. Enda Maria Johannesdotter f. 1855 Boda i folkräkningarna – identifieringen med systern bygger på namn+år+födelseort, ingen uttrycklig kyrkbokslänk. Ej funnen 1890 (August då utan hustru; död 1880–90 ej kontrollerat)."
   ]
  },
  {
   "id": "brittacaisa_j",
-  "name": "Britta Caisa Johannesdotter",
+  "name": "Britta Kajsa Johannesdotter",
   "status": "verified",
   "sex": "f",
   "born": {
@@ -5640,17 +5673,44 @@
    "place": "Boda"
   },
   "places": [
-   "Nordsjö, Boda"
+   "Nordsjö, Boda",
+   "Renstad (Bråten), Boda"
   ],
   "summary": "Dotter till Johannes Olsson och Anna Andersdotter (husförhörslängd Boda 1856–1860) – Olof August Johannessons syster.",
   "sources": [
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/20 (1856–1860), bild 230, sida 218, Nordsjö: Johannes Olsson 12/5 1830, Anna Andersdotter 24/11 1826, barnen Britta Majsa 1853, Maria 1855, Olof August 1857, Britta Caisa 1859",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036585_00230"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö (s. 32): Britta Kajsa Johannesdotter f. 1859, stjd.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430865&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Boda, Renstad. Bråten (s. 32): Britta Kajsa h. till Johannes Eriksson f. 1848",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604867&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Renstad (s. 28): Britta Kajsa Johannesdotter, änka",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943855&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Boda annex, Renstad Bråten (s. 29): Britta Kajsa, moder, Ägareänka",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553541&tab=post"
    }
   ],
   "search": [
    "Britta Caisa Johannesdotter"
+  ],
+  "died": {
+   "date": "efter 1910",
+   "note": "änka 1900 och 1910; dödsår ej funnet"
+  },
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32 rad 5): ”Johannesdotter, Britta Kajsa, f. 1859 i Boda”, familjeställning ”stjd.” (styvdotter) hos Anders Jansson f. 1834; Anna Andersdotter f. 1826, Olof August f. 1857, Johan f. 1861. Därmed bekräftas systern (stjd.) – samma som Britta Caisa 1859 i husförhöret.",
+   "FOLKRÄKNING 1890 Boda, Renstad. Bråten (s. 32 rad 31): ”Johannesdotter, Britta Kajsa, f. 1859 i Boda”, ”h.” (hustru) till Eriksson, Johannes f. 1848 Boda, Hemeg.; son Johan August f. 1882.",
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 28 rad 47): Britta Kajsa Johannesdotter f. 1859, Änka, Hemmansegare; son Johan August 1882 (s.); piga Anna Lisa Hult f. 1855. 1910 (s. 29 rad 44): ”moder”, Ägareänka f.d., i son Johan Augusts hushåll.",
+   "OBS: Britta Kajsa Olsdotter f. 1859 Boda (g. August Andersson, Renstad) är en annan person med samma namn och födelseår."
   ]
  },
  {
@@ -27668,6 +27728,269 @@
   ],
   "search": [
    "Vilhelm Larsson (f. 1898, Grava)"
+  ]
+ },
+ {
+  "id": "jo_johannes_eriksson",
+  "name": "Johannes Eriksson (f. 1848, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hemmansägare i Renstad (Bråten), Boda; gift med Britta Kajsa Johannesdotter (Olof Augusts syster). Död före 1900 (hon änka 1900).",
+  "notes": [
+   "FOLKRÄKNING 1890 Boda, Renstad. Bråten (s. 32 rad 31): ”Eriksson, Johannes, f. 1848 i Boda Värmlands län, Hemeg.”; hustrun ”Johannesdotter, Britta Kajsa, f. 1859 i Boda” (familjeställning h.); son Johan August f. 1882."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Boda, Renstad. Bråten (s. 32): Johannes Eriksson f. 1848 Boda, Hemeg.; hustru Britta Kajsa Johannesdotter f. 1859; Johan August f. 1882",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604867&tab=post"
+   }
+  ],
+  "search": [
+   "Johannes Eriksson (f. 1848, Boda)"
+  ]
+ },
+ {
+  "id": "jo_johanaugust",
+  "name": "Johan August Johannesson (f. 1882, Boda)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1882",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Son till Britta Kajsa Johannesdotter (Olof Augusts syster) – alltså Olof Augusts systerson och Johan Olofs kusin. Hemmansägare i Renstad Bråten.",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 28 rad 48): ”Johannesson, Johan August, f. 1882 i Boda”, familjeställning ”s.” (son) i hushåll med modern Britta Kajsa Johannesdotter (änka, Hemmansegare).",
+   "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 39): Johan August f. 1882 Boda, Ägare Hemmansägare, gift; hustru(?) ”Johannesdotter, Hulda Maria, f. 1881 i Boda” (ej uttryckligen märkt h. i det sökbara utdraget); barn Maria Elvina f. 1902, Ester Viktoria f. 1906, Ernst Georg f. 1908; modern i fam. nr 2 ”Ägareänka f.d.” (moder).",
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34): Johan August f. 1882 Boda, Hemmansägare, gift; Hulda Maria f. 1881; med flera barn/hushållsmedlemmar (Arvid Krispin Johansson f. 1911, Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Renstad (s. 28): Johan August Johannesson f. 1882, s. till Britta Kajsa Johannesdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943856&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Boda annex, Renstad Bråten (s. 29)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553536&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Boda, Renstad (s. 22)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Johan August Johannesson (f. 1882, Boda)"
+  ]
+ },
+ {
+  "id": "jo_hulda_maria81",
+  "name": "Hulda Maria Johannesdotter (f. 1881, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hushållsmedlem hos Johan August Johannesson 1910 och 1930, sannolikt hans hustru (gift) – familjeställning ej utläst.",
+  "notes": [
+   "FOLKRÄKNING 1910 och 1930 Boda, Renstad: ”Johannesdotter, Hulda Maria, f. 1881 i Boda”, i Johan Augusts familj. Obs: Johan August är född 1882 med patronymikon Johannes – hon är sannolikt hustru (barn född 1902 ff.), men kan inte uteslutas vara syster."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Boda annex, Renstad Bråten (s. 29)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553536&tab=post"
+   }
+  ],
+  "search": [
+   "Hulda Maria Johannesdotter (f. 1881, Boda)"
+  ]
+ },
+ {
+  "id": "jo_august_andersson54",
+  "name": "August Andersson (f. 1854, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad (Der nole), Boda"
+  ],
+  "summary": "Hemmansägare Renstad; gift 1:o med Maria Johannesdotter (Olof Augusts syster), sedan med Britta Kajsa Olsdotter (f. 1859).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 44): ”Andersson, August, f. 1854 i Boda”, ”g. son” i föräldrarnas hushåll (Anders Andersson f. 1826, Kajsa Olsdotter f. 1826); fam. nr 2: August, ”Johannesdotter, Maria, f. 1855 i Boda” (hustru), Johan Alfred f. 1879.",
+   "FOLKRÄKNING 1890 Boda, Renstad der Nole (s. 33 rad 22): August Andersson f. 1854 Hemeg., barn Johan Alfred 1879, Nils Oskar 1881, Anna Lavinia 1882, ingen hustru (Maria död 1880–90, ej kontrollerat).",
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 41): August, gift med ”Olsdotter, Britta Kajsa, f. 1859 i Boda”; Johansdotter Emilie Helene 1884; Johan Alfred, Nils Oskar, Anna Lavinia; Maria Kajsa 1896, Karl Gustaf 1898; svärmor/mor Kajsa Olsdotter f. 1826 (fam. 2)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Renstad (s. 35): August Andersson f. 1854 + Maria Johannesdotter f. 1855 + Johan Alfred 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431049&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Boda, Renstad der Nole (s. 33)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Renstad (s. 29)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943899&tab=post"
+   }
+  ],
+  "search": [
+   "August Andersson (f. 1854, Boda)"
+  ]
+ },
+ {
+  "id": "jo_johanalfred79",
+  "name": "Johan Alfred Andersson (f. 1879, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Son till August Andersson och Maria Johannesdotter – Olof Augusts systerson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad (s. 35): ”Johan Alfred, f. 1879 i Boda” i August Anderssons och Maria Johannesdotters familj (utan egen familjeställning i utdraget)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Renstad (s. 35)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431050&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Alfred Andersson (f. 1879, Boda)"
+  ]
+ },
+ {
+  "id": "jo_nilsoskar81",
+  "name": "Nils Oskar Andersson (f. 1881, Boda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1881) – troligen Marias son.",
+  "notes": [
+   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Boda, Renstad der Nole (s. 33)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604907&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Oskar Andersson (f. 1881, Boda)"
+  ]
+ },
+ {
+  "id": "jo_annalavinia82",
+  "name": "Anna Lavinia Andersson (f. 1882, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1882",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1882).",
+  "notes": [
+   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Anna Lavinia, f. 1882 i Boda” i August Anderssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Renstad (s. 29)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943899&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Lavinia Andersson (f. 1882, Boda)"
+  ]
+ },
+ {
+  "id": "jo_johan_j61",
+  "name": "Johan Johannesson (f. 1861, Boda)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1861",
+   "place": "Boda, Värmlands län"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Olof Augusts yngre bror, styvson hos Anders Jansson 1880. Inga senare folkräkningsposter hittade – troligen död eller utvandrad.",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32): ”Johannesson, Johan, f. 1861 i Boda”, familjeställning ”stjs.” (styvson) hos hemmansägaren Anders Jansson f. 1834 och Anna Andersdotter f. 1826; syskon Olof August 1857, Britta Kajsa 1859. Sökning på Johan Johannesson/Johansson f. 1861 Boda 1890–1930 gav inga träffar."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö (s. 32): Johan Johannesson f. 1861, stjs.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430866&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Johannesson (f. 1861, Boda)"
+  ]
+ },
+ {
+  "id": "jo_maja_cajsa55",
+  "name": "Maja Cajsa Johannesdotter (f. 1855, Boda; piga Stockholm 1880)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1855",
+   "place": "Boda Värmlands län"
+  },
+  "places": [
+   "Hedvig Eleonora rote 9, Stockholm"
+  ],
+  "summary": "Möjlig annan identifiering av Maria/Britta Majsa Johannesdotter; svag – särskilt eftersom Maria 1855 är identifierad (g. Andersson).",
+  "notes": [
+   "FOLKRÄKNING 1880 Stockholm, Hedvig Eleonora rote 9, Brunfisken N:o 13 (s. 290 rad 11): ”Johannesdotter, Maja Cajsa, f. 1855 i Boda Värmlands län, Piga”, ogift, ensamstående. Ingen länk till Johannes Olsson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Hedvig Eleonora rote 9 (s. 290)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_117131391&tab=post"
+   }
+  ],
+  "search": [
+   "Maja Cajsa Johannesdotter (f. 1855, Boda; piga Stockholm 1880)"
   ]
  }
 ]
