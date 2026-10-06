@@ -3779,8 +3779,8 @@
   "type": "partner",
   "a": "anders_nilsson53_boda",
   "b": "lena_andersdotter",
-  "status": "candidate",
-  "basis": "Folkräkning 1900 (Folk_109937928) och 1910 (Folk_125549641): Lena/Lina Andersdotter f. 1858 som hustru i Anders Nilssons hushåll."
+  "status": "verified",
+  "basis": "Folkräkning 1900 (Folk_109937928) och 1910 (Folk_125549641): Lena/Lina Andersdotter f. 1858 som hustru i Anders Nilssons hushåll. VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Svartåna s.26 fam.1: Folk_109937924 'Nilsson, Anders' f.1853 Boda, Gift, Far/man, Hemmansegare; Folk_109937925 'Andersdotter, Lena' f.1858 Boda, Gift, Familjeställning 'h.', Famstkod Mor/fru, rad 48."
  },
  {
   "id": "s-karl-johan_alfred_nilsson",
@@ -3811,8 +3811,8 @@
   "type": "partner",
   "a": "august_nilsson_gullsbyn",
   "b": "stina_jansdotter",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Gullsbyn (Folk_109937345): husfader och hustru i samma familj. Stina är styvmor: gift med August först efter 1890 (Maria Katrina dog 17/12 1889; folkräkning 1890: änkling)."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Gullsbyn (Folk_109937345): husfader och hustru i samma familj. Stina är styvmor: gift med August först efter 1890 (Maria Katrina dog 17/12 1889; folkräkning 1890: änkling). VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Gullsbyn s.15 fam.1: Folk_109937341 Nilsson, August f.1855 Brunskog, Gift, Far/man; Folk_109937342 Jansdotter, Stina f.1847 Brunskog, Gift, 'h.', Mor/fru. Samma 1910 (Folk_125549205/-206, Gullsby s.13). 1880 (Folk_120423470/-471): August med Maria Katrina 'h.'; 1890 (Folk_103598332) änkling – stämmer med att Stina är senare hustru."
  },
  {
   "id": "s-hanna-anna_maria_augustsson_1885",
@@ -5873,8 +5873,8 @@
   "type": "partner",
   "a": "aa48_ullerud",
   "b": "mathilda_nilsd53_gras",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Nedre Ullerud (Folk_103500648): hushåll Andersson, Anders f. 1848 (gift) + Nilsdotter, Mathilda f. 1853."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Nedre Ullerud (Folk_103500648): hushåll Andersson, Anders f. 1848 (gift) + Nilsdotter, Mathilda f. 1853. VERIFIERAD (omgång 24): Folkräkning 1890 Nedre Ullerud/Risätter s.46 fam.1: Folk_103500648 Andersson, Anders f.1848 Brunskog, Gift, Far/man, Gårdfarihandlande; Folk_103500649 Nilsdotter, Mathilda f.1853 Gräsmark, Gift, 'h.', Mor/fru."
  },
  {
   "id": "p-jan_e-kajsa_jonsd35_finneback",
@@ -6028,8 +6028,8 @@
   "type": "partner",
   "a": "olof_persson_dernere_1854",
   "b": "betty_a1854",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Skog Folk_109937592: Persson, Olof f. 1854 + Andersdotter, Betty f. 1854 som fam. nr 1 med barnen (familjeställning ej utskriven i hushållslistan)."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog Folk_109937592: Persson, Olof f. 1854 + Andersdotter, Betty f. 1854 som fam. nr 1 med barnen (familjeställning ej utskriven i hushållslistan). VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Skog s.20 fam.1: Folk_109937588 Persson, Olof f.1854 Brunskog, Gift, Far/man; Folk_109937589 Andersdotter, Betty f.1854 Brunskog, Gift, 'h.', Mor/fru. Samma 1890 (Folk_103597992/-993) och 1880 (Folk_120423063/-064: Betty 'h.')."
  },
  {
   "id": "c-olof_persson_dernere_1854-betty_a1854-olof_viktor_olsson_1885",
@@ -6244,8 +6244,8 @@
   "type": "partner",
   "a": "olof_ec",
   "b": "maria_olofsd_ec",
-  "status": "strong",
-  "basis": "A I/23 bild 144 (s. 142), Ö. Takene: ”Hustru Maria Olofsdr” direkt under Olof Ersson 2/5 15; anm. ”lysning ... Maria Olsdr i Takene”."
+  "status": "verified",
+  "basis": "A I/23 bild 144 (s. 142), Ö. Takene: ”Hustru Maria Olofsdr” direkt under Olof Ersson 2/5 15; anm. ”lysning ... Maria Olsdr i Takene”. VERIFIERAD (omgång 24): Husförhör Brunskog A I/23 (C0036762) bild 144 (s.132/142), Ö. Takene, zoomad bild: raden 'Olof Ersson 2/5 15 Brunskog', direkt under 'Hustru Maria Olofsdr ... 23 (osäker) ibm', därunder 'Dott. Betty 50 ibm'; anmärkning t.h. om lysning 'med Pg Maria Olsd(r) i Takene' (osäker läsning). Hustru-rad direkt under Olof."
  },
  {
   "id": "c-olof_ec-maria_olofsd_ec-betty_ec_1850",
@@ -6369,16 +6369,16 @@
   "type": "partner",
   "a": "fr_kajsanilsd1818",
   "b": "nilsbengtsson_fr30",
-  "status": "strong",
-  "basis": "Frykerud vigselbok E I/2 bild 105: 5 aug 1855 ”Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg. från Lene”, 25/37 år. Brudens föräldrar ej angivna; åldern 37 och Lene stämmer med Kajsa f. 20/12 1818 (https://sok.riksarkivet.se/bildvisning/C0037141_00105)."
+  "status": "verified",
+  "basis": "Frykerud vigselbok E I/2 bild 105: 5 aug 1855 ”Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg. från Lene”, 25/37 år. Brudens föräldrar ej angivna; åldern 37 och Lene stämmer med Kajsa f. 20/12 1818 (https://sok.riksarkivet.se/bildvisning/C0037141_00105). VERIFIERAD (omgång 24): Folkräkning 1880 Frykerud/Klaxås s.22 fam.1: Folk_119245955 Bengtsson, Nils f.1830 Frykerud, Gift, Far/man; Folk_119245956 Nilsdotter, Kajsa f.1818 Frykerud, Gift, 'h.', Mor/fru. Samma 1890 (Folk_103489173/-174) och 1900 (Folk_119379329/-330). Stöds av vigselbok Frykerud E I/2 bild 105 (1855)."
  },
  {
   "id": "p-fr_jonasnilsson1821-lovisa_carlsd_lene31",
   "type": "partner",
   "a": "fr_jonasnilsson1821",
   "b": "lovisa_carlsd_lene31",
-  "status": "strong",
-  "basis": "Frykerud vigselbok E I/2 bild 108: 4 jan 1857 ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år (https://sok.riksarkivet.se/bildvisning/C0037141_00108)."
+  "status": "verified",
+  "basis": "Frykerud vigselbok E I/2 bild 108: 4 jan 1857 ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år (https://sok.riksarkivet.se/bildvisning/C0037141_00108). VERIFIERAD (omgång 24): Vigselbok Frykerud E I/2 (C0037141) bild 108 (sida 187), Wigde år 1857, rad 4: 'Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bägge från Lene' åldrar 36 / 26 (läst på bild; folkräkningssök 1880–1900 gav ingen träff på paret)."
  },
  {
   "id": "c-fr_jonasnilsson1821-lovisa_carlsd_lene31-fr_mariastinajonasd1858",
@@ -6492,8 +6492,8 @@
   "type": "partner",
   "a": "christopher_ec",
   "b": "maria_eriksdotter_1836_kc",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene: Kristoffer Eriksson 1835, Maria Eriksdotter 1836 i samma hushåll (fam 1)"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene: Kristoffer Eriksson 1835, Maria Eriksdotter 1836 i samma hushåll (fam 1) VERIFIERAD (omgång 24): Folkräkning 1880 Brunskogs moder/Ö. Takene s.29 fam.1: Folk_120423254 Eriksson, Kristoffer f.1835 Brunskog, Gift, Far/man, Hemmansägare; Folk_120423255 Eriksdotter, Maria f.1836 Brunskog, Gift, 'h.', Mor/fru. Samma 1890 (Folk_103598174/-175) och 1900 (Folk_109938111/-112)."
  },
  {
   "id": "c-christopher_ec-maria_eriksdotter_1836_kc-erik_kc_1862",
@@ -6544,8 +6544,8 @@
   "type": "partner",
   "a": "anders_andersson_1831_furtan",
   "b": "karin_ec",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan s. 66: Karin Eriksdotter 1830 med familjeställning ”h.” (hustru) till Anders Andersson 1831; 1890 samma"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan s. 66: Karin Eriksdotter 1830 med familjeställning ”h.” (hustru) till Anders Andersson 1831; 1890 samma VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog/Westra Furtan s.66 fam.1: Folk_120425073 Andersson, Anders f.1831 Brunskog, Gift, Far/man, Hemmansägare; Folk_120425074 Eriksdotter, Karin f.1830 Brunskog, Gift, 'h.', Mor/fru."
  },
  {
   "id": "c-anders_andersson_1831_furtan-karin_ec-anders_ak_1854",
@@ -6648,8 +6648,8 @@
   "type": "partner",
   "a": "jonas_ec",
   "b": "britta_jonasdotter_1831_jec",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Nordsjö, Boda s. 32: Jonas Ersson 1822 Brunskog + Britta Jonasdotter 1831 Boda; identitet med Jonas Eriksson ej bevisad"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nordsjö, Boda s. 32: Jonas Ersson 1822 Brunskog + Britta Jonasdotter 1831 Boda; identitet med Jonas Eriksson ej bevisad VERIFIERAD (omgång 24): Folkräkning 1880 Boda/Nordsjö s.32 fam.1: Folk_120430886 Ersson, Jonas f.1822 Brunskog, Gift, Far/man, Hemmansägare; Folk_120430887 Jonasdotter, Britta f.1831 Boda, Gift, 'h.', Mor/fru. Samma 1890 (Folk_103604688/-689) och 1900 (Folk_109943710/-711). Obs: Jonas Eriksson=Ersson (patronymvariant); enda Jonas Ersson f.1822 Brunskog i Boda-sökningen. Partnerskapet i folkräkningen är klart; identiteten med persons.json-posten bygger på namn+år+födelseort (inga motstridiga träffar)."
  },
  {
   "id": "c-jonas_ec-britta_jonasdotter_1831_jec-erik_johan_jec_1857",
@@ -6722,8 +6722,8 @@
   "type": "partner",
   "a": "n44k_karljohan77",
   "b": "milla_fagerheim73",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Norra Boda sida 4 rad 33 och 1930 sida 3 rad 28: Karl Johan Nilsson, Gift, hustru Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker; vigselår 1902."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Norra Boda sida 4 rad 33 och 1930 sida 3 rad 28: Karl Johan Nilsson, Gift, hustru Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker; vigselår 1902. VERIFIERAD (omgång 24): Folkräkning 1910 Boda annex/Norra Boda Lyckan s.4: Folk_125552461 Nilsson, Karl Johan f.1877 Boda, Gift, Far/man; Folk_125552462 Gudbrandsdotter Fagerheim, Milla f.1873, Gift, 'h.', Mor/fru. 1930 Boda s.3: Folk_128380656/-657 samma."
  },
  {
   "id": "c-n44k_karljohan77-milla_fagerheim73-vilhelm_nilsson04",
@@ -6752,8 +6752,8 @@
   "type": "partner",
   "a": "n44k_emelie86",
   "b": "oskaralfred_emanuelsson81",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud sida 31 rad 49: Emilia Helena Nilsson f. 1886 Boda, Familjeställning ”h.”, vigselår 1919, f. Nilsson, med Oskar Alfred Emanuelsson."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud sida 31 rad 49: Emilia Helena Nilsson f. 1886 Boda, Familjeställning ”h.”, vigselår 1919, f. Nilsson, med Oskar Alfred Emanuelsson. VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud/Köpung Gärdet s.31 fam.1: Folk_128607736 Emanuelsson, Oskar Alfred f.1881 Frykerud, Gift, Far/man; Folk_128607737 Nilsson, Emilia Helena f.1886 Boda, Gift, 'h.', Mor/fru."
  },
  {
   "id": "c-oskaralfred_emanuelsson81-n44k_emelie86-gurlielsa_emanuelsson20",
@@ -6854,16 +6854,16 @@
  {
   "id": "p-anders_janson77-emilia_nilson80",
   "type": "partner",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Solna: gift (vigselår 1913), Emilia Kristina Wilhelmina Nilson f. 1880 i hushållet Anders Janson f. 1877 Brunskog",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Solna: gift (vigselår 1913), Emilia Kristina Wilhelmina Nilson f. 1880 i hushållet Anders Janson f. 1877 Brunskog VERIFIERAD (omgång 24): Folkräkning 1930 Solna/Stadsägan 73 Råsunda s.222 fam.1: Folk_130024578 Janson, Anders f.1877 Brunskog, Gift, Far/man; Folk_130024579 Nilson, Emilia Kristina Wilhelmina f.1880 Klara Stockholms stad, Gift, 'h.', Mor/fru.",
   "a": "anders_janson77",
   "b": "emilia_nilson80"
  },
  {
   "id": "p-jonas_e-malin_olsd26",
   "type": "partner",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Jonas Elofsson f. 1821 (gift) ensam med Malin Olsdotter f. 1826 i hushållet (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Jonas Elofsson f. 1821 (gift) ensam med Malin Olsdotter f. 1826 i hushållet (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Brunskogs moder/Ö. Takene s.29 fam.1: Folk_120423248 Elofsson, Jonas f.1821 Brunskog, Gift, Far/man, Hemmansägare; Folk_120423249 Olsdotter, Malin f.1826 Mangskog, Gift, 'h.', Mor/fru.",
   "a": "jonas_e",
   "b": "malin_olsd26"
  },
@@ -7129,8 +7129,8 @@
   "type": "partner",
   "a": "jan_petter_larsson56",
   "b": "fr_mariastinajonasd1858",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Frykerud/Prestbol. s.49 r.42: Jan Petter Larsson f. 1856 Botilsäter (Dagk.), Maria Stina Jonasdotter f. 1858 Frykerud (Gift, Mor/fru); 1900 Grava/Hynboholm s.56 r.12. (Identitet Maria Stina = dotter till Jonas Nilsson ej uttryckligen belagd.)"
+  "status": "verified",
+  "basis": "Folkräkning 1890 Frykerud/Prestbol. s.49 r.42: Jan Petter Larsson f. 1856 Botilsäter (Dagk.), Maria Stina Jonasdotter f. 1858 Frykerud (Gift, Mor/fru); 1900 Grava/Hynboholm s.56 r.12. (Identitet Maria Stina = dotter till Jonas Nilsson ej uttryckligen belagd.) VERIFIERAD (omgång 24): Folkräkning 1890 Frykeruds/Prestbol. s.49 fam.1: Folk_103490013 Larsson, Jan Petter f.1856 Botilsäter, Gift, Far/man, Dagk.; Folk_103490014 Jonasdotter, Maria Stina f.1858 Frykerud, Gift, 'h.', Mor/fru. Samma 1900 Grava/Hynboholm s.56 (Folk_108722395/-396) och 1910 (Folk_125484829). Obs: identiteten med dopet 21-22/2 1858 Lene bygger på namn+år+församling (enda gifta Maria Stina Jonasdotter f.1858 Frykerud; en ogift Maria Stina Jonasdotter f.1858 Frykerud i Kihl 1880, Folk_120336731, är sannolikt samma före giftermålet)."
  },
  {
   "id": "c-jan_petter_larsson56-fr_mariastinajonasd1858-larsson_oskar83",
@@ -7281,8 +7281,8 @@
   "type": "partner",
   "a": "jo_august_andersson54",
   "b": "maria_j",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Boda, Renstad (s. 35): August Andersson f. 1854 och ”Johannesdotter, Maria, f. 1855” i fam. nr 2 (gift)."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda, Renstad (s. 35): August Andersson f. 1854 och ”Johannesdotter, Maria, f. 1855” i fam. nr 2 (gift). VERIFIERAD (omgång 24): Folkräkning 1880 Boda/Renstad s.35 fam.2: Folk_120431049 Andersson, August f.1854 Boda, Gift, 'g. son', Far/man; Folk_120431050 Johannesdotter, Maria f.1855 Boda, Gift, 'h.', Mor/fru."
  },
  {
   "id": "c-jo_august_andersson54-maria_j-jo_johanalfred79",
@@ -7300,8 +7300,8 @@
   "type": "partner",
   "a": "jo_johanaugust",
   "b": "jo_hulda_maria81",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381597): Johan August f. 1882 gift, vigselår 1903; hushållet har Johannesdotter, Hulda Maria f. 1881 som enda vuxna kvinna; 1910 samma uppställning (Folk_125553536)."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381597): Johan August f. 1882 gift, vigselår 1903; hushållet har Johannesdotter, Hulda Maria f. 1881 som enda vuxna kvinna; 1910 samma uppställning (Folk_125553536). VERIFIERAD (omgång 24): Folkräkning 1910 Boda annex/Renstad Bråten s.29: Folk_125553536 Johannesson, Johan August f.1882 Boda, Gift, Far/man; Folk_125553537 Johannesdotter, Hulda Maria f.1881 Boda, Gift, 'h.', Mor/fru. 1930 Boda/Renstad s.22: Folk_128381597/-598 samma."
  },
  {
   "id": "s-olofaugust-brittacaisa_j",
@@ -7384,8 +7384,8 @@
   "type": "partner",
   "a": "olof_olsson_takene_1896",
   "b": "ao4_brita_nilsd02",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Ö. Takene s.27: Olof f. 1804 + Brita Nilsdotter f. 1802, fam. nr 2 (gift). Identitet Olof f. 1804 = Olof d. 1896 sannolik men ej bevisad."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.27: Olof f. 1804 + Brita Nilsdotter f. 1802, fam. nr 2 (gift). Identitet Olof f. 1804 = Olof d. 1896 sannolik men ej bevisad. VERIFIERAD (omgång 24): Folkräkning 1880 Brunskogs moder/Ö. Takene s.27 fam.2: Folk_120423136 Olsson, Olof f.1804 Brunskog, Gift, Familjeställning 'fadern', Far/man; Folk_120423137 Nilsdotter, Brita f.1802 Brunskog, Gift, 'modern', Mor/fru (båda föräldrar till hushållets huvud, rad 13-14). Obs: identiteten Olof f.1804 = Olof d.1896 ej bevisad; en annan Olof Olsson f.1804 Brunskog finns i Nusviken (hustru Anna Eriksdotter)."
  },
  {
   "id": "c-ao4_olof_andersson_takene-olof_olsson_takene_1896",
@@ -7569,8 +7569,8 @@
   "type": "partner",
   "a": "olof_am",
   "b": "betty_j1853_skog",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Skog: Olof Andersson f. 1841 Gift + Betty Jansdotter f. 1853 ”h.” (hustru) i hushållet; identiteten Olof Andersson (1841) = Anders Månssons son är strong."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog: Olof Andersson f. 1841 Gift + Betty Jansdotter f. 1853 ”h.” (hustru) i hushållet; identiteten Olof Andersson (1841) = Anders Månssons son är strong. VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Skog s.20 fam.1: Folk_109937585 Andersson, Olof f.1841 Brunskog, Gift, Far/man, Hemmansegare; Folk_109937586 Jansdotter, Betty f.1853 Brunskog, Gift, 'h.', Mor/fru."
  },
  {
   "id": "c-olof_am-betty_j1853_skog-alma_karolina_oa96",
@@ -7612,8 +7612,8 @@
   "type": "partner",
   "a": "d7_anders_sylvander",
   "b": "d7_matilda_nilsson_sylvander",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. VERIFIERAD (omgång 24): Folkräkning 1880 Frykerud/Edet s.10 fam.1: Folk_119245380 Andersson Sylvander, Anders f.1852 Brunskog, Gift, Far/man; Folk_119245381 Nilsdotter, Mathilda f.1855 Boda, Gift, 'h.', Mor/fru. Samt 1890 Skog (Folk_103598007/-008): Nilsson, Matilda f.1855 Boda, 's.h.'. Husförhör A I/37 bild 162 (basis) 'H. Matilda Nilsson'."
  },
  {
   "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_anna",
@@ -7841,8 +7841,8 @@
   "type": "partner",
   "a": "emil_pa58",
   "b": "anna_charlotta_n63",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: Emil Persson f. 1858, gift, hushåll med Anna Charlotta Nilsdotter f. 1863 och gemensamma barn (Nolby/Svartåna)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: Emil Persson f. 1858, gift, hushåll med Anna Charlotta Nilsdotter f. 1863 och gemensamma barn (Nolby/Svartåna). VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Nolby s.19 fam.1: Folk_109937565 Persson, Emil f.1858 Boda, Gift, Far/man, Arrendator; Folk_109937566 Nilsdotter, Anna Charlotta f.1863 Brunskog, Gift, 'h.', Mor/fru. Samma 1890 (Folk_103597527/-528) och 1910 (Folk_125549686/-687)."
  },
  {
   "id": "c-emil_pa58-anna_charlotta_n63-nils_paul_pa86",
@@ -7948,8 +7948,8 @@
   "type": "partner",
   "a": "johannes_pa50",
   "b": "britta_olsd53",
-  "status": "strong",
-  "basis": "Folkräkning 1900/1910 Finnebäck: Johannes Persson f. 1850 Boda, gift, hushåll med Britta Olsdotter f. 1853 Brunskog."
+  "status": "verified",
+  "basis": "Folkräkning 1900/1910 Finnebäck: Johannes Persson f. 1850 Boda, gift, hushåll med Britta Olsdotter f. 1853 Brunskog. VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Finnebäck s.9 fam.1: Folk_109937047 Persson, Johannes f.1850 Boda, Gift, Far/man; Folk_109937048 Olsdotter, Britta f.1853 Brunskog, Gift, 'h.', Mor/fru. Samma 1910 (Folk_125548958/-959)."
  },
  {
   "id": "c-johannes_pa50-britta_olsd53-anna_amalia_jp91",
@@ -8026,16 +8026,16 @@
   "type": "partner",
   "a": "jb73_berggren",
   "b": "betty_persson70_berggren",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Årnäs sida 44: Berggren, Johannes; Persson, Betty (hustru)."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Årnäs sida 44: Berggren, Johannes; Persson, Betty (hustru). VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog/Årnäs s.44 fam.1: Folk_109938805 Berggren, Johannes f.1873 Brunskog, Gift, Far/man, Fabriksförman; Folk_109938806 Persson, Betty f.1870 Brunskog, Gift, 'h.', Mor/fru. 1910 (Folk_125550483/-484) samma."
  },
  {
   "id": "p-jb73_berggren-elin_engstrom86_berggren",
   "type": "partner",
   "a": "jb73_berggren",
   "b": "elin_engstrom86_berggren",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Årnäs sida 34: Engström, Elin, vigselår 1928."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Årnäs sida 34: Engström, Elin, vigselår 1928. VERIFIERAD (omgång 24): Folkräkning 1930 Brunskog/Årnäs s.34 fam.1: Folk_128884367 Berggren, Johannes f.1873 Brunskog, Gift, Far/man, Byggnadssnickare; Folk_128884368 Engström, Elin f.1886 Stavnäs, Gift, 'h.', Mor/fru."
  },
  {
   "id": "c-jb73_berggren-betty_persson70_berggren-jonmaurits_jb98",
@@ -8105,8 +8105,8 @@
   "type": "partner",
   "a": "karljohansson71_pa",
   "b": "anna_ps72",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Arvika köping sida 40: Persdotter, Anna ”h.”; 1930: vigselår 1897."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Arvika köping sida 40: Persdotter, Anna ”h.”; 1930: vigselår 1897. VERIFIERAD (omgång 24): Folkräkning 1900 Arvika köping N:o 116 s.40: Folk_113723614 Johansson, Karl f.1871 Stavnäs, Gift, Far/man; Folk_113723615 Persdotter, Anna f.1872 Boda, Gift, 'h.', Mor/fru. 1910 Frykerud/Norra Näs (Folk_124043934/-935) och 1930 (Folk_128608212/-213) samma."
  },
  {
   "id": "c-karljohansson71_pa-anna_ps72-johanevald_kj98",
@@ -8331,16 +8331,16 @@
   "type": "partner",
   "a": "z_janne_timoteus",
   "b": "tilda_jansson_z",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Eda sida 27 rad 10: Janne Timoteus Zetterlund Gift (Far/man), därefter Tilda Jansson 1865 Sunne."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Eda sida 27 rad 10: Janne Timoteus Zetterlund Gift (Far/man), därefter Tilda Jansson 1865 Sunne. VERIFIERAD (omgång 24): Folkräkning 1900 Eda/Charlottenbergs tobaksfabrik s.27 fam.1: Folk_109915806 Zetterlund, Janne Timoteus f.1872 Sunne, Gift, Far/man, Bokhållare; Folk_109915807 Jansson, Tilda f.1865 Sunne, Gift, 'h.', Mor/fru."
  },
  {
   "id": "p-z_janne_timoteus-gerda_brandt_z",
   "type": "partner",
   "a": "z_janne_timoteus",
   "b": "gerda_brandt_z",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Hudiksvall sida 147: Janne Timotheus Zetterlund Gift (Far/man), därefter Gerda Karolina Brandt 1879."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Hudiksvall sida 147: Janne Timotheus Zetterlund Gift (Far/man), därefter Gerda Karolina Brandt 1879. VERIFIERAD (omgång 24): Folkräkning 1910 Hudiksvall s.147 fam.1: Folk_123412893 Zetterlund, Janne Timotheus f.1872 Sunne, Gift, Far/man, Snusfabriksdisponent; Folk_123412894 Brandt, Gerda Karolina f.1879 Hammarby Stockholms län, Gift, 'h.', Mor/fru; barn 'hans d. i 1:a g.'."
  },
  {
   "id": "c-z_janne_timoteus-tilda_jansson_z-z_elsa_ingeborg",
@@ -8410,8 +8410,8 @@
   "type": "partner",
   "a": "nils_ne",
   "b": "stina_bryntesdotter_z",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Arvika landsf. sida 86 rad 4: Nils Zetterlund Gift (Far/man), därefter Stina Bryntesdotter 1873 Gunnarskog. (Lovisa Jansdotter finns ej 1910 – troligen död.)"
+  "status": "verified",
+  "basis": "Folkräkning 1910 Arvika landsf. sida 86 rad 4: Nils Zetterlund Gift (Far/man), därefter Stina Bryntesdotter 1873 Gunnarskog. (Lovisa Jansdotter finns ej 1910 – troligen död.) VERIFIERAD (omgång 24): Folkräkning 1910 Arvika landsförsamling/Haga s.86 fam.1: Folk_125539970 Zetterlund, Nils f.1841 Brunskog, Gift, Far/man, Folkskolelärare f.d.; Folk_125539971 Bryntesdotter, Stina f.1873 Gunnarskog, Gift, 'h.', Mor/fru. (Lovisa Jansdotter f.1835 Ölme är 'h.' till Nils i 1880 Sunne Folk_120437747/-748, 1890 och 1900 Arvika köping Folk_113724054/-055 – ej med 1910, jfr basis.)"
  },
  {
   "id": "c-stina_bryntesdotter_z-helena_emogenia_andersdotter",
