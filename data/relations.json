@@ -4274,8 +4274,8 @@
   "type": "partner",
   "a": "anders_e",
   "b": "no_stina_nilsd13",
-  "status": "strong",
-  "basis": "Frykerud E I/2 (1814-1861) bild 74, 1837: ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24 (https://sok.riksarkivet.se/bildvisning/C0037141_00074). Anders f. 1816 lämnade Brunskog 1837 till Frykerud (Brunskog A I/19 bild 115: ”Frykerud 37”). Norge FT 1875 Eidsvoll, Hoel: Anders Elofsen f. 1816 Brunskog + Stina Nilsdatter f. 1813 Frykerud, gifta. Vigselposten saknar födelseort/föräldrar, därför strong och inte verified."
+  "status": "verified",
+  "basis": "Frykerud E I/2 (1814-1861) bild 74, 1837: ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24 (https://sok.riksarkivet.se/bildvisning/C0037141_00074). Anders f. 1816 lämnade Brunskog 1837 till Frykerud (Brunskog A I/19 bild 115: ”Frykerud 37”). Norge FT 1875 Eidsvoll, Hoel: Anders Elofsen f. 1816 Brunskog + Stina Nilsdatter f. 1813 Frykerud, gifta. Vigselposten saknar födelseort/föräldrar, därför strong och inte verified. Uppgraderad: Frykerud husförhör A I/18 (C0037119) bild 183 har marginalanteckning ”Lyst tre Aktenskap d. 1/12 37 med pig. Anders Elofsson” vid Stina."
  },
  {
   "id": "c-jozef_orzechowski-katarzyna_zatorska-marianna_orzechowska_1897",
@@ -4545,8 +4545,8 @@
   "type": "partner",
   "a": "michal_orzechowski",
   "b": "agnieszka_orzechowska_1849",
-  "status": "candidate",
-  "basis": "Födelseakt 1875 nr 100: 'отъ жены его Анешки'."
+  "status": "verified",
+  "basis": "Vigselakt Kielce Katedra 1866 nr 94: Michał Orzechowski 24 × Agnieszka Hencel 18, Niewachlów"
  },
  {
   "id": "s-karin_elofsd35-maria_elofsd31_toltan",
@@ -4582,5 +4582,168 @@
   "b": "brita_lisa_jonsdotter_1780",
   "status": "strong",
   "basis": "Dop 1810: ”Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr.”; husförhör A I/18 bild 219 (folio 207): ”Anders Stridsberg … H. Britta Lisa Jonsdotter”; bild 143: ”Enka … e. Kyrkovaktaren A. Stridsberg”. Vigselbok för deras vigsel (ca 1805–09) ej läst."
+ },
+ {
+  "id": "c-wawrzyniec_orzechowski-tekla_orzechowska-michal_orzechowski",
+  "type": "child",
+  "parents": [
+   "wawrzyniec_orzechowski",
+   "tekla_orzechowska"
+  ],
+  "child": "michal_orzechowski",
+  "status": "verified",
+  "basis": "Vigselakt 1866 nr 94: 'synem Wawrzyńca już zmarłego i Tekli ... Orzechowskich'"
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-agnieszka_orzechowska_1849",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "agnieszka_orzechowska_1849",
+  "status": "verified",
+  "basis": "Vigselakt 1866 nr 94: 'córką Augustyna i Maryanny ... małżonków Hencel'"
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-no_stina_nilsd13",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "no_stina_nilsd13",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: hushållet Nils Jonsson 1782 + ”H. Kajsa Kristofers dr” 1784; barn ”H. Stina” 26/10 1813 ibm; marginal ”Lyst tre Aktenskap d. 1/12 37 med pig. Anders Elofsson” (https://sok.riksarkivet.se/bildvisning/C0037119_00183). Barnaskapet till Stina f. 1813 verifierat; att hon är densamma som Stina i Eidsvoll 1875 är ej bevisat."
+ },
+ {
+  "id": "p-fr_nilsjonsson1782-fr_kajsakristofersd1784",
+  "type": "partner",
+  "a": "fr_nilsjonsson1782",
+  "b": "fr_kajsakristofersd1784",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183, Lene: ”Nils Jonsson” och ”H. Kajsa Kristofers dr” med gemensamma barn."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_majanilsd1811",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_majanilsd1811",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_majanilsd1811",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_majanilsd1811",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_lenanilsd1815",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_lenanilsd1815",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_lenanilsd1815",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_lenanilsd1815",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_kajsanilsd1818",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_kajsanilsd1818",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_kajsanilsd1818",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_kajsanilsd1818",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_jonasnilsson1821",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_jonasnilsson1821",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_jonasnilsson1821",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_jonasnilsson1821",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_kristofernilsson1823",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_kristofernilsson1823",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_kristofernilsson1823",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_kristofernilsson1823",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_kajsakristofersd1784-fr_svennilsson1828",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_kajsakristofersd1784"
+  ],
+  "child": "fr_svennilsson1828",
+  "status": "verified",
+  "basis": "Frykerud husförhörslängd A I/18 bild 183 (fol. 173), Lene: barn i Nils Jonssons och Kajsa Kristofers dr:s hushåll (https://sok.riksarkivet.se/bildvisning/C0037119_00183)."
+ },
+ {
+  "id": "s-no_stina_nilsd13-fr_svennilsson1828",
+  "type": "sibling",
+  "a": "no_stina_nilsd13",
+  "b": "fr_svennilsson1828",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/18 bild 183 (fol. 173)."
+ },
+ {
+  "id": "p-backer_j_takene-backer_anna_takene",
+  "type": "partner",
+  "a": "backer_j_takene",
+  "b": "backer_anna_takene",
+  "status": "strong",
+  "basis": "Texas posten 1936-08-20 s.7: Anna Bäcker, Takene, ”var änka efter framlidne hemmansägaren J. Bäcker”; J. Bäcker avled 29/4 1932 i Takene (Svenska amerikanaren 1932-05-26)."
  }
 ]

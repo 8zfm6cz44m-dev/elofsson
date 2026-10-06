@@ -1110,7 +1110,8 @@
    "Skolbarnet ”Johan Olsson Där Nere i Skog” på Takene skolfoto 1921 är en annan, yngre person.",
    "USA 1923 (Z2): Ellis Island-passagerarlista: 'Johan Olaf Olsson', ankomst 10 aug 1923 Ellis Island, fartyg Berengaria från Southampton, gift, fodd 1887 (tree: 23/9 1886), 36 år, senaste hemvist indexerat 'Brunsberg, Sweden' (sannolik felläsning av Brunskog). Passenger-id JNXV-W62, bildref T715-3347-477. Starkt sammanfallande med familjeuppgiften 'emigrerade ensam 1923'. Destination/kontaktperson ej läst (kräver manifestbilden). Status: strong, ej verified (identitet via namn+ålder+gift+Brunskog-felläsning; hustru Hulda ej angiven på posten).",
    "USA 1923 (A1, manifestbild läst): Ellis Island, S.S. Berengaria från Southampton, ankomst 10 aug 1923, manifestblad T715-3347-477 rad 15: ”OLSSON JOHAN OLAF 36 M[arried] … CARPENTER … SWEDISH … Sweden, Brunsberg”; närmaste anhörig i hemlandet: ”WIFE, HILDA OLSSON, BRUNSBERG.”; slutdestination: ”N.Y., JAMESTOWN” (Jamestown, Chautauqua Co., New York – stor svensk koloni). Hustrun Hilda Olsson angiven som anhörig i Sverige = starkt stöd för att posten är Hulda Erikssons make (Hulda = Hilda). Kolumnerna 'betalat biljett'/'ska till släkting/vän' i USA ej läst (bild 478 gick inte att visa).",
-   "USA-SPÅR B1 (2026-10-06): Statue of Liberty-posten JNXV-W62 (namnindexerad som 'Johan Olaf Olsson', bildref T715-3347-477, bildserie 781 bilder) öppnades i viewer; bild 478 (högersidan med närmaste släkting/slutdestination) kunde visas men upplösningen i webbvisaren var för låg för att läsa rad 15 (zoom i viewer gav ingen skarpare bild). Ingen träff i öppna källor på Olof/John Olsson i Jamestown 1923-30 – NYS Historic Newspapers spärrades av Cloudflare-kontroll (ej kringgången). Jamestown-spåret kvarstår olöst."
+   "USA-SPÅR B1 (2026-10-06): Statue of Liberty-posten JNXV-W62 (namnindexerad som 'Johan Olaf Olsson', bildref T715-3347-477, bildserie 781 bilder) öppnades i viewer; bild 478 (högersidan med närmaste släkting/slutdestination) kunde visas men upplösningen i webbvisaren var för låg för att läsa rad 15 (zoom i viewer gav ingen skarpare bild). Ingen träff i öppna källor på Olof/John Olsson i Jamestown 1923-30 – NYS Historic Newspapers spärrades av Cloudflare-kontroll (ej kringgången). Jamestown-spåret kvarstår olöst.",
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172): ”Johan Olof 86 23/9” (= 1886-09-23 bekräftat) i föräldrarnas hushåll Östra Takene; flyttade med dem till Boda 1894-10-26. Ingen Amerikanotering i A I/35–37 (emigration 1923 sker senare)."
   ],
   "sources": [
    {
@@ -1154,6 +1155,10 @@
    {
     "label": "Ellis Island manifest Berengaria 10 aug 1923, T715-3347-477 rad 15: nearest relative ”Wife, Hilda Olsson, Brunsberg”, destination ”N.Y., Jamestown”, yrke carpenter",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 172 (bild 168): Johan Olof 86 23/9",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00168"
    }
   ],
   "images": [
@@ -1373,7 +1378,8 @@
    "FOLKRÄKNINGAR: 1880 Boda (Nordsjö) – ”stjs.” (styvson) till hemmansägare Anders Jansson (f. 1834); modern Anna Andersdotter (f. 1826 i Boda); syskon Britta Kajsa Johannesdotter (1859) och Johan Johannesson (1861). 1890 Takene, 1900 Boda (Jonsbohl), 1910 Takene som hemmansägare. Född 1857 i Boda.",
    "Registerpost 241318 (Lyckane, plats 226371), skapad 2017-01-12 17:45 – tre minuter före uppdateringen av Johan Olof Olssons post.",
    "Samma plats: ARVID Olsson, 1890-11-27 – 1903-07-21 – sannolikt Johans bror som dog som barn.",
-   "MyHeritage: Olof August Johannesson f. 3 feb 1857, far till Johan; föräldrar Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821)."
+   "MyHeritage: Olof August Johannesson f. 3 feb 1857, far till Johan; föräldrar Johannes Olsson (1830–1870) + Anna Andersdotter (f. 1821).",
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172, Östra Takene): ”Inh./Mjölnare? Olof August Johannesson 57 3/2 Boda; H. Maria Olsdotter 63 9/8 Takene; Johan Olof 86 23/9; Arvid 90 27/11”. Bortflyttad-kolumn: ”Boda 94 26/10 96–99” – familjen flyttade till Boda 26 okt 1894 (EJ Amerika)."
   ],
   "sources": [
    {
@@ -1402,6 +1408,10 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 172 (bild 168): Olof August Johannesson 57 3/2 Boda; Maria Olsdotter 63 9/8 Takene; Johan Olof 86 23/9; Arvid 90 27/11 – flyttade till Boda 94 26/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00168"
    }
   ],
   "search": [
@@ -1551,7 +1561,8 @@
    "Bror (mycket stark kandidat): Johannes Zetterlund, 1848-11-01 – 1941-04-20, Östra Takene/Eda, med uttryckligen angivna föräldrar Nils Eriksson och Britta Nilsdotter.",
    "GID: 472.66.5100; 472.66.7000; 472.39.15800 (ej upplösta).",
    "Användarträdet kortar namnet till Erik Nilsson (1843–1936). Efternamnet Zetterlund får inte automatiskt likställas utan kyrkobok.",
-   "Användarträd: son till Nils Eriksson (1820–1850) + Britta Nilsdotter (1820–1891)."
+   "Användarträd: son till Nils Eriksson (1820–1850) + Britta Nilsdotter (1820–1891).",
+   "HUSFÖRHÖR A I/35 bild 179 (fol. 179, Skog): hushållet med äktenskap ”30/12 74” (gift 30 dec 1874) – ”Erik Nilsson 43 8/2 Ö. Takene; H. Anna Andersdotter 46 14/12 Skog; Hanna Elisabeth 76; Erik Johan 78 30/12; Paul 81; Hulda 85; Signe Maria 89”. Ingen utflyttningsnotering 1881–90. Hushållet finns inte i Skog-folierna 163–171 i A I/37 (1891–95, bild 159–167) – troligen annan folio/annan gård i 1891–95 (ej funnet än)."
   ],
   "sources": [
    {
@@ -1577,6 +1588,10 @@
    {
     "label": "Brunskogs hembygdsförening, personpost",
     "url": "https://www.hembygd.se/brunskog/plats/221740/person/389449"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881-1890), Skog folio 179 (bild 179): ”Erik Nilsson 43 8/2 Ö. Takene; H. Anna Andersdotter 46 14/12 Skog; Dot. Hanna Elisabeth 76 [5]/7; Son Erik Johan 78 30/12; Son Paul 81; Dott. Hulda 85; Signe Maria 89 [8/2]” – hela hushållet hemma 1881–90 (ingen utflyttning)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00179"
    }
   ],
   "search": [
@@ -1811,7 +1826,9 @@
    "Bildtexter: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene” och ”Olof Elofsson och Kajsa Jansdotter utanför deras bostad Lycka i Takene”.",
    "Sannolikt son till Elof Persson (1776) och Maria Andersdotter (1787), som också är registrerade på Lycka – samma patronymikon som syskonen Jonas, Ingegerd och Stina Elofsdotter.",
    "Namnmönstret Elof Persson → Olof Elofsson → … → Elof Olsson (1914).",
-   "TIDNINGSBEKRÄFTELSE (KB Svenska tidningar): ”kyrkovärden Olof Elofsson i Takene, Brunskog” – Karlstadstidningen Veckoupplagan 1894-12-05 s.2 (axeln/verandan-notis) och Örnsköldsviks nyheter 1894-12-08; ”kyrkov. O. Elofsson, Takene” – Karlstadstidningen Veckoupplagan 1890-08-27; vald elektor ”Olof Elofsson i Takene, 167 röster” (Karlstadstidningen 1887-04-13, Arvika tidning 1887-04-16); ”utgifven af Olof Elofsson i Takene den 3 April 1891 å 500 [kr]” (revers, Arvika tidning 1895-06-18, Karlstadstidningen Veckoupplagan 1895-06-19). Bekräftar att titeln kyrkvärd är samtida och att han var en framstående man i Takene (ej bara en bildtext)."
+   "TIDNINGSBEKRÄFTELSE (KB Svenska tidningar): ”kyrkovärden Olof Elofsson i Takene, Brunskog” – Karlstadstidningen Veckoupplagan 1894-12-05 s.2 (axeln/verandan-notis) och Örnsköldsviks nyheter 1894-12-08; ”kyrkov. O. Elofsson, Takene” – Karlstadstidningen Veckoupplagan 1890-08-27; vald elektor ”Olof Elofsson i Takene, 167 röster” (Karlstadstidningen 1887-04-13, Arvika tidning 1887-04-16); ”utgifven af Olof Elofsson i Takene den 3 April 1891 å 500 [kr]” (revers, Arvika tidning 1895-06-18, Karlstadstidningen Veckoupplagan 1895-06-19). Bekräftar att titeln kyrkvärd är samtida och att han var en framstående man i Takene (ej bara en bildtext).",
+   "TIDNINGSBEKRÄFTELSE DÖD (D4): Svenska amerikanaren 1910-03-03 s.13 (dödslista Sverige, OCR): ”F. kyrkovärden Olof Elofsson, Takene, Brunskog, 3 febr., 83 år.” – bekräftar död 3/2 1910 och ålder 83 oberoende av tidigare källor (stämmer med f. 26/11 1826).",
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172), ”Lyckan” (Östra Takene): ”Eg. Olof Elofsson 26 26/11 Takene [= 1826-11-26]; H. Kajsa Jansdotter 26 9/6 Boda [= 1826-06-09]; Johan, Kommissionär 50 19/11 Takene [= 1850-11-19]; hr Anna Nilsd. 70 2/4 [= 1870-04-02]”. Johans flyttnotering: ”95/6 el. Anna Nilsd 188?” (ej Amerika)."
   ],
   "sources": [
    {
@@ -1860,6 +1877,14 @@
    {
     "label": "KB Svenska tidningar, sökning ”Elofsson” Takene (95 träffar 1864–1911): kyrkvärden Olof Elofsson i Takene 1887–1895",
     "url": "https://tidningar.kb.se/search?from=1850-01-01&to=1911-12-31&q=%22Elofsson%22%20Takene&searchGranularity=part"
+   },
+   {
+    "label": "Svenska amerikanaren (Chicago) 1910-03-03, s.13: ”F. kyrkovärden Olof Elofsson, Takene, Brunskog, 3 febr., 83 år”",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=cisa19100303-01.1.13"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 172 (bild 168), Lyckan: Olof Elofsson 26 26/11; Kajsa Jansdotter 26 9/6; Johan 50 19/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00168"
    }
   ],
   "search": [
@@ -3952,11 +3977,18 @@
    {
     "label": "Lyckane, se Olof August Johannessons personpost 241318",
     "url": "https://www.hembygd.se/brunskog/plats/226371/person/241318"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 172 (bild 168): Arvid 90 27/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00168"
    }
   ],
   "search": [
    "ARVID Olsson",
    "1890-11-27"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172): ”Arvid 90 27/11” (= 1890-11-27) hos föräldrarna Olof August/Maria Olsdotter, Östra Takene; flyttade till Boda 1894-10-26 (inte Amerika)."
   ]
  },
  {
@@ -4097,10 +4129,17 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 389315",
     "url": "https://www.hembygd.se/brunskog/plats/226232/person/389315"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881-1890), Skog folio 178 (bild 178): ”Johannes Nilsson Zetterlund 48 1/11 Takene; H. Magdalena Andersdotter 53 [22]/7 Skog; Maria Sofia 76; Johan Albin Efraim 78; David Emanuel 81; Maria Elisabeth 84; Alfrida Christina 87; Signe Amalia 89”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00178"
    }
   ],
   "search": [
    "Johannes Zetterlund"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/35 bild 178 (Skog): Johannes Nilsson Zetterlund 48 1/11 Takene (= 1848-11-01) bor på Skog med hustru Magdalena Andersdotter och barnen Maria Sofia 1876, Johan Albin Efraim 1878, David Emanuel 1881, Maria Elisabeth 1884, Alfrida Christina 1887, Signe Amalia 1889. Remark: ”Bortflyttad? … ” ej tolkad. Bekräftar att Johannes bodde på Skog 1881–90 och är Eriks bror (samma efternamn Zetterlund, samma föräldrar enligt register)."
   ]
  },
  {
@@ -4283,7 +4322,8 @@
   },
   "places": [
    "Ö. Takene, Brunskog",
-   "Frykerud (1837–)",
+   "Frykerud, Lene (1837–40)",
+   "Boda (1840–)",
    "Eidsvoll (Hoel), Norge",
    "Ullensaker, Norge"
   ],
@@ -4328,6 +4368,14 @@
    {
     "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/2 (1814-1861), bild 74 (1837, sida ca 124): ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00074"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: i Nils Jonssons hushåll ”Dr. Anders Elofsson” f. 16 Brskg, inflyttad ”Brunskg 37”, utflyttad ”Boda 40”, rad överstruken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Boda in- och utflyttningslängd B/1 (1839-1860), bild 10 (inflyttade 1840): ”Bönd Anders Elofsson”, kom från Frykerud; nr 3 ”Hu Stina Nilsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036591_00010"
    }
   ],
   "search": [
@@ -4345,7 +4393,11 @@
    "B3 Brunskog E I/3 (lysning/vigsel) bild 80 (1840, s.129), 82 (1841, s.133), 83 (1842, s.135): ingen lysning för Anders Elofsson/Elofsen × Stina Nilsdotter sedd (genomläst på översiktsnivå, handstil ej fullt säker). Vigseln är därför sannolikt i Norge eller Frykerud, eller i senare årgång (1843-60 ej läst).",
    "UTFLYTTNING BRUNSKOG (C8, verified post): Brunskog A I/19 (1836-1840) bild 115 sida 100, Ö. Takene: raden ”Anders” f. 16 (Takene) är överstruken och i kolumnen Utflyttad till/år står ”Frykerud 37” – Anders Elofsson (son i Elof Perssons hushåll) flyttade 1837 till Frykerud. Samma sida: modern Maria Andersdotter ”död 1/12 38”; Marit 1808 ”Boda 39”; Britta 1824 ”p. 110. 40”.",
    "VIGSEL FRYKERUD 1837 (C8): Frykerud E I/2 (C0037141) bild 74, rubrik 1837: ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar ”21” och ”24”, lysning ”Nov. 30” (datumkolumnerna ”Nov. 30 . 28”, exakt vigselmånad/-dag osäker, troligen nov/dec 1837). Posten nämner varken föräldrar eller Brunskog, men: Anders f. 1816 lämnade Brunskog för Frykerud 1837, åldern 21 stämmer och hustrun Stina f. 1813 (ålder 24) stämmer med norska folkräkningen 1875 (Anders f. 1816 Brunskog, Stina f. 1813 Frykerud). Identiteten anders_e = Anders Elofsen/Ellefsen i Eidsvoll är därmed STRONG (kedjan Brunskog 1837 → Frykerud-vigsel 1837 → Norge 1875/1891/1893), men saknar post som binder ihop Frykerud och Norge uttryckligen.",
-   "NÄSTA STEG: Frykeruds husförhör (A I/n, ~1838-50) för Anders Elofsson/Stina Nilsdotter med anteckning om utflyttning till Norge; Frykerud flyttlängd B/1 (C0037133, 1833-1860); Eidsvolls kyrkbok 1851-1870 (vigsel ej aktuell, de gifte sig 1837 i Frykerud); Stinas död 1875-91 ej indexerad."
+   "NÄSTA STEG: Frykeruds husförhör (A I/n, ~1838-50) för Anders Elofsson/Stina Nilsdotter med anteckning om utflyttning till Norge; Frykerud flyttlängd B/1 (C0037133, 1833-1860); Eidsvolls kyrkbok 1851-1870 (vigsel ej aktuell, de gifte sig 1837 i Frykerud); Stinas död 1875-91 ej indexerad.",
+   "FRYKERUD 1837–40 (D2, VERIFIED): Husförhör Frykerud A I/18 bild 183, Lene (fol. 173), hushållet Nils Jonsson: sist ”Dr. Lars Bengtsson” (f. 1815 Norge) och ”Dr. Anders Elofsson” f. 16 Brskg, inflyttningskolumn ”Brunskg 37”, utflyttningskolumn ”Boda 40” (raden överstruken). Marginal: ”Lyst tre Akt. 1/12 37 med pig. Stina Nilsd.” – vigsel Frykerud 1837 (E I/2 bild 74) bekräftad som mellan Anders Elofsson och Stina Nilsdotter, dotter i samma hushåll.",
+   "UTFLYTTNING 1840 → BODA, inte Norge: Boda B/1 bild 10: ”Inflyttade Personer till Boda Församling under 1840”: ”2. Bönd Anders Elofsson / Frykerud / Åstetan(?) / Rolander”, ”3. Hu Stina Nilsdotter”. Anders titulerad bonde. Uppföljning: Boda husförhör A I/17 (1841–45, C0036582) Ärtetan fol. 259–264 (bild 271–276) innehåller inte Anders Elofsson – han syns inte kvar i Ärtetan 1841–45; utflyttning från Boda (troligen Norge) ej funnen.",
+   "BARN: Frykeruds dopbok C/6 (C0037139) bild 163–172 (juli 1837–sept 1840) genomläst på översiktsnivå: inget barn med fader Anders Elofsson/moder Stina Nilsdotter sett (Lene-döpta 1838–40 hade andra fäder). Inga barn i husförhöret bild 183 för paret. Barn i Norge/Boda ej funna.",
+   "NORGE-INDEX (D2, Digitalarkivet curl): Anders Elofsen/Ellefsen f. 1816 finns endast i FT 1875 Eidsvoll, FT 1891 Ullensaker, begravning Eidsvoll 1893; Stina Nilsdatter f. 1813 Frykerud endast i FT 1875 (pf01052052001548). Ingen indexerad dödspost för Stina funnen. Identitetsbryggan Boda 1840 → Norge saknas fortfarande."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok)."
@@ -5948,7 +6000,8 @@
    "MANTAL (B4): Åsen (’Åsmotta/Åsenäs’) har 1703–1713 en stabil grupp ”Olof Andersson, Per Nilsson, Nils Nilsson, Erik Olofsson/Jonsson” – husförhören 1760 anger Elof Nilsson på ’Toltan Åsen’; en framtida koppling Elof ↔ Åsen-gården (Per Nilsson/Nils Nilsson = bröder/farbröder?) bör testas (lead).",
    "MANTAL (B4): 1",
    "MANTAL 1712 (A0003193_00446, höger sida, ”Toltan”-gruppen, läsning osäker): Lars Ersson; Nils Nilsson(?); enkeposten ”Gertr[ud] B… (Enkia?)” ; Nils Larsson; Mattis Ersson: Toltan; Mattis Larsson; Per Ersson. Ingen Elof, ingen Isak och ingen Påhl/Per Nilsson läst – Elof (f. 1687, 25 år) står inte som egen bonde 1712. Sidan före (A0003193_00445) innehåller Takene/Åsen-grupper (Öst. Takene m.fl.), ej Toltan.",
-   "MANTAL 1718 (A0003197_00488–00490): Toltan-gruppen ej säkert identifierad; läst ”ost. Tortan” på 489 vä (Jon Nilsson?, Olof Olofsson, Olof Olofsson, Jon Olofsson, Erik Larsson – troligen Östra Takene, ej Toltan) och en ”ost: Tortan”-grupp på 488 vä (Olof Månsson, Olof Hansson, Clas/Carl Larsson …) – ingen Elof Nilsson läst. Tolkning osäker; 1715 och 1719 ej läst."
+   "MANTAL 1718 (A0003197_00488–00490): Toltan-gruppen ej säkert identifierad; läst ”ost. Tortan” på 489 vä (Jon Nilsson?, Olof Olofsson, Olof Olofsson, Jon Olofsson, Erik Larsson – troligen Östra Takene, ej Toltan) och en ”ost: Tortan”-grupp på 488 vä (Olof Månsson, Olof Hansson, Clas/Carl Larsson …) – ingen Elof Nilsson läst. Tolkning osäker; 1715 och 1719 ej läst.",
+   "MANTAL 1715/1718/1719/1720 (D5, omläst med zoom): Elof/Olof Nilsson står INTE som egen mantalsskriven i Toltan-grupperna. 1715 (A0003196_00498 vä): 'Öst. Torten, gifta' = Daniel Andersson, Hans Jonsson, Claes Hansson, Börje Bryntesson, Gustafs änka, Olof Månsson. 1718 (A0003197_00488 vä): '1 Öst: Torten, gifta' = Olof Månsson, Olof Hansson, Claes Hansson, Börje Bryntesson, Gustafs änka; '2 Öst. Torten' (A0003197_00489 vä, klass 2, antagl. inhysesmän/torpare) = '[J/P]ön? Nilsson' (första bokstav oläsbar: Jöns/Per/Olof?), 'ibid. Olof Olofsson', 'ibid. Olof Olofsson', 'Jon Olofsson', 'Erik Larsson'. 1719 (A0003198_00504 vä): Öst. Torten = Gustaf (änka), Olof Månsson, Claes? Hansson, Olof Hansson, Börje Bryntesson. 1720 (A0003199_00526 hö, 'Öst. Torten'): Gustaf(a änka), Olof Månsson, Claes Hansson (blott 3 namn, slutet av sidan). Ingen 'Isak' i Toltan-grupperna något av åren. Slutsats: Elof Nilsson är inte mantalsskriven i Toltan 1715–1720 (bor som inhyses/dräng eller under annat namn) – ej ett belägg för vem han står bredvid; svärfader-hypotesen (Isak) ej styrkt."
   ],
   "timeline": [
    [
@@ -6817,7 +6870,8 @@
    "MANTALSLÄNGD Ö. Takene 1718 (A0003197_00487) och 1719 (A0003198_00503): 'Per Larsson/Per Nilsson/Per Jonsson/Erik Pehrsson/Olof Olsson' m.fl.; ingen säker 'Olof Persson' läst – Olof Persson är troligen mantalsskriven först senare eller läst som 'Per'.",
    "MYHERITAGE-MATCH: Olof Persson 1703–1748, g.m. Ingrid Olsdotter 1693–1771; far till Olof Olsson 1731–1802. Inga föräldrar angivna i MH.",
    "MANTALSLÄNGD Ö. Takene 1650–1700: 1650 (A0001915_00089): Olof, Per, Lars. 1659 (A0003140_00265): Per? Olofsson, Jacob, Knut, Nils, Lars, Olof. 1665 (A0003146_00175 v. sida): Per Olofsson, Knut Olofsson, Jacob, Nils Olofsson. 1670 (A0003151_00194): Per Olofsson, Knut Olofsson, Jon?, Nils Olofsson, Jon Larsson. 1679 (A0003160_00222): Per? Olofsson, Knut Olofsson, Jon Larsson, Nils Hallvardsson, Gudmund, Nils Olofsson, Anders Månsson. 1685 (A0003165_00242): Olof Hansson, Knut Olofsson, Jon Larsson, Nils Hallvardsson, Gudmund, Nils Olofsson, Anders Månsson. 1690 (A0003170_00284): Olof Hansson?, piga Elin, Knut Olofsson ux., Per Ersson, Jon Larsson, Nils Hallvardsson, Gudmund, Olof Nilsson (mod Kerstin, dr Anna), Anund soldat, Måns. 1699 (A0003179_00341/342) ~ som 1700. 1700 (A0003180_00385): Nils Stensson?, Knut Olofsson, Enkan Marit, Nils Hansson?, Bryngel Olofsson, Olof Nilsson, Anund Olofsson, Nils Nilsson. SLUTSATS: ingen säker far 'Per' till Olof Persson (f. ca 1703); kandidater utan stöd: Per Ersson (1690), Per Olofsson (1659–79). Olof Nilsson (Takene 1690–1700) kan vara släkt till Ingrid Olofsdotter f. 1693 (lead).",
-   "MANTAL (B4) – Per i Takene: ”Per Larsson” i Ö. Takene-gruppen 1703, 1704, 1706, 1709, 1710 (sista raderna i gruppen) och ”Per Ersson” 1711 (483 hö). Dessutom två ”Olof Nilsson” (äldre/yngre) i Ö. Takene 1709–1711 och ”Olof Nilsson” i Wäst:r Takene 1711. Olof Persson (f. ca 1703; hustru Ingrid Olofsdotter f. 1693; Olof Olsson f. 1731) skulle vara son till Per Larsson/Per Ersson i Takene (lead) – ingen primärkälla."
+   "MANTAL (B4) – Per i Takene: ”Per Larsson” i Ö. Takene-gruppen 1703, 1704, 1706, 1709, 1710 (sista raderna i gruppen) och ”Per Ersson” 1711 (483 hö). Dessutom två ”Olof Nilsson” (äldre/yngre) i Ö. Takene 1709–1711 och ”Olof Nilsson” i Wäst:r Takene 1711. Olof Persson (f. ca 1703; hustru Ingrid Olofsdotter f. 1693; Olof Olsson f. 1731) skulle vara son till Per Larsson/Per Ersson i Takene (lead) – ingen primärkälla.",
+   "MANTAL Ö. Takene (D5): 1715 (A0003196_00497 hö 'Öst. Takene'): Nils Hansson, Jöns Persson, Johan Gustafsson, Nils Jönsson, Olof Nilsson (äldre), Olof Nilsson (yngre), Olof Gunnarsson, Olof Olsson, Lars Jonsson, Ingeborg(?) änka. 1720 (A0003199_00526 hö 'Öst. Takene'): Nils Hansson, Jon Hansson, Erik Pehrsson, Nils Jönsson, Anders Gunnarsson, Hu: Marit, Per Nilsson, Lars Larsson, Lars Gunnarsson, Olof Olsson, Olof Gunnarsson, Ingeborg?. Ingen 'Olof Persson' och ingen säker 'Per Larsson' i klass 1 – Olof Persson (f. ca 1703) förefaller mantalsskrivas först efter 1720 (ej funnen)."
   ]
  },
  {
@@ -6946,7 +7000,8 @@
    "MANTALSLÄNGD Brunskog – Åsen/Åsmäs och Ö. Takene 1665–1700 (egen läsning). ÅSEN: 1665 (A0003146_00175 v. sida): Hans, Måns, Nils, Jöran. 1670 (A0003151_00194): Hans, Nils, Håkan?(Staffan?), Jon Börjesson. 1679 (A0003160_00222): [Hindrik Törman?], Olof Andersson, Nils, Måns, Jon Börjesson. 1685 (A0003165_00242): Olof Andersson, Nils, Olof Torbjörnsson, Jon Börjesson. 1690 (A0003170_00284): Olof Andersson ux., Nils ux., Jon Hansson, Jon Börjesson. 1695 (A0003175_00490, 'Åsen'): Ingebrikt, Nils Ersson ux., Börje Persson, Per Andersson, Knut Börjesson, Jon Börjesson. 1700 (A0003180_00385): Ingebrigt?, Nils Ersson?, Börje Persson, Per Andersson, Knut Börjesson, Jon Börjesson. Jon Börjesson syns i Åsen 1670–1700 (kontinuitet); Börje Persson (Åsen 1695–1700) kan vara far till Knut/Jon Börjesson. Ingen Påhl/Matts i Åsen före 1700.",
    "MANTALSLÄNGD Brunskog – Ö. Takene 1665–1700: 1665: Per Olofsson, Knut Olofsson, Jacob, Nils Olofsson. 1670: Per Olofsson, Knut Olofsson, Jon?, Nils Olofsson, Jon Larsson. 1679: Per? Olofsson, Knut Olofsson, Jon Larsson, Nils Hallvardsson?, Gudmund?, Nils Olofsson, Anders Månsson. 1685: Olof Hansson?, Knut Olofsson, Jon Larsson, Nils Hallvardsson, Gudmund, Nils Olofsson, Anders Månsson. 1690: Olof Hansson?, piga Elin, Knut Olofsson ux., Per Ersson?, Jon Larsson, Nils Hallvardsson, Gudmund, Olof Nilsson mod. Kerstin, dr Anna, ... 1700: Nils Stensson?, Knut Olofsson, Enkan Marit, Nils Hansson?, Bryngel Olofsson, Olof Nilsson, Anund Olofsson, Nils Nilsson. Per Olofsson (1665–1679) i Ö. Takene är en möjlig tidig Takene-Per, ej kopplad till Olof Persson f. ca 1703.",
    "Åsen 1650 (A0001915_00089) 'Åstnäs': Börje, Per. 1659 (A0003140_00265): Hans, Måns, Enkan Karin. Möjlig linje (lead): Börje (1650) → Börje Persson (1695–1700) → Knut/Jon Börjesson. Christopher Påhlsson f. 1710 (far Påhl Nilsson i Toltan) kopplas inte till Åsen före 1729.",
-   "MANTAL (B4): Fadern ’Påhl/Pehr Nilsson’: mantalsskriven som ”Per Nilsson” i Wester Toltan 1707 (489 hö) och 1709–1710; ingen ”Påhl”. Stärker läsningen Pehr Nilsson (Toltan) som far till Christopher f. 1710 (lead, ej bevisat)."
+   "MANTAL (B4): Fadern ’Påhl/Pehr Nilsson’: mantalsskriven som ”Per Nilsson” i Wester Toltan 1707 (489 hö) och 1709–1710; ingen ”Påhl”. Stärker läsningen Pehr Nilsson (Toltan) som far till Christopher f. 1710 (lead, ej bevisat).",
+   "MANTAL (D5): Christopher Påhlsson (f. 1710) ej väntad i mantalet 1715–1720 (barn). Ingen 'Christopher' i Åsen/Toltan 1715–1720."
   ],
   "died": {
    "date": "1772-09-20",
@@ -9035,7 +9090,9 @@
    "Dödbok F I/1 bild 94 (1805 nr 10): dottern Britta (f. ibid 4/3 1748, gift 1773 med Per Olofsson fr. Skog, 9 barn) skrivs ”af Nils Persson och H. Marit Nilsd.” – dop 1748 säger Per Nilsson. Per Nilssons egen död ej funnen i F I/1 bild 10–95 (1783–1805); han föddes senast ca 1700 och kan ha dött före 1783 (äldre dödbok ej i F I/1).",
    "MANTALSLÄNGD 1712 omläst (Y4, A0003193_00445, 1:1): Toltan-gruppen (rubrik ”Öst: Tortane”): [Anders(?) Håkansson]; Daniel Ersson; ”Per Nilsson”; Olof/Claes Hansson; Börje Bryntesson; ”Gustafs änka”. ”Per Nilsson” står alltså som egen bonde i Toltan 1712 mellan Daniel Ersson och Olof Hansson – bekräftar tidigare läsning. Ingen ”Isak” i Toltan-gruppen 1712 och ingen ”Påhl Nilsson” (se pal_nilsson_hagen: Hagen, Toltan – kan stå under annan rubrik/by 1712, ej funnen).",
    "MANTAL 1713 (A0003194_00483 vä): Östra Toltan-gruppen läses ”(?) Bryntesson; Hans/Jons Ersson; Daniel Andersson; Olof Hansson; Börje Bryntesson; Gustafs änka Brita” – ingen säker ”Per Nilsson” (1712 enl. Y4 fanns han).",
-   "MANTAL (B4) – ”Per Nilsson” i Toltan-trakten: Wester Toltan 1707 (489 hö, 1:1 ”Per Nilsson”, första namn), 1709 ”Jon/Per Nilsson” (488 hö), 1710 ”Jon/Per Nilsson” (430 hö), 1711 Östra Toltan (483 hö slut, ”Per Nilsson” efter Arne Bengtsson och Hans Ersson). Tidigare år (1701–1704) står ”Jon Nilsson” först i Wester Toltan. Y4 fann ”Per Nilsson” i Toltan 1712. Per Nilsson mantalsskrivs alltså från ca 1707 (först som ”Per/Jon Nilsson” i Wester Toltan) – kan vara Elofs bror (lead)."
+   "MANTAL (B4) – ”Per Nilsson” i Toltan-trakten: Wester Toltan 1707 (489 hö, 1:1 ”Per Nilsson”, första namn), 1709 ”Jon/Per Nilsson” (488 hö), 1710 ”Jon/Per Nilsson” (430 hö), 1711 Östra Toltan (483 hö slut, ”Per Nilsson” efter Arne Bengtsson och Hans Ersson). Tidigare år (1701–1704) står ”Jon Nilsson” först i Wester Toltan. Y4 fann ”Per Nilsson” i Toltan 1712. Per Nilsson mantalsskrivs alltså från ca 1707 (först som ”Per/Jon Nilsson” i Wester Toltan) – kan vara Elofs bror (lead).",
+   "MANTAL 1715–1720 (D5): ingen 'Per Nilsson' i Öst. Torten klass 1 (1715, 1718, 1719, 1720). 1718 klass 2 'Öst. Torten' (A0003197_00489 vä): första namn '[?]ns Nilsson' (J/P oklart). I Åsen-gruppen 1715 slutar listan med 'Nils Pehrsson' (A0003196_00498 vä topp), 1718 'Nils Pehrsson' i samma läge. I Ö. Takene 1719/1720 förekommer 'Per Nilsson' (A0003198_00504 vä; A0003199_00526 hö) – troligen annan man.",
+   "MANTAL 1712 (D5, A0003193_00445 hö, omläst med zoom): rubrik 'Öst. Torten' (stavat 'Öst: Torten'), enda Toltan-gruppen; namn: [Anders?/Börje?] Bryntesson, Hans Ersson, 'Per Nilsson' (tydligt läst, 3:e namnet), Claes Hansson, Börje Bryntesson, 'Gustafs änka Brita'. Gruppen ligger efter Åsen ('Åsnäs': Olof Andersson, Per Nilsson, Nils Nilsson, Erik Larsson/Hansson, Johan Jonsson, Nils Åsnäs?; OBS även en 'Per Nilsson' i Åsen-gruppen 1712!) och före Gryttorn. Ö. Takene 1712 (samma uppslag, hö överst): Nils Persson?, Erik Larsson/Persson, Nils Jönsson, Olof Nilsson, Olof Gunnarsson, Olof Olofsson, Håkan Nilsson, Per Ersson?, Olof Nilsson. 1713 (A0003194_00483 vä): 'Öst. Torten' = [Anders?] Bryntesson, Hans Ersson, Daniel Andersson, Olof Hansson, Börje Bryntesson, Gustafs änka Brita – ingen Per Nilsson 1713. Per Nilsson (1712) kan alltså vara Åsen- eller Toltan-man; ingen 'Isak' i någon av grupperna."
   ],
   "sources": [
    {
@@ -12212,7 +12269,8 @@
    "Faddrar vid Påhls barn: 1710 Nils i Swartaun, Erik Knutsson i Takene, Mäss Pehrsson i Åsen; 1717 Jon Nilsson i Åsen, Per Eriks i Tolta, h. Dordi Nilsd, h. Marit Isaacsd i Tolta; 1720 Jon i Åsen m.fl. Påhl Nilsson är själv fadder 1720 (Olof, barn till Nils …/Marit Olufsd), 1723 (Per Eriksson + Karin Jonsd barn, med Elof Nilsson ibid) och 1724 (Nils Persson, Uppsjön).",
    "Z5: Geni-profil ”Nils Pålsson (1712–1746)” bosatt Hagen, Toltan finns (möjligt barn; ej kontrollerat, Geni-captcha hindrade läsning). Publicerad uppgift – ej primärkälla.",
    "MANTAL (A4): Ingen ”Påhl Nilsson” identifierad i Toltan 1696, 1706, 1713 (rubriker/hand osäkra). Kvar att kolla: 1709, 1711, 1714 samt Wester Toltan.",
-   "MANTAL (B4): Ingen ”Påhl/Pål Nilsson” står i Toltan-/Hagen-grupperna 1707–1711 (1:1-läsning av Toltan 1707, 1709, 1710, 1711 och Wester/Östra Toltan). Närmast: ”Per Nilsson” (Wester Toltan 1707/1709/1710, Östra Toltan 1711) – dopboken 1710 läses ’Påhl’ men kan vara ’Pehr’ (se id christopher_persson_asen: ’Christopher Påhlsson/Pehrsson’). Om Påhl = Per Nilsson är han mantalsskriven från 1707; ingen mantalsskriven Gertrud/Hagen-gård hittad."
+   "MANTAL (B4): Ingen ”Påhl/Pål Nilsson” står i Toltan-/Hagen-grupperna 1707–1711 (1:1-läsning av Toltan 1707, 1709, 1710, 1711 och Wester/Östra Toltan). Närmast: ”Per Nilsson” (Wester Toltan 1707/1709/1710, Östra Toltan 1711) – dopboken 1710 läses ’Påhl’ men kan vara ’Pehr’ (se id christopher_persson_asen: ’Christopher Påhlsson/Pehrsson’). Om Påhl = Per Nilsson är han mantalsskriven från 1707; ingen mantalsskriven Gertrud/Hagen-gård hittad.",
+   "MANTAL 1715–1720 (D5): ingen 'Påhl/Pål Nilsson' i Öst. Torten-grupperna (se elof_nilsson-noten för namnlistor). Möjlig kandidat endast i 1718 klass 2 'Öst. Torten' (A0003197_00489 vä) där första namnet läses '?? Nilsson' (J/P/O oklart) – kan vara Per/Påhl Nilsson men INTE säkert. Wester Toltan-rubrik hittades inte 1715–1720 (en enda 'Öst. Torten'-grupp per klass)."
   ],
   "born": {
    "date": "",
@@ -12523,7 +12581,8 @@
    "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
    "Möjlig släkting: Jan Zatorski, 28 år, vittne vid Mariannas födelseakt 1897. Dessutom 'Заторская Марианна' i födelseindex 1902 (akt 59) – ev. släkting, ej läst.",
-   "VIGSEL 1895 – VERIFIERAD: Kielce Katedra akt 169, 15/27 nov 1895: Katarzyna Zatorska, «дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ, дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» = ogift tjänsteflicka, född i Szydłówek, dotter till avlidne Józef och Antonina f. 'Kc/Koz…ów'? (flicknamn osäkert). Brudparet gifte sig i katedralen (Kielce Katedra), inte S:t Wojciech."
+   "VIGSEL 1895 – VERIFIERAD: Kielce Katedra akt 169, 15/27 nov 1895: Katarzyna Zatorska, «дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ, дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» = ogift tjänsteflicka, född i Szydłówek, dotter till avlidne Józef och Antonina f. 'Kc/Koz…ów'? (flicknamn osäkert). Brudparet gifte sig i katedralen (Kielce Katedra), inte S:t Wojciech.",
+   "FÖDELSE 1871 akt 550 (ryska): 'Явился земледѣлецъ изъ Шидлувка Іосифъ Заторскій (Zatorski) тридцати трехъ лѣтъ отъ роду, въ присутствіи земледѣльцевъ изъ Шидлувка Валентія Рунерта тридцати шести лѣтъ и Собестіяна Цедро сорока пяти лѣтъ, и предъявилъ намъ младенца женскаго пола, рожденнаго въ Шидлувку сегодня въ десять часовъ ночью, отъ жены его Антонины изъ Осуховъ тридцати лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Катаржина, а воспріемниками его были: Валентій Рунертъ и Антонина Бембачъ' = 'Jordbrukaren Józef Zatorski, 33 år, från Szydłówek, i närvaro av jordbrukarna Walenty Runert (Rynert), 36, och Sebastian Cedro, 45, presenterade ett flickebarn fött i Szydłówek idag kl. 22 på natten, av hans hustru Antonina f. Osuch(?) [изъ Осуховъ, 30 år]. Barnet fick vid dopet samma dag namnet Katarzyna; faddrar Walenty Runert och Antonina Bembach.'"
   ],
   "sources": [
    {
@@ -12545,15 +12604,19 @@
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra födelsebok 1871 (sy1871a, fil 544-551), akt 550: Katarzyna, dotter till Józef Zatorski o. Antonina f. Osuch(?), Szydłówek; index SkU-5 'Zatorska Katarzyna 550'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1871a&kt=1&plik=544-551.jpg"
    }
   ],
   "search": [
    "Katarzyna Zatorska"
   ],
   "born": {
-   "date": "ca 1870",
+   "date": "1871-10-29",
    "place": "Szydłówek (Kielce)",
-   "note": "25 år i vigselakten 15/27.11.1895; 24 år 1896/97; 29 år 1903 (ca 1870–73); född i byn Szydłówek, S:t Wojciechs socken"
+   "note": "17/29 okt 1871 kl. 22 (julianskt 17 okt); akt 550 Kielce Katedra 1871; döptes samma dag"
   }
  },
  {
@@ -12885,7 +12948,8 @@
   "summary": "Far till Ingri (f. 1/6 1703, Åsen) enligt dopboken; samma Matts är sannolikt ”Matz och h. Ingrid” i Åsen i dopet januari 1701. Efternamn okänt.",
   "notes": [
    "C I/1 bild 56 (s. 91), 1701, ”Dna 2. p. Epiph.”: ”Matz och h. Ingrid barn i Åsen [barnets namn oläsligt]. Test. Lassr i Tolten, Per i [Obern?] … H. Ingeri i Kåd… H. Börit i Tolten.”",
-   "C I/1 bild 62 (1703): ”d. 1. Juny Matts barn i Åsen [Ingri]”."
+   "C I/1 bild 62 (1703): ”d. 1. Juny Matts barn i Åsen [Ingri]”.",
+   "MANTAL Åsen (D5): 1715 'Åsnäs' (A0003196_00497 hö nederst + 00498 vä topp): Enkan(Ingeborg?), Jöns Eriksson?, Mattis Jonsson (läst), Nils Jonsson, Erik Bryngelsson, Nils Håkansson, Anna Larsdotter?, Nils Pehrsson, Lars Halvarsson, Anders Larsson. 1718 (A0003197_00488 vä topp, '1 Åsen'): Pär Jönsson, Mattis Jonsson, Nils Jonsson, Erik Bryngelsson, Nils Jönsson, Anna Larsson, Anders Larsson, Nils Pehrsson. 1719 (A0003198_00504 vä): Ingeborg, Hans Dirisson?, Mattis Persson(/Jonsson), Olof Nilsson, Knut Bryngelsson, Per Jöransson?, Anund Larsson, Anders Larsson, Börje Larsson. 1720 (A0003199_00526 hö 'Åsnäs'): Ingeborg?, Per Ludvigsson?, Matts Jonsson, Olof Nilsson, Arent Bryngelsson, Nils Gunnarsson?, Anund Larsson, Anders Larsson, Börje Knutsson och mor. Endast en 'Matts' (Mattis Jonsson/Persson) i Åsen alla år – troligen Matts, far till Ingri f. 1703 (efternamnet Jonsson ej styrkt; Ingrid 'Mattsdotter' tyder snarare på patronymikon Matts, vilket inte säger vems son Matts är)."
   ],
   "sources": [
    {
@@ -14394,7 +14458,8 @@
   "summary": "Hemmansegare i Gullsbyn, Hanna Elisabets far (Hanna 'hans d.' 1900). Patronymikon: dottern Augustsson. Farmors morfar.",
   "notes": [
    "FOLKRÄKNING 1900 Brunskog, Gullsbyn, s. 15: 'Nilsson, August, f. 1855 i Brunskog, Hemmansegare'; Hanna Elisabet f. 1889 har familjeställning 'hans d.'. Hustru Stina Jansdotter f. 1847; barn Anna Maria 1885 (f. Uppsala), Nils Ejnar 1887, Hanna Elisabet 1889.",
-   "HUSFÖRHÖR A I/25 bild 172 och A I/27 bild 174: August 22/4 55 som ”Son” hos Nils Jansson och Britta Olsdotter i Svartåna & Nytorp (Ö. Takene). Syskon: Maja Cajsa 1849, Johan 1851, Anna Charlotta 1858."
+   "HUSFÖRHÖR A I/25 bild 172 och A I/27 bild 174: August 22/4 55 som ”Son” hos Nils Jansson och Britta Olsdotter i Svartåna & Nytorp (Ö. Takene). Syskon: Maja Cajsa 1849, Johan 1851, Anna Charlotta 1858.",
+   "HUSFÖRHÖR A I/37 bild 223 (fol. 229, Svartåna): ”August Nilsson (enk.) 55 22/4 Svartåna; Johan Albin 83 27/7 Uppsala; Anna Maria 85 21/7 Uppsala; Nils Einar 87 21/8 Svartåna; Hanna Elisabeth 89 12/12 Svartåna”. Remark: ”På hospital i Kristinehamn, utskriven d. 24/5 1893”; flytt ”N.B. 282”. Ingen Amerikanotering före 1895 (Albin/Nils Einar emigrerar 1903 – senare volym)."
   ],
   "sources": [
    {
@@ -14420,6 +14485,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 229 (bild 223): August Nilsson enk. + Johan Albin 83, Anna Maria 85, Nils Einar 87, Hanna Elisabeth 89",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00223"
    }
   ],
   "search": [
@@ -14771,6 +14840,10 @@
    {
     "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594, 1820–1858), bild 21 (1824, s. 21): september 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.; faddrar Jon Nilsson, H. Stina Nilsd.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00021"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/29 (1861–65), bild 170 (s.179, Ö. Takene Svartåna): Nils Jansson 24 30/6 Lubäda Boda + Märtha Olofsd. 24, barn Nils 53, August 56, Johan 59, Olof 63, Maria 64",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036768_00170"
    }
   ],
   "search": [
@@ -14780,7 +14853,8 @@
    "HUSFÖRHÖR A I/25 bild 172: ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa 49; Son Johan 51; Son August 22/4 55”. Observera: i samma by (A I/25 bild 171, s.162) bor en annan Nils Jansson f. 1821 Boda m. hustru Cajsa Persdotter (barn Johannes 41, Per Gustaf 46, Andreas 49, Nils Fredrik 54) – förväxla ej.",
    "OBS A I/35 bild 254 (nedre hushållet): ”Inhyses Nils Jansson 24 ?/9 Boda; H. Märta Olsdotter 24 ?/9 ö. Takene; barn Karin, Johan 59, Karin 64” – kan vara samme Nils (andra äktenskap/felläst hustrunamn) eller en annan Nils Jansson f. 1824; ej avgjort.",
    "DOP-LEAD Boda 1824 nr 37 (8/9): ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”; A I/25 anger födelseår som 23 (svårläst – kan vara 24).",
-   "DOP-AVGÖRANDE Boda C I/3: Sept 1823 (bild 19) finns ingen Nils med fader Jan/Jansson; augusti 1823 ”Nils, Boda – Jan Nilson, Maria Nilsd.” (21/8) har fel månad. 7 sept 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.” passar månad 9 och A I/35 år 24. Kvarstående osäkerhet: dagen i A I/25 läses ’1/9’ (jfr Britta ’1/9’) mot dopbokens 7/9, och Jan Nilsson hade även en Nils f. 21/8 1823 (kan ha dött)."
+   "DOP-AVGÖRANDE Boda C I/3: Sept 1823 (bild 19) finns ingen Nils med fader Jan/Jansson; augusti 1823 ”Nils, Boda – Jan Nilson, Maria Nilsd.” (21/8) har fel månad. 7 sept 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.” passar månad 9 och A I/35 år 24. Kvarstående osäkerhet: dagen i A I/25 läses ’1/9’ (jfr Britta ’1/9’) mot dopbokens 7/9, och Jan Nilsson hade även en Nils f. 21/8 1823 (kan ha dött).",
+   "D6 FLAGGA: I A I/29 (1861–65) bild 170 (s.179, Ö. Takene Svartåna) bor ”Bo. Nils Jansson 24 30/6 Lubäda, Boda; Hu. Märtha Olofsd. 24 (Ö. Takene); S. Nils 53 29/8; S. August 56 28/8; S. Johan 59 11/2; S. Olof 63; D. Maria 64” – det är samma hushåll som A I/35 bild 254 (Johan 59 11/2, Karin 64 22/11 – ”Karin 64” vs ”Maria 64” osäkert) och alltså en ANNAN Nils Jansson (f. 30/6 1824 Boda) än vår Nils Jansson (f. ?/9 1823, hustru Britta Olsdotter) i A I/25 b.172 / A I/27 b.174. Vår Nils/Britta-familj har inte kunnat återfinnas i Svartåna-sidorna i A I/29 (bild 164–176, lästa)."
   ]
  },
  {
@@ -15027,11 +15101,16 @@
   ],
   "summary": "Yngre syster till August Nilsson (f. 1855); dotter till Nils Jansson och Britta Olsdotter, Svartåna.",
   "notes": [
-   "HUSFÖRHÖR A I/27 s.181: ”Dr. Anna Charlotta ²¹⁄₄ 58 do”."
+   "HUSFÖRHÖR A I/27 s.181: ”Dr. Anna Charlotta ²¹⁄₄ 58 do”.",
+   "HUSFÖRHÖR A I/27 bild 174 (s.181), Döde-kolumnen på raden för Anna Charlotta (f. 21/4 58): datum läses ungefär ”14/11 59” (dödsdag svårläst) – flickan finns inte i Svartånahushållet i A I/29 (1861–65) och bör ha dött 1859. Ej bekräftat mot dödbok."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–60), bild 174 (s.181, Ö. Takene Svartåna): dödskolumn vid Anna Charlotta ”14?/11 59”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
    }
   ],
@@ -15121,7 +15200,9 @@
    "HUSFÖRHÖR A I/16 bild 129 (folio 114 V. Kärra): ”Inh. Anders Persson 11 Ed” med hustru Brita Kajsa Andersd. och barnen Karolina Christina, Anders Gustaf, Anna Lisa, Jan Petter, Maja Katrina. A I/18 bild 219: ”Inh. Anders Persson … 11 Ed”, utflyttad ”130 60” (Segerstad B/1 1860 bild 93 genomläst – hushållet står ej som utflyttat ur socknen 1860).",
    "VIGSEL Segerstad C/2 bild 185 (s. 335) 1839: ”Dr. Anders Persson fr. Hanvik” (Hanevik/Hanvik by i Segerstad) gift med ”Brita Kajsa Stridsberg fr. N. Årås” – Vigde 10/10 1839.",
    "HUSFÖRHÖR A I/14 (1837–42) bild 162 (folio 150, Hannevik): drängpost ”Dr. … 11 Ed; inflyttad p.118 år 38; utflyttad p.92 år 39”; anteckning om äktenskap med Pig. Brita Kajsa Stridsberg 39. Alltså inflyttad till Segerstad före 1838 från Ed; folio 118 = Lilla Årsås, folio 92 = Nedra Årsås enl. registret.",
-   "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall) 1860: ”Inh. Anders Persson … 11 Ed” med Britta Kajsa och Maja Katrina, inflyttade från fol. 207 år 60."
+   "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall) 1860: ”Inh. Anders Persson … 11 Ed” med Britta Kajsa och Maja Katrina, inflyttade från fol. 207 år 60.",
+   "INFLYTTNING Segerstad B/1 (C0038690) bild 48 (rubrik ”1837. Inflyttade Personer från – till”, ca rad 25 på vänstersidan): ”Anders Persson” från ”Ed” till ”Törnö” (1 person). Kan vara samme man (dräng f. 1811 ”Ed”), men husförhöret A I/14 anger ”infl. p.118 38” – årtal 1837 vs 38 och Törnö vs folio 118 ej verifierat. Kandidat, ej säker identifiering. Registret anger endast ”Ed” (ingen läns-/landskapsuppgift): samma kolumn har ”Nor, Grums, Karlstad, Wermskog, Grafva” varför ”Ed” inte kan avgöras (Eds sn Dalsland vs annan Ed) utan Eds dopbok 1811 / flyttattest.",
+   "INFLYTTNING 1838 Segerstad B/1 bild 49–50 (vänstersida, hela 1838 års lista) genomläst: ingen post ”Anders Persson” från Ed (andra poster i 1838: ”Dr. Anders Persson + hustru Märtha Greta Falk” från Carlstad till Lönhult, ej samma man). Anders Eriksson + Christina Wenberg, båda från ”Ed” till Swartnäs 1838 (ej släkt visad)."
   ],
   "sources": [
    {
@@ -15155,6 +15236,10 @@
    {
     "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (C0038682), bild 143 (folio 130, Hanewall): ”Inh. Anders Persson … 11 Ed; Britta Kajsa Andersdotter 10 Segerstad; D. Maja Katrina 27/7 51 Segerstad”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00143"
+   },
+   {
+    "label": "Riksarkivet, Segerstad B/1 in- och utflyttningslängder (C0038690), bild 48: 1837 inflyttade: ”Anders Persson” från ”Ed” till ”Törnö”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038690_00048"
    }
   ],
   "search": [
@@ -16098,14 +16183,14 @@
  },
  {
   "id": "no_stina_nilsd13",
-  "name": "Stina Nilsdatter (f. 1813 Frykerud, Eidsvoll)",
-  "status": "candidate",
+  "name": "Stina Nilsdotter",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1813",
-   "place": "Frykerud, Värmland",
-   "note": "enligt FT 1875; dop ej säkrad (se flagga: två kandidater i Frykerud C/6 1813)"
+   "date": "1813-10-26",
+   "place": "Lene, Frykerud",
+   "note": "Frykerud husförhör A I/18 bild 183: barn ”Stina” 26/10 1813 ibm i Nils Jonssons hushåll; stämmer med dop C/6 bild 56 (26/27 okt, Lene)"
   },
   "died": {
    "date": "",
@@ -16113,12 +16198,17 @@
    "note": "död före 1891-01-01 (Anders Ellefsen står som enkemann 1891) – dödspost ej funnen"
   },
   "places": [
+   "Lene, Frykerud",
+   "Boda (1840)",
    "Eidsvoll (Hoel), Norge"
   ],
-  "summary": "Hustru till Anders Elofsen (skinnberedare, Hoel, Eidsvoll) 1875; född Frykerud. Ingen föräldrauppgift funnen, ej knuten till trädet.",
+  "summary": "Dotter till Nils Jonsson (1782–1837) och Kajsa Kristofersdotter på Lene, Frykerud; gift 1837 med Anders Elofsson, flyttade 1840 med honom till Boda. Identiteten med Stina Nilsdatter f. 1813 Frykerud i Eidsvoll 1875 är trolig men ej uttryckligen bevisad.",
   "notes": [
    "FOLKRÄKNING 1875 Eidsvoll, Hoel, hush. 02: \"014 Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud S, Sverige\". Inga barn i hushållet. Dödspost 1876–1891 ej funnen i Digitalarkivets sök (namn kan vara Kristina/Christine).",
-   "VIGSEL (C8): gift 1837 i Frykerud med drängen Anders Elofsson (se anders_e); ålder 24 år vid vigseln stämmer med f. 1813. DOP-KANDIDATER (lead): Frykerud C/6 b.53 (5/6 apr 1813, Torestad, Nils Jonson + Britta Ersdotter) och b.56 (26/27 okt 1813, Lene, Nils Jonsson + Caisa Christoffersdotter). Ej avgjort."
+   "VIGSEL (C8): gift 1837 i Frykerud med drängen Anders Elofsson (se anders_e); ålder 24 år vid vigseln stämmer med f. 1813. DOP-KANDIDATER (lead): Frykerud C/6 b.53 (5/6 apr 1813, Torestad, Nils Jonson + Britta Ersdotter) och b.56 (26/27 okt 1813, Lene, Nils Jonsson + Caisa Christoffersdotter). Ej avgjort.",
+   "DOP-AVGÖRANDE (D2): Husförhör Frykerud A I/18 bild 183 (Lene): Nils Jonsson ”7/3 82” Frykerud, ”H. Kajsa Kristofers dr” ”27/7 84”, barn ”H. Stina” 26/10 1813 ibm. Födelsedatum 26/10 stämmer med dop C/6 (C0037139) bild 56 (26/27 okt, Lene, Nils Jonsson + Caisa Christoffersdotter), inte med bild 53 (5/6 apr, Torestad, Britta Ersdotter). Kandidat bild 53 utesluten (annan far/moder/ort). Dopbladet bild 56 ej själv avläst av D2.",
+   "VIGSEL-KOPPLING: samma sida, marginal vid Stina: ”Lyst tre Aktenskap d. 1/12 37 med pig. Anders Elofsson”; vid Anders-raden: ”Lyst tre Akt. 1/12 37 med pig. Stina Nilsd. fr. afsw(?)” (sista ord osäkert).",
+   "BODA 1840: Boda B/1 bild 10 (inflyttade 1840): ”2. Bönd Anders Elofsson – Frykerud – [flyttar till] Åstetan/Ärtetan(?) – Rolander” och ”3. Hu Stina Nilsdotter – Dº”. Paret flyttade alltså 1840 från Frykerud till Boda, inte direkt till Norge."
   ],
   "sources": [
    {
@@ -16128,6 +16218,14 @@
    {
     "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/2 (1814-1861), bild 74 (1837): ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00074"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: barn Stina 26/10 1813 ibm, överstruken; marginal: ”Lyst tre Aktenskap d. 1/12 37 med pig. Anders Elofsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Boda in- och utflyttningslängd B/1 (1839-1860), bild 10, ”Inflyttade Personer till Boda Församling under 1840”: nr 3 ”Hu Stina Nilsdotter” kom från Frykerud",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036591_00010"
    }
   ],
   "search": [
@@ -16712,11 +16810,12 @@
   "born": {
    "date": "ca 1842",
    "place": "Niewachlów",
-   "note": "33 år i födelseakt 1875 nr 100"
+   "note": "24 år vid vigseln 20 juni 1866 (akt 94); 33 år 1875; 30 år vid döden 1877"
   },
   "died": {
-   "date": "1875–1895",
-   "note": "avliden före 15/27.11.1895 (vigselakt); levde feb 1875"
+   "date": "1877-06-22",
+   "place": "Niewachlów",
+   "note": "död 10/22 juni 1877 kl. 15, anmäld 11/23 juni 1877; 30 år (1875: 33); smed"
   },
   "places": [
    "Niewachlów"
@@ -16724,7 +16823,9 @@
   "summary": "Far till Józef Orzechowski (gift 1895 med Katarzyna Zatorska); avliden före 1895. Hustru Antonina (f. Pęcł…?).",
   "notes": [
    "VIGSEL Kielce Katedra 1895 akt 169 (ryska): «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» = son till avlidne Michał och Antonina född 'Pęcł…ów'? (flicknamnet svårläst: Пенцлювъ).",
-   "FÖDELSEAKT 1875 nr 100: Michał Orzechowski, daglönare ('подёнщикъ') från Niewachlów, 33 år, anmäler son Józef f. 17 febr 1875; vittnen Wincenty Stępniewski 33 och Jan Dętka 50, båda jordbrukare från Niewachlów (Dętka 'Детка' kan vara släkt med faddern Barbara Dętka). Katedrans födelseindex 1871–1877 (SkU) visar ingen annan Orzechowski; hans vigsel finns ej i Katedra 1870–1874 (SkM genomlästa)."
+   "FÖDELSEAKT 1875 nr 100: Michał Orzechowski, daglönare ('подёнщикъ') från Niewachlów, 33 år, anmäler son Józef f. 17 febr 1875; vittnen Wincenty Stępniewski 33 och Jan Dętka 50, båda jordbrukare från Niewachlów (Dętka 'Детка' kan vara släkt med faddern Barbara Dętka). Katedrans födelseindex 1871–1877 (SkU) visar ingen annan Orzechowski; hans vigsel finns ej i Katedra 1870–1874 (SkM genomlästa).",
+   "DÖD 1877 akt 369 (ryska, anmäld 11/23 juni 1877 av tegelmästare Franciszek Brodziński 56 år och jordbrukare Józef Jagodziński 54 år, båda Niewachlów): 'объявили что въ Неваклевѣ вчера въ три часа пополудни умеръ Михаилъ Оржеховскій (Michał Orzechowski) тридцати лѣтъ отъ роду, кузнецъ, оставивъ жену Агнешку урожденную Хентшесь' = 'förkunnade att i Niewachlów i går kl. 15 dog Michał Orzechowski, 30 år gammal, smed, efterlämnande hustrun Agnieszka född Chentsześ/Kęciesz? [efternamn osäkert]'. Akten anger EJ föräldrar eller födelseort. Identiteten med Józefs far är strong (samma ort Niewachlów, hustru Agnieszka som i Józefs födelseakt 1875 nr 100); ålder 30 vs 33 avviker. Sökt i Katedras dödsindex 1876-1883 (O-sidor): endast 1877 har Orzechowski.",
+   "VIGSEL 1866 akt 94 (polska; 'dnia dwudziestego czerwca tysiąc ośmset sześćdziesiątego szóstego roku o godzinie dziesiątej rano'): '...małżeństwo między Michałem Orzechowskim lat dwadzieścia cztery mającym, młodzianem, synem Wawrzyńca już zmarłego i Tekli z [flicknamn oläsligt] małżonków Orzechowskich, wyrobników w Niewachlowie zamieszkałych, ... a Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny [f. ?] małżonków Hencel, rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną' = Michał Orzechowski, 24 år, ungkarl, son till avlidne Wawrzyniec och Tekla Orzechowski, daglönare i Niewachlów; brud Agnieszka Hencel, 18 år, ogift, dotter till Augustyn och Maryanna Hencel, gårdsägare i Niewachlów, född där. Vittnen Kazimierz Mikołajczyk och Franciszek Brodziński (båda 52 år). Ålder 24 (1866) stämmer med 33 år 1875."
   ],
   "sources": [
    {
@@ -16734,6 +16835,14 @@
    {
     "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra, dödsakt 1877 nr 369 (sy1877c, fil 366-375), index SkZ-4: Michał Orzechowski d. Niewachlów 1877, smed, efterlämnar hustru Agnieszka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1877c&kt=1&plik=366-375.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
    }
   ],
   "search": [
@@ -16778,7 +16887,11 @@
   "status": "verified",
   "sex": "m",
   "living": false,
-  "born": {},
+  "born": {
+   "date": "ca 1838",
+   "place": "Szydłówek (Kielce)?",
+   "note": "33 år i dotterns födelseakt okt 1871 (akt 550); bosatt i Szydłówek, jordbrukare"
+  },
   "died": {
    "date": "före 1895"
   },
@@ -16787,12 +16900,17 @@
   ],
   "summary": "Far till Katarzyna Zatorska (gift 1895 med Józef Orzechowski); avliden före 1895.",
   "notes": [
-   "VIGSEL 1895 akt 169: «дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» = dotter till avlidne Józef och Antonina f. 'Kc/Koz…ów'? (efternamnet Zatorski härlett från dotterns namn; fadern namnges bara 'Іосифъ')."
+   "VIGSEL 1895 akt 169: «дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» = dotter till avlidne Józef och Antonina f. 'Kc/Koz…ów'? (efternamnet Zatorski härlett från dotterns namn; fadern namnges bara 'Іосифъ').",
+   "Józef Zatorski, jordbrukare i Szydłówek, 33 år okt 1871 (f. ca 1838). Dödsår ej funnet: St. Wojciech (Szydłówek) dödsböcker före 1890 saknas på Skanoteka; i St. Wojciechs dödsindex 1890-1894 (Z-sidor) finns ingen Заторскій. Dog således före 1895 (vigselakt) - troligen 1872-1889 i S:t Wojciech."
   ],
   "sources": [
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra födelsebok 1871 (sy1871a, fil 544-551), akt 550: 'Іосифъ Заторскій 33 år, земледѣлецъ изъ Шидлувка'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1871a&kt=1&plik=544-551.jpg"
    }
   ],
   "search": [
@@ -16805,7 +16923,11 @@
   "status": "verified",
   "sex": "f",
   "living": false,
-  "born": {},
+  "born": {
+   "date": "ca 1841",
+   "place": "Okänd",
+   "note": "30 år i dotterns födelseakt 1871 (akt 550); flicknamn 'изъ Осуховъ' = Osuch(?)"
+  },
   "died": {
    "date": "före 1895"
   },
@@ -16814,12 +16936,17 @@
   ],
   "summary": "Mor till Katarzyna Zatorska; avliden före 1895. Flicknamn läst 'изъ Ксолювъ' (osäkert).",
   "notes": [
-   "VIGSEL 1895 akt 169: «Іосифа и Антонины изъ Ксолювъ» – flicknamnet osäkert."
+   "VIGSEL 1895 akt 169: «Іосифа и Антонины изъ Ксолювъ» – flicknamnet osäkert.",
+   "Flicknamn i akt 550 (1871) läses 'изъ Осуховъ' (Osuch?) - avviker från tidigare läsning 'изъ Ксолювъ' (Ksiołów?) i vigselakten 1895; kontrollera originalet om möjligt. Ålder 30 år okt 1871 -> f. ca 1841."
   ],
   "sources": [
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra födelsebok 1871 (sy1871a, fil 544-551), akt 550: 'отъ жены его Антонины изъ Осуховъ 30 år'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1871a&kt=1&plik=544-551.jpg"
    }
   ],
   "search": [
@@ -17076,26 +17203,36 @@
  },
  {
   "id": "agnieszka_orzechowska_1849",
-  "name": "Agnieszka (f. 'Chenulów/Pęcułów'?) Orzechowska",
-  "status": "candidate",
+  "name": "Agnieszka Hencel Orzechowska",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "ca 1849",
-   "place": "Okänd",
-   "note": "26 år i födelseakt 1875 nr 100"
+   "date": "ca 1848",
+   "place": "Niewachlów",
+   "note": "18 år vid vigseln 1866 akt 94; 26 år 1875"
   },
   "places": [
    "Niewachlów"
   ],
   "summary": "Hustru till Michał Orzechowski i födelseakten 1875 (Józef f. feb 1875 i Niewachlów). Förnamnet läst 'Анешка/Агнешка', konflikt med 'Antonina' i Józefs vigselakt 1895; kan vara samma kvinna (annan läsning) eller en andra hustru.",
   "notes": [
-   "FÖDELSEAKT 1875 nr 100: «отъ жены его Анешки изъ Хенулювъ двадцати шести лѣтъ отъ роду» = av hans hustru Agnieszka [?] f. 'Chenulów'? 26 år. Släktnamnet liknar 'изъ Пенцлювъ' i vigselakt 1895 (akt 169) – båda tolkningarna osäkra."
+   "FÖDELSEAKT 1875 nr 100: «отъ жены его Анешки изъ Хенулювъ двадцати шести лѣтъ отъ роду» = av hans hustru Agnieszka [?] f. 'Chenulów'? 26 år. Släktnamnet liknar 'изъ Пенцлювъ' i vigselakt 1895 (akt 169) – båda tolkningarna osäkra.",
+   "Maka Agnieszka nämns som levande 1877 (efterlämnad av Michał, akt 369). Flicknamn lästes i akt 369 ungefär 'Хентшесь' (Chentsześ/Kęciesz?) - jfr 'Chenulów?' i 1875 års akt; motsäger 'Pęcłów' (mor Antonina) i 1895. Hennes egen död ej funnen i Katedras dödsindex O-sidor 1878-1883 (se flagga).",
+   "Flicknamn Hencel (index 1866 'Agnieszka Hencel'), föräldrar Augustyn och Maryanna Hencel, Niewachlów. Förklarar 'Chenulów?' i 1875 års akt."
   ],
   "sources": [
    {
     "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra, dödsakt 1877 nr 369: änka efter Michał Orzechowski, 'Агнешка урожденная Хентшесь'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1877c&kt=1&plik=366-375.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
    }
   ],
   "search": [
@@ -17212,7 +17349,8 @@
    "DOP 1810 Segerstad C/2 bild 49: ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården” (fadder ”Bn. Olof Nilsson och dess hust. Britta Christiansdr. i Mällgården”).",
    "HUSFÖRHÖR Segerstad A I/18 (C0038682) bild 219 (folio 207, Sockenstugan): ”Kyrkovakt.(?) Anders Stridsberg 26/3 83 By; H. Britta Lisa Jonsdotter 22/1 80 Carlstad”, utflyttad ”130 60”; i samma folio ”Inh. Anders Persson … 11 Ed; H. Brita Cajsa Andersd. 17/6 10 här; Barn Anna Lisa; Maja Katrina 27/7 51”.",
    "DÖDBOK Segerstad C/2 bild 237 (1858): ”Dec 18 | 30 Kyrkovaktaren Anders Stridsberg från Sockenstugan – Ålderdom – 75 | 8 | 22”.",
-   "OBS: husförhörets anteckning om dödsdag läses osäkert (”14/7 58”/”11/12 58”); dödboken är primärkälla: 18/12 1858."
+   "OBS: husförhörets anteckning om dödsdag läses osäkert (”14/7 58”/”11/12 58”); dödboken är primärkälla: 18/12 1858.",
+   "VIGSEL: Segerstad C/2 (C0038692) bild 165 (s. 296–297, ”Samanwigda i Segerstad Socken” 1805–1809) genomläst i sin helhet – ingen vigsel med Anders Stridsberg / Britta Lisa Jonsdotter 1805–feb 1809 (och ingen 1810). Vigseln skedde alltså sannolikt före 1805 eller utanför Segerstad (Karlstad? hustrun f. Karlstad 1780), ej funnen."
   ],
   "sources": [
    {
@@ -17226,6 +17364,10 @@
    {
     "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 237 (s. 438, dödbok 1858): ”Dec 18 | 30 Kyrkovaktaren Anders Stridsberg från Sockenstugan – Ålderdom – 75 | 8 | 22”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00237"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 165 (s. 296–297): vigslar 1805–1809 genomlästa, ingen Stridsberg",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00165"
    }
   ],
   "search": [
@@ -17288,7 +17430,9 @@
   "notes": [
    "SVENSKA MORGONBLADET 1896-12-07 s.4 (OCR): ”Olof Olsson i Takene. Såsom förut meddelats i Sv. Morgonbladet, afled den 27 nov. Olof Olsson i Takene, Brunskogs s:n i Värmland, 92 år gammal … Dottern är gift med predikanten D. Hagström och bosatt i Arvika … Det var i makarne Olssons gästfria hem, som Värmländska Ansgarii-föreningen hade sin första upprinnelse vid ett sammanträde därstädes.” Samma notis nämner att professor O. Olsson (Olof Olsson, Augustana) hade ett hem hos Olsson i Brunskog.",
    "ANSGARII-POSTEN 1895-09-18 s.1 (OCR): ”… vår gamle vän och broder Olof Olsson i Takene, ’ålderspresidenten’ inom föreningen” (Brunskogs missionsförening); samma tidning 1895-09-25: ”O. Olsson, Takene, kassör”, ”Olof Olsson i Takene till år 1874” (styrelseledamot) och brodern Nils Olsson (Nolgård/Takene).",
-   "KONTROLL: Ej i trädet. Bör sökas i Brunskogs dödbok F I/2 (1896) och husförhör Ö. Takene A I/23 (1846–50, b.135–190) – där finns Olof Olsson f. ca 1804?"
+   "KONTROLL: Ej i trädet. Bör sökas i Brunskogs dödbok F I/2 (1896) och husförhör Ö. Takene A I/23 (1846–50, b.135–190) – där finns Olof Olsson f. ca 1804?",
+   "D4: Missionsvännen 1923-03-27 s.4 bekräftar att Olof Olsson i Takene var värd för Värmlands Ansgariiförening (bildad Takene 5 mars 1865; Svenska Amerikanaren/Covenant Weekly 1930-01-14 nämner ”Takene, Brunskog, den 5 mars 1865 bildades Värmlands Ansgariiförening, och Nyvall var bland initiativtagarna”). Inget i amerikanska tidningar kopplar honom till trädets Olof Olsson 1804 – fortfarande öppet.",
+   "D4: KB-sökning (tidningar.kb.se/search?q=…) efter ”Takene Olsson” 28/11–31/12 1896 och ”Olof Olsson i Takene” 1895–97 gav 0 träffar i denna session (OCR-varianter) – ingen ny källa utöver Svenska Morgonbladet 1896-12-07."
   ],
   "sources": [
    {
@@ -17298,6 +17442,14 @@
    {
     "label": "Ansgarii-posten 1895-09-18, s.1: ”Olof Olsson i Takene, ålderspresidenten”",
     "url": "https://tidningar.kb.se/lzfdvxjcjtkdj4lg/part/1/page/1"
+   },
+   {
+    "label": "Missionsvännen 1923-03-27, s.4: ”… hos en Guds sak varmt hängiven man, Olof Olsson i Takene, i vars hem man ofta brukade komma tillsammans till sång och bön” (Värmlands Ansgariiförening)",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=mvnn19230327-01.1.4"
+   },
+   {
+    "label": "Missionsvännen 1916-11-21, s.7: predikant Petrus Johansson övertog svärfaderns gård Takene",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=mvnn19161121-01.1.7"
    }
   ],
   "search": [
@@ -17349,6 +17501,1208 @@
   ],
   "search": [
    "Johan Olson (Takene Brunskog, resenär från USA 1899)"
+  ]
+ },
+ {
+  "id": "wawrzyniec_orzechowski",
+  "name": "Wawrzyniec Orzechowski",
+  "status": "verified",
+  "sex": "m",
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Far till Michał Orzechowski; avliden före juni 1866.",
+  "notes": [
+   "VIGSEL 1866 akt 94: 'synem Wawrzyńca już zmarłego i Tekli ... małżonków Orzechowskich'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   }
+  ],
+  "died": {
+   "date": "före 1866"
+  },
+  "living": false,
+  "search": [
+   "Wawrzyniec Orzechowski"
+  ]
+ },
+ {
+  "id": "tekla_orzechowska",
+  "name": "Tekla Orzechowska",
+  "status": "verified",
+  "sex": "f",
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Mor till Michał Orzechowski; levde 1866.",
+  "notes": [
+   "VIGSEL 1866 akt 94: 'i Tekli z ... małżonków Orzechowskich'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   }
+  ],
+  "living": false,
+  "search": [
+   "Tekla Orzechowska"
+  ]
+ },
+ {
+  "id": "augustyn_hencel",
+  "name": "Augustyn Hencel",
+  "status": "verified",
+  "sex": "m",
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Far till Agnieszka Hencel; gårdsägare i Niewachlów 1866.",
+  "notes": [
+   "VIGSEL 1866 akt 94: 'córką Augustyna i Maryanny ... małżonków Hencel'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   }
+  ],
+  "living": false,
+  "search": [
+   "Augustyn Hencel"
+  ]
+ },
+ {
+  "id": "maryanna_hencel",
+  "name": "Maryanna Hencel",
+  "status": "verified",
+  "sex": "f",
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Mor till Agnieszka Hencel; Niewachlów 1866.",
+  "notes": [
+   "VIGSEL 1866 akt 94"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   }
+  ],
+  "living": false,
+  "search": [
+   "Maryanna Hencel"
+  ]
+ },
+ {
+  "id": "fr_nilsjonsson1782",
+  "name": "Nils Jonsson",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1782-03-07",
+   "place": "Frykerud",
+   "note": "husförhör A I/18 bild 183: ”7/3 82 Frykerud” (dagen avläst)"
+  },
+  "died": {
+   "date": "1837-03-31",
+   "place": "Frykerud",
+   "note": "utflyttningskolumn ”död 31/3 37” (avläst, osäker)"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Hemmansbrukare på Lene i Frykerud, fader till Stina Nilsdotter (g. 1837 med Anders Elofsson).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: ”Nils Jonsson” 7/3 1782 Frykerud, ”H. Kajsa Kristofers dr” 27/7 1784 ibm; barn Maja 10/10 1811, Stina 26/10 1813 (överstruken), Lena 27/12 1815, Kajsa 20/12 1818, Jonas 3/5 1821, Kristofer 10/12 1823, Sven 27/9 1828. Raden för Nils överstruken, utflyttningskolumn ”död 31/3 37”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Nils Jonsson"
+  ]
+ },
+ {
+  "id": "fr_kajsakristofersd1784",
+  "name": "Kajsa Kristofersdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1784-07-27",
+   "place": "Frykerud",
+   "note": "husförhör A I/18 bild 183"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Hustru till Nils Jonsson på Lene, moder till Stina Nilsdotter.",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183: ”H. Kajsa Kristofers dr” 27/7 1784 ibm (Frykerud)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Kajsa Kristofersdotter"
+  ]
+ },
+ {
+  "id": "fr_majanilsd1811",
+  "name": "Maja Nilsdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1811-10-10",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud",
+   "Boda (1841)"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll, utflyttningskolumn ”Boda 41”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Maja Nilsdotter"
+  ]
+ },
+ {
+  "id": "fr_lenanilsd1815",
+  "name": "Lena Nilsdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1815-12-27",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Lena Nilsdotter"
+  ]
+ },
+ {
+  "id": "fr_kajsanilsd1818",
+  "name": "Kajsa Nilsdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1818-12-20",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Kajsa Nilsdotter"
+  ]
+ },
+ {
+  "id": "fr_jonasnilsson1821",
+  "name": "Jonas Nilsson",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1821-05-03",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Jonas Nilsson"
+  ]
+ },
+ {
+  "id": "fr_kristofernilsson1823",
+  "name": "Kristofer Nilsson",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1823-12-10",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Kristofer Nilsson"
+  ]
+ },
+ {
+  "id": "fr_svennilsson1828",
+  "name": "Sven Nilsson",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1828-09-27",
+   "place": "Lene, Frykerud",
+   "note": "husförhör A I/18 bild 183, ”ibm”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Sven Nilsson"
+  ]
+ },
+ {
+  "id": "backer_j_takene",
+  "name": "J. Bäcker (hemmansägare, Takene, d. 1932)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "died": {
+   "date": "1932-04-29",
+   "place": "Takene, Brunskog",
+   "note": "74 år gammal"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Nordamerika (broder)"
+  ],
+  "summary": "Hemmansägare i Takene, död 29/4 1932 (74 år); efterlämnade maka, barn och barnbarn samt en broder i Nordamerika. Ej i trädet; släktskap okänt.",
+  "notes": [
+   "SVENSKA AMERIKANAREN 1932-05-26 s.? (OCR): ”Hemmansägaren J. Bäcker avled d. 29 april i sitt hem i Takene, Brunskog, efter en tids sjukdom, 74 år gammal. Den bortgångne sörjes närmast av maka, barn och barnbarn samt en broder i Nordamerika.” Brodern är ej namngiven.",
+   "Samma dödsfall i annan tidning (OCR, 1932-05-25, id stny19320525-01.1.?): ”I Takene i Brunskog avled hemmansägaren J. Bäcker den 29 april, 74 år gammal.” (tidningsnamn ej verifierat)"
+  ],
+  "sources": [
+   {
+    "label": "Svenska amerikanaren 1932-05-26, s.8 (Swedish American Newspapers, OCR): dödsnotis J. Bäcker, Takene, broder i Nordamerika",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=cisa19320526-01.1.8"
+   }
+  ],
+  "search": [
+   "J. Bäcker (hemmansägare, Takene, d. 1932)"
+  ]
+ },
+ {
+  "id": "backer_anna_takene",
+  "name": "Anna Bäcker (Takene, d. 1936)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "died": {
+   "date": "1936-07-15",
+   "place": "Takene, Brunskog",
+   "note": "76 år gammal"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Cleveland",
+   "Worcester, Mass."
+  ],
+  "summary": "Änka efter J. Bäcker; död 15/7 1936 (76 år). Tre söner i Sverige och sju döttrar i Förenta staterna (tre i Worcester, några i Cleveland). Potentiell amerikagren men inga kopplingar till trädet påvisade.",
+  "notes": [
+   "TEXAS POSTEN 1936-08-20 s.7 (OCR): ”… er i Cleveland samt tre döttrar i Worcester. Den 15 juli i sitt hem i Takene, Brunskog, änkefru Anna Bäcker, 76 år gammal. Den bortgångna, som var änka efter framlidne hemmansägaren J. Bäcker …”",
+   "CALIFORNIA VECKO-POSTEN 1936-08-27 s.2 (id calv19360827-01.1.2; även ndsj19360820-01.1.1) (OCR): ”… tre söner i Sverige samt sju döttrar i Förenta Staterna. — Änkefru Anna Backer, Takene, Brunskog, har avlidit i en ålder av 76 år. Hon sörjes av barn, barnbarn och syskon.” (tidningsnamn efter databasens prefix; ej visuellt kontrollerat)"
+  ],
+  "sources": [
+   {
+    "label": "Texas posten 1936-08-20, s.7: Anna Bäcker, Takene, 76 år, döttrar i Cleveland/Worcester",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=txpo19360820-01.1.7"
+   },
+   {
+    "label": "Svenska amerikanaren tribunen 1936-08-13, s.7 (samma notis)",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=satr19360813-01.1.7"
+   },
+   {
+    "label": "California vecko-posten 1936-08-27, s.2: tre söner i Sverige, sju döttrar i Förenta Staterna",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=calv19360827-01.1.2"
+   }
+  ],
+  "search": [
+   "Anna Bäcker (Takene, d. 1936)"
+  ]
+ },
+ {
+  "id": "anna_nilsson_takene_1939",
+  "name": "Anna Nilsson (änka, Takene, d. 1939)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1847",
+   "place": "",
+   "note": "92 år vid död 1939 (beräknat)"
+  },
+  "died": {
+   "date": "1939",
+   "place": "Takene, Brunskog",
+   "note": "Notis i Svenska Amerikanaren Tribunen 1939-11-16"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Amerika (barn)"
+  ],
+  "summary": "Brunskogs äldsta kvinna, änkan Anna Nilsson i Takene, död hösten 1939 i 92 års ålder, med barn och barnbarn i Amerika. Släktskap med trädet okänt (Nilsson/Takene räcker ej).",
+  "notes": [
+   "SVENSKA AMERIKANAREN TRIBUNEN 1939-11-16 s.7 (OCR): ”Den äldsta kvinnan i Brunskog, änkan Anna Nilsson i Takene, har avlidit i en ålder av 92 år, efterlämnande barn och barnbarn i Amerika.”"
+  ],
+  "sources": [
+   {
+    "label": "Svenska amerikanaren tribunen 1939-11-16, s.7: änkan Anna Nilsson i Takene, 92 år, barn i Amerika",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=satr19391116-01.1.7"
+   }
+  ],
+  "search": [
+   "Anna Nilsson (änka, Takene, d. 1939)"
+  ]
+ },
+ {
+  "id": "ivar_nilson_takene_usa",
+  "name": "Ivar Nilson (f. Takene, bor i USA 1944)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Takene, Brunskog",
+   "USA (ort ej angiven i utdraget)"
+  ],
+  "summary": "Född i Takene i Brunskog, firade 25-årigt bröllop i USA 1944 (hustrun mrs Nilson från Sunne). Ort i USA ej läst (stort bröllopsreferat, Svenska Amerikanaren Tribunen, Chicago). Troligen ej släkt; lead.",
+  "notes": [
+   "SVENSKA AMERIKANAREN TRIBUNEN 1944-08-24 s.10 (OCR): ”… värmlänningarna voro i majoritet. Ivar Nilson är jössehäring, född i Takene i Brunskog, och mrs Nilson är från Sunne.” (”jössehäring” = från Jösse härad, Värmland.)"
+  ],
+  "sources": [
+   {
+    "label": "Svenska amerikanaren tribunen 1944-08-24, s.10: Ivar Nilson född i Takene i Brunskog",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=satr19440824-01.1.10"
+   }
+  ],
+  "search": [
+   "Ivar Nilson (f. Takene, bor i USA 1944)"
+  ]
+ },
+ {
+  "id": "andersson_takene_gigharbor",
+  "name": "Andersson (f. Takene, Talken; rektor Gig Harbor, Wash., 1934)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Takene, Brunskog",
+   "Talken, Brunskog",
+   "Gig Harbor, Washington"
+  ],
+  "summary": "Andersson, född i hemmanet Takene men bosatt i Talken, Brunskog (gården ”Där inne”, ca 50 år); notisen (okt 1934) nämner rektor vid Crescent Valley-skolan i Gig Harbor, Washington – troligen en son/släkting i USA. Namn/koppling ej fastställd.",
+  "notes": [
+   "SVENSKA AMERIKANAREN 1934-10-04 (id cisa19341004-01.1.7) och wspt19341011-01.1.2 (OCR): ”Andersson i Talken, Brunskog. Andersson är född i hemmanet Takene men har varit bosatt i Talken, där han ägt gården ’Där inne’, i ett 50-tal år.” och ”… är rektor vid Crescent Valley skolan i Gig Harbor …” (hela meningen ej läst – undersök vem som är rektor)."
+  ],
+  "sources": [
+   {
+    "label": "Svenska amerikanaren 1934-10-04, s.7: Andersson i Talken, född i Takene",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=cisa19341004-01.1.7"
+   },
+   {
+    "label": "wspt19341011-01.1.2 (1934-10-11, s.2): samma notis, Gig Harbor",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=wspt19341011-01.1.2"
+   }
+  ],
+  "search": [
+   "Andersson (f. Takene, Talken; rektor Gig Harbor, Wash., 1934)"
+  ]
+ },
+ {
+  "id": "petrus_johansson_strmtorp",
+  "name": "Petrus Johansson (predikant, f. 1846 Väse; Takene)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1846",
+   "place": "Väse"
+  },
+  "places": [
+   "Väse",
+   "Värmlandsnäs",
+   "Kopparberg",
+   "Stora Tuna",
+   "Takene, Brunskog",
+   "Strömtorp"
+  ],
+  "summary": "Predikant i Missionsförbundet; 70-årsnotis 1916: efter tjänst i Stora Tuna flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Svärfadern ej namngiven – möjligen Olof Olsson i Takene (d. 1896)? Ej belagt.",
+  "notes": [
+   "MISSIONSVÄNNEN 1916-11-21 s.7 (OCR): ”Den 4 oktober fyllde predikant Petrus Johansson i Strömtorp 70 år. Han var år 1846 född i Väse … År 1874 antog han kallelse till Värmlandsnäs … Efter fem och ett halft års verksamhet därstädes flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Emellanåt och särskildt under vintern verkade han som predikant i Brunnskog, på Hammarön, Gr…”",
+   "KONTROLL: Svärfadern kan vara Olof Olsson i Takene (d. 27/11 1896, 92 år) men hans dotter var enligt Svenska Morgonbladet gift med predikanten D. Hagström i Arvika – så en andra dotter/annan svärfader måste klarläggas (husförhör Takene 1885–1895, Brunskog A I/30–A I/36)."
+  ],
+  "sources": [
+   {
+    "label": "Missionsvännen 1916-11-21, s.7: predikant Petrus Johansson övertog svärfaderns gård Takene",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=mvnn19161121-01.1.7"
+   }
+  ],
+  "search": [
+   "Petrus Johansson (predikant, f. 1846 Väse; Takene)"
+  ]
+ },
+ {
+  "id": "ludvig_ernstrom_slc",
+  "name": "Ludvig Ernstrom (f. 1854 Brunskog, Salt Lake City)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854-09-20",
+   "place": "Brunskog, Värmland",
+   "note": "enligt Wilford Woodruff Papers"
+  },
+  "died": {
+   "date": "1933-09-15",
+   "place": "Salt Lake City"
+  },
+  "places": [
+   "Brunskog",
+   "Salt Lake City"
+  ],
+  "summary": "Emigrant från Brunskog (g. Salt Lake City 1879). Ingen koppling till vårt träd funnen; endast notering som Brunskog-emigrant.",
+  "notes": [
+   "WEBBSÖKNING D6: 'Ludvig Ernstrom ... born 20 Sept. 1854 in Brunskog, Värmland, Sweden ... married in Salt Lake City in 1879, died 15 Sept 1933' (wilfordwoodruffpapers.org/subjects/ludvig-ernstrom). Släktskap med Takene/Svartåna/Skog okänt – ej kopplad."
+  ],
+  "sources": [
+   {
+    "label": "Wilford Woodruff Papers, subject Ludvig Ernstrom",
+    "url": "https://wilfordwoodruffpapers.org/subjects/ludvig-ernstrom"
+   }
+  ],
+  "search": [
+   "Ludvig Ernstrom (f. 1854 Brunskog, Salt Lake City)"
+  ]
+ },
+ {
+  "id": "d7_anders_sylvander",
+  "name": "Anders Sylvander (Skog)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1852-07-19",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1895)"
+  ],
+  "summary": "Bonde på Skog med familj; utflyttad till Amerika 18 okt 1895 enligt husförhörslängd. Släktskap med Martins släkt EJ belagt (granne på Skog).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166), rubrik Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog”. Flyttkolumnen: ”Amerika 95 18/10” (klammer över föräldrarna) och ”Amerika 95 18/10” (klammer över Nils, Johan, Hulda); Anna: ”nedre 95” (ej Amerika).",
+   "Födelseår står som tvåsiffrigt (52 = 1852)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Anders Sylvander + familj, Amerika 95 18/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   }
+  ],
+  "search": [
+   "Anders Sylvander (Skog)"
+  ]
+ },
+ {
+  "id": "d7_matilda_nilsson_sylvander",
+  "name": "Matilda Nilsson (g. Sylvander)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1855-01-07",
+   "place": "Boda"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1895)"
+  ],
+  "summary": "Anders Sylvanders hustru (sinnessjuk enligt husförhör); Amerika 18 okt 1895.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162: ”H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda” – Amerika 95 18/10."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Matilda Nilsson, Amerika 95 18/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   }
+  ],
+  "search": [
+   "Matilda Nilsson (g. Sylvander)"
+  ]
+ },
+ {
+  "id": "d7_sylvander_anna",
+  "name": "Anna Andersdotter Sylvander",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879-11-05",
+   "place": "Fryksände"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1896)"
+  ],
+  "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Flyttade 1895 (”nedre”). Åter: Amerika 15 maj 1896 (A II a/1 bild 215).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”nedre 95” (ej Amerika)",
+   "FÖRSAMLINGSBOK A II a/1 bild 215 (fol. 205, Skog/Åsen): ”Anna Sylvander 79 5/11 Fryksände” – utflyttad: ”Amerika 96 15/5”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Anna Andersdotter Sylvander",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 205, Anna Sylvander → Amerika 96 15/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00215"
+   }
+  ],
+  "search": [
+   "Anna Andersdotter Sylvander"
+  ]
+ },
+ {
+  "id": "d7_sylvander_nils",
+  "name": "Nils Andersson Sylvander",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1882-10-02",
+   "place": "Boda"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1895)"
+  ],
+  "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Nils Andersson Sylvander",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   }
+  ],
+  "search": [
+   "Nils Andersson Sylvander"
+  ]
+ },
+ {
+  "id": "d7_sylvander_johan",
+  "name": "Johan Andersson Sylvander",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1885-06-21",
+   "place": "Skog"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1895)"
+  ],
+  "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Johan Andersson Sylvander",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   }
+  ],
+  "search": [
+   "Johan Andersson Sylvander"
+  ]
+ },
+ {
+  "id": "d7_sylvander_hulda",
+  "name": "Hulda Andersdotter Sylvander",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1891-12-09",
+   "place": "Skog"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Amerika (1895)"
+  ],
+  "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Hulda Andersdotter Sylvander",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   }
+  ],
+  "search": [
+   "Hulda Andersdotter Sylvander"
+  ]
+ },
+ {
+  "id": "d7_johan_olofsson_1871_skog",
+  "name": "Johan Olofsson (Östra Skogshaget, f. 1871)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1871-01-03",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Östra Skogshaget, Skog",
+   "Amerika (1895)"
+  ],
+  "summary": "Son till Olof Jönsson och Maria Persdotter, Östra Skogshaget; Amerika 29 apr 1895 (nr 22). Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6”. Bortflyttad-kolumn rad 4: ”Amerika 95 29/4 22”; flytt ”12 100/1892 K. M. tillstånd 19.IV.95”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 167 (bild 163): Jonte 71 3/1 → Amerika 95 29/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00163"
+   }
+  ],
+  "search": [
+   "Johan Olofsson (Östra Skogshaget, f. 1871)"
+  ]
+ },
+ {
+  "id": "d7_maria_jonasdotter_skogsberg",
+  "name": "Maria Jonasdotter Skogsberg (f. 1874)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1874-10-21",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog",
+   "Nordamerika (1891)"
+  ],
+  "summary": "Dotter till korpral Jonas Olof Skogsberg (Skog); Nordamerika 20 mars 1891. Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”. Bortflyttad: Maria ”Nordamerika 91 20/3”; Elin ”Nordamerika 94 26/4”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 171 (bild 167): Maria 74 → Nordamerika 91 20/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00167"
+   }
+  ],
+  "search": [
+   "Maria Jonasdotter Skogsberg (f. 1874)"
+  ]
+ },
+ {
+  "id": "d7_elin_jonasdotter_skogsberg",
+  "name": "Elin Jonasdotter Skogsberg (f. 1877)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1877-01-03",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog",
+   "Nordamerika (1894)"
+  ],
+  "summary": "Dotter till korpral Jonas Olof Skogsberg; Nordamerika 26 apr 1894. Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Elin 77 3/1 Skog” – ”Nordamerika 94 26/4”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 171 (bild 167): Elin 77 → Nordamerika 94 26/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00167"
+   }
+  ],
+  "search": [
+   "Elin Jonasdotter Skogsberg (f. 1877)"
+  ]
+ },
+ {
+  "id": "d7_britta_maria_nolen",
+  "name": "Britta Maria Nolén (Där Nole, Svartåna, f. 1865)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1865-07-26",
+   "place": "Svartåna, Brunskog"
+  },
+  "places": [
+   "Där Nole, Svartåna",
+   "Nordamerika (1887–1894)"
+  ],
+  "summary": "Bodde i Olof Janssons hushåll på Där Nole, Svartåna; var i Nordamerika 22 mars 1887 – 15 sep 1894 och återvände. Kandidat för släktingar i Nole-grenen (Nolemark).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 208 (fol. 213), rubrik ”Där nole”: ”Eg. Olof Jansson 36 3/3 Svartåna; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna”. Hitflyttad: ”N. Amerika 94 15/9”. Anm. (remarks): ”Saknar lediglighetsbevis för tiden 22/3 87–15/9 94. Jfr hår före 1895 se N 224 fl. ...” (tolkning osäker).",
+   "Relation till Olof Jansson (f. 1836) osäker: födelseår 1865 är 29 år efter honom – troligen syster (eller ev. dotter i första gifte). Bindande kontroll saknas.",
+   "Prövas: Ellis Island/US-folkräkning 1887–94 (Britta/Bertha Nelson/Nolén, Minnesota?)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 213 (bild 208), gård ”Där nole”: Britta Maria 65 26/7, N. Amerika 94 15/9",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00208"
+   }
+  ],
+  "search": [
+   "Britta Maria Nolén (Där Nole, Svartåna, f. 1865)"
+  ]
+ },
+ {
+  "id": "d7_olof_jansson_1836_svartana",
+  "name": "Olof Jansson (Där Nole, Svartåna, f. 1836)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1836-03-03",
+   "place": "Svartåna, Brunskog"
+  },
+  "places": [
+   "Där Nole, Svartåna"
+  ],
+  "summary": "Husbonde på Där Nole, Svartåna 1891–95; gift med Maria Persdotter (f. 1839-03-18). Koppling till Nolemark-släkten ej utredd.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 208: ”Eg. Olof Jansson 36 3/3 Svartåna [flytt 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria 65 26/7”; Bortflyttad: ”N.D. 267”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 213 (bild 208), gård ”Där nole”: Olof Jansson 36 3/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00208"
+   }
+  ],
+  "search": [
+   "Olof Jansson (Där Nole, Svartåna, f. 1836)"
+  ]
+ },
+ {
+  "id": "d7_nils_olofsson_lyckan_svartana",
+  "name": "Nils Olofsson/Andersson (Lyckan, Svartåna, f. 187?)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Svartåna",
+   "note": "Födelseår ej säkert läst (krossat i bok); dag 31/7."
+  },
+  "places": [
+   "Lyckan, Svartåna",
+   "Nordamerika (1893)"
+  ],
+  "summary": "Son i Olof Anderssons hushåll, Lyckan (Svartåna); Nordamerika 8 mars 1893 med kunglig tillåtelse att lämna riket (frikallad 1888). Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”. Nils: ”Frikallad 1888”, ”Kungl. Maj:ts tillstånd att lämna riket”, ”Nordamerika 93 8/3 27”. Johannes: Nedra Ullerud 93 30/10; Elisabeth: N. Ullerud 95 1/11."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 218 (bild 213), Lyckan: Nils → Nordamerika 93 8/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   }
+  ],
+  "search": [
+   "Nils Olofsson/Andersson (Lyckan, Svartåna, f. 187?)"
+  ]
+ },
+ {
+  "id": "d7_emil_andersson_nolbystegen",
+  "name": "Emil Andersson/Persson (Östra Nolbystegen, f. 187?)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Svartåna",
+   "note": "6/12; årtal svårläst"
+  },
+  "places": [
+   "Östra Nolbystegen, Svartåna",
+   "Nordamerika (1891)"
+  ],
+  "summary": "Son till Anders Persson (f. 1830-06-27) och Maria Jonsdotter (1828?-01-16); Nordamerika 27 feb 1891 (nr 17). Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”. Emil: ”Nordamerika 91 27/2 17”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 222 (bild 217), Östra Nolbystegen: Emil → Nordamerika 91 27/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00217"
+   }
+  ],
+  "search": [
+   "Emil Andersson/Persson (Östra Nolbystegen, f. 187?)"
+  ]
+ },
+ {
+  "id": "d7_arvid_adolf_leander_persson",
+  "name": "Arvid Adolf Leander Persson (f. 1889 Nordamerika?)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Nordamerika (uppg. i husförhör)",
+   "note": "födelsedag 29/4"
+  },
+  "places": [
+   "Östra Takene",
+   "Nordamerika (1893)"
+  ],
+  "summary": "Son till Maria Olsdotter (änka, f. Svartåna); i husförhöret anges födelseort Nordamerika; bortflyttad till Nordamerika 8 mars 1893 (nr 32–33). Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 169 (fol. 173), Östra Takene: ”Pig. enk. Maria Olsdotter 6? 19/12 Svartåna; Son Arvid Adolf Leander Persson 8? 29/4 Nordamerika”. Bortflyttad: ”Nordamerika 93 8/3 32” och ”„ „ 33”. Båda överstrukna."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 173 (bild 169): Maria Olsdotter + son Arvid A. L. Persson → Nordamerika 93 8/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00169"
+   }
+  ],
+  "search": [
+   "Arvid Adolf Leander Persson (f. 1889 Nordamerika?)"
+  ]
+ },
+ {
+  "id": "d7_maria_olsdotter_takene_enka",
+  "name": "Maria Olsdotter (änka, Östra Takene, f. 186? Svartåna)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Svartåna",
+   "note": "19/12"
+  },
+  "places": [
+   "Östra Takene",
+   "Nordamerika (1893)"
+  ],
+  "summary": "Änka med sonen Arvid Adolf Leander Persson; Nordamerika 8 mars 1893. Ej identifierad med känd släkt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 169: ”Pig. enk. Maria Olsdotter … 19/12 Svartåna” – ”Nordamerika 93 8/3 32/33”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 173 (bild 169): Maria Olsdotter enk.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00169"
+   }
+  ],
+  "search": [
+   "Maria Olsdotter (änka, Östra Takene, f. 186? Svartåna)"
+  ]
+ },
+ {
+  "id": "d7_gustaf_svensson_takene",
+  "name": "Gustaf Svensson (dräng, Östra Takene, f. 1863)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1863-12-21",
+   "place": "Vadlosa?"
+  },
+  "places": [
+   "Östra Takene",
+   "Nordamerika (1891)"
+  ],
+  "summary": "Dräng på Östra Takene; Nordamerika 20 mars 1891 (rad 7).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 169: ”Dr. Gustaf Svensson 63 21/12 Wadlosa” – bortflyttad ”Nordamerika 91 20/3”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 173 (bild 169): Gustaf Svensson → Nordamerika 91 20/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00169"
+   }
+  ],
+  "search": [
+   "Gustaf Svensson (dräng, Östra Takene, f. 1863)"
+  ]
+ },
+ {
+  "id": "d7_anna_maria_olofsdotter_1874",
+  "name": "Anna Maria Olofsdotter (f. 1874, Gunnarsbytorp-Takene)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1874-06-02",
+   "place": "Takene"
+  },
+  "places": [
+   "Skog (gård)",
+   "Nordamerika (1891)"
+  ],
+  "summary": "Dotter till Olof Jansson (f. 1850-09-21 Gunnarsbytorp) och Brita Nilsdotter; Nordamerika 22 maj 1891. Släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”. Anna Maria: ”Nordamerika 91 22/5”. (Rader/födelseår 74 stämmer för Anna Maria 2/6.)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 168 (bild 164): Anna Maria 74 2/6 → Nordamerika 91 22/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00164"
+   }
+  ],
+  "search": [
+   "Anna Maria Olofsdotter (f. 1874, Gunnarsbytorp-Takene)"
+  ]
+ },
+ {
+  "id": "d7_karl_oskar_olofsson_skog",
+  "name": "Karl Oskar Olofsson (Skog, f. 1879)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1879-05-02",
+   "place": "Gunnarsbytorp"
+  },
+  "places": [
+   "Skog (Gärde)",
+   "Amerika (1901)"
+  ],
+  "summary": "Son till Olof Jansson och Brita Nilsdotter (Skog, gård Gärde); Amerika 19 april 1901 (frikallad 1900). Släktskap ej belagt.",
+  "notes": [
+   "FÖRSAMLINGSBOK A II a/1 bild 213 (fol. 203, Skog Gärde): ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Toltan; … Karin 74 16/11 Jacken; Karl Oskar 79 2/5 Gunnarsbytorp”; Karl Oskar: ”Frk. 00” – ”Amerika 01 19/4”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 203, Karl Oskar → Amerika 01 19/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00213"
+   }
+  ],
+  "search": [
+   "Karl Oskar Olofsson (Skog, f. 1879)"
+  ]
+ },
+ {
+  "id": "d7_anders_andersson_skog_1868",
+  "name": "Anders Andersson (inhyses, Skog, f. 1868)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1868-08-16",
+   "place": "Brunskog (L.)"
+  },
+  "places": [
+   "Skog",
+   "Amerika (1901)"
+  ],
+  "summary": "Inhyseshjon på Skog; Amerika 20 nov 1901. Släktskap ej belagt.",
+  "notes": [
+   "FÖRSAMLINGSBOK A II a/1 bild 218 (fol. 208, Skog): ”1. Anders Anders[son] 68 16/8 L.” – ”Amerika 01 20/11”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 208, Anders Andersson → Amerika 01 20/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00218"
+   }
+  ],
+  "search": [
+   "Anders Andersson (inhyses, Skog, f. 1868)"
+  ]
+ },
+ {
+  "id": "d7_jonte_skogsberg_1873",
+  "name": "Jonte (Johan) Skogsberg (Skog, f. 1873)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1873-07-17",
+   "place": "Skog"
+  },
+  "places": [
+   "Skog",
+   "Amerika (1901)"
+  ],
+  "summary": "Son till korpral Jonas Olof Skogsberg; Amerika 31 maj 1901; föräldrarna och yngre syskon flyttade 7 juni 1901 till Västra Emtervik.",
+  "notes": [
+   "FÖRSAMLINGSBOK A II a/1 bild 220 (fol. 210, Skog): ”Jonas Skogsberg 46 [26/5] Spångdal; H. Stina Nilsd.; Jonte 73 17/7; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”; Jonte: ”Amerika 01 31/5”; övriga: ”W. Emt. 01 7/6”. Varnpligt: ”13 100/94 / 11 100/1900”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 210, Jonte → Amerika 01 31/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00220"
+   }
+  ],
+  "search": [
+   "Jonte (Johan) Skogsberg (Skog, f. 1873)"
+  ]
+ },
+ {
+  "id": "d7_hulda_maria_olofsdotter_1880",
+  "name": "Hulda Maria Olofsdotter (Skog, f. 1880)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1880-02-02",
+   "place": "Takene"
+  },
+  "places": [
+   "Östra Skogshaget",
+   "Amerika (1904)"
+  ],
+  "summary": "Piga/dotter (Östra Skogshaget); inflyttad 1899-11-16 från fol. 203; Amerika 3 nov 1904 enligt A II a/1.",
+  "notes": [
+   "FÖRSAMLINGSBOK A II a/1 bild 216 (fol. 206, Östra Skogshaget): ”Hulda Maria Olsd. 80 2/2 Takene” – ”203 99 16/11” och ”Amerika 04 3/11”. Tolkning av raden osäker."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 206, Hulda Maria Olsd. → Amerika 04 3/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00216"
+   }
+  ],
+  "search": [
+   "Hulda Maria Olofsdotter (Skog, f. 1880)"
+  ]
+ },
+ {
+  "id": "d7_elin_maria_jonasdotter_1886",
+  "name": "Elin Maria Jonasdotter (piga, Östra Skogshaget, f. 1886)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886-03-27",
+   "place": "W. Emtervik"
+  },
+  "places": [
+   "Östra Skogshaget",
+   "Amerika (1902)"
+  ],
+  "summary": "Piga; inflyttad 20/11 1900 från V. Emtervik; Amerika 19 sep 1902 enligt A II a/1.",
+  "notes": [
+   "FÖRSAMLINGSBOK A II a/1 bild 216 (fol. 206): ”Elin Maria Jonasd. piga 86 27/3 W. Emt.” – ”W. Emt. 00 20/11”, ”Amerika 02 19/9”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 206, Elin Maria Jonasdotter → Amerika 02 19/9",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00216"
+   }
+  ],
+  "search": [
+   "Elin Maria Jonasdotter (piga, Östra Skogshaget, f. 1886)"
+  ]
+ },
+ {
+  "id": "d7_olof_persson_svartana_1873",
+  "name": "Olof Persson (Svartåna, f. 1873)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1873-01-27",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Svartåna",
+   "Nordamerika (1892)"
+  ],
+  "summary": "Son till Per Olofsson (f. 1824?) och Stina Nilsdotter, Svartåna; Nordamerika 1892 (dag/månad svårläst, nr 40).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” – ”Nordamerika 92 [2?]/8 40”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 230 (bild 224): Olof 73 27/1 → Nordamerika 92",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00224"
+   }
+  ],
+  "search": [
+   "Olof Persson (Svartåna, f. 1873)"
   ]
  }
 ]
