@@ -13810,7 +13810,8 @@
   "living": false,
   "born": {
    "date": "1786-06-23",
-   "place": "(ort svårläst, ”Grimst…”?)"
+   "place": "V. Grimstad, Boda",
+   "note": "Boda dopbok C I/2 bild 134 nr 29, 23 juni 1786"
   },
   "places": [
    "Strand, Brunskog"
@@ -13818,7 +13819,8 @@
   "summary": "Bonde på Strand (Östra delen); fader till Britta Nilsdotter (f. 15/2 1820), hustru till Nils Eriksson. Gift med Kjerstin Nilsdotter (f. 1791 Takene).",
   "notes": [
    "A I/13 bild 69 (Strand): ”Nils Andersson 23/6 86 [Grim…]”, H. Kjerstin Nilsd. 2/5 91 Takene, S. Anders 1815 Strand, S. Jonas 1817, D. Britta 15/2 1820 ibm, D. Maria 4/12 1821 ibm, Dr. Cajsa 25/9 1824 loco.",
-   "GRANSKNING: födelseorten i A I/13 bild 69 läses ”Grimst…” (inte Strand)."
+   "GRANSKNING: födelseorten i A I/13 bild 69 läses ”Grimst…” (inte Strand).",
+   "Födelseorten i husförhör A I/13 (”Grim…”) = V. Grimstad i Boda socken; dopposten ger föräldrar Anders Mattsson och Brita Nilsdotter."
   ],
   "sources": [
    {
@@ -13828,6 +13830,10 @@
    {
     "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1820), bild 139, s. 240, Febr nr 10: 14 | 15 | Strand, Brita, Nils Andersson / Kjerstin Nilsd.; faddrar Per Nilsson, Brita Andersd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 134 (s. 246–247), nr 29, 23 juni 1786: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00134"
    }
   ],
   "search": [
@@ -15451,7 +15457,8 @@
   "summary": "Far till Brita f. 9 sept 1826 Takene (dop 11 sept 1826), troligen Britta Olsdotter som blev Nils Janssons hustru i Svartåna.",
   "notes": [
    "DOP Brunskog 1826: ”Brita, Takene – Olof Anderss., Maria Nilsd.”. Länken Brita 1826 = Britta Olsdotter (A I/25) bygger på namn, födelsemånad (…/9), år (1826), bosättning (Ö. Takene) och patronymikon (Ol-).",
-   "HUSFÖRHÖR A I/17 bild 115 (s. 97, Ö. Takene): ”Bond. U. Olof Anderson 12/12 95” – hushållet med hustru Maria Nilsdr och dotter Britta 1/9 26 bekräftar familjen. Status verified: hushållet innehåller Britta (1826) samma by, samma föräldrar."
+   "HUSFÖRHÖR A I/17 bild 115 (s. 97, Ö. Takene): ”Bond. U. Olof Anderson 12/12 95” – hushållet med hustru Maria Nilsdr och dotter Britta 1/9 26 bekräftar familjen. Status verified: hushållet innehåller Britta (1826) samma by, samma föräldrar.",
+   "DOP Brunskog 12 dec 1795, nr 51: ”Ö. Takene – Olof – Anders Arnesson – Marit Andersdotter” (nr 51, dec 12)."
   ],
   "sources": [
    {
@@ -15461,6 +15468,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängder A I/17 (C0036756, 1831–35), bild 115 (s. 97, Ö. Takene): ”Bond. U. Olof Anderson 12/12 95; dess hustru Maria Nilsdr 13/1 96; deras Son Anders 9/4 21; Dtr Maria 10/4 23; Dtr Britta 1/9 26; Son Nils 14/3 29; Son Olof …/1831; Son Nils …/5 1835; nils 26/7 36”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00115"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 51 (s. 79, dec 1795, nr 51): ”Ö. Takene / Olof / Anders Arnesson / Marit Andersdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00051"
    }
   ],
   "search": [
@@ -20341,6 +20352,237 @@
   ],
   "search": [
    "Stina Nilsdotter (f. 1808)"
+  ]
+ },
+ {
+  "id": "sven_nilsson_boda_1774",
+  "name": "Sven Nilsson (Boda, far till Nils f. 1774)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Boda"
+  ],
+  "summary": "Far till Nils Svensson (f. 1774 Boda) enligt Bodas dopbok; övrigt okänt.",
+  "notes": [
+   "DOP Boda nov 1774: ”Boda Nils, fad: Sven Nilsson, mod: Katrin Nilsdotter, fadd. H. Britta Christophersdotter i Boda”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 105 (s. 193), sista posten nov 1774: Boda Nils; far Sven Nilsson, mor Katrin Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00105"
+   }
+  ],
+  "search": [
+   "Sven Nilsson (Boda, far till Nils f. 1774)"
+  ]
+ },
+ {
+  "id": "katrin_nilsd_boda_1774",
+  "name": "Katrin Nilsdotter (Boda, mor till Nils f. 1774)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Boda"
+  ],
+  "summary": "Mor till Nils Svensson (f. 1774 Boda) enligt Bodas dopbok.",
+  "notes": [
+   "DOP Boda nov 1774: ”mod: Katrin Nilsdotter”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 105 (s. 193), nov 1774",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00105"
+   }
+  ],
+  "search": [
+   "Katrin Nilsdotter (Boda, mor till Nils f. 1774)"
+  ]
+ },
+ {
+  "id": "sven_nilsson_lerboda92",
+  "name": "Sven Nilsson (Lerboda, far till Nils f. 1792)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lerboda, Boda"
+  ],
+  "summary": "Far till Nils Svensson (f. 1792 Boda, sedermera Lerhol) enligt Bodas dopbok.",
+  "notes": [
+   "DOP Boda juli 1792, nr 19: ”Lerboda, Nils. Far: Sven Nilsson & Britta Persdotter. Test: Olof Jonsson & Annicka Nilsdotter”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 153 (s. 285), juli 1792 nr 19 (”do 29”): Lerboda Nils; far Sven Nilsson, mor Britta Persdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00153"
+   }
+  ],
+  "search": [
+   "Sven Nilsson (Lerboda, far till Nils f. 1792)"
+  ]
+ },
+ {
+  "id": "britta_persd_lerboda92",
+  "name": "Britta Persdotter (Lerboda, mor till Nils f. 1792)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lerboda, Boda"
+  ],
+  "summary": "Mor till Nils Svensson (f. 1792).",
+  "notes": [
+   "DOP Boda 1792: ”Britta Persdotter”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 153 (s. 285), juli 1792 nr 19",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00153"
+   }
+  ],
+  "search": [
+   "Britta Persdotter (Lerboda, mor till Nils f. 1792)"
+  ]
+ },
+ {
+  "id": "anders_mattsson_grimstad86",
+  "name": "Anders Mattsson (V. Grimstad, Boda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "V. Grimstad, Boda"
+  ],
+  "summary": "Far till Nils Andersson (f. 23/6 1786 V. Grimstad, Boda).",
+  "notes": [
+   "DOP Boda 23 juni 1786, nr 29: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 134 (s. 246), nr 29, 23 juni 1786: V. Grimstad Nils; far And. Mattsson, mor Brita Nilsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00134"
+   }
+  ],
+  "search": [
+   "Anders Mattsson (V. Grimstad, Boda)"
+  ]
+ },
+ {
+  "id": "brita_nilsd_grimstad86",
+  "name": "Brita Nilsdotter (V. Grimstad, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "V. Grimstad, Boda"
+  ],
+  "summary": "Mor till Nils Andersson (f. 23/6 1786).",
+  "notes": [
+   "DOP Boda 1786: ”M. Brita Nilsd.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 134, nr 29",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00134"
+   }
+  ],
+  "search": [
+   "Brita Nilsdotter (V. Grimstad, Boda)"
+  ]
+ },
+ {
+  "id": "nils_andersson_takene91",
+  "name": "Nils Andersson (Ö. Takene, far till Kjerstin f. 1791)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Kjerstin Nilsdotter (f. 2/5 1791); samme Nils Andersson/Brita Olsdotter även föräldrar i dopbok 1798 (Toltan).",
+  "notes": [
+   "DOP Brunskog 2 maj 1791, nr 30: ”Ö. Takene / Kjersti / Nils Andersson / Brita Olsd. ; faddrar Per Nilsson, f. Kjersti Olsd.”",
+   "DOP 1798 nr 5 (C I/3 bild 58/59): ”Toltan Jonas – Nils Andersson, Brita Olsd.” – möjligen samma föräldrapar, ej utrett."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 40 (s. 57), nr 30, 2 maj 1791: Ö. Takene Kjersti; Nils Andersson, Brita Olsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00040"
+   }
+  ],
+  "search": [
+   "Nils Andersson (Ö. Takene, far till Kjerstin f. 1791)"
+  ]
+ },
+ {
+  "id": "brita_olsd_takene91",
+  "name": "Brita Olsdotter (Ö. Takene, mor till Kjerstin f. 1791)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Mor till Kjerstin Nilsdotter (f. 2/5 1791).",
+  "notes": [
+   "DOP Brunskog 1791: ”Brita Olsd.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 40 (s. 57), nr 30",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00040"
+   }
+  ],
+  "search": [
+   "Brita Olsdotter (Ö. Takene, mor till Kjerstin f. 1791)"
+  ]
+ },
+ {
+  "id": "jon_x_boda65",
+  "name": "Jon (efternamn oläst) (far till Ingeborg f. 17/2 1765, Boda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Boda"
+  ],
+  "summary": "Far till Ingeborg Jansdotter (f. 17/2 1765) enligt Bodas dopbok; efternamn/gård oläst.",
+  "notes": [
+   "DOP Boda 17 febr 1765, nr 2: ”[gårdsnamn oläst] Ingeborg fad: Jon P[?]nsson [osäkert] mod: Kjersti [?]dotter; vittnen: … Nils … i Grimstad(?), H. Britta … i Lerboda …” – handstilen mycket svårläst, endast förnamn Jon/Kjersti och Ingeborg, datum 17/2 säkra"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 69 (s. 125), nr 2, 17 febr 1765: Ingeborg, fad: Jon …, mod: Kjersti …",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00069"
+   }
+  ],
+  "search": [
+   "Jon (efternamn oläst) (far till Ingeborg f. 17/2 1765, Boda)"
+  ]
+ },
+ {
+  "id": "kjersti_x_boda65",
+  "name": "Kjersti (efternamn oläst) (mor till Ingeborg f. 17/2 1765, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Boda"
+  ],
+  "summary": "Mor till Ingeborg Jansdotter (f. 1765) enligt Bodas dopbok; efternamn oläst.",
+  "notes": [
+   "DOP Boda 1765 nr 2: ”mod: Kjersti …”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 69 (s. 125), nr 2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00069"
+   }
+  ],
+  "search": [
+   "Kjersti (efternamn oläst) (mor till Ingeborg f. 17/2 1765, Boda)"
   ]
  }
 ]

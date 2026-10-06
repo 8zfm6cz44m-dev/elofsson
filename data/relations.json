@@ -5178,5 +5178,71 @@
   "child": "fr_stinanilsd1808",
   "status": "strong",
   "basis": "Frykerud husförhörslängd A I/14 bild 99 (s. 83), Lene: ”D. Stina 1808” i Nils Jonssons hushåll (dotter); mor okänd (första hustru)."
+ },
+ {
+  "id": "c-anders_arnesson-marit_andersd67-olof_andersson_takene_1826",
+  "type": "child",
+  "parents": [
+   "anders_arnesson",
+   "marit_andersd67"
+  ],
+  "child": "olof_andersson_takene_1826",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/3 bild 51 (s. 79), 12 dec 1795 nr 51: ”Ö. Takene Olof – Anders Arnesson, Marit Andersdotter”; födelsedatum 12/12 1795 och Ö. Takene stämmer med husförhör A I/17 bild 115. Patronymikon Andersson = faderns förnamn Anders."
+ },
+ {
+  "id": "c-sven_nilsson_boda_1774-katrin_nilsd_boda_1774-nils_svensson_boda",
+  "type": "child",
+  "parents": [
+   "sven_nilsson_boda_1774",
+   "katrin_nilsd_boda_1774"
+  ],
+  "child": "nils_svensson_boda",
+  "status": "strong",
+  "basis": "Boda dopbok C I/2 bild 105 (s. 193), nov 1774: ”Boda Nils, fad: Sven Nilsson, mod: Katrin Nilsdotter, fadd. H. Britta Christophersdotter i Boda” (dagen svårläst 24/27; husförhöret anger 27/11 1774). Strong, inte verified: dagen ej säkert läst."
+ },
+ {
+  "id": "c-sven_nilsson_lerboda92-britta_persd_lerboda92-nils_svensson_lerhol",
+  "type": "child",
+  "parents": [
+   "sven_nilsson_lerboda92",
+   "britta_persd_lerboda92"
+  ],
+  "child": "nils_svensson_lerhol",
+  "status": "strong",
+  "basis": "Boda dopbok C I/2 bild 153 (s. 285), 1792 nr 19 (dat. 29 juli): ”Lerboda, Nils. Far: Sven Nilsson & Britta Persdotter”. Patronymikon Svensson stämmer. Strong: husförhöret anger 22/7(?) 1792 (dopdag 29/7 kan skilja från födelse; inget annat Nils-dop 1792 i Boda juli) – ej verified."
+ },
+ {
+  "id": "c-anders_mattsson_grimstad86-brita_nilsd_grimstad86-nils_andersson86_strand",
+  "type": "child",
+  "parents": [
+   "anders_mattsson_grimstad86",
+   "brita_nilsd_grimstad86"
+  ],
+  "child": "nils_andersson86_strand",
+  "status": "verified",
+  "basis": "Boda dopbok C I/2 bild 134 (s. 246), dopdatum ”23” juni 1786, nr 29: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.” – datum 23/6 och Grim(stad) stämmer med A I/13 bild 69; Andersson efter faderns förnamn."
+ },
+ {
+  "id": "c-nils_andersson_takene91-brita_olsd_takene91-kjerstin_nilsd91",
+  "type": "child",
+  "parents": [
+   "nils_andersson_takene91",
+   "brita_olsd_takene91"
+  ],
+  "child": "kjerstin_nilsd91",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/3 bild 40 (s. 57), 2 maj 1791 nr 30: ”Ö. Takene / Kjersti / Nils Andersson / Brita Olsd.; f. Per Nilsson, Kjersti Olsd.” – datum 2/5, Takene och patronymikon Nilsd. stämmer med A I/13 bild 69."
+ },
+ {
+  "id": "c-jon_x_boda65-kjersti_x_boda65-ingeborg_jansd_boda",
+  "type": "child",
+  "parents": [
+   "jon_x_boda65",
+   "kjersti_x_boda65"
+  ],
+  "child": "ingeborg_jansd_boda",
+  "status": "strong",
+  "basis": "Boda dopbok C I/2 bild 69 (s. 125), nr 2, dat. 17 febr 1765: ”… Ingeborg fad: Jon …, mod: Kjersti …” – datum 17/2 1765, namnet Ingeborg, faderns förnamn Jon (=Jansdotter) stämmer med husförhör A I/14 bild 40; föräldrarnas efternamn och gårdsnamn oläsliga, därför strong, inte verified. Födelseort ’Takene(?)’ i husförhöret stämmer ej (dopet är i Boda)."
  }
 ]
