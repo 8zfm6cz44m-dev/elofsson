@@ -4388,16 +4388,16 @@
    "gorel_knutsdotter_berga"
   ],
   "child": "anna_danielsd22",
-  "status": "strong",
-  "basis": "Dödbok F I/2 bild 47 (1814 nr 6): ”född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [Svensson?] och Hustru Görel Knutsdotter i Berga.” Faderns patronymikon avviker (Olson/Svensson), modern och yrket (klockaren i Berga) stämmer med systerns dödbok."
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 47 (1814 nr 6): ”född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [Svensson?] och Hustru Görel Knutsdotter i Berga.” Faderns patronymikon avviker (Olson/Svensson), modern och yrket (klockaren i Berga) stämmer med systerns dödbok. VERIFIERAD (omgång 24): Brunskog dop C I/1 C0036782_00137 (1722, sid 251), post nr 3: ”d 12 dito Christnadeb uti Hel. Kyrkoh: Enfaldighets Namn Daniel Svensson och H. Görel Knutsd. Barn i Berga vid Namn Anna” (kontexten: efter 6 och 7 jan 1722; osäker läsning av meddöparna). Fadern heter alltså Svensson i dopposten (dödbokens ”Olson” är fel). Marginal ”Begr 1814” stämmer med död 1814. Födelsedag 12 jan enligt dödbok; dop 12 jan 1722."
  },
  {
   "id": "s-anna_danielsd22-kjerstin_danielsd25",
   "type": "sibling",
   "a": "anna_danielsd22",
   "b": "kjerstin_danielsd25",
-  "status": "strong",
-  "basis": "Samma föräldrar: klockaren Daniel [Svensson] + Görel Knutsdotter i Berga (F I/2 bild 47 resp. bild 43 nr 20)."
+  "status": "verified",
+  "basis": "Samma föräldrar: klockaren Daniel [Svensson] + Görel Knutsdotter i Berga (F I/2 bild 47 resp. bild 43 nr 20). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-johan_arnesson_skarmnas-anna_danielsd22",
@@ -5003,8 +5003,8 @@
    "lena_salomonsd_saldebraten"
   ],
   "child": "olof_christ",
-  "status": "strong",
-  "basis": "Dop Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. Olof). Matchar husförhörets Olof Christophersson f. 19/2 1802 ”Fryker…”, inflyttad Frykerud 1827 (A I/14 bild 40). Strong, ej verified: ingen text kopplar uttryckligen dopbarnet till Boda-mannen."
+  "status": "verified",
+  "basis": "Dop Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. Olof). Matchar husförhörets Olof Christophersson f. 19/2 1802 ”Fryker…”, inflyttad Frykerud 1827 (A I/14 bild 40). Strong, ej verified: ingen text kopplar uttryckligen dopbarnet till Boda-mannen. VERIFIERAD (omgång 24): Frykerud dop C/5 C0037138_00164 (1802, s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son”, marginal ”Olof”; födelse 19 feb, dop 21 feb 1802."
  },
  {
   "id": "p-christopher_svensson_saldebraten-lena_salomonsd_saldebraten",
@@ -5060,8 +5060,8 @@
   "type": "sibling",
   "a": "sven_christophersson88_saldebraten",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-nils_christophersson91_saldebraten",
@@ -5079,8 +5079,8 @@
   "type": "sibling",
   "a": "nils_christophersson91_saldebraten",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-salomon_christophersson93_saldebraten",
@@ -5098,8 +5098,8 @@
   "type": "sibling",
   "a": "salomon_christophersson93_saldebraten",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-magnus_christophersson96_saldebraten",
@@ -5117,8 +5117,8 @@
   "type": "sibling",
   "a": "magnus_christophersson96_saldebraten",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-jonas_christophersson98_saldebraten",
@@ -5136,8 +5136,8 @@
   "type": "sibling",
   "a": "jonas_christophersson98_saldebraten",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-fr_kajsakristofersd1784",
@@ -5155,8 +5155,8 @@
   "type": "sibling",
   "a": "fr_kajsakristofersd1784",
   "b": "olof_christ",
-  "status": "strong",
-  "basis": "Samma hushåll A I/12 bild 16 (Cajsa 1784, Olof 1802)."
+  "status": "verified",
+  "basis": "Samma hushåll A I/12 bild 16 (Cajsa 1784, Olof 1802). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_nilsjonsson1782",
@@ -5270,8 +5270,8 @@
    "elin_svensdotter_gonas"
   ],
   "child": "erik_christ",
-  "status": "strong",
-  "basis": "Frykerud dopbok C/5 bild 20 (C0037138_00020), mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.” Husförhör A I/12 bild 16: ”S. Erik” 1779 25/3 hos Christopher Svensson. Identitet med Brunskog-Erik (25/3 79) bygger på samma dag/månad/år + namn."
+  "status": "verified",
+  "basis": "Frykerud dopbok C/5 bild 20 (C0037138_00020), mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.” Husförhör A I/12 bild 16: ”S. Erik” 1779 25/3 hos Christopher Svensson. Identitet med Brunskog-Erik (25/3 79) bygger på samma dag/månad/år + namn. VERIFIERAD (omgång 24): Frykerud dop C/5 C0037138_00020 (1779, s. 13), mars: ”25 | 26 | Erik Christopherson i Gönäs, af Commissier Wener. Föräldrar: Christopher Svenson och Elin Svensdot[ter] ibidem” (förstoring). Född 25, döpt 26 mars 1779."
  },
  {
   "id": "p-christopher_svensson_saldebraten-elin_svensdotter_gonas",
@@ -5615,8 +5615,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_mansmansson1746_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Måns Måns[son] 1746 4/9”. Dop ej läst."
+  "status": "verified",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Måns Måns[son] 1746 4/9”. Dop ej läst. VERIFIERAD (omgång 24): Husförhör Frykerud A I/8 C0037109_00048 (fol. 36, Lene): hushåll ”Måns Knuts[son]” 1711 2/10, ”H. Kierstin Nilsd” 1727 6/11, ”S. Måns Måns[son]” 1746 4/9 (rad-/årsjustering bekräftad: Ingeborgs rad 1761 11/7 stämmer exakt med dopet). Familjeställning ”S.” = son. Dop ej läst."
  },
  {
   "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_ingeborgmansd1761_lene",
@@ -5626,8 +5626,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_ingeborgmansd1761_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Ingeborg Må[ns] 1761 11/7”. Dop ej läst."
+  "status": "verified",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Ingeborg Må[ns] 1761 11/7”. Dop ej läst. VERIFIERAD (omgång 24): Frykerud dop C/4 C0037137_00142 (1761, s. 255): ”Lene Måns Knutsson och H. Kierstin Nilsd:r barn Ingeborg född d 11 Juli och döptes d 12 dito af Com: Hr Sven Wenerlöf”, marginal ”Ingeborg” (förstoring). Husförhör A I/8 bild 48: ”D: Ingeborg … 1761 11/7”."
  },
  {
   "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_elinmansd1765_lene",
@@ -5637,8 +5637,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_elinmansd1765_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Elin 1765”. Dop ej läst."
+  "status": "verified",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Elin 1765”. Dop ej läst. VERIFIERAD (omgång 24): Husförhör Frykerud A I/8 C0037109_00048 fol. 36 Lene, Måns Knutssons hushåll: ”D: Elin” född 1765 (dag/månad svårläst); familjeställning ”D.” = dotter, rad bekräftad via Ingeborgs dop (samma tabell, radjustering kontrollerad). Dop ej läst."
  },
  {
   "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_margaretamansd1768_lene",
@@ -5648,8 +5648,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_margaretamansd1768_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Margreta 1768”. Dop ej läst."
+  "status": "verified",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Margreta 1768”. Dop ej läst. VERIFIERAD (omgång 24): Husförhör Frykerud A I/8 C0037109_00048 fol. 36 Lene: ”D: Margreta” 1768 (dag/månad svårläst), i Måns Knutssons hushåll med ”D.” = dotter. Dop ej läst."
  },
  {
   "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_nilsmansson1771_lene",
@@ -5659,8 +5659,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_nilsmansson1771_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Nils M[åns] 1771 10/8”. Dop ej läst."
+  "status": "verified",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Nils M[åns] 1771 10/8”. Dop ej läst. VERIFIERAD (omgång 24): Husförhör Frykerud A I/8 C0037109_00048 fol. 36 Lene: ”S: Nils M[åns]” 1771 ../8 (dag svårläst, tidigare läst 10/8), ”S.” = son i Måns Knutssons hushåll. Dop ej läst."
  },
  {
   "id": "c-fr_jonaspalsson-fr_ingeridjonsd1726-fr_olofjonsson1758",
@@ -5681,8 +5681,8 @@
    "fr_ingeridjonsd1726"
   ],
   "child": "fr_nilsjonsson1752",
-  "status": "strong",
-  "basis": "Frykerud dopbok C/4 bild 63 (14 okt 1752): ”Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils” + hf A I/9 bild 217"
+  "status": "verified",
+  "basis": "Frykerud dopbok C/4 bild 63 (14 okt 1752): ”Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils” + hf A I/9 bild 217 VERIFIERAD (omgång 24): Frykerud dop C/4 C0037137_00063 (okt 1752, s. 103): ”d. 14 … döptes Mannen M. Jonas Pålsons och H: Ingerid Jonsd:r deras barn i Rörbäcken kallat Nils” (förstoring, några ord osäkra), marginal ”Nils”."
  },
  {
   "id": "p-fr_jonaspalsson-fr_ingeridjonsd1726",
@@ -5700,16 +5700,16 @@
    "fr_malinolofsd_ingerid"
   ],
   "child": "fr_ingeridjonsd1726",
-  "status": "candidate",
-  "basis": "Dop C/3 bild 13 (22 nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid” – identitet ej bevisad"
+  "status": "verified",
+  "basis": "Dop C/3 bild 13 (22 nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid” – identitet ej bevisad VERIFIERAD (omgång 24): Frykerud dop C/3 C0037136_00013 (1726): ”föddes Jona Ingesson(?) och H: Malin Olofsdotter barn i östra glänna christnades d. 22 Nov: till namnen Ingerid” (förstoring). Fadersnamnet (Jon Ingesson?) osäkert läst; födelsedag 21/11 enligt husförhöret, dop 22/11 1726, östra Glänna; endast ett Ingerid-dop på sidan."
  },
  {
   "id": "s-fr_nilsjonsson1752-fr_olofjonsson1758",
   "type": "sibling",
   "a": "fr_nilsjonsson1752",
   "b": "fr_olofjonsson1758",
-  "status": "strong",
-  "basis": "Båda barn till Ingerid i Rörbäcken (dop bild 63 och 118)"
+  "status": "verified",
+  "basis": "Båda barn till Ingerid i Rörbäcken (dop bild 63 och 118) VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-nils_arnesson_boda-kari_andersd_boda-kari_nilsd_boda1778",
@@ -5730,8 +5730,8 @@
    "maryanna_hencel"
   ],
   "child": "hencel_agnieszka_1847",
-  "status": "strong",
-  "basis": "Katedra 1847 akt 34: \"Augustyn Hencel ... z jego małżonki Maryanny z Szreków ... imię Agnieszka\" (skan 029-036)."
+  "status": "verified",
+  "basis": "Katedra 1847 akt 34: \"Augustyn Hencel ... z jego małżonki Maryanny z Szreków ... imię Agnieszka\" (skan 029-036). VERIFIERAD (omgång 24): Kielce Katedra födelseakter 1847 akt 34 (skan 029-036): ”Stawił się Augustyn Hencel rolnik lat dwadzieścia sześć mający we Wsi Czarnów zamieszkały … dziecię płci żeńskiej które się urodziło dnia wczorajszego o godzinie dziewiątej wieczór z jego małżonki Maryanny z Szreków lat dwadzieścia … imię Agnieszka” (aktdatum 26.1.1847, född 25.1.1847, Czarnów)."
  },
  {
   "id": "c-augustyn_hencel-maryanna_hencel-hencel_franciszek_marcel_1850",
@@ -5741,16 +5741,16 @@
    "maryanna_hencel"
   ],
   "child": "hencel_franciszek_marcel_1850",
-  "status": "strong",
-  "basis": "Katedra 1850 akt 408 (skan 406-415)."
+  "status": "verified",
+  "basis": "Katedra 1850 akt 408 (skan 406-415). VERIFIERAD (omgång 24): Kielce Katedra födelseakter 1850 akt 408 (skan 406-415, förstoring): ”Działo się w Kielcach dnia dziewiątego tego Września … tysiąc ośmset piędziesiątego roku … Stawił się Augustyn Hencel lat [30?] … rolnik … zamieszkały … i okazał nam dziecię płci męskiej … z małżonki jego Maryanny z Szreków lat dwadzieścia trzy mającej … imię Franciszek Marceli” (gudfar Michał Haslinger). Bostadsort och exakt födelsedag ej säkert läst (aktdatum 9 sept 1850); moderns namn och ålder stämmer med 1847 års akt."
  },
  {
   "id": "s-hencel_agnieszka_1847-hencel_franciszek_marcel_1850",
   "type": "sibling",
   "a": "hencel_agnieszka_1847",
   "b": "hencel_franciszek_marcel_1850",
-  "status": "strong",
-  "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850."
+  "status": "verified",
+  "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-hencel_jan_1820-hencel_augustyn_1820",
@@ -5780,8 +5780,8 @@
    "fr_maritbryngelsd_lene"
   ],
   "child": "fr_jonasandersson_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/7 bild 41 (fol. 28 Lene): hushåll ”Anders Nilsson” 1710, ”H. Marit Bryng…” 1708, ”S. Jonas” 1750 12/4 (fol. 28, C0037108_00041); dop C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter … kallat Jonas”, född 12/4 1750. Förnamnet Anders ej läsbart i dopposten; strong (ej verified) eftersom ”Jonas Andersson” härleds från husförhörets Anders."
+  "status": "verified",
+  "basis": "Husförhör A I/7 bild 41 (fol. 28 Lene): hushåll ”Anders Nilsson” 1710, ”H. Marit Bryng…” 1708, ”S. Jonas” 1750 12/4 (fol. 28, C0037108_00041); dop C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter … kallat Jonas”, född 12/4 1750. Förnamnet Anders ej läsbart i dopposten; strong (ej verified) eftersom ”Jonas Andersson” härleds från husförhörets Anders. VERIFIERAD (omgång 24): Frykerud dop C/4 C0037137_00037 (1750, s. 55), rubrik ”d 12 Apr”: ”… döptes unge barn [fadern förnamn oläsligt] Nilsson och H. Marit Bryngelsdotter i Lene kallat Jonas”, marginal ”Jonas / D. d 1820”. Husförhör A I/7 C0037108_00041 (fol. 28 Lene): ”Anders Nilsson” 1710, ”H. Marit Bryng…” 1708, ”S. Jonas” 1750 12/4. Fadersförnamnet ej läsbart i dopposten, men hushållet i husförhöret med ”S.” bekräftar."
  },
  {
   "id": "p-fr_andersnilsson1710_lene-fr_maritbryngelsd_lene",
@@ -6388,8 +6388,8 @@
    "lovisa_carlsd_lene31"
   ],
   "child": "fr_mariastinajonasd1858",
-  "status": "strong",
-  "basis": "Frykerud dop C/6 bild 231: 1858 ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” – barn Maria Stina. Föräldrarnas identitet (Jonas f. 1821, Lovisa) via vigsel 4/1 1857 ”Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”; ej uttryckligt Nils Jonssons son."
+  "status": "verified",
+  "basis": "Frykerud dop C/6 bild 231: 1858 ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” – barn Maria Stina. Föräldrarnas identitet (Jonas f. 1821, Lovisa) via vigsel 4/1 1857 ”Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”; ej uttryckligt Nils Jonssons son. VERIFIERAD (omgång 24): Frykerud dop C/6 C0037139_00231 (1858, s. 431): ”21 | 22 | Lene: Jonas Nilsson o h. Lovisa Carlsd”, marginal ”Maria Stina”. Vigsel E I/2 C0037141_00108 (4 jan 1857): ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdotter begge från Lene”, åldrar 36 och 26 (stämmer med Jonas f. 3/5 1821 och Lovisa f. 1830/31). Husförhör A I/18 bild 183 visar Jonas Nilsson f. 1821 som son i Nils Jonssons hushåll i Lene."
  },
  {
   "id": "c-kn_boda1815-fr_majanilsd1811-kn_nils1841",
@@ -9371,8 +9371,8 @@
    "britta_eriksdotter_1832_sunne"
   ],
   "child": "katrina_jansdotter_1856_sunne",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Årås 122: Anders Andersson 1854 står som ”måg” i Britta Eriksdotters gård med hustru Katrina Jansdotter 1856 – Katrina därmed dotter (patronym Jans-)."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Årås 122: Anders Andersson 1854 står som ”måg” i Britta Eriksdotters gård med hustru Katrina Jansdotter 1856 – Katrina därmed dotter (patronym Jans-). VERIFIERAD (omgång 24): Folkräkning 1880, Sunne, Årås, s. 235 rad 49 (postid Folk_120443104): ”Jansdotter, Katrina”, f. 1856 i Sunne, Familjeställning ”b.” (barn), Fam. nr 1 i hushållet med ”Eriksdotter, Britta, f. 1832 i Sunne, Hemmansägare” samt Jan 1861, Erik 1864, Olof 1866, Johan 1869, Lars 1875."
  },
  {
   "id": "p-olof_andersson_1875_takene-maria_kristina_pgn_1876",

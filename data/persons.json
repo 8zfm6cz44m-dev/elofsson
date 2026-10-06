@@ -18173,7 +18173,7 @@
  {
   "id": "anna_danielsd22",
   "name": "Anna Danielsdotter (1722, Berga)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -18194,7 +18194,8 @@
   "summary": "Enka från Strand, f. 12 jan 1722 i Berga som dotter till klockaren Daniel [Svensson/Olsson] och Görel Knutsdotter i Berga – äldre syster (samma föräldrar) till Kjerstin Danielsdotter (f. 1725), gift 1745 med Johan Arnesson från Stora Skärmnäs.",
   "notes": [
    "DÖDBOK F I/2 bild 47 (1814 febr nr 6): ”Enkan Anna Danielsdotter från Strand född i Berga den 12 Jan: 1722 af Klockaren Daniel Olson [sic] och Hustru Görel Knutsdotter i Berga. 1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka. Hon afled i Gunnarbytorp af ålderdomsbräcklighet efter en berömlig vandel uti 92 år 17 dagar.”",
-   "Fadern kallas här ”Klockaren Daniel Olson” (förstoring, tydligt ”Olson”), men i systerns dödbok (Kjerstin Danielsd., F I/2 bild 43 nr 20) ”Klockaren Daniel Svensson”; samma moder Görel Knutsdotter i Berga. Se flagga."
+   "Fadern kallas här ”Klockaren Daniel Olson” (förstoring, tydligt ”Olson”), men i systerns dödbok (Kjerstin Danielsd., F I/2 bild 43 nr 20) ”Klockaren Daniel Svensson”; samma moder Görel Knutsdotter i Berga. Se flagga.",
+   "Dopet 12 jan 1722 (C0036782_00137) ger fadern som Daniel Svensson, inte ’Olson’ som dödboken 1814 – flaggan om faderns patronymikon kan lösas: Svensson."
   ],
   "sources": [
    {
@@ -21642,7 +21643,8 @@
    "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): ”Dr [dräng] Jöns And:” 1750 12/4 står i Måns Knutssons hushåll direkt före/efter ”H. Stina Månsd.” 1753 10/7 (nygift); i samma hushåll ”S: Anders Jönsson” 1776 …/6.",
    "DÖD: Frykerud F/2 (1814–1861) C0037143 bild 35 (vänstersida, april 1820): ”Lene Gifte Jonas Andersson” – dödsorsak ”Frossfeber”, ålder ”70” år, ”—” mån, ”6” dagar (12/4 1750 + 70 år 6 dagar ≈ 18/4 1820; dagkolumnen svårläst). Åldern + födelsedatum 12/4 1750 stämmer med husförhören; i dopposten C/4 bild 37 står marginalpåskriften ”Död 1820”.",
    "VIGSEL: Frykerud E I/1 C0037140 bild 110 (s. 204, ”Wigde Åhr 1775”), post 29 Oct 1775: ”wigdes hemma i egna kläder Dr: Jonas Andersson i Fä[l]s[…] med P[ig]: [Stina?] Månsdr [i Lene?] … morgongåfva 30 Rdr Kopp[ar]mynt” – mannens namn tydligt, hustruns namn/hemort svårlästa (kandidat; barn Anders f. 24/6 1776 stämmer).",
-   "HUSFÖRHÖR A I/7 (1759–71) C0037108 bild 41 (fol. 28, Lene): översta hushållet ”Anders Nilsson” 1710, ”H. Marit Bryng[…]” 1708, ”D. Maria”, ”S. Jonas” 1750 12/4 (inget ”Son Jonas 50” i ordagrann form: raden läses ”S. Jonas”, årtal 1750, 12/4). DOP C/4 bild 37 läst om: ”…Nilsson och h: Marit Bryngel-dotter barn … kallat Jonas” – modern heter Bryngelsdotter (inte Bengtsdotter). Förälder-uppgifterna bekräftas därmed av två källor."
+   "HUSFÖRHÖR A I/7 (1759–71) C0037108 bild 41 (fol. 28, Lene): översta hushållet ”Anders Nilsson” 1710, ”H. Marit Bryng[…]” 1708, ”D. Maria”, ”S. Jonas” 1750 12/4 (inget ”Son Jonas 50” i ordagrann form: raden läses ”S. Jonas”, årtal 1750, 12/4). DOP C/4 bild 37 läst om: ”…Nilsson och h: Marit Bryngel-dotter barn … kallat Jonas” – modern heter Bryngelsdotter (inte Bengtsdotter). Förälder-uppgifterna bekräftas därmed av två källor.",
+   "Dop C/4 bild 37: barn i Lene, kallat Jonas, fadern ’… Nilsson’ och Marit Bryngelsdotter."
   ],
   "sources": [
    {
@@ -21687,8 +21689,7 @@
   ],
   "born": {
    "date": "1750-04-12",
-   "place": "(Frykerud?)",
-   "note": "Husförhör A I/9 bild 49 / A I/10 bild 38 / A I/11 bild 33: ”Jonas Andersson” 1750 12/4. Dop/föräldrar (Anders …) ej funnet."
+   "place": "Lene, Frykerud"
   },
   "died": {
    "date": "1820-04",
@@ -23104,8 +23105,7 @@
   "living": false,
   "born": {
    "date": "1726-11-21",
-   "place": "Östra Glänna(?), Frykerud",
-   "note": "husförhör 21/11 1726; dop 22 nov 1726 C/3 bild 13 (kandidat, ej bevisad identitet)"
+   "place": "Östra Glänna, Frykerud"
   },
   "places": [
    "Rörbäcken, Frykerud"
@@ -23118,7 +23118,8 @@
    "ANDRA MAKE: Salomon Berger – barn Anna Maria (f. 7/5, dop 10/5 1761, C/4 bild 140: ”Hr. Salomon Bergers och h. Ingerid Jönsd. dr”), Lena (30/5 1764), Jan Jonas (13/7 1767)",
    "Vigsel Salomon Berger–Ingerid ej funnen i E I/1 bild 85–87 (1759 aug–1761 jun) – se unresolved",
    "DÖD (AF1): F/1 C0037142 bild 91 högersida (s. 157), ordagrant: ”Enk[an]: Ingrid Jonesdr i Rörbecken” – Oct 31 / Nov 9, ”Gicht”, 72 år 11 mån 8 dagar (⇒ f. ca 23 nov 1726; hf: 21/11 1726, dop 22 nov 1726). VERIFIERAD död. Ingerid överlevde Salomon Berger (d. 1790) som änka.",
-   "A I/2 (1729–36) C0037103 bild 84 (sid. 133, Östra Glänna), kontroll 2:a gången, ordagrant (nedre halvan): ”Lars Andersson / H: Karin Olofsdotter” … ”Inge Olofsson [överstruken] / H: Malin Olofsdotter [överstruken]” … ”S: Jon Andersson / H: Ingerid Arfvidsdotter / H: Malin Olofsdotter [överstruken] / D: Karin Andersd [överstruken] / S: Olof Anders[son] [överstruken] …”. OBS: raden ”Inge Olofsson / H. Malin Olofsd” (överstrukna) ligger i ett eget hushåll ovanför Jon Anderssons – kan vara faderns namn ”Inge(sson/Olofsson)” i dopet 1726 (”Jona(?) Ingesson(?)”). Far till Ingerid är därför fortfarande oklar: antingen Jon Andersson (Anders Sidrikssons son) eller Inge Olofsson; ’D. Ingerid 26’ ej läst som barn i A I/2 bild 84."
+   "A I/2 (1729–36) C0037103 bild 84 (sid. 133, Östra Glänna), kontroll 2:a gången, ordagrant (nedre halvan): ”Lars Andersson / H: Karin Olofsdotter” … ”Inge Olofsson [överstruken] / H: Malin Olofsdotter [överstruken]” … ”S: Jon Andersson / H: Ingerid Arfvidsdotter / H: Malin Olofsdotter [överstruken] / D: Karin Andersd [överstruken] / S: Olof Anders[son] [överstruken] …”. OBS: raden ”Inge Olofsson / H. Malin Olofsd” (överstrukna) ligger i ett eget hushåll ovanför Jon Anderssons – kan vara faderns namn ”Inge(sson/Olofsson)” i dopet 1726 (”Jona(?) Ingesson(?)”). Far till Ingerid är därför fortfarande oklar: antingen Jon Andersson (Anders Sidrikssons son) eller Inge Olofsson; ’D. Ingerid 26’ ej läst som barn i A I/2 bild 84.",
+   "Dop 22 nov 1726 (C/3 bild 13) ’till namnen Ingerid’, föräldrar Jon (Ingesson?) och Malin Olofsdotter."
   ],
   "sources": [
    {
@@ -23187,7 +23188,7 @@
  {
   "id": "fr_mansmansson1746_lene",
   "name": "Måns Månsson (Lene, f. 1746)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23220,7 +23221,7 @@
  {
   "id": "fr_ingeborgmansd1761_lene",
   "name": "Ingeborg Månsdotter (Lene, f. 1761)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23248,7 +23249,7 @@
  {
   "id": "fr_elinmansd1765_lene",
   "name": "Elin Månsdotter (Lene, f. 1765)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23276,7 +23277,7 @@
  {
   "id": "fr_margaretamansd1768_lene",
   "name": "Margareta Månsdotter (Lene, f. 1768)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23304,7 +23305,7 @@
  {
   "id": "fr_nilsmansson1771_lene",
   "name": "Nils Månsson (Lene, f. 1771)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23376,7 +23377,7 @@
  {
   "id": "fr_nilsjonsson1752",
   "name": "Nils Jonsson (f. okt 1752, Rörbäcken)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23580,7 +23581,7 @@
  {
   "id": "hencel_franciszek_marcel_1850",
   "name": "Franciszek Marceli Hencel (f. 1850)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25646,7 +25647,7 @@
  {
   "id": "fr_mariastinajonasd1858",
   "name": "Maria Stina Jonasdotter (f. 1858, Lene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32277,7 +32278,7 @@
  {
   "id": "katrina_jansdotter_1856_sunne",
   "name": "Katrina Jansdotter (f. 1856, Sunne; g. Anders Andersson)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32289,7 +32290,8 @@
   ],
   "summary": "Hustru till Anders Andersson (f. 1854 Brunskog), Årås, Sunne – kandidat B.",
   "notes": [
-   "FOLKRÄKNING 1890 Årås 122, Sunne: Jansdotter, Katrina f. 1856 Sunne, fam 2; 1910 Årås Lobråten ”Jansson, Katrina”."
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Jansdotter, Katrina f. 1856 Sunne, fam 2; 1910 Årås Lobråten ”Jansson, Katrina”.",
+   "Folkräkning 1880 Årås s.235 rad 49: Katrina Jansdotter f. 1856 Sunne, ’b.’ i Britta Eriksdottirs hushåll (Folk_120443104)."
   ],
   "sources": [
    {
