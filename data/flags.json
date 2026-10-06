@@ -2665,6 +2665,22 @@
    "persons": [
     "fr_kajsakristofersd1784"
    ]
+  },
+  {
+   "title": "Elof Nilssons far: mantalen 1685-1693 ger ingen ny kandidat",
+   "text": "Nils Larsson är ende Nils i Toltan 1685-93 (ingen ersättare); Isak Larsson där från 1685. Ingen Nils Ersson i Åsen. Far kvarstår som lead (Nils Larsson).",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan",
+    "isak_larsson_toltan"
+   ]
+  },
+  {
+   "title": "Stina Nilsdatter (no_stina_nilsd13): hela Eidsvolls dodsbok 1872-1890 genomsokt via Digitalarkivets transkriberade poster - ingen traff",
+   "text": "Digitalarkivet visar Eidsvoll 'Dode og begravede' som transkriberade poster (fält Year/Page/Name/Birth year), inte bara skannade sidor (kontra Z1:s antagande). Alla poster lastes via sekventiella post-id:n (https://www.digitalarkivet.no/en/view/265/hg<14 siffror>): kilde 497 (1872-77) hg00000000667261 ff. = 1872-1876 (ca 71 poster 1876, s.239-241, 1872 s.220 ... 1877); kilde 498 (1877-84) hg00000002597916 ff. = 678 poster 1877-01-27..1884 (s.169-184 m.fl., man och kvinnor blandat); kilde 499 (1884-94) hg00000002480109 ff.: man s.290-306 (1884-10..1894) och kvinnor s.310-317 (299 poster 1884-10-30..1890-12-01). Sokt pa fornamn Stina/Stine/Kristin*/Christin*/Kjerstin/Kirsti med fodelsear 1805-1822 samt patronymikon Nils* med fodelsear 1810-1815: INGEN Stina Nilsdatter f. 1813 i Eidsvolls dodsbok 1872-1890 (inkl. alla poster 1884-1887, 1889 rad 7-12/30-38 och 1890, 1876-luckorna). Narmast men EJ matchande (annat fornamn): 'Marie Nielsdtr' f. 1813 (d. 1885-12-22, s.311, hg00000002480718); 'Marte Nilsdtr' f. 1812 (1886-12-14, s.313, hg00000002480772); 'Marie Nilsdatter' f. 1811 (1874-04-13, s.229); 'Anne Elise Nilsdtr.' f. 1815 (1876-07-20, s.241); 'Stina Persdatter' f. 1820 (1889-09-13, s.316, hg00000002480904 - redan avfardad av Z1). Not: posterna har ingen bosattningsort i transkriptionen (Residence '-'), sa Hoel/Drengestuen kan ej verifieras; kontrollerade fodelsear/patronymikon. Slutsats: Stina dog sannolikt INTE i Eidsvoll 1875-1890 (eller dodsfallet saknas i transkriptionen/ar felstavat); Anders 'enkemand' 1891 kvarstar oforklarat. Mojliga forklaringar: dod i annan socken (Hurdal/Nes/Ullensaker m.fl.), utvandring, eller att Anders-posten i FT 1891 ar fel/avser annan hustru.",
+   "persons": [
+    "no_stina_nilsd13"
+   ]
   }
  ],
  "conflicts": [
