@@ -21833,7 +21833,8 @@
    "FOLKRÄKNING 1880 Boda Nordsjö: kvar hemma (1890: ej i hushållet)",
    "UTFLYTTNING Boda A I/25 bild 301 (s.302 Nolsjö, rad 4, ”d. Kristina” 67 18/8): bortflyttad ”Eda 89 15/3 8.” (= till Eda, 15 mars 1889, utflyttningsattest nr 8); namnet överstruket. Ej Amerika enligt husförhöret; spåra i Eda husförhör/inflyttning 1889.",
    "FOLKRÄKNING 1890 Eda, Emterud norra: ”Nilsson, Kristina” f. 1867 i Boda, småskolelärarinna, ogift, ensamstående, sida 7 rad 29 (stämmer med utflyttning Boda A I/25 till Eda 15/3 1889).",
-   "FOLKRÄKNING 1900 Eda, Emterud norra: gift, ”h.” (hustru) till Gustaf Persson Eklund f. 1869 i Boda, småskolelärarinna; dotter Dagny Elvira f. 1899 i Eda. 1910 (Emterud södra): hustru ”h.”; 1930 (S:a Emterud): ”Nilsson, Kristina … Gift, vigselår 1897, h., f. Nilsson”, make ”Eklund, Gustav” f. 1869 Boda. Sedan flytten till Eda 1889 gift 1897 med Gustaf Eklund; barn Dagny Elvira 1899, Gustaf Hubert 1901, Karl Bertil 1905."
+   "FOLKRÄKNING 1900 Eda, Emterud norra: gift, ”h.” (hustru) till Gustaf Persson Eklund f. 1869 i Boda, småskolelärarinna; dotter Dagny Elvira f. 1899 i Eda. 1910 (Emterud södra): hustru ”h.”; 1930 (S:a Emterud): ”Nilsson, Kristina … Gift, vigselår 1897, h., f. Nilsson”, make ”Eklund, Gustav” f. 1869 Boda. Sedan flytten till Eda 1889 gift 1897 med Gustaf Eklund; barn Dagny Elvira 1899, Gustaf Hubert 1901, Karl Bertil 1905.",
+   "HUSFÖRHÖR Eda A I/28 (C0036941) bild 60, sida 50 Emterud norra, sista raden på sidan: ”Nilsson Kristina, småskolelärarinna” 67 18/8 Boda; inflyttad från Boda. Bekräftar utflyttningen Boda A I/25 'Eda 89 15/3'. Ensamstående, ej gift 1889-95 (ingen make nämns på raden). Raden ligger efter hushåll (Hellgren/Nordmark m.fl.) på samma sida; ingen familjeställning/hushållstillhörighet utöver egen rad."
   ],
   "sources": [
    {
@@ -21871,6 +21872,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 (Eda, S:a Emterud, sida i församlingsboken 985): Nilsson, Kristina f. 1867 i Boda, gift (vigselår 1897), h., mor/fru, ”f. Nilsson”; man Gustav Eklund f. 1869 i Boda; barn Dagny Elvira, Gustav Herbert, Karl Bertil; sida 20 rad 2",
     "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_128987263&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Eda husförhörslängd A I/28 (1886-1895), bild 60 (sida 50, Emterud norra, sista raden): ”Nilsson Kristina, småskolelärarinna” f. 67 18/8, födelseort ”Boda”, flyttningskolumn ”Boda” (inflyttningsår/sida svårläst, ca 89); förhörsmarkeringar (m) i alla år 1886-95-kolumnerna",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036941_00060"
    }
   ],
   "search": [

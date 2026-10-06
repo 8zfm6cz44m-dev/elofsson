@@ -2558,6 +2558,35 @@
     "no_stina_nilsd13",
     "anders_e"
    ]
+  },
+  {
+   "title": "Eda kyrkoarkiv volym-id (SE/VA/13091)",
+   "text": "Funna via lbiiif-manifest (curl ger 403, fetch i riksarkivet-flik fungerar). Eda husförhör: A I/1 (1696-1701) C0036914 ... A I/26 (1871-75) C0036939, A I/27 (1876-85) C0036940, A I/28 (1886-95) C0036941 (762 bilder; Emterud norra = bild ca 55-71 (sida 47-61), Emterud södra bild ca 72-135+, Kristina Nilsson småskolelärarinna bild 60 sida 50). In/utflyttning B/1 (1749-85) C0036942, B/2 (1814-26) C0036943, B/3 (1831-51) C0036944, B/4 (1851-61) C0036945. Dop C/1 C0036946, C/2 C0036947, C/3 (1708-35) C0036948, C/5 (1735-64) C0036949, C/6 (1764-97) C0036950, C/7 (1797-1845) C0036951, C/8 (1845-62) C0036952. Vigsel E I/1 (1725-1811) C0036953, E I/2 (1811-62) C0036954. Död F/1 (1741-1810) C0036955, F/2 (1817-62) C0036956. Räkenskaper L I/1 C0036958, L I/2 C0036959. (Dalby 13081 = C0036880-82, Eds 13090 = C0036883-.) VIKTIGT: Eda dop-, vigsel- och dödböcker är digitaliserade bara t.o.m. 1862 -> vigsel 1897 och dop 1899/1901/1905 finns INTE i bildvisning; måste tas från SCB/folkräkning eller andra källor.",
+   "persons": [
+    "gustaf_eklund69",
+    "kristina_nilsdotter67",
+    "dagny_eklund99"
+   ]
+  },
+  {
+   "title": "Gustaf Persson Eklunds föräldrar ej funna",
+   "text": "Eda husförhör 1886-95 nämner honom inte vid Emterud norra (hittade endast Kristina). Boda husförhör A I/22 (1866-70, C0036587, 230 bilder) saknar index; endast sidor kring Nordsjö (bild 152-153,167) lästa. Nästa steg: Boda A I/22-A I/25 sök 'Per ... Eklund'/'Ekeberg' med son Gustaf f. 1869, eller folkräkning 1880 Boda (Gustaf f. 1869) när söksidan fungerar.",
+   "persons": [
+    "gustaf_eklund69"
+   ]
+  },
+  {
+   "title": "USA-tidningar: inga träffar på Olof Perssons (Skog) barn, Nils Anderssons barn eller Zetterlund",
+   "text": "Swedish American Newspapers (swedishamericannews.mnhs.org), 1890-1925: söket 'Brunskog' gav 1323 sidträffar; alla 1327 sidors OCR-text hämtades och skannades (fuzzy Brunskog) mot namnen Johan Efraim/Gerda Elisabet/Nils Arvid/Olof Viktor/Signe Karolina Olsson/Olson/Persson, Dernere, Nolsjö, Smedåsen, Zetterlund/Sätterlund. Ingen träff med uttrycklig släktuppgift (född i Brunskog / son/dotter till Olof Persson i Skog). Sökningar på Nolsjö (0 träffar), Smedåsen (endast Jämtland), 'Zetterlund Brunskog' (0 träffar). KB tidningar 'Dernere Brunskog': endast ordet 'dernere' (= 'där nere') i brus. Allmänt: Sioux City (Iowa) nämns 1913 (Veckobladet 11 nov 1913, OCR-id vkbl19131111-01.1.5; Olympia/Svenska Amerikanaren-kontext 'John Olson ... Äfven härifrån Brunskog äro många i Iowastaden') som koncentration av utvandrare från Brunskog - möjlig sökriktning, ingen koppling till våra personer.",
+   "persons": [
+    "ol_johan_efraim_1890",
+    "ol_gerda_elisabet_1893",
+    "ol_nils_arvid_1896",
+    "olof_viktor_olsson_1885",
+    "signe_karolina_olsdotter_1888",
+    "n44k_nils72",
+    "anna_kajsa_nilsdotter69"
+   ]
   }
  ],
  "conflicts": [
