@@ -2139,6 +2139,29 @@
     "no_stina_nilsd13",
     "anders_e"
    ]
+  },
+  {
+   "title": "Catharina Jonsdotter f. 25/3 1779 (Lene) och Erik Christophersson f. 25/3 1779 (Gönäs)",
+   "text": "Husförhör A I/9 bild 49, A I/10 bild 38 och A I/11 bild 33 anger Jonas Andersson och Stina Månsdotters dotter Catharina f. 25/3 1779 (Lene). Dopboken C/5 bild 20 anger Erik Christophersson (Gönäs) dop 26/3 1779, och A I/12 bild 16 har ”S. Pet/Erik(?)” 1779 25/3 i Christopher Svenssons hushåll. Samma födelsedag i två olika familjer – troligen sammanträffande, men bör kontrolleras mot dopboken (C/5 bild 20) att barnen inte förväxlats.",
+   "persons": [
+    "fr_catharinajonsd1779",
+    "erik_christ"
+   ]
+  },
+  {
+   "title": "Måns Knutsson eller Måns Månsson (Lene, f. 2/10 1711)",
+   "text": "Patronymikon läses ”Månsson” i A I/9 bild 49 men ”Knutsson” i A I/10 bild 38 (”Måns Knutsson”, marg. ”Svärf.”). Hustru ”Kerstin Nilsdr” 1727 6/11 (A I/10) vs ”Catharina Nilsdr”(?) i A I/9. Kontrollera i A I/11 (fol. 20–23) och dop/död för Måns.",
+   "persons": [
+    "fr_mansknutsson1711_lene",
+    "fr_stinamansd_lene"
+   ]
+  },
+  {
+   "title": "Christopher Svensson (f. ca 15–21 okt 1753): dop ej i Frykerud C/4 okt 1753/1754",
+   "text": "Läst C/4 bild 71–72 (okt 1753) och 83–84 (okt 1754): inget barn med fadern Sven/Christopher hittat. Ålder vid död ger ca 15 okt 1753. Sök även dopböcker i Boda, Kil, Ed (”Sven” far); notera att C/4:s handstil är mycket svårläst och att fyndet ej är uteslutet.",
+   "persons": [
+    "christopher_svensson_saldebraten"
+   ]
   }
  ],
  "conflicts": [
@@ -2780,6 +2803,15 @@
    "persons": [
     "anders_arnesson",
     "kjersti_olsd66"
+   ]
+  },
+  {
+   "title": "Nils Jonssons första hustru (vigsel 1803–09)",
+   "text": "Vigsel 26 dec 1806 (lysn. sept 1806) Nils Jonsson i Lene och Catharina Andersdotter i Lene (E I/1 bild 156). Hon dog aug 1808 (F/1 bild 118), dotter Stina f. 13/2 1808 (C/6 bild 19) – förklarar ”Stina 1808” i A I/14.",
+   "persons": [
+    "fr_nilsjonsson1782",
+    "fr_katarinaandersd1781",
+    "fr_stinanilsd1808"
    ]
   }
  ]

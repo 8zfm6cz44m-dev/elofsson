@@ -5431,5 +5431,190 @@
   "child": "anna_kajsa_nilsdotter69",
   "status": "strong",
   "basis": "Boda A I/22 bild 152 (s.156): hushållet Nils Andersson / Johanna Persdotter / Kristina / ”Anna Kajsa” 69 3/11"
+ },
+ {
+  "id": "p-fr_nilsjonsson1782-fr_katarinaandersd1781",
+  "type": "partner",
+  "a": "fr_nilsjonsson1782",
+  "b": "fr_katarinaandersd1781",
+  "status": "verified",
+  "basis": "E I/1 bild 156: ”Dräng: Nils Jonsson i Lene och Pigan Catharina Andersdotr därsammastädes”, vigd 26 dec 1806; dop C/6 bild 19 (13/14 febr 1808): ”Lene Föräldrar Nills Jonsson och Cathrina Andersdotter”; död F/1 bild 118 aug 1808 ”Lene Gifta Katrina Anderssd”."
+ },
+ {
+  "id": "c-fr_nilsjonsson1782-fr_katarinaandersd1781-fr_stinanilsd1808",
+  "type": "child",
+  "parents": [
+   "fr_nilsjonsson1782",
+   "fr_katarinaandersd1781"
+  ],
+  "child": "fr_stinanilsd1808",
+  "status": "verified",
+  "basis": "Dop Frykerud C/6 bild 19 (febr 1808): ”13 | 14 | Lene Föräldrar Nills Jonsson och Cathrina Andersdotter” (marg. Stina); A I/14 bild 99: ”D. Stina 1808” i Nils Jonssons hushåll."
+ },
+ {
+  "id": "p-fr_anderserson1747_lene-fr_elinlene1756",
+  "type": "partner",
+  "a": "fr_anderserson1747_lene",
+  "b": "fr_elinlene1756",
+  "status": "verified",
+  "basis": "Husförhör A I/9 bild 46 (fol. 34), Lene: ”Anders Ersson” 1747, ”H. Elin […]dr” 1756."
+ },
+ {
+  "id": "c-fr_anderserson1747_lene-fr_elinlene1756-fr_katarinaandersd1781",
+  "type": "child",
+  "parents": [
+   "fr_anderserson1747_lene",
+   "fr_elinlene1756"
+  ],
+  "child": "fr_katarinaandersd1781",
+  "status": "strong",
+  "basis": "Husförhör A I/9 bild 46: ”Doll: Catharina Andersdr” 1781 22/11 i Anders Erssons hushåll, Lene. Identiteten med Nils Jonssons hustru (död aug 1808, 26 år 8 mån 28 dgr) stöds av födelsedatum, namn, Lene samt faddrarna Britta/Cajsa/Nils Andersson i dopet 1808; ej uttryckligt ”dotter” i dödboken."
+ },
+ {
+  "id": "p-fr_jonasandersson_lene-fr_stinamansd_lene",
+  "type": "partner",
+  "a": "fr_jonasandersson_lene",
+  "b": "fr_stinamansd_lene",
+  "status": "verified",
+  "basis": "Dop C/5 bild 43: ”Jonas Andersson och hust: Stina Månsdr”; husförhör A I/10 bild 38 / A I/11 bild 33: ”Jonas Andersson” 1750 12/4, ”H. Stina Månsdr” 1753."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_andersjonsson1776",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_andersjonsson1776",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_catharinajonsd1779",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_catharinajonsd1779",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_olofjonsson1785",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_olofjonsson1785",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_svenjonsson1788",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_svenjonsson1788",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_mariajonsd1791",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_mariajonsd1791",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "c-fr_jonasandersson_lene-fr_stinamansd_lene-fr_stinajonsd1794",
+  "type": "child",
+  "parents": [
+   "fr_jonasandersson_lene",
+   "fr_stinamansd_lene"
+  ],
+  "child": "fr_stinajonsd1794",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/11 bild 33 (fol. 23), Lene: Jonas Andersson 50, H. Stina Månsdr 53, barnen (Son/D.) i samma hushåll; A I/10 bild 38 (fol. 25)."
+ },
+ {
+  "id": "s-fr_nilsjonsson1782-fr_andersjonsson1776",
+  "type": "sibling",
+  "a": "fr_nilsjonsson1782",
+  "b": "fr_andersjonsson1776",
+  "status": "verified",
+  "basis": "Samma hushåll, Frykerud A I/11 bild 33 (fol. 23): Son Anders 76, Son Nils 82."
+ },
+ {
+  "id": "s-fr_nilsjonsson1782-fr_catharinajonsd1779",
+  "type": "sibling",
+  "a": "fr_nilsjonsson1782",
+  "b": "fr_catharinajonsd1779",
+  "status": "verified",
+  "basis": "Samma hushåll, A I/11 bild 33: D. Cathrina 79, Son Nils 82."
+ },
+ {
+  "id": "p-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene",
+  "type": "partner",
+  "a": "fr_mansknutsson1711_lene",
+  "b": "fr_kerstinnilsd1727_lene",
+  "status": "verified",
+  "basis": "Husförhör A I/10 bild 38 (fol. 25), Lene: ”Måns Knutsson” 1711 2/10, ”H. Kerstin Nilsdr” 1727 6/11."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_stinamansd_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_stinamansd_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/9 bild 49: Jonas Andersson står som ”Måg” i Måns Månssons/Knutssons hushåll tillsammans med ”H. Stina Månsd.” 1753; patronymikon Månsdotter. Stinas dop 1753 ej funnet (ej uttryckligt ”dotter”)."
+ },
+ {
+  "id": "p-fr_salomonberger1734-fr_ingeridjonsd1726",
+  "type": "partner",
+  "a": "fr_salomonberger1734",
+  "b": "fr_ingeridjonsd1726",
+  "status": "verified",
+  "basis": "Husförhör A I/9 bild 217 (fol. 193), Rörbäcken: ”Salomon Berger” 1734, ”H. Ingerid Jonsd.” 1726; dop C/4 bild 166: ”Salomon Bergers och h. Ingerid [..]dr”."
+ },
+ {
+  "id": "c-fr_salomonberger1734-fr_ingeridjonsd1726-lena_salomonsd_saldebraten",
+  "type": "child",
+  "parents": [
+   "fr_salomonberger1734",
+   "fr_ingeridjonsd1726"
+  ],
+  "child": "lena_salomonsd_saldebraten",
+  "status": "verified",
+  "basis": "Dop Frykerud C/4 bild 166 (1764): Rörbäcken, ”Salomon Bergers och h. Ingerid … barn Lena född d. 30 maj”; husförhör A I/9 bild 217: ”D. Lena S.d.” 1764 30/5 i hushållet."
+ },
+ {
+  "id": "c-fr_salomonberger1734-fr_ingeridjonsd1726-fr_annamariasalomonsd1761",
+  "type": "child",
+  "parents": [
+   "fr_salomonberger1734",
+   "fr_ingeridjonsd1726"
+  ],
+  "child": "fr_annamariasalomonsd1761",
+  "status": "strong",
+  "basis": "Husförhör A I/9 bild 217: ”D. Anna Maria S.d.” 1761 i Salomon Bergers hushåll (årtal/dag svårläst)."
+ },
+ {
+  "id": "s-fr_annamariasalomonsd1761-lena_salomonsd_saldebraten",
+  "type": "sibling",
+  "a": "fr_annamariasalomonsd1761",
+  "b": "lena_salomonsd_saldebraten",
+  "status": "strong",
+  "basis": "Samma hushåll A I/9 bild 217."
  }
 ]
