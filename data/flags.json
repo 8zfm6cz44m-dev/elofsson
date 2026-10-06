@@ -2212,6 +2212,32 @@
     "arne_andersson",
     "marit_jonsd_ragnilsrud"
    ]
+  },
+  {
+   "title": "Kjerstin f. 1791 (Ö. Takene): dopdatum ”2” eller ”12” maj",
+   "text": "Brunskog C I/3 bild 40, nr 30: datumkolumnen visar ”2” men ordningen (maj 8, 9, 9, [2/12], 15, 15, 31) talar för ”12”; husförhör A I/13 anger 2/5 91. Möjlig avvikelse 2 maj vs 12 maj 1791 (dop vs födelse?). Mors ålderssiffra ”66” är orimlig (46?). Föräldrapar-länken Nils Andersson/Brita Olsdotter oförändrad.",
+   "persons": [
+    "nils_andersson_takene91",
+    "brita_olsd_takene91",
+    "nils_andersson86_strand"
+   ]
+  },
+  {
+   "title": "Marginalnotering ”Hör til gift(?) d: 2 Dec: 1742” vid dop Nils Andersson 1726 (Smådal)",
+   "text": "Under dopposten nr 45 (C I/1 bild 164, 27/11 1726) står en svårläst notering som läses ”Hör til gift(?) d: 2. Dec: 1742” – möjligen vigsel 2 dec 1742. Ej kontrollerad i vigselbok E I/1 (1708–1762). Nästa steg: leta vigsel Nils Andersson × Kjerstin Danielsdotter (f. 1725) i Brunskog E I/1 ca bild 56-60 (1742). Dödboken säger gift 1750 – dessutom avviker; noteringen kan avse en annan person eller ett tidigare äktenskap.",
+   "persons": [
+    "nils_andersson_smadal"
+   ]
+  },
+  {
+   "title": "Ortsangivelser Christopher Svensson 1778–1784 (Gönäs → Såldebråten → Klaxås)",
+   "text": "1778 vigsel ”i Gönäs” (Elin), 1779 dop Erik ”i Gönäs”, 1782 vigsel ”i Såldebråten” (Lena, ”Enklingen”), 1784 dop Caisa ”i Klaxås”. Identiteten Gönäs-Christopher = Såldebråten-Christopher bygger på namn + änklingsstatus; Elins dödsår ej funnet (F/1 1779–1782). Oförändrat candidate/strong.",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "elin_svensdotter_gonas",
+    "lena_salomonsd_saldebraten",
+    "fr_kajsakristofersd1784"
+   ]
   }
  ],
  "conflicts": [
@@ -2605,6 +2631,32 @@
    "persons": [
     "olofjansson",
     "d7_olof_jansson_1836_svartana"
+   ]
+  },
+  {
+   "title": "Dop 1735 nr 5 Toltan: barnets namn ”Nils” är överstruket",
+   "text": "Brunskog C I/1 bild 209 (1735, nr 5, 9 mars): ”Nils Larsons och Hust. Kerstin Olofsd:r i Toltan Son [Nils, genomstruket]”. Namnet efter ”Son” är kraftigt överstruket (även ett långt streck löper över raden under, vid andra fadderns namn). Identifieringen med Nils Nilsson f. 1735 (dödbok 1799) nedgraderad till strong. Nästa steg: kontrollera A I/1 Toltan (1760–63) för Nils Nilsson f. 1735 och ev. annan Nils Larsson-son 1735/36 (dop C I/1 bild 209–211).",
+   "persons": [
+    "nils_nilsson35_fraston",
+    "nils_larsson_toltan",
+    "kjersti_olsd_toltan_nl"
+   ]
+  },
+  {
+   "title": "Józef Zatorski: ålder 30 år i akt 550/1871 (inte 33)",
+   "text": "Skanoteka Kielce Katedra 1871 akt 550: ”Іосифъ Заторскій (Zatorski) тридца|ти лѣтъ” = 30 år (ingen ”трехъ”). Tidigare noterat 33 år (f. ca 1838) bör rättas till 30 år (f. ca 1841). Vigselakt 1864 akt 152: brudgummen 21 år (f. ca 1843). Skillnaden ca 2 år är normal i ryska akter men gör att länken 1864↔1871 inte kan anses bevisad enbart av namn+ålder.",
+   "persons": [
+    "jozef_zatorski",
+    "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Antoninas flicknamn: 1864 ”Ksiołówna” vs 1871 ”z Osuchów/Deuchów”",
+   "text": "1864 akt 152: bruden ”Antoniną Ksiołówną lat 22 … córką Jana i Agaty z Osuchów małżonków Ksiołów, w Szydłówku”. 1871 akt 550: modern ”Антонины изъ [Осуховъ/Деуховъ] тридцати лѣтъ”. Möjligt skrivarmisstag (modern Agatas flicknamn ”z Osuchów” i stället för Antoninas ”z Ksiołów”), men det är en olöst avvikelse; ”Ksiołówna” 1864 stämmer med 1895 (”изъ Кс?лювъ”). Båda 1864- och 1871-akternas Antonina bor/är kopplad till Szydłówek. Nästa steg: födelseakt för Antoninas barn 1864–1880 (S:t Wojciech/Katedra) eller Antoninas dödsakt.",
+   "persons": [
+    "antonina_zatorska_n",
+    "agata_ksiol",
+    "jozef_zatorski"
    ]
   }
  ],
