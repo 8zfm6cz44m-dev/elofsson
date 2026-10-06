@@ -1664,6 +1664,24 @@
     "johan",
     "hulda"
    ]
+  },
+  {
+   "title": "Mniów 1888 akt 24: Jan Młodawski × Teodozja – möjlig förstahustru/annan Jan",
+   "text": "Akt 24 (Mniów, 1888, sid 98): rysk kursiv, rubrik 'Młodawski Jan i Teodozja' i marginalen; brudgum ca 25 år, från Krasna. Skulle kunna vara vår Jan (f. ca 1863) om han gift sig tidigt (Teodozja död före Marianna?) men Marianna Lutawska är den enda hustrun nämnd i 1900-aktens 'änkling efter'. Kräver noggrann läsning av föräldrar (Jacek/Anna Bartosińska?) – Geneteka-index för Mniów 1888 rekommenderas.",
+   "persons": [
+    "jan_mlodawski",
+    "marianna_lutawska"
+   ]
+  },
+  {
+   "title": "Różek-grenen (Darek Różek, Andrzej Dzierżba, Celina, Katarzyna Dzierżba) saknar födelse/vigsel i persons.json",
+   "text": "Alla är levande eller födda efter 1946 (Katarzyna 1979, Celina/Zdzisław gifta efter 1946) – ligger utanför Skanotekas ~100-årsgräns. Inga aktsökningar före 1910 relevanta; Darek Różek och Andrzej Dzierżba är anförvanter genom giftermål. Celinas flicknamn/föräldrar saknas helt (enda möjliga äldre länk). Rekommendation: fråga Martin/familjen; Geneteka-vigsel Zdzisław Orzechowski × Celina (ca 1970-tal) är sannolikt spärrat (<100 år).",
+   "persons": [
+    "david_rozek",
+    "andrzej_dzierzba",
+    "celina",
+    "kasia"
+   ]
   }
  ],
  "conflicts": [
@@ -2032,6 +2050,15 @@
     "michal_orzechowski",
     "agnieszka_orzechowska_1849",
     "tekla_orzechowska"
+   ]
+  },
+  {
+   "title": "Två vigslar med Marit Isaksdotter i Tolta (1714 och 1717)",
+   "text": "Brunskog E I/1 bild 30 (jul 1714): Drängen Per Olufsson ifrån Bråten × Jfr. Marit Isaksdotter i Tolta. Bild 34 (28 okt 1717): D. Elof Nilsson × Jung. Marit Isaksdotter i Tolta. Samma namn och by med tre års mellanrum, båda som jungfru. Olöst: två olika kvinnor eller samma kvinna (första maken död?). Påverkar identifiering av Marits ursprung (Isak Larsson vs Isak Björsson i Toltan 1696).",
+   "persons": [
+    "marit_isaksd",
+    "per_olofsson_braten",
+    "elof_nilsson"
    ]
   }
  ],

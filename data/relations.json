@@ -4415,16 +4415,16 @@
    "antonina_pecl"
   ],
   "child": "jozef_orzechowski",
-  "status": "verified",
-  "basis": "Vigselakt 169/1895: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» (son till avlidne Michał och Antonina)."
+  "status": "candidate",
+  "basis": "Vigselakt 169/1895: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» (son till avlidne Michał och Antonina). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel."
  },
  {
   "id": "p-michal_orzechowski-antonina_pecl",
   "type": "partner",
   "a": "michal_orzechowski",
   "b": "antonina_pecl",
-  "status": "verified",
-  "basis": "Samma akt: Józefs föräldrar Michał och Antonina (nämnda tillsammans som föräldrar, 'покойныхъ')."
+  "status": "candidate",
+  "basis": "Samma akt: Józefs föräldrar Michał och Antonina (nämnda tillsammans som föräldrar, 'покойныхъ'). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel."
  },
  {
   "id": "c-jozef_zatorski-antonina_zatorska_n-katarzyna_zatorska",
@@ -4861,26 +4861,6 @@
   "child": "signe_karolina_olsdotter_1888",
   "status": "verified",
   "basis": "Bild 209 rad 7: ”Signe Karolina 88 10/5”."
- },
- {
-  "id": "c-august_nilsson_gullsbyn-johan_albin_augustsson",
-  "type": "child",
-  "parents": [
-   "august_nilsson_gullsbyn"
-  ],
-  "child": "johan_albin_augustsson",
-  "status": "verified",
-  "basis": "A II a/1 bild 154 (sida 144) rad 11: ”Johan Albin 83 27/7 Upsala” i August Nilssons hushåll."
- },
- {
-  "id": "c-august_nilsson_gullsbyn-nils_ejnar_augustsson",
-  "type": "child",
-  "parents": [
-   "august_nilsson_gullsbyn"
-  ],
-  "child": "nils_ejnar_augustsson",
-  "status": "verified",
-  "basis": "A II a/1 bild 154 rad 13: ”Nils Einar 87 21/8”."
  },
  {
   "id": "c-michal_orzechowski-agnieszka_orzechowska_1849-antonina_orzechowska_1871",

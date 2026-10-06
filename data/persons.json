@@ -3072,7 +3072,7 @@
  {
   "id": "morgan",
   "name": "Jan Morgan Arvidsson",
-  "status": "verified",
+  "status": "family",
   "sex": "m",
   "living": true,
   "born": {
@@ -3107,7 +3107,7 @@
  {
   "id": "monika",
   "name": "Monika Karina Henner",
-  "status": "verified",
+  "status": "family",
   "sex": "f",
   "living": true,
   "altNames": [
@@ -3127,7 +3127,7 @@
  {
   "id": "marita",
   "name": "Marita Kristina Arvidsson",
-  "status": "verified",
+  "status": "family",
   "sex": "f",
   "living": true,
   "born": {
@@ -6052,6 +6052,10 @@
    {
     "label": "Riksarkivet, Mantalslängder (1730) A0003209, bild 493 högersida: grupp ’Toltan ½’ – ’Elof Nilsson’",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003209_00493"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 34: 28 okt 1717 D. Elof Nilsson i Hög[?]/Hagen[?] × Jung. Marit Isaksdotter i Tolta",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
    }
   ],
   "search": [
@@ -6104,7 +6108,8 @@
    "MANTAL 1724 (A0003203 b.599 hs = s. 1719): grupp ’Toltan’ (etikett ’Tolittan’): ’Nils Larsson’ + ’moder’, ’Påhl Nilsson’, ’Elof Nilsson’ (tydligt), ’Nils Halfvardsson’(?), ’Nils Larsson’(?), ’Nils Mattsson’ + ’moder’, ’Nils Jönsson’, ’Per Jönsson’, ’Nils Olsson’. Närmast därefter ’Östra Torten’.",
    "MANTAL 1725 (A0003204 b.492 hs, nederdel): grupp ’Toltan ½’: ’Lars Er…’, ’Påhl Nilsson’, ’Elof Nilsson’ (tydligt), ’Nils Halfvarsson’, ’Nils Larsson’, ’Lars Larsson’, ’Gustru Ingri’, ’Nils Jönsson’, ’Gustru Karin’.",
    "MANTAL 1730 (A0003209 b.493 hs): grupp ’…tan ½’ (Toltan) med bl.a. ’Påhl Nilsson’, ’Christopher Påhlsson’, ’Elof Nilsson’, ’Nils Månsson’(?), ’Nils Larsson’, ’Gust. Lotta’, ’Gust. Karin’; direkt därefter ’Torten ½’ (Nils Jönsson, Erik Ersson, Lars Olsson …).",
-   "FÖRSTA MANTALSÅR i Toltan = 1722 (1721 års volym A0003200 är bara 16 bilder med summor, ingen namnlista; tidigare agent: inte i Toltan 1715–1720). Dopen 1721 (Britta) visar att han bodde i Toltan redan 1721. Elof/Olof Nilsson står i grannskap med Påhl Nilsson (far till Christopher, f. 1710) i alla lästa år 1722–1730 – stöder släktband/sambruk, ej bevisat."
+   "FÖRSTA MANTALSÅR i Toltan = 1722 (1721 års volym A0003200 är bara 16 bilder med summor, ingen namnlista; tidigare agent: inte i Toltan 1715–1720). Dopen 1721 (Britta) visar att han bodde i Toltan redan 1721. Elof/Olof Nilsson står i grannskap med Påhl Nilsson (far till Christopher, f. 1710) i alla lästa år 1722–1730 – stöder släktband/sambruk, ej bevisat.",
+   "VIGSEL 1717 bild 34: Elofs bostadsort står i posten som ”i Hög[?]” (kan vara ”Hagen”, jfr Pål Nilsson i Hagen, Toltan) – inte ”i Tolta”. Elofs eget dop och föräldrar ej funna; mantal 1694–99 för fadern ”Nils” (Elofs hemgård) ej utrett i denna omgång (se unresolved)."
   ],
   "timeline": [
    [
@@ -6178,6 +6183,10 @@
    {
     "label": "Riksarkivet, Mantalslängder 1642-1820 Örebro län, Brunskog 1710, bild 430 hö överst: Toltan-gruppen",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003191_00430"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1708–1762), bild 34 (sida 48): 28 okt 1717, Elof Nilsson × Jung. Marit Isaksdotter i Tolta",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
    }
   ],
   "search": [
@@ -6193,7 +6202,12 @@
    "MANTAL (B4): Fyra möjliga fäder med förnamnet Isak i Toltan före 1717: Isak Larsson (1696–1707), Isak Björsson/Börjesson (1696–1710), Isak Ersson(?)(1707) och Isak Nilsson(?)(1709–1710, sannolikt för ung/syskon till Elof och därmed utesluten). Ingen kan väljas utan dop/husförhör för Marit (f. före 1700). Se flagga ’Fader till Marit Isaksdotter’.",
    "DOPSÖKNING C3 (C I/1 C0036782, bild 28–50, läst 2026-10-06): Marit Isaksdotters dop INTE funnet. Genomläst noggrant sida för sida: 1692 (bild 28–33, tydlig numrerad hand), 1693 (bild 33–39), 1694 (bild 39–42), 1695 (bild 42–45), 1696 (bild 45–46), 1697 (bild 46–48), 1698 (bild 48–50) och 1699 jan–mars (bild 50–51). Ingen post med fader Isak/Isaac och dotter Marit; ingen Isak bland faddrarna i Toltan-posterna.",
    "DOPBOKENS TÄTHET: 1692 ca 22 poster, 1693 ca 25, 1694 ca 15, 1695 ca 25, 1696 ca 6 (?), 1697 ca 15, 1698 ca 20 – dvs. boken är glest förd och många barn saknas helt. Slutsats: Maritas dop är sannolikt aldrig införd (eller ligger i annan socken). Hennes födelseår kan därför bara anges som ca 1690–1699 (g. 1717).",
-   "TOLTAN-POSTER 1692–1698 (som jämförelse; ingen har fader Isak): 1692 nr 15 Marit Larsdotter, fader Lars Jönsson (bild 30); 1693 nr 2, nr 5 (Dnca 3 Epiph.), Misericordias (barn i V. Toltan, Brynthe), Rogate (barn i Ö. Toltan, Ingel), 1 Advent (barn i Öst. Toltan, Jon); 1695 Reminiscere Olof Nilsson, barn i Ö. Toltan, Karin; 1696 6 febr Anund, barn i Ö. Toltan; 1697 Dnca 2 p. Påsk Olof Nilsson, barn i Ö. Toltan. Barnnamn och faderns namn på 1693–97 är delvis svårlästa (kortfattad hand utan modersnamn) – listan är orienterande, ej fullständig."
+   "TOLTAN-POSTER 1692–1698 (som jämförelse; ingen har fader Isak): 1692 nr 15 Marit Larsdotter, fader Lars Jönsson (bild 30); 1693 nr 2, nr 5 (Dnca 3 Epiph.), Misericordias (barn i V. Toltan, Brynthe), Rogate (barn i Ö. Toltan, Ingel), 1 Advent (barn i Öst. Toltan, Jon); 1695 Reminiscere Olof Nilsson, barn i Ö. Toltan, Karin; 1696 6 febr Anund, barn i Ö. Toltan; 1697 Dnca 2 p. Påsk Olof Nilsson, barn i Ö. Toltan. Barnnamn och faderns namn på 1693–97 är delvis svårlästa (kortfattad hand utan modersnamn) – listan är orienterande, ej fullständig.",
+   "DOP 1690-TALET (G5, delresultat): Brunskog C I/1 bild 22–52 (jan 1691–1700) genomläst som helsidesbilder (zoomnivå ca 0,27–0,5; 1692–99 års handstil mycket svår, 1696–98 nästan oläsbar). Inget dop med fader ”Isak/Isaac” och barn Marit hittat. Marit-dop som utesluts: 25 jan 1691 Marit (bild 22 v., fader ej läsbar, faddrar bl.a. ”Bengt i …”, ej Isak); 1692 Marit Larsdotter i Toltan (redan registrerad, fader Lars Jönsson); 1 maj 1692 ”Marit Bengtsdotter” (fader Bengt Olsson i N. Kiärmonäs, bild 31 v.); 1693 Marit (Nils Andersson i Brundal, bild 38 h.) och Marit (Anders Jonsson i Löfsal, bild 38 h.); 1694 Marit (Gullsby, bild 41 v.). Dopboken är mycket gles 1694–1699 (1695: bild 43–45, 1696: bild 45–46, 1697: bild 46–47, 1698: bild 48–50, 1699: bild 49–51; 1700 börjar bild 52 h.). Slutsats: Marits dop ej funnet – antingen inte bevarat/inte infört (gles bok) eller född före 1688/utanför Brunskog.",
+   "FADDER: ”Isaack L. i Zoltan” är manlig fadder 15 feb 1691 (bild 23 h., läst ”Isack L: i Zoltan”, andra manfaddrar Per i Finbeck, Hans i bid[em], Nils Ersson i Åsen; kvinnfaddrar bl.a. ”H. Ingri i Holta”) – samma Isak som mantal 1696 Isak Larsson i Toltan.",
+   "DOP 1699 (bild 51 h.): ”ditto Lasse Erichsson barn i Tolten, Nils bd., manff. Gummund i Åmot, Jöns i Tolten; kvinnff. Kirstin i Tolten, Jfr. Kirstin Nilsd. ibid.” – ingen Isak.",
+   "VIGSEL 1717 (E I/1 bild 34, vänster sida, omläst G5, zoom): ”Brudefolk vigde 1717. D 28 Oct: Sammanvigdes efter 3 ordentl. lysningar D. Elof Nilsson i Hög[?] (läst ”Hag/Hög”, ev. Hagen) med Jung. Marit Isaksdotter i Tolta. Morgongåfva 30 lod förgyllt silfver.” Inga föräldrar, ingen ”ifrån”. Bruden kallas ”Jung.” (jungfru = ogift).",
+   "KONFLIKT/IDENTITET: Brunskog E I/1 bild 30 (sida 41, höger, 1714): ”4:de Dag Jule vigdes Drängen Per Olufsson ifrån Bråten med Jfr. Marit Isaksdotter i Tolta sedan 3:ne lysningar framgått hade. Morgongåfva 30 l. silf.” (jul 1714, före rubriken ”A:o 1715”). Alltså två vigslar med ”Jfr/Jung. Marit Isaksdotter i Tolta” 1714 och 1717. Antingen två olika kvinnor (kusiner/namne), eller 1:a maken Per Olofsson dog 1714–17 och 1717-posten kallar henne ändå ”Jung.” (osannolikt), eller att en av posterna avser annan Marit. Måste utredas: dödbok saknas före 1783 – kolla dop/död-notiser i dopboken för Per Olofsson Bråten och hans barn 1715–1717."
   ]
  },
  {
@@ -10176,11 +10190,16 @@
   ],
   "summary": "Drängen Per Olofsson från Bråten gifte sig 1714 med jungfru Marit Isaksdotter i Toltan – en Marit Isaksdotter i Toltan, möjligen syster till eller namne med Elof Nilssons hustru (de vigdes 1717). 'Olof i Bråten' är fadder 1730 vid Elof Nilssons dotter Anna.",
   "notes": [
-   "VIGSELBOK E I/1, bild 30 (sida 41, 1714/1715): ”4:de Dag Jul[i] wigdes Drängen Per Olufsson ifrån Bråten med Jungfru Marit Isaksdotter i Tolta … 3:ne lysningar förut gådt. Morgongåfwa 30 dal. [Kmt]”. Ordningen mellan sidorna (1714 på vänster sida, rubriken A:1715 efter posten) gör att årtalet är 1714 eller 1715 – ej säkert utläst. Kan vara en syster eller samma namn – identiteten med Elof Nilssons hustru är INTE antagen (hon vigdes med Elof 28/10 1717)."
+   "VIGSELBOK E I/1, bild 30 (sida 41, 1714/1715): ”4:de Dag Jul[i] wigdes Drängen Per Olufsson ifrån Bråten med Jungfru Marit Isaksdotter i Tolta … 3:ne lysningar förut gådt. Morgongåfwa 30 dal. [Kmt]”. Ordningen mellan sidorna (1714 på vänster sida, rubriken A:1715 efter posten) gör att årtalet är 1714 eller 1715 – ej säkert utläst. Kan vara en syster eller samma namn – identiteten med Elof Nilssons hustru är INTE antagen (hon vigdes med Elof 28/10 1717).",
+   "Posten omläst G5: ”4:de Dag Jule vigdes Drängen Per Olufsson ifrån Bråten med Jfr. Marit Isaksdotter i Tolta sedan 3:ne lysningar framgått hade. Morgongåfva 30 l. silf.” – jul 1714."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1 (1691–1763), bild 30 (sid. 41): Drängen Per Olufsson ifrån Bråten med Jungfru Marit Isaksdotter i Tolta",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00030"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 30 (sida 41): ”4:de Dag Jule vigdes Drängen Per Olufsson ifrån Bråten med Jfr. Marit Isaksdotter i Tolta …” (1714)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00030"
    }
   ],
@@ -11543,12 +11562,17 @@
    {
     "label": "Riksarkivet, Mantalslängder 1642-1820 Örebro län, Brunskog 1710, bild 430 hö överst: Toltan-gruppen",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003191_00430"
+   },
+   {
+    "label": "Riksarkivet, Brunskog mantalslängd 1696 (A0003176), bild 614: Toltan ”Isak Biörsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003176_00614"
    }
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 9:e generationen; far/släkt till Marit Isaksdotter?.",
    "MANTAL (B4): ”Isak Björsson/Börjesson” i Toltan-gruppen: 1697 (”Isak Biörsson”), 1698, 1701, 1702, 1703, 1704, 1707 (”Isak Björsson”), 1709 och 1710 (”Isak Börjesson” 4:e raden, 1:1), saknas 1711 (484 hö). Alltså mantalsskriven 1696–1710 i Toltan, försvunnen 1711 (död/utflyttad ~1710–11). Delar gård (Toltan-gruppen) med Isak Larsson – två olika Isakar i samma by (se flagga). Kandidat som fader till Marit Isaksdotter (g. 1717) lika väl som Isak Larsson.",
-   "MANTAL (B4): 1"
+   "MANTAL (B4): 1",
+   "MANTAL 1696 (G5, A0003176 bild 614 höger, Toltan): ”Isak Biörsson” står som egen mantalsskriven i Toltan strax efter ”Isak Larsson” – ger primärt stöd för att en Isak Björsson fanns i Toltan 1696 (tidigare enbart MyHeritage-lead). Koppling till Marit Isaksdotter fortfarande obevisad (ingen dop/död)."
   ],
   "born": {
    "date": "ca 1645",
@@ -12757,7 +12781,8 @@
    "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
    "VIGSELAKT 1900 nr 23 (Kielce, 2/14 feb 1900, kl. 10, präst Adam Kumiński): 'заключенъ ... религіозный брачный союзъ между Яномъ Младавскимъ (Jan Młodawski) вдовымъ послѣ Маріянны изъ Лютавскихъ, родившимся въ деревнѣ Одровонжъ того же прихода тридцати семи лѣтъ отъ роду, жительствующимъ въ деревнѣ [Рожовице?] прихода Мніовъ рабочимъ, сыномъ Яцка и Анны изъ Бартосинскихъ земледѣльцевъ и Викторіею Шевчикъ (Wiktorya Szewczyk) дѣвицею тридцати трехъ лѣтъ отъ роду, родившеюся въ деревнѣ [Вылѣзовъ?] жительствующею въ Кѣльцахъ ... служанною, дочерью Щепана и умершей Антонины изъ Градзиковъ рабочихъ.' Översättning: Jan Młodawski, änkling efter Marianna f. Lutawska, född i by Odrowąż [?] i samma socken, 37 år, arbetare bosatt i by i Mniów-socknen, son till lantbrukarna Jacek och Anna f. Bartosińska; brud Wiktoria Szewczyk, ogift, 33 år, piga i Kielce. Vittnen: arbetarna Wojciech Gaba/Gab[?] 40 år och Józef Zacharski 50 år (båda från Kielce). Byarna Odrowąż/Rożowice/Wylezów läsningen osäker.",
-   "VIGSEL 1900 nr 23 + födelse 1902 nr 211 + 1904 nr 125 = samma par, bor i Szydłówek 1902/1904."
+   "VIGSEL 1900 nr 23 + födelse 1902 nr 211 + 1904 nr 125 = samma par, bor i Szydłówek 1902/1904.",
+   "I2 2026-10-06: Skanoteka Mniów (id1317) finns och är indexerad (kt1 födelse 1859–1864 och 1895–1905, kt2 vigsel 1880–1899, bilder lokalt hämtade av tidigare agent C2). Ingen säker träff på Jans födelse (ca 1863, föräldrar Jacek + Anna Bartosińska) eller på vigsel Młodawski × Lutawska. Vigselakt Mniów 1888 nr 24 (bild 'img_1317_1888_2_024-025', sid 98–99) gäller en Jan Młodawski (ca 25 år, från Krasna) + Teodozja – åldern passar ca 1863 men brudnamnet är Teodozja, inte Marianna Lutawska, och föräldranamnen i raden går inte att läsa säkert (ser ut som annan far än Jacek) → OBELAGT, ej samma person förrän akten transkriberats."
   ],
   "sources": [
    {
@@ -16602,7 +16627,8 @@
    "MANTAL 1706: Toltan-gruppen innehåller ett namn läst ”Isak Larsson/Olofsson(?)” (osäkert, 476 hö).",
    "MANTAL (B4) – Isak Larsson i Toltan: läst som ”Isak Larsson” i Toltan-gruppen 1697 (556 vä), 1698 (485 vä), 1701 (364 hö), 1702 (113 hö), 1703 (198 vä), 1704 (379 hö) – alltid 2:a/3:e raden, direkt före ”Isak Björsson”. 1707 (489 hö, 1:1) läses 3:e raden som ”Isak Ersson” (liknar ”Lars/Per Ersson” ovan; kan också vara Larsson). 1709 och 1710 finns ingen ”Isak Larsson” – 3:e raden är ”Isak Nilsson(?)” (annan man eller felläsning) – och 1711 saknas alla Isakar i Toltan. Slutsats (lead): Isak Larsson mantalsskriven 1696–1707, borta senast 1709 (död ~1707–09? Ingen död-/begravningsbok från denna tid i Brunskog läst) – om Marit Isaksdotter (g. 1717 med Elof Nilsson) är hans dotter bör hon vara född före 1700 (vilket stämmer med att Marit får barn 1718–1730).",
    "MANTAL (B4): Änka/son efter Isak Larsson: ingen ”Enkan Isak/Isaks änka” hittad i Toltan 1709–1711; i Toltan-gruppen 1698–1703 finns en ”Enkan Kari(n)” (efter okänd man). Ingen son ”Isak Isaksson/Nils Isaksson” mantalsskriven 1709–1711 (Nils Isaksson f. ca 1691 skulle vara drängålder).",
-   "MANTAL (B4): 1"
+   "MANTAL (B4): 1",
+   "MANTAL 1696 (omläst G5, bild 614 h.): Toltan-gruppen har TVÅ Isakar efter varandra: ”Isak Larsson” och ”Isak Biörsson” (andra efternamnet läst Biörsson/Björsson, tydligt B). Båda 1 man + 1 hustru (kolumn 1/1)."
   ],
   "sources": [
    {
@@ -16624,6 +16650,10 @@
    {
     "label": "Riksarkivet, Mantalslängder 1642-1820 Örebro län, Brunskog 1707, bild 489 hö överst: Toltan-gruppen (8 namn)",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003189_00489"
+   },
+   {
+    "label": "Riksarkivet, Brunskog mantalslängd 1696 (A0003176), bild 614 (sida 620, höger): grupp ”Toltan” (läst ”Zoltan/Tolten”): ”Nilss Larsson”, ”Lars Ersson” (klammer, 4 pers.), ”Isak Larsson”, ”Isak Biörsson”, ”Per Ersson”, ”Jöns Ersson”, därefter ”… Ersson” m.fl.",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003176_00614"
    }
   ],
   "search": [
