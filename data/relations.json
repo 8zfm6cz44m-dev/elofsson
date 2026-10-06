@@ -6681,8 +6681,8 @@
    "britta_jonasdotter_1831_jec"
   ],
   "child": "krister_jec_1862",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Nordsjö, sida 32 rad 30 (Folk_120430890): ”Krister, Födelseår 1862, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushållet fam. nr 1: ”Ersson, Jonas, f. 1822 i Brunskog, Hemmansägare; Jonasdotter, Britta, f. 1831 i Boda; Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871”. Barnet står som s. i Jonas och Brittas hushåll."
  },
  {
   "id": "c-jonas_ec-britta_jonasdotter_1831_jec-nils_jec_1865",
@@ -6692,8 +6692,8 @@
    "britta_jonasdotter_1831_jec"
   ],
   "child": "nils_jec_1865",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Nordsjö, sida 32 rad 31 (Folk_120430891): ”Nils, Födelseår 1865, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushållet fam. nr 1: ”Ersson, Jonas, f. 1822 i Brunskog, Hemmansägare; Jonasdotter, Britta, f. 1831 i Boda; Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871”. Barnet står som s. i Jonas och Brittas hushåll."
  },
  {
   "id": "c-jonas_ec-britta_jonasdotter_1831_jec-britta_jec_1867",
@@ -6703,8 +6703,8 @@
    "britta_jonasdotter_1831_jec"
   ],
   "child": "britta_jec_1867",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Nordsjö, sida 32 rad 32 (Folk_120430892): ”Britta, Födelseår 1867, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushållet fam. nr 1: ”Ersson, Jonas, f. 1822 i Brunskog, Hemmansägare; Jonasdotter, Britta, f. 1831 i Boda; Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871”. Barnet står som d. i Jonas och Brittas hushåll."
  },
  {
   "id": "c-jonas_ec-britta_jonasdotter_1831_jec-anna_jec_1871",
@@ -6714,8 +6714,8 @@
    "britta_jonasdotter_1831_jec"
   ],
   "child": "anna_jec_1871",
-  "status": "candidate",
-  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Nordsjö, sida 32 rad 33 (Folk_120430893): ”Anna, Födelseår 1871, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushållet fam. nr 1: ”Ersson, Jonas, f. 1822 i Brunskog, Hemmansägare; Jonasdotter, Britta, f. 1831 i Boda; Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871”. Barnet står som d. i Jonas och Brittas hushåll."
  },
  {
   "id": "p-n44k_karljohan77-milla_fagerheim73",
@@ -6900,8 +6900,8 @@
  {
   "id": "c-per_adamsson16-britta_e-adolf_pa61",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Nohlby s.12: Adolf f. 1861 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nohlby s.12: Adolf f. 1861 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna) VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog, Nohlby, sida 12 rad 40 (Folk_120422430): ”Adolf, Födelseår 1861, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushållet: ”Adamsson, Per, f. 1816 i Boda, Åbo; Elofsdotter, Britta, f. 1824 i Brunskog; Johannes 1850, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866, Karin 1869 (i Brunskog)”.",
   "parents": [
    "per_adamsson16",
    "britta_e"
@@ -6911,8 +6911,8 @@
  {
   "id": "c-per_adamsson16-britta_e-kristina_pa63",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Nohlby s.12: Kristina f. 1863 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nohlby s.12: Kristina f. 1863 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna) VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog, Nohlby, sida 12 rad 41 (Folk_120422431): ”Kristina, Födelseår 1863, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushållet: ”Adamsson, Per, f. 1816 i Boda, Åbo; Elofsdotter, Britta, f. 1824 i Brunskog; Johannes 1850, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866, Karin 1869 (i Brunskog)”.",
   "parents": [
    "per_adamsson16",
    "britta_e"
@@ -6922,8 +6922,8 @@
  {
   "id": "c-per_adamsson16-britta_e-annalisa_pa66",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Nohlby s.12: Anna f. 1866 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nohlby s.12: Anna f. 1866 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna) VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog, Nohlby, sida 12 rad 42 (Folk_120422432): ”Anna Lisa, Födelseår 1866, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushållet: ”Adamsson, Per, f. 1816 i Boda, Åbo; Elofsdotter, Britta, f. 1824 i Brunskog; Johannes 1850, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866, Karin 1869 (i Brunskog)”.",
   "parents": [
    "per_adamsson16",
    "britta_e"
@@ -6974,8 +6974,8 @@
  {
   "id": "c-per_svensson21-ingegerd_e-johan_ps68",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Boda Högboda s.23: Johan f. 1868 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: Johan f. 1868 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Högboda, sida 23 rad 20 (Folk_120430445): ”Johan, Födelseår 1868, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushållet: ”Svensson, Per, f. 1821 i Boda, Inhyses; Elofsdotter, Ingegärd, f. 1829 i Brunskog; August 1856, Emil 1859, Johan 1868, Anna 1872”.",
   "parents": [
    "per_svensson21",
    "ingegerd_e"
@@ -6985,8 +6985,8 @@
  {
   "id": "c-per_svensson21-ingegerd_e-anna_ps72",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Boda Högboda s.23: Anna f. 1872 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: Anna f. 1872 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Högboda, sida 23 rad 21 (Folk_120430446): ”Anna, Födelseår 1872, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushållet Per Svensson f. 1821 / Ingegärd Elofsdotter f. 1829 (Folk_120430442).",
   "parents": [
    "per_svensson21",
    "ingegerd_e"
@@ -7273,8 +7273,8 @@
    "brittacaisa_j"
   ],
   "child": "jo_johanaugust",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Boda, Renstad: Johan August f. 1882 i Johannes Erikssons och Britta Kajsas hushåll; 1900 ”s.” till Britta Kajsa, 1910 hon ”moder” i hans hushåll (fader ej uttryckligen angiven)."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Boda, Renstad: Johan August f. 1882 i Johannes Erikssons och Britta Kajsas hushåll; 1900 ”s.” till Britta Kajsa, 1910 hon ”moder” i hans hushåll (fader ej uttryckligen angiven). VERIFIERAD (omgång 24): SCB Utdrag ur födelsebok 1882, Boda (Jösse), blad 4 (bild A0036252_00286, SE/RA/420401/01/H 1 AA/753), nr 55: ”Nov 15 – Johan August”; föräldrar: ”Fader: Eriksson Johannes, Hemm[ansägare] … Moder: Johannesdotter Britta Kajsa, Renstad” (läsning av faderns yrkesbeteckning osäker). Stämmer med folkräkning 1900 (Folk_109943856, ”s.” hos Britta Kajsa Johannesdotter, f. 1859 Boda, Renstad) och 1910 (Folk_125553541, hon ”moder” i hans hushåll). Födelsedag 15 nov 1882 Boda."
  },
  {
   "id": "p-jo_august_andersson54-maria_j",
@@ -7292,8 +7292,8 @@
    "maria_j"
   ],
   "child": "jo_johanalfred79",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Boda, Renstad: Johan Alfred f. 1879 i fam. nr 2 med August och Maria."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda, Renstad: Johan Alfred f. 1879 i fam. nr 2 med August och Maria. VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Renstad, sida 35 rad 46 (Folk_120431051): ”Johan Alfred, Födelseår 1879, Födelseförsamling Boda, Familjeställning s., Famstkod Barn, Familj nr 2”; fam. nr 2: ”Andersson, August, f. 1854 i Boda; Johannesdotter, Maria, f. 1855 i Boda; Johan Alfred, f. 1879 i Boda” (Maria: ”h.”, Mor/fru, Folk_120431050)."
  },
  {
   "id": "p-jo_johanaugust-jo_hulda_maria81",
@@ -7634,8 +7634,8 @@
    "d7_matilda_nilsson_sylvander"
   ],
   "child": "d7_sylvander_nils",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895). VERIFIERAD (omgång 24): SCB Utdrag ur födelsebok 1882, Boda (Jösse), blad 4 (bild A0036252_00286, SE/RA/420401/01/H 1 AA/753), nr 48: ”Okt 2 – Nils”; ”Fader: Sylvander Anders [Gustaf/Haath – osäker] … Moder: Nilsdotter Matilda, [Lerbotorp (osäker)]”. Datum 2 okt 1882 Boda stämmer med vår post (1882-10-02); jfr husförhör A I/37 bild 162."
  },
  {
   "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_johan",
@@ -7708,8 +7708,8 @@
    "jo_august_andersson54"
   ],
   "child": "jo_nilsoskar81",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22): August Andersson f. 1854, barn Johan Alfred 1879, Nils Oskar 1881, Anna Lavinia 1882, ingen hustru; 1900 samma barn i hans hushåll. Modern oklar (Maria Johannesdotter död 1880–90?) – därför bara fadern."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22): August Andersson f. 1854, barn Johan Alfred 1879, Nils Oskar 1881, Anna Lavinia 1882, ingen hustru; 1900 samma barn i hans hushåll. Modern oklar (Maria Johannesdotter död 1880–90?) – därför bara fadern. VERIFIERAD (omgång 24): Folkräkning 1890 Boda, Renstad (Folk_103604909): ”Nils Oskar, Födelseår 1881, Familjeställning s., Famstkod Barn” i hushåll med ”Andersson, August, f. 1854, Hemeg., Änka/Änkling”; 1900 (Folk_109943903) ”Nils Oskar … s.” hos August Andersson. Dessutom SCB-födelseutdrag 1881 Boda blad 4 (bild A0036224_00295), nr 23: ”Maj 6 – Nils Oskar; Fader: Andersson August (Gift dr?) … Moder: Johannesdotter Maria, Renstad”."
  },
  {
   "id": "c-jo_august_andersson54-jo_annalavinia82",
@@ -7718,8 +7718,8 @@
    "jo_august_andersson54"
   ],
   "child": "jo_annalavinia82",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22) och 1900 (s. 29): Anna Lavinia f. 1882 Boda i August Anderssons hushåll som barn; modern oklar."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22) och 1900 (s. 29): Anna Lavinia f. 1882 Boda i August Anderssons hushåll som barn; modern oklar. VERIFIERAD (omgång 24): Folkräkning 1890 Boda, Renstad (Folk_103604910): ”Anna Lavinia, Födelseår 1882, Familjeställning d., Famstkod Barn” hos August Andersson (änkling); 1900 (Folk_109943904) ”d.”; 1930 (Folk_128381566) ”m. d. i f. ä.”. SCB födelseutdrag 1882 Boda blad 4 (bild A0036252_00286), nr 58: ”Dec 3 – Anna Lavinia; Fader: Andersson August … Moder: Johannesdotter Maria, Renstad”. Födelsedag 3 dec 1882."
  },
  {
   "id": "c-ingrid_elofsd_toltan-per_nilsson28_skog",
@@ -8116,8 +8116,8 @@
    "anna_ps72"
   ],
   "child": "johanevald_kj98",
-  "status": "strong",
-  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+  "status": "verified",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter. VERIFIERAD (omgång 24): Folkräkning 1900 Arvika köping (Folk_113723616): ”Karlsson, Johan Evald, Födelseår 1898, Födelseförsamling Boda, Familjeställning s.” i hushåll ”Johansson, Karl, f. 1871 i Stavnäs, Mek. arb.; Persdotter, Anna, f. 1872 i Boda”; 1910 Frykerud, Norra Näs (Folk_124043936): ”Johan Evald, f. 1898 Boda, Familjeställning s.” hos samma föräldrar."
  },
  {
   "id": "c-karljohansson71_pa-anna_ps72-oskarhenry_kj99",
@@ -9633,8 +9633,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_mariaelvina_ja02",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 41) (Folk_125553538): Maria Elvina f. 1902 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 41) (Folk_125553538): Maria Elvina f. 1902 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1910 Boda annex, Renstad, sida 29 rad 41 (Folk_125553538): ”Maria Elvina, Födelseår 1902, Födelseförsamling Boda, Familjeställning d. före ä., Famstkod Barn”; hushåll: ”Johannesson, Johan August, f. 1882 i Boda, Ägare Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda”. (Tolkning: ”d. före ä.” = dotter född före föräldrarnas äktenskap; vigselår 1903 enligt 1930 års folkräkning, Folk_128381597/-598.)"
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_estervik_ja06",
@@ -9644,8 +9644,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_estervik_ja06",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 42) (Folk_125553539): Ester Viktoria f. 1906 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 42) (Folk_125553539): Ester Viktoria f. 1906 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1910 Boda annex, Renstad Bråten, sida 29 rad 42 (Folk_125553539): ”Ester Viktoria, Födelseår 1906, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll: ”Johannesson, Johan August, f. 1882; Johannesdotter, Hulda Maria, f. 1881”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_ernstgeorg_ja08",
@@ -9655,8 +9655,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_ernstgeorg_ja08",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 43) (Folk_125553540): Ernst Georg f. 1908 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 43) (Folk_125553540): Ernst Georg f. 1908 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1910 Boda annex, Renstad Bråten, sida 29 rad 43 (Folk_125553540): ”Ernst Georg, Födelseår 1908, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll: ”Johannesson, Johan August, f. 1882; Johannesdotter, Hulda Maria, f. 1881”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_arvidkrispin_ja11",
@@ -9666,8 +9666,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_arvidkrispin_ja11",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34) (Folk_128381597): Arvid Krispin f. 1911 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34) (Folk_128381597): Arvid Krispin f. 1911 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 36 (Folk_128381599): ”Arvid Krispin, Födelseår 1911, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_karlsigurd_ja17",
@@ -9677,8 +9677,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_karlsigurd_ja17",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381600): Karl Sigurd f. 1917 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381600): Karl Sigurd f. 1917 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 37 (Folk_128381600): ”Karl Sigurd, Födelseår 1917, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_hannagreta_ja19",
@@ -9688,8 +9688,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_hannagreta_ja19",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Hanna Greta f. 1919 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Hanna Greta f. 1919 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 38 (Folk_128381601): ”Hanna Greta, Födelseår 1919, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_sverik_ja21",
@@ -9699,8 +9699,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_sverik_ja21",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Sven Erik f. 1921 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Sven Erik f. 1921 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 39 (Folk_128381602): ”Sven Erik, Födelseår 1921, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_valborgviola_ja24",
@@ -9710,8 +9710,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_valborgviola_ja24",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Valborg Viola f. 1924 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Valborg Viola f. 1924 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 40 (Folk_128381603): ”Valborg Viola, Födelseår 1924, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_elvalinnea_ja28",
@@ -9721,8 +9721,8 @@
    "jo_hulda_maria81"
   ],
   "child": "ap5_elvalinnea_ja28",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Elva Linnéa f. 1928 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Elva Linnéa f. 1928 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Renstad, sida 22 rad 41 (Folk_128381604): ”Elva Linnéa, Födelseår 1928, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll (Folk_128381597): ”Johannesson, Johan August, f. 1882 i Boda, Hemmansägare; Johannesdotter, Hulda Maria, f. 1881 i Boda (h., Mor/fru; f. Johannesdotter; vigselår 1903)”."
  },
  {
   "id": "p-jo_august_andersson54-ap5_brittakajsa_olsd59",
@@ -9739,8 +9739,8 @@
    "ap5_brittakajsa_olsd59"
   ],
   "child": "ap5_emiliehelene_jd84",
-  "status": "candidate",
-  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943901): ”Johansdotter, Emilie Helene f. 1884”, Familjeställning ”oä. d.” i hushåll August Andersson/Britta Kajsa Olsdotter; moder antagen = Britta Kajsa (hushållets hustru), ej uttryckligt."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943901): ”Johansdotter, Emilie Helene f. 1884”, Familjeställning ”oä. d.” i hushåll August Andersson/Britta Kajsa Olsdotter; moder antagen = Britta Kajsa (hushållets hustru), ej uttryckligt. VERIFIERAD (omgång 24): SCB Utdrag ur födelsebok 1884, Boda (Jösse), blad 4 (bild A0036311_00287, SE/RA/420401/01), nr 7: ”Febr 7 – Emilia Helena (oä)”; ”Fader: Jansson Johan, Dräng (osäker läsning) … Moder: Olsdotter Britta Kajsa, Renstad” (moderns ålder ca 25). Folkräkning 1900 (Folk_109943901): ”Johansdotter, Emilie Helene, f. 1884, oä. d.” i hushåll August Andersson/Britta Kajsa Olsdotter, Renstad. Födelsedag 7 feb 1884. Biologisk far enligt SCB: Johan Jansson, dräng."
  },
  {
   "id": "c-jo_august_andersson54-ap5_brittakajsa_olsd59-ap5_mariakajsa_aa96",
@@ -9761,8 +9761,8 @@
    "ap5_brittakajsa_olsd59"
   ],
   "child": "ap5_karlgustaf_aa98",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943899/-905): Karl Gustaf f. 1898 i hushåll August Andersson f. 1854 / Britta Kajsa Olsdotter f. 1859; 1930 med patronymikon Augustsson (Folk_128381566)."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943899/-905): Karl Gustaf f. 1898 i hushåll August Andersson f. 1854 / Britta Kajsa Olsdotter f. 1859; 1930 med patronymikon Augustsson (Folk_128381566). VERIFIERAD (omgång 24): Folkräkning 1900 Boda, Renstad, sida 29 rad 48 (Folk_109943906): ”Karl Gustaf, Födelseår 1898, Födelseförsamling Boda, Familjeställning bådas s., Famstkod Barn”; hushåll (Folk_109943899): ”Andersson, August, f. 1854, Hemmansegare; Olsdotter, Britta Kajsa, f. 1859”."
  },
  {
   "id": "c-jo_august_andersson54-maria_j-jo_annalavinia82",
@@ -9772,8 +9772,8 @@
    "maria_j"
   ],
   "child": "jo_annalavinia82",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381566): Anna Lavinia f. 1882, ogift hemmadotter, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) i hushåll August Andersson f. 1854 / Britta Kajsa Olsson f. 1859; mor = förra hustrun (Maria Johannesdotter f. 1855 enligt tidigare hushåll – ej uttryckligt)."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381566): Anna Lavinia f. 1882, ogift hemmadotter, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) i hushåll August Andersson f. 1854 / Britta Kajsa Olsson f. 1859; mor = förra hustrun (Maria Johannesdotter f. 1855 enligt tidigare hushåll – ej uttryckligt). VERIFIERAD (omgång 24): SCB Utdrag ur födelsebok 1882, Boda (Jösse), blad 4 (bild A0036252_00286, SE/RA/420401/01/H 1 AA/753), nr 58: ”Dec 3 – Anna Lavinia”; ”Fader: Andersson August (Gift dr?) … Moder: Johannesdotter Maria, Renstad” (moderns ålder 27). Födelsedag 3 dec 1882. Jfr 1930 (Folk_128381566): hon ”m. d. i f. ä.” hos August Andersson/Britta Kajsa."
  },
  {
   "id": "c-jo_august_andersson54-maria_j-jo_nilsoskar81",
@@ -9783,8 +9783,8 @@
    "maria_j"
   ],
   "child": "jo_nilsoskar81",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1890 (Folk_103604909) och 1900 (Folk_109943903) Boda, Renstad: Nils Oskar f. 1881 barn i August Anderssons hushåll; född efter 1880 års folkräkning (då Maria Johannesdotter var hans hustru); mor ej uttryckligt."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1890 (Folk_103604909) och 1900 (Folk_109943903) Boda, Renstad: Nils Oskar f. 1881 barn i August Anderssons hushåll; född efter 1880 års folkräkning (då Maria Johannesdotter var hans hustru); mor ej uttryckligt. VERIFIERAD (omgång 24): SCB Utdrag ur födelsebok 1881, Boda (Jösse), blad 4 (bild A0036224_00295), nr 23: ”Maj 6 – Nils Oskar”; ”Fader: Andersson August … Moder: Johannesdotter Maria, Renstad”. Födelsedag 6 maj 1881 Boda. Jfr folkräkning 1890 (Folk_103604909) ”s.” hos August Andersson, änkling."
  },
  {
   "id": "p-jo_johanalfred79-ap5_elincharlotta_olsson86",
@@ -9802,8 +9802,8 @@
    "ap5_elincharlotta_olsson86"
   ],
   "child": "ap5_nilsevert_aa23",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Boda, Södra Boda (Folk_128380764): Nils Evert f. 1923, barn i hushållet Johan Alfred Augustsson f. 1879 / Elin Charlotta Olsson f. 1886."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Boda, Södra Boda (Folk_128380764): Nils Evert f. 1923, barn i hushållet Johan Alfred Augustsson f. 1879 / Elin Charlotta Olsson f. 1886. VERIFIERAD (omgång 24): Folkräkning 1930 Boda, Södra Boda, sida 5 rad 42 (Folk_128380766): ”Nils Evert, Födelseår 1923, Födelseförsamling Boda, Familjeställning b. s. f. ä., Famstkod Barn”; hushåll (Folk_128380764): ”Augustsson, Johan Alfred, f. 1879 i Boda, Hemmansägare (vigselår 1924); Olsson, Elin Charlotta, f. 1886 i Boda”. (Tolkning: ”b. s. f. ä.” = bådas son före äktenskapet; vigselår 1924 > födelseår 1923.)"
  },
  {
   "id": "p-ap5_anders_andersson26-ap5_kajsa_olsd26",
@@ -9859,8 +9859,8 @@
    "ap5_anna_eriksd56"
   ],
   "child": "ap5_hedvig_a86",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Hedvig Kristina Andersson f. 1886, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Hedvig Kristina Andersson f. 1886, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856. VERIFIERAD (omgång 24): Folkräkning 1900 Boda, Renstad, sida 29 rad 14 (Folk_109943872): ”Hedvig Kristina, Födelseår 1886, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll (Folk_109943870): ”Andersson, Karl Gustaf, f. 1863 i Boda, Hem.eg.; Eriksdotter, Anna, f. 1856 i Boda; Hedvig Kristina, f. 1886; Karl August, f. 1890”."
  },
  {
   "id": "c-ap5_karlgustaf_a63-ap5_anna_eriksd56-ap5_karlaugust_a90",
@@ -9870,8 +9870,8 @@
    "ap5_anna_eriksd56"
   ],
   "child": "ap5_karlaugust_a90",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Karl August Andersson f. 1890, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Karl August Andersson f. 1890, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856. VERIFIERAD (omgång 24): Folkräkning 1900 Boda, Renstad, sida 29 rad 15 (Folk_109943873): ”Karl August, Födelseår 1890, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll (Folk_109943870): ”Andersson, Karl Gustaf, f. 1863 i Boda, Hem.eg.; Eriksdotter, Anna, f. 1856 i Boda; Hedvig Kristina, f. 1886; Karl August, f. 1890”."
  },
  {
   "id": "p-ap5_erik_jansson18-ap5_stina_svensd19",
@@ -10422,8 +10422,8 @@
    "maria_jordsd_nboda"
   ],
   "child": "aq2_johan_andersson_1860_nboda",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”. VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Norra Boda, sida 2 rad 46 (Folk_120429451): ”Johan, Födelseår 1860, Födelseförsamling Boda, Familjeställning s., Famstkod Barn”; hushåll (Folk_120429450): ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria 1857; Johan 1860; Augusta 1867”.",
   "id": "c-anders_svensson_nboda-maria_jordsd_nboda-aq2_johan_andersson_1860_nboda"
  },
  {
@@ -10433,8 +10433,8 @@
    "maria_jordsd_nboda"
   ],
   "child": "aq2_augusta_andersdotter_1867_nboda",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”. VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Norra Boda, sida 2 rad 47 (Folk_120429452): ”Augusta, Födelseår 1867, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll Anders Svensson (Ask) f. 1828 / Maria Jordsdotter f. 1825.",
   "id": "c-anders_svensson_nboda-maria_jordsd_nboda-aq2_augusta_andersdotter_1867_nboda"
  },
  {
@@ -10463,8 +10463,8 @@
    "aq2_anna_andersdotter_1818_nordsjo"
   ],
   "child": "aq2_karolina_andersdotter_1863_nordsjo",
-  "status": "candidate",
-  "basis": "FOLKRÄKNING 1880 Boda, Nordsjö (s. 33 rad 13), fam. 1: ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena, f. 1858 i Boda (ogift, d.); Karolina, f. 1863 i Boda”. Identifiering med Lena Andersdotter f. 1858 (Anders Nilssons 2:a hustru) är sannolik – ej bevisad.",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Nordsjö (s. 33 rad 13), fam. 1: ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena, f. 1858 i Boda (ogift, d.); Karolina, f. 1863 i Boda”. Identifiering med Lena Andersdotter f. 1858 (Anders Nilssons 2:a hustru) är sannolik – ej bevisad. VERIFIERAD (omgång 24): Folkräkning 1880 Boda, Nordsjö, sida 33 rad 14 (Folk_120430922): ”Karolina, Födelseår 1863, Födelseförsamling Boda, Familjeställning d., Famstkod Barn”; hushåll (Folk_120430921): ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena 1858; Karolina 1863” (Lena: ”d.”).",
   "id": "c-aq2_anders_andersson_1816_nordsjo-aq2_anna_andersdotter_1818_nordsjo-aq2_karolina_andersdotter_1863_nordsjo"
  },
  {

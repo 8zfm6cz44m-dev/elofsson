@@ -26563,7 +26563,7 @@
  {
   "id": "krister_jec_1862",
   "name": "Krister Jonsson (f. 1862)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26590,7 +26590,7 @@
  {
   "id": "nils_jec_1865",
   "name": "Nils Jonsson (f. 1865)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26617,7 +26617,7 @@
  {
   "id": "britta_jec_1867",
   "name": "Britta Jonsdotter (f. 1867)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26644,7 +26644,7 @@
  {
   "id": "anna_jec_1871",
   "name": "Anna Jonsdotter (f. 1871)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -27408,7 +27408,7 @@
  {
   "id": "adolf_pa61",
   "name": "Adolf Persson (Adamsson) (f. 1861)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
@@ -27436,7 +27436,7 @@
  {
   "id": "kristina_pa63",
   "name": "Kristina Persson (Adamsson) (f. 1863)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
@@ -27480,7 +27480,7 @@
  {
   "id": "annalisa_pa66",
   "name": "Anna Lisa Persson (Adamsson) (f. 1866)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
@@ -27627,7 +27627,7 @@
  {
   "id": "johan_ps68",
   "name": "Johan Persson Svensson (f. 1868, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
@@ -27654,7 +27654,7 @@
  {
   "id": "anna_ps72",
   "name": "Anna Persson Svensson (f. 1872, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Dotter till Per Svensson och Ingegerd Elofsdotter; gift 1897 med Karl Johansson (f. 1871 Stavnäs); bodde i Arvika köping 1900, därefter Norra Näs, Frykerud (1910, 1930).",
@@ -28293,8 +28293,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1882",
-   "place": "Boda, Värmlands län"
+   "date": "1882-11-15",
+   "place": "Boda"
   },
   "places": [
    "Renstad (Bråten), Boda"
@@ -28304,7 +28304,8 @@
    "FOLKRÄKNING 1900 Boda, Renstad (s. 28 rad 48): ”Johannesson, Johan August, f. 1882 i Boda”, familjeställning ”s.” (son) i hushåll med modern Britta Kajsa Johannesdotter (änka, Hemmansegare).",
    "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 39): Johan August f. 1882 Boda, Ägare Hemmansägare, gift; hustru(?) ”Johannesdotter, Hulda Maria, f. 1881 i Boda” (ej uttryckligen märkt h. i det sökbara utdraget); barn Maria Elvina f. 1902, Ester Viktoria f. 1906, Ernst Georg f. 1908; modern i fam. nr 2 ”Ägareänka f.d.” (moder).",
    "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34): Johan August f. 1882 Boda, Hemmansägare, gift; Hulda Maria f. 1881; med flera barn/hushållsmedlemmar (Arvid Krispin Johansson f. 1911, Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928).",
-   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34, Folk_128381597): Hemmansägare, biyrke Postbärare, gift 1903; barn i hushållet Arvid Krispin 1911 (jordbruksarbetare), Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928; äldre barn Maria Elvina 1902, Ester Viktoria 1906, Ernst Georg 1908 (1910) är ej i 1930 års hushåll."
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34, Folk_128381597): Hemmansägare, biyrke Postbärare, gift 1903; barn i hushållet Arvid Krispin 1911 (jordbruksarbetare), Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928; äldre barn Maria Elvina 1902, Ester Viktoria 1906, Ernst Georg 1908 (1910) är ej i 1930 års hushåll.",
+   "SCB födelseutdrag 1882 Boda nr 55, bild A0036252_00286: Nov 15, Johan August, fader Johannes Eriksson, moder Britta Kajsa Johannesdotter, Renstad."
   ],
   "sources": [
    {
@@ -28430,12 +28431,12 @@
  {
   "id": "jo_nilsoskar81",
   "name": "Nils Oskar Andersson (f. 1881, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1881",
-   "place": "Boda, Värmlands län"
+   "date": "1881-05-06",
+   "place": "Boda"
   },
   "places": [
    "Renstad, Boda"
@@ -28443,7 +28444,8 @@
   "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1881) – troligen Marias son.",
   "notes": [
    "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat).",
-   "FOLKRÄKNING 1930: ingen träff på Nils Oskar f. 1881 Boda (sökning med förnamn+år+födelseförsamling gav endast 1890 och 1900) – troligen utflyttad/utvandrad; ej utrett."
+   "FOLKRÄKNING 1930: ingen träff på Nils Oskar f. 1881 Boda (sökning med förnamn+år+födelseförsamling gav endast 1890 och 1900) – troligen utflyttad/utvandrad; ej utrett.",
+   "SCB födelseutdrag 1881 Boda nr 23, bild A0036224_00295: Maj 6, Nils Oskar, fader August Andersson, moder Maria Johannesdotter, Renstad."
   ],
   "sources": [
    {
@@ -28462,8 +28464,8 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1882",
-   "place": "Boda, Värmlands län"
+   "date": "1882-12-03",
+   "place": "Boda"
   },
   "places": [
    "Renstad, Boda"
@@ -28471,7 +28473,8 @@
   "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1882).",
   "notes": [
    "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Anna Lavinia, f. 1882 i Boda” i August Anderssons hushåll.",
-   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 4, Folk_128381566): Anna Lavinia f. 1882 Boda, hemmadotter, ogift, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) hos August Andersson f. 1854 och Britta Kajsa Olsson f. 1859 – uttrycklig dotter till August."
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 4, Folk_128381566): Anna Lavinia f. 1882 Boda, hemmadotter, ogift, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) hos August Andersson f. 1854 och Britta Kajsa Olsson f. 1859 – uttrycklig dotter till August.",
+   "SCB födelseutdrag 1882 Boda nr 58, bild A0036252_00286: Dec 3, Anna Lavinia, fader August Andersson, moder Maria Johannesdotter, Renstad."
   ],
   "sources": [
    {
@@ -29832,7 +29835,7 @@
  {
   "id": "johanevald_kj98",
   "name": "Johan Evald Karlsson/Johansson (f. 1898, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33372,7 +33375,7 @@
  {
   "id": "ap5_mariaelvina_ja02",
   "name": "Maria Elvina Johannesson (f. 1902, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33399,7 +33402,7 @@
  {
   "id": "ap5_estervik_ja06",
   "name": "Ester Viktoria Johannesson (f. 1906, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33426,7 +33429,7 @@
  {
   "id": "ap5_ernstgeorg_ja08",
   "name": "Ernst Georg Johannesson (f. 1908, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33453,7 +33456,7 @@
  {
   "id": "ap5_arvidkrispin_ja11",
   "name": "Arvid Krispin Johansson (f. 1911, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33480,7 +33483,7 @@
  {
   "id": "ap5_karlsigurd_ja17",
   "name": "Karl Sigurd Johannesson (f. 1917, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33507,7 +33510,7 @@
  {
   "id": "ap5_hannagreta_ja19",
   "name": "Hanna Greta Johannesson (f. 1919, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33534,7 +33537,7 @@
  {
   "id": "ap5_sverik_ja21",
   "name": "Sven Erik Johannesson (f. 1921, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33561,7 +33564,7 @@
  {
   "id": "ap5_valborgviola_ja24",
   "name": "Valborg Viola Johannesson (f. 1924, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33588,7 +33591,7 @@
  {
   "id": "ap5_elvalinnea_ja28",
   "name": "Elva Linnéa Johannesson (f. 1928, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -33647,11 +33650,11 @@
  {
   "id": "ap5_emiliehelene_jd84",
   "name": "Emilie Helene Johansdotter (f. 1884, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1884",
+   "date": "1884-02-07",
    "place": "Boda"
   },
   "places": [
@@ -33659,7 +33662,8 @@
   ],
   "summary": "Oäkta dotter (”oä. d.”) i August Anderssons hushåll i Renstad, Boda 1900; troligen Britta Kajsa Olsdotters dotter (patronymikon Johansdotter).",
   "notes": [
-   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 43, Folk_109943901): ”Johansdotter, Emilie Helene f. 1884 Boda”, ogift, Familjeställning ”oä. d.” (oäkta dotter), Famstkod Barn, i hushållet August Andersson/Britta Kajsa Olsdotter. Vems oäkta dotter anges ej i utdraget; moderslänken (Britta Kajsa, f. 1859 – då 25 år) är candidate. Ej funnen i 1910."
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 43, Folk_109943901): ”Johansdotter, Emilie Helene f. 1884 Boda”, ogift, Familjeställning ”oä. d.” (oäkta dotter), Famstkod Barn, i hushållet August Andersson/Britta Kajsa Olsdotter. Vems oäkta dotter anges ej i utdraget; moderslänken (Britta Kajsa, f. 1859 – då 25 år) är candidate. Ej funnen i 1910.",
+   "SCB födelseutdrag 1884 Boda nr 7, bild A0036311_00287: Febr 7, Emilia Helena (oäkta), fader Johan Jansson dräng (osäker läsning), moder Britta Kajsa Olsdotter, Renstad."
   ],
   "sources": [
    {
@@ -33706,7 +33710,7 @@
  {
   "id": "ap5_karlgustaf_aa98",
   "name": "Karl Gustaf Andersson (Augustsson) (f. 1898, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33764,7 +33768,7 @@
  {
   "id": "ap5_nilsevert_aa23",
   "name": "Nils Evert Augustsson (f. 1923, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33908,7 +33912,7 @@
  {
   "id": "ap5_hedvig_a86",
   "name": "Hedvig Kristina Andersson (f. 1886, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33935,7 +33939,7 @@
  {
   "id": "ap5_karlaugust_a90",
   "name": "Karl August Andersson (f. 1890, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35398,7 +35402,7 @@
  {
   "id": "aq2_johan_andersson_1860_nboda",
   "name": "Johan Andersson (f. 1860, Boda; N. Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35423,7 +35427,7 @@
  {
   "id": "aq2_augusta_andersdotter_1867_nboda",
   "name": "Augusta Andersdotter (f. 1867, Boda; N. Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35498,7 +35502,7 @@
  {
   "id": "aq2_karolina_andersdotter_1863_nordsjo",
   "name": "Karolina Andersdotter (f. 1863, Boda; Nordsjö)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
