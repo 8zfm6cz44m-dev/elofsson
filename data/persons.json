@@ -8748,7 +8748,7 @@
  {
   "id": "ingrid_persd_vikene",
   "name": "Ingrid Persdotter (Vikene)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -10281,7 +10281,7 @@
  {
   "id": "nils_ihrsson_toltan",
   "name": "Nils Persson (Toltan)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -10694,7 +10694,7 @@
  {
   "id": "jon_jonsson_sandvik",
   "name": "Jon Jonsson (Sandviken, far till Anna f. 1767)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -10724,7 +10724,7 @@
  {
   "id": "gunild_andersd_sandvik",
   "name": "Gunild Andersdotter (Sandviken, mor till Anna f. 1767)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -10750,7 +10750,7 @@
  {
   "id": "per_ingemarsson",
   "name": "Per Ingemarsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -10777,7 +10777,7 @@
  {
   "id": "brita_jansd_lerbodatorp",
   "name": "Brita Jansdotter (Lerbodatorp)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -10808,7 +10808,7 @@
  {
   "id": "jonas_andersson_grimstad",
   "name": "Jonas Andersson (Grimstad)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -10831,7 +10831,7 @@
  {
   "id": "ingeborg_jonsd_grimstad",
   "name": "Ingeborg Jonsdotter (Grimstad)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -10854,7 +10854,7 @@
  {
   "id": "nils_arnesson_boda",
   "name": "Nils Arnesson (Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -10883,7 +10883,7 @@
  {
   "id": "kari_andersd_boda",
   "name": "Kari Andersdotter (Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -11143,7 +11143,7 @@
  {
   "id": "per_olofsson_braten",
   "name": "Per Olofsson (Bråten)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -13889,7 +13889,8 @@
   ],
   "summary": "Gift dräng på Lerhol 1820–24, f. 1792 i Boda; gift med Anna Andersdotter (f. 1799); dotter Brita 6/2 1820.",
   "notes": [
-   "C I/3 bild 139: ”Nils Svensson, H. Anna Andersd. (41)”, dotter Brita 6/2 1820."
+   "C I/3 bild 139: ”Nils Svensson, H. Anna Andersd. (41)”, dotter Brita 6/2 1820.",
+   "Dopdag oklar (läses 29/19 eller 22/29 juli 1792); behåll 1792-07."
   ],
   "sources": [
    {
@@ -14270,7 +14271,7 @@
  {
   "id": "karin_olofsd_toltan",
   "name": "Karin Olofsdotter (Toltan, hustru till Per Nilsson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -15458,12 +15459,12 @@
  {
   "id": "lena_andersdotter",
   "name": "Lena (Lina) Andersdotter",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1858",
-   "place": "Boda, Värmlands län"
+   "date": "1858-11-02",
+   "place": "Takenetorp, Boda"
   },
   "places": [
    "Svartåna, Brunskog"
@@ -15471,7 +15472,8 @@
   "summary": "Anders Nilssons hustru 1900/1910, troligen andra hustru (styvmor till Karl August).",
   "notes": [
    "FOLKRÄKNING 1900: 'Andersdotter, Lena, f. 1858 i Boda'; 1910: 'Andersdotter, Lina, f. 1858 i Boda'. Karl August anges 1900 som 'hans s. i 1:a g.' => Lena är sannolikt styvmor; sonen Arvid Emanuel f. 1896 i Brunskog kan vara hennes.",
-   "HUSFÖRHÖR A II a/3 bild 253: ”H. Lena Andersdotter 58 2/11 Boda” = f. 1858-11-02; gift (2:a giftet för Anders) 31/10 1896. Lever 1909–20."
+   "HUSFÖRHÖR A II a/3 bild 253: ”H. Lena Andersdotter 58 2/11 Boda” = f. 1858-11-02; gift (2:a giftet för Anders) 31/10 1896. Lever 1909–20.",
+   "Dop C I/3 b.111: 2/7 nov 1858, föräldrar Anders Andersson och Anna Andersd."
   ],
   "sources": [
    {
@@ -15730,7 +15732,7 @@
  {
   "id": "stina_jansdotter",
   "name": "Stina Jansdotter",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -16723,7 +16725,7 @@
  {
   "id": "karin_olsd12_asen",
   "name": "Karin Olsdotter (1712, Åsen)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -16923,13 +16925,12 @@
  {
   "id": "nils_nilsson35_fraston",
   "name": "Nils Nilsson (1735, Toltan; sen i ”Frostån”)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1735-03-09",
-   "place": "Toltan, Brunskog",
-   "note": "Dopbok C I/1 bild 209, nr 5: ’9 Martii’ 1735 (dödboken angav osäkert 9/4; dopbokens datum 9 mars stämmer med åldern 63 år 10 mån vid död 28/12 1798)."
+   "place": "Toltan, Brunskog"
   },
   "died": {
    "date": "1798-12-28",
@@ -16944,7 +16945,8 @@
   "notes": [
    "DÖDBOK F I/1 bild 66 (s. 105), Begrafne 1799, jan. 6, nr 1: ”D.M. Nils Nilsson i Frastån[?] född 1735 9/4[?] uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd. Gift 1758 28/12 med H. Marit Christophersd. från Åsen. Afled den 28 December uti Hals af Slag. 63 år 10 mån.”",
    "DOPBOK 1735 (C I/1 bild 209, sida 391 hö, nr 5): ”9 Martii Nils Larsson och Hust. Kerstin Olofsd. i Toltan Son Nils. Fadd. Olof Nilsson, Nils Ingesson ibid. Hust. Marit Olofsd., Ingrid Mattsd. ibidem.” Verifierar föräldrarna Nils Larsson och Kerstin/Kjersti Olsdotter. (Fadder ’Olof Nilsson’ kan vara Elof Nilsson – ej bevisat.)",
-   "OMLÄSNING Y1 (halvsides-zoom, C0036782_00209, Brunskog dopbok C I/1 s. 391 hö, nr 5, rubrik ”Barn Döpte 1735”): ”5. d 9 Martii Nils Larsons och Hust. Kerstin Olofsd:r i Toltan Son [Nils – ÖVERSTRUKET med kraftigt streck]. Fadd. Olof Nilsson, [Nils?, överstruket/understruket med långt streck] Pehrsson ibid. Hust: Marit Olofsd:r, Ingrid Matts d:r ibidem.” AVVIKELSE mot tidigare transkription: (a) barnets namn ”Nils” efter ”Son” är genomstruket i dopboken och kan därför inte ensamt bära identifieringen; (b) andra fadderns patronymikon läses ”Pehrsson” (inte ”Ingesson”). Föräldrarna Nils Larsson + Kerstin Olofsd. i Toltan och bosättningen är läsbara. Identiteten med Nils Nilsson f. 1735 (dödbok F I/1 bild 66: ”f. 1735 uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd.”) vilar därför på dödboken + postens föräldrar, inte på ett oöverstruket barnnamn → nedgraderad verified → strong."
+   "OMLÄSNING Y1 (halvsides-zoom, C0036782_00209, Brunskog dopbok C I/1 s. 391 hö, nr 5, rubrik ”Barn Döpte 1735”): ”5. d 9 Martii Nils Larsons och Hust. Kerstin Olofsd:r i Toltan Son [Nils – ÖVERSTRUKET med kraftigt streck]. Fadd. Olof Nilsson, [Nils?, överstruket/understruket med långt streck] Pehrsson ibid. Hust: Marit Olofsd:r, Ingrid Matts d:r ibidem.” AVVIKELSE mot tidigare transkription: (a) barnets namn ”Nils” efter ”Son” är genomstruket i dopboken och kan därför inte ensamt bära identifieringen; (b) andra fadderns patronymikon läses ”Pehrsson” (inte ”Ingesson”). Föräldrarna Nils Larsson + Kerstin Olofsd. i Toltan och bosättningen är läsbara. Identiteten med Nils Nilsson f. 1735 (dödbok F I/1 bild 66: ”f. 1735 uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd.”) vilar därför på dödboken + postens föräldrar, inte på ett oöverstruket barnnamn → nedgraderad verified → strong.",
+   "Dop 9 mars 1735 (b.209, barnnamnet överstruket) och dödbok 1799 (F I/1 b.66) ’född 1735 9/3 uti Toltan af Nils Larsson och Kjersti Olsd.’; dödbokens födelseplats Toltan."
   ],
   "sources": [
    {
@@ -17025,7 +17027,7 @@
  {
   "id": "erik_nilsson12_kyrkebyn",
   "name": "Erik Nilsson (1712, Kyrkebyn)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -17091,7 +17093,7 @@
  {
   "id": "anders_olofsson_takene_1821",
   "name": "Anders Olofsson (Takene, f. 1821)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -17119,7 +17121,7 @@
  {
   "id": "maria_olofsdotter_takene_1823",
   "name": "Maria Olofsdotter (Takene, f. 1823)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -17147,7 +17149,7 @@
  {
   "id": "nils_olofsson_takene_1829",
   "name": "Nils Olofsson (Takene, f. 1829)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -17175,7 +17177,7 @@
  {
   "id": "olof_olofsson_takene_1831",
   "name": "Olof Olofsson (Takene, f. 1831)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -17203,7 +17205,7 @@
  {
   "id": "nils_olofsson_takene_1835",
   "name": "Nils Olofsson (Takene, f. 1835)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -18210,7 +18212,7 @@
  {
   "id": "johan_arnesson_skarmnas",
   "name": "Johan Arnesson (Stora Skärmnäs)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -19713,7 +19715,7 @@
  {
   "id": "petrus_johansson_strmtorp",
   "name": "Petrus Johansson (predikant, f. 1846 Väse; Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20091,7 +20093,7 @@
  {
   "id": "d7_olof_jansson_1836_svartana",
   "name": "Olof Jansson (Där Nole, Svartåna, f. 1836)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20632,7 +20634,7 @@
  {
   "id": "olof_persson_dernere_1854",
   "name": "Olof Persson (Skog, Dernere, f. 1854)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -21231,7 +21233,7 @@
  {
   "id": "olof_perssonbraten15",
   "name": "Olof Persson/Olufsson (döpt dec 1715, Tolta)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -21292,7 +21294,7 @@
  {
   "id": "christopher_svensson_saldebraten",
   "name": "Christopher Svensson (Såldebråten, Frykerud)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -21810,7 +21812,7 @@
  {
   "id": "katrin_nilsd_boda_1774",
   "name": "Katrin Nilsdotter (Boda, mor till Nils f. 1774)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -21833,7 +21835,7 @@
  {
   "id": "sven_nilsson_lerboda92",
   "name": "Sven Nilsson (Lerboda, far till Nils f. 1792)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -21857,7 +21859,7 @@
  {
   "id": "britta_persd_lerboda92",
   "name": "Britta Persdotter (Lerboda, mor till Nils f. 1792)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -21938,7 +21940,7 @@
  {
   "id": "nils_andersson_takene91",
   "name": "Nils Andersson (Ö. Takene, far till Kjerstin f. 1791)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -21968,7 +21970,7 @@
  {
   "id": "brita_olsd_takene91",
   "name": "Brita Olsdotter (Ö. Takene, mor till Kjerstin f. 1791)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -22077,7 +22079,7 @@
  {
   "id": "elin_svensdotter_gonas",
   "name": "Elin Svensdotter (Gönäs, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -22116,7 +22118,7 @@
  {
   "id": "anders_svensson_nboda",
   "name": "Anders Svensson (N. Boda 25)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -22139,7 +22141,7 @@
  {
   "id": "maria_jordsd_nboda",
   "name": "Maria Jordsdotter (N. Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -22162,7 +22164,7 @@
  {
   "id": "jan_svensson_gullsby",
   "name": "Jan Svensson (Gullsby)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -22185,7 +22187,7 @@
  {
   "id": "maria_andersd_gullsby",
   "name": "Maria Andersdotter (Gullsby, Jan Svenssons hustru)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -22277,7 +22279,7 @@
  {
   "id": "brita_svensd_lerboda94",
   "name": "Brita Svensdotter (Lerboda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -22663,7 +22665,7 @@
  {
   "id": "fr_anderserson1747_lene",
   "name": "Anders Ersson (Lene, Frykerud, f. 1747)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -22708,7 +22710,7 @@
  {
   "id": "fr_elinlene1756",
   "name": "Elin […]dotter (Lene, Frykerud, f. 1756)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23004,7 +23006,7 @@
  {
   "id": "fr_kerstinnilsd1727_lene",
   "name": "Kerstin Nilsdotter (Lene, f. 1727)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23487,7 +23489,7 @@
  {
   "id": "fr_malinolofsd_ingerid",
   "name": "Malin Olofsdotter (Östra Glänna)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -23515,13 +23517,12 @@
  {
   "id": "kari_nilsd_boda1778",
   "name": "Kari Nilsdotter (Boda, d. 1795)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1778",
-   "place": "Boda",
-   "note": "Ålder vid död 16 år 10 mån; exakt födelsedatum svårläst"
+   "date": "1778-12-25",
+   "place": "Boda"
   },
   "died": {
    "date": "1795-10-14",
@@ -23532,7 +23533,8 @@
   ],
   "summary": "Pigan Kari Nilsdotter i Boda, dotter till Nils Arnesson och Kari Andersdotter; död 14 okt 1795, 16 år 10 mån.",
   "notes": [
-   "BEGRAVNINGSBOK Boda E I/2 1795 (bild 49, s. 73), nr 18, 1 nov: ”Pigan Kari Nilsd. Boda, född 17[78?] af Vll. Nils arneson och h. Kari Anders[d.]” – ”afled af feber den 14 oct” – 16 år 10 mån. Sista siffran i födelseåret och sidans högra kant svårlästa (beskuren i zoom)."
+   "BEGRAVNINGSBOK Boda E I/2 1795 (bild 49, s. 73), nr 18, 1 nov: ”Pigan Kari Nilsd. Boda, född 17[78?] af Vll. Nils arneson och h. Kari Anders[d.]” – ”afled af feber den 14 oct” – 16 år 10 mån. Sista siffran i födelseåret och sidans högra kant svårlästa (beskuren i zoom).",
+   "Dödbok E I/2 b.49: född 1778 25/12."
   ],
   "sources": [
    {
@@ -23671,7 +23673,7 @@
  {
   "id": "fr_andersnilsson1710_lene",
   "name": "Anders Nilsson (Lene, Frykerud, f. 1710)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23704,7 +23706,7 @@
  {
   "id": "fr_maritbryngelsd_lene",
   "name": "Marit Bryngelsdotter (Lene, Frykerud, f. 1708)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24060,7 +24062,7 @@
  {
   "id": "aa48_ullerud",
   "name": "Anders Andersson (f. 1848 Brunskog, handlande/gårdfarihandlare, Nedre Ullerud)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24179,7 +24181,7 @@
  {
   "id": "mathilda_nilsd53_gras",
   "name": "Mathilda Nilsdotter (f. 1853 Gräsmark; gift med Anders Andersson f. 1848, Nedre Ullerud)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24695,7 +24697,7 @@
  {
   "id": "betty_a1854",
   "name": "Betty Andersdotter (Olof Perssons hustru)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24935,7 +24937,7 @@
  {
   "id": "gustaf_eklund69",
   "name": "Gustaf Persson Eklund (f. 1869, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25136,7 +25138,7 @@
  {
   "id": "maria_olofsd_ec",
   "name": "Maria Olofsdotter (hustru till Olof Eriksson f. 1815)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25164,7 +25166,7 @@
  {
   "id": "betty_ec_1850",
   "name": "Betty Olofsdotter/Eriksdotter (f. 1850)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25486,7 +25488,7 @@
  {
   "id": "al5_nils_lassesson99",
   "name": "Nils Larsson (Toltan, f. 1699)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25556,7 +25558,7 @@
  {
   "id": "kn_boda1815",
   "name": "Kristoffer Nilsson (Boda, g. 1841 med Maja Nilsdotter)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25622,7 +25624,7 @@
  {
   "id": "lovisa_carlsd_lene31",
   "name": "Lovisa Carlsdotter (g. 1857 med Jonas Nilsson, Lene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25695,7 +25697,7 @@
  {
   "id": "kn_nils1841",
   "name": "Nils Kristoffersson (f. 1841, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25723,7 +25725,7 @@
  {
   "id": "kn_kajsa1843",
   "name": "Kajsa Kristoffersdotter (f. 1843, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25764,7 +25766,7 @@
  {
   "id": "kn_annastina1845",
   "name": "Anna Stina Kristoffersdotter (f. 1845, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25801,7 +25803,7 @@
  {
   "id": "kn_johannes1848",
   "name": "Johannes Kristoffersson (f. 1848, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25834,7 +25836,7 @@
  {
   "id": "kn_carl1851",
   "name": "Carl Kristoffersson (f. 1851, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25867,7 +25869,7 @@
  {
   "id": "per_gustaf_nilsson_1846",
   "name": "Per Gustaf Nilsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25998,7 +26000,7 @@
  {
   "id": "maria_eriksdotter_1836_kc",
   "name": "Maria Eriksdotter (f. 1836, hustru till Kristoffer Eriksson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26205,7 +26207,7 @@
  {
   "id": "anders_andersson_1831_furtan",
   "name": "Anders Andersson (f. 1831, Västra Furtan)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26240,12 +26242,12 @@
  {
   "id": "anders_ak_1854",
   "name": "Anders Andersson (f. 1854)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1854",
-   "place": "Brunskog"
+   "date": "1854-02-11",
+   "place": "Ö. Takene, Brunskog"
   },
   "places": [
    "Västra Furtan, Brunskog"
@@ -26253,7 +26255,8 @@
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
    "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)",
-   "FOLKRÄKNING – TVÅ KANDIDATER för Anders Andersson f. 1854 i Brunskog (ej i faderns hushåll 1890): (A) Anders Andersson Nygren, banvakt, Hvittensten, Eda 1910, gift med Anna Kajsa Olsdotter f. 1858 Brunskog (barn Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 – födda i Eda); (B) Anders Andersson, ”måg” hos Britta Eriksdotter (f. 1832) i Årås, Sunne 1890, hemmansägare Årås Lobråten 1910, gift med Katrina Jansdotter f. 1856 Sunne (barn Axel 1884, Viktor 1887, Hulda Lavinia 1888, Anders Fritiof 1894, Ellen Teresia 1897). Båda har födelseår 1854 + födelseförsamling Brunskog; inget avgör vilken som är Karins son. Ingen av dem verified."
+   "FOLKRÄKNING – TVÅ KANDIDATER för Anders Andersson f. 1854 i Brunskog (ej i faderns hushåll 1890): (A) Anders Andersson Nygren, banvakt, Hvittensten, Eda 1910, gift med Anna Kajsa Olsdotter f. 1858 Brunskog (barn Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 – födda i Eda); (B) Anders Andersson, ”måg” hos Britta Eriksdotter (f. 1832) i Årås, Sunne 1890, hemmansägare Årås Lobråten 1910, gift med Katrina Jansdotter f. 1856 Sunne (barn Axel 1884, Viktor 1887, Hulda Lavinia 1888, Anders Fritiof 1894, Ellen Teresia 1897). Båda har födelseår 1854 + födelseförsamling Brunskog; inget avgör vilken som är Karins son. Ingen av dem verified.",
+   "Dop Brunskog C I/5 b.47 nr 13."
   ],
   "sources": [
    {
@@ -26280,12 +26283,12 @@
  {
   "id": "maria_ak_1856",
   "name": "Maria Andersdotter (f. 1856)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1856",
-   "place": "Brunskog"
+   "date": "1856-03-08",
+   "place": "V. Furtan, Brunskog"
   },
   "places": [
    "Västra Furtan, Brunskog"
@@ -26293,7 +26296,8 @@
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
    "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1856 Brunskog)",
-   "FOLKRÄKNING 1900/1910/1930: Maria Andersdotter f. 1856 i Brunskog, ”h.” (hustru) till Anders Nilsson f. 1855 i Boda, Frykerud (Qvarntorp 1900, Klaxås 1910, Lene Hagalund 1930). Vigselår 1899 / inflyttad 1898 från Brunskog enl. 1930 – barnen f. 1881–97 är därför troligen makens barn från tidigare äktenskap (eller födda före giftet); identifiering av Maria som Anders/Karins dotter = candidate (namn+år+födelseförsamling, ingen uttrycklig föräldrapost)."
+   "FOLKRÄKNING 1900/1910/1930: Maria Andersdotter f. 1856 i Brunskog, ”h.” (hustru) till Anders Nilsson f. 1855 i Boda, Frykerud (Qvarntorp 1900, Klaxås 1910, Lene Hagalund 1930). Vigselår 1899 / inflyttad 1898 från Brunskog enl. 1930 – barnen f. 1881–97 är därför troligen makens barn från tidigare äktenskap (eller födda före giftet); identifiering av Maria som Anders/Karins dotter = candidate (namn+år+födelseförsamling, ingen uttrycklig föräldrapost).",
+   "Dop Brunskog C I/5 b.64."
   ],
   "sources": [
    {
@@ -26320,12 +26324,12 @@
  {
   "id": "anna_ak_1859",
   "name": "Anna Andersdotter (f. 1859)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1859",
-   "place": "Brunskog"
+   "date": "1859-11-20",
+   "place": "V. Furtan, Brunskog"
   },
   "places": [
    "Västra Furtan, Brunskog"
@@ -26333,7 +26337,8 @@
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
    "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1859 Brunskog)",
-   "FOLKRÄKNING 1900 Årnäs, Brunskog: Anna Andersdotter f. 1859 i Brunskog, ”h.” till fabriksarbetaren Johan Jonasson (f. 1852 Brunskog); dotter Gerda f. 1897. Identifiering som Anders/Karins dotter = candidate (namn+år+födelseförsamling). I samma gård (fam 1) bor Anders Andersson f. 1825 och Anna Nilsdotter f. 1829 samt Nils Haage f. 1857 – ej bekräftat släkt."
+   "FOLKRÄKNING 1900 Årnäs, Brunskog: Anna Andersdotter f. 1859 i Brunskog, ”h.” till fabriksarbetaren Johan Jonasson (f. 1852 Brunskog); dotter Gerda f. 1897. Identifiering som Anders/Karins dotter = candidate (namn+år+födelseförsamling). I samma gård (fam 1) bor Anders Andersson f. 1825 och Anna Nilsdotter f. 1829 samt Nils Haage f. 1857 – ej bekräftat släkt.",
+   "Dop Brunskog C I/5 b.95."
   ],
   "sources": [
    {
@@ -26487,7 +26492,7 @@
  {
   "id": "britta_jonasdotter_1831_jec",
   "name": "Britta Jonasdotter (f. 1831, Boda; hustru till Jonas Ersson)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26518,19 +26523,20 @@
  {
   "id": "erik_johan_jec_1857",
   "name": "Erik Johan Jonsson (f. 1857)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1857",
-   "place": "Boda"
+   "date": "1857-05-18",
+   "place": "Nordsjö, Boda"
   },
   "places": [
    "Nordsjö, Boda"
   ],
   "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
   "notes": [
-   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1857 Boda"
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1857 Boda",
+   "Dop C I/3 b.105: 18/21 maj 1857."
   ],
   "sources": [
    {
@@ -26545,19 +26551,20 @@
  {
   "id": "maria_jec_1859",
   "name": "Maria Jonsdotter (f. 1859)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1859",
-   "place": "Boda"
+   "date": "1859-10-01",
+   "place": "Nordsjö, Boda"
   },
   "places": [
    "Nordsjö, Boda"
   ],
   "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
   "notes": [
-   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1859 Boda"
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1859 Boda",
+   "Dop C I/5 (Boda) b.14: 1/2 okt 1859."
   ],
   "sources": [
    {
@@ -26680,7 +26687,7 @@
  {
   "id": "milla_fagerheim73",
   "name": "Milla Gudbrandsdotter Fagerheim (f. 1873, Ringsaker, Norge)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26937,7 +26944,7 @@
  {
   "id": "august_jansson62",
   "name": "August Jansson (f. 1862, Gryttom/Wikene, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Hemmansägare i Wikene, Brunskog; gift med Maria Olsdotter f. 1866. Troligen samma person som sonen August (f. 1862) i Jan Elofssons hushåll 1880.",
@@ -27219,7 +27226,7 @@
  {
   "id": "anders_janson77",
   "name": "Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Troligen sonen Anders f. 1877 i Jan Elofssons hushåll. Fodermarsk i Stockholm 1900; bodde i Lübeck före 1913; gift 1913 med Emilia Kristina Wilhelmina Nilson f. 1880; förrådsföreståndare i Råsunda, Solna 1930.",
@@ -27261,7 +27268,7 @@
  {
   "id": "emilia_nilson80",
   "name": "Emilia Kristina Wilhelmina Nilson (f. 1880 Stockholm)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Hustru (gift 1913) till Anders Janson f. 1877 (Brunskog); dotter till urmakaren Anders Nilsson f. 1846 (Brunskog) enligt hushållsuppgifter 1900 (ej uttrycklig familjeställning utläst).",
@@ -27290,7 +27297,7 @@
  {
   "id": "malin_olsd26",
   "name": "Malin Olsdotter (f. 1826 Mangskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Hustru till Jonas Elofsson f. 1821 (Ö. Takene) 1880.",
@@ -27317,7 +27324,7 @@
  {
   "id": "per_adamsson16",
   "name": "Per Adamsson (f. 1816 Boda), åbo Nolby",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Åbo i Nolby, Brunskog 1880; gift med Britta Elofsdotter f. 1824 (dotter till Elof Persson, Ö. Takene).",
@@ -27344,13 +27351,14 @@
  {
   "id": "johannes_pa50",
   "name": "Johannes Persson (Adamsson) (f. 1850)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1850 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
-   "FOLKRÄKNING 1900/1910 Finnebäck (Brunskog): hemmansägare, gift med Britta Olsdotter f. 1853; barn Anna Amalia 1891, Olof Arvid 1893."
+   "FOLKRÄKNING 1900/1910 Finnebäck (Brunskog): hemmansägare, gift med Britta Olsdotter f. 1853; barn Anna Amalia 1891, Olof Arvid 1893.",
+   "Dop C I/3 b.87: 10/14 okt 1850."
   ],
   "sources": [
    {
@@ -27367,8 +27375,8 @@
    }
   ],
   "born": {
-   "date": "1850",
-   "place": "Boda"
+   "date": "1850-10-10",
+   "place": "Nordsjö, Boda"
   },
   "places": [
    "Nolby, Brunskog"
@@ -27545,7 +27553,7 @@
  {
   "id": "per_svensson21",
   "name": "Per Svensson (f. 1821 Boda), inhyses Högboda",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Inhyses i Högboda, Boda 1880–1890; gift med Ingegerd Elofsdotter f. 1829 (dotter till Elof Persson, Ö. Takene).",
@@ -27577,12 +27585,13 @@
  {
   "id": "august_ps56",
   "name": "August Persson Svensson (f. 1856, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Boda Högboda sida 23: August f. 1856 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn)."
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: August f. 1856 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn).",
+   "Dop C I/3 b.102: ’30 | 1/6’, månad (maj) och faderns förnamn Per något osäkra."
   ],
   "sources": [
    {
@@ -27591,8 +27600,8 @@
    }
   ],
   "born": {
-   "date": "1856",
-   "place": "Boda"
+   "date": "1856-05-30",
+   "place": "N. Boda"
   },
   "places": [
    "Högboda, Boda"
@@ -27604,13 +27613,14 @@
  {
   "id": "emil_ps59",
   "name": "Emil Persson Svensson (f. 1859, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Boda Högboda sida 23: Emil f. 1859 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn).",
-   "FOLKRÄKNING 1890 Högboda sida 20 rad 48: Persson, Emil f. 1859 i Boda, arbetare, inhys., ogift, ensamstående (sannolikt samma person). Lead: 1900 Visby Södervärn 10 sida 105 rad 39: Persson, Emil f. 1859 Boda, Snickare, ogift (Folk_114691172)."
+   "FOLKRÄKNING 1890 Högboda sida 20 rad 48: Persson, Emil f. 1859 i Boda, arbetare, inhys., ogift, ensamstående (sannolikt samma person). Lead: 1900 Visby Södervärn 10 sida 105 rad 39: Persson, Emil f. 1859 Boda, Snickare, ogift (Folk_114691172).",
+   "Dop C I/5 (Boda) b.13: 12/14 aug 1859. (1880-posten i Per Adamssons hushåll har en annan Emil f. 1858.)"
   ],
   "sources": [
    {
@@ -27623,8 +27633,8 @@
    }
   ],
   "born": {
-   "date": "1859",
-   "place": "Boda"
+   "date": "1859-08-12",
+   "place": "Högboda, Boda"
   },
   "places": [
    "Högboda, Boda"
@@ -27696,7 +27706,7 @@
  {
   "id": "anders_olsson31",
   "name": "Anders Olsson (f. 1831 Brunskog), hemmansägare Ö. Takene",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Hemmansägare på Ö. Takene; gift med Stina Elofsdotter (f. 1835); död 1890–1900 (Stina änka 1900).",
@@ -27704,7 +27714,8 @@
    "FOLKRÄKNING 1880 Ö. Takene sida 29 rad 10–16, fam. nr 1: Olsson, Anders f. 1831 i Brunskog, Hemmansägare; hustru Elofsdotter, Stina f. 1835 (Familjeställning ”h.”); barn Olof 1861, Emil 1863, Maria 1868, Johannes 1873, Anna Lisa 1876.",
    "FOLKRÄKNING 1890 Takene sida 23 rad 31–35: Olsson, Anders f. 1831, hem.eg.; hustru Stina; barn Maria, Johannes, Anna Lisa. Före 1900 död (1900: Stina änka).",
    "DOP 8/3 1831 (C I/3 b.185): ”Anders, Ö. Takene – Olof Olsson, Kjerstin Olsdr”. HUSFÖRHÖR A I/17 b.144 (s.126, Ö. Takene): ”Son Anders 8/3 31 loco” i hushållet inhyses Olof Nilsson [sic] f. 6/2 1793 + Marit Olsdr f. 10/1 1802. Fadern är alltså Olof f. 1793 – inte Olof f. 1804 (d. 1896). Obs: ytterligare en Anders Olsson f. 1831 Brunskog (arrendator Gullsby 1880, hyresgäst/fjärdingsman Wikene 1890/1900, hustru Lovisa Jonasdotter f. 1839 Grava) – identiteten mellan dessa Anders och Takene-Anders (Stinas make) har inte prövats mot husförhör efter 1835.",
-   "Äldre Anders Olofsson/Olsson f. 10/12 1829 (dop 9/12 1829 C I/3 b.180: Olof Olsson/Ingierd Nilsdr) är son till ”Bonde äldre” Olof Olsson 4/6 1799 + Ingierd Nilsdr 24/11 1793 (A I/17 b.142, s.124) – en annan Anders."
+   "Äldre Anders Olofsson/Olsson f. 10/12 1829 (dop 9/12 1829 C I/3 b.180: Olof Olsson/Ingierd Nilsdr) är son till ”Bonde äldre” Olof Olsson 4/6 1799 + Ingierd Nilsdr 24/11 1793 (A I/17 b.142, s.124) – en annan Anders.",
+   "Dop C I/3 b.187: född 1/11, döpt 2/11 1831, föräldrar Olof Nilsson och Marit Olsdr. Datumet 8/3 1831 (b.185) tillhör en annan Anders från Fösked (Olof Olsson/Kjerstin Olsdr). Fadern ao4_olof_olsson93 heter Nilsson (Olof Nilsson f. 6/2 1793), inte Olsson."
   ],
   "sources": [
    {
@@ -27725,9 +27736,8 @@
    }
   ],
   "born": {
-   "date": "1831-03-08",
-   "place": "Ö. Takene, Brunskog",
-   "note": "dop 8/3 1831 C I/3 b.185 och husförhör A I/17 b.144 (8/3 31)"
+   "date": "1831-11-01",
+   "place": "Ö. Takene, Brunskog"
   },
   "places": [
    "Ö. Takene, Brunskog"
@@ -28044,7 +28054,7 @@
  {
   "id": "jan_petter_larsson56",
   "name": "Jan Petter Larsson (f. 1856, Botilsäter)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28271,7 +28281,7 @@
  {
   "id": "jo_johannes_eriksson",
   "name": "Johannes Eriksson (f. 1848, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28337,7 +28347,7 @@
  {
   "id": "jo_hulda_maria81",
   "name": "Hulda Maria Johannesdotter (f. 1881, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28556,7 +28566,7 @@
  {
   "id": "ao4_olof_olsson93",
   "name": "Olof Olsson (f. 6/2 1793), inhyses Ö. Takene",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28570,7 +28580,8 @@
   "summary": "Inhyses på Ö. Takene 1831–35; far till Anders (f. 8/3 1831) enligt dop och husförhör. Skrivs ”Olof Nilsson” i A I/17 men barnen ”Olsson”. Ej Olof f. 1804.",
   "notes": [
    "HUSFÖRHÖR A I/17 b.144 (s.126): ”inhy. Olof Nilsson 6/2 93 loco; hust. Marit Olsdr 10/1 02 loco; Son Nils Olsson 1823 (överstruken, död 18/8 32); Son Olof 25; Son Per 1830? (död 2/7 32); Son Anders 8/3 31 loco; Dotter Lisa 7/2 34 loco”. Mors namn Marit i husförhöret men Kjerstin i dopet 8/3 1831.",
-   "Husförhör A I/17 b.144 anger ”Olof Nilsson 6/2 93” (tydligt Nilsson), vår post har Olsson – kontrollera patronymikon."
+   "Husförhör A I/17 b.144 anger ”Olof Nilsson 6/2 93” (tydligt Nilsson), vår post har Olsson – kontrollera patronymikon.",
+   "Namnet bör vara Olof Nilsson (både husförhör A I/17 b.144 och dopposterna 1825/1831/1834 ger patronymikon Nilsson)."
   ],
   "sources": [
    {
@@ -28589,7 +28600,7 @@
  {
   "id": "ao4_marit_olsd02",
   "name": "Marit Olsdotter (f. 10/1 1802), Ö. Takene",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28616,19 +28627,20 @@
  {
   "id": "ao4_olof_olsson25",
   "name": "Olof Olsson (f. 1825), Ö. Takene",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": null,
   "born": {
-   "date": "1825",
-   "place": "Brunskog"
+   "date": "1825-09-07",
+   "place": "Ö. Takene, Brunskog"
   },
   "places": [
    "Ö. Takene"
   ],
   "summary": "Son i Olof f. 1793:s hushåll (A I/17 b.144). Äldre bror till Anders f. 1831.",
   "notes": [
-   "A I/17 b.144: ”Son Olof 25 loco”. Senare öde ej utrett."
+   "A I/17 b.144: ”Son Olof 25 loco”. Senare öde ej utrett.",
+   "Dop C I/3 b.166 nr 72: född 7/9, döpt 11/9 1825, ’Olof Takenetorp’, G. Dr Olof Nilsson, Marit Olsdr."
   ],
   "sources": [
    {
@@ -28643,7 +28655,7 @@
  {
   "id": "ao4_lisa_olsd34",
   "name": "Lisa Olsdotter (f. 7/2 1834), Ö. Takene",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": null,
   "born": {
@@ -28670,7 +28682,7 @@
  {
   "id": "ao4_brita_nilsd02",
   "name": "Brita Nilsdotter (f. 1802), Ö. Takene",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29012,7 +29024,7 @@
  {
   "id": "betty_j1853_skog",
   "name": "Betty Jansdotter (f. 1853, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29066,7 +29078,7 @@
  {
   "id": "anna_charlotta_n63",
   "name": "Anna Charlotta Nilsdotter (f. 1863, g. Emil Persson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29524,7 +29536,7 @@
  {
   "id": "johan_nilsson57_takene",
   "name": "Johan Nilsson (f. 1857, Takene, g. Kristina Persdotter)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29624,7 +29636,7 @@
  {
   "id": "betty_persson70_berggren",
   "name": "Betty Persson, g. Berggren (f. 1870, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29651,7 +29663,7 @@
  {
   "id": "elin_engstrom86_berggren",
   "name": "Elin Engström, g. Berggren (f. 1886, Stavnäs)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29813,7 +29825,7 @@
  {
   "id": "karljohansson71_pa",
   "name": "Karl Johansson (f. 1871, Stavnäs), hemmansägare Norra Näs",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -30309,7 +30321,7 @@
  {
   "id": "tilda_jansson_z",
   "name": "Tilda Jansson (g. Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30336,7 +30348,7 @@
  {
   "id": "gerda_brandt_z",
   "name": "Gerda Karolina Brandt (g. Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30498,7 +30510,7 @@
  {
   "id": "stina_bryntesdotter_z",
   "name": "Stina Bryntesdotter (g. Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -30579,7 +30591,7 @@
  {
   "id": "anna_maria_gustafsson_z",
   "name": "Anna Maria Gustafsson (g. Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31038,7 +31050,7 @@
  {
   "id": "wendela_olivia_nilsson_z",
   "name": "Wendela Olivia Nilsson (g. Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31421,7 +31433,7 @@
  {
   "id": "anna_brunzell_1869",
   "name": "Anna Brunzell (f. 1869 Mångskog), g. Persson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31448,7 +31460,7 @@
  {
   "id": "karin_nilsd65_ekc",
   "name": "Karin Nilsdotter (f. 1865, g. m. Erik Kristoffersson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31546,7 +31558,7 @@
  {
   "id": "jenny_elfrida_johansson_1894",
   "name": "Jenny Elfrida Johansson (f. 1894)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31826,7 +31838,7 @@
  {
   "id": "rut_signe_vikner_1908",
   "name": "Rut Signe Helena Vikner (f. 1908)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31901,7 +31913,7 @@
  {
   "id": "alma_karolina_olsson_1896",
   "name": "Alma Karolina Olsson (f. 1896)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31953,7 +31965,7 @@
  {
   "id": "anders_nilsson_1855_boda_frykerud",
   "name": "Anders Nilsson (f. 1855, Boda; Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32123,7 +32135,7 @@
  {
   "id": "johan_jonasson_1852_aak",
   "name": "Johan Jonasson (f. 1852, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32497,7 +32509,7 @@
  {
   "id": "britta_eriksdotter_1832_sunne",
   "name": "Britta Eriksdotter (f. 1832, Sunne)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33032,7 +33044,7 @@
  {
   "id": "alma_maria_alfredsson_1883",
   "name": "Alma Maria Alfredsson (f. 1883, Grava)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33092,7 +33104,7 @@
  {
   "id": "ap5_karl_nystrom62",
   "name": "Karl Nyström (f. 1862, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33119,7 +33131,7 @@
  {
   "id": "ap5_kjerstin_andersson59",
   "name": "Kjerstin Andersson (f. 1859, Värmskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33281,7 +33293,7 @@
  {
   "id": "ap5_karlalgot_wiman95",
   "name": "Karl Algot Wiman (f. 1895, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33308,7 +33320,7 @@
  {
   "id": "ap5_arvida_svensson00",
   "name": "Arvida Svensson (f. 1900, Borås)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33632,7 +33644,7 @@
  {
   "id": "ap5_brittakajsa_olsd59",
   "name": "Britta Kajsa Olsdotter (f. 1859, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33755,7 +33767,7 @@
  {
   "id": "ap5_elincharlotta_olsson86",
   "name": "Elin Charlotta Olsson (f. 1886, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33809,7 +33821,7 @@
  {
   "id": "ap5_anders_andersson26",
   "name": "Anders Andersson (f. 1826, Boda), hemmansägare Renstad",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33836,7 +33848,7 @@
  {
   "id": "ap5_kajsa_olsd26",
   "name": "Kajsa Olsdotter (f. 1826, Boda), Renstad",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33899,19 +33911,20 @@
  {
   "id": "ap5_anna_eriksd56",
   "name": "Anna Eriksdotter (f. 1856, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1856",
-   "place": "Boda"
+   "date": "1856-10-14",
+   "place": "Renstad, Boda"
   },
   "places": [
    "Renstad, Boda"
   ],
   "summary": "Hustru till Karl Gustaf Andersson (f. 1863), Renstad, Boda; mor till Hedvig Kristina (1886) och Karl August (1890).",
   "notes": [
-   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 12–13, Folk_109943870): ”Eriksdotter, Anna f. 1856 Boda” i hushållet Karl Gustaf Andersson f. 1863 (gift); 1910 samma (Folk_125553551). Familjeställning ej utläst."
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 12–13, Folk_109943870): ”Eriksdotter, Anna f. 1856 Boda” i hushållet Karl Gustaf Andersson f. 1863 (gift); 1910 samma (Folk_125553551). Familjeställning ej utläst.",
+   "Dop C I/3 b.103: 14/18 okt 1856; moderns ålder 31 i dopboken (Stina f. 1819 = 37)."
   ],
   "sources": [
    {
@@ -33980,7 +33993,7 @@
  {
   "id": "ap5_erik_jansson18",
   "name": "Erik Jansson (f. 1818, Östra Ämtervik)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34007,7 +34020,7 @@
  {
   "id": "ap5_stina_svensd19",
   "name": "Stina Svensdotter (f. 1819, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34831,7 +34844,7 @@
  {
   "id": "aq1_nils_nilsson51",
   "name": "Nils Nilsson (f. 1851 Brunskog), hemmansegare Toltan",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34858,7 +34871,7 @@
  {
   "id": "aq1_betty_andersd57",
   "name": "Betty Andersdotter (f. 1857 Brunskog), g. Nils Nilsson Toltan",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35141,7 +35154,7 @@
  {
   "id": "aq2_gerda_katarina_augustsson_1897",
   "name": "Gerda Katarina Augustsson (f. 1897, Brunskog), g. Olofsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35216,7 +35229,7 @@
  {
   "id": "aq2_johan_olsson_1858_takene",
   "name": "Johan Olsson (f. 1858, Brunskog; Takene Östra)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35241,7 +35254,7 @@
  {
   "id": "aq2_maria_andersdotter_1857_takene",
   "name": "Maria Andersdotter (f. 1857, Brunskog; g. Olsson, Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35466,7 +35479,7 @@
  {
   "id": "aq2_anders_andersson_1816_nordsjo",
   "name": "Anders Andersson (f. 1816, Frykerud; Nordsjö, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35491,7 +35504,7 @@
  {
   "id": "aq2_anna_andersdotter_1818_nordsjo",
   "name": "Anna Andersdotter (f. 1818, Brunskog; Nordsjö, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35566,7 +35579,7 @@
  {
   "id": "aq2_inga_stina_andersdotter_1851",
   "name": "Inga Stina Andersdotter (f. 1851; Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35816,7 +35829,7 @@
  {
   "id": "aq3_gerda_goransson85",
   "name": "Gerda Ottilia Göransson (f. 1885, Grava)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36011,7 +36024,7 @@
  {
   "id": "aq3_emanuel_johannesson44",
   "name": "Emanuel Johannesson (f. 1844, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36038,7 +36051,7 @@
  {
   "id": "aq3_kajsa_gudmundsd50",
   "name": "Kajsa Gudmundsdotter (f. 1850, Östra Ämtervik)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36211,7 +36224,7 @@
  {
   "id": "aq3_karlemil_nilsson68",
   "name": "Karl Emil Nilsson (f. 1868, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36292,7 +36305,7 @@
  {
   "id": "aq3_hulda_nilsson90",
   "name": "Hulda Paulina Nilsson (f. 1890, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36594,7 +36607,7 @@
  {
   "id": "aq5_kari_mansd53_skog",
   "name": "Kari Månsdotter (f. 1753, Skog; hustru till Anders Arnesson 1805–09)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36770,7 +36783,7 @@
  {
   "id": "as1_olof_jonsson_1840_skogshaget",
   "name": "Olof Jönsson (Östra Skogshaget, f. 1840)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36797,7 +36810,7 @@
  {
   "id": "as1_maria_persdotter_1844_skogshaget",
   "name": "Maria Persdotter (Östra Skogshaget, f. 1844)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36851,7 +36864,7 @@
  {
   "id": "as1_per_olofsson_1824_svartana",
   "name": "Per Olofsson (Svartåna, inhyses, f. 1824)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36878,7 +36891,7 @@
  {
   "id": "as1_stina_nilsdotter_1830_svartana",
   "name": "Stina Nilsdotter (Svartåna, f. 1830, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36905,7 +36918,7 @@
  {
   "id": "as1_anders_persson_1830_nolbystegen",
   "name": "Anders Persson (Östra Nolbystegen, f. 1830)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36932,7 +36945,7 @@
  {
   "id": "as1_maria_jonsdotter_1828_nolbystegen",
   "name": "Maria Jonsdotter (Östra Nolbystegen, f. 1828)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36959,7 +36972,7 @@
  {
   "id": "as1_olof_andersson_lyckan_svartana",
   "name": "Olof Andersson (Lyckan, Svartåna)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36987,7 +37000,7 @@
  {
   "id": "as1_ingegard_olsdotter_1832_lyckan",
   "name": "Ingegärd Olsdotter (Lyckan, Svartåna, f. 1832)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -37071,7 +37084,7 @@
  {
   "id": "as1_maria_persdotter_1839_svartana",
   "name": "Maria Persdotter (Där Nole, Svartåna, f. 1839)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -37125,7 +37138,7 @@
  {
   "id": "as1_olof_jansson_gunnarsbytorp",
   "name": "Olof Jansson (Skog/Gärde, f. Gunnarsbytorp)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -37153,7 +37166,7 @@
  {
   "id": "as1_brita_nilsdotter_1839_skog",
   "name": "Brita Nilsdotter (Skog/Gärde, f. 1839, Toltan)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
