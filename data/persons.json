@@ -1897,7 +1897,9 @@
    "HUSFÖRHÖR A I/37 bild 168 (fol. 172), ”Lyckan” (Östra Takene): ”Eg. Olof Elofsson 26 26/11 Takene [= 1826-11-26]; H. Kajsa Jansdotter 26 9/6 Boda [= 1826-06-09]; Johan, Kommissionär 50 19/11 Takene [= 1850-11-19]; hr Anna Nilsd. 70 2/4 [= 1870-04-02]”. Johans flyttnotering: ”95/6 el. Anna Nilsd 188?” (ej Amerika).",
    "TIDNING (KB tidningar, träfftext, ej primärkälla för släktskap): 1887-01-05 Karlstadstidningen s.2 och Arvika tidning 1887-01-08 s.2: 'kyrkovärden Olof Elofsson i Takene' talar mot tull på spannmål (sockenstämma Brunskog). 1887-04-13 Karlstadstidningen s.2: 'Olof Elofsson i Takene, 167 röster' vald elektor; Kristinehamnstidningen 1887-05-12 s.3: 'Elektorerna Olof Elofsson och Kristoffer Eriksson i Östra Takene af Brunskogs s:n'. 1887-04-16 Arvika tidning s.2: elektorer 'Olof Elofsson i Takene, K. Elofsson i Takene' (K. Elofsson ej identifierad – möjligen släkting).",
    "TIDNING: 1890-08-26 Nya Wermlandstidningen s.2 och 1891-01-07/09/10 (Wermländingen s.2, Arvika tidning s.3, Nya Wermlandstidningen s.3): 'förre kyrkovärden Olof Elofsson i Takene' återvald till godeman vid skiftesförrättningar – dvs. han var ej längre kyrkvärd 1890/91.",
-   "TIDNING: 1894-12-01 Karlstadstidningen s.2 (även Karlstadstidningen Veckoupplagan 1894-12-05, Södermanlands nyheter 1894-12-03, Örnsköldsviks nyheter 1894-12-08): 'af en veranda hos kyrkovärden Olof Elofsson i Takene, Brunskog' (yxa/Amerikanotis om senator i Amerika) – titeln 'kyrkovärd' används åter 1894. 1895-06-18/19 Arvika tidning, Karlstadstidningen: annons 'utgifven af Olof Elofsson i Takene den 3 April 1891 å 500' (skuldebrev/revers)."
+   "TIDNING: 1894-12-01 Karlstadstidningen s.2 (även Karlstadstidningen Veckoupplagan 1894-12-05, Södermanlands nyheter 1894-12-03, Örnsköldsviks nyheter 1894-12-08): 'af en veranda hos kyrkovärden Olof Elofsson i Takene, Brunskog' (yxa/Amerikanotis om senator i Amerika) – titeln 'kyrkovärd' används åter 1894. 1895-06-18/19 Arvika tidning, Karlstadstidningen: annons 'utgifven af Olof Elofsson i Takene den 3 April 1891 å 500' (skuldebrev/revers).",
+   "FOLKRÄKNING 1880 Ö. Takene sida 26 rad 34: ”Elofsson, Olof f. 1826 Brunskog, Hemmansägare” + Kajsa Jansdotter f. 1826 Boda + Johan f. 1850 + Maria f. 1863 (inga fler barn i hushållet).",
+   "FOLKRÄKNING 1900 Takene Östra sida 30: Olof har Familjeställning ”fader” i sonen Johan Olssons (f. 1850) hushåll; hustrun Kajsa med. Ingen Amerikautvandring syns i hushållen."
   ],
   "sources": [
    {
@@ -1958,6 +1960,18 @@
    {
     "label": "KB Svenska tidningar, Karlstadstidningen 1894-12-01 s.2: 'af en veranda hos kyrkovärden Olof Elofsson i Takene, Brunskog' (sökträff 'Olof Elofsson Takene')",
     "url": "https://tidningar.kb.se/search?from=1880-01-01&to=1911-12-31&q=%22Olof%20Elofsson%22%20Takene&searchGranularity=part"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Ö. Takene): Elofsson, Olof f. 1826 Brunskog, Hemmansägare, gift; Kajsa Jansdotter f. 1826 Boda; Johan 1850; Maria 1863",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423108&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Brunskog Takene): Olof f. 1826 Hem.egare; Kajsa; Johan 1850; (Fam 2) Olof August Johannesson 1857 Boda + Maria Olsdotter 1863",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598051&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Brunskog Östra Takene): Fam nr 2: Elofsson, Olof f. 1826 (Familjeställning ”fader”), Kajsa Jansdotter f. 1826 Boda; i Johan Olssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938081&tab=post"
    }
   ],
   "search": [
@@ -3973,6 +3987,10 @@
    {
     "label": "KB sökning kommissionär ”Johan Olsson” Takene (71 sidor)",
     "url": "https://tidningar.kb.se/search?from=1850-01-01&to=1911-12-31&q=kommission%C3%A4r%20%22Johan%20Olsson%22%20Takene&searchGranularity=part"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Brunskog Östra Takene): Olsson, Johan f. 1850 Hemmansegare; Anna Nilsdotter f. 1870; Olof Gunnar 1897",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938081&tab=post"
    }
   ],
   "search": [
@@ -3983,7 +4001,8 @@
    "Jan Källne (JOO-historia): ”JO” var bokhållare, först lokalt, sedan i Karlstad och från 1891 kommissionär; gifte sig 1895 med Anna från Gata och bodde på Lycka S (Lycka 41); flyttade 1905 till Arvika. Jans morfar.",
    "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): ”Son Johannes” f. 11/1850 hos Olof Elofsson och Cajsa Jansdotter.",
    "TIDNINGAR (KB): ”kommissionär Johan Olsson, Takene” (stavning Olsson) är suppleant/revisor/skolråds-/kyrkorådsledamot i Brunskogs församling 1899-12-13 (Karlstadstidningen Veckoupplagan), 1900-12-11 (Arvika tidning s.3: ”kommissionären Joh. Olsson, Takene”), 1901-05-24/29 och 1905-12-20 (Karlstadstidningen Veckoupplagan: ”skolrådet för år 1906 efter kommissionär Johan Olsson i Takene valdes handl. Anders Persson”). Passar Jan Källnes uppgift: kommissionär sedan 1891, flyttade 1905 till Arvika. Notisen 1899 om brand i en handelsbod i Takene (Arvika nyheter 1899-03-24/05-12) nämner arrendatorn ”Johan Olsson, Takene” – ej kopplad till JO säkert. Namnet Olsson i stället för Olofsson = tidningens patronymikon-variation; identiteten är mycket trolig men inte bevisad.",
-   "Arvika allehanda 1892-11-11 s.2 (lista): ”Johan Olsson, Takene” bland valda/röstande 1892."
+   "Arvika allehanda 1892-11-11 s.2 (lista): ”Johan Olsson, Takene” bland valda/röstande 1892.",
+   "FOLKRÄKNING 1900 Takene Östra (Folk_109938081): Olsson, Johan f. 1850 Brunskog, Hemmansegare, gift med Nilsdotter, Anna f. 1870; son Olof Gunnar f. 1897; fadern Olof Elofsson (Familjeställning ”fader”) bor i hushållet."
   ],
   "timeline": [
    [
@@ -4672,10 +4691,21 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): Elofsson, Jan f. 1819 Brunskog, Hemmansägare, gift; Jonsdotter, Kajsa f. 1835; August 1862; Anders 1877",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Brunskog Finnebäck): Elofsson, Jan f. 1819, hemmansegare, änkling; Anders 1877",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597209&tab=post"
    }
   ],
   "search": [
    "Jan Elofsson"
+  ],
+  "notes": [
+   "FOLKRÄKNING 1880 Brunskog, Finnebäck, sida 5 rad 18: hustru ”Jonsdotter, Kajsa, f. 1835” (ej Maria Persdotter); barn August f. 1862, Anders f. 1877. 1890 änkling, sida 4 rad 24, med Anders 1877."
   ]
  },
  {
@@ -14957,7 +14987,9 @@
    "FOLKRÄKNING 1900 Brunskog, Gullsbyn, s. 15: 'Nilsson, August, f. 1855 i Brunskog, Hemmansegare'; Hanna Elisabet f. 1889 har familjeställning 'hans d.'. Hustru Stina Jansdotter f. 1847; barn Anna Maria 1885 (f. Uppsala), Nils Ejnar 1887, Hanna Elisabet 1889.",
    "HUSFÖRHÖR A I/25 bild 172 och A I/27 bild 174: August 22/4 55 som ”Son” hos Nils Jansson och Britta Olsdotter i Svartåna & Nytorp (Ö. Takene). Syskon: Maja Cajsa 1849, Johan 1851, Anna Charlotta 1858.",
    "HUSFÖRHÖR A I/37 bild 223 (fol. 229, Svartåna): ”August Nilsson (enk.) 55 22/4 Svartåna; Johan Albin 83 27/7 Uppsala; Anna Maria 85 21/7 Uppsala; Nils Einar 87 21/8 Svartåna; Hanna Elisabeth 89 12/12 Svartåna”. Remark: ”På hospital i Kristinehamn, utskriven d. 24/5 1893”; flytt ”N.B. 282”. Ingen Amerikanotering före 1895 (Albin/Nils Einar emigrerar 1903 – senare volym).",
-   "HUSFÖRHÖR A II a/1 (E1): August Nilsson f. 22/4 1855 Brunskog (”L.”), änkling sedan 17/12 1889 (hustrun Maria Katrina död), omgift ”97 30/12” (30 dec 1897) med Stina Jansdotter f. 1/3 1847. Bodde Svartåna sida 282 (bild 292) till 5/11 1898 då hushållet flyttade till Gullsby ”Ängen” sida 144 (bild 154). Anteckning bild 292: ”97 3/12 l.c.ä. m. Stina Jansd., 144. utskiften fr. hospitalet i Kfhn 24/5 98” (svårläst)."
+   "HUSFÖRHÖR A II a/1 (E1): August Nilsson f. 22/4 1855 Brunskog (”L.”), änkling sedan 17/12 1889 (hustrun Maria Katrina död), omgift ”97 30/12” (30 dec 1897) med Stina Jansdotter f. 1/3 1847. Bodde Svartåna sida 282 (bild 292) till 5/11 1898 då hushållet flyttade till Gullsby ”Ängen” sida 144 (bild 154). Anteckning bild 292: ”97 3/12 l.c.ä. m. Stina Jansd., 144. utskiften fr. hospitalet i Kfhn 24/5 98” (svårläst).",
+   "FOLKRÄKNING 1880 Svartåna, sida 34 rad 2: ”Nilsson, August f. 1855 Brunskog, Inhyses”, gift, ”Andersdotter, Maria Katrina f. 1851 i Segerstad”; inga barn ännu i hushållet (Johan Albin f. 1883 kom efter).",
+   "FOLKRÄKNING 1890 Svartåna sida 27 rad 13: timmerman, änkling (Maria Katrina d. dec 1889); barn Johan Albin 1883 (Uppsala), Anna Maria 1885 (Uppsala), Nils Einar 1887, Hanna Elisabeth 1889. 1900 Gullsbyn gift med Stina Jansdotter f. 1847 (jfr relation). 1890 bodde även Per Nilsson f. 1843 (h:egare) i Svartåna, fam 1."
   ],
   "sources": [
    {
@@ -14995,6 +15027,22 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 154 (sida 144, Gullsby Ängen), rad 9: ”August Nilsson 55 22/4 L.”, in från 282 ”98 5/11”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00154"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Svartåna): Nilsson, August f. 1855 Brunskog, Inhyses, gift; hustru Andersdotter, Maria Katrina f. 1851 Segerstad",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423470&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Brunskog Svartåna): August f. 1855 timmerman, änkling; Johan Albin 1883 Uppsala, Anna Maria 1885 Uppsala, Nils Einar 1887, Hanna Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598332&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Brunskog Gullsbyn): August f. 1855 Hemmansegare; Stina Jansdotter f. 1847; Anna Maria 1885, Nils Ejnar 1887, Hanna Elisabet 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937341&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Brunskog Gullsby): August f. 1855 Hemmansägare; Stina Jansdotter f. 1847",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549205&tab=post"
    }
   ],
   "search": [
@@ -15224,6 +15272,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254: August Nilsson + Maria Katrina Andersd., gift 9/11 80",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Svartåna): Andersdotter, Maria Katrina f. 1851 i Segerstad, hustru i hushåll August Nilsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423470&tab=post"
    }
   ],
   "search": [
@@ -15243,7 +15295,8 @@
    "HUSFÖRHÖR Segerstad A I/20 bild 216 (fol. 236, Hanevik 1 Södra?): ”Maja Katrina Andersdotter 51 27/7 Sg” – inflyttad ”155 år 69” (piga); inga utflyttning noterad t.o.m. 1870. Utflyttning från Segerstad till Brunskog (187x) ej funnen i A I/21–22 (Hanevik-folio ej hittad; registren bild 7–9).",
    "HUSFÖRHÖR Brunskog A I/35 (C0036774) bild 254 (Ö. Takene, Svartåna): ”August Nilsson 55 22/4 Svartåna; Hu. Maria Katrina Andersd. 51 24/7 Segerstad”; Aktenskap-kolumnen ”9/11 80” (gift 9/11 1880, läst från bild); flyttad ”Uppsala 81 20/12” samt åter ”Uppsala 85 20/12”; hon ”Död 89 17/12”. Brunskogs vigselbok 1880 ligger utanför E I/3 (1784–1860) – ej digitaliserad i den volymen.",
    "K3 OMLÄST Segerstad A I/20 (C0038684): bild 149 (fol. 155, rubrik ”Hanevall (Ackerdi?) … Tolta?” – okänt ort; hustru ”Britta Kajsa Andersdotter (Stridsberg) 10 17/6 Sg” och i klammer ”Maja Katrina Andersd. 51[överstruket] 27/7 Sg”; inflyttad ”164 / 67” (från fol. 164, år 1867); utflyttad ”236 / 69” (till fol. 236, 1869); anm. ”Mannen Anders Persson, uppl.(?) – se fol 236”. Bild 216 (fol. 236, rubrik ”Hanevik 1 Sö[dra]”): ”Maja Katrina Andersdotter 51 27/7 Sd” [Sg], inflyttad ”155 / 69”, klammer mot raden över (pigor). OBS rubrikerna Hanevall/Hanevik bekräftade (läsning av rubrik osäker, Hanevik 1 ev. ’Hanevik 1 Sö’). Födelsedag i Segerstad = 27/7 (bekräftat båda bilder).",
-   "K3 OMLÄST Brunskog A I/35 bild 254 (Ö. Takene, Svartåna): rad 1 (överstruken) ”Inhyses August Nilsson 55 22/4 Svartåna; Hu. Maria Katrina Andersd. 51 24/7 Segerstad”, äktenskapskolumn med klammer ”9/11 80” (gift 9 nov 1880); utflyttad ”Upsala 81 20/12” (båda); rad 2 ”Arb. August Nilsson 55 22/4 Svartåna” inflyttad ”Upsala 85 [2?]/12” (dag 20/23/24 svårläst); Hu ”Maria Katrina Andersd. 51 24/7 Segerstad”; barn Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8 Svartåna, Hanna Elisabeth 89 12/12; hon ”Dog 89 17/12”; anm. på August-raden ”Vistas i Kristinehamn(?)”. Födelse 24/7 (Brunskog) skiljer sig från 27/7 (Segerstad, flera bilder) – dopbok/Segerstad väger tyngre; 24 ev. skrivfel."
+   "K3 OMLÄST Brunskog A I/35 bild 254 (Ö. Takene, Svartåna): rad 1 (överstruken) ”Inhyses August Nilsson 55 22/4 Svartåna; Hu. Maria Katrina Andersd. 51 24/7 Segerstad”, äktenskapskolumn med klammer ”9/11 80” (gift 9 nov 1880); utflyttad ”Upsala 81 20/12” (båda); rad 2 ”Arb. August Nilsson 55 22/4 Svartåna” inflyttad ”Upsala 85 [2?]/12” (dag 20/23/24 svårläst); Hu ”Maria Katrina Andersd. 51 24/7 Segerstad”; barn Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8 Svartåna, Hanna Elisabeth 89 12/12; hon ”Dog 89 17/12”; anm. på August-raden ”Vistas i Kristinehamn(?)”. Födelse 24/7 (Brunskog) skiljer sig från 27/7 (Segerstad, flera bilder) – dopbok/Segerstad väger tyngre; 24 ev. skrivfel.",
+   "FOLKRÄKNING 1880 Svartåna: ”Andersdotter, Maria Katrina, f. 1851 i Segerstad” – gift 1880 enligt pärmen; inga barn i hushållet 1880."
   ]
  },
  {
@@ -20099,14 +20152,19 @@
    "note": "döpt 31 aug 1844 (augusti-avdelningen)"
   },
   "places": [
-   "Ärtetan, Boda"
+   "Ärtetan, Boda",
+   "Nordsjö, Boda"
   ],
   "summary": "Son till Anders Elofsson och Stina Nilsdotter, Ärtetan, Boda; född 30 aug 1844. Namn enligt patronymikon ej angivet i posten (fadersnamnet Elofsson är skrivet som 'Elofsson').",
   "notes": [
    "DOP Boda C I/3 bild 74 (1844, sida 113, höger sida, augusti): ”Nils | 30 31. | Ertetan. Anders Elofsson och Hu. Stina Nilsd.r / Vittn. Christopher Nilsson och Hu. Cajsa Olsd.r i Lene” (bokstäver 'Ertetan' = Ärtetan; vittnena från Lene, Stinas barndomsby/Frykerud-släkt?). Dopåret 1844 enligt rubrik ”1844” på sidan.",
    "K3 OMLÄST bild 74 (zoom): ”Nils | 30 31. | Ertetan. Anders Elofsson och Hu. Stina Nilsd.r | 31(?) / Vittn. Christopher Nilsson och Hu. Cajsa Olsd.r i Lene —”. Rubrik 1844, ”Augusti”-avdelningen, sidnr 113. 30 = född, 31 = döpt (aug 1844). Ingen avvikelse mot tidigare läsning; dopbok med föräldrar = verified. Vittnen (ej ”fadder”): Christopher Nilsson och Cajsa Olsdotter i Lene.",
    "N4: Nils f. 30/8 1844 Boda i Frykerud 1845–47 (A I/20 bild 204/215, B/1 bild 50) och Brunskog Ö. Takene 1847– (A I/23 bild 135 s.123, ”Son Nils”). Inte död i Frykerud okt 1845–maj 1847.",
-   "BODA HUSFÖRHÖR A I/22 bild 167 (s.171, Renstad 1867): ”Gift dr. Nils Andersson” 44 [30]/8 Ärtetan, hustru ”Johanna Persdotter” 45 18/12 Boda, ”Dot. Christina” 67 18/8 Renstad; från p.168 67, flyttad p.157 68. Bild 153 (s.157 Nordsjö): ”Gt. Dr. Nils Andersson”, Johanna, ”dot. Kristina”, ”Anna Kajsa” 69 3/11. Bild 152 (s.156 Nordsjö, 1870): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter”, ”d. Kristina”, ”Anna Kajsa”; titel ändras dräng -> bonde(?) 1870. Familjen bodde 1867 Renstad (p.171), 1868 Nordsjö p.157, 1870 Nordsjö p.156. Gift 22/4 1867. Vidare öde efter 1870 ej funnet i A I/23 (bild 216–226 skannat)."
+   "BODA HUSFÖRHÖR A I/22 bild 167 (s.171, Renstad 1867): ”Gift dr. Nils Andersson” 44 [30]/8 Ärtetan, hustru ”Johanna Persdotter” 45 18/12 Boda, ”Dot. Christina” 67 18/8 Renstad; från p.168 67, flyttad p.157 68. Bild 153 (s.157 Nordsjö): ”Gt. Dr. Nils Andersson”, Johanna, ”dot. Kristina”, ”Anna Kajsa” 69 3/11. Bild 152 (s.156 Nordsjö, 1870): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter”, ”d. Kristina”, ”Anna Kajsa”; titel ändras dräng -> bonde(?) 1870. Familjen bodde 1867 Renstad (p.171), 1868 Nordsjö p.157, 1870 Nordsjö p.156. Gift 22/4 1867. Vidare öde efter 1870 ej funnet i A I/23 (bild 216–226 skannat).",
+   "FOLKRÄKNING 1880 Boda, Nordsjö, sida 34 rad 11: ”Andersson, Nils, f. 1844 i Boda, Hemmansägare” + ”Persdotter, Johanna, f. 1845” + barn Kristina 1867, Anna Kajsa 1869, Nils 1872, Anders 1874, Karl Johan 1877.",
+   "FOLKRÄKNING 1890 Boda, Nohlsjö sida 30: Hemeg. Skomakare; barn tillkomna: Olof Albin 1881, Maria 1884, Emelie Helena 1886, Harald 1888. Kristina (1867) och Nils (1872) ej kvar i hushållet 1890.",
+   "FOLKRÄKNING 1900 Boda Nolsjö, 1910 Nordsjö Smedåsen: kvar som hemmansägare/skomakarmästare; ingen utflyttning till Amerika framgår av hushållen (men Kristina 1867 och Nils 1872 spårades ej).",
+   "Ej samma person: Nils Andersson f. 1844 i Boda, Målare, Svartåna Brunskog 1880 (Folk_120423455), hustru Anna Isabella Grant f. 1858 Newcastle – annan Nils."
   ],
   "sources": [
    {
@@ -20136,6 +20194,22 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda Nordsjö): Fam. nr 1 Andersson, Nils f. 1844 i Boda, Hemmansägare, gift; hustru Persdotter, Johanna f. 1845 Boda; Kristina 1867, Anna Kajsa 1869, Nils 1872, Anders 1874, Karl Johan 1877 (alla f. Boda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda Nohlsjö): Nils f. 1844, Hemeg. Skomakare; Johanna; Anna Kajsa 1869, Anders 1874, Karl Johan 1877, Olof Albin 1881, Maria 1884, Emelie Helena 1886, Harald 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda Nolsjö): Nils f. 1844, Hemmansegare; Johanna; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria 1884, Emelie Helena 1886, Harald 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Nordsjö Smedåsen): Nils f. 1844, Ägare Hemmansägare Skomakarmästare, gift; Johanna f. 1845; Emilie Helena 1886; Harald 1888 (Skomakeriarbetare)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
    }
   ],
   "search": [
@@ -21401,7 +21475,8 @@
   "notes": [
    "HUSFÖRHÖR Brunskog A I/31 bild 182 (s.188, Ö. Takene) anmärkning vid Nils: ”Lyst/Lysen 7(?)/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; utflyttningskolumnen: ”Boda S:n Remstad p.168”. Ortnamnet svårläst (Rem-/Rensta-). Boda husförhör för 1867 ej kontrollerat.",
    "HUSFÖRHÖR Boda A I/22 bild 164 (s.168), Renstad: ”Pig. Johanna Persdotter” 45 ¹⁸⁄₁₂ Boda, kolumn Äktenskap ”²²⁄₄ 67”, flytt till ”p.171 67”; anmärkning: ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”. Ortnamnet är alltså Renstad (ej ’Remstad’). Vigsel 22/4 1867; föräldrar ej angivna (vigselbok ej digitaliserad efter 1860).",
-   "Därefter i Boda: p.171 Renstad (1867), p.157 Nordsjö (1868), p.156 Nordsjö (1870): ”Johanna Persdotter” 45 18/12 Boda."
+   "Därefter i Boda: p.171 Renstad (1867), p.157 Nordsjö (1868), p.156 Nordsjö (1870): ”Johanna Persdotter” 45 18/12 Boda.",
+   "FOLKRÄKNING 1880–1910: med maken Nils Andersson i Boda (Nordsjö), f. 1845 Boda."
   ],
   "sources": [
    {
@@ -21423,6 +21498,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex Nordsjö Smedåsen): Persdotter, Johanna f. 1845 i Boda, hustru i Nils Anderssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
    }
   ],
   "search": [
@@ -21451,7 +21530,8 @@
   ],
   "summary": "Dotter i hushållet Nils Andersson (f. 1844) och Johanna Persdotter, Boda; f. 18/8 1867 i Renstad, d.v.s. ca 4 månader efter vigseln 22/4 1867.",
   "notes": [
-   "HUSFÖRHÖR Boda A I/22 bild 167 (sida 171): ”Dot. Christina” 67 ¹⁸⁄₈ Renstad under Nils Andersson/Johanna Persdotter; bild 153 (s.157) ”dot. Kristina”; bild 152 (s.156) ”d. Kristina” 67 18/8 [Boda]. ’Dotter’ står uttryckligen men föräldrarnas namn anges bara genom hushållet. Dopbok 1867 ej digitaliserad (Boda C I/5 slutar 1860)."
+   "HUSFÖRHÖR Boda A I/22 bild 167 (sida 171): ”Dot. Christina” 67 ¹⁸⁄₈ Renstad under Nils Andersson/Johanna Persdotter; bild 153 (s.157) ”dot. Kristina”; bild 152 (s.156) ”d. Kristina” 67 18/8 [Boda]. ’Dotter’ står uttryckligen men föräldrarnas namn anges bara genom hushållet. Dopbok 1867 ej digitaliserad (Boda C I/5 slutar 1860).",
+   "FOLKRÄKNING 1880 Boda Nordsjö: kvar hemma (1890: ej i hushållet)"
   ],
   "sources": [
    {
@@ -21465,6 +21545,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda Nordsjö): Kristina f. 1867 i Boda i hushållet Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
    }
   ],
   "search": [
@@ -21487,7 +21571,8 @@
   ],
   "summary": "Dotter i hushållet Nils Andersson/Johanna Persdotter, f. 3/11 1869 i Boda; överstruken på sida 157 (bild 153) men ej överstruken på sida 156.",
   "notes": [
-   "HUSFÖRHÖR Boda A I/22 bild 153 (s.157): ”Anna Kajsa” 69 ³⁄₁₁ do [Boda], namnet överstruket med kryss; bild 152 (s.156): ”Anna Kajsa” 69 3/11 utan överstrykning. Strykningen kan vara flyttmarkering vid överföring till p.156 (ej dödsbevis – död ej verifierad)."
+   "HUSFÖRHÖR Boda A I/22 bild 153 (s.157): ”Anna Kajsa” 69 ³⁄₁₁ do [Boda], namnet överstruket med kryss; bild 152 (s.156): ”Anna Kajsa” 69 3/11 utan överstrykning. Strykningen kan vara flyttmarkering vid överföring till p.156 (ej dödsbevis – död ej verifierad).",
+   "FOLKRÄKNING 1880 Boda Nordsjö: kvar hemma; kvar 1890 (f. 1869), ej 1900"
   ],
   "sources": [
    {
@@ -21497,6 +21582,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda Nordsjö): Anna Kajsa f. 1869 i Boda i hushållet Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
    }
   ],
   "search": [
@@ -22647,6 +22736,456 @@
   ],
   "search": [
    "Marit Bryngelsdotter (Lene, Frykerud, f. 1708)"
+  ]
+ },
+ {
+  "id": "n44k_nils72",
+  "name": "Nils Nilsson (f. 1872, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1872",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1880.",
+  "notes": [
+   "FOLKRÄKNING: ”Nils, f. 1872 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda): Nils f. 1872 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Nilsson (f. 1872, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_anders74",
+  "name": "Anders Nilsson (f. 1874, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1874",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1880, 1890, 1900.",
+  "notes": [
+   "FOLKRÄKNING: ”Anders, f. 1874 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda): Anders f. 1874 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Anders f. 1874 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Anders f. 1874 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (f. 1874, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_karljohan77",
+  "name": "Karl Johan Nilsson (f. 1877, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1877",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1880, 1890, 1900.",
+  "notes": [
+   "FOLKRÄKNING: ”Karl Johan, f. 1877 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Boda): Karl Johan f. 1877 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430968&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Karl Johan f. 1877 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Karl Johan f. 1877 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Johan Nilsson (f. 1877, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_olofalbin81",
+  "name": "Olof Albin Nilsson (f. 1881, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900.",
+  "notes": [
+   "FOLKRÄKNING: ”Olof Albin, f. 1881 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Olof Albin f. 1881 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Olof Albin f. 1881 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   }
+  ],
+  "search": [
+   "Olof Albin Nilsson (f. 1881, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_maria84",
+  "name": "Maria Nilsdotter (f. 1884, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900.",
+  "notes": [
+   "FOLKRÄKNING: ”Maria, f. 1884 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Maria f. 1884 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Maria f. 1884 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Nilsdotter (f. 1884, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_emelie86",
+  "name": "Emelie Helena Nilsdotter (f. 1886, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900, 1910.",
+  "notes": [
+   "FOLKRÄKNING: ”Emelie Helena, f. 1886 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Emelie Helena f. 1886 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Emelie Helena f. 1886 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda): Emelie Helena f. 1886 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
+   }
+  ],
+  "search": [
+   "Emelie Helena Nilsdotter (f. 1886, Boda)"
+  ]
+ },
+ {
+  "id": "n44k_harald88",
+  "name": "Harald Nilsson (f. 1888, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1888",
+   "place": "Boda",
+   "note": "enbart årtal i folkräkning"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900, 1910.",
+  "notes": [
+   "FOLKRÄKNING: ”Harald, f. 1888 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Boda): Harald f. 1888 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604777&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda): Harald f. 1888 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943784&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda): Harald f. 1888 i Boda i hushåll Nils Andersson/Johanna Persdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
+   }
+  ],
+  "search": [
+   "Harald Nilsson (f. 1888, Boda)"
+  ]
+ },
+ {
+  "id": "aa48_ullerud",
+  "name": "Anders Andersson (f. 1848 Brunskog, handlande/gårdfarihandlare, Nedre Ullerud)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Risäter, Nedre Ullerud",
+   "Tjusbol, Nedre Ullerud",
+   "Grava"
+  ],
+  "summary": "Möjlig identitet för Anders Andersson Elofsson (anders_ae48): född 1848 i Brunskog, handlande/gårdfarihandlare, Nedre Ullerud; 1930 ”inflyttad från Grava 1923”. Ej styrkt – flera Anders Andersson f. 1848 i Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nedre Ullerud, Risäter, sida 52 rad 12: ”Andersson, Anders, f. 1848 i Brunskog, Handlande, Ogift”.",
+   "FOLKRÄKNING 1890 Nedre Ullerud, Risätter, sida 46 rad 13: Gårdfarihandlande, gift; Nilsdotter, Mathilda f. 1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud.",
+   "FOLKRÄKNING 1900 Tjusbol, sida 53 rad 35: gårdfarihandlande; Matilda; Hulda Maria 1888; Hjalmar Paulinus 1891.",
+   "FOLKRÄKNING 1910 Tjusbol, sida 71 rad 7: Gårdfarihandlare, Änka/Änkling, ensamstående. 1930 sida 72 rad 48: Änkling (upplösningsår 1904), Inflyttningsår 1923, Inflyttad från Grava."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Nedre Ullerud Risäter): Andersson, Anders f. 1848 i Brunskog, Handlande, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119258637&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Nedre Ullerud): Anders f. 1848 Brunskog, Gårdfarihandlande, gift Mathilda Nilsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103500648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Nedre Ullerud Tjusbol): Anders f. 1848 Brunskog gårdfarihandlande",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109942316&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Nedre Ullerud Tjusbol): Anders f. 1848 Brunskog, Gårdfarihandlare, änkling",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126689432&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Nedre Ullerud Tjusbol): Anders f. 1848 Brunskog, inflyttad från Grava 1923, änkling 1904",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128612748&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1848 Brunskog, handlande/gårdfarihandlare, Nedre Ullerud)"
+  ]
+ },
+ {
+  "id": "aa48_spangedal",
+  "name": "Anders Andersson (f. 1848 Brunskog, statdräng, Spångedal)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Spångedal, Brunskog"
+  ],
+  "summary": "En av flera Anders Andersson f. 1848 i Brunskog: statdräng Spångedal 1880, gift med Augusta Sandgren f. 1847. Identitet med anders_ae48 ej styrkt.",
+  "notes": [
+   "FOLKRÄKNING 1880 Brunskog, Spångedal, sida 18 rad 38: ”Andersson, Anders, f. 1848 i Brunskog, Statdräng”, gift; ”Sandgren, Augusta, f. 1847 i Brunskog”; Anna f. 1874; Sofia f. 1878."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Spångedal): Anders f. 1848 Brunskog Statdräng; Augusta Sandgren f. 1847; Anna 1874; Sofia 1878",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422720&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1848 Brunskog, statdräng, Spångedal)"
+  ]
+ },
+ {
+  "id": "aa48_molnerud",
+  "name": "Anders Andersson (f. 1848 Brunskog, hemmansägare Mölnerud 1910)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Mölnerud, Brunskog"
+  ],
+  "summary": "Hemmansägare Mölnerud 1910, gift med Maria Bengtsdotter f. 1859 Brunskog. Identitet med anders_ae48 ej styrkt.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Mölnerud, sida 79 rad 19: ”Andersson, Anders, f. 1848 i Brunskog, Hemmansägare”, gift; ”Bengtsdotter, Maria, f. 1859 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Brunskog Mölnerud): Anders f. 1848 Brunskog Hemmansägare; Maria Bengtsdotter f. 1859",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125551791&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1848 Brunskog, hemmansägare Mölnerud 1910)"
+  ]
+ },
+ {
+  "id": "mathilda_nilsd53_gras",
+  "name": "Mathilda Nilsdotter (f. 1853 Gräsmark; gift med Anders Andersson f. 1848, Nedre Ullerud)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853",
+   "place": "Gräsmark"
+  },
+  "places": [
+   "Nedre Ullerud"
+  ],
+  "summary": "Hustru till aa48_ullerud 1890–1900 (änkling 1904).",
+  "notes": [
+   "FOLKRÄKNING 1890/1900: ”Nilsdotter, Mathilda/Matilda, f. 1853 i Gräsmark”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Nedre Ullerud): Nilsdotter, Mathilda f. 1853 Gräsmark Värmlands län",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103500648&tab=post"
+   }
+  ],
+  "search": [
+   "Mathilda Nilsdotter (f. 1853 Gräsmark; gift med Anders Andersson f. 1848, Nedre Ullerud)"
+  ]
+ },
+ {
+  "id": "kajsa_jonsd35_finneback",
+  "name": "Kajsa Jonsdotter (f. 1835 Brunskog, Finnebäck)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1835",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Finnebäck, Brunskog"
+  ],
+  "summary": "Hustru till Jan Elofsson (f. 1819) 1880; död före 1890.",
+  "notes": [
+   "FOLKRÄKNING 1880 Finnebäck sida 5: ”Jonsdotter, Kajsa, f. 1835 i Brunskog” gift i hushållet Jan Elofsson f. 1819."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): Jonsdotter, Kajsa f. 1835 i hushåll Jan Elofsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   }
+  ],
+  "search": [
+   "Kajsa Jonsdotter (f. 1835 Brunskog, Finnebäck)"
+  ]
+ },
+ {
+  "id": "august_jan62",
+  "name": "August Jansson (f. 1862 Brunskog, Finnebäck)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1862",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Finnebäck"
+  ],
+  "summary": "Barn i Jan Elofssons hushåll 1880.",
+  "notes": [
+   "FOLKRÄKNING 1880: ”August, f. 1862 i Brunskog” i hushåll Jan Elofsson/Kajsa Jonsdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): August f. 1862",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   }
+  ],
+  "search": [
+   "August Jansson (f. 1862 Brunskog, Finnebäck)"
+  ]
+ },
+ {
+  "id": "anders_jan77",
+  "name": "Anders Jansson (f. 1877 Brunskog, Finnebäck)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1877",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Finnebäck"
+  ],
+  "summary": "Barn i Jan Elofssons hushåll 1880 och 1890.",
+  "notes": [
+   "FOLKRÄKNING 1880/1890: ”Anders, f. 1877 i Brunskog” i hushåll Jan Elofsson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): Anders f. 1877",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 (Brunskog Finnebäck): Anders f. 1877",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597209&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Jansson (f. 1877 Brunskog, Finnebäck)"
   ]
  }
 ]

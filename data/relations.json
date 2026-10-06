@@ -5790,5 +5790,120 @@
   "b": "fr_maritbryngelsd_lene",
   "status": "verified",
   "basis": "Husförhör A I/7 bild 41 (fol. 28 Lene): ”Anders Nilsson” 1710, direkt följd av ”H. Marit Bryng…” 1708; dop C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_nils72",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_nils72",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda: ”Nils, f. 1872 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_120430968); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_anders74",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_anders74",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda: ”Anders, f. 1874 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_120430968); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_karljohan77",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_karljohan77",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda: ”Karl Johan, f. 1877 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_120430968); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_olofalbin81",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_olofalbin81",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda: ”Olof Albin, f. 1881 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_103604777); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_maria84",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_maria84",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda: ”Maria, f. 1884 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_103604777); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_emelie86",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_emelie86",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda: ”Emelie Helena, f. 1886 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_103604777); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-n44k_harald88",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "n44k_harald88",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda: ”Harald, f. 1888 i Boda” i hushållet Nils Andersson f. 1844 / Johanna Persdotter f. 1845 (Folk_103604777); indexposten saknar uttrycklig familjeställning; födelseåren passar parets giftermål 1867."
+ },
+ {
+  "id": "p-aa48_ullerud-mathilda_nilsd53_gras",
+  "type": "partner",
+  "a": "aa48_ullerud",
+  "b": "mathilda_nilsd53_gras",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Nedre Ullerud (Folk_103500648): hushåll Andersson, Anders f. 1848 (gift) + Nilsdotter, Mathilda f. 1853."
+ },
+ {
+  "id": "p-jan_e-kajsa_jonsd35_finneback",
+  "type": "partner",
+  "a": "jan_e",
+  "b": "kajsa_jonsd35_finneback",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): Jan f. 1819 gift, hustru Jonsdotter Kajsa f. 1835."
+ },
+ {
+  "id": "c-jan_e-kajsa_jonsd35_finneback-august_jan62",
+  "type": "child",
+  "parents": [
+   "jan_e",
+   "kajsa_jonsd35_finneback"
+  ],
+  "child": "august_jan62",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): barn utan uttrycklig familjeställning i hushållet Jan Elofsson/Kajsa Jonsdotter (1890 Anders hos Jan som änkling)."
+ },
+ {
+  "id": "c-jan_e-kajsa_jonsd35_finneback-anders_jan77",
+  "type": "child",
+  "parents": [
+   "jan_e",
+   "kajsa_jonsd35_finneback"
+  ],
+  "child": "anders_jan77",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): barn utan uttrycklig familjeställning i hushållet Jan Elofsson/Kajsa Jonsdotter (1890 Anders hos Jan som änkling)."
  }
 ]

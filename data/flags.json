@@ -2357,6 +2357,41 @@
    "persons": [
     "hulda"
    ]
+  },
+  {
+   "title": "Anders Andersson f. 1848 Brunskog – flera namnbröder",
+   "text": "Folkräkningsindex 1880–1930 ger minst fem män Anders Andersson f. 1848 i Brunskog: (a) Spångedal statdräng m. Augusta Sandgren; (b) Nedre Ullerud handlande/gårdfarihandlare (1880 ogift, 1890 gift Mathilda Nilsdotter f. 1853 Gräsmark; 1930 inflyttad från Grava 1923, änkling sedan 1904); (c) Mölnerud hemmansägare 1910 m. Maria Bengtsdotter; (d) Anders ”Ax” Andersson, Slorud, inhyses (Folk_120422674) m. Anna Henriksdotter f. 1854; (e) Mangskog Åstenäs 1900 ogift med Kajsa Andersdotter f. 1821 (Folk_110650041). Kandidat (b) stöds av Grava-kopplingen (anders_ae48 dräng Grava 1872) men ingen post anger föräldrar. Kräver t.ex. Grava/Nedre Ullerud husförhör eller flyttbok.",
+   "persons": [
+    "anders_ae48",
+    "aa48_ullerud",
+    "aa48_spangedal",
+    "aa48_molnerud"
+   ]
+  },
+  {
+   "title": "Maria Cajsa Andersdotter f. 1842 – ej funnen 1880",
+   "text": "Sökning folkräkning 1880 på Maria f. 1842 födelseförsamling Boda ger bara Maria Jansdotter (g. m. Johan Nilsson, Björknäs), Maria Jonasdotter (piga Björknäs) och Maria Olsdotter (g. m. banvakt Enström, Ärtetan) – ingen styrkt som Maria Cajsa Andersdotter. Troligen gift under annat namn eller död/utflyttad.",
+   "persons": [
+    "maria_cajsa_ae42"
+   ]
+  },
+  {
+   "title": "Per Elofsson f. 1811 ej i folkräkning 1880–1910",
+   "text": "Ingen träff på Per Elofsson f. 1811 (sök. 1880–1910); möjligen död före 1880 eller annan stavning. Jan Elofsson f. 1819 (Finnebäck) har 1880 hustrun Kajsa Jonsdotter f. 1835 (inte Maria Persdotter – troligen annan/äldre Jan eller tidigare hustru).",
+   "persons": [
+    "per_e",
+    "jan_e"
+   ]
+  },
+  {
+   "title": "Nils Andersson f. 1844 – Kristina (1867) och Nils (1872) efter 1880",
+   "text": "Kristina 1867 finns i hushållet 1880 men ej 1890; Nils f. 1872 syns bara 1880. Möjlig utflyttning (Amerika?) – ej belagd i folkräkningarna. Anna Kajsa 1869 kvar 1890, ej 1900. Förslag: sök Boda flyttbok/emigrantregister.",
+   "persons": [
+    "nils_ae44",
+    "kristina_nilsdotter67",
+    "n44k_nils72",
+    "anna_kajsa_nilsdotter69"
+   ]
   }
  ],
  "conflicts": [
