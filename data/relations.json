@@ -1442,8 +1442,8 @@
    "hulda"
   ],
   "child": "anna_lycka",
-  "status": "family",
-  "basis": "Jan Källne, JOO-historia: barn till Johan Olof Olsson och Hulda – Arvid (1909), Elof (1914), Anna (1916), Valborg (1919)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika sida 66 rad 30: Anna f. 1916 Brunskog, ”d.” (Barn), fam. nr 1. Folk_129008192"
  },
  {
   "id": "c-johan-hulda-valborg",
@@ -1453,8 +1453,8 @@
    "hulda"
   ],
   "child": "valborg",
-  "status": "family",
-  "basis": "Jan Källne, JOO-historia: barn till Johan Olof Olsson och Hulda – Arvid (1909), Elof (1914), Anna (1916), Valborg (1919)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika sida 66 rad 31: Valborg f. 1919 Brunskog, ”d.” (Barn), fam. nr 1. Folk_129008193"
  },
  {
   "id": "p-johan_olofsson-anna_gata",

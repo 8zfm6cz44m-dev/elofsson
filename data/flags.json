@@ -2350,6 +2350,13 @@
     "fr_salomonberger1734",
     "fr_ingeridjonsd1726"
    ]
+  },
+  {
+   "title": "Huldas födelseort Brunskog bekräftad av folkräkning",
+   "text": "Folkräkning 1910 och 1930 anger Brunskog som födelseförsamling; 1900 Skog-hushållet (Erik Nilsson) anger Brunskog. Födelsebokens föräldrar (SCB/födelsebok Brunskog 1885) kvarstår att läsa; Hulda nämns i husförhör 1885 som ”icke döpt”.",
+   "persons": [
+    "hulda"
+   ]
   }
  ],
  "conflicts": [
@@ -2794,6 +2801,16 @@
     "fr_mansknutsson1711_lene",
     "fr_kerstinnilsd1727_lene",
     "fr_mansmansson1746_lene"
+   ]
+  },
+  {
+   "title": "Elofs födelseförsamling: Arvika stad (SCB) vs Brunskog (folkräkning 1930)",
+   "text": "Folkräkning 1930 (Folk_129008191) anger för Elof ”Födelseförsamling: Brunskog Värmlands län” (samma för Arvid, Anna och Valborg, alla 'inflyttad 1930 från Brunskog'). SCB-utdrag Arvika stad 1914 nr 117 anger födelse i Arvika stad; Brunskog C I/8 och Mangskog C I/9 saknar Elof. Troligen anger 1930-registreringen familjens hemförsamling före flytten, inte exakt födelseort. Anna f. 1916 och Valborg f. 1919 kan likaså vara födda i Arvika – kontrollera mot SCB 1916/1919.",
+   "persons": [
+    "elof",
+    "anna_lycka",
+    "valborg",
+    "arvid_lycka"
    ]
   }
  ],

@@ -126,7 +126,8 @@
    "Takene skolfoto 1926: ”Elov Olsson, Lycka Takene”, rätt ålder – mycket stark kandidat för Elof som barn.",
    "Sjukvårdsutbildning för män: ”Elof Olsson, Lycka Takene”. Älgjaktlag ca 1960: Elof Olsson Lycka Takene tillsammans med Bertil Nolemark (FAN, inte relationsbevis).",
    "Nästa steg enligt master: SCB-utdrag och originalböcker för angränsande församlingar 1914 med datumet 14 december som söknyckel.",
-   "Möjliga syskon (hypotes): Arvid Olsson (Lycka 1921), Anna Olsson (Lycka 1926), Valborg Olsson (Lycka 1930)."
+   "Möjliga syskon (hypotes): Arvid Olsson (Lycka 1921), Anna Olsson (Lycka 1926), Valborg Olsson (Lycka 1930).",
+   "FOLKRÄKNING 1930 Arvika, Kv. 67 Elgen no 3 (Folk_129008191): Elof f. 1914, familjeställning ”s.”, yrke ”Konsthantverk”, i hushåll med Johan Olof Olsson (far) och Hulda (h.) samt syskon Arvid, Anna, Valborg. Indexet anger födelseförsamling Brunskog – STRIDER mot SCB-utdrag Arvika stad 1914 nr 117 (se flagga)."
   ],
   "sources": [
    {
@@ -190,6 +191,10 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Elof f. 1914, födelseförsamling ”Brunskog Värmlands län”, ”s.” (Barn), ogift, yrke Konsthantverk, inflyttad 1930 från Brunskog (sida 66 rad 29)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008191&tab=post#tab"
    }
   ],
   "images": [
@@ -1092,7 +1097,8 @@
   "sex": "m",
   "born": {
    "date": "1886-09-23",
-   "place": "Brunskogs församling"
+   "place": "Brunskog",
+   "note": "Födelseförsamling Brunskog Värmlands län enligt folkräkningarna 1910 och 1930."
   },
   "died": {
    "date": "1945-11-11"
@@ -1116,7 +1122,8 @@
    "EI-LEAD (ej verifierad): Ellis Island-index JNXV-W62 'Johan Olaf Olsson', f. 1887 (ålder 36), gift, 'Brunsberg, Sweden', Berengaria 10 aug 1923 – ålder/födelseår avviker (trädet 1886-09-23) och han dog 1945 i Lycka, så kan vara annan person. Ej länkad.",
    "FÖRSAMLINGSBOK A II a/1 bild 307 (sida 297, Takene, ”Lyckan”, rad 21–23), ordagrant: ”Olof August Johannesson 57 3/2 Boda (g. 14/6 86; inflyttad Boda 04 2/11)”; ”Maria Olsdotter 63 9/10 Brnskog”; ”Johan Olof 86 23/9 Brunskog” (namnet överstruket, yrkeskolumn ”Korporal vid K. Fälttelegrafkåren” + tillägg ”…12 48 97 Kl. A.”); ”Anna Maria 01 1/12 Boda”. Utflyttningskolumn för Johan Olof: ”Klara / Stockholm 07 23/10” (dag 23 eller 25) = utflyttad till Klara församling, Stockholm, okt 1907 – EJ Amerika. Familjen hade inflyttat från Boda 2 nov 1904. Ingen Amerikanotering för Johan Olof 1896–1909.",
    "SLUTSATS EMIGRATIONSMOTSÄGELSE: Ellis Island 1923 (Berengaria, 10 aug 1923, ”Johan Olaf Olsson”, 36 år, carpenter, hustru Hilda i Brunsberg) är förenligt med att samme Johan Olof (f. 1886 Brunskog, korpral/byggnadssnickare, hustru Hulda) gjorde en resa/temporär vistelse i USA och sedan återvände (död Lycka 1945) – inget i 1896–1909-längden talar emot. Återresa/hemkomst 1923–24 ej belagd (A II a/3–4, 1909–1920, kräver inloggning hos Riksarkivet).",
-   "H2 (2026-10-06): Rotemansarkivet (sok.stockholm.se) kunde inte nås (DNS-fel från WebFetch) och WebSearch gav ingen träff på Johan Olof Olsson/Klara 1907–10. Utflyttningsnoteringen Klara/Stockholm 1907 (Brunskog A II a/1 bild 307) är därmed ej följd upp i Stockholm. Nästa steg: Rotemansarkivet i egen webbläsarflik av användaren, sök Olsson, Johan Olof f. 1886-09-23."
+   "H2 (2026-10-06): Rotemansarkivet (sok.stockholm.se) kunde inte nås (DNS-fel från WebFetch) och WebSearch gav ingen träff på Johan Olof Olsson/Klara 1907–10. Utflyttningsnoteringen Klara/Stockholm 1907 (Brunskog A II a/1 bild 307) är därmed ej följd upp i Stockholm. Nästa steg: Rotemansarkivet i egen webbläsarflik av användaren, sök Olsson, Johan Olof f. 1886-09-23.",
+   "FOLKRÄKNING 1910 Takene: Olsson, Johan Olof f. 1886 Brunskog, Korpral, i fam. nr 3 (samma hushåll som föräldrarna Olof August Johannesson, fam. nr 1). 1930: Arvika, Kv. 67 Elgen no 3, Byggnadssnickarbetare, inflyttad 1930 från Brunskog, skolbildning 3."
   ],
   "sources": [
    {
@@ -1168,6 +1175,14 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909, vol. 00053596), bild 307 (sida 297, Takene, Lyckan): Olof August Johannesson-hushållet",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00307"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene (sida 26, fam. nr 3): Hulda Eriksson f. 1885 Brunskog, gift, ”h.” (Mor/fru); Johan Olof Olsson f. 1886 Brunskog, Korpral; Arvid f. 1909 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=4&postid=Folk_125549841&tab=post#tab"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Olsson, Johan Olof f. 1886, födelseförsamling Brunskog, Byggnadssnickarbetare, Gift (vigselår 1909), inkomst 1100, Far/man (sida 66 rad 26)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008188&tab=post#tab"
    }
   ],
   "images": [
@@ -1265,7 +1280,9 @@
    "Hulda Olsson, född Eriksson"
   ],
   "born": {
-   "date": "1885-03-16"
+   "date": "1885-03-16",
+   "place": "Brunskog, Värmlands län",
+   "note": "Födelseförsamling Brunskog enligt folkräkningarna 1910 och 1930 (”Födelseförsamling: Brunskog Värmlands län”); 1900 hushållslista: f. 1885 i Brunskog."
   },
   "died": {
    "date": "1971-08-03"
@@ -1284,7 +1301,10 @@
    "KORRIGERING: Uppgiften ”Boställe/Bostället i Skog” gäller en skolflicka med samma namn på Takene skolfoto 1921.",
    "Nästa steg: Huldas födelsenotis 1885-03-16 i Brunskogs födelsebok – den namnger föräldrarna.",
    "HUSFÖRHÖR A II a/1 (E1): Hulda f. 16/3 1885 (bild 210 sida 200 rad 7: ”Hulda, icke döpt” – ordet ”icke döpt” överstruket; anm. ”5/99 [bekräftelse/konfirmation?] af Prost Werme”). Ingen utflyttningsnotis på sidan 200.",
-   "H2: Födelseort för Hulda (f. 1885-03-16) ej funnen. Riksarkivets folkräkningssök (Fornamn=Hulda, Efternamn=Eriksson, Fodelsear=1885) stoppas av captcha (ALTCHA) – ej klickat. 1910 års folkräkning (Takene) bör ge födelseort om användaren öppnar posten manuellt (postid Folk_125549841 är hushållet)."
+   "H2: Födelseort för Hulda (f. 1885-03-16) ej funnen. Riksarkivets folkräkningssök (Fornamn=Hulda, Efternamn=Eriksson, Fodelsear=1885) stoppas av captcha (ALTCHA) – ej klickat. 1910 års folkräkning (Takene) bör ge födelseort om användaren öppnar posten manuellt (postid Folk_125549841 är hushållet).",
+   "FOLKRÄKNING 1930 (Folk_129008189): Arvika, hemort ”Kvarteret 67 Elgen no 3” (sida i församlingsboken 1737), Jösse kontrakt. Gift, vigselår 1909, inflyttningsår 1930 från Brunskog. Hushåll fam. nr 1: Olsson, Johan Olof f. 1886 Brunskog, Byggnadssnickarbetare; Eriksson, Hulda f. 1885 Brunskog; Arvid 1909 (Snickeriarbetare); Elof 1914 (Konsthantverk); Anna 1916; Valborg 1919 – alla födelseförsamling Brunskog.",
+   "FOLKRÄKNING 1910 (Folk_125549841): Takene, Brunskog, sida 26 rad 45, fam. nr 3; födelseförsamling Brunskog; civilstånd Gift; familjeställning ”h.”; Famstkod Mor/fru.",
+   "FOLKRÄKNING 1900 Skog (Folk_109937597): Hulda f. 1885 Brunskog i fadern Erik Nilssons hushåll (se Erik Nilsson 1843)."
   ],
   "sources": [
    {
@@ -1319,6 +1339,18 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene (sida 26, fam. nr 3): Hulda Eriksson f. 1885 Brunskog, gift, ”h.” (Mor/fru); Johan Olof Olsson f. 1886 Brunskog, Korpral; Arvid f. 1909 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=4&postid=Folk_125549841&tab=post#tab"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog (sida 20, rad 15): hushåll Erik Nilsson f. 1843 Brunskog, Hemmansegare; Anna Andersdotter f. 1846; Hanna Elisabet 1876 (Sömmerska); Erik Johan 1878; Paul 1881; Hulda 1885; Signe Maria 1889 – alla f. i Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Erik&Efternamn=Nilsson&Fodelsear=1843&Fodelseforsamling=Brunskog&Folk1900=true&AvanceradSok=False&page=3&postid=Folk_109937597&tab=post#tab"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Hulda Eriksson f. 1885, födelseförsamling Brunskog, gift, vigselår 1909, inflyttad 1930 från Brunskog, ”f. Eriksson”, familjeställning ”h.”, Mor/fru (sida 66 rad 27)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008189&tab=post#tab"
    }
   ],
   "images": [
@@ -1615,6 +1647,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881-1890), Skog folio 179 (bild 179): ”Erik Nilsson 43 8/2 Ö. Takene; H. Anna Andersdotter 46 14/12 Skog; Dot. Hanna Elisabeth 76 [5]/7; Son Erik Johan 78 30/12; Son Paul 81; Dott. Hulda 85; Signe Maria 89 [8/2]” – hela hushållet hemma 1881–90 (ingen utflyttning)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00179"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog (sida 20, rad 15): hushåll Erik Nilsson f. 1843 Brunskog, Hemmansegare; Anna Andersdotter f. 1846; Hanna Elisabet 1876 (Sömmerska); Erik Johan 1878; Paul 1881; Hulda 1885; Signe Maria 1889 – alla f. i Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Erik&Efternamn=Nilsson&Fodelsear=1843&Fodelseforsamling=Brunskog&Folk1900=true&AvanceradSok=False&page=3&postid=Folk_109937597&tab=post#tab"
    }
   ],
   "search": [
@@ -2331,6 +2367,14 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Arvid f. 1909, födelseförsamling Brunskog, ”s.”, ogift, Snickeriarbetare, inflyttad 1930 från Brunskog (sida 66 rad 28)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008190&tab=post#tab"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene (sida 26, fam. nr 3): Hulda Eriksson f. 1885 Brunskog, gift, ”h.” (Mor/fru); Johan Olof Olsson f. 1886 Brunskog, Korpral; Arvid f. 1909 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=4&postid=Folk_125549841&tab=post#tab"
    }
   ],
   "images": [
@@ -2341,7 +2385,9 @@
    "Arvid (1909"
   ],
   "born": {
-   "date": "1909-12-20"
+   "date": "1909-12-20",
+   "place": "Brunskog",
+   "note": "Födelseförsamling Brunskog enligt folkräkningarna 1910 och 1930."
   },
   "died": {
    "date": "1967-05-15"
@@ -2382,7 +2428,7 @@
  {
   "id": "anna_lycka",
   "name": "Anna Olsson (1916)",
-  "status": "family",
+  "status": "verified",
   "sex": "f",
   "places": [
    "Lycka, Takene"
@@ -2395,6 +2441,10 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Anna f. 1916, födelseförsamling Brunskog, ”d.” (dotter, Barn), ogift, inflyttad 1930 från Brunskog (sida 66 rad 30)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008192&tab=post#tab"
    }
   ],
   "images": [
@@ -2404,13 +2454,18 @@
    "Anna Olsson Lycka"
   ],
   "born": {
-   "date": "1916"
-  }
+   "date": "1916",
+   "place": "Brunskog",
+   "note": "Födelseår 1916, födelseförsamling Brunskog enligt folkräkning 1930. Troligen = Anna Olsson g. Jakobsson f. 1916-10-01 (id anna_jakobsson) – ej bevisat."
+  },
+  "notes": [
+   "Möjlig identitet med anna_jakobsson (f. 1916-10-01): samma födelseår, men inget uttryckligt belägg i denna källa."
+  ]
  },
  {
   "id": "valborg",
   "name": "Valborg Olsson",
-  "status": "family",
+  "status": "verified",
   "sex": "f",
   "altNames": [
    "Valborg Olsson (Pettersson)",
@@ -2418,7 +2473,8 @@
   ],
   "born": {
    "date": "1919",
-   "note": "1919–1999 enligt Mangskogs O-register; stark identitetskandidat."
+   "place": "Brunskog",
+   "note": "Födelseår 1919, födelseförsamling Brunskog enligt folkräkning 1930."
   },
   "died": {
    "date": "1999"
@@ -2451,6 +2507,10 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika, Kv. 67 Elgen no 3 (sida 66): Valborg f. 1919, födelseförsamling Brunskog, ”d.” (dotter, Barn), ogift, inflyttad 1930 från Brunskog (sida 66 rad 31)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Hulda&Efternamn=Eriksson&Fodelsear=1885&Folk1900=true&Folk1910=true&Folk1930=true&AvanceradSok=False&page=5&postid=Folk_129008193&tab=post#tab"
    }
   ],
   "images": [
