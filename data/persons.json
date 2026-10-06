@@ -632,8 +632,8 @@
  },
  {
   "id": "goran_nolemark",
-  "name": "Göran/Jöran Nolemark",
-  "status": "strong",
+  "name": "Arvid Göran (Göran/Jöran) Nolemark (f. Andersson)",
+  "status": "verified",
   "sex": "m",
   "altNames": [
    "Arvid Göran Andersson",
@@ -641,7 +641,8 @@
    "Jöran Nolemark"
   ],
   "born": {
-   "date": "1921-08-06"
+   "date": "1921-08-06",
+   "place": "Skog, Brunskog"
   },
   "died": {
    "date": "1980-07-06"
@@ -657,7 +658,8 @@
    "Jöran Nolemark: kamrer och författare till avsnittet om Wermlands enskilda bank i En bok om Filipstad (1961).",
    "Alternativ kandidat som make till Anna Arvidsson (endast ålder och familjekrets).",
    "FOLKRÄKNING 1930 Skog: 'Arvid Göran, f. 1921 i Brunskog' i Karl August Anderssons hushåll (barn). Namnet Göran/Jöran = Arvid Göran; födelsedag 6 aug 1921 enligt hembygdsregistret.",
-   "Folkräkning 1930 Brunskog s.15 rad 15 (Folk_128883447): Arvid Göran Andersson f. 1921 Brunskog, ”s.” hos Karl August Andersson/Hanna Elisabet Augustsson – kandidat för identitet med Göran Nolemark."
+   "Folkräkning 1930 Brunskog s.15 rad 15 (Folk_128883447): Arvid Göran Andersson f. 1921 Brunskog, ”s.” hos Karl August Andersson/Hanna Elisabet Augustsson – kandidat för identitet med Göran Nolemark.",
+   "Dopnamn Arvid Göran enligt SCB 1921 nr 34; föräldrar Karl August Andersson (bonde, Skog) + Hanna Elisabet Augustsson."
   ],
   "sources": [
    {
@@ -24404,20 +24406,21 @@
  },
  {
   "id": "z_maria_sofia",
-  "name": "Anna Lydia Johannesdotter (Zetterlund) (tidigare 'Maria Sofia')",
-  "status": "strong",
+  "name": "Anna Lydia Johannesdotter (Zetterlund)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1876",
-   "place": "Brunskog"
+   "date": "1876-08-22",
+   "place": "Takene (Brunskog)"
   },
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
    "FOLKRÄKNING: 1890 ”Anna Lydia” f. 1876 i Brunskog; A I/35: ”Maria Sofia 76”. 1900 fam. nr 2 ”Anna Lydia” med barnen Johan Emanuel 1896 och Anna Helena 1900 (hos föräldrarna). Samma födelseår/ort – namnvariant, ej bevisat samma person.",
    "FOLKRÄKNING 1910 Brunskog, Säfvelskog: ”Sätterlund, Anna Lydia, f. 1876 i Brunskog” i hushåll med torparen Olof Johannesson (1868) och barnen Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910.",
-   "Husförhör A I/35 b.178 och folkräkning 1890 Folk_103597650 anger Anna Lydia f. 1876."
+   "Husförhör A I/35 b.178 och folkräkning 1890 Folk_103597650 anger Anna Lydia f. 1876.",
+   "Doppost/SCB visar Anna Lydia, f. 22 aug 1876, föräldrar Johannes Nilsson (dräng, Skog) och Magdalena Andersdotter. 'Maria Sofia' ska bort ur namnet (även altNames/search). Husförhör A I/35 b.178 anger födelseort 'Takene'."
   ],
   "sources": [
    {
@@ -24547,13 +24550,13 @@
  },
  {
   "id": "z_alfrida_christina",
-  "name": "Hulda Karolina Johannesdotter (Zetterlund) (tidigare 'Alfrida Christina')",
-  "status": "strong",
+  "name": "Hulda Karolina Johannesdotter (Zetterlund)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1887",
-   "place": "Brunskog"
+   "date": "1887-03-07",
+   "place": "Skog, Brunskog"
   },
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
@@ -24561,7 +24564,8 @@
    "FOLKRÄKNING: A I/35: ”Alfrida Christina 87”; folkräkning 1890 och 1900: ”Hulda Karolina, f. 1887 i Brunskog” – namnvariant (samma födelseår/ort), ej bevisad identitet.",
    "FOLKRÄKNING 1930 Arvika landsf., Ålgården: ”Hulda Karolina” f. 1887 Brunskog, f. Zetterlund, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen – samma födelseår/ort som ”Alfrida Christina” 1887: troligen samma person med namnvariant (ej bevisat; kontrollera husförhör Brunskog).",
    "FOLKRÄKNING 1910 Arvika landsf., Ålgården: ”Sätterlund, Hulda Karolina f. 1887 Brunskog” hustru till kakelarbetaren Erik Martin Andersson (f. 1884 Hallen), son Gunnar 1910 – styrker att 1887-dottern är Hulda Karolina.",
-   "Folkräkning 1890 Folk_103597654 och husförhör b.178: Hulda Karolina f. 1887."
+   "Folkräkning 1890 Folk_103597654 och husförhör b.178: Hulda Karolina f. 1887.",
+   "Husförhör A I/35 b.178: 'Hulda Karolina' f. 87, dag/mån läst 7/3, ort 'Skog'; folkräkning 1890 'Hulda Karolina' f. 1887 Brunskog 'd.'. Ta bort 'tidigare Alfrida Christina' (felläsning) ur namn/altNames/search. SCB-födelseutdrag 1887 saknar post 7 mars/Zetterlund i Brunskog moder (A0036402_00282-284) – födelsedatum bör därför markeras '(läst 7/3, osäker)'."
   ],
   "sources": [
    {
@@ -26296,7 +26300,8 @@
   "notes": [
    "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)",
    "FOLKRÄKNING – TVÅ KANDIDATER för Anders Andersson f. 1854 i Brunskog (ej i faderns hushåll 1890): (A) Anders Andersson Nygren, banvakt, Hvittensten, Eda 1910, gift med Anna Kajsa Olsdotter f. 1858 Brunskog (barn Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 – födda i Eda); (B) Anders Andersson, ”måg” hos Britta Eriksdotter (f. 1832) i Årås, Sunne 1890, hemmansägare Årås Lobråten 1910, gift med Katrina Jansdotter f. 1856 Sunne (barn Axel 1884, Viktor 1887, Hulda Lavinia 1888, Anders Fritiof 1894, Ellen Teresia 1897). Båda har födelseår 1854 + födelseförsamling Brunskog; inget avgör vilken som är Karins son. Ingen av dem verified.",
-   "Dop Brunskog C I/5 b.47 nr 13."
+   "Dop Brunskog C I/5 b.47 nr 13.",
+   "Eda-kandidaten (A) är avförd: Andreas Nygren Andersson i Eda var gift med barn f. 1880 i Eda samtidigt som Karins son (ogift, 's.') står i Västra Furtan 1880. Kvarstår: Sunne-kandidaten (B) – ej avgjord. Uppdatera note 'TVÅ KANDIDATER'. Dop: 'C I/5 b.47 nr 13' bekräftad: född 11 febr, döpt 12 febr 1854, 'Par: G. Drängen Anders Andersson et H. Karin Ersdr i Ö. Takene', fadder bl.a. Olof Ersson et H. Maria Olsdr."
   ],
   "sources": [
    {
@@ -29638,12 +29643,12 @@
  {
   "id": "jb73_berggren",
   "name": "Johannes Berggren (f. 1873, Brunskog), byggmästare Årnäs",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1873",
-   "place": "Brunskog"
+   "date": "1873-02-19",
+   "place": "Ö. Takene, Brunskog"
   },
   "places": [
    "Årnäs, Brunskog"
@@ -29653,7 +29658,8 @@
    "FOLKRÄKNING 1900 Brunskog, Årnäs, sida 44 rad 33: Berggren, Johannes f. 1873 i Brunskog, Fabriksförman, gift (Famstkod Far/man); Persson, Betty f. 1870 Brunskog; Jon Maurits 1898; Hildur Ingegärd 1900.",
    "FOLKRÄKNING 1910 Brunskog, Årnäs, sida 40 rad 19: Berggren, Johannes f. 1873 Brunskog, Byggmästare; hustru Betty; barn Hildur Ingegärd 1900, Johan Maritz 1898, Nanny Maria 1902, Ellen Elisabet 1904, Olof Gustaf 1907.",
    "FOLKRÄKNING 1930 Brunskog, Årnäs, sida 34 rad 5: Berggren, Johannes f. 1873 Brunskog, Byggnadssnickare, biyrke jordbrukare, gift 1928 (Vigselår 1928); Engström, Elin f. 1886 Stavnäs; Elof Gustav f. 1907, Snickare.",
-   "KOPPLING: Anslutning till Stina Elofsdotters barn är sannolik (född Brunskog 1873; systern Anna Lisa f. 1876 bar efternamnet Berggren i Stinas hushåll 1900/1910; dottern Hildur Ingegärd uppkallad Ingegärd) men ingen uttrycklig familjeställning mot föräldrarna är läst."
+   "KOPPLING: Anslutning till Stina Elofsdotters barn är sannolik (född Brunskog 1873; systern Anna Lisa f. 1876 bar efternamnet Berggren i Stinas hushåll 1900/1910; dottern Hildur Ingegärd uppkallad Ingegärd) men ingen uttrycklig familjeställning mot föräldrarna är läst.",
+   "Födelsedatum 19 feb 1873 (SCB födelse 1873 rad 19 + SCB vigsel 1897 nr 11); gift 11 dec 1897 med Betty Persson (f. 1870-03-23(?) Kyrkobyn, ägardotter). Föräldrar Anders Olsson + Stina Elofsdotter, Ö. Takene."
   ],
   "sources": [
    {
@@ -30847,7 +30853,7 @@
  {
   "id": "erik_martin_andersson_hk",
   "name": "Erik Martin Andersson (krukmakare, f. 1884)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31198,7 +31204,7 @@
  {
   "id": "al_johan_emanuel_1896",
   "name": "Johan Emanuel (f. 1896), son till Anna Lydia Sätterlund",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31252,7 +31258,7 @@
  {
   "id": "al_david_verner_1903",
   "name": "David Verner Johannesson (f. 1903)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31279,7 +31285,7 @@
  {
   "id": "al_signe_karolina_1905",
   "name": "Signe Karolina Johannesson (f. 1905)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31306,7 +31312,7 @@
  {
   "id": "al_emma_ingeborg_1907",
   "name": "Emma Ingeborg Johannesson (f. 1907)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31333,7 +31339,7 @@
  {
   "id": "al_erik_sigfrid_1910",
   "name": "Erik Sigfrid Johannesson (f. 1910)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31419,7 +31425,7 @@
  {
   "id": "z_anna_margareta_e",
   "name": "Anna Margareta Zetterlund (f. 1910)",
-  "status": "strong",
+  "status": "lead",
   "sex": "f",
   "living": false,
   "born": {
@@ -31431,7 +31437,8 @@
   ],
   "summary": "Dotter till Johan Albert Efraim Zetterlund och Anna Charlotta Nilsson; f. 1910 i Karlstad.",
   "notes": [
-   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station sida 17: ”Anna Margareta, f. 1910 i Karlstad” i Efraims hushåll."
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station sida 17: ”Anna Margareta, f. 1910 i Karlstad” i Efraims hushåll.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades: sterbarn. Rekommendation: ändra relationen till fosterbarn (typ 'foster') eller ta bort; ev. biologiska föräldrar via SCB Karlstad 1910 (ej sökt). OBS: avviker möjligen om hon är släkting – ej belagt."
   ],
   "sources": [
    {
@@ -32256,7 +32263,7 @@
  {
   "id": "olof_an_1884_eda",
   "name": "Olof Andersson (f. 1884, Eda)",
-  "status": "candidate",
+  "status": "lead",
   "sex": "m",
   "living": false,
   "born": {
@@ -32268,7 +32275,8 @@
   ],
   "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
   "notes": [
-   "FOLKRÄKNING 1910 Eda, Hvittensten: Olof Andersson f. 1884 i Eda."
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Olof Andersson f. 1884 i Eda.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades:  Ersdr i Ö. Takene'). Relationen (förälder/make = anders_ak_1854) är därför fel; barnen/partnern tillhör en egen person 'Andreas (Anders) Andersson Nygren f. 1854 Brunskog, banvakt, Hvittensten, Eda'."
   ],
   "sources": [
    {
@@ -32283,7 +32291,7 @@
  {
   "id": "karl_halvar_an_1897_eda",
   "name": "Karl Halvar Andersson (f. 1897, Eda)",
-  "status": "candidate",
+  "status": "lead",
   "sex": "m",
   "living": false,
   "born": {
@@ -32295,7 +32303,8 @@
   ],
   "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
   "notes": [
-   "FOLKRÄKNING 1910 Eda, Hvittensten: Karl Halvar Andersson f. 1897 i Eda."
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Karl Halvar Andersson f. 1897 i Eda.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades:  Ersdr i Ö. Takene'). Relationen (förälder/make = anders_ak_1854) är därför fel; barnen/partnern tillhör en egen person 'Andreas (Anders) Andersson Nygren f. 1854 Brunskog, banvakt, Hvittensten, Eda'."
   ],
   "sources": [
    {
@@ -32310,7 +32319,7 @@
  {
   "id": "viktor_hilding_an_1899_eda",
   "name": "Viktor Hilding Andersson (f. 1899, Eda)",
-  "status": "candidate",
+  "status": "lead",
   "sex": "m",
   "living": false,
   "born": {
@@ -32322,7 +32331,8 @@
   ],
   "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
   "notes": [
-   "FOLKRÄKNING 1910 Eda, Hvittensten: Viktor Hilding Andersson f. 1899 i Eda."
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Viktor Hilding Andersson f. 1899 i Eda.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades:  Ersdr i Ö. Takene'). Relationen (förälder/make = anders_ak_1854) är därför fel; barnen/partnern tillhör en egen person 'Andreas (Anders) Andersson Nygren f. 1854 Brunskog, banvakt, Hvittensten, Eda'."
   ],
   "sources": [
    {
@@ -34729,13 +34739,13 @@
  },
  {
   "id": "aq1_rut_pj94",
-  "name": "Rut Johansson (f. 1894 Brunskog), g. 1925 Adolf Wilhelm Nilsson",
+  "name": "Rut Johansson (f. 1894 Brunskog), dotter till Petrus Johansson",
   "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1894",
-   "place": "Brunskog"
+   "date": "1894-10-11",
+   "place": "Brunskog (Takene)"
   },
   "places": [
    "Takene, Brunskog",
@@ -34744,7 +34754,8 @@
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Troligen identisk med Rut Olsson, g. 1925 med Adolf Wilhelm Nilsson, Toltan (”f. Olsson” – modern Britta Olsdotters patronymikon?). Identiteten ej styrkt.",
   "notes": [
-   "FOLKRÄKNING 1930 Brunskog Toltan s.26 r.24 (Folk_128883994): ”Olsson, Rut f. 1894 Brunskog, gift 1925, h., f. Olsson” hos Adolf Wilhelm Nilsson. Rut f. 1894 i Brunskog syns även 1910 i Petrus Johanssons hushåll; kopplingen bygger på namn + födelseår/-ort + patronymet Olsson."
+   "FOLKRÄKNING 1930 Brunskog Toltan s.26 r.24 (Folk_128883994): ”Olsson, Rut f. 1894 Brunskog, gift 1925, h., f. Olsson” hos Adolf Wilhelm Nilsson. Rut f. 1894 i Brunskog syns även 1910 i Petrus Johanssons hushåll; kopplingen bygger på namn + födelseår/-ort + patronymet Olsson.",
+   "SCB födelse Brunskog moder 1894 (A0036609_00460, nr 71): Rut f. 11 okt, föräldrar 'Johansf. Petrus, Eg.' + 'Olsd:r Brita, Takene'. Hon är INTE gift 1925 med Adolf Wilhelm Nilsson – ta bort 'g. 1925 Adolf Wilhelm Nilsson' ur namn/summary/notes (den som gifte sig 31 dec 1925 var Rut Olsson f. 23/11 1894, Wikene)."
   ],
   "sources": [
    {
@@ -34830,7 +34841,7 @@
  {
   "id": "aq1_ingrid_nilsson27",
   "name": "Ingrid Alice Nilsson (f. 1927 Brunskog)",
-  "status": "strong",
+  "status": "lead",
   "sex": "f",
   "living": true,
   "born": {
@@ -34842,7 +34853,8 @@
   ],
   "summary": "Dotter till Adolf Wilhelm Nilsson och Rut, Toltan.",
   "notes": [
-   "FOLKRÄKNING 1930 Toltan s.26: ”Ingrid Alice, f. 1927 i Brunskog” i Adolf Wilhelm Nilssons hushåll."
+   "FOLKRÄKNING 1930 Toltan s.26: ”Ingrid Alice, f. 1927 i Brunskog” i Adolf Wilhelm Nilssons hushåll.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades:  Petrus Johansson och Brita Olsdotter, Takene). Barnet Ingrid Alice är dotter till Adolf Wilhelm Nilsson + Rut Olsson – förälder-länken till aq1_rut_pj94 ska tas bort; ny person för Rut Olsson behövs."
   ],
   "sources": [
    {
@@ -34857,7 +34869,7 @@
  {
   "id": "aq1_betty_nilsson29",
   "name": "Betty Gunnel Nilsson (f. 1929 Brunskog)",
-  "status": "strong",
+  "status": "lead",
   "sex": "f",
   "living": true,
   "born": {
@@ -34869,7 +34881,8 @@
   ],
   "summary": "Dotter till Adolf Wilhelm Nilsson och Rut, Toltan.",
   "notes": [
-   "FOLKRÄKNING 1930 Toltan s.26: ”Betty Gunnel, f. 1929 i Brunskog” i Adolf Wilhelm Nilssons hushåll."
+   "FOLKRÄKNING 1930 Toltan s.26: ”Betty Gunnel, f. 1929 i Brunskog” i Adolf Wilhelm Nilssons hushåll.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades:  Petrus Johansson och Brita Olsdotter, Takene). Barnet Betty Gunnel är dotter till Adolf Wilhelm Nilsson + Rut Olsson – förälder-länken till aq1_rut_pj94 ska tas bort; ny person för Rut Olsson behövs."
   ],
   "sources": [
    {
@@ -37371,6 +37384,59 @@
   ],
   "search": [
    "Antonina Orzechowska (f. 1910?)"
+  ]
+ },
+ {
+  "id": "rut_olsson_1894_wikene",
+  "name": "Rut Olsson (f. 1894, Wikene; g. 1925 med Adolf Wilhelm Nilsson)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1894-11-23",
+   "place": "Wikene, Brunskog"
+  },
+  "places": [
+   "Wikene",
+   "Toltan"
+  ],
+  "summary": "Dotter till Magnus Olsson och Matilda Håkansdotter (Wikene). Gift 31/12 1925 med Adolf Wilhelm Nilsson (Toltan). Mor till Ingrid Alice (1927) och Betty Gunnel (1929). Hålls isär från Rut Johansson f. 11/10 1894 (Petrus Johanssons dotter).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "SCB vigselutdrag Brunskog 1925, nr 16: Adolf Vilhelm Nilsson, Toltan + ”Rut Olsson, hemmansäg. dotter, Vikene”, f. 94 23/11, gifta 31 dec 1925 (A0032360_00742); SCB födelse Brunskog 1894 nr 69 (A0036609_00460): Rut f. 23 nov, föräldrar Magnus Olsson + Matilda Håkansdotter, Wikene",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0032360_00742"
+   }
+  ],
+  "search": [
+   "Rut Olsson (f. 1894, Wikene; g. 1925 med Adolf Wilhelm Nilsson)"
+  ]
+ },
+ {
+  "id": "nygren_andreas_1854_eda",
+  "name": "Andreas (Anders) Andersson Nygren (f. 1854 Brunskog, banvakt, Eda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Banvakt i Eda 1880 (Hvittensten), gift med Anna Kajsa Olsdotter f. 1858 Brunskog. En annan man än Anders Andersson f. 11/2 1854 i Östra Takene (Karin Eriksdotters son, ogift hemma 1880).",
+  "notes": [
+   "Folkräkning 1880 Eda, Hvittensten s.54 (Folk_120406571): ”Nygren Andersson, Andreas f. 1854 Brunskog, Banvakt”. Karin Eriksdotters son Anders: dop Brunskog C I/5 b.47 nr 13, f. 11 feb 1854, ”G. Drängen Anders Andersson et H. Karin Ersdr i Ö. Takene”."
+  ],
+  "sources": [
+   {
+    "label": "Folkräkning 1880 Eda, Hvittensten s.54 (Folk_120406571)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/"
+   }
+  ],
+  "search": [
+   "Andreas (Anders) Andersson Nygren (f. 1854 Brunskog, banvakt, Eda)"
   ]
  }
 ]
