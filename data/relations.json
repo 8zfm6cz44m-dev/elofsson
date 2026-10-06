@@ -3545,8 +3545,8 @@
    "kjerstin_nilsd91"
   ],
   "child": "brittanils",
-  "status": "strong",
-  "basis": "A I/13 bild 69, Strand: ”D. Britta 15/2 20 ibm” i hushållet Nils Andersson 23/6 86 / H. Kjerstin Nilsd. 2/5 91; dopbok C I/3 bild 139 nr 10: Strand, Brita, Nils Andersson/Kjerstin Nilsd.; A I/23 bild 145: Britta ”15/2 20”. Identiteten med hustrun i A I/23 vilar på exakt datum + fadersnamn (strong, ej verified)."
+  "status": "verified",
+  "basis": "Husförhör A I/25 bild 140 (fol. 141), Ö. Takene: vid Britta Nilsdotter (f. 15/2 1820) står som föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”. Bekräftar tidigare strong (A I/13 b.69, dopbok C I/3 b.139 nr 10). Uppgradera till verified."
  },
  {
   "id": "p-nils_andersson86_strand-kjerstin_nilsd91",
@@ -7404,5 +7404,215 @@
   "b": "ao4_brita_olsd52",
   "status": "strong",
   "basis": "Folkräkning 1890 Takene s.21 r.45 / 1900 Ö. Takene s.30 r.41: Petrus Johansson + hustru Brita Olsson/Olsdotter f. 1852 Brunskog (hushåll, gift)."
+ },
+ {
+  "id": "s-nils_ne-zetterlund",
+  "type": "sibling",
+  "a": "nils_ne",
+  "b": "zetterlund",
+  "status": "verified",
+  "basis": "A I/23 bild 145, A I/25 bild 140, A I/27 bild 142: Nils 21/2 1841 och Erik 8/2 1843 står i samma hushåll som barn/styvbarn till Nils Ersson/Britta Nilsdotter resp. Olof Jansson/Brita Nilsd."
+ },
+ {
+  "id": "s-cajsa_ne-zetterlund",
+  "type": "sibling",
+  "a": "cajsa_ne",
+  "b": "zetterlund",
+  "status": "verified",
+  "basis": "A I/23 bild 145, A I/25 bild 140, A I/27 bild 142: Cajsa (f. 1846) i samma hushåll som Erik."
+ },
+ {
+  "id": "s-johannes_z-zetterlund",
+  "type": "sibling",
+  "a": "johannes_z",
+  "b": "zetterlund",
+  "status": "verified",
+  "basis": "A I/23 bild 145, A I/25 bild 140 (S. Johannes Nilsson 1/11 48), A I/27 bild 142 (Stfs. Johannes Nilsson 1/11 48): samma hushåll som Erik."
+ },
+ {
+  "id": "s-nils_ne-johannes_z",
+  "type": "sibling",
+  "a": "nils_ne",
+  "b": "johannes_z",
+  "status": "verified",
+  "basis": "Samma hushåll A I/23, A I/25, A I/27."
+ },
+ {
+  "id": "s-nils_ne-cajsa_ne",
+  "type": "sibling",
+  "a": "nils_ne",
+  "b": "cajsa_ne",
+  "status": "verified",
+  "basis": "Samma hushåll A I/23, A I/25, A I/27."
+ },
+ {
+  "id": "s-cajsa_ne-johannes_z",
+  "type": "sibling",
+  "a": "cajsa_ne",
+  "b": "johannes_z",
+  "status": "verified",
+  "basis": "Samma hushåll A I/23, A I/25, A I/27."
+ },
+ {
+  "id": "c-olofjansson-brittanils-britta_oj52",
+  "type": "child",
+  "parents": [
+   "olofjansson",
+   "brittanils"
+  ],
+  "child": "britta_oj52",
+  "status": "verified",
+  "basis": "A I/27 bild 142 (fol. 133, nr 146): ”Bd. Olof Jansson / H. Brita Nilsd … egen d. Brita 4/12 52” – barnet markerat som egen dotter i hushållet; även A I/25 bild 140."
+ },
+ {
+  "id": "c-olofjansson-brittanils-maria_oj55",
+  "type": "child",
+  "parents": [
+   "olofjansson",
+   "brittanils"
+  ],
+  "child": "maria_oj55",
+  "status": "verified",
+  "basis": "A I/27 bild 142 (fol. 133, nr 146): ”Bd. Olof Jansson / H. Brita Nilsd … egen d. Maria 3/11 55” – barnet markerat som egen dotter i hushållet; även A I/25 bild 140."
+ },
+ {
+  "id": "c-olofjansson-brittanils-karl_oj61",
+  "type": "child",
+  "parents": [
+   "olofjansson",
+   "brittanils"
+  ],
+  "child": "karl_oj61",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karl 1861 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+ },
+ {
+  "id": "c-olofjansson-brittanils-karin_oj64",
+  "type": "child",
+  "parents": [
+   "olofjansson",
+   "brittanils"
+  ],
+  "child": "karin_oj64",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karin 1864 ”d.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+ },
+ {
+  "id": "c-olofjansson-brittanils-gustaf_oj66",
+  "type": "child",
+  "parents": [
+   "olofjansson",
+   "brittanils"
+  ],
+  "child": "gustaf_oj66",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Gustaf 1866 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+ },
+ {
+  "id": "s-nils_ne-britta_oj52",
+  "type": "sibling",
+  "a": "nils_ne",
+  "b": "britta_oj52",
+  "status": "verified",
+  "basis": "Halvsyskon (samma mor Britta Nilsdotter): A I/27 bild 142, Stf. + egen d. i samma hushåll."
+ },
+ {
+  "id": "s-cajsa_ne-britta_oj52",
+  "type": "sibling",
+  "a": "cajsa_ne",
+  "b": "britta_oj52",
+  "status": "verified",
+  "basis": "Halvsyskon (samma mor Britta Nilsdotter): A I/27 bild 142, Stf. + egen d. i samma hushåll."
+ },
+ {
+  "id": "s-johannes_z-britta_oj52",
+  "type": "sibling",
+  "a": "johannes_z",
+  "b": "britta_oj52",
+  "status": "verified",
+  "basis": "Halvsyskon (samma mor Britta Nilsdotter): A I/27 bild 142, Stf. + egen d. i samma hushåll."
+ },
+ {
+  "id": "s-zetterlund-britta_oj52",
+  "type": "sibling",
+  "a": "zetterlund",
+  "b": "britta_oj52",
+  "status": "verified",
+  "basis": "Halvsyskon (samma mor Britta Nilsdotter): A I/27 bild 142, Stf. + egen d. i samma hushåll."
+ },
+ {
+  "id": "s-zetterlund-maria_oj55",
+  "type": "sibling",
+  "a": "zetterlund",
+  "b": "maria_oj55",
+  "status": "verified",
+  "basis": "Halvsyskon: A I/27 bild 142."
+ },
+ {
+  "id": "s-zetterlund-karl_oj61",
+  "type": "sibling",
+  "a": "zetterlund",
+  "b": "karl_oj61",
+  "status": "strong",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+ },
+ {
+  "id": "s-zetterlund-karin_oj64",
+  "type": "sibling",
+  "a": "zetterlund",
+  "b": "karin_oj64",
+  "status": "strong",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+ },
+ {
+  "id": "s-zetterlund-gustaf_oj66",
+  "type": "sibling",
+  "a": "zetterlund",
+  "b": "gustaf_oj66",
+  "status": "strong",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+ },
+ {
+  "id": "p-olof_am-betty_j1853_skog",
+  "type": "partner",
+  "a": "olof_am",
+  "b": "betty_j1853_skog",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog: Olof Andersson f. 1841 Gift + Betty Jansdotter f. 1853 ”h.” (hustru) i hushållet; identiteten Olof Andersson (1841) = Anders Månssons son är strong."
+ },
+ {
+  "id": "c-olof_am-betty_j1853_skog-alma_karolina_oa96",
+  "type": "child",
+  "parents": [
+   "olof_am",
+   "betty_j1853_skog"
+  ],
+  "child": "alma_karolina_oa96",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Skog: Alma Karolina f. 1896 ”d.” hos Olof Andersson (änkling); 1900 i samma hushåll som Betty (h.). Identiteten Olof strong."
+ },
+ {
+  "id": "s-olof_am-cajsa_am",
+  "type": "sibling",
+  "a": "olof_am",
+  "b": "cajsa_am",
+  "status": "verified",
+  "basis": "A I/23 bild 125 och A I/25 bild 122: samma hushåll (S. Olof 41, D. Cajsa 44)."
+ },
+ {
+  "id": "s-olof_am-annaandersdotter",
+  "type": "sibling",
+  "a": "olof_am",
+  "b": "annaandersdotter",
+  "status": "verified",
+  "basis": "A I/23 bild 125, A I/25 bild 122: S. Olof 24/11 41, D. Anna 14/12 46 i samma hushåll."
+ },
+ {
+  "id": "s-cajsa_am-annaandersdotter",
+  "type": "sibling",
+  "a": "cajsa_am",
+  "b": "annaandersdotter",
+  "status": "verified",
+  "basis": "A I/23 bild 125, A I/25 bild 122: D. Cajsa 10/2 44, Anna 14/12 46 i samma hushåll."
  }
 ]

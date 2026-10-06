@@ -1690,7 +1690,10 @@
    "HUSFÖRHÖR A I/35 bild 179 (fol. 179, Skog): hushållet med äktenskap ”30/12 74” (gift 30 dec 1874) – ”Erik Nilsson 43 8/2 Ö. Takene; H. Anna Andersdotter 46 14/12 Skog; Hanna Elisabeth 76; Erik Johan 78 30/12; Paul 81; Hulda 85; Signe Maria 89”. Ingen utflyttningsnotering 1881–90. Hushållet finns inte i Skog-folierna 163–171 i A I/37 (1891–95, bild 159–167) – troligen annan folio/annan gård i 1891–95 (ej funnet än).",
    "E8 KONTROLL A I/35 bild 179 (fol. 179, Skog; gårdsnamn överst ”Där Nole”): Erik Nilsson 43 8/2 Ö.Takene; H. Anna Andersdotter 46 14/12 Skog; gift 30/12 74; Dotter Hanna Elisabeth 76 (dag/mån ”9/?” oklart); Son Erik Johan 78 30/12; Son Paul 81 6/11; Dotter Hulda 85 16/3 (”död” överstruket); Signe Maria 89 8/2. Allt bekräftat; fullständiga födelsedagar nya jämfört med tidigare notering.",
    "HUSFÖRHÖR A II a/1 (E1) bild 210 (sida 200, Skog, Dernole): ”Erik Nilsson [HEg=hemmansegare] 43 8/2 Takene, g. 74 30/12”, h. ”Anna Andersdotter 46 14/12 L.”; inflyttat från GB 160. Barn: Hanna Elisabeth 76 6/7 (Amerika 01 26/4), Erik Johan 78 30/12 (Amerika 03 /8), Paul 81 6/11, Hulda 85 16/3, Signe Maria 89 8/2.",
-   "HUSFÖRHÖR A II a/3 bild 185 rad 2: ”B. Erik Nilsson” 43 3/2 ”Takene”, gift ”74 30/12”; rad 3 ”H. Anna Andersdotter” 46 14/12; rad 4 ”d. Hulda” 85 16/3; rad 5 Signe Maria 89 8/2 och Hanna Elisabet Eriksson 76 6/7."
+   "HUSFÖRHÖR A II a/3 bild 185 rad 2: ”B. Erik Nilsson” 43 3/2 ”Takene”, gift ”74 30/12”; rad 3 ”H. Anna Andersdotter” 46 14/12; rad 4 ”d. Hulda” 85 16/3; rad 5 Signe Maria 89 8/2 och Hanna Elisabet Eriksson 76 6/7.",
+   "HUSFÖRHÖR A I/25 bild 140 (fol. 141, Ö. Takene): ”Olof Jansson 10/12(?) 21 Brunskog; H. Britta Nilsd. 15/2 20 Brunskog; S. Nils Nilsson 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; D. Cajsa Nilsdr 1/? 46 ibm; S. Johannes Nilsson 1/11 48 ibm; Dotter Britta ?/12 52 ibm; – Maria ?/11 55 ibm.” Högersidan vid Britta: föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”; anm. ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851” (läsning osäker i detalj).",
+   "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
+   "STYVFAR: i A I/25 och A I/27 står Erik Nilsson 8/2 43 som styvbarn (”Stf.”) hos bonden Olof Jansson och hustrun Brita Nilsd på Ö. Takene (nr 146). Namnet Zetterlund/Setterlund förekommer ännu inte vid Erik 1856–60 men vid brodern Nils (”Intagen i Carlstads Skola med namn Setterlund”) – troligen hämtades efternamnet därifrån."
   ],
   "sources": [
    {
@@ -1728,6 +1731,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A II a/3, Skog (Der nole) sid 180, bild 185: Erik Nilsson f. 43 3/2 Takene, gift 74 30/12",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00185"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
    }
   ],
   "search": [
@@ -1778,7 +1789,9 @@
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1846–1850 (Brunskog A I/23, bild 125), Skog: ”Dott. Anna 14/12 1846” i Anders Månssons och Anna Olsdotters hushåll. Primärbelägg för föräldrarna.",
    "FOLKRÄKNINGAR 1880, 1890, 1900 och 1930, Skog i Brunskog: Erik Nilsson (f. 1843 i Brunskog, hemmansägare) och Anna Andersdotter (f. 1846 i Brunskog) med barnen Hanna Elisabeth (1876), Erik Johan (1878), Paul (1881), Hulda (1885) och Signe Maria (1889).",
-   "Användarträd: dotter till Anders Månsson (1818–1905) + Anna Olsdotter (1813–1885)."
+   "Användarträd: dotter till Anders Månsson (1818–1905) + Anna Olsdotter (1813–1885).",
+   "HUSFÖRHÖR A I/25 bild 122 (fol. 113, Skog): ”Gifte Dr. Anders Månsson 18/9 18 Brunskog; H. Anna Ols.dr 24/2 13 ibm; S. Olof 24/11 41 ibm; D. Cajsa 10/2 44 ibm; – Anna 14/12 46 ibm”. I samma hushåll inhysta ”Pig. Maria Månsd. 12/2 21 Brunskog” och ”Dr. Olof Månsson 21/7 31 ibm” (Anders Månssons syskon enligt A I/17 – ej ’syster/bror’ i denna längd) samt Piga Brita Nilsd 24 Ö. Emterviks m.fl.",
+   "Familjen 1851–55: tre barn (Olof 1841, Cajsa 1844, Anna 1846); inga fler barn till Anders Månsson och Anna Olsdotter i A I/23 (1846–50) eller A I/25 (1851–55) – Anna är yngst. Inga barn födda 1847–55 i hushållet."
   ],
   "sources": [
    {
@@ -1804,6 +1817,10 @@
    {
     "label": "Brunskogs hembygdsförening, personpost",
     "url": "https://www.hembygd.se/brunskog/plats/221740/person/389450"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 122 (fol. 113), Skog: Gifte Dr. Anders Månsson 18/9 18, H. Anna Ols.dr 24/2 13, S. Olof 24/11 41, D. Cajsa 10/2 44, – Anna 14/12 46",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00122"
    }
   ],
   "search": [
@@ -2298,6 +2315,14 @@
    {
     "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1820), bild 139, s. 240, Febr nr 10: 14 | 15 | Strand, Brita, Nils Andersson / Kjerstin Nilsd.; faddrar Per Nilsson, Brita Andersd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
    }
   ],
   "search": [
@@ -2312,7 +2337,12 @@
    "Möjlig identitet: ”Britta Nilsdotter, f. 1820-05-12, kallad Gryt-Britta” i hembygdsföreningens register. Födelseåret stämmer med användarträdet (1820), men identiteten är inte bevisad.",
    "A I/23 bild 145: hustrun Britta Nilsdotter född ”?/? 20”, ort ”ibm” (Brunskog); dag/månad ej säkert läsbar i den lilla skriften (möjligen 12/5, vilket skulle stämma med ”Gryt-Britta”). I Brunskogs födelsebok 1820 (C I/3 bild 139–142, nr 1–82, hela året läst) finns INGEN flicka Brita/Britta med far Nils: Brita-poster är nr 10 (Nils Andersson/Kjerstin Nilsd), nr 11 (Anders Andersson/Ingrid Jansdotter), nr 18 (Olof Nilsson/Karin Andersdotter), nr 22 Edane (Olof Jönsson?), nr 31 Skog 7/8 maj (Per Jonsson/Karin Olsdotter), nr 56 (Christopher Andersson/Maja Persdotter). Hon är alltså sannolikt född i annan socken (Boda? Eda?) eller felskriven; ”Gryt” kunde inte bekräftas i Brunskogs böcker.",
    "LYSNING 1840 (E I/3 bild 80): ”Pig. Britta Nilsd. densammastädes” (Ö. Takene), ålder 20 → f. 1820. A I/23 bild 145 (zoom): född ”15/? 20” ibm (Brunskog), svårläst. Kandidat för dopet: Brita f. 6/2 1820 Lerhol, dotter till Nils Svensson + Anna Andersdotter (C I/3 bild 139) – ej bevisat; dag stämmer inte entydigt.",
-   "IDENTIFIERING: A I/23 bild 145 ger ”15/2 20”; A I/13 bild 69 har D. Britta ”15/2 20” på Strand (Nils Andersson 1786 + Kjerstin Nilsd. 1791); dopbok 1820 nr 10: Brita, Strand, Nils Andersson/Kjerstin Nilsd. (född 14, döpt 15 febr). Dag+månad+år+fadersnamn stämmer; ingen annan Brita Nilsdotter med samma datum funnen. Kandidaten Brita på Lerhol (6/2 1820, Nils Svensson) AVFÄRDAD – hennes födelsedatum 6/2 avviker."
+   "IDENTIFIERING: A I/23 bild 145 ger ”15/2 20”; A I/13 bild 69 har D. Britta ”15/2 20” på Strand (Nils Andersson 1786 + Kjerstin Nilsd. 1791); dopbok 1820 nr 10: Brita, Strand, Nils Andersson/Kjerstin Nilsd. (född 14, döpt 15 febr). Dag+månad+år+fadersnamn stämmer; ingen annan Brita Nilsdotter med samma datum funnen. Kandidaten Brita på Lerhol (6/2 1820, Nils Svensson) AVFÄRDAD – hennes födelsedatum 6/2 avviker.",
+   "HUSFÖRHÖR A I/25 bild 140 (fol. 141, Ö. Takene): ”Olof Jansson 10/12(?) 21 Brunskog; H. Britta Nilsd. 15/2 20 Brunskog; S. Nils Nilsson 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; D. Cajsa Nilsdr 1/? 46 ibm; S. Johannes Nilsson 1/11 48 ibm; Dotter Britta ?/12 52 ibm; – Maria ?/11 55 ibm.” Högersidan vid Britta: föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”; anm. ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851” (läsning osäker i detalj).",
+   "FÖRÄLDRAR (primärt belägg): husförhör A I/25 bild 140 anger vid Britta föräldrarna ”Nils Andersson och H. Kjerstin Nilsdotter i Strand” – bekräftar relationen till Nils Andersson (f. 1786) och Kjerstin Nilsdotter på Strand (tidigare strong).",
+   "ANDRA ÄKTENSKAPET: A I/25 bild 140 anger ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851”; Olof Jansson (f. 1821) kom alltså från Skog. Dotter Britta f. 1852 är första barnet i andra äktenskapet.",
+   "FOLKRÄKNING 1880 Ö. Takene (Folk_120423125, sida 27 rad 2): Nilsdotter, Britta f. 1820 Brunskog, Gift, fam.ställning ”h.”; barn Britta 1852 (d.), Karl 1861 (s.), Karin 1864 (d.), Gustaf 1866 (s.). 1890 Takene (Folk_103598075, sida 22 rad 5): Nilsdotter, Brita f. 1820 Brunskog, Gift, ”h.”; Karin 1864 ”d.” kvar.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad."
   ],
   "places": [
    "Ö. Takene, Brunskog"
@@ -2336,7 +2366,9 @@
    "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 125), Skog: ”Gift dr. Anders Månsson” f. 1818 i Brunskog, hustru Anna Olsdotter f. 24/2 1813, barnen Olof (24/11 1841), Cajsa (10/2 1844) och Anna (14/12 1846). Bor i bonden Per Olssons (1785) och Karin Andersdotters (1784) hushåll.",
    "Folkräkning 1880 Skog: Anders Månsson f. 1818 i Brunskog, hemmansägare, hustru Anna Olsdotter f. 1813, sonen Olof f. 1841. Posten står direkt före Erik Nilssons och Anna Andersdotters hushåll (post-id 120423020 och 120423023).",
    "Folkräkning 1890 och 1900 Skog: änkling.",
-   "Dottern Anna (f. 1846) bor inte i hushållet 1880 eftersom hon då är gift med Erik Nilsson på samma gård."
+   "Dottern Anna (f. 1846) bor inte i hushållet 1880 eftersom hon då är gift med Erik Nilsson på samma gård.",
+   "HUSFÖRHÖR A I/25 bild 122 (fol. 113, Skog): ”Gifte Dr. Anders Månsson 18/9 18 Brunskog; H. Anna Ols.dr 24/2 13 ibm; S. Olof 24/11 41 ibm; D. Cajsa 10/2 44 ibm; – Anna 14/12 46 ibm”. I samma hushåll inhysta ”Pig. Maria Månsd. 12/2 21 Brunskog” och ”Dr. Olof Månsson 21/7 31 ibm” (Anders Månssons syskon enligt A I/17 – ej ’syster/bror’ i denna längd) samt Piga Brita Nilsd 24 Ö. Emterviks m.fl.",
+   "FOLKRÄKNING 1880 Skog (Folk_120423020–22, sida 24 rad 45–47): Månsson, Anders f. 1818 Brunskog, Gift, Hemmansägare; Olsdotter, Anna f. 1813 ”h.”; Olof f. 1841 ”s.”."
   ],
   "sources": [
    {
@@ -2362,6 +2394,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, Brunskog, Skog: Anders Månsson, änkling",
     "url": "https://sok.riksarkivet.se/?postid=Folk_109937584"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 122 (fol. 113), Skog: Gifte Dr. Anders Månsson 18/9 18, H. Anna Ols.dr 24/2 13, S. Olof 24/11 41, D. Cajsa 10/2 44, – Anna 14/12 46",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00122"
    }
   ],
   "search": [
@@ -2408,7 +2444,8 @@
    "Äldre: Olof Andersson (1782–1828) + Karin Jansdotter (1785–1831); Olof ← Anders Olsson (1751–1808) + Ingeborg Eriksdotter (1753–1819); Karin ← Jon Ersson (1741–1808) + Anna Andersdotter (1756–1808).",
    "C I/3 bild 110 (1813): ”Mars 22 – nr 21: Lerhol. Anna. Olof Andersson, Kari Jonsdotter. Faddrar: Anders Persson; Kari Anders dtr.” Födelsebokens kolumner 1813 är endast dopdatum + löpnummer – ingen födelsedag anges, så 24/2 (A I/23) och dop 22/3 är förenliga (26 dagars intervall).",
    "A I/23 bild 125, Skog s. 114: ”H. Anna Ols.dr 24/2 13, ibm [Brunskog]” hos Per Olsson/Karin Andersdotter som inhyses hos; make ”Gift dr. Anders Månsson 18/9 18”; barn Olof 24/11 1841, Cajsa 10/2 1844, Anna 14/12 1846.",
-   "A I/14 bild 46 (fol. 36), Lerhol 1 Skatte: ”Unge Olof Andersson 20/1 82 Lerhol; H. Karin Jonsd. 85 Vikene; S. Olof 9/10 10; D. Anna 22/3 13; D. Brita 1/1 16; D. Kajsa 11/6 18; S. Anders 17/3 21; S. Jonas 23.” A I/16 bild 148 (s. 133) samma hushåll (överstruket). Datumet 22/3 1813 stämmer med dopboken; 24/2 i A I/23 avviker."
+   "A I/14 bild 46 (fol. 36), Lerhol 1 Skatte: ”Unge Olof Andersson 20/1 82 Lerhol; H. Karin Jonsd. 85 Vikene; S. Olof 9/10 10; D. Anna 22/3 13; D. Brita 1/1 16; D. Kajsa 11/6 18; S. Anders 17/3 21; S. Jonas 23.” A I/16 bild 148 (s. 133) samma hushåll (överstruket). Datumet 22/3 1813 stämmer med dopboken; 24/2 i A I/23 avviker.",
+   "HUSFÖRHÖR A I/25 bild 122 (fol. 113, Skog): ”Gifte Dr. Anders Månsson 18/9 18 Brunskog; H. Anna Ols.dr 24/2 13 ibm; S. Olof 24/11 41 ibm; D. Cajsa 10/2 44 ibm; – Anna 14/12 46 ibm”. I samma hushåll inhysta ”Pig. Maria Månsd. 12/2 21 Brunskog” och ”Dr. Olof Månsson 21/7 31 ibm” (Anders Månssons syskon enligt A I/17 – ej ’syster/bror’ i denna längd) samt Piga Brita Nilsd 24 Ö. Emterviks m.fl."
   ],
   "sources": [
    {
@@ -2434,6 +2471,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: Anna 22/3 1813 loco, i hushållet Olof Andersson/Karin Jonsd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 122 (fol. 113), Skog: Gifte Dr. Anders Månsson 18/9 18, H. Anna Ols.dr 24/2 13, S. Olof 24/11 41, D. Cajsa 10/2 44, – Anna 14/12 46",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00122"
    }
   ],
   "search": [
@@ -4495,6 +4536,18 @@
    {
     "label": "Riksarkivet, folkräkning 1930, Eda, Åmots mun.samhälle, sida 68 rad 44: Zetterlund, Johannes f. 1848 i Brunskog, vigselår 1875, inflyttad 1919 från Ny",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128986019&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
    }
   ],
   "search": [
@@ -4502,7 +4555,12 @@
   ],
   "notes": [
    "HUSFÖRHÖR A I/35 bild 178 (Skog): Johannes Nilsson Zetterlund 48 1/11 Takene (= 1848-11-01) bor på Skog med hustru Magdalena Andersdotter och barnen Maria Sofia 1876, Johan Albin Efraim 1878, David Emanuel 1881, Maria Elisabeth 1884, Alfrida Christina 1887, Signe Amalia 1889. Remark: ”Bortflyttad? … ” ej tolkad. Bekräftar att Johannes bodde på Skog 1881–90 och är Eriks bror (samma efternamn Zetterlund, samma föräldrar enligt register).",
-   "FOLKRÄKNING 1890 Brunskog Säfvelskog (Folk_103597648): ”Nilsson Zetterlund, Johannes f. 1848 Brunskog, Åbo, Gift”; Magdalena Andersdotter 1853; barn Anna Lydia 1876 (Brunskog), Johan Albert Efraim 1878 (Siklaö, Stockholms län), David Emanuel 1881 (Brunskog), Maria Elisabeth 1884 (Sunne), Hulda Karolina 1887 (Brunskog), Signe Amalia 1889 (Brunskog). 1900 Strand (Folk_109937907): efternamn ”Sätterlund”, Torpare; barn Johan Albert Efraim, David Emanuel, Hulda Karolina, Signe Amalia, Nils Gustaf 1892, Karl Teodor 1895; fam. nr 2 Anna Lydia 1876 med Johan Emanuel 1896 och Anna Helena 1900. 1910 Ny Tostebol (Folk_125541868): Sätterlund, Byggnadsarbetare; hos honom Nils Gustaf och Karl Teodor. 1930 Eda Åmots mun.samhälle (Folk_128986019): Zetterlund, Träarbetare/Byggnadssnickare f.d., husägare, vigselår 1875, inflyttad 1919 från Ny; hustru Andersson, Magdalena f. 1853."
+   "FOLKRÄKNING 1890 Brunskog Säfvelskog (Folk_103597648): ”Nilsson Zetterlund, Johannes f. 1848 Brunskog, Åbo, Gift”; Magdalena Andersdotter 1853; barn Anna Lydia 1876 (Brunskog), Johan Albert Efraim 1878 (Siklaö, Stockholms län), David Emanuel 1881 (Brunskog), Maria Elisabeth 1884 (Sunne), Hulda Karolina 1887 (Brunskog), Signe Amalia 1889 (Brunskog). 1900 Strand (Folk_109937907): efternamn ”Sätterlund”, Torpare; barn Johan Albert Efraim, David Emanuel, Hulda Karolina, Signe Amalia, Nils Gustaf 1892, Karl Teodor 1895; fam. nr 2 Anna Lydia 1876 med Johan Emanuel 1896 och Anna Helena 1900. 1910 Ny Tostebol (Folk_125541868): Sätterlund, Byggnadsarbetare; hos honom Nils Gustaf och Karl Teodor. 1930 Eda Åmots mun.samhälle (Folk_128986019): Zetterlund, Träarbetare/Byggnadssnickare f.d., husägare, vigselår 1875, inflyttad 1919 från Ny; hustru Andersson, Magdalena f. 1853.",
+   "HUSFÖRHÖR A I/25 bild 140 (fol. 141, Ö. Takene): ”Olof Jansson 10/12(?) 21 Brunskog; H. Britta Nilsd. 15/2 20 Brunskog; S. Nils Nilsson 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; D. Cajsa Nilsdr 1/? 46 ibm; S. Johannes Nilsson 1/11 48 ibm; Dotter Britta ?/12 52 ibm; – Maria ?/11 55 ibm.” Högersidan vid Britta: föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”; anm. ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851” (läsning osäker i detalj).",
+   "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
+   "A I/25 bild 140: ”S. Johannes Nilsson 1/11 48 ibm” (son i hushållet med Olof Jansson/Britta Nilsd.); A I/27 bild 142: ”Stfs. Johannes Nilsson 1/11 48”. Föräldrarna Nils Ersson/Britta Nilsdotter bekräftas av A I/23 bild 145.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene, nedre delen): ”Åbo(?) Johannes Nilsson Setterlund 48 1/11 do [Ö. Takene]; H. Magdalena Andersdotter 53 22/7 Skog; Anna Lydia 76 22/? do; Johan Albert Efraim 78 15/10 Siklaö, Stockholms län; David Emanuel 81 1/3 Ö. Takene”; inflyttad från ”Siklaö förs., Stockholms län 81 14/1”; utflyttad ”Sunne 83 26/10”.",
+   "A I/35 bild 197 (Ö. Takene): Johannes Nilsson Setterlund 1/11 48 med hustru Magdalena Andersdotter 53 22/7 Skog, barn Anna Lydia 76, Johan Albert Efraim 78 (f. Sicklaön), David Emanuel 81 (f. Ö. Takene); inflyttad 14/1 1881 från Sicklaön, utflyttad till Sunne 26/10 1883 (Maria Elisabeth f. 1884 Sunne stämmer). Senare tillbaka till Brunskog (A I/35 bild 178, Skog; folkräkning 1890 Säfvelskog)."
   ]
  },
  {
@@ -4537,7 +4595,7 @@
  },
  {
   "id": "olof_am",
-  "name": "Olof Andersson (1841)",
+  "name": "Olof Andersson (f. 24/11 1841, Skog)",
   "status": "verified",
   "sex": "m",
   "born": {
@@ -4547,7 +4605,7 @@
   "places": [
    "Skog, Brunskog"
   ],
-  "summary": "Son till Anders Månsson och Anna Olsdotter (folkräkning 1880) – alltså Anna Andersdotters bror och Huldas morbror.",
+  "summary": "Son till Anders Månsson och Anna Olsdotter; Anna Andersdotters äldre bror. Hemmansägare på Skog 1890–1910; ogift 1890, gift (1900) med Betty Jansdotter f. 1853, dotter Alma Karolina f. 1896; änkling 1910.",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
@@ -4556,10 +4614,35 @@
    {
     "label": "Riksarkivet, Folkräkning 1880, Brunskog, Skog",
     "url": "https://sok.riksarkivet.se/?postid=Folk_120423020"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 122 (fol. 113), Skog: Gifte Dr. Anders Månsson 18/9 18, H. Anna Ols.dr 24/2 13, S. Olof 24/11 41, D. Cajsa 10/2 44, – Anna 14/12 46",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00122"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Skog, sida 24 rad 47: Olof f. 1841 Brunskog, Ogift, ”s.” i Anders Månssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423022&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskog, Skog, sida 20 rad 8: Andersson, Olof f. 1841 Brunskog, Ogift, hemmansägare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597979&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 3: Andersson, Olof f. 1841, Gift, Hemmansegare; h. Betty Jansdotter f. 1853; Alma Karolina 1896",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937585&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 24: Andersson, Olof f. 1841, Änkling, Hemmansägare; d. Alma Karolina 1896",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549354&tab=post"
    }
   ],
   "search": [
    "Olof, f. 1841"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 122 (fol. 113, Skog): ”Gifte Dr. Anders Månsson 18/9 18 Brunskog; H. Anna Ols.dr 24/2 13 ibm; S. Olof 24/11 41 ibm; D. Cajsa 10/2 44 ibm; – Anna 14/12 46 ibm”. I samma hushåll inhysta ”Pig. Maria Månsd. 12/2 21 Brunskog” och ”Dr. Olof Månsson 21/7 31 ibm” (Anders Månssons syskon enligt A I/17 – ej ’syster/bror’ i denna längd) samt Piga Brita Nilsd 24 Ö. Emterviks m.fl.",
+   "FOLKRÄKNING 1880 Skog (Folk_120423022): Olof f. 1841 Brunskog, Ogift, ”s.” (son) till Anders Månsson. 1890 Skog (Folk_103597979, sida 20 rad 8): Andersson, Olof 1841, Ogift, hemmansägare. 1900 Skog (Folk_109937585, sida 20 rad 3): Olof Andersson 1841, Gift, Hemmansegare; h. Betty Jansdotter f. 1853 Brunskog; Alma Karolina f. 1896. 1910 Skog (Folk_125549354, sida 16 rad 24): Olof Andersson 1841, Änkling, Hemmansägare; d. Alma Karolina f. 1896 Brunskog.",
+   "IDENTITET (strong): Olof Andersson f. 1841 på Skog 1890–1910 identifieras med Anders Månssons son Olof (24/11 1841) på namn+födelseår+gård; i Folkräkning 1880 ”s.” hos Anders Månsson. Det finns en annan Olof Andersson f. 1841 Brunskog på Bråten (gift) – ej att förväxla."
   ]
  },
  {
@@ -4568,21 +4651,40 @@
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1821",
-   "place": "Brunskog"
+   "date": "1821-12-10",
+   "place": "Skog, Brunskog",
+   "note": "A I/35 bild 197: ”21 10/12 Skog” (född på Skog); A I/25/27 ”10/12 21 Brunskog”."
   },
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Hemmansägare på Östra Takene; Britta Nilsdotters andra make och styvfar till Erik Nilsson Zetterlund och Johannes Zetterlund.",
+  "summary": "Hemmansägare på Östra Takene, f. 10/12 1821 på Skog i Brunskog (lysning 1851 ”fr Skog”). Gift 1851 med änkan Britta Nilsdotter; styvfar till Nils (Setterlund/Zetterlund), Erik, Cajsa och Johannes; far till Britta (1852), Maria/Maja (1855), Karl/Carl (1861), Karin (1864) och Gustaf (1866). 1881–90 inhyses/skriven hos måg (A I/35).",
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Brunskog, Ö. Takene",
     "url": "https://sok.riksarkivet.se/?postid=Folk_120423125"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
    }
   ],
   "search": [
    "Olof Jansson"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 140 (fol. 141, Ö. Takene): ”Olof Jansson 10/12(?) 21 Brunskog; H. Britta Nilsd. 15/2 20 Brunskog; S. Nils Nilsson 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; D. Cajsa Nilsdr 1/? 46 ibm; S. Johannes Nilsson 1/11 48 ibm; Dotter Britta ?/12 52 ibm; – Maria ?/11 55 ibm.” Högersidan vid Britta: föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”; anm. ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851” (läsning osäker i detalj).",
+   "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
+   "FOLKRÄKNING 1880 Ö. Takene (Folk_120423124, sida 27 rad 1): Jansson, Olof f. 1821 Brunskog, Gift, Hemmansägare. 1890 Takene (Folk_103598074, sida 22 rad 4): Olof Jansson f. 1821 Brunskog, Gift, hemmanseg. Husförhör A I/25 anger att han kom ”fr Skog” (lyst 1851).",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad."
   ]
  },
  {
@@ -4597,38 +4699,83 @@
   "places": [
    "Skog, Brunskog"
   ],
-  "summary": "Dotter till Anders Månsson och Anna Olsdotter – Anna Andersdotters syster.",
+  "summary": "Dotter till Anders Månsson och Anna Olsdotter (A I/23, A I/25) – Anna Andersdotters syster. Troligen (strong) gift med färgeriarbetaren Anders Peter Johansson Asp i Örgryte 1880.",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog: Anders Månsson, Anna Olsdotter, Olof 1841, Cajsa 1844, Anna 14/12 1846",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 122 (fol. 113), Skog: Gifte Dr. Anders Månsson 18/9 18, H. Anna Ols.dr 24/2 13, S. Olof 24/11 41, D. Cajsa 10/2 44, – Anna 14/12 46",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00122"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Örgryte, Krokslätt Norgården, sida 40 rad 25: Andersdotter, Cajsa f. 1844 Brunskog, Gift, ”h.”; make Johansson Asp, Anders Peter f. 1850 Kinnarumma, färgeriarbetare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_118251615&tab=post"
    }
   ],
   "search": [
    "Cajsa 1844"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 122 (fol. 113, Skog): ”Gifte Dr. Anders Månsson 18/9 18 Brunskog; H. Anna Ols.dr 24/2 13 ibm; S. Olof 24/11 41 ibm; D. Cajsa 10/2 44 ibm; – Anna 14/12 46 ibm”. I samma hushåll inhysta ”Pig. Maria Månsd. 12/2 21 Brunskog” och ”Dr. Olof Månsson 21/7 31 ibm” (Anders Månssons syskon enligt A I/17 – ej ’syster/bror’ i denna längd) samt Piga Brita Nilsd 24 Ö. Emterviks m.fl.",
+   "STRONG (flytt/öde): folkräkning 1880 Örgryte (Göteborgs och Bohus län), Krokslätt Norgården (Folk_118251615, sida 40 rad 25): ”Andersdotter, Cajsa f. 1844 i Brunskog Värmlands län, Gift, h.”; make Johansson Asp, Anders Peter f. 1850 Kinnarumma, färgeriarbetare; barn (s./d.) Erik Harald f. 1874 Råda, Anna Hildegard f. 1878 Örgryte; styvdotter ”Fredriksdotter, Christina” f. 1866 Brunskog. Enda träff på namn+födelseår+socken (Brunskog) i folkräkningarna – identiteten med Anders Månssons dotter är strong (ej verified)."
   ]
  },
  {
   "id": "nils_ne",
-  "name": "Nils Nilsson (1841)",
+  "name": "Nils Nilsson Zetterlund (Setterlund)",
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1841",
-   "place": "Brunskog"
+   "date": "1841-02-21",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/25 bild 140 och A I/27 bild 142: ”21/2 41 ibm”."
   },
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Barn till Nils Ersson och Britta Nilsdotter (husförhörslängd 1846–1850) – Erik Nilsson Zetterlunds syskon.",
+  "summary": "Son till Nils Ersson och Britta Nilsdotter, f. 21/2 1841 Ö. Takene; intagen i Karlstads skola ”med namn Setterlund”. Troligen (strong) folkskolläraren Nils Zetterlund i Sunne (1880–90) och Arvika (1900–10).",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Sunne, Södra Arneby, sida 125: Zetterlund, Nils f. 1841 Brunskog, Folkskolelärare; h. Lovisa Jansdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890, Sunne, S:a Arneby 55, sida 111: Zetterlund, Nils f. 1841 Brunskog, Folkskolelärare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103610830&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Arvika köping, sida 49: Zetterlund, Nils f. 1841 Brunskog, f.d. folkskollärare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113724054&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Arvika landsförsamling, Haga, sida 86: Zetterlund, Nils f. 1841 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125539970&tab=post"
    }
   ],
   "search": [
    "Nils Nilsson (1841)"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
+   "ANMÄRKNING A I/27 bild 142 vid Nils (Nilsson) Setterlund: ”Intagen i Carlstads Skola med namn Setterlund”.",
+   "IDENTITET (strong): A I/27 bild 142 (fol. 133): ”Stf. Nils (Nilsson) Setterlund 21/2 41” med anm. ”Intagen i Carlstads Skola med namn Setterlund”. Folkräkning 1880 Sunne, Södra Arneby (Folk_120437747, sida 125 rad 18): ”Zetterlund, Nils, f. 1841 i Brunskog, Gift, Folkskolelärare”. Samma person enligt namn+födelseår+socken+yrke (folkskollärare passar Karlstads skola) – dock ingen uttrycklig familjeställning mellan Nils Zetterlund och Erik Nilsson ⇒ strong.",
+   "FOLKRÄKNING 1880 Sunne, S. Arneby (Folk_120437747–Folk_120437755): Nils Zetterlund 1841 (Folkskolelärare), h. Lovisa Jansdotter f. 1835 Ölme; barn (b.) Augusta Teodora 1865, August Teodor 1866, Erik Johan 1868, Hulda Lovisa 1870, Janne Timoteus 1872, Nils Kristofer 1874, Hanna Elisabeth 1876, Lydia 1879 (alla f. Sunne).",
+   "FOLKRÄKNING 1890 Sunne (Folk_103610830): Zetterlund, Nils 1841, Folkskolelärare; h. Lovisa Jansdotter 1835 Ölme; d./s.: Augusta Teodora 1865, August Teodor 1866, Hulda Lovisa 1870, Nils Kristoffer 1874, Hanna Elisabet 1876, Lydia 1879.",
+   "FOLKRÄKNING 1900 Arvika köping (Folk_113724054, sida 49 rad 29): Zetterlund, Nils 1841 Brunskog, f.d. folkskollärare, gift; h. Lovisa Jansdotter 1835; d. Augusta Teodora 1865, Hanna Elisabeth 1876, Lydia 1879, Hulda Lovisa 1870 (modehandl.). 1910 Arvika landsförsamling, Haga (Folk_125539970, sida 86 rad 4): Zetterlund, Nils 1841, folkskolelärare f.d., gift (hustru nu ”Bryntesdotter, S…”, ej utredd)."
   ]
  },
  {
@@ -4643,15 +4790,28 @@
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Barn till Nils Ersson och Britta Nilsdotter (husförhörslängd 1846–1850) – Erik Nilsson Zetterlunds syskon.",
+  "summary": "Dotter till Nils Ersson och Britta Nilsdotter, f. 1/? 1846 Ö. Takene (styvdotter till Olof Jansson). Möjligen (lead) Kajsa Nilsdotter f. 1846, ogift piga i Nor/Mällerud (1900–30).",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00145"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
    }
   ],
   "search": [
    "Cajsa Nilsdotter (1846)"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 140 (fol. 141, Ö. Takene): ”Olof Jansson 10/12(?) 21 Brunskog; H. Britta Nilsd. 15/2 20 Brunskog; S. Nils Nilsson 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; D. Cajsa Nilsdr 1/? 46 ibm; S. Johannes Nilsson 1/11 48 ibm; Dotter Britta ?/12 52 ibm; – Maria ?/11 55 ibm.” Högersidan vid Britta: föräldrar ”Nils Andersson och H. Kjerstin Nilsdotter i Strand”; anm. ”Lyst till äktenskap med Dr Olof Jansson fr Skog 1851” (läsning osäker i detalj).",
+   "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
+   "LEAD (ej verifierad): folkräkning 1900/1910 Nor, Mällerud (Folk_114965716, Folk_125495314) och 1930 Nor, Ålderdomshemmet (Folk_128617689): ”Nilsdotter, Kajsa” f. 1846 i Brunskog, Ogift, inhysespiga; 1930 inflyttad 1882 från Boda. Namn+år+födelsesocken stämmer med Cajsa Nilsdotter f. 1846 Ö. Takene men helt oprövat (inga föräldrar angivna)."
   ]
  },
  {
@@ -28240,6 +28400,274 @@
   ],
   "search": [
    "Olof Andersson (Ö. Takene, far till Olof f. 1804?)"
+  ]
+ },
+ {
+  "id": "britta_oj52",
+  "name": "Britta Olofsdotter (f. 1852)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1852-12-04",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/25 bild 140 / A I/27 bild 142 (egen dotter/son); folkräkning 1880 f. 1852 Brunskog."
+  },
+  "places": [
+   "Östra Takene, Brunskog",
+   "Ny, Värmland"
+  ],
+  "summary": "Dotter till Olof Jansson och Britta Nilsdotter; gift 6/3 1881 med missionstalaren Petrus Johansson och flyttade till Ny socken 8/12 1881. Halvsyster till Erik Nilsson Zetterlund.",
+  "notes": [
+   "A I/25 bild 140: ”Dotter Britta ?/12 52 ibm”; A I/27 bild 142: ”egen d. Brita 4/12 52 ibm”. Folkräkning 1880 Ö. Takene (Folk_120423126, sida 27 rad 3): Britta f. 1852 Brunskog, Ogift, ”d.”. Senare öden ej utredda.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
+   "Gift 6/3 1881 med missionstalaren Petrus Johansson (Ny socken, Värmland) enligt A I/35 bild 197; utflyttad till Ny 8/12 1881. Petrus Johansson ej utredd här (f. ca 1846? – annan agent söker honom)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Ö. Takene, sida 27: Britta f. 1852 Brunskog, familjeställning i Olof Janssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423126&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   }
+  ],
+  "search": [
+   "Britta Olofsdotter (f. 1852)"
+  ]
+ },
+ {
+  "id": "maria_oj55",
+  "name": "Maria Olofsdotter (f. 1855)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1855-11-03",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/25 bild 140 / A I/27 bild 142 (egen dotter/son); folkräkning 1880 f. 1855 Brunskog."
+  },
+  "places": [
+   "Östra Takene, Brunskog",
+   "Stockholm (Storkyrkan)"
+  ],
+  "summary": "Dotter till Olof Jansson och Britta Nilsdotter (kallad Maja), f. 3/11 1855; flyttade 26/1 1883 till Storkyrkans församling, Stockholm.",
+  "notes": [
+   "A I/25 bild 140: ”– Maria ?/11 55”; A I/27 bild 142: ”egen d. Maria 3/11 55 ibm”. Ej i folkräkning 1880-hushållet (Britta, Karl, Karin, Gustaf).",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
+   "A I/35: Maja f. 3/11 1855 (= Maria 3/11 55 i A I/27) flyttade till Storkyrkan, Stockholm 26/1 1883."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Ö. Takene, sida 27: Maria f. 1855 Brunskog, familjeställning i Olof Janssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423125&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   }
+  ],
+  "search": [
+   "Maria Olofsdotter (f. 1855)"
+  ]
+ },
+ {
+  "id": "karl_oj61",
+  "name": "Carl (Karl) Setterlund (f. 14/3 1861)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1861-03-14",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/35 bild 197: ”Son Carl Setterlund 61 14/3”."
+  },
+  "places": [
+   "Östra Takene, Brunskog",
+   "Stockholm (Adolf Fredrik)"
+  ],
+  "summary": "Son till Olof Jansson och Britta Nilsdotter, f. 14/3 1861; kallad Carl Setterlund i A I/35; flyttade 23/12 1884 till Adolf Fredrik, Stockholm.",
+  "notes": [
+   "Folkräkning 1880 Ö. Takene (Folk_120423127, sida 27 rad 4): Karl f. 1861 Brunskog, Ogift, ”s.”. Födelsen 1861 ligger efter A I/27 (1856–60); A I/29 ej läst. Ej funnen i 1890–1910 under Karl/Brunskog.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
+   "A I/35 bild 197: ”Son Carl Setterlund 61 14/3” (född 14/3 1861 Ö. Takene) – tog alltså namnet Setterlund liksom halvbrodern Nils; flyttade till Adolf Fredriks församling, Stockholm 23/12 1884."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Ö. Takene, sida 27: Karl f. 1861 Brunskog, familjeställning i Olof Janssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423127&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   }
+  ],
+  "search": [
+   "Carl (Karl) Setterlund (f. 14/3 1861)"
+  ]
+ },
+ {
+  "id": "karin_oj64",
+  "name": "Karin Olofsdotter (f. 1864)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1864-01-11",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/35 bild 197: ”Karin 64 11/1”."
+  },
+  "places": [
+   "Östra Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Jansson och Britta Nilsdotter på Ö. Takene (halvsyskon till Erik Nilsson Zetterlund). Dotter (”d.”) hos Olof Jansson 1880 och 1890.",
+  "notes": [
+   "Folkräkning 1880 Ö. Takene (Folk_120423128, sida 27 rad 5): Karin f. 1864, Ogift, ”d.”. 1890 Takene (Folk_103598076, sida 22 rad 6): Karin f. 1864 Brunskog, Ogift, ”d.” i Olof Janssons hushåll.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
+   "A I/35 bild 197: ”Dotter Karin 64 11/1” – ingen utflyttning noterad 1881–90 (stämmer med folkräkning 1890 på Takene)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Ö. Takene, sida 27: Karin f. 1864 Brunskog, familjeställning i Olof Janssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423128&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   }
+  ],
+  "search": [
+   "Karin Olofsdotter (f. 1864)"
+  ]
+ },
+ {
+  "id": "gustaf_oj66",
+  "name": "Gustaf Olofsson (f. 1866)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1866-10-04",
+   "place": "Östra Takene, Brunskog",
+   "note": "A I/35 bild 197: ”66 4/10” (osäker läsning)."
+  },
+  "places": [
+   "Östra Takene, Brunskog",
+   "Nordamerika"
+  ],
+  "summary": "Son till Olof Jansson och Britta Nilsdotter, f. ca 4/10 1866; utvandrade till Nordamerika 1888 (tillstånd att lämna riket 1888). Halvbror till Erik Nilsson Zetterlund.",
+  "notes": [
+   "Folkräkning 1880 Ö. Takene (Folk_120423129, sida 27 rad 6): Gustaf f. 1866 Brunskog, Ogift, ”s.”. Senare öde ej funnet.",
+   "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
+   "A I/35 bild 197: ”Son Gustaf 66 4/10(?)”; anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”; utflyttad till Nordamerika 1888 (datum osäkert: ”88 ?/8”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, Östra delen), bild 140 (fol. 141), Ö. Takene: Olof Jansson 21, H. Britta Nilsd. 20, S. Nils Nilsson 41, Erik Nilsson 43, D. Cajsa 46, S. Johannes 48, Dotter Britta 52, Maria 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00140"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, Östra delen), bild 142 (fol. 133, hushåll nr 146), Ö. Takene: Bd Olof Jansson 10/12 21, H. Brita Nilsd 15/2 20, Stf. Nils (Nilsson) Setterlund 21/2 41, Erik Nilsson 8/2 43, Stf.d. Cajsa Nilsd 1/? 46, Stf.s. Johannes Nilsson 1/11 48, egen d. Brita 4/12 52, egen d. Maria 3/11 55",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00142"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1880, Brunskog, Ö. Takene, sida 27: Gustaf f. 1866 Brunskog, familjeställning i Olof Janssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423129&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   }
+  ],
+  "search": [
+   "Gustaf Olofsson (f. 1866)"
+  ]
+ },
+ {
+  "id": "betty_j1853_skog",
+  "name": "Betty Jansdotter (f. 1853, Skog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Hustru till Olof Andersson (f. 1841) på Skog 1900; död före 1910 (Olof änkling 1910).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog (Folk_109937586, sida 20 rad 4): Jansdotter, Betty f. 1853 Brunskog, Gift, ”h.” i Olof Anderssons hushåll; dotter Alma Karolina f. 1896. Folkräkning 1910: Olof änkling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 4: Jansdotter, Betty f. 1853 Brunskog, Gift, ”h.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937586&tab=post"
+   }
+  ],
+  "search": [
+   "Betty Jansdotter (f. 1853, Skog)"
+  ]
+ },
+ {
+  "id": "alma_karolina_oa96",
+  "name": "Alma Karolina Olofsdotter/Andersdotter (f. 1896)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Dotter till Olof Andersson (f. 1841) på Skog; Huldas kusin (morbror Olofs dotter).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog (Folk_109937587): Alma Karolina f. 1896 Brunskog, Ogift, i Olof Anderssons hushåll. 1910 (Folk_125549355, sida 16 rad 25): Alma Karolina f. 1896 Brunskog, Ogift, ”d.” hos Olof Andersson (änkling)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 25: Alma Karolina f. 1896 Brunskog, Ogift, ”d.” hos Olof Andersson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549355&tab=post"
+   }
+  ],
+  "search": [
+   "Alma Karolina Olofsdotter/Andersdotter (f. 1896)"
   ]
  }
 ]
