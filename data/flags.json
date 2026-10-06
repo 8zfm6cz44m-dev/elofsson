@@ -2488,6 +2488,31 @@
     "anna_lycka",
     "valborg"
    ]
+  },
+  {
+   "title": "Folkräkningssökning 1880–1910 Stridsberg/Persson Segerstad ej gjord (captcha)",
+   "text": "Riksarkivets folkräkningssök (https://sok.riksarkivet.se/folkrakningar/?Efternamn=Stridsberg&…) gav captcha i AK7:s flik; avbröt enligt instruktion. Uppgiften (3) kvarstår: Stridsberg, Andersson/Persson i Segerstad 1880–1910 samt Andreas f. 1806 / Jan Fredrik f. 1815 (Amerika?).",
+   "persons": [
+    "andreas_stridsberg_1806",
+    "jan_fredrik_stridsberg_1815"
+   ]
+  },
+  {
+   "title": "Anders Persson (f. 1811 Ed): ’Försvunnen’ 1860? – dödsplats okänd",
+   "text": "A I/18 bild 219 anmärkning (osäker läsning) ’Försvunnen’ vid hans utflyttning 1860; A I/20 bild 149: hustrun anges som ’Mannen Anders Persson, ryat(?) – se fol 236’. Kan betyda att han avvikit/lämnat familjen; Maja Katrina var ’understödstagare’ 1860. Bör verifieras med högre upplösning eller A I/19 (1861–65).",
+   "persons": [
+    "anders_persson_vakarr_1851"
+   ]
+  },
+  {
+   "title": "Toltan-gruppens bönder 1695–1700 (AK8)",
+   "text": "Mantalslängder 1695/96/98/1700: Nils Larsson, Isak Larsson, Isak Biörsson (Toltan) stabila; Lars Ersson, Pär Ersson, Jöns Ersson 1695–96 (försvinner 1698; 1698 ’Enkan’ ny). Hypotes: Lars Ersson är fader/släkting till Nils Larsson och Isak Larsson (patronymikon Larsson) – ej belagd. Elof Nilsson (f. 1687) bör vara son till Nils Larsson, men ingen längd 1694–1700 nämner honom (för ung).",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan",
+    "isak_larsson_toltan",
+    "marit_isaksd"
+   ]
   }
  ],
  "conflicts": [
