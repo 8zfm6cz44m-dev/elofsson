@@ -4495,6 +4495,22 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846-1850), bild 135 (sida 123), Ö. Takene: ”13. Anders Elofsson” 16 Brskog, ”H. Stina Nilsd.” 24/10 14[sic, 13] Frykerud, ”Dotter Maria Cajsa” 24/1 42 Boda, ”Son Nils” 30/8 44 Boda, ”Son Anders” 30/8 48 Brskog; inflyttad ”Frykerud d. 47”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, C0036764), bild 131 (s.122, Ö. Takene ½ skatte): ”Bön. Anders Elofsson” 16, H. Stina Nilsd. 13 Frykerud, D. Maria Cajsa 42 Boda, S. Nils 44 Boda, S. Anders 48 Brskog, S. Johannes 51 ibm (”Död. 51”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00131"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (1856–1860, C0036766), bild 137 (s.128, Ö. Takene ½ skatte): ”Fadr Elof Persson 27/2 76 Brskog”; ”Brodr Anders Elofsson 13/4 16”, ”H. Stina Nilsd 23/10 13 Frykerud”, ”d. Maria Cajsa 23/1 42 Boda”, ”s. Nils 20/8 44”, ”s. Anders 30/8 48 Brskog”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00137"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/29 (1861–1865, C0036768), bild 133 (s.141, Östra Takene 1 Kr. Sk.): ”Brodr Anders Elofsson 16 13/4 Ö Takene Brskg”, ”H. Stina Nilsd 13 23/10 Lene Fryk.”, ”D. Maria Kaj. 42 23/1 Boda”, ”s Nils 44 20/8 Ärtetan Boda”, ”s Anders 48 30/8 Ö Takene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036768_00133"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/31 (1866–1870, C0036770), bild 182 (s.188, Östra Takene 1 Kr. Sk.): ”Inhyses Brodr: Anders Elofsson 16 13/4 Ö Takene”, ”H: Stina Nilsd: 13 23/10 Frykerud”; ingen utflyttning noterad för dem t.o.m. 1870",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00182"
    }
   ],
   "search": [
@@ -4537,7 +4553,11 @@
    "N4 FRYKERUD DÖDBOK F/2 (C0037143) bild 92–95 (dödsår okt 1845 – ca 20 maj 1847, rad för rad avläst; bild 90/110 årsorientering: bild 90=1844, 92=1845/46, 94=1846/47, 98=1849): ingen dödspost för barn med fader Anders Elofsson/moder Stina Nilsdotter eller för Stina/Anders (Lene-poster 1845–47 gällde andra familjer). Jan–sep 1845 (bild 91) ej läst. Barnen Maria Cajsa och Nils dog alltså inte i Frykerud okt 1845–maj 1847.",
    "N4 FRYKERUD DOPBOK C/6 (C0037139) bild 191 (okt–nov 1845), 193 (1846, höger/vänster), 195 (dec 1846–mars 1847) överblickade; bild 193 vänstersida jan–mars 1846 zoomad: inget barn med fader Anders Elofsson (ej uttömmande genomläst rad för rad – se unresolved).",
    "N4 NORGE (Digitalarkivet-sök, FT 1865/1875/1900, curl 2026-10): inget barn Maria Andersdatter f. 1842 / Nils Andersen f. 1844 (Sverige/Boda/Brunskog/Frykerud) funnet som kopplat till Anders Elofsen/Stina i Eidsvoll. Enda svaga lead: ”Marie Andersdatter” 24 år f. Sverige, ug Tjenestepige, FT 1865 Ullensaker, Røgler lille (pf01038022007902) – enbart namn+ålder+land, EJ bekräftat (Anders bodde i Ullensaker 1891). Utesluten: Kaisa Ellefsdatter f. 1842 Brunskog, gift 1865 Gamle Aker med Gulbrand Hansen: brudens far ”Ellef Larsen” (Digitalarkivet pv00000005648599) – alltså inte dotter till Anders Elofsson.",
-   "N4 BRUNSKOG HUSFÖRHÖR A I/23 (C0036762, 1846-50) bild 135 (sida 123), Ö. Takene ½ skatte (Per Elofssons gård), hushåll nr 13: ”Anders Elofsson” 16 Brskog; ”H. Stina Nilsd.” 24/10 [13] Frykerud; ”Dotter Maria Cajsa” 24/1 42 Boda; ”Son Nils” 30/8 44 Boda; ”Son Anders” 30/8 48 Brskog. Inflyttad (bracket) ”Frykerud d. 47”; ingen utflyttning angiven på sidan (läst 1846–50-kolumnerna: nattvard/förhör noteras 1848–50). Alltså bosatta på Ö. Takene, Brunskog, 1847–50, i faderns/broderns gård; sonen Anders f. 1848 är nytt barn."
+   "N4 BRUNSKOG HUSFÖRHÖR A I/23 (C0036762, 1846-50) bild 135 (sida 123), Ö. Takene ½ skatte (Per Elofssons gård), hushåll nr 13: ”Anders Elofsson” 16 Brskog; ”H. Stina Nilsd.” 24/10 [13] Frykerud; ”Dotter Maria Cajsa” 24/1 42 Boda; ”Son Nils” 30/8 44 Boda; ”Son Anders” 30/8 48 Brskog. Inflyttad (bracket) ”Frykerud d. 47”; ingen utflyttning angiven på sidan (läst 1846–50-kolumnerna: nattvard/förhör noteras 1848–50). Alltså bosatta på Ö. Takene, Brunskog, 1847–50, i faderns/broderns gård; sonen Anders f. 1848 är nytt barn.",
+   "HUSFÖRHÖR A I/25 (1851–55) b.131 (s.122) / A I/27 (1856–60) b.137 (s.128) / A I/29 (1861–65) b.133 (s.141) / A I/31 (1866–70) b.182 (s.188): Anders Elofsson (16) med Stina Nilsd. bor kvar som hushåll (1856–60 som ”Brodr” till Per Elofsson, sedan inhyses) på Östra Takene ½ skatte, i samma hus som brodern Per Elofsson (f. 30/3 1811). Ingen utflyttning noterad för Anders/Stina i någon av volymerna t.o.m. 1870 (alla fyra läsningar). Utflyttningen till Norge ligger alltså 1871–75 (A I/33–34, C0036772–73, ej läst).",
+   "A I/27 b.137: fadern Elof Persson (27/2 76) står överst i hushållet; vid hans rad i högerkolumnen noteras ”7/56” och ”Bef.” (död/begravd juli 1856, överensstämmer med död 1856).",
+   "A I/31 b.182: Nils (f. 20/8 44) lyst/gift i apr 1867 (”22/4 67” i äktenskapskolumnen) med Pig. Johanna Persdotter i Boda, flyttar till Boda S:n (”Remstad p.168”); Anders jr (f. 30/8 48) överstruken, utflyttad 1870 (destination svårläst, ”?ma?” 70).",
+   "HUSFÖRHÖR A I/33 (1871–80, C0036772) bild 196 (s.187, Östra Takene 1 Kr. Sk.): hushållet Enkan Kajsa Andersdotter (Per Elofssons änka) med Anders 54, Maria 56, Emil 59, Johan 63 – Anders Elofsson sr och Stina Nilsd. finns INTE på sidorna Ö. Takene s.186–192 (bild 195–202) eller Svartåna s.238–239 (bild 250–251) som jag hann läsa; de är alltså utflyttade senast vid bokens start (1870/71) eller står på annan sida. Utflyttningsnotering ej funnen. Sonen Anders (f. 30/8 48) står 1871 som ”Dräng Anders Andersson” på s.187 med flyttanteckning ”Grava S:n 14/11 72 (Bor …) p.178”."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok).",
@@ -4934,6 +4954,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhör A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: ”S. Erik” 1779 25/3 under Christopher Svensson",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3 (1784–), bild 33 (s. 39, 1810): 29 juli nr 14, Drängen Erik Christopherson från Brunskog och Pigan Britta Olsdotter härstädes",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00033"
    }
   ],
   "search": [
@@ -4953,7 +4977,9 @@
    "BRUNSKOG C I/2 bild 162 (C0036783, 1780, s. 285): mars–maj 1780 nr 14 Johan 3 mars, nr 15 Olof 11, nr 16 Kari 24, nr 17 Olof 26, nr 18 Eric (Åsen, Per Olsson/Kari Ersdotter) – inte fader Christopher, ingen match.",
    "BRUNSKOG DOPBOK C I/2 bild 159 (s. 279) och bild 160 (s. 281), 1779 (omläst helt): jan–dec 1779 innehåller INGEN Erik. Mars 1779: nr 12 Nils 7 mars (Gunnarsby), nr 13 Karin 9 mars (Storud), nr 14 Nils 10 mars (Storud), nr 15 Anders 14 mars (Gullesby), nr 16 Anna 17 mars (Finnebeck); inget dop 25 mars. Bild 160 nr 22 Olof 5/? (O. Takene, And. Andersson/Marit Pehrsd.) och nr 24 Per 24 juni (O. Takene), nr 25 Brita (O. Takene) – inga Erik. Brunskog 1779 utesluter Erik; tillsammans med tidigare lästa 1780 (bild 162) är Brunskog dopbok uteslutet för båda årtalen.",
    "HUSFÖRHÖR A I/5 (C0036744) bild 73, 74, 76 (Ö. Takene 1782–89, s. 61, 62, 64): ingen Erik Christophersson och ingen fader Christopher bland hushållen (hushåll: Anders Nilsson 1711/Anders Andersson 1752 m. barn Olof 1779; Olof Andersson 1733; Olof Persson 1719; Nils Nilsson 1747 m. barn Nils 1773, Per 1775, Marit 1778, Brita 1780, Per 1783, Margareta 1786). Bild 75 (hushåll 10, Olof Olsson/Brita Christophersd. 1730) redan känd. Slutsats: Erik f. 1779/80 bodde sannolikt inte i Ö. Takene som barn; han föddes i Fryksände (husförhör A I/17) och kom till Brunskog som dräng före 1810 (vigseln 1810: 'Drängen Erik Christofersson från Brunskog').",
-   "IDENTIFIERING (P1): Erik Christophersson f. 25/3 1779 i Frykerud (inte Fryksände) – dop 26/3 1779, föräldrar Christopher Svensson och Elin Svensdotter i Gönäs. Länk till Brunskog-Erik (A I/17 b.117: 25/3 79) kvarstår som STRONG: dag, månad, år och förnamn+patronymikon stämmer, men ingen källa nämner uttryckligen flytt till Brunskog."
+   "IDENTIFIERING (P1): Erik Christophersson f. 25/3 1779 i Frykerud (inte Fryksände) – dop 26/3 1779, föräldrar Christopher Svensson och Elin Svensdotter i Gönäs. Länk till Brunskog-Erik (A I/17 b.117: 25/3 79) kvarstår som STRONG: dag, månad, år och förnamn+patronymikon stämmer, men ingen källa nämner uttryckligen flytt till Brunskog.",
+   "VIGSEL Brunskog E I/3 bild 33 (s. 39), 1810 ”Juli 29. 14. Drängen Erik Christopherson från Brunskog, och Pigan Britta Olsdotter härstädes” – Erik bor alltså i Brunskog före vigseln (utflyttad från Frykerud före 29/7 1810).",
+   "HUSFÖRHÖR Frykerud A I/11 (1792–97, C0037112): Erik Christophersson (f. 1779) ej funnen på överblick i Gönäs fol 111–113 (bild 124–125), Klaxås fol 10–11 (bild 21) eller Såldebråten fol 12 (bild 22). A I/12 bild 16 (C0037113): ”S. Erik” 1779 25/3 i Christophers hushåll, ingen flyttanteckning läst."
   ],
   "timeline": [
    [
@@ -18188,7 +18214,8 @@
    "HUSFÖRHÖR A I/18 bild 183: ”H. Kajsa Kristofers dr” 27/7 1784 ibm (Frykerud).",
    "DOP: Frykerud C/5 bild 55 (s. 77) 1784: ”Caisa – 27. 29. Christopher Svensson, H: Lena Salomonsdr i Klaxås”; faddrar ”Drängen Erik Bengtsson, H: Maria Ersdotter i Klaxås”. Födelse 27/7, dop 29/7 (juli 1784) = stämmer med husförhör ”27/7 84”.",
    "VIGSEL: se E I/1 bild 164, ”Pig: Caisa Christophersdotr i Saldebraten”.",
-   "HUSFÖRHÖR A I/14 bild 99 och A I/15 bild 126: ”H. Caisa Christofferd(ottir)” 1784 27/7 i Nils Jonssons hushåll, Lene."
+   "HUSFÖRHÖR A I/14 bild 99 och A I/15 bild 126: ”H. Caisa Christofferd(ottir)” 1784 27/7 i Nils Jonssons hushåll, Lene.",
+   "DOPBOK Frykerud C/5 bild 55 (s. 77, 1784), högra sidan, marg. ”Cajsa”: ”27 | 29 Christopher Svenson H. Lena Salomonsdr i Klaxås”; vittnen ”Drängen Erik Bengtsson, H: Maria Eriksdotter i Klaxås”. Familjen bodde alltså i Klaxås 1784. OBS: id fr_kajsakristofersd1784 antas vara Cajsa f. 27/7 1784 – kontrollera mot persons.json."
   ],
   "sources": [
    {
@@ -18210,6 +18237,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 55 (s. 77, 1784): Cajsa, jul 27/29, föräldrar Christopher Svensson och Lena Salomonsdotter i Klaxås",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00055"
    }
   ],
   "search": [
@@ -20242,24 +20273,30 @@
  {
   "id": "sven_christophersson88_saldebraten",
   "name": "Sven Christophersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1788-04-24",
-   "place": "Såldebråten, Frykerud"
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 24, döpt 25 [april] 1788 (Frykerud C/5 bild 72); månaden läst från månadskolumnen."
   },
   "places": [
    "Såldebråten, Frykerud"
   ],
   "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
   "notes": [
-   "HUSFÖRHÖR A I/12 bild 16: ”S. Sven” f. 1788 24/4 i Christopher Svenssons hushåll, Såldebråten."
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Sven” f. 1788 24/4 i Christopher Svenssons hushåll, Såldebråten.",
+   "DOPBOK Frykerud C/5 bild 72 (s. 111, 1788), högra sidan, marg. ”Sven”: ”Christopher Svensson Hu. Lena Salomonsdotter i Säldebråten”; vittnen ”Nils Svensson och Hu. Brita Eriksdotter i Säldebråten”."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 72 (s. 111, 1788): Sven, f. 24 / döpt 25 [apr], föräldrar Christopher Svensson och Hu. Lena Salomonsdotter i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00072"
    }
   ],
   "search": [
@@ -20296,24 +20333,30 @@
  {
   "id": "salomon_christophersson93_saldebraten",
   "name": "Salomon Christophersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1793",
-   "place": "Såldebråten, Frykerud"
+   "date": "1793-11-26",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 26, döpt 28 nov 1793 (Frykerud C/5 bild 109, s. 175)."
   },
   "places": [
    "Såldebråten, Frykerud"
   ],
   "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
   "notes": [
-   "HUSFÖRHÖR A I/12 bild 16: ”S. Salomon” f. 1793, Såldebråten."
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Salomon” f. 1793, Såldebråten.",
+   "DOPBOK Frykerud C/5 bild 109 (s. 175, 1793), högra sidan, marg. ”Salomon”, kolumnen 26|28 (nov): ”Christopher Swenson H: Lena Salomonsdr i Säldebrät”; vittnen ”Nils Svensson Hust: Britta Eriksdr i Säldebrät”."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 109 (s. 175, 1793): Salomon, 26/28 [nov], föräldrar Christopher Svensson och Lena Salomonsdotter i Såldebråt",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00109"
    }
   ],
   "search": [
@@ -20323,24 +20366,30 @@
  {
   "id": "magnus_christophersson96_saldebraten",
   "name": "Magnus Christophersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1796",
-   "place": "Såldebråten, Frykerud"
+   "date": "1796-05-15",
+   "place": "Såldebråten, Frykerud",
+   "note": "Dop maj 1796 (Frykerud C/5 bild 125, s. 206); dag lästa som 15/15 (svårläst)."
   },
   "places": [
    "Såldebråten, Frykerud"
   ],
   "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
   "notes": [
-   "HUSFÖRHÖR A I/12 bild 16: ”S. Magnus” f. 1796, Såldebråten."
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Magnus” f. 1796, Såldebråten.",
+   "DOPBOK Frykerud C/5 bild 125 (s. 206, 1796), vänstra sidan, nederst: ”Såldebråt. Christopher Swensson H: Lena Salomons Dr Son witt: Nils Swensson, H: Britta Eriksdr ibm d: af Tillström”; marginal ”Magnus”."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 125 (s. 206, 1796): Magnus, maj 15, Såldebråt, föräldrar Christopher Svensson och Lena Salomonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00125"
    }
   ],
   "search": [
@@ -20350,24 +20399,30 @@
  {
   "id": "jonas_christophersson98_saldebraten",
   "name": "Jonas Christophersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1798",
-   "place": "Såldebråten, Frykerud"
+   "date": "1798-11-19",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 19, döpt 20 nov 1798 (Frykerud C/5 bild 146)."
   },
   "places": [
    "Såldebråten, Frykerud"
   ],
   "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
   "notes": [
-   "HUSFÖRHÖR A I/12 bild 16: ”S. Jonas” f. 1798, Såldebråten."
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Jonas” f. 1798, Såldebråten.",
+   "DOPBOK Frykerud C/5 bild 146 (1798), vänstra sidan: ”Såldebråten. Christopher Svensons H: Lena Salomonsdr … witt: Dr Halvar Christophersson i Forsnor H: Britta Eriksdr i Såldebråten”; marginal ”Jonas”; dag 19|20 (nov)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 146 (1798): Jonas, nov 19/20, Såldebråten, föräldrar Christopher Svensson och Lena Salomonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00146"
    }
   ],
   "search": [
@@ -20951,6 +21006,124 @@
   ],
   "search": [
    "Brita Svensdotter (Lerboda)"
+  ]
+ },
+ {
+  "id": "nils_svensson_saldebraten",
+  "name": "Nils Svensson (Såldebråten, Frykerud)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {},
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Vittne vid Christopher Svenssons barns dop 1788–1796 (med hustru Brita Eriksdotter, Såldebråten); möjlig bror till Christopher – ej belagt.",
+  "notes": [
+   "DOPBOK C/5 bild 72 (1788), 109 (1793), 125 (1796): vittnen ”Nils Svensson och Hu. Brita Eriksdotter i Säldebråten”; bild 138 (dec 1797): Nils Svensons H. Britta Eriksdr har son Erik, vittne Christopher Svensson/Lena Salomonsdr. Ömsesidigt vittnesskap – släktskap trolig men ej bevisad."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5, bild 72 (1788): vittnen Nils Svensson och Hu. Brita Eriksdotter i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00072"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5, bild 138 (23/24 dec 1797): Säldebrat, Nils Svensons H. Britta Eriksdr son, vittne Christopher Svensson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00138"
+   }
+  ],
+  "search": [
+   "Nils Svensson (Såldebråten, Frykerud)"
+  ]
+ },
+ {
+  "id": "sven_nilsson_gonas_d95",
+  "name": "Sven Nilsson (Gönäs, d. 1795)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1727?",
+   "place": "",
+   "note": "årtal läst som ’27’"
+  },
+  "died": {
+   "date": "1795",
+   "place": "Gönäs, Frykerud",
+   "note": "dödsår ’95’ i husförhörskolumnen"
+  },
+  "places": [
+   "Gönäs, Frykerud"
+  ],
+  "summary": "”Fad.” i Nils Svenssons hushåll i Gönäs 1792–97 (A I/11 fol 113). Möjlig släkt till Elin/Christopher Svensson – STARKT OSÄKER hypotes, ej belagd.",
+  "notes": [
+   "HUSFÖRHÖR Frykerud A I/11 bild 125 (fol 113), Gönäs: ”Nils Svensson” f. 1756(?), ”H. Stina Pålsd.”, barn Nils 1782, Per 1786, Erik 1790, Stina 1792, Ingeborg 1796; ”Brod. Olof Svensson” 1753 (död 96); ”Fad. Sven Nilsson” 27 (död 95). Samma ort och patronymikon som Elin Svensdotter i Gönäs; ingen koppling bevisad."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797), bild 125 (fol 113), Gönäs: Nils Svensson, Brod. Olof Svensson, Fad. Sven Nilsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00125"
+   }
+  ],
+  "search": [
+   "Sven Nilsson (Gönäs, d. 1795)"
+  ]
+ },
+ {
+  "id": "johannes_ae51",
+  "name": "Johannes Andersson Elofsson (f. 1851)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1851",
+   "place": "Ö. Takene, Brunskog",
+   "note": "husförhör A I/25 b.131: ”S. Johannes 51 ibm” (född Brunskog); exakt datum ej läst"
+  },
+  "died": {
+   "date": "1851",
+   "place": "Brunskog",
+   "note": "i lefnads-/sjukdomskolumnen vid hans rad står ”Död. 51”; dödbok F I/2 ej kontrollerad"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Yngste son till Anders Elofsson och Stina Nilsdotter, född 1851 på Östra Takene och troligen död samma år; finns bara i husförhöret 1851–55.",
+  "notes": [
+   "HUSFÖRHÖR Brunskog A I/25 bild 131 (s.122, Ö. Takene ½ skatte): ”Bön. Anders Elofsson” 16 Brskog; ”H. Stina Nilsd.” 13 Frykerud; ”D. Maria Cajsa” 42 Boda; ”S. Nils” 44 Boda; ”S. Anders” 48 Brskog; ”S. Johannes” 51 ”ibm”. Högerkolumnen: ”Död. 51.” vid sista raden (Johannes). Föräldrarna anges i förs. kolumnen ”Elof Persson o Hu Maria Anders i Ö. Takene” för Anders."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (1851–1855, C0036764), bild 131 (s.122, Ö. Takene ½ skatte): ”S. Johannes 51 ibm” i Anders Elofssons hushåll; ”Död. 51”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00131"
+   }
+  ],
+  "search": [
+   "Johannes Andersson Elofsson (f. 1851)"
+  ]
+ },
+ {
+  "id": "johanna_persdotter_remstad",
+  "name": "Johanna Persdotter (Remstad, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Remstad(?), Boda"
+  ],
+  "summary": "Piga i Boda socken; nämns 1867 som fästmö/lysningspart till Nils Andersson Elofsson (f. 1844).",
+  "notes": [
+   "HUSFÖRHÖR Brunskog A I/31 bild 182 (s.188, Ö. Takene) anmärkning vid Nils: ”Lyst/Lysen 7(?)/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; utflyttningskolumnen: ”Boda S:n Remstad p.168”. Ortnamnet svårläst (Rem-/Rensta-). Boda husförhör för 1867 ej kontrollerat."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/31 (1866–1870, C0036770), bild 182 (s.188, Ö. Takene): anmärkning vid Nils, ”med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00182"
+   }
+  ],
+  "search": [
+   "Johanna Persdotter (Remstad, Boda)"
   ]
  }
 ]

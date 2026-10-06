@@ -5147,8 +5147,8 @@
    "lena_salomonsd_saldebraten"
   ],
   "child": "fr_kajsakristofersd1784",
-  "status": "strong",
-  "basis": "Husförhör A I/12 bild 16: ”D. Cajsa” 1784 i Christophers och Lenas hushåll; samma födelsedag (27/7 1784) och patronym som Kajsa Kristofersdotter (A I/18 bild 183, Lene). Strong: ej dop bekräftat."
+  "status": "verified",
+  "basis": "Dopbok Frykerud C/5 bild 55 (s. 77, 1784): ”Christopher Svenson H. Lena Salomonsdr i Klaxås”, marg. ”Cajsa”."
  },
  {
   "id": "s-fr_kajsakristofersd1784-olof_christ",
@@ -5382,5 +5382,32 @@
   "child": "brita_svensd_lerboda94",
   "status": "strong",
   "basis": "Boda dopbok C I/2 bild 158 (s. 295), 2 mars 1794 nr 6: ”Lerboda, Brita. Far: Sven Nilsson, Brita Pers[d]. Test: Per Nilsson, Anna Jons[d].” Samma föräldrar som Nils f. 1792 (identitet via namn+by)."
+ },
+ {
+  "id": "c-anders_e-no_stina_nilsd13-johannes_ae51",
+  "type": "child",
+  "parents": [
+   "anders_e",
+   "no_stina_nilsd13"
+  ],
+  "child": "johannes_ae51",
+  "status": "verified",
+  "basis": "Brunskog A I/25 bild 131 (s.122): ”S. Johannes 51 ibm” i hushållet Anders Elofsson / H. Stina Nilsd. (husförhör med ”son”)"
+ },
+ {
+  "id": "s-nils_ae44-johannes_ae51",
+  "type": "sibling",
+  "a": "nils_ae44",
+  "b": "johannes_ae51",
+  "status": "verified",
+  "basis": "A I/25 b.131: båda söner i samma hushåll Anders Elofsson / Stina Nilsd."
+ },
+ {
+  "id": "p-nils_ae44-johanna_persdotter_remstad",
+  "type": "partner",
+  "a": "nils_ae44",
+  "b": "johanna_persdotter_remstad",
+  "status": "candidate",
+  "basis": "A I/31 b.182 (s.188): anmärkning vid Nils ”Lyst/Lysen …/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; vigsel ej kontrollerad"
  }
 ]

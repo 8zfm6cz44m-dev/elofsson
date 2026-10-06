@@ -2020,6 +2020,80 @@
     "johan_albin_augustsson",
     "nils_ejnar_augustsson"
    ]
+  },
+  {
+   "title": "USA-spår Mt. Jewett: inga öppna webbträffar (V1)",
+   "text": "WebSearch/WebFetch (Find a Grave, Chronicling America/loc.gov, rootsweb pamckean Bradford Era-obits, Ellis Island-detaljsida) gav inga identifierbara träffar på Erik J. Erickson f. 1878, Anna f. 1879, Eric Harry f. 1902, Olof V./T. Olson f. 1885 eller Signe Karolina f. 1888 i Mt. Jewett/McKean County. Bakgrund: McKean County hade 1925 en av USA:s största svenska bosättningar (Lindholm 1871, Mt. Jewett). Nästa steg: manuell sökning i Find a Grave-gränssnittet (cemetery Mt. Jewett/Lindholm/Hamlin Twp), FamilySearch 1910/1920/1930 census, panewsarchive.psu.edu, Kane Republican.",
+   "persons": [
+    "erik_j_erikson_1903",
+    "olof_viktor_olsson_1885",
+    "signe_karolina_olsdotter_1888"
+   ]
+  },
+  {
+   "title": "Christopher Svenssons dop 1754 ej funnet",
+   "text": "Frykerud C/4 (C0037137) bild 75–85 (1754) överblickad; ingen post med marginalnamn Christopher och född 21/10 (bild 84 okt: Jonas, Catarina, Ingeborg, Olof; bild 85 nov–dec: Catarina, Per, Anna, Karin). Handstilen mycket svår. Möjligen annan dag/år eller annan socken. Hypotes (svag): Gönäs, Sven Nilsson d. 1795.",
+   "persons": [
+    "christopher_svensson_saldebraten"
+   ]
+  },
+  {
+   "title": "Nils Christophersson f. 1791 – dop ej funnet",
+   "text": "Frykerud C/5 bild 89–94 (nov 1790–dec 1791) överblickad: ingen Såldebråten-post med Christopher/Lena. A I/12 bild 16 ger bara ”1791” utan dag.",
+   "persons": [
+    "nils_christophersson91_saldebraten"
+   ]
+  },
+  {
+   "title": "Elin Svensdotters död (1779–1782) ej funnen",
+   "text": "Frykerud F/1 (C0037142) bild 57–63 överblickad (1778–1783, år 1779 = bild 58, 1780 = bild 59, 1782 = bild 61): ingen läsbar post Elin Svensdotter/Christopher Svenssons hustru – kräver högre förstoring. Christopher kallas ”Enklingen” vid vigseln 12/6 1782.",
+   "persons": [
+    "elin_svensdotter_gonas"
+   ]
+  },
+  {
+   "title": "Familjen i Klaxås 1784, Såldebråten 1788",
+   "text": "Cajsa dopt 1784 med bostad Klaxås; Sven 1788 Såldebråten. Samma föräldrapar – flytt Klaxås → Såldebråten 1784–88. Ingen konflikt.",
+   "persons": [
+    "christopher_svensson_saldebraten"
+   ]
+  },
+  {
+   "title": "Erik Christophersson – tid före Brunskog",
+   "text": "Erik (f. 1779) ej funnen i Frykerud A I/11 (1792–97) Gönäs/Klaxås/Såldebråten (överblick). Brunskog E I/3 bild 33 (1810): ”Drängen Erik Christopherson från Brunskog”. Utflyttningsår från Frykerud ej fastställt; nästa: A I/12 (1797–1807) övriga byar, A I/13.",
+   "persons": [
+    "erik_christ"
+   ]
+  },
+  {
+   "title": "Anders Elofsson: kvar i Brunskog t.o.m. 1870",
+   "text": "Husförhörslängderna A I/25, A I/27, A I/29 och A I/31 (Ö. Takene ½ skatte, s.122/128/141/188) visar Anders Elofsson och Stina Nilsdotter kvar i Brunskog, inhyses hos brodern Per Elofsson, utan utflyttningsnotering t.o.m. 1870. Norgeflytten (Eidsvoll 1875) måste därför ligga 1871–75; nästa steg A I/33 (C0036772)/A I/34 (C0036773).",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Maria Cajsa (f. 1842): utflyttad Frykerud 1858?",
+   "text": "A I/29 b.133 (s.141): vid raden ”D. Maria Kaj.” i flyttningskolumnen noteras ”Frykerud 2/11 58”. Hon är alltså sannolikt flyttad till Frykerud 2/11 1858 (14–15 år, tjänst?) och följde inte föräldrarna till Norge 1875; kopplingen till Marie Andersdatter 24 år, Ullensaker 1865, är därmed osannolik (ej kontrollerad). Kontrollera Frykerud A I/21+ (1856–60) och Frykerud dödbok/vigsel.",
+   "persons": [
+    "maria_cajsa_ae42"
+   ]
+  },
+  {
+   "title": "Anders sr/Stina: saknas i A I/33 (1871–80) Ö. Takene",
+   "text": "I A I/31 (b.182, s.188) står Anders Elofsson + Stina utan utflyttningsnotering 1870, men i A I/33 (1871–80) syns de inte på Ö. Takene s.186–192 (b.195–202) eller Svartåna s.238–239. Flytten (till Norge) bör därför ha skett 1870–71; sök i Brunskog in-/utflyttningslängd (B I) eller på A I/31 senare sidor/andra inhyses-rader, samt Digitalarkivet 'innflyttede' Eidsvoll/Ullensaker 1870–75.",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Marie Andersdatter, Ullensaker 1865 (pf01038022007902)",
+   "text": "Folketelling 1865 Ullensaker, Røgler lille, Sundby: ”008 Marie Andersdatter”, tjenestepige, ug, 24 år, f. Sverige (beregnet 1842), hos Hans Ingelsen (gaardbr.). Åldern passar Maria Cajsa (f. 23/1 1842), men enbart ”Sverige” och vanligt namn; ingen koppling bevisad. Brunskog A I/29 (1861–65) visar Maria Cajsa utflyttad ”Frykerud 2/11 58” – lead, ej verifierat.",
+   "persons": [
+    "maria_cajsa_ae42"
+   ]
   }
  ],
  "conflicts": [
