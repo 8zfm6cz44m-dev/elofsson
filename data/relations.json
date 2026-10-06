@@ -5905,5 +5905,26 @@
   "child": "anders_jan77",
   "status": "strong",
   "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): barn utan uttrycklig familjeställning i hushållet Jan Elofsson/Kajsa Jonsdotter (1890 Anders hos Jan som änkling)."
+ },
+ {
+  "id": "c-anders_nilsson53_boda-lena_andersdotter-arvid_emanuel_nilsson",
+  "type": "child",
+  "parents": [
+   "anders_nilsson53_boda",
+   "lena_andersdotter"
+  ],
+  "child": "arvid_emanuel_nilsson",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Svartåna (Folk_109937929): ”hennes s.” (Lenas son) i hushållet Anders Nilsson f. 1853 / Lena Andersdotter f. 1858; 1910 (Folk_125549640): ”s.”."
+ },
+ {
+  "id": "c-stina_jansdotter-emanuel_magnusson_kyrkebyn",
+  "type": "child",
+  "parents": [
+   "stina_jansdotter"
+  ],
+  "child": "emanuel_magnusson_kyrkebyn",
+  "status": "candidate",
+  "basis": "Folkräkning 1930 Kyrkebyn (Folk_128883351): Stina ”mor” i hushåll med Emanuel Magnusson f. 1878; oklart om hans mor eller hustruns mor."
  }
 ]

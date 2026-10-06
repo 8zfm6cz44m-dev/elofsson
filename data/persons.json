@@ -480,7 +480,8 @@
   "notes": [
    "SCB 1915 nr 43: 'Moder: hh Hanna Elisabet Augustsson' (f. 89 13/12, g. 10 19/3). 1910 års folkräkning skriver 'Anna Elisabet Augustsson' (skrivfel/uppläsning).",
    "OMGÅNG 8 (agent W3): Hannas mor är Maria Katrina Andersdotter (f. 24/7 1851 Segerstad, d. 17/12 1889), inte Stina Jansdotter (styvmor). Husförhör A I/35 bild 254 anger Hanna född 12/12 1889; SCB 1915 anger 13/12.",
-   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabet f. 12/12 1889 i Brunskog, dotter i August Nilssons hushåll Gullsby Ängen sida 144 (bild 154 rad 14); flyttade till sida 308 ”01 6/11” (1901-11-06). Ej Amerika."
+   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabet f. 12/12 1889 i Brunskog, dotter i August Nilssons hushåll Gullsby Ängen sida 144 (bild 154 rad 14); flyttade till sida 308 ”01 6/11” (1901-11-06). Ej Amerika.",
+   "Hanna Elisabet 1900 i Gullsbyn (Folk_109937345/109937342) och 1930 Folk_128883444 (Augustsson, Hanna Elisabet f. 1889) – redan känt; ej ny information om barn utöver Nils Bertil f. 1910 (Folk_125549641/125549640, fam 2 hos Anders Nilsson 1910)."
   ]
  },
  {
@@ -14877,7 +14878,8 @@
   },
   "summary": "Karl Augusts äldre bror, f. 1884.",
   "notes": [
-   "Folkräkning 1890 (Boda, Renstad) och 1900 (Brunskog, Svartåna) i Anders Nilssons hushåll som barn; 1910 fortfarande i fam. 1 (hemma)."
+   "Folkräkning 1890 (Boda, Renstad) och 1900 (Brunskog, Svartåna) i Anders Nilssons hushåll som barn; 1910 fortfarande i fam. 1 (hemma).",
+   "1900 (Folk_109937926) och 1910 (Folk_125549639) i föräldrahemmet Svartåna, ogift. Senare spår ej funna: Johan Alfred Andersson f. 1884 i Visnum (Nolgården) resp. Västra Ämtervik (Folkesgården) i 1930 har annan födelseförsamling – EJ samma person."
   ],
   "sources": [
    {
@@ -14895,6 +14897,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910 Svartåna (Folk_125549639): Johan Alfred f. 1884 Boda, i Anders Nilssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549639&tab=post"
    }
   ],
   "places": [],
@@ -14915,7 +14921,8 @@
   "summary": "Karl Augusts syster, f. 1886.",
   "notes": [
    "Folkräkning 1890 och 1900 i Anders Nilssons hushåll (Boda Renstad / Brunskog Svartåna).",
-   "HUSFÖRHÖR A II a/1 (E1): Dagen (Svartåna), sida 268 (bild 278) rad 5: ”Anna Maria 86 7/2 Boda” i Anders Nilsson (53, 15/10, Boda) + Lena Andersdotter-hushållet; utflyttningskolumn ordagrant ”Amerika 08 23/9” (dagen svårläst, 23 eller 28; månad 9) = utflyttad till Amerika 1908-09-23(28). Syskon på sidan: Johan Alfred 84 4/7, Karl August 88 1/1 (ut: ”p. 308 06 12/11”), Arvid Emanuel 96 2/9."
+   "HUSFÖRHÖR A II a/1 (E1): Dagen (Svartåna), sida 268 (bild 278) rad 5: ”Anna Maria 86 7/2 Boda” i Anders Nilsson (53, 15/10, Boda) + Lena Andersdotter-hushållet; utflyttningskolumn ordagrant ”Amerika 08 23/9” (dagen svårläst, 23 eller 28; månad 9) = utflyttad till Amerika 1908-09-23(28). Syskon på sidan: Johan Alfred 84 4/7, Karl August 88 1/1 (ut: ”p. 308 06 12/11”), Arvid Emanuel 96 2/9.",
+   "1900 hemma i Svartåna. Ej i föräldrahemmet 1910 (Amerika 1908 enligt tidigare uppgift). Kandidat Anna Maria Karlsson f. Nilsson f. 1886 Boda, Arvika 1930 – se anna_maria_nilsson_karlsson_arvika (ej bevisat)."
   ],
   "sources": [
    {
@@ -14933,6 +14940,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 278 (sida 268, Svartåna, Dagen) rad 5: ”Anna Maria 86 7/2 Boda”, ut ”Amerika 08 23/9”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00278"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900 Svartåna (Folk_109937927): Anna Maria f. 1886 Boda i Anders Nilssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937927&tab=post"
    }
   ],
   "places": [],
@@ -14943,7 +14954,7 @@
  {
   "id": "arvid_emanuel_nilsson",
   "name": "Arvid Emanuel Nilsson",
-  "status": "candidate",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -14952,7 +14963,8 @@
   },
   "summary": "Barn i Anders Nilssons hushåll 1900 och 1910, f. 1896 i Brunskog (halvbror till Karl August?).",
   "notes": [
-   "Folkräkning 1900 och 1910, Svartåna, Brunskog, i Anders Nilssons fam. 1. Eftersom Karl i 1900 är 'i 1:a g.' är Arvid troligen halvbror via Lena (ej uttryckligt)."
+   "Folkräkning 1900 och 1910, Svartåna, Brunskog, i Anders Nilssons fam. 1. Eftersom Karl i 1900 är 'i 1:a g.' är Arvid troligen halvbror via Lena (ej uttryckligt).",
+   "FOLKRÄKNING 1900 Svartåna (sida 27 rad 2): ”Nilsson, Anders, f. 1853 i Boda, Hemmansegare; Andersdotter, Lena, f. 1858 i Boda; Johan Alfred f. 1884 Boda; Anna Maria f. 1886 Boda; Karl August f. 1888 Boda; Arvid Emanuel f. 1896 i Brunskog” – Arvids familjeställning ”hennes s.” (Lenas son); Anna Maria/Johan Alfred/Karl August står utan egen ställning i samma hushåll. 1910 (sida 22 rad 28): Anders f. 1853 Hemmansägare, Lina Andersdotter f. 1858, Johan Alfred f. 1884, Arvid Emanuel f. 1896 [s.]; fam 2: Karl August Andersson f. 1888, Augustsson Anna Elisabet f. 1889, Nils Bertil f. 1910."
   ],
   "sources": [
    {
@@ -14962,6 +14974,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1910, Brunskog, Svartåna, sida 22 rad 29, fam. 2: Karl August Andersson (Gifte s.) + Anna Elisabet Augustsson + Nils Bertil 1910; fam. 1: Anders Nilsson m.fl.",
     "url": "https://sok.riksarkivet.se/?postid=Folk_125549641"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900 Svartåna (Folk_109937929): Arvid Emanuel f. 1896 Brunskog, ”hennes s.”, i Anders Nilssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937929&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910 Svartåna (Folk_125549640): Arvid Emanuel f. 1896, ”s.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549640&tab=post"
    }
   ],
   "places": [],
@@ -14989,7 +15009,8 @@
    "HUSFÖRHÖR A I/37 bild 223 (fol. 229, Svartåna): ”August Nilsson (enk.) 55 22/4 Svartåna; Johan Albin 83 27/7 Uppsala; Anna Maria 85 21/7 Uppsala; Nils Einar 87 21/8 Svartåna; Hanna Elisabeth 89 12/12 Svartåna”. Remark: ”På hospital i Kristinehamn, utskriven d. 24/5 1893”; flytt ”N.B. 282”. Ingen Amerikanotering före 1895 (Albin/Nils Einar emigrerar 1903 – senare volym).",
    "HUSFÖRHÖR A II a/1 (E1): August Nilsson f. 22/4 1855 Brunskog (”L.”), änkling sedan 17/12 1889 (hustrun Maria Katrina död), omgift ”97 30/12” (30 dec 1897) med Stina Jansdotter f. 1/3 1847. Bodde Svartåna sida 282 (bild 292) till 5/11 1898 då hushållet flyttade till Gullsby ”Ängen” sida 144 (bild 154). Anteckning bild 292: ”97 3/12 l.c.ä. m. Stina Jansd., 144. utskiften fr. hospitalet i Kfhn 24/5 98” (svårläst).",
    "FOLKRÄKNING 1880 Svartåna, sida 34 rad 2: ”Nilsson, August f. 1855 Brunskog, Inhyses”, gift, ”Andersdotter, Maria Katrina f. 1851 i Segerstad”; inga barn ännu i hushållet (Johan Albin f. 1883 kom efter).",
-   "FOLKRÄKNING 1890 Svartåna sida 27 rad 13: timmerman, änkling (Maria Katrina d. dec 1889); barn Johan Albin 1883 (Uppsala), Anna Maria 1885 (Uppsala), Nils Einar 1887, Hanna Elisabeth 1889. 1900 Gullsbyn gift med Stina Jansdotter f. 1847 (jfr relation). 1890 bodde även Per Nilsson f. 1843 (h:egare) i Svartåna, fam 1."
+   "FOLKRÄKNING 1890 Svartåna sida 27 rad 13: timmerman, änkling (Maria Katrina d. dec 1889); barn Johan Albin 1883 (Uppsala), Anna Maria 1885 (Uppsala), Nils Einar 1887, Hanna Elisabeth 1889. 1900 Gullsbyn gift med Stina Jansdotter f. 1847 (jfr relation). 1890 bodde även Per Nilsson f. 1843 (h:egare) i Svartåna, fam 1.",
+   "Hustrun Stina Jansdotter är 1930 änka (Upplösningsår 1930) → August d. 1930 (sannolikt, ej direkt belagt; kolla Brunskog död F II 1930)."
   ],
   "sources": [
    {
@@ -15043,6 +15064,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 (Brunskog Gullsby): August f. 1855 Hemmansägare; Stina Jansdotter f. 1847",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549205&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1910 Gullsby (Folk_125549206): August Nilsson f. 1855 Hemmansägare m. hustru Stina Jansdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549206&tab=post"
    }
   ],
   "search": [
@@ -15066,7 +15091,9 @@
   "summary": "Augusts hustru från ca 1890–1900 (styvmor till Hanna); f. 1847.",
   "notes": [
    "FOLKRÄKNING 1900 Gullsbyn: 'Jansdotter, Stina, f. 1847 i Brunskog' i hushållet. Åldern 42 år 1889 gör moderskap möjligt men inte bevisat; kontrollera födelsebok 1889 (se unresolved).",
-   "DOPBOK Brunskog C I/5 bild 20: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd.”; faddrar ”Olof Olsson o. Karin Olsd. ibm”. Föräldrar: Jan Svensson / Maria Andersdotter, Gullsby. Tidigare notering om kontroll av 1889 (moderskap Hanna) ej berörd."
+   "DOPBOK Brunskog C I/5 bild 20: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd.”; faddrar ”Olof Olsson o. Karin Olsd. ibm”. Föräldrar: Jan Svensson / Maria Andersdotter, Gullsby. Tidigare notering om kontroll av 1889 (moderskap Hanna) ej berörd.",
+   "FOLKRÄKNING 1900 Gullsbyn (sida 15 rad 5): fam 1 ”Nilsson, August, f. 1855 i Brunskog, Hemmansegare; Jansdotter, Stina, f. 1847 i Brunskog [familjeställning h., Gift]; Anna Maria f. 1885 i Uppsala; Nils Ejnar f. 1887 i Brunskog; Hanna Elisabet f. 1889 i Brunskog”; fam 2 Jan Svensson f. 1821 Boda.",
+   "FOLKRÄKNING 1910 Gullsby (sida 13 rad 18): ”Nilsson, August, f. 1855, Hemmansägare; Jansdotter, Stina, f. 1847 [h.]” – barnen ej kvar. 1930: Stina ”Nilsson Jansdotter”, Änka, Upplösningsår 1930, bor i Kyrkebyn hos Emanuel Magnusson f. 1878 (”mor”) → August Nilsson död 1930 (sannolikt; dödsår ej direktbelagt)."
   ],
   "sources": [
    {
@@ -15080,6 +15107,18 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/5 (C0036785), bild 20 (s. 19), mars 1847: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd[otter]”; faddrar ”Olof Olsson o. Karin Olsd. ibm”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00020"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1900 Gullsbyn (Folk_109937342): Jansdotter, Stina f. 1847, ”h.” (hustru), mor/fru",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937342&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1910 Gullsby (Folk_125549206): Jansdotter, Stina f. 1847 Brunskog, Gift, ”h.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549206&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1930 Kyrkebyn (Folk_128883351): Nilsson Jansdotter, Stina f. 1847, änka (upplösningsår 1930), ”mor”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883351&tab=post"
    }
   ],
   "search": [
@@ -15099,7 +15138,8 @@
   "summary": "Hannas syster, f. 1885 i Uppsala.",
   "notes": [
    "Folkräkning 1900 Gullsbyn i August Nilssons hushåll.",
-   "HUSFÖRHÖR A II a/1 (E1): Anna Maria f. 19/7 1885 Upsala, dotter hos August Nilsson, Gullsby Ängen sida 144 (bild 154 rad 12); flyttade till sida 282 ”01 6/11” (1901-11-06) – ej Amerika på denna sida. Hennes vidare öde ej spårat (sida 282 = Svartåna, bild 292)."
+   "HUSFÖRHÖR A II a/1 (E1): Anna Maria f. 19/7 1885 Upsala, dotter hos August Nilsson, Gullsby Ängen sida 144 (bild 154 rad 12); flyttade till sida 282 ”01 6/11” (1901-11-06) – ej Amerika på denna sida. Hennes vidare öde ej spårat (sida 282 = Svartåna, bild 292).",
+   "Folkräkning 1900 Gullsbyn: ”Anna Maria, f. 1885 i Uppsala Uppsala län” i familj 1 med August Nilsson och Stina Jansdotter. Efter flytt 1901 inte funnen: Anna Maria Augustsson f. 1885 i Frykerud (1900 Skogsberg, 1910 Skållerud) och Anna f. 1885 Brunskog (Olof Olsson/Kerstin Andersdotter, Långjohanstorp) är ANDRA personer."
   ],
   "sources": [
    {
@@ -15109,6 +15149,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, bild Folk_017069-015",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_017069-015"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1900 Gullsbyn (Folk_109937342): Anna Maria f. 1885 i Uppsala Uppsala län i August Nilssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937342&tab=post"
    }
   ],
   "places": [],
@@ -15327,6 +15371,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 154 (sida 144, Gullsby, Ängen), rad 17: ”Johan Albin Augustsson 83 27/7 Ups.” inflyttad från sid 181 ”01 11/11”; utflyttningskolumn: ”Amerika 03 6/4”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00154"
+   },
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1900 Stommen (Folk_109937504): Augustsson, Johan Albin f. 1883 i Uppsala, Dräng, ogift, fam 2",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937504&tab=post"
    }
   ],
   "search": [
@@ -15335,7 +15383,8 @@
   "notes": [
    "USA 1903 (Z2): Ellis Island: 'Johan Albin Augustson/Augustsson', ankomst 7 maj 1903 Ellis Island, fartyg Teutonic från Liverpool, ogift man, f. 1884, 19 år, senaste hemvist 'Vermland', nationalitet indexerad 'Norway, Scandinavian' (felindex). Passenger-id JF5P-9Q3. Ovanligt namn + ålder (f. juli 1883 -> 19 i maj 1903) + Värmland ger STARK match, men släktskap ej bevisat av posten (ingen föräldranamn/kontakt läst). Destination ej läst (manifestbild).",
    "USA/KANADA 1903 (A1, manifestbild läst): S.S. Teutonic från Liverpool 29 apr 1903, ankomst Ellis Island 7 maj 1903, bild 352-208 rad 3: ”Augustsson, Johan Albin 19 … [labourer] … Vermland”; destination ”Winnipeg, Man.” (Kanada, ej USA); medföljande rad 4: ”Nils Einar 16 joiner” (efternamn ditto = Augustsson; = brodern Nils Ejnar f. 1887-08-21, id nils_ejnar_augustsson); anhörig: ”Cousin Anton [Kjerstrom/Nystrom? svårläst], 371 Alexander Ave., Winnipeg, Man.” Pengar ca $75/$100. Identitet stark: ovanligt namn+Albin+ålder 19+Värmland + yngre bror Nils Einar 16 i direkt följd. Ellis Island-indexet ger 'Norway, Scandinavian' (felindex).",
-   "HUSFÖRHÖR A II a/1 (E1): Gullsby, Ängen, sida 144 (bild 154): i föräldrahushållet August Nilsson f. 22/4 1855 + Stina Jansdotter f. 1/3 1847 + barnen Johan Albin 83 27/7 Upsala, Anna Maria 85 19/7 Upsala, Nils Einar 87 21/8 L., Hanna Elisabet 89 12/12 L. (rad 9-14). Familjen inflyttade från Svartåna sid 282 den 5/11 1898 (bild 292, sida 282). Johan Albin utflyttad till sid 181 ”99 17/11” (tjänst, Nyköherdebostället, bild 191 sida 181 rad 18: ”Johan Albin Augustsson 83 27/7 Upsala”, in från 144 ”99 17/11”, ut ”144 01 11/11”), åter hemma 11/11 1901. Utflyttningskolumnen på sida 144 rad 17: ordagrant ”Amerika 03 6/4” = 6 april 1903 (dagsiffran 6 över 4; månad läst som 4). Bekräftar utflyttning till Amerika 6/4 1903 – stämmer med Ellis Island/Winnipeg 7 maj 1903 (Teutonic). Ingen adress anges i husförhöret."
+   "HUSFÖRHÖR A II a/1 (E1): Gullsby, Ängen, sida 144 (bild 154): i föräldrahushållet August Nilsson f. 22/4 1855 + Stina Jansdotter f. 1/3 1847 + barnen Johan Albin 83 27/7 Upsala, Anna Maria 85 19/7 Upsala, Nils Einar 87 21/8 L., Hanna Elisabet 89 12/12 L. (rad 9-14). Familjen inflyttade från Svartåna sid 282 den 5/11 1898 (bild 292, sida 282). Johan Albin utflyttad till sid 181 ”99 17/11” (tjänst, Nyköherdebostället, bild 191 sida 181 rad 18: ”Johan Albin Augustsson 83 27/7 Upsala”, in från 144 ”99 17/11”, ut ”144 01 11/11”), åter hemma 11/11 1901. Utflyttningskolumnen på sida 144 rad 17: ordagrant ”Amerika 03 6/4” = 6 april 1903 (dagsiffran 6 över 4; månad läst som 4). Bekräftar utflyttning till Amerika 6/4 1903 – stämmer med Ellis Island/Winnipeg 7 maj 1903 (Teutonic). Ingen adress anges i husförhöret.",
+   "FOLKRÄKNING 1900 Brunskog Stommen (sida 18 rad 19): ”Augustsson, Johan Albin, f. 1883 i Uppsala Uppsala län, Dräng, ogift, Famstkod Ensamstående, fam nr 2” i torpare August Nilsson f. 1858:s gård (ej släkt). Därefter Amerika 1903. Johan Albin Augustsson f. 1883 i Kila (1910/1930 Ulfsbol, Kila) är en ANNAN person (födelseförsamling Kila) – förväxla ej."
   ],
   "country": "CA",
   "country_note": "Reste 1903 till Winnipeg, Kanada (Ellis Island-manifest)."
@@ -23194,6 +23243,64 @@
   ],
   "search": [
    "Anders Jansson (f. 1877 Brunskog, Finnebäck)"
+  ]
+ },
+ {
+  "id": "emanuel_magnusson_kyrkebyn",
+  "name": "Emanuel Magnusson (Kyrkebyn, f. 1878)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1878",
+   "place": "Brunskog",
+   "note": "enbart årtal i folkräkning 1930"
+  },
+  "places": [
+   "Kyrkebyn, Brunskog"
+  ],
+  "summary": "Hemmansägare i Kyrkebyn 1930, där Stina Jansdotter (f. 1847, änka efter August Nilsson?) bor som ”mor”. Möjligen Stinas son från tiden före giftermålet 1897 – ej bevisat.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog Kyrkebyn (Folk_128883351), fam 1: ”Magnusson, Emanuel, f. 1878 i Brunskog, Hemmansägare; Andersdotter, Maria, f. 1878 i Sunne”; fam 2: ”Nilsson Jansdotter, Stina, f. 1847 i Brunskog, Änka/Änkling, Upplösningsår 1930, familjeställning mor”. Mor till hushållsföreståndaren eller svärmor oklart."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog folkräkning 1930 (Folk_128883351): Stina Nilsson Jansdotter ”mor”, i hushåll med Emanuel Magnusson f. 1878",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883351&tab=post"
+   }
+  ],
+  "search": [
+   "Emanuel Magnusson (Kyrkebyn, f. 1878)"
+  ]
+ },
+ {
+  "id": "anna_maria_nilsson_karlsson_arvika",
+  "name": "Anna Maria Karlsson f. Nilsson (f. 1886 Boda, g. 1909; Arvika 1930)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Boda",
+   "note": "årtal; ej dag"
+  },
+  "places": [
+   "Boda",
+   "Trollhättan",
+   "Arvika"
+  ],
+  "summary": "Kandidat till Anders Nilssons dotter Anna Maria f. 1886 (Boda): f. Nilsson, f. 1886 i Boda, gift 1909 med smedarbetaren Ture Bernhard Karlsson; Arvika 1930. Identiteten ej bevisad (flera Anna Maria f. 1886 Boda i registret).",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika (Folk_129011908): ”Nilsson, Anna Maria, f. 1886 i Boda, Gift, Vigselår 1909, Inflyttad 1917 från Trollhättan, mor/fru, f. Nilsson; Karlsson, Ture Bernhard f. 1883 Nedre Ullerud; Ture Hjalmar 1906; Klara 1910 Tyskland; Anna Kristina 1916; Anders Bertil 1919…” (Anders Bertil kan syfta på morfaderns namn). Utesluten: Anna Maria Olsson f. 1886 Boda (g. Österberg, Boda annex 1910, Folk_125552705) har annat patronymikon-/gifthistorik – ej utredd."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1930 Arvika (Folk_129011908): Anna Maria Nilsson f. 1886 Boda, g. 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011908&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Maria Karlsson f. Nilsson (f. 1886 Boda, g. 1909; Arvika 1930)"
   ]
  }
 ]
