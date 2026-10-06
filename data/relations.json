@@ -4983,5 +4983,16 @@
   "b": "elof_nilsson",
   "status": "verified",
   "basis": "E I/1 bild 34: ”D. 28 Oct: … D. Elof Nilsson i Hög[Hag] med Enk: Marit Isaaksdotter i Tolta” (1717) – finns kanske redan"
+ },
+ {
+  "id": "c-anders_stridsberg_1783-brita_lisa_jonsdotter_1780-andreas_stridsberg_1806",
+  "type": "child",
+  "parents": [
+   "anders_stridsberg_1783",
+   "brita_lisa_jonsdotter_1780"
+  ],
+  "child": "andreas_stridsberg_1806",
+  "status": "verified",
+  "basis": "Segerstad A I/9 bild 38 (fol. 26): ”Son Andreas … 1806 här” i hushållet ”Clarin. blås. And. Stridsberg / Hustru Britta Lisa Jonsdr”; dop Segerstad C/2 bild 41: ”Andreas – Clarinet. Blås. Anders Stridsberg och dess hustr. Britta Lisa Jonsdr i Mällgårds boställe”"
  }
 ]
