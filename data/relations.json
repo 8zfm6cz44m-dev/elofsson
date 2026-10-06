@@ -6257,5 +6257,46 @@
   "child": "betty_ec_1850",
   "status": "strong",
   "basis": "A I/23 bild 144: ”Dotter Betty 22/6 50 ibm” i hushållet Olof Ersson/Maria Olofsdr (uttrycklig ’Dotter’ men ej dopbok)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-ak3_paul_werner_olsson_1901",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "ak3_paul_werner_olsson_1901",
+  "status": "strong",
+  "basis": "A II a/3 bild 184: Paul Werner 01 7/5 i Olof Perssons hushåll (barn). Mor oklar."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-ak3_anders_ragnar_olsson_1907",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "ak3_anders_ragnar_olsson_1907",
+  "status": "strong",
+  "basis": "A II a/3 bild 184 rad 8 märkt ’2g.’ (andra giftet) i Olof Perssons hushåll."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-ak3_ida_kristina_olsson_1909",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "ak3_ida_kristina_olsson_1909",
+  "status": "strong",
+  "basis": "A II a/3 bild 184 rad 9 (2g.)."
+ },
+ {
+  "id": "c-karl-hanna-ak3_nils_basil_andersson_1910",
+  "type": "child",
+  "parents": [
+   "karl",
+   "hanna"
+  ],
+  "child": "ak3_nils_basil_andersson_1910",
+  "status": "verified",
+  "basis": "A II a/3 bild 253 rad 8: ”s. Nils [..] 10 5/10” direkt under Karl August och Hanna Elisabet (familjeställning s.)."
  }
 ]
