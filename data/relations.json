@@ -1807,8 +1807,8 @@
   "type": "sibling",
   "a": "anders_arnesson",
   "b": "ingerd_arnesd52",
-  "status": "strong",
-  "basis": "Samma föräldrapar (Arne Andersson/Marit Jönsdotter, Ragnilsrud) i dopböckerna 1752 och 1754; ej bekräftat på annat sätt."
+  "status": "verified",
+  "basis": "Samma föräldrapar (Arne Andersson/Marit Jönsdotter, Ragnilsrud) i dopböckerna 1752 och 1754; ej bekräftat på annat sätt. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-anders_arnesson-olof_arnesson_ragnilsrud",
@@ -3572,8 +3572,8 @@
   "type": "sibling",
   "a": "brittanils",
   "b": "anders_nilsson15_strand",
-  "status": "strong",
-  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong)."
+  "status": "verified",
+  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-nils_andersson86_strand-kjerstin_nilsd91-jonas_nilsson17_strand",
@@ -3591,8 +3591,8 @@
   "type": "sibling",
   "a": "brittanils",
   "b": "jonas_nilsson17_strand",
-  "status": "strong",
-  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong)."
+  "status": "verified",
+  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-nils_andersson86_strand-kjerstin_nilsd91-maria_nilsd21_strand",
@@ -3610,8 +3610,8 @@
   "type": "sibling",
   "a": "brittanils",
   "b": "maria_nilsd21_strand",
-  "status": "strong",
-  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong)."
+  "status": "verified",
+  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-nils_andersson86_strand-kjerstin_nilsd91-kajsa_nilsd24_strand",
@@ -3629,8 +3629,8 @@
   "type": "sibling",
   "a": "brittanils",
   "b": "kajsa_nilsd24_strand",
-  "status": "strong",
-  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong)."
+  "status": "verified",
+  "basis": "Samma hushåll, A I/13 bild 69 (strong eftersom Brittas identitet är strong). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-olof_andersson60_lerhol-olof_olofsson87_lerhol",
@@ -3787,16 +3787,16 @@
   "type": "sibling",
   "a": "karl",
   "b": "johan_alfred_nilsson",
-  "status": "strong",
-  "basis": "Folkräkning 1890 och 1900: Johan Alfred 1884 och Karl August 1888 i samma hushåll hos Anders Nilsson."
+  "status": "verified",
+  "basis": "Folkräkning 1890 och 1900: Johan Alfred 1884 och Karl August 1888 i samma hushåll hos Anders Nilsson. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-karl-anna_maria_nilsson_1886",
   "type": "sibling",
   "a": "karl",
   "b": "anna_maria_nilsson_1886",
-  "status": "strong",
-  "basis": "Folkräkning 1890 och 1900: Anna Maria f. 1886 och Karl August i samma hushåll."
+  "status": "verified",
+  "basis": "Folkräkning 1890 och 1900: Anna Maria f. 1886 och Karl August i samma hushåll. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-karl-arvid_emanuel_nilsson",
@@ -3819,16 +3819,16 @@
   "type": "sibling",
   "a": "hanna",
   "b": "anna_maria_augustsson_1885",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-hanna-nils_ejnar_augustsson",
   "type": "sibling",
   "a": "hanna",
   "b": "nils_ejnar_augustsson",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "type": "partner",
@@ -5604,8 +5604,8 @@
   "type": "sibling",
   "a": "fr_annamariasalomonsd1761",
   "b": "lena_salomonsd_saldebraten",
-  "status": "strong",
-  "basis": "Samma hushåll A I/9 bild 217."
+  "status": "verified",
+  "basis": "Samma hushåll A I/9 bild 217. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_mansmansson1746_lene",
@@ -6640,8 +6640,8 @@
   "type": "sibling",
   "a": "karin_ec",
   "b": "ingard_ec",
-  "status": "strong",
-  "basis": "Redan syskon enl. A I/17 b.117; folkräkning 1900 Västra Furtan: Ingegärd Eriksdotter 1825 ”sväg.” hos Anders Andersson 1831 (maka Karin Eriksdotter 1830)"
+  "status": "verified",
+  "basis": "Redan syskon enl. A I/17 b.117; folkräkning 1900 Västra Furtan: Ingegärd Eriksdotter 1825 ”sväg.” hos Anders Andersson 1831 (maka Karin Eriksdotter 1830) VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-jonas_ec-britta_jonasdotter_1831_jec",
@@ -7094,8 +7094,8 @@
   "type": "sibling",
   "a": "fr_svennilsson1828",
   "b": "fr_lenanilsd1815",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Frykerud/Lene s.32 r.27–28 (post 119246447/119246448): Sven Nilsson f. 1828 (Hemmansägare, ogift) och Lena Nilsdotter f. 1815 (ogift), båda ”Barn”, båda f. Frykerud, samma hushåll; 1890 s.39 r.16–17; stämmer med husförhör A I/18 bild 183 (syskon)."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Frykerud/Lene s.32 r.27–28 (post 119246447/119246448): Sven Nilsson f. 1828 (Hemmansägare, ogift) och Lena Nilsdotter f. 1815 (ogift), båda ”Barn”, båda f. Frykerud, samma hushåll; 1890 s.39 r.16–17; stämmer med husförhör A I/18 bild 183 (syskon). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-nilsbengtsson_fr30-fr_kajsanilsd1818",

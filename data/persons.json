@@ -5829,7 +5829,7 @@
  {
   "id": "maria_j",
   "name": "Maria Johannesdotter (g. Andersson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "born": {
    "date": "1855",
@@ -9151,7 +9151,7 @@
  {
   "id": "kjerstin_danielsd25",
   "name": "Kjerstin Danielsdotter (1725)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9506,7 +9506,7 @@
  {
   "id": "barn_christophersd_1731",
   "name": "Nils Christophersson (1731)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -9909,7 +9909,7 @@
  {
   "id": "marit_en24",
   "name": "Marit Elofsdotter (1724)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -15496,7 +15496,7 @@
  {
   "id": "johan_alfred_nilsson",
   "name": "Johan Alfred Andersson (Nilsson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -15548,7 +15548,7 @@
  {
   "id": "anna_maria_nilsson_1886",
   "name": "Anna Maria Andersdotter (Nilsson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -15780,7 +15780,7 @@
  {
   "id": "anna_maria_augustsson_1885",
   "name": "Anna Maria Augustsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -17559,7 +17559,7 @@
  {
   "id": "no_stina_nilsd13",
   "name": "Stina Nilsdotter",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -18558,7 +18558,7 @@
  {
   "id": "anders_gustaf_andersson_1841",
   "name": "Anders Gustaf Andersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20595,7 +20595,7 @@
  {
   "id": "erik_harry_eriksson_1902",
   "name": "Erik Harry Eriksson (f. 1902)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20692,7 +20692,7 @@
  {
   "id": "olof_viktor_olsson_1885",
   "name": "Olof Viktor Olsson (f. 1885, Skog)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20725,7 +20725,7 @@
  {
   "id": "signe_karolina_olsdotter_1888",
   "name": "Signe Karolina Olsson (f. 1888, Skog)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -21344,7 +21344,7 @@
  {
   "id": "lena_salomonsd_saldebraten",
   "name": "Lena Salomonsdotter (Rörbäcken → Såldebråten, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -21494,7 +21494,7 @@
  {
   "id": "nils_christophersson91_saldebraten",
   "name": "Nils Christophersson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -22454,7 +22454,7 @@
  {
   "id": "kristina_nilsdotter67",
   "name": "Kristina Nilsdotter (1867)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -22528,7 +22528,7 @@
  {
   "id": "anna_kajsa_nilsdotter69",
   "name": "Anna Kajsa Nilsdotter (1869)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23729,7 +23729,7 @@
  {
   "id": "n44k_nils72",
   "name": "Nils Nilsson (f. 1872, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23763,7 +23763,7 @@
  {
   "id": "n44k_anders74",
   "name": "Anders Nilsson (f. 1874, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23809,7 +23809,7 @@
  {
   "id": "n44k_karljohan77",
   "name": "Karl Johan Nilsson (f. 1877, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23864,7 +23864,7 @@
  {
   "id": "n44k_olofalbin81",
   "name": "Olof Albin Nilsson (f. 1881, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23906,7 +23906,7 @@
  {
   "id": "n44k_maria84",
   "name": "Maria Nilsdotter (f. 1884, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23948,7 +23948,7 @@
  {
   "id": "n44k_emelie86",
   "name": "Emelie Helena Nilsdotter (f. 1886, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24002,7 +24002,7 @@
  {
   "id": "n44k_harald88",
   "name": "Harald Nilsson (f. 1888, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25271,7 +25271,7 @@
  {
   "id": "ak3_nils_basil_andersson_1910",
   "name": "Nils Basil(?) Andersson (f. 1910)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26756,7 +26756,7 @@
  {
   "id": "oskaralfred_emanuelsson81",
   "name": "Oskar Alfred Emanuelsson (f. 1881, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -27177,7 +27177,7 @@
  {
   "id": "tyra_aj07",
   "name": "Tyra Alina Jansson (g. Nyström, f. 1907, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -28354,7 +28354,7 @@
  {
   "id": "jo_august_andersson54",
   "name": "August Andersson (f. 1854, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35647,7 +35647,7 @@
  {
   "id": "aq2_gotilda_olsson_1895_takene",
   "name": "Götilda (Gerhilda) Olsson (f. 1895-07-22; Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35672,7 +35672,7 @@
  {
   "id": "aq2_gerda_karolina_olsson_1898_takene",
   "name": "Gerda Karolina Olsson (f. 1898-03-07; Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
