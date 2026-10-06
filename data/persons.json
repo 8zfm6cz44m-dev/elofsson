@@ -6004,12 +6004,15 @@
  {
   "id": "kuba_o",
   "name": "Kuba Orzechowski",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": true,
   "places": [],
   "summary": "Syns i MyHeritage-trädet under Dawid Orzechowski (moder ”Okänd”). Barn – inga födelsedata.",
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9056,10 +9059,13 @@
  {
   "id": "benjamin_solheim",
   "name": "Benjamin Solheim",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9073,7 +9079,7 @@
    "place": "",
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
-  "summary": "Benjamin Solheim – MyHeritage: Martins son (levande, endast födelseår).",
+  "summary": "Martins och Yvonne Moslings son, f. 2004.",
   "places": [],
   "search": [
    "Benjamin Solheim"
@@ -9082,10 +9088,13 @@
  {
   "id": "yvonne_mosling",
   "name": "Yvonne Mosling (född Solheim)",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9099,7 +9108,7 @@
    "place": "",
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
-  "summary": "Yvonne Mosling (född Solheim) – MyHeritage: Martins kvinnliga partner (levande).",
+  "summary": "Mor till Martins son Benjamin (f. 2004). Inte Martins partner.",
   "places": [],
   "search": [
    "Yvonne Mosling (född Solheim)"
@@ -9108,10 +9117,13 @@
  {
   "id": "lisalotte_backdahl",
   "name": "Lise-Lotte Bäckdahl",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9125,7 +9137,7 @@
    "place": "",
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
-  "summary": "Lise-Lotte Bäckdahl – MyHeritage: halvsyster via far (Sune); levande.",
+  "summary": "Sunes dotter från hans tidigare förhållande med Solveig Bäckdahl; Martins halvsyster. Gift/par med Robert Hansson, barn Niklas (2006) och Ellen (2010).",
   "places": [],
   "search": [
    "Lise-Lotte Bäckdahl"
@@ -9134,10 +9146,13 @@
  {
   "id": "solveig_backdahl",
   "name": "Solveig Bäckdahl",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9151,7 +9166,7 @@
    "place": "",
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
-  "summary": "Solveig Bäckdahl – MyHeritage: fars ex-partner; levande/okänt, endast födelseår.",
+  "summary": "Från Sunes tidigare förhållande, mor till Sunes dotter Lise-Lotte (Martin).",
   "places": [],
   "search": [
    "Solveig Bäckdahl"
@@ -9160,10 +9175,13 @@
  {
   "id": "niklas_h_backdahl",
   "name": "Niklas Hansson Bäckdahl",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9186,10 +9204,13 @@
  {
   "id": "ellen_h_backdahl",
   "name": "Ellen Hansson Bäckdahl",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -9212,10 +9233,13 @@
  {
   "id": "robert_hansson",
   "name": "Robert Hansson",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": true,
   "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -12609,6 +12633,23 @@
   "search": [
    "Andrzej Dzierżba",
    "Andrzej Dzierzba"
+  ]
+ },
+ {
+  "id": "okand_kubas_mor",
+  "name": "Okänd (Kubas mor)",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "places": [],
+  "summary": "Dawids partner och Kubas mor; namnet saknas i Martins MyHeritage-träd (”Ukjent”).",
+  "sources": [
+   {
+    "label": "Martin Elofsson (skärmbilder av sitt MyHeritage-träd och muntliga uppgifter i chatten, 2026-10-06)"
+   }
+  ],
+  "search": [
+   "Okänd Kubas mor"
   ]
  }
 ]

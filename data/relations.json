@@ -1562,11 +1562,12 @@
  {
   "type": "child",
   "parents": [
-   "dawid"
+   "dawid",
+   "okand_kubas_mor"
   ],
   "child": "kuba_o",
-  "status": "lead",
-  "basis": "MyHeritage-trädvyn: Kuba under Dawid; modern står som Okänd.",
+  "status": "family",
+  "basis": "Martins MyHeritage-träd (skärmbild): Kuba är Dawids och ”Ukjent”s son.",
   "id": "c-dawid-kuba_o"
  },
  {
@@ -2572,18 +2573,10 @@
   "basis": "Husförhör A I/14 bild 40: ”Bond Nils Svensson” + ”H. Ingeborg Jansdr”."
  },
  {
-  "id": "p-martin-yvonne_mosling",
-  "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy 2026-10-06: relationsetiketter mot Martin / listordning; ej kontrollerat mot primärkälla",
-  "a": "martin",
-  "b": "yvonne_mosling"
- },
- {
   "id": "c-martin-yvonne_mosling-benjamin_solheim",
   "type": "child",
-  "status": "lead",
-  "basis": "MyHeritage: 'Din son' (Benjamin Solheim, f. 2004); mor ej angiven, Yvonne Mosling (f. Solheim) listad som partner – mor ej bekräftad",
+  "status": "family",
+  "basis": "Martin: Benjamin (f. 2004) är Martins och Yvonne Moslings (född Solheim) son. De är inte och har inte varit ett par. Familjebekräftat.",
   "parents": [
    "martin",
    "yvonne_mosling"
@@ -2593,16 +2586,16 @@
  {
   "id": "p-sune-solveig_backdahl",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage: 'Fars ex-partner'",
+  "status": "family",
+  "basis": "Martin: Solveig Bäckdahl är från Sunes tidigare förhållande, där han fick en dotter (Lise-Lotte). Familjebekräftat.",
   "a": "sune",
   "b": "solveig_backdahl"
  },
  {
   "id": "c-sune-solveig_backdahl-lisalotte_backdahl",
   "type": "child",
-  "status": "lead",
-  "basis": "MyHeritage: Lise-Lotte 'Halvsyster via far' (f. 1971) och Solveig 'fars ex-partner'; Solveig som mor är en slutsats från Bäckdahl-namnet",
+  "status": "family",
+  "basis": "Martin: Lise-Lotte (f. 1971) är Sunes och Solveig Bäckdahls dotter från Sunes tidigare förhållande. Familjebekräftat.",
   "parents": [
    "sune",
    "solveig_backdahl"
@@ -2612,16 +2605,16 @@
  {
   "id": "p-lisalotte_backdahl-robert_hansson",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage: 'Make till halvsyster via far'",
+  "status": "family",
+  "basis": "Martins MyHeritage-träd: Lise-Lotte Bäckdahl och Robert Hansson är ett par med barnen Niklas och Ellen.",
   "a": "lisalotte_backdahl",
   "b": "robert_hansson"
  },
  {
   "id": "c-lisalotte_backdahl-robert_hansson-niklas_h_backdahl",
   "type": "child",
-  "status": "lead",
-  "basis": "MyHeritage: 'Son/Dotter till halvsyster via far'; fadern Robert Hansson är en slutsats från efternamnet Hansson",
+  "status": "family",
+  "basis": "Martins MyHeritage-träd (skärmbild): Niklas (2006) är Lise-Lottes och Robert Hanssons barn.",
   "parents": [
    "lisalotte_backdahl",
    "robert_hansson"
@@ -2631,8 +2624,8 @@
  {
   "id": "c-lisalotte_backdahl-robert_hansson-ellen_h_backdahl",
   "type": "child",
-  "status": "lead",
-  "basis": "MyHeritage: 'Son/Dotter till halvsyster via far'; fadern Robert Hansson är en slutsats från efternamnet Hansson",
+  "status": "family",
+  "basis": "Martins MyHeritage-träd (skärmbild): Ellen (2010) är Lise-Lottes och Robert Hanssons barn.",
   "parents": [
    "lisalotte_backdahl",
    "robert_hansson"
@@ -3704,5 +3697,13 @@
   "b": "andrzej_dzierzba",
   "status": "family",
   "basis": "Martin: Andrzej Dzierżba är gift med Katarzyna Dzierżba (f. Orzechowska), dotter till Celina och Zdzisław, alltså Martins kusin. Familjebekräftat 2026-10-06."
+ },
+ {
+  "id": "p-dawid-okand_kubas_mor",
+  "type": "partner",
+  "a": "dawid",
+  "b": "okand_kubas_mor",
+  "status": "family",
+  "basis": "Martins MyHeritage-träd (skärmbild): Dawid Orzechowski och ”Ukjent” med sonen Kuba."
  }
 ]
