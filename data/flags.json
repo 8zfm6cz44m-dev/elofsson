@@ -3207,6 +3207,32 @@
    "persons": [
     "petrus_johansson_strmtorp"
    ]
+  },
+  {
+   "title": "Gerda Katarina Augustsson f. 1897 Brunskog – släkt med Hanna Augustsson?",
+   "text": "G. 1929 med Nils Arvid Olofsson (Skog); kan vara syster till Hanna Elisabet Augustsson (August Nilsson, Gullsby) – kontrollera dopbok Brunskog 1897.",
+   "persons": [
+    "aq2_gerda_katarina_augustsson_1897",
+    "august_nilsson_gullsbyn"
+   ]
+  },
+  {
+   "title": "Anders Gustaf Johansson (1885) – föräldrar Johan Olsson/Maria Andersdotter, Takene?",
+   "text": "Folkräkning 1890/1900 Takene: Anders Gustaf f. 1885 Grava som ”s.” hos Johan Olsson (1858) och Maria Andersdotter (1857). Husförhör A II a/3: inflyttad ”Takene p. 295 11 1/11”. Verifiera i husförhör Takene/dopbok Grava 1885.",
+   "persons": [
+    "anders_gustaf_johansson_1885",
+    "aq2_johan_olsson_1858_takene",
+    "aq2_maria_andersdotter_1857_takene"
+   ]
+  },
+  {
+   "title": "Lena Andersdotter f. 1858 – föräldrar Anders Andersson/Anna Andersdotter, Nordsjö?",
+   "text": "1880 Nordsjö, Boda: Lena f. 1858 Boda, ogift dotter. Kontrollera med Bodas dopbok 1858 (C0036593/94).",
+   "persons": [
+    "lena_andersdotter",
+    "aq2_anders_andersson_1816_nordsjo",
+    "aq2_anna_andersdotter_1818_nordsjo"
+   ]
   }
  ],
  "conflicts": [
@@ -3697,6 +3723,13 @@
    "text": "Två folkräkningsposter med exakt samma födelseår/födelseförsamling. Eda: banvakt A. Andersson Nygren, hustru Anna Kajsa Olsdotter f. 1858 Brunskog (hustrun från hemsocknen talar något för). Sunne: måg i Årås, hustru Katrina Jansdotter f. 1856 Sunne. Avgörs via Brunskog dop 1854 (C I/5 b.~45?), flyttlängd Brunskog→Eda/Sunne eller vigselbok. Båda familjerna lagda som candidate.",
    "persons": [
     "anders_ak_1854"
+   ]
+  },
+  {
+   "title": "Anders Olssons (Takene) barns födelseförsamling",
+   "text": "Folkräkning 1890 anger Västra Ämtervik, 1900 Brunskog; husförhör 1909–20 anger Sandviken (V. Ämtervik) för Anders; barnen Anna Maria 1882, Betty 1887 med dittotecken. Olof Olsson ”Br.” – årtal överskrivet.",
+   "persons": [
+    "aq2_anders_olsson_1854_takene"
    ]
   }
  ],

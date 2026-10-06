@@ -10225,5 +10225,355 @@
   "child": "aq1_nilsjohan_n93",
   "status": "strong",
   "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+ },
+ {
+  "type": "partner",
+  "a": "aq2_ture_bernhard_karlsson_1883",
+  "b": "anna_maria_nilsson_karlsson_arvika",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Arvika (Stadsägan no 415, s. 1118 i församlingsboken): fam. 1 ”Karlsson, Ture Bernhard, f. 1883 i Nedre Ullerud, Smedarbetare Redskapsfabrik; Nilsson, Anna Maria, f. 1886 i Boda (h., f. Nilsson, vigselår 1909, inflyttad 1917 från Trollhättan); Ture Hjalmar 1906 Boda, Järnarbetare; Klara 1910 Tyskland; Anna Kristina 1916 Trollhättan; Anders Bertil 1919 Arvika; Erik Gunnar 1921 Arvika; Sven Georg 1924 Arvika”. Vigselår 1909.",
+  "id": "p-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_ture_hjalmar_karlsson_1906",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_ture_hjalmar_karlsson_1906"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_klara_karlsson_1910",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_klara_karlsson_1910"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_anna_kristina_karlsson_1916",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_anna_kristina_karlsson_1916"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_anders_bertil_karlsson_1919",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_anders_bertil_karlsson_1919"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_erik_gunnar_karlsson_1921",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_erik_gunnar_karlsson_1921"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_ture_bernhard_karlsson_1883",
+   "anna_maria_nilsson_karlsson_arvika"
+  ],
+  "child": "aq2_sven_georg_karlsson_1924",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_sven_georg_karlsson_1924"
+ },
+ {
+  "type": "partner",
+  "a": "ol_nils_arvid_1896",
+  "b": "aq2_gerda_katarina_augustsson_1897",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Brunskog, Toltan (s. 350 i församlingsboken), fam. 1: ”Olofsson, Nils Arvid, f. 1896 i Brunskog, Hemmansägare (yrke 1925 Fabriksarbetare; gift, vigselår 1929, inflyttad 1929 från Amerika); Augustsson, Gerda Katarina, f. 1897 i Brunskog; Olofsson, Bengt Olof, f. 1928 i Brunskog; Betty Ingegärd, f. 1930 i Brunskog”.",
+  "id": "p-ol_nils_arvid_1896-aq2_gerda_katarina_augustsson_1897"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "ol_nils_arvid_1896",
+   "aq2_gerda_katarina_augustsson_1897"
+  ],
+  "child": "aq2_bengt_olof_olofsson_1928",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Toltan, hushållets barn (Folk_128883955).",
+  "id": "c-ol_nils_arvid_1896-aq2_gerda_katarina_augustsson_1897-aq2_bengt_olof_olofsson_1928"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "ol_nils_arvid_1896",
+   "aq2_gerda_katarina_augustsson_1897"
+  ],
+  "child": "aq2_betty_ingegard_olofsson_1930",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Toltan, hushållets barn (Folk_128883955).",
+  "id": "c-ol_nils_arvid_1896-aq2_gerda_katarina_augustsson_1897-aq2_betty_ingegard_olofsson_1930"
+ },
+ {
+  "type": "partner",
+  "a": "aq2_johan_olsson_1858_takene",
+  "b": "aq2_maria_andersdotter_1857_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "p-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "anders_gustaf_johansson_1885",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-anders_gustaf_johansson_1885"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_anna_maria_olsson_1881_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_anna_maria_olsson_1881_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_amanda_amalia_olsson_1887_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_amanda_amalia_olsson_1887_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_hulda_kristina_olsson_1891_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_hulda_kristina_olsson_1891_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_johan_edvin_olsson_1894_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_johan_edvin_olsson_1894_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_gerda_elisabet_olsson_1896_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_gerda_elisabet_olsson_1896_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_johan_olsson_1858_takene",
+   "aq2_maria_andersdotter_1857_takene"
+  ],
+  "child": "aq2_augusta_ingeborg_olsson_1899_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_augusta_ingeborg_olsson_1899_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "anders_svensson_nboda",
+   "maria_jordsd_nboda"
+  ],
+  "child": "aq2_johan_andersson_1860_nboda",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+  "id": "c-anders_svensson_nboda-maria_jordsd_nboda-aq2_johan_andersson_1860_nboda"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "anders_svensson_nboda",
+   "maria_jordsd_nboda"
+  ],
+  "child": "aq2_augusta_andersdotter_1867_nboda",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+  "id": "c-anders_svensson_nboda-maria_jordsd_nboda-aq2_augusta_andersdotter_1867_nboda"
+ },
+ {
+  "type": "partner",
+  "a": "aq2_anders_andersson_1816_nordsjo",
+  "b": "aq2_anna_andersdotter_1818_nordsjo",
+  "status": "candidate",
+  "basis": "FOLKRÄKNING 1880 Boda, Nordsjö (s. 33 rad 13), fam. 1: ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena, f. 1858 i Boda (ogift, d.); Karolina, f. 1863 i Boda”. Identifiering med Lena Andersdotter f. 1858 (Anders Nilssons 2:a hustru) är sannolik – ej bevisad.",
+  "id": "p-aq2_anders_andersson_1816_nordsjo-aq2_anna_andersdotter_1818_nordsjo"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_andersson_1816_nordsjo",
+   "aq2_anna_andersdotter_1818_nordsjo"
+  ],
+  "child": "lena_andersdotter",
+  "status": "candidate",
+  "basis": "FOLKRÄKNING 1880 Boda, Nordsjö (s. 33 rad 13), fam. 1: ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena, f. 1858 i Boda (ogift, d.); Karolina, f. 1863 i Boda”. Identifiering med Lena Andersdotter f. 1858 (Anders Nilssons 2:a hustru) är sannolik – ej bevisad.",
+  "id": "c-aq2_anders_andersson_1816_nordsjo-aq2_anna_andersdotter_1818_nordsjo-lena_andersdotter"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_andersson_1816_nordsjo",
+   "aq2_anna_andersdotter_1818_nordsjo"
+  ],
+  "child": "aq2_karolina_andersdotter_1863_nordsjo",
+  "status": "candidate",
+  "basis": "FOLKRÄKNING 1880 Boda, Nordsjö (s. 33 rad 13), fam. 1: ”Andersson, Anders, f. 1816 i Frykerud, Hemmansägare; Andersdotter, Anna, f. 1818 i Brunskog; Lena, f. 1858 i Boda (ogift, d.); Karolina, f. 1863 i Boda”. Identifiering med Lena Andersdotter f. 1858 (Anders Nilssons 2:a hustru) är sannolik – ej bevisad.",
+  "id": "c-aq2_anders_andersson_1816_nordsjo-aq2_anna_andersdotter_1818_nordsjo-aq2_karolina_andersdotter_1863_nordsjo"
+ },
+ {
+  "type": "partner",
+  "a": "aq2_anders_olsson_1854_takene",
+  "b": "aq2_inga_stina_andersdotter_1851",
+  "status": "verified",
+  "basis": "Husförhör A II a/3 bild 279: ”B. store Anders Olsson … g. 74 24/5” + ”H. Inga Stina Andersdotter”.",
+  "id": "p-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_olsson_1854_takene",
+   "aq2_inga_stina_andersdotter_1851"
+  ],
+  "child": "aq2_olof_andersson_1875_takene",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 40), fam. 1: ”Olsson, Anders, f. 1854 i Brunskog, Hemmansegare; Andersdotter, Inga Stina, f. 1851 i Brunskog; Olof 1875; Anna Maria 1882; Betty 1887; Götilda 1895; Gerda Karolina 1898”. 1890 (Takene, s. 22 rad 20): samma familj, födelseförsamling angiven som Västra Ämtervik (Anders 1852, Inga Stina 1851, Olof 1875, Anna Maria 1882, Betty 1887).",
+  "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_olof_andersson_1875_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_olsson_1854_takene",
+   "aq2_inga_stina_andersdotter_1851"
+  ],
+  "child": "aq2_anna_maria_olsson_1882_takene",
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A II a/3 bild 279 (s. 274), Takene ”Där bo” (nr 27): ”B. store Anders Olsson” (Hemäg., f. ?/21 4 Sandviken, g. ”74 24/5”); ”H. Inga Stina Andersdotter” (51 24/11); ”d. Anna Maria” (82 12/12, g. 11 3/5; anm. ordagrant ”Fäst 12/4 11 m. Joh. Alfr. Andersson p 247 vigda 3/5 1911”; utflyttning ”Svartåna p. 247 15 15/1”); ”Betty” (87 18/9, g. 12 7/7; anm. ”Fäst 31/5 12 m. Dav. Nilsson p 276 vigda 7/7 1912”; utflyttning ”nedan 15 15/7”); ”Götilda/Gerhilda” (95 22/7; läsning osäker); ”Gerda Karolina” (98 7/3); ”Br. Olof Olsson” (årtal överskrivet 18?6, 30/8 Sandviken, g. 95 15/3, änkling 11 8/8, inflyttad Sandv. p. 843 13 22/10, utflyttad ’Edane p. 543 14 17/..’); ”Måg David Nilsson” (87 1/8 Brunskog, g. 12 7/7, in Takene p. 276 15 15/7); ”H. Betty Andersson” (87 18/9); ”d. Lilly Maria” (15 7/2); ”Måg Johan Alfred Andersson, Hyresgäst” (84 4/7, g. 11 3/5, in från Svartåna p. 247 15 15/1); ”H. Anna Maria Andersson” (82 12/12 Takene); ”d. Inga Margit” (14 21/12).",
+  "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_anna_maria_olsson_1882_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_olsson_1854_takene",
+   "aq2_inga_stina_andersdotter_1851"
+  ],
+  "child": "aq2_betty_olsson_1887_takene",
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A II a/3 bild 279 (s. 274), Takene ”Där bo” (nr 27): ”B. store Anders Olsson” (Hemäg., f. ?/21 4 Sandviken, g. ”74 24/5”); ”H. Inga Stina Andersdotter” (51 24/11); ”d. Anna Maria” (82 12/12, g. 11 3/5; anm. ordagrant ”Fäst 12/4 11 m. Joh. Alfr. Andersson p 247 vigda 3/5 1911”; utflyttning ”Svartåna p. 247 15 15/1”); ”Betty” (87 18/9, g. 12 7/7; anm. ”Fäst 31/5 12 m. Dav. Nilsson p 276 vigda 7/7 1912”; utflyttning ”nedan 15 15/7”); ”Götilda/Gerhilda” (95 22/7; läsning osäker); ”Gerda Karolina” (98 7/3); ”Br. Olof Olsson” (årtal överskrivet 18?6, 30/8 Sandviken, g. 95 15/3, änkling 11 8/8, inflyttad Sandv. p. 843 13 22/10, utflyttad ’Edane p. 543 14 17/..’); ”Måg David Nilsson” (87 1/8 Brunskog, g. 12 7/7, in Takene p. 276 15 15/7); ”H. Betty Andersson” (87 18/9); ”d. Lilly Maria” (15 7/2); ”Måg Johan Alfred Andersson, Hyresgäst” (84 4/7, g. 11 3/5, in från Svartåna p. 247 15 15/1); ”H. Anna Maria Andersson” (82 12/12 Takene); ”d. Inga Margit” (14 21/12).",
+  "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_betty_olsson_1887_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_olsson_1854_takene",
+   "aq2_inga_stina_andersdotter_1851"
+  ],
+  "child": "aq2_gotilda_olsson_1895_takene",
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A II a/3 bild 279 (s. 274), Takene ”Där bo” (nr 27): ”B. store Anders Olsson” (Hemäg., f. ?/21 4 Sandviken, g. ”74 24/5”); ”H. Inga Stina Andersdotter” (51 24/11); ”d. Anna Maria” (82 12/12, g. 11 3/5; anm. ordagrant ”Fäst 12/4 11 m. Joh. Alfr. Andersson p 247 vigda 3/5 1911”; utflyttning ”Svartåna p. 247 15 15/1”); ”Betty” (87 18/9, g. 12 7/7; anm. ”Fäst 31/5 12 m. Dav. Nilsson p 276 vigda 7/7 1912”; utflyttning ”nedan 15 15/7”); ”Götilda/Gerhilda” (95 22/7; läsning osäker); ”Gerda Karolina” (98 7/3); ”Br. Olof Olsson” (årtal överskrivet 18?6, 30/8 Sandviken, g. 95 15/3, änkling 11 8/8, inflyttad Sandv. p. 843 13 22/10, utflyttad ’Edane p. 543 14 17/..’); ”Måg David Nilsson” (87 1/8 Brunskog, g. 12 7/7, in Takene p. 276 15 15/7); ”H. Betty Andersson” (87 18/9); ”d. Lilly Maria” (15 7/2); ”Måg Johan Alfred Andersson, Hyresgäst” (84 4/7, g. 11 3/5, in från Svartåna p. 247 15 15/1); ”H. Anna Maria Andersson” (82 12/12 Takene); ”d. Inga Margit” (14 21/12).",
+  "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_gotilda_olsson_1895_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_anders_olsson_1854_takene",
+   "aq2_inga_stina_andersdotter_1851"
+  ],
+  "child": "aq2_gerda_karolina_olsson_1898_takene",
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A II a/3 bild 279 (s. 274), Takene ”Där bo” (nr 27): ”B. store Anders Olsson” (Hemäg., f. ?/21 4 Sandviken, g. ”74 24/5”); ”H. Inga Stina Andersdotter” (51 24/11); ”d. Anna Maria” (82 12/12, g. 11 3/5; anm. ordagrant ”Fäst 12/4 11 m. Joh. Alfr. Andersson p 247 vigda 3/5 1911”; utflyttning ”Svartåna p. 247 15 15/1”); ”Betty” (87 18/9, g. 12 7/7; anm. ”Fäst 31/5 12 m. Dav. Nilsson p 276 vigda 7/7 1912”; utflyttning ”nedan 15 15/7”); ”Götilda/Gerhilda” (95 22/7; läsning osäker); ”Gerda Karolina” (98 7/3); ”Br. Olof Olsson” (årtal överskrivet 18?6, 30/8 Sandviken, g. 95 15/3, änkling 11 8/8, inflyttad Sandv. p. 843 13 22/10, utflyttad ’Edane p. 543 14 17/..’); ”Måg David Nilsson” (87 1/8 Brunskog, g. 12 7/7, in Takene p. 276 15 15/7); ”H. Betty Andersson” (87 18/9); ”d. Lilly Maria” (15 7/2); ”Måg Johan Alfred Andersson, Hyresgäst” (84 4/7, g. 11 3/5, in från Svartåna p. 247 15 15/1); ”H. Anna Maria Andersson” (82 12/12 Takene); ”d. Inga Margit” (14 21/12).",
+  "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_gerda_karolina_olsson_1898_takene"
+ },
+ {
+  "type": "sibling",
+  "a": "aq2_anders_olsson_1854_takene",
+  "b": "aq2_olof_olsson_broder_takene",
+  "status": "candidate",
+  "basis": "Husförhör A II a/3 bild 279: ”Br. Olof Olsson” i Anders Olssons hushåll (relation ”Br.” – syskon till Anders eller Inga Stina; ej angivet).",
+  "id": "s-aq2_anders_olsson_1854_takene-aq2_olof_olsson_broder_takene"
+ },
+ {
+  "type": "partner",
+  "a": "johan_alfred_nilsson",
+  "b": "aq2_anna_maria_olsson_1882_takene",
+  "status": "verified",
+  "basis": "Husförhör A II a/3 bild 279: ”Fäst 12/4 11 m. Joh. Alfr. Andersson p 247 vigda 3/5 1911”; ”Måg Johan Alfred Andersson” 84 4/7, ”H. Anna Maria Andersson” 82 12/12.",
+  "id": "p-johan_alfred_nilsson-aq2_anna_maria_olsson_1882_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "johan_alfred_nilsson",
+   "aq2_anna_maria_olsson_1882_takene"
+  ],
+  "child": "aq2_inga_margit_andersson_1914",
+  "status": "verified",
+  "basis": "Husförhör A II a/3 bild 279: ”d. Inga Margit” 14 21/12 under Johan Alfred/Anna Maria Andersson.",
+  "id": "c-johan_alfred_nilsson-aq2_anna_maria_olsson_1882_takene-aq2_inga_margit_andersson_1914"
+ },
+ {
+  "type": "partner",
+  "a": "aq2_david_nilsson_1887_takene",
+  "b": "aq2_betty_olsson_1887_takene",
+  "status": "verified",
+  "basis": "Husförhör A II a/3 bild 279: ”Fäst 31/5 12 m. Dav. Nilsson p 276 vigda 7/7 1912”; ”Måg David Nilsson” + ”H. Betty Andersson”.",
+  "id": "p-aq2_david_nilsson_1887_takene-aq2_betty_olsson_1887_takene"
+ },
+ {
+  "type": "child",
+  "parents": [
+   "aq2_david_nilsson_1887_takene",
+   "aq2_betty_olsson_1887_takene"
+  ],
+  "child": "aq2_lilly_maria_nilsson_1915",
+  "status": "verified",
+  "basis": "Husförhör A II a/3 bild 279: ”d. Lilly Maria” 15 7/2 under David/Betty.",
+  "id": "c-aq2_david_nilsson_1887_takene-aq2_betty_olsson_1887_takene-aq2_lilly_maria_nilsson_1915"
  }
 ]
