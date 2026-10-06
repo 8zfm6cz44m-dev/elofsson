@@ -19961,7 +19961,8 @@
   "notes": [
    "DOP Boda C I/3 bild 74 (1844, sida 113, höger sida, augusti): ”Nils | 30 31. | Ertetan. Anders Elofsson och Hu. Stina Nilsd.r / Vittn. Christopher Nilsson och Hu. Cajsa Olsd.r i Lene” (bokstäver 'Ertetan' = Ärtetan; vittnena från Lene, Stinas barndomsby/Frykerud-släkt?). Dopåret 1844 enligt rubrik ”1844” på sidan.",
    "K3 OMLÄST bild 74 (zoom): ”Nils | 30 31. | Ertetan. Anders Elofsson och Hu. Stina Nilsd.r | 31(?) / Vittn. Christopher Nilsson och Hu. Cajsa Olsd.r i Lene —”. Rubrik 1844, ”Augusti”-avdelningen, sidnr 113. 30 = född, 31 = döpt (aug 1844). Ingen avvikelse mot tidigare läsning; dopbok med föräldrar = verified. Vittnen (ej ”fadder”): Christopher Nilsson och Cajsa Olsdotter i Lene.",
-   "N4: Nils f. 30/8 1844 Boda i Frykerud 1845–47 (A I/20 bild 204/215, B/1 bild 50) och Brunskog Ö. Takene 1847– (A I/23 bild 135 s.123, ”Son Nils”). Inte död i Frykerud okt 1845–maj 1847."
+   "N4: Nils f. 30/8 1844 Boda i Frykerud 1845–47 (A I/20 bild 204/215, B/1 bild 50) och Brunskog Ö. Takene 1847– (A I/23 bild 135 s.123, ”Son Nils”). Inte död i Frykerud okt 1845–maj 1847.",
+   "BODA HUSFÖRHÖR A I/22 bild 167 (s.171, Renstad 1867): ”Gift dr. Nils Andersson” 44 [30]/8 Ärtetan, hustru ”Johanna Persdotter” 45 18/12 Boda, ”Dot. Christina” 67 18/8 Renstad; från p.168 67, flyttad p.157 68. Bild 153 (s.157 Nordsjö): ”Gt. Dr. Nils Andersson”, Johanna, ”dot. Kristina”, ”Anna Kajsa” 69 3/11. Bild 152 (s.156 Nordsjö, 1870): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter”, ”d. Kristina”, ”Anna Kajsa”; titel ändras dräng -> bonde(?) 1870. Familjen bodde 1867 Renstad (p.171), 1868 Nordsjö p.157, 1870 Nordsjö p.156. Gift 22/4 1867. Vidare öde efter 1870 ej funnet i A I/23 (bild 216–226 skannat)."
   ],
   "sources": [
    {
@@ -19975,6 +19976,22 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846-1850), bild 135 (sida 123), Ö. Takene: ”13. Anders Elofsson” 16 Brskog, ”H. Stina Nilsd.” 24/10 14[sic, 13] Frykerud, ”Dotter Maria Cajsa” 24/1 42 Boda, ”Son Nils” 30/8 44 Boda, ”Son Anders” 30/8 48 Brskog; inflyttad ”Frykerud d. 47”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 164 (sida 168, Renstad): ”Pig. Johanna Persdotter” f. 1845 18/12 Boda, gift 22/4 67, flyttat p.171 1867; anm. ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00164"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 167 (sida 171, Renstad): ”Gift dr. Nils Andersson” 44 30/8(?) Ärtetan; ”Johanna Persdotter” 45 18/12 Boda; ”Dot. Christina” 67 18/8 Renstad; flyttat från ”p.168 67”, till ”p.157 68”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00167"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 153 (sida 157, Nordsjö): ”Gt. Dr. Nils Andersson” 44 20/8(?) do [Boda]; ”H. Johanna Persdotter” 45 18/12; ”dot. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11 (överstruken); från p.171 68",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00153"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
    }
   ],
   "search": [
@@ -21120,25 +21137,144 @@
  },
  {
   "id": "johanna_persdotter_remstad",
-  "name": "Johanna Persdotter (Remstad, Boda)",
-  "status": "candidate",
+  "name": "Johanna Persdotter (Boda, 1845)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
    "Remstad(?), Boda"
   ],
-  "summary": "Piga i Boda socken; nämns 1867 som fästmö/lysningspart till Nils Andersson Elofsson (f. 1844).",
+  "summary": "Johanna Persdotter, f. 18/12 1845 i Boda, piga på Renstad p.168 (hushåll Per Persson 1791); gift (lysning/vigsel) 22/4 1867 med Nils Andersson (f. 1844, Ärtetan), mor till Kristina (f. 18/8 1867) och Anna Kajsa (f. 3/11 1869).",
   "notes": [
-   "HUSFÖRHÖR Brunskog A I/31 bild 182 (s.188, Ö. Takene) anmärkning vid Nils: ”Lyst/Lysen 7(?)/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; utflyttningskolumnen: ”Boda S:n Remstad p.168”. Ortnamnet svårläst (Rem-/Rensta-). Boda husförhör för 1867 ej kontrollerat."
+   "HUSFÖRHÖR Brunskog A I/31 bild 182 (s.188, Ö. Takene) anmärkning vid Nils: ”Lyst/Lysen 7(?)/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; utflyttningskolumnen: ”Boda S:n Remstad p.168”. Ortnamnet svårläst (Rem-/Rensta-). Boda husförhör för 1867 ej kontrollerat.",
+   "HUSFÖRHÖR Boda A I/22 bild 164 (s.168), Renstad: ”Pig. Johanna Persdotter” 45 ¹⁸⁄₁₂ Boda, kolumn Äktenskap ”²²⁄₄ 67”, flytt till ”p.171 67”; anmärkning: ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”. Ortnamnet är alltså Renstad (ej ’Remstad’). Vigsel 22/4 1867; föräldrar ej angivna (vigselbok ej digitaliserad efter 1860).",
+   "Därefter i Boda: p.171 Renstad (1867), p.157 Nordsjö (1868), p.156 Nordsjö (1870): ”Johanna Persdotter” 45 18/12 Boda."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/31 (1866–1870, C0036770), bild 182 (s.188, Ö. Takene): anmärkning vid Nils, ”med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00182"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 164 (sida 168, Renstad): ”Pig. Johanna Persdotter” f. 1845 18/12 Boda, gift 22/4 67, flyttat p.171 1867; anm. ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00164"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 167 (sida 171, Renstad): ”Gift dr. Nils Andersson” 44 30/8(?) Ärtetan; ”Johanna Persdotter” 45 18/12 Boda; ”Dot. Christina” 67 18/8 Renstad; flyttat från ”p.168 67”, till ”p.157 68”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00167"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 153 (sida 157, Nordsjö): ”Gt. Dr. Nils Andersson” 44 20/8(?) do [Boda]; ”H. Johanna Persdotter” 45 18/12; ”dot. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11 (överstruken); från p.171 68",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00153"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
    }
   ],
   "search": [
    "Johanna Persdotter (Remstad, Boda)"
+  ],
+  "born": {
+   "date": "1845-12-18",
+   "place": "Boda",
+   "note": "husförhör Boda A I/22 sida 168/171/157/156: f. 18/12 1845 Boda"
+  }
+ },
+ {
+  "id": "kristina_nilsdotter67",
+  "name": "Kristina Nilsdotter (1867)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1867-08-18",
+   "place": "Renstad, Boda",
+   "note": "husförhör A I/22: ’67 18/8 Renstad’ (p.171); dagen/månaden läst 18/8"
+  },
+  "places": [
+   "Renstad, Boda",
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter i hushållet Nils Andersson (f. 1844) och Johanna Persdotter, Boda; f. 18/8 1867 i Renstad, d.v.s. ca 4 månader efter vigseln 22/4 1867.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 167 (sida 171): ”Dot. Christina” 67 ¹⁸⁄₈ Renstad under Nils Andersson/Johanna Persdotter; bild 153 (s.157) ”dot. Kristina”; bild 152 (s.156) ”d. Kristina” 67 18/8 [Boda]. ’Dotter’ står uttryckligen men föräldrarnas namn anges bara genom hushållet. Dopbok 1867 ej digitaliserad (Boda C I/5 slutar 1860)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 167 (sida 171, Renstad): ”Gift dr. Nils Andersson” 44 30/8(?) Ärtetan; ”Johanna Persdotter” 45 18/12 Boda; ”Dot. Christina” 67 18/8 Renstad; flyttat från ”p.168 67”, till ”p.157 68”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00167"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 153 (sida 157, Nordsjö): ”Gt. Dr. Nils Andersson” 44 20/8(?) do [Boda]; ”H. Johanna Persdotter” 45 18/12; ”dot. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11 (överstruken); från p.171 68",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00153"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   }
+  ],
+  "search": [
+   "Kristina Nilsdotter (1867)"
+  ]
+ },
+ {
+  "id": "anna_kajsa_nilsdotter69",
+  "name": "Anna Kajsa Nilsdotter (1869)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1869-11-03",
+   "place": "Boda",
+   "note": "husförhör A I/22: ’69 3/11’ ort ’do’ (Boda)"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter i hushållet Nils Andersson/Johanna Persdotter, f. 3/11 1869 i Boda; överstruken på sida 157 (bild 153) men ej överstruken på sida 156.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 153 (s.157): ”Anna Kajsa” 69 ³⁄₁₁ do [Boda], namnet överstruket med kryss; bild 152 (s.156): ”Anna Kajsa” 69 3/11 utan överstrykning. Strykningen kan vara flyttmarkering vid överföring till p.156 (ej dödsbevis – död ej verifierad)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 153 (sida 157, Nordsjö): ”Gt. Dr. Nils Andersson” 44 20/8(?) do [Boda]; ”H. Johanna Persdotter” 45 18/12; ”dot. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11 (överstruken); från p.171 68",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00153"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 152 (sida 156, Nordsjö): ”B. Nils Andersson” 44 30/8 Boda, ”H. Johanna Persdotter” 45 18/12, ”d. Kristina” 67 18/8, ”Anna Kajsa” 69 3/11; från ”p.157 70”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00152"
+   }
+  ],
+  "search": [
+   "Anna Kajsa Nilsdotter (1869)"
+  ]
+ },
+ {
+  "id": "per_persson91_renstad",
+  "name": "Per Persson (1791), Renstad",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1791-10-02",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hushållsföreståndare (’fosterförälder’?) på Renstad p.168 i Boda 1866; Johanna Persdotter står i hans hushåll. Släktskap till Johanna ej angivet (namnet Per = patronymikon: kan vara fadern).",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 164 (s.168), Renstad: överst i raden ”… fosterförälder Per Persson” 91 ²⁄₁₀ Boda; ”H. Kajsa Andersdotter” 18 ⁵⁄₁ Boda (hustru, 27 år yngre; ’Befr.’ ?); ”Dr. Anders Nilsson” 42; ”Pig. Johanna Persdotter” 45 ¹⁸⁄₁₂ Boda. Ordet före ’fosterförälder’ svårläst (Hushålls-/Husbonde-?) – om ’fosterförälder’ stämmer är Johanna fosterdotter, inte biologisk dotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866–1870), bild 164 (sida 168, Renstad): ”Pig. Johanna Persdotter” f. 1845 18/12 Boda, gift 22/4 67, flyttat p.171 1867; anm. ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00164"
+   }
+  ],
+  "search": [
+   "Per Persson (1791), Renstad"
   ]
  }
 ]

@@ -5407,7 +5407,29 @@
   "type": "partner",
   "a": "nils_ae44",
   "b": "johanna_persdotter_remstad",
-  "status": "candidate",
-  "basis": "A I/31 b.182 (s.188): anmärkning vid Nils ”Lyst/Lysen …/4 67 med Pig. Johanna Persdotter i Remstad(?), Boda S:n p.168”; vigsel ej kontrollerad"
+  "status": "verified",
+  "basis": "Boda A I/22 bild 164 (s.168): Johanna Persdotter, gift ”²²⁄₄ 67”, ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n”; bild 167 ”Gift dr. Nils Andersson / Johanna Persdotter”"
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-kristina_nilsdotter67",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "kristina_nilsdotter67",
+  "status": "strong",
+  "basis": "Boda A I/22 bild 167 (s.171): hushållet ”Gift dr. Nils Andersson / Johanna Persdotter / Dot. Christina” 67 18/8 Renstad; bild 153, 152 ”dot./d. Kristina”"
+ },
+ {
+  "id": "c-nils_ae44-johanna_persdotter_remstad-anna_kajsa_nilsdotter69",
+  "type": "child",
+  "parents": [
+   "nils_ae44",
+   "johanna_persdotter_remstad"
+  ],
+  "child": "anna_kajsa_nilsdotter69",
+  "status": "strong",
+  "basis": "Boda A I/22 bild 152 (s.156): hushållet Nils Andersson / Johanna Persdotter / Kristina / ”Anna Kajsa” 69 3/11"
  }
 ]
