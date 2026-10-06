@@ -33928,5 +33928,344 @@
   "search": [
    "Stina Svensdotter (f. 1819, Boda)"
   ]
+ },
+ {
+  "id": "ar1_lars_jonsson_toltan92",
+  "name": "Lars Jönsson (Toltan, 1692)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far till Marit Larsdotter, dopt 1692 i Toltan (Holta). Ej identifierad med mantalsskriven Lars Ersson.",
+  "notes": [
+   "DOP C I/1 bild 30: ”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 30: ”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00030"
+   }
+  ],
+  "search": [
+   "Lars Jönsson (Toltan, 1692)"
+  ]
+ },
+ {
+  "id": "ar1_ingeri_ersd_toltan92",
+  "name": "Ingeri Ersdotter (Toltan, 1692)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mor till Marit Larsdotter, dopt 1692 (efternamn Ersd. osäkert läst).",
+  "notes": [
+   "DOP C I/1 bild 30: ”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 30: ”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00030"
+   }
+  ],
+  "search": [
+   "Ingeri Ersdotter (Toltan, 1692)"
+  ]
+ },
+ {
+  "id": "ar1_anders_jonsson_otortan89",
+  "name": "Anders Jonsson (ö. Tortan, 1689)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far till Nils Andersson, dopt 21 april 1689 i ö. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 15: ”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 15: ”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00015"
+   }
+  ],
+  "search": [
+   "Anders Jonsson (ö. Tortan, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_christin_persd_otortan89",
+  "name": "Christin Persdotter (ö. Tortan, 1689)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mor till Nils Andersson, dopt 21 april 1689 i ö. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 15: ”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 15: ”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00015"
+   }
+  ],
+  "search": [
+   "Christin Persdotter (ö. Tortan, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_anders_nilsson_vtortan89",
+  "name": "Anders Nilsson (v. Tortan, 1689)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far till Nils Andersson, dopt aug 1689 i v. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 16: ”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 16: ”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00016"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (v. Tortan, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_gunila_gerlsd_vtortan89",
+  "name": "Gunila Gerlsdotter (v. Tortan, 1689)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mor till Nils Andersson, dopt aug 1689 i v. Tortan (efternamn osäkert).",
+  "notes": [
+   "DOP C I/1 bild 16: ”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 16: ”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00016"
+   }
+  ],
+  "search": [
+   "Gunila Gerlsdotter (v. Tortan, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_christopher_toltan89",
+  "name": "Christopher … (Zolta, 1689)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far till Olof Christophersson, dopt 23 juni 1689 i Zolta (Toltan); efternamn/patronymikon ”Thoms(?)” osäkert.",
+  "notes": [
+   "DOP C I/1 bild 15: ”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 15: ”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00015"
+   }
+  ],
+  "search": [
+   "Christopher … (Zolta, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_mari_johansd_toltan89",
+  "name": "Mari Johansdotter (Zolta, 1689)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Mor till Olof Christophersson, dopt 23 juni 1689.",
+  "notes": [
+   "DOP C I/1 bild 15: ”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 15: ”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00015"
+   }
+  ],
+  "search": [
+   "Mari Johansdotter (Zolta, 1689)"
+  ]
+ },
+ {
+  "id": "ar1_staul_otortan91",
+  "name": "Staul(?) (ö. Tortan, 1691)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far (namn osäkert, ”Staul/Staffan?”) till Christin, dopt 11 jan 1691 i ö. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 21: ”d. 11 Jan: Staul(?) barn i öst. Tortan döpt och kallad Christin” (1691, bild 21 s. 21; läst om: ”Staub/Staul barn i öst. Törtan”)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 21: ”d. 11 Jan: Staul(?) barn i öst. Tortan döpt och kallad Christin” (1691, bild 21 s. 21; läst om: ”Staub/Staul barn i öst",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00021"
+   }
+  ],
+  "search": [
+   "Staul(?) (ö. Tortan, 1691)"
+  ]
+ },
+ {
+  "id": "ar1_anders_otortan91",
+  "name": "Anders (ö. Tortan, 1691)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far (endast förnamn angivet) till Elin, dopt 18 jan 1691 i ö. Tortan. Möjligen = Anders Jonsson (ö. Tortan, 1689) – ej bevisat.",
+  "notes": [
+   "DOP C I/1 bild 21: ”d. 18 Januarij Anders barn i öst. Törtan döpt och kalladh Elyn” (1691, bild 21 s. 21)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 21: ”d. 18 Januarij Anders barn i öst. Törtan döpt och kalladh Elyn” (1691, bild 21 s. 21)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00021"
+   }
+  ],
+  "search": [
+   "Anders (ö. Tortan, 1691)"
+  ]
+ },
+ {
+  "id": "ar1_mattsson_vtortan93",
+  "name": "Mattsson (v. Tortan, 1693)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far (förnamn oläst/ej angivet; ”Mattsson”) till Brynthe, dopt 1693 i v. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 36: ”Dna Misericordias Dni Mattsson barn i W. Furtan Brynthe bed.” (1693, bild 36 s. 51)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 36: ”Dna Misericordias Dni Mattsson barn i W. Furtan Brynthe bed.” (1693, bild 36 s. 51)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00036"
+   }
+  ],
+  "search": [
+   "Mattsson (v. Tortan, 1693)"
+  ]
+ },
+ {
+  "id": "ar1_jans_otortan93",
+  "name": "Jans/Jon(?) (ö. Tortan, 1693)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": ""
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Far (namn osäkert ”Jans(?)”) till Jon, dopt 1 advent 1693 i ö. Tortan.",
+  "notes": [
+   "DOP C I/1 bild 38: ”Dna 1. Adventus Christnades Jans(?) barn i öst. Furtan bed. Jon” (1693, bild 38)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 38: ”Dna 1. Adventus Christnades Jans(?) barn i öst. Furtan bed. Jon” (1693, bild 38)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00038"
+   }
+  ],
+  "search": [
+   "Jans/Jon(?) (ö. Tortan, 1693)"
+  ]
+ },
+ {
+  "id": "ar1_barn_palsson_toltan1700",
+  "name": "Barn (Erik?) Pålsson (Toltan, döpt 2 juli 1700)",
+  "status": "lead",
+  "sex": "",
+  "living": false,
+  "born": {
+   "date": "1700-07-02",
+   "place": "Toltan, Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Barn till Pål Persson(?) i Toltan, dopt 2 juli 1700; namnet ”Erik(?)” osäkert. Skapad enbart för att länka fadern.",
+  "notes": [
+   "DOP C I/1 bild 55: ”d. 2 Julii Pål Börsson(?) barn i Tolten [(Erik?)]” (1700 nr 25, bild 55 s. 88; starkt bleknad)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 55: ”d. 2 Julii Pål Börsson(?) barn i Tolten [(Erik?)]” (1700 nr 25, bild 55 s. 88; starkt bleknad)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00055"
+   }
+  ],
+  "search": [
+   "Barn (Erik?) Pålsson (Toltan, döpt 2 juli 1700)"
+  ]
  }
 ]

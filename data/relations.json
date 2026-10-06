@@ -9899,5 +9899,131 @@
   "child": "ap5_anna_eriksd56",
   "status": "candidate",
   "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Erik Jansson f. 1818 + Stina Svensdotter f. 1819 bor i svärsonen/Karl Gustaf Anderssons hushåll; Anna Eriksdotter f. 1856 (patronymikon Eriksdotter) – släktskap ej uttryckt, kontrollera i husförhör."
+ },
+ {
+  "id": "p-ar1_lars_jonsson_toltan92-ar1_ingeri_ersd_toltan92",
+  "type": "partner",
+  "a": "ar1_lars_jonsson_toltan92",
+  "b": "ar1_ingeri_ersd_toltan92",
+  "status": "candidate",
+  "basis": "”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39) (C0036782_00030)"
+ },
+ {
+  "id": "c-ar1_lars_jonsson_toltan92-ar1_ingeri_ersd_toltan92-c3_marit_larsd92_toltan",
+  "type": "child",
+  "parents": [
+   "ar1_lars_jonsson_toltan92",
+   "ar1_ingeri_ersd_toltan92"
+  ],
+  "child": "c3_marit_larsd92_toltan",
+  "status": "candidate",
+  "basis": "”Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (1692 nr 15, bild 30 s. 39) (C0036782_00030)"
+ },
+ {
+  "id": "p-ar1_anders_jonsson_otortan89-ar1_christin_persd_otortan89",
+  "type": "partner",
+  "a": "ar1_anders_jonsson_otortan89",
+  "b": "ar1_christin_persd_otortan89",
+  "status": "candidate",
+  "basis": "”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11) (C0036782_00015)"
+ },
+ {
+  "id": "c-ar1_anders_jonsson_otortan89-ar1_christin_persd_otortan89-nils_andersson89_otortan",
+  "type": "child",
+  "parents": [
+   "ar1_anders_jonsson_otortan89",
+   "ar1_christin_persd_otortan89"
+  ],
+  "child": "nils_andersson89_otortan",
+  "status": "strong",
+  "basis": "”Nilß Anderson i ö. Tortan – Anders Jonson, Christin Persdotter” (21 april 1689, bild 15 s. 11) (C0036782_00015)"
+ },
+ {
+  "id": "p-ar1_anders_nilsson_vtortan89-ar1_gunila_gerlsd_vtortan89",
+  "type": "partner",
+  "a": "ar1_anders_nilsson_vtortan89",
+  "b": "ar1_gunila_gerlsd_vtortan89",
+  "status": "candidate",
+  "basis": "”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13) (C0036782_00016)"
+ },
+ {
+  "id": "c-ar1_anders_nilsson_vtortan89-ar1_gunila_gerlsd_vtortan89-nils_andersson89_vtortan",
+  "type": "child",
+  "parents": [
+   "ar1_anders_nilsson_vtortan89",
+   "ar1_gunila_gerlsd_vtortan89"
+  ],
+  "child": "nils_andersson89_vtortan",
+  "status": "strong",
+  "basis": "”Nilß Andersson i v. Tortan – Anders Nilßon, Gunila Gerlsd.” (22(?) aug 1689, bild 16 s. 13) (C0036782_00016)"
+ },
+ {
+  "id": "p-ar1_christopher_toltan89-ar1_mari_johansd_toltan89",
+  "type": "partner",
+  "a": "ar1_christopher_toltan89",
+  "b": "ar1_mari_johansd_toltan89",
+  "status": "candidate",
+  "basis": "”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11) (C0036782_00015)"
+ },
+ {
+  "id": "c-ar1_christopher_toltan89-ar1_mari_johansd_toltan89-olof_christophersson89_toltan",
+  "type": "child",
+  "parents": [
+   "ar1_christopher_toltan89",
+   "ar1_mari_johansd_toltan89"
+  ],
+  "child": "olof_christophersson89_toltan",
+  "status": "strong",
+  "basis": "”Oluff Christopherson i Zolta – Christoph Thoms(?), Mari Johans-dotter” (23 juni 1689, bild 15 s. 11) (C0036782_00015)"
+ },
+ {
+  "id": "c-ar1_staul_otortan91-christin_tortan91",
+  "type": "child",
+  "parents": [
+   "ar1_staul_otortan91"
+  ],
+  "child": "christin_tortan91",
+  "status": "lead",
+  "basis": "”d. 11 Jan: Staul(?) barn i öst. Tortan döpt och kallad Christin” (1691, bild 21 s. 21; läst om: ”Staub/Staul barn i öst. Törtan”) (C0036782_00021)"
+ },
+ {
+  "id": "c-ar1_anders_otortan91-elin_tortan91",
+  "type": "child",
+  "parents": [
+   "ar1_anders_otortan91"
+  ],
+  "child": "elin_tortan91",
+  "status": "lead",
+  "basis": "”d. 18 Januarij Anders barn i öst. Törtan döpt och kalladh Elyn” (1691, bild 21 s. 21) (C0036782_00021)"
+ },
+ {
+  "id": "c-ar1_mattsson_vtortan93-brynthe_vtortan93",
+  "type": "child",
+  "parents": [
+   "ar1_mattsson_vtortan93"
+  ],
+  "child": "brynthe_vtortan93",
+  "status": "lead",
+  "basis": "”Dna Misericordias Dni Mattsson barn i W. Furtan Brynthe bed.” (1693, bild 36 s. 51) (C0036782_00036)"
+ },
+ {
+  "id": "c-ar1_jans_otortan93-jon_ofortan93",
+  "type": "child",
+  "parents": [
+   "ar1_jans_otortan93"
+  ],
+  "child": "jon_ofortan93",
+  "status": "lead",
+  "basis": "”Dna 1. Adventus Christnades Jans(?) barn i öst. Furtan bed. Jon” (1693, bild 38) (C0036782_00038)"
+ },
+ {
+  "id": "c-pal_persson_toltan1700-ar1_barn_palsson_toltan1700",
+  "type": "child",
+  "parents": [
+   "pal_persson_toltan1700"
+  ],
+  "child": "ar1_barn_palsson_toltan1700",
+  "status": "lead",
+  "basis": "”d. 2 Julii Pål Börsson(?) barn i Tolten [(Erik?)]” (1700 nr 25, bild 55 s. 88; starkt bleknad) (C0036782_00055)"
  }
 ]
