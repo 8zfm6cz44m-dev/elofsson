@@ -11468,5 +11468,65 @@
   "child": "d7_karl_oskar_olofsson_skog",
   "status": "strong",
   "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-aq4_stanislaw_orzechowski_1905",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "aq4_stanislaw_orzechowski_1905",
+  "status": "verified",
+  "basis": "S:t Wojciech 1905 akt 138: 'Іосифъ Оржеховскій ... отъ жены его Екатерины урожденной Заторской ... дано имя Станиславъ'"
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-aq4_marianna_zatorska_1867",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "aq4_marianna_zatorska_1867",
+  "status": "strong",
+  "basis": "Katedra 1867 akt 476: 'Józef Zatorski ... z jego małżonki Antoniny z Ksiołów ... imię Marjanna Franciszka' (Szydłówek). Strong, ej verified: Józefs åldrar avviker från 1871."
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-aq4_jan_zatorski_1868",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "aq4_jan_zatorski_1868",
+  "status": "strong",
+  "basis": "Katedra 1868 akt 661: 'Іосифъ Заторскій ... отъ жены его Антонины Заторской рожденной Кселъ ... дано имя Янъ' (Szydłówek)."
+ },
+ {
+  "id": "s-katarzyna_zatorska-aq4_marianna_zatorska_1867",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "aq4_marianna_zatorska_1867",
+  "status": "strong",
+  "basis": "Samma föräldranamn Józef Zatorski + Antonina z Ksiołów, båda Szydłówek (akt 476/1867 mot akt 550/1871)."
+ },
+ {
+  "id": "s-katarzyna_zatorska-aq4_jan_zatorski_1868",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "aq4_jan_zatorski_1868",
+  "status": "strong",
+  "basis": "Samma föräldranamn (akt 661/1868 mot akt 550/1871), Szydłówek."
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-aq4_antonina_orzechowska_1910",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "aq4_antonina_orzechowska_1910",
+  "status": "lead",
+  "basis": "Endast efternamn i födelseindex S:t Wojciech 1910 (Оржеховская Антонина, nummer dolt); föräldrar ej belagda."
  }
 ]

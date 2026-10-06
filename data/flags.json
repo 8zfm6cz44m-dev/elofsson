@@ -3790,6 +3790,15 @@
     "as1_olof_jansson_gunnarsbytorp",
     "d7_anna_maria_olofsdotter_1874"
    ]
+  },
+  {
+   "title": "Åldrar Józef Zatorski/Antonina: 1864–68 mot 1871",
+   "text": "Szydłówek-paret Józef Zatorski × Antonina z Ksiołów anges 1864 vid vigseln (akt 152) som 21/22, 1867 (akt 476) som 23/26 och 1868 (akt 661) som 26/27, men 1871 (Katarzynas akt 550) som 33/30. Namn, by och Ksioł-flicknamn stämmer genomgående; åldern i akt 550 är troligen felaktig. Marcin+Maryanna Socha som Józefs föräldrar (vigsel 1864) kvarstår candidate.",
+   "persons": [
+    "jozef_zatorski",
+    "antonina_zatorska_n",
+    "katarzyna_zatorska"
+   ]
   }
  ],
  "excluded": [
@@ -4110,6 +4119,15 @@
     "petrus_johansson_strmtorp",
     "ao4_brita_olsd52",
     "britta_oj52"
+   ]
+  },
+  {
+   "title": "Stanisław Orzechowski 1905 – aktnummer funnet",
+   "text": "Akt 138, S:t Wojciech 1905 (fil 136-141): Józef Orzechowski (30) + Katarzyna f. Zatorska (33), son Stanisław, född i Szydłówek ca 6 maj 1905. G2/E4:s sökning missade den för att akten ligger bland 'Szydłówek'-akterna 136-141.",
+   "persons": [
+    "aq4_stanislaw_orzechowski_1905",
+    "jozef_orzechowski",
+    "katarzyna_zatorska"
    ]
   }
  ]
