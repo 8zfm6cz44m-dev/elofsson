@@ -1615,6 +1615,55 @@
     "johan",
     "ei_johan_olaf_olsson_1923"
    ]
+  },
+  {
+   "title": "Johan Olof Olsson: Stockholm 1907 – sedan Arvika 1914 och USA 1923",
+   "text": "Församlingsbok A II a/1 bild 307 (sida 297): Johan Olof 86 23/9, ”Korporal vid K. Fälttelegrafkåren”, utflyttad ”Klara/Stockholm 07 23/10” (Stockholms Klara församling). Nästa led (Stockholm 1907–10, åter Takene 1910 enl. folkräkning, Arvika 1914, Ellis Island 1923) ligger i A II a/3–4 (1909–20) som kräver inloggning och i Klara församlings längder. Sök Klara församling in-/utflyttning 1907 och Arvika stads längd 1914. Ingen motsägelse mot 1923: resa/vistelse i USA och återkomst är möjlig.",
+   "persons": [
+    "johan"
+   ]
+  },
+  {
+   "title": "Hanna Elisabeth Eriksdotter: återkomst efter Amerika 1901",
+   "text": "A II a/2 (00053597, 1896–1909) innehåller sidorna 502–940 (Dyn–Skärmnäs, Lerhol m.fl.) – ej Takene/Skog/Svartåna (de ligger i A II a/1 sid. 200–310). Återkomsten efter 1901 (död på Hagen 1915-08-12) står i A II a/3–4 (1909–20) som kräver inloggning; ej läst. Rekommenderas: användaren loggar in, eller dödbok Brunskog F-serie 1915.",
+   "persons": [
+    "hanna_e"
+   ]
+  },
+  {
+   "title": "Riksarkivet kräver inloggning för 1909–1920 (A II a/3, A II a/4 00053599)",
+   "text": "Bildvisning av 00053598 och 00053599 omdirigerar till inloggning; bildtjänsten ger inga bilder. A II a/5–/16 (1921–51) ej testade (sannolikt samma). Ingen inloggning gjord. Brunskog B-serien (In-/utflyttningslängder) finns bara t.o.m. 1860: C0036778 B/1 1760–76, C0036779 B/2 1776–1811, C0036780 B/3 1811–39, C0036781 B/4 1839–60 – ingen B-serie för 1895–1912 digitaliserad (flyttning står i församlingsböckerna).",
+   "persons": []
+  },
+  {
+   "title": "Toltan i mantalslängder 1722–1730: Elof Nilsson + Påhl Nilsson + Nils Larsson",
+   "text": "Brunskogs socken i mantalslängderna: 1722 A0003201 b.596 hs (’Brunskogs Sogn’) – b.599 hs (Toltan = ’Torten’, sista gruppen); 1723 A0003202 b.535 hs – b.539+ (Toltan b.538 vs); 1724 A0003203 b.597 vs (’Brunskogs Pastorat/Brunskogs Sogn’) – b.602 vs (Toltan b.599 hs; slutsumma + rotemästare b.602: ’Per Andersson i Strand, Jon Nilsson i Torten, Matts Christophersson i Bygn, Bengt Knutsson i Skäle, Olof Erfwidsson i Näsbygden’); 1725 A0003204 b.490 vs (Brunskog Sogn) – b.493 (Toltan ½ b.492 hs nederdel); 1726 A0003205 b.459 vs (Brunskog Sogn, sid 1582) – b.462 vs (’W. Torten ½’/’Gyltarud ½’/’Åmot ½’ b.460 hs; Toltan med Elof ej lokaliserad); 1730 A0003209 b.491 vs (Brunskog Sogn) – b.495 (Toltan ½ b.493 hs; Åsen ½ b.494 vs). Elof/Olof Nilsson och Påhl Nilsson står i Toltan-gruppen i alla lästa år 1722–1730; Christopher Påhlsson tillkommer 1730.",
+   "persons": [
+    "elof_nilsson",
+    "pal_nilsson_hagen",
+    "christopher_persson_asen",
+    "nils_larsson_toltan"
+   ]
+  },
+  {
+   "title": "Första mantalsår för Elof Nilsson i Toltan",
+   "text": "1715–1720 ej funnen (tidigare agent), 1721 saknar namnlista (A0003200 är en 16-bilders sammanställning), 1722 = första läsbara mantalsår (Olof Nilsson efter Påhl Nilsson i Torten-gruppen; osäker läsning), 1723–1725 och 1730 säkert eller trolig ’Elof/Olof Nilsson’. Dopen 1721 (Britta) och 1717 giftermål gör att han bör ha varit i Toltan före 1722 – sannolikt inneboende/folk under annan gårds skatt (inte egen mantalsskriven).",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Mantalslängdsformat per år (för nästa agent)",
+   "text": "1722–1724: kolumnformat med gruppnamn i vänstermarginal och högst 2–3 sidor/ bild; 1722 Brunskog är 4 bilder (596 hs–599), 1723 ’Brunskogs Sogn’-rubrik b.535 hs, 1725+ bråktal (½, ¼) vid gruppen. Volymerna 1731 (A0003210): Brunskog hittades inte bland b.490–505 (där Gillingmark b.491 vs, Järnskog b.492 vs, Jösse härad/Eda b.494 hs, Gunnarskog b.501 vs, Elgå b.505 hs). 1714 (A0003195): Brunskogs Sogn-rubrik b.480 vs, summa b.482 vs; Toltan-gruppen på b.481 hs/482 vs är i fortlöpande löptext och inte säkert avläst.",
+   "persons": []
+  },
+  {
+   "title": "Huldas födelseort och Johans Stockholmsvistelse 1907–10 ej belagda",
+   "text": "Blockerat av captcha på Riksarkivets sök och att Rotemansarkivet inte gick att nå. Ingen ny källa tillkom. Persons/relations redan finns (johan, hulda, elof, arvid_lycka, anna_lycka, valborg och c-johan-hulda-*).",
+   "persons": [
+    "johan",
+    "hulda"
+   ]
   }
  ],
  "conflicts": [
