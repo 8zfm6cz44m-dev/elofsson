@@ -2549,7 +2549,8 @@
    "USA 1903 (A1): MÖJLIG match = ”Erik J. Erikson” 24 år, gift, från Brunskog, med hustru Anna 23 och spädbarn Eric H., S.S. New York ankomst 3 okt 1903, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Se person erik_j_erikson_1903 (candidate). Ej bevisad – kräver Brunskog dop/vigsel 1901-02 eller flyttlängd 1903.",
    "USA-SPÅR B1 (2026-10-06): Hembygdsföreningens registerpost 389452 (https://www.hembygd.se/brunskog/plats/221748/person/389452) innehåller bara 'Född: 1878-12-30' och 'Emigrerar till Nordamerika 1903' (skapad/ändrad 2011-04-02) – ingen destination, hustru eller barn. Ingen öppen US-källa (Find a Grave, webbsök) kunde knyta Mt. Jewett-kandidaten till honom.",
    "USA-SPÅR C6 (2026-10-06): MyHeritage SuperSearch (Erik Erickson f. 1878-79, Pennsylvania) stoppades av hCaptcha-'Security check' – ej klickad. Find a Grave-sökning (Erik Erickson, f. 1878±2, McKean County) gav 20 träffar men platsfiltret fungerade inte (träffar i MN, IL, NY, Ohio m.fl.); ingen Mt. Jewett-/McKean-träff med Brunskog-koppling. Ingen kandidat kan knytas till honom.",
-   "HUSFÖRHÖR A II a/1 (E1) – UTVANDRING BEKRÄFTAD: bild 210 (sida 200, Skog, Dernole): Erik Nilsson 43 8/2 Takene (g. 74 30/12) + h. Anna Andersdotter 46 14/12 + barn Hanna Elisabeth 76 6/7, Erik Johan 78 30/12, Paul 81 6/11, Hulda 85 16/3 (”icke döpt” överstruket), Signe Maria 89 8/2. Erik Johan fäst 11/7 1902 med Anna Olsson (sida 199), utflyttad från föräldrahushållet 14/12 1902; i egen rad (rad 9-11): ”Gu s. Erik Johan Eriksson, Nr 12 100/99 [värnpliktsnummer], 78 30/12 Skog, g. 23/8 02”, hustru ”Anna Olsson 79 18/12 Skog” och son ”Erik Harry 02 17/11 Skog”. Utflyttningskolumn (rad 9) ordagrant: ”Amerika 03 ²⁴?/₈” – dagen svårläst (21–24), månad 8 = augusti 1903. Ingen adress i husförhöret. Matchar Ellis Island 3 okt 1903 (S.S. New York): Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., hemort Brunskog, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Därmed är erik_j_erikson_1903 mycket stark/verifierad identitet (namn, ålder, gift, hustru Anna f. 1879, barn Erik Harry f. nov 1902, Brunskog) – status bör höjas från candidate till strong/verified."
+   "HUSFÖRHÖR A II a/1 (E1) – UTVANDRING BEKRÄFTAD: bild 210 (sida 200, Skog, Dernole): Erik Nilsson 43 8/2 Takene (g. 74 30/12) + h. Anna Andersdotter 46 14/12 + barn Hanna Elisabeth 76 6/7, Erik Johan 78 30/12, Paul 81 6/11, Hulda 85 16/3 (”icke döpt” överstruket), Signe Maria 89 8/2. Erik Johan fäst 11/7 1902 med Anna Olsson (sida 199), utflyttad från föräldrahushållet 14/12 1902; i egen rad (rad 9-11): ”Gu s. Erik Johan Eriksson, Nr 12 100/99 [värnpliktsnummer], 78 30/12 Skog, g. 23/8 02”, hustru ”Anna Olsson 79 18/12 Skog” och son ”Erik Harry 02 17/11 Skog”. Utflyttningskolumn (rad 9) ordagrant: ”Amerika 03 ²⁴?/₈” – dagen svårläst (21–24), månad 8 = augusti 1903. Ingen adress i husförhöret. Matchar Ellis Island 3 okt 1903 (S.S. New York): Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., hemort Brunskog, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Därmed är erik_j_erikson_1903 mycket stark/verifierad identitet (namn, ålder, gift, hustru Anna f. 1879, barn Erik Harry f. nov 1902, Brunskog) – status bör höjas från candidate till strong/verified.",
+   "SCB FÖDELSEUTDRAG Brunskog 1878 (A0036134_00291, nr 118, högersida om 'Mangskog' börjar): nr 118, dag 30 (dec), barnnamn ordagrant ”Erik Johan (2)” [siffran i parentes = antal bokstäver/namnordning, ej ålder]; föräldrar: ”Nilsson Erik, hemmegare/hemmansägare [osäker läsning]” och ”Andersdotter Anna, L. Hu. [lagvigd hustru]”, ort ”Skog” [läsning delvis osäker], moderns/faderns ålder ca 30/32 (kolumn). Bekräftar födelsedatum 30/12 1878 och föräldrarna Erik Nilsson + Anna Andersdotter. Ingen anteckning om utvandring i SCB-utdraget (SCB födelseutdrag har inga flyttanteckningar)."
   ],
   "sources": [
    {
@@ -2575,6 +2576,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200), rad 5 (i föräldrahushållet): ”Erik Johan 78 30/12”, ut ”säfra? 02 14/12”, anm. ”Fäst 11/7 02 m. Anna Olsson p. 199”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "Riksarkivet, SCB utdrag ur födelsebok, Brunskog (Värmlands län) 1878, SE/RA/420401/01/H 1 AA/635, bild 8 (A0036134_00291), nr 118: 30 dec 'Erik Johan (2)'",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036134_00291"
    }
   ],
   "search": [
@@ -4112,7 +4117,8 @@
   "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1876-07-05"
+   "date": "1876-07-06",
+   "place": "Skog, Brunskog"
   },
   "died": {
    "date": "1915-08-12"
@@ -4138,13 +4144,18 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (vol. 00053596), bild 210 (sida 200, Skog Dernole), rad 4: ”b. Hanna Elisabeth 76 6/7”, ut ordagrant ”Amerika 01 26/4”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "Riksarkivet, SCB utdrag ur födelsebok, Brunskog (Värmlands län) 1876, SE/RA/420401/01 (A0036065_00314), nr 76: Juli 6 'Hanna Elisabet', föräldrar Nilsson Erik, Bonde, Skog + Andersdotter Anna, L. Hu.",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036065_00314"
    }
   ],
   "search": [
    "Hanna Elisabeth Eriksdotter"
   ],
   "notes": [
-   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabeth f. 6/7 1876 (annan källa 5/7), dotter i Erik Nilssons hushåll Skog Dernole (bild 210 sida 200 rad 4; yrkeskolumn ”Sömmerska”). Utflyttningskolumn ordagrant: ”Amerika 01 26/4” = 26 april 1901. Hon är i hembygdsregistret ”ogift dam”, död 1915-08-12 på Hagen – dvs. hon måste ha återvänt till Sverige (inflyttning/återkomst ej funnen i A II a/1; sök A II a/2–3 och Ellis Island 1901–1913). Ingen Ellis Island-sökning gjord ännu."
+   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabeth f. 6/7 1876 (annan källa 5/7), dotter i Erik Nilssons hushåll Skog Dernole (bild 210 sida 200 rad 4; yrkeskolumn ”Sömmerska”). Utflyttningskolumn ordagrant: ”Amerika 01 26/4” = 26 april 1901. Hon är i hembygdsregistret ”ogift dam”, död 1915-08-12 på Hagen – dvs. hon måste ha återvänt till Sverige (inflyttning/återkomst ej funnen i A II a/1; sök A II a/2–3 och Ellis Island 1901–1913). Ingen Ellis Island-sökning gjord ännu.",
+   "SCB FÖDELSEUTDRAG Brunskog 1876 (A0036065_00314), nr 76, ordagrant: ”Juli 6 – Hanna Elisabet”; föräldrar ”Nilsson Erik, Bonde, Skog” och ”Andersdotter Anna, L. Hu. [lagvigd hustru]”. Löser dagskonflikten 5/7 (hembygdsregistret) mot 6/7 (husförhör): SCB-utdraget anger 6 juli 1876. Föregående rad nr 75 ”Juli 3 Iwar” (Östra Takene), nästa nr 77 ”Juli 9 Anders Gustaf”."
   ]
  },
  {
