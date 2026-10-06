@@ -6716,5 +6716,54 @@
   "child": "anna_jec_1871",
   "status": "candidate",
   "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "p-n44k_karljohan77-milla_fagerheim73",
+  "type": "partner",
+  "a": "n44k_karljohan77",
+  "b": "milla_fagerheim73",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Norra Boda sida 4 rad 33 och 1930 sida 3 rad 28: Karl Johan Nilsson, Gift, hustru Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker; vigselår 1902."
+ },
+ {
+  "id": "c-n44k_karljohan77-milla_fagerheim73-vilhelm_nilsson04",
+  "type": "child",
+  "parents": [
+   "n44k_karljohan77",
+   "milla_fagerheim73"
+  ],
+  "child": "vilhelm_nilsson04",
+  "status": "strong",
+  "basis": "Folkräkning 1910: Vilhelm f. 1904 Kristiania i hushållet (familjeställning ej indexerad)."
+ },
+ {
+  "id": "c-n44k_karljohan77-milla_fagerheim73-hermansigurd_nilsson08",
+  "type": "child",
+  "parents": [
+   "n44k_karljohan77",
+   "milla_fagerheim73"
+  ],
+  "child": "hermansigurd_nilsson08",
+  "status": "strong",
+  "basis": "Folkräkning 1910: Herman Sigurd f. 1908 Kristiania i hushållet."
+ },
+ {
+  "id": "p-n44k_emelie86-oskaralfred_emanuelsson81",
+  "type": "partner",
+  "a": "n44k_emelie86",
+  "b": "oskaralfred_emanuelsson81",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud sida 31 rad 49: Emilia Helena Nilsson f. 1886 Boda, Familjeställning ”h.”, vigselår 1919, f. Nilsson, med Oskar Alfred Emanuelsson."
+ },
+ {
+  "id": "c-oskaralfred_emanuelsson81-n44k_emelie86-gurlielsa_emanuelsson20",
+  "type": "child",
+  "parents": [
+   "oskaralfred_emanuelsson81",
+   "n44k_emelie86"
+  ],
+  "child": "gurlielsa_emanuelsson20",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Frykerud: Gurli Elsa Maria f. 1920 i hushållet."
  }
 ]

@@ -20672,7 +20672,8 @@
    "FOLKRÄKNING 1880 Boda, Nordsjö, sida 34 rad 11: ”Andersson, Nils, f. 1844 i Boda, Hemmansägare” + ”Persdotter, Johanna, f. 1845” + barn Kristina 1867, Anna Kajsa 1869, Nils 1872, Anders 1874, Karl Johan 1877.",
    "FOLKRÄKNING 1890 Boda, Nohlsjö sida 30: Hemeg. Skomakare; barn tillkomna: Olof Albin 1881, Maria 1884, Emelie Helena 1886, Harald 1888. Kristina (1867) och Nils (1872) ej kvar i hushållet 1890.",
    "FOLKRÄKNING 1900 Boda Nolsjö, 1910 Nordsjö Smedåsen: kvar som hemmansägare/skomakarmästare; ingen utflyttning till Amerika framgår av hushållen (men Kristina 1867 och Nils 1872 spårades ej).",
-   "Ej samma person: Nils Andersson f. 1844 i Boda, Målare, Svartåna Brunskog 1880 (Folk_120423455), hustru Anna Isabella Grant f. 1858 Newcastle – annan Nils."
+   "Ej samma person: Nils Andersson f. 1844 i Boda, Målare, Svartåna Brunskog 1880 (Folk_120423455), hustru Anna Isabella Grant f. 1858 Newcastle – annan Nils.",
+   "FOLKRÄKNING 1900 Boda Nolsjö, sida 27 rad 26?: ”Andersson, Nils, f. 1844 i Boda, Hemmansegare”; 1910 Nordsjö Smedåsen: ”Nils, f. 1844 Boda, Ägare Hemmansägare Skomakarmästare”, hustru Johanna Persdotter f. 1845."
   ],
   "sources": [
    {
@@ -20718,6 +20719,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Nordsjö Smedåsen): Nils f. 1844, Ägare Hemmansägare Skomakarmästare, gift; Johanna f. 1845; Emilie Helena 1886; Harald 1888 (Skomakeriarbetare)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Nordsjö Smedåsen), sida 27: Andersson, Nils f. 1844 Boda, Ägare Hemmansägare Skomakarmästare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553449&tab=post"
    }
   ],
   "search": [
@@ -22045,7 +22054,8 @@
    "UTFLYTTNING Boda A I/25 bild 301 (s.302 Nolsjö, rad 4, ”d. Kristina” 67 18/8): bortflyttad ”Eda 89 15/3 8.” (= till Eda, 15 mars 1889, utflyttningsattest nr 8); namnet överstruket. Ej Amerika enligt husförhöret; spåra i Eda husförhör/inflyttning 1889.",
    "FOLKRÄKNING 1890 Eda, Emterud norra: ”Nilsson, Kristina” f. 1867 i Boda, småskolelärarinna, ogift, ensamstående, sida 7 rad 29 (stämmer med utflyttning Boda A I/25 till Eda 15/3 1889).",
    "FOLKRÄKNING 1900 Eda, Emterud norra: gift, ”h.” (hustru) till Gustaf Persson Eklund f. 1869 i Boda, småskolelärarinna; dotter Dagny Elvira f. 1899 i Eda. 1910 (Emterud södra): hustru ”h.”; 1930 (S:a Emterud): ”Nilsson, Kristina … Gift, vigselår 1897, h., f. Nilsson”, make ”Eklund, Gustav” f. 1869 Boda. Sedan flytten till Eda 1889 gift 1897 med Gustaf Eklund; barn Dagny Elvira 1899, Gustaf Hubert 1901, Karl Bertil 1905.",
-   "HUSFÖRHÖR Eda A I/28 (C0036941) bild 60, sida 50 Emterud norra, sista raden på sidan: ”Nilsson Kristina, småskolelärarinna” 67 18/8 Boda; inflyttad från Boda. Bekräftar utflyttningen Boda A I/25 'Eda 89 15/3'. Ensamstående, ej gift 1889-95 (ingen make nämns på raden). Raden ligger efter hushåll (Hellgren/Nordmark m.fl.) på samma sida; ingen familjeställning/hushållstillhörighet utöver egen rad."
+   "HUSFÖRHÖR Eda A I/28 (C0036941) bild 60, sida 50 Emterud norra, sista raden på sidan: ”Nilsson Kristina, småskolelärarinna” 67 18/8 Boda; inflyttad från Boda. Bekräftar utflyttningen Boda A I/25 'Eda 89 15/3'. Ensamstående, ej gift 1889-95 (ingen make nämns på raden). Raden ligger efter hushåll (Hellgren/Nordmark m.fl.) på samma sida; ingen familjeställning/hushållstillhörighet utöver egen rad.",
+   "Sök 1900/1910/1930: ingen Kristina Eklund f. 1867 i indexet; ej ytterligare kontrollerat om syskon i Eda 1930."
   ],
   "sources": [
    {
@@ -23348,7 +23358,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1880, 1890, 1900.",
   "notes": [
    "FOLKRÄKNING: ”Anders, f. 1874 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 7 ”Anders” 74 22/11 (ditto-son); inget utflyttningsanteckning; kvar i hushållet."
+   "Boda A I/25 bild 301 rad 7 ”Anders” 74 22/11 (ditto-son); inget utflyttningsanteckning; kvar i hushållet.",
+   "FOLKRÄKNING 1900 Boda, Nolsjö, sida 27 rad 27: ”Anders”, f. 1874 Boda, Skomakare, Ogift, Familjeställning ”s.” (son) i Nils Anderssons hushåll. Ej funnen i 1910/1930 (inga Boda-födda Anders Nilsson 1874 i Värmland; ev. flyttat/emigrerat)."
   ],
   "sources": [
    {
@@ -23366,6 +23377,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
    }
   ],
   "search": [
@@ -23389,7 +23404,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1880, 1890, 1900.",
   "notes": [
    "FOLKRÄKNING: ”Karl Johan, f. 1877 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 8 ”Karl Johan” 77 1/7; ingen utflyttning."
+   "Boda A I/25 bild 301 rad 8 ”Karl Johan” 77 1/7; ingen utflyttning.",
+   "FOLKRÄKNING 1900 Boda Nolsjö, sida 27 rad 28: ”Karl Johan”, f. 1877 Boda, Skomakare i Nils Anderssons hushåll (s.). Samma yrke (skomakare) och namn/födelseår/-ort i 1910 och 1930 (Norra Boda); gift 1902 (Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker; barn Vilhelm 1904 och Herman Sigurd 1908 f. Kristiania). Identiteten bygger på namn+födelseår/-ort+yrke, ej uttrycklig familjeställning 1910/1930 – status strong, ej verified. (Fråga: ”verified” sattes ej; ändra till strong om chefen vill vara strikt.)"
   ],
   "sources": [
    {
@@ -23407,6 +23423,18 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Norra Boda Lyckan), sida 4 rad 33: Nilsson, Karl Johan f. 1877 Boda, Husägare Skomakeriarbetare, Gift; hustru Milla Fagerheim f. 1873 Ringsaker; barn Vilhelm 1904, Herman Sigurd 1908 (Kristiania)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Boda, Norra Boda), sida 3 rad 28: Nilsson, Karl Johan f. 1877 Boda, Husägare, biyrke Skomakare, Gift (vigselår 1902), inflyttad 1910 från Oslo",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380656&tab=post"
    }
   ],
   "search": [
@@ -23430,7 +23458,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900.",
   "notes": [
    "FOLKRÄKNING: ”Olof Albin, f. 1881 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 9 ”Olof Albin” 81 8/10; ingen utflyttning."
+   "Boda A I/25 bild 301 rad 9 ”Olof Albin” 81 8/10; ingen utflyttning.",
+   "FOLKRÄKNING 1900 Boda Nolsjö, sida 27 rad 29: ”Olof Albin”, f. 1881 Boda, Skomakare i hushållet. Ej funnen 1910/1930 under Olof/Albin f. 1881 Boda-född (Värmland) – utflyttad/emigrerad? Obekräftat."
   ],
   "sources": [
    {
@@ -23444,6 +23473,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
    }
   ],
   "search": [
@@ -23467,7 +23500,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900.",
   "notes": [
    "FOLKRÄKNING: ”Maria, f. 1884 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 10 ”d. Maria” 84 11/7 (DOTTER uttryckligen); ingen utflyttning."
+   "Boda A I/25 bild 301 rad 10 ”d. Maria” 84 11/7 (DOTTER uttryckligen); ingen utflyttning.",
+   "FOLKRÄKNING 1900 Boda Nolsjö, sida 27 rad 30–31: ”Maria”, f. 1884 Boda i hushållet. Ej säkert funnen 1910/1930 (gift namn okänt)."
   ],
   "sources": [
    {
@@ -23481,6 +23515,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
    }
   ],
   "search": [
@@ -23504,7 +23542,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900, 1910.",
   "notes": [
    "FOLKRÄKNING: ”Emelie Helena, f. 1886 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 11 ”Emelie Helena” 86 19/8; ingen utflyttning."
+   "Boda A I/25 bild 301 rad 11 ”Emelie Helena” 86 19/8; ingen utflyttning.",
+   "FOLKRÄKNING 1930: Emilia Helena Emanuelsson f. Nilsson, Frykerud (Köpung Gärdet), gift 1919 med Oskar Alfred Emanuelsson (f. 1881 Frykerud), dotter Gurli Elsa Maria f. 1920. Match = namn Emilia/Emilie Helena + född 1886 Boda + ”f. Nilsson” + inflyttad från Boda 1919; ingen uttrycklig förälder – strong."
   ],
   "sources": [
    {
@@ -23522,6 +23561,18 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Nordsjö Smedåsen), sida 27 rad 33: hushåll Nils Andersson, Ägare Hemmansägare Skomakarmästare; Johanna Persdotter; ”Emilie Helena” f. 1886 Boda; Harald f. 1888 Skomakeriarbetare (s.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553449&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Frykerud, Köpung Gärdet), sida 31 rad 49: Nilsson, Emilia Helena f. 1886 Boda, Gift 1919, inflyttad från Boda, h. (hustru), ”Övrigt: f. Nilsson”; make Oskar Alfred Emanuelsson f. 1881 Frykerud; dotter Gurli Elsa Maria f. 1920",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128607737&tab=post"
    }
   ],
   "search": [
@@ -23545,7 +23596,8 @@
   "summary": "Barn i hushållet Nils Andersson (f. 1844)/Johanna Persdotter, Nordsjö i Boda; i folkräkningarna 1890, 1900, 1910.",
   "notes": [
    "FOLKRÄKNING: ”Harald, f. 1888 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
-   "Boda A I/25 bild 301 rad 12 ”s. Harald” 88 30/9 (SON uttryckligen); ingen utflyttning."
+   "Boda A I/25 bild 301 rad 12 ”s. Harald” 88 30/9 (SON uttryckligen); ingen utflyttning.",
+   "FOLKRÄKNING 1900 sida 27 rad 32: Harald, Ogift, Familjeställning ”s.” (son). FOLKRÄKNING 1910 sida 27 rad 33 (Nordsjö Smedåsen): Harald, Skomakeriarbetare, ”s.”. Ej funnen 1930 (Värmland, Boda-född 1888)."
   ],
   "sources": [
    {
@@ -23563,6 +23615,14 @@
    {
     "label": "Riksarkivet, Boda husförhörslängder A I/25 (1883-1894), bild 301 (sida 302, Nolsjö, Smedåsen): ”B. Nils Andersson” 44 30/8 Bod, gift 22/4 67; ”H. Johanna Persdotter” 45 18/12; ”d. Kristina” 67 18/8; ”Anna Kajsa” 69 3/11; ”s. Nils” 72 18/6; ”Anders” 74 22/11; ”Karl Johan” 77 1/7; ”Olof Albin” 81 8/10; ”d. Maria” 84 11/7; ”Emelie Helena” 86 19/8; ”s. Harald” 88 30/9; utflyttningskolumn: Kristina ”Eda 89 15/3 8.”, Anna Kajsa ”Amerika 92 9/4 95.”, Nils ”Amerika 90 10/3 6.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 (Boda, Nolsjö, Jösse kontrakt), sida 27 rad 27–32: hushåll Nils Andersson, Hemmansegare, f. 1844 Boda; Johanna Persdotter f. 1845; Anders (Skomakare), Karl Johan (Skomakare), Olof Albin (Skomakare), Maria, Emelie Helena, Harald; alla f. i Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943786&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Nordsjö Smedåsen), sida 27 rad 33: Harald f. 1888 Boda, Skomakeriarbetare, Ogift, Familjeställning ”s.” i Nils Anderssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553449&tab=post"
    }
   ],
   "search": [
@@ -25938,6 +25998,146 @@
   ],
   "search": [
    "Anna Jonsdotter (f. 1871)"
+  ]
+ },
+ {
+  "id": "milla_fagerheim73",
+  "name": "Milla Gudbrandsdotter Fagerheim (f. 1873, Ringsaker, Norge)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1873",
+   "place": "Ringsaker, Norge"
+  },
+  "places": [
+   "Kristiania",
+   "Norra Boda"
+  ],
+  "summary": "Hustru till Karl Johan Nilsson (f. 1877 Boda) i folkräkningarna 1910 och 1930 (Norra Boda).",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan, sida 4 rad 33: ”Gudbrandsdotter Fagerheim, Milla, f. 1873 i Ringsaker, Norge” i hushållet Karl Johan Nilsson; 1930 samma hushåll (vigselår 1902)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex, Norra Boda Lyckan), sida 4 rad 33: Nilsson, Karl Johan hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Boda, Norra Boda), sida 3 rad 28",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380656&tab=post"
+   }
+  ],
+  "search": [
+   "Milla Gudbrandsdotter Fagerheim (f. 1873, Ringsaker, Norge)"
+  ]
+ },
+ {
+  "id": "vilhelm_nilsson04",
+  "name": "Vilhelm Nilsson (f. 1904, Kristiania)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Födsel Stiftelsen Vor Frelsers förs., Kristiania, Norge"
+  },
+  "places": [
+   "Norra Boda"
+  ],
+  "summary": "Son (hushållsmedlem) till Karl Johan Nilsson och Milla Fagerheim; f. 1904 i Kristiania.",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Vilhelm, f. 1904 i Födsel Stiftelsen Vor Frelsers förs. Kristiania, Norge”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex), sida 4 rad 33 (hushåll)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   }
+  ],
+  "search": [
+   "Vilhelm Nilsson (f. 1904, Kristiania)"
+  ]
+ },
+ {
+  "id": "hermansigurd_nilsson08",
+  "name": "Herman Sigurd Nilsson (f. 1908, Kristiania)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Trefaldighetsförs., Kristiania, Norge"
+  },
+  "places": [
+   "Norra Boda"
+  ],
+  "summary": "Son (hushållsmedlem) till Karl Johan Nilsson och Milla Fagerheim; f. 1908 i Kristiania.",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Herman Sigurd, f. 1908 i Trefaldighetsförs. Kristiania, Norge”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 (Boda annex), sida 4 rad 33 (hushåll)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   }
+  ],
+  "search": [
+   "Herman Sigurd Nilsson (f. 1908, Kristiania)"
+  ]
+ },
+ {
+  "id": "oskaralfred_emanuelsson81",
+  "name": "Oskar Alfred Emanuelsson (f. 1881, Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Köpung Gärdet, Frykerud"
+  ],
+  "summary": "Hemmansägare/sadelmakare i Frykerud; gift 1919 med Emilia Helena Nilsson (f. 1886 Boda).",
+  "notes": [
+   "FOLKRÄKNING 1930 Frykerud, Köpung Gärdet: ”Emanuelsson, Oskar Alfred, f. 1881 i Frykerud, Hemmansägare Sadelmakare”; hustru Emilia Helena f. Nilsson, vigselår 1919."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Frykerud, Köpung Gärdet), sida 31 rad 49 (hushåll)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128607737&tab=post"
+   }
+  ],
+  "search": [
+   "Oskar Alfred Emanuelsson (f. 1881, Frykerud)"
+  ]
+ },
+ {
+  "id": "gurlielsa_emanuelsson20",
+  "name": "Gurli Elsa Maria Emanuelsson (f. 1920, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1920",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Köpung Gärdet, Frykerud"
+  ],
+  "summary": "Dotter till Oskar Alfred Emanuelsson och Emilia Helena Nilsson.",
+  "notes": [
+   "FOLKRÄKNING 1930 Frykerud: ”Gurli Elsa Maria, f. 1920 i Frykerud” i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 (Frykerud), sida 31 rad 49 (hushåll)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128607737&tab=post"
+   }
+  ],
+  "search": [
+   "Gurli Elsa Maria Emanuelsson (f. 1920, Frykerud)"
   ]
  }
 ]

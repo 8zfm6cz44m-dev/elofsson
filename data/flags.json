@@ -2739,6 +2739,24 @@
     "isak_larsson_toltan",
     "elof_nilsson"
    ]
+  },
+  {
+   "title": "Anders (1874), Olof Albin (1881), Maria (1884), Nils (1872), Anna Kajsa (1869) saknas i 1910/1930",
+   "text": "Boda-födda med rätt namn/år finns ej i folkräkningsindexet 1910/1930 (Värmland), ej heller Kanada/USA sökt; gifta namn för Maria okänt. Födelseförsamlingsfältet ger även Boda i Dalarna – kontrollera hemsocken.",
+   "persons": [
+    "n44k_anders74",
+    "n44k_olofalbin81",
+    "n44k_maria84",
+    "n44k_nils72",
+    "anna_kajsa_nilsdotter69"
+   ]
+  },
+  {
+   "title": "Karl Johan Nilsson (1877) = skomakare Norra Boda, gift med norska Milla Fagerheim",
+   "text": "Identitet via namn+födelseår/-ort+skomakeri (1900→1910→1930); familjeställning 1910/1930 ej uttrycklig mot föräldrarna. Bör styrkas med Boda husförhör/flyttlängd (utflyttning till Kristiania ca 1902–04, inflyttning 1910).",
+   "persons": [
+    "n44k_karljohan77"
+   ]
   }
  ],
  "conflicts": [
