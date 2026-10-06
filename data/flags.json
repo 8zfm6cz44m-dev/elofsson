@@ -1814,6 +1814,21 @@
    "persons": [
     "kari_nilsd07"
    ]
+  },
+  {
+   "title": "Barnen Maria Cajsa (1842) och Nils (1844): öde efter 1845 okänt; svag Norge-lead",
+   "text": "Efter Frykerud-inflyttningen 1845 inte funna. Norsk FT 1875 Digitalarkivet (curl): ingen Nils f. 1844 Sverige med Boda/Värmland-ort i Eidsvoll; enda lösa lead: Kaisja Andersen f. 1842 'Værmland', tyende/kokke, Kristiania, Filosofgangen 9 (pf01052055045688) – patronymikon Andersen skulle passa, men ingen föräldrauppgift; lead, ej knytbar. FT 1865 Eidsvoll: inga träffar på Maria/Kaisa/Nils f. 1842/1844 Sverige. Möjligt att barnen dog små i Frykerud 1845–50 (Frykerud dödbok ej läst).",
+   "persons": [
+    "maria_cajsa_ae42",
+    "nils_ae44"
+   ]
+  },
+  {
+   "title": "Erik Christophersson (erik_christ): dop ej i Fryksände C I/4 1778–1780",
+   "text": "Fryksände dopbok C I/4 (C0037199) bild 106–113 genomläst: födelsedag 25/3 (1779 eller 1780) saknas helt. 1779: mellan nr 21–23 (b.108) ligger endast flickorna Kari och Maria 25/3; 1780: mellan nr 45 (Lars 22/24 mars) och nr 46 (Olof, april) finns ingen post 25/3. Erik-poster utan fader Christopher: 1779 nr 71 (okt, Warsänock, fader Erik Jonsson?), 1779 nr 97 ”S: Ôrkjärshögden Olof Christophersson, Marit Ersd” barn Erik f. 2/9 dop 5/9 1779 (fadern heter Olof, patronymikon Olofsson – ej matchande, men Olof Christophersson tyder på en släkt Christopher i Örkjärshögden/Fryksände), 1780 nr 12 Erik f. 15/16 jan (Önneby, Olof Nilsson/Gertrud Nilsd), 1780 nr 35 Erik 11/12 mars (Fensbol, Jon Nilsson/Gertrud Jonsd). Ingen matchar 25/3 + fader Christopher. Troligen är födelseorten ”Fryksände” i husförhöret endast socknen, eller dopet står i annan socken (t.ex. Östra Ämtervik, Sunne, Lysvik) eller är oregistrerat.",
+   "persons": [
+    "erik_christ"
+   ]
   }
  ],
  "conflicts": [
@@ -2429,6 +2444,16 @@
     "gunild_andersd_sandvik",
     "jon_jansson44",
     "ingjerd_andersd40"
+   ]
+  },
+  {
+   "title": "Anders Elofsson/Stina: Boda 1841–45 hittad (Ärtetan/Lerboda), därefter Frykerud 1845",
+   "text": "Boda husförhör A I/17 (C0036582) bild 280 (fol. 267 Ärtetan) och bild 170 (fol. 157 Lerboda): Anders Elofsson 16 Brunskog, Stina Nilsdotter 26/10 13 Frykerud, Maria Kajsa 23/1 42 Boda, Nils 30/8 44 Boda; flyttade 1844/45 till Frykerud. Frykerud B/1 (C0037133) bild 45: inflyttade 1845 nr 122–125 från Boda ('Gift Dr Anders Elofsson / H. Stina Nilsd. / D. Maja Cajsa / S. Nils'). Tidigare slutsats 'ej kvarskriven i Ärtetan 1841–45' var alltså felaktig (de stod på fol. 267, inte bland de första gårdarna).",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13",
+    "maria_cajsa_ae42",
+    "nils_ae44"
    ]
   }
  ]

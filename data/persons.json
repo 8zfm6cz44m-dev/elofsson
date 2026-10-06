@@ -4460,6 +4460,18 @@
    {
     "label": "Digitalarkivet, Folketelling 1891 Ullensaker (0235): Anders Ellefsen f. 1816 ”Brunskog. Vermeland. Sverige”, logerende hos Thorsten Nielsen, e-mand",
     "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005286"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/17 (1841–1845), bild 280 (fol. 267), Ärtetan: ”Anders Elofsson” f. 16 Brunskog, ”Stina Nilsdotter” 26/10 13 Frykerud, ”D. Maria Kajsa” 23/1 42 Boda, ”Son Nils” 30/8 44 Boda; utflyttad ”157 - 44”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036582_00280"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/17 (1841–1845), bild 170 (fol. 157), Lerboda: ”Gifted Anders Elofsson” 16 Brskog, ”H. Stina Nilsd.” 26/10 13 Frykerud, ”D. Maria Cajsa” 23/1 42 Boda, ”S. Nils” 30/8 44; inflyttad ”267. 44”, utflyttad ”Frykerud 44(45?)”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036582_00170"
+   },
+   {
+    "label": "Riksarkivet, Frykerud in- och utflyttningslängd B/1 (C0037133), bild 45 (inflyttade 1845, nr 122–125): ”Gift Dr Anders Elofsson / H. Stina Nilsd. / D. Maja Cajsa / S. Nils” – från Boda, sida 186, ’Gift’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037133_00045"
    }
   ],
   "search": [
@@ -4493,7 +4505,9 @@
    "H3 BODA DOP 1842: Anders Elofsson (bonde) och Stina Nilsdotter bodde i Ärtetan, Boda i jan 1842 – dotter Maria Cajsa f. 23 jan 1842. Detta är den första post som (ordagrant) bekräftar att paret Anders Elofsson/Stina Nilsdotter var kvar i Boda (Ärtetan) efter 1840 (tidigare husförhör 1841–45 A I/17 Ärtetan hade ej raden).",
    "H3 BODA DOP 1844: ytterligare ett barn, Nils f. 30 aug 1844, Ärtetan (C I/3 bild 74). Paret alltså kvar i Ärtetan, Boda minst till aug 1844. Dopböckerna 1840 (bild 53–58), 1841 (59–61), 1842 (62–65), 1843 (66–70), 1844 (71–75), 1845 (76–77), 1846 (78–79) genomlästa på översiktsnivå; endast dessa två barn (jan 1842, aug 1844) med fader Anders Elofsson funna. Ärtetan-poster 1845–46 hade fäder Anders Andersson, Olof Nilsson, Nils Swensson m fl, inte Elofsson.",
    "H3 BODA UTFLYTTNING B/1 (C0036591) bild 16–22 (1847–1850) överblickade: ingen rad för Anders Elofsson/Stina identifierad (handstil/upplösning i översikt otillräcklig, ej zoomat rad för rad). Dödbok Boda F I/1 (C0036599) bild 46 (1839), 48 (1841/42), 49 (1842/43), 51 (1844/45), 52 (1846/47) överblickade: inga dödsposter för barn med fader Anders Elofsson sedda (ej uttömmande). H3 EIDSVOLL: Digitalarkivets sökindex (AMF-transkribering av Eidsvoll ministerialbok 1872–1895: källor 497, 498, 3466, 3467/3468, 499) ger ingen begravning för Stina Nilsdatter/Ellefsen f. 1813 under 1875–1892 (varianter Stina/Kristina/Christine/Kirstine, efternamn Nilsdatter/Ellefsen/Elofsen, bosted Hoel, födelseland Sverige/Frykerud); enda Eidsvoll-träff är FT 1875 pf01052052001548. Enda 'Sverige f. 1813'-begravning Eidsvoll 1888-03-09 är 'Marie Jonasd' (annan person). Stinas död därför sannolikt ej indexerad eller skedde utanför Eidsvoll/Ullensaker; manuell bildgenomgång av Eidsvoll kirkebok 1876–1890 ej gjord.",
-   "DÖD EIDSVOLL 1893 (indexerad transkription, AMF; ej bildläst): ”Anders Ellefsen”, rolle avdød, f.år 1816, fødested ”Vermeland”, døde 15/11 1893, begravet 24/11 1893 (Eidsvoll, offisiell kirkebok 1891–1900 s. 204 nr 45; klokkerbok-kopia s. 303 nr 45 stavar ”Anders Ellessen”). Ingen ålder/bosted/stilling/efterlod angivet i indexet. NB: i uppdraget angavs ’begravd 15/11’ – enligt indexet är 15/11 dödsdatum, 24/11 begravningsdatum. FT 1891: Anders bor i Ullensaker som logerende, ”e-mand” (enkeman)."
+   "DÖD EIDSVOLL 1893 (indexerad transkription, AMF; ej bildläst): ”Anders Ellefsen”, rolle avdød, f.år 1816, fødested ”Vermeland”, døde 15/11 1893, begravet 24/11 1893 (Eidsvoll, offisiell kirkebok 1891–1900 s. 204 nr 45; klokkerbok-kopia s. 303 nr 45 stavar ”Anders Ellessen”). Ingen ålder/bosted/stilling/efterlod angivet i indexet. NB: i uppdraget angavs ’begravd 15/11’ – enligt indexet är 15/11 dödsdatum, 24/11 begravningsdatum. FT 1891: Anders bor i Ullensaker som logerende, ”e-mand” (enkeman).",
+   "K1 BODA HUSFÖRHÖR A I/17: Anders Elofsson/Stina Nilsdotter med barnen Maria Cajsa (f. 23/1 1842 Boda) och Nils (f. 30/8 1844 Boda) står på fol. 267 (bild 280, Ärtetan, rubrik ”G: Dr: hos A.E.S.”(?)) – utflyttning till fol. 157 år 44; på fol. 157 (bild 170, Lerboda) inflyttad ”267. 44”, utflyttad ”Frykerud 44” (sista siffran 4 eller 5 oklar). Familjen flyttade alltså från Boda (Lerboda) till FRYKERUD 1844/45, inte direkt till Norge.",
+   "K1 FRYKERUD INFLYTTNING 1845: Frykerud B/1 bild 45 (inflyttade 1845, nr 122–125): ”G. Dr Anders Elofsson / H. Stina Nilsd. / D. Maja Cajsa / S. Nils”, kolumn från ”Boda”, husförhörssida ”186”, ”Gift”. Familjen flyttade alltså Boda -> Frykerud 1845 (tidigare Boda-notering ’Frykerud 44/45’ stämmer; 1845). Frykerud A I/19 (1841–45, C0037120) s. 186–187 (Köpung, bild 195) visar dem dock inte – sida 186 avser troligen nästa bok A I/20 (1846–50)."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok).",
