@@ -443,7 +443,7 @@
   ],
   "child": "kasia",
   "status": "family",
-  "basis": "Familjeuppgift."
+  "basis": "Familjeuppgift. Martin bekräftar 2026-10-06: Katarzyna är Celinas dotter (Zdzisław är Iwonas bror)."
  },
  {
   "id": "c-zdzislaw-celina-maciek",
@@ -1545,7 +1545,7 @@
   "a": "izabela",
   "b": "david_rozek",
   "status": "family",
-  "basis": "MyHeritage: ”Kusins make” David Różek.",
+  "basis": "Martin: Sara är dotter till Izabela och Darek (MyHeritage: ”David Różek”). Familjebekräftat 2026-10-06.",
   "id": "p-izabela-david_rozek"
  },
  {
@@ -1555,8 +1555,8 @@
    "david_rozek"
   ],
   "child": "sara_o",
-  "status": "lead",
-  "basis": "MyHeritage-trädvyn: Sara under Izabela och David Różek.",
+  "status": "family",
+  "basis": "Martin: Sara är dotter till Izabela och Darek (MyHeritage: ”David Różek”). Familjebekräftat 2026-10-06.",
   "id": "c-izabela-david_rozek-sara_o"
  },
  {
@@ -3696,5 +3696,13 @@
   "b": "wiktoria_szewczyk",
   "status": "verified",
   "basis": "Akt 125 (1904): 'отъ жены его Викторіи урожденной Шевчикъ' = från hans hustru Wiktoria f. Szewczyk."
+ },
+ {
+  "id": "p-kasia-andrzej_dzierzba",
+  "type": "partner",
+  "a": "kasia",
+  "b": "andrzej_dzierzba",
+  "status": "family",
+  "basis": "Martin: Andrzej Dzierżba är gift med Katarzyna Dzierżba (f. Orzechowska), dotter till Celina och Zdzisław, alltså Martins kusin. Familjebekräftat 2026-10-06."
  }
 ]

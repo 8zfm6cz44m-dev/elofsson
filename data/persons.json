@@ -2549,7 +2549,7 @@
   "status": "family",
   "sex": "f",
   "living": true,
-  "summary": "Barn till Zdzisław och Celina; kusin till Martin. Fullt namn enligt MyHeritage: Katarzyna Dzierżba, född Orzechowska, f. 22 feb 1979.",
+  "summary": "Katarzyna Dzierżba (född Orzechowska), dotter till Zdzisław och Celina och Martins kusin; gift med Andrzej Dzierżba.",
   "search": [
    "Katarzyna Dzierżba",
    "Katarzyna Orzechowska",
@@ -5959,31 +5959,39 @@
  },
  {
   "id": "david_rozek",
-  "name": "David Różek",
+  "name": "Darek Różek",
   "status": "family",
   "sex": "m",
   "living": true,
   "places": [],
-  "summary": "Make/partner till kusinen Izabela enligt MyHeritage (”Kusins make”).",
+  "summary": "Izabela Orzechowskas make och far till Sara. Kallas Darek av Martin; MyHeritage-trädet anger ”David Różek” (inte att förväxla med Izabelas bror Dawid Orzechowski).",
   "sources": [
+   {
+    "label": "Martin Elofsson (muntlig uppgift i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
-   "David Różek"
+   "Darek Różek",
+   "David Różek",
+   "Dariusz Różek"
   ]
  },
  {
   "id": "sara_o",
   "name": "Sara Orzechowska",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
   "living": true,
   "places": [],
-  "summary": "Syns i MyHeritage-trädet under Izabela och David Różek. Barn – inga födelsedata.",
+  "summary": "Dotter till Izabela Orzechowska och Darek Różek (Martin: familjebekräftat).",
   "sources": [
+   {
+    "label": "Martin Elofsson (muntlig uppgift i chatten, 2026-10-06)"
+   },
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
@@ -12583,6 +12591,24 @@
   ],
   "search": [
    "Kajsa Nilsdotter (f. 25/9 1824, Strand)"
+  ]
+ },
+ {
+  "id": "andrzej_dzierzba",
+  "name": "Andrzej Dzierżba",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "places": [],
+  "summary": "Gift med Katarzyna Dzierżba (född Orzechowska), Martins kusin (Martin, 2026-10-06).",
+  "sources": [
+   {
+    "label": "Martin Elofsson (muntlig uppgift i chatten, 2026-10-06)"
+   }
+  ],
+  "search": [
+   "Andrzej Dzierżba",
+   "Andrzej Dzierzba"
   ]
  }
 ]
