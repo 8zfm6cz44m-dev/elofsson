@@ -7843,5 +7843,179 @@
   "b": "elin_backdahl",
   "status": "candidate",
   "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Mikael = ”syskonson till ex-partner”, Elin (f. Edvardsson) = ”syskonsons maka till ex-partner” ⇒ gift med Mikael (enda syskonsonen i listan med hennes etikett). Ingen primärkälla."
+ },
+ {
+  "id": "p-emil_pa58-anna_charlotta_n63",
+  "type": "partner",
+  "a": "emil_pa58",
+  "b": "anna_charlotta_n63",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: Emil Persson f. 1858, gift, hushåll med Anna Charlotta Nilsdotter f. 1863 och gemensamma barn (Nolby/Svartåna)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-nils_paul_pa86",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "nils_paul_pa86",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 86 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-anna_emilia_pa87",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "anna_emilia_pa87",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 87 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-maria_elisabet_pa89",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "maria_elisabet_pa89",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 89 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-elin_charlotta_pa91",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "elin_charlotta_pa91",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 91 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-olof_adolf_pa93",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "olof_adolf_pa93",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 93 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-sofia_karolina_pa95",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "sofia_karolina_pa95",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 95 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-alma_amalia_pa97",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "alma_amalia_pa97",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 97 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-hilma_alfrida_pa00",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "hilma_alfrida_pa00",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 00 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "c-emil_pa58-anna_charlotta_n63-jenny_frideborg_pa05",
+  "type": "child",
+  "parents": [
+   "emil_pa58",
+   "anna_charlotta_n63"
+  ],
+  "child": "jenny_frideborg_pa05",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 05 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+ },
+ {
+  "id": "p-johannes_pa50-britta_olsd53",
+  "type": "partner",
+  "a": "johannes_pa50",
+  "b": "britta_olsd53",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910 Finnebäck: Johannes Persson f. 1850 Boda, gift, hushåll med Britta Olsdotter f. 1853 Brunskog."
+ },
+ {
+  "id": "c-johannes_pa50-britta_olsd53-anna_amalia_jp91",
+  "type": "child",
+  "parents": [
+   "johannes_pa50",
+   "britta_olsd53"
+  ],
+  "child": "anna_amalia_jp91",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910 Finnebäck: barn i hushållet Johannes Persson/Britta Olsdotter (relation ej uttryckligen angiven)."
+ },
+ {
+  "id": "c-johannes_pa50-britta_olsd53-olof_arvid_jp93",
+  "type": "child",
+  "parents": [
+   "johannes_pa50",
+   "britta_olsd53"
+  ],
+  "child": "olof_arvid_jp93",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910 Finnebäck: barn i hushållet Johannes Persson/Britta Olsdotter (relation ej uttryckligen angiven)."
+ },
+ {
+  "id": "s-britta_olsd53-maria_olsd59_finnebaeck",
+  "type": "sibling",
+  "a": "britta_olsd53",
+  "b": "maria_olsd59_finnebaeck",
+  "status": "candidate",
+  "basis": "Båda Olsdotter, född Brunskog 1853/1859, bor i samma gård (fam. nr 1 resp. 2) Finnebäck 1900 – syskonskap ej bevisat."
+ },
+ {
+  "id": "c-maria_olsd59_finnebaeck-johan_albert_olsson86",
+  "type": "child",
+  "parents": [
+   "maria_olsd59_finnebaeck"
+  ],
+  "child": "johan_albert_olsson86",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Finnebäck: Johan Albert Olsson f. 1886 följer Maria Olsdotter i fam. nr 2."
+ },
+ {
+  "id": "p-johan_nilsson57_takene-kristina_pa63",
+  "type": "partner",
+  "a": "johan_nilsson57_takene",
+  "b": "kristina_pa63",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Östra Takene s.31 rad 35: Kristina Persdotter f. 1863 Boda, Familjeställning ”h.”, i hushåll med Johan Nilsson f. 1857; 1910 samma; 1930 änka efter 1927."
+ },
+ {
+  "id": "c-johan_nilsson57_takene-kristina_pa63-ivar_georg_nilsson01",
+  "type": "child",
+  "parents": [
+   "johan_nilsson57_takene",
+   "kristina_pa63"
+  ],
+  "child": "ivar_georg_nilsson01",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Takene s.28 rad 9: Ivar Georg f. 1901 i hushållet Johan Nilsson/Kristina; 1930 hos modern (Johansson)."
  }
 ]

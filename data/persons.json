@@ -27063,12 +27063,21 @@
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1850 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1850 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "FOLKRÄKNING 1900/1910 Finnebäck (Brunskog): hemmansägare, gift med Britta Olsdotter f. 1853; barn Anna Amalia 1891, Olof Arvid 1893."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Johannes f. 1850 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Finnebäck sida 8 rad 8, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansägare, gift; Britta Olsdotter f. 1853; Anna Amalia 1891; Olof Arvid 1893",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125548958&tab=post"
    }
   ],
   "born": {
@@ -27091,12 +27100,21 @@
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1858 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
-   "FOLKRÄKNING 1900 Nolby sida 19: Persson, Emil f. 1858 Boda, Arrendator, hustru Anna Charlotta Nilsdotter f. 1863, barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895 m.fl.; hans mor Britta Elofsdotter (”moder”) bor hos honom."
+   "FOLKRÄKNING 1900 Nolby sida 19: Persson, Emil f. 1858 Boda, Arrendator, hustru Anna Charlotta Nilsdotter f. 1863, barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895 m.fl.; hans mor Britta Elofsdotter (”moder”) bor hos honom.",
+   "FOLKRÄKNING 1890/1900/1910: hela hushållet inkl. hustru Anna Charlotta Nilsdotter f. 1863 och 9 barn (Nils Paul 1886 – Jenny Frideborg 1905); 1910 hemmansägare i Svartåna s.23 rad 26."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Emil f. 1858 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Nolby sida 10 rad 48, fam. nr 1: Emil Persson f. 1858 Boda, åbo; hustru Anna Charlotta Nilsdotter f. 1863; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597527&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
    }
   ],
   "born": {
@@ -27118,7 +27136,8 @@
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1861 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1861 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "Sökning folkräkning 1890–1930 (Adolf Persson f. 1861): ingen träff som stämmer med Boda-födelse; träffarna f. 1861 är Frykerud-födda (Adolf i Västra Ämtervik; Per Adolf Myrestad) = andra personer. Möjlig utvandring."
   ],
   "sources": [
    {
@@ -27145,12 +27164,29 @@
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1863 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1863 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "FOLKRÄKNING 1890 piga i Talken (ogift); 1900 gift med träarbetare Johan Nilsson f. 1857 (”h.”), Östra Takene; 1910 Takene, son Ivar Georg 1901; 1930 änka (sedan 1927), Takene s.24 rad 14, inflyttad 1869 från Boda."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Kristina f. 1863 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Talken sida 30 rad 15: Persdotter, Kristina f. 1863 Boda, piga, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598482&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene sida 31 rad 35: Nilsson, Johan f. 1857 Brunskog, träarbetare; Persdotter, Kristina f. 1863 Boda, gift, ”h.” (Mor/fru)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938161&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Takene sida 28 rad 9: Nilsson, Johan f. 1857 hemmansägare; Persdotter, Kristina f. 1863 Boda, ”h.”; Ivar Georg f. 1901",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549898&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Takene sida 24 rad 14: Nilsson Persdotter, Kristina f. 1863 Boda, änka (upplösningsår 1927), inflyttad 1869 från Boda; Johansson, Ivar Georg f. 1901",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883887&tab=post"
    }
   ],
   "born": {
@@ -27172,7 +27208,8 @@
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1866 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1866 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "Sökning 1890–1930 (Anna f. 1866 Boda, Persdotter): ingen säker träff. Anna Persdotter f. 1866 i Högerud är en annan person."
   ],
   "sources": [
    {
@@ -27199,7 +27236,8 @@
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1869 i Brunskog, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1869 i Brunskog, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "Sökning 1890–1930 (Karin Persdotter f. 1869 Brunskog): ingen träff. Möjlig utvandring eller giftermål under annat namn."
   ],
   "sources": [
    {
@@ -28669,6 +28707,525 @@
   ],
   "search": [
    "Alma Karolina Olofsdotter/Andersdotter (f. 1896)"
+  ]
+ },
+ {
+  "id": "anna_charlotta_n63",
+  "name": "Anna Charlotta Nilsdotter (f. 1863, g. Emil Persson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1863",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Hustru till Emil Persson (f. 1858), Nolby/Svartåna, Brunskog. Obs: inte identisk med anna_charlotta_nilsdotter_1858 utan kontroll (annat födelseår).",
+  "notes": [
+   "FOLKRÄKNING 1890/1900/1910: Anna Charlotta Nilsdotter f. 1863 i Brunskog, gift, i hushållet med Emil Persson (1910 skrivet Nilsson)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Nolby sida 10 rad 48, fam. nr 1: Emil Persson f. 1858 Boda, åbo; hustru Anna Charlotta Nilsdotter f. 1863; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597527&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Charlotta Nilsdotter (f. 1863, g. Emil Persson)"
+  ]
+ },
+ {
+  "id": "nils_paul_pa86",
+  "name": "Nils Paul Persson (f. 1886)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1886 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Nolby sida 10 rad 48, fam. nr 1: Emil Persson f. 1858 Boda, åbo; hustru Anna Charlotta Nilsdotter f. 1863; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597527&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Paul Persson (f. 1886)"
+  ]
+ },
+ {
+  "id": "anna_emilia_pa87",
+  "name": "Anna Emilia Persson (f. 1887)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). 1890 anges födelseort Boda (sannolikt skrivfel).",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1887 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Nolby sida 10 rad 48, fam. nr 1: Emil Persson f. 1858 Boda, åbo; hustru Anna Charlotta Nilsdotter f. 1863; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597527&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Emilia Persson (f. 1887)"
+  ]
+ },
+ {
+  "id": "maria_elisabet_pa89",
+  "name": "Maria Elisabet Persson (f. 1889)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1889 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (moder) Nolby sida 10 rad 48, fam. nr 1: Emil Persson f. 1858 Boda, åbo; hustru Anna Charlotta Nilsdotter f. 1863; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabeth 1889",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597527&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Elisabet Persson (f. 1889)"
+  ]
+ },
+ {
+  "id": "elin_charlotta_pa91",
+  "name": "Elin Charlotta (f. 1891, hushåll Emil Persson 1900)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1891",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). Kan vara dotter (namnet Charlotta efter modern) – saknar efternamn i källan.",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1891 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   }
+  ],
+  "search": [
+   "Elin Charlotta (f. 1891, hushåll Emil Persson 1900)"
+  ]
+ },
+ {
+  "id": "olof_adolf_pa93",
+  "name": "Olof Adolf Persson (f. 1893)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1893",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1893 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   }
+  ],
+  "search": [
+   "Olof Adolf Persson (f. 1893)"
+  ]
+ },
+ {
+  "id": "sofia_karolina_pa95",
+  "name": "Sofia Karolina Persson (f. 1895)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1895",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1895 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Sofia Karolina Persson (f. 1895)"
+  ]
+ },
+ {
+  "id": "alma_amalia_pa97",
+  "name": "Alma Amalia Persson (f. 1897)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1897 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Alma Amalia Persson (f. 1897)"
+  ]
+ },
+ {
+  "id": "hilma_alfrida_pa00",
+  "name": "Hilma Alfrida Persson (f. 1900)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1900 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 32, fam. nr 1: Emil Persson f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter; barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895, Elin Charlotta 1891, Alma Amalia 1897, Hilma Alfrida 1900; fam. nr 2 Britta Elofsdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937565&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Hilma Alfrida Persson (f. 1900)"
+  ]
+ },
+ {
+  "id": "jenny_frideborg_pa05",
+  "name": "Jenny Frideborg Persson (f. 1905)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1905",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). ",
+  "notes": [
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1905 Brunskog (egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Svartåna sida 23 rad 26, fam. nr 1: Emil Persson f. 1858 Boda, hemmansägare; hustru Anna Charlotta Nilsson f. 1863; barn Nils 1886, Anna Emilia 1887, Sofia Karolina 1895, Alma Amalia 1897, Hilma Alfrida 1900, Jenny Frideborg 1905",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549686&tab=post"
+   }
+  ],
+  "search": [
+   "Jenny Frideborg Persson (f. 1905)"
+  ]
+ },
+ {
+  "id": "britta_olsd53",
+  "name": "Britta Olsdotter (f. 1853, g. Johannes Persson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Hustru till Johannes Persson (f. 1850 Boda), Finnebäck, Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910: Olsdotter, Britta f. 1853 Brunskog i hushåll med Johannes Persson f. 1850 (gift)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Finnebäck sida 8 rad 8, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansägare, gift; Britta Olsdotter f. 1853; Anna Amalia 1891; Olof Arvid 1893",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125548958&tab=post"
+   }
+  ],
+  "search": [
+   "Britta Olsdotter (f. 1853, g. Johannes Persson)"
+  ]
+ },
+ {
+  "id": "anna_amalia_jp91",
+  "name": "Anna Amalia Johannesdotter (f. 1891)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1891",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Johannes Perssons hushåll, Finnebäck.",
+  "notes": [
+   "FOLKRÄKNING 1900 och 1910: Anna Amalia f. 1891 Brunskog i hushållet Johannes Persson/Britta Olsdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Finnebäck sida 8 rad 8, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansägare, gift; Britta Olsdotter f. 1853; Anna Amalia 1891; Olof Arvid 1893",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125548958&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Amalia Johannesdotter (f. 1891)"
+  ]
+ },
+ {
+  "id": "olof_arvid_jp93",
+  "name": "Olof Arvid Johannesson (f. 1893)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1893",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn i Johannes Perssons hushåll, Finnebäck.",
+  "notes": [
+   "FOLKRÄKNING 1900 och 1910: Olof Arvid f. 1893 Brunskog i hushållet Johannes Persson/Britta Olsdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Finnebäck sida 8 rad 8, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansägare, gift; Britta Olsdotter f. 1853; Anna Amalia 1891; Olof Arvid 1893",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125548958&tab=post"
+   }
+  ],
+  "search": [
+   "Olof Arvid Johannesson (f. 1893)"
+  ]
+ },
+ {
+  "id": "maria_olsd59_finnebaeck",
+  "name": "Maria Olsdotter (f. 1859, Finnebäck 1900)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1859",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Egen familj (nr 2) i Johannes Perssons gård 1900; möjligen syster till Britta Olsdotter.",
+  "notes": [
+   "FOLKRÄKNING 1900 Finnebäck: Olsdotter, Maria f. 1859 Brunskog, fam. nr 2, med Olsson, Johan Albert f. 1886."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Olsdotter (f. 1859, Finnebäck 1900)"
+  ]
+ },
+ {
+  "id": "johan_albert_olsson86",
+  "name": "Johan Albert Olsson (f. 1886)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Bodde hos Maria Olsdotter (fam. 2) i Finnebäck 1900.",
+  "notes": [
+   "FOLKRÄKNING 1900 Finnebäck: Olsson, Johan Albert f. 1886 Brunskog, i fam. nr 2 efter Maria Olsdotter (sannolikt hennes son)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Finnebäck sida 9 rad 7, fam. nr 1: Persson, Johannes f. 1850 Boda, hemmansegare, gift; Olsdotter, Britta f. 1853 Brunskog; Anna Amalia 1891; Olof Arvid 1893; fam. nr 2 Olsdotter, Maria f. 1859, Olsson, Johan Albert f. 1886",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937047&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Albert Olsson (f. 1886)"
+  ]
+ },
+ {
+  "id": "johan_nilsson57_takene",
+  "name": "Johan Nilsson (f. 1857, Takene, g. Kristina Persdotter)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1857",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Träarbetare, sedan hemmansägare i Takene; gift med Kristina Persdotter (f. 1863 Boda). Död före 1930 (änka 1927).",
+  "notes": [
+   "FOLKRÄKNING 1900/1910: Johan Nilsson f. 1857 Brunskog, make till Kristina Persdotter; 1930 är hon änka sedan 1927."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene sida 31 rad 35: Nilsson, Johan f. 1857 Brunskog, träarbetare; Persdotter, Kristina f. 1863 Boda, gift, ”h.” (Mor/fru)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938161&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Takene sida 28 rad 9: Nilsson, Johan f. 1857 hemmansägare; Persdotter, Kristina f. 1863 Boda, ”h.”; Ivar Georg f. 1901",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549898&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Nilsson (f. 1857, Takene, g. Kristina Persdotter)"
+  ]
+ },
+ {
+  "id": "ivar_georg_nilsson01",
+  "name": "Ivar Georg Nilsson/Johansson (f. 1901)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1901",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Son i Johan Nilssons och Kristina Persdotters hushåll, Takene; 1930 jordbruksarbetare hos modern (”Johansson”).",
+  "notes": [
+   "FOLKRÄKNING 1910: Ivar Georg f. 1901 i hushållet; 1930: Johansson, Ivar Georg f. 1901 Brunskog hos Kristina Nilsson Persdotter. Obs: möjligen identisk med ivar_nilson_takene_usa (ej bevisat)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Takene sida 28 rad 9: Nilsson, Johan f. 1857 hemmansägare; Persdotter, Kristina f. 1863 Boda, ”h.”; Ivar Georg f. 1901",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549898&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Takene sida 24 rad 14: Nilsson Persdotter, Kristina f. 1863 Boda, änka (upplösningsår 1927), inflyttad 1869 från Boda; Johansson, Ivar Georg f. 1901",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883887&tab=post"
+   }
+  ],
+  "search": [
+   "Ivar Georg Nilsson/Johansson (f. 1901)"
   ]
  }
 ]
