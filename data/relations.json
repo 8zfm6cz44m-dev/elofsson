@@ -7398,14 +7398,6 @@
   "basis": "Dop 1804 C I/3 b.80 nr 47: ”Ö. Takene Olof – Olof Andersson / Marit Olsd.” – endast kandidatdop."
  },
  {
-  "id": "p-petrus_johansson_strmtorp-ao4_brita_olsd52",
-  "type": "partner",
-  "a": "petrus_johansson_strmtorp",
-  "b": "ao4_brita_olsd52",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Takene s.21 r.45 / 1900 Ö. Takene s.30 r.41: Petrus Johansson + hustru Brita Olsson/Olsdotter f. 1852 Brunskog (hushåll, gift)."
- },
- {
   "id": "s-nils_ne-zetterlund",
   "type": "sibling",
   "a": "nils_ne",
@@ -10025,5 +10017,213 @@
   "child": "ar1_barn_palsson_toltan1700",
   "status": "lead",
   "basis": "”d. 2 Julii Pål Börsson(?) barn i Tolten [(Erik?)]” (1700 nr 25, bild 55 s. 88; starkt bleknad) (C0036782_00055)"
+ },
+ {
+  "id": "p-petrus_johansson_strmtorp-britta_oj52",
+  "type": "partner",
+  "a": "petrus_johansson_strmtorp",
+  "b": "britta_oj52",
+  "status": "strong",
+  "basis": "Brita Olsdotter f. 1852 Brunskog (hustru 1890/1900/1910) = Britta Olofsdotter f. 4/12 1852 Ö. Takene, g. 6/3 1881 med missionstalaren Petrus Johansson (Brunskog A I/35 bild 197). Samma födelseår/-ort, Takene-hushåll, hon flyttade till Ny 1881. Slå ihop britta_oj52 med britta_oj52."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_rebecka_pj81",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_rebecka_pj81",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1881; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_hezekiel_pj83",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_hezekiel_pj83",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1883; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_hanna_pj85",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_hanna_pj85",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1885; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_sara_pj87",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_sara_pj87",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1887; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_elsa_pj89",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_elsa_pj89",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1889; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_bror_pj92",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_bror_pj92",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1892; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_rut_pj94",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_rut_pj94",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1894; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_elias_pj97",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp",
+   "britta_oj52"
+  ],
+  "child": "aq1_elias_pj97",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1897; familjeställning ej angiven i utdraget."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-aq1_ester_pj76",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp"
+  ],
+  "child": "aq1_ester_pj76",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ramstad (Ny): Ester f. 1876 i hushåll med Petrus (änkling); modern okänd (före giftermålet 1881)."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-aq1_josef_pj79",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp"
+  ],
+  "child": "aq1_josef_pj79",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ramstad (Ny): Josef Immanuel f. 1879 i hushåll med Petrus (änkling); modern okänd."
+ },
+ {
+  "id": "c-petrus_johansson_strmtorp-aq1_kristina_pj70",
+  "type": "child",
+  "parents": [
+   "petrus_johansson_strmtorp"
+  ],
+  "child": "aq1_kristina_pj70",
+  "status": "candidate",
+  "basis": "Folkräkning 1880: Kristina f. 1870 Väse i Petrus hushåll; relation ej angiven (dotter eller syster)."
+ },
+ {
+  "id": "p-aq1_adolf_nilsson84-aq1_rut_pj94",
+  "type": "partner",
+  "a": "aq1_adolf_nilsson84",
+  "b": "aq1_rut_pj94",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Toltan s.26: Rut f. 1894, h. (vigselår 1925) i Adolf Wilhelm Nilssons hushåll (partnerskapet är verifierat; Ruts identitet som Petrus dotter är candidate)."
+ },
+ {
+  "id": "c-aq1_adolf_nilsson84-aq1_rut_pj94-aq1_ingrid_nilsson27",
+  "type": "child",
+  "parents": [
+   "aq1_adolf_nilsson84",
+   "aq1_rut_pj94"
+  ],
+  "child": "aq1_ingrid_nilsson27",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Toltan s.26: Ingrid Alice f. 1927 i hushållet."
+ },
+ {
+  "id": "c-aq1_adolf_nilsson84-aq1_rut_pj94-aq1_betty_nilsson29",
+  "type": "child",
+  "parents": [
+   "aq1_adolf_nilsson84",
+   "aq1_rut_pj94"
+  ],
+  "child": "aq1_betty_nilsson29",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Toltan s.26: Betty Gunnel f. 1929 i hushållet."
+ },
+ {
+  "id": "p-aq1_nils_nilsson51-aq1_betty_andersd57",
+  "type": "partner",
+  "a": "aq1_nils_nilsson51",
+  "b": "aq1_betty_andersd57",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Toltan s.28 r.1: hushåll Nils Nilsson f. 1851 + Betty Andersdotter f. 1857 med barn."
+ },
+ {
+  "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_adolf_nilsson84",
+  "type": "child",
+  "parents": [
+   "aq1_nils_nilsson51",
+   "aq1_betty_andersd57"
+  ],
+  "child": "aq1_adolf_nilsson84",
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+ },
+ {
+  "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_hulda_n81",
+  "type": "child",
+  "parents": [
+   "aq1_nils_nilsson51",
+   "aq1_betty_andersd57"
+  ],
+  "child": "aq1_hulda_n81",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+ },
+ {
+  "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_alma_n89",
+  "type": "child",
+  "parents": [
+   "aq1_nils_nilsson51",
+   "aq1_betty_andersd57"
+  ],
+  "child": "aq1_alma_n89",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+ },
+ {
+  "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_nilsjohan_n93",
+  "type": "child",
+  "parents": [
+   "aq1_nils_nilsson51",
+   "aq1_betty_andersd57"
+  ],
+  "child": "aq1_nilsjohan_n93",
+  "status": "strong",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
  }
 ]

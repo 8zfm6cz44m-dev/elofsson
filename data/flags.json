@@ -3182,6 +3182,31 @@
     "lisbeth_tortan93",
     "ingel_toltan93"
    ]
+  },
+  {
+   "title": "Petrus Johanssons första hustru okänd",
+   "text": "Petrus var änkling 1880 (Ramstad, Ny) med barnen Ester f. 1876 och Josef Immanuel f. 1879 (båda Ny-Huggenäs) samt Kristina f. 1870 Väse (relation oklar). Första hustruns namn/död ej utrett – sök Ny/Huggenäs husförhör och Väse.",
+   "persons": [
+    "petrus_johansson_strmtorp",
+    "aq1_ester_pj76",
+    "aq1_josef_pj79",
+    "aq1_kristina_pj70"
+   ]
+  },
+  {
+   "title": "Rut Johansson f. 1894 = Rut Olsson g. 1925 Nilsson?",
+   "text": "1930 Toltan: Rut Olsson f. 1894 Brunskog, ”f. Olsson”, gift 1925 med Adolf Wilhelm Nilsson. Kan vara Petrus dotter Rut (1910 hemma i Degernästorp) men efternamnet Olsson (ej Johansson) kräver kontroll i Brunskog vigsel/flyttlängd (A II / E I 1925).",
+   "persons": [
+    "aq1_rut_pj94",
+    "aq1_adolf_nilsson84"
+   ]
+  },
+  {
+   "title": "Barnens senare öden (Josef, Hezekiel, Ester, Hanna, Sara, Elsa, Elias)",
+   "text": "Ej funna i folkräkning 1910 utom Hanna/Sara/Elsa/Rebecka/Rut/Elias som bodde hemma i Degernästorp 1910. Folkräkning 1930 endast sökbar >100 år; förmodligen Amerika/andra församlingar. Bror Gustaf Benjamin (Rensta) i Canada, obefintlighetsboken 1925. Kolla Degerfors/Brunskog flyttlängder och utvandrarregister.",
+   "persons": [
+    "petrus_johansson_strmtorp"
+   ]
   }
  ],
  "conflicts": [
@@ -3984,6 +4009,15 @@
    "persons": [
     "anders_olsson31",
     "olof_olsson_takene_1896"
+   ]
+  },
+  {
+   "title": "Brita Olsdotter f. 1852 = Britta Olofsdotter f. 1852 (g. Petrus Johansson)",
+   "text": "ao4_brita_olsd52 och britta_oj52 är sannolikt samma person: f. 1852 Brunskog/Ö. Takene, gift 6/3 1881 med missionstalaren Petrus Johansson. Patronymikon ”Olsdotter” i folkräkningarna är en variant/felskrivning av Olofsdotter. Slå ihop; hennes far är Olof Jansson (f. 1804), inte Olof Olsson.",
+   "persons": [
+    "petrus_johansson_strmtorp",
+    "ao4_brita_olsd52",
+    "britta_oj52"
    ]
   }
  ]

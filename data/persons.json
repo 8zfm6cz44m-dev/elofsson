@@ -19669,7 +19669,7 @@
  {
   "id": "petrus_johansson_strmtorp",
   "name": "Petrus Johansson (predikant, f. 1846 Väse; Takene)",
-  "status": "lead",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -19688,7 +19688,8 @@
   "notes": [
    "MISSIONSVÄNNEN 1916-11-21 s.7 (OCR): ”Den 4 oktober fyllde predikant Petrus Johansson i Strömtorp 70 år. Han var år 1846 född i Väse … År 1874 antog han kallelse till Värmlandsnäs … Efter fem och ett halft års verksamhet därstädes flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Emellanåt och särskildt under vintern verkade han som predikant i Brunnskog, på Hammarön, Gr…”",
    "KONTROLL: Svärfadern kan vara Olof Olsson i Takene (d. 27/11 1896, 92 år) men hans dotter var enligt Svenska Morgonbladet gift med predikanten D. Hagström i Arvika – så en andra dotter/annan svärfader måste klarläggas (husförhör Takene 1885–1895, Brunskog A I/30–A I/36).",
-   "AO4: FOLKRÄKNING 1890 Takene s.21 r.45 och 1900 Ö. Takene s.30 r.41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Brita Olsson/Olsdotter f. 1852 Brunskog (se ao4_brita_olsd52). Hennes far kan vara Olof Olsson i Takene (d. 1896) – ej belagt; hustrun 1852 stämmer ej med Olofs hustru Brita Nilsdotter f. 1802."
+   "AO4: FOLKRÄKNING 1890 Takene s.21 r.45 och 1900 Ö. Takene s.30 r.41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Brita Olsson/Olsdotter f. 1852 Brunskog (se ao4_brita_olsd52). Hennes far kan vara Olof Olsson i Takene (d. 1896) – ej belagt; hustrun 1852 stämmer ej med Olofs hustru Brita Nilsdotter f. 1802.",
+   "AQ1 FOLKRÄKNING 1880 Ramstad, Ny annex (s.20 r.42): Petrus Johansson f. 1846 Väse, kolportör, ÄNKLING, med Kristina f. 1870 Väse, Ester f. 1876 och Josef Immanuel f. 1879 (båda f. Ny-Huggenäs) – alltså första hustru död före 1881; 1910 Degernästorp (Degerfors, Örebro län) s.70 r.35: predikant/husägare, med hustru Britta Olsson (f. 1852 ”Väse”, sannolikt felskrivet), barnen Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut och Elias Ernfrid."
   ],
   "sources": [
    {
@@ -19698,6 +19699,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene s.21 rad 45: Johansson, Petrus f. 1846 Väse; hustru Olsson, Brita f. 1852 Brunskog",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Ny annex, Ramstad s.20 r.42: Johansson, Petrus f. 1846 Väse, kolportör, änkling; Kristina f. 1870 Väse; Ester f. 1876 Ny-Huggenäs; Josef Immanuel f. 1879 Ny-Huggenäs",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120367288&tab=post"
    }
   ],
   "search": [
@@ -28642,7 +28651,7 @@
  {
   "id": "ao4_brita_olsd52",
   "name": "Brita Olsdotter (f. 1852 Brunskog), g. Petrus Johansson",
-  "status": "candidate",
+  "status": "excluded",
   "sex": "f",
   "living": false,
   "born": {
@@ -28656,7 +28665,9 @@
   ],
   "summary": "Gift med predikanten Petrus Johansson (f. 1846 Väse); bosatta Takene från ca 1890. Möjlig dotter till Olof Olsson i Takene (d. 1896) – ej belagt.",
   "notes": [
-   "FOLKRÄKNING 1890 Takene s.21 rad 45 och 1900 Ö. Takene s.30 rad 41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Olsson/Olsdotter, Brita f. 1852 Brunskog; barn 1890: Ester 1876, Josef Emanuel 1879 (båda Ny), Rebecka Naemi 1881, Hezekiel Natanael 1883 (Ljusnarsberg), Hanna Maria 1885, Sara Elisabeth 1887, Elsa Debora 1889 (Stora Tuna); 1900 även Bror Gustaf Benjamin 1892, Rut 1894, Elias Ernfrid 1897 (Brunskog). Olof f. 1804:s hustru Brita Nilsdotter f. 1802 kan knappast ha fött Brita 1852 (50 år) – ev. annan hustru/annan Olof."
+   "FOLKRÄKNING 1890 Takene s.21 rad 45 och 1900 Ö. Takene s.30 rad 41: Petrus Johansson f. 1846 Väse, hemmansegare; hustru Olsson/Olsdotter, Brita f. 1852 Brunskog; barn 1890: Ester 1876, Josef Emanuel 1879 (båda Ny), Rebecka Naemi 1881, Hezekiel Natanael 1883 (Ljusnarsberg), Hanna Maria 1885, Sara Elisabeth 1887, Elsa Debora 1889 (Stora Tuna); 1900 även Bror Gustaf Benjamin 1892, Rut 1894, Elias Ernfrid 1897 (Brunskog). Olof f. 1804:s hustru Brita Nilsdotter f. 1802 kan knappast ha fött Brita 1852 (50 år) – ev. annan hustru/annan Olof.",
+   "AQ1 SAMMANSLAGNING: ao4_brita_olsd52 bör slås ihop med britta_oj52 (Britta Olofsdotter f. 4/12 1852 Ö. Takene, g. 6/3 1881 med missionstalaren Petrus Johansson, Ny 8/12 1881). Åldern 1852 (hon är dotter till Olof Jansson f. 1804 och Britta Nilsdotter, inte till Olof Olsson) löser tidigare tveksamhet om fadern.",
+   "SAMMANSLAGEN med britta_oj52 (omgång 23): samma person (f. 1852, gift 6/3 1881 med Petrus Johansson); ”Olsdotter” är felskrivning av Olofsdotter."
   ],
   "sources": [
    {
@@ -28717,7 +28728,8 @@
   "notes": [
    "A I/25 bild 140: ”Dotter Britta ?/12 52 ibm”; A I/27 bild 142: ”egen d. Brita 4/12 52 ibm”. Folkräkning 1880 Ö. Takene (Folk_120423126, sida 27 rad 3): Britta f. 1852 Brunskog, Ogift, ”d.”. Senare öden ej utredda.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
-   "Gift 6/3 1881 med missionstalaren Petrus Johansson (Ny socken, Värmland) enligt A I/35 bild 197; utflyttad till Ny 8/12 1881. Petrus Johansson ej utredd här (f. ca 1846? – annan agent söker honom)."
+   "Gift 6/3 1881 med missionstalaren Petrus Johansson (Ny socken, Värmland) enligt A I/35 bild 197; utflyttad till Ny 8/12 1881. Petrus Johansson ej utredd här (f. ca 1846? – annan agent söker honom).",
+   "AQ1: Hustru till Petrus Johansson i folkräkningarna 1890 Takene, 1900 Ö. Takene, 1910 Degernästorp (Degerfors); 8 barn 1881–1897 (stjärn­barn Ester och Josef f. 1876/1879 hör till Petrus första äktenskap)."
   ],
   "sources": [
    {
@@ -28735,6 +28747,18 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
    }
   ],
   "search": [
@@ -34266,6 +34290,599 @@
   ],
   "search": [
    "Barn (Erik?) Pålsson (Toltan, döpt 2 juli 1700)"
+  ]
+ },
+ {
+  "id": "aq1_ester_pj76",
+  "name": "Ester Johansson (f. 1876 Ny-Huggenäs)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1876",
+   "place": "Ny-Huggenäs, Värmland"
+  },
+  "places": [
+   "Ny",
+   "Takene, Brunskog"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Född före faderns giftermål 1881 med Britta Olofsdotter – modern är troligen hans första hustru (okänd).",
+  "notes": [
+   "FOLKRÄKNING 1880 Ny annex, Ramstad s.20 r.42: ”Ester, f. 1876 i Ny-Huggenäs” i hushåll med Petrus Johansson, änkling; 1890 Takene: ”Ester, f. 1876 i Ny”. Ej funnen i 1900/1910 (utflyttad)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Ny annex, Ramstad s.20 r.42: Johansson, Petrus f. 1846 Väse, kolportör, änkling; Kristina f. 1870 Väse; Ester f. 1876 Ny-Huggenäs; Josef Immanuel f. 1879 Ny-Huggenäs",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120367288&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   }
+  ],
+  "search": [
+   "Ester Johansson (f. 1876 Ny-Huggenäs)"
+  ]
+ },
+ {
+  "id": "aq1_josef_pj79",
+  "name": "Josef Emanuel (Immanuel) Johansson (f. 1879 Ny-Huggenäs)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "place": "Ny-Huggenäs, Värmland"
+  },
+  "places": [
+   "Ny",
+   "Takene, Brunskog"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Född före faderns andra giftermål. Ej funnen i folkräkning 1900/1910 (möjligen Amerika) – ej belagt.",
+  "notes": [
+   "FOLKRÄKNING 1880: ”Josef Immanuel, f. 1879 i Ny-Huggenäs”; 1890: ”Josef Emanuel, f. 1879 i Ny”. Josef Olsson f. 1879 Ny (Brevik, Ny 1910) är en annan person (hustru Hulda Maria Karlsdotter) – ej sammankopplad."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Ny annex, Ramstad s.20 r.42: Johansson, Petrus f. 1846 Väse, kolportör, änkling; Kristina f. 1870 Väse; Ester f. 1876 Ny-Huggenäs; Josef Immanuel f. 1879 Ny-Huggenäs",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120367288&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   }
+  ],
+  "search": [
+   "Josef Emanuel (Immanuel) Johansson (f. 1879 Ny-Huggenäs)"
+  ]
+ },
+ {
+  "id": "aq1_kristina_pj70",
+  "name": "Kristina (f. 1870 Väse), i Petrus Johanssons hushåll 1880",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1870",
+   "place": "Väse, Värmland"
+  },
+  "places": [
+   "Ny annex, Ramstad"
+  ],
+  "summary": "Tjänande/dotter i Petrus Johanssons hushåll 1880 (änkling); relationen ej angiven – troligen dotter (f. 1870, fadern 24 år) eller syster.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ramstad s.20: ”Kristina, f. 1870 i Väse Värmlands län” efter Petrus Johansson i hushållslistan, familjeställning ej angiven i utdraget."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Ny annex, Ramstad s.20 r.42: Johansson, Petrus f. 1846 Väse, kolportör, änkling; Kristina f. 1870 Väse; Ester f. 1876 Ny-Huggenäs; Josef Immanuel f. 1879 Ny-Huggenäs",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120367288&tab=post"
+   }
+  ],
+  "search": [
+   "Kristina (f. 1870 Väse), i Petrus Johanssons hushåll 1880"
+  ]
+ },
+ {
+  "id": "aq1_rebecka_pj81",
+  "name": "Rebecka Naemi Johansson (f. 1881 Ny)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Södra Ny, Värmland"
+  },
+  "places": [
+   "Ny",
+   "Takene, Brunskog",
+   "Degerfors"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Född 1881 – troligen dotter till Britta (g. 6/3 1881).",
+  "notes": [
+   "FOLKRÄKNING 1890 ”Rebecka Naemi, f. 1881 i Ny”; 1910 Degernästorp ”Rebecka Naëmi, f. 1881 i Södra Ny”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   }
+  ],
+  "search": [
+   "Rebecka Naemi Johansson (f. 1881 Ny)"
+  ]
+ },
+ {
+  "id": "aq1_hezekiel_pj83",
+  "name": "Hezekiel (Hesekiel) Natanael Johansson (f. 1883 Ljusnarsberg)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1883",
+   "place": "Ljusnarsberg, Örebro län"
+  },
+  "places": [
+   "Ljusnarsberg",
+   "Takene, Brunskog"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Ej funnen 1910.",
+  "notes": [
+   "FOLKRÄKNING 1890 ”Hezekiel Natanaël, f. 1883 i Ljusnarsberg”; 1900 ”Hesekiel Natanael”. Ej i 1910 (utflyttad/Amerika?)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   }
+  ],
+  "search": [
+   "Hezekiel (Hesekiel) Natanael Johansson (f. 1883 Ljusnarsberg)"
+  ]
+ },
+ {
+  "id": "aq1_hanna_pj85",
+  "name": "Hanna Maria Johansson (f. 1885 Stora Tuna)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1885",
+   "place": "Stora Tuna, Kopparbergs län"
+  },
+  "places": [
+   "Stora Tuna",
+   "Takene, Brunskog",
+   "Degerfors"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
+  "notes": [
+   "FOLKRÄKNING 1890, 1900 och 1910 (Degernästorp): Hanna Maria f. 1885 Stora Tuna, hemmavarande."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   }
+  ],
+  "search": [
+   "Hanna Maria Johansson (f. 1885 Stora Tuna)"
+  ]
+ },
+ {
+  "id": "aq1_sara_pj87",
+  "name": "Sara Elisabeth Johansson (f. 1887 Stora Tuna)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Stora Tuna, Kopparbergs län"
+  },
+  "places": [
+   "Stora Tuna",
+   "Takene, Brunskog",
+   "Degerfors"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
+  "notes": [
+   "FOLKRÄKNING 1890, 1900, 1910: Sara Elisabeth/Elisabet f. 1887 Stora Tuna, hemmavarande."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   }
+  ],
+  "search": [
+   "Sara Elisabeth Johansson (f. 1887 Stora Tuna)"
+  ]
+ },
+ {
+  "id": "aq1_elsa_pj89",
+  "name": "Elsa Debora Johansson (f. 1889 Stora Tuna)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Stora Tuna, Kopparbergs län"
+  },
+  "places": [
+   "Stora Tuna",
+   "Takene, Brunskog",
+   "Degerfors"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
+  "notes": [
+   "FOLKRÄKNING 1890, 1900, 1910: Elsa Debora f. 1889 Stora Tuna, hemmavarande."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskogs moder Takene s.21 r.45: Johansson, Petrus f. 1846 Väse, hemmansegare; hustru Olsson, Brita f. 1852 Brunskog; barn Ester, Josef Emanuel, Rebecka Naemi, Hezekiel Natanaël, Hanna Maria, Sara Elisabeth, Elsa Debora",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598065&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   }
+  ],
+  "search": [
+   "Elsa Debora Johansson (f. 1889 Stora Tuna)"
+  ]
+ },
+ {
+  "id": "aq1_bror_pj92",
+  "name": "Bror Gustaf Benjamin Johansson (Rensta) (f. 1892 Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1892",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Degerfors",
+   "Canada"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Efternamn senare Rensta; vistades i Canada, överförd till obefintlighetsboken 1925.",
+  "notes": [
+   "FOLKRÄKNING 1900 Takene: ”Bror Gustaf Benjamin, f. 1892 i Brunskog”; 1910 Degernästorp: ”Johansson, Bror Gustaf Benjamin”; 1930 Arvika, obefintlighetsboken s.19 (överförd 1925), s.184 r.1: ”Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada”. Samma tre namn + födelseår/-ort."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, obefintlighetsboken s.184 r.1: Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129013322&tab=post"
+   }
+  ],
+  "search": [
+   "Bror Gustaf Benjamin Johansson (Rensta) (f. 1892 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_rut_pj94",
+  "name": "Rut Johansson (f. 1894 Brunskog), g. 1925 Adolf Wilhelm Nilsson",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Degerfors",
+   "Toltan, Brunskog"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Troligen identisk med Rut Olsson, g. 1925 med Adolf Wilhelm Nilsson, Toltan (”f. Olsson” – modern Britta Olsdotters patronymikon?). Identiteten ej styrkt.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog Toltan s.26 r.24 (Folk_128883994): ”Olsson, Rut f. 1894 Brunskog, gift 1925, h., f. Olsson” hos Adolf Wilhelm Nilsson. Rut f. 1894 i Brunskog syns även 1910 i Petrus Johanssons hushåll; kopplingen bygger på namn + födelseår/-ort + patronymet Olsson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Toltan s.26 r.24: Olsson, Rut f. 1894 Brunskog, h., g. 1925, f. Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883994&tab=post"
+   }
+  ],
+  "search": [
+   "Rut Johansson (f. 1894 Brunskog), g. 1925 Adolf Wilhelm Nilsson"
+  ]
+ },
+ {
+  "id": "aq1_elias_pj97",
+  "name": "Elias Ernfrid Johansson (f. 1897 Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Takene, Brunskog",
+   "Degerfors"
+  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
+  "notes": [
+   "FOLKRÄKNING 1900 Östra Takene och 1910 Degernästorp: Elias Ernfrid f. 1897 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938117&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   }
+  ],
+  "search": [
+   "Elias Ernfrid Johansson (f. 1897 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_adolf_nilsson84",
+  "name": "Adolf Wilhelm Nilsson (f. 1884 Brunskog), hemmansägare Toltan",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Son till Nils Nilsson (f. 1851) och Betty Andersdotter, Toltan; gift 1925 med Rut (Olsson/Johansson?).",
+  "notes": [
+   "FOLKRÄKNING 1890 Brunskogs moder, Toltan s.28 r.1 och 1900 Toltan s.33 r.22: ”Adolf Wilhelm, f. 1884”, familjeställning ”s.”; 1930 Toltan s.26: ”Nilsson, Adolf Wilhelm f. 1884, hemmansägare”, hustru Rut f. 1894."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Toltan s.28 r.1: Adolf Wilhelm f. 1884, s. till Nils Nilsson f. 1851 och Betty Andersdotter f. 1857",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598369&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Toltan s.26: Nilsson, Adolf Wilhelm f. 1884 Brunskog, hemmansägare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883994&tab=post"
+   }
+  ],
+  "search": [
+   "Adolf Wilhelm Nilsson (f. 1884 Brunskog), hemmansägare Toltan"
+  ]
+ },
+ {
+  "id": "aq1_ingrid_nilsson27",
+  "name": "Ingrid Alice Nilsson (f. 1927 Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1927",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Dotter till Adolf Wilhelm Nilsson och Rut, Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1930 Toltan s.26: ”Ingrid Alice, f. 1927 i Brunskog” i Adolf Wilhelm Nilssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Toltan s.26: Ingrid Alice f. 1927",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883994&tab=post"
+   }
+  ],
+  "search": [
+   "Ingrid Alice Nilsson (f. 1927 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_betty_nilsson29",
+  "name": "Betty Gunnel Nilsson (f. 1929 Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1929",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Dotter till Adolf Wilhelm Nilsson och Rut, Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1930 Toltan s.26: ”Betty Gunnel, f. 1929 i Brunskog” i Adolf Wilhelm Nilssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog Toltan s.26: Betty Gunnel f. 1929",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883994&tab=post"
+   }
+  ],
+  "search": [
+   "Betty Gunnel Nilsson (f. 1929 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_nils_nilsson51",
+  "name": "Nils Nilsson (f. 1851 Brunskog), hemmansegare Toltan",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1851",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Hemmansegare i Toltan 1890–1900; far till Adolf Wilhelm.",
+  "notes": [
+   "FOLKRÄKNING 1890 Toltan s.28 r.1: ”Nilsson, Nils f. 1851 i Brunskog, h:egare”; hustru Betty Andersdotter f. 1857; barn Hulda Kristina 1881, Adolf Wilhelm 1884, Alma Maria 1889 (1900 även Nils Johan 1893)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Toltan s.28 r.1",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598369&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Nilsson (f. 1851 Brunskog), hemmansegare Toltan"
+  ]
+ },
+ {
+  "id": "aq1_betty_andersd57",
+  "name": "Betty Andersdotter (f. 1857 Brunskog), g. Nils Nilsson Toltan",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1857",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Hustru till Nils Nilsson (f. 1851), Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1890 Toltan s.28 r.1: ”Andersdotter, Betty f. 1857 i Brunskog”. (Ej samma som betty_a1854.)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Toltan s.28 r.1",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598369&tab=post"
+   }
+  ],
+  "search": [
+   "Betty Andersdotter (f. 1857 Brunskog), g. Nils Nilsson Toltan"
+  ]
+ },
+ {
+  "id": "aq1_hulda_n81",
+  "name": "Hulda Kristina Nilsson (f. 1881 Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Dotter till Nils Nilsson och Betty Andersdotter, Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1890 och 1900 Toltan: ”Hulda Kristina, f. 1881 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Toltan s.28 r.1",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598369&tab=post"
+   }
+  ],
+  "search": [
+   "Hulda Kristina Nilsson (f. 1881 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_alma_n89",
+  "name": "Alma Maria Nilsson (f. 1889 Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Dotter till Nils Nilsson och Betty Andersdotter, Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1890 och 1900 Toltan: ”Alma Maria, f. 1889 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Toltan s.28 r.1",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598369&tab=post"
+   }
+  ],
+  "search": [
+   "Alma Maria Nilsson (f. 1889 Brunskog)"
+  ]
+ },
+ {
+  "id": "aq1_nilsjohan_n93",
+  "name": "Nils Johan Nilsson (f. 1893 Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1893",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Son till Nils Nilsson och Betty Andersdotter, Toltan.",
+  "notes": [
+   "FOLKRÄKNING 1900 Toltan s.33 r.22: ”Nils Johan, f. 1893 i Brunskog” i hushåll med Nils Nilsson f. 1851."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Toltan s.33 (Adolf Wilhelms hushåll)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?Fornamn=Adolf+Wilhelm&Fodelsear=1884&Folk1900=true&AvanceradSok=False"
+   }
+  ],
+  "search": [
+   "Nils Johan Nilsson (f. 1893 Brunskog)"
   ]
  }
 ]
