@@ -5731,5 +5731,35 @@
   "child": "kari_nilsd_boda1778",
   "status": "strong",
   "basis": "Boda E I/2 bild 49 (s. 73), begrafne 1795 nr 18: ”Pigan Kari Nilsd. Boda … af Vll. Nils arneson och h. Kari Anders…” – samma föräldranamn som dopboken 1796 (C I/2 bild 165); ej enda möjliga Nils Arnesson men samma socken."
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_agnieszka_1847",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "hencel_agnieszka_1847",
+  "status": "strong",
+  "basis": "Katedra 1847 akt 34: \"Augustyn Hencel ... z jego małżonki Maryanny z Szreków ... imię Agnieszka\" (skan 029-036)."
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_franciszek_marcel_1850",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "hencel_franciszek_marcel_1850",
+  "status": "strong",
+  "basis": "Katedra 1850 akt 408 (skan 406-415)."
+ },
+ {
+  "id": "s-hencel_agnieszka_1847-hencel_franciszek_marcel_1850",
+  "type": "sibling",
+  "a": "hencel_agnieszka_1847",
+  "b": "hencel_franciszek_marcel_1850",
+  "status": "strong",
+  "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850."
  }
 ]

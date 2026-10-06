@@ -22282,5 +22282,66 @@
   "search": [
    "Kari Nilsdotter (Boda, d. 1795)"
   ]
+ },
+ {
+  "id": "hencel_agnieszka_1847",
+  "name": "Agnieszka Hencel (f. 25.1.1847, Czarnów)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1847-01-25",
+   "place": "Czarnów (Kielce Katedra)",
+   "note": "anmäld 26.1.1847 kl. 14"
+  },
+  "places": [
+   "Czarnów",
+   "Kielce Katedra"
+  ],
+  "summary": "Dotter till Augustyn Hencel (rolnik, 26 år) och Maryanna z Szreków [läsning], 20 år. Förnamn + faderns förnamn + moderns förnamn stämmer med Agnieszka Hencel i vigselakt 1866 akt 94, men bostadsort (Czarnów, ej Niewachlów) och ålder (19 i st f 18) avviker - därför strong, ej verified.",
+  "notes": [
+   "FÖDELSEAKT Kielce Katedra 1847 akt 34: \"Stawił się Augustyn Hencel rolnik lat dwadzieścia sześć mający we Wsi Czarnów zamieszkały w obecności Jakóba Gil rolnika lat pięćdziesiąt i Karola Szrukowskiego rolnika lat trzydzieści siedm mających tamże zamieszkałych i okazał nam dziecię płci żeńskiej które się urodziło dnia wczorajszego o godzinie dziewiątej wieczór z jego małżonki Maryanny z Szreków lat dwadzieścia mającej. Dziecięciu temu na Chrzcie Świętym ... nadane zostało imię Agnieszka. Rodzicami zaś Chrzestnemi byli Karol Szrukowski i Rozalia Zwodzińska\" (aktdatum 26 januari 1847 kl. 14; födelse alltså 25.1.1847 kl. 21). Efternamn Szreków/Szrekow osäkert läst.",
+   "INDEX: Katedra födelseindex 1847 SkU-2 (vänstersida, H-rader): 'Hencel Agnieszka, akt 34'. Tidigare agent (X2) läste bara SkU-1/2 'Haba, Habert, Habrowska' och missade denna post. H-sidor 1846, 1848 och 1850 genomlästa: ingen annan Agnieszka Hencel (1850: endast 'Hencel Franciszek Marcin akt 408').",
+   "KONFLIKT/SVAGHET: vigselakt 1866 anger Agnieszka som 18 år, 'tamże urodzona' i Niewachlów, föräldrar 'Augustyna i Maryanny z [..]chów' gårdsägare i Niewachlów; födelseakten 1847 ger Czarnów och skulle ge 19 år. Åldrar i senare akter (1871: 20; 1875: 26) är ofta ungefär. Moderns flicknamn 1866 ('[..]chów') kan vara samma som 'Szreków' i 1847 men är ej säkert läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet-motsvarighet saknas; Skanoteka PTG, Kielce Katedra (id57) födelsebok 1847 (sy1847a, kt1), skan 029-036.jpg, akt 34 (sid 9): Agnieszka Hencel, far Augustyn Hencel, mor Maryanna z Szreków",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=029-036.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) födelseindex 1847 (SkU-2): 'Hencel Agnieszka 34'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Agnieszka Hencel (f. 25.1.1847, Czarnów)"
+  ]
+ },
+ {
+  "id": "hencel_franciszek_marcel_1850",
+  "name": "Franciszek Marceli Hencel (f. 1850)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1850-09",
+   "place": "Czarnów? (Kielce Katedra)",
+   "note": "akt 408, aktdatum 9(?) sept 1850; exakt dag ej säkert läst"
+  },
+  "summary": "Son till Augustyn Hencel och Maryanna z Szreków (23 år) - trolig bror till Agnieszka f. 1847.",
+  "notes": [
+   "FÖDELSEAKT Kielce Katedra 1850 akt 408 (handstil svår): \"Stawił się Augustyn Hencel lat trzydzieści ... rolnik ... zamieszkały ... z małżonki jego Maryanny z Szreków lat dwadzieścia trzy mającej ... nadane zostało imiona Franciszek Marcelli\". Åldern 23 för modern och 30 för fadern passar akt 34 (1847: 26 och 20). Fadderpar Michał Haslinger [osäker]. Index 1850 SkU-2: 'Hencel Franciszek Marcin 408'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) födelsebok 1850 (sy1850a), skan 406-415.jpg, akt 408 (sid 82): Augustyn Hencel + Maryanna z Szreków, son Franciszek Marcelli",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1850a&kt=1&plik=406-415.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Franciszek Marceli Hencel (f. 1850)"
+  ]
  }
 ]
