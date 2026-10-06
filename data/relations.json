@@ -5244,5 +5244,32 @@
   "child": "ingeborg_jansd_boda",
   "status": "strong",
   "basis": "Boda dopbok C I/2 bild 69 (s. 125), nr 2, dat. 17 febr 1765: ”… Ingeborg fad: Jon …, mod: Kjersti …” – datum 17/2 1765, namnet Ingeborg, faderns förnamn Jon (=Jansdotter) stämmer med husförhör A I/14 bild 40; föräldrarnas efternamn och gårdsnamn oläsliga, därför strong, inte verified. Födelseort ’Takene(?)’ i husförhöret stämmer ej (dopet är i Boda)."
+ },
+ {
+  "id": "c-anders_e-no_stina_nilsd13-anders_ae48",
+  "type": "child",
+  "parents": [
+   "anders_e",
+   "no_stina_nilsd13"
+  ],
+  "child": "anders_ae48",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/5 bild 27 s.32: ”Anders | Ö. Takene: Anders Elofsson g. Stina Nilsdr”; husförhör A I/23 bild 135: ”Son Anders 30/8 48”"
+ },
+ {
+  "id": "s-maria_cajsa_ae42-anders_ae48",
+  "type": "sibling",
+  "a": "maria_cajsa_ae42",
+  "b": "anders_ae48",
+  "status": "verified",
+  "basis": "samma föräldrar, Brunskog A I/23 bild 135 (s.123)"
+ },
+ {
+  "id": "s-nils_ae44-anders_ae48",
+  "type": "sibling",
+  "a": "nils_ae44",
+  "b": "anders_ae48",
+  "status": "verified",
+  "basis": "samma föräldrar, Brunskog A I/23 bild 135 (s.123)"
  }
 ]
