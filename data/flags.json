@@ -541,6 +541,110 @@
     "stefan",
     "zofia"
    ]
+  },
+  {
+   "title": "Olof Nilsson i Skog (dop 26 maj 1689) – möjlig dop för Elof Nilsson?",
+   "text": "I dopboken 1688–1693 finns bara en Oluff Nilsson: 26 maj 1689, ”i Skog”, föräldrar Nils Christophersson och Anna Jonsdotter (bild 15). Året matchar annus nativitatis ”1689” i A I/1, men 73 år 1760 ger 1687 och orten är Skog, inte Toltan. Elof Nilsson i Toltan nämns inte med Skog-ursprung i våra källor. Kontrollera: Elofs ålder i dödbok/husförhör, mantalslängder för Nils Christophersson i Skog, och om en Olof Nilsson flyttar Skog→Toltan före 1717. Behandla som kandidat tills vidare.",
+   "persons": [
+    "elof_nilsson",
+    "olof_nilsson_skog1689"
+   ]
+  },
+  {
+   "title": "Marit Isaksdotter f. 1693 ej funnen i dopbok",
+   "text": "C I/1 bild 34–38 (1693) saknar flicka Marit med fader Isak i Toltan. Faddrar ”Isaac L. i Zolta” 1689 (bild 15) och 1691 (bild 22) tyder på en Isak i Toltan; hans barn ej funna 1688–1693. Läs bild 26–33 (1692) och 39–60 (1694–1699) samt 1685–1688 om sådana finns.",
+   "persons": [
+    "marit_isaksd",
+    "isak_l_toltan"
+   ]
+  },
+  {
+   "title": "Marit Jonsdotters förste make: ’Olof Persson från Skog’ (död 1748) eller ’Olof Ihrsson(?) från Toltan’ (vigsel 1745)?",
+   "text": "Dödbok F I/1 b.80 nr 4 (1802): Marit Jonsdotter gifte 1:o 1745 26/12 med ”Dr Olof Persson från Skog”, död 1748 (dag ev. 9/1), 2:o 26/12 1748 med Nils Jonsson (Beckelid). Vigselbok E I/1 b.64 läste ’29 Dec 1745: Olof Ihrsson(?) från Toltan’. Sannolikt samma vigsel (datum 26 resp. 29/12 skiljer). Kräver ny läsning av vigselboken. Dödboken är den klarare källan (fadersnamn Persson).",
+   "persons": [
+    "marit_jonsd21",
+    "olof_ihrsson_toltan45"
+   ]
+  },
+  {
+   "title": "Tre ’Olof Olsson’ i Ö. Takene – håll isär",
+   "text": "(1) Olof Olsson f. 7/2 1731 (d. 10/4 1802, g. Brita Christophersd.), (2) Olof Olsson f. 1757 (g. Ingierd Nilsdotter f. 1761; dotter Kari 1786–98, Brita 1790), (3) Olof Olsson f. 1749 (d. 16/7 1798, g. 1776 Kari Nilsdotter f. 1751, son till Olof Persson och Kjersti). Kari och Ingierd Nilsdotter (systrar från Skog) var alltså gifta med varsin Olof Olsson i Ö. Takene. Giftermålsåret för Kari: 1776 (Olofs post, tydligt) mot ’1779’ (hennes post, osäkert läst). Dagen/månaden för Olof (3):s födelse (24/12 eller 24/1) är oklar.",
+   "persons": [
+    "olof_olsson_1731",
+    "olof_olsson_s",
+    "olof_olsson_1749",
+    "kari_nilsd51",
+    "ingierd_nilsd61"
+   ]
+  },
+  {
+   "title": "Toltan: ’Nils Persson’ (dödbok 1805) eller ’Nils Ihrsson(?)’ (dopbok 1754)",
+   "text": "Britta Nilsdotters dödpost (F I/1 b.94, 1805) säger tydligt ”Nils Persson och H. Marit Nilsd.” i Toltan (f. 1748). Dopboken 1754 (C I/2 b.90 nr 23) lästes ”Nils Ihrsson(?) och Marit Nilsd.” som föräldrar till Olof Nilsson f. 1754. Troligen är ”Ihrsson” en felläsning av ”Persson”; då är Britta (1748) syster till Olof Nilsson (1754). Läs om dopet 1754 (b.90 nr 23) med fokus på fadersnamnet.",
+   "persons": [
+    "olof_nilsson54",
+    "nils_ihrsson_toltan",
+    "marit_nilsd_toltan",
+    "britta_nilsd_toltan48"
+   ]
+  },
+  {
+   "title": "Dödböckernas kolumner: första datumet = dödsdag, andra = begravningsdag",
+   "text": "F I/2 (tabellformat 1827–1860): kolumnerna ’Månad | dag | dag’ = dödsdag resp. begravningsdag (jfr Elof Persson: ”Mars 7 | 24”, ålder 79 år 5 mån 10 d; Maria Andersdotter ”Dec 1 | 26”). I F I/1 (1783–1809) står dödsdagen i texten (”afled den …”) och begravningsdagen i marginalen (”Dec 13 | 35”). Äldre antaganden om ”datumkolumnen kan vara begravningsdag” (Erik Christophersson 30/5 1838; Olof Andersson ’13/12 1801’) bör justeras: Olof Anderssons 13/12 var begravning, död 26/11 1801.",
+   "persons": [
+    "olof_andersson33",
+    "erik_christ",
+    "mariaand1787"
+   ]
+  },
+  {
+   "title": "Brita Christophersdotter (f. 1730): död 9/5 1828 med angiven ålder 100",
+   "text": "F I/2 b.87: ”Enk. Britta Christofersdotter, Takene, ålderd., 100”, död 9/5, begr. 25/5 1828. Ålder uppenbart avrundad (f. 25/7 1730 → 97). Identiteten (änka efter Olof Olsson 1731) är trolig men bör bekräftas t.ex. via A I/13–15 (Ö. Takene) att hon bodde kvar till 1828.",
+   "persons": [
+    "brita_christ_1730"
+   ]
+  },
+  {
+   "title": "Geneteka-API ger skräpsvar (polska sidan)",
+   "text": "2026-10-06: getAct.php ignorerar sökfilter (search_lastname/name/from_date/to_date/w) både via python och via webbläsare på geneteka.genealodzy.pl; recordsTotal ca 30–37 tusen oavsett fråga (Orzechowski/Stefan 1901, Młodawski 1888–1913, Kowalski 1901, annan w=01ds) och raderna är slumpnamn (Kwiatkowski, Wojewoda, Ręczek …) från fel år/orter. Inga träffar kunde därför verifieras. Prova igen senare (andra dygn).",
+   "persons": []
+  },
+  {
+   "title": "Hannas efternamn: Augustsson, inte Andersson; 1910 'Anna Elisabet'",
+   "text": "Hanna hette Augustsson (dotter till August Nilsson, Gullsbyn). 1910 års folkräkning skriver 'Anna Elisabet Augustsson' – troligen läsfel i indexet, men bilden Folk_117068-022 är inte själv avläst.",
+   "persons": [
+    "hanna"
+   ]
+  },
+  {
+   "title": "Karl Augusts mor: Ingegärd Maria (1857) eller Lena (1858)?",
+   "text": "1890 står Ingegärd Maria Andersdotter som hustru med Karl (1888) i hushållet; 1900/1910 står Lena/Lina Andersdotter f. 1858 och Karl 'hans s. i 1:a g.'. Troligen dog Ingegärd mellan 1890 och 1896; behöver dopbok Boda 1888 eller dödbok.",
+   "persons": [
+    "karl",
+    "ingegard_andersdotter",
+    "lena_andersdotter"
+   ]
+  },
+  {
+   "title": "Hannas mor: Stina Jansdotter (f. 1847)?",
+   "text": "Stina var 42 vid Hannas födelse; kan vara stiefmor. Kontrollera Brunskogs dopbok 1889 (13 dec).",
+   "persons": [
+    "hanna",
+    "stina_jansdotter"
+   ]
+  },
+  {
+   "title": "Kari Elofsdotters dop och föräldrar saknas",
+   "text": "Födelseår 1735 bekräftat (dopbok 1780: 'Kari Elofs. 735'; husförhör: Åmot). Dopet finns inte i Brunskog C I/1 1735 nr 24–42 (bild 212–215), C I/1/C I/2 1736 (bild 215–217, 11–14). Möjligen född 1734/1737 eller i annan socken (Åmot finns i flera socknar). Fadern är en Elof (Åmot); vigselboken 1767 nämner inga föräldrar.",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Per Elofsson ogift 1760–63, gift okt 1767",
+   "text": "A I/1 bild 290 visar Per Elofsson 1728 som husfader utan hustru 1760–63; vigsel först 1767 (E I/2 bild 17), äldsta kända barn Marit 1768. Eventuell tidigare hustru/barn före 1767 ej sökt (dopbok 1760–1767 ej genomläst).",
+   "persons": [
+    "per_elofsson28"
+   ]
   }
  ],
  "conflicts": [
@@ -762,6 +866,60 @@
    "persons": [
     "stefan"
    ]
+  },
+  {
+   "title": "Nils Jonsson (Skog): född 19/12 1722 i Beckelid (dödbok) – kandidatdopet 17/9 1722 faller",
+   "text": "Dödbok F I/1 b.36 (1791) ger födelsen 19/12 1722 i Beckelid med föräldrarna Jon Tholsson och Ingjerd Jonsdotter, ålder 68¼ år vid död 16/3 1791 (stämmer med 19/12, inte med 17/9 = 68½). Det tidigare kandidatdopet C I/1 b.141 nr 34 (17 sept 1722, föräldrar Jon Nilsson/Ingrid Andersdotter, Skidene) ska därför inte användas; jon_nilsson_skidene22 / ingrid_andersd_skidene22 bör nedgraderas/tas bort. Dopet 19/12 1722 (eller strax därefter) bör sökas i C I/1 (bild ca 141–142, dec 1722 – kan ha dop i jan 1723).",
+   "persons": [
+    "nils_jonsson22",
+    "jon_nilsson_skidene22",
+    "ingrid_andersd_skidene22",
+    "jon_tholsson",
+    "ingjerd_jonsd_a"
+   ]
+  },
+  {
+   "title": "Kjersti Olsdotter: död 16/7 1790 (dödbok) mot ’aug 1790’/’Begr. 14 Aug’",
+   "text": "Dödbok F I/1 b.32 nr 15: begravd 18 juli 1790 (margin ”Julii 18 | 15”), död i barnsäng ”den 16:de sistl.” samtidigt med dödfött flickebarn (nr 16). Tidigare uppgift ’död aug 1790 / Begr. 14 Aug’ (marginal i dopbok C I/2 b.111) stämmer inte med dödboken. Kontrollera dopbokens marginal igen (kan gälla annan person eller läst fel).",
+   "persons": [
+    "kjersti_olsd66",
+    "anders_arnesson"
+   ]
+  },
+  {
+   "title": "Per Elofsson (Toltan): död 14/4 1800, begr. 27/4 – ej 9/4",
+   "text": "Dödbok F I/1 b.73 nr 14: margin ”27 | 14”, ”afled … den 14 april … 72¼ år” (f. 14/1 1728). Dopbokens marginal ’begravd 9/4 1800’ stämmer inte; läs om marginalen i C I/1 b.170.",
+   "persons": [
+    "per_elofsson28"
+   ]
+  },
+  {
+   "title": "Erik Christophersson: dödbokens ålder 58 år 2 mån 5 dagar ger f. ca 25/3 1780, inte 25/5 1779",
+   "text": "Dödbok F I/2 b.100 (s. 159): ”30 | Gift Bönd. Erik Christoffersson i Ö. Takene | 58 | 2 | 5” (zoom bekräftar). Räknat från 25/5 1779 vore han 59 år 0 mån 5 d vid 30/5 1838; ”58 år 2 mån 5 d” passar f. 25/3 1780 – alltså kan dagen i A I/17 b.117 vara ”25/3” (inte 25/5) och året 1780 (inte 1779), eller dödboken har fel. Läs om A I/17 b.117 (och A I/23 b.145) samt sök dopet 25/3 1780 i Fryksände C I/4 (bild ca 110).",
+   "persons": [
+    "erik_christ"
+   ]
+  },
+  {
+   "title": "Karl Anderssons födelseår: 1890 (användarträd) eller 1888 (källor)",
+   "text": "Folkräkningarna 1890, 1900, 1910 och 1930 samt SCB-födelseutdraget 1915 ('88 1/1') ger f. 1 jan 1888 i Boda. 'ca 1890–1953' i persons.json kommer från användarträdet. Föreslår 1888-01-01; dödsår 1953 fortfarande overifierat.",
+   "persons": [
+    "karl"
+   ]
+  },
+  {
+   "title": "Erik Christophersson: födelseår 1779 (husförhör) mot 1780 (dödbok), 25 mars",
+   "text": "Zoom på A I/17 bild 117 visar födelsecellen 25 över 3, år 79, ort Fryksände – alltså 25/3 1779 (tidigare läst 25/5). Dödboken F I/2 bild 100 (30/5 1838, 58 år 2 mån 5 dagar) ger 25/3 1780. Dag och månad (25 mars) är nu samstämmiga; bara året avviker med ett år. Dopet är sökt utan resultat i Fryksände C I/4 både mars 1779 (bild 108) och mars 1780 (bild 111) samt Brunskog C I/2 1780 (bild 162). Möjligt att dopet saknas/ej förts in, eller att han är född i annan socken (Ölme, Östervallskog, Gunnarskog) – ej kontrollerat.",
+   "persons": [
+    "erik_christ"
+   ]
+  },
+  {
+   "title": "Olof Christophersson: från Boda eller Fryksände?",
+   "text": "Vigselboken 1827 (E I/2 bild 123) anger ”fr. Boda”; husförhör A I/14 bild 40 anger ”Fryker…” (Fryksände eller Frykerud). Kontrollera Bodas flyttlängd 1827.",
+   "persons": [
+    "olof_christ"
+   ]
   }
  ],
  "excluded": [
@@ -883,6 +1041,13 @@
    "persons": [
     "christopher_persson_asen",
     "ingrid_asen"
+   ]
+  },
+  {
+   "title": "Olof Persson (1772): 27/8 eller 27/2?",
+   "text": "Husförhör A I/5 bild 201 tolkades tidigare 'Olof 27/8 1772'. Vid inzoomning står '27 / 2'. Dopboken C I/2 bild 142 (1772 nr 13, Toltan, Per Elofsson/Karin Elofsdotter) ligger mellan nr 12 (23 febr) och nr 14 (4 mars) → döpt 27 febr 1772. Inga poster med Per Elofsson i aug 1772 (bild 142–143).",
+   "persons": [
+    "olof_p72"
    ]
   }
  ]

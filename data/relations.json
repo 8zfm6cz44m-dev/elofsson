@@ -2336,17 +2336,6 @@
   "basis": "Dopbok C I/1 bild 132, 1721 nr 12: ”d 12 Martii … Jöns(?) och h. Karin(?) barn i Skog vid namn Marit”; dag 12/3 + Skog + patronymikon Jönsd. stämmer med A I/8/A I/1; föräldrarnas förnamn ej fullt säkert lästa. | MyHeritage-trädet: Marit Jonsson f. Jonsdotter 1721–1802 (gren via Ingjerd Olsson): far Jon Göstasson 1680–1756, mor Karin Nilsdotter 1686–1741. | MyHeritage-trädet: Marit Jonsson f. Jonsdotter 1721–1802 (dubblettgren via Britta Nilsson): far Jon Gustafsson, mor Karin Nilsdotter (ej daterade) – troligen samma par som Jon Göstasson/Karin Nilsdotter."
  },
  {
-  "id": "c-jon_nilsson_skidene22-ingrid_andersd_skidene22-nils_jonsson22",
-  "type": "child",
-  "parents": [
-   "jon_nilsson_skidene22",
-   "ingrid_andersd_skidene22"
-  ],
-  "child": "nils_jonsson22",
-  "status": "candidate",
-  "basis": "Dopbok C I/1 bild 141, 1722 nr 34: Nils, 17 sept 1722, föräldrar Jon Nilsson och Ingrid Andersd. Ort läses 'Skidene' (ej tydligt Skog). Enda Nils med fader Jon i 1722 års bok."
- },
- {
   "id": "p-olof_ihrsson_toltan45-marit_jonsd21",
   "type": "partner",
   "a": "olof_ihrsson_toltan45",
@@ -2777,14 +2766,6 @@
   "b": "marit_olsd92"
  },
  {
-  "id": "p-jonas_tholsson-ingegjerd_jonsd95",
-  "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
-  "a": "jonas_tholsson",
-  "b": "ingegjerd_jonsd95"
- },
- {
   "id": "p-olof_jansson_b-marit_nilsd99",
   "type": "partner",
   "status": "lead",
@@ -3129,19 +3110,8 @@
    "ingjerd_jonsd_a"
   ],
   "child": "nils_jonsson22",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Nils Jonsson 1722–1791 (gren via Ingjerd Olsson f. Nilsdotter 1761–1850): far Jon Tholsson, mor Ingjerd Jonsdotter (ej daterade)."
- },
- {
-  "id": "c-jonas_tholsson-ingegjerd_jonsd95-nils_jonsson22",
-  "type": "child",
-  "parents": [
-   "jonas_tholsson",
-   "ingegjerd_jonsd95"
-  ],
-  "child": "nils_jonsson22",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Nils Jonsson 1722–1791 (dubblettgren via Britta Nilsson 1757): far Jonas Tholsson, mor Ingegjerd Jonsdotter 1695–1774. Samma man har alltså två olika uppsättningar föräldrar i trädet (dubblett)."
+  "status": "strong",
+  "basis": "Dödbok F I/1 b.36 (1791) nr 10: Nils Jonsson från Skog ”född uti Beckelid 1722 19/12 af Wäl. Jon Thols[son] och h. Ingjerd Jonsd.”. Bekräftar MyHeritage-trädet (tidigare lead); efternamn Tholsson läst över radbrytning."
  },
  {
   "id": "c-nils_christophersson33-anna_jonsd50-karin_nilsd86",
@@ -3705,5 +3675,170 @@
   "b": "okand_kubas_mor",
   "status": "family",
   "basis": "Martins MyHeritage-träd (skärmbild): Dawid Orzechowski och ”Ukjent” med sonen Kuba."
+ },
+ {
+  "id": "c-nils_christophersson_skog-anna_jonsd_skog1689-olof_nilsson_skog1689",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog",
+   "anna_jonsd_skog1689"
+  ],
+  "child": "olof_nilsson_skog1689",
+  "status": "strong",
+  "basis": "C I/1 bild 15 (1689): ”Oluff Nilsson i Skog” – föräldrar ”Nilß Christopherson / Anna Jonsd.”"
+ },
+ {
+  "id": "p-olof_olsson_1749-kari_nilsd51",
+  "type": "partner",
+  "a": "olof_olsson_1749",
+  "b": "kari_nilsd51",
+  "status": "strong",
+  "basis": "Dödbok F I/1 b.64 (1798) nr 24: ”Gift 1776 … med Pigan Kari Nilsd. från Skog”; b.90 (1804) nr 24: Kari Nilsd. född i Skog 1751 af Nils Jonsson och Marit Jonsd., gift med ”Olof Olsson fr. Ö. Takene som afled 1798 16/7”."
+ },
+ {
+  "id": "p-per_olofsson_1747-anna_nilsd52",
+  "type": "partner",
+  "a": "per_olofsson_1747",
+  "b": "anna_nilsd52",
+  "status": "strong",
+  "basis": "Dödbok F I/1 b.103 (1806) nr 33: ”Gift 1775 26/12 med Pig. Anna Nilsd. fr. Skog”. Identitet med Anna Nilsd. f. 1752 (dotter till Nils Jonsson) är strong, inte verified."
+ },
+ {
+  "id": "p-olof_persson_takene-kjersti_pers_takene",
+  "type": "partner",
+  "a": "olof_persson_takene",
+  "b": "kjersti_pers_takene",
+  "status": "candidate",
+  "basis": "Dödbok F I/1 b.103 (1806) och b.64 (1798): Per Olofsson resp. Olof Olsson är söner till ”Olof Persson och Kjersti Pers.d/Ers.d”. Att denne Olof Persson = Olof Persson (Takene, d. före 1760, far till Olof f. 1731) är trolig men ej bevisad."
+ },
+ {
+  "id": "c-olof_persson_takene-kjersti_pers_takene-per_olofsson_1747",
+  "type": "child",
+  "parents": [
+   "olof_persson_takene",
+   "kjersti_pers_takene"
+  ],
+  "child": "per_olofsson_1747",
+  "status": "candidate",
+  "basis": "Dödbok F I/1 b.103 nr 33: ”Par. H. Olof Persson o. H. Kjersti Persd., redan aflidne.”"
+ },
+ {
+  "id": "c-olof_persson_takene-kjersti_pers_takene-olof_olsson_1749",
+  "type": "child",
+  "parents": [
+   "olof_persson_takene",
+   "kjersti_pers_takene"
+  ],
+  "child": "olof_olsson_1749",
+  "status": "candidate",
+  "basis": "Dödbok F I/1 b.64 nr 24: ”född 1749 af Wäl. H. Olof Persson och h. Kjersti Ers.d.”"
+ },
+ {
+  "id": "c-nils_ihrsson_toltan-marit_nilsd_toltan-britta_nilsd_toltan48",
+  "type": "child",
+  "parents": [
+   "nils_ihrsson_toltan",
+   "marit_nilsd_toltan"
+  ],
+  "child": "britta_nilsd_toltan48",
+  "status": "candidate",
+  "basis": "Dödbok F I/1 b.94 nr 10: ”född ibid. [Toltan] 1748 af Nils Persson och H. Marit Nilsd.” – förutsätter att Olof Nilssons (f. 1754 Toltan) föräldrar ’Nils Ihrsson(?) och Marit Nilsd.’ (dopbok C I/2 b.90) är samma par och att ’Ihrsson’ är felläst ’Persson’."
+ },
+ {
+  "id": "c-olof_olsson_s-ingierd_nilsd61-kari_oi86",
+  "type": "child",
+  "parents": [
+   "olof_olsson_s",
+   "ingierd_nilsd61"
+  ],
+  "child": "kari_oi86",
+  "status": "strong",
+  "basis": "Dödbok F I/1 b.66 (1798) nr 43: Kari född i Ö. Takene 1786 ”af Wäl. S. Olof Olsen och h. Ingjerd Nilsd.”"
+ },
+ {
+  "id": "c-anders_nilsson53_boda-ingegard_andersdotter-karl",
+  "type": "child",
+  "parents": [
+   "anders_nilsson53_boda",
+   "ingegard_andersdotter"
+  ],
+  "child": "karl",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda Renstad (Folk_103604828, bild Folk_917071-031): Karl August f. 1888 's.' i Anders Nilssons hushåll med Ingegärd Maria; 1900 (Folk_109937928): 'hans s. i 1:a g.' – fadern verifierad, modern sannolik."
+ },
+ {
+  "id": "p-anders_nilsson53_boda-ingegard_andersdotter",
+  "type": "partner",
+  "a": "anders_nilsson53_boda",
+  "b": "ingegard_andersdotter",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Boda Renstad: Anders Nilsson och Ingegärd Maria Andersdotter som familjens huvud respektive hustru (Folk_103604828)."
+ },
+ {
+  "id": "p-anders_nilsson53_boda-lena_andersdotter",
+  "type": "partner",
+  "a": "anders_nilsson53_boda",
+  "b": "lena_andersdotter",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 (Folk_109937928) och 1910 (Folk_125549641): Lena/Lina Andersdotter f. 1858 som hustru i Anders Nilssons hushåll."
+ },
+ {
+  "id": "s-karl-johan_alfred_nilsson",
+  "type": "sibling",
+  "a": "karl",
+  "b": "johan_alfred_nilsson",
+  "status": "strong",
+  "basis": "Folkräkning 1890 och 1900: Johan Alfred 1884 och Karl August 1888 i samma hushåll hos Anders Nilsson."
+ },
+ {
+  "id": "s-karl-anna_maria_nilsson_1886",
+  "type": "sibling",
+  "a": "karl",
+  "b": "anna_maria_nilsson_1886",
+  "status": "strong",
+  "basis": "Folkräkning 1890 och 1900: Anna Maria f. 1886 och Karl August i samma hushåll."
+ },
+ {
+  "id": "s-karl-arvid_emanuel_nilsson",
+  "type": "sibling",
+  "a": "karl",
+  "b": "arvid_emanuel_nilsson",
+  "status": "candidate",
+  "basis": "Folkräkning 1900/1910: Arvid Emanuel f. 1896 i samma hushåll; sannolikt halvbror (Karl 'i 1:a g.')."
+ },
+ {
+  "id": "c-august_nilsson_gullsbyn-stina_jansdotter-hanna",
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn",
+   "stina_jansdotter"
+  ],
+  "child": "hanna",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Brunskog Gullsbyn s. 15 rad 8 (Folk_109937345, bild Folk_017069-015): Hanna Elisabet f. 1889 'hans d.' hos August Nilsson; modern Stina Jansdotter f. 1847 står i hushållet men moderskap ej uttryckligt."
+ },
+ {
+  "id": "p-august_nilsson_gullsbyn-stina_jansdotter",
+  "type": "partner",
+  "a": "august_nilsson_gullsbyn",
+  "b": "stina_jansdotter",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Gullsbyn (Folk_109937345): husfader och hustru i samma familj."
+ },
+ {
+  "id": "s-hanna-anna_maria_augustsson_1885",
+  "type": "sibling",
+  "a": "hanna",
+  "b": "anna_maria_augustsson_1885",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll."
+ },
+ {
+  "id": "s-hanna-nils_ejnar_augustsson",
+  "type": "sibling",
+  "a": "hanna",
+  "b": "nils_ejnar_augustsson",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Gullsbyn: båda barn i August Nilssons hushåll."
  }
 ]
