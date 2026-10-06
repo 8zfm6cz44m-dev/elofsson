@@ -4746,6 +4746,10 @@
    {
     "label": "Digitalarkivet, 1891 census Ullensaker (0235), Øvre Sundby, Thorsten Nielsen (gnr 163 bnr 3): 002 Anders Ellefsen., Logerende hørende til Familien, e-mand, f. 1816 Brunskog. Vermeland. Sverige",
     "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005286"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Ullensaker, Øvre Sundby gnr 163/3, hushållet Torsten Nielsen (001) + Anders Ellefsen (002)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005285"
    }
   ],
   "search": [
@@ -4797,7 +4801,8 @@
    "W3 A I/33 (1871–80, C0036772): Östra Takene bild 196–209 (s.187–198; bild 195 = s.186 Skog, bild 203 = s.193) genomläst: ingen Anders Elofsson/Stina Nilsd. bland hushållen (bl.a. Kajsa Andersdotter/Per Elofssons änka s.187; Olof Jansson s.193; Erik Nilsson s.194; Olof Olsson/Jonas Olsson s.195–196; Johannes Larsson s.197; Gl. Anders Olsson s.198). A I/34 (C0036773, bild 8–10 = s.391–393 'Byn') är fortsättningen av A I/33 (sid 391+), inte en annan sockenhalva, och innehåller alltså inte Takene. Utflyttning till Norge ligger därför efter bokens upprättande 1870/71 men bokförs inte på deras rad; Brunskogs flyttlängd efter 1860 är inte digitaliserad i Riksarkivet (B/4 C0036781 slutar 1860; B/5 saknas i serien C0036778–81).",
    "W3 NORGE: Digitalarkivet (curl 2026-10, avancerad personsök 1868–1880, efternamn Elof*/Ellef*, f.år 1814–18; födelseort Brunskog 1868–80; Stina f. 1812–14 Eidsvold 1868–92): inga nya poster utöver FT 1875 Hoel (Anders pf01052052001547, Stina pf01052052001548), FT 1891 Ullensaker och begravning Eidsvoll 1893. Ingen inflyttning (ministerialbok 1870–75) indexerad för paret.",
    "DÖD Eidsvoll 1893 s.204 nr 45 (skannad bild avläst): ”Anders Ellefsen Enkemd. Fattiglem.” f. ”1816”, födelseort ”Vermeland”, bosted (läst) ”Storbraaten” (osäker läsning), dödsorsak ”Asthma”, död 15/11, begravd 24/11 1893. Ålder anges ej (endast födelseår). Index (pg00000003938234) saknar bosted/ålder/orsak.",
-   "FOLKRÄKNING 1891 Ullensaker (0235), Øvre Sundby, Thorsten Nielsen: ”002 Anders Ellefsen., Logerende hørende til Familien, e-mand, 1816, Brunskog. Vermeland. Sverige” – födelseorten Brunskog uttryckligen angiven; enkemann 1891 => Stina död före 1/1 1891."
+   "FOLKRÄKNING 1891 Ullensaker (0235), Øvre Sundby, Thorsten Nielsen: ”002 Anders Ellefsen., Logerende hørende til Familien, e-mand, 1816, Brunskog. Vermeland. Sverige” – födelseorten Brunskog uttryckligen angiven; enkemann 1891 => Stina död före 1/1 1891.",
+   "AL6 NORGE (Digitalarkivet curl): (1) Dödsindex 'Deceased and buried' 1876–1890 i kommun 0235 Ullensaker, 0237 Eidsvoll, 0239 Hurdal (inkl. Feiring), 0238 Nannestad, 0233 Nittedal, 0236 Nes, 0234 Gjerdrum, 0231 Skedsmo, 0229 Enebakk, 0232/0230/0228: personer f. 1811–1815 genomgångna (94/204/35/84/58/126/29/47/92 poster): ingen Stina/Kristina Nilsdatter f. 1813 med födelseland Sverige/Värmland/Frykerud. Enda 'Sverige f. 1813'-träff Eidsvoll: Marie Jonasd (död 1888-03-09, pg00000003724696) – annan person. Fri sökning Stina/Kristina/Kristine/Stine + Sverige + f. 1811–15 i hela Norge 1875–91: Marthe Stina Eriksen (f. 1813-12-22, Tønsberg 1889), Stine Jensdatter (Hvaler 1882), Kristine Olsdatter (Halden 1883), Christine Pedersen (Trefoldighet 1889) m fl – alla med annat patronymikon, utesluts. Stinas död 1875–1890 alltså fortsatt ej indexerad. (2) FT 1891 hushållet Torsten Nielsen: se no_torsten_nielsen13 – endast Torsten (f. 1813 Ullensaker, enkeman) + Anders. (3) Brunskog-födda i FT 1875 Eidsvoll/Ullensaker/Hurdal/Nannestad/Nes: se flagga."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok).",
@@ -24477,6 +24482,33 @@
   ],
   "search": [
    "Nils Basil(?) Andersson (f. 1910)"
+  ]
+ },
+ {
+  "id": "no_torsten_nielsen13",
+  "name": "Torsten (Thorsten) Nielsen (f. 1813 Ullensaker, e-mand)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1813",
+   "place": "Ullensaker"
+  },
+  "places": [
+   "Ullensaker, Øvre Sundby (gnr 163/3) 1891"
+  ],
+  "summary": "Värd (familiens overhode, enkeman) för Anders Ellefsen som logerende i FT 1891 Ullensaker; hushållet består av endast dessa två. Ingen släktkoppling till Elofsson-släkten belagd.",
+  "notes": [
+   "FT 1891 Ullensaker (0235), krets 014 Øvre Sundby, gnr 163 bnr 3, gård nr 019 'Thorsten Nielsen': '001 Torsten Nielsen. Familiens overhode, e-mand, f. 1813, Ullensaker' och '002 Anders Ellefsen. Logerende hørende til Familien, e-mand, 1816, Brunskog. Vermeland. Sverige'. Inga andra personer i hushållet (pf01052715005285 och 005286 är de enda; nästa gård 020 är annan familj). Torsten är född i Norge (Ullensaker) – ingen släkt med Anders enligt posten; troligen hyresvärd/arbetsgivare."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Ullensaker (0235), Øvre Sundby, gnr 163/3: 001 Torsten Nielsen, familiens overhode, e-mand, f. 1813 Ullensaker",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005285"
+   }
+  ],
+  "search": [
+   "Torsten (Thorsten) Nielsen (f. 1813 Ullensaker, e-mand)"
   ]
  }
 ]
