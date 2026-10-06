@@ -22343,5 +22343,68 @@
   "search": [
    "Franciszek Marceli Hencel (f. 1850)"
   ]
+ },
+ {
+  "id": "hencel_augustyn_1820",
+  "name": "Augustyn Hencel (f. 1820, Niewachlów)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1820",
+   "place": "Niewachlów (Kielce Katedra)",
+   "note": "akt 369, 1820; månad/dag osäkra (månadsordet överstruket/oläsligt, sannolikt september)"
+  },
+  "places": [
+   "Niewachlów",
+   "Kielce"
+  ],
+  "summary": "Möjlig identitet för Augustyn Hencel (far till Agnieszka f. 1847): son till Jan Hencel (45 år, mayster kunsztu ... ukelniczego(?), Niewachlów) och en hustru vars namn är oläsligt. Endast namn+ålder+plats stämmer, ingen länk till Czarnów.",
+  "notes": [
+   "Födelseindex Kielce Katedra 1820 (SkU-2): rad 'Hencel Augustyn' nr 195, akt 369.",
+   "AKT 369 (läst delvis): 'Przed nami Urzędnikiem Stanu Cywilnego Gminy Kieleckiej ... stawił się Jan Hentel lat czterdzieści pięć mający, Mayster Kunsztu Cu[…]ielskiego, we Wsi Niewachłów zamieszkały, i okazał nam Dziecię płci męskiej ... spłodzone z niego i [?]li z [?] lat trzydzieści mającej jego Małżonki ... nadał mu Imię Augustyn' (svenska: Jan Hencel, 45 år, mästare i ett hantverk, bosatt i Niewachłów, visade en son som fick namnet Augustyn; mor ca 30 år, förnamn och flicknamn oläsliga). Vittnen Jan Becher 45 och Melchior Fraynd 50, gruvarbetare i Niewachłów.",
+   "Fynd stödjer att Augustyn Hencel 26 år 1847 kan vara f. 1820 (ålder stämmer) och att familjen fanns i Niewachłów (jfr Hencel-hushållet där 1866), men Czarnów-bostad 1847 är ej kopplad. Ingen annan Hencel Augustyn i 1820 års index; 1821 ej kontrollerat."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka/Archiwum Państwowe w Kielcach, Kielce Katedra, urodzenia 1820, skan 369-375: akt 369 Augustyn, far Jan Hencel, Niewachłów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=369-375.jpg"
+   },
+   {
+    "label": "Kielce Katedra 1820 skorowidz SkU-2: 'Hencel Augustyn' 195 / akt 369",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Augustyn Hencel (f. 1820, Niewachlów)"
+  ]
+ },
+ {
+  "id": "hencel_jan_1820",
+  "name": "Jan Hencel (f. ca 1775, far till Augustyn f. 1820?)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1775",
+   "place": "",
+   "note": "45 år 1820"
+  },
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Far i akt 369/1820, Niewachłów; hantverksmästare. Koppling till Augustyn (far till Agnieszka) ej bekräftad.",
+  "notes": [
+   "Se hencel_augustyn_1820."
+  ],
+  "sources": [
+   {
+    "label": "Kielce Katedra 1820, akt 369",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=369-375.jpg"
+   }
+  ],
+  "search": [
+   "Jan Hencel (f. ca 1775, far till Augustyn f. 1820?)"
+  ]
  }
 ]

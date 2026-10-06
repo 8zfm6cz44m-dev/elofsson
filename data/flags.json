@@ -2303,6 +2303,22 @@
    "title": "Digitalarkivet-index for dodsfall 1882-95 saknas",
    "text": "Kilde 3467 (Eidsvoll 1882-95, officiell) har bara fodte/konfirmerte i sokbar version -> forklarar att personindexet inte gav traff. Dodsboken 1882-95 finns i kilde 3468 (list-typ 'Dode og begravede', uuid 332a418b-30a7-41fa-9052-4c3cc7261959) och 1877-81 i kilde 3466 (uuid d6bb073e-4e2f-4e6a-855e-d3c0f6b02761); 1871-77 kilde 497 (08f7813c-4ff6-4fab-a678-e231b5cb2f24); 1877-84 kilde 498 (7b0d7c40-8934-4480-a3d4-015b9aab1ca9); 1884-94 kilde 499 (6bbdb106-3ecd-4c31-b497-3138e72031f9). Bildvisaren ar mycket langsam (1-2 min/bild) och sidan visas som uppslag; panorera nedat for att se hela sidan.",
    "persons": []
+  },
+  {
+   "title": "Augustyn Hencels vigsel ej hittad i Katedra 1843-1846",
+   "text": "Skorowidz över vigslar (groom-sorterat) Kielce Katedra 1843 (SkM-1/2), 1844, 1845, 1846 saknar Hencel (H-posterna: 1843 Hosowski; 1844 ingen H; 1845 Haba, Jaszczyk?; 1846 ingen H). Vigseln kan ha skett i brudens parafi (Szrek) eller före 1843; 1847 och 1842 ej kontrollerade.",
+   "persons": [
+    "augustyn_hencel",
+    "maryanna_hencel"
+   ]
+  },
+  {
+   "title": "Augustyn Hencel f. 1820 Niewachlów?",
+   "text": "Akt 369/1820 Kielce Katedra: Augustyn son till Jan Hencel, Niewachłów. Ålder stämmer med 26 år 1847, men Czarnów 1847 vs Niewachlów; kandidat.",
+   "persons": [
+    "hencel_augustyn_1820",
+    "augustyn_hencel"
+   ]
   }
  ],
  "conflicts": [

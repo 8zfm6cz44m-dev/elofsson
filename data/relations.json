@@ -5761,5 +5761,25 @@
   "b": "hencel_franciszek_marcel_1850",
   "status": "strong",
   "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850."
+ },
+ {
+  "id": "c-hencel_jan_1820-hencel_augustyn_1820",
+  "type": "child",
+  "parents": [
+   "hencel_jan_1820"
+  ],
+  "child": "hencel_augustyn_1820",
+  "status": "candidate",
+  "basis": "Akt 369/1820: far Jan Hencel, Niewachłów (skan 1820a 369-375)"
+ },
+ {
+  "id": "c-augustyn_hencel-hencel_agnieszka_1847",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel"
+  ],
+  "child": "hencel_agnieszka_1847",
+  "status": "candidate",
+  "basis": "Augustyn Hencel (id augustyn_hencel) = Augustyn f. 1820? Ej bekräftat."
  }
 ]
