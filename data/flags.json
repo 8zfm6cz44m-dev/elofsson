@@ -2925,6 +2925,140 @@
    "persons": [
     "cajsa_am"
    ]
+  },
+  {
+   "title": "Bäckdahl/Kilhage/Uchman (ex-partners släkt) – ej blodsläkt",
+   "text": "Personerna i Solveig Bäckdahls släkt (MyHeritage) är hållna som lead och inte uteslutna. AP6 har länkat endast det som följer logiskt av trädets egna relationsetiketter (Oskar+Ida → Bengt → Solveig/Gunilla; Anna-Stina; Kilhage-bröderna som hennes syskon; Mikael+Elin), status candidate. Ej länkade eftersom etiketterna inte räcker: Jennie, Gustav, Oskar (yngre), Zebastian (syskon-/systerbarn till Solveig, okänd förälder), Tommy Johansson (svåger), Stanisław och Stefania Uchman (föräldrar till en morbror, grenen Ella/Celina).",
+   "persons": [
+    "solveig_backdahl",
+    "bengt_backdahl",
+    "annastina_backdahl",
+    "tommy_johansson",
+    "stanislaw_uchman",
+    "stefania_uchman",
+    "jennie_backdahl",
+    "gustav_backdahl",
+    "oskar_backdahl_2",
+    "zebastian_backdahl"
+   ]
+  },
+  {
+   "title": "Orzechowski-kusiner: vilken av Ryszard/Czesław är far?",
+   "text": "Zbigniew, Leszek, Krzysztof och Bozena Orzechowski är enligt MyHeritage Iwonas kusiner, barn till antingen Ryszard eller Czesław (Irenas bröder); Stefania och Lucyna är ingifta mostrar gifta med en av dem. Inget i datan avgör vem som är gift med vem, så inga relationer skapade. Nästa källa: polska akter/PROGRES eller användarträdets familjevy.",
+   "persons": [
+    "zbigniew_o",
+    "leszek_o",
+    "krzysztof_o",
+    "bozena_o",
+    "stefania_o",
+    "lucyna_o",
+    "ryszard_o",
+    "czeslaw_o"
+   ]
+  },
+  {
+   "title": "Mattis Ersson i Tolten är INTE belagd som son till Lars Ersson",
+   "text": "Noterna anger bara gemensamt patronymikon (Lars Ersson, Per Ersson, Mattis Ersson, Isak Ersson i Toltan-mantalen). Ingen not säger att Mattis är Lars Erssons son (de kan vara bröder, far/son eller orelaterade). Ingen relation skapad. Se även möjlig dubblett Lasse Erichsson (dop 1696/1699) = Lars Ersson (mantal): båda 'troligen samma' men ej bevisat, därför ej sammanslagen.",
+   "persons": [
+    "b4_mattis_ersson_toltan",
+    "b4_lars_ersson_toltan",
+    "b4_per_ersson_toltan",
+    "al5_lasse_erichsson_toltan",
+    "b4_isak_nilsson_toltan"
+   ]
+  },
+  {
+   "title": "Toltan-barn i dopboken 1689–1693 med namngivna fäder men utan personposter",
+   "text": "Nils Andersson (21/4 1689, far Anders Jonsson/Christin Persdotter), Nils Andersson (22/8 1689, far Anders Nilsson/Gunila Gerlsdotter?), Olof Christophersson (23/6 1689, Christopher Thoms?/Mari Johansdotter) samt Marit Larsdotter (1692, Lars Jönsson/Ingeri Ersdotter) har föräldrar angivna i noterna men föräldrarna saknar egna poster i persons.json, så ingen relation kunde skapas utan att hitta på nya personer. Barnen 1691–1693 (Christin, Elin, Lisbeth, Ingel, Brynthe, Jon) har oläsliga/ofullständiga fadersnamn. Förslag: skapa föräldrarna som lead-personer om Toltan-hushållen ska kartläggas.",
+   "persons": [
+    "nils_andersson89_otortan",
+    "nils_andersson89_vtortan",
+    "olof_christophersson89_toltan",
+    "c3_marit_larsd92_toltan",
+    "christin_tortan91",
+    "elin_tortan91",
+    "lisbeth_tortan93",
+    "ingel_toltan93",
+    "brynthe_vtortan93",
+    "jon_ofortan93"
+   ]
+  },
+  {
+   "title": "Emigrantfamiljer ur husförhör A I/37 (Skog/Svartåna/Takene) – föräldrar saknas som personposter",
+   "text": "Barn med namngivna föräldrar i husförhöret men utan föräldrapost: Johan Olofsson 1871 (Olof Jönsson + Maria Persdotter, Ö. Skogshaget), Emil Andersson/Persson (Anders Persson f. 1830 + Maria Jonsdotter, Ö. Nolbystegen), Olof Persson 1873 (Per Olofsson + Stina Nilsdotter, Svartåna), Nils Olofsson/Andersson (Olof Andersson + Ingegärd Olsdotter, Lyckan), Britta Maria Nolén 1865 (Olof Jansson 1836 + Maria Persdotter, Där Nole; troligen syster, oklart), Anna Maria/Karl Oskar (Olof Jansson 1850 + Brita Nilsdotter), Maria/Elin/Jonte Skogsberg (korpral Jonas Olof Skogsberg + Elina Nilsdotter). Släktskap med Martins släkt ej belagt (grannar). Syskon länkade där båda finns; föräldrarna kan skapas vid behov.",
+   "persons": [
+    "d7_johan_olofsson_1871",
+    "d7_emil_andersson_nolbystegen",
+    "d7_olof_persson_svartana_1873",
+    "d7_nils_olofsson_lyckan_svartana",
+    "d7_britta_maria_nolen",
+    "d7_olof_jansson_1836_svartana",
+    "d7_maria_jonasdotter_skogsberg"
+   ]
+  },
+  {
+   "title": "Brunskog-födda i Norge (folketellingar 1865–1891) – inga länkar till trädet",
+   "text": "Mons/Niels Andersen (skinnberedare, Hurdal/Eidsvoll), Anders Andersen (Løiten), Ole Danielsen Blomstrøm, Daniel Danielsen, Anna Ellefsen f. 1853, Kaisa Ellefsdatter f. 1842, Anna Johannesdatter, Olaf Josephsen Berg, Maria Pedersdatter samt Torsten Nielsen: bara patronymikon och födelsesocken stöder en tänkbar koppling. Anna Ellefsen (f. 1853) bor 1875 på samma adress (Maridalsveien 56) som Kaisa Ellefsdatter/Gundersen (f. 1842) – möjliga syskon, men inget belägg. Hålls som leads; inga relationer skapade. Nästa steg: Brunskogs dopbok 1842/1853 med fader Elof/Ellef.",
+   "persons": [
+    "no_anna_ellefsen53",
+    "no_kaisa_ellefsd42",
+    "no_mons_andersen15",
+    "no_niels_andersen08",
+    "no_ole_danielsen40",
+    "no_daniel_danielsen25",
+    "no_anders_andersen23"
+   ]
+  },
+  {
+   "title": "Tidningsnotiser och amerikaleads utan släktbelägg",
+   "text": "Hagström (predikant Arvika), Johan Olson (Takene, USA 1899), Anna Nilsson (änka, Takene d. 1939), Ivar Nilson (USA 1944), Andersson (Gig Harbor), Anton [K?]strom (Winnipeg 1903), Nels Nelson (Mt. Jewett) och Johan Olaf Olsson (Ellis Island 1923) är lösa leads. Behålls (ej excluded); manifestraden för Johan Olaf Olsson 1923 bör läsas för att avgöra identitet mot johan.",
+   "persons": [
+    "hagstrom_d_predikant_arvika",
+    "johan_olson_takene_usa1899",
+    "anna_nilsson_takene_1939",
+    "ivar_nilson_takene_usa",
+    "andersson_takene_gigharbor",
+    "anton_winnipeg_cousin",
+    "nels_nelson_mtjewett",
+    "ei_johan_olaf_olsson_1923"
+   ]
+  },
+  {
+   "title": "Sven Nilsson (Gönäs, d. 1795) och Nils Svensson (Gönäs)",
+   "text": "Husförhör A I/11: ”Fad. Sven Nilsson 27 (död 95)” i Nils Svensson 1756:s hushåll samt A I/6: Sven Nilsson 1727 g. Ingeborg Eriksdotter med barn Nils 1756, Erik 1759 ⇒ Sven är sannolikt far till Nils (Gönäs), men Nils/Erik saknar personposter och Sven är troligen inte far till Christopher Svensson. Ingen relation skapad.",
+   "persons": [
+    "sven_nilsson_gonas_d95",
+    "elin_svensdotter_gonas"
+   ]
+  },
+  {
+   "title": "Per Nilsson (f. 1728) – mor Ingrid Elofsdotter, far Nils Jonsson ej identifierad",
+   "text": "Dödboken 1802 nämner Nils Jonsson och Ingrid Elofsdotter som föräldrar. Mor-relationen är skapad som candidate mot lead-posten ingrid_elofsd_toltan (identitet ej belagd). Fadern är inte Nils Jonsson (f. 1722, Skog). Kontrollera Åsen-dopet 1728 (C I/1 ca bild 180). Pål Persson (Toltan, barn 2/7 1700) kan inte vara far till Christopher Påhlsson (dop 1710 anger far ”Pehl”) – ingen länk.",
+   "persons": [
+    "per_nilsson28_skog",
+    "ingrid_elofsd_toltan",
+    "pal_persson_toltan1700"
+   ]
+  },
+  {
+   "title": "Övriga hushållsleads utan föräldrabelägg",
+   "text": "Kari Bengtsdotter (1681, i Elof Nilssons hushåll 1760–63), Karin Elofsdotter (1744) och Marit Elofsdotter (1747) från Fryserud 1761, Britta Jönsdotter (1735) och Kerstin Jonsdotter (1743) hos Nils Jonsson på Skog nr 2, Boställe-hushållet (Georg, Anna, Rut Eriksson), Gustav Olsson, Arvid Olsson (Där Framme), Mona Arvidsson, Per Persson (Renstad) mot Johanna Persdotter, Nils Olsson f. 1840 (Ö. Takene, möjlig son till Olof f. 1804), samt Agata Ksiołowa: noterna ger ingen uttrycklig relation; inga länkar skapade. Anna Maria Karlsson f. Nilsson (Arvika 1930) är bara kandidat till anna_maria_nilsson_1886.",
+   "persons": [
+    "kari_bengtsd81",
+    "karin_elofsd44",
+    "britta_jonsd35",
+    "kerstin_jonsd43",
+    "georg_e",
+    "anna_e",
+    "rut_e",
+    "gustav",
+    "arvid_framme",
+    "mona",
+    "per_persson91_renstad",
+    "ao4_nils_olsson40",
+    "agata_ksiol",
+    "anna_maria_nilsson_karlsson_arvika"
+   ]
   }
  ],
  "conflicts": [

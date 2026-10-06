@@ -7614,5 +7614,234 @@
   "b": "annaandersdotter",
   "status": "verified",
   "basis": "A I/23 bild 125, A I/25 bild 122: D. Cajsa 10/2 44, Anna 14/12 46 i samma hushåll."
+ },
+ {
+  "id": "p-d7_anders_sylvander-d7_matilda_nilsson_sylvander",
+  "type": "partner",
+  "a": "d7_anders_sylvander",
+  "b": "d7_matilda_nilsson_sylvander",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll."
+ },
+ {
+  "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_anna",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander",
+   "d7_matilda_nilsson_sylvander"
+  ],
+  "child": "d7_sylvander_anna",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+ },
+ {
+  "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_nils",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander",
+   "d7_matilda_nilsson_sylvander"
+  ],
+  "child": "d7_sylvander_nils",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+ },
+ {
+  "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_johan",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander",
+   "d7_matilda_nilsson_sylvander"
+  ],
+  "child": "d7_sylvander_johan",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+ },
+ {
+  "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_hulda",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander",
+   "d7_matilda_nilsson_sylvander"
+  ],
+  "child": "d7_sylvander_hulda",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+ },
+ {
+  "id": "s-d7_maria_jonasdotter_skogsberg-d7_elin_jonasdotter_skogsberg",
+  "type": "sibling",
+  "a": "d7_maria_jonasdotter_skogsberg",
+  "b": "d7_elin_jonasdotter_skogsberg",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 …” – syskon i samma hushåll (föräldrarna ej egna personposter)."
+ },
+ {
+  "id": "s-d7_maria_jonasdotter_skogsberg-d7_jonte_skogsberg_1873",
+  "type": "sibling",
+  "a": "d7_maria_jonasdotter_skogsberg",
+  "b": "d7_jonte_skogsberg_1873",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 …” – syskon i samma hushåll (föräldrarna ej egna personposter)."
+ },
+ {
+  "id": "s-d7_elin_jonasdotter_skogsberg-d7_jonte_skogsberg_1873",
+  "type": "sibling",
+  "a": "d7_elin_jonasdotter_skogsberg",
+  "b": "d7_jonte_skogsberg_1873",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 …” – syskon i samma hushåll (föräldrarna ej egna personposter)."
+ },
+ {
+  "id": "s-d7_anna_maria_olofsdotter_1874-d7_karl_oskar_olofsson_skog",
+  "type": "sibling",
+  "a": "d7_anna_maria_olofsdotter_1874",
+  "b": "d7_karl_oskar_olofsson_skog",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” och A II a/1 bild 213 (Gärde) – syskon i samma hushåll."
+ },
+ {
+  "id": "c-d7_maria_olsdotter_takene_enka-d7_arvid_adolf_leander_persson",
+  "type": "child",
+  "parents": [
+   "d7_maria_olsdotter_takene_enka"
+  ],
+  "child": "d7_arvid_adolf_leander_persson",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 169 (fol. 173), Östra Takene: ”Pig. enk. Maria Olsdotter … 19/12 Svartåna; Son Arvid Adolf Leander Persson 8? 29/4 Nordamerika” – uttryckligen ”Son”; fadern ej angiven."
+ },
+ {
+  "id": "c-jo_august_andersson54-jo_nilsoskar81",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54"
+  ],
+  "child": "jo_nilsoskar81",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22): August Andersson f. 1854, barn Johan Alfred 1879, Nils Oskar 1881, Anna Lavinia 1882, ingen hustru; 1900 samma barn i hans hushåll. Modern oklar (Maria Johannesdotter död 1880–90?) – därför bara fadern."
+ },
+ {
+  "id": "c-jo_august_andersson54-jo_annalavinia82",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54"
+  ],
+  "child": "jo_annalavinia82",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1890 Boda, Renstad (s. 33 rad 22) och 1900 (s. 29): Anna Lavinia f. 1882 Boda i August Anderssons hushåll som barn; modern oklar."
+ },
+ {
+  "id": "c-ingrid_elofsd_toltan-per_nilsson28_skog",
+  "type": "child",
+  "parents": [
+   "ingrid_elofsd_toltan"
+  ],
+  "child": "per_nilsson28_skog",
+  "status": "candidate",
+  "basis": "DÖDBOK F I/1 bild 82 (s. 137), 1802 nr 19: ”D.M. Per Nilsson i Skog, född i Åsen 1728 … af D.M. Nils Jonsson och H. Ingrid Elofsd.” – modern namngiven som Ingrid Elofsdotter; identiteten med Åsen/Toltan-Ingrid (dopvittne 1720/1724/1735) ej belagd, därför candidate. Fadern Nils Jonsson är inte nils_jonsson22 (f. 1722)."
+ },
+ {
+  "id": "p-oskar_backdahl-ida_backdahl",
+  "type": "partner",
+  "a": "oskar_backdahl",
+  "b": "ida_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Oskar = ”farfar till ex-partner” och Ida (f. Lindqvist) = ”farmor till ex-partner” (Solveig Bäckdahl) – dvs makar. Ingen primärkälla."
+ },
+ {
+  "id": "c-oskar_backdahl-ida_backdahl-bengt_backdahl",
+  "type": "child",
+  "parents": [
+   "oskar_backdahl",
+   "ida_backdahl"
+  ],
+  "child": "bengt_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Oskar/Ida = farfar/farmor till Solveig, Bengt = Solveigs far (”ex-partners far”) ⇒ Bengt är deras son. Ingen primärkälla."
+ },
+ {
+  "id": "s-bengt_backdahl-karl_backdahl",
+  "type": "sibling",
+  "a": "bengt_backdahl",
+  "b": "karl_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Bengt = Solveigs far, Karl = ”farbror till ex-partner” ⇒ Bengts syskon (helt/halv ej angivet). Ingen primärkälla."
+ },
+ {
+  "id": "s-bengt_backdahl-anders_backdahl",
+  "type": "sibling",
+  "a": "bengt_backdahl",
+  "b": "anders_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Bengt = Solveigs far, Anders = ”farbror till ex-partner” ⇒ Bengts syskon (helt/halv ej angivet). Ingen primärkälla."
+ },
+ {
+  "id": "s-bengt_backdahl-greta_backdahl",
+  "type": "sibling",
+  "a": "bengt_backdahl",
+  "b": "greta_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Bengt = Solveigs far, Greta = ”faster till ex-partner” ⇒ Bengts syskon (helt/halv ej angivet). Ingen primärkälla."
+ },
+ {
+  "id": "p-bengt_backdahl-annastina_backdahl",
+  "type": "partner",
+  "a": "bengt_backdahl",
+  "b": "annastina_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Bengt = ”ex-partners far”, Anna-Stina = ”ex-partners mor” (Solveig Bäckdahl). Ingen primärkälla."
+ },
+ {
+  "id": "c-bengt_backdahl-annastina_backdahl-solveig_backdahl",
+  "type": "child",
+  "parents": [
+   "bengt_backdahl",
+   "annastina_backdahl"
+  ],
+  "child": "solveig_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Bengt/Anna-Stina = Solveigs far/mor enligt trädets relationsetiketter (Solveig f. 1950, Bengt f. 1921). Ingen primärkälla."
+ },
+ {
+  "id": "c-bengt_backdahl-annastina_backdahl-gunilla_backdahl",
+  "type": "child",
+  "parents": [
+   "bengt_backdahl",
+   "annastina_backdahl"
+  ],
+  "child": "gunilla_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Gunilla = ”syster till ex-partner” (Solveig) ⇒ dotter till Bengt/Anna-Stina (helsyster antas, ej angivet). Ingen primärkälla."
+ },
+ {
+  "id": "s-annastina_backdahl-gunnar_kilhage",
+  "type": "sibling",
+  "a": "annastina_backdahl",
+  "b": "gunnar_kilhage",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Gunnar Kilhage = ”morbror till ex-partner” ⇒ bror till Solveigs mor Anna-Stina. Ingen primärkälla."
+ },
+ {
+  "id": "s-annastina_backdahl-folke_kilhage",
+  "type": "sibling",
+  "a": "annastina_backdahl",
+  "b": "folke_kilhage",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Folke Kilhage = ”morbror till ex-partner” ⇒ bror till Solveigs mor Anna-Stina. Ingen primärkälla."
+ },
+ {
+  "id": "s-annastina_backdahl-erik_kilhage",
+  "type": "sibling",
+  "a": "annastina_backdahl",
+  "b": "erik_kilhage",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Erik Kilhage = ”morbror till ex-partner” ⇒ bror till Solveigs mor Anna-Stina. Ingen primärkälla."
+ },
+ {
+  "id": "p-mikael_backdahl-elin_backdahl",
+  "type": "partner",
+  "a": "mikael_backdahl",
+  "b": "elin_backdahl",
+  "status": "candidate",
+  "basis": "MyHeritage (Martin Elofsons användarträd, listvy): Mikael = ”syskonson till ex-partner”, Elin (f. Edvardsson) = ”syskonsons maka till ex-partner” ⇒ gift med Mikael (enda syskonsonen i listan med hennes etikett). Ingen primärkälla."
  }
 ]

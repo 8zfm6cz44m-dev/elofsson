@@ -26624,7 +26624,7 @@
  {
   "id": "aa48_grava1880_lead",
   "name": "Anders Andersson (f. 1848 i Grava; inhyses Grava 1880) – EJ identisk",
-  "status": "lead",
+  "status": "excluded",
   "sex": "m",
   "living": false,
   "born": {
@@ -26636,7 +26636,8 @@
   ],
   "summary": "Anders Andersson f. 1848 i GRAVA (ej Brunskog), inhyses Sundstad Grava 1880, g. Lovisa Jonsdotter f. 1852 Frykerud. Födelseförsamling Grava utesluter identitet med anders_ae48 (f. Brunskog); dokumenteras bara för att undvika sammanblandning.",
   "notes": [
-   "FOLKRÄKNING 1880 Grava, Sundstad, sida 57 rad 9: ”Andersson, Anders, f. 1848 i Grava, Inhyses”, gift; Lovisa Jonsdotter f. 1852 Frykerud; Gustaf Adolf f. 1877 Kil. Annan: Anders Fredrik Andersson f. 1848 i Alster, inhyses Botorp, Grava 1880 – också ej Brunskog."
+   "FOLKRÄKNING 1880 Grava, Sundstad, sida 57 rad 9: ”Andersson, Anders, f. 1848 i Grava, Inhyses”, gift; Lovisa Jonsdotter f. 1852 Frykerud; Gustaf Adolf f. 1877 Kil. Annan: Anders Fredrik Andersson f. 1848 i Alster, inhyses Botorp, Grava 1880 – också ej Brunskog.",
+   "EXKLUDERAD (AP6): Folkräkning 1880 Grava anger födelseförsamling Grava (inte Brunskog); personen är därmed bevisat inte anders_ae48 (f. 1848 Brunskog) och har ingen känd koppling till släkten. Posten fanns enbart för att undvika sammanblandning."
   ],
   "sources": [
    {
