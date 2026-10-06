@@ -4956,5 +4956,32 @@
   "b": "maryanna_socha",
   "status": "candidate",
   "basis": "Akt 152/1864"
+ },
+ {
+  "id": "c-per_olofsson_braten-marit_isaksd-olof_perssonbraten15",
+  "type": "child",
+  "parents": [
+   "per_olofsson_braten",
+   "marit_isaksd"
+  ],
+  "child": "olof_perssonbraten15",
+  "status": "strong",
+  "basis": "C I/1 bild 99: ”Christnades Per? Olufsson oc h. Marit Isaaks.d: barn … wid namn Oluf” (faderns förnamn osäkert läst)"
+ },
+ {
+  "id": "p-per_olofsson_braten-marit_isaksd",
+  "type": "partner",
+  "a": "per_olofsson_braten",
+  "b": "marit_isaksd",
+  "status": "verified",
+  "basis": "E I/1 bild 30: ”vigdes Drängen Per Olufsson ifrån Bråten med Jfr. Marit Isaaksdotter i Tolta” (dec 1714)"
+ },
+ {
+  "id": "p-marit_isaksd-elof_nilsson",
+  "type": "partner",
+  "a": "marit_isaksd",
+  "b": "elof_nilsson",
+  "status": "verified",
+  "basis": "E I/1 bild 34: ”D. 28 Oct: … D. Elof Nilsson i Hög[Hag] med Enk: Marit Isaaksdotter i Tolta” (1717) – finns kanske redan"
  }
 ]

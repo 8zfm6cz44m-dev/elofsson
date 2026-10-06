@@ -1731,6 +1731,28 @@
    "persons": [
     "agnieszka_orzechowska_1849"
    ]
+  },
+  {
+   "title": "Stina Nilsdatter död ej funnen i Digitalarkivets sökindex (Eidsvoll/Ullensaker 1875–1891)",
+   "text": "Sökning (Digitalarkivet persons/advanced, listtyp ’Deceased and buried’, 1875–1893) i Eidsvoll (kommun 0237) efter förnamn Stina/Stine/Kristina/Christina/Kristine, samt alla kvinnor f. 1811–1815 och alla kvinnor med efternamn Nils*/Niel* ger ingen träff som passar Stina Nilsdatter f. 1813 Frykerud. Närmast i namn/födelseår: ’Marie Nielsdtr/Nilsd f. 1813 (Frilset)’ d. 1885-12-22 – annan person (Frilset ≠ Frykerud, namn Marie). Samma sökning i Ullensaker (0235), rikssökning på Stina/Stine Nils* d. 1875–1891: inget som passar. Möjliga förklaringar: död ej indexerad (AMF-index luckigt), död i annan socken eller i Sverige/utvandrad, eller annat namn/stavning. Kyrkboksbilder (Eidsvoll F/Fa L0001 kilde 3466 1877–81; L0002/L0003 kilde 3467/3468 1882–95; klokkerbok 497/498/499) ej genomlästa.",
+   "persons": [
+    "no_stina_nilsd13",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Elof Nilssons hemort i vigseln 1717",
+   "text": "”i Hög[?]/Hey[?]” – svårläst (zoom: Hög/Hag?). Ej ”i Tolta”. Oförändrat öppet.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Maria Katrina Andersdotter: födelsedag 24/7 vs 27/7",
+   "text": "Brunskog A I/35 bild 254 ger 24/7 1851 (två rader, tydligt 24/7); Segerstad A I/20 bild 149 + 216 ger 27/7. Behåll 1851-07-27 (dopbok + Segerstad); notera Brunskog-avvikelsen.",
+   "persons": [
+    "maria_katrina_andersdotter"
+   ]
   }
  ],
  "conflicts": [
@@ -2293,6 +2315,24 @@
    "text": "Husförhör Frykerud A I/18 bild 183 (Lene): Stina f. 26/10 1813 i Nils Jonssons och Kajsa Kristofers dr:s hushåll, och marginalanteckning om lysning 1/12 1837 med Anders Elofsson. Därmed dop C/6 bild 56 (26/27 okt, Lene, Nils Jonsson + Caisa Christoffersdotter); bild 53 (apr, Torestad, Nils Jon + Britta Ersdotter) utesluten.",
    "persons": [
     "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Marit Isaksdotter 1714 och 1717 = samma kvinna (änka)",
+   "text": "Vigseln 1717 (E I/1 bild 34) anger bruden som ”Enk: Marit Isaaksdotter i Tolta” (inte Jfr./Jung.); 1714 (bild 30) var hon ”Jfr. Marit Isaaksdotter i Tolta”, gift med drängen Per Olufsson från Bråten. Båda med morgongåva 30 lod. Slutsats: samma Marit, änka efter Per Olufsson 1717 (starkt, ej absolut bevisat – ingen uttrycklig ’änka efter Per’).",
+   "persons": [
+    "marit_isaksd",
+    "per_olofsson_braten",
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Marit Isaksdotter 1714 (Jfr.) och 1717 (Enk.) = sannolikt samma kvinna",
+   "text": "Omläsning av E I/1 bild 34 (28 okt 1717): bruden är ”Enk:” (änka), inte ”Jung.”. Bild 30 (28 dec 1714): ”Jfr. Marit Isaksdotter i Tolta” gift med Drängen Per Olufsson ifrån Bråten. Den tidigare konflikten (två vigslar med ”jungfru Marit Isaksdotter i Tolta”) upplöses: hon var jungfru 1714, änka 1717, alltså Pers änka som gifter om sig med Elof Nilsson. Identiteten är strong (samma namn+by), inte bevisad via död-/begravningspost. Föreslår att den tidigare flaggan om konflikt markeras löst/strong och att Per Olofsson (Bråten) knyts som Marits förste make (p-per_olofsson_braten-marit_isaksd). Ev. barn med Per 1715–17 ej sökta.",
+   "persons": [
+    "marit_isaksd",
+    "per_olofsson_braten",
+    "elof_nilsson"
    ]
   }
  ]
