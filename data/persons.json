@@ -29550,7 +29550,7 @@
  {
   "id": "ivar_georg_nilsson01",
   "name": "Ivar Georg Nilsson/Johansson (f. 1901)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29673,7 +29673,7 @@
  {
   "id": "jonmaurits_jb98",
   "name": "Jon Maurits Berggren (f. 1898, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29700,7 +29700,7 @@
  {
   "id": "hildur_jb00",
   "name": "Hildur Ingegärd Berggren (f. 1900, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29727,7 +29727,7 @@
  {
   "id": "nanny_jb02",
   "name": "Nanny Maria Berggren (f. 1902, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29754,7 +29754,7 @@
  {
   "id": "ellen_jb04",
   "name": "Ellen Elisabet Berggren (f. 1904, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29781,7 +29781,7 @@
  {
   "id": "olofgustaf_jb07",
   "name": "Olof (Elof) Gustaf Berggren (f. 1907, Brunskog), snickare",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31060,7 +31060,7 @@
  {
   "id": "z_inga_brita_ng",
   "name": "Inga-Brita Zetterlund (f. 1920)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31087,7 +31087,7 @@
  {
   "id": "z_rut_anne_maria_ng",
   "name": "Rut Anne-Maria Zetterlund (f. 1926)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -31706,7 +31706,7 @@
  {
   "id": "martin_olaus_rinberg_1899",
   "name": "Martin Olaus Rinberg (f. 1899)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31742,7 +31742,7 @@
  {
   "id": "jenny_maria_jnb_1902",
   "name": "Jenny Maria Johannesdotter (f. 1902)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31767,7 +31767,7 @@
  {
   "id": "anna_maria_jnb_1904",
   "name": "Anna Maria Johannesdotter (f. 1904)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -31792,7 +31792,7 @@
  {
   "id": "erik_johan_rinberg_1908",
   "name": "Erik Johan Rinberg (f. 1908)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -31846,7 +31846,7 @@
  {
   "id": "anna_iris_rinberg_1930",
   "name": "Anna Iris Rinberg (f. 1930)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -31871,7 +31871,7 @@
  {
   "id": "brita_inez_rinberg_1930",
   "name": "Brita Inez Rinberg (f. 1930)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -31900,13 +31900,14 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1896",
-   "place": "Brunskog"
+   "date": "1896-10-02",
+   "place": "Skog, Brunskog"
   },
   "places": [],
   "summary": "Hustru till Martin Olaus Rinberg (gift 1930), Skog.",
   "notes": [
-   "FOLKRÄKNING 1930 Skog: Olsson, Alma Karolina f. 1896 Brunskog, i Martin Rinbergs familj."
+   "FOLKRÄKNING 1930 Skog: Olsson, Alma Karolina f. 1896 Brunskog, i Martin Rinbergs familj.",
+   "SCB 1917 nr 15 anger modern som ’96 2/10’ (= 2 okt 1896), Alma Karolina Olofsdr, Skog. Tolkning av bråkformen (dag/månad) något osäker."
   ],
   "sources": [
    {
@@ -31921,17 +31922,18 @@
  {
   "id": "elsa_ingeborg_olsson_1917",
   "name": "Elsa Ingeborg (f. 1917)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1917",
+   "date": "1917-04-05",
    "place": "Brunskog"
   },
   "places": [],
   "summary": "Dotter (troligen till Alma Karolina Olsson, före giftet 1930) i Martin Rinbergs hushåll på Skog 1930.",
   "notes": [
-   "FOLKRÄKNING 1930 Skog: Elsa Ingeborg f. 1917 Brunskog utan familjeställning i hushållet Martin Rinberg/Alma Olsson."
+   "FOLKRÄKNING 1930 Skog: Elsa Ingeborg f. 1917 Brunskog utan familjeställning i hushållet Martin Rinberg/Alma Olsson.",
+   "SCB födelseutdrag Brunskog 1917 nr 15 (A0031328_00338): Elsa Ingeborg, oä., f. 5 april 1917; moder Alma Karolina Olofsdr, Skog; fader ej angiven."
   ],
   "sources": [
    {
@@ -32143,7 +32145,7 @@
  {
   "id": "gerda_jj_1897",
   "name": "Gerda Johansdotter (f. 1897)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32684,7 +32686,7 @@
  {
   "id": "anna_hildur_oa_1901",
   "name": "Anna Hildur Olofsdotter (f. 1901)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32715,7 +32717,7 @@
  {
   "id": "johan_artur_oa_1903",
   "name": "Johan Artur Olofsson (f. 1903)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32746,7 +32748,7 @@
  {
   "id": "ingrid_maria_oa_1905",
   "name": "Ingrid Maria Olofsdotter (f. 1905)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32777,7 +32779,7 @@
  {
   "id": "signe_elisabet_oa_1907",
   "name": "Signe Elisabet Olofsdotter (f. 1907)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32808,7 +32810,7 @@
  {
   "id": "anders_martin_oa_1910",
   "name": "Anders Martin Olofsson (f. 1910)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32839,7 +32841,7 @@
  {
   "id": "ellen_gotilda_oa_1912",
   "name": "Ellen Götilda Olofsdotter (f. 1912)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32901,7 +32903,7 @@
  {
   "id": "johan_olof_torsander_1908",
   "name": "Johan Olof Torsander (f. 1908)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -32932,7 +32934,7 @@
  {
   "id": "signe_elisabet_torsander_1912",
   "name": "Signe Elisabet Torsander (f. 1912)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32963,7 +32965,7 @@
  {
   "id": "per_gosta_torsander_1921",
   "name": "Per Gösta Torsander (f. 1921)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33052,7 +33054,7 @@
  {
   "id": "ap5_gustav_nystrom04",
   "name": "Gustav Ragnar Nyström (f. 1904, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33139,7 +33141,7 @@
  {
   "id": "ap5_hulda_nystrom90",
   "name": "Hulda Nyström (f. 1890, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33166,7 +33168,7 @@
  {
   "id": "ap5_karlejnar_nystrom92",
   "name": "Karl Ejnar Nyström (f. 1892, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33193,7 +33195,7 @@
  {
   "id": "ap5_estermaria_nystrom94",
   "name": "Ester Maria Nyström (f. 1894, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33220,7 +33222,7 @@
  {
   "id": "ap5_annateresia_nystrom98",
   "name": "Anna Teresia Nyström (f. 1898, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33247,7 +33249,7 @@
  {
   "id": "ap5_anderssigurd_nystrom01",
   "name": "Anders Sigurd Nyström (f. 1901, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34633,7 +34635,7 @@
  {
   "id": "aq1_bror_pj92",
   "name": "Bror Gustaf Benjamin Johansson (Rensta) (f. 1892 Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34670,7 +34672,7 @@
  {
   "id": "aq1_rut_pj94",
   "name": "Rut Johansson (f. 1894 Brunskog), g. 1925 Adolf Wilhelm Nilsson",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34707,7 +34709,7 @@
  {
   "id": "aq1_elias_pj97",
   "name": "Elias Ernfrid Johansson (f. 1897 Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34932,7 +34934,7 @@
  {
   "id": "aq1_nilsjohan_n93",
   "name": "Nils Johan Nilsson (f. 1893 Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35159,7 +35161,7 @@
  {
   "id": "aq2_bengt_olof_olofsson_1928",
   "name": "Bengt Olof Olofsson (f. 1928, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": true,
   "born": {
@@ -35184,7 +35186,7 @@
  {
   "id": "aq2_betty_ingegard_olofsson_1930",
   "name": "Betty Ingegärd Olofsson (f. 1930, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -35309,7 +35311,7 @@
  {
   "id": "aq2_hulda_kristina_olsson_1891_takene",
   "name": "Hulda Kristina Olsson (f. 1891, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35334,7 +35336,7 @@
  {
   "id": "aq2_johan_edvin_olsson_1894_takene",
   "name": "Johan Edvin Olsson (f. 1894, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35359,7 +35361,7 @@
  {
   "id": "aq2_gerda_elisabet_olsson_1896_takene",
   "name": "Gerda Elisabet Olsson (f. 1896, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35384,7 +35386,7 @@
  {
   "id": "aq2_augusta_ingeborg_olsson_1899_takene",
   "name": "Augusta Ingeborg Olsson (f. 1899, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
