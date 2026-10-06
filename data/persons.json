@@ -1981,7 +1981,9 @@
    "place": "Östra Takene, Brunskog"
   },
   "died": {
-   "date": "1850"
+   "date": "1850-03-17",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 115 (1850): rad '17 | begr. 1/4 | Giftem. Nils Ersson fr Ö. Takene | Nervfeber | 29 år 10 mån 12(13) d'. Född 4/5 1820 + 29y 10m 12d = ca 16–17 mars 1850: EXAKT match. Dödsdag 16 eller 17 mars (siffran '17' läst, åldern ger 16/3). Begravd 1 april 1850. Giftem = gift man (hustru Britta Nilsdotter överlever)."
   },
   "summary": "Bonde på Östra Takene, död omkring 1850. Far till Erik Nilsson Zetterlund (f. 8/2 1843) och Johannes Zetterlund (f. 1848) enligt husförhörslängden 1846–1850.",
   "notes": [
@@ -1989,7 +1991,8 @@
    "HUSFÖRHÖRSLÄNGD 1846–1850 (Brunskog A I/23, bild 145), Ö. Takene: ”B. Nils Ersson” f. 1820 i Brunskog, markerad som död; hustru Britta Nilsdotter (antecknad som änka); barnen Nils (1841), Erik (8/2 1843), Cajsa (1846) och Johannes (11/1848).",
    "Död 1850 enligt användarträdet; hans änka Britta Nilsdotter är omgift med Olof Jansson och får barn från 1852 – stämmer.",
    "A I/23 bild 145: Nils Ersson f. ”4/5 20” Brunskog (”Dod 50”), Britta Nilsdotter f. ”?/? 20” ibm.",
-   "LYSNING Brunskog 1840 (E I/3 bild 80): ”Dräng Nils Ersson fr. Ö. Takene – Pig. Britta Nilsd. densammastädes” båda 20 år. Bekräftar att hustrun Britta Nilsdotter bodde på Ö. Takene vid giftermålet (sonen Nils f. 21/2 1841)."
+   "LYSNING Brunskog 1840 (E I/3 bild 80): ”Dräng Nils Ersson fr. Ö. Takene – Pig. Britta Nilsd. densammastädes” båda 20 år. Bekräftar att hustrun Britta Nilsdotter bodde på Ö. Takene vid giftermålet (sonen Nils f. 21/2 1841).",
+   "DÖDBOK 1850 (bild 115): ”17 | 1/4 | Giftem. Nils Ersson fr Ö. Takene | Nervfeber | 29 . 10 . 12”. Bekräftar f. 4/5 1820 (29y 10m 12d före 16/3 1850) och död i nervfeber (tyfus) mars 1850 – tidigare 'död ca 1850' preciserad."
   ],
   "sources": [
    {
@@ -2007,6 +2010,10 @@
    {
     "label": "Riksarkivet, Brunskog lysnings- och vigselbok E I/3 (1840), bild 80, s. 128, nr 13: ”Dräng Nils Ersson fr. Ö. Takene (20) / Pig. Britta Nilsd. densammastädes (20)”, vigsel antecknad '…/12 41' (svårläst)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00080"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1850), bild 115: 17 mars(?), begr. 1/4, Giftem. Nils Ersson fr Ö. Takene, Nervfeber, 29 år 10 mån 12 d",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
    }
   ],
   "search": [
@@ -3819,7 +3826,9 @@
    "date": "1859-01-23"
   },
   "died": {
-   "date": "1859-09-06"
+   "date": "1859-02-06",
+   "place": "Ö. Takene, Brunskog",
+   "note": "KORRIGERING: Dödbok F I/2 bild 131 (1859, vänstersida, nr 8): 'Febr. 6 | begr. 20 | O. Takene | 129 | B. Olof Elofssons dtr Maja Kaisa | 14 dagar | barn'. Född 23/1 1859 + 14 dagar = 6/2 1859 (stämmer). Tidigare registrerat dödsdatum 1859-09-06 kan vara feltolkning (månad 9 vs 2); ingen post 'Maja Kaisa' i sept 1859 (bild 132) funnen."
   },
   "places": [
    "Lycka"
@@ -3829,11 +3838,18 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 140909",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/140909"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1859), bild 131, nr 8: Febr. 6, begr. 20, O. Takene, B. Olof Elofssons dtr Maja Kaisa, 14 dagar, barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00131"
    }
   ],
   "search": [
    "Maja KAJSA",
    "Maja Kajsa"
+  ],
+  "notes": [
+   "DÖDBOK 1859 (bild 131, nr 8): ”8 | Febr. | 6 | 20 | O. Takene | 129 | B. Olof Elofssons dtr Maja Kaisa | – | 14 | barn”. 14 dagar gammalt → bekräftar f. 23/1 1859. Död 6/2 1859, begr. 20/2."
   ]
  },
  {
@@ -4767,6 +4783,14 @@
    {
     "label": "Riksarkivet, Brunskog dödbok F I/1 (1800), bild 73: Per Elofsson gift 1767 19/10 med Kari Elofsd. fr … i Ny[Eds?] sochn",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1823), bild 80, högersida: Jan 14, Enk. Karin Elofsdotter, Ö. Takene, ålderd, 88",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00080"
+   },
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783–1809), bild 73, begrafne 1800 14 april: Per Elofsson från Toltan f. 1728 14/1, 'gift 1767 19/10 med fig. Kari Elofsd. fr … i Ny… sochn' (ortsordet svårläst)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00073"
    }
   ],
   "search": [
@@ -4775,8 +4799,16 @@
   "notes": [
    "HUSFÖRHÖRSLÄNGD 1782–1789 (bild 201): ”H. Kari Elofsdotter 1735 Åmot”. Hennes far bör alltså vara en Elof på Åmot. Dopet finns inte i födelseboken 1735 nr 1–41 – årtalet kan vara ungefärligt (sök 1733–1737).",
    "VIGSELBOK E I/2 bild 17, 1767 nr 4: ”Octob. 9(?): 4. Drängen Per Elofsson ifrån Toltan och pigan Kari Elofsdotter ifrån Åmot … (ej fått …, men tjänande i Toltan)” – sista delen svårläst.",
-   "OMGÅNG 8 (agent W4): Dödboken 1800 (F I/1 bild 73) anger att Kari kom från [?] i ”Ny…” (troligen Nyeds socken) – vigseln E I/2 bild 17 anger ”ifrån Åmot”, datum 19 oktober 1767. Åmot i Brunskog har ingen Elof med hustru (A I/1 b.159); Nyeds dopbok C/3 (C0038559) bild 80–86, 89–90 läst utan träff."
-  ]
+   "OMGÅNG 8 (agent W4): Dödboken 1800 (F I/1 bild 73) anger att Kari kom från [?] i ”Ny…” (troligen Nyeds socken) – vigseln E I/2 bild 17 anger ”ifrån Åmot”, datum 19 oktober 1767. Åmot i Brunskog har ingen Elof med hustru (A I/1 b.159); Nyeds dopbok C/3 (C0038559) bild 80–86, 89–90 läst utan träff.",
+   "DÖDBOK 1823 (bild 80): ”Jan 14 | 26 | Enk. Karin Elofsdotter | Ö. Takene | ålderd | 88” (föregående rad: ”Jan 19 | 2/2 | Enk. Karen Bryntesdotter | Ö. Tortan | ålderd | 84”). Strong – kontrollera mot husförhör A I/13–A I/14 (Ö. Takene hos Elof Persson, 1815–22) om 'Mor/Svärmor Karin Elofsdotter 1735' finns.",
+   "DÖD: Brunskog F I/1 (1783–1809), bild 73 (Begrafne 1800, 14 april, Per Elofsson från Toltan): 'född 1728 14/1 af dm. Elof Nilsson och Marit Isaksdr. Gift 1767 19/10 med fig. Kari Elofsd. fr[ån] Persjön(?)/Lersjön(?) i Ny[…] sochn' – ordet före 'i Ny' ser ut som 'Persjon'/'Lerjon' (osäkert); 'Ny…' avkortat, kan vara Ny eller Nyed. Texten ger alltså en by/torp-liknande ortsangivelse + socken, inte 'Åmot' – möjligt att Åmot och 'Per/Lersjön' är olika ställen (konflikt/osäkert).",
+   "NYED C/3 1735 (bild 79, 87, 88 lästa): inget barn Kari/Karin med fader Elof eller gård Åmot/Ämot funnet i dessa bilder."
+  ],
+  "died": {
+   "date": "1823-01-14",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 80 (högersida, 1823): rad 'Jan 14 | begr. 26 | Enk. Karin Elofsdotter | Ö. Takene | ålderd | 88'. Åldern 88 ger f. 1734/35 = stämmer med Kari Elofsdotter f. 1735; änka sedan Per Elofsson † 14/4 1800. Boendet Ö. Takene (ej Toltan) – sannolikt hos sonen Elof Persson (f. 1776) som bodde på Ö. Takene. Identifiering STRONG, inte verified (enda 'Enk. Karin Elofsdotter' i 1823 men ingen föräldrar/man angiven)."
+  }
  },
  {
   "id": "brittamajsa_j",
@@ -5354,6 +5386,10 @@
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783-1809), bild 66: 1798, dec s. 105 nr 43: ”Sliden Kari född i Ö. Takene 1786 14/8 af Wäl. S. Olof Olsen och h. Ingjerd Nilsd. Afled den 6:de [dec.] uti Bröstsjuka 12⅓ år”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00066"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1835), bild 95, högersida (sid 149): 20 jan, begr. 2/2, Bond. Gifte mannen Äldre Olof Olsson, Ö. Takene, 78",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00095"
    }
   ],
   "search": [
@@ -5362,8 +5398,14 @@
   "notes": [
    "HUSFÖRHÖRSLÄNGD A I/5 (1782–89) bild 75: ”S. Olof Olsson 1757 ö. Takene” med hustrun ”H. Ingjerd Nilsd. 1761 Skog” i föräldrarnas hushåll (nr 10). Identiteten med ”S. Olof Olsson” i födelseboken 1790 bygger på samma hustru (Ingierd, f. 1761), gård och beteckningen S.",
    "DOPBOK C I/2 bild 101, 1757 nr 1: ”d 18 Januarii … Olof Olofsson och hustru Britta Christophers dotter i Östra Takene son Olof. Faddrar: Nils Eriksson, Nils Olofsson i Brunskog; hust. Anna Greta Kolander, Marit Olofsdotter i Östra Takene.” Stämmer med föräldrar och år i A I/5 – dopdag 18 jan 1757 (status strong, ej uttryckligt knuten till husförhöret).",
-   "OBS: Hans (hustru Ingierds syster) Kari Nilsdotters man var en ANNAN Olof Olsson i Ö. Takene (f. 1749, d. 16/7 1798, son till Olof Persson och Kjersti). Dödboken skiljer dem; se flagga ’Tre Olof Olsson i Ö. Takene’."
-  ]
+   "OBS: Hans (hustru Ingierds syster) Kari Nilsdotters man var en ANNAN Olof Olsson i Ö. Takene (f. 1749, d. 16/7 1798, son till Olof Persson och Kjersti). Dödboken skiljer dem; se flagga ’Tre Olof Olsson i Ö. Takene’.",
+   "DÖDBOK 1835 (tabell, bild 95, sid 149, rad direkt efter 'Flickebarnet Anna Nilsdotter, Edane' 10/1): ”Bond: Gifte mannen Äldre Olof Olsson | Ö. Takene | 78” (död 20 jan, begr. 2 feb 1835). Nästa rad: ”Jon Andersson, Skog, 54”. Kolla: Olof Olsson (1731) † 1802, Olof Olsson (1749) † 1798 → Äldre Olof Olsson Ö. Takene 1835 kan bara vara Olof f. 1757 (maken till Ingierd Nilsdotter f. 1761) eller en annan okänd Olof Olsson b. ca 1757; en yngre Olof Olsson (ev. sonen) finns på Takene. Hustrun Ingierd Nilsdotter (f. 1761) ej funnen död före 1835 i F I/2 bild 10–94 (obs: ej alla rader i 1820-tal tabeller fullständigt läst)."
+  ],
+  "died": {
+   "date": "1835-01-20",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 95 (högersida sid 149, 1835): rad '20 | begr. 2/2 | Bond. Gifte mannen Äldre Olof Olsson | Ö. Takene | 78'. 'Äldre' = skiljer från yngre Olof Olsson; ålder 78 vs f. 1757 (77 år) – STRONG, ej verified (inga föräldrar/hustru i tabellen)."
+  }
  },
  {
   "id": "ingierd_nilsd61",
@@ -5395,6 +5437,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/1 (1760–63), bild 279 (s. 240), Skog nr 2: Nils Jonsson 1722, hustru Marit Jönsd. 1721 och barn",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00279"
+   },
+   {
+    "label": "F I/2 bild 115 (dec 1850): Enkan Ingjerd Nilsdr fr Ö. Takene, ålderd., 80 år 5 mån (lead)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
    }
   ],
   "search": [
@@ -5403,7 +5449,8 @@
   "notes": [
    "DOPBOK C I/2 bild 115: ”Skog Ingierd [dag] 20 – Nils Jonsson, Marit Jönsd[otter]”; faddrar (nederst, ofullständigt avläsbara): ”Jöran Hansson … Gullnäbyn, Christopher Hansson ibm, G. Brita Olsd ibm, G. Ingrid Olsd[otter] ibm” – kan höra till föregående post.",
    "HUSFÖRHÖR A I/1 bild 279 (Skog nr 2): ”D. Ingierd Nilsd. 1761” i Nils Jonssons hushåll; syskon Per 1746, Jon 1749, Kari 1751, Anna 1752, Marit 1756, Britta 1757/58, Nils 1760.",
-   "GRANSKNING: dagen i dopet 1761 läses ”20” men kan vara ”26”; månaden Nov följer av kolumnen. Husförhöret anger 20/11 1761."
+   "GRANSKNING: dagen i dopet 1761 läses ”20” men kan vara ”26”; månaden Nov följer av kolumnen. Husförhöret anger 20/11 1761.",
+   "LEAD (ej verifierad) för död: Dödbok F I/2 1850 bild 115 (längst ned i dec): ”27 | 26/12 | Enkan Ingjerd Nilsdr fr Ö. Takene | Ålderd. | 80 år 5 mån” (död 27 dec 1850, begr. 26(?)/12). Hemvist Ö. Takene stämmer, änka stämmer (maken Olof Olsson † 20/1 1835), men åldern 80 y 5 m ⇒ f. ca juli 1770 mot dop 20/11 1761 (89 år). Olika ålder kan bero på okunnig ålder hos gamla, men 9 år är mycket – kan även vara annan Ingerd Nilsdotter, ev. svärdotter. Behöver husförhör A I/23 (1846–50, Ö. Takene) för att verifiera."
   ]
  },
  {
@@ -5436,6 +5483,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/8 (1795–1799), bild 370 (fol. 347), Smådal: Daniel Nilsen 18/9 1757 Smådal, f. Anna Jons. 9/10 1767 Sandvik, d. Ingerd 9/6 1790, d. Maria 8/12 1793, s. Måns 14/6 1797 och s. Anders (tvill.) 1797",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00370"
+   },
+   {
+    "label": "F I/2 bild 94: Hustr. Anna Jonsdotter, Smådal, 66 år 7 d, d. 16/10 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00094"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1849), bild 114, vänstersida: 15 (maj), begr. 28, Enkem. Daniel Nilsson fr Smådahl, ålderdom, 91 år 8 mån",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00114"
    }
   ],
   "search": [
@@ -5446,8 +5501,15 @@
    "KANDIDATFÖRÄLDRAR (obevisat): Daniel Nilsson f. 18/9 1757 i Smådal, son till Nils Andersson (f. 1726) och Kjerstin Danielsdotter (f. 1725) – C I/2 bild 102, A I/2 bild 259 (sida 247). Åldersmarkering vid dopet 1793 läses som 64 (=1764), vilket strider mot 1757; kontrollera husförhör A I/8 (1795–99) Smådal.",
    "ÅLDER 1793 LÖST: i dopet 1793 (C I/3 bild 46, nr 61) står talet ”64” under föregående rads mor (Brita Olsd.), inte vid Daniel; Anna har sitt eget ”67”. Daniel f. 1757 ej 1764.",
    "HUSFÖRHÖR A I/8 bild 370 (fol. 347), Smådal: ”Daniel Nilsen” 18/9 1757 Smådal; ”f. Anna Jons.” 9/10 1767 Sandvik; ”d. Ingerd” 9/6 1790; ”d. Maria” 8/12 1793; ”s. Måns, s. Anders (Twill.)” 1797. Hushållet står strax under Nils Andersson 27/11 1726 + Kjersti Daniels 6/3 1725 (Berga) + dotter Kjersti Nilsd 6/1 1753.",
-   "GRANSKNING: en granskare läste ett tvåsiffrigt tal ”64” vid dopet 1793 som födelseår 1764; agent I läste husförhör A I/8 bild 370 som Daniel f. 18/9 1757 med ”64” tillhörande föregående rad (mor Brita Olsd.). Husförhöret som primärt bevis behålls; kontrollera bild 370 och C I/3 bild 46 nr 61 om tvivel."
-  ]
+   "GRANSKNING: en granskare läste ett tvåsiffrigt tal ”64” vid dopet 1793 som födelseår 1764; agent I läste husförhör A I/8 bild 370 som Daniel f. 18/9 1757 med ”64” tillhörande föregående rad (mor Brita Olsd.). Husförhöret som primärt bevis behålls; kontrollera bild 370 och C I/3 bild 46 nr 61 om tvivel.",
+   "Levde 16/10 1833: hustrun Anna Jonsdotter († 16/10 1833) kallas 'Hustr.' (ej änka) i dödboken F I/2 bild 94. Död efter detta datum – ej funnen i F I/2 bild 94–99 (1833–1837). OBS: bild 94 (sid 145–147) 4/3 1833: 'Afsked. Fältj.(?) Daniel Nilsson, Smådal, 58 år' – annan Daniel Nilsson (f. ca 1775), troligen soldat; ej samma person (ålder 58 vs 75).",
+   "DÖDBOK 1849 (bild 114): ”Maj: 15 | 28 | Enkem. Daniel Nilsson fr Smådahl | Ålderdom | 91 | 8”. Föregående rader: 'Gossb. Olof Andersson fr Mölnerud'/'Dr. Nils Andersson'… Bekräftar födelseår 1757 (18/9 1757 → 91 år 8 mån i maj 1849). Dödsmånad bekräftad av radordning (maj, före 'Juni 7')."
+  ],
+  "died": {
+   "date": "1849-05-15",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 114 (1849, vänstersida): rad '15 | begr. 28 | Enkem. Daniel Nilsson fr Smådahl | Ålderdom | 91 år 8 mån'. Född 18/9 1757 + 91 år 8 mån = maj 1849: stämmer. Enkeman efter Anna Jonsdotter († 16/10 1833). Begravd 28 maj 1849."
+  }
  },
  {
   "id": "anna_jonsd67",
@@ -5474,6 +5536,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/8 (1795–1799), bild 370 (fol. 347), Smådal: Daniel Nilsen 18/9 1757 Smådal, f. Anna Jons. 9/10 1767 Sandvik, d. Ingerd 9/6 1790, d. Maria 8/12 1793, s. Måns 14/6 1797 och s. Anders (tvill.) 1797",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00370"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1833), bild 94, högersida (sid 147): Oct 16, begr. 27, Hustr. Anna Jonsdotter, Smådal, 66 år 0 mån 7 d",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00094"
    }
   ],
   "search": [
@@ -5481,8 +5547,14 @@
   ],
   "notes": [
    "DOP C I/2 bild 132 nr 41: 9 okt 1767, ”Sandwiken, Anna”, föräldrar Jon Jonsson och Hustru Gunild(?) Andersd.",
-   "HUSFÖRHÖR A I/8 bild 370: ”f. Anna Jons.” 9/10 1767, från Sandvik."
-  ]
+   "HUSFÖRHÖR A I/8 bild 370: ”f. Anna Jons.” 9/10 1767, från Sandvik.",
+   "DÖDBOK 1833 (bild 94): ”Oct: 16 | 27 | Hustr. Anna Jonsdotter | Smådal | do. | 66 – 7” – ålder 66 år 7 dagar = född 9/10 1767, vilket stämmer exakt med Anna Jonsdotter (f. 9/10 1767 Sandviken), hustru till Daniel Nilsson i Smådal. Daniel Nilsson själv (f. 1757) lever alltså 16/10 1833 (hustrun benämns 'Hustr.', ej 'Enkan')."
+  ],
+  "died": {
+   "date": "1833-10-16",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 94 (högersida sid 147, 1833): rad 'Oct 16 | begr. 27 | Hustr. Anna Jonsdotter | Smådal | 66 år – mån – 7 dagar'. Född 9/10 1767 (A I/8) + 66 år 7 dagar = 16/10 1833: EXAKT match."
+  }
  },
  {
   "id": "anders_dn",
@@ -6519,6 +6591,10 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "F I/2 bild 11 och 34",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00034"
    }
   ],
   "search": [
@@ -6536,7 +6612,8 @@
    "SÖKT I C I/1 bild 26–65 (1691–1704): ingen födelse av en Christopher Pål-/Persson hittades. Närmaste: 2 juli 1700 Pål Börsson/Persson(?) barn i Tolten, bild 55 (barnnamn osäkert) – se id pal_persson_toltan1700 (lead). Christopher i Smådal 2 mars 1700 (bild 53, far Erik) är en annan person.",
    "DOPBOK C I/1 bild 80 (s. 137), 1710: ”Dito, Pehl ox h. Gertrud barn i Toltan (: Christopher :) född af ehrlige föräld. Test. Nils i Swartaun och Erik Knutsson i Takene, Mäss Pehrsson i Åsen … h. Dordi i Toltan, h. Karin i …” Barnets namn står understruket/genomstruket (tolkning: Christopher). Fadern är ”Pehl” (= Påhl), vilket stöder patronymet Påhlsson. Marginal ”Begr. 777 d 23” (ev. d. 1777).",
    "MYHERITAGE (användarträd, lead) – sammanslagen: ”Okänd Pålsson (f. ca 1710)”, f. 1710? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
-   "GRANSKNING: namnet Christopher är överstruket i dopet 1710, vilket är sidans konvention; Åsen-faddern Mäss Pehrsson stöder kopplingen. Behåll strong."
+   "GRANSKNING: namnet Christopher är överstruket i dopet 1710, vilket är sidans konvention; Åsen-faddern Mäss Pehrsson stöder kopplingen. Behåll strong.",
+   "BARN (via dödböcker F I/2): Brita (1730), Nils (f. 9/12 1731, † 7/11 1812, bild 34), Mats (f. 8/7 1733, † 21/3 1810, bild 11) – alla med modern Ingierd Mattsdotter – samt Olof (f. 1744, † nov 1812, bild 34) med modern ’Karin Olsdotter’. Död för Christopher själv ej funnen i F I/2 (1809–) – söks i F I/1 (1783–1809)."
   ]
  },
  {
@@ -6582,6 +6659,10 @@
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 62: d. 1 Juny Matts barn i Åsen [Ingri], faddrar Nils i Thoy, And. Jönsson i Krona, Nils i Åsen; kvinnor Kirsti och Börit i Tolten, Marit i Thoy",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00062"
+   },
+   {
+    "label": "F I/2 bild 11 nr 15 och bild 34 nr 43",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00011"
    }
   ],
   "search": [
@@ -6592,7 +6673,8 @@
    "MYHERITAGE-MATCH (candidate): ”Ingjerd Mattesdotter” 1703–1735 (g.m. ”Okänd Pålsson”), mor till Britta Christophersson 1730 – MH anger död 1735; vår Ingrid föder barn dec 1731.",
    "KANDIDAT FÖDELSE (R1): dopbok C I/1 bild 62, 1703: ”d. 1. Juny Matts barn i Åsen [Ingri.] manff. Nils i Thoy and. Jönss i Krona D. Nils i Åsen. Qwinf. H. Kirsti oc Börit i Tolten, H. Marit i Thoy.” Matchar namn + plats (Åsen), men inte bevisat. Föräldrar kandidat: Matts i Åsen och (1701) hustru Ingrid (bild 56). Se id ingri_mattsd_asen03.",
    "MYHERITAGE (användarträd, lead) – sammanslagen: ”Ingjerd Mattesdotter (f. ca 1703)”, f. 1703? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
-   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Ingri (Mattsdotter?) född 1 juni 1703, Åsen”, f. 1703-06-01 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Ingri (Mattsdotter?) född 1 juni 1703, Åsen”, f. 1703-06-01 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
+   "Moder till Nils (f. 9/12 1731, † 7/11 1812, F I/2 bild 34 nr 43) och Mats (f. 8/7 1733, † 21/3 1810, F I/2 bild 11 nr 15), båda Åsen: ’Ingierd Mattsdotter’ = Ingrid [Mattsdotter] i Åsen bekräftas av dödböckerna. Egen död ej funnen (troligen före 1783)."
   ]
  },
  {
@@ -6808,7 +6890,8 @@
   "summary": "Dotter till Nils Jonsson och Marit Jonsdotter på Skog (f. 1752). Troligen den ’Pig. Anna Nilsd. fr. Skog’ som gifte sig 26/12 1775 med Per Olofsson (f. 20/3 1747 Ö. Takene, d. 29/9 1806 i Bäckelid); änka 1806 med 1 son och 4 döttrar. Identiteten är strong (en enda känd Anna Nilsd. från Skog i rätt ålder), ej verified.",
   "notes": [
    "HUSFÖRHÖRSLÄNGD A I/1 bild 279 (Skog nr 2): barn i Nils Jonssons hushåll, f. 1752.",
-   "DÖDBOK F I/1 1806 bild 103 (s. 177) nr 33: ”D.M. Per Olofsson i Bäckeli, född i Ö. Takene 1747 ²⁰⁄₃. Par. H. Olof Persson o. H. Kjersti Persd., redan aflidne. Gift 1775 ²⁶⁄₁₂ med Pig. Anna Nilsd. fr. Skog, efterlefvande med 1 son af 4 döttrar. Sjuknade d. 25 Sept. och afled d. 29 ejusdem af förkylningssjukdom, efter en lefnad af 59 år 6 m. 9 d.” (begr. 18 okt 1806). Annas död ej funnen."
+   "DÖDBOK F I/1 1806 bild 103 (s. 177) nr 33: ”D.M. Per Olofsson i Bäckeli, född i Ö. Takene 1747 ²⁰⁄₃. Par. H. Olof Persson o. H. Kjersti Persd., redan aflidne. Gift 1775 ²⁶⁄₁₂ med Pig. Anna Nilsd. fr. Skog, efterlefvande med 1 son af 4 döttrar. Sjuknade d. 25 Sept. och afled d. 29 ejusdem af förkylningssjukdom, efter en lefnad af 59 år 6 m. 9 d.” (begr. 18 okt 1806). Annas död ej funnen.",
+   "DÖDBOK 1835 nov (bild 96): ”Enkan Anna Nilsdatter i Bäckelid dog den 13de 82 och 9 mån. begr. d 22.” (föregående: ”Enkan Kerstin Matsdtr i Strand dog den 11. 67 år, begr. d 22”). Matchar Anna Nilsdotter f. Skog, g. 26/12 1775 med Per Olofsson i Bäckeli († 29/9 1806, efterlefvande med 1 son och 4 döttrar). Ålder 82 år 9 mån ger födelse ca feb 1753 – 1 år senare än A I/1:s 1752 (jfr Olof Nilsson 1754 mm: annus nativitatis i husförhör avviker ofta)."
   ],
   "sources": [
    {
@@ -6818,11 +6901,20 @@
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783-1809), bild 103: 1806 s. 177 nr 33: ”D.M. Per Olofsson i Bäckeli, född i Ö. Takene 1747 20/3 … Gift 1775 26/12 med Pig. Anna Nilsd. fr. Skog, efterlefvande med 1 son af 4 döttrar”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00103"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1835), bild 96 högersida (sid 151), november: Enkan Anna Nilsdotter i Bäckelid dog 13, 82 och 9 mån., begr. 22",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00096"
    }
   ],
   "search": [
    "Anna Nilsdotter (1752)"
-  ]
+  ],
+  "died": {
+   "date": "1835-11-13",
+   "place": "Bäckelid, Brunskog",
+   "note": "Dödbok F I/2 bild 96 (sid 151, 1835, löpande text): 'Enkan Anna Nilsdotter i Bäckelid dog den 13de [nov.] 82 och 9 mån. begr. d. 22'. Ålder → född ca feb 1753 (A I/1: 1752); änka efter Per Olofsson i Bäckelid (d. 29/9 1806). STRONG."
+  }
  },
  {
   "id": "marit_nilsd56",
@@ -6896,7 +6988,8 @@
   "notes": [
    "DOPBOK C I/2 bild 103, 1758 nr 4: ”d 26 Jan. Nils Jonsson och hust. Marit Jonsd. i Skog dotter Britta. Fadder H. Nils Nilsson [og] i Skog; hustr. Britta Clavesdotter, Elin Olofsd. i Skog”.",
    "HUSFÖRHÖR A I/8 bild 379: ”f. Brita Nilsd.” 26/1 1758 Skog, hustru till Olof Nilsson. A I/17 bild 100: ”Sv:mor Enk. Britta Nilsdotter 26/1 1758 Loco” hos Måns Danielsson (svärmor).",
-   "Identiteten dop 1758 = Britta 1757 i A I/1 = Brita i A I/8 vilar på samma dag/månad (26/1), samma by och föräldrarnas namn; A I/1 anger året 1757."
+   "Identiteten dop 1758 = Britta 1757 i A I/1 = Brita i A I/8 vilar på samma dag/månad (26/1), samma by och föräldrarnas namn; A I/1 anger året 1757.",
+   "DÖDBOK 1850 (bild 115): ”Enkan Britta Nilsdr fr Skog | Ålderd. | 92 . 2” – dödsdag text '2? | begr. 14/4' (mars). Ålder 92y 2m ⇒ f. jan 1758, vilket stämmer med dop 26/1 1758. Förefaller vara Olof Nilsson (f. 1754) hustru Britta."
   ],
   "sources": [
    {
@@ -6914,11 +7007,20 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–35), bild 100, Skog: Måns Danielsson och Marit Olsdotter 1798; ”Sv:mor Enk. Britta Nilsdotter 26/1 1758 Loco”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1850), bild 115 (rad strax före 'Giftem. Jon Ersson fr Vikene 81'): Enkan Britta Nilsdr fr Skog, ålderd., 92 år 2 mån, begr. 14/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00115"
    }
   ],
   "search": [
    "Britta Nilsdotter (1758)"
-  ]
+  ],
+  "died": {
+   "date": "1850-03",
+   "place": "Skog, Brunskog",
+   "note": "Dödbok F I/2 bild 115 (1850): rad 'Enkan Britta Nilsdr fr Skog | Ålderd | 92 år 2 mån' (dödsdag svårläst ~24–29/3, begr. 14/4 1850). Född 26/1 1758 + 92 år 2 mån = ca 26 mars 1850: stämmer. Änka efter Olof Nilsson († 18/3 1831). STRONG (inga föräldrar i tabellen; unik 'Enkan Britta Nilsdr fr Skog' 92 år)."
+  }
  },
  {
   "id": "olof_nilsson54",
@@ -6939,7 +7041,8 @@
   "notes": [
    "HUSFÖRHÖR A I/8 bild 379 (Skog ¼ skatte): ”Olof Nilsson [7/7?] 54 Toltan”, ”H. Brita Nilsd. 26/1 58 Skog”, S. Per 1785, S. Nils 1795 (†1796), D. Marit 1798.",
    "DOPBOK C I/3 bild 58 nr 4: Olof Nilsson och Brita Nilsd. föräldrar till Marit, Skog, 17 jan 1798.",
-   "DOPBOK C I/2 bild 90 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Dopdag 7/7 bekräftar A I/8."
+   "DOPBOK C I/2 bild 90 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Dopdag 7/7 bekräftar A I/8.",
+   "DÖDBOK 1831 (tabell, bild 91 sid 141): ”Mars 18 | 4/4 | Gifte Bonden Olof Nilson | Skog | ålderdom | 77” – raden direkt före ”Ogifte Inspect. J.R. Blachet, Brunsberg, 24 år 6 mån” (20 mars). Gift man (hustrun Britta Nilsdotter överlever → änka 1831 enligt A I/17). Tabellformat 1821–: Månad | dödsdag | begr.dag (d/m) | Namn | By | Dödsorsak | år | mån | dag."
   ],
   "sources": [
    {
@@ -6953,11 +7056,20 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2, bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00090"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1831), bild 91, högersida: Mars 18, Gifte Bonden Olof Nilson, Skog, ålderdom, 77",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00091"
    }
   ],
   "search": [
    "Olof Nilsson (1754)"
-  ]
+  ],
+  "died": {
+   "date": "1831-03-18",
+   "place": "Skog, Brunskog",
+   "note": "Dödbok F I/2 bild 91 (högersida, sid 141, rubrik 'Döde', 1831): rad 'Mars 18 | begr. 4/4 | Gifte Bonden Olof Nilson | Skog | ålderdom | 77'. Åldern 77 (= f. 1754 → 76 år 8 mån; ålder avrundad uppåt). STRONG (ingen födelsedag/föräldrar i tabellen; passar att Britta är änka 1831 i A I/17)."
+  }
  },
  {
   "id": "per_olofsson85",
@@ -7528,7 +7640,7 @@
  {
   "id": "nils_andersson_smadal",
   "name": "Nils Andersson (Smådal, f. 1726)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -7542,7 +7654,9 @@
   "notes": [
    "DOPBOK 1757 (C I/2 bild 102, nr 25): ”… och Hustru Kjerstin Danielsd. i Smådal, Son Daniel” (faddrar Olof Danielsson i Byn m.fl.). HUSFÖRHÖR A I/2 sida 247: Nils Andersson 1726 m. familj.",
    "Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad. Konflikt: åldersangivelsen vid 1793 års dop läses som 64 (=1764), inte 57; A I/8 (1795–99) ej kontrollerad.",
-   "A I/8 bild 370: ”Nils Andersen” 27/11 1726 Smådal, hustru ”Kjersti Daniels.” 6/3 1725 från Berga, dotter ”Kjersti Nilsd.” 6/1 1753; Daniel Nilsson 18/9 1757 (samma dag som dopet 1757 med föräldrar Nils och Kjerstin Danielsd.)."
+   "A I/8 bild 370: ”Nils Andersen” 27/11 1726 Smådal, hustru ”Kjersti Daniels.” 6/3 1725 från Berga, dotter ”Kjersti Nilsd.” 6/1 1753; Daniel Nilsson 18/9 1757 (samma dag som dopet 1757 med föräldrar Nils och Kjerstin Danielsd.).",
+   "Levde 3 sept 1813 (efterlefver hustrun Kjersti Danielsdotter, F I/2 bild 43 nr 20).",
+   "DÖDBOK 1821 (bild 79, kolumner Månad | Dödsdag | Begr.dag | Namn | By | Dödsorsak | år): ”nov: 22 | 2/12 | Enkem. Nils Andersson | Smådal | ålderd | 96”. Enkeman efter Kjerstin Danielsdotter († 3/9 1813). Tabellformat 1821–: första datumkolumn = dödsdag, andra = begravningsdag (bråk d/m)."
   ],
   "sources": [
    {
@@ -7556,11 +7670,24 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/8 (1795–1799), bild 370 (fol. 347), Smådal: Daniel Nilsen 18/9 1757 Smådal, f. Anna Jons. 9/10 1767 Sandvik, d. Ingerd 9/6 1790, d. Maria 8/12 1793, s. Måns 14/6 1797 och s. Anders (tvill.) 1797",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00370"
+   },
+   {
+    "label": "F I/2 bild 43 nr 20",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00043"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1821), bild 79, vänstersida: Nov 22, Enkem. Nils Andersson, Smådal, ålderd, 96",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00079"
    }
   ],
   "search": [
    "Nils Andersson (Smådal, f. 1726)"
-  ]
+  ],
+  "died": {
+   "date": "1821-11-22",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 79 (vänstersida, slutet av 1821): rad 'Nov 22 | begr. 2/12 | Enkem. Nils Andersson | Smådal | ålderd | 96 år'. Åldern 96 är sannolikt överdriven: A I/8 anger född 27/11 1726 (= knappt 95 vid 22/11 1821). Årtalet 1821 härlett från att nästa sida har rubriken 'Döde och begrafne ... 1822'."
+  }
  },
  {
   "id": "kjerstin_danielsd25",
@@ -7570,7 +7697,8 @@
   "living": false,
   "born": {
    "date": "1725-03-06",
-   "place": "Berga (enl. A I/8 ”från Berga”)"
+   "place": "Berga",
+   "note": "Bekräftat av dödbok F I/2 bild 43: född i Berga 6 Martii 1725"
   },
   "places": [
    "Smådal, Brunskog"
@@ -7578,7 +7706,8 @@
   "summary": "Hustru till Nils Andersson i Smådal (f. 1726); mor till Daniel Nilsson f. 1757 m.fl.",
   "notes": [
    "HUSFÖRHÖR A I/2 sida 247: ”Kjerstin Daniels[dotter]” 1725. DOPBOK 1757: ”Hustru Kjerstin Danielsd. i Smådal”. Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad.",
-   "A I/8 bild 370: ”Kjersti Daniels.” 6/3 1725, flyttad från Berga."
+   "A I/8 bild 370: ”Kjersti Daniels.” 6/3 1725, flyttad från Berga.",
+   "DÖDBOK 1813 (bild 43 nr 20, marg. '12 | 20'): ”Hustrun Kjersti Daniels dotter från Smådal var född i Berga d. 6 Martii 1725 af Klockaren Daniel Svensson och Hustru Görel Knuts Dotter i Berga. Gift 1750 med Drengen Nils Andersson från Smådal, som efterlefver henne. Hon har med honom haft 17 barn,” (bild 44 överst) ”[...] 5 Döttrar och 2:ne Söner, af hvilka en son år med döden afgången. Uti 24 års tid har hon varit blind. Den 13 Januarii detta år blef hon sängliggande och afled d. 3 September af ålderdoms-bräckligheter efter en lefnad af 88 år och 6 månader.” OBS: 17 barn, varav 5 döttrar + 2 söner (levande?) vid hennes död; Nils Andersson (f. 1726) levde 3/9 1813. Föräldrar: klockaren Daniel Svensson + Görel Knutsdotter i Berga (nya personer)."
   ],
   "sources": [
    {
@@ -7592,11 +7721,24 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/8 (1795–1799), bild 370 (fol. 347), Smådal: Daniel Nilsen 18/9 1757 Smådal, f. Anna Jons. 9/10 1767 Sandvik, d. Ingerd 9/6 1790, d. Maria 8/12 1793, s. Måns 14/6 1797 och s. Anders (tvill.) 1797",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00370"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1813), bild 43 nr 20 (forts. bild 44): Hustrun Kjersti Danielsdotter från Smådal, f. Berga 6/3 1725, d. 3/9 1813",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00043"
+   },
+   {
+    "label": "fortsättning bild 44",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00044"
    }
   ],
   "search": [
    "Kjerstin Danielsdotter (1725)"
-  ]
+  ],
+  "died": {
+   "date": "1813-09-03",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 43 (nr 20, begr. 12 sept 1813) + bild 44 överst: afled 3 sept 1813 av ålderdomsbräcklighet, 88 år 6 mån (stämmer med f. 6 mars 1725). Burial 12/9."
+  }
  },
  {
   "id": "britta_nd50",
@@ -7612,17 +7754,27 @@
   ],
   "summary": "Barn till Nils Andersson och Kjerstin Danielsdotter i Smådal (kandidat-syskon till Daniel Nilsson f. 1757).",
   "notes": [
-   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1750. Faddrar vid Måns/Anders 1797 och Maria 1793 hette ”Britta Nilsd.” – möjligen denna syster. Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad."
+   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1750. Faddrar vid Måns/Anders 1797 och Maria 1793 hette ”Britta Nilsd.” – möjligen denna syster. Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad.",
+   "DÖDBOK 1834: ”Hustrun Britta Nilsdotter | Smådahl | 83 | 1 | 11” – vilken man är ej angiven. Kandidat till dotter till Nils Andersson/Kjerstin Danielsdotter."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 259: sida 247, Smådal: ”Nils Andersson” 1726, ”Kjerstin Daniels[dotter]” 1725, Britta Nilsd. 1750, Kjersti Nilsd. 1753, Anna Nilsd. 1755 (genomstruken), ”Daniel Nilsson” 1757, Ingerd Nilsd. 1760, Karin Nilsd. 1762, [genomstruken] ”Måns Nilsson” 1766",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00259"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1834), bild 95, vänstersida: 27 (apr), begr. 8/5, Hustrun Britta Nilsdotter, Smådahl, 83 år 1 mån 11 d",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00095"
    }
   ],
   "search": [
    "Britta Nilsdotter (1750)"
-  ]
+  ],
+  "died": {
+   "date": "1834-04-27",
+   "place": "Smådal, Brunskog",
+   "note": "KANDIDAT. Dödbok F I/2 bild 95 (1834, vänstersida): rad '27 | begr. 8/5 | Hustrun Britta Nilsdotter | Smådahl | 83 år 1 mån 11 d'. Ålder → f. ca 16 mars 1751 (A I/2: 1750). Giftermålet föräldrarna 1750 → barn 1751 rimligt. Behöver dop C I/2 (1751) för att bli verified. Dödsmånad (april) härledd av radordning (föregående rad Maj 8 = begr. 6/6)."
+  }
  },
  {
   "id": "kjersti_nd53",
@@ -7640,7 +7792,8 @@
   "summary": "Barn till Nils Andersson och Kjerstin Danielsdotter i Smådal (kandidat-syskon till Daniel Nilsson f. 1757).",
   "notes": [
    "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1753.  Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad.",
-   "A I/8 bild 370: ”d. Kjersti Nilsd.” 6/1 1753 Smådal, ogift kvar i föräldrahemmet 1795–99."
+   "A I/8 bild 370: ”d. Kjersti Nilsd.” 6/1 1753 Smådal, ogift kvar i föräldrahemmet 1795–99.",
+   "DÖDBOK 1839 (post-1838 format: Mån | dag | begr. | Hemvist. Titel Namn | dödsorsak | ålder): ”Smådal. Dufft(?) Pig. Kjerstin Nilsdr | 86 | – | 13”. Ogift syster till Daniel Nilsson (f. 1757) – 'Pig.' (ogift)."
   ],
   "sources": [
    {
@@ -7650,11 +7803,20 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/8 (1795–1799), bild 370 (fol. 347), Smådal: Daniel Nilsen 18/9 1757 Smådal, f. Anna Jons. 9/10 1767 Sandvik, d. Ingerd 9/6 1790, d. Maria 8/12 1793, s. Måns 14/6 1797 och s. Anders (tvill.) 1797",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00370"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1839), bild 102, vänstersida: 21 (jan), begr. 3/2, Smådal, Pig. Kjerstin Nilsdotter, 86 år – 13(15) d",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00102"
    }
   ],
   "search": [
    "Kjersti Nilsdotter (1753)"
-  ]
+  ],
+  "died": {
+   "date": "1839-01-21",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 102 (vänstersida, 1839): rad 'Smådal. Dufft(?) Pig. Kjerstin Nilsdotter | 21 jan | begr. 3/2 | 86 år – mån 13(15) d'. Född 6/1 1753 (Smådal) + 86 år ≈ 6/1 1839: stämmer inom några dagar. STRONG (inga föräldrar; ogift 'Pig.', Smådal, rätt ålder)."
+  }
  },
  {
   "id": "anna_nd55",
@@ -7670,12 +7832,17 @@
   ],
   "summary": "Barn till Nils Andersson och Kjerstin Danielsdotter i Smådal (kandidat-syskon till Daniel Nilsson f. 1757).",
   "notes": [
-   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1755. Genomstruken i A I/2 (död eller utflyttad före 1768). Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad."
+   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1755. Genomstruken i A I/2 (död eller utflyttad före 1768). Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad.",
+   "KANDIDAT (lead) för död: Dödbok F I/2 bild 104 (1841, högersida): ’12 | 21 | Hustru Rotehj. Anna Nilsdr fr Brunskog | 86 år 9 mån’ (död 12 nov 1841) → född ca feb 1755, vilket matchar annus nativitatis 1755 för Anna Nilsdotter (A I/2 sid 247, genomstruken). Ej bevisat – flera Anna Nilsdotter. Rotehjon = fattighjon."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 259: sida 247, Smådal: ”Nils Andersson” 1726, ”Kjerstin Daniels[dotter]” 1725, Britta Nilsd. 1750, Kjersti Nilsd. 1753, Anna Nilsd. 1755 (genomstruken), ”Daniel Nilsson” 1757, Ingerd Nilsd. 1760, Karin Nilsd. 1762, [genomstruken] ”Måns Nilsson” 1766",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00259"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1841), bild 104 högersida: 12 nov, Hustru Rotehj. Anna Nilsdr fr Brunskog, 86 år 9 mån (lead)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00104"
    }
   ],
   "search": [
@@ -7710,29 +7877,41 @@
  },
  {
   "id": "karin_nd62",
-  "name": "Karin Nilsdotter (1762)",
-  "status": "candidate",
+  "name": "Kari Nilsdotter (1762, Smådal)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1762"
+   "date": "1762-10-20",
+   "place": "Smådal, Brunskog",
+   "note": "Dödbok F I/2 bild 57 nr 23: född Smådal 20 oktober 1762"
   },
   "places": [
    "Smådal, Brunskog"
   ],
   "summary": "Barn till Nils Andersson och Kjerstin Danielsdotter i Smådal (kandidat-syskon till Daniel Nilsson f. 1757).",
   "notes": [
-   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1762.  Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad."
+   "HUSFÖRHÖR A I/2 (1764–68) bild 259, sida 247, Smådal: barn f. 1762.  Kandidat – identiteten med Daniel Nilsson (far till Måns 1797) ej bevisad.",
+   "DÖDBOK 1815 (bild 57, vänstersida nr 23, marg. '26 | 23'): ”Enkan Kari Nilsdotter från Smådal född derstädes den 20 october 1762 af Nils Andersson och Hustru Kjersti Danielsdotter i Smådal. 1787 Gift med Dr. Olof Nilsson från Berga, med hvilken hon gift 4:ne barn. 1809 blef hon Enka. Hon afled af moderssjuka den 23 Maji efter en anständig vandel uti 52 år 7 månader och 3 dagar.” => dotter till Nils Andersson/Kjersti Danielsdotter (syster till Daniel Nilsson f. 1757), g. 1787 med Olof Nilsson från Berga (d. 1809)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 259: sida 247, Smådal: ”Nils Andersson” 1726, ”Kjerstin Daniels[dotter]” 1725, Britta Nilsd. 1750, Kjersti Nilsd. 1753, Anna Nilsd. 1755 (genomstruken), ”Daniel Nilsson” 1757, Ingerd Nilsd. 1760, Karin Nilsd. 1762, [genomstruken] ”Måns Nilsson” 1766",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00259"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1815), bild 57 nr 23: Enkan Kari Nilsdotter från Smådal f. 20 okt 1762 af Nils Andersson och Kjersti Danielsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00057"
    }
   ],
   "search": [
    "Karin Nilsdotter (1762)"
-  ]
+  ],
+  "died": {
+   "date": "1815-05-23",
+   "place": "Brunskog",
+   "note": "Dödbok F I/2 bild 57 nr 23 (begr. 26 maj 1815): 'afled af moderssjuka den 23 Maji ... 52 år 7 månader och 3 dagar' (20/10 1762 + 52y7m3d = 23/5 1815 stämmer exakt)."
+  }
  },
  {
   "id": "mans_nd66",
@@ -7857,9 +8036,9 @@
  },
  {
   "id": "barn_christophersd_1731",
-  "name": "[Namn oläsligt] Christophersdotter (1731)",
+  "name": "Nils Christophersson (1731)",
   "status": "strong",
-  "sex": "f",
+  "sex": "m",
   "living": false,
   "born": {
    "date": "1731-12",
@@ -7871,17 +8050,27 @@
   ],
   "summary": "Dotter(?) till Christopher Påhlsson/Pehrsson och Ingrid Mattsdotter i Åsen, syster till Brita (1730). Namnet (börjar med stor krullig bokstav, ”Eufime/Josefime?”) kunde inte läsas säkert.",
   "notes": [
-   "DOPBOK C I/1 1731 bild 191, nr 46: ”D. I. Christopher Påhlsson och H. Ingrid Mattsd. i Åsen Barn, [Eufime?]. Fadd. Nils Jonsson i Åsen, Olof Olofsson i Broten, Hust. Marit Olofsd., H. Marit Ersd.(?) i Toltan.” Barnets kön/namn osäkert – fråga: Eufemia?"
+   "DOPBOK C I/1 1731 bild 191, nr 46: ”D. I. Christopher Påhlsson och H. Ingrid Mattsd. i Åsen Barn, [Eufime?]. Fadd. Nils Jonsson i Åsen, Olof Olofsson i Broten, Hust. Marit Olofsd., H. Marit Ersd.(?) i Toltan.” Barnets kön/namn osäkert – fråga: Eufemia?",
+   "DÖDBOK 1812 (bild 34, vänstersida nr 43; marg. 'Nov 15 | 43'): ”Nils Christophersson från S[...]hög(?) född i Åsen den 9 Dec 1731 af Christopher Påhlsson och Hustru Ingierd Mattsdotter från Åsen. 1761 gift med Pigan Marit Andersdotter från Ö. Takene med hvilken han gift 4(?) barn. Han afled af ålderdomsbräcklighet den 7 November efter en anständig vandel uti 80 år och 11 månader.” => det 'oläsliga' barnet i dopet dec 1731 (C I/1 bild 191 nr 46) är Nils (pojke), inte dotter. Ålder 80 år 11 mån stämmer med 9 dec 1731 (död 7 nov 1812). Identitet: verified på föräldranamn Christopher Påhlsson + Ingierd Mattsdotter och dagen 9 dec (dopdatum dec 1731)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 191 (1731), nr 46: ”Christopher Påhlsson och H. Ingrid Mattsd. i Åsen Barn, [namn oläsligt]. Fadd. Nils Jonsson i Åsen, Olof Olofsson i Broten …”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1812), bild 34 nr 43: Nils Christophersson född i Åsen 9 Dec 1731 af Christopher Påhlsson och Ingierd Mattsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00034"
    }
   ],
   "search": [
    "[Namn oläsligt] Christophersdotter (1731)"
-  ]
+  ],
+  "died": {
+   "date": "1812-11-07",
+   "place": "Brunskog (bosatt Ö. Takene?)",
+   "note": "Dödbok F I/2 bild 34 (1812) nr 43, begravd 15 nov 1812: 'afled af ålderdomsbräcklighet den 7 November ... uti 80 år och 11 månader'"
+  }
  },
  {
   "id": "ingeborg_jj",
@@ -13692,7 +13881,8 @@
   ],
   "summary": "Hemmansegare i Gullsbyn, Hanna Elisabets far (Hanna 'hans d.' 1900). Patronymikon: dottern Augustsson. Farmors morfar.",
   "notes": [
-   "FOLKRÄKNING 1900 Brunskog, Gullsbyn, s. 15: 'Nilsson, August, f. 1855 i Brunskog, Hemmansegare'; Hanna Elisabet f. 1889 har familjeställning 'hans d.'. Hustru Stina Jansdotter f. 1847; barn Anna Maria 1885 (f. Uppsala), Nils Ejnar 1887, Hanna Elisabet 1889."
+   "FOLKRÄKNING 1900 Brunskog, Gullsbyn, s. 15: 'Nilsson, August, f. 1855 i Brunskog, Hemmansegare'; Hanna Elisabet f. 1889 har familjeställning 'hans d.'. Hustru Stina Jansdotter f. 1847; barn Anna Maria 1885 (f. Uppsala), Nils Ejnar 1887, Hanna Elisabet 1889.",
+   "HUSFÖRHÖR A I/25 bild 172 och A I/27 bild 174: August 22/4 55 som ”Son” hos Nils Jansson och Britta Olsdotter i Svartåna & Nytorp (Ö. Takene). Syskon: Maja Cajsa 1849, Johan 1851, Anna Charlotta 1858."
   ],
   "sources": [
    {
@@ -13710,6 +13900,14 @@
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (C0036764, 1851–55), bild 172 (s. 163, Ö. Takene, ”Svartåna o Nytorp”): ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa ²⁄₂ 49; Son Johan 12/12? 51; Son August 22/4 55” (inflyttad 1854 från s. 194)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00172"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
    }
   ],
   "search": [
@@ -13881,6 +14079,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Svartåna): ”August Nilsson 55 22/4 Svartåna, hustru Maria Katrina Andersdotter f. 24/7 1851 Segerstad (Dog 89 17/12), barnen Johan Albin 83 27/7 Uppsala, Anna Maria 85 19/7 Uppsala, Nils Einar 87 21/8, Hanna Elisabeth 89 12/12”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Ö. Takene, Svartåna): ”Inhyses August Nilsson 55 22/4 Svartåna; H. Maria Katrina Andersdotter 51 24/7 Segerstad; [gift] …/80; inflyttad(?)/utflyttad Upsala 81”; därunder ”Arb. August Nilsson … Upsala 85”; Maria Katrina ”Dog 89 17/12”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   },
+   {
+    "label": "Riksarkivet, Segerstad födelse- och dopbok C/2 (C0038692, 1794–1861), bild 133 (1851, s. 245): juli 1851 ”27 | 28 Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersd.” (by: Wa Kärra?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00133"
    }
   ],
   "search": [
@@ -13889,7 +14095,11 @@
   "died": {
    "date": "1889-12-17",
    "place": "Svartåna, Brunskog"
-  }
+  },
+  "notes": [
+   "HUSFÖRHÖR A I/35 bild 254: som ”H.” till ”Inhyses August Nilsson”, f. 24/7 51 Segerstad; äktenskapskolumn ”…/80” (gift 1880); utflyttad Upsala 81; död 89 17/12.",
+   "DOP Segerstad C/2 bild 133 (1851): trolig dop ”Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersd.” (dag 24/27 juli, svårläst) – strong, ej verified."
+  ]
  },
  {
   "id": "johan_albin_augustsson",
@@ -13935,6 +14145,9 @@
   ],
   "search": [
    "Nils Olsson (N. Boda)"
+  ],
+  "notes": [
+   "SÖKNING 2026-10-06 (X2): Nils Olsson med hustru Anna Andersdotter och son Anders (f. 15/10 1853) har INTE återfunnits i Bodas husförhör A I/19 (C0036584) under rubriken N. Boda (alla bilder 12–53 genomgångna, ca fol 1–41, 1850–55), och inte heller bland N. Boda-sidorna bild 12–20 i A I/20 (C0036585). Dopboken C I/3 bild 91 är därmed enda primärkällan för föräldraskapet. Förväxla inte med Nils Olsson f. 1828 (Boda) g.m. Brita Andersdotter f. 1824, N. Boda (A I/19 bild 21; dop 27/2 1854 'B. Nils Olson o. h. Brita Andersd. i Norra Boda', C I/3 bild 92 s.149; folkräkn. 1880 N. Boda sida 3 rad 43): hans barn börjar med Brita Kajsa f. 27/2 1854, alltså en annan familj."
   ]
  },
  {
@@ -13959,6 +14172,9 @@
   ],
   "search": [
    "Anna Andersdotter (N. Boda)"
+  ],
+  "notes": [
+   "SÖKNING 2026-10-06 (X2): Ingen Anna Andersdotter som hustru till Nils Olsson hittad i A I/19 N. Boda. Observera att Boda vigselbok E I/3 (C0036598) bild 14 (1852) har lysning/vigsel 'Drängen Johannes Olofsson fr N:r Boda och Pig. Anna Andersdotter därstädes' (åldrar 22/26, vigd ca jan 1853) – INTE Nils Olsson; deras dotter Maria döptes 1855 (C I/3 bild 98, 'Nordsjö Gd. Johannes Olofson & Anna Andersd.'). Ev. samma kvinna, men fadersnamnet (Johannes vs Nils) stämmer inte med Anders dop – ej sammankopplat (lead)."
   ]
  },
  {
@@ -13968,8 +14184,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänt; far till August f. 22/4 1855 enligt dopboken."
+   "date": "1823",
+   "place": "Boda",
+   "note": "A I/25 och A I/27: ?/9 1823 Boda (dag/månad svårläst). Dagkarl/arbetare i Svartåna & Nytorp, Ö. Takene; inflyttad 1854 från s.194 (Takken?)."
   },
   "places": [
    "Svartåna, Brunskog"
@@ -13979,10 +14196,31 @@
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (C0036764, 1851–55), bild 172 (s. 163, Ö. Takene, ”Svartåna o Nytorp”): ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa ²⁄₂ 49; Son Johan 12/12? 51; Son August 22/4 55” (inflyttad 1854 från s. 194)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00172"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (C0036774), bild 254 (Ö. Takene, Svartåna, nedre hushållet): ”Inhyses Nils Jansson 24 ?/9 Boda (Lerboda?); H. Märta Olsdotter 24 ?/9 ö. Takene; Dotter Karin …/11 …; Johan 59 11/2; Karin 64 22/11 Svartåna” (utflyttade Karlstad 83?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00254"
+   },
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594, 1820–1858), bild 21 (1824, s. 21): september 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.; faddrar Jon Nilsson, H. Stina Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00021"
    }
   ],
   "search": [
    "Nils Jansson (Svartåna)"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 172: ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa 49; Son Johan 51; Son August 22/4 55”. Observera: i samma by (A I/25 bild 171, s.162) bor en annan Nils Jansson f. 1821 Boda m. hustru Cajsa Persdotter (barn Johannes 41, Per Gustaf 46, Andreas 49, Nils Fredrik 54) – förväxla ej.",
+   "OBS A I/35 bild 254 (nedre hushållet): ”Inhyses Nils Jansson 24 ?/9 Boda; H. Märta Olsdotter 24 ?/9 ö. Takene; barn Karin, Johan 59, Karin 64” – kan vara samme Nils (andra äktenskap/felläst hustrunamn) eller en annan Nils Jansson f. 1824; ej avgjort.",
+   "DOP-LEAD Boda 1824 nr 37 (8/9): ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”; A I/25 anger födelseår som 23 (svårläst – kan vara 24)."
   ]
  },
  {
@@ -13992,8 +14230,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänt; mor till August f. 22/4 1855 enligt dopboken."
+   "date": "1826-09-09",
+   "place": "Takene, Brunskog",
+   "note": "Strong: dop Brunskog 11/9 1826 ”Brita, Takene – Olof Anderss., Maria Nilsd.”; A I/25/27 anger ?/9 1826 Brunskog."
   },
   "places": [
    "Svartåna, Brunskog"
@@ -14003,10 +14242,368 @@
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/5 (C0036785), bild 57 (s. 93): 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00057"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/3 (C0036784, 1782–1844), bild 170 (1826, s. 299): september 1826 ”9 / 11 Brita, Takene – Olof Anderss., Maria Nilsd.; faddrar Nils Olsson, H. Maria Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00170"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (C0036764, 1851–55), bild 172 (s. 163, Ö. Takene, ”Svartåna o Nytorp”): ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa ²⁄₂ 49; Son Johan 12/12? 51; Son August 22/4 55” (inflyttad 1854 från s. 194)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00172"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
    }
   ],
   "search": [
    "Britta Olsdotter (Svartåna)"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A I/25 bild 172: ”Hu. Britta Olsd. ?/9 26 Brunskog”; A I/27 bild 174: ”H. Britta Olsd. 26 Brunskog”.",
+   "DOP-STRONG Brunskog 1826: ”9 / 11 Brita, Takene – Olof Anderss., Maria Nilsd.” (d.v.s. Britta f. 9 sept 1826, föräldrar Olof Andersson och Maria Nilsdotter)."
+  ]
+ },
+ {
+  "id": "olof_christophersson44",
+  "name": "Olof Christophersson (1744, Åsen)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1744",
+   "place": "Åsen, Brunskog"
+  },
+  "died": {
+   "date": "1812-11-12",
+   "place": "Edane (Brunskog)",
+   "note": "Dödbok F I/2 bild 34 nr 44 (marg. 'Dec 13 | 44' = begravning?): 'afled af ålderdomsbräcklighet den 12(?) Nov ... uti 68 år'. Dödsdag 12 vs 13 osäker."
+  },
+  "places": [
+   "Åsen",
+   "Edane"
+  ],
+  "summary": "Son till Christopher Påhlsson och Karin Olsdotter i Åsen; bonde fr. Edane, gift 1772 med Britta Nilsdotter fr. Edane (4 barn); dog 1812 68 år gammal.",
+  "notes": [
+   "DÖDBOK 1812 (bild 34 nr 44): ”D. M. Olof Christophersson fr. Edane född i Åsen 1744 af Christopher Påhlson och Hustru Karin Olsdotter i Åsen. 1772 Gift med Pigan Britta Nilsdr fr. Edane, med hvilken han gift 4 barn. Han afled af ålderdomsbräcklighet den 12(?) Nov. efter en ederlig vandel uti 68 år.” Observera: modern här 'Karin Olsdotter', medan Nils (f. 1731) har modern Ingierd Mattsdotter – trolig andra hustru efter Ingierd, eller halvsyskon."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1812), bild 34 nr 44: Olof Christophersson fr. Edane f. Åsen 1744 af Christopher Påhlson och Karin Olsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00034"
+   }
+  ],
+  "search": [
+   "Olof Christophersson (1744, Åsen)"
+  ]
+ },
+ {
+  "id": "daniel_svensson_berga",
+  "name": "Daniel Svensson (klockare, Berga)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Berga"
+  ],
+  "summary": "Klockare i Berga; far till Kjerstin Danielsdotter (f. 6/3 1725).",
+  "notes": [
+   "DÖDBOK 1813 bild 43: ”af Klockaren Daniel Svensson och Hustru Görel Knuts Dotter i Berga”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1813), bild 43 nr 20",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00043"
+   }
+  ],
+  "search": [
+   "Daniel Svensson (klockare, Berga)"
+  ]
+ },
+ {
+  "id": "gorel_knutsdotter_berga",
+  "name": "Görel Knutsdotter (Berga)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Berga"
+  ],
+  "summary": "Hustru till klockaren Daniel Svensson i Berga; mor till Kjerstin Danielsdotter (f. 1725).",
+  "notes": [
+   "DÖDBOK 1813 bild 43: ”Hustru Görel Knuts Dotter i Berga”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1813), bild 43 nr 20",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00043"
+   }
+  ],
+  "search": [
+   "Görel Knutsdotter (Berga)"
+  ]
+ },
+ {
+  "id": "matts_christophersson33",
+  "name": "Mats Christophersson (1733, Åsen)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1733-07-08",
+   "place": "Åsen, Brunskog"
+  },
+  "died": {
+   "date": "1810-03-21",
+   "place": "Åsen, Brunskog",
+   "note": "Dödbok F I/2 1810 bild 11 (sid 5) nr 15: 'afled af gikt den 21 Martii efter en anständig vandel uti 66 år, 8 månader och 13 dagar' (8/7 1733 + 66y8m13d = 21/3 1810 exakt)."
+  },
+  "places": [
+   "Åsen"
+  ],
+  "summary": "Son till Christopher Påhlsson och Ingerd Mattsdotter i Åsen, född 8 juli 1733; gift 1763 med pigan Kjersti Bengtsdotter från Kenfsted(Kenstad); död 21 mars 1810 av gikt, 66 år 8 mån 13 d. Hans hustru dog 1 maj 1810.",
+  "notes": [
+   "DÖDBOK 1810 (bild 11, sid 5, nr 15, marg. 'Apr 8 | 15'): ”D. M. Mattes Christofferson från Åsen född den 8 Julii 1733 af Christofer Påhlson och Hustru Ingierd Matts[dotter] i Åsen. 1763 gift med Pigan Kjersti Bengtsdotter från Kenstad. Den 21 Martii afled han af gikt efter en anständig vandel uti 66 år, 8 månader och 13 dagar.”",
+   "Hustrun Kjersti Bengtsdotter, f. Kenstad (Boda sn) 27 dec 1747, † 1 maj 1810 (nr 23, bild 12): ”Enkan Kjersti Bengtsdotter från Åsen ... född i Kenstad i Boda socken den 27 Dec 1747 af Bengt Olsson och Hustru Marit Jonsdotter i Kenstad. 1768 gift med Drängen Mattes Christoffersson från Åsen ... Den 1 Maji afled hon af lungsot efter en tidande vandel uti 62 år 4 månader och 4 dagar.” (OBS 1763 vs 1768 gift: svårläst.)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/2 (1810), bild 11 (sid 5) nr 15: Mats Christophersson f. Åsen 8/7 1733 af Christopher Påhlson och Ingierd Matts, † 21/3 1810",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00011"
+   }
+  ],
+  "search": [
+   "Mats Christophersson (1733, Åsen)"
+  ]
+ },
+ {
+  "id": "maria_cajsa_nilsdotter_1849",
+  "name": "Maria (Maja) Cajsa Nilsdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1849",
+   "place": "Brunskog (Ö. Takene), Värmlands län",
+   "note": "A I/25: ²⁄₂ 49 (dag/månad svårläst); född Brunskog (”do”)."
+  },
+  "places": [
+   "Svartåna & Nytorp (Ö. Takene), Brunskog"
+  ],
+  "summary": "Äldre syster till August Nilsson (f. 1855); dotter till Nils Jansson och Britta Olsdotter, Svartåna.",
+  "notes": [
+   "HUSFÖRHÖR A I/25 s.163: ”Dr. Maja Cajsa ²⁄₂ 49” under Nils Jansson/Britta Olsd.; A I/27 s.181: ”D. Maria Cajsa ²⁄₂ 49”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (C0036764, 1851–55), bild 172 (s. 163, Ö. Takene, ”Svartåna o Nytorp”): ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa ²⁄₂ 49; Son Johan 12/12? 51; Son August 22/4 55” (inflyttad 1854 från s. 194)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00172"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   }
+  ],
+  "search": [
+   "Maria (Maja) Cajsa Nilsdotter"
+  ]
+ },
+ {
+  "id": "johan_nilsson_1851_svartana",
+  "name": "Johan Nilsson (Svartåna)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1851",
+   "place": "Brunskog (Ö. Takene), Värmlands län",
+   "note": "A I/25: ¹²⁄₁₂? 51 (dag/månad svårläst)."
+  },
+  "places": [
+   "Svartåna & Nytorp (Ö. Takene), Brunskog"
+  ],
+  "summary": "Äldre bror till August Nilsson (f. 1855); son till Nils Jansson och Britta Olsdotter, Svartåna.",
+  "notes": [
+   "HUSFÖRHÖR A I/25 s.163: ”Son Johan …/12 51”; A I/27 s.181: ”S. Johan 51”. Senare öde okänt."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/25 (C0036764, 1851–55), bild 172 (s. 163, Ö. Takene, ”Svartåna o Nytorp”): ”Nils Jansson ?/9 23 Boda; Hu. Britta Olsd. ?/9 26 Brunskog; Dr. Maja Cajsa ²⁄₂ 49; Son Johan 12/12? 51; Son August 22/4 55” (inflyttad 1854 från s. 194)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036764_00172"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   }
+  ],
+  "search": [
+   "Johan Nilsson (Svartåna)"
+  ]
+ },
+ {
+  "id": "anna_charlotta_nilsdotter_1858",
+  "name": "Anna Charlotta Nilsdotter (Svartåna)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1858-04-21",
+   "place": "Brunskog (Ö. Takene), Värmlands län",
+   "note": "A I/27: 21/4 58 (siffror svårlästa)."
+  },
+  "places": [
+   "Svartåna & Nytorp (Ö. Takene), Brunskog"
+  ],
+  "summary": "Yngre syster till August Nilsson (f. 1855); dotter till Nils Jansson och Britta Olsdotter, Svartåna.",
+  "notes": [
+   "HUSFÖRHÖR A I/27 s.181: ”Dr. Anna Charlotta ²¹⁄₄ 58 do”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   }
+  ],
+  "search": [
+   "Anna Charlotta Nilsdotter (Svartåna)"
+  ]
+ },
+ {
+  "id": "olof_andersson_takene_1826",
+  "name": "Olof Andersson (Takene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Brita f. 9 sept 1826 Takene (dop 11 sept 1826), troligen Britta Olsdotter som blev Nils Janssons hustru i Svartåna.",
+  "notes": [
+   "DOP Brunskog 1826: ”Brita, Takene – Olof Anderss., Maria Nilsd.”. Länken Brita 1826 = Britta Olsdotter (A I/25) bygger på namn, födelsemånad (…/9), år (1826), bosättning (Ö. Takene) och patronymikon (Ol-)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/3 (C0036784, 1782–1844), bild 170 (1826, s. 299): september 1826 ”9 / 11 Brita, Takene – Olof Anderss., Maria Nilsd.; faddrar Nils Olsson, H. Maria Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00170"
+   }
+  ],
+  "search": [
+   "Olof Andersson (Takene)"
+  ]
+ },
+ {
+  "id": "maria_nilsdotter_takene_1826",
+  "name": "Maria Nilsdotter (Takene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Mor till Brita f. 9 sept 1826 Takene; troligen Britta Olsdotters mor.",
+  "notes": [
+   "DOP Brunskog 1826: ”Olof Anderss., Maria Nilsd.”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/3 (C0036784, 1782–1844), bild 170 (1826, s. 299): september 1826 ”9 / 11 Brita, Takene – Olof Anderss., Maria Nilsd.; faddrar Nils Olsson, H. Maria Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00170"
+   }
+  ],
+  "search": [
+   "Maria Nilsdotter (Takene)"
+  ]
+ },
+ {
+  "id": "anders_persson_vakarr_1851",
+  "name": "Anders Persson (Segerstad, inhyses dagkarl)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Segerstad (Wa Kärra?)"
+  ],
+  "summary": "Far till Maja Cathrina, dopen i Segerstad juli 1851, troligen Maria Katrina Andersdotter (f. 24/7 1851 Segerstad).",
+  "notes": [
+   "DOP Segerstad C/2 bild 133: ”Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersdotter”. Födelsedagen (24 eller 27 juli?) är svårläst; husförhör A I/35 anger 24/7 1851 Segerstad."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Segerstad födelse- och dopbok C/2 (C0038692, 1794–1861), bild 133 (1851, s. 245): juli 1851 ”27 | 28 Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersd.” (by: Wa Kärra?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00133"
+   }
+  ],
+  "search": [
+   "Anders Persson (Segerstad, inhyses dagkarl)"
+  ]
+ },
+ {
+  "id": "brita_cajsa_andersdotter_1851",
+  "name": "Brita Cajsa Andersdotter (Segerstad)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Segerstad"
+  ],
+  "summary": "Mor till Maja Cathrina (dop juli 1851 Segerstad), troligen Maria Katrina Andersdotters mor.",
+  "notes": [
+   "DOP Segerstad C/2 bild 133: ”Anders Persson o Brita Cajsa Andersdotter”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Segerstad födelse- och dopbok C/2 (C0038692, 1794–1861), bild 133 (1851, s. 245): juli 1851 ”27 | 28 Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersd.” (by: Wa Kärra?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00133"
+   }
+  ],
+  "search": [
+   "Brita Cajsa Andersdotter (Segerstad)"
+  ]
+ },
+ {
+  "id": "jan_nilsson_olserud_1824",
+  "name": "Jan Nilsson (Olserud, Boda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Olserud, Boda"
+  ],
+  "summary": "Möjlig far till Nils f. 7 sept 1824 (dop Boda 8/9 1824), möjligen Nils Jansson i Svartåna (identitet ej säkrad).",
+  "notes": [
+   "DOP Boda 1824 nr 37: ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”. Matchning mot Nils Jansson (f. ?/9 Boda 1823/24) via namn, månad, socken – ej bekräftad (två Nils Jansson f. Boda i Svartåna)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594, 1820–1858), bild 21 (1824, s. 21): september 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.; faddrar Jon Nilsson, H. Stina Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00021"
+   }
+  ],
+  "search": [
+   "Jan Nilsson (Olserud, Boda)"
+  ]
+ },
+ {
+  "id": "stina_jonsdotter_olserud_1824",
+  "name": "Stina Jonsdotter (Olserud, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Olserud, Boda"
+  ],
+  "summary": "Möjlig mor till Nils f. 7 sept 1824 Boda.",
+  "notes": [
+   "DOP Boda 1824 nr 37: ”Jan Nilsson, Stina Jonsd.”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (C0036594, 1820–1858), bild 21 (1824, s. 21): september 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.; faddrar Jon Nilsson, H. Stina Nilsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00021"
+   }
+  ],
+  "search": [
+   "Stina Jonsdotter (Olserud, Boda)"
   ]
  }
 ]

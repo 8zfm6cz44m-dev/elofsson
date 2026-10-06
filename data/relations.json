@@ -1934,8 +1934,8 @@
   "type": "partner",
   "a": "nils_andersson_smadal",
   "b": "kjerstin_danielsd25",
-  "status": "strong",
-  "basis": "Dopbok C I/2 bild 102 (1757) och A I/2 bild 259 (sida 247, Smådal)."
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 43 nr 20: ”Gift 1750 med Drengen Nils Andersson från Smådal, som efterlefver henne. Hon har med honom haft 17 barn”"
  },
  {
   "id": "c-nils_andersson_smadal-kjerstin_danielsd25-britta_nd50",
@@ -1989,8 +1989,8 @@
    "kjerstin_danielsd25"
   ],
   "child": "karin_nd62",
-  "status": "strong",
-  "basis": "A I/2 bild 259 (sida 247, Smådal): barn i Nils Anderssons och Kjerstin Danielsdotters hushåll."
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 57 nr 23: ”född derstädes den 20 october 1762 af Nils Andersson och Hustru Kjersti Danielsdotter i Smådal”"
  },
  {
   "id": "c-nils_andersson_smadal-kjerstin_danielsd25-mans_nd66",
@@ -2055,8 +2055,8 @@
    "ingrid_asen"
   ],
   "child": "barn_christophersd_1731",
-  "status": "strong",
-  "basis": "C I/1 bild 191 nr 46: ”Christopher Påhlsson och H. Ingrid Mattsd. i Åsen Barn, [namn oläsligt]”."
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 34 nr 43: ”Nils Christophersson ... född i Åsen den 9 Dec 1731 af Christopher Påhlsson och Hustru Ingierd Mattsdotter från Åsen”"
  },
  {
   "id": "s-brita_christ_1730-barn_christophersd_1731",
@@ -3941,5 +3941,143 @@
   "status": "verified",
   "basis": "Brunskog dopbok C I/5 bild 57: 22 april 1855 ”Svartåna. Dg. Nils Jansson, Britta Olsdotter” = August Nilsson f. 22/4 1855 Svartåna (husförhör A I/35 bild 254).",
   "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-august_nilsson_gullsbyn"
+ },
+ {
+  "id": "c-christopher_persson_asen-karin_olsd_asen-olof_christophersson44",
+  "type": "child",
+  "parents": [
+   "christopher_persson_asen"
+  ],
+  "child": "olof_christophersson44",
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 34 nr 44: ”född i Åsen 1744 af Christopher Påhlson och Hustru Karin Olsdotter i Åsen”"
+ },
+ {
+  "id": "c-daniel_svensson_berga-gorel_knutsdotter_berga-kjerstin_danielsd25",
+  "type": "child",
+  "parents": [
+   "daniel_svensson_berga",
+   "gorel_knutsdotter_berga"
+  ],
+  "child": "kjerstin_danielsd25",
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 43 nr 20: ”född i Berga d. 6 Martii 1725 af Klockaren Daniel Svensson och Hustru Görel Knuts Dotter i Berga”"
+ },
+ {
+  "id": "c-christopher_persson_asen-ingrid_asen-matts_christophersson33",
+  "type": "child",
+  "parents": [
+   "christopher_persson_asen",
+   "ingrid_asen"
+  ],
+  "child": "matts_christophersson33",
+  "status": "verified",
+  "basis": "Dödbok F I/2 bild 11 nr 15: ”född den 8 Julii 1733 af Christofer Påhlson och Hustru Ingierd Matts i Åsen”"
+ },
+ {
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-maria_cajsa_nilsdotter_1849",
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "maria_cajsa_nilsdotter_1849",
+  "status": "verified",
+  "basis": "A I/25 bild 172 s.163: ”Dr. Maja Cajsa 49” i hushållet Nils Jansson/Britta Olsd.; A I/27 bild 174: ”D. Maria Cajsa 49”."
+ },
+ {
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-johan_nilsson_1851_svartana",
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "johan_nilsson_1851_svartana",
+  "status": "verified",
+  "basis": "A I/25 bild 172: ”Son Johan 51”; A I/27 bild 174: ”S. Johan 51”."
+ },
+ {
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-anna_charlotta_nilsdotter_1858",
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "anna_charlotta_nilsdotter_1858",
+  "status": "verified",
+  "basis": "A I/27 bild 174: ”Dr. Anna Charlotta 21/4 58”."
+ },
+ {
+  "id": "s-august_nilsson_gullsbyn-maria_cajsa_nilsdotter_1849",
+  "type": "sibling",
+  "a": "august_nilsson_gullsbyn",
+  "b": "maria_cajsa_nilsdotter_1849",
+  "status": "verified",
+  "basis": "Samma hushåll, A I/25 bild 172."
+ },
+ {
+  "id": "s-august_nilsson_gullsbyn-johan_nilsson_1851_svartana",
+  "type": "sibling",
+  "a": "august_nilsson_gullsbyn",
+  "b": "johan_nilsson_1851_svartana",
+  "status": "verified",
+  "basis": "Samma hushåll, A I/25 bild 172."
+ },
+ {
+  "id": "s-august_nilsson_gullsbyn-anna_charlotta_nilsdotter_1858",
+  "type": "sibling",
+  "a": "august_nilsson_gullsbyn",
+  "b": "anna_charlotta_nilsdotter_1858",
+  "status": "verified",
+  "basis": "Samma hushåll, A I/27 bild 174."
+ },
+ {
+  "id": "c-olof_andersson_takene_1826-maria_nilsdotter_takene_1826-britta_olsdotter_svartana",
+  "type": "child",
+  "parents": [
+   "olof_andersson_takene_1826",
+   "maria_nilsdotter_takene_1826"
+  ],
+  "child": "britta_olsdotter_svartana",
+  "status": "strong",
+  "basis": "Dop Brunskog C I/3 bild 170: ”9/11 Brita, Takene – Olof Anderss., Maria Nilsd.”; matchar husförhör A I/25 (Britta Olsd. ?/9 26 Brunskog, Ö. Takene) men länk bygger på namn+månad+år+by."
+ },
+ {
+  "id": "p-olof_andersson_takene_1826-maria_nilsdotter_takene_1826",
+  "type": "partner",
+  "a": "olof_andersson_takene_1826",
+  "b": "maria_nilsdotter_takene_1826",
+  "status": "strong",
+  "basis": "Dop Brunskog 1826 bild 170: föräldrar Olof Anderss., Maria Nilsd."
+ },
+ {
+  "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-maria_katrina_andersdotter",
+  "type": "child",
+  "parents": [
+   "anders_persson_vakarr_1851",
+   "brita_cajsa_andersdotter_1851"
+  ],
+  "child": "maria_katrina_andersdotter",
+  "status": "strong",
+  "basis": "Dop Segerstad C/2 bild 133 (juli 1851): ”Maja Cathrina – Anders Persson o Brita Cajsa Andersd.”; husförhör A I/35: Maria Katrina Andersdotter f. 24/7 1851 Segerstad. Dagen i dopboken svårläst."
+ },
+ {
+  "id": "p-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851",
+  "type": "partner",
+  "a": "anders_persson_vakarr_1851",
+  "b": "brita_cajsa_andersdotter_1851",
+  "status": "strong",
+  "basis": "Dop Segerstad 1851 bild 133: föräldrar."
+ },
+ {
+  "id": "c-jan_nilsson_olserud_1824-stina_jonsdotter_olserud_1824-nils_jansson_svartana",
+  "type": "child",
+  "parents": [
+   "jan_nilsson_olserud_1824",
+   "stina_jonsdotter_olserud_1824"
+  ],
+  "child": "nils_jansson_svartana",
+  "status": "candidate",
+  "basis": "Dop Boda 8/9 1824 nr 37: ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”; matchar A I/35 bild 254 (Nils Jansson 24 ?/9 Boda) men ej A I/25 (år 23) och oklart vilken av två Nils Jansson."
  }
 ]
