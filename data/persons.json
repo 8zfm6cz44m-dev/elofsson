@@ -8009,7 +8009,8 @@
    "MANTAL (B4): Fadern ’Påhl/Pehr Nilsson’: mantalsskriven som ”Per Nilsson” i Wester Toltan 1707 (489 hö) och 1709–1710; ingen ”Påhl”. Stärker läsningen Pehr Nilsson (Toltan) som far till Christopher f. 1710 (lead, ej bevisat).",
    "MANTAL (D5): Christopher Påhlsson (f. 1710) ej väntad i mantalet 1715–1720 (barn). Ingen 'Christopher' i Åsen/Toltan 1715–1720.",
    "MANTAL 1730 (A0003209 b.493 hs, mitten): ’Christopher Påhlsson’ står i Toltan-gruppen direkt efter ’Påhl Nilsson’ och före ’Elof Nilsson’ – dvs. fortfarande i faderns/Toltan-hushåll i mantalet 1730 trots vigsel 14/9 1729 med pigan från Åsen. Gruppen ’Åsen ½’ i samma år (b.494 vs): ’Olof Olsson’, ’Enkan Karin’, ’Christopher(?) Jönsson’ (osäker läsning), ’Måns Olsson’ … – ingen säker Christopher Påhlsson där 1730. Första mantalsår i Åsen därmed inte funnet (se 1731+ ej läst).",
-   "MANTAL – KONFLIKT: ”Christopher Påhlsson” förekommer i Toltan-gruppen i mantalet 1729 (A0003208 b.571 vs, i klammer med Påhl Nilsson), 1731 (A0003210 b.515 hs, tydligt), 1732 (A0003211 b.517 vs, klammer), 1733 (A0003212 b.554 vs, tydligt) och 1735 (A0003214 b.543 vs, klammer) – dvs. i Toltan, inte i Åsen, trots vigsel 14/9 1729 med Ingrid Mattsdotter från Åsen. Möjliga förklaringar: (a) bor kvar hos fadern i Toltan till 1735+, (b) Åsen-Christopher är en annan person, (c) mantalet noterar honom på faderns hemman. Åsen-grupperna 1726–1735 ej genomlästa av I1."
+   "MANTAL – KONFLIKT: ”Christopher Påhlsson” förekommer i Toltan-gruppen i mantalet 1729 (A0003208 b.571 vs, i klammer med Påhl Nilsson), 1731 (A0003210 b.515 hs, tydligt), 1732 (A0003211 b.517 vs, klammer), 1733 (A0003212 b.554 vs, tydligt) och 1735 (A0003214 b.543 vs, klammer) – dvs. i Toltan, inte i Åsen, trots vigsel 14/9 1729 med Ingrid Mattsdotter från Åsen. Möjliga förklaringar: (a) bor kvar hos fadern i Toltan till 1735+, (b) Åsen-Christopher är en annan person, (c) mantalet noterar honom på faderns hemman. Åsen-grupperna 1726–1735 ej genomlästa av I1.",
+   "Dop 1730 (C0036782_00184) och 1748 (C0036783_00066, ”Christopher Påhlsson i Toltan alias Åsen”) – patronymikon Påhlsson; bor i Åsen men kallas ’i Toltan alias Åsen’ 1748."
   ],
   "died": {
    "date": "1772-09-20",
@@ -8086,8 +8087,7 @@
   "living": false,
   "born": {
    "date": "1722-12-19",
-   "place": "Beckelid, Brunskog",
-   "note": "Dödbok F I/1 bild 36 (s. 49), nr 10: ”född uti Beckelid 1722 ¹⁹⁄₁₂ af Wäl. Jon Tholsson(?) och h. Ingjerd Jonsd.”. Åldern 68¼ år stämmer med 19/12 1722 (68 år 2 mån 25 d), inte med kandidatdopet 17 sept 1722 (68½)."
+   "place": "Beckelid, Brunskog"
   },
   "places": [
    "Skog, Brunskog"
@@ -8098,7 +8098,8 @@
    "DOPBOK 1758 nr 4 (bild 103) och 1761 (bild 115) anger honom som far till Britta resp. Ingierd. Fadder 1757 (bild 101 nr 5): ”Nils Jonsson i Skog”.",
    "Dop 1722 ej säkert funnet: hela 1722 års dopbok (C I/1 bild 138–143) genomläst; enda Nils med fader Jon är nr 34 (17 sept 1722, Jon Nilsson/Ingrid Andersd., ort läst 'Skidene(?)' – ej Skog). Kandidat. Dessutom: dotter Marit döpt 16 juni 1754 i Skog (C I/2 bild 90 nr 22) – ytterligare belägg för parets hushåll.",
    "Observera: ’Nils Jonsson’ står i Åsen-blocket i mantalslängderna 1712 och 1718 (godfader 'Nils Jönsson i Åsen' 1730) – en annan, äldre person än Nils Jonsson f. 1722 (Skog); ej utrett. Skog-blocket ej lokaliserat i mantalslängderna.",
-   "DÖDBOK F I/1 1791 bild 36 (s. 49), nr 10, marginal ”Mart. 27 | 10”: ”Wäl. Nils Jonsson från Skog, född uti Beckelid 1722 ¹⁹⁄₁₂ af Wäl. Jon Thols[son] och h. Ingjerd Jonsd. Gift 1748 ²⁶⁄₁₂ med Enkan Marit Jonsd. fr. Skog [som dog …?]. 1789 i februari rörd af slag … liggande, slagen af diarrhé … afled den 16:de sistl. [mars] … 68¼ år.” (Efternamnet ”Thols-/son” läst över radbrytning; MyHeritage-trädet har ’Jon Tholsson’ och ’Ingjerd Jonsdotter’ som hans föräldrar.) Hans dop är därmed Beckelid 19/12 1722 – INTE kandidaten 17 sept 1722 (föräldrar Jon Nilsson/Ingrid Andersdotter, C I/1 b.141) – se flagga."
+   "DÖDBOK F I/1 1791 bild 36 (s. 49), nr 10, marginal ”Mart. 27 | 10”: ”Wäl. Nils Jonsson från Skog, född uti Beckelid 1722 ¹⁹⁄₁₂ af Wäl. Jon Thols[son] och h. Ingjerd Jonsd. Gift 1748 ²⁶⁄₁₂ med Enkan Marit Jonsd. fr. Skog [som dog …?]. 1789 i februari rörd af slag … liggande, slagen af diarrhé … afled den 16:de sistl. [mars] … 68¼ år.” (Efternamnet ”Thols-/son” läst över radbrytning; MyHeritage-trädet har ’Jon Tholsson’ och ’Ingjerd Jonsdotter’ som hans föräldrar.) Hans dop är därmed Beckelid 19/12 1722 – INTE kandidaten 17 sept 1722 (föräldrar Jon Nilsson/Ingrid Andersdotter, C I/1 b.141) – se flagga.",
+   "Dop 19 dec 1722 bekräftat i C0036782_00142 nr 44; namnet överstruket i dopet."
   ],
   "sources": [
    {
@@ -8492,7 +8493,7 @@
  {
   "id": "per_olofsson85",
   "name": "Per Olofsson (1785)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -8505,7 +8506,8 @@
   "summary": "Son till Olof Nilsson och Britta Nilsdotter på Skog; helt syskon till Marit Olsdotter (f. 1798).",
   "notes": [
    "HUSFÖRHÖR A I/8 bild 379: ”S. Per 23/3 85” i Olof Nilssons hushåll.",
-   "HUSFÖRHÖR (Skog, A I/23 m.fl.): Per Olsson f. 23/3 1785 bor med hustrun Karin Andersdotter (1784) och svärmor/svärfar; samma födelsedag som Per Olofsson i Olof Nilssons hushåll – antas vara samma person."
+   "HUSFÖRHÖR (Skog, A I/23 m.fl.): Per Olsson f. 23/3 1785 bor med hustrun Karin Andersdotter (1784) och svärmor/svärfar; samma födelsedag som Per Olofsson i Olof Nilssons hushåll – antas vara samma person.",
+   "Dop 23 mars 1785 saknas i Brunskog C I/3 b.17 (nr 13 = 27 febr, nr 14 = 1 april); födelsedag enbart från husförhör A I/8 b.379."
   ],
   "sources": [
    {
@@ -8814,7 +8816,8 @@
    "HUSFÖRHÖR A I/6 bild 74: ”Olof Andersson” Ö. Takene 1733, hustru ”Kjersti Jons[dotter]” Renstad 1728.",
    "HUSFÖRHÖR A I/5 bild 74: hushåll med barnen Kjersti 1760, Olof 13/2 1763 (genomstruken), Nils 16/2 1772 och Jonas 28/8 1757 (genomstruken). Alla barn med dop funna.",
    "DÖDBOK F I/1 1801 bild 79 (s. 131), nr 35, marginal ”Dec 13 | 35”: ”Wäl. och f.d. Nämndeman Olof Andersson från Östra Takene, född 1733 ²⁸⁄₃ af Wäl. Anders Nilsson och h. Marit Olsd. Gift 1754 … med hustru Kjersti Jonsd. från Renstad. Afled af ålderdom 26 Nov. …” (tjänstetitel ”Nämndeman” – läst). Hans ”Dog 1801 13/12” i trädet är alltså BEGRAVNINGSDAGEN; dödsdag 26/11 1801 bekräftas av hustruns dödspost (b.80: ”Olof Andersson fr. Takene, som afled d. 26 november 1801”).",
-   "VIGSEL (E I/1 bild 72, 1754 nr 1): ”15 Aprilis Dr. Olof Andersson från ... Pig. Kjerstin Jönsdotter från Renstad.” Bruden = Kjersti Jonsdotter från Renstad (jfr dödboken ”gift 1754” och husförhöret ”Renstad 1728”). Gårdsnamnet efter ”från” vid brudgummen står vid bildens högerkant (Ö. Takene enligt sammanhanget, ej säkert läst)."
+   "VIGSEL (E I/1 bild 72, 1754 nr 1): ”15 Aprilis Dr. Olof Andersson från ... Pig. Kjerstin Jönsdotter från Renstad.” Bruden = Kjersti Jonsdotter från Renstad (jfr dödboken ”gift 1754” och husförhöret ”Renstad 1728”). Gårdsnamnet efter ”från” vid brudgummen står vid bildens högerkant (Ö. Takene enligt sammanhanget, ej säkert läst).",
+   "Dopbarnets namn är överstruket i C I/1 b.198 nr 20 (barnet kallas i dödboken Olof)."
   ],
   "sources": [
    {
@@ -9203,7 +9206,7 @@
  {
   "id": "britta_nd50",
   "name": "Britta Nilsdotter (1750)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9239,7 +9242,7 @@
  {
   "id": "kjersti_nd53",
   "name": "Kjersti Nilsdotter (1753)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9281,7 +9284,7 @@
  {
   "id": "anna_nd55",
   "name": "Anna Nilsdotter (1755)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9312,7 +9315,7 @@
  {
   "id": "ingerd_nd60",
   "name": "Ingerd Nilsdotter (1760)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9376,7 +9379,7 @@
  {
   "id": "mans_nd66",
   "name": "Måns Nilsson (1766)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -9402,7 +9405,7 @@
  {
   "id": "nils_olofsson_1758",
   "name": "Nils Olofsson (1758)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -9446,7 +9449,7 @@
  {
   "id": "britta_olofsd_1761",
   "name": "Britta Olofsdotter (1761)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9480,7 +9483,7 @@
  {
   "id": "marit_olsd_1782",
   "name": "Marit Olsdotter (1782)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -9693,7 +9696,7 @@
  {
   "id": "anders_nilsson_boda",
   "name": "Anders Nilsson (Anna Andersdotters far, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -9958,7 +9961,7 @@
  {
   "id": "anna_en30",
   "name": "Anna Elofsdotter (1730)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -10277,7 +10280,7 @@
  },
  {
   "id": "nils_ihrsson_toltan",
-  "name": "Nils Ihrsson (Toltan) – efternamn osäkert",
+  "name": "Nils Persson (Toltan)",
   "status": "strong",
   "sex": "m",
   "living": false,
@@ -10291,7 +10294,8 @@
   "summary": "Far till Olof Nilsson (f. 7 juli 1754 Toltan), enligt dopboken. Patronymet läst som 'Ihrsson/Ivarsson/Ersson' – osäkert (samma handstil som 'Olof Ihrsson från Toltan' i vigselboken 1745).",
   "notes": [
    "DOPBOK C I/2 bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Faderns patronymikon (Ihrsson/Ivarsson/Ersson) ej säkert läst.",
-   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Nils Persson (f. ca 1719)”, f. ca 1719 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Nils Persson (f. ca 1719)”, f. ca 1719 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
+   "Dop 1748 (C0036783_00066): ”Nils Pehrsson och Hust. Marit Nilsdotter i Toltan Dotter Britta” – fadern heter Persson, inte Ihrsson."
   ],
   "sources": [
    {
@@ -14182,7 +14186,7 @@
  {
   "id": "elof_palsson20",
   "name": "Elof Påhlsson (1720)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -14210,7 +14214,7 @@
  {
   "id": "barn_palsson_1717",
   "name": "[Namn överstruket] Påhlsson (1717)",
-  "status": "strong",
+  "status": "verified",
   "sex": "",
   "living": false,
   "born": {
@@ -14238,7 +14242,7 @@
  {
   "id": "britta_palsd22",
   "name": "Britta Påhlsdotter (1722)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -14297,7 +14301,7 @@
  {
   "id": "barn_pn_1721",
   "name": "[Namn överstruket] Persson/Nilsson (1721, Toltan)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "",
   "living": false,
   "born": {
@@ -14325,7 +14329,7 @@
  {
   "id": "per_pn24",
   "name": "Per Persson (tvilling, 1724, Toltan)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -14353,7 +14357,7 @@
  {
   "id": "ingerd_pn24",
   "name": "Ingerd Persdotter (tvilling, 1724, Toltan)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -14601,7 +14605,7 @@
  {
   "id": "olof_olofsson87_lerhol",
   "name": "Olof Olofsson (f. 25/9 1787, Lerhol)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -14628,7 +14632,7 @@
  {
   "id": "karin_olofsd93_lerhol",
   "name": "Karin Olofsdotter (f. 1793, Lerhol)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -15270,7 +15274,7 @@
  {
   "id": "per_olofsson_1747",
   "name": "Per Olofsson (1747, Ö. Takene/Bäckelid)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -15288,7 +15292,8 @@
   ],
   "summary": "Dödbokens ”D.M. Per Olofsson i Bäckeli”, f. 20/3 1747 i Ö. Takene som son till Olof Persson och Kjersti Persdotter; gift 26/12 1775 med pigan Anna Nilsdotter från Skog (troligen f. 1752); död 29/9 1806 (59 år 6 m 9 d), efterlämnade 1 son och 4 döttrar.",
   "notes": [
-   "DÖDBOK F I/1 1806 bild 103 (s. 177) nr 33: ”D.M. Per Olofsson i Bäckeli, född i Ö. Takene 1747 ²⁰⁄₃. Par. H. Olof Persson o. H. Kjersti Persd., redan aflidne. Gift 1775 ²⁶⁄₁₂ med Pig. Anna Nilsd. fr. Skog, efterlefvande med 1 son af 4 döttrar. Sjuknade d. 25 Sept. och afled d. 29 ejusdem af förkylningssjukdom, efter en lefnad af 59 år 6 m. 9 d.” Begr. 18 okt."
+   "DÖDBOK F I/1 1806 bild 103 (s. 177) nr 33: ”D.M. Per Olofsson i Bäckeli, född i Ö. Takene 1747 ²⁰⁄₃. Par. H. Olof Persson o. H. Kjersti Persd., redan aflidne. Gift 1775 ²⁶⁄₁₂ med Pig. Anna Nilsd. fr. Skog, efterlefvande med 1 son af 4 döttrar. Sjuknade d. 25 Sept. och afled d. 29 ejusdem af förkylningssjukdom, efter en lefnad af 59 år 6 m. 9 d.” Begr. 18 okt.",
+   "Dopet C I/2 b.62 nr 12 (1747): barnets namn överstruket; dag ej läst."
   ],
   "sources": [
    {
@@ -15376,7 +15381,7 @@
  {
   "id": "kari_oi86",
   "name": "Kari Olsdotter (1786–1798)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -16752,7 +16757,7 @@
  {
   "id": "kari_olofsd84_takene",
   "name": "Kari Olofsdotter (1784, Ö. Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -17053,7 +17058,7 @@
  {
   "id": "nils_olsson90_lerhol",
   "name": "Nils Olsson (1790, Lerhol)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
