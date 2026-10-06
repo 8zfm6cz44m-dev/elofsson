@@ -7988,7 +7988,8 @@
   "notes": [
    "DOPBOK 1752 och 1754: ”Hust. Marit Jönsdotter i Ragnilsrud”.",
    "MYHERITAGE (användarträd, lead): Marit Andersson (född Jonsdotter, 1727), f. 1727-09-24 – antas vara samma person; oberoende uppgift men ingen primärkälla.",
-   "MYHERITAGE-MATCH: ”Marit Andersson (født Jonsdotter)” 1727–1762, dotter till Jon Jönsson 1690–1768 + Anna Jönsson f. Andersdotter 1700–1762."
+   "MYHERITAGE-MATCH: ”Marit Andersson (født Jonsdotter)” 1727–1762, dotter till Jon Jönsson 1690–1768 + Anna Jönsson f. Andersdotter 1700–1762.",
+   "SÖKT UTAN TRÄFF (omg. AD1): Boda dopbok C I/1 (C0036592, 1688–1747) bild 128–129 (jan–dec 1727, sista rad 24 dec): ingen 24/9 1727 Marit, dotter till Jon Jönsson/Anna Andersdotter. Brunskog vigsel E I/1 (C0036786) bild 67–71 + 73 (nov 1748 – 1755): ingen vigsel Arne Andersson i Ragnilsrud/Marit Jönsdotter (bild 66–67 = 1748–49; 68 = 1749–50; 69 = 1750–51; 70 = 1751; 71 = 1752; 73 = dec 1754–1755). Första barnet Ingerd 29 nov 1752 → vigsel sannolikt före 1748 (bild 63–66, tidigare läst av annan agent) eller i hennes hemförsamling. Fryksände dopbok C I/1 (1707–1732, C0037196; C I/2 1733–49 = C0037197; C I/3 1750–63 = C0037198) kräver inloggning i Riksarkivet (bildvisning omdirigerar till login) – avbrutet enligt brief."
   ],
   "sources": [
    {
@@ -10149,12 +10150,18 @@
   ],
   "summary": "Anders Nilssons far enligt Bodas dopbok 1796.",
   "notes": [
-   "DOPBOK 13 nov 1796 (C I/2 bild 165): ”Boda. Anders. Far: Nils Arneson. Kari Anders:d.” Test: Anders Olsson, Stina Pålsd. Anders f. 2/11 1796 enligt husförhöret; dopdag 13/11. Namnet Anders är genomstruket ’Kari’ intill (skrivfel rättat)."
+   "DOPBOK 13 nov 1796 (C I/2 bild 165): ”Boda. Anders. Far: Nils Arneson. Kari Anders:d.” Test: Anders Olsson, Stina Pålsd. Anders f. 2/11 1796 enligt husförhöret; dopdag 13/11. Namnet Anders är genomstruket ’Kari’ intill (skrivfel rättat).",
+   "BEGRAVNING 1795 (E I/2 bild 49, nr 18): dotter Kari Nilsdotter dog 14 okt 1795, 16 år 10 mån (f. ca 1778) av Nils Arneson och Kari Andersd. – Nils var alltså gift senast ca 1778 (inte Boda-ungkarl 1796). Bör vara född ca 1740–57. Koppling till Arne Andersson/Marit Jönsdotter (Ragnilsrud, gifta ca 1751) oprövad: möjligt endast om Nils f. ca 1753–57. Ej funnen i Brunskog C I/2 bild 93–103 (läst udda bilder, ej alla rader).",
+   "Boda husförhör A I/8 (1795–1800, C0036573) bild 30–38 (byn Boda, s. 20–28) lästa: ingen Nils Arneson/Kari Andersd. i dessa gårdar – troligen annan gård/by (t.ex. under annat namn)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 165 (s. 309): 13 nov 1796, nr 36, ”Boda. Anders. Far: Nils Arnesson. Kari Anders:d. Test: Anders Olsson, Stina Pålsd”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00165"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/2 (1773-1841), bild 49 (s. 73), begravda 1795 nr 18: ”Pigan Kari Nilsd. Boda … af Vll. Nils arneson och h. Kari Anders…” (16 år 10 mån)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00049"
    }
   ],
   "search": [
@@ -22242,6 +22249,38 @@
   ],
   "search": [
    "Malin Olofsdotter (Östra Glänna)"
+  ]
+ },
+ {
+  "id": "kari_nilsd_boda1778",
+  "name": "Kari Nilsdotter (Boda, d. 1795)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1778",
+   "place": "Boda",
+   "note": "Ålder vid död 16 år 10 mån; exakt födelsedatum svårläst"
+  },
+  "died": {
+   "date": "1795-10-14",
+   "place": "Boda"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Pigan Kari Nilsdotter i Boda, dotter till Nils Arnesson och Kari Andersdotter; död 14 okt 1795, 16 år 10 mån.",
+  "notes": [
+   "BEGRAVNINGSBOK Boda E I/2 1795 (bild 49, s. 73), nr 18, 1 nov: ”Pigan Kari Nilsd. Boda, född 17[78?] af Vll. Nils arneson och h. Kari Anders[d.]” – ”afled af feber den 14 oct” – 16 år 10 mån. Sista siffran i födelseåret och sidans högra kant svårlästa (beskuren i zoom)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda lysnings-, vigsel- (och begravnings)bok E I/2 (1773-1841), bild 49 (s. 73): Begrafne 1795, nr 18: ”Pigan Kari Nilsd. Boda … af Vll. Nils arneson och h. Kari Anders…”, 16 år 10 mån",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00049"
+   }
+  ],
+  "search": [
+   "Kari Nilsdotter (Boda, d. 1795)"
   ]
  }
 ]

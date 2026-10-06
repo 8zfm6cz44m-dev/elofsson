@@ -5720,5 +5720,16 @@
   "b": "fr_olofjonsson1758",
   "status": "strong",
   "basis": "Båda barn till Ingerid i Rörbäcken (dop bild 63 och 118)"
+ },
+ {
+  "id": "c-nils_arnesson_boda-kari_andersd_boda-kari_nilsd_boda1778",
+  "type": "child",
+  "parents": [
+   "nils_arnesson_boda",
+   "kari_andersd_boda"
+  ],
+  "child": "kari_nilsd_boda1778",
+  "status": "strong",
+  "basis": "Boda E I/2 bild 49 (s. 73), begrafne 1795 nr 18: ”Pigan Kari Nilsd. Boda … af Vll. Nils arneson och h. Kari Anders…” – samma föräldranamn som dopboken 1796 (C I/2 bild 165); ej enda möjliga Nils Arnesson men samma socken."
  }
 ]
