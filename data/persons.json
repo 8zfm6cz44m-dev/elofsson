@@ -1237,7 +1237,9 @@
     "1945",
     "Dör 1945-11-11."
    ]
-  ]
+  ],
+  "country": "US",
+  "country_note": "Reste 1923 till USA (Jamestown, N.Y.); återvände till Sverige."
  },
  {
   "id": "hulda",
@@ -2458,7 +2460,9 @@
     "1903",
     "Emigrerar till Nordamerika."
    ]
-  ]
+  ],
+  "country": "US",
+  "country_note": "Emigrerade 1903 till USA (möjligen Mt. Jewett, Pennsylvania)."
  },
  {
   "id": "iwona",
@@ -4308,7 +4312,9 @@
    "Intilliggande sökträffar: Mons Andersen f. 1815 och Niels Andersen f. 1808, båda skinnberedare från Brunskog i Hurdal (1875) – yrkesgemenskap, släktskap okänd.",
    "NORGE (Z-A3, strong/möjligen): Anders Elofsen/Ellefsen f. 1816 Brunskog (\"Vermeland\") återfinns i tre norska källor: FT 1875 Eidsvoll, Hoel, skindfeldmager, inderst, g. m. Stina Nilsdatter f. 1813 Frykerud, inga barn i hushållet; FT 1891 Ullensaker (Øvre Sundby, hos Thorsten Nielsen), logerende, e-mand (enkemann) – Stina alltså död 1875–1891; begravning Eidsvoll 24 nov 1893 (död 15 nov 1893), s. 204 nr 45: \"Anders Ellefsen, avdød, f. 1816 Vermeland\" (kopian: 'Anders Ellessen', s. 303 nr 45). Stämmer med trädet: MÖJLIGEN (namn+födelseår+socken+patronymikon Elof- stämmer, men ingen post nämner föräldrarna Elof Persson/Maria Andersdotter; även ingen post visar utflyttning från Brunskog). Ej funnet: FT 1865 (flera sökvägar prövade), 1900/1910 (död 1893), vigsel, barn, Stinas död.",
    "Kollision att utesluta: Anders Elofsen f. 20/12 1828 'Sverige', Brandval (FT 1910, död 27/2 1915) är en annan person."
-  ]
+  ],
+  "country": "NO",
+  "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok)."
  },
  {
   "id": "jan_e",
@@ -14343,7 +14349,9 @@
   "places": [],
   "search": [
    "Nils Ejnar Augustsson"
-  ]
+  ],
+  "country": "CA",
+  "country_note": "Reste 1903 med brodern till Winnipeg, Kanada (Ellis Island-manifest)."
  },
  {
   "id": "anders_nilsson53_boda",
@@ -14401,7 +14409,9 @@
   ],
   "search": [
    "Anders Nilsson"
-  ]
+  ],
+  "country": "US",
+  "country_note": "Vistades en tid i Amerika 1880-talet (A I/25 bild 311); återvände."
  },
  {
   "id": "maria_katrina_andersdotter",
@@ -14475,7 +14485,9 @@
   "notes": [
    "USA 1903 (Z2): Ellis Island: 'Johan Albin Augustson/Augustsson', ankomst 7 maj 1903 Ellis Island, fartyg Teutonic från Liverpool, ogift man, f. 1884, 19 år, senaste hemvist 'Vermland', nationalitet indexerad 'Norway, Scandinavian' (felindex). Passenger-id JF5P-9Q3. Ovanligt namn + ålder (f. juli 1883 -> 19 i maj 1903) + Värmland ger STARK match, men släktskap ej bevisat av posten (ingen föräldranamn/kontakt läst). Destination ej läst (manifestbild).",
    "USA/KANADA 1903 (A1, manifestbild läst): S.S. Teutonic från Liverpool 29 apr 1903, ankomst Ellis Island 7 maj 1903, bild 352-208 rad 3: ”Augustsson, Johan Albin 19 … [labourer] … Vermland”; destination ”Winnipeg, Man.” (Kanada, ej USA); medföljande rad 4: ”Nils Einar 16 joiner” (efternamn ditto = Augustsson; = brodern Nils Ejnar f. 1887-08-21, id nils_ejnar_augustsson); anhörig: ”Cousin Anton [Kjerstrom/Nystrom? svårläst], 371 Alexander Ave., Winnipeg, Man.” Pengar ca $75/$100. Identitet stark: ovanligt namn+Albin+ålder 19+Värmland + yngre bror Nils Einar 16 i direkt följd. Ellis Island-indexet ger 'Norway, Scandinavian' (felindex)."
-  ]
+  ],
+  "country": "CA",
+  "country_note": "Reste 1903 till Winnipeg, Kanada (Ellis Island-manifest)."
  },
  {
   "id": "nils_olsson_nboda",
@@ -15792,7 +15804,9 @@
   "places": [],
   "search": [
    "Anna Erikson (f. ca 1880, Brunskog; Ellis Island 1903)"
-  ]
+  ],
+  "country": "US",
+  "country_note": "Ellis Island 1903, destination Mt. Jewett, Pennsylvania."
  },
  {
   "id": "eric_h_erikson_1902",
@@ -15816,7 +15830,9 @@
   "places": [],
   "search": [
    "Eric H. Erikson (spädbarn f. ca 1902)"
-  ]
+  ],
+  "country": "US",
+  "country_note": "Ellis Island 1903, destination Mt. Jewett, Pennsylvania."
  },
  {
   "id": "no_stina_nilsd13",

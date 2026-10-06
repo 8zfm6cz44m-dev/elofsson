@@ -245,3 +245,8 @@ ol.tl .tly{font-weight:700;color:var(--muted)}
 .card .rl{flex:1 1 auto;min-height:0;overflow:hidden;margin-top:2px;font-size:11px;line-height:1.25;color:#4a5a5e}
 .card .rl i{display:block;font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .card.c-lead .rl{color:#5a666a}
+
+/* Landsflagga i kortets hörn (personer utanför Sverige) */
+.card .cflag{position:absolute;right:6px;top:4px;font-size:15px;line-height:1;filter:drop-shadow(0 0 1px rgba(0,0,0,.25))}
+.card.has-flag .nm{padding-right:20px}
+.flaglegend{margin:4px 0 0;font-size:12px;color:var(--muted)}

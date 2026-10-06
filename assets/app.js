@@ -20,6 +20,18 @@ const LINE   = {
   lead:      { c:"var(--lead)",     w:2,   d:"1 5" },
   excluded:  { c:"var(--excluded)", w:2,   d:"2 4" }
 };
+const COUNTRY = { PL:{f:"\u{1F1F5}\u{1F1F1}",n:"Polen"}, NO:{f:"\u{1F1F3}\u{1F1F4}",n:"Norge"}, US:{f:"\u{1F1FA}\u{1F1F8}",n:"USA"}, CA:{f:"\u{1F1E8}\u{1F1E6}",n:"Kanada"} };
+const COUNTRY_RX = {
+  PL:/Kielce|Szyd|Mni[o\u00f3]w|Trzci|Polen|Poland|Chojna|Odrow|Ro\u017cowice|Wylez|Szczecin|Gryfino/,
+  NO:/Eidsvoll|Hurdal|L\u00f8iten|Loiten|Aker\b|Kristiania|Oslo|Ullensaker|Romedal|Norge|Norway|Eidskog|Kongsvinger|Brandval|Nannestad/,
+  US:/\bUSA\b|Amerika|America|New York|N\.Y\.|Pennsylvania|Mt\. Jewett|Minnesota|Minneapolis|Jamestown|Illinois|California|Chicago|Wisconsin|Michigan/,
+  CA:/Winnipeg|Manitoba|Kanada|Canada/ };
+function countryOf(p) {
+  if(p.country) return p.country;
+  const t=[p.born?.place,p.died?.place,...(p.places||[])].filter(Boolean).join(" ");
+  for(const c of Object.keys(COUNTRY_RX)) if(COUNTRY_RX[c].test(t)) return c;
+  return "";
+}
 const DOCNAME = { master:'Släktforskningsmaster', logg:'Forskningslogg', bild:'Bildregister' };
 const COLW=208, ROWH=190, CW=184, CH=140, GUT=170, PAD=56;
 let OX=0, OY=0;
@@ -315,13 +327,15 @@ function renderTree() {
   vis.forEach(id=>{
     const p=S.P[id], [c,r]=v.pos[id];
     const kin=kinParts(id,KIN,3);
+    const cc=COUNTRY[countryOf(p)]?countryOf(p):"", cNote=cc?(p.country_note||("Land: "+COUNTRY[cc].n)):"";
     const place=(p.places&&p.places[0])||"";
     const flag=(p.flags&&p.flags[0])||"";
     const fc=flag?"var(--unresolved)":"var(--muted)";
     const ft=flag?esc(flag):`<span style="font-weight:400">${esc(STATUS[p.status].label)}</span>`;
-    html+=`<button type="button" class="card c-${p.status}${id==="martin"?" root":""}" data-card="${id}"
+    html+=`<button type="button" class="card c-${p.status}${id==="martin"?" root":""}${cc?" has-flag":""}" data-card="${id}"
       style="left:${X(c)}px;top:${Y(r)}px"
       aria-label="${esc(p.name)}, ${esc(STATUS[p.status].label)}${years(p)?", "+esc(years(p)):""}">
+      ${cc?`<span class="cflag" title="${esc(cNote)}" aria-hidden="true">${COUNTRY[cc].f}</span>`:""}
       <span class="nm">${esc(p.name)}</span>
       <span class="dt">${esc(years(p,true))||"&nbsp;"}</span>
       <span class="pl">${esc(place)}</span>
@@ -428,6 +442,7 @@ function openPanel(id) {
   if(p.born) facts.push(["F\xf6dd",[p.born.date,p.born.place].filter(Boolean).join(", "),p.born.note]);
   if(p.died) facts.push(["D\xf6d",[p.died.date,p.died.place].filter(Boolean).join(", "),p.died.note]);
   if(p.living) facts.push(["","Levande person"]);
+  { const cc=countryOf(p); if(COUNTRY[cc]) facts.push(["Land",`${COUNTRY[cc].f} ${COUNTRY[cc].n}${p.country_note?" \u2013 "+p.country_note:""}`]); }
   if(p.places?.length) facts.push(["Platser",p.places.join("; ")]);
   const numSrcs=(p.sources||[]).length, numHits=noteHits.length, numImgs=p.imgs.length;
   const imgTab=numImgs?`<button data-ptab="imgs" role="tab">Bilder&nbsp;<span style="color:var(--muted)">(${numImgs})</span></button>`:"";
