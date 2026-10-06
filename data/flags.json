@@ -3259,6 +3259,31 @@
     "no_daniel_danielsen25",
     "no_mons_andersen15"
    ]
+  },
+  {
+   "title": "Emil Andersson Östra Nolbystegen är ej Emil Persson (Britta Elofsdotter)",
+   "text": "Emil i Östra Nolbystegen är i husförhöret barn till Anders Persson f. 1830 och Maria Jonsdotter f. 1828, fött 6/12 187?, alltså inte son till Britta Elofsdotter/Per Adamsson (Emil f. 1858). Dubblettrisk bedöms låg; Emils eget födelseår (187?) bör läsas om på bild 217.",
+   "persons": [
+    "d7_emil_andersson_nolbystegen"
+   ]
+  },
+  {
+   "title": "Britta Maria Nolén – dotter till Olof Jansson/Maria Persdotter?",
+   "text": "Hon står sist i hushållet, f. 1865 (gifta 4/1 1864), så dotter är starkt troligt; relationen satt strong, ej verified (ordet ”dotter” ej använt). Tidigare notis föreslog syster – gifte 1864 gör det osannolikt.",
+   "persons": [
+    "d7_britta_maria_nolen"
+   ]
+  },
+  {
+   "title": "Ej länkade av tilldelad lista (utan föräldrar ur husförhör)",
+   "text": "Ingen länk gjord: d7_gustaf_svensson_takene (dräng, Wadlosa), d7_hulda_maria_olofsdotter_1880 (föräldrar ej utredda; fol. 206 piga/dotter oklar), d7_elin_maria_jonasdotter_1886 (piga från V. Emtervik, kan sökas i Eda/Västra Emtervik), d7_anders_andersson_skog_1868 (inhyses), d7_sylvander_johan (har redan relation), samt tidningsnamn (jo_maja_cajsa55, ivar_nilson_takene_usa, johan_olson_takene_usa1899, anton_winnipeg_cousin, nels_nelson_mtjewett, ei_johan_olaf_olsson_1923, hagstrom_d_predikant_arvika, andersson_takene_gigharbor, anna_nilsson_takene_1939) – inga föräldra-/hushållsuppgifter finns i noterna; ej gissat. Hagström-notisen: gift med dotter till Olof Olsson i Takene (olof_olsson_takene_1896) kunde prövas.",
+   "persons": [
+    "d7_gustaf_svensson_takene",
+    "d7_hulda_maria_olofsdotter_1880",
+    "d7_elin_maria_jonasdotter_1886",
+    "d7_anders_andersson_skog_1868",
+    "hagstrom_d_predikant_arvika"
+   ]
   }
  ],
  "conflicts": [
@@ -3756,6 +3781,14 @@
    "text": "Folkräkning 1890 anger Västra Ämtervik, 1900 Brunskog; husförhör 1909–20 anger Sandviken (V. Ämtervik) för Anders; barnen Anna Maria 1882, Betty 1887 med dittotecken. Olof Olsson ”Br.” – årtal överskrivet.",
    "persons": [
     "aq2_anders_olsson_1854_takene"
+   ]
+  },
+  {
+   "title": "Olof Jansson Gunnarsbytorp: 1842 eller 1850?",
+   "text": "d7_anna_maria_olofsdotter_1874 anger far f. 1850-09-21; husförhören A I/37 och A II a/1 anger 42 21/9. Anna Maria och Karin båda ”74” (Karin 16/11, Anna Maria 2/6) – inte tvillingar, ett årtal torde vara fel. Behöver omläsas.",
+   "persons": [
+    "as1_olof_jansson_gunnarsbytorp",
+    "d7_anna_maria_olofsdotter_1874"
    ]
   }
  ],

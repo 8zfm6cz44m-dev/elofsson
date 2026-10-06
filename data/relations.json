@@ -11280,5 +11280,193 @@
   "b": "ar2_anna_bryntesd_nas",
   "status": "candidate",
   "basis": "Dop 1858 C0036785_00082."
+ },
+ {
+  "id": "p-as1_olof_jonsson_1840_skogshaget-as1_maria_persdotter_1844_skogshaget",
+  "type": "partner",
+  "a": "as1_olof_jonsson_1840_skogshaget",
+  "b": "as1_maria_persdotter_1844_skogshaget",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+ },
+ {
+  "id": "c-as1_olof_jonsson_1840_skogshaget-as1_maria_persdotter_1844_skogshaget-d7_johan_olofsson_1871_skog",
+  "type": "child",
+  "parents": [
+   "as1_olof_jonsson_1840_skogshaget",
+   "as1_maria_persdotter_1844_skogshaget"
+  ],
+  "child": "d7_johan_olofsson_1871_skog",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+ },
+ {
+  "id": "c-as1_olof_jonsson_1840_skogshaget-as1_maria_persdotter_1844_skogshaget-as1_olof_albert_olofsson_1880",
+  "type": "child",
+  "parents": [
+   "as1_olof_jonsson_1840_skogshaget",
+   "as1_maria_persdotter_1844_skogshaget"
+  ],
+  "child": "as1_olof_albert_olofsson_1880",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+ },
+ {
+  "id": "s-d7_johan_olofsson_1871_skog-as1_olof_albert_olofsson_1880",
+  "type": "sibling",
+  "a": "d7_johan_olofsson_1871_skog",
+  "b": "as1_olof_albert_olofsson_1880",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+ },
+ {
+  "id": "p-as1_per_olofsson_1824_svartana-as1_stina_nilsdotter_1830_svartana",
+  "type": "partner",
+  "a": "as1_per_olofsson_1824_svartana",
+  "b": "as1_stina_nilsdotter_1830_svartana",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” (hushållsposition, ordet ”son” ej läst)"
+ },
+ {
+  "id": "c-as1_per_olofsson_1824_svartana-as1_stina_nilsdotter_1830_svartana-d7_olof_persson_svartana_1873",
+  "type": "child",
+  "parents": [
+   "as1_per_olofsson_1824_svartana",
+   "as1_stina_nilsdotter_1830_svartana"
+  ],
+  "child": "d7_olof_persson_svartana_1873",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” (hushållsposition, ordet ”son” ej läst)"
+ },
+ {
+  "id": "p-as1_anders_persson_1830_nolbystegen-as1_maria_jonsdotter_1828_nolbystegen",
+  "type": "partner",
+  "a": "as1_anders_persson_1830_nolbystegen",
+  "b": "as1_maria_jonsdotter_1828_nolbystegen",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”"
+ },
+ {
+  "id": "c-as1_anders_persson_1830_nolbystegen-as1_maria_jonsdotter_1828_nolbystegen-d7_emil_andersson_nolbystegen",
+  "type": "child",
+  "parents": [
+   "as1_anders_persson_1830_nolbystegen",
+   "as1_maria_jonsdotter_1828_nolbystegen"
+  ],
+  "child": "d7_emil_andersson_nolbystegen",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”"
+ },
+ {
+  "id": "p-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan",
+  "type": "partner",
+  "a": "as1_olof_andersson_lyckan_svartana",
+  "b": "as1_ingegard_olsdotter_1832_lyckan",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+ },
+ {
+  "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-as1_johannes_olofsson_lyckan_1867",
+  "type": "child",
+  "parents": [
+   "as1_olof_andersson_lyckan_svartana",
+   "as1_ingegard_olsdotter_1832_lyckan"
+  ],
+  "child": "as1_johannes_olofsson_lyckan_1867",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+ },
+ {
+  "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-d7_nils_olofsson_lyckan_svartana",
+  "type": "child",
+  "parents": [
+   "as1_olof_andersson_lyckan_svartana",
+   "as1_ingegard_olsdotter_1832_lyckan"
+  ],
+  "child": "d7_nils_olofsson_lyckan_svartana",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+ },
+ {
+  "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-as1_elisabeth_olofsdotter_lyckan_1874",
+  "type": "child",
+  "parents": [
+   "as1_olof_andersson_lyckan_svartana",
+   "as1_ingegard_olsdotter_1832_lyckan"
+  ],
+  "child": "as1_elisabeth_olofsdotter_lyckan_1874",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+ },
+ {
+  "id": "p-d7_olof_jansson_1836_svartana-as1_maria_persdotter_1839_svartana",
+  "type": "partner",
+  "a": "d7_olof_jansson_1836_svartana",
+  "b": "as1_maria_persdotter_1839_svartana",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna”"
+ },
+ {
+  "id": "c-d7_olof_jansson_1836_svartana-as1_maria_persdotter_1839_svartana-d7_britta_maria_nolen",
+  "type": "child",
+  "parents": [
+   "d7_olof_jansson_1836_svartana",
+   "as1_maria_persdotter_1839_svartana"
+  ],
+  "child": "d7_britta_maria_nolen",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna” – födelse 1865 efter vigsel 1864 stödjer dotterskap"
+ },
+ {
+  "id": "c-d7_olof_jansson_1836_svartana-as1_maria_persdotter_1839_svartana-as1_anna_sofia_olofsdotter_1879",
+  "type": "child",
+  "parents": [
+   "d7_olof_jansson_1836_svartana",
+   "as1_maria_persdotter_1839_svartana"
+  ],
+  "child": "as1_anna_sofia_olofsdotter_1879",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna”"
+ },
+ {
+  "id": "p-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog",
+  "type": "partner",
+  "a": "as1_olof_jansson_gunnarsbytorp",
+  "b": "as1_brita_nilsdotter_1839_skog",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+ },
+ {
+  "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-d7_anna_maria_olofsdotter_1874",
+  "type": "child",
+  "parents": [
+   "as1_olof_jansson_gunnarsbytorp",
+   "as1_brita_nilsdotter_1839_skog"
+  ],
+  "child": "d7_anna_maria_olofsdotter_1874",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+ },
+ {
+  "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-as1_karin_olofsdotter_1874",
+  "type": "child",
+  "parents": [
+   "as1_olof_jansson_gunnarsbytorp",
+   "as1_brita_nilsdotter_1839_skog"
+  ],
+  "child": "as1_karin_olofsdotter_1874",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+ },
+ {
+  "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-d7_karl_oskar_olofsson_skog",
+  "type": "child",
+  "parents": [
+   "as1_olof_jansson_gunnarsbytorp",
+   "as1_brita_nilsdotter_1839_skog"
+  ],
+  "child": "d7_karl_oskar_olofsson_skog",
+  "status": "strong",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
  }
 ]

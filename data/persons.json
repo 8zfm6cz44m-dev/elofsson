@@ -3374,7 +3374,8 @@
   "summary": "FAN-person: långvarig häst-/ägarrelation med Morgan. Mangskogs Mona f. 1948 är inte visad vara samma person. Ingen släktrelation antas.",
   "search": [
    "Mona"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "anna_jakobsson",
@@ -3739,7 +3740,8 @@
   ],
   "search": [
    "Georg Eriksson"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "anna_e",
@@ -3761,7 +3763,8 @@
   ],
   "search": [
    "Anna Eriksson"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "rut_e",
@@ -3784,7 +3787,8 @@
   "search": [
    "Rut Eriksson",
    "Rut Widner"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "gustav",
@@ -3806,7 +3810,8 @@
   ],
   "search": [
    "Gustav Olsson"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "arvid_framme",
@@ -3828,7 +3833,8 @@
   ],
   "search": [
    "Där Framme"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "elofpersson",
@@ -7512,7 +7518,8 @@
   "born": {
    "date": "1933-06-05",
    "place": "Kielce"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "lucyna_o",
@@ -7536,7 +7543,8 @@
   },
   "died": {
    "date": "Avliden"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "zbigniew_o",
@@ -7558,7 +7566,8 @@
   "born": {
    "date": "1955-07-01",
    "place": "Kielce"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "leszek_o",
@@ -7582,7 +7591,8 @@
   },
   "died": {
    "date": "1985"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "krzysztof_o",
@@ -7606,7 +7616,8 @@
   },
   "died": {
    "date": "2017"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "bozena_o",
@@ -7627,7 +7638,8 @@
   ],
   "born": {
    "date": "1960-06-19"
-  }
+  },
+  "sidoperson": true
  },
  {
   "id": "david_rozek",
@@ -11400,7 +11412,8 @@
   "places": [],
   "search": [
    "Bitten Jakobsson"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "bengt_backdahl",
@@ -11426,7 +11439,8 @@
   "places": [],
   "search": [
    "Bengt Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "annastina_backdahl",
@@ -11583,7 +11597,8 @@
   "places": [],
   "search": [
    "Greta Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "gunnar_kilhage",
@@ -11625,7 +11640,8 @@
   "places": [],
   "search": [
    "Folke Kilhage"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "erik_kilhage",
@@ -11672,7 +11688,8 @@
   "places": [],
   "search": [
    "Mikael Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "jennie_backdahl",
@@ -11698,7 +11715,8 @@
   "places": [],
   "search": [
    "Jennie Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "gustav_backdahl",
@@ -11719,7 +11737,8 @@
   "places": [],
   "search": [
    "Gustav Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "oskar_backdahl_2",
@@ -11740,7 +11759,8 @@
   "places": [],
   "search": [
    "Oskar Bäckdahl (yngre)"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "zebastian_backdahl",
@@ -11761,7 +11781,8 @@
   "places": [],
   "search": [
    "Zebastian Bäckdahl"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "elin_backdahl",
@@ -11813,7 +11834,8 @@
   "places": [],
   "search": [
    "Tommy Johansson"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "stanislaw_uchman",
@@ -11839,7 +11861,8 @@
   "places": [],
   "search": [
    "Stanisław Uchman"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "stefania_uchman",
@@ -11865,7 +11888,8 @@
   "places": [],
   "search": [
    "Stefania Uchman (född Budzisz)"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "sven_ersson",
@@ -36719,6 +36743,443 @@
   ],
   "search": [
    "Anna Bryntesdotter"
+  ]
+ },
+ {
+  "id": "as1_olof_jonsson_1840_skogshaget",
+  "name": "Olof Jönsson (Östra Skogshaget, f. 1840)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1840-04-08",
+   "place": "V. Emtervik"
+  },
+  "places": [
+   "Östra Skogshaget, Skog"
+  ],
+  "summary": "Egare Östra Skogshaget, Skog 1891–95; gift med Maria Persdotter; far till Jonte (f. 1871) och Olof Albert (f. 1880).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 163: ”Eg. Olof Jönsson 40 8/4 W. Emtervik”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog fol. 167, bild 163: Östra Skogshaget",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00163"
+   }
+  ],
+  "search": [
+   "Olof Jönsson (Östra Skogshaget, f. 1840)"
+  ]
+ },
+ {
+  "id": "as1_maria_persdotter_1844_skogshaget",
+  "name": "Maria Persdotter (Östra Skogshaget, f. 1844)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1844-05-05",
+   "place": "Skog"
+  },
+  "places": [
+   "Östra Skogshaget, Skog"
+  ],
+  "summary": "Hustru till Olof Jönsson, Östra Skogshaget.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 163: ”H. Maria Persdotter 44 5/5 Skog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog fol. 167, bild 163: Östra Skogshaget",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00163"
+   }
+  ],
+  "search": [
+   "Maria Persdotter (Östra Skogshaget, f. 1844)"
+  ]
+ },
+ {
+  "id": "as1_olof_albert_olofsson_1880",
+  "name": "Olof Albert Olofsson (Östra Skogshaget, f. 1880)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1880-06-24",
+   "place": "Skog"
+  },
+  "places": [
+   "Östra Skogshaget, Skog"
+  ],
+  "summary": "Barn i Olof Jönssons hushåll, Östra Skogshaget (yngre bror till Johan/Jonte f. 1871).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 163: ”Olof Albert 80 24/6”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog fol. 167, bild 163: Östra Skogshaget",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00163"
+   }
+  ],
+  "search": [
+   "Olof Albert Olofsson (Östra Skogshaget, f. 1880)"
+  ]
+ },
+ {
+  "id": "as1_per_olofsson_1824_svartana",
+  "name": "Per Olofsson (Svartåna, inhyses, f. 1824)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1824-09-07",
+   "place": "N. Tutan"
+  },
+  "places": [
+   "Svartåna"
+  ],
+  "summary": "Inhyses Svartåna 1891–95; gift med Stina Nilsdotter; far till Olof (f. 1873).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 224: ”Inh. Per Olofsson 24 7/9 N. Tutan”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 230, bild 224",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00224"
+   }
+  ],
+  "search": [
+   "Per Olofsson (Svartåna, inhyses, f. 1824)"
+  ]
+ },
+ {
+  "id": "as1_stina_nilsdotter_1830_svartana",
+  "name": "Stina Nilsdotter (Svartåna, f. 1830, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1830-08-07",
+   "place": "Boda"
+  },
+  "places": [
+   "Svartåna"
+  ],
+  "summary": "Hustru till Per Olofsson, Svartåna.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 224: ”H. Stina Nilsdotter 30 7/8 Boda”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 230, bild 224",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00224"
+   }
+  ],
+  "search": [
+   "Stina Nilsdotter (Svartåna, f. 1830, Boda)"
+  ]
+ },
+ {
+  "id": "as1_anders_persson_1830_nolbystegen",
+  "name": "Anders Persson (Östra Nolbystegen, f. 1830)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1830-06-27",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Östra Nolbystegen, Svartåna"
+  ],
+  "summary": "Egare Östra Nolbystegen; gift med Maria Jonsdotter; far till Emil (Nordamerika 1891).",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 217: ”Eg. Anders Persson 30 27/6 Svartåna”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 222, bild 217: Östra Nolbystegen",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00217"
+   }
+  ],
+  "search": [
+   "Anders Persson (Östra Nolbystegen, f. 1830)"
+  ]
+ },
+ {
+  "id": "as1_maria_jonsdotter_1828_nolbystegen",
+  "name": "Maria Jonsdotter (Östra Nolbystegen, f. 1828)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1828-01-16",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Östra Nolbystegen, Svartåna"
+  ],
+  "summary": "Hustru till Anders Persson, Östra Nolbystegen.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 217: ”H. Maria Jonsdotter 28 16/1 Svartåna”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 222, bild 217: Östra Nolbystegen",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00217"
+   }
+  ],
+  "search": [
+   "Maria Jonsdotter (Östra Nolbystegen, f. 1828)"
+  ]
+ },
+ {
+  "id": "as1_olof_andersson_lyckan_svartana",
+  "name": "Olof Andersson (Lyckan, Svartåna)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Svartåna",
+   "note": "27? 11/2; årtal osäkert"
+  },
+  "places": [
+   "Lyckan, Svartåna"
+  ],
+  "summary": "Egare Lyckan, Svartåna 1891–95; gift med Ingegärd Olsdotter; far till Johannes, Nils och Elisabeth.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 213: ”Eg. Olof Andersson 27? 11/2 Svartåna”. Åldern ser ut att vara 1827? medan hustrun är f. 1832 – kontrollera."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 218, bild 213: Lyckan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   }
+  ],
+  "search": [
+   "Olof Andersson (Lyckan, Svartåna)"
+  ]
+ },
+ {
+  "id": "as1_ingegard_olsdotter_1832_lyckan",
+  "name": "Ingegärd Olsdotter (Lyckan, Svartåna, f. 1832)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1832-08-30",
+   "place": "Hortan"
+  },
+  "places": [
+   "Lyckan, Svartåna"
+  ],
+  "summary": "Hustru till Olof Andersson, Lyckan.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 213: ”H. Ingegärd Olsdotter 32 30/8 Hortan”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 218, bild 213: Lyckan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   }
+  ],
+  "search": [
+   "Ingegärd Olsdotter (Lyckan, Svartåna, f. 1832)"
+  ]
+ },
+ {
+  "id": "as1_johannes_olofsson_lyckan_1867",
+  "name": "Johannes Olofsson (Lyckan, Svartåna, f. 1867?)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "Svartåna",
+   "note": "67? 24/7"
+  },
+  "places": [
+   "Lyckan, Svartåna",
+   "Nedra Ullerud (1893)"
+  ],
+  "summary": "Barn i Olof Anderssons hushåll, Lyckan; till Nedra Ullerud 30/10 1893.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 213: ”Johannes 67? 24/7 Svartåna”, flytt ”Nedra Ullerud 93 30/10”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 218, bild 213: Lyckan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   }
+  ],
+  "search": [
+   "Johannes Olofsson (Lyckan, Svartåna, f. 1867?)"
+  ]
+ },
+ {
+  "id": "as1_elisabeth_olofsdotter_lyckan_1874",
+  "name": "Elisabeth Olofsdotter (Lyckan, f. 1874)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1874-11-28",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Lyckan, Svartåna",
+   "N. Ullerud (1895)"
+  ],
+  "summary": "Barn i Olof Anderssons hushåll, Lyckan; till N. Ullerud 1/11 1895.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 213: ”Elisabeth 74 28/11”, flytt ”N. Ullerud 95 1/11”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 218, bild 213: Lyckan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   }
+  ],
+  "search": [
+   "Elisabeth Olofsdotter (Lyckan, f. 1874)"
+  ]
+ },
+ {
+  "id": "as1_maria_persdotter_1839_svartana",
+  "name": "Maria Persdotter (Där Nole, Svartåna, f. 1839)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1839-03-18",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Där Nole, Svartåna"
+  ],
+  "summary": "Hustru till Olof Jansson (f. 1836), Där Nole; gift 4/1 1864.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 208: ”H. Maria Persdotter 39 18/3 Svartåna”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 213, bild 208: Där nole",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00208"
+   }
+  ],
+  "search": [
+   "Maria Persdotter (Där Nole, Svartåna, f. 1839)"
+  ]
+ },
+ {
+  "id": "as1_anna_sofia_olofsdotter_1879",
+  "name": "Anna Sofia (Där Nole, Svartåna, f. 1879)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879-11-15",
+   "place": "Svartåna"
+  },
+  "places": [
+   "Där Nole, Svartåna"
+  ],
+  "summary": "Barn i Olof Janssons hushåll, Där Nole.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 208: ”Anna Sofia 79 15/11 Svartåna”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Svartåna fol. 213, bild 208: Där nole",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00208"
+   }
+  ],
+  "search": [
+   "Anna Sofia (Där Nole, Svartåna, f. 1879)"
+  ]
+ },
+ {
+  "id": "as1_olof_jansson_gunnarsbytorp",
+  "name": "Olof Jansson (Skog/Gärde, f. Gunnarsbytorp)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "21/9",
+   "place": "Gunnarsbytorp",
+   "note": "år 42 i husförhöret (1842), men Anna Marias post anger 1850 – se flagga"
+  },
+  "places": [
+   "Skog (Gärde)"
+  ],
+  "summary": "Egare Skog/Gärde; gift med Brita Nilsdotter; far till Anna Maria, Karin och Karl Oskar.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 164: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp”; A II a/1 bild 213: ”Olof Jansson 42 21/9”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Skog fol. 168, bild 164 samt A II a/1 fol. 203 (bild 213, 00053596)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00164"
+   }
+  ],
+  "search": [
+   "Olof Jansson (Skog/Gärde, f. Gunnarsbytorp)"
+  ]
+ },
+ {
+  "id": "as1_brita_nilsdotter_1839_skog",
+  "name": "Brita Nilsdotter (Skog/Gärde, f. 1839, Toltan)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1839-06-25",
+   "place": "Toltan"
+  },
+  "places": [
+   "Skog (Gärde)"
+  ],
+  "summary": "Hustru till Olof Jansson, Skog/Gärde.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 164: ”H. Brita Nilsdotter 39 25/6 Tolkan”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Skog fol. 168, bild 164 samt A II a/1 fol. 203 (bild 213, 00053596)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00164"
+   }
+  ],
+  "search": [
+   "Brita Nilsdotter (Skog/Gärde, f. 1839, Toltan)"
+  ]
+ },
+ {
+  "id": "as1_karin_olofsdotter_1874",
+  "name": "Karin Olofsdotter (Skog/Gärde, f. 1874)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1874-11-16",
+   "place": "Takene"
+  },
+  "places": [
+   "Skog (Gärde)"
+  ],
+  "summary": "Barn i Olof Janssons hushåll, Skog/Gärde.",
+  "notes": [
+   "HUSFÖRHÖR A I/37 bild 164: ”Karin 74 16/11 Takene”; A II a/1 bild 213 ”Karin 74 16/11 Jacken”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/37, Skog fol. 168, bild 164 samt A II a/1 fol. 203 (bild 213, 00053596)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00164"
+   }
+  ],
+  "search": [
+   "Karin Olofsdotter (Skog/Gärde, f. 1874)"
   ]
  }
 ]
