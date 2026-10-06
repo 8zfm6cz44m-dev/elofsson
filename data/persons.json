@@ -4888,8 +4888,8 @@
   "sex": "m",
   "born": {
    "date": "1779-03-25",
-   "place": "Fryksände",
-   "note": "Husförhör A I/17 bild 117 (zoomad): fältet läses 25 över 3, år 79, ort Fryksände – dvs 25/3 1779, INTE 25/5. Dödboken (58 år 2 mån 5 dagar vid 30/5 1838) ger 25/3 1780. Dag 25 och månad mars stämmer i båda; endast året (1779 vs 1780) avviker. Dopet ej funnet i Fryksände C I/4 (bild 108 och 111) eller Brunskog C I/2."
+   "place": "Gönäs, Frykerud",
+   "note": "Dop Frykerud C/5 bild 20: dopdatum 26/3 1779, föräldrar Christopher Svensson och Elin Svensdotter i Gönäs. Husförhör A I/12 bild 16 (Såldebråten): ”S. Erik” 1779 25/3 (överstruket). Brunskog A I/17 bild 117 anger 25/3 79 ”Fryksände” – ortnamnet syftar troligen på Fryksände socken/Fryksdalen generellt; hör ihop med Frykerud. Dödboken ger 25/3 1780 (åldersberäkning)."
   },
   "places": [
    "Ö. Takene, Brunskog"
@@ -4919,6 +4919,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117 (s. 99, Ö. Takene), omläst med zoom: ”Bonde Erik Christofferson 25/3 79 Fryksände” (bråktecken 25 över 3; ort Fryksände tydligt)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 20, mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00020"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: ”S. Erik” 1779 25/3 under Christopher Svensson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
    }
   ],
   "search": [
@@ -4937,7 +4945,8 @@
    "FRYKSÄNDE C I/4 (C0037199) V5 genomläst: bild 108 (1779 nr 14–47; mars 1779 = nr 18–23: nr 22 Kari 25/28 mars Näsbacken?/Rettjöberget, nr 23 Maria 25/28 mars Rettjöberget, nr 24 Jon 28/30 mars Ohleby; april börjar nr 25 Nils Svenneby 1/2) – ingen Erik 25/3 1779. Nr 17 Kjersti 5/7 Öhlebybruk: fader Christoph Hult (Christoph: Hellt), mor Maria Andersd – dotter, ej Erik, men visar att Christopher Hult fanns på Öhlebybruk 1779. Bild 111 (1780): mars börjar nr 34 (Per 2/4 Bada), nr 35 Erik 11/12 mars Pensbol (Jon Nilsson/Gertrud Jonsd) – ej rätt fader; nr 36–37 Ingebor/Karin 9/12 Wattanvik; 38 Ingierd 12/13 Pehrsby; 39 Kari 16/18 Kjellkerud; 40 Karin 14/18 Mangen; 41 Kjersti 16/18 Röbjörkeby; 42 Pehr 18/19 Witfand; 43 Marit 18/19 Öfverbyn; 44 Kjersti 20/24 Thorsby; 45 Lars 22/24 Alleby; 46 Olof 16/17 Bada; 47 Jon 24/26 Utterbyn; 48 Lars 22/27 Kjellerud; 49 Kjersti (april) 8/9. Ingen födelse 25 mars 1780 och ingen Erik med fader Christopher/Christoffer.",
    "BRUNSKOG C I/2 bild 162 (C0036783, 1780, s. 285): mars–maj 1780 nr 14 Johan 3 mars, nr 15 Olof 11, nr 16 Kari 24, nr 17 Olof 26, nr 18 Eric (Åsen, Per Olsson/Kari Ersdotter) – inte fader Christopher, ingen match.",
    "BRUNSKOG DOPBOK C I/2 bild 159 (s. 279) och bild 160 (s. 281), 1779 (omläst helt): jan–dec 1779 innehåller INGEN Erik. Mars 1779: nr 12 Nils 7 mars (Gunnarsby), nr 13 Karin 9 mars (Storud), nr 14 Nils 10 mars (Storud), nr 15 Anders 14 mars (Gullesby), nr 16 Anna 17 mars (Finnebeck); inget dop 25 mars. Bild 160 nr 22 Olof 5/? (O. Takene, And. Andersson/Marit Pehrsd.) och nr 24 Per 24 juni (O. Takene), nr 25 Brita (O. Takene) – inga Erik. Brunskog 1779 utesluter Erik; tillsammans med tidigare lästa 1780 (bild 162) är Brunskog dopbok uteslutet för båda årtalen.",
-   "HUSFÖRHÖR A I/5 (C0036744) bild 73, 74, 76 (Ö. Takene 1782–89, s. 61, 62, 64): ingen Erik Christophersson och ingen fader Christopher bland hushållen (hushåll: Anders Nilsson 1711/Anders Andersson 1752 m. barn Olof 1779; Olof Andersson 1733; Olof Persson 1719; Nils Nilsson 1747 m. barn Nils 1773, Per 1775, Marit 1778, Brita 1780, Per 1783, Margareta 1786). Bild 75 (hushåll 10, Olof Olsson/Brita Christophersd. 1730) redan känd. Slutsats: Erik f. 1779/80 bodde sannolikt inte i Ö. Takene som barn; han föddes i Fryksände (husförhör A I/17) och kom till Brunskog som dräng före 1810 (vigseln 1810: 'Drängen Erik Christofersson från Brunskog')."
+   "HUSFÖRHÖR A I/5 (C0036744) bild 73, 74, 76 (Ö. Takene 1782–89, s. 61, 62, 64): ingen Erik Christophersson och ingen fader Christopher bland hushållen (hushåll: Anders Nilsson 1711/Anders Andersson 1752 m. barn Olof 1779; Olof Andersson 1733; Olof Persson 1719; Nils Nilsson 1747 m. barn Nils 1773, Per 1775, Marit 1778, Brita 1780, Per 1783, Margareta 1786). Bild 75 (hushåll 10, Olof Olsson/Brita Christophersd. 1730) redan känd. Slutsats: Erik f. 1779/80 bodde sannolikt inte i Ö. Takene som barn; han föddes i Fryksände (husförhör A I/17) och kom till Brunskog som dräng före 1810 (vigseln 1810: 'Drängen Erik Christofersson från Brunskog').",
+   "IDENTIFIERING (P1): Erik Christophersson f. 25/3 1779 i Frykerud (inte Fryksände) – dop 26/3 1779, föräldrar Christopher Svensson och Elin Svensdotter i Gönäs. Länk till Brunskog-Erik (A I/17 b.117: 25/3 79) kvarstår som STRONG: dag, månad, år och förnamn+patronymikon stämmer, men ingen källa nämner uttryckligen flytt till Brunskog."
   ],
   "timeline": [
    [
@@ -20041,7 +20050,8 @@
   "notes": [
    "DOPBOK Frykerud C/5 (1778–1807) bild 164 (s. 283, 1802): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son. vit: Nils Svensson och Torsten Månsson, Hust: Ingeborg Olsdotrs Hust Stina Olsdotr i Dedeta och Pig: Maria Halfvardsdotr i N. Glenna”; marginalen: ”Olof”.",
    "HUSFÖRHÖR Frykerud A I/12 (1797–1807) bild 16 (fol. 5), Såldebråten (ordagrant ur raderna): ”Christopther Svensson” f. 1754 21/10; ”H. Lena Salomonsdr” f. 1764 13/7; ”S. Pet/Erik(?)” (överstruket) 1779 25/3; ”D. Cajsa” 1784 27/(7?); ”S. Sven” 1788 24/4; ”S. Nils” 1791; ”S. Salomon” 1793; ”S. Magnus” 1796; ”S. Jonas” 1798; ”S. Olof” 1802. Anm. vid Christopher: ”Död 1803”; vid sonen Nils: ”Nils Svens. 1803”.",
-   "VIGSEL 12 juni 1782 (E I/1 bild 119): ”Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken” – dvs. änkling, andra giftet. Möjligt första gifte: Frykerud E I/1 bild 114 (1778, lysn. 24 juni): ”drängen Christopher Svensson … med pigan Elin [..]dotter” (hemmavigsel, svårläst; EJ säkert samma Christopher) – kan förklara det äldsta barnet f. 25/3 1779."
+   "VIGSEL 12 juni 1782 (E I/1 bild 119): ”Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken” – dvs. änkling, andra giftet. Möjligt första gifte: Frykerud E I/1 bild 114 (1778, lysn. 24 juni): ”drängen Christopher Svensson … med pigan Elin [..]dotter” (hemmavigsel, svårläst; EJ säkert samma Christopher) – kan förklara det äldsta barnet f. 25/3 1779.",
+   "P1: Gift 1:o 24 juni 1778 med Elin Svensdotter (Gönäs) – E I/1 bild 114; son Erik f. 25/3 1779, dop 26/3 1779 (C/5 bild 20). Gift 2:o 12 juni 1782 med Lena Salomonsdotter (änkling)."
   ],
   "sources": [
    {
@@ -20059,6 +20069,14 @@
    {
     "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814), bild 101 (1803): ”Gifta Christopher Svensson i Såldebråten”, feber, 49 år 4 mån 8 dgr; begr. 6 mars",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00101"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 bild 20 (1779): fader till Erik, Christopher Svensson i Gönäs, moder Elin Svensdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00020"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 bild 114 (24 juni 1778): drängen Christopher Swensson i Gönäs med pigan Elin ..dotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00114"
    }
   ],
   "search": [
@@ -20658,6 +20676,34 @@
   ],
   "search": [
    "Anders Elofsson (f. 1848)"
+  ]
+ },
+ {
+  "id": "elin_svensdotter_gonas",
+  "name": "Elin Svensdotter (Gönäs, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Gönäs, Frykerud"
+  ],
+  "summary": "Gift 24 juni 1778 (hemvigsel) med drängen Christopher Svensson; mor till Erik Christophersson f. 25/3 1779 enligt dopboken. Död före Christophers nya giftermål 1782 (Christopher då änkling).",
+  "notes": [
+   "DOP Frykerud C/5 bild 20, 26 mars 1779: ”Erik Christophersson i Gönäs, af Comminister Wener. Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.”",
+   "VIGSEL Frykerud E I/1 bild 114 (s. 212), 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin [Svens?]dotter i Gönäs, morgongåfvor efter lag.” (efternamnsled svårläst/understruken; dopboken anger Svensdotter)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 20 (1779, mars, nr 26): Erik Christophersson i Gönäs, föräldrar Christopher Svensson och Elin Svensdotter ibidem",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00020"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings-/vigselbok E I/1, bild 114 (s. 212), 24 juni 1778: drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00114"
+   }
+  ],
+  "search": [
+   "Elin Svensdotter (Gönäs, Frykerud)"
   ]
  }
 ]

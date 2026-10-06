@@ -5271,5 +5271,24 @@
   "b": "anders_ae48",
   "status": "verified",
   "basis": "samma föräldrar, Brunskog A I/23 bild 135 (s.123)"
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-elin_svensdotter_gonas-erik_christ",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "elin_svensdotter_gonas"
+  ],
+  "child": "erik_christ",
+  "status": "strong",
+  "basis": "Frykerud dopbok C/5 bild 20 (C0037138_00020), mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.” Husförhör A I/12 bild 16: ”S. Erik” 1779 25/3 hos Christopher Svensson. Identitet med Brunskog-Erik (25/3 79) bygger på samma dag/månad/år + namn."
+ },
+ {
+  "id": "p-christopher_svensson_saldebraten-elin_svensdotter_gonas",
+  "type": "partner",
+  "a": "christopher_svensson_saldebraten",
+  "b": "elin_svensdotter_gonas",
+  "status": "strong",
+  "basis": "Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar."
  }
 ]
