@@ -6238,5 +6238,24 @@
   "b": "hanna_e",
   "status": "verified",
   "basis": "Brunskog A II a/3 bild 185 (Skog, Där nole): Hulda och Hanna Elisabet Eriksson (76 6/7, Brunskog) uppförda i Erik Nilssons och Anna Andersdotters hushåll (Hanna utan angiven familjeställning i kolumn 1; syskonskap stöds av SCB 1876 med samma föräldrar)."
+ },
+ {
+  "id": "p-olof_ec-maria_olofsd_ec",
+  "type": "partner",
+  "a": "olof_ec",
+  "b": "maria_olofsd_ec",
+  "status": "strong",
+  "basis": "A I/23 bild 144 (s. 142), Ö. Takene: ”Hustru Maria Olofsdr” direkt under Olof Ersson 2/5 15; anm. ”lysning ... Maria Olsdr i Takene”."
+ },
+ {
+  "id": "c-olof_ec-maria_olofsd_ec-betty_ec_1850",
+  "type": "child",
+  "parents": [
+   "olof_ec",
+   "maria_olofsd_ec"
+  ],
+  "child": "betty_ec_1850",
+  "status": "strong",
+  "basis": "A I/23 bild 144: ”Dotter Betty 22/6 50 ibm” i hushållet Olof Ersson/Maria Olofsdr (uttrycklig ’Dotter’ men ej dopbok)."
  }
 ]
