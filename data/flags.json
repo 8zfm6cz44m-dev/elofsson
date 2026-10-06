@@ -1707,6 +1707,30 @@
     "maria_cajsa_ae42",
     "nils_ae44"
    ]
+  },
+  {
+   "title": "Vigsel Zatorski × Ksiołówna 1864 (akt 152) – Katarzynas föräldrar?",
+   "text": "Katedra 1864 akt 152 (fil 150-153): Józef Zatorski (21?) son till Marcin och Maryanna f. Socha × Antonina Ksiołówna (22), dotter till makar Ksioł (mor Agata f. Osuch?), Szydłówek. Passar Katarzyna Zatorskas föräldrar men Józefs ålder avviker (21 mot 33 år 1871). Nästa steg: läs åldersraden i hög upplösning; sök Marcin Zatorskis övriga barn.",
+   "persons": [
+    "jozef_zatorski",
+    "antonina_zatorska_n",
+    "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Stanisław Orzechowski 1905 – aktnummer fortfarande oläst (G2)",
+   "text": "Index S:t Wojciech 1905 SkU-2 (höger sida, rad 16): 'Оржеховскій Станиславъ'; aktnumret skyms av tejp. Grannraderna stiger (Opałka, Orzechowski, Olszewski, Osuch Antonina ca 168, Osuch Anna 214) så numret ligger troligen under ca 165. G2 läste akt 130-135, 142-147, 160-165: ingen Orzechowski; tidigare agent 103-193 steg 10. Stanisław ej bevisad som Józefs son; ingen person upprättad.",
+   "persons": [
+    "jozef_orzechowski",
+    "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Dödsakt Agnieszka Orzechowska/Hencel ej funnen i Katedras dödsindex 1890-1894 (G2)",
+   "text": "Katedra dödsindex (SkZ) 1890-1894, O-block genomtittade (1890 SkZ-3, 1892 SkZ-3/4, 1893 SkZ-3/4, 1894 SkZ-2/3): ingen Orzechowska utom 1890 rad 264 'Оржеховская (перво..) женскаго пола' akt 402 (troligen nyfött flickebarn, ej kopplat till Agnieszka). 1891 O-block ej lokaliserat; 1884-1889 ej lästa. Indexen är bara grovt alfabetiska, ej uttömmande.",
+   "persons": [
+    "agnieszka_orzechowska_1849"
+   ]
   }
  ],
  "conflicts": [

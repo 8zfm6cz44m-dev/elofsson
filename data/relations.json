@@ -4937,5 +4937,24 @@
   "b": "nils_ae44",
   "status": "verified",
   "basis": "samma föräldrar, Boda dopbok C I/3 bild 62 och 74"
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-jozef_zatorski",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "jozef_zatorski",
+  "status": "candidate",
+  "basis": "Akt 152/1864: 'synem Marcina i Maryanny z Sochów' – gäller bara om brudgummen 1864 = Katarzynas far"
+ },
+ {
+  "id": "p-marcin_zatorski-maryanna_socha",
+  "type": "partner",
+  "a": "marcin_zatorski",
+  "b": "maryanna_socha",
+  "status": "candidate",
+  "basis": "Akt 152/1864"
  }
 ]
