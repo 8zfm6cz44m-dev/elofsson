@@ -2182,6 +2182,20 @@
    "title": "Agnieszka Hencel: ej funnen i Katedras födelseindex 1847–1849",
    "text": "H-sidorna i Kielce Katedra födelseindex (id57) 1847 (SkU-1/2: H börjar 'Haba, Habert, Habrowska'), 1848 (SkU-1: Haba, Hinera, Holewiński, Herbaczyński), 1849 (SkU-1: Haba, Hajcuh, Haber, Hoffmann) saknar Hencel. 1846 och 1850 ej läst; födseln kan ha skett i annan parafia än Katedra (Niewachlów hörde kanske till annan parafia, ex. Piekoszów/Zagnańsk?) eller stavats Hentzel/Hencl.",
    "persons": []
+  },
+  {
+   "title": "Kari Jonsdotter f. 1785 (Vikene): dop ej funnet i Brunskog",
+   "text": "Brunskog dopbok C I/3 bild 16–20 (1784–86) saknar dop av Kari Jonsdotter från Wikene. Nästa steg: kontrollera Brunskog dop jan 1785 (bild 17 föregående sida/bild 16 slut), Fryksände C I/4 (C0037199), Boda C I/2 ca bild 150–160, och husförhör Vikene A I/5–A I/6 (1782–89) för hushåll med dotter Kari f. 1785. MH-föräldrar Jon Ersson + Anna Andersdotter förblir lead.",
+   "persons": [
+    "kari_jonsd"
+   ]
+  },
+  {
+   "title": "Kaisa Olsdotter: dop 1802 Boda bild 182 ej omläst av AB1",
+   "text": "Befintliga noter anger dop aug 1802 nr 22 ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d.” (bild 182) och vigsel 26/12 1824 (E I/2 bild 120); AB1 hann inte kontrollera dessa, status förblir strong.",
+   "persons": [
+    "kaisa_olsd_boda"
+   ]
   }
  ],
  "conflicts": [
