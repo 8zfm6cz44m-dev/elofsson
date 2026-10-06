@@ -2005,6 +2005,21 @@
     "anders_mattsson_grimstad86",
     "brita_nilsd_grimstad86"
    ]
+  },
+  {
+   "title": "Marit Andersdotter (f. 1767) – föräldrar ej funna",
+   "text": "Arvika västra landsförs. (SE/VA/13011) dopbok C I/5 1767 (C0036489 bild 91-93) genomläst via marginalnoter + delar av text; ingen säker post. Kärrsmåsen sid 28 i A I/2 har Anders Nilsson/Ingjerd Jakobsd. med tvillingar f. 1767 (en post struken, namn oläsligt) – möjlig kandidat. Nästa steg: läs dopbok 1767 nr 1-18 (bild 91) och bild 94 helt; läs Arvika A I/3 (C0036448) övriga byar/piga 'Marit Andersd. 1767'; A I/4 (C0036449) utflyttning 'Brunskog 1791'; Arvika B/1 (1806-) ej relevant; eller Arvika vigselbok 1790-91 / Brunskog lysning.",
+   "persons": [
+    "marit_andersd67"
+   ]
+  },
+  {
+   "title": "Johan Albin och Nils Ejnar Augustsson i Kanada: inga träffar i öppna källor",
+   "text": "WebSearch (Augustson/Augustsson Winnipeg f. 1883/1887, Find a Grave, obituaries, mhs.mb.ca) gav inga relevanta träffar. automatedgenealogy.com/census11 returnerade HTTP 468 via WebFetch (blockerad). Ej försökt: LAC 1921 (blockerat), vitalstats.gov.mb.ca (formulär), 1916 prärieräkning. Rekommendation: manuell sökning i 1911 census (Winnipeg, 'Augustson/Agustson', f. 1883/1887 Sweden, immigr. 1903), samt Ellis Island-manifest S.S. Teutonic 7/5 1903.",
+   "persons": [
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
   }
  ],
  "conflicts": [
@@ -2638,6 +2653,14 @@
     "no_stina_nilsd13",
     "maria_cajsa_ae42",
     "nils_ae44"
+   ]
+  },
+  {
+   "title": "Anders Arnesson – första hustru",
+   "text": "Redan känd i repot: Kjersti Olsdotter (f. 3/8 1760 Ö. Takene), gift 26 dec 1786, död 16 juli 1790 i barnsäng (kjersti_olsd66). Inget nytt tillkommer.",
+   "persons": [
+    "anders_arnesson",
+    "kjersti_olsd66"
    ]
   }
  ]
