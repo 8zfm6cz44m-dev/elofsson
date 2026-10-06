@@ -5298,6 +5298,10 @@
    {
     "label": "Riksarkivet, Boda vigselbok E I/2, bild 123: ”Tjenstedr. Olof Christophersson fr Boda och Pigan Britta Nilsdotter S:bm”, N. Frykstén, 26/12 1827",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00123"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
    }
   ],
   "search": [
@@ -5315,7 +5319,8 @@
    "MYHERITAGE: i MH är Johannes Olssons mor Karin Olsdotter (karin_olsd_6g_a) – hos oss Britta Nilsdotter (Boda). Konflikt, se flagga.",
    "GRANSKNING: vigselboken 1827 anger ”fr. Boda”, medan husförhör/användarträd anger Fryksände/Frykerud. Konflikt.",
    "OMLÄSNING A I/14 bild 40 (zoom): ”Dr Olof Christophersson 19/2 02 Fryker[…] … inflyttad Frykerud 27”; ”H. Britta Nils d:r 3/2 07 Boda”; ”S. Christopher 3/? 28 do”; ”Son Johannes 17/5 30”. Utflyttning ”Frykerud 27” = socknen Frykerud (inte Fryksände). Vigselbokens ”fr Boda” = bosatt i Boda när han lystes (tjänstedräng hos svärfar), ej födelseort. LÖSNING: födelsesocken Frykerud, ej Fryksände; Fryksände C I/4 bild 160 är fel bok.",
-   "DOP Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. ”Olof”) – exakt samma dag som husförhörets 19/2 1802."
+   "DOP Frykerud C/5 bild 164 (s. 283): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son” (marg. ”Olof”) – exakt samma dag som husförhörets 19/2 1802.",
+   "HUSFÖRHÖR Frykerud A I/12 (1797–1807) bild 16 (fol. 5), Såldebråten: sista barnet i Christopher Svenssons hushåll är ”S. Olof” f. 1802 (inget dagdatum i raden) – stämmer med dopets Olof 19/2 1802. Identiteten med Boda-mannen vilar fortfarande på namn+födelsedag (A I/14 Boda ”19/2 02 Fryker…”) – status strong, ej verified."
   ]
  },
  {
@@ -19905,22 +19910,46 @@
   ],
   "summary": "Far till Olof f. 19/2 1802 i Frykerud enligt dopboken; Olof stämmer exakt (dag, socken, förnamn) med Olof Christophersson (gift i Boda 1827).",
   "notes": [
-   "DOPBOK Frykerud C/5 (1778–1807) bild 164 (s. 283, 1802): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son. vit: Nils Svensson och Torsten Månsson, Hust: Ingeborg Olsdotrs Hust Stina Olsdotr i Dedeta och Pig: Maria Halfvardsdotr i N. Glenna”; marginalen: ”Olof”."
+   "DOPBOK Frykerud C/5 (1778–1807) bild 164 (s. 283, 1802): ”19 | 21 | Såldebråten Christopher Svensons och Hust: Lena Salomonsdotrs Son. vit: Nils Svensson och Torsten Månsson, Hust: Ingeborg Olsdotrs Hust Stina Olsdotr i Dedeta och Pig: Maria Halfvardsdotr i N. Glenna”; marginalen: ”Olof”.",
+   "HUSFÖRHÖR Frykerud A I/12 (1797–1807) bild 16 (fol. 5), Såldebråten (ordagrant ur raderna): ”Christopther Svensson” f. 1754 21/10; ”H. Lena Salomonsdr” f. 1764 13/7; ”S. Pet/Erik(?)” (överstruket) 1779 25/3; ”D. Cajsa” 1784 27/(7?); ”S. Sven” 1788 24/4; ”S. Nils” 1791; ”S. Salomon” 1793; ”S. Magnus” 1796; ”S. Jonas” 1798; ”S. Olof” 1802. Anm. vid Christopher: ”Död 1803”; vid sonen Nils: ”Nils Svens. 1803”.",
+   "VIGSEL 12 juni 1782 (E I/1 bild 119): ”Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken” – dvs. änkling, andra giftet. Möjligt första gifte: Frykerud E I/1 bild 114 (1778, lysn. 24 juni): ”drängen Christopher Svensson … med pigan Elin [..]dotter” (hemmavigsel, svårläst; EJ säkert samma Christopher) – kan förklara det äldsta barnet f. 25/3 1779."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 164: 19/21 febr 1802 Såldebråten, Christopher Svensons och Hust: Lena Salomonsdotrs son (marg. Olof)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00164"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 119 (s. 223), 1782 jun 12: Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00119"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814), bild 101 (1803): ”Gifta Christopher Svensson i Såldebråten”, feber, 49 år 4 mån 8 dgr; begr. 6 mars",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00101"
    }
   ],
   "search": [
    "Christopher Svensson (Såldebråten, Frykerud)"
-  ]
+  ],
+  "born": {
+   "date": "1754-10-21",
+   "place": "(Frykerud?)",
+   "note": "Husförhör A I/12 bild 16: ”Christopther Svensson” 1754 21/10 (dag läst på förstoring; fältet före födelseår tomt). Dopet ej funnet."
+  },
+  "died": {
+   "date": "1803-02-23",
+   "place": "Såldebråten, Frykerud",
+   "note": "Dödbok Frykerud F/1 bild 101 (1803): ”Gifta Christopher Svensson i Såldebråten” dödsdag 23 [febr], begr. 6 mars, ”feber”, 49 år 4 mån 8 dagar (⇒ f. ca okt 1753; husförhöret ger 21/10 1754 – 1 års diff). Husförhör A I/12 anm. ”Död 1803”."
+  }
  },
  {
   "id": "lena_salomonsd_saldebraten",
-  "name": "Lena Salomonsdotter (Såldebråten, Frykerud)",
-  "status": "candidate",
+  "name": "Lena Salomonsdotter (Rörbäcken → Såldebråten, Frykerud)",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "places": [
@@ -19928,17 +19957,37 @@
   ],
   "summary": "Hustru till Christopher Svensson; mor till Olof f. 19/2 1802 i Frykerud (dop).",
   "notes": [
-   "DOPBOK Frykerud C/5 bild 164: ”Christopher Svensons och Hust: Lena Salomonsdotrs Son”."
+   "DOPBOK Frykerud C/5 bild 164: ”Christopher Svensons och Hust: Lena Salomonsdotrs Son”.",
+   "HUSFÖRHÖR Frykerud A I/12 (1797–1807) bild 16 (fol. 5), Såldebråten (ordagrant ur raderna): ”Christopther Svensson” f. 1754 21/10; ”H. Lena Salomonsdr” f. 1764 13/7; ”S. Pet/Erik(?)” (överstruket) 1779 25/3; ”D. Cajsa” 1784 27/(7?); ”S. Sven” 1788 24/4; ”S. Nils” 1791; ”S. Salomon” 1793; ”S. Magnus” 1796; ”S. Jonas” 1798; ”S. Olof” 1802. Anm. vid Christopher: ”Död 1803”; vid sonen Nils: ”Nils Svens. 1803”.",
+   "DOP Frykerud C/4 bild 166 (1764), vänstra sidan, marg. ”Rörbäcken”: ”… Salomon Bergers och h. Ingerid [Jons?]dr Barn Lena född d. 30 maj, döpt d. 3 Juni af Herr M. Fexenius …” – margin ”Lena”. Föräldrar enligt dop: Salomon Berger(sson?) och Ingerid. (Namnformen ”Bergers” = ev. patronymikon Bergersson eller tillnamn.)",
+   "VIGSEL Frykerud E I/1 bild 119 (s. 223), 1782 Jun 12 nr 2: ”Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken” (Lars Allster = [lysnings-/vigselavgift], 6 [rdr]). Christopher var alltså änkling 1782."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 164, 19/21 febr 1802",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00164"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777), bild 166 (s. 301, 1764): Rörbäcken, Salomon Bergers och h. Ingerid [..]dr barn Lena född 30 maj, döpt 3 juni (marg. Lena)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00166"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 (1708–1814), bild 119 (s. 223), 1782 jun 12 nr 2: ”Enklingen Christopher Svensson i Såldebråten och Pigan Lena Salomonsdotter i Rörbäcken”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00119"
    }
   ],
   "search": [
    "Lena Salomonsdotter (Såldebråten, Frykerud)"
-  ]
+  ],
+  "born": {
+   "date": "1764-05-30",
+   "place": "Rörbäcken, Frykerud",
+   "note": "Dop Frykerud C/4 bild 166 (1764): ”Rörbäcken Salomon Bergers och h. Ingerid [Jons-dr?] Barn Lena född d. 30 maj, döpt d. 3 Juni” (marg. ”Lena”). Husförhör A I/12 ger ”1764 13/7” (dag avviker, läst på förstoring – möjligen 30/5?). Identiteten stöds av vigselns ”Pigan Lena Salomonsdotter i Rörbäcken” (1782) + faderns namn Salomon + född 1764."
+  }
  },
  {
   "id": "anders_gustafsson_smadal",
@@ -20007,6 +20056,141 @@
   ],
   "search": [
    "Kjersti Olsdotter (Toltan, hustru till Nils Larsson)"
+  ]
+ },
+ {
+  "id": "sven_christophersson88_saldebraten",
+  "name": "Sven Christophersson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1788-04-24",
+   "place": "Såldebråten, Frykerud"
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
+  "notes": [
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Sven” f. 1788 24/4 i Christopher Svenssons hushåll, Såldebråten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   }
+  ],
+  "search": [
+   "Sven Christophersson"
+  ]
+ },
+ {
+  "id": "nils_christophersson91_saldebraten",
+  "name": "Nils Christophersson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1791",
+   "place": "Såldebråten, Frykerud"
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
+  "notes": [
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Nil” f. 1791, i Christopher Svenssons hushåll, Såldebråten; flyttkolumn ”afl”(?) / ”Nils Svens. 1803”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   }
+  ],
+  "search": [
+   "Nils Christophersson"
+  ]
+ },
+ {
+  "id": "salomon_christophersson93_saldebraten",
+  "name": "Salomon Christophersson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1793",
+   "place": "Såldebråten, Frykerud"
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
+  "notes": [
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Salomon” f. 1793, Såldebråten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   }
+  ],
+  "search": [
+   "Salomon Christophersson"
+  ]
+ },
+ {
+  "id": "magnus_christophersson96_saldebraten",
+  "name": "Magnus Christophersson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1796",
+   "place": "Såldebråten, Frykerud"
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
+  "notes": [
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Magnus” f. 1796, Såldebråten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   }
+  ],
+  "search": [
+   "Magnus Christophersson"
+  ]
+ },
+ {
+  "id": "jonas_christophersson98_saldebraten",
+  "name": "Jonas Christophersson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1798",
+   "place": "Såldebråten, Frykerud"
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn i Christopher Svenssons och Lena Salomonsdotters hushåll på Såldebråten, Frykerud (husförhör A I/12, bild 16).",
+  "notes": [
+   "HUSFÖRHÖR A I/12 bild 16: ”S. Jonas” f. 1798, Såldebråten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 16 (fol. 5), Såldebråten: Christopher Svensson 1754 21/10, hustru Lena Salomonsd 1764 13/7, barn Cajsa 1784, Sven 1788, Nil 1791, Salomon 1793, Magnus 1796, Jonas 1798, Olof 1802",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00016"
+   }
+  ],
+  "search": [
+   "Jonas Christophersson"
   ]
  }
 ]

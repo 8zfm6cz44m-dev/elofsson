@@ -1874,6 +1874,21 @@
     "nils_nilsson35_fraston",
     "nils_larsson_toltan"
    ]
+  },
+  {
+   "title": "Frykerud flyttlängd 1827 saknas i B/1",
+   "text": "Frykerud B/1 (C0037133) omfattar enbart 1833–1860; utflyttning 1827 finns därför inte där. Olofs flytt Frykerud→Boda 1827 ska sökas i Frykerud A I/16 (1823–30, C0037117) i hushållet på Såldebråten (flyttkolumn) – se unresolved.",
+   "persons": [
+    "olof_christ"
+   ]
+  },
+  {
+   "title": "Möjlig syster: Kajsa Kristofersdotter f. 27/7 1784 (g. Nils Jonsson, Lene)",
+   "text": "I Christopher Svenssons hushåll finns ”D. Cajsa” f. 1784 (dag ca 27/?). I A I/18 bild 183 (Lene) finns ”H. Kajsa Kristofers dr” 27/7 1784 Frykerud (id fr_kajsakristofersd1784), gift med Nils Jonsson. Mycket trolig samma person (samma år/dag, patronym Kristofersdotter). Kräver vigsel/dop för verified.",
+   "persons": [
+    "fr_kajsakristofersd1784",
+    "christopher_svensson_saldebraten"
+   ]
   }
  ],
  "conflicts": [

@@ -5043,5 +5043,119 @@
   "b": "kjersti_olsd_toltan_nl",
   "status": "verified",
   "basis": "Dopbok C I/1 bild 209 nr 5: ”Nils Larsson och Hust. Kerstin Olofsd. i Toltan”"
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-sven_christophersson88_saldebraten",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "sven_christophersson88_saldebraten",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/12 bild 16 (fol. 5) Såldebråten: barn (”S.”) efter Christopher Svensson och ”H. Lena Salomonsdr”."
+ },
+ {
+  "id": "s-sven_christophersson88_saldebraten-olof_christ",
+  "type": "sibling",
+  "a": "sven_christophersson88_saldebraten",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-nils_christophersson91_saldebraten",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "nils_christophersson91_saldebraten",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/12 bild 16 (fol. 5) Såldebråten: barn (”S.”) efter Christopher Svensson och ”H. Lena Salomonsdr”."
+ },
+ {
+  "id": "s-nils_christophersson91_saldebraten-olof_christ",
+  "type": "sibling",
+  "a": "nils_christophersson91_saldebraten",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-salomon_christophersson93_saldebraten",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "salomon_christophersson93_saldebraten",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/12 bild 16 (fol. 5) Såldebråten: barn (”S.”) efter Christopher Svensson och ”H. Lena Salomonsdr”."
+ },
+ {
+  "id": "s-salomon_christophersson93_saldebraten-olof_christ",
+  "type": "sibling",
+  "a": "salomon_christophersson93_saldebraten",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-magnus_christophersson96_saldebraten",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "magnus_christophersson96_saldebraten",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/12 bild 16 (fol. 5) Såldebråten: barn (”S.”) efter Christopher Svensson och ”H. Lena Salomonsdr”."
+ },
+ {
+  "id": "s-magnus_christophersson96_saldebraten-olof_christ",
+  "type": "sibling",
+  "a": "magnus_christophersson96_saldebraten",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-jonas_christophersson98_saldebraten",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "jonas_christophersson98_saldebraten",
+  "status": "verified",
+  "basis": "Husförhör Frykerud A I/12 bild 16 (fol. 5) Såldebråten: barn (”S.”) efter Christopher Svensson och ”H. Lena Salomonsdr”."
+ },
+ {
+  "id": "s-jonas_christophersson98_saldebraten-olof_christ",
+  "type": "sibling",
+  "a": "jonas_christophersson98_saldebraten",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16; Olof 1802 i hushållet = Olof_christ via namn+födelsedag (strong)."
+ },
+ {
+  "id": "c-christopher_svensson_saldebraten-lena_salomonsd_saldebraten-fr_kajsakristofersd1784",
+  "type": "child",
+  "parents": [
+   "christopher_svensson_saldebraten",
+   "lena_salomonsd_saldebraten"
+  ],
+  "child": "fr_kajsakristofersd1784",
+  "status": "strong",
+  "basis": "Husförhör A I/12 bild 16: ”D. Cajsa” 1784 i Christophers och Lenas hushåll; samma födelsedag (27/7 1784) och patronym som Kajsa Kristofersdotter (A I/18 bild 183, Lene). Strong: ej dop bekräftat."
+ },
+ {
+  "id": "s-fr_kajsakristofersd1784-olof_christ",
+  "type": "sibling",
+  "a": "fr_kajsakristofersd1784",
+  "b": "olof_christ",
+  "status": "strong",
+  "basis": "Samma hushåll A I/12 bild 16 (Cajsa 1784, Olof 1802)."
  }
 ]
