@@ -4230,5 +4230,16 @@
   "child": "nils_olofsson_takene_1835",
   "status": "candidate",
   "basis": "A I/17 bild 115: ”Son Nils …/5 1835” (överstruket)"
+ },
+ {
+  "id": "c-z5_nils_toltan_1715-z5_marit_toltan_1715-z5_erik_nilsson_toltan",
+  "type": "child",
+  "parents": [
+   "z5_nils_toltan_1715",
+   "z5_marit_toltan_1715"
+  ],
+  "child": "z5_erik_nilsson_toltan",
+  "status": "lead",
+  "basis": "PUBLICERAD UPPGIFT – EJ PRIMÄRKÄLLA. Tholén 1914 s. 3: ”christnades Nils och Marit i Toltan barn vid namn Erik.”"
  }
 ]

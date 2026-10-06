@@ -879,6 +879,105 @@
    "title": "Geneteka-sökning ger fortfarande slumpmässiga träffar",
    "text": "2026-10-06: Både API (getAct.php, bdm=B, w=13sk, Orzechowski, 1901) och webbgränssnittet (index.php?op=gt, formuläret ifyllt, 1895-1915, Urodzenia) returnerar träffar som inte matchar efternamnet (t.ex. Maciejak, Kowalewski, Tomczak; 38 690 träffar, 774 sidor, ingen Orzechowski) och ignorerar filtren för woj./efternamn. Inga Orzechowski/Młodawski/Kogut-träffar kunde verifieras. Inga fynd registrerade.",
    "persons": []
+  },
+  {
+   "title": "Toltan 1665–1700: Elofs far Nils och Isak saknas",
+   "text": "Gruppen 'Öst./Öster Tortan': Claes, Olof (1650–1679); Claes, Anders, Börje, Hans (1685); Olof Matsson, Hans Ersson, Olof Andersson, Anders Olofsson, Måns Olofsson (1690–1700). Ingen Nils/Isak. Elof f. 1687 kan ha vuxit upp på annan gård eller under annan rubrik. Per Nilsson (1712) dyker först upp efter 1700. Nästa steg: mantalslängderna 1701–1712 och dop/husförhör.",
+   "persons": [
+    "elof_nilsson",
+    "per_nilsson_toltan"
+   ]
+  },
+  {
+   "title": "Jordeböcker nämner inga brukare",
+   "text": "Jordebok 1643 (A0055920 bild 318–324) listar gårdar (Tooltaken, M. Takenne, Arnaas, Brythorn) med skatter och rust-/soldatnotiser, inga brukarnamn. Övriga volymer (1633–1652) ej lästa, troligen samma format.",
+   "persons": []
+  },
+  {
+   "title": "Anders Elofsson 1816 i Norge?",
+   "text": "Anders Elofsen f. 1816 Brunskog, skinnberedare i Eidsvoll 1875, ev. samma som anders_e. Kontrollera Brunskog flyttlängd/utflyttning samt Digitalarkivet 1865 (ej digitaliserad i fullt) och 1900/dödbok Eidsvoll.",
+   "persons": [
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Johan Olof Olsson 1923 USA-resa",
+   "text": "Ellis Island JNXV-W62: Johan Olaf Olsson f. 1887, 36 år, gift, ankom 10 aug 1923 med Berengaria; hemvist 'Brunsberg'. Läs manifestbilden (T715-3347-477) för destination/anhörig; sök återresa/dödsfall. Notera: död 1945 på Lycka enligt hembygdsregistret – kan ha återvänt.",
+   "persons": [
+    "johan"
+   ]
+  },
+  {
+   "title": "Johan Albin Augustsson – USA 1903",
+   "text": "Ellis Island JF5P-9Q3 (Teutonic, 7 maj 1903, 19 år, Vermland). Nästa steg: manifestbilden för destination/anhörig; US-folkräkning 1910/1920 'John Albin Augustson/Johnson'; Brunskog/Uppsala flyttlängd 1903.",
+   "persons": [
+    "johan_albin_augustsson"
+   ]
+  },
+  {
+   "title": "Samlingspost: Brunskog-födda i Norge (leads, ingen koppling bevisad)",
+   "text": "Digitalarkivet fodested=Brunskog (varianter) ger 1865: 1, 1875: ~73+, 1900: 21, 1910: 12 träffar, de flesta i Kristiania, Aker, Eidsvoll, Hurdal, Romedal, Løiten, Vang, Brandvold. Endast Anders Elofsen (se egen post) matchar trädperson på unikt patronymikon+årtal. Lagom intressanta leads att kontrollera mot trädet: Mons Andersen f.1815 och Niels Andersen f.1808, skinnberedare, Bækkeli Hurdal 1875 (pf01052054000835/836); Anders Andersen f.1823 Stubrud Løiten (pf01052061002668) med hustru Kaisa Olsdatter f.1817 Boda (pf01052061002669); Ole Danielsen Blomström f.1840 + Kristine Andreasdatter f.1839, Eidsvoll/Hurdal (pf01052052002193); Josef Eriksen f.1864/Alfred Eriksen f.1866/Ole August Eriksen f.1858 Brandvold (föräldrar Erik ...); Magnus Olsen f.1846 Eidskogen Gaustadmoen 1910 (pf01036404006766); Anders Karlsen Hassel f.1822 smed Eidskog Midtskog 1900 (pf01037057002595); Oluf/A. Lagerløff f.1837 Elverum 1900/1910.",
+   "persons": []
+  },
+  {
+   "title": "Samlingspost: Brunskog-resenärer Ellis Island 3 okt 1903 (Erik J./Eric H./Anna Erikson, Olof T. Olson)",
+   "text": "Ellis Island 3 okt 1903 (resa Southampton–New York): 'Erik J. Erikson' (indexerad f. 1900, ålder 3, kvinna/gift – indexfel), 'Eric H. Erikson' (f. 1902, 1 år, ogift man), 'Anna Erikson', 'Olof T. Olson', alla hemvist Brunskog, Sweden. Troligen en barnfamilj, inte Erik Johan Eriksson f. 1878 – men samma år som hans utvandring (1903); kontrollera manifestet. Ellis Island-sökning efter Eriksson/Erikson med residence Brunskog gav ytterligare efterkrigstida träffar (1920–24) och 1910–15 (Johan Erickson 12 maj 1910 'Sranskog'; Klara Erikson 27 jan 1911; Amanda Ericson 18 okt 1912; Elsa Erikson 27 aug 1915; Ligne H. Erikson 21 mars 1906) – ej kopplade till trädet.",
+   "persons": []
+  },
+  {
+   "title": "Karin Elofsdotters hemsocken: Nyed eller annan ”Ny”?",
+   "text": "Dödboken (Brunskog F I/1 1800 bild 73) skriver ”Persjön [eller Persbol/Lersjön] i Ny, Eds sochn”. Systematisk genomläsning av Nyeds dopbok 1734–35 och utflyttningslistor 1763–68 ger ingen träff på Kari Elofsdotter. Persbol finns som gård i Nyed (husförhör 1776–82 bild 127: Nils Olsson), men ingen Elof där. Överväg att (a) hon utflyttade före 1763 (B/1 bild 41–147 ej lästa), (b) hon föddes 1733 eller före 1734 / annan socken, (c) ”Ny, Eds sochn” avser Ny socken (Värmland) eller Eds socken (Dalsland) i stället – kontrollera dop 1734–35 i Eds/Ny kyrkoarkiv, samt Brunskogs inflyttningslängd ca 1760–67.",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Ingierd Nilsdotter: död 1850 (80 år) vs född 1761 (89 år)",
+   "text": "F I/2 b.115: Enkan Ingjerd Nilsd. fr Ö. Takene, 80 år 5 mån, d. ca 26/12 1850. Passar inte ålder för Ingierd f. 20/11 1761 (skulle vara 89). Kontrollera Ö. Takene i A I/23 (1846–50).",
+   "persons": [
+    "ingierd_nilsd61"
+   ]
+  },
+  {
+   "title": "Marit Elofsdotter 1758: vigselbok anger ej far",
+   "text": "Vigselboken 1758 (E I/1 b.77 nr 6) säger bara ”Pigan Marit Elofsdotter i Toltan” – ingen far. Identiteten med dottern f. 1724 (marit_en24) vilar på åldern 92 år 1816 samt att Marit f. 1738 fortfarande står hos fadern 1760–63 (A I/1 b.181). Bruden skulle vara 34 (f. 1724) – annars 20 (f. 1738).",
+   "persons": [
+    "marit_en24",
+    "marit_en38"
+   ]
+  },
+  {
+   "title": "Fadder ”Elof i Toltan, hustru Gertrud” 1715",
+   "text": "Tholén 1914 uppger dop 2/2 1715 med fadder ”Elof i Toltan, hustru Gertrud” och ”Marit i Toltan”. Kontrollera dopbok Brunskog C I/1 (1715) mot Elof Nilsson (gift 1717 med Marit Isaksdotter) och Påhl Nilsson/Gertrud Bondesdotter. Kan visa att en äldre Elof (t.ex. Elof Nilssons far/släkting) bodde i Toltan.",
+   "persons": [
+    "elof_nilsson",
+    "z5_erik_nilsson_toltan"
+   ]
+  },
+  {
+   "title": "Ingen publicerad släktkedja före 1700 funnen för Brunskog-linjerna",
+   "text": "Sökning (Anbytarforum/forum.rotter.se, Geni, WikiTree, FamilySearch, KB, hembygd.se, finnskogsmuseet, svwiki) gav inga källbelagda släktled före 1700 för Elof Nilsson/Marit Isaksdotter/Isak Björsson, Per Nilsson (Toltan), Olof Persson/Ingrid Olofsdotter (Takene), Christopher Påhlsson, Jon Tholsson (Beckelid/Skog) eller Arne Andersson (1645–1722). Geni och Cloudflare-skyddade sidor (forum.rotter.se via curl, Geni) spärrar automatisk läsning; Geni-captcha klickades ej. Tidiga led får fortsatt hämtas ur mantalslängder 1642–1720 och dopbok från 1688.",
+   "persons": [
+    "isak_bjorsson",
+    "jon_tholsson",
+    "arne_andersson45"
+   ]
+  },
+  {
+   "title": "Skogsfinnar? Toltan/Persjön/Persbol",
+   "text": "Brunskog räknas av Finnskogsmuseet (finnskogsmuseet.se/varmland.htm) till Värmlands finnbygd, men sidan nämner varken Toltan, Persjön, Takene eller Smådal. sv.wikipedia (Brunskogs socken) ger namnet ”Bronskog” 1503 (broni = brand/svedja). Ingen källa funnen som tolkar Toltan som skogsfinskt – obelagt. Isak/Björn-namnen i Marit Isaksdotters linje är inte finska och ger inget stöd.",
+   "persons": [
+    "marit_isaksd",
+    "isak_bjorsson"
+   ]
+  },
+  {
+   "title": "Geneteka-API fortfarande trasigt (omgång 7)",
+   "text": "getAct.php ignorerar filter (search_lastname, from_date, w) och returnerar slumpposter, både via curl och inifrån Chrome-flik på geneteka.genealodzy.pl; även sökformuläret (index.php?op=gt) visar slumpposter (39 073 'pasande'). Inga syskon-/föräldravigselposter kunde hämtas via index.",
+   "persons": [
+    "stefan",
+    "zofia"
+   ]
   }
  ],
  "conflicts": [
