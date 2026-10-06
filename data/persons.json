@@ -24975,5 +24975,173 @@
   "search": [
    "Lovisa Carlsdotter (g. 1857 med Jonas Nilsson, Lene)"
   ]
+ },
+ {
+  "id": "fr_mariastinajonasd1858",
+  "name": "Maria Stina Jonasdotter (f. 1858, Lene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1858-02-21",
+   "place": "Lene, Frykerud",
+   "note": "dop 22/2 1858"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Jonas Nilsson och Lovisa Carlsdotter på Lene, Frykerud (dop 22/2 1858). Identiteten för föräldern Jonas = Jonas Nilsson f. 1821 (Stinas bror) är trolig via hustruns namn Lovisa Carlsd och Lene (vigsel 4/1 1857).",
+  "notes": [
+   "DOP: Frykerud C/6 bild 231, 1858 feb: ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” med barnnamn ”Maria Stina” (kolumnen ”Maria Stina” står på samma rad; läst via närbild)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806-1860), bild 231 (sid 431): 1858 ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” barn ”Maria Stina”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00231"
+   }
+  ],
+  "search": [
+   "Maria Stina Jonasdotter (f. 1858, Lene)"
+  ]
+ },
+ {
+  "id": "kn_nils1841",
+  "name": "Nils Kristoffersson (f. 1841, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1841-08-20",
+   "place": "St. Boda",
+   "note": "dop 22/8 1841 (Boda C I/3)"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
+  "notes": [
+   "DOP: Boda C I/3 bild 60: 1841 aug ”20. 22. Nils – St. Boda: G. Dr. Christoffer Nilsson : Maria Nilsdotter / Vitt: Jan Nilsson Hu Katrina Jönsd. i Leboda”, moderns ålder 30"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 60: 1841 aug ”20. 22. Nils – St. Boda: G. Dr. Christoffer Nilsson : Maria Nilsdotter / Vitt: Jan Nilsson Hu Katrina Jönsd. i Leboda”, moderns ålder 30",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00060"
+   }
+  ],
+  "search": [
+   "Nils Kristoffersson (f. 1841, Boda)"
+  ]
+ },
+ {
+  "id": "kn_kajsa1843",
+  "name": "Kajsa Kristoffersdotter (f. 1843, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1843-03-14",
+   "place": "Leboda, Boda",
+   "note": "dop 15/3 1843 (Boda C I/3)"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
+  "notes": [
+   "DOP: Boda C I/3 bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00067"
+   }
+  ],
+  "search": [
+   "Kajsa Kristoffersdotter (f. 1843, Boda)"
+  ]
+ },
+ {
+  "id": "kn_annastina1845",
+  "name": "Anna Stina Kristoffersdotter (f. 1845, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1845-03-01",
+   "place": "Leboda, Boda",
+   "note": "dop 2/3 1845 (Boda C I/3)"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
+  "notes": [
+   "DOP: Boda C I/3 bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00076"
+   }
+  ],
+  "search": [
+   "Anna Stina Kristoffersdotter (f. 1845, Boda)"
+  ]
+ },
+ {
+  "id": "kn_johannes1848",
+  "name": "Johannes Kristoffersson (f. 1848, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848-01-22",
+   "place": "Leboda, Boda",
+   "note": "dop 23/1 1848 (Boda C I/3)"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
+  "notes": [
+   "DOP: Boda C I/3 bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00082"
+   }
+  ],
+  "search": [
+   "Johannes Kristoffersson (f. 1848, Boda)"
+  ]
+ },
+ {
+  "id": "kn_carl1851",
+  "name": "Carl Kristoffersson (f. 1851, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1851-09-10",
+   "place": "Leboda, Boda",
+   "note": "dop 12/9 1851 (Boda C I/3)"
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter, Leboda, Boda (moderns ålder 40 stämmer med Maja f. 1811).",
+  "notes": [
+   "DOP: Boda C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda födelse- och dopbok C I/3 (1820-1858), bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00088"
+   }
+  ],
+  "search": [
+   "Carl Kristoffersson (f. 1851, Boda)"
+  ]
  }
 ]

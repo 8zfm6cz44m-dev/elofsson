@@ -6379,5 +6379,71 @@
   "b": "lovisa_carlsd_lene31",
   "status": "strong",
   "basis": "Frykerud vigselbok E I/2 bild 108: 4 jan 1857 ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år (https://sok.riksarkivet.se/bildvisning/C0037141_00108)."
+ },
+ {
+  "id": "c-fr_jonasnilsson1821-lovisa_carlsd_lene31-fr_mariastinajonasd1858",
+  "type": "child",
+  "parents": [
+   "fr_jonasnilsson1821",
+   "lovisa_carlsd_lene31"
+  ],
+  "child": "fr_mariastinajonasd1858",
+  "status": "strong",
+  "basis": "Frykerud dop C/6 bild 231: 1858 ”21. 22. Lene: Jonas Nilsson o h Lovisa Carlsd” – barn Maria Stina. Föräldrarnas identitet (Jonas f. 1821, Lovisa) via vigsel 4/1 1857 ”Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”; ej uttryckligt Nils Jonssons son."
+ },
+ {
+  "id": "c-kn_boda1815-fr_majanilsd1811-kn_nils1841",
+  "type": "child",
+  "parents": [
+   "kn_boda1815",
+   "fr_majanilsd1811"
+  ],
+  "child": "kn_nils1841",
+  "status": "strong",
+  "basis": "Boda dop C I/3 bild 60: 1841 aug ”20. 22. Nils – St. Boda: G. Dr. Christoffer Nilsson : Maria Nilsdotter / Vitt: Jan Nilsson Hu Katrina Jönsd. i Leboda”, moderns ålder 30 (https://sok.riksarkivet.se/bildvisning/C0036594_00060)"
+ },
+ {
+  "id": "c-kn_boda1815-fr_majanilsd1811-kn_kajsa1843",
+  "type": "child",
+  "parents": [
+   "kn_boda1815",
+   "fr_majanilsd1811"
+  ],
+  "child": "kn_kajsa1843",
+  "status": "strong",
+  "basis": "Boda dop C I/3 bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32 (https://sok.riksarkivet.se/bildvisning/C0036594_00067)"
+ },
+ {
+  "id": "c-kn_boda1815-fr_majanilsd1811-kn_annastina1845",
+  "type": "child",
+  "parents": [
+   "kn_boda1815",
+   "fr_majanilsd1811"
+  ],
+  "child": "kn_annastina1845",
+  "status": "strong",
+  "basis": "Boda dop C I/3 bild 76: 1845 mars ”1. 2. Anna Stina – Leboda: Christopher Nilsson och Hustru Maria Nilsd.”, moderns ålder 34, faddrar Olof Christophersson o. Britta Nilsd. i Boda (https://sok.riksarkivet.se/bildvisning/C0036594_00076)"
+ },
+ {
+  "id": "c-kn_boda1815-fr_majanilsd1811-kn_johannes1848",
+  "type": "child",
+  "parents": [
+   "kn_boda1815",
+   "fr_majanilsd1811"
+  ],
+  "child": "kn_johannes1848",
+  "status": "strong",
+  "basis": "Boda dop C I/3 bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm (https://sok.riksarkivet.se/bildvisning/C0036594_00082)"
+ },
+ {
+  "id": "c-kn_boda1815-fr_majanilsd1811-kn_carl1851",
+  "type": "child",
+  "parents": [
+   "kn_boda1815",
+   "fr_majanilsd1811"
+  ],
+  "child": "kn_carl1851",
+  "status": "strong",
+  "basis": "Boda dop C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda (https://sok.riksarkivet.se/bildvisning/C0036594_00088)"
  }
 ]
