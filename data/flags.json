@@ -2238,6 +2238,14 @@
     "lena_salomonsd_saldebraten",
     "fr_kajsakristofersd1784"
    ]
+  },
+  {
+   "title": "Vigsel Olof Persson (Takene) x Ingrid Olofsdotter ej funnen i Brunskog vigselbok 1708-21",
+   "text": "Bild 25-37 (E I/1, C0036786; 1708-1721) lästa i helbild: ingen post 'Olof Persson' (Takene) x 'Ingrid Olofsdotter'. Närmaste: bild 30 (29 sept 1714) 'Sammanwigdes Olof Pers: i Linbäck(?) och Pig: Ingerd Jon?d(?): i Toltan, när för dem 3 g. lyst war' - efternamnet på bruden ser ut som 'Jonsd', inte Olofsd, och bostaden är inte Takene; endast lead. Tillsammans med föregående agents bild 38-47 (1721-31) saknas vigseln i Brunskog 1708-31; troligen vigd i annan socken (Ingrid f. 1693) eller före 1708/ej införd.",
+   "persons": [
+    "olof_persson_takene",
+    "ingrid_olofsd_1693"
+   ]
   }
  ],
  "conflicts": [
