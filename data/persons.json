@@ -1625,6 +1625,10 @@
    {
     "label": "Riksarkivet, Boda födelsebok C I/3 (1820-1858), bild 26: 24 nov 1826 (döpt 26) Anna, Boda; föräldrar ”u. Anders Nilss., Kaisa Olsdr”; faddrar Olof Nilsson och Karin Ersdr ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00026"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -1636,7 +1640,8 @@
    "FÖDELSEBOK Boda 1857 (bild 104): mor till Olof August, hustru till bonden Johannes Olsson på Nordsjö, 30 år gammal – stämmer med f. 1826.",
    "Folkräkning 1880 Boda (Nordsjö): ”h.” (hustru) till Anders Jansson; barnen heter Johannesson/Johannesdotter efter en tidigare make Johannes.",
    "Födelseåret 1821 i användarträdet stämmer inte med folkräkningarnas 1826.",
-   "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Nov. 24, döpt 26: Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr.” Faddrar Olof Nilsson och Karin Ersdr. Exakt födelsedatum 24/11 1826 stämmer med husförhöret 1856."
+   "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Nov. 24, döpt 26: Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr.” Faddrar Olof Nilsson och Karin Ersdr. Exakt födelsedatum 24/11 1826 stämmer med husförhöret 1856.",
+   "KONFLIKT MH/KYRKBOK: MH anger Anna Andersdotter f. 24 nov 1821 (g.m. Johannes Olsson, mor till Olof August); vår verifierade läsning är 24/11 1826. Dag och månad stämmer, årtalet i MH-trädet (1821) skiljer."
   ]
  },
  {
@@ -1898,13 +1903,14 @@
   "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1820",
-   "place": "Brunskog"
+   "date": "1820-02-15",
+   "place": "Strand, Brunskog",
+   "note": "A I/23 bild 145: ”15/2 20 ibm”; A I/13 bild 69: D. Britta 15/2 1820 på Strand; dopbok C I/3 bild 139 nr 10 (född 14, döpt 15 febr 1820). Dopdatum 15/2 = husförhörets datum."
   },
   "died": {
    "date": "1891"
   },
-  "summary": "Änka efter Nils Eriksson (d. 1850). Omgift med hemmansägare Olof Jansson (f. 1821) på Östra Takene; barn i nya äktenskapet 1852–1866. Lever 1890 (d. 1891 enligt användarträdet).",
+  "summary": "Änka efter Nils Eriksson (d. 1850). Född 15/2 1820 på Strand, dotter till Nils Andersson (f. 1786) och Kjerstin Nilsdotter (f. 1791 Takene); syskon Anders 1815, Jonas 1817, Maria 1821, Kajsa 1824. Omgift med Olof Jansson (f. 1821) på Östra Takene.",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 145, Ö. Takene: Nils Ersson, Britta Nilsdotter, Nils 1841, Erik 1843, Cajsa 1846, Johannes 1848",
@@ -1921,6 +1927,14 @@
    {
     "label": "Riksarkivet, Brunskog E I/3 (1840), bild 80, nr 13: Pig. Britta Nilsd. (20) Ö. Takene, lyst med dräng Nils Ersson",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00080"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): D. Britta 15/2 1820 ibm [Strand] i hushållet Nils Andersson/Kjerstin Nilsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1820), bild 139, s. 240, Febr nr 10: 14 | 15 | Strand, Brita, Nils Andersson / Kjerstin Nilsd.; faddrar Per Nilsson, Brita Andersd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
    }
   ],
   "search": [
@@ -1934,7 +1948,8 @@
    "Möjligen identisk med ”Gryt-Britta”, f. 1820-05-12, i hembygdsföreningens register.",
    "Möjlig identitet: ”Britta Nilsdotter, f. 1820-05-12, kallad Gryt-Britta” i hembygdsföreningens register. Födelseåret stämmer med användarträdet (1820), men identiteten är inte bevisad.",
    "A I/23 bild 145: hustrun Britta Nilsdotter född ”?/? 20”, ort ”ibm” (Brunskog); dag/månad ej säkert läsbar i den lilla skriften (möjligen 12/5, vilket skulle stämma med ”Gryt-Britta”). I Brunskogs födelsebok 1820 (C I/3 bild 139–142, nr 1–82, hela året läst) finns INGEN flicka Brita/Britta med far Nils: Brita-poster är nr 10 (Nils Andersson/Kjerstin Nilsd), nr 11 (Anders Andersson/Ingrid Jansdotter), nr 18 (Olof Nilsson/Karin Andersdotter), nr 22 Edane (Olof Jönsson?), nr 31 Skog 7/8 maj (Per Jonsson/Karin Olsdotter), nr 56 (Christopher Andersson/Maja Persdotter). Hon är alltså sannolikt född i annan socken (Boda? Eda?) eller felskriven; ”Gryt” kunde inte bekräftas i Brunskogs böcker.",
-   "LYSNING 1840 (E I/3 bild 80): ”Pig. Britta Nilsd. densammastädes” (Ö. Takene), ålder 20 → f. 1820. A I/23 bild 145 (zoom): född ”15/? 20” ibm (Brunskog), svårläst. Kandidat för dopet: Brita f. 6/2 1820 Lerhol, dotter till Nils Svensson + Anna Andersdotter (C I/3 bild 139) – ej bevisat; dag stämmer inte entydigt."
+   "LYSNING 1840 (E I/3 bild 80): ”Pig. Britta Nilsd. densammastädes” (Ö. Takene), ålder 20 → f. 1820. A I/23 bild 145 (zoom): född ”15/? 20” ibm (Brunskog), svårläst. Kandidat för dopet: Brita f. 6/2 1820 Lerhol, dotter till Nils Svensson + Anna Andersdotter (C I/3 bild 139) – ej bevisat; dag stämmer inte entydigt.",
+   "IDENTIFIERING: A I/23 bild 145 ger ”15/2 20”; A I/13 bild 69 har D. Britta ”15/2 20” på Strand (Nils Andersson 1786 + Kjerstin Nilsd. 1791); dopbok 1820 nr 10: Brita, Strand, Nils Andersson/Kjerstin Nilsd. (född 14, döpt 15 febr). Dag+månad+år+fadersnamn stämmer; ingen annan Brita Nilsdotter med samma datum funnen. Kandidaten Brita på Lerhol (6/2 1820, Nils Svensson) AVFÄRDAD – hennes födelsedatum 6/2 avviker."
   ],
   "places": [
    "Ö. Takene, Brunskog"
@@ -2024,12 +2039,13 @@
   "died": {
    "date": "1885"
   },
-  "summary": "Anders Månssons hustru på Skog. Född 24/2 1813 (husförhör 1846–50), döpt 22/3 1813 på Lerhol, dotter till Olof Andersson och Kari Jonsdotter (födelsebok). Datumkonflikten är löst: 1813 års födelsebok anger bara dopdag.",
+  "summary": "Anders Månssons hustru på Skog. Döpt 22/3 1813 på Lerhol, dotter till Olof Andersson (f. 20/1 1782) och Karin Jonsdotter (f. 1785). Står som ”Dr. Anna 22/3 1813 Lerhol” i föräldrahushållet i husförhör A I/14 och A I/16. A I/23 anger 24/2 1813 (avvikande).",
   "notes": [
    "FÖDELSEBOK Brunskog 1813 (C I/3 bild 110): ”22 [mars], nr 21: Lerhol, Anna. Olof Andersson, Kari Jonsdotter.” Föräldranamnen stämmer med användarträdet (Olof Andersson 1782–1828, Karin Jansdotter 1785–1831). Husförhörslängden 1846–1850 anger dock födelsedag 24/2 1813 – datumet måste kontrolleras innan relationen blir grön.",
    "Äldre: Olof Andersson (1782–1828) + Karin Jansdotter (1785–1831); Olof ← Anders Olsson (1751–1808) + Ingeborg Eriksdotter (1753–1819); Karin ← Jon Ersson (1741–1808) + Anna Andersdotter (1756–1808).",
    "C I/3 bild 110 (1813): ”Mars 22 – nr 21: Lerhol. Anna. Olof Andersson, Kari Jonsdotter. Faddrar: Anders Persson; Kari Anders dtr.” Födelsebokens kolumner 1813 är endast dopdatum + löpnummer – ingen födelsedag anges, så 24/2 (A I/23) och dop 22/3 är förenliga (26 dagars intervall).",
-   "A I/23 bild 125, Skog s. 114: ”H. Anna Ols.dr 24/2 13, ibm [Brunskog]” hos Per Olsson/Karin Andersdotter som inhyses hos; make ”Gift dr. Anders Månsson 18/9 18”; barn Olof 24/11 1841, Cajsa 10/2 1844, Anna 14/12 1846."
+   "A I/23 bild 125, Skog s. 114: ”H. Anna Ols.dr 24/2 13, ibm [Brunskog]” hos Per Olsson/Karin Andersdotter som inhyses hos; make ”Gift dr. Anders Månsson 18/9 18”; barn Olof 24/11 1841, Cajsa 10/2 1844, Anna 14/12 1846.",
+   "A I/14 bild 46 (fol. 36), Lerhol 1 Skatte: ”Unge Olof Andersson 20/1 82 Lerhol; H. Karin Jonsd. 85 Vikene; S. Olof 9/10 10; D. Anna 22/3 13; D. Brita 1/1 16; D. Kajsa 11/6 18; S. Anders 17/3 21; S. Jonas 23.” A I/16 bild 148 (s. 133) samma hushåll (överstruket). Datumet 22/3 1813 stämmer med dopboken; 24/2 i A I/23 avviker."
   ],
   "sources": [
    {
@@ -2047,6 +2063,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 125, Skog s. 114: Anna Olsdotter 24/2 1813 ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: D. Anna 22/3 1813 (Lerhol) i hushållet Unge Olof Andersson 20/1 1782 + H. Karin Jonsd. 1785",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: Anna 22/3 1813 loco, i hushållet Olof Andersson/Karin Jonsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
    }
   ],
   "search": [
@@ -2376,17 +2400,18 @@
  {
   "id": "stefan",
   "name": "Stefan Orzechowski",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1902-09-07",
-   "place": "Kielce"
+   "date": "1901-08-07",
+   "place": "Szydłówek (Kielce)",
+   "note": "25.7.1901 enligt julianska kalendern; registrerad i Kielce 15.3.1903 (akt 68) - sen anmälan. Tidigare antaget år 1902/1903 är fel."
   },
   "died": {
    "date": "1972-08-13",
    "place": "Trzcińsko-Zdrój"
   },
-  "summary": "Irenas far enligt MyHeritage. Gift 7 jan 1923 i Kielce (św. Wojciech) med Zofia Młodawska (Geneteka-index, 21 år vid vigseln). Föräldrar enligt vigselindex: Józef Orzechowski och Katarzyna Zatorska. Född 7 sep 1902 enligt användarträd; Geneteka har födelseindex Kielce św. Wojciech 1903 nr 68 (osäker koppling).",
+  "summary": "Född 7.8.1901 i Szydłówek vid Kielce, son till arbetaren Józef Orzechowski och Katarzyna född Zatorska. Gifte sig 7.1.1923 i S:t Wojciech, Kielce, med Zofia Młodawska (marginalnot i födelseakten + Geneteka). Åldern 21 vid vigseln stämmer med födelsen 1901.",
   "sources": [
    {
     "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
@@ -2406,6 +2431,14 @@
    {
     "label": "Geneteka, födelseindex Kielce św. Wojciech 1903 nr 68: Stefan Orzechowski (föräldrar ej indexerade)",
     "url": "https://metryki.genealodzy.pl/id239-sy1903-kt1"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1903 UMZ-1903 Urodzenia, skan 063-068.jpg (13 av 59), akt nr 68 (nedre högra sidan, marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1903-kt1"
+   },
+   {
+    "label": "Geneteka-index (geneteka.genealodzy.pl, woj. świętokrzyskie): Stefan Orzechowski × Zofia Młodawska, Kielce św. Wojciech 1923 nr 1, 7.1.1923, Szydłówek, 'Uwagi: 21 i 18'; föräldrar Józef + Katarzyna Zatorska / Jan + Wiktoria Szewczyk",
+    "url": "https://geneteka.genealodzy.pl/"
    }
   ],
   "search": [
@@ -2413,25 +2446,30 @@
   ],
   "notes": [
    "Född i Kielce 1902, död i Trzcińsko-Zdrój 1972 – orten var tyskt Bad Schönfließ före 1945, så han flyttade dit efter kriget (efterkrigstidens bosättning i de ”återvunna områdena”).",
-   "VIGSELINDEX 1923: Stefan Orzechowski, föräldrar 'Józef, Katarzyna Zatorska', ålder 21 (=> född ca 1901/02, stämmer med 7/9 1902; födelseindex 1903 nr 68 anger år 1903 utan föräldrar/datum – oklart om registerår eller annan person). Status strong: identitet Stefan+Zofia stöds av namnparet och Zofias ålder, men vigselposten nämner inga barn och själva akten/skanningen är ej läst."
+   "VIGSELINDEX 1923: Stefan Orzechowski, föräldrar 'Józef, Katarzyna Zatorska', ålder 21 (=> född ca 1901/02, stämmer med 7/9 1902; födelseindex 1903 nr 68 anger år 1903 utan föräldrar/datum – oklart om registerår eller annan person). Status strong: identitet Stefan+Zofia stöds av namnparet och Zofias ålder, men vigselposten nämner inga barn och själva akten/skanningen är ej läst.",
+   "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
+   "MARGINALNOT vid akt 68 (polska, ca 1923): \"Szydłówek. Stefan Orzechowski dnia 7 stycznia 1923 r. w Kościele Sw. Wojciecha w Kielcach zaślubił Zofję Młodawską. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach ...\" (lösa ord i slutet osäkra). = Stefan Orzechowski gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Zofia Młodawska; införd på prästens skrivelse."
   ]
  },
  {
   "id": "zofia",
-  "name": "Zofia Młodowska",
-  "status": "lead",
+  "name": "Zofia Młodawska",
+  "status": "verified",
   "sex": "f",
   "altNames": [
    "Zofia Orzechowska"
   ],
   "born": {
-   "date": "1904-06-28"
+   "date": "1904-04-17",
+   "place": "Szydłówek (Kielce)",
+   "note": "4.4.1904 julianskt; kl. 8 på morgonen; akt 125. Stämmer med släktträdets födelseår 1904."
   },
   "died": {
    "date": "1933-10-24",
    "place": "Kielce"
   },
-  "summary": "Irenas mor enligt MyHeritage. Gift 7 jan 1923 med Stefan Orzechowski i Kielce (św. Wojciech), 18 år vid vigseln (stämmer med f. 28 juni 1904). Föräldrar enligt vigselindex: Jan Młodawski och Wiktoria Szewczyk. Möjlig födelsepost Kielce św. Wojciech 1904 nr 125.",
+  "summary": "Född 17.4.1904 i Szydłówek vid Kielce, dotter till arbetaren Jan Młodawski och Wiktoria född Szewczyk. Gifte sig 7.1.1923 i S:t Wojciech, Kielce, med Stefan Orzechowski (marginalnot i födelseakten + Geneteka). Släktträdet anger 'Młodawska' - rätt stavning enligt akt/index är Młodawska.",
   "sources": [
    {
     "label": "Användarträd, skärmbilder mottagna 2026-08-25 (endast leads, ej publicerade)"
@@ -2447,14 +2485,27 @@
    {
     "label": "Geneteka, födelseindex Kielce św. Wojciech 1904 nr 125: Zofia Młodawski [sic] (föräldrar ej indexerade)",
     "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1904 UMZ-1904 Urodzenia, skan 124-129.jpg (23 av 59), akt nr 125 (vänstra sidan, mitten; marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
+   },
+   {
+    "label": "Geneteka-index (geneteka.genealodzy.pl, woj. świętokrzyskie): Stefan Orzechowski × Zofia Młodawska, Kielce św. Wojciech 1923 nr 1, 7.1.1923, Szydłówek, 'Uwagi: 21 i 18'; föräldrar Józef + Katarzyna Zatorska / Jan + Wiktoria Szewczyk",
+    "url": "https://geneteka.genealodzy.pl/"
    }
   ],
   "search": [
-   "Zofia"
+   "Zofia",
+   "Zofia Młodawska",
+   "Zofia Mlodawska"
   ],
   "notes": [
    "VIGSELINDEX 1923: Zofia Młodawska, föräldrar 'Jan, Wiktoria Szewczyk', ålder 18. Namnformen Młodawska (inte Młodowska som i trädet) – stavning bör rättas efter akt.",
-   "FÖDELSEINDEX Kielce św. Wojciech 1904 nr 125 'Zofia Młodawski' (föräldrar ej indexerade) – kandidat, samma parish som vigseln. Uteslutna namnlika: Zofia Młodawska f. 30.6.1904 Komorów (föräldrar Jan+Anna Skowron, vilket motsäger Wiktoria Szewczyk), Zofia Stanisława f. 17.8.1904 Czarna, Zofia f. 1901 Czarna, Zofia Łucja f. 1902 Niekłań."
+   "FÖDELSEINDEX Kielce św. Wojciech 1904 nr 125 'Zofia Młodawski' (föräldrar ej indexerade) – kandidat, samma parish som vigseln. Uteslutna namnlika: Zofia Młodawska f. 30.6.1904 Komorów (föräldrar Jan+Anna Skowron, vilket motsäger Wiktoria Szewczyk), Zofia Stanisława f. 17.8.1904 Czarna, Zofia f. 1901 Czarna, Zofia Łucja f. 1902 Niekłań.",
+   "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
+   "MARGINALNOT vid akt 125 (polska): \"Szydłówek. Zofja Młodawska dnia 7 stycznia 1923 r. w kościele Sw. Wojciecha w Kielcach zaślubiła Stefana Orzechowskiego. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach (Nr dzienn. ...) ...\" = Zofia Młodawska gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Stefan Orzechowski."
   ]
  },
  {
@@ -4179,21 +4230,37 @@
   "status": "verified",
   "sex": "m",
   "born": {
-   "date": "1782",
-   "note": "Årtalet från användarträdet."
+   "date": "1782-01-20",
+   "place": "Lerhol, Brunskog",
+   "note": "Dop-/födelsebok C I/3 bild 10 nr 5 (20 jan 1782, Lerhol, föräldrar Anders Olson + Ingeborg Ers.); A I/14: ”20/1 82”"
   },
   "places": [
    "Lerhol, Brunskog"
   ],
-  "summary": "Namngiven som far till Anna, f. 1813 på Lerhol, i Brunskogs födelsebok. Mycket stark kandidat som far till Anna Olsdotter (Huldas mormor).",
+  "summary": "Bonde på Lerhol, f. 20/1 1782; gift med Karin Jonsdotter (f. 1785); fader till Anna Olsdotter (f. 1813) och syskonen Olof 1810, Brita 1816, Kajsa 1818, Anders 1821, Jonas 1823. Son till Anders Olsson och Ingeborg Eriksdotter.",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 110: [mars] 22 1813 Anna, Lerhol, föräldrar Olof Andersson och Kari Jonsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00110"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1782-1844), bild 10, Döpte 1782 nr 5: Lerhol, Olof, Anders Olson / Ingeborg Ers(dotter); faddrar Per Olson, Brita Karis(?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00010"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson 20/1 1782 Lerhol, H. Karin Jonsd. 1785 Vikene, 6 barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: U: Olof Andersson 20/1 82 loco; hushållet överstruket",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
    }
   ],
   "search": [
    "Olof Andersson"
+  ],
+  "notes": [
+   "Ej samma man som enkeman Olof Andersson f. 1760 (död 17/5 1827 på Lerhol)."
   ]
  },
  {
@@ -4203,7 +4270,8 @@
   "sex": "f",
   "born": {
    "date": "1785",
-   "note": "Årtalet från användarträdet."
+   "place": "Vikene, Brunskog",
+   "note": "A I/14: ”85 Wikene”; A I/16: ”85 vikene”"
   },
   "places": [
    "Lerhol, Brunskog"
@@ -4213,10 +4281,25 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 110: [mars] 22 1813 Anna, Lerhol, föräldrar Olof Andersson och Kari Jonsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00110"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: H. Karin Jonsd. 85 Vikene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: Karin Jonsd. 85 Vikene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
    }
   ],
   "search": [
    "Kari"
+  ],
+  "notes": [
+   "MYHERITAGE: Karin Andersson f. Jansdotter 1785–1831; föräldrar Jon Ersson 1741–1808 + Anna Andersdotter 1756–1808."
   ]
  },
  {
@@ -4329,6 +4412,18 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3, bild 140: 4 maj 1820 Nils, Ö. Takene, föräldrar Erik Christophersson och Brita Olsdotter (40 år)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00140"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsbok F I/2 (1809-1860), bild 100 (s. 159), 1838 (maj): \"30 Gift Bonde Erik Christoffersson i Ö. Takene\", ålder 58 år 2 mån 5 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00100"
+   },
+   {
+    "label": "Riksarkivet, Brunskog lysnings-/vigselbok E I/3 (1784-1860), bild 33 (s. 39), 1810, nr 14, 29 juli: \"Drängen Erik Christofersson från Brunskog, och Pigan Britta Olsdotter derstädes\"",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00033"
    }
   ],
   "search": [
@@ -4338,7 +4433,11 @@
    "HUSFÖRHÖRSLÄNGD 1831–1835 (A I/17 bild 117), Ö. Takene: ”Bonde Erik Christophersson 25/5 1779 Fryksände”, hustru Britta Olsdotter (15/11 1790), barnen Sven (29/1 1811), Maria (4/2 1813), Olof (2/5 1815), Cajsa (1817), Nils (5/1820), Jonas (18/8 1822), Ingård (2/2 1825), Anna (4/8 1827) och Karin.",
    "FRYKSÄNDE: Kyrkoarkiv SE/VA/13131; dopbok C I/4 (1763–1820) = bildvolym C0037199 (215 bilder; 1779 = bild 108–109, 1779 slutar bild 110). Läst bild 108 (nr 14–47, jan–juli 1779, bl.a. nr 36 Anders 23/25 maj Stensgård, nr 37 Jöns 24/25 maj Källerud) och bild 109 (nr 48–77 juli–okt). Ingen post ”Erik” med far Christopher/Christoffer den 25 maj eller i närheten – dopet ej funnet i den ordningen; födelsedatum 25/5 1779 kan vara fel år/dop i annan bok eller annan socken (Fryksände är bara ”församling”).",
    "A I/17 bild 117: sonen Sven (f. 29/1 1811) markerad som utflyttad 10/10 1832 till Fryksände (förmodligen släktband till faderns hemtrakt).",
-   "FRYKSÄNDE C I/4 omläst bild 105–111 (1778–1780): ingen post ”Erik” med fader Christopher/Christoffer. Bild 108 (maj 1779) helt genomgången: nr 35 Anders (23/25 maj, Stensgård), nr 36 Jöns (24/25 maj, Källerud) – ingen Erik. Erik-dop i närheten: 1778 nr 24 Erik (Bada, Nils Ersson/Maja Jonsd.), 1778 nr 62 (Kjellerud), 1779 nr 71 Eric (okt, Wärsanvik[?], Zachris Persson), 1780 nr 35 Erik (Pensbol, Jon Nilsson/Gertrud Jonsd.) – inga med fader Christopher. Bild 110 vänstersida är endast faddrar-delen (sponsorer) för 1779 nr 63–78."
+   "FRYKSÄNDE C I/4 omläst bild 105–111 (1778–1780): ingen post ”Erik” med fader Christopher/Christoffer. Bild 108 (maj 1779) helt genomgången: nr 35 Anders (23/25 maj, Stensgård), nr 36 Jöns (24/25 maj, Källerud) – ingen Erik. Erik-dop i närheten: 1778 nr 24 Erik (Bada, Nils Ersson/Maja Jonsd.), 1778 nr 62 (Kjellerud), 1779 nr 71 Eric (okt, Wärsanvik[?], Zachris Persson), 1780 nr 35 Erik (Pensbol, Jon Nilsson/Gertrud Jonsd.) – inga med fader Christopher. Bild 110 vänstersida är endast faddrar-delen (sponsorer) för 1779 nr 63–78.",
+   "MYHERITAGE: föräldrar Christopher Svensson f. 1754 + Elin Svensson f. Svensdotter f. 1755 (ej styrkt).",
+   "DÖDBOK Brunskog F I/2 bild 100 (s. 159), 1838 maj: ”30 | Gift Bond. Erik Christoffersson i Ö. Takene | 58 | 2 | 5” (ålder år/mån/dagar). 58 år 2 mån 5 dagar före 30/5 1838 ger födelse ca 25 mars 1780 – avviker från 25/5 1779 (husförhör A I/17 bild 117). Dagen ”25” stämmer, månad/år avviker; kan vara att husförhörets ”5/1779” egentligen är ”3/1780” eller prästens åldersräkning. Erik dog alltså 1838 (ej efter 1850).",
+   "VIGSEL Brunskog E I/3 bild 33 (s. 39), 1810, lysning nr 14, 29 juli: ”Drängen Erik Christofersson från Brunskog, och Pigan Britta Olsdotter derstädes” (ingen far/hemort angiven; ingen länk till Fryksände). Sonen Sven f. 29/1 1811 stämmer med bröllop 1810.",
+   "FRYKSÄNDE C I/4 bild 110–111 (1780, nr 1–49) genomläst: mars 1780 nr 34–38 och nr 35 Erik 11/12 (Pensbol, Jon Nilsson/Gertrud Jonsd.) – ingen Erik med fader Christopher/Christoffer. Christopher Hult (Öhlebybruk) endast fadder (nr 25 Olof)."
   ],
   "timeline": [
    [
@@ -4349,7 +4448,12 @@
     "1811–1830",
     "Bonde på Östra Takene med hustrun Britta Olsdotter; nio barn, bl.a. Nils 1820."
    ]
-  ]
+  ],
+  "died": {
+   "date": "1838-05-30",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Dödbok F I/2 bild 100 (s. 159): 30 maj 1838, ålder 58 år 2 mån 5 dagar. Datumkolumnen kan vara begravningsdag."
+  }
  },
  {
   "id": "brita_olsd90",
@@ -4577,6 +4681,10 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858), bild 31 (s. 39): [maj] 17/20 1830 Johannes, Boda; Olof Christophersson, Britta Nilsdotter; faddrar Nils Svensson ibm, H. Stina Nilsdotter ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00031"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -4590,7 +4698,8 @@
   "notes": [
    "HUSFÖRHÖR Boda A I/14 bild 40 (fol. 26): ”måg Dr Olof Christophersson” f. 19/2 1802 ”Fryker…” (Fryksände?), inflyttad ”Frykerud 27”; hustru Britta Nilsd 3/2 1807 Boda; S. Christopher 1828; Son Johannes 17/5 1830.",
    "VIGSEL Boda E I/2 bild 123 (s. 217): ”Tjenstedr. Olof Christophersson fr. Boda och Pigan Britta Nilsdotter S:bm”, lysning 18 nov 1827, vigde 26/12 1827.",
-   "Fryksände dopbok C I/4 bild 160 (1802): ingen 19/2-post funnen (feb 1802 har nr 13 den 12/14 och nr 14 den 18/21) – dop ej hittat; kan vara i annan församling."
+   "Fryksände dopbok C I/4 bild 160 (1802): ingen 19/2-post funnen (feb 1802 har nr 13 den 12/14 och nr 14 den 18/21) – dop ej hittat; kan vara i annan församling.",
+   "MYHERITAGE: i MH är Johannes Olssons mor Karin Olsdotter (karin_olsd_6g_a) – hos oss Britta Nilsdotter (Boda). Konflikt, se flagga."
   ]
  },
  {
@@ -4933,6 +5042,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/7 (1790–1794), bild 72: sida 61, Ö. Takene: ”Anders Arneson” 22/9 Ragnilsrud 1754; ”f. Kjersti Olsd.” 3/8 Takene 1760, ”+ 90”; ”Marit Andersd.” 1767 (inflyttad 90); ”D. Maria Andersd.” 16/9 Takene 1787 (utfl. p.64 1794); ”S. Anders Andersson” 4/2 ibm 1792; ”S. Nils Anders[son]” 24/12 ibm 1793",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036746_00072"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -4943,7 +5056,8 @@
    "FÖDELSE (C I/2 bild 91, nr 32): ”22 Sept: Arne Anderssons och Hust. Marit Jönsdotter i Ragnilsrud, Son Anders.” Husförhörslängderna A I/6 och A I/7 anger honom som ”Anders Arneson” 22/9 1754 Ragnilsrud.",
    "VIGSEL (E I/3 bild 12, nr 17, 1786): ”Dr. Anders Arneson frå Ragnilsrud och Pig. Kjersti Olsdotter frå Ö. Takene”.",
    "HUSFÖRHÖR A I/6 bild 223 (Ö. Fosred, sida 213): dräng, utflyttad till p.63 (Ö. Takene) 1786. A I/6 bild 74 (sida 63): inflyttad p.213 1786, utflyttad p.60 1789 (→ A I/7 sida 61).",
-   "Anders står alltså inte på Ö. Takene i A I/5 (1782–86): han kom dit först 1786 från Ö. Fosred. Se även fyndets 2:a hustru Marit Andersdotter (1790) och barnen Anders 1792, Nils 1793."
+   "Anders står alltså inte på Ö. Takene i A I/5 (1782–86): han kom dit först 1786 från Ö. Fosred. Se även fyndets 2:a hustru Marit Andersdotter (1790) och barnen Anders 1792, Nils 1793.",
+   "MYHERITAGE-MATCH: Anders Arnesson 1754–1828, g.m. Kjersti Arnesson f. Olsdotter 1760–1790; far Arun (Arne) Andersson f. 1724, mor Marit Jonsdotter 1727–1762 – överensstämmer med dopbok C I/2 bild 91."
   ]
  },
  {
@@ -4980,6 +5094,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/7 (1790–1794), bild 72: sida 61, Ö. Takene: ”Anders Arneson” 22/9 Ragnilsrud 1754; ”f. Kjersti Olsd.” 3/8 Takene 1760, ”+ 90”; ”Marit Andersd.” 1767 (inflyttad 90); ”D. Maria Andersd.” 16/9 Takene 1787 (utfl. p.64 1794); ”S. Anders Andersson” 4/2 ibm 1792; ”S. Nils Anders[son]” 24/12 ibm 1793",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036746_00072"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -4989,7 +5107,8 @@
   "notes": [
    "Kandidat: Kjersti Olofsdotter f. 1760 på Ö. Takene, dotter till Olof Andersson (1733) och Kjersti Jonsdotter, ogift där 1775–89 (A I/4 bild 70, A I/5 bild 74). Användarträdet anger Kjersti Olsdotter f. 1760. Ej bevisat samma person.",
    "FÖRÄLDRAR: Olof Andersson (f. 1733 Ö. Takene) och Kjersti Jonsdotter (f. 1728 Renstad) – A I/6 bild 74. Bror: Nils Olsson f. 16/2 1772.",
-   "GRANSKNING: dagen i dopet (C I/2 bild 111 nr 38) är otydlig; 3/8 1760 stöds av husförhören."
+   "GRANSKNING: dagen i dopet (C I/2 bild 111 nr 38) är otydlig; 3/8 1760 stöds av husförhören.",
+   "MYHERITAGE-MATCH: Kjersti Arnesson f. Olsdotter 1760–1790; far Olof Andersson 1733–1801, mor Karin Andersson f. Jonsdotter 1728–1801 (MH skriver Karin, vi Kjersti Jonsdotter)."
   ],
   "died": {
    "date": "1790-08",
@@ -5225,6 +5344,26 @@
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1 (1691–1763), bild 51 (sid. 82), 1734 nr 3: 29 sept 'Enkling och Bonnmann Elof Nilsson från Toltan' med pigan Karin Nilsdotter från Åsnäs(?)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00051"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Brunskog 1718, bild 488: Åsen- och 'Öst. Tortan'-block (ingen Elof Nilsson säkert läst)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003197_00488"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Brunskog 1712, bild 445: Åsen- och Toltan-block (Olof Nilsson i Åsen, Per Nilsson i Toltan)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003193_00445"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 133: 1721 nr 21: ”Elof Nilsson ox Marit Isaacsd: barn Tolta vid namn Britta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00133"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 144: 1723 s. 265, fadder ”Elof Nilsson ibid” (Toltan) tillsammans med ”Påhl Nilsson ibid”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00144"
    }
   ],
   "search": [
@@ -5241,7 +5380,11 @@
    "DÖD: dödbok ej läst; enligt husförhör inhyses 1760–63 vid ca 73 år.",
    "VIGSEL 1:a giftet, E I/1 bild 34 (sida 48), under rubriken ”Bröllop wigde 1717”: ”d 28 Oct: Sammanwigdes efter 3 ordentl. lysningar D. Elof Nilsson i Hey[?] med Ehr: Marit Isaksdotter i Toltan. Morgongåfwa 30 dal. förgyllt Silfwer.” (Elofs hemort svårläst – kan vara ”Hög”/”Åsen”; ej säkert.) Tidpunkten (okt 1717) stämmer med sonen Jan f. 1718.",
    "VIGSEL 2:a giftet, E I/1 bild 51 (sida 82), 1734 nr 3: ”d 29 Septbr. Enkling och Bonnmann Elof Nilsson från Toltan, och pig. Karin Nilsd. från Åstnäs[?]” – Elof är alltså änkling 1734, Marit Isaksdotter död före 29/9 1734 (sista barnet Anna nov 1730). Sonen Nils döptes okt 1735 (C I/1 bild 212). Brief angav ca 1745 för detta giftermål – det stämmer inte; rätt är 1734.",
-   "Elofs födelse/dop (1687–89) finns ej bevarat i läsbar form; Brunskogs dödbok F I/1 börjar först 1783 (C0036789) – ingen dödbok täcker 1750–60-talen, så dödsår/ålder från dödbok är omöjligt. Husförhör A I/1 bild 181 (Toltan Åsen nr 7, sida 144): Elof Nilsson ålder 73 (1760), 74, 75, 76 (1763), annus nativitatis 1689; hustru Kari Nilsdotter 1707; barn Christopher 1748 och Marit 1738 (Marit Elofsdotter), nederst Kari Bengtsdotter 1681 med dottern Kari Nilsdotter 1723 (annat hushåll/ej bevisad släkt)."
+   "Elofs födelse/dop (1687–89) finns ej bevarat i läsbar form; Brunskogs dödbok F I/1 börjar först 1783 (C0036789) – ingen dödbok täcker 1750–60-talen, så dödsår/ålder från dödbok är omöjligt. Husförhör A I/1 bild 181 (Toltan Åsen nr 7, sida 144): Elof Nilsson ålder 73 (1760), 74, 75, 76 (1763), annus nativitatis 1689; hustru Kari Nilsdotter 1707; barn Christopher 1748 och Marit 1738 (Marit Elofsdotter), nederst Kari Bengtsdotter 1681 med dottern Kari Nilsdotter 1723 (annat hushåll/ej bevisad släkt).",
+   "TOLTAN (\"Öst. Tortan/Toltan\") enligt mantalslängd Brunskog, Jösse härad (endast namn, hushållens huvudmän; läsning OSÄKER – 1700-talshandstil, rubriken skrivs 'Öst: Tortan'):\n1710 (A0003191_00430, vänstersida överst): Arne/Anders(?) Bryntesson; Hans Ersson; Anders Hansson/Jönsson; Olof Andersson (Gust…?).\n1712 (A0003193_00445, högersida): Börje(?) Bryntesson [rubrikraden]; Daniel Ersson(?); Per Nilsson; Olof Hansson; Börje Bryntesson; ”Gustafs änka” (Bryntesdotter?).\n1715 (A0003196_00498, vänstersida): [Gusta… på rubrikraden]; Daniel Andersson; Hans Larsson/Jonsson; Olof Jonsson/Larsson; Börje Bryntesson; Gustaf Annula(?); Olof Månsson.\n1718 (A0003197_00488, vänstersida): [Gusta…]; Olof Månsson; Olof Hansson; Olof Jonsson/Hansson; Bengt/Börje Bryntesson; ”Gustaf Anunda/änka”.\n1719 (A0003198_00504, vänstersida): [Gusta…]; Olof Månsson; Olof Hansson; Olof Jonsson; Börje Bryntesson; ”Gust. Anulda/änka”.\n1706–1709, 1711, 1713–1714, 1720: ej genomläst/ej identifierad (1720 har förkortad lista, Toltan-rubrik ej säkert läst; 1706/1707/1709/1711/1713/1714 inte öppnade).\nÅSEN (rubrik 'Åsen/Åhsom'; ligger före Toltan-blocket):\n1712 (A0003193_00445): Håkan Nilsson; Per Ersson; OLOF NILSSON; Ingebrecht; Jon(?); Nils Ersson; Matts Ersson; Anders Larsson; Knut Bryntesson; Per Jonsson; Nils Knutsson.\n1718 (A0003197_00488, överst): Ingebert(?); Per Dwilsson(?); Mattis Olsson(?); Nils Jonsson; Bent Bryntesson; Nils Ingemarsson; Anders Larsson; Nils Bengtsson/Knutsson.\n1719 (A0003198_00504, vänstersida): Ingebrecht(?); Håkan Dwilsson(?); Mattias Persson; OLOF NILSSON; Knut/Erik Bryntesson; Nils Ingemarsson; Anders Larsson.\nÖ. TAKENE (rubrik 'Öst. Takene'): 1718 (A0003197_00487, högersida nederst): Nils Olsson; Jon Olsson; Erik Pehrsson/Påhlsson(?); Nils Jonsson; Olof Nilsson; Per Nilsson; Per Larsson; Per Gunnarsson(?); Olof Olsson; Per Jonsson. 1719 (A0003198_00503, nederst): Britta Olofsdotter (änka?); Per Larsson; Per Matsson; Nils Persson; Jon Persson; Erik Knutsson; Nils Jonsson.\nIngen 'Elof Nilsson' ses i Toltan-blocket 1710–1719. Elof (g. 1717, i Toltan 1724) står antingen som 'Olof Nilsson' i Åsen-blocket (1712 och 1719, men inte tydligt 1718) eller är ej mantalsskriven/inhyses. Per Nilsson i Toltan 1712 stämmer med 'Per Nilsson i Toltan' (fadder 1729, möjlig bror).",
+   "MYHERITAGE-MATCH: Elof Nilsson f. 1689 (MH anger bara år) g.m. Marit Nilsson f. Isaksdotter 1693–1733, far till Per Elofsson 1728–1800.",
+   "SÖKT I C I/1 bild 26–65 (1691–1704): Elof Nilssons dop (ca 1687–89) ligger före bild 26 (1691) / i den glesa delen 1688–1690; i 1691–1704 finns inga poster med Elof som far (han gifter sig först 1717). Inga Toltan-poster med fader Nils i 1691–1704 hittades. Toltan-poster i perioden (se flagga): 1691 Nils Hansson/Jansson med mor Marit Eriksdotter i Tolta (bild 26), 1692 Lars Jönsson/Ingeborg i Tolta (bild 30 nr 15), 1693 Börit i Åsen m.fl.",
+   "Fadder i Toltan 1723 (bild 144, s. 265): ”Fadd: Påhl Nilsson ibid, Elof Nilsson ibid, h. Dordi Nilsd … ibid, h. Marit Olufsd ibid” vid barn till ”Per Erikss?” och Karin Jonsd i Toltan (vid namn [överstruket]; Begr. 1801 3/4). Skrivs ibland ”Oluf Nilsson i Tolena” (1721, bild 136?). Dotter Britta döpt 16/6 1721 (bild 133). Sannolikt barn 2/2 1718 (bild 113)."
   ],
   "timeline": [
    [
@@ -5295,6 +5438,18 @@
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1 (1691–1763), bild 34 (sid. 48), 28 okt 1717: Elof Nilsson med Ehr. Marit Isaksdotter i Toltan",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 109: 1717 d 15 sept: fadder ”h. Marit Isaacsd: i Tolta” hos Påhl Nilsson/Gertrud Bondesdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00109"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 143: 1723 d 23 jan: fadder ”h. Marit Isaacsdotter ibid” hos Nils Isaack(?)/Marit i Toltan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00143"
    }
   ],
   "search": [
@@ -5302,7 +5457,10 @@
   ],
   "notes": [
    "Namngiven som moder 1724 (bild 153) och 1730 (”Marit Isaacs-dotter”, bild 186). Hennes dop (ca 1690–1705) och död ej funna; C I/1 1688–1690 gles, 1691–1721 ej genomläst.",
-   "Annan vigsel i E I/1 bild 30 (1714/15): Per Olufsson från Bråten med jungfru Marit Isaksdotter i Toltan – en namne eller syster; kan inte sammanblandas med Elofs hustru (Elofs vigsel är 1717). Fadder 'Isack H.(?) i Tollan' ses i dopboken 1691 (C I/1 bild 22) – möjlig far/släkting, men svårläst och ej bevisat."
+   "Annan vigsel i E I/1 bild 30 (1714/15): Per Olufsson från Bråten med jungfru Marit Isaksdotter i Toltan – en namne eller syster; kan inte sammanblandas med Elofs hustru (Elofs vigsel är 1717). Fadder 'Isack H.(?) i Tollan' ses i dopboken 1691 (C I/1 bild 22) – möjlig far/släkting, men svårläst och ej bevisat.",
+   "MYHERITAGE-MATCH: Marit Nilsson f. Isaksdotter 1693–1733, dotter till Isak Björsson ca 1645–1719 (Tortan) och Böret Björsson f. Eriksdotter ca 1653–1719. Kontrollera dop 1693 i Brunskog C I/1 (ca bild 34–38) och Isaks död 12/4 1719.",
+   "SÖKT I C I/1 bild 26–65 (1691–1704): ingen födelse av Marit Isaksdotter hittades; ingen Isak som far i Toltan/Åsen/Takene. Isak(!) finns inte som fader i bild 26–65.",
+   "Bodde i Toltan före giftermålet: fadder 15 sept 1717 hos Påhl Nilsson & Gertrud Bondesd (”h. Marit Isaacsd: i Tolta”, bild 109), samt 1720 (”Marit Isaacsd: ibid”, bild 126 nr 5), 22 nov 1721 (bild 136 nr 42) och 23 jan 1723 (bild 143, hos Nils Isaack(?)/Marit). Eventuellt syskon: Nils Isaksson i Toltan (lead)."
   ]
  },
  {
@@ -5558,8 +5716,9 @@
   "status": "strong",
   "sex": "m",
   "born": {
-   "date": "1718",
-   "place": "Toltan, Brunskog"
+   "date": "1718-02-02",
+   "place": "Toltan, Brunskog",
+   "note": "Dopdatum 2 febr 1718 (osäker identitet: faderns förnamn saknas, barnets namn överstruket)."
   },
   "places": [
    "Toltan Uppsjön"
@@ -5569,10 +5728,17 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1789), bild 200, Toltan Uppsjön nr 5: Jan Elofsson 1718 Toltan, hustru Börit Andersdotter 1718 Tobyn",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00200"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 113: 1718 s. 201, 2 febr: ”Nilsson ox h. Marit i Toltan barn, vid namn [överstruket] … Test. Lasse ibid, Olof i Toltan, h. … Gertrud(?) ox h. Marit i Tolten. Begr. 1799 23/3”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00113"
    }
   ],
   "search": [
    "Jan Elofsson"
+  ],
+  "notes": [
+   "DOPBOK C I/1 bild 113 (s. 201), 1718, längst ned på vänstra sidan: ”d 2 Febr: Christnades Nilsson ox h. Marits i Toltan barn, vid namn [överstruket, första bokstaven ev. J] … Test. Lasse ibid, Olof i Toltan, h. [Gertrud?] …, ox Marit i Toltan. Begr. 1799 23/3.” Tolkning: Elof Nilsson (vigd 28/10 1717 med Marit Isaksdotter) – faderns förnamn utelämnat, barnets namn genomstruket och därför ej läsbart. Passar födelseår 1718 i A I/5 (Jan Elofsson 1718), men att barnet heter Jan och att fadern är Elof är INTE bevisat. Marginal ”Begr. 1799 23/3”."
   ]
  },
  {
@@ -5914,6 +6080,10 @@
    {
     "label": "Riksarkivet, Brunskog lysnings- och vigselbok E I/1, bild 46 (1729): föräldrarnas vigsel",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00046"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -5921,7 +6091,8 @@
   ],
   "notes": [
    "DOPBOK C I/1 1730 bild 184 nr 19: ”25 Julii Christopher Pehrsson och Hust. Ingrid … i Åsen Barn, som i Dopet kallad Brita”. Husförhör A I/1/A I/5: Brita Christophers(d.) f. 1730, Åsen. Moderns patronymikon läses osäkert (Mattsdotter?).",
-   "Dop 25/7 1730: fadern skrivs ”Christopher Påhlsson”(?) – se flagga om Pehrsson/Påhlsson. Föräldrarnas vigsel 14 sept 1729 funnen (E I/1 bild 46). Syskon: barn döpt dec 1731 (C I/1 bild 191)."
+   "Dop 25/7 1730: fadern skrivs ”Christopher Påhlsson”(?) – se flagga om Pehrsson/Påhlsson. Föräldrarnas vigsel 14 sept 1729 funnen (E I/1 bild 46). Syskon: barn döpt dec 1731 (C I/1 bild 191).",
+   "MYHERITAGE-MATCH: Britta Christophersson 1730–1828, g.m. Olof Olsson 1731–1802; far ”Okänd Pålsson”, mor Ingjerd Mattesdotter."
   ]
  },
  {
@@ -5946,13 +6117,19 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
    "Olof Persson (Takene, d. före 1760)"
   ],
   "notes": [
-   "MYHERITAGE (användarträd, lead): Olof Persson (f. ca 1703), f. 1703? – antas vara samma person; oberoende uppgift men ingen primärkälla."
+   "MYHERITAGE (användarträd, lead): Olof Persson (f. ca 1703), f. 1703? – antas vara samma person; oberoende uppgift men ingen primärkälla.",
+   "MANTALSLÄNGD Ö. Takene 1718 (A0003197_00487) och 1719 (A0003198_00503): 'Per Larsson/Per Nilsson/Per Jonsson/Erik Pehrsson/Olof Olsson' m.fl.; ingen säker 'Olof Persson' läst – Olof Persson är troligen mantalsskriven först senare eller läst som 'Per'.",
+   "MYHERITAGE-MATCH: Olof Persson 1703–1748, g.m. Ingrid Olsdotter 1693–1771; far till Olof Olsson 1731–1802. Inga föräldrar angivna i MH."
   ]
  },
  {
@@ -5980,13 +6157,18 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
    "Ingrid Olofsdotter (1693)"
   ],
   "notes": [
-   "MYHERITAGE (användarträd, lead): Ingrid Olsdotter (f. ca 1693), f. 1693? – antas vara samma person; oberoende uppgift men ingen primärkälla."
+   "MYHERITAGE (användarträd, lead): Ingrid Olsdotter (f. ca 1693), f. 1693? – antas vara samma person; oberoende uppgift men ingen primärkälla.",
+   "MYHERITAGE-MATCH: Ingrid Olsdotter 1693–1771; dotter till Olof Nilsson och Böret Persdotter (ej daterade). Död 1771 – kontrollera dödbok Brunskog 1771."
   ]
  },
  {
@@ -5996,13 +6178,14 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänd"
+   "date": "1710",
+   "place": "Toltan, Brunskog",
+   "note": "Dop sommaren 1710 (”dito” under Dnca 1ma p.t.), son till Påhl Nilsson och Gertrud Bondesdotter i Toltan. Identiteten med Åsen-Christopher (vigd 14/9 1729 som dräng från Toltan, 19 år) är mycket trolig men inte uttryckligen bevisad."
   },
   "places": [
    "Åsen, Brunskog"
   ],
-  "summary": "Far till Brita (döpt 25 juli 1730) och ytterligare ett barn dec 1731, Åsen. Vigd 14 sept 1729 som dräng från Toltan med pigan Ingrid Mattsd. från Åsen (E I/1 bild 46). Patronymikon läses i dopböckerna 1730/1731 som ”Påhlsson” (inte säkert Pehrsson).",
+  "summary": "Dräng från Toltan 1729, sedan bonde i Åsen. Sannolikt född 1710 i Toltan som son till Påhl Nilsson och Gertrud Bondesdotter (dop C I/1 bild 80). Vigd 14/9 1729 med Ingrid Mattsdotter från Åsen; far till Brita (1730) och barn dec 1731.",
   "sources": [
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 184 (1730), nr 19: ”25 Julii: Christopher Pehrsson och Hust. Ingrid [Mat?]tsd. i Åsen Barn, som i Dopet kallad Brita. Fadd. Olof Nilsson i Toltan, Nils Jönsson i Åsen, Hust. Marit Olofsd. i Toltan, Anna Torbjörnsd. i Åsen”",
@@ -6019,6 +6202,22 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 80: 1710 s. 137: ”dito, Pehl ox h. Gertrud barn i Toltan (: Christopher :) född af ehrlige föräld. Test. Nils i Swartaun och Erik Knutsson i Takene, Mäss Pehrsson i Åsen … h. Dordi i Toltan, h. Karin i …”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00080"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -6031,7 +6230,11 @@
    "VIGSELBOK E I/1 1729 bild 46 nr 7: ”14 Septembris, Drängen Christopher P[å]hls[son]? från Toltan, och pigan Ingrid Matts[dotter] från Åsen. Morg. g. …” – tolkas som föräldrarna till Brita (dop 25/7 1730, 10 mån. senare). Hans ursprung: Toltan.",
    "Godfadern Nils Jonsson i Åsen återkommer 1730, 1731 och 1732 (C I/1 bild 184, 191, 192) – grannen/släktingen i Åsen.",
    "MYHERITAGE (användarträd, lead): Christopher Persson (Toltan) – antas vara samma person; oberoende uppgift men ingen primärkälla.",
-   "GRANSKNING 2026-10-06: patronymikonet läses Påhlsson (Pålsson), inte Persson – både i vigseln 1729 (E I/1 bild 46) och dopet 1730 (C I/1 bild 184). ”Pehr” i fadderlistorna skrivs annorlunda. MyHeritage anger Persson (användarträd)."
+   "GRANSKNING 2026-10-06: patronymikonet läses Påhlsson (Pålsson), inte Persson – både i vigseln 1729 (E I/1 bild 46) och dopet 1730 (C I/1 bild 184). ”Pehr” i fadderlistorna skrivs annorlunda. MyHeritage anger Persson (användarträd).",
+   "MYHERITAGE-MATCH (candidate): ”Okänd Pålsson” 1710–1772 (förnamn saknas), g.m. Ingjerd Mattesdotter 1703–1735, far till Britta Christophersson 1730–1828; hans föräldrar enligt MH: Pål Nilsson + Gertrud Bondesdotter. VARNING: en tidigare partnerrelation p-christopher_persson_asen-margareta_jonsd (MH:s Christopher Persson, far till Nils Christophersson f. 1633) är förmodligen fel person – se ny person christopher_persson_11.",
+   "SÖKT I C I/1 bild 26–65 (1691–1704): ingen födelse av en Christopher Pål-/Persson hittades. Närmaste: 2 juli 1700 Pål Börsson/Persson(?) barn i Tolten, bild 55 (barnnamn osäkert) – se id pal_persson_toltan1700 (lead). Christopher i Smådal 2 mars 1700 (bild 53, far Erik) är en annan person.",
+   "DOPBOK C I/1 bild 80 (s. 137), 1710: ”Dito, Pehl ox h. Gertrud barn i Toltan (: Christopher :) född af ehrlige föräld. Test. Nils i Swartaun och Erik Knutsson i Takene, Mäss Pehrsson i Åsen … h. Dordi i Toltan, h. Karin i …” Barnets namn står understruket/genomstruket (tolkning: Christopher). Fadern är ”Pehl” (= Påhl), vilket stöder patronymet Påhlsson. Marginal ”Begr. 777 d 23” (ev. d. 1777).",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Okänd Pålsson (f. ca 1710)”, f. 1710? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ]
  },
  {
@@ -6041,8 +6244,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänd"
+   "date": "1703-06-01",
+   "place": "Åsen",
+   "note": "Kandidat: dop 1 juni 1703 (C I/1 bild 62, ”Matts barn i Åsen”), fader Matts; ej bevisat att det är Ingrid som gifte sig 1729."
   },
   "places": [
    "Åsen, Brunskog"
@@ -6056,13 +6260,37 @@
    {
     "label": "Riksarkivet, Brunskog lysnings- och vigselbok E I/1 (1691–1763), bild 46 (1729), nr 7: ”pigan Ingrid Mattsd. från Åsen”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00046"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 62: 1 juni 1703 nr: Matts barn i Åsen Ingri (kandidat till Ingrid Mattsdotter)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00062"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 62: d. 1 Juny Matts barn i Åsen [Ingri], faddrar Nils i Thoy, And. Jönsson i Krona, Nils i Åsen; kvinnor Kirsti och Börit i Tolten, Marit i Thoy",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00062"
    }
   ],
   "search": [
    "Ingrid [Mattsdotter?] (Åsen)"
   ],
   "notes": [
-   "Patronymikonet läses nu tydligt som ”Mattsd.” i vigseln 1729 och i dopet 1731 (bild 191) – ”Mattsdotter?” kan alltså strykas som osäkert."
+   "Patronymikonet läses nu tydligt som ”Mattsd.” i vigseln 1729 och i dopet 1731 (bild 191) – ”Mattsdotter?” kan alltså strykas som osäkert.",
+   "MYHERITAGE-MATCH (candidate): ”Ingjerd Mattesdotter” 1703–1735 (g.m. ”Okänd Pålsson”), mor till Britta Christophersson 1730 – MH anger död 1735; vår Ingrid föder barn dec 1731.",
+   "KANDIDAT FÖDELSE (R1): dopbok C I/1 bild 62, 1703: ”d. 1. Juny Matts barn i Åsen [Ingri.] manff. Nils i Thoy and. Jönss i Krona D. Nils i Åsen. Qwinf. H. Kirsti oc Börit i Tolten, H. Marit i Thoy.” Matchar namn + plats (Åsen), men inte bevisat. Föräldrar kandidat: Matts i Åsen och (1701) hustru Ingrid (bild 56). Se id ingri_mattsd_asen03.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Ingjerd Mattesdotter (f. ca 1703)”, f. 1703? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Ingri (Mattsdotter?) född 1 juni 1703, Åsen”, f. 1703-06-01 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ]
  },
  {
@@ -6083,7 +6311,8 @@
   "notes": [
    "HUSFÖRHÖRSLÄNGD A I/1 (1760–63), Skog nr 2, bild 279: ”Nils Jonsson 1722”, ”H. Marit Jönsd. 1721”, S. Per [Nilsson] 1746, S. Jon Nilsson 1749, D. Kari Nilsd 1751, D. Anna Nilsd 1752, D. Marit Nilsd 1756, D. Britta Nilsd 1757, S. Nils Nilsson 1760, D. Ingierd Nilsd 1761.",
    "DOPBOK 1758 nr 4 (bild 103) och 1761 (bild 115) anger honom som far till Britta resp. Ingierd. Fadder 1757 (bild 101 nr 5): ”Nils Jonsson i Skog”.",
-   "Dop 1722 ej säkert funnet: hela 1722 års dopbok (C I/1 bild 138–143) genomläst; enda Nils med fader Jon är nr 34 (17 sept 1722, Jon Nilsson/Ingrid Andersd., ort läst 'Skidene(?)' – ej Skog). Kandidat. Dessutom: dotter Marit döpt 16 juni 1754 i Skog (C I/2 bild 90 nr 22) – ytterligare belägg för parets hushåll."
+   "Dop 1722 ej säkert funnet: hela 1722 års dopbok (C I/1 bild 138–143) genomläst; enda Nils med fader Jon är nr 34 (17 sept 1722, Jon Nilsson/Ingrid Andersd., ort läst 'Skidene(?)' – ej Skog). Kandidat. Dessutom: dotter Marit döpt 16 juni 1754 i Skog (C I/2 bild 90 nr 22) – ytterligare belägg för parets hushåll.",
+   "Observera: ’Nils Jonsson’ står i Åsen-blocket i mantalslängderna 1712 och 1718 (godfader 'Nils Jönsson i Åsen' 1730) – en annan, äldre person än Nils Jonsson f. 1722 (Skog); ej utrett. Skog-blocket ej lokaliserat i mantalslängderna."
   ],
   "sources": [
    {
@@ -6520,7 +6749,8 @@
   "notes": [
    "DOPBOK 1754 (C I/2 bild 91, nr 32): ”Arne Anderssons och Hust. Marit Jönsdotter i Ragnilsrud, Son Anders.”",
    "Hans hushåll har inte hittats i husförhörslängderna A I/1 (1760–63) sidorna 212–214 eller A I/2 (1764–68) sidorna 221–222 (Ragnilsrud) – kan ha avlidit eller flyttat före 1760.",
-   "MYHERITAGE (användarträd, lead): Arun Andersson (1724), f. 1724-01-26 – antas vara samma person; oberoende uppgift men ingen primärkälla."
+   "MYHERITAGE (användarträd, lead): Arun Andersson (1724), f. 1724-01-26 – antas vara samma person; oberoende uppgift men ingen primärkälla.",
+   "MYHERITAGE-MATCH: MH-trädet har honom som ”Arun Andersson”, f. 1724 (ort/dag ej angivna), gift med Marit Andersson f. Jonsdotter 1727–1762; son till Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760; far till Anders Arnesson 1754–1828. NB: Arne Andersson 1645–1722 (arne_andersson45) är hans farfar, inte han själv."
   ],
   "sources": [
    {
@@ -6533,6 +6763,10 @@
    },
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
@@ -6552,7 +6786,8 @@
   "summary": "Hustru till Arne Andersson i Ragnilsrud; mor till Ingerd (1752) och Anders Arnesson (1754).",
   "notes": [
    "DOPBOK 1752 och 1754: ”Hust. Marit Jönsdotter i Ragnilsrud”.",
-   "MYHERITAGE (användarträd, lead): Marit Andersson (född Jonsdotter, 1727), f. 1727-09-24 – antas vara samma person; oberoende uppgift men ingen primärkälla."
+   "MYHERITAGE (användarträd, lead): Marit Andersson (född Jonsdotter, 1727), f. 1727-09-24 – antas vara samma person; oberoende uppgift men ingen primärkälla.",
+   "MYHERITAGE-MATCH: ”Marit Andersson (født Jonsdotter)” 1727–1762, dotter till Jon Jönsson 1690–1768 + Anna Jönsson f. Andersdotter 1700–1762."
   ],
   "sources": [
    {
@@ -6565,6 +6800,10 @@
    },
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
@@ -6741,7 +6980,8 @@
   ],
   "summary": "Hustru till Olof Andersson i Ö. Takene; mor till Kjersti Olsdotter (1760) och Nils Olsson (1772).",
   "notes": [
-   "HUSFÖRHÖR A I/6 bild 74: ”f. Kjersti Jons[dotter]” Renstad 1728. DOPBOK 1760: ”Hust. Kjersti Jonsd.”"
+   "HUSFÖRHÖR A I/6 bild 74: ”f. Kjersti Jons[dotter]” Renstad 1728. DOPBOK 1760: ”Hust. Kjersti Jonsd.”",
+   "MYHERITAGE-MATCH: heter ”Karin Andersson (født Jonsdotter)” 1728–1801 i MH-trädet (vi: Kjersti Jonsdotter) – samma hustru till Olof Andersson f. 1733. Namnformen bör kontrolleras mot kyrkböcker (Kari/Kjersti)."
   ],
   "sources": [
    {
@@ -6755,6 +6995,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/5 (1782–1786), bild 74 (sida 62), Ö. Takene hushåll 9: Olof Andersson 23/3(?) 1733 Ö. Takene, Kjersti Jonsd. 1728 Renstad, D. Kjersti Olsd. 1760, S. Olof Olss. 13/2 1763 (genomstruken), S. Nils Olss. 16/2 1772, S. Jonas Olofson 28/8 1757 (genomstruken, X)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036744_00074"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -7438,7 +7682,8 @@
   "notes": [
    "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Nov. 24, döpt 26: Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr.” (”u.” läst, kan vara ung/ogift?). Faddrar: Olof Nilsson, Karin Ersdr ibm.",
    "HUSFÖRHÖR Boda A I/14 bild 17 (fol. 6) N. Boda: ”Bond. unge Anders Nilsson” f. 2/11 1796 här; ”H. Caisa Olsdr” f. 3/? 1802 här; barn Kaisa 1825 (död 1826), Anna 1826, Cajsa 18/9 1828, Nils 15/9 1830. Anders f. 1796 stämmer med dop 13 nov 1796 i Boda (far Nils Arnesson, mor Kari Andersdotter) – strong, ej verified (ingen annan ställning bekräftar).",
-   "VIGSEL Boda E I/2 bild 120 (s. 211) 1824: ”Emellan Jordägaren drängen Anders Nilsson från Norra Boda samt pigan Cajsa Olsdotter från Södra Boda”, vigde 26/12 1824."
+   "VIGSEL Boda E I/2 bild 120 (s. 211) 1824: ”Emellan Jordägaren drängen Anders Nilsson från Norra Boda samt pigan Cajsa Olsdotter från Södra Boda”, vigde 26/12 1824.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Anders Nilsson (6:e gen.)” antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
@@ -7460,6 +7705,14 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858), bild 31 (s. 39): 15/16 sept 1830 ”Nils, N. Boda”, föräldrar Anders Nilsson, Kajsa Olsdr; faddrar Jan Jansson ibm, Kajsa Ersdr ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00031"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -7676,7 +7929,8 @@
   ],
   "summary": "Dopvittne (gudmor) vid Elof Nilssons barn 1735 och 1748 samt vid andra Toltan-dop; släktskap med Elof Nilsson okänd (hennes fader heter Elof, alltså inte hans syster).",
   "notes": [
-   "C I/1 bild 153 (1724): ”Ingrid Elofsd:r i Åsen”; bild 212 (1735 nr 32): ”Gertrud Bondesd:r, Ingrid Elofsdotter ibidem” vid Nils Elofssons dop; C I/2 bild 67 (1748 nr 23) vid Christophers dop: ”Ingerd Elofsdotter i Toltan”. Kan vara hustru/släkting till grannen – ej bevisat."
+   "C I/1 bild 153 (1724): ”Ingrid Elofsd:r i Åsen”; bild 212 (1735 nr 32): ”Gertrud Bondesd:r, Ingrid Elofsdotter ibidem” vid Nils Elofssons dop; C I/2 bild 67 (1748 nr 23) vid Christophers dop: ”Ingerd Elofsdotter i Toltan”. Kan vara hustru/släkting till grannen – ej bevisat.",
+   "Även 1724 (bild 150, s. 277, nr 21): ”Nils Persson ox h. Anna … barn ifrån Uppsjön vid namn Ingerd. Fadd: Per …, Påhl Nilss: i Tolta, h. Marit Olufsd: ibid, h. Ingerd Elofsd: i Åsen.” 1720 (bild 126, nr 9) läser jag fadder som ”h. Ingerd Olufsd: i Åsen” – efternamnet Olofsdotter/Elofsdotter är svårt att skilja åt; kan vara samma kvinna. Hennes fader heter Olof/Elof – inte Elof Nilssons syster."
   ],
   "sources": [
    {
@@ -7831,9 +8085,10 @@
   "places": [
    "Toltan, Brunskog"
   ],
-  "summary": "Nämns 1729 tillsammans med Elof Nilsson som ”Elof och Pehr Nilssonar i Toltan” – möjlig bror till Elof Nilsson. 1748: Per Nilsson och Marit Nilsdotter i Toltan, dotter Britta (Elof Nilsson fadder).",
+  "summary": "Per Nilsson i Toltan: 1721 och jan 1724 hustru Karin Olufsdotter (barn [överstruket] 1721; tvillingarna Pär och Ingerd 15/1 1724). 1729: ”Elof och Pehr Nilssonar i Toltan”; 1748: Per Nilsson och Marit Nilsdotter (dotter Britta). Möjlig bror till Elof Nilsson – ej bevisat; Per i 1721/24 och 1748 kan vara samma man med två hustrur (ej bevisat).",
   "notes": [
-   "Identitet mellan Per Nilsson 1729 och Per Nilsson 1748 ej bevisad."
+   "Identitet mellan Per Nilsson 1729 och Per Nilsson 1748 ej bevisad.",
+   "MANTALSLÄNGD 1712 (A0003193_00445, block 'Öst. Tortan'): ”Per Nilsson” bland Toltans bönder (efter Daniel Ersson?, före Olof Hansson). Stöder att Per Nilsson bor i Toltan redan 1712 (bror till Elof? ej bevisat)."
   ],
   "sources": [
    {
@@ -7843,6 +8098,18 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/2, bild 66 (s. 97), 1748 nr 9: ”d 4 Martii Per Nilsson och h. Marit Nilsdotter i Toltan, dotter Britta. Fadd: Elof Nilsson i Toltan, Christopher Pålsson i Toltan eller Åsen; hustru Ingerd Elofsdotter i Toltan, Kerstin Olofsdotter i Toltan”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00066"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Brunskog 1712, bild 445 (högersida): Toltan-block, Per Nilsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003193_00445"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 149: 1724 d 15 jan: ”Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena vid namn Pär och Ingerd”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00149"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 134: 1721 nr 30: ”Per Nilsson ox h. Karin Olufsd: barn i Talena”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00134"
    }
   ],
   "search": [
@@ -7852,7 +8119,7 @@
  {
   "id": "gertrud_bondesd_toltan",
   "name": "Gertrud Bondesdotter (Toltan)",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -7862,7 +8129,7 @@
   "places": [
    "Toltan, Brunskog"
   ],
-  "summary": "Hustru i Toltan, återkommande gudmor hos Elof Nilsson (1727, 1728, 1729, 1735); möjlig hustru till Per Nilsson i Toltan – ej bevisat.",
+  "summary": "Hustru till Påhl Nilsson i Toltan; mor till Christopher (1710), [överstruket] (1717), Elof (1720), Britta (1722). Återkommande gudmor i Toltan (bl.a. hos Elof Nilsson 1721, 1724, 1727–29, 1735).",
   "notes": [],
   "sources": [
    {
@@ -7872,6 +8139,18 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/1, bild 212 (s. 397), 1735 nr 32: ”Elof Nilsson och h. Karin Nilsdotter i Toltan Son Nils. Fadd: Nils Nilsson i Stoy, Christopher Pålsson i Åsen; hust. Gertrud Bondesdotter, Ingrid Elofsdotter ibidem”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00212"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 109: 1717: ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00109"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 126: 1720: ”Påhl Nilss ox h. Gertrud Bondesd barn … Elof”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00126"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 133: 1721 d 16 juni: fadder ”h. Gertrud Bondesd: Tolta” vid Elof Nilssons dotter Britta",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00133"
    }
   ],
   "search": [
@@ -7921,12 +8200,21 @@
   ],
   "summary": "Far till Olof Nilsson (f. 7 juli 1754 Toltan), enligt dopboken. Patronymet läst som 'Ihrsson/Ivarsson/Ersson' – osäkert (samma handstil som 'Olof Ihrsson från Toltan' i vigselboken 1745).",
   "notes": [
-   "DOPBOK C I/2 bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Faderns patronymikon (Ihrsson/Ivarsson/Ersson) ej säkert läst."
+   "DOPBOK C I/2 bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Faderns patronymikon (Ihrsson/Ivarsson/Ersson) ej säkert läst.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Nils Persson (f. ca 1719)”, f. ca 1719 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2, bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00090"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -7948,12 +8236,21 @@
   ],
   "summary": "Mor till Olof Nilsson (f. 1754), hustru till Nils Ihrsson(?) i Toltan.",
   "notes": [
-   "DOPBOK C I/2 bild 90 nr 23 (7 juli 1754): hustru ”Marit Nilsdotter” i Toltan."
+   "DOPBOK C I/2 bild 90 nr 23 (7 juli 1754): hustru ”Marit Nilsdotter” i Toltan.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Marit Persson (född Nilsdotter)”, f. 1727? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2, bild 90, 1754 nr 23",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00090"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -7975,12 +8272,22 @@
   ],
   "summary": "Far till Marit Jönsdotter (döpt 12 mars 1721 i Skog), enligt dopboken. Efternamn/patronymikon ej läst.",
   "notes": [
-   "DOPBOK C I/1 bild 132, 1721 nr 12: ”d 12 Martii christnades i Herrans namn Jöns [?] och h. Karin(?) barn i Skog vid namn Marit. Faddrar: Lars och Elof Eriksson i Toltan(?) …” – förnamnen läst utan full säkerhet (högerkanten av första raden svårläst; 'Marit' är överstruken/omskriven i raden)."
+   "DOPBOK C I/1 bild 132, 1721 nr 12: ”d 12 Martii christnades i Herrans namn Jöns [?] och h. Karin(?) barn i Skog vid namn Marit. Faddrar: Lars och Elof Eriksson i Toltan(?) …” – förnamnen läst utan full säkerhet (högerkanten av första raden svårläst; 'Marit' är överstruken/omskriven i raden).",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Jon Göstasson (f. ca 1680)”, f. 1680? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Jon Gustafsson” antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1, bild 132, 1721 nr 12: dop 12 mars, barn i Skog 'vid namn Marit', far Jöns/Jon",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00132"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -8002,12 +8309,22 @@
   ],
   "summary": "Mor till Marit Jönsdotter (f. 1721), förnamn läst som Karin/Kari – osäkert.",
   "notes": [
-   "DOPBOK C I/1 bild 132 nr 12: moderns förnamn läst 'Karin(?)'."
+   "DOPBOK C I/1 bild 132 nr 12: moderns förnamn läst 'Karin(?)'.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Karin Nilsdotter (f. ca 1686)”, f. 1686? antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Karin Nilsdotter (9:e gen., maka till Jon Gustafsson?)” antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1, bild 132, 1721 nr 12",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00132"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -8172,12 +8489,26 @@
   ],
   "summary": "Möjlig far till Olof Andersson (f. 1733): dopboken 1733 anger Anders Nilsson och Marit Olofsdotter i Öster Takene som föräldrar till barn (namnet överstruket).",
   "notes": [
-   "Koppling till Olof Andersson (1733) är osäker: namnet på barnet är överstruket i dopboken och dagen läses 28 mars mot husförhörets ca 23/3."
+   "Koppling till Olof Andersson (1733) är osäker: namnet på barnet är överstruket i dopboken och dagen läses 28 mars mot husförhörets ca 23/3.",
+   "MYHERITAGE-MATCH (candidate): MH-personen anders_nilsson11 (Anders Nilsson 1711-02-12–1789-01-11, g.m. Marit Olofsdotter 1711–1778-07-17, far till Olof Andersson 1733–1801). Vår 'f. ca 1700' bör rättas till 1711 om identiteten stämmer. Föräldrar enligt MH: Nils Knutsson 1691–1742 + Ilin Andersdotter f. 1688.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Anders Nilsson (1711–1789)”, f. 1711-02-12 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 198 (sida 372–373), 1733 nr 20: 28 Martii, Anders Nilsson och hust. Marit Olofsdotter i Öster Takene, barn [Olof, överstruket]; fadd. Olof och Arvid Nilsson i Takene, hust. Malin Olofsd., Anna Ersd.; marginal 'Dog 1801 13/12'",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00198"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -8195,12 +8526,26 @@
   ],
   "summary": "Hustru till Anders Nilsson i Öster Takene; möjlig mor till Olof Andersson (f. 1733).",
   "notes": [
-   "DOPBOK 1733 nr 20: ”Anders Nilsson och hust. Marit Olofsdotter i Öster Takene”."
+   "DOPBOK 1733 nr 20: ”Anders Nilsson och hust. Marit Olofsdotter i Öster Takene”.",
+   "MYHERITAGE-MATCH (candidate): marit_olofsd11 (Marit Nilsson f. Olofsdotter 1711–1778-07-17); föräldrar enligt MH: Olof Olofsson + Ingeborg Persdotter.",
+   "MYHERITAGE (användarträd, lead) – sammanslagen: ”Marit Nilsson (född Olofsdotter, 1711)”, f. 1711 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 198 (sida 372–373), 1733 nr 20: 28 Martii, Anders Nilsson och hust. Marit Olofsdotter i Öster Takene, barn [Olof, överstruket]; fadd. Olof och Arvid Nilsson i Takene, hust. Malin Olofsd., Anna Ersd.; marginal 'Dog 1801 13/12'",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00198"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy/personkort 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
@@ -9399,10 +9744,15 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+   "Se relation: far till Christopher Svensson f. 1754 enligt MH."
   ],
   "born": {
    "date": "1718?",
@@ -9551,66 +9901,6 @@
   "places": [],
   "search": [
    "Ingjerd Jansson (född Andersdotter)"
-  ]
- },
- {
-  "id": "nils_persson19",
-  "name": "Nils Persson (f. ca 1719)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
-  ],
-  "born": {
-   "date": "ca 1719",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1785?",
-   "place": ""
-  },
-  "summary": "Nils Persson (f. ca 1719) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-  "places": [],
-  "search": [
-   "Nils Persson (f. ca 1719)"
-  ]
- },
- {
-  "id": "marit_nilsd27",
-  "name": "Marit Persson (född Nilsdotter)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
-  ],
-  "born": {
-   "date": "1727?",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1791?",
-   "place": ""
-  },
-  "summary": "Marit Persson (född Nilsdotter) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-  "places": [],
-  "search": [
-   "Marit Persson (född Nilsdotter)"
   ]
  },
  {
@@ -10026,27 +10316,6 @@
   ]
  },
  {
-  "id": "anders_nilsson_6g",
-  "name": "Anders Nilsson (6:e gen.)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 6:e generationen; ingen datering i listvyn."
-  ],
-  "summary": "Anders Nilsson (6:e gen.) – MyHeritage: direkt anfader/anmoder, 6:e generationen; ingen datering i listvyn.",
-  "places": [],
-  "search": [
-   "Anders Nilsson (6:e gen.)"
-  ]
- },
- {
   "id": "karin_olsd_6g_a",
   "name": "Karin Olsdotter (maka till Olof Christophersson?)",
   "status": "lead",
@@ -10086,66 +10355,6 @@
   "places": [],
   "search": [
    "Karin Olsdotter (maka till Anders Nilsson?)"
-  ]
- },
- {
-  "id": "anders_nilsson11",
-  "name": "Anders Nilsson (1711–1789)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "born": {
-   "date": "1711-02-12",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1789-01-11",
-   "place": ""
-  },
-  "summary": "Anders Nilsson (1711–1789) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Anders Nilsson (1711–1789)"
-  ]
- },
- {
-  "id": "marit_olofsd11",
-  "name": "Marit Nilsson (född Olofsdotter, 1711)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "born": {
-   "date": "1711",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1778-07-17",
-   "place": ""
-  },
-  "summary": "Marit Nilsson (född Olofsdotter, 1711) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Marit Nilsson (född Olofsdotter, 1711)"
   ]
  },
  {
@@ -10371,66 +10580,6 @@
   ]
  },
  {
-  "id": "okand_palsson10",
-  "name": "Okänd Pålsson (f. ca 1710)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "born": {
-   "date": "1710?",
-   "place": "Åsen",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1772?",
-   "place": ""
-  },
-  "summary": "Okänd Pålsson (f. ca 1710) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Okänd Pålsson (f. ca 1710)"
-  ]
- },
- {
-  "id": "ingjerd_mattesd03",
-  "name": "Ingjerd Mattesdotter (f. ca 1703)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen; jfr ingrid_asen."
-  ],
-  "born": {
-   "date": "1703?",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1735?",
-   "place": ""
-  },
-  "summary": "Ingjerd Mattesdotter (f. ca 1703) – MyHeritage: direkt anfader/anmoder, 9:e generationen; jfr ingrid_asen.",
-  "places": [],
-  "search": [
-   "Ingjerd Mattesdotter (f. ca 1703)"
-  ]
- },
- {
   "id": "jon_tholsson",
   "name": "Jon Tholsson",
   "status": "lead",
@@ -10470,66 +10619,6 @@
   "places": [],
   "search": [
    "Ingjerd Jonsdotter"
-  ]
- },
- {
-  "id": "jon_gostasson80",
-  "name": "Jon Göstasson (f. ca 1680)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "born": {
-   "date": "1680?",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1756?",
-   "place": ""
-  },
-  "summary": "Jon Göstasson (f. ca 1680) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Jon Göstasson (f. ca 1680)"
-  ]
- },
- {
-  "id": "karin_nilsd86",
-  "name": "Karin Nilsdotter (f. ca 1686)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "born": {
-   "date": "1686?",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1741?",
-   "place": ""
-  },
-  "summary": "Karin Nilsdotter (f. ca 1686) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Karin Nilsdotter (f. ca 1686)"
   ]
  },
  {
@@ -10641,48 +10730,6 @@
   "places": [],
   "search": [
    "Ingegjerd Jonsdotter (f. ca 1695)"
-  ]
- },
- {
-  "id": "jon_gustafsson",
-  "name": "Jon Gustafsson",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "summary": "Jon Gustafsson – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Jon Gustafsson"
-  ]
- },
- {
-  "id": "karin_nilsd_b",
-  "name": "Karin Nilsdotter (9:e gen., maka till Jon Gustafsson?)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
-  ],
-  "summary": "Karin Nilsdotter (9:e gen., maka till Jon Gustafsson?) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
-  "places": [],
-  "search": [
-   "Karin Nilsdotter (9:e gen., maka till Jon Gustafsson?)"
   ]
  },
  {
@@ -11168,24 +11215,33 @@
  {
   "id": "pal_nilsson_hagen",
   "name": "Pål Nilsson (Hagen, Toltan)",
-  "status": "lead",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "sources": [
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 109: 1717 d 15 sept: ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00109"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 126: 1720 nr 4: ”Påhl Nilss: ox h. Gertrud Bondesd: barn ifrån Toltan vid namn Elof”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00126"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen; gift med Gertrud Bondesdotter (gertrud_bondesd_toltan finns hos oss)."
+   "MyHeritage: direkt anfader/anmoder, 10:e generationen; gift med Gertrud Bondesdotter (gertrud_bondesd_toltan finns hos oss).",
+   "Faddrar vid Påhls barn: 1710 Nils i Swartaun, Erik Knutsson i Takene, Mäss Pehrsson i Åsen; 1717 Jon Nilsson i Åsen, Per Eriks i Tolta, h. Dordi Nilsd, h. Marit Isaacsd i Tolta; 1720 Jon i Åsen m.fl. Påhl Nilsson är själv fadder 1720 (Olof, barn till Nils …/Marit Olufsd), 1723 (Per Eriksson + Karin Jonsd barn, med Elof Nilsson ibid) och 1724 (Nils Persson, Uppsjön)."
   ],
   "born": {
    "date": "",
    "place": "Hagen, Toltan, Brunskog",
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
-  "summary": "Pål Nilsson (Hagen, Toltan) – MyHeritage: direkt anfader/anmoder, 10:e generationen; gift med Gertrud Bondesdotter (gertrud_bondesd_toltan finns hos oss).",
+  "summary": "Påhl Nilsson i Toltan, gift med Gertrud Bondesdotter. Dopböcker 1710, 1717, 1720, 1722: barn Christopher (1710), [överstruket] (15/9 1717), Elof (24/1 1720), Britta (16/12 1722). Far (sannolikt) till Christopher Påhlsson i Åsen. Möjlig bror till Elof Nilsson i Toltan (”Elof och Pehr Nilssonar i Toltan”) – ej bevisat.",
   "places": [],
   "search": [
    "Pål Nilsson (Hagen, Toltan)"
@@ -11407,17 +11463,19 @@
  {
   "id": "jozef_orzechowski",
   "name": "Józef Orzechowski",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
    "Kielce",
    "Szydłówek"
   ],
-  "summary": "Namngiven som Stefan Orzechowskis far i vigselindexet 1923. Möjlig vigsel 1895 med Katarzyna Zatorska i Kielce Katedra (endast namnträff, ej bevisad identitet).",
+  "summary": "Arbetare ('работникъ') från Szydłówek vid Kielce; far till Stefan Orzechowski (f. 1901). Gift med Katarzyna Zatorska (Geneteka: Kielce Katedra 1895 nr 169).",
   "notes": [
    "VIGSEL 1923 (index): Stefan Orzechowski, föräldrar 'Józef, Katarzyna Zatorska'.",
-   "KANDIDAT: Geneteka vigsel Kielce Katedra 1895 nr 169 'Józef Orzechowski' + 'Katarzyna Zatorski' – namnlikhet, ingen föräldra-/åldersdata indexerad. Józef Orzechowski är ett vanligt namn; kräver skanning eller aktens text."
+   "KANDIDAT: Geneteka vigsel Kielce Katedra 1895 nr 169 'Józef Orzechowski' + 'Katarzyna Zatorski' – namnlikhet, ingen föräldra-/åldersdata indexerad. Józef Orzechowski är ett vanligt namn; kräver skanning eller aktens text.",
+   "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet."
   ],
   "sources": [
    {
@@ -11427,24 +11485,38 @@
    {
     "label": "Geneteka, vigselindex Kielce Katedra 1895 nr 169: Józef Orzechowski + Katarzyna Zatorski[a] (endast namn indexerade)",
     "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&search_lastname=Orzechowski&from_date=1895&to_date=1895"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1903 UMZ-1903 Urodzenia, skan 063-068.jpg (13 av 59), akt nr 68 (nedre högra sidan, marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1903-kt1"
+   },
+   {
+    "label": "Geneteka-index: vigsel Kielce Katedra 1895 nr 169, Józef Orzechowski × Katarzyna Zatorski (akt ej läst; Skanoteka 1895 UMZ Małżeństwa har bara 82 sidor, nr 169 ligger alltså i annan enhet/numrering)",
+    "url": "https://geneteka.genealodzy.pl/"
    }
   ],
   "search": [
    "Józef Orzechowski"
-  ]
+  ],
+  "born": {
+   "date": "ca 1875",
+   "note": "28 år gammal mars 1903 (akt 68)"
+  }
  },
  {
   "id": "katarzyna_zatorska",
   "name": "Katarzyna Zatorska",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
    "Kielce"
   ],
-  "summary": "Namngiven som Stefan Orzechowskis mor i vigselindexet 1923; möjlig hustru till Józef (vigsel Kielce Katedra 1895, ej bevisad).",
+  "summary": "Hustru till Józef Orzechowski, mor till Stefan (f. 1901). Flicknamn Zatorska enligt akt 68 (ryska 'Заторская').",
   "notes": [
-   "VIGSEL 1923 (index): 'Józef, Katarzyna Zatorska' som Stefans föräldrar."
+   "VIGSEL 1923 (index): 'Józef, Katarzyna Zatorska' som Stefans föräldrar.",
+   "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet."
   ],
   "sources": [
    {
@@ -11454,62 +11526,90 @@
    {
     "label": "Geneteka, vigselindex Kielce Katedra 1895 nr 169: Józef Orzechowski + Katarzyna Zatorski[a] (endast namn indexerade)",
     "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&search_lastname=Orzechowski&from_date=1895&to_date=1895"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1903 UMZ-1903 Urodzenia, skan 063-068.jpg (13 av 59), akt nr 68 (nedre högra sidan, marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1903-kt1"
    }
   ],
   "search": [
    "Katarzyna Zatorska"
-  ]
+  ],
+  "born": {
+   "date": "ca 1874",
+   "note": "29 år mars 1903 (akt 68)"
+  }
  },
  {
   "id": "jan_mlodawski",
   "name": "Jan Młodawski",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
    "Kielce"
   ],
-  "summary": "Namngiven som Zofia Młodawskas far i vigselindexet 1923. Ingen egen post funnen.",
+  "summary": "Arbetare ('работникъ') från Szydłówek vid Kielce; far till Zofia Młodawska (f. 17.4.1904).",
   "notes": [
-   "VIGSEL 1923 (index): Zofia Młodawska, föräldrar 'Jan, Wiktoria Szewczyk'. Uteslutna namnlika: Jan Młodawski (Odrowąż, Czarna/Stąporków, Mniów/Komorów, Niekłań) – inget belägg för koppling."
+   "VIGSEL 1923 (index): Zofia Młodawska, föräldrar 'Jan, Wiktoria Szewczyk'. Uteslutna namnlika: Jan Młodawski (Odrowąż, Czarna/Stąporków, Mniów/Komorów, Niekłań) – inget belägg för koppling.",
+   "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk."
   ],
   "sources": [
    {
     "label": "Geneteka (PTG), index över vigselakt, Kielce św. Wojciech 1923 nr 1 (AP Kielce): Stefan Orzechowski (föräldrar Józef, Katarzyna Zatorska) + Zofia Młodawska (föräldrar Jan, Wiktoria Szewczyk), vigsel 07.01.1923, 'Uwagi: 21 i 18', Miejscowość: Szydłówek",
     "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&search_lastname=Orzechowski&search_name=Stefan&from_date=1923&to_date=1923"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1904 UMZ-1904 Urodzenia, skan 124-129.jpg (23 av 59), akt nr 125 (vänstra sidan, mitten; marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
    }
   ],
   "search": [
    "Jan Młodawski"
-  ]
+  ],
+  "born": {
+   "date": "ca 1860-1875",
+   "note": "ålder ej säkert läst i akt 125 (slutar på '-ка'; ev. 'сорока' = 40)"
+  }
  },
  {
   "id": "wiktoria_szewczyk",
   "name": "Wiktoria Szewczyk",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
    "Kielce"
   ],
-  "summary": "Namngiven som Zofia Młodawskas mor i vigselindexet 1923. Ingen egen post funnen.",
+  "summary": "Hustru till Jan Młodawski, mor till Zofia (f. 1904). Flicknamn Szewczyk ('Шевчикъ').",
   "notes": [
-   "VIGSEL 1923 (index): 'Jan, Wiktoria Szewczyk'. Sökning på vigsel Młodawski+Szewczyk 1885–1905 i woj. świętokrzyskie gav inga träffar (osäkert, kan vara oindexerad/annan region)."
+   "VIGSEL 1923 (index): 'Jan, Wiktoria Szewczyk'. Sökning på vigsel Młodawski+Szewczyk 1885–1905 i woj. świętokrzyskie gav inga träffar (osäkert, kan vara oindexerad/annan region).",
+   "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
+   "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk."
   ],
   "sources": [
    {
     "label": "Geneteka (PTG), index över vigselakt, Kielce św. Wojciech 1923 nr 1 (AP Kielce): Stefan Orzechowski (föräldrar Józef, Katarzyna Zatorska) + Zofia Młodawska (föräldrar Jan, Wiktoria Szewczyk), vigsel 07.01.1923, 'Uwagi: 21 i 18', Miejscowość: Szydłówek",
     "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&search_lastname=Orzechowski&search_name=Stefan&from_date=1923&to_date=1923"
+   },
+   {
+    "label": "Skanoteka PTG (metryki.genealodzy.pl), Akta stanu cywilnego parafii rzymskokatolickiej Kielce (zespół 1015d), 1904 UMZ-1904 Urodzenia, skan 124-129.jpg (23 av 59), akt nr 125 (vänstra sidan, mitten; marginalnot 'Szydłówek')",
+    "url": "https://metryki.genealodzy.pl/id239-sy1904-kt1"
    }
   ],
   "search": [
    "Wiktoria Szewczyk"
-  ]
+  ],
+  "born": {
+   "date": "ca 1875/76",
+   "note": "28 år april 1904 (akt 125)"
+  }
  },
  {
   "id": "brita_nilsd_lerhol1820",
   "name": "Brita Nilsdotter (Lerhol 1820)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -11520,7 +11620,7 @@
   "places": [
    "Lerhol, Brunskog"
   ],
-  "summary": "Enda flicka vid namn Brita med fader Nils född i Brunskog 1820 som hittats: dotter till Nils Svensson och Anna Andersdotter på Lerhol. Möjlig identitet för Nils Erikssons hustru Britta Nilsdotter (f. 1820) – ej bevisad.",
+  "summary": "Brita f. 6/2 1820 (dop 7/2) på Lerhol, dotter till Nils Svensson (f. 1792, Boda) och Anna Andersdotter (f. 3/4 1799 Brunskog). ÄR INTE Britta Nilsdotter gift med Nils Eriksson (hon är f. 15/2 1820 på Strand).",
   "notes": [
    "FÖDELSEBOK Brunskog 1820 (C I/3 bild 139, sida 241), februari: ”13 | 6 | 7 | Lerhol – Brita | Nils Svensson, H. Anna Andersd. (41) | Faddrar: Olof Andersson, Karin Jansdotter ib.” Faddrarna Olof Andersson + Karin Jansdotter är samma par som Anna Olsdotters (f. 1813, Lerhol) föräldrar – grannar/släkt på Lerhol.",
    "Konkurrerande dop 1820: nr 18 (mars 3/4) Brita, föräldrar Olof Nilsson/Karin Andersdotter (26), Marstana(d); nr 10 (jan/feb) Brita, Strand/…; dessa har annan fader än 'Nils'.",
@@ -11530,6 +11630,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1820), bild 139, s. 241: nr 13, 6/7 feb, Lerhol, Brita, Nils Svensson + Anna Andersd. (41), faddrar Olof Andersson, Karin Jansdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Gifte dr. Nils Svensson 22/7(?) 1792 Boda, H. Anna Andersd. 3/4 1799 Brunskog, D. Brita 6/2 1820 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
    }
   ],
   "search": [
@@ -11539,18 +11643,18 @@
  {
   "id": "nils_svensson_lerhol",
   "name": "Nils Svensson (Lerhol)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "place": "",
-   "note": "Ålder okänd."
+   "date": "1792-07",
+   "place": "Boda",
+   "note": "A I/14 bild 46: ”22/7(?) 92 Boda” (dagen svårläst)"
   },
   "places": [
    "Lerhol, Brunskog"
   ],
-  "summary": "Fader till Brita f. 6/2 1820 på Lerhol. Identitet med Britta Nilsdotters far ej bevisad.",
+  "summary": "Gift dräng på Lerhol 1820–24, f. 1792 i Boda; gift med Anna Andersdotter (f. 1799); dotter Brita 6/2 1820.",
   "notes": [
    "C I/3 bild 139: ”Nils Svensson, H. Anna Andersd. (41)”, dotter Brita 6/2 1820."
   ],
@@ -11558,6 +11662,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1820), bild 139: Lerhol, Brita, Nils Svensson/Anna Andersd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Gifte dr. Nils Svensson 22/7(?) 1792 Boda; H. Anna Andersd. 3/4 1799 Brunskog; D. Brita 6/2 1820",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
    }
   ],
   "search": [
@@ -11567,18 +11675,18 @@
  {
   "id": "anna_andersd_lerhol41",
   "name": "Anna Andersdotter (Lerhol, ca 1779)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1779",
-   "place": "",
-   "note": "Ålder 41 år vid barnets födelse 1820 → f. ca 1778–79."
+   "date": "1799-04-03",
+   "place": "Brunskog",
+   "note": "A I/14 bild 46: ”3/4 99 Brunskog”; dopbokens ”(41)” är fel/svårläst – ålder ca 21"
   },
   "places": [
    "Lerhol, Brunskog"
   ],
-  "summary": "Hustru till Nils Svensson på Lerhol, mor till Brita (6/2 1820).",
+  "summary": "Hustru till Nils Svensson på Lerhol, f. 3/4 1799 Brunskog; mor till Brita f. 6/2 1820.",
   "notes": [
    "C I/3 bild 139: ”H. Anna Andersd. (41)”."
   ],
@@ -11586,6 +11694,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1820), bild 139",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: H. Anna Andersd. 3/4 99 Brunskog",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
    }
   ],
   "search": [
@@ -11617,6 +11729,860 @@
   ],
   "search": [
    "Christopher Hult (Öhlebybruk, Fryksände)"
+  ]
+ },
+ {
+  "id": "olof_nilsson_asen_mantal",
+  "name": "Olof Nilsson (Åsen, mantalslängd 1712/1719)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": "okänd"
+  },
+  "places": [
+   "Åsen, Brunskog"
+  ],
+  "summary": "Mantalsskriven 'Olof Nilsson' i Åsen-blocket 1712 och 1719 (ej säkert 1718). Möjlig identitet med Elof Nilsson (g. 1717, hemort kanske Åsen) men ej bevisad – skribenter skriver Olof för Elof.",
+  "notes": [
+   "MANTALSLÄNGD 1712, A0003193_00445 (Åsen-block): ”Olof Nilsson” efter Håkan Nilsson/Per Ersson.",
+   "MANTALSLÄNGD 1719, A0003198_00504 (Åsen-block): ”Olof Nilsson” efter Mattias Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Mantalslängder 1642-1820, Brunskog (Jösse härad) 1712, bild 445 (högersida): Åsen-blocket, Olof Nilsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003193_00445"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder, Brunskog 1719, bild 504 (vänstersida): Åsen-blocket, Olof Nilsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003198_00504"
+   }
+  ],
+  "search": [
+   "Olof Nilsson (Åsen, mantalslängd 1712/1719)"
+  ]
+ },
+ {
+  "id": "borje_bryntesson_toltan",
+  "name": "Börje Bryntesson (Toltan, mantalslängd 1712–1719)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": "okänd"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Återkommande bonde i Toltan-blocket (rubrik 'Öst. Tortan') 1710–1719; läsningen av förnamnet (Börje/Bengt/Anders) är osäker.",
+  "notes": [
+   "Toltan-bönder: se tabell i elof_nilsson/notes."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Mantalslängder, Brunskog 1712, bild 445 (högersida): 'Öst. Tortan' – Börje(?) Bryntesson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003193_00445"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder, Brunskog 1718, bild 488 (vänstersida): Toltan-block, Bryntesson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003197_00488"
+   }
+  ],
+  "search": [
+   "Börje Bryntesson (Toltan, mantalslängd 1712–1719)"
+  ]
+ },
+ {
+  "id": "christopher_persson_11",
+  "name": "Christopher Persson (11:e gen., MyHeritage)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": "ingen datering i MyHeritage"
+  },
+  "died": {
+   "date": ""
+  },
+  "places": [],
+  "summary": "Christopher Persson, enligt MyHeritage-trädet gift med Margareta Jonsdotter och far till Nils Christophersson (f. ca 1633, Skog). Direkt anfader, 11:e generationen. Ingen datering/ort. Skild från Christopher Påhlsson i Åsen (f. ca 1700) som en tidigare koppling felaktigt pekade på.",
+  "notes": [
+   "MyHeritage-panel för Nils Christophersson (1633–1719): ”Christopher Persson, Hans far” och ”Margareta Jonsdotter, Hans mor” (inga årtal)."
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   }
+  ],
+  "search": [
+   "Christopher Persson (11:e gen., MyHeritage)"
+  ]
+ },
+ {
+  "id": "matts_asen_1703",
+  "name": "Matts (Åsen), far till Ingri f. 1703",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "places": [
+   "Åsen"
+  ],
+  "summary": "Far till Ingri (f. 1/6 1703, Åsen) enligt dopboken; samma Matts är sannolikt ”Matz och h. Ingrid” i Åsen i dopet januari 1701. Efternamn okänt.",
+  "notes": [
+   "C I/1 bild 56 (s. 91), 1701, ”Dna 2. p. Epiph.”: ”Matz och h. Ingrid barn i Åsen [barnets namn oläsligt]. Test. Lassr i Tolten, Per i [Obern?] … H. Ingeri i Kåd… H. Börit i Tolten.”",
+   "C I/1 bild 62 (1703): ”d. 1. Juny Matts barn i Åsen [Ingri]”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 56: 2. p. Epiph. 1701: Matz och h. Ingrid barn i Åsen (barnets namn oläsligt), faddrar Lassr i Tolten, Per …",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00056"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 62: 1 juni 1703: Matts barn i Åsen Ingri",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00062"
+   }
+  ],
+  "search": [
+   "Matts (Åsen), far till Ingri f. 1703"
+  ]
+ },
+ {
+  "id": "ingrid_hustru_matts_asen",
+  "name": "Ingrid (hustru till Matts i Åsen)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "places": [
+   "Åsen"
+  ],
+  "summary": "Hustru till Matts i Åsen 1701 (förnamn Ingrid). Möjlig mor till Ingri f. 1703 (modern namnges inte 1703).",
+  "notes": [
+   "C I/1 bild 56 (s. 91), 1701: ”Matz och h. Ingrid barn i Åsen”. Ingen mor angiven i dopet 1703 – släktskapet till Ingri 1703 är därför lead."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 56: Matz och h. Ingrid barn i Åsen (1701)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00056"
+   }
+  ],
+  "search": [
+   "Ingrid (hustru till Matts i Åsen)"
+  ]
+ },
+ {
+  "id": "pal_persson_toltan1700",
+  "name": "Pål Persson (Toltan, barn döpt 2 juli 1700)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Far (Pål/Påhl Persson?) till barn i Toltan döpt 2 juli 1700. Möjlig far till Christopher Påhlsson (g. 1729, dräng från Toltan) – ej bevisat; barnets namn läses ”Erik(?)”.",
+  "notes": [
+   "C I/1 bild 55 (s. 88), 1700 nr 25: ”d. 2 Julii Pål Börsson(?) barn i Tolten [(Erik?)]. Fad. Gunnar i Takene och Matz Åhrs(?) d. Nils i Takene(?) och Lars Nils i Tolten. Qwinf. H. Kirstin och Hust. Dordi i Tolten, Pig. Inger i Takene och Elin i Åsen.” – texten är starkt bleknad och läsningen osäker; fadersnamnet kan vara ”Pål Persson”.",
+   "Christopher Påhlsson (E I/1 bild 46, 1729) har patronymikon Påhlsson → fadern hette Pål/Påhl. Ingen sådan Pål med barn Christopher fanns i bild 26–65; Christopher är sannolikt född ca 1695–1705 men dopet hittades inte (bild 66–70 ej genomgångna)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 55: 2 juli 1700 nr 25: Pål Börsson/Persson barn i Tolten, faddrar Gunnar i Takene m.fl.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00055"
+   }
+  ],
+  "search": [
+   "Pål Persson (Toltan, barn döpt 2 juli 1700)"
+  ]
+ },
+ {
+  "id": "britta_elofsd21",
+  "name": "Britta Elofsdotter (1721)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1721-06-16",
+   "place": "Toltan, Brunskog",
+   "note": "Dopdatum 16 juni 1721 (nr 21)."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Dotter till Elof Nilsson och Marit Isaksdotter i Toltan, döpt 16 juni 1721 – syster till Marit (1724), Per (1728) och Anna (1730). Marginal ”Begr. d 26 Dec: 1742” står vid posten (koppling till just detta barn ej säker).",
+  "notes": [
+   "DOPBOK C I/1 bild 133 (s. 243), 1721 nr 21: ”d 16 Junii Christnades uti Hel. f. Erfaldigsht Namn Elof Nilsson ox Marit Isaacsd: barn Tolta vid namn Britta. Fadd: Jon Erikss: Åsen, Nils Jonss ibid h. Gertrud Bondesd: Tolta, Marit Olufsd: ibid. Begr. d 26 Dec: 1742” (faderns namn ser ut som ”Elof”, moderns ”Marit Isaacsd”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 133: 1721 nr 21, 16 juni: ”Elof Nilsson ox Marit Isaacsd: barn Tolta vid namn Britta”; faddrar Jon Erikss i Åsen, Nils Jonss ibid, h. Gertrud Bondesd i Tolta, Marit Olufsd ibid",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00133"
+   }
+  ],
+  "search": [
+   "Britta Elofsdotter (1721)"
+  ]
+ },
+ {
+  "id": "elof_palsson20",
+  "name": "Elof Påhlsson (1720)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1720-01-24",
+   "place": "Toltan, Brunskog",
+   "note": "Dopdatum 24 jan 1720 (nr 4)."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Son till Påhl Nilsson och Gertrud Bondesdotter i Toltan, döpt 24 jan 1720 – syskon till Christopher Påhlsson (f. 1710). Namnet Elof kan tyda på släktskap med Elof Nilsson (hans farbror?).",
+  "notes": [
+   "DOPBOK C I/1 bild 126 (s. 228–229), 1720 nr 4: ”d 24 Jan: Christnades uti Hel. f. Erfaldigsht Namn Påhl Nilss: ox h. Gertrud Bondesd: barn ifrån Toltan vid namn Elof. Fadd: Jon i Åsen, Jon Torloss(?)/Torbjörnss(?) … h. Karin Nilsd: ibid, h. Ingerd Elof?sd:…” (faddrarnas slut och exakt läsning av fadder 2 osäker; sista fadderns efternamn kan vara Elofsd/Olofsd)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 126: 1720 nr 4, 24 jan: ”Påhl Nilss: ox h. Gertrud Bondesd: barn ifrån Toltan vid namn Elof”; faddrar Jon i Åsen m.fl.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00126"
+   }
+  ],
+  "search": [
+   "Elof Påhlsson (1720)"
+  ]
+ },
+ {
+  "id": "barn_palsson_1717",
+  "name": "[Namn överstruket] Påhlsson (1717)",
+  "status": "strong",
+  "sex": "",
+  "living": false,
+  "born": {
+   "date": "1717-09-15",
+   "place": "Toltan, Brunskog",
+   "note": "Dopdatum 15 sept 1717; barnets namn är överstruket och oläsligt (möjligen ”Jon”)."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Barn till Påhl Nilsson och Gertrud Bondesdotter i Toltan, döpt 15 sept 1717. Faddrar bl.a. Marit Isaksdotter i Tolta (blivande hustru till Elof Nilsson, vigda 28/10 1717).",
+  "notes": [
+   "DOPBOK C I/1 bild 109 (s. 195), 1717: ”d 15 Sept: Christnades uti Hel. f. Erfaldigsht Namn Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta vid namn [överstruket, ev. Jon]. Fadd: Jon Nilsson i Åsen, Per Eriks: i Tolta, h. Dordi Nilsd: i Tolta, h. Marit Isaacsd: i Tolta. [marginal] Begr. 25/7 1776”. (Marginalens begravning kan avse barnet, men koppling ej säker.)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 109: 1717 d 15 sept: ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”; faddrar Jon Nilsson i Åsen, Per Eriks i Tolta, h. Dordi Nilsd i Tolta, h. Marit Isaacsd i Tolta",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00109"
+   }
+  ],
+  "search": [
+   "[Namn överstruket] Påhlsson (1717)"
+  ]
+ },
+ {
+  "id": "britta_palsd22",
+  "name": "Britta Påhlsdotter (1722)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1722-12-16",
+   "place": "Toltan, Brunskog",
+   "note": "Dop 16 dec 1722 (nr 43); moderns namn svårläst."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Barn vid namn Britta, döpt 16 dec 1722 till Påhl Nilsson (och hustru Gertrud …?) i Toltan – troligen dotter till Påhl Nilsson och Gertrud Bondesdotter.",
+  "notes": [
+   "DOPBOK C I/1 bild 142 (s. 261), 1722 nr 43: ”d 16 Decem: Christnades uti Hel. f. Erfaldigsht Namn Påhl Nilsson ox h. Gertrud V…(?): barn i Tolta vid namn Britta. Fadd: Jon Christophersson i Nög, Nils Jonsson i Åsen, h. Dordi Påhlsd(?) …, h. Marit … i Tolten.” (moderns efternamn och sista faddrarnas efternamn ej säkert lästa)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 142: 1722 nr 43, 16 dec: ”Påhl Nilsson ox h. Gertrud …: barn i Tolta vid namn Britta”; faddrar Jon Christophersson i Nög, Nils Jonsson i Åsen",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00142"
+   }
+  ],
+  "search": [
+   "Britta Påhlsdotter (1722)"
+  ]
+ },
+ {
+  "id": "karin_olofsd_toltan",
+  "name": "Karin Olofsdotter (Toltan, hustru till Per Nilsson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänd"
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Hustru till Per Nilsson i Toltan 1721–1724 (barn 1721 och tvillingar jan 1724). Troligen död eller efterträdd av Marit Nilsdotter före 1748.",
+  "notes": [
+   "DOPBOK C I/1 bild 149 (s. 275), 1724 nr 9: ”d 15 Jan: Christnades uti Hel. f. Erfaldigsh. Namn Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena vid namn Pär och Ingerd. Fadd: Oluf Gummundsson i Tolena, [Nils Månsson?] …, h. Maria Åkman i Winsta, h. Anna Gustafsd i Tolena.” och bild 134 (s. 245), 1721 nr 30: ”Per Nilsson ox h. Karin Olufsd: barn i Talena vid namn [överstruket] …”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 149: 1724 d 15 jan: ”Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena vid namn Pär och Ingerd”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00149"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 134: 1721 nr 30: ”Per Nilsson ox h. Karin Olufsd: barn i Talena” (namn överstruket)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00134"
+   }
+  ],
+  "search": [
+   "Karin Olofsdotter (Toltan, hustru till Per Nilsson)"
+  ]
+ },
+ {
+  "id": "barn_pn_1721",
+  "name": "[Namn överstruket] Persson/Nilsson (1721, Toltan)",
+  "status": "candidate",
+  "sex": "",
+  "living": false,
+  "born": {
+   "date": "1721-09",
+   "place": "Toltan, Brunskog",
+   "note": "Dop sept 1721 (nr 30, ’Dito dato’ efter nr 29 d 17 sept); namnet överstruket."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Barn till Per Nilsson och Karin Olufsdotter i Toltan, döpt hösten 1721; namnet överstruket (marginal ”Begr. 1764 25/4” överstruken).",
+  "notes": [
+   "DOPBOK C I/1 bild 134 (s. 245), 1721 nr 30: ”Dito dato Christnades Per Nilsson ox h. Karin Olufsd: barn i Talena vid namn [överstruket, ev. Josef/Jon]. Fadd: Anund Olufss i Talena, Lars Eriksson [Tolta], h. Anna Gustafsd: Talena, h. Börit Fredr(?): ibid.” Marginal (överstruken): ”Begr. 1764 25/4”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 134: 1721 nr 30: ”Per Nilsson ox h. Karin Olufsd: barn i Talena”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00134"
+   }
+  ],
+  "search": [
+   "[Namn överstruket] Persson/Nilsson (1721, Toltan)"
+  ]
+ },
+ {
+  "id": "per_pn24",
+  "name": "Per Persson (tvilling, 1724, Toltan)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1724-01-15",
+   "place": "Toltan, Brunskog",
+   "note": "Dop 15 jan 1724, tvilling."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Tvillingson till Per Nilsson och Karin Olufsdotter i Toltan, döpt 15 jan 1724 (”Pär och Ingerd”). Marginal ”Begr. 1 Maji 1724” (troligen tvillingarna).",
+  "notes": [
+   "DOPBOK C I/1 bild 149 (s. 275), 1724 nr 9: ”d 15 Jan: Christnades … Per Nilsson ox h. Kari Olufsd: Twillingar barn i Tolena vid namn Pär och Ingerd.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 149: 1724 d 15 jan: tvillingar Pär och Ingerd, föräldrar Per Nilsson och Kari Olufsd i Tolena",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00149"
+   }
+  ],
+  "search": [
+   "Per Persson (tvilling, 1724, Toltan)"
+  ]
+ },
+ {
+  "id": "ingerd_pn24",
+  "name": "Ingerd Persdotter (tvilling, 1724, Toltan)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1724-01-15",
+   "place": "Toltan, Brunskog",
+   "note": "Dop 15 jan 1724, tvilling."
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Tvillingdotter till Per Nilsson och Karin Olufsdotter i Toltan, döpt 15 jan 1724.",
+  "notes": [
+   "DOPBOK C I/1 bild 149, 1724 nr 9: tvillingar ”Pär och Ingerd” (se Per ovan)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 149: 1724 d 15 jan: tvillingar Pär och Ingerd, föräldrar Per Nilsson och Kari Olufsd i Tolena",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00149"
+   }
+  ],
+  "search": [
+   "Ingerd Persdotter (tvilling, 1724, Toltan)"
+  ]
+ },
+ {
+  "id": "nils_isaksson_toltan",
+  "name": "Nils Isaksson (Toltan, 1723)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänd"
+  },
+  "places": [
+   "Toltan"
+  ],
+  "summary": "Far till Britta, döpt 23 jan 1723 i Toltan; Marit Isaksdotter i Toltan (Elof Nilssons hustru) är fadder. Möjlig bror till Marit Isaksdotter (efternamn läst som Isaksson/Isaack).",
+  "notes": [
+   "DOPBOK C I/1 bild 143 (s. 263), 1723 nr 1: ”d 23 Januar: Christnades i Herrens namn Nils Isaack(?) ox h. Marits barn i Tolten vid namn Britta. Fadder [Jens?] i Åsen och Nils Persson i Åsen, h. Dordi Nilsd: i Tolten och h. Marit Isaacsdotter ibid.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 143: 1723 nr 1, 23 jan: ”Nils Isaack(?) ox h. Marits barn i Tolten vid namn Britta”; fadder bl.a. h. Marit Isaacsdotter ibid",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00143"
+   }
+  ],
+  "search": [
+   "Nils Isaksson (Toltan, 1723)"
+  ]
+ },
+ {
+  "id": "olof_olofsson10",
+  "name": "Olof Olofsson (1810, Lerhol)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1810-10-09",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Syskon till Anna Olsdotter (f. 1813): barn till Olof Andersson (f. 1782) och Karin Jonsdotter (f. 1785) på Lerhol.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 46 och A I/16 bild 148: står i hushållet efter Olof Andersson/Karin Jonsd. som barn (Olof 9/10 1810)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson, H. Karin Jonsd., barn: Olof 9/10 1810",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: hela hushållet överstruket (utflyttat/avlidet); barn: Olof 9/10 1810",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   }
+  ],
+  "search": [
+   "Olof Olofsson (1810, Lerhol)"
+  ]
+ },
+ {
+  "id": "brita_olofsd16",
+  "name": "Brita Olofsdotter (1816, Lerhol)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1816-01-01",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Syskon till Anna Olsdotter (f. 1813): barn till Olof Andersson (f. 1782) och Karin Jonsdotter (f. 1785) på Lerhol.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 46 och A I/16 bild 148: står i hushållet efter Olof Andersson/Karin Jonsd. som barn (Brita 1/1 1816)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson, H. Karin Jonsd., barn: Brita 1/1 1816",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: hela hushållet överstruket (utflyttat/avlidet); barn: Brita 1/1 1816",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   }
+  ],
+  "search": [
+   "Brita Olofsdotter (1816, Lerhol)"
+  ]
+ },
+ {
+  "id": "kajsa_olofsd18",
+  "name": "Kajsa Olofsdotter (1818, Lerhol)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1818-06-11",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Syskon till Anna Olsdotter (f. 1813): barn till Olof Andersson (f. 1782) och Karin Jonsdotter (f. 1785) på Lerhol.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 46 och A I/16 bild 148: står i hushållet efter Olof Andersson/Karin Jonsd. som barn (Kajsa 11/6 1818)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson, H. Karin Jonsd., barn: Kajsa 11/6 1818",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: hela hushållet överstruket (utflyttat/avlidet); barn: Kajsa 11/6 1818",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   }
+  ],
+  "search": [
+   "Kajsa Olofsdotter (1818, Lerhol)"
+  ]
+ },
+ {
+  "id": "anders_olofsson21",
+  "name": "Anders Olofsson (1821, Lerhol)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1821-03-17",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Syskon till Anna Olsdotter (f. 1813): barn till Olof Andersson (f. 1782) och Karin Jonsdotter (f. 1785) på Lerhol.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 46 och A I/16 bild 148: står i hushållet efter Olof Andersson/Karin Jonsd. som barn (Anders 17/3 1821)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson, H. Karin Jonsd., barn: Anders 17/3 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: hela hushållet överstruket (utflyttat/avlidet); barn: Anders 17/3 1821",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   }
+  ],
+  "search": [
+   "Anders Olofsson (1821, Lerhol)"
+  ]
+ },
+ {
+  "id": "jonas_olofsson23",
+  "name": "Jonas Olofsson (1823, Lerhol)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1823",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Syskon till Anna Olsdotter (f. 1813): barn till Olof Andersson (f. 1782) och Karin Jonsdotter (f. 1785) på Lerhol.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 46 och A I/16 bild 148: står i hushållet efter Olof Andersson/Karin Jonsd. som barn (Jonas 20/? 1823 (dag/månad svårläst: A I/16 ”20/4”, A I/14 möjligen ”20/11”))."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/14 (1820-1824, Västra delen), bild 46 (fol. 36), Lerhol: Unge Olof Andersson, H. Karin Jonsd., barn: Jonas 20/? 1823 (dag/månad svårläst: A I/16 ”20/4”, A I/14 möjligen ”20/11”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/16 (1825-1830), bild 148 (s. 133), Lerhol 1 Skatte: hela hushållet överstruket (utflyttat/avlidet); barn: Jonas 20/? 1823 (dag/månad svårläst: A I/16 ”20/4”, A I/14 möjligen ”20/11”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00148"
+   }
+  ],
+  "search": [
+   "Jonas Olofsson (1823, Lerhol)"
+  ]
+ },
+ {
+  "id": "olof_andersson60_lerhol",
+  "name": "Olof Andersson (f. 1760, Lerhol, enkeman)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1760",
+   "place": "(ort svårläst)",
+   "note": "A I/14: 16/4 1760; A I/16: 16/3 1760"
+  },
+  "died": {
+   "date": "1827-05-17",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Enkeman på Lerhol (död 17/5 1827). INTE fader till Anna Olsdotter – Annas far Olof Andersson är född 20/1 1782 och står i ett annat hushåll på Lerhol.",
+  "notes": [
+   "A I/14 bild 48 (fol. 38): ”Enkeman Olof Andersson” 16/4 1760, barn S. Olof 25/9 1787 Lerhol, D. Karin 1793, samt ”Dagl.(?) S. Olof Andersson” 3/? 1812 (grannhushåll/barn, ej säkert).",
+   "A I/16 bild 150 (s. 135): överstruket ”Enkem. Olof Andersson 16/3 1760 … Död 17/5 1827”; härunder Olof Olsson 25/9 1787 (dräng)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog A I/14 (1820-24), bild 48 (fol. 38), Lerhol: ”Enkeman Olof Andersson 16/4 60”, S. Olof 25/9 87 Lerhol, D. Karin 93",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00048"
+   },
+   {
+    "label": "Riksarkivet, Brunskog A I/16 (1825-30), bild 150 (s. 135), Lerhol: överstruket Olof Andersson 16/3 1760, ”död 17/5 1827”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036755_00150"
+   }
+  ],
+  "search": [
+   "Olof Andersson (f. 1760, Lerhol, enkeman)"
+  ]
+ },
+ {
+  "id": "olof_olofsson87_lerhol",
+  "name": "Olof Olofsson (f. 25/9 1787, Lerhol)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1787-09-25",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Son till enkeman Olof Andersson (f. 1760) på Lerhol; står som ”S. Olof” 1820–24 och som dräng ”Olof Olsson” 1825–27.",
+  "notes": [
+   "A I/14 bild 48: ”S. Olof 25/9 87 Lerhol”; A I/16 bild 150: ”Olof Olsson 25/9 87”. Ej vidare följd."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog A I/14, bild 48 (fol. 38), Lerhol: S. Olof 25/9 87",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00048"
+   }
+  ],
+  "search": [
+   "Olof Olofsson (f. 25/9 1787, Lerhol)"
+  ]
+ },
+ {
+  "id": "karin_olofsd93_lerhol",
+  "name": "Karin Olofsdotter (f. 1793, Lerhol)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1793",
+   "place": "Lerhol, Brunskog"
+  },
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Dotter till enkeman Olof Andersson (f. 1760) på Lerhol (A I/14 bild 48).",
+  "notes": [
+   "A I/14 bild 48: ”D. Karin 93 do[Lerhol]”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog A I/14, bild 48 (fol. 38), Lerhol: D. Karin 93",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036753_00048"
+   }
+  ],
+  "search": [
+   "Karin Olofsdotter (f. 1793, Lerhol)"
+  ]
+ },
+ {
+  "id": "nils_andersson86_strand",
+  "name": "Nils Andersson (f. 23/6 1786, Strand)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1786-06-23",
+   "place": "(ort svårläst, ”Grimst…”?)"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Bonde på Strand (Östra delen); fader till Britta Nilsdotter (f. 15/2 1820), hustru till Nils Eriksson. Gift med Kjerstin Nilsdotter (f. 1791 Takene).",
+  "notes": [
+   "A I/13 bild 69 (Strand): ”Nils Andersson 23/6 86 [Grim…]”, H. Kjerstin Nilsd. 2/5 91 Takene, S. Anders 1815 Strand, S. Jonas 1817, D. Britta 15/2 1820 ibm, D. Maria 4/12 1821 ibm, Dr. Cajsa 25/9 1824 loco."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): Nils Andersson 23/6 1786, H. Kjerstin Nilsd. 2/5 1791 Takene, barn Anders 1815, Jonas 1817, Britta 15/2 1820, Maria 4/12 1821, Cajsa 25/9 1824",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1820), bild 139, s. 240, Febr nr 10: 14 | 15 | Strand, Brita, Nils Andersson / Kjerstin Nilsd.; faddrar Per Nilsson, Brita Andersd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   }
+  ],
+  "search": [
+   "Nils Andersson (f. 23/6 1786, Strand)"
+  ]
+ },
+ {
+  "id": "kjerstin_nilsd91",
+  "name": "Kjerstin Nilsdotter (f. 2/5 1791, Takene)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1791-05-02",
+   "place": "Takene, Brunskog"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Hustru till Nils Andersson på Strand; mor till Britta Nilsdotter (f. 15/2 1820).",
+  "notes": [
+   "A I/13 bild 69: ”H. Kjerstin Nilsd. 2/5 91 Takene”. Dopbok 1820 nr 10: ”Nils Andersson / Kjerstin Nilsd.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): H. Kjerstin Nilsd. 2/5 91 Takene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse-/dopbok C I/3 (1820), bild 139, s. 240, Febr nr 10: 14 | 15 | Strand, Brita, Nils Andersson / Kjerstin Nilsd.; faddrar Per Nilsson, Brita Andersd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00139"
+   }
+  ],
+  "search": [
+   "Kjerstin Nilsdotter (f. 2/5 1791, Takene)"
+  ]
+ },
+ {
+  "id": "anders_nilsson15_strand",
+  "name": "Anders Nilsson (f. 1815, Strand)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1815",
+   "place": "Strand, Brunskog"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Syskon till Britta Nilsdotter (f. 15/2 1820, gift med Nils Eriksson): barn till Nils Andersson och Kjerstin Nilsdotter på Strand.",
+  "notes": [
+   "A I/13 bild 69 (Strand): S. Anders 15 Strand"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): S. Anders 15 Strand",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (f. 1815, Strand)"
+  ]
+ },
+ {
+  "id": "jonas_nilsson17_strand",
+  "name": "Jonas Nilsson (f. 1817, Strand)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1817",
+   "place": "Strand, Brunskog"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Syskon till Britta Nilsdotter (f. 15/2 1820, gift med Nils Eriksson): barn till Nils Andersson och Kjerstin Nilsdotter på Strand.",
+  "notes": [
+   "A I/13 bild 69 (Strand): S. Jonas 17 ibm"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): S. Jonas 17 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   }
+  ],
+  "search": [
+   "Jonas Nilsson (f. 1817, Strand)"
+  ]
+ },
+ {
+  "id": "maria_nilsd21_strand",
+  "name": "Maria Nilsdotter (f. 4/12 1821, Strand)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1821-12-04",
+   "place": "Strand, Brunskog"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Syskon till Britta Nilsdotter (f. 15/2 1820, gift med Nils Eriksson): barn till Nils Andersson och Kjerstin Nilsdotter på Strand.",
+  "notes": [
+   "A I/13 bild 69 (Strand): D. Maria 4/12 21 ibm"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): D. Maria 4/12 21 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   }
+  ],
+  "search": [
+   "Maria Nilsdotter (f. 4/12 1821, Strand)"
+  ]
+ },
+ {
+  "id": "kajsa_nilsd24_strand",
+  "name": "Kajsa Nilsdotter (f. 25/9 1824, Strand)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1824-09-25",
+   "place": "Strand, Brunskog"
+  },
+  "places": [
+   "Strand, Brunskog"
+  ],
+  "summary": "Syskon till Britta Nilsdotter (f. 15/2 1820, gift med Nils Eriksson): barn till Nils Andersson och Kjerstin Nilsdotter på Strand.",
+  "notes": [
+   "A I/13 bild 69 (Strand): Dr. Cajsa 25/9 24 loco"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/13 (1820-1824, Östra delen), bild 69 (Strand, fol. ca 51): Dr. Cajsa 25/9 24 loco",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036752_00069"
+   }
+  ],
+  "search": [
+   "Kajsa Nilsdotter (f. 25/9 1824, Strand)"
   ]
  }
 ]

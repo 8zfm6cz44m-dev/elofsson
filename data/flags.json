@@ -350,6 +350,197 @@
    "persons": [
     "erik_christ"
    ]
+  },
+  {
+   "title": "Jösse/Nordmarks häradsrätt 1650–1730 ej digitaliserade på Riksarkivet",
+   "text": "Riksarkivets sök (sok.riksarkivet.se) har Jösse domsagas häradsrätts arkiv (SE/VA/11166, 1629–1970) och Nordmarks häradsrätts arkiv (1669–1970) endast som arkivposter hos Värmlandsarkiv (Villkor: Delvis). Inga tingsböcker/domböcker 1650–1730 är digitaliserade/sökbara där. Enda digitaliserade Jösse-material: 'Personregister till bouppteckningar' 1737–1860 (2 volymer, Digitaliserade register) – utanför tidsintervallet. Nästa steg: Värmlandsarkiv (värmlandsarkiv.se / Arkivcentrum Värmland) forskarsal/mikrofilm, eller Riksarkivets mantals-/jordeböcker som komplement.",
+   "persons": [
+    "elof_nilsson",
+    "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Mantalslängder 1706–1720: Toltan-bönder lästa endast delvis",
+   "text": "Brunskog-längderna 1710–1719 har blockrubriker i flammig skrivstil ('Öst. Tortan', 'Åsen', 'Öst. Takene'). Toltan-blocket har endast 4–6 män per år och innehåller inte Elof Nilsson. Elof Nilsson (g. 1717) kan vara 'Olof Nilsson' i Åsen-blocket 1712/1719, men det är obevisat. 1706–1709, 1711, 1713–1714 och 1720 är inte genomlästa.",
+   "persons": [
+    "elof_nilsson",
+    "olof_nilsson_asen_mantal"
+   ]
+  },
+  {
+   "title": "MH-trädets Arne Andersson 1645 är farfars far till vår Arne Andersson (f. 1724)",
+   "text": "MyHeritage-trädet har kedjan Arne Andersson 1645–1722 + Sigri Johansdotter 1648–1714 (Ragnerud) → Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760 → ”Arun” (=Arne) Andersson f. 1724 + Marit Jonsdotter 1727–1762 → Anders Arnesson 1754–1828 + Kjersti Olsdotter 1760–1790 → Maria Andersdotter (g.m. Elof Persson). Vår verifierade del (Arne Andersson+Marit Jönsdotter → Anders Arnesson 1754, Ingerd 1752) stämmer exakt med MH:s tre sista led. Leden Anders Arnesson 1685 och Arne 1645 saknar primärkälla i trädet; dopböckerna börjar först 1688. Arne Andersson 1645 (arne_andersson45) är alltså inte identisk med vår arne_andersson (tidigare notering ”jfr arne_andersson” bör ändras).",
+   "persons": [
+    "arne_andersson",
+    "arne_andersson45",
+    "anders_arnesson85",
+    "dordi_persd84",
+    "sigri_johansd48"
+   ]
+  },
+  {
+   "title": "Marit Isaksdotter (g.m. Elof Nilsson, Toltan) = MH:s Marit Nilsson f. Isaksdotter 1693–1733",
+   "text": "MH: Per Elofsson (1728) ← Elof Nilsson f. 1689 + Marit Isaksdotter 1693–1733 ← Isak Björsson ca 1645–1719 (Tortan/Toltan, d. 12/4 1719) + Böret Eriksdotter ca 1653–1719; Isak ← ”Björ” + Marit Swänsdotter. Stämmer med vår vigsel 1717 och Marits död 1730–34. Nästa steg: leta Marits dop 1693 (Brunskog C I/1, ca bild 34–38) och Isak Björssons död 12/4 1719 (Brunskog död/begravning, Toltan).",
+   "persons": [
+    "marit_isaksd",
+    "isak_bjorsson",
+    "boret_eriksd53",
+    "elof_nilsson",
+    "per_elofsson28"
+   ]
+  },
+  {
+   "title": "Ö. Takene: Anders Nilsson/Marit Olofsdotter och Olof Persson/Ingrid Olsdotter finns i MH-trädet",
+   "text": "Olof Persson 1703–1748 + Ingrid Olsdotter 1693–1771 (MH) = vår olof_persson_takene + ingrid_olofsd_1693 (föräldrar till Olof Olsson f. 1731). Ingrids föräldrar enligt MH: Olof Nilsson + Böret Persdotter (ej daterade). Anders Nilsson f. 12/2 1711 (d. 11/1 1789) + Marit Olofsdotter 1711–1778 (MH) matchar våra candidate-personer anders_nilsson_takene33/marit_olofsd_takene som föräldrar till Olof Andersson f. 1733 (far till Kjersti Olsdotter f. 1760, g.m. Anders Arnesson). Föreslagen sammanslagning: anders_nilsson11 → anders_nilsson_takene33, marit_olofsd11 → marit_olofsd_takene (båda candidate). Nils Knutsson 1691–1742 + Ilin Andersdotter f. 1688-04-08 (MH) = Anders Nilssons föräldrar.",
+   "persons": [
+    "olof_persson_takene",
+    "ingrid_olofsd_1693",
+    "anders_nilsson_takene33",
+    "anders_nilsson11",
+    "marit_olofsd_takene",
+    "marit_olofsd11"
+   ]
+  },
+  {
+   "title": "Åsen: ”Okänd Pålsson” (MH) = Christopher Påhlsson, men tidigare Christopher/Margareta-koppling är fel",
+   "text": "MH:s ”Okänd Pålsson” 1710–1772 + Ingjerd Mattesdotter 1703–1735 är föräldrar till Britta Christophersson 1730–1828 = vår Christopher Påhlsson + Ingrid Mattsd. (Åsen, dopbok 1730 bild 184). Hans föräldrar enligt MH: Pål Nilsson + Gertrud Bondesdotter (vår gertrud_bondesd_toltan?). Däremot är MH:s ”Christopher Persson + Margareta Jonsdotter” (föräldrar till Nils Christophersson f. ca 1633) en helt annan person – den lead-relation som kopplade christopher_persson_asen till Margareta Jonsdotter (p-christopher_persson_asen-margareta_jonsd) bör tas bort och ersättas av nya personen christopher_persson_11.",
+   "persons": [
+    "christopher_persson_asen",
+    "ingrid_asen",
+    "okand_palsson10",
+    "ingjerd_mattesd03",
+    "pal_nilsson_hagen",
+    "gertrud_bondesd_toltan",
+    "christopher_persson_11",
+    "margareta_jonsd"
+   ]
+  },
+  {
+   "title": "Dubbletter i MH-trädet: Nils Jonsson 1722 / Marit Jonsdotter 1721 förekommer två gånger",
+   "text": "Trädet har paret Nils Jonsson 1722–1791 + Marit Jonsson f. Jonsdotter 1721–1802 två gånger: en gren via Ingjerd Olsson f. Nilsdotter 1761 (föräldrar Jon Tholsson/Ingjerd Jonsdotter resp. Jon Göstasson 1680–1756/Karin Nilsdotter 1686–1741) och en via Britta Nilsson f. Nilsdotter 1757 (Jonas Tholsson/Ingegjerd Jonsdotter 1695–1774 resp. Jon Gustafsson/Karin Nilsdotter). Tre av de sex föräldraposterna är sannolikt samma personer (Jon Tholsson=Jonas Tholsson, Jon Göstasson=Jon Gustafsson). Vår nils_jonsson22/marit_jonsd21 är verifierade föräldrar till Ingierd Nilsdotter (1761); britta_nilsd58 saknar föräldrar hos oss (föreslagen som syster, candidate).",
+   "persons": [
+    "nils_jonsson22",
+    "marit_jonsd21",
+    "britta_nilsd58",
+    "ingierd_nilsd61",
+    "jon_tholsson",
+    "jonas_tholsson",
+    "jon_gostasson80",
+    "jon_gustafsson"
+   ]
+  },
+  {
+   "title": "Dateringsfel i MH-trädet att ta hänsyn till",
+   "text": "Nils Andersson (Smådal) har död 1881 i MH (född 1726 – uppenbart fel). Elin Pålsson f. 1735 anges som mor till Elin Svensdotter f. 1755 (rimligt men dotterns far Sven Eriksson är f. 1702). Elof Nilsson har bara födelseår 1689. Sigri Johansdotters och Arne Anderssons dödsdatum 1714/1722 (Ragnerud) är oprövade.",
+   "persons": [
+    "nils_andersson_smadal",
+    "elin_palsdotter35",
+    "elin_svensd55"
+   ]
+  },
+  {
+   "title": "Olof Claesson (Lerhol ca 1585) och rotlinjen bakom Sigri Johansdotter",
+   "text": "MH: Olof Claesson + Marit Larsdotter (f. ca 1600) → NN Olsdotter + Johan Andersson (d. 1675; far Anders Johansson, 12:e gen.) → Sigri Johansdotter 1648–1714 + Arne Andersson 1645–1722. Ingen av dessa har motsvarighet i våra kyrkboksuppgifter (före 1688). Lead.",
+   "persons": [
+    "olof_claesson",
+    "marit_larsd",
+    "nn_olsd_11",
+    "johan_andersson_11",
+    "anders_johansson_12",
+    "sigri_johansd48"
+   ]
+  },
+  {
+   "title": "Ingrid Mattsdotter (Åsen): kandidatfödelse 1/6 1703",
+   "text": "Dopbok C I/1 bild 62 (1703): Matts barn i Åsen Ingri (1 juni 1703). Passar pigan ”Ingrid Mattsd. från Åsen” (vigd 14/9 1729 med Christopher från Toltan, E I/1 bild 46) men ålder anges ej i vigseln; ingen annan Ingri Mattsd. i Åsen 1691–1704 funnen i bild 26–65. Förslag: markera strong först när Christophers/Ingrids hushåll (husförhör 1760-talet / dödbok) ger ålder 1703 eller hennes dödbok anger född 1703. Dessutom: ”Matz och h. Ingrid” har ett barn i Åsen 1701 (bild 56) – tänkbart äldre syskon (namn oläsligt).",
+   "persons": [
+    "ingrid_asen",
+    "ingri_mattsd_asen03",
+    "matts_asen_1703",
+    "ingrid_hustru_matts_asen"
+   ]
+  },
+  {
+   "title": "Christopher Påhlsson: möjlig far Pål i Toltan (lead)",
+   "text": "2 juli 1700 (C I/1 bild 55, nr 25) har en Pål (Börsson/Persson?) ett barn i Toltan (bleknad text, barnets namn osäkert). Tolkas bara som lead eftersom Christophers dop ej funnet.",
+   "persons": [
+    "christopher_persson_asen",
+    "pal_persson_toltan1700"
+   ]
+  },
+  {
+   "title": "Dopen av Elof Nilsson, Marit Isaksdotter, Per Nilsson (Toltan), Nils Nilsson (Stoy) finns inte i bild 26–65",
+   "text": "Sökt systematiskt alla poster 1691–1704. Inga barn med fader Isak eller med Toltan + fader Nils hittades. Elof (f. ca 1687–89) och Marit (f. ca 1690–1700) lär ligga i 1688–1690 resp. 1695-sektionen med svårläst hand, eller födelseorten angavs som annan by (t.ex. ”Hagen”/”Hög”?). Förslag: granska bild 11–25 (1688–1690) och i första hand bild 42–47 (1695–1697) på Isak-fäder med övriga byar.",
+   "persons": [
+    "elof_nilsson",
+    "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Christopher Påhlsson (Åsen) – dop 1710 som son till Påhl Nilsson och Gertrud Bondesdotter i Toltan",
+   "text": "Dopbok C I/1 bild 80 (1710): ’Pehl ox h. Gertrud barn i Toltan (: Christopher :)’. Påhl Nilsson + Gertrud Bondesdotter har fler barn i Toltan (1717, 1720 Elof, 1722 Britta). Christopher gifte sig 14/9 1729 som ’dräng från Toltan’ (19 år). Mycket trolig identitet – men ingen text som uttryckligen kopplar dopet till brudgummen, därför strong, inte verified. Löser delvis flaggorna ’Christopher Persson (Åsen) – egen härkomst’ och ’Christophers patronymikon: Påhlsson eller Pehrsson’ (fadern heter Pehl/Påhl). Nästa: Påhl Nilssons/Gertruds ursprung och Elofs släktskap.",
+   "persons": [
+    "christopher_persson_asen",
+    "pal_nilsson_hagen",
+    "gertrud_bondesd_toltan",
+    "elof_palsson20"
+   ]
+  },
+  {
+   "title": "Dopet 2 febr 1718 i Toltan – Jan Elofsson?",
+   "text": "Bild 113 (C I/1 s. 201, längst ned till vänster): ’d 2 Febr: Christnades Nilsson ox h. Marits i Toltan barn, vid namn [överstruket] … Test. Lasse ibid, Olof i Toltan, h. … ox Marit i Toltan. Begr. 1799 23/3’. Faderns förnamn saknas och barnets namn är genomstruket. Passar Elof Nilsson + Marit Isaksdotter (vigda 28/10 1717) och Jan Elofsson f. 1718 i A I/5, men identiteten är ej bevisad.",
+   "persons": [
+    "jan_elofsson18",
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Per Nilsson i Toltan: hustru Karin Olufsdotter (1721–24)",
+   "text": "Per Nilsson ox Karin Olufsdotter i Toltan: barn 1721 (namn överstruket) och tvillingarna Pär och Ingerd 15/1 1724 (bild 134, 149). 1748 är hustrun Marit Nilsdotter. Samma man med två hustrur? Och är han Elofs bror (’Elof och Pehr Nilssonar’ 1729)? Ej bevisat.",
+   "persons": [
+    "per_nilsson_toltan",
+    "karin_olofsd_toltan"
+   ]
+  },
+  {
+   "title": "Nils Isaksson i Toltan (1723) – Marit Isaksdotters bror?",
+   "text": "Bild 143 (1723 nr 1): ’Nils Isaack(?) ox h. Marits barn i Tolten vid namn Britta’ med ’h. Marit Isaacsdotter ibid’ som fadder. Möjlig bror till Marit Isaksdotter (Elofs hustru) – lead.",
+   "persons": [
+    "nils_isaksson_toltan",
+    "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Ingerd Olofsdotter/Elofsdotter i Åsen",
+   "text": "Fadder i Toltan: 1720 (bild 126 nr 9) läser jag ’Ingerd Olufsd: i Åsen’, 1724 (bild 150 nr 21) ’Ingerd Elofsd: i Åsen’. Svårt att skilja Olofsd/Elofsd – kan vara en och samma kvinna. Tidigare slutsats att fadern heter Elof bör därför hållas som osäker.",
+   "persons": [
+    "ingrid_elofsd_toltan"
+   ]
+  },
+  {
+   "title": "Olof Andersson (f. 1782) och Karin Jonsdotter: död/utflyttning ej läst",
+   "text": "Hela hushållet är överstruket i A I/16 bild 148 (s. 133). Anteckningskolumnerna (dödsår 1828/1831 enligt användarträd) är inte läst. Ej heller Olofs föräldrahushåll (Anders Olsson/Ingeborg Ersd.) på Lerhol i A I/6 (fol. 31–36, bild 41–46) hittat.",
+   "persons": [
+    "olof_andersson82",
+    "kari_jonsd"
+   ]
+  },
+  {
+   "title": "Irena är fortfarande inte bevisad dotter till Stefan + Zofia",
+   "text": "Stefan Orzechowski (f. 7.8.1901) och Zofia Młodawska (f. 17.4.1904) är nu belagda som verkliga personer och gifta 7.1.1923 i Kielce, och Zofias födelseår 1904 stämmer exakt med släktträdet - vilket gör användarträdets uppgifter trovärdiga. MEN ingen källa har hittats som visar att Irena (f. 1926, f. Jarczyńska enligt familjen) är deras barn. Relationen c-stefan-zofia-irena ska stå kvar som lead tills barnets dopakt (Kielce ca 1926) eller annat bevis hittas. Namnkonflikten Jarczyńska/Orzechowska kvarstår.",
+   "persons": [
+    "stefan",
+    "zofia",
+    "irena"
+   ]
+  },
+  {
+   "title": "Skanoteka-skanning av vigseln 1923 saknas",
+   "text": "Vigselakt Kielce św. Wojciech 1923 nr 1 har ingen skanlänk i Geneteka (efter 1913 ej i Skanoteka). Marginalnoterna i födelseakterna bekräftar dock vigseln.",
+   "persons": [
+    "stefan",
+    "zofia"
+   ]
   }
  ],
  "conflicts": [
@@ -519,6 +710,58 @@
    "persons": [
     "nils_jonsson22"
    ]
+  },
+  {
+   "title": "Johannes Olssons mor: Karin Olsdotter (MH) eller Britta Nilsdotter (vår läsning)",
+   "text": "MH: Olof Christophersson + Karin Olsdotter → Johannes Olsson (1830–1870). Våra strong-uppgifter: Olof Christophersson f. 1802 gifte sig 26/12 1827 med Britta Nilsdotter (Boda, f. 1807) och Johannes f. 17/5 1830 i deras hushåll. MH-trädet saknar årtal för Karin Olsdotter; sannolikt felaktig hustru i användarträdet.",
+   "persons": [
+    "olof_christ",
+    "karin_olsd_6g_a",
+    "johannesolsson",
+    "britta_nilsd_boda"
+   ]
+  },
+  {
+   "title": "Anna Andersdotter (Olof Augusts mor): f. 1821 i MH, 1826 hos oss",
+   "text": "MH-trädet: Anna Andersdotter f. 24 nov 1821, g.m. Johannes Olsson. Vår verifierade läsning: 24/11 1826 (Boda). Dag och månad stämmer; årtalet i MH bör rättas eller kontrolleras mot Bodas dopbok. Hennes föräldrar enligt MH: Anders Nilsson + Karin Olsdotter (vi: Anders Nilsson och Kaisa Olsdotter, Boda, strong).",
+   "persons": [
+    "anna1821",
+    "anders_nilsson_6g",
+    "karin_olsd_6g_b",
+    "anders_nilsson_boda",
+    "kaisa_olsd_boda"
+   ]
+  },
+  {
+   "title": "Anders Olufsson 1640–1725 är 60 år vid dotterns födelse 1700",
+   "text": "MH: Anders Olufsson 1640–1725 + Cecilia Jönsdotter → Anna Jönsson f. Andersdotter 1700–1762 (mor till Marit Jonsdotter 1727, g.m. Arne Andersson f. 1724). Åldersskillnaden (60 år) gör föräldraskapet osäkert; rimligen saknas en generation eller dotterns födelseår är fel. Behandla som lead tills dop/vigsel hittats.",
+   "persons": [
+    "anders_olufsson40",
+    "cecilia_jonsd",
+    "anna_andersd00",
+    "marit_jonsd_ragnilsrud"
+   ]
+  },
+  {
+   "title": "Erik Christophersson: dödboken ger ålder 58 år 2 mån 5 d (d. 30/5 1838) = f. ca 25/3 1780, husförhöret 25/5 1779",
+   "text": "Brunskog F I/2 bild 100 (s. 159): ”30 Gift Bond. Erik Christoffersson i Ö. Takene”, 58 år 2 mån 5 dagar. Det ger födelse ca 25 mars 1780 (dag 25 stämmer med husförhöret). Fryksände C I/4 bild 110–111 (mars 1780) visar dock ingen Erik med fader Christopher. Nästa steg: kontrollera A I/17 bild 117 födelseuppgiften på nytt (25/3 1780?) samt Fryksände C I/4 bild 112 och bruksförsamlingar (Öhlebybruk, Thorsbybruk).",
+   "persons": [
+    "erik_christ"
+   ]
+  },
+  {
+   "title": "Annas födelsedag: 22/3 (A I/14, A I/16, dopbok) mot 24/2 (A I/23)",
+   "text": "Tre källor ger 22/3 1813; endast A I/23 bild 125 läser 24/2. Troligen felläsning/felskrivning i A I/23.",
+   "persons": [
+    "annaolsdotter"
+   ]
+  },
+  {
+   "title": "Stefans födelseår: 1901 (inte 1902/1903)",
+   "text": "Geneteka indexerar Stefan som född 1903 (registreringsåret). Aktens text anger födelse 25.7/7.8.1901 och sen anmälan 15.3.1903. Släktträdets 1902 stämmer inte; åldern '21' vid vigseln 7.1.1923 stämmer med 1901.",
+   "persons": [
+    "stefan"
+   ]
   }
  ],
  "excluded": [
@@ -614,6 +857,32 @@
     "elof_nilsson",
     "kari_nilsd07",
     "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Annas far: Olof Andersson f. 1782, inte enkemannen f. 1760",
+   "text": "Tidigare agent såg i A I/16 (s. 135, bild 150) enkeman Olof Andersson f. 16/3 1760 (död 17/5 1827). Det är INTE Annas far. Annas far är ”Unge Olof Andersson” f. 20/1 1782 (dop C I/3 bild 10; A I/14 bild 46; A I/16 bild 148, s. 133), gift med Karin Jonsdotter f. 1785. Dop 22/3 1813 stämmer med ”D. Anna 22/3 13” i husförhören.",
+   "persons": [
+    "annaolsdotter",
+    "olof_andersson82",
+    "olof_andersson60_lerhol"
+   ]
+  },
+  {
+   "title": "Brittas dop 1820: Lerhol-kandidaten avfärdad, Strand-flickan bekräftad",
+   "text": "Brita f. 6/2 1820 på Lerhol (Nils Svensson/Anna Andersd.) är en annan flicka (A I/14 bild 46). Britta Nilsdotter (Nils Erikssons hustru) har ”15/2 1820” i A I/23 bild 145 = ”D. Britta 15/2 20” på Strand i A I/13 bild 69 (Nils Andersson 1786 + Kjerstin Nilsd. 1791), dopbok C I/3 bild 139 nr 10 (född 14, döpt 15 febr). Identitet strong.",
+   "persons": [
+    "brittanils",
+    "brita_nilsd_lerhol1820",
+    "nils_andersson86_strand"
+   ]
+  },
+  {
+   "title": "MyHeritage-leads sammanslagna med kyrkboksled",
+   "text": "Sammanslagna (samma person, olika källor): Christopher Påhlsson = ”Okänd Pålsson ca 1710”; Ingrid Mattsdotter = Ingjerd Mattesdotter 1703; Anders Nilsson (Boda); Nils Ihrsson/Persson och Marit Nilsdotter (Toltan); Jon och Karin (Skog); Anders Nilsson och Marit Olofsdotter (Ö. Takene).",
+   "persons": [
+    "christopher_persson_asen",
+    "ingrid_asen"
    ]
   }
  ]
