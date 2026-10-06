@@ -1112,7 +1112,8 @@
    "USA 1923 (Z2): Ellis Island-passagerarlista: 'Johan Olaf Olsson', ankomst 10 aug 1923 Ellis Island, fartyg Berengaria från Southampton, gift, fodd 1887 (tree: 23/9 1886), 36 år, senaste hemvist indexerat 'Brunsberg, Sweden' (sannolik felläsning av Brunskog). Passenger-id JNXV-W62, bildref T715-3347-477. Starkt sammanfallande med familjeuppgiften 'emigrerade ensam 1923'. Destination/kontaktperson ej läst (kräver manifestbilden). Status: strong, ej verified (identitet via namn+ålder+gift+Brunskog-felläsning; hustru Hulda ej angiven på posten).",
    "USA 1923 (A1, manifestbild läst): Ellis Island, S.S. Berengaria från Southampton, ankomst 10 aug 1923, manifestblad T715-3347-477 rad 15: ”OLSSON JOHAN OLAF 36 M[arried] … CARPENTER … SWEDISH … Sweden, Brunsberg”; närmaste anhörig i hemlandet: ”WIFE, HILDA OLSSON, BRUNSBERG.”; slutdestination: ”N.Y., JAMESTOWN” (Jamestown, Chautauqua Co., New York – stor svensk koloni). Hustrun Hilda Olsson angiven som anhörig i Sverige = starkt stöd för att posten är Hulda Erikssons make (Hulda = Hilda). Kolumnerna 'betalat biljett'/'ska till släkting/vän' i USA ej läst (bild 478 gick inte att visa).",
    "USA-SPÅR B1 (2026-10-06): Statue of Liberty-posten JNXV-W62 (namnindexerad som 'Johan Olaf Olsson', bildref T715-3347-477, bildserie 781 bilder) öppnades i viewer; bild 478 (högersidan med närmaste släkting/slutdestination) kunde visas men upplösningen i webbvisaren var för låg för att läsa rad 15 (zoom i viewer gav ingen skarpare bild). Ingen träff i öppna källor på Olof/John Olsson i Jamestown 1923-30 – NYS Historic Newspapers spärrades av Cloudflare-kontroll (ej kringgången). Jamestown-spåret kvarstår olöst.",
-   "HUSFÖRHÖR A I/37 bild 168 (fol. 172): ”Johan Olof 86 23/9” (= 1886-09-23 bekräftat) i föräldrarnas hushåll Östra Takene; flyttade med dem till Boda 1894-10-26. Ingen Amerikanotering i A I/35–37 (emigration 1923 sker senare)."
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172): ”Johan Olof 86 23/9” (= 1886-09-23 bekräftat) i föräldrarnas hushåll Östra Takene; flyttade med dem till Boda 1894-10-26. Ingen Amerikanotering i A I/35–37 (emigration 1923 sker senare).",
+   "EI-LEAD (ej verifierad): Ellis Island-index JNXV-W62 'Johan Olaf Olsson', f. 1887 (ålder 36), gift, 'Brunsberg, Sweden', Berengaria 10 aug 1923 – ålder/födelseår avviker (trädet 1886-09-23) och han dog 1945 i Lycka, så kan vara annan person. Ej länkad."
   ],
   "sources": [
    {
@@ -1832,7 +1833,10 @@
    "Namnmönstret Elof Persson → Olof Elofsson → … → Elof Olsson (1914).",
    "TIDNINGSBEKRÄFTELSE (KB Svenska tidningar): ”kyrkovärden Olof Elofsson i Takene, Brunskog” – Karlstadstidningen Veckoupplagan 1894-12-05 s.2 (axeln/verandan-notis) och Örnsköldsviks nyheter 1894-12-08; ”kyrkov. O. Elofsson, Takene” – Karlstadstidningen Veckoupplagan 1890-08-27; vald elektor ”Olof Elofsson i Takene, 167 röster” (Karlstadstidningen 1887-04-13, Arvika tidning 1887-04-16); ”utgifven af Olof Elofsson i Takene den 3 April 1891 å 500 [kr]” (revers, Arvika tidning 1895-06-18, Karlstadstidningen Veckoupplagan 1895-06-19). Bekräftar att titeln kyrkvärd är samtida och att han var en framstående man i Takene (ej bara en bildtext).",
    "TIDNINGSBEKRÄFTELSE DÖD (D4): Svenska amerikanaren 1910-03-03 s.13 (dödslista Sverige, OCR): ”F. kyrkovärden Olof Elofsson, Takene, Brunskog, 3 febr., 83 år.” – bekräftar död 3/2 1910 och ålder 83 oberoende av tidigare källor (stämmer med f. 26/11 1826).",
-   "HUSFÖRHÖR A I/37 bild 168 (fol. 172), ”Lyckan” (Östra Takene): ”Eg. Olof Elofsson 26 26/11 Takene [= 1826-11-26]; H. Kajsa Jansdotter 26 9/6 Boda [= 1826-06-09]; Johan, Kommissionär 50 19/11 Takene [= 1850-11-19]; hr Anna Nilsd. 70 2/4 [= 1870-04-02]”. Johans flyttnotering: ”95/6 el. Anna Nilsd 188?” (ej Amerika)."
+   "HUSFÖRHÖR A I/37 bild 168 (fol. 172), ”Lyckan” (Östra Takene): ”Eg. Olof Elofsson 26 26/11 Takene [= 1826-11-26]; H. Kajsa Jansdotter 26 9/6 Boda [= 1826-06-09]; Johan, Kommissionär 50 19/11 Takene [= 1850-11-19]; hr Anna Nilsd. 70 2/4 [= 1870-04-02]”. Johans flyttnotering: ”95/6 el. Anna Nilsd 188?” (ej Amerika).",
+   "TIDNING (KB tidningar, träfftext, ej primärkälla för släktskap): 1887-01-05 Karlstadstidningen s.2 och Arvika tidning 1887-01-08 s.2: 'kyrkovärden Olof Elofsson i Takene' talar mot tull på spannmål (sockenstämma Brunskog). 1887-04-13 Karlstadstidningen s.2: 'Olof Elofsson i Takene, 167 röster' vald elektor; Kristinehamnstidningen 1887-05-12 s.3: 'Elektorerna Olof Elofsson och Kristoffer Eriksson i Östra Takene af Brunskogs s:n'. 1887-04-16 Arvika tidning s.2: elektorer 'Olof Elofsson i Takene, K. Elofsson i Takene' (K. Elofsson ej identifierad – möjligen släkting).",
+   "TIDNING: 1890-08-26 Nya Wermlandstidningen s.2 och 1891-01-07/09/10 (Wermländingen s.2, Arvika tidning s.3, Nya Wermlandstidningen s.3): 'förre kyrkovärden Olof Elofsson i Takene' återvald till godeman vid skiftesförrättningar – dvs. han var ej längre kyrkvärd 1890/91.",
+   "TIDNING: 1894-12-01 Karlstadstidningen s.2 (även Karlstadstidningen Veckoupplagan 1894-12-05, Södermanlands nyheter 1894-12-03, Örnsköldsviks nyheter 1894-12-08): 'af en veranda hos kyrkovärden Olof Elofsson i Takene, Brunskog' (yxa/Amerikanotis om senator i Amerika) – titeln 'kyrkovärd' används åter 1894. 1895-06-18/19 Arvika tidning, Karlstadstidningen: annons 'utgifven af Olof Elofsson i Takene den 3 April 1891 å 500' (skuldebrev/revers)."
   ],
   "sources": [
    {
@@ -1889,6 +1893,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Östra Takene folio 172 (bild 168), Lyckan: Olof Elofsson 26 26/11; Kajsa Jansdotter 26 9/6; Johan 50 19/11",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00168"
+   },
+   {
+    "label": "KB Svenska tidningar, Karlstadstidningen 1894-12-01 s.2: 'af en veranda hos kyrkovärden Olof Elofsson i Takene, Brunskog' (sökträff 'Olof Elofsson Takene')",
+    "url": "https://tidningar.kb.se/search?from=1880-01-01&to=1911-12-31&q=%22Olof%20Elofsson%22%20Takene&searchGranularity=part"
    }
   ],
   "search": [
@@ -5090,7 +5098,9 @@
    "UTFLYTTNING 26 dec 1766 (B/1 bild 31, nr 22, avläst i zoom): 'Pig: Kari Elofsdotter ifrån sin [hus]bonde Jakob Jonsson. kommit, till Toltan i [avsikt] at ägta Dr: Per Elofsson ibm' – född 1734 (kolumnen). Detta länkar inflyttningen 1765 (nr 12, Jakob Jonsson i Åmot) till bröllopet 1767 med Per Elofsson på Toltan: samma person, nu stark identifiering. Förnamnet skrivs Elofsdotter här, Olofsdotter 1765.",
    "FÖRKLARING Åmot/Hunterud: Kari kom nov 1765 från Per Gunnarsson i Hunterud (annan socken, antagligen Nyed/Ny; socken ej angiven) till Åmot; vigseln 1767 säger 'ifrån Per[sjön?] i Ny[eds sochn]'.",
    "ÅLDER: födelseår 1734 enligt B/1 (1765 och 1766); husförhör A I/2 bild 159 anger 1735. Dödsålder 88 (14/1 1823) ger f. 15/1 1734–14/1 1735.",
-   "B/1 1765 bild 28 (verifierad omläsning E7): ”Pig. Kari Olofsdotter ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot”, f. 1734. Stämmer med vigselbokens 'ifrån Åmot' 1767 (tjänande hos Jakob Jonsson i Åmot) och med född 1734/35. Olof/Elof växlar i stavning – stark kandidat att detta är Per Elofssons hustru, men föräldrar framgår inte (Per Gunnarsson är husbonde/tidigare tjänstgöringsställe, inte angiven far)."
+   "B/1 1765 bild 28 (verifierad omläsning E7): ”Pig. Kari Olofsdotter ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot”, f. 1734. Stämmer med vigselbokens 'ifrån Åmot' 1767 (tjänande hos Jakob Jonsson i Åmot) och med född 1734/35. Olof/Elof växlar i stavning – stark kandidat att detta är Per Elofssons hustru, men föräldrar framgår inte (Per Gunnarsson är husbonde/tidigare tjänstgöringsställe, inte angiven far).",
+   "G3: Åmot-sidorna i husförhör A I/1 (1760–63) bild 159–167 (Åmot nr 1–9) genomlästa: ingen Kari/Karin Olofs/Elofsdotter och ingen Jakob Jonsson. A I/2 bild 148 (Åmot nr 10, Jakob Jonsson 1722): hennes namn står inte bland de ordinarie tjänstefolket; där finns bara en struken ”Kari Andersdotter?” f. 1734 (31 år 1764, avförd 1765, alltså före inflyttningen 4 nov 1765) – annan person eller felläsning, ej Kari Olofsdotter. Kari Olofsdotter (inflyttad nov 1765, utflyttad 26 dec 1766) torde ha förts in på A I/2 på annan sida/folio eller inte alls (A I/2 börjar 1764).",
+   "G3: Brunskog A I/1 register (bild 312–313) saknar byn Hunterud under H/N; Hunterud är sannolikt i annan socken (socken anges inte i B/1 1765). Nyeds husförhör A I/1a (C0038516) har ingen särskild byrubrik Hunterud enligt tidigare genomgång (G3 fann ingen inledande ortsregister i volymen: bild 4 = titel, 5–6 = förteckning/omslag)."
   ],
   "died": {
    "date": "1823-01-14",
@@ -15284,7 +15294,10 @@
    "HUSFÖRHÖR A I/14 (1837–42) bild 162 (folio 150, Hannevik): drängpost ”Dr. … 11 Ed; inflyttad p.118 år 38; utflyttad p.92 år 39”; anteckning om äktenskap med Pig. Brita Kajsa Stridsberg 39. Alltså inflyttad till Segerstad före 1838 från Ed; folio 118 = Lilla Årsås, folio 92 = Nedra Årsås enl. registret.",
    "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall) 1860: ”Inh. Anders Persson … 11 Ed” med Britta Kajsa och Maja Katrina, inflyttade från fol. 207 år 60.",
    "INFLYTTNING Segerstad B/1 (C0038690) bild 48 (rubrik ”1837. Inflyttade Personer från – till”, ca rad 25 på vänstersidan): ”Anders Persson” från ”Ed” till ”Törnö” (1 person). Kan vara samme man (dräng f. 1811 ”Ed”), men husförhöret A I/14 anger ”infl. p.118 38” – årtal 1837 vs 38 och Törnö vs folio 118 ej verifierat. Kandidat, ej säker identifiering. Registret anger endast ”Ed” (ingen läns-/landskapsuppgift): samma kolumn har ”Nor, Grums, Karlstad, Wermskog, Grafva” varför ”Ed” inte kan avgöras (Eds sn Dalsland vs annan Ed) utan Eds dopbok 1811 / flyttattest.",
-   "INFLYTTNING 1838 Segerstad B/1 bild 49–50 (vänstersida, hela 1838 års lista) genomläst: ingen post ”Anders Persson” från Ed (andra poster i 1838: ”Dr. Anders Persson + hustru Märtha Greta Falk” från Carlstad till Lönhult, ej samma man). Anders Eriksson + Christina Wenberg, båda från ”Ed” till Swartnäs 1838 (ej släkt visad)."
+   "INFLYTTNING 1838 Segerstad B/1 bild 49–50 (vänstersida, hela 1838 års lista) genomläst: ingen post ”Anders Persson” från Ed (andra poster i 1838: ”Dr. Anders Persson + hustru Märtha Greta Falk” från Carlstad till Lönhult, ej samma man). Anders Eriksson + Christina Wenberg, båda från ”Ed” till Swartnäs 1838 (ej släkt visad).",
+   "SÖKNING ”Ed” (F1): Dals-Eds kyrkoarkiv (SE/GLA/13082, Älvsborgs/Göteborgs landsarkiv) volym-id: C/1 dop 1706–1753 = C0043403; C/2 dop 1754–1811-04-24 = C0043404 (233 bilder); C/3 dop 1823-05-11–1846 = C0043405; C/4 = C0043406; B/1 in-/utflyttning 1830–1860 = C0043402 (138 bilder); HFL A I/3 1805–1811 = C0043384, A I/4 1811–1817 = C0043385, A I/5 1816–21 = C0043386. LUCKA: ingen dopbok för 25/4 1811–10/5 1823 finns bland volymerna.",
+   "DALS-ED DOP 1811 (C0043404 bild 232, s. 444, ”Födde uti Ed år 1811”, jan–24 apr 1811): hela årets lista genomläst i marginalnamn – inga pojkar med förnamn Anders (namn i marginalen bl.a. Johannes, Sven, Magnus, Magnus, Jonas); bild 230 (s. 440–441) = 1810. Anders Persson f. 1811 kan därför ej belagts som född i Dals-Ed jan–apr 1811; om född 25/4–dec 1811 saknas dopbok (lucka).",
+   "DALS-ED UTFLYTTNING 1837 (C0043402 bild 86 vänster nedre del + bild 87 vänster, ”Utflyttnings Längd i Eds Socken” år 1837, nr 1–60 och 1838 nr 1–3): ingen post ”Anders Persson” och ingen utflyttning med mål Segerstad/Värmland/Törnö sedd. Dals-Ed som födelsesocken är alltså INTE belagd; ”Ed” förblir oidentifierad (Dals-Ed, Eds sn Uppland, Ed i Småland m.fl.). Nästa steg: Dals-Eds HFL A I/4 (C0043385, 1811–17) skulle kunna visa en Anders f. 1811 med fader Per/Pehr; Segerstads B/1 1837 bild 48 ger ev. fler uppgifter om att ”Ed” i flyttlängden åtföljs av länsuppgift."
   ],
   "sources": [
    {
@@ -17447,7 +17460,9 @@
    "VIGSEL: Segerstad C/2 (C0038692) bild 165 (s. 296–297, ”Samanwigda i Segerstad Socken” 1805–1809) genomläst i sin helhet – ingen vigsel med Anders Stridsberg / Britta Lisa Jonsdotter 1805–feb 1809 (och ingen 1810). Vigseln skedde alltså sannolikt före 1805 eller utanför Segerstad (Karlstad? hustrun f. Karlstad 1780), ej funnen.",
    "DOP Segerstad C/2 bild 54 (1812): ”26 | 27 Maria – Clarin. blås. Anders Stridsberg och dess hustru Britta Jonsdr. i Mellgårds Båställe” – 32 (mors ålder, stämmer med f. 1780).",
    "DOP Segerstad C/2 bild 60 (1815): ”Maji 22 | 23 Jan Fredrik – Clarinettblås. Änd. Stridsberg; h. Britta Lisa Jonsdr i Mellgårds Boställe” – 35.",
-   "VIGSEL: Segerstad C/2 bild 164 (1801–04), 165 (1805–feb 1809) och 166 (1809–1810, inkl. 'Wigda utom Socken') genomlästa – ingen vigsel Anders Stridsberg/Britta Lisa Jonsdotter. Dopböckerna 1807–09 (bild 43–48) innehåller inga Stridsberg-barn före Brita Kajsa (1810); troligen vigd utanför Segerstad (Karlstad, hustruns födelseort?) c. 1809. Bild 160–162 i C/2 är 1860 års dopbok (ej vigslar); bild 163 tom."
+   "VIGSEL: Segerstad C/2 bild 164 (1801–04), 165 (1805–feb 1809) och 166 (1809–1810, inkl. 'Wigda utom Socken') genomlästa – ingen vigsel Anders Stridsberg/Britta Lisa Jonsdotter. Dopböckerna 1807–09 (bild 43–48) innehåller inga Stridsberg-barn före Brita Kajsa (1810); troligen vigd utanför Segerstad (Karlstad, hustruns födelseort?) c. 1809. Bild 160–162 i C/2 är 1860 års dopbok (ej vigslar); bild 163 tom.",
+   "KARLSTAD DOP 1783 (F1): Karlstads stadsförs. dopbok C0037869 bild 156 (s. 287, ”1783”, mars): doppost 4/5 mars (Svenonia?), 22/? Axel (far Lars Clemi/Clami, handelsman), 28/31 mars ”Anna” (far Båtsman Anders Olsson, Bjärsten? mor Margreta Börgesdotter), 31 mars Jonas (Ruds-kärn?) – ingen Anders född 26/3 1783 (eller dopdag omkring 26–28/3). Bild 157 (s. 289, apr 1783) ej heller. Husförhörets födelseort var ”By” (ej ”Carlstad”), vilket pekar på att Anders Stridsberg inte är född i Karlstads stad. Vigsel ca 1806–09 i Karlstad stadsförs. (E/1 C0037873, 1758–1828) EJ genomläst (ej hunnits).",
+   "Karlstad vigselbok E/1 (C0037873, 1758–1828, 103 bilder): bild 72 (s. 119) ligger i ett år i 1810-talet (årtal svårläst, ca 1815?) – 1806–09 alltså ca bild 60–68; ej genomläst."
   ],
   "sources": [
    {
@@ -17499,7 +17514,9 @@
   "notes": [
    "DOP 1810: ”… dess hust. Britta Lisa Jonsdr. i Mällgården” (mor till Britta Caisa); åldersuppgift ”30” i dopboken stämmer med f. 1780.",
    "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall): ”Enk. Britta Lisa Jonaus 22/1 80 Carlstad”, inflyttad från fol. 207 år 60; anteckning ”Enka …/… 58 e. Kyrkovaktaren A. Stridsberg”; samma folio: ”Inh. Anders Persson … 11 Ed; Hustru Britta Kajsa Andersdotter 7/6(=17/6) 10 Segerstad; D. Maja Katrina 27/7 51 Segerstad”, alla inflyttade fol. 207 år 60. Dödsdatum okänt (efter 1860).",
-   "Moder i dopen 1812 (bild 54, ”Britta Jonsdr”, ålder 32) och 1815 (bild 60, ”Britta Lisa Jonsdr”, ålder 35) i Mellgårdens båtställe. Hennes dop 1780 i Karlstad ej sökt (Karlstads stadsförsamling ligger utanför de angivna volymerna)."
+   "Moder i dopen 1812 (bild 54, ”Britta Jonsdr”, ålder 32) och 1815 (bild 60, ”Britta Lisa Jonsdr”, ålder 35) i Mellgårdens båtställe. Hennes dop 1780 i Karlstad ej sökt (Karlstads stadsförsamling ligger utanför de angivna volymerna).",
+   "KARLSTAD DOP 1780 (F1): Karlstads stadsförsamlings dopbok C I/3 1758–1787 = C0037869 (195 bilder; bild 134 = dec 1779, bild 135 = jan–feb 1780 (s. 275/”Ar 1780”), bild 150 = mars 1782, bild 156 = jan–apr 1783). Jan 1780 bild 135 genomläst: dopdagar 8/9, 15 (Britta Cajsa, far Jonas Jonäs), 15/16 (Anna Greta), 19/20 (Anna Brita, far Pet. Fernlöf), 24 (Erik Johan) – ingen Britta Lisa Jonsdotter född 22/1 1780 (eller dopdag ca 22–23/1). Hon är alltså ej belagd i Karlstads stadsförs. dop jan 1780; husförhörets ”22/1 80 Carlstad” kan avse landsförsamlingen, annan dag, eller vara felaktigt. Ingen faderspost sedd. Hennes dop kvarstår OFUNNET.",
+   "Karlstad-volymer (SE/VA/13275 stadsförs.): dop C I/2 1730–58 C0037868; C I/3 1758–87 C0037869; C I/4 1788–1817 C0037870; vigsel E/1 1758–1828 C0037873, E/2 1819–61 C0037874; flytt B/1 1758–92 C0037863, B/2 1804–25 C0037864. Landsförs. (13274) dop C I/1 först 1839–60 = C0037815 (äldre dopböcker ej funna i C00378xx)."
   ],
   "sources": [
    {
@@ -19296,6 +19313,93 @@
   ],
   "search": [
    "Maria Pedersdatter (f. 1824 Brunskog, Hurdal)"
+  ]
+ },
+ {
+  "id": "jakob_jonsson22_amot",
+  "name": "Jakob Jonsson (f. 1722, Åmot nr 10)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1722",
+   "place": "",
+   "note": "födelseår enligt husförhör A I/2"
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Bonde på Åmot nr 10 1764–68; husbonde till pigan Kari Olofsdotter/Elofsdotter 1765–66, som sedan gifte sig med Per Elofsson. Hustru Britta Olofsdotter f. 1728.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (sida 136), Åmot nr 10: ”Jakob Jonsson 1722”, hustru ”Britta Olofsd. 1728”, barn ”Olof Jonsson 1755”, ”Per Jonsson 1758”, ”Gjärsti Jonsd. 1761”, ”Jon Jonsson 1764”, ”Magnus Jonsson? 1767”. Överstrukna tjänstefolk längre ned bl.a. ”Kari Andersdotter?” f. 1734 (31 år 1764; avförd 1765) och en struken ”Pig: Bjärsti Olofsd.”. Jakob Jonsson finns INTE på Åmot-sidorna i A I/1 (1760–63, bild 159–167: Åmot nr 1–9 genomgångna, ingen Jakob 1722)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–68), bild 148, sida 136, Åmot nr 10: Jakob Jonsson 1722, Britta Olofsd. 1728, barn Olof 1755, Per 1758, Gjärsti 1761, Jon 1764, Magnus 1767",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Jakob Jonsson (f. 1722, Åmot nr 10)"
+  ]
+ },
+ {
+  "id": "britta_olofsd28_amot",
+  "name": "Britta Olofsdotter (f. 1728, hustru till Jakob Jonsson, Åmot)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1728",
+   "place": "",
+   "note": "enligt husförhör A I/2"
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Hustru till Jakob Jonsson på Åmot nr 10; samma fadersnamn som Kari Olofsdotter – släktskap ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148: ”Britta Olofsd. 1728” (hustru)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–68), bild 148, Åmot nr 10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Britta Olofsdotter (f. 1728, hustru till Jakob Jonsson, Åmot)"
+  ]
+ },
+ {
+  "id": "ei_johan_olaf_olsson_1923",
+  "name": "Johan Olaf Olsson (Ellis Island 1923, Brunsberg)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "",
+   "note": "Beräknat ur ålder 36 vid ankomst; indexerat födelseår 1887"
+  },
+  "places": [
+   "Brunsberg, Sweden",
+   "Southampton",
+   "Ellis Island"
+  ],
+  "summary": "Gift man, 36 år, indexerad som boende i 'Brunsberg, Sweden', ankom Ellis Island 10 aug 1923 med S.S. Berengaria från Southampton. Identitet mot Johan Olof Olsson (johan, f. 1886-09-23 Brunskog, d. 1945) ej fastställd.",
+  "notes": [
+   "INDEX (statueofliberty.org, Passenger ID JNXV-W62): Johan Olaf Olsson; Date of Arrival 10 August 1923; Last Residence 'Brunsberg, Sweden'; Marital Status Married; Gender Male; Age at Arrival 36; Year of Birth 1887; Place of Departure Southampton; Ship Berengaria; Image Reference T715-3347-477; Line Number 0015; Nationality Sweden, Swedish.",
+   "OBS: manifestraden (anhörig i hemlandet, destination/släkting i USA, födelseort) ej läst – sidbilden (bild 477 av 781) visas bara i låg upplösning i webbvisaren och gick inte att läsa; hel bild är en betald produkt (35 USD). Namn i index: Brunsberg (ej Brunskog/Takene) – kan vara annan person eller felskrivning/felindexering."
+  ],
+  "sources": [
+   {
+    "label": "Statue of Liberty-Ellis Island Foundation, Passenger JNXV-W62, T715-3347-477 rad 15: Johan Olaf Olsson, 10 Aug 1923, Berengaria, ålder 36, gift, Brunsberg",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
+   }
+  ],
+  "search": [
+   "Johan Olaf Olsson (Ellis Island 1923, Brunsberg)"
   ]
  }
 ]

@@ -4919,5 +4919,13 @@
   "b": "stefan",
   "status": "verified",
   "basis": "Samma föräldrar Józef Orzechowski + Katarzyna f. Zatorska, Szydłówek (akt 376/1907 och akt 68/1903)"
+ },
+ {
+  "id": "p-jakob_jonsson22_amot-britta_olofsd28_amot",
+  "type": "partner",
+  "a": "jakob_jonsson22_amot",
+  "b": "britta_olofsd28_amot",
+  "status": "verified",
+  "basis": "Husförhör A I/2 bild 148 Åmot nr 10: ”Jakob Jonsson 1722”, direkt under ”h. Britta Olofsd. 1728” (hustru)."
  }
 ]
