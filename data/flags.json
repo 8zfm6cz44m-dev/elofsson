@@ -2634,6 +2634,37 @@
     "al5_nils_lassesson99",
     "b4_lars_ersson_toltan"
    ]
+  },
+  {
+   "title": "Kajsa Nilsdotter f. 20/12 1818 – gift 1855 med Nils Bengtsson (strong, ej verified)",
+   "text": "Vigselbok Frykerud E I/2 bild 105: 5/8 1855 ”Torparen Drängen Nils Bengtsson [25] och Pigan Cajsa Nilsdatter, bygg. från Lene [37]”. Ålder 37 + Lene stämmer med Kajsa f. 1818, men föräldrar nämns inte. NB: i A I/21b (1851–55) sid 139 (bild 152) finns även en ’Pig. Cajsa Nilsd 20/12 [18]28 Frykerud’ (samma dag/månad; årtalet kan vara felskrivet) – möjligen samma person. Kontrollera husförhör/dödbok efter 1855.",
+   "persons": [
+    "fr_kajsanilsd1818",
+    "nilsbengtsson_fr30"
+   ]
+  },
+  {
+   "title": "Jonas Nilsson f. 3/5 1821 – gift 4/1 1857 med Lovisa Carlsdotter (strong)",
+   "text": "Vigselbok E I/2 bild 108: lysning 16/11 1856, vigsel 4/1 1857, ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år. Förälder ej angiven. 1859 (bild 116) nämns ”Jonas Nilsson och dess hustru Cajsa Svensdotter i Lene” som vittne – ev. annan Jonas Nilsson i Lene, eller Lovisa död/omgift; ej utrett.",
+   "persons": [
+    "fr_jonasnilsson1821",
+    "lovisa_carlsd_lene31"
+   ]
+  },
+  {
+   "title": "Förväxlingsrisk: Stina Nilsdotter f. 1815 på Lene (g. 1844 med Lars Jonsson)",
+   "text": "Vigselbok E I/2 bild 84: 9/11 1844 ”Lars Jönsson [22] … Lene. pig. Stina Nilsdr [29]”; husförhör A I/20 bild 213 (sid 194): ”Stina Nilsd 3/15(?) Fryk” hustru till Lars Jonsson. Detta är EN ANNAN kvinna än Stina f. 1813 (g. 1837 med Anders Elofsson) och troligen ej Lena f. 27/12 1815 (Lena finns kvar ogift i A I/20 bild 200 som syskon på Lene).",
+   "persons": [
+    "fr_lenanilsd1815",
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Moderns död 1848: dödsdag oklar",
+   "text": "A I/20 bild 200: ’död 2?/10 48’; dödbok F/2 bild 96 nr 38 (Enkan Cajsa Christoffersdotter, Lene, 64 år 2 mån 21 d, begr. 5/11 1848). Av åldern (f. 27/7 1784) följer död ca 18/10; dödsdagen i dödboken svårläst (’2?’).",
+   "persons": [
+    "fr_kajsakristofersd1784"
+   ]
   }
  ],
  "conflicts": [

@@ -6355,5 +6355,29 @@
   "child": "al5_jon_arnesson91",
   "status": "verified",
   "basis": "Dop 13/12 1691: ”Jon Arnesson i W. Fortan; fader Arne Jönsson, moder Christin Fredsdotter” – C I/1 bild 27."
+ },
+ {
+  "id": "p-fr_majanilsd1811-kn_boda1815",
+  "type": "partner",
+  "a": "fr_majanilsd1811",
+  "b": "kn_boda1815",
+  "status": "verified",
+  "basis": "Frykerud vigselbok E I/2 bild 79: 4 jan 1841 ”Br. Dr. Kristoffer Nilsson / pig. Maja Nilsdr (Lene)”; husförhör A I/18 bild 183, Majas rad: ”Gift d. 4/1 41” – uttrycklig post (https://sok.riksarkivet.se/bildvisning/C0037141_00079)."
+ },
+ {
+  "id": "p-fr_kajsanilsd1818-nilsbengtsson_fr30",
+  "type": "partner",
+  "a": "fr_kajsanilsd1818",
+  "b": "nilsbengtsson_fr30",
+  "status": "strong",
+  "basis": "Frykerud vigselbok E I/2 bild 105: 5 aug 1855 ”Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg. från Lene”, 25/37 år. Brudens föräldrar ej angivna; åldern 37 och Lene stämmer med Kajsa f. 20/12 1818 (https://sok.riksarkivet.se/bildvisning/C0037141_00105)."
+ },
+ {
+  "id": "p-fr_jonasnilsson1821-lovisa_carlsd_lene31",
+  "type": "partner",
+  "a": "fr_jonasnilsson1821",
+  "b": "lovisa_carlsd_lene31",
+  "status": "strong",
+  "basis": "Frykerud vigselbok E I/2 bild 108: 4 jan 1857 ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år (https://sok.riksarkivet.se/bildvisning/C0037141_00108)."
  }
 ]

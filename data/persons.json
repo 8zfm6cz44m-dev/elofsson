@@ -18695,7 +18695,8 @@
    "HUSFÖRHÖR A I/15 bild 126 (s. 105) Lene: ”Nils Jonsson” 1782, ”H. Caisa Christoffersd” 1784 27/7, ”D Maria 1811”, ”Stina 1813 26/10”, ”Lena 27/12 1815”, ”Caisa 20/12 1818”, ”Son Jonas 1821” (tillagd senare).",
    "FÖRSTA GIFTE: vigd 26 dec 1806 (lysn. sept 1806) med Catharina Andersdotter från Lene, f. 22/11 1781, d. aug 1808 (E I/1 bild 156; F/1 bild 118). Dotter Stina f. 13/2 1808 (dop 14/2, C/6 bild 19). Andra giftet dec 1810 med Kajsa Kristofersdotter.",
    "HUSFÖRHÖR A I/11 bild 33: ”Son Nils” 82 (dag läst 9/3; dopbokens ”7. 9.” = född 7/3, döpt 9/3) i Jonas Anderssons hushåll på Lene.",
-   "OMLÄSNING Y1: dopbok Frykerud C/5 (C0037138_00043, s. 57 höger, rubrik ”Döpte barn i Frykeruds församling år 1782”) bekräftad ordagrant: ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”; faddrar ”Erik Olsson uti Karsbohl, Erik Elofsson Norra Näs, dr. Nils Månsson uti Lene, Hust: Annika [Vang]ldr daaströd[?], Hust: Marja Olsdr uti Hogvalta, pig: Britta Eriksdr och pig: Catharina Månsdr ifrån Lene.” Vigselbok E I/1 bild 164 (C0037140_00164, s. 312 vänster) bekräftad: ”Enke och Danemannen Nils Jonsson i Lene och Pig: Caisa Christophersdotr i Saldebraten.” (inget år tryckt på sidan; lysning ”den 25 Nov”, vigsel ”28 Dec af v. Past. Jacob Ekstedt”; år 1810 inferred av att nästa sida s. 313 har rubriken ”Vigde 1811”). Status oförändrad."
+   "OMLÄSNING Y1: dopbok Frykerud C/5 (C0037138_00043, s. 57 höger, rubrik ”Döpte barn i Frykeruds församling år 1782”) bekräftad ordagrant: ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”; faddrar ”Erik Olsson uti Karsbohl, Erik Elofsson Norra Näs, dr. Nils Månsson uti Lene, Hust: Annika [Vang]ldr daaströd[?], Hust: Marja Olsdr uti Hogvalta, pig: Britta Eriksdr och pig: Catharina Månsdr ifrån Lene.” Vigselbok E I/1 bild 164 (C0037140_00164, s. 312 vänster) bekräftad: ”Enke och Danemannen Nils Jonsson i Lene och Pig: Caisa Christophersdotr i Saldebraten.” (inget år tryckt på sidan; lysning ”den 25 Nov”, vigsel ”28 Dec af v. Past. Jacob Ekstedt”; år 1810 inferred av att nästa sida s. 313 har rubriken ”Vigde 1811”). Status oförändrad.",
+   "DÖDBOK Frykerud F/2 bild 80 (1837): ”Mars 31 … Lene B. Nils Jonsson … [ålder] 55 – 24 gift” (55 år 0 mån 24 d; stämmer med f. 7/3 1782 → död 31/3 1837); begravd ca 16/4 (?) – läst ur dödboksrad ’31 | 16/4’. Dödsorsak svårläst. Husförhör A I/18 bild 183: ”död 31/3 37”."
   ],
   "sources": [
    {
@@ -18733,6 +18734,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797) C0037112, bild 33 (fol. 23), Lene: Jonas Andersson 50 12/4, H. Stina Månsdr 53, Son Anders 76 24/6 (utfl. 93 Såldebr.), D. Cathrina 79 25/3, Son Nils 82, Son Sven 88 10/10, D. Maria 91 1/10, D. Stina 94",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00033"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2 (1814-60?), bild 80: 1837, 31 mars, Lene B. Nils Jonsson, 55 år 24 dagar, gift",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00080"
    }
   ],
   "search": [
@@ -18760,7 +18765,10 @@
    "VIGSEL: se E I/1 bild 164, ”Pig: Caisa Christophersdotr i Saldebraten”.",
    "HUSFÖRHÖR A I/14 bild 99 och A I/15 bild 126: ”H. Caisa Christofferd(ottir)” 1784 27/7 i Nils Jonssons hushåll, Lene.",
    "DOPBOK Frykerud C/5 bild 55 (s. 77, 1784), högra sidan, marg. ”Cajsa”: ”27 | 29 Christopher Svenson H. Lena Salomonsdr i Klaxås”; vittnen ”Drängen Erik Bengtsson, H: Maria Eriksdotter i Klaxås”. Familjen bodde alltså i Klaxås 1784. OBS: id fr_kajsakristofersd1784 antas vara Cajsa f. 27/7 1784 – kontrollera mot persons.json.",
-   "OMLÄSNING Y1 (C0037138_00055, s. 77 höger; vänstersidans rubrik ”Döpte 1784”): rad i marginal ”Caisa”, datumkolumn ”– 27. 29.” (månadsstreck = juli; föregående rader Jul 6, 10, 25, 27/28): ”Christopher Svenson, H. Lena Salomonsdr i Klaxås”; faddrar ”Drängen Erik Bengtsson, H: Maria Erisdotter(?) i Klaxås” (”Dito” i döparkolumn). Bekräftar. Bosatt i Klaxås 1784 (inte Såldebråten). Status oförändrad."
+   "OMLÄSNING Y1 (C0037138_00055, s. 77 höger; vänstersidans rubrik ”Döpte 1784”): rad i marginal ”Caisa”, datumkolumn ”– 27. 29.” (månadsstreck = juli; föregående rader Jul 6, 10, 25, 27/28): ”Christopher Svenson, H. Lena Salomonsdr i Klaxås”; faddrar ”Drängen Erik Bengtsson, H: Maria Erisdotter(?) i Klaxås” (”Dito” i döparkolumn). Bekräftar. Bosatt i Klaxås 1784 (inte Såldebråten). Status oförändrad.",
+   "HUSFÖRHÖR Frykerud A I/19 (1841–45) bild 215 (sid 207) Lene: ”E. Kajsa Kristoffersd 27/7 84 Fryk”, barn Lena 27/12 15, Kajsa 20/12 18, Jonas 3/5 21, Kristoffer 10/12 23, Sven 27/9 28 – alla ibm, inga utflyttningar t.o.m. 1845.",
+   "HUSFÖRHÖR Frykerud A I/20 (1846–50) bild 200 (sid 182) Lene: huvudraden överstruken; ”Enk. Kajsa Christoffersd 27/7 84 Fryk – död ²¹⁄₁₀ 48”.",
+   "DÖDBOK Frykerud F/2 bild 96 (1848, s. 169, nr 38): ”Lene. Enkan Cajsa Christoffersdotter [sjukdom ’Pneumon…’ svårläst] 64 – 2 – 21”, begravd 5/11 1848. (27/7 1784 + 64 å 2 m 21 d ≈ 18/10 1848.)"
   ],
   "sources": [
    {
@@ -18786,11 +18794,28 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 55 (s. 77, 1784): Cajsa, jul 27/29, föräldrar Christopher Svensson och Lena Salomonsdotter i Klaxås",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00055"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/19 (1841-45), bild 215, sid 207, Lene: Enkan Kajsa Kristoffersd 27/7 84 + barn Lena, Kajsa, Jonas, Kristoffer, Sven",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00215"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Enk. Kajsa Christoffersd 27/7 84 Fryk, död 21/10 48 (?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2, bild 96 (1848), nr 38: Lene, Enkan Cajsa Christoffersdotter, 64 år 2 mån 21 d, begr. 5/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00096"
    }
   ],
   "search": [
    "Kajsa Kristofersdotter"
-  ]
+  ],
+  "died": {
+   "date": "1848-10",
+   "place": "Lene, Frykerud",
+   "note": "Dödbok F/2 bild 96 (1848, s.169, nr 38): dödsdag svårläst (ca 18–21/10), begr. 5/11; 64 år 2 mån 21 d. Husförhör A I/20 bild 200: ’död 2?/10 48’."
+  }
  },
  {
   "id": "fr_majanilsd1811",
@@ -18813,7 +18838,9 @@
    "HUSFÖRHÖR A I/14 bild 99: ”Marja 1811”; A I/15 bild 126: ”D Maria 1811” i Nils Jonssons hushåll, Lene.",
    "AK6 A I/18 bild 183 (Lene, fol. 173), ordagrant utflyttningskolumn: Maja-raden ”Boda 41” (Stina-raden ”Boda 40”); raden för Maja överstruken i längden. Övriga syskon (Lena, Kajsa, Jonas, Kristofer, Sven) har ingen utflyttning noterad i A I/18 (1835–40).",
    "AK6 CANDIDATE: Boda in- och utflyttningslängd B/1 (C0036591) bild 11, ”Inflyttade Personer till Boda Församling under 1841”, nr 1: ”Hust. Maria Nilsdotter – Frykerud – flyttar till St. Boda – L. Rolander”. Kan vara Maja (utflyttning ”Boda 41” stämmer), men ”Hust.” = gift och make ej namngiven; ej styrkt. Sökt i Boda husförhör A I/17 (1841–45, C0036582) St. Boda s. 37 (bild 48) och Smedsered s. 233–235 (bild 245–247): ej funnen där.",
-   "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 75 (1838): lysn. 7 dec, vigd 26 dec 1838, ”v. Ringstad” Brudgum Nils Persson (31), ”ibm. Pig. Maja Nilsd.” (28) – ort Ringstad, ej Lene; ålder 28 vs Maja 27; EJ identifierad med Maja."
+   "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 75 (1838): lysn. 7 dec, vigd 26 dec 1838, ”v. Ringstad” Brudgum Nils Persson (31), ”ibm. Pig. Maja Nilsd.” (28) – ort Ringstad, ej Lene; ålder 28 vs Maja 27; EJ identifierad med Maja.",
+   "HUSFÖRHÖR Frykerud A I/18 bild 183 (Lene, Nils Jonssons hushåll): barn ”Maja” 10/10 11 ibm; utflyttad ”Boda 41”; anm. höger sida: ”Gift d. 4/1 41. Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda”.",
+   "VIGSEL Frykerud E I/2 bild 79 (1841, jan): ”4 ... N. Boda. Br. Dr. Kristoffer Nilsson / Lene pig. Maja Nilsdr / vigde af L. Ralander” åldrar 25 resp. 28 (brudgum 25, brud 28)."
   ],
   "sources": [
    {
@@ -18827,6 +18854,14 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814-61), bild 79, 1841: 4 jan, bostad ’N. Boda’, brudgum Kristoffer Nilsson (25 år), brud pig. Maja Nilsdotter, Lene (28 år), vigde af L. Ralander",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00079"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/18 (1835-40), bild 183, Lene: Maja 10/10 11, utflyttad Boda 41, ’Gift d. 4/1 41’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
    }
   ],
   "search": [
@@ -18851,7 +18886,8 @@
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "HUSFÖRHÖR A I/14 bild 99: ”Lena 1815”; A I/15 bild 126: ”Lena 27/12 1815” i Nils Jonssons hushåll, Lene.",
-   "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 81 (1842): lysn. 24 nov, vigd 27 nov? 1842, ”Lene. T.Dr. Lars Bengtsson ibm. pig. Elin Lisa Nilsd[otter]”, åldrar 27 och 25. Lars Bengtsson f. 1815 ”Nor” var dräng i Nils Jonssons hushåll (A I/18 bild 183), men bruden är 25 år och heter Elin Lisa; ingen koppling till Lena (f. 27/12 1815, 26 år) bevisad."
+   "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 81 (1842): lysn. 24 nov, vigd 27 nov? 1842, ”Lene. T.Dr. Lars Bengtsson ibm. pig. Elin Lisa Nilsd[otter]”, åldrar 27 och 25. Lars Bengtsson f. 1815 ”Nor” var dräng i Nils Jonssons hushåll (A I/18 bild 183), men bruden är 25 år och heter Elin Lisa; ingen koppling till Lena (f. 27/12 1815, 26 år) bevisad.",
+   "HUSFÖRHÖR Frykerud A I/20 (1846–50) bild 200 (sid 182) Lene: ”Syskon: Pigan Lena Nilsd 27/12 15 ibm” – ogift, kvar på Lene efter moderns död 1848; yngre syskon Jonas och Sven bor samma sida. (Rad kan bära anteckning ’Sjukling’ – ej säkert läst.)"
   ],
   "sources": [
    {
@@ -18865,6 +18901,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Syskon, Pigan Lena Nilsd 27/12 15 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
    }
   ],
   "search": [
@@ -18888,7 +18928,9 @@
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
-   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Caisa 20/12 1818” i Nils Jonssons hushåll, Lene."
+   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Caisa 20/12 1818” i Nils Jonssons hushåll, Lene.",
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”D. Kajsa Nilsd 20/12 18 ibm”, utflyttad ”p:193:49” (till sid 193 i boken, 1849). Bild 211 (sid 193) Lene: ”Pig. Cajsa Nilsd 20/12 18 ibm, inflyttad p.182 49” – piga i annat hushåll på Lene 1849–50. Ogift.",
+   "VIGSEL Frykerud E I/2 bild 105 (1855): 5 aug 1855 (lysning 10/12 1854): ”Torparen Drängen Nils Bengtsson [25] och Pigan Cajsa Nilsdatter, bygg. från Lene [37]”. Ålder 37 stämmer med f. 20/12 1818; Lene; förälder ej nämnd i vigselboken → strong (ej verified)."
   ],
   "sources": [
    {
@@ -18898,6 +18940,18 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 211, sid 193, Lene: Pig. Cajsa Nilsd 20/12 18 ibm, inflyttad p.182 1849",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00211"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20, bild 200, sid 182, Lene: D. Kajsa Nilsd 20/12 18, utflyttad p.193:49",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 105, 1855: Nils Bengtsson & Cajsa Nilsdatter från Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00105"
    }
   ],
   "search": [
@@ -18921,7 +18975,9 @@
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
-   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Son Jonas 1821” tillagd (blekare) sist i Nils Jonssons hushåll, Lene."
+   "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Son Jonas 1821” tillagd (blekare) sist i Nils Jonssons hushåll, Lene.",
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden S. Jonas Nilsson 3/5 21 ibm” – kvar på Lene 1846–50, ogift.",
+   "VIGSEL Frykerud E I/2 bild 108 (1857, s.187): lysning 16/11 1856, vigsel 4/1 1857: ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, åldrar 36 resp. 26 (36 stämmer med f. 3/5 1821). Identifiering strong (förälder ej nämnd)."
   ],
   "sources": [
    {
@@ -18931,6 +18987,14 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–1823) C0037116, bild 126 (s. 105), Lene: Nils Jonsson 1782, H. Caisa Christoffersd 1784 27/7, D Maria 1811, Stina 1813 26/10, Lena 27/12 1815, Caisa 20/12 1818, Son Jonas 1821",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00126"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Bonden S. Jonas Nilsson 3/5 21 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 108, 1857: Jonas Nilsson (36) & Lovisa Carlsdatter (26) från Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00108"
    }
   ],
   "search": [
@@ -18954,12 +19018,21 @@
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
-   "AK6 LEAD (svag): Boda B/1 (C0036591) bild 11, inflyttade 1842, nr 4: ”G.Dr. Kristoffer Nilsson – Frykerud – Smedsered – L. Rolander” (G.Dr = gift dräng). Kristofer f. 1823 vore 19 år – troligen annan person; ej identifierad."
+   "AK6 LEAD (svag): Boda B/1 (C0036591) bild 11, inflyttade 1842, nr 4: ”G.Dr. Kristoffer Nilsson – Frykerud – Smedsered – L. Rolander” (G.Dr = gift dräng). Kristofer f. 1823 vore 19 år – troligen annan person; ej identifierad.",
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”S. Christoffer 10/12 2? ibm” överstruken, utflyttad ”p:193:48”. Bild 211 (sid 193) Lene: ”B. Christoffer Nilsson 10/12 23 Frykerud, inflyttad p.182 48” – egen bonde på sid 193 från 1848. Ogift (ingen hustru på raden)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 211, sid 193, Lene: B. Christoffer Nilsson 10/12 23 Frykerud, inflyttad p.182 1848",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00211"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20, bild 200, sid 182, Lene: S. Christoffer, utflyttad p.193:48",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
    }
   ],
   "search": [
@@ -18982,12 +19055,17 @@
   ],
   "summary": "Barn i Nils Jonssons och Kajsa Kristofersdotters hushåll på Lene, Frykerud (syskon till Stina Nilsdotter).",
   "notes": [
-   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll."
+   "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
+   "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden Dr. Sven Nilsson 27/9 28 ibm” – tar över hemmanet efter moderns död 1848; ogift. Anm. höger: ”Casser(?) Bus 1850” (oklar)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835-1840), bild 183 (fol. 173), Lene: Nils Jonsson 1782 Frykerud, hustru Kajsa Kristofers dr 1784 ibm, barn Maja 1811, Stina 1813, Lena 1815, Kajsa 1818, Jonas 1821, Kristofer 1823, Sven 1828 (alla ibm)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/20 (1846-50), bild 200, sid 182, Lene: Bonden Dr. Sven Nilsson 27/9 28 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037121_00200"
    }
   ],
   "search": [
@@ -24804,6 +24882,95 @@
   ],
   "search": [
    "Jon Arnesson (W. Tortan, f. 1691)"
+  ]
+ },
+ {
+  "id": "kn_boda1815",
+  "name": "Kristoffer Nilsson (Boda, g. 1841 med Maja Nilsdotter)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1815/1816",
+   "place": "Boda (?)",
+   "note": "Ålder 25 vid vigsel 4/1 1841 → f. ca 1815/16. Hemvist ’N. Boda’ (vigselbok); husförhör nämner ’Dr Kristoffer Hälleb[o?] i Boda’."
+  },
+  "places": [
+   "Boda"
+  ],
+  "summary": "Dräng/bonde från Boda socken, gift 4 jan 1841 i Frykerud med Maja Nilsdotter (f. 1811, Lene). Maja flyttade till Boda 1841.",
+  "notes": [
+   "VIGSEL Frykerud E I/2 bild 79: ”Br. Dr. Kristoffer Nilsson … pig. Maja Nilsdr … vigde af L. Ralander”, brudgum 25 år, brud 28 år; kolumn bostad: ”N. Boda” (läsning ’Boda Sn’?).",
+   "HUSFÖRHÖR A I/18 bild 183: ”Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda” (efternamn/gårdsnamn osäkert läst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814-61), bild 79, 1841: 4 jan, Kristoffer Nilsson (25), pig. Maja Nilsdr (28), Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00079"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/18, bild 183, Lene, Maja: ”Gift d. 4/1 41”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00183"
+   }
+  ],
+  "search": [
+   "Kristoffer Nilsson (Boda, g. 1841 med Maja Nilsdotter)"
+  ]
+ },
+ {
+  "id": "nilsbengtsson_fr30",
+  "name": "Nils Bengtsson (g. 1855 med Kajsa Nilsdotter, Lene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1829/1830",
+   "place": "",
+   "note": "Ålder 25 vid vigsel 5/8 1855."
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Torpare/dräng, gift 5 aug 1855 i Frykerud med Cajsa Nilsdotter, boende ’från Lene’, 37 år.",
+  "notes": [
+   "VIGSEL Frykerud E I/2 bild 105 (1855, s. 181): ”1854 Dec. 10 [lysning] … Augusti 5. Torparen Drängen Nils Bengtsson och Pigan Cajsa Nilsdatter, bygg(d) från Lene. Vigde af Magn: Lanner” – åldrar 25 resp. 37."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 105, 1855: 5 aug, Torparen Drängen Nils Bengtsson (25) & Pigan Cajsa Nilsdatter från Lene (37)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00105"
+   }
+  ],
+  "search": [
+   "Nils Bengtsson (g. 1855 med Kajsa Nilsdotter, Lene)"
+  ]
+ },
+ {
+  "id": "lovisa_carlsd_lene31",
+  "name": "Lovisa Carlsdotter (g. 1857 med Jonas Nilsson, Lene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1830/1831",
+   "place": "",
+   "note": "Ålder 26 vid vigsel 4/1 1857."
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Piga ’bygg. från Lene’, gift 4 jan 1857 i Frykerud med drängen Jonas Nilsson (36 år).",
+  "notes": [
+   "VIGSEL Frykerud E I/2 bild 108 (1857, s. 187): ”1856 Nov 16 [lysning] … Jan 4. Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene. Wigde af Magn: Lanner”, åldrar 36 resp. 26."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 108, 1857: 4 jan, Dräng Jonas Nilsson (36) & Pigan Lovisa Carlsdatter (26) från Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00108"
+   }
+  ],
+  "search": [
+   "Lovisa Carlsdotter (g. 1857 med Jonas Nilsson, Lene)"
   ]
  }
 ]
