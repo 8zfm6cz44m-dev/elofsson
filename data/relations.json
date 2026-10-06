@@ -4274,8 +4274,8 @@
   "type": "partner",
   "a": "anders_e",
   "b": "no_stina_nilsd13",
-  "status": "candidate",
-  "basis": "Folketelling 1875 Eidsvoll, Hoel, hush. 02: Anders Elofsen f. 1816 Brunskog 'Husfader Inderst G' och 'Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud' (pf01052052001547/-1548). Identiteten Anders Elofsen = anders_e är ej bevisad (saknar föräldrar). Vigselpost ej funnen."
+  "status": "strong",
+  "basis": "Frykerud E I/2 (1814-1861) bild 74, 1837: ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24 (https://sok.riksarkivet.se/bildvisning/C0037141_00074). Anders f. 1816 lämnade Brunskog 1837 till Frykerud (Brunskog A I/19 bild 115: ”Frykerud 37”). Norge FT 1875 Eidsvoll, Hoel: Anders Elofsen f. 1816 Brunskog + Stina Nilsdatter f. 1813 Frykerud, gifta. Vigselposten saknar födelseort/föräldrar, därför strong och inte verified."
  },
  {
   "id": "c-jozef_orzechowski-katarzyna_zatorska-marianna_orzechowska_1897",
@@ -4528,5 +4528,59 @@
   "child": "jan_petter_andersson_1845",
   "status": "verified",
   "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
+ },
+ {
+  "id": "c-michal_orzechowski-agnieszka_orzechowska_1849-jozef_orzechowski",
+  "type": "child",
+  "parents": [
+   "michal_orzechowski",
+   "agnieszka_orzechowska_1849"
+  ],
+  "child": "jozef_orzechowski",
+  "status": "strong",
+  "basis": "Födelseakt Kielce Katedra 1875 nr 100 (fil 095-102): far Михалъ Оржеховскій, подёнщикъ från Невахлёвъ, 33; mor 'Анешки изъ Хенулювъ' 26; barnet Іозефъ f. dagen före 6/18 febr 1875 i Невахлёвѣ. Moderns namn avviker från vigselakt 1895 (Antonina) – därför strong, ej verified."
+ },
+ {
+  "id": "p-michal_orzechowski-agnieszka_orzechowska_1849",
+  "type": "partner",
+  "a": "michal_orzechowski",
+  "b": "agnieszka_orzechowska_1849",
+  "status": "candidate",
+  "basis": "Födelseakt 1875 nr 100: 'отъ жены его Анешки'."
+ },
+ {
+  "id": "s-karin_elofsd35-maria_elofsd31_toltan",
+  "type": "sibling",
+  "a": "karin_elofsd35",
+  "b": "maria_elofsd31_toltan",
+  "status": "lead",
+  "basis": "Endast samma patronymikon och samma gård (Toltan) i Brunskog A I/2 bild 159; ingen källa anger släktskap."
+ },
+ {
+  "id": "s-karin_elofsd35-kerstin_olofsd41",
+  "type": "sibling",
+  "a": "karin_elofsd35",
+  "b": "kerstin_olofsd41",
+  "status": "lead",
+  "basis": "B/1 bild 28 nr 12 och nr 13 (4 nov 1765): båda pigor 'Olofsdotter' ifrån Hunterud (Kari från Per Gunnarsson, Kerstin från sin far Olof); ej bevisat."
+ },
+ {
+  "id": "c-anders_stridsberg_1783-brita_lisa_jonsdotter_1780-brita_cajsa_andersdotter_1851",
+  "type": "child",
+  "parents": [
+   "anders_stridsberg_1783",
+   "brita_lisa_jonsdotter_1780"
+  ],
+  "child": "brita_cajsa_andersdotter_1851",
+  "status": "verified",
+  "basis": "Segerstad dopbok C/2 (C0038692) bild 49, 1810: ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården”; vigselposten 1839 kallar bruden ”Brita Kajsa Stridsberg”; husförhör A I/18 visar föräldrarna i Sockenstugan 1858 och modern hos dotterns familj 1860."
+ },
+ {
+  "id": "p-anders_stridsberg_1783-brita_lisa_jonsdotter_1780",
+  "type": "partner",
+  "a": "anders_stridsberg_1783",
+  "b": "brita_lisa_jonsdotter_1780",
+  "status": "strong",
+  "basis": "Dop 1810: ”Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr.”; husförhör A I/18 bild 219 (folio 207): ”Anders Stridsberg … H. Britta Lisa Jonsdotter”; bild 143: ”Enka … e. Kyrkovaktaren A. Stridsberg”. Vigselbok för deras vigsel (ca 1805–09) ej läst."
  }
 ]

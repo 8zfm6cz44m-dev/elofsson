@@ -1810,7 +1810,8 @@
    "FOLKRÄKNINGAR 1880 och 1890, Takene: hemmansägare, f. 1826 i Brunskog, med hustrun Kajsa Jansdotter och barnen Johan (1850) och Maria (1863).",
    "Bildtexter: ”Kyrkvärden Olof Elofsson och hans fru Kajsa Jansdotter på trappan till Lycka i Takene” och ”Olof Elofsson och Kajsa Jansdotter utanför deras bostad Lycka i Takene”.",
    "Sannolikt son till Elof Persson (1776) och Maria Andersdotter (1787), som också är registrerade på Lycka – samma patronymikon som syskonen Jonas, Ingegerd och Stina Elofsdotter.",
-   "Namnmönstret Elof Persson → Olof Elofsson → … → Elof Olsson (1914)."
+   "Namnmönstret Elof Persson → Olof Elofsson → … → Elof Olsson (1914).",
+   "TIDNINGSBEKRÄFTELSE (KB Svenska tidningar): ”kyrkovärden Olof Elofsson i Takene, Brunskog” – Karlstadstidningen Veckoupplagan 1894-12-05 s.2 (axeln/verandan-notis) och Örnsköldsviks nyheter 1894-12-08; ”kyrkov. O. Elofsson, Takene” – Karlstadstidningen Veckoupplagan 1890-08-27; vald elektor ”Olof Elofsson i Takene, 167 röster” (Karlstadstidningen 1887-04-13, Arvika tidning 1887-04-16); ”utgifven af Olof Elofsson i Takene den 3 April 1891 å 500 [kr]” (revers, Arvika tidning 1895-06-18, Karlstadstidningen Veckoupplagan 1895-06-19). Bekräftar att titeln kyrkvärd är samtida och att han var en framstående man i Takene (ej bara en bildtext)."
   ],
   "sources": [
    {
@@ -1855,6 +1856,10 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "KB Svenska tidningar, sökning ”Elofsson” Takene (95 träffar 1864–1911): kyrkvärden Olof Elofsson i Takene 1887–1895",
+    "url": "https://tidningar.kb.se/search?from=1850-01-01&to=1911-12-31&q=%22Elofsson%22%20Takene&searchGranularity=part"
    }
   ],
   "search": [
@@ -2419,7 +2424,8 @@
    "Ingen amerikansk Erik/Eric/John Erickson accepteras utan match på svensk identitet, födelsedatum och 1903-emigration.",
    "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895.",
    "USA 1903 (A1): MÖJLIG match = ”Erik J. Erikson” 24 år, gift, från Brunskog, med hustru Anna 23 och spädbarn Eric H., S.S. New York ankomst 3 okt 1903, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Se person erik_j_erikson_1903 (candidate). Ej bevisad – kräver Brunskog dop/vigsel 1901-02 eller flyttlängd 1903.",
-   "USA-SPÅR B1 (2026-10-06): Hembygdsföreningens registerpost 389452 (https://www.hembygd.se/brunskog/plats/221748/person/389452) innehåller bara 'Född: 1878-12-30' och 'Emigrerar till Nordamerika 1903' (skapad/ändrad 2011-04-02) – ingen destination, hustru eller barn. Ingen öppen US-källa (Find a Grave, webbsök) kunde knyta Mt. Jewett-kandidaten till honom."
+   "USA-SPÅR B1 (2026-10-06): Hembygdsföreningens registerpost 389452 (https://www.hembygd.se/brunskog/plats/221748/person/389452) innehåller bara 'Född: 1878-12-30' och 'Emigrerar till Nordamerika 1903' (skapad/ändrad 2011-04-02) – ingen destination, hustru eller barn. Ingen öppen US-källa (Find a Grave, webbsök) kunde knyta Mt. Jewett-kandidaten till honom.",
+   "USA-SPÅR C6 (2026-10-06): MyHeritage SuperSearch (Erik Erickson f. 1878-79, Pennsylvania) stoppades av hCaptcha-'Security check' – ej klickad. Find a Grave-sökning (Erik Erickson, f. 1878±2, McKean County) gav 20 träffar men platsfiltret fungerade inte (träffar i MN, IL, NY, Ohio m.fl.); ingen Mt. Jewett-/McKean-träff med Brunskog-koppling. Ingen kandidat kan knytas till honom."
   ],
   "sources": [
    {
@@ -3822,6 +3828,14 @@
    },
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "KB: Arvika tidning 1900-12-11 s.3 (kommissionären Joh. Olsson, Takene, revisor)",
+    "url": "https://tidningar.kb.se/cr6wzgtm948bnw82/part/1/page/3"
+   },
+   {
+    "label": "KB sökning kommissionär ”Johan Olsson” Takene (71 sidor)",
+    "url": "https://tidningar.kb.se/search?from=1850-01-01&to=1911-12-31&q=kommission%C3%A4r%20%22Johan%20Olsson%22%20Takene&searchGranularity=part"
    }
   ],
   "search": [
@@ -3830,7 +3844,9 @@
   ],
   "notes": [
    "Jan Källne (JOO-historia): ”JO” var bokhållare, först lokalt, sedan i Karlstad och från 1891 kommissionär; gifte sig 1895 med Anna från Gata och bodde på Lycka S (Lycka 41); flyttade 1905 till Arvika. Jans morfar.",
-   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): ”Son Johannes” f. 11/1850 hos Olof Elofsson och Cajsa Jansdotter."
+   "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): ”Son Johannes” f. 11/1850 hos Olof Elofsson och Cajsa Jansdotter.",
+   "TIDNINGAR (KB): ”kommissionär Johan Olsson, Takene” (stavning Olsson) är suppleant/revisor/skolråds-/kyrkorådsledamot i Brunskogs församling 1899-12-13 (Karlstadstidningen Veckoupplagan), 1900-12-11 (Arvika tidning s.3: ”kommissionären Joh. Olsson, Takene”), 1901-05-24/29 och 1905-12-20 (Karlstadstidningen Veckoupplagan: ”skolrådet för år 1906 efter kommissionär Johan Olsson i Takene valdes handl. Anders Persson”). Passar Jan Källnes uppgift: kommissionär sedan 1891, flyttade 1905 till Arvika. Notisen 1899 om brand i en handelsbod i Takene (Arvika nyheter 1899-03-24/05-12) nämner arrendatorn ”Johan Olsson, Takene” – ej kopplad till JO säkert. Namnet Olsson i stället för Olofsson = tidningens patronymikon-variation; identiteten är mycket trolig men inte bevisad.",
+   "Arvika allehanda 1892-11-11 s.2 (lista): ”Johan Olsson, Takene” bland valda/röstande 1892."
   ],
   "timeline": [
    [
@@ -4266,7 +4282,10 @@
    "place": "Brunskog"
   },
   "places": [
-   "Ö. Takene, Brunskog"
+   "Ö. Takene, Brunskog",
+   "Frykerud (1837–)",
+   "Eidsvoll (Hoel), Norge",
+   "Ullensaker, Norge"
   ],
   "summary": "I Elof Perssons familj på Östra Takene ½ skatte (husförhörslängd 1846–1850) – Olof Elofssons syskon.",
   "sources": [
@@ -4301,6 +4320,14 @@
    {
     "label": "Digitalarkivet, Parish register (copy) Eidsvoll 1884-1894, begravde 1893 s. 303 nr 45: Anders Ellessen, f. 1816, død 11-15, begravet 1893-11-24",
     "url": "https://www.digitalarkivet.no/en/view/267/pg00000003122225"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/19 (1836-1840), bild 115 (sida 100), Ö. Takene 50 ½ fl.: Bond Elof Persson 1776 Toltan; Hustru Maria Andersdotter 1787 (överstruken; utflyttningskolumn ”död 1/12 38”); Son Per 1811; Son [överstruket] Anders 1816 Takene, utflyttningskolumn ”Frykerud 37”; Jonas 1821; Dr Britta 1824 (”p. 110. 40”); Son Olof 1826; Dr Ingegerd 1829; Dr Marit 1808 överstruken (”Boda 39”); Dr Stina 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036758_00115"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/2 (1814-1861), bild 74 (1837, sida ca 124): ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00074"
    }
   ],
   "search": [
@@ -4315,7 +4342,10 @@
    "NORGE (Z-A3, strong/möjligen): Anders Elofsen/Ellefsen f. 1816 Brunskog (\"Vermeland\") återfinns i tre norska källor: FT 1875 Eidsvoll, Hoel, skindfeldmager, inderst, g. m. Stina Nilsdatter f. 1813 Frykerud, inga barn i hushållet; FT 1891 Ullensaker (Øvre Sundby, hos Thorsten Nielsen), logerende, e-mand (enkemann) – Stina alltså död 1875–1891; begravning Eidsvoll 24 nov 1893 (död 15 nov 1893), s. 204 nr 45: \"Anders Ellefsen, avdød, f. 1816 Vermeland\" (kopian: 'Anders Ellessen', s. 303 nr 45). Stämmer med trädet: MÖJLIGEN (namn+födelseår+socken+patronymikon Elof- stämmer, men ingen post nämner föräldrarna Elof Persson/Maria Andersdotter; även ingen post visar utflyttning från Brunskog). Ej funnet: FT 1865 (flera sökvägar prövade), 1900/1910 (död 1893), vigsel, barn, Stinas död.",
    "Kollision att utesluta: Anders Elofsen f. 20/12 1828 'Sverige', Brandval (FT 1910, död 27/2 1915) är en annan person.",
    "B3 NORGE-SÖKNING (Digitalarkivet, curl 2026-10): Anders Elofsen/Ellefsen f. 1816 Brunskog finns i endast tre indexerade poster: FT 1875 Eidsvoll (pf01052052001547), FT 1891 Ullensaker (pf01052715005286), begravning Eidsvoll 1893 (pg00000003938234). Ingen vigsel, ingen FT 1865 (sökt på Anders+Elof*/Ellef*/Elef* x Sver*/Verm*/Brunskog, yrke Skind*, Eidsvold bosted; enda skinnberedare födda Sverige i Eidsvoll 1865: Ole Andersen och Mons Andersen, Langsæt), ingen indexerad död för Stina Nilsdatter 1875-91 (avdød-sökning Stina/Kristina f.1812-14 Sverige: 0 relevanta träffar), inga barn funna. Norsk 1865-träff som utesluts: Stina Nielsdatter f.1814 Sverige, hos Johan Jørgensen, Eidsberg Veibye (pf01037994004551) – annan man, ej Anders.",
-   "B3 Brunskog E I/3 (lysning/vigsel) bild 80 (1840, s.129), 82 (1841, s.133), 83 (1842, s.135): ingen lysning för Anders Elofsson/Elofsen × Stina Nilsdotter sedd (genomläst på översiktsnivå, handstil ej fullt säker). Vigseln är därför sannolikt i Norge eller Frykerud, eller i senare årgång (1843-60 ej läst)."
+   "B3 Brunskog E I/3 (lysning/vigsel) bild 80 (1840, s.129), 82 (1841, s.133), 83 (1842, s.135): ingen lysning för Anders Elofsson/Elofsen × Stina Nilsdotter sedd (genomläst på översiktsnivå, handstil ej fullt säker). Vigseln är därför sannolikt i Norge eller Frykerud, eller i senare årgång (1843-60 ej läst).",
+   "UTFLYTTNING BRUNSKOG (C8, verified post): Brunskog A I/19 (1836-1840) bild 115 sida 100, Ö. Takene: raden ”Anders” f. 16 (Takene) är överstruken och i kolumnen Utflyttad till/år står ”Frykerud 37” – Anders Elofsson (son i Elof Perssons hushåll) flyttade 1837 till Frykerud. Samma sida: modern Maria Andersdotter ”död 1/12 38”; Marit 1808 ”Boda 39”; Britta 1824 ”p. 110. 40”.",
+   "VIGSEL FRYKERUD 1837 (C8): Frykerud E I/2 (C0037141) bild 74, rubrik 1837: ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar ”21” och ”24”, lysning ”Nov. 30” (datumkolumnerna ”Nov. 30 . 28”, exakt vigselmånad/-dag osäker, troligen nov/dec 1837). Posten nämner varken föräldrar eller Brunskog, men: Anders f. 1816 lämnade Brunskog för Frykerud 1837, åldern 21 stämmer och hustrun Stina f. 1813 (ålder 24) stämmer med norska folkräkningen 1875 (Anders f. 1816 Brunskog, Stina f. 1813 Frykerud). Identiteten anders_e = Anders Elofsen/Ellefsen i Eidsvoll är därmed STRONG (kedjan Brunskog 1837 → Frykerud-vigsel 1837 → Norge 1875/1891/1893), men saknar post som binder ihop Frykerud och Norge uttryckligen.",
+   "NÄSTA STEG: Frykeruds husförhör (A I/n, ~1838-50) för Anders Elofsson/Stina Nilsdotter med anteckning om utflyttning till Norge; Frykerud flyttlängd B/1 (C0037133, 1833-1860); Eidsvolls kyrkbok 1851-1870 (vigsel ej aktuell, de gifte sig 1837 i Frykerud); Stinas död 1875-91 ej indexerad."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok)."
@@ -4933,6 +4963,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764-1768), bild 148 (sida 136, Åmot nr 10): Jakob Jonsson 1722 med hustru Britta Olofsd. 1728; bland tjänstefolk (överstruket) 'Kari Andersdotter?' f. 1734 (ålder 31 år 1764)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   },
+   {
+    "label": "Riksarkivet, Brunskog in- och utflyttningslängd B/1 (C0036778), bild 31, utflyttade 26 dec 1766 nr 22: Pig: Kari Elofsdotter ifrån sin husbonde Jakob Jonsson [i Åmot?], kommit till Toltan i avsikt att ägta Dr: Per Elofsson ibm, f. 1734",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036778_00031"
+   },
+   {
+    "label": "Riksarkivet, Brunskog in- och utflyttningslängd B/1 (C0036778), bild 28, inflyttade 4 nov 1765 nr 12: Pig: Kari Olofsdott: ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot, f. 1734",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036778_00028"
    }
   ],
   "search": [
@@ -4957,7 +4995,10 @@
    "NYED C/3 (C0038559) bild 67-80 (dec 1733 - feb 1735): ingen post 'Kari/Karin' med fader Elof/Olof och Persjön/Persbol/Persbo/Persby hittad. Byar i 1734 års dop: Carlsborg, Rätorp, Månstorp, Askerö, Näs, Bårs, Hälta, Ed (Edt), Gerslön m.fl. Fadder 'Kari Elofsd. på Ed(t)' förekommer (C0038559_00078, mars 1735): \"[...] Hust: Catharina Eriksd. H: Kari Elofsd. på Edt\" och \"Hust: Maria Jonsd. H: Kari Elofsd. ibid\" - gudmor, ej bevis för identitet.",
    "INFLYTTNING BRUNSKOG 1765 (B/1 bild 28, 4 nov, nr 12), läst i 1:1-zoom: \"Pig: Kari Olofsdott: ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot\", födelseår \"1734\". Fadernamnet skrivs med O (Olofsdott), samma stavning som nr 13 (\"Pig: Bjärsti Olofsdott\") – skrivaren skriver Olof där vigselboken har Elof. Socken står inte före 'ifrån' utan bara gården (Per Gunnarsson i Hunterud). Matchar vigselns uppgifter (tjänande i Åmot, 1767) och f. 1734/35. Status: strong (identifiering via plats Åmot + födelseår 1734 + förnamn; fadersnamnet Olof/Elof ej bekräftat).",
    "HUSFÖRHÖR A I/2 Åmot (bild 148, sida 136, nr 10): Jakob Jonsson (f. 1722) hustru Britta Olofsd. (1728), barn Olof 1755, Per 1758, Gjärsti 1761, Jon 1764, Magnus 1767. Överstrukna tjänstefolk bl.a. 'Kari Andersdotter?' f. 1734 (31 år 1764, avfört 1765) – annan Kari, eller felläsning; Kari Olofsd. (inflyttad nov 1765) står INTE upptagen på Åmot-sidorna 148–150 (A I/2). Åmot nr 11 (bild 149, sida 137) Jon Nilsson 1713; nr 12 (bild 150) Anders Jonsson 1729; nr 13 (bild 151) Hans? Torbjörnsson.",
-   "HUSFÖRHÖR A I/2 Toltan (bild 159, sida 147): 'Per Elofsson 1728, Kari Elofsdotter 1735 (ålder 33, tillagd 1767), dotter Marit 1768' – samt 'Pig. Maria Elofsd. 1731 med dotter Maria 1765' på samma Toltan-sida (möjlig syster till Kari – ej styrkt)."
+   "HUSFÖRHÖR A I/2 Toltan (bild 159, sida 147): 'Per Elofsson 1728, Kari Elofsdotter 1735 (ålder 33, tillagd 1767), dotter Marit 1768' – samt 'Pig. Maria Elofsd. 1731 med dotter Maria 1765' på samma Toltan-sida (möjlig syster till Kari – ej styrkt).",
+   "UTFLYTTNING 26 dec 1766 (B/1 bild 31, nr 22, avläst i zoom): 'Pig: Kari Elofsdotter ifrån sin [hus]bonde Jakob Jonsson. kommit, till Toltan i [avsikt] at ägta Dr: Per Elofsson ibm' – född 1734 (kolumnen). Detta länkar inflyttningen 1765 (nr 12, Jakob Jonsson i Åmot) till bröllopet 1767 med Per Elofsson på Toltan: samma person, nu stark identifiering. Förnamnet skrivs Elofsdotter här, Olofsdotter 1765.",
+   "FÖRKLARING Åmot/Hunterud: Kari kom nov 1765 från Per Gunnarsson i Hunterud (annan socken, antagligen Nyed/Ny; socken ej angiven) till Åmot; vigseln 1767 säger 'ifrån Per[sjön?] i Ny[eds sochn]'.",
+   "ÅLDER: födelseår 1734 enligt B/1 (1765 och 1766); husförhör A I/2 bild 159 anger 1735. Dödsålder 88 (14/1 1823) ger f. 15/1 1734–14/1 1735."
   ],
   "died": {
    "date": "1823-01-14",
@@ -5905,7 +5946,9 @@
    "MANTAL (B4) SAMMANFATTNING: Ingen ”Elof/Olof Nilsson” finns i Toltan-grupperna (Toltan, Wester Toltan, Östra Toltan) i Brunskogs mantalslängder 1697, 1698, 1701–1704, 1707, 1709, 1710 och 1711 (1:1-läsning av Toltan-raderna). Elof (f. 1687) är alltså sannolikt inte mantalsskriven i Toltan före 1712. Första möjliga mantalsår efter vigseln 1717 är 1718 (1716–17 saknas i serien; 1708 saknas). Övriga år i B4:s uppdrag lästes endast Toltan-raderna 1:1, övriga byar översiktligt.",
    "MANTAL (B4): HUSHÅLLET I TOLTAN FÖRE ELOF (Toltan-gruppen, marginalrubrik ’Tolten’, ordning och namn som lästa): 1697 Nils Larsson, Isak Larsson, Isak Biörsson, Per Ersson, kronotjänare Per Ersson | 1698–1704 ”Nils” (efternamn saknas), Isak Larsson, Isak Björsson, ”Nils Jonsson”/Lars Nilsson/Nils Larsson, Mattis Ersson i Tolten | 1707 Lars Ersson, Per Ersson, Isak Ersson(el. Larsson), Lars Nilsson, Isak Björsson, Nils Larsson, Mattis Ersson, Anders Jonsson | 1709–1710 Lars Ersson, Lars Nilsson, Isak Nilsson(?), Isak Börjesson, Nils Larsson, Mattis Ersson | 1711 Lars Ersson, Lars Nilsson, Nils Ingemarsson, Nils Larsson, Mattis Ersson, Mattis Larsson. Hypotes (lead): Elof (f. 1687) och brodern Per Nilsson (”Elof och Pehr Nilssona i Toltan” 1729) är söner till Nils Larsson (Toltan, mantalsskriven 1696–1711+); de bor som drängar/inhysta hos fadern till 1717 – ingen primärkälla.",
    "MANTAL (B4): Åsen (’Åsmotta/Åsenäs’) har 1703–1713 en stabil grupp ”Olof Andersson, Per Nilsson, Nils Nilsson, Erik Olofsson/Jonsson” – husförhören 1760 anger Elof Nilsson på ’Toltan Åsen’; en framtida koppling Elof ↔ Åsen-gården (Per Nilsson/Nils Nilsson = bröder/farbröder?) bör testas (lead).",
-   "MANTAL (B4): 1"
+   "MANTAL (B4): 1",
+   "MANTAL 1712 (A0003193_00446, höger sida, ”Toltan”-gruppen, läsning osäker): Lars Ersson; Nils Nilsson(?); enkeposten ”Gertr[ud] B… (Enkia?)” ; Nils Larsson; Mattis Ersson: Toltan; Mattis Larsson; Per Ersson. Ingen Elof, ingen Isak och ingen Påhl/Per Nilsson läst – Elof (f. 1687, 25 år) står inte som egen bonde 1712. Sidan före (A0003193_00445) innehåller Takene/Åsen-grupper (Öst. Takene m.fl.), ej Toltan.",
+   "MANTAL 1718 (A0003197_00488–00490): Toltan-gruppen ej säkert identifierad; läst ”ost. Tortan” på 489 vä (Jon Nilsson?, Olof Olofsson, Olof Olofsson, Jon Olofsson, Erik Larsson – troligen Östra Takene, ej Toltan) och en ”ost: Tortan”-grupp på 488 vä (Olof Månsson, Olof Hansson, Clas/Carl Larsson …) – ingen Elof Nilsson läst. Tolkning osäker; 1715 och 1719 ej läst."
   ],
   "timeline": [
    [
@@ -5991,7 +6034,10 @@
    "SÖKT I C I/1 bild 26–65 (1691–1704): ingen födelse av Marit Isaksdotter hittades; ingen Isak som far i Toltan/Åsen/Takene. Isak(!) finns inte som fader i bild 26–65.",
    "Bodde i Toltan före giftermålet: fadder 15 sept 1717 hos Påhl Nilsson & Gertrud Bondesd (”h. Marit Isaacsd: i Tolta”, bild 109), samt 1720 (”Marit Isaacsd: ibid”, bild 126 nr 5), 22 nov 1721 (bild 136 nr 42) och 23 jan 1723 (bild 143, hos Nils Isaack(?)/Marit). Eventuellt syskon: Nils Isaksson i Toltan (lead).",
    "SÖKNING C I/1 bild 34–38 (1693): ingen flicka Marit med fader Isak/Isaac i Toltan funnen. Marit-barn 1693 finns i Smådal (far Nils Andersson, bild 38) och Löfnäs (far Anders Jonsson, bild 38), inte Toltan. Tolkningen ”f. 1693” (MyHeritage) är därmed inte stödd; hon kan vara född före/efter, eller fadern i annan form. Isaac L. i Zolta/Zoltan är fadder 1689 (bild 15) och 1691 (bild 22) – möjlig far (osäkert).",
-   "MANTAL (B4): Fyra möjliga fäder med förnamnet Isak i Toltan före 1717: Isak Larsson (1696–1707), Isak Björsson/Börjesson (1696–1710), Isak Ersson(?)(1707) och Isak Nilsson(?)(1709–1710, sannolikt för ung/syskon till Elof och därmed utesluten). Ingen kan väljas utan dop/husförhör för Marit (f. före 1700). Se flagga ’Fader till Marit Isaksdotter’."
+   "MANTAL (B4): Fyra möjliga fäder med förnamnet Isak i Toltan före 1717: Isak Larsson (1696–1707), Isak Björsson/Börjesson (1696–1710), Isak Ersson(?)(1707) och Isak Nilsson(?)(1709–1710, sannolikt för ung/syskon till Elof och därmed utesluten). Ingen kan väljas utan dop/husförhör för Marit (f. före 1700). Se flagga ’Fader till Marit Isaksdotter’.",
+   "DOPSÖKNING C3 (C I/1 C0036782, bild 28–50, läst 2026-10-06): Marit Isaksdotters dop INTE funnet. Genomläst noggrant sida för sida: 1692 (bild 28–33, tydlig numrerad hand), 1693 (bild 33–39), 1694 (bild 39–42), 1695 (bild 42–45), 1696 (bild 45–46), 1697 (bild 46–48), 1698 (bild 48–50) och 1699 jan–mars (bild 50–51). Ingen post med fader Isak/Isaac och dotter Marit; ingen Isak bland faddrarna i Toltan-posterna.",
+   "DOPBOKENS TÄTHET: 1692 ca 22 poster, 1693 ca 25, 1694 ca 15, 1695 ca 25, 1696 ca 6 (?), 1697 ca 15, 1698 ca 20 – dvs. boken är glest förd och många barn saknas helt. Slutsats: Maritas dop är sannolikt aldrig införd (eller ligger i annan socken). Hennes födelseår kan därför bara anges som ca 1690–1699 (g. 1717).",
+   "TOLTAN-POSTER 1692–1698 (som jämförelse; ingen har fader Isak): 1692 nr 15 Marit Larsdotter, fader Lars Jönsson (bild 30); 1693 nr 2, nr 5 (Dnca 3 Epiph.), Misericordias (barn i V. Toltan, Brynthe), Rogate (barn i Ö. Toltan, Ingel), 1 Advent (barn i Öst. Toltan, Jon); 1695 Reminiscere Olof Nilsson, barn i Ö. Toltan, Karin; 1696 6 febr Anund, barn i Ö. Toltan; 1697 Dnca 2 p. Påsk Olof Nilsson, barn i Ö. Toltan. Barnnamn och faderns namn på 1693–97 är delvis svårlästa (kortfattad hand utan modersnamn) – listan är orienterande, ej fullständig."
   ]
  },
  {
@@ -8684,7 +8730,8 @@
   ],
   "summary": "Född 1835 i Erik Christopherssons och Britta Olsdotters hushåll, uppkallad efter farfadern Christopher; yngst i syskonskaran.",
   "notes": [
-   "HUSFÖRHÖRSLÄNGD A I/17 bild 117: tillagd rad ”Son Christopher 29/? 1835”, ort ””” (samma som ovan)."
+   "HUSFÖRHÖRSLÄNGD A I/17 bild 117: tillagd rad ”Son Christopher 29/? 1835”, ort ””” (samma som ovan).",
+   "Möjlig tidningsträff (candidate, endast namn+ort): ”Kristoffer Eriksson, Takene” – elektor 1887 (Karlstadstidningen 1887-04-13: ”Kristoffer Eriksson i Takene 167”) och med i Brunskogs missionsförenings ledning (Ansgarii-posten 1895-09-25: ”Kristoffer Eriksson, Takene, fr. 83”); Karlstadstidningen Veckoupplagan 1890-08-27: ”Kristoffer Eriksson, Takene”. Identitet med Christopher Eriksson f. 1835 ej styrkt."
   ],
   "sources": [
    {
@@ -12410,7 +12457,8 @@
    "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
    "YRKE: 'сапожникъ' (skomakare) 1897; 'рабочій' (arbetare) 1903. Bosatt Szydłówek. Vittnen 1897: Józef Wojciechowski 34 och Jan Zatorski 28. Barn: Marianna 1897, Stefan 1901, Bronisława 1903.",
    "VIGSEL: ej i Kielce św. Wojciech 1895–1900 (alfabetiska vigselindex SkM 1895–1900 genomlästa: ingen Orzechowski). Konsistent med Genetekas index 'Kielce Katedra 1895 nr 169' (annan församling, ej id239).",
-   "VIGSEL 1895 – VERIFIERAD (ersätter 'KANDIDAT'-noten): Kielce Katedra akt 169, 15/27 nov 1895 (kt1 id57 sy1895b fil 168-169): «Состоялось ... Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ ..., дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ». Svensk: Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina f. Pęcł…?; Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i Szydłówek (S:t Wojciech), boende i Kielce, dotter till avlidne Józef och Antonina f. Kc…ów?. Brudgummens 'farbror' (дядя) gav tillstånd. Hela akten: «Состоялось въ городѣ Кельцахъ пятнадцатаго двадцать седьмаго Ноября тысяча восемьсотъ девяносто пятаго года въ одиннадцать часовъ дня. Объявилъ, что въ присутствіи свидѣтелей: Якуба Кадзѣль пятидесяти четырехъ лѣтъ отъ роду земледѣльца изъ Шидлувка прихода Св. Войцѣха и Станислава Ленцалъ тридцати восьми лѣтъ, дядя дѣтища? земледѣльца изъ Невахлёва, заключенъ сего числа религіозный брачный союзъ между: Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ здѣшняго прихода, дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ. Браку сему предшествовали три оглашенія опубликованныя въ здѣшнемъ Кафедральномъ и Приходскомъ Костелѣ въ дни: двадцать девятаго Октября десятаго Ноября, пятаго шестнадцатаго? и двѣнадцатаго двадцать четвертаго Ноября сего года. Позволеніе на вступленіе въ бракъ жениху дано и заявлено словесно дядею его. Новобрачные заявили, что брачный договоръ между ними заключенъ не былъ. Религіозный обрядъ бракосочетанія совершенъ Ксендзомъ Владиславомъ Невядомскимъ? исполняющимъ должность Настоятеля здѣшняго прихода. Актъ сей присутствующимъ прочитанъ, а по неграмотности Нами только подписанъ.» Översättning: Skedde i staden Kielce 15/27 november 1895 kl. 11 på dagen. Kungjorde att i närvaro av vittnena Jakub Kądzioł? (54 år, jordbrukare från Szydłówek, S:t Wojciechs socken) och Stanisław Jęczał?/Pęcał? (38 år, jordbrukare från Niewachlów) har denna dag ett religiöst äktenskap ingåtts mellan Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina född Pęcł(ów)? – och Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i byn Szydłówek i S:t Wojciechs socken, boende i Kielce i denna socken, dotter till avlidne Józef och Antonina född Kc/Kozł(ów)?. Tre lysningar hade skett i katedral- och församlingskyrkan 29 okt/10 nov, 5/17 nov och 12/24 nov. Tillstånd till äktenskapet för brudgummen gavs muntligen av hans farbror/morbror [sic: 'дядею его']. Brudparet förklarade att inget äktenskapsavtal slutits. Vigseln förrättades av ksiądz (Władysław ?) som tf. kyrkoherde. Akten uppläst; vittnena analfabeter, endast prästen undertecknade."
+   "VIGSEL 1895 – VERIFIERAD (ersätter 'KANDIDAT'-noten): Kielce Katedra akt 169, 15/27 nov 1895 (kt1 id57 sy1895b fil 168-169): «Состоялось ... Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ ..., дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ». Svensk: Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina f. Pęcł…?; Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i Szydłówek (S:t Wojciech), boende i Kielce, dotter till avlidne Józef och Antonina f. Kc…ów?. Brudgummens 'farbror' (дядя) gav tillstånd. Hela akten: «Состоялось въ городѣ Кельцахъ пятнадцатаго двадцать седьмаго Ноября тысяча восемьсотъ девяносто пятаго года въ одиннадцать часовъ дня. Объявилъ, что въ присутствіи свидѣтелей: Якуба Кадзѣль пятидесяти четырехъ лѣтъ отъ роду земледѣльца изъ Шидлувка прихода Св. Войцѣха и Станислава Ленцалъ тридцати восьми лѣтъ, дядя дѣтища? земледѣльца изъ Невахлёва, заключенъ сего числа религіозный брачный союзъ между: Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ здѣшняго прихода, дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ. Браку сему предшествовали три оглашенія опубликованныя въ здѣшнемъ Кафедральномъ и Приходскомъ Костелѣ въ дни: двадцать девятаго Октября десятаго Ноября, пятаго шестнадцатаго? и двѣнадцатаго двадцать четвертаго Ноября сего года. Позволеніе на вступленіе въ бракъ жениху дано и заявлено словесно дядею его. Новобрачные заявили, что брачный договоръ между ними заключенъ не былъ. Религіозный обрядъ бракосочетанія совершенъ Ксендзомъ Владиславомъ Невядомскимъ? исполняющимъ должность Настоятеля здѣшняго прихода. Актъ сей присутствующимъ прочитанъ, а по неграмотности Нами только подписанъ.» Översättning: Skedde i staden Kielce 15/27 november 1895 kl. 11 på dagen. Kungjorde att i närvaro av vittnena Jakub Kądzioł? (54 år, jordbrukare från Szydłówek, S:t Wojciechs socken) och Stanisław Jęczał?/Pęcał? (38 år, jordbrukare från Niewachlów) har denna dag ett religiöst äktenskap ingåtts mellan Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina född Pęcł(ów)? – och Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i byn Szydłówek i S:t Wojciechs socken, boende i Kielce i denna socken, dotter till avlidne Józef och Antonina född Kc/Kozł(ów)?. Tre lysningar hade skett i katedral- och församlingskyrkan 29 okt/10 nov, 5/17 nov och 12/24 nov. Tillstånd till äktenskapet för brudgummen gavs muntligen av hans farbror/morbror [sic: 'дядею его']. Brudparet förklarade att inget äktenskapsavtal slutits. Vigseln förrättades av ksiądz (Władysław ?) som tf. kyrkoherde. Akten uppläst; vittnena analfabeter, endast prästen undertecknade.",
+   "FÖDELSEAKT (KANDIDAT/STRONG) Kielce Katedra 1875 nr 100 – FÖDELSEAKT Kielce Katedra 1875 nr 100 (ryska, marginal 'Невахлов'): «Состоялось въ городѣ Кѣльцахъ дня шестаго [восемнадцатаго] Февраля тысяча восемьсотъ семьдесятъ пятаго года въ пять часовъ по полудни. Явился подёнщикъ изъ Невахлёва Михалъ Оржеховскій (Orzechowski) тридцати трехъ лѣтъ отъ роду, въ присутствіи земледѣльцевъ изъ Невахлёва Викентія Стемпніовскаго тридцати трехъ и Яна Детки пятидесяти лѣтъ отъ роду, и предъявилъ Намъ младенца мужескаго пола, рожденнаго въ Невахлёвѣ вчера въ пять часовъ по полудни, отъ жены его Анешки [Агнешки?] изъ Хенулювъ [Ценулювъ?] двадцати шести лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Іозефъ, а воспріемниками были: Викентій Стемпніовскій и Варвара Детка.» SVENSK: Skedde i Kielce 6/18 febr 1875 kl. 17. Inför oss trädde daglönaren från Niewachlów Michał Orzechowski, 33 år, i närvaro av jordbrukarna från Niewachlów Wincenty Stępniewski, 33, och Jan Dętka, 50, och förevisade ett gossebarn fött i Niewachlów gårdagen kl. 17 av hans hustru Agnieszka [Anna?] f. 'Chenulów/Cenulów'? (osäkert), 26 år. Barnet fick vid dopet samma dag namnet Józef; faddrar Wincenty Stępniewski och Barbara Dętka. [Handstil läst från skan; formen 'Анешки' och släktnamnet osäkra. Akten anger INTE explicit 'son till', men fadern Michał Orzechowski från Niewachlów + namnet Józef + födelse feb 1875 (20 år i nov 1895) stämmer.]"
   ],
   "sources": [
    {
@@ -12440,15 +12488,23 @@
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra födelseindex 1875 (sy1875a, SkU-4.jpg), rad 440: 'Орхеховскій Іосифъ' akt 100",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=SkU-4.jpg"
    }
   ],
   "search": [
    "Józef Orzechowski"
   ],
   "born": {
-   "date": "ca 1875",
+   "date": "1875-02-17",
    "place": "Niewachlów",
-   "note": "20 år 15/27.11.1895 (akt 169), 22 år 1896/97, 28 år 1903; född och boende i Niewachlów"
+   "note": "Gregorianskt datum: född 'вчера' före anmälan 6/18 febr 1875 = 5 febr jul. = 17 febr 1875; döpt 18 febr 1875 (Kielce Katedra). Kandidat – akten säger ej 'son'; mödrarnas namn avviker (Agnieszka 1875 vs Antonina 1895)."
   }
  },
  {
@@ -15062,7 +15118,10 @@
   "summary": "Inhyses/dagkarl, f. 1811 i Ed, gift med Brita Cajsa Andersdotter; far till Maja Cathrina (Maria Katrina) f. 27/7 1851 och fyra äldre syskon. Bodde V. Kärra 1850–55, därefter bl.a. Sockenstugan 1858–60.",
   "notes": [
    "DOP Segerstad C/2 bild 133: ”Maja Cathrina – Inhyses Dagk. Anders Persson o Brita Cajsa Andersdotter”. Födelsedagen (24 eller 27 juli?) är svårläst; husförhör A I/35 anger 24/7 1851 Segerstad.",
-   "HUSFÖRHÖR A I/16 bild 129 (folio 114 V. Kärra): ”Inh. Anders Persson 11 Ed” med hustru Brita Kajsa Andersd. och barnen Karolina Christina, Anders Gustaf, Anna Lisa, Jan Petter, Maja Katrina. A I/18 bild 219: ”Inh. Anders Persson … 11 Ed”, utflyttad ”130 60” (Segerstad B/1 1860 bild 93 genomläst – hushållet står ej som utflyttat ur socknen 1860)."
+   "HUSFÖRHÖR A I/16 bild 129 (folio 114 V. Kärra): ”Inh. Anders Persson 11 Ed” med hustru Brita Kajsa Andersd. och barnen Karolina Christina, Anders Gustaf, Anna Lisa, Jan Petter, Maja Katrina. A I/18 bild 219: ”Inh. Anders Persson … 11 Ed”, utflyttad ”130 60” (Segerstad B/1 1860 bild 93 genomläst – hushållet står ej som utflyttat ur socknen 1860).",
+   "VIGSEL Segerstad C/2 bild 185 (s. 335) 1839: ”Dr. Anders Persson fr. Hanvik” (Hanevik/Hanvik by i Segerstad) gift med ”Brita Kajsa Stridsberg fr. N. Årås” – Vigde 10/10 1839.",
+   "HUSFÖRHÖR A I/14 (1837–42) bild 162 (folio 150, Hannevik): drängpost ”Dr. … 11 Ed; inflyttad p.118 år 38; utflyttad p.92 år 39”; anteckning om äktenskap med Pig. Brita Kajsa Stridsberg 39. Alltså inflyttad till Segerstad före 1838 från Ed; folio 118 = Lilla Årsås, folio 92 = Nedra Årsås enl. registret.",
+   "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall) 1860: ”Inh. Anders Persson … 11 Ed” med Britta Kajsa och Maja Katrina, inflyttade från fol. 207 år 60."
   ],
   "sources": [
    {
@@ -15084,6 +15143,18 @@
    {
     "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (1858–61, C0038682), bild 219 (folio 207, Sockenstugan): ”Inh. Anders Persson [—] 11 Ed; H. Brita Cajsa Andersd. 17/6 10 här; Barn: Anna Lisa 3/4 43 d°; Maja Kathrina 27/7 51 d°”; utflyttad ”130 60” (Anders: ”Förnyad?”, Brita Cajsa: ”Utflyttad fri”, Maja Kathrina: ”Understödstagen”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00219"
+   },
+   {
+    "label": "Riksarkivet, Segerstad husförhörslängd A I/14 (C0038678), bild 162 (folio 150, Hannevik): ”Dr. … 11 Ed; infl. p.118 38; utfl. p.92 39 … äkt. med Pig. Brita Kajsa Stridsberg 39”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038678_00162"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 185: vigsel 10/10 1839 med Brita Kajsa Stridsberg",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00185"
+   },
+   {
+    "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (C0038682), bild 143 (folio 130, Hanewall): ”Inh. Anders Persson … 11 Ed; Britta Kajsa Andersdotter 10 Segerstad; D. Maja Katrina 27/7 51 Segerstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00143"
    }
   ],
   "search": [
@@ -15091,8 +15162,8 @@
   ],
   "born": {
    "date": "1811",
-   "place": "Ed",
-   "note": "A I/16–18: ”11 Ed” (endast år, ort ”Ed” – Ed i Värmland/Dalsland oklart)"
+   "place": "Ed (landskap/län ej fastställt)",
+   "note": "Husförhör: ”11 Ed”; ingen födelsedag angiven i Segerstads husförhör A I/14–A I/18."
   }
  },
  {
@@ -15108,7 +15179,10 @@
   "summary": "Hustru till inhyses Anders Persson, f. 17/6 1810 i Segerstad (”här”); mor till Maja Cathrina (Maria Katrina) 1851 och 4 syskon.",
   "notes": [
    "DOP Segerstad C/2 bild 133: ”Anders Persson o Brita Cajsa Andersdotter”.",
-   "HUSFÖRHÖR A I/16 bild 129: ”H. Brita Kajsa Andersd. 17/6 10 här”, inflyttad ”p 188 50”; A I/18 bild 219: ”H. Brita Cajsa Andersd. 17/6 10 här”, ”Utflyttad fri” 1860."
+   "HUSFÖRHÖR A I/16 bild 129: ”H. Brita Kajsa Andersd. 17/6 10 här”, inflyttad ”p 188 50”; A I/18 bild 219: ”H. Brita Cajsa Andersd. 17/6 10 här”, ”Utflyttad fri” 1860.",
+   "DOP Segerstad C/2 bild 49 (s. 79), 1810: ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården”; fadder ”Bn. Olof Nilsson och dess hust. Britta Christiansdr. i Mällgården”. Födelseort ”här” (Segerstad) i husförhör stämmer. Flicknamn: Stridsberg (efternamn efter fadern; dottern i husförhör Andersdotter).",
+   "VIGSEL Segerstad C/2 bild 185 (s. 335): 1839, ”Dr. Anders Persson fr. Hanvik och Pig. Brita Kajsa Stridsberg fr. N. Årås(?) – Vigde 10/10 39 af A.L.”; kolumnen före: ”18/8 39” (lysning). Första barnet Karolina Christina f. 6/11 1839.",
+   "HUSFÖRHÖR A I/14 (C0038678) bild 162 (folio 150, Hannevik): struken post ”Dr. [Anders Persson] 11 Ed, inflyttad p.118 38, utflyttad p.92 39” med anteckning ”äkt. med Pig. Brita Kajsa Stridsberg 39 16/8”."
   ],
   "sources": [
    {
@@ -15126,6 +15200,14 @@
    {
     "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (1858–61, C0038682), bild 219 (folio 207, Sockenstugan): ”Inh. Anders Persson [—] 11 Ed; H. Brita Cajsa Andersd. 17/6 10 här; Barn: Anna Lisa 3/4 43 d°; Maja Kathrina 27/7 51 d°”; utflyttad ”130 60” (Anders: ”Förnyad?”, Brita Cajsa: ”Utflyttad fri”, Maja Kathrina: ”Understödstagen”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00219"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 49: 1810 ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00049"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 185 (s. 335): vigsel 1839 ”Dr. Anders Persson fr. Hanvik och Pig. Brita Kajsa Stridsberg … Vigde 10/10 39”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00185"
    }
   ],
   "search": [
@@ -15133,7 +15215,8 @@
   ],
   "born": {
    "date": "1810-06-17",
-   "place": "Segerstad"
+   "place": "Mällgården, Segerstad",
+   "note": "Dopbok: född 17 juni, döpt 18 juni 1810"
   }
  },
  {
@@ -16022,7 +16105,7 @@
   "born": {
    "date": "1813",
    "place": "Frykerud, Värmland",
-   "note": "enligt norsk folkräkning 1875"
+   "note": "enligt FT 1875; dop ej säkrad (se flagga: två kandidater i Frykerud C/6 1813)"
   },
   "died": {
    "date": "",
@@ -16034,12 +16117,17 @@
   ],
   "summary": "Hustru till Anders Elofsen (skinnberedare, Hoel, Eidsvoll) 1875; född Frykerud. Ingen föräldrauppgift funnen, ej knuten till trädet.",
   "notes": [
-   "FOLKRÄKNING 1875 Eidsvoll, Hoel, hush. 02: \"014 Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud S, Sverige\". Inga barn i hushållet. Dödspost 1876–1891 ej funnen i Digitalarkivets sök (namn kan vara Kristina/Christine)."
+   "FOLKRÄKNING 1875 Eidsvoll, Hoel, hush. 02: \"014 Stina Nilsdatter, hans Kone, G, f. 1813 Frykerud S, Sverige\". Inga barn i hushållet. Dödspost 1876–1891 ej funnen i Digitalarkivets sök (namn kan vara Kristina/Christine).",
+   "VIGSEL (C8): gift 1837 i Frykerud med drängen Anders Elofsson (se anders_e); ålder 24 år vid vigseln stämmer med f. 1813. DOP-KANDIDATER (lead): Frykerud C/6 b.53 (5/6 apr 1813, Torestad, Nils Jonson + Britta Ersdotter) och b.56 (26/27 okt 1813, Lene, Nils Jonsson + Caisa Christoffersdotter). Ej avgjort."
   ],
   "sources": [
    {
     "label": "Digitalarkivet, Folketelling 1875 Eidsvoll (0237P), Hoel, hush. 02: 014 Stina Nilsdatter, hans kone, g, f. 1813 Frykerud S, Sverige",
     "url": "https://www.digitalarkivet.no/en/census/person/pf01052052001548"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/2 (1814-1861), bild 74 (1837): ”Lene. Drängen Anders Elofsson / ibm Pig. Stina Nilsd[otter] / vigde af Rolander”, åldrar 21 och 24",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00074"
    }
   ],
   "search": [
@@ -16621,22 +16709,31 @@
   "status": "verified",
   "sex": "m",
   "living": false,
-  "born": {},
+  "born": {
+   "date": "ca 1842",
+   "place": "Niewachlów",
+   "note": "33 år i födelseakt 1875 nr 100"
+  },
   "died": {
-   "date": "före 1895",
-   "note": "'покойныхъ' i vigselakten 1895"
+   "date": "1875–1895",
+   "note": "avliden före 15/27.11.1895 (vigselakt); levde feb 1875"
   },
   "places": [
    "Niewachlów"
   ],
   "summary": "Far till Józef Orzechowski (gift 1895 med Katarzyna Zatorska); avliden före 1895. Hustru Antonina (f. Pęcł…?).",
   "notes": [
-   "VIGSEL Kielce Katedra 1895 akt 169 (ryska): «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» = son till avlidne Michał och Antonina född 'Pęcł…ów'? (flicknamnet svårläst: Пенцлювъ)."
+   "VIGSEL Kielce Katedra 1895 akt 169 (ryska): «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» = son till avlidne Michał och Antonina född 'Pęcł…ów'? (flicknamnet svårläst: Пенцлювъ).",
+   "FÖDELSEAKT 1875 nr 100: Michał Orzechowski, daglönare ('подёнщикъ') från Niewachlów, 33 år, anmäler son Józef f. 17 febr 1875; vittnen Wincenty Stępniewski 33 och Jan Dętka 50, båda jordbrukare från Niewachlów (Dętka 'Детка' kan vara släkt med faddern Barbara Dętka). Katedrans födelseindex 1871–1877 (SkU) visar ingen annan Orzechowski; hans vigsel finns ej i Katedra 1870–1874 (SkM genomlästa)."
   ],
   "sources": [
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
    }
   ],
   "search": [
@@ -16658,12 +16755,17 @@
   ],
   "summary": "Mor till Józef Orzechowski; avliden före 1895. Flicknamn läst 'изъ Пенцлювъ' (osäkert).",
   "notes": [
-   "VIGSEL 1895 akt 169: «Михаила и Антонины изъ Пенцлювъ» – flicknamnet osäkert (Pęcławów/Pęcał/Pęclów?). Vittnet Stanisław 'Ленцалъ' 38 år från Niewachlów kan vara släkting (brudgummens 'дядя' gav samtycke)."
+   "VIGSEL 1895 akt 169: «Михаила и Антонины изъ Пенцлювъ» – flicknamnet osäkert (Pęcławów/Pęcał/Pęclów?). Vittnet Stanisław 'Ленцалъ' 38 år från Niewachlów kan vara släkting (brudgummens 'дядя' gav samtycke).",
+   "KONFLIKT: födelseakt 1875 nr 100 anger mor 'Анешка' (Agnieszka?) f. 'Хенулювъ' 26 år, vigselakt 1895 'Антонины изъ Пенцлювъ'. Se flagga."
   ],
   "sources": [
    {
     "label": "Skanoteka/metryki.genealodzy.pl, Kielce Katedra (Wniebowzięcia NMP) akta stanu cywilnego (zespół 0086d, id57), vigslar 1895 (sy1895b, M-1895), fil 168-169.jpg: akt 169, Orzechowski × Zatorska",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1895b&kt=1&plik=168-169.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
    }
   ],
   "search": [
@@ -16970,6 +17072,283 @@
   ],
   "search": [
    "Jan Petter Andersson"
+  ]
+ },
+ {
+  "id": "agnieszka_orzechowska_1849",
+  "name": "Agnieszka (f. 'Chenulów/Pęcułów'?) Orzechowska",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1849",
+   "place": "Okänd",
+   "note": "26 år i födelseakt 1875 nr 100"
+  },
+  "places": [
+   "Niewachlów"
+  ],
+  "summary": "Hustru till Michał Orzechowski i födelseakten 1875 (Józef f. feb 1875 i Niewachlów). Förnamnet läst 'Анешка/Агнешка', konflikt med 'Antonina' i Józefs vigselakt 1895; kan vara samma kvinna (annan läsning) eller en andra hustru.",
+  "notes": [
+   "FÖDELSEAKT 1875 nr 100: «отъ жены его Анешки изъ Хенулювъ двадцати шести лѣтъ отъ роду» = av hans hustru Agnieszka [?] f. 'Chenulów'? 26 år. Släktnamnet liknar 'изъ Пенцлювъ' i vigselakt 1895 (akt 169) – båda tolkningarna osäkra."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d), födelseakter 1875 (sy1875a, U-1875), fil 095-102.jpg (spridning 26–27): akt 100, Niewachlów, Michał Orzechowski / Józef",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1875a&kt=1&plik=095-102.jpg"
+   }
+  ],
+  "search": [
+   "Agnieszka (f. 'Chenulów/Pęcułów'?) Orzechowska"
+  ]
+ },
+ {
+  "id": "c3_marit_larsd92_toltan",
+  "name": "Marit Larsdotter (1692, Toltan)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1692",
+   "place": "Toltan (Holta), Brunskog",
+   "note": "döpt 13 [jan/feb] 1692, nr 15 i 1692"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Dop 1692 nr 15: Marit, dotter till Lars Jönsson och Ingeri Ersdotter i Toltan. Ej Marit Isaksdotter (fader Lars, ej Isak) – registreras bara för att utesluta henne.",
+  "notes": [
+   "DOP 1692 nr 15 (C I/1 bild 30, höger sida s. 39): ”d: 9 Dito födder och döpt d: 13 Marit Larsd: i Holta. Fadren Lars Jönsson, modren H. Ingeri Ersd: i Holta” (modrens namn läst Ingeri Ersdotter, osäkert). Manfaddrar bl.a. Jacob Mattsson i Tobyn, Lars Jönsson i Brunskog; qvinfaddrar H. Ingel Ersdotter Finbäck, H. Gertrud Olsdotter i Holtan, Ingeri Olsdotter Holta, Karin Jacobsdotter Finbäck. Ingen Isak i listan."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 30 (s. 39), 1692 nr 15: Marit Larsd. i Holta, fader Lars Jönsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00030"
+   }
+  ],
+  "search": [
+   "Marit Larsdotter (1692, Toltan)"
+  ]
+ },
+ {
+  "id": "maria_elofsd31_toltan",
+  "name": "Maria Elofsdotter (f. 1731, piga Toltan)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1731",
+   "place": "",
+   "note": "Födelseort ej känd"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Piga på Toltan 1764–68 med dotter Maria (f. 1765), bor intill Per Elofsson och Kari Elofsdotter. Samma patronymikon som Kari – möjlig syster/släkting, ej belagt.",
+  "notes": [
+   "HUSFÖRHÖR: Brunskog A I/2 bild 159, Toltan: 'Pig: Maria Elofsdotter' 1731 (ålder 37 i kolumnen 1764) med 'dotter Maria Elofsdotter' 1765 (ålder 5/0) – raden ligger direkt under 'Per Elofsson 1728 / Hustru Kari Elofsdotter 1735 / dotter Marit 1768'."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (C0036741), bild 159, Toltan: Pig. Maria Elofsdotter 1731 med dotter Maria 1765 (efter Per Elofsson 1728, hustru Karin Elofsdotter 1735, dotter Marit 1768)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00159"
+   }
+  ],
+  "search": [
+   "Maria Elofsdotter (f. 1731, piga Toltan)"
+  ]
+ },
+ {
+  "id": "kerstin_olofsd41",
+  "name": "Kerstin (Bjärsti?) Olofsdotter (f. 1741, från Hunterud)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1741",
+   "place": "",
+   "note": "Födelseort ej känd; far Olof i Hunterud"
+  },
+  "places": [
+   "Hunterud",
+   "Nolby, Brunskog"
+  ],
+  "summary": "Piga som 4 nov 1765 flyttade in till Nolby från sin fader Olof i Hunterud – samma dag, samma by och samma patronymikon som Kari (nr 12). Möjlig syster till Kari.",
+  "notes": [
+   "INFLYTTNING Brunskog B/1 bild 28, 1765 nr 13 (4 nov): 'Pig: Bjärsti[?] Olofsdotter ifrån sin far Olof i Hunterud [..] till Nolby' f. 1741 (förnamn och ett ord efter 'Hunterud' osäkra). Står direkt under nr 12 (Kari Olofsdott: ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot, 1734)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog in- och utflyttningslängd B/1 (C0036778), bild 28, inflyttade 1765 nr 13: Pig. [Kerstin?] Olofsdotter ifrån sin far Olof i Hunterud till Nolby, f. 1741",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036778_00028"
+   }
+  ],
+  "search": [
+   "Kerstin (Bjärsti?) Olofsdotter (f. 1741, från Hunterud)"
+  ]
+ },
+ {
+  "id": "anders_stridsberg_1783",
+  "name": "Anders Stridsberg (klarinettblåsare, kyrkovaktare)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1783-03-26",
+   "place": "By(?) (osäker läsning)",
+   "note": "Husförhör A I/18: ”26/3 83” (årtalet överstruket/korrigerat), ort ”By”. Stämmer med ålder vid död."
+  },
+  "died": {
+   "date": "1858-12-18",
+   "place": "Sockenstugan, Segerstad",
+   "note": "Begravd 30/12 1858 enl. dödbok; ålderdom, 75 år 8 mån 22 dgr"
+  },
+  "places": [
+   "Mällgården, Segerstad (1810)",
+   "Sockenstugan, Segerstad (1858)"
+  ],
+  "summary": "Klarinettblåsare/kyrkovaktare Anders Stridsberg; far till Brita Kajsa Andersdotter (f. 1810) enligt hennes dop. Död 1858 i Sockenstugan.",
+  "notes": [
+   "DOP 1810 Segerstad C/2 bild 49: ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården” (fadder ”Bn. Olof Nilsson och dess hust. Britta Christiansdr. i Mällgården”).",
+   "HUSFÖRHÖR Segerstad A I/18 (C0038682) bild 219 (folio 207, Sockenstugan): ”Kyrkovakt.(?) Anders Stridsberg 26/3 83 By; H. Britta Lisa Jonsdotter 22/1 80 Carlstad”, utflyttad ”130 60”; i samma folio ”Inh. Anders Persson … 11 Ed; H. Brita Cajsa Andersd. 17/6 10 här; Barn Anna Lisa; Maja Katrina 27/7 51”.",
+   "DÖDBOK Segerstad C/2 bild 237 (1858): ”Dec 18 | 30 Kyrkovaktaren Anders Stridsberg från Sockenstugan – Ålderdom – 75 | 8 | 22”.",
+   "OBS: husförhörets anteckning om dödsdag läses osäkert (”14/7 58”/”11/12 58”); dödboken är primärkälla: 18/12 1858."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Segerstad födelse- och dopbok C/2 (C0038692), bild 49 (s. 79): 1810 ”Juni 17 | 18 Britta Caisa – Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr. i Mällgården”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00049"
+   },
+   {
+    "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (C0038682), bild 219 (folio 207, Sockenstugan): ”Anders Stridsberg 26/3 83 By; Britta Lisa Jonsdotter 22/1 80 Carlstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00219"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 237 (s. 438, dödbok 1858): ”Dec 18 | 30 Kyrkovaktaren Anders Stridsberg från Sockenstugan – Ålderdom – 75 | 8 | 22”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00237"
+   }
+  ],
+  "search": [
+   "Anders Stridsberg (klarinettblåsare, kyrkovaktare)"
+  ]
+ },
+ {
+  "id": "brita_lisa_jonsdotter_1780",
+  "name": "Britta Lisa Jonsdotter (Stridsberg)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1780-01-22",
+   "place": "Karlstad",
+   "note": "Husförhör A I/18: ”22/1 80 Carlstad”"
+  },
+  "places": [
+   "Mällgården, Segerstad (1810)",
+   "Sockenstugan, Segerstad (1858)",
+   "Hanevall, Segerstad (1860)"
+  ],
+  "summary": "Hustru till Anders Stridsberg; mor till Brita Kajsa Andersdotter (f. 1810). Änka efter 1858, bodde 1860 hos dotterns familj i Hanevall.",
+  "notes": [
+   "DOP 1810: ”… dess hust. Britta Lisa Jonsdr. i Mällgården” (mor till Britta Caisa); åldersuppgift ”30” i dopboken stämmer med f. 1780.",
+   "HUSFÖRHÖR A I/18 bild 143 (folio 130, Hanewall): ”Enk. Britta Lisa Jonaus 22/1 80 Carlstad”, inflyttad från fol. 207 år 60; anteckning ”Enka …/… 58 e. Kyrkovaktaren A. Stridsberg”; samma folio: ”Inh. Anders Persson … 11 Ed; Hustru Britta Kajsa Andersdotter 7/6(=17/6) 10 Segerstad; D. Maja Katrina 27/7 51 Segerstad”, alla inflyttade fol. 207 år 60. Dödsdatum okänt (efter 1860)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Segerstad husförhörslängd A I/18 (C0038682), bild 143 (folio 130, Hanewall): ”Enk. Britta Lisa Jonaus 22/1 80 Carlstad” + ”Enka … 58 e. Kyrkovaktaren A. Stridsberg”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038682_00143"
+   },
+   {
+    "label": "Riksarkivet, Segerstad C/2 (C0038692), bild 49: dop 1810 med moderns namn ”Britta Lisa Jonsdr.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038692_00049"
+   }
+  ],
+  "search": [
+   "Britta Lisa Jonsdotter (Stridsberg)"
+  ]
+ },
+ {
+  "id": "olof_olsson_takene_1896",
+  "name": "Olof Olsson i Takene (d. 1896)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1804",
+   "note": "Beräknat av ”92 år gammal” vid dödsfallet 27 nov 1896; OCR i tidningen är delvis förvriden."
+  },
+  "died": {
+   "date": "1896-11-27",
+   "place": "Takene, Brunskogs socken"
+  },
+  "places": [
+   "Takene, Brunskog"
+  ],
+  "summary": "Frikyrklig (Ansgarii-föreningen) bonde i Takene, 92 år, avled 27 nov 1896; ”ålderspresident” i Brunskogs missionsförening. Dotter gift med predikanten D. Hagström i Arvika. Släktskap med trädet okänt (Olsson-namnet och Takene räcker inte).",
+  "notes": [
+   "SVENSKA MORGONBLADET 1896-12-07 s.4 (OCR): ”Olof Olsson i Takene. Såsom förut meddelats i Sv. Morgonbladet, afled den 27 nov. Olof Olsson i Takene, Brunskogs s:n i Värmland, 92 år gammal … Dottern är gift med predikanten D. Hagström och bosatt i Arvika … Det var i makarne Olssons gästfria hem, som Värmländska Ansgarii-föreningen hade sin första upprinnelse vid ett sammanträde därstädes.” Samma notis nämner att professor O. Olsson (Olof Olsson, Augustana) hade ett hem hos Olsson i Brunskog.",
+   "ANSGARII-POSTEN 1895-09-18 s.1 (OCR): ”… vår gamle vän och broder Olof Olsson i Takene, ’ålderspresidenten’ inom föreningen” (Brunskogs missionsförening); samma tidning 1895-09-25: ”O. Olsson, Takene, kassör”, ”Olof Olsson i Takene till år 1874” (styrelseledamot) och brodern Nils Olsson (Nolgård/Takene).",
+   "KONTROLL: Ej i trädet. Bör sökas i Brunskogs dödbok F I/2 (1896) och husförhör Ö. Takene A I/23 (1846–50, b.135–190) – där finns Olof Olsson f. ca 1804?"
+  ],
+  "sources": [
+   {
+    "label": "Svenska morgonbladet 1896-12-07, s.4 (KB Svenska tidningar): dödsnotis Olof Olsson i Takene, 92 år",
+    "url": "https://tidningar.kb.se/7pgk552f5zfqzlz1/part/1/page/4"
+   },
+   {
+    "label": "Ansgarii-posten 1895-09-18, s.1: ”Olof Olsson i Takene, ålderspresidenten”",
+    "url": "https://tidningar.kb.se/lzfdvxjcjtkdj4lg/part/1/page/1"
+   }
+  ],
+  "search": [
+   "Olof Olsson i Takene (d. 1896)"
+  ]
+ },
+ {
+  "id": "hagstrom_d_predikant_arvika",
+  "name": "D. Hagström (predikant, Arvika)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Predikant bosatt i Arvika, gift med dotter till Olof Olsson i Takene (dödsnotis 1896). Okänd koppling till trädet.",
+  "notes": [
+   "SVENSKA MORGONBLADET 1896-12-07: ”Dottern är gift med predikanten D. Hagström och bosatt i Arvika.” Fredrik Hagström i Takene förekommer 1905 (Post- och inrikes tidningar 1905-11-03) – släktskap okänt."
+  ],
+  "sources": [
+   {
+    "label": "Svenska morgonbladet 1896-12-07, s.4",
+    "url": "https://tidningar.kb.se/7pgk552f5zfqzlz1/part/1/page/4"
+   }
+  ],
+  "search": [
+   "D. Hagström (predikant, Arvika)"
+  ]
+ },
+ {
+  "id": "johan_olson_takene_usa1899",
+  "name": "Johan Olson (Takene Brunskog, resenär från USA 1899)",
+  "status": "lead",
+  "sex": "m",
+  "living": null,
+  "places": [
+   "Takene, Brunskog",
+   "USA (Svenska monitoren 1899)"
+  ],
+  "summary": "Namnges som resande från USA till Sverige i jan 1899 (”Hr Johan Olson, Takene Brunskog, Vermland”). Kan vara en emigrerad namne eller kommissionär Johan Olsson (trädets Johan Olofsson?) på resa – oklart.",
+  "notes": [
+   "SVENSKA MONITOREN 1899-01-20 s.8 (OCR): ”Många svenskar ämna i år resa härifrån till Sverige i vår. De resande äro: … Hr Johan Olson, Takene Brunskog, Vermland. Hr AXel Anderson Är näs. Brunskog, Vermland.” (Fru Sam Carlson/Augusta Fogelquist, Brunsberg; Abel Anderson, Jernskog; Olof Nyström, Nolby.)"
+  ],
+  "sources": [
+   {
+    "label": "Svenska monitoren 1899-01-20 s.8 (Swedish American Newspapers, MNHS)",
+    "url": "https://swedishamericannews.mnhs.org/?a=d&d=scsm18990120.1.8"
+   }
+  ],
+  "search": [
+   "Johan Olson (Takene Brunskog, resenär från USA 1899)"
   ]
  }
 ]

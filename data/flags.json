@@ -1201,6 +1201,114 @@
     "maria_katrina_andersdotter",
     "anders_persson_vakarr_1851"
    ]
+  },
+  {
+   "title": "Katarzyna Zatorskas födelse (ca 1870–73, Szydłówek) ej funnen",
+   "text": "Katedrans födelseindex 1872 (SkU Z) visar ingen Zatorska/Zatorski; hon hör sannolikt till S:t Wojciech (före 1890 ej på Skanoteka). Kontrollera Geneteka/APK för St. Wojciech före 1890 samt Katedra 1869–71, 1873 (ej genomlästa).",
+   "persons": [
+    "katarzyna_zatorska",
+    "jozef_zatorski"
+   ]
+  },
+  {
+   "title": "Jan Młodawskis första vigsel (Marianna Lutawska) ej hittad i Mniów 1880–1899",
+   "text": "Mniów (Skanoteka id1317) vigselindex SkM 1880–1899 genomläst på bildnivå (20 bilder). Ingen post 'Młodawski × Lutawska' kunde säkert läsas ut (rysk kursiv, index ofta skuggat/svårläst). Sedda Młodawski-poster är troligen andra personer: 1888 akt 24 (Jan Młodawski ca 25 år + Teodozja, båda från Krasna, brudens föräldrar Jan och ...; ej verifierad som vår Jan, Krasna-grenen/Cyprian), 1891 index nr 12 'Młodawski Władysław', 1893/1894 'Młodawski Jan' index-rad (akt 27 resp. 19-ish), 1898 index 'Młodawski Władysław'. Ingen av dem bevisad. Vigseln kan även ha skett i annan socken (Kielce Katedra, Chęciny, Daleszyce) eller före 1880.",
+   "persons": [
+    "jan_mlodawski",
+    "marianna_lutawska"
+   ]
+  },
+  {
+   "title": "Marit Isaksdotters dop saknas i dopboken 1692–1699",
+   "text": "Läst C I/1 bild 28–51 (1692–mars 1699) utan träff på barn Marit med fader Isak i Toltan. Dopboken är glest förd (ca 15–25 poster/år); Maritas dop är troligen aldrig införd. Isak Larsson (mantal 1696–1707) förblir enda kandidat som far – ej bevisat.",
+   "persons": [
+    "marit_isaksd",
+    "isak_larsson_toltan"
+   ]
+  },
+  {
+   "title": "Mantal 1712/1718: Toltan-grupperna svårlästa",
+   "text": "1712 Toltan läst men utan Elof/Isak; 1718 gruppindelning (Öst. Tortan/Takene) oklar. Ingen slutsats om vem som bodde före Elof på hans gård i Toltan. 1715 och 1719 ej genomgångna.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Hunterud: var ligger byn?",
+   "text": "Hunterud står i Brunskog B/1 1765 (nr 12 och 13) och i utflyttning 1766 (bild 29 nr 6: Nils Jonsson ifrån sin fader Jon Nilsson ... till '[..] i följegården Nr. Hunterud', osäker läsning) utan socken. Webbsökning (Hunterud Värmland/Nyed) gav ingen träff. Ej funnen i Nyed C/3 1734–35 (bild 66–78) vid genomläsning. Nyeds husförhörslängder börjar först 1776 (A I/1a C0038516, bara ca 99 folios) – kolla bild med Hunterud/Persjön där, samt Nyed B/1 (C0038554) utflyttade 1765 nov (Kari/Kerstin Olofsdotter till Brunskog).",
+   "persons": [
+    "karin_elofsd35",
+    "kerstin_olofsd41"
+   ]
+  },
+  {
+   "title": "Kari kan ha fötts utanför Nyed",
+   "text": "Nyed C/3 bild 66–78 (jan 1734–jan 1735) genomläst: ingen dotter Kari Elofs-/Olofsdotter med fader Elof/Olof. Endast en vuxen fadder 'Kari Elofsd.' i Nyed 1734–35 (bild 77, 78: 'Kari Elofsd[otter] på Ed[..]'), alltså en annan, äldre Kari. Kari kan vara född i Ny (SE/VA/13406), Eda eller annat håll.",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Ny dopbok C/3 1734: ingen Kari Elofsdotter",
+   "text": "Ny kyrkoarkiv C/3 (C0038508) bild 26 (1733 + 6 jan 1734), 27 (jan–apr 1734, nr 2–10) och 28 (apr–10 okt 1734, nr 11–17) genomlästa i zoom: inget barn Kari/Karin med fader Elof/Olof. Ny och Nyed har alltså ingen träff för 1734 (Ny nov–dec 1734 på bild 29 ej omläst här). Karis födelseort fortfarande okänd.",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Anders Perssons födelseort ”Ed” – vilken socken?",
+   "text": "Husförhör anger enbart ”11 Ed”. Ed i Dalsland (Älvsborgs län) respektive annan Ed ej utrett; Riksarkivets kyrkoarkiv-sida kräver captcha, och volym-id för Eds dopböcker kunde inte hittas via manifest. Föräldrar (Per …) och syskon okända. Nästa steg: öppna Eds (Dals-Ed) dopbok 1811 i webbläsare där captcha kan lösas manuellt.",
+   "persons": [
+    "anders_persson_vakarr_1851"
+   ]
+  },
+  {
+   "title": "Dödsdatum Anders Stridsberg: husförhörets notering vs dödbok",
+   "text": "Dödbok C/2 bild 237: död 18/12, begravd 30/12 1858 (75 år 8 mån 22 dgr, stämmer med f. 26/3 1783). Husförhörets anteckningar (”14/7 58”, ”11/12 58”) läses osäkert och motsäger inte nödvändigtvis; dödboken väger tyngst.",
+   "persons": [
+    "anders_stridsberg_1783"
+   ]
+  },
+  {
+   "title": "USA/Kanada-spåret: databaser ej nådda (C6)",
+   "text": "MyHeritage SuperSearch blockeras av captcha (hCaptcha) även i inloggad Chrome; Find a Grave plats-filter kräver autocomplete-id och ger annars rikstäckande brus; öppen webbsökning (Brunskog + Mt. Jewett/Winnipeg/Augustson) gav inga relevanta träffar; MyHeritage /names/-sidor visar bara generisk info. Ellis Island JFYM-SWL redan läst av A1 (destination Mt. Jewett, vän Nels Nelson). Rekommendation: Martin löser captcha manuellt i MyHeritage och kör sökningarna, eller FamilySearch/LAC med egen inloggning.",
+   "persons": [
+    "erikjohan",
+    "erik_j_erikson_1903",
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson",
+    "anton_winnipeg_cousin"
+   ]
+  },
+  {
+   "title": "Olof Olsson i Takene (d. 27 nov 1896, 92 år) – plats i släkten?",
+   "text": "Dödsnotis i Svenska morgonbladet 1896-12-07 och Ansgarii-posten 1895: frikyrklig stamgäst i Takene, bror Nils Olsson. Möjligen släkt med Olsson-grenen (Johan Olof Olssons farfars led är Johannes Olsson 1830–70 i Boda – annan gren). Sök Brunskog F I/2 (1896) och husförhör Ö. Takene för Olof Olsson f. ca 1804.",
+   "persons": [
+    "olof_olsson_takene_1896",
+    "johan"
+   ]
+  },
+  {
+   "title": "Kommissionär Johan Olsson (Takene) = trädets Johan Olofsson?",
+   "text": "Tidningarna 1899–1905 skriver Olsson, trädet Olofsson. Yrke, ort och flytt 1905 stämmer. Fråga: patronymikon-variation i pressen. Bekräfta med Brunskog död/Arvika 1930 (död 1930-02-03).",
+   "persons": [
+    "johan_olofsson"
+   ]
+  },
+  {
+   "title": "Stina Nilsdotter f. 1813 Frykerud – dop och föräldrar",
+   "text": "Frykerud dopbok C/6 (C0037139) 1813, kandidater där barnet heter Stina och fadern Nils: (a) bild 53 (sida 87) 5/6 april 1813 ”Torestad. Nils Jonsons och H. Britta Ersd[otter] barn – Stina”; (b) bild 56 (sida 93) 26/27 okt 1813 ”Lene. Nils Jons Jons? och H. Caisa Christoffersd[otter] barn – Stina”. Ingen kan knytas till Stina gift 1837 utan husförhör/Frykerud-hushåll. Båda förblir lead.",
+   "persons": [
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Mons (f. 1815) och Niels Andersen (f. 1808) skinnberedare – ingen koppling till Anders Elofsson",
+   "text": "Patronymikon Andersen betyder far Anders, inte Elof; de är därför knappast bröder till Anders Elofsson (far Elof Persson). Brunskogs dopbok C I/3 1808 (b.92–94) har flera Nils med fäder Anders; ingen identifierad. Brunskogs flyttlängd 1839 visar flera Brunskogbor som flyttar till Ullensaker/Eidsvold-trakten (Hagenæs, Åkerselva-trakten), vilket förklarar skinnberedarnätverket men inte släkt.",
+   "persons": [
+    "no_mons_andersen15",
+    "no_niels_andersen08"
+   ]
   }
  ],
  "conflicts": [
@@ -1540,6 +1648,16 @@
    "persons": [
     "maria_katrina_andersdotter"
    ]
+  },
+  {
+   "title": "Józef Orzechowskis mor: Antonina (1895) eller Agnieszka (1875)?",
+   "text": "Födelseakten 1875 nr 100 (Kielce Katedra) för Józef, son till Michał Orzechowski (33, daglönare, Niewachlów), anger modern som 'Анешки' (Agnieszka?) f. 'Хенулювъ' (26 år). Vigselakten 1895 nr 169 anger 'Антонины изъ Пенцлювъ'. Släktnamnen ('Хенулювъ' / 'Пенцлювъ') liknar varandra – kan vara samma kvinna med feltolkad läsning, eller att Józef var barn till en annan hustru/att 1895-aktens förnamn är ett skrivfel. Behöver andra läsare/granskning av båda skannen samt Michaels vigsel (ca 1865–1874, ej funnen i Katedra 1870–74).",
+   "persons": [
+    "jozef_orzechowski",
+    "michal_orzechowski",
+    "antonina_pecl",
+    "agnieszka_orzechowska_1849"
+   ]
   }
  ],
  "excluded": [
@@ -1699,6 +1817,15 @@
    "persons": [
     "mans_daniels",
     "marit_olsd98"
+   ]
+  },
+  {
+   "title": "Brita Kajsa Andersdotters föräldrar identifierade",
+   "text": "Dop 17/6 (döpt 18/6) 1810 i Segerstad: far klarinettblåsaren Anders Stridsberg, mor Britta Lisa Jonsdotter, Mällgården. Efternamnet Stridsberg bekräftas av vigselposten 1839. Förklarar varför hon står som ”Andersdotter” i husförhör.",
+   "persons": [
+    "brita_cajsa_andersdotter_1851",
+    "anders_stridsberg_1783",
+    "brita_lisa_jonsdotter_1780"
    ]
   }
  ]
