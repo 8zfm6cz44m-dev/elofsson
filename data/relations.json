@@ -6162,5 +6162,46 @@
   "child": "rut_margit_1914",
   "status": "strong",
   "basis": "Folkräkning 1930 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "p-gustaf_eklund69-kristina_nilsdotter67",
+  "type": "partner",
+  "a": "gustaf_eklund69",
+  "b": "kristina_nilsdotter67",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Eda Emterud norra sida 7 rad 46: ”Nilsson, Kristina” f. 1867 Boda, Gift, familjeställning ”h.”, Famstkod Mor/fru, i hushåll med Gustaf Persson Eklund f. 1869 Boda; 1930 Eda: ”Gift, vigselår 1897”, ”f. Nilsson”, make Eklund, Gustav f. 1869 Boda (https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_109914845&tab=post)."
+ },
+ {
+  "id": "c-gustaf_eklund69-kristina_nilsdotter67-dagny_eklund99",
+  "type": "child",
+  "parents": [
+   "gustaf_eklund69",
+   "kristina_nilsdotter67"
+  ],
+  "child": "dagny_eklund99",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Eda Emterud södra (sida 12): hushåll Gustaf Persson Eklund + hustru Kristina Nilsson + ”Dagny Elvira” f. i Eda; barnets familjeställning ej angiven i indexposten (https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_125622280&tab=post)."
+ },
+ {
+  "id": "c-gustaf_eklund69-kristina_nilsdotter67-gustafhubert_eklund01",
+  "type": "child",
+  "parents": [
+   "gustaf_eklund69",
+   "kristina_nilsdotter67"
+  ],
+  "child": "gustafhubert_eklund01",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Eda Emterud södra (sida 12): hushåll Gustaf Persson Eklund + hustru Kristina Nilsson + ”Gustaf Hubert” f. i Eda; barnets familjeställning ej angiven i indexposten (https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_125622280&tab=post)."
+ },
+ {
+  "id": "c-gustaf_eklund69-kristina_nilsdotter67-karlbertil_eklund05",
+  "type": "child",
+  "parents": [
+   "gustaf_eklund69",
+   "kristina_nilsdotter67"
+  ],
+  "child": "karlbertil_eklund05",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Eda Emterud södra (sida 12): hushåll Gustaf Persson Eklund + hustru Kristina Nilsson + ”Karl Bertil” f. i Eda; barnets familjeställning ej angiven i indexposten (https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_125622280&tab=post)."
  }
 ]
