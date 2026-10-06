@@ -1417,6 +1417,71 @@
     "zetterlund",
     "erikjohan"
    ]
+  },
+  {
+   "title": "Ellis Island/Castle Garden ej sökbar via verktyg",
+   "text": "statueofliberty.org arrival-details-sidor laddas utan captcha/inloggning (WebFetch), men passagerardata är JS-renderad/bildbaserad; sökformulär ej drivet i Chrome i denna körning. Befintliga träffar (Teutonic 7 maj 1903; S.S. New York 3 okt 1903) oförändrade. Ingen ny passagerarpost hittad för Sylvander (1895/96), Britta Nolén (1887/1894), Johan Olof Olsson (1923).",
+   "persons": [
+    "d7_britta_maria_nolen",
+    "erik_j_erikson_1903"
+   ]
+  },
+  {
+   "title": "Öppna webbsökningar gav inga träffar på Bäcker/Sylvander/Augustson/Olsson-Jamestown",
+   "text": "WebSearch på Brunskog+Find a Grave/obituaries, Sylvander 1895, Bäcker Takene/Worcester, Johan Olsson Takene/Jamestown 1923, Augustson Winnipeg gav inga relevanta träffar (bara Nels Sylvander f. 1856, Minnesota/emigr. 1887 – annan person, inte kopplad). Rekommenderas: manuell sökning i FamilySearch/Find a Grave/MNHS-tidningsdatabasen (swedishamericannews.mnhs.org) och Chronicling America med fullt namn.",
+   "persons": [
+    "d7_anders_sylvander",
+    "backer_anna_takene",
+    "johan",
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Eds socken (Dalsland) – Anders Persson f. 1811",
+   "text": "Eds socken i Dalsland heter Dals-Eds kyrkoarkiv, ref.kod SE/GLA/13082 (Riksarkivet Göteborg; inte SE/VA). Dopbok C/2 omfattar 1754 – 24/4 1811, C/3 1823–1846 (enl. sökträff); 1811-04-25 till 1823 ligger i annan volym (C/2 senare del eller separat). Volym-id (C00…) kunde inte slås upp: kyrkoarkiv-/postid-sidorna på sok.riksarkivet.se gav captcha (avbröt, klickade ej). Nästa steg: hitta C-volym-id för SE/GLA/13082/C/2–3 via manuell sökning och leta Anders Persson 1811 (föräldrar). Segerstad B/1 anger bara ”Ed” → identifieringen mot Dals-Ed är fortfarande ej visad.",
+   "persons": [
+    "anders_persson_vakarr_1851"
+   ]
+  },
+  {
+   "title": "Vigsel Anders Stridsberg × Britta Lisa Jonsdotter ej funnen",
+   "text": "Ej i Segerstad C/2 vigslar 1801–1810 (bild 164–166) och inga äldre barn i dopboken 1807–09. Troligen vigd utanför Segerstad c. 1809 (Karlstad?). Brev: Karlstad stadsförsamling 1809 samt hennes dop 22/1 1780 Karlstad ej sökt.",
+   "persons": [
+    "anders_stridsberg_1783",
+    "brita_lisa_jonsdotter_1780"
+   ]
+  },
+  {
+   "title": "Maria Katrina: Segerstad → Brunskog",
+   "text": "Kvar i Segerstad (Hanevik fol. 236) 1870; flytt till Brunskog 187x ej funnen i A I/21–22. Gift med August Nilsson 9/11 1880 enl. Brunskog A I/35 bild 254 (Aktenskap-kolumn). Brunskog A I/34 (C0036773, 1871–80, folio 391+: Byn, Berga, Edane m.fl.) har ej genomsökts (Svartåna/Uppsala står ej i dess register).",
+   "persons": [
+    "maria_katrina_andersdotter",
+    "august_nilsson_gullsbyn"
+   ]
+  },
+  {
+   "title": "Anders Elofsson: utflyttning Boda→Norge saknas",
+   "text": "Anders Elofsson och Stina Nilsdotter kom 1840 från Frykerud till Boda (Ärtetan) men finns inte i Ärtetan i A I/16 (slut 1840) eller A I/17 (1841–45). Utflyttningsår/-mål (Norge?) ej funnet; utflyttningslängd 1840–46 för Boda ej hittad i B/1 (endast inflyttade). Nästa steg: Boda A I/16/A I/17 övriga byar (Nordsjö, Takenstorp m.fl. – ej genomsökta), Boda död-/dopbok 1840–41, Eidsvoll kyrkbok 1845–60.",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Kari Olofsdotter f. 1734 (B/1 1765) = sannolikt Karin Elofsdotter (Per Elofssons hustru)",
+   "text": "Brunskog B/1 bild 28, 4 nov 1765 nr 12: ”Pig. Kari Olofsdotter ifrån Per Gunnarsson i Hunterud till Jakob Jonsson i Åmot”, 1734. Åmot + födelseår 1734 + namn passar vigseln 1767 (E I/2 bild 17, ’ifrån Åmot’). Hunterud ej lokaliserad; hennes föräldrar fortfarande ej funna. Föreslås som stark kandidat men ej verifierad (Olofsd vs Elofsd).",
+   "persons": [
+    "karin_elofsd35"
+   ]
+  },
+  {
+   "title": "Frykerud vigsel 1837 – exakt vigselmånad/dag",
+   "text": "E I/2 bild 74: lysning troligen 20 nov (ej 30 nov), vigselkolumn '28' utan månad (troligen 28 dec 1837). Husförhör: 'Lyste tre Äktenskap d. 1/12 37' (tredje lysningen 1 dec). Exakt vigselmånad bör kontrolleras mot nästa sida eller årets register.",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13"
+   ]
   }
  ],
  "conflicts": [
@@ -1776,6 +1841,15 @@
     "maria_cajsa_nilsdotter_1849",
     "johan_nilsson_1851_svartana",
     "august_nilsson_gullsbyn"
+   ]
+  },
+  {
+   "title": "Michał Orzechowski – födelseort Wólka Pokonna, inte Niewachlów",
+   "text": "Kontrollläsning av Katedra 1866 akt 94 visar att Michał var född i byn Wólka Pokonna ('we wsi Wólce Pokonnej urodzonym') och bosatt i Niewachlów; Agnieszka Hencel var född i Niewachlów ('tamże urodzoną'). Persondata hade Niewachlów som födelseort. Rättas via updates. Moderns flicknamn (Tekla z …chów) och Maryanna Hencels flicknamn oläsliga/lika.",
+   "persons": [
+    "michal_orzechowski",
+    "agnieszka_orzechowska_1849",
+    "tekla_orzechowska"
    ]
   }
  ],

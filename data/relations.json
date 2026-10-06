@@ -4745,5 +4745,54 @@
   "b": "backer_anna_takene",
   "status": "strong",
   "basis": "Texas posten 1936-08-20 s.7: Anna Bäcker, Takene, ”var änka efter framlidne hemmansägaren J. Bäcker”; J. Bäcker avled 29/4 1932 i Takene (Svenska amerikanaren 1932-05-26)."
+ },
+ {
+  "id": "c-ernstrom_ludvig_sr-ernstrom_helena_blomstrom-ludvig_ernstrom_slc",
+  "type": "child",
+  "parents": [
+   "ernstrom_ludvig_sr",
+   "ernstrom_helena_blomstrom"
+  ],
+  "child": "ludvig_ernstrom_slc",
+  "status": "lead",
+  "basis": "Wilford Woodruff Papers: ”son of Ludvig Marianius Ernstrom and Helena Blomstrom” (sekundär biografisk källa, ej svensk primärkälla)"
+ },
+ {
+  "id": "c-anders_stridsberg_1783-brita_lisa_jonsdotter_1780-maria_stridsberg_1812",
+  "type": "child",
+  "parents": [
+   "anders_stridsberg_1783",
+   "brita_lisa_jonsdotter_1780"
+  ],
+  "child": "maria_stridsberg_1812",
+  "status": "verified",
+  "basis": "Segerstad dopbok C/2 bild 54, 1812: ”26 | 27 Maria – Clarin. blås. Anders Stridsberg och dess hustru Britta Jonsdr. i Mellgårds Båställe”."
+ },
+ {
+  "id": "c-anders_stridsberg_1783-brita_lisa_jonsdotter_1780-jan_fredrik_stridsberg_1815",
+  "type": "child",
+  "parents": [
+   "anders_stridsberg_1783",
+   "brita_lisa_jonsdotter_1780"
+  ],
+  "child": "jan_fredrik_stridsberg_1815",
+  "status": "verified",
+  "basis": "Segerstad dopbok C/2 bild 60, 1815: ”Maji 22 | 23 Jan Fredrik – Clarinettblås. Änd. Stridsberg; h. Britta Lisa Jonsdr i Mellgårds Boställe”."
+ },
+ {
+  "id": "s-brita_cajsa_andersdotter_1851-maria_stridsberg_1812",
+  "type": "sibling",
+  "a": "brita_cajsa_andersdotter_1851",
+  "b": "maria_stridsberg_1812",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt dop 1810 (bild 49) och 1812 (bild 54)."
+ },
+ {
+  "id": "s-brita_cajsa_andersdotter_1851-jan_fredrik_stridsberg_1815",
+  "type": "sibling",
+  "a": "brita_cajsa_andersdotter_1851",
+  "b": "jan_fredrik_stridsberg_1815",
+  "status": "verified",
+  "basis": "Samma föräldrar enligt dop 1810 (bild 49) och 1815 (bild 60)."
  }
 ]
