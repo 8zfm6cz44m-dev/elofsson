@@ -4175,7 +4175,8 @@
   ],
   "notes": [
    "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabeth f. 6/7 1876 (annan källa 5/7), dotter i Erik Nilssons hushåll Skog Dernole (bild 210 sida 200 rad 4; yrkeskolumn ”Sömmerska”). Utflyttningskolumn ordagrant: ”Amerika 01 26/4” = 26 april 1901. Hon är i hembygdsregistret ”ogift dam”, död 1915-08-12 på Hagen – dvs. hon måste ha återvänt till Sverige (inflyttning/återkomst ej funnen i A II a/1; sök A II a/2–3 och Ellis Island 1901–1913). Ingen Ellis Island-sökning gjord ännu.",
-   "SCB FÖDELSEUTDRAG Brunskog 1876 (A0036065_00314), nr 76, ordagrant: ”Juli 6 – Hanna Elisabet”; föräldrar ”Nilsson Erik, Bonde, Skog” och ”Andersdotter Anna, L. Hu. [lagvigd hustru]”. Löser dagskonflikten 5/7 (hembygdsregistret) mot 6/7 (husförhör): SCB-utdraget anger 6 juli 1876. Föregående rad nr 75 ”Juli 3 Iwar” (Östra Takene), nästa nr 77 ”Juli 9 Anders Gustaf”."
+   "SCB FÖDELSEUTDRAG Brunskog 1876 (A0036065_00314), nr 76, ordagrant: ”Juli 6 – Hanna Elisabet”; föräldrar ”Nilsson Erik, Bonde, Skog” och ”Andersdotter Anna, L. Hu. [lagvigd hustru]”. Löser dagskonflikten 5/7 (hembygdsregistret) mot 6/7 (husförhör): SCB-utdraget anger 6 juli 1876. Föregående rad nr 75 ”Juli 3 Iwar” (Östra Takene), nästa nr 77 ”Juli 9 Anders Gustaf”.",
+   "FOLKRÄKNING 1910 – SÖKNING: Zetterlund, Hanna Elisabet f. 1876 (Folk_125615049) är född i SUNNE (Arvika köping, N:o 174, ogift Tricothandlare, ”Familjeställning syster” till Augusta Teodora f. 1865 och Lydia f. 1879, alla f. i Sunne) = INTE Hanna Elisabeth från Skog (f. Brunskog) – förkastas (samma namn/år, annan födelseförsamling). Sökning Hanna f. 1876 med födelseförsamling Brunskog 1900/1910/1930 ger i 1910 endast ”Olsson, Hanna” (Folk_125548895; Bäckelid, Brunskog, ogift, Hemmansägare, ensam) – saknar koppling (annat efternamn, ingen uppgift om föräldrar), ej Hanna Elisabeth utan bevis. Hanna Elisabeth är sannolikt i Amerika 1910 (utflyttad 26/4 1901) – returen före döden 15 aug 1915 på Hagen fortfarande oklar."
   ]
  },
  {
@@ -4190,7 +4191,8 @@
    "date": "1959-07-24"
   },
   "places": [
-   "Där Nole i Skog"
+   "Där Nole i Skog",
+   "Skog (hemmansägare 1910/1930)"
   ],
   "summary": "Huldas syster/bror (mycket stark kandidat): inlagd i registret i samma följd som föräldrarna Erik Nilsson Zetterlund och Anna Andersdotter.",
   "sources": [
@@ -4213,6 +4215,14 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 6 och 20-23: Paul Eriksson 81 6/11, ”Fäst 4/6 03 m. Hilda Olsson p. 199”, ut ”säfra? 03 4/7”; gift, eget hushåll Soldatbostället (”Nr 11 48/02”)",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 35: Eriksson, Paul f. 1881 (Hemmansägare, gift) + Olsson, Hilda Maria f. 1882 + Astrid Maria 1904, Erik Johan Georg 1907, Anna Gärtrude 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549365&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1930, Brunskog, Skog (församlingsbok sida 193), sida 15 rad 7: Eriksson, Paul f. 1881 (Jordbrukare, vigselår 1907) + Hilda Maria + Hulda Elisabet 1911 + Rut Margit 1914",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883439&tab=post"
    }
   ],
   "search": [
@@ -4220,7 +4230,9 @@
   ],
   "notes": [
    "FOLKRÄKNINGSINDEX (Riksarkivet, sök Fornamn=Paul, Efternamn=Eriksson, Fodelsear=1881, Fodelseforsamling=Brunskog): träffar 1890, 1910 och 1930 i Värmlands län => troligen inte emigrant (index visar inga hushållsdetaljer, ej verifierat att det är samme Paul).",
-   "HUSFÖRHÖR A II a/1 (E1): Paul Eriksson f. 6/11 1881 Skog; fäst 4/6 1903 med Hilda (Maria) Olsson (f. 22/9 1882, dotter till Olof Persson, sida 199); lämnade föräldrahushållet 4/7 1903 (ordagrant ”säfra? 03 4/7” = flytt inom församlingen, ej Amerika). Eget hushåll Soldatbostället (sida 200 rad 20-23): Paul Eriksson 81 6/11 + h. Hilda Maria Olson 82 + Astrid Maria 04 3/7 + Erik Johan Georg 07 22/3. Bekräftar att Paul INTE emigrerade."
+   "HUSFÖRHÖR A II a/1 (E1): Paul Eriksson f. 6/11 1881 Skog; fäst 4/6 1903 med Hilda (Maria) Olsson (f. 22/9 1882, dotter till Olof Persson, sida 199); lämnade föräldrahushållet 4/7 1903 (ordagrant ”säfra? 03 4/7” = flytt inom församlingen, ej Amerika). Eget hushåll Soldatbostället (sida 200 rad 20-23): Paul Eriksson 81 6/11 + h. Hilda Maria Olson 82 + Astrid Maria 04 3/7 + Erik Johan Georg 07 22/3. Bekräftar att Paul INTE emigrerade.",
+   "FOLKRÄKNING 1910 Brunskog Skog (Folk_125549365) sida 16 rad 35, ordagrant: ”Eriksson, Paul … Födelseår 1881 Födelseförsamling Brunskog … Yrke Hemmansägare Civilstånd Gift … Famstkod Far/man”; hushåll: Olsson, Hilda Maria 1882; Astrid Maria 1904; Erik Johan Georg 1907; Anna Gärtrude 1909 (alla f. i Brunskog).",
+   "FOLKRÄKNING 1930 Brunskog Skog (Folk_128883439) sida 15 rad 7: Jordbrukare, Gift, ”Vigselår 1907”, förmögenhet 1000; hushåll Hilda Maria 1882, Hulda Elisabet 1911, Rut Margit 1914. OBS vigselår 1907 i 1930 strider mot fäst 4/6 1903 (bröllop 1903 enligt uppdraget) – se flagga."
   ]
  },
  {
@@ -4254,6 +4266,14 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 389455",
     "url": "https://www.hembygd.se/brunskog/plats/221748/person/389455"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 34: Signe Maria, f. 1889 i Brunskog, ”Familjeställning d.” hos Nilsson, Erik f. 1843 + Andersdotter, Anna f. 1846",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549364&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1930, Brunskog, Skog (sida 192), sida 15 rad 5: Johansson Eriksson, Signe Maria, Änka, upplösningsår 1915, ”Familjeställning d.”, Fam. nr 2 med Erik f. 1915",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883437&tab=post"
    }
   ],
   "search": [
@@ -4261,7 +4281,8 @@
   ],
   "notes": [
    "Folkräkning 1930: änka Johansson Eriksson, bor hos föräldrarna på Skog med sonen Erik f. 1915 (= ERIK Johansson 1915–2000 på Hagen).",
-   "HUSFÖRHÖR A II a/1 (E1): Signe Maria f. 8/2 1889 i föräldrahemmet Skog Dernole sida 200 (bild 210 rad 8); ingen utflyttning noterad (anm. ”25/4 02 d° d°” ej entydig)."
+   "HUSFÖRHÖR A II a/1 (E1): Signe Maria f. 8/2 1889 i föräldrahemmet Skog Dernole sida 200 (bild 210 rad 8); ingen utflyttning noterad (anm. ”25/4 02 d° d°” ej entydig).",
+   "FOLKRÄKNING 1910 (Folk_125549364): ”Signe Maria … Hemort Skog … Födelseår 1889 Födelseförsamling Brunskog … Civilstånd Ogift … Familjeställning d.” – bor hos föräldrarna Erik Nilsson (1843, Hemmansägare) + Anna Andersdotter (1846). FOLKRÄKNING 1930 (Folk_128883437): ”Johansson Eriksson, Signe Maria … Yrke Änka … Upplösningsår 1915 … Familjeställning d. … Övrigt f. Eriksson”; fam. nr 2 med sonen Erik f. 1915. Gift (Johansson), änka 1915."
   ]
  },
  {
@@ -4292,13 +4313,30 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881-1890), Skog folio 178 (bild 178): ”Johannes Nilsson Zetterlund 48 1/11 Takene; H. Magdalena Andersdotter 53 [22]/7 Skog; Maria Sofia 76; Johan Albin Efraim 78; David Emanuel 81; Maria Elisabeth 84; Alfrida Christina 87; Signe Amalia 89”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00178"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1930, Eda, Åmots mun.samhälle, sida 68 rad 44: Zetterlund, Johannes f. 1848 i Brunskog, vigselår 1875, inflyttad 1919 från Ny",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128986019&tab=post"
    }
   ],
   "search": [
    "Johannes Zetterlund"
   ],
   "notes": [
-   "HUSFÖRHÖR A I/35 bild 178 (Skog): Johannes Nilsson Zetterlund 48 1/11 Takene (= 1848-11-01) bor på Skog med hustru Magdalena Andersdotter och barnen Maria Sofia 1876, Johan Albin Efraim 1878, David Emanuel 1881, Maria Elisabeth 1884, Alfrida Christina 1887, Signe Amalia 1889. Remark: ”Bortflyttad? … ” ej tolkad. Bekräftar att Johannes bodde på Skog 1881–90 och är Eriks bror (samma efternamn Zetterlund, samma föräldrar enligt register)."
+   "HUSFÖRHÖR A I/35 bild 178 (Skog): Johannes Nilsson Zetterlund 48 1/11 Takene (= 1848-11-01) bor på Skog med hustru Magdalena Andersdotter och barnen Maria Sofia 1876, Johan Albin Efraim 1878, David Emanuel 1881, Maria Elisabeth 1884, Alfrida Christina 1887, Signe Amalia 1889. Remark: ”Bortflyttad? … ” ej tolkad. Bekräftar att Johannes bodde på Skog 1881–90 och är Eriks bror (samma efternamn Zetterlund, samma föräldrar enligt register).",
+   "FOLKRÄKNING 1890 Brunskog Säfvelskog (Folk_103597648): ”Nilsson Zetterlund, Johannes f. 1848 Brunskog, Åbo, Gift”; Magdalena Andersdotter 1853; barn Anna Lydia 1876 (Brunskog), Johan Albert Efraim 1878 (Siklaö, Stockholms län), David Emanuel 1881 (Brunskog), Maria Elisabeth 1884 (Sunne), Hulda Karolina 1887 (Brunskog), Signe Amalia 1889 (Brunskog). 1900 Strand (Folk_109937907): efternamn ”Sätterlund”, Torpare; barn Johan Albert Efraim, David Emanuel, Hulda Karolina, Signe Amalia, Nils Gustaf 1892, Karl Teodor 1895; fam. nr 2 Anna Lydia 1876 med Johan Emanuel 1896 och Anna Helena 1900. 1910 Ny Tostebol (Folk_125541868): Sätterlund, Byggnadsarbetare; hos honom Nils Gustaf och Karl Teodor. 1930 Eda Åmots mun.samhälle (Folk_128986019): Zetterlund, Träarbetare/Byggnadssnickare f.d., husägare, vigselår 1875, inflyttad 1919 från Ny; hustru Andersson, Magdalena f. 1853."
   ]
  },
  {
@@ -23346,6 +23384,501 @@
   ],
   "search": [
    "Anna Maria Karlsson f. Nilsson (f. 1886 Boda, g. 1909; Arvika 1930)"
+  ]
+ },
+ {
+  "id": "z_maria_sofia",
+  "name": "Maria Sofia Johannesdotter (Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1876",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1890 ”Anna Lydia” f. 1876 i Brunskog; A I/35: ”Maria Sofia 76”. 1900 fam. nr 2 ”Anna Lydia” med barnen Johan Emanuel 1896 och Anna Helena 1900 (hos föräldrarna). Samma födelseår/ort – namnvariant, ej bevisat samma person."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   }
+  ],
+  "altNames": [
+   "Anna Lydia Johannesdotter"
+  ],
+  "search": [
+   "Maria Sofia Johannesdotter (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_johan_albin_efraim",
+  "name": "Johan Albin Efraim Johannesson (Zetterlund)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1878",
+   "place": "Siklaö (Sicklaön), Stockholms län"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1890: ”Johan Albert Efraim, f. 1878 i Siklaö, Stockh. l.”; 1900 samma. A I/35: ”Johan Albin Efraim 78”. Födelseort Stockholms län (Johannes bodde tidigt i Stockholmstrakten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   }
+  ],
+  "altNames": [
+   "Johan Albert Efraim"
+  ],
+  "search": [
+   "Johan Albin Efraim Johannesson (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_david_emanuel",
+  "name": "David Emanuel Johannesson (Zetterlund)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1890 och 1900 hemma i Johannes hushåll (f. 1881 i Brunskog); ej funnen 1910/1930 i detta sökupplägg."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   }
+  ],
+  "search": [
+   "David Emanuel Johannesson (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_maria_elisabeth",
+  "name": "Maria Elisabeth Johannesdotter (Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Sunne"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1890: ”Maria Elisabeth, f. 1884 i Sunne Värmlands län” (A I/35: ”Maria Elisabeth 84”). Johannes familj bodde alltså i Sunne 1884. Ej i 1900 års hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Elisabeth Johannesdotter (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_alfrida_christina",
+  "name": "Alfrida Christina Johannesdotter (Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: A I/35: ”Alfrida Christina 87”; folkräkning 1890 och 1900: ”Hulda Karolina, f. 1887 i Brunskog” – namnvariant (samma födelseår/ort), ej bevisad identitet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   }
+  ],
+  "altNames": [
+   "Hulda Karolina"
+  ],
+  "search": [
+   "Alfrida Christina Johannesdotter (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_signe_amalia",
+  "name": "Signe Amalia Johannesdotter (Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1890 och 1900 hemma hos föräldrarna. Ej entydigt funnen 1910/1930 (flera träffar ’Signe Amalia’ f. 1889 Värmland: Olsson, Sätterlund, Andersson Zetterlund) – ej kontrollerade."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   }
+  ],
+  "search": [
+   "Signe Amalia Johannesdotter (Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_nils_gustaf",
+  "name": "Nils Gustaf Johannesson (Sätterlund)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1892",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Gustaf Johannesson (Sätterlund)"
+  ]
+ },
+ {
+  "id": "z_karl_teodor",
+  "name": "Karl Teodor Johannesson (Sätterlund)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1895",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
+  "notes": [
+   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Teodor Johannesson (Sätterlund)"
+  ]
+ },
+ {
+  "id": "magdalena_a1853",
+  "name": "Magdalena Andersdotter",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Johannes Zetterlunds hustru.",
+  "notes": [
+   "FOLKRÄKNING 1900 (Folk_109937907): ”Andersdotter, Magdalena, f. 1853 i Brunskog, Civilstånd Gift, Familjeställning h.” i hushållet med Sätterlund, Johannes. 1890 ”Andersdotter, Magdalena f. 1853”. 1910 samma, familjeställning ”h.”, Ny Tostebol. 1930 (Folk_128986020, Andersson, Magdalena) Eda Åmot med Johannes. Vigselår 1875 enligt 1930."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   },
+   {
+    "label": "Riksarkivet, folkräkning 1890, Brunskogs moder, Säfvelskog, sida 13 rad 21: Johannes Nilsson Zetterlund 1848 med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597648&tab=post"
+   }
+  ],
+  "search": [
+   "Magdalena Andersdotter"
+  ]
+ },
+ {
+  "id": "betty_a1854",
+  "name": "Betty Andersdotter (Olof Perssons hustru)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1854",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Hustru till Olof Persson (f. 1854) i Skog; mor till Hilda Maria Olsson (g. Paul Eriksson).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog sida 20: ”Andersdotter, Betty, f. 1854 i Brunskog”, i Olof Perssons hushåll (ingen familjeställning angiven i hushållslistan)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 10: Olof Viktor (s.) hos Persson, Olof f. 1854 + Betty Andersdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937592&tab=post"
+   }
+  ],
+  "search": [
+   "Betty Andersdotter (Olof Perssons hustru)"
+  ]
+ },
+ {
+  "id": "ol_johan_efraim_1890",
+  "name": "Johan Efraim Olsson (f. 1890, Skog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1890",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Johan Efraim, f. 1890 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 10: Olof Viktor (s.) hos Persson, Olof f. 1854 + Betty Andersdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937592&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Efraim Olsson (f. 1890, Skog)"
+  ]
+ },
+ {
+  "id": "ol_gerda_elisabet_1893",
+  "name": "Gerda Elisabet Olsson (f. 1893, Skog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1893",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Gerda Elisabet, f. 1893 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 10: Olof Viktor (s.) hos Persson, Olof f. 1854 + Betty Andersdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937592&tab=post"
+   }
+  ],
+  "search": [
+   "Gerda Elisabet Olsson (f. 1893, Skog)"
+  ]
+ },
+ {
+  "id": "ol_nils_arvid_1896",
+  "name": "Nils Arvid Olsson (f. 1896, Skog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
+  "notes": [
+   "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Nils Arvid, f. 1896 i Brunskog”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 10: Olof Viktor (s.) hos Persson, Olof f. 1854 + Betty Andersdotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937592&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Arvid Olsson (f. 1896, Skog)"
+  ]
+ },
+ {
+  "id": "astrid_maria_1904",
+  "name": "Astrid Maria Eriksson (f. 1904)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
+  "notes": [
+   "FOLKRÄKNING: 1910: ”Astrid Maria, f. 1904 i Brunskog”. Hushållslista utan uttrycklig familjeställning."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 35: Eriksson, Paul f. 1881 (Hemmansägare, gift) + Olsson, Hilda Maria f. 1882 + Astrid Maria 1904, Erik Johan Georg 1907, Anna Gärtrude 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549365&tab=post"
+   }
+  ],
+  "search": [
+   "Astrid Maria Eriksson (f. 1904)"
+  ]
+ },
+ {
+  "id": "erik_johan_georg_1907",
+  "name": "Erik Johan Georg Eriksson (f. 1907)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
+  "notes": [
+   "FOLKRÄKNING: 1910: ”Erik Johan Georg, f. 1907 i Brunskog”. Hushållslista utan uttrycklig familjeställning."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 35: Eriksson, Paul f. 1881 (Hemmansägare, gift) + Olsson, Hilda Maria f. 1882 + Astrid Maria 1904, Erik Johan Georg 1907, Anna Gärtrude 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549365&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Johan Georg Eriksson (f. 1907)"
+  ]
+ },
+ {
+  "id": "anna_gertrud_1909",
+  "name": "Anna Gärtrude Eriksson (f. 1909)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1909",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
+  "notes": [
+   "FOLKRÄKNING: 1910: ”Anna Gärtrude, f. 1909 i Brunskog”. Hushållslista utan uttrycklig familjeställning."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1910, Brunskog, Skog, sida 16 rad 35: Eriksson, Paul f. 1881 (Hemmansägare, gift) + Olsson, Hilda Maria f. 1882 + Astrid Maria 1904, Erik Johan Georg 1907, Anna Gärtrude 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549365&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Gärtrude Eriksson (f. 1909)"
+  ]
+ },
+ {
+  "id": "hulda_elisabet_1911",
+  "name": "Hulda Elisabet Eriksson (f. 1911)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1911",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
+  "notes": [
+   "FOLKRÄKNING: 1930: ”Eriksson, Hulda Elisabet, f. 1911 i Brunskog”. Hushållslista utan uttrycklig familjeställning."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1930, Brunskog, Skog (församlingsbok sida 193), sida 15 rad 7: Eriksson, Paul f. 1881 (Jordbrukare, vigselår 1907) + Hilda Maria + Hulda Elisabet 1911 + Rut Margit 1914",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883439&tab=post"
+   }
+  ],
+  "search": [
+   "Hulda Elisabet Eriksson (f. 1911)"
+  ]
+ },
+ {
+  "id": "rut_margit_1914",
+  "name": "Rut Margit Eriksson (f. 1914)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1914",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
+  "notes": [
+   "FOLKRÄKNING: 1930: ”Eriksson, Rut Margit, f. 1914 i Brunskog”. (Möjlig koppling till befintlig rut_e – ej bevisad.) Hushållslista utan uttrycklig familjeställning."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, folkräkning 1930, Brunskog, Skog (församlingsbok sida 193), sida 15 rad 7: Eriksson, Paul f. 1881 (Jordbrukare, vigselår 1907) + Hilda Maria + Hulda Elisabet 1911 + Rut Margit 1914",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883439&tab=post"
+   }
+  ],
+  "search": [
+   "Rut Margit Eriksson (f. 1914)"
   ]
  }
 ]

@@ -5926,5 +5926,241 @@
   "child": "emanuel_magnusson_kyrkebyn",
   "status": "candidate",
   "basis": "Folkräkning 1930 Kyrkebyn (Folk_128883351): Stina ”mor” i hushåll med Emanuel Magnusson f. 1878; oklart om hans mor eller hustruns mor."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_maria_sofia",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_maria_sofia",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_johan_albin_efraim",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_johan_albin_efraim",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_david_emanuel",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_david_emanuel",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_maria_elisabeth",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_maria_elisabeth",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_alfrida_christina",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_alfrida_christina",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_signe_amalia",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_signe_amalia",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_nils_gustaf",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_nils_gustaf",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "c-johannes_z-magdalena_a1853-z_karl_teodor",
+  "type": "child",
+  "parents": [
+   "johannes_z",
+   "magdalena_a1853"
+  ],
+  "child": "z_karl_teodor",
+  "status": "strong",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+ },
+ {
+  "id": "p-johannes_z-magdalena_a1853",
+  "type": "partner",
+  "a": "johannes_z",
+  "b": "magdalena_a1853",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Folk_109937907 och 1910 Folk_125541868: Magdalena Andersdotter f. 1853, ”Gift … Familjeställning h.” i Johannes (Sätterlund/Zetterlund) hushåll; 1930 Eda Folk_128986019 vigselår 1875, Magdalena Andersson f. 1853."
+ },
+ {
+  "id": "p-olof_persson_dernere_1854-betty_a1854",
+  "type": "partner",
+  "a": "olof_persson_dernere_1854",
+  "b": "betty_a1854",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog Folk_109937592: Persson, Olof f. 1854 + Andersdotter, Betty f. 1854 som fam. nr 1 med barnen (familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-olof_viktor_olsson_1885",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "olof_viktor_olsson_1885",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog sida 20 rad 10 (Folk_109937592): ”Olof Viktor … Familjeställning s.” i hushållet Persson, Olof f. 1854 + Betty Andersdotter."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-signe_karolina_olsdotter_1888",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "signe_karolina_olsdotter_1888",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog sida 20 rad 11 (Folk_109937593): ”Signe Karolina … Familjeställning d.” i samma hushåll."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-hilda_maria_olsdotter_1882",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "hilda_maria_olsdotter_1882",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-anna_olsson_1879_skog",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "anna_olsson_1879_skog",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-ol_johan_efraim_1890",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "ol_johan_efraim_1890",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-ol_gerda_elisabet_1893",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "ol_gerda_elisabet_1893",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-betty_a1854-ol_nils_arvid_1896",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854",
+   "betty_a1854"
+  ],
+  "child": "ol_nils_arvid_1896",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+ },
+ {
+  "id": "c-paul_e-hilda_maria_olsdotter_1882-astrid_maria_1904",
+  "type": "child",
+  "parents": [
+   "paul_e",
+   "hilda_maria_olsdotter_1882"
+  ],
+  "child": "astrid_maria_1904",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "c-paul_e-hilda_maria_olsdotter_1882-erik_johan_georg_1907",
+  "type": "child",
+  "parents": [
+   "paul_e",
+   "hilda_maria_olsdotter_1882"
+  ],
+  "child": "erik_johan_georg_1907",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "c-paul_e-hilda_maria_olsdotter_1882-anna_gertrud_1909",
+  "type": "child",
+  "parents": [
+   "paul_e",
+   "hilda_maria_olsdotter_1882"
+  ],
+  "child": "anna_gertrud_1909",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "c-paul_e-hilda_maria_olsdotter_1882-hulda_elisabet_1911",
+  "type": "child",
+  "parents": [
+   "paul_e",
+   "hilda_maria_olsdotter_1882"
+  ],
+  "child": "hulda_elisabet_1911",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+ },
+ {
+  "id": "c-paul_e-hilda_maria_olsdotter_1882-rut_margit_1914",
+  "type": "child",
+  "parents": [
+   "paul_e",
+   "hilda_maria_olsdotter_1882"
+  ],
+  "child": "rut_margit_1914",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
  }
 ]

@@ -2447,6 +2447,21 @@
     "anna_kajsa_nilsdotter69",
     "kristina_nilsdotter67"
    ]
+  },
+  {
+   "title": "Johannes Zetterlunds barn: namnvarianter 1890/1900 mot A I/35",
+   "text": "A I/35 (1881–90): Maria Sofia 1876 och Alfrida Christina 1887; folkräkning 1890/1900: Anna Lydia 1876 och Hulda Karolina 1887; Johan Albin (A I/35) = Johan Albert (folkräkning) Efraim 1878. Samma födelseår/ort – sannolikt samma individer med dopnamn/tilltalsnamn, ej bevisat. Efternamn 1900/1910: Sätterlund. Johan Efraim f. 1878 i Siklaö (Stockholms län), Maria Elisabeth f. 1884 i Sunne – Johannes bodde alltså i Stockholmstrakten 1878 och i Sunne 1884.",
+   "persons": [
+    "johannes_z"
+   ]
+  },
+  {
+   "title": "Olof Viktor Olsson f. 1885: ej i 1910/1930 års folkräkning med födelseförsamling Brunskog",
+   "text": "Sökning Olof Viktor f. 1885 Brunskog ger endast 1890 och 1900 – stämmer med utvandring (ej verifierat). Signe Karolina f. 1888 Brunskog: endast 1900 (stämmer med Amerika 1907). Hilda Maria f. 1882 heter ’Hulda Maria’ i folkräkning 1900 – samma person som ’Hilda’; den separata leaden d7_hulda_maria_olofsdotter_1880 (f. 1880 Takene, Amerika 1904) är en annan person.",
+   "persons": [
+    "olof_viktor_olsson_1885",
+    "signe_karolina_olsdotter_1888"
+   ]
   }
  ],
  "conflicts": [
@@ -2901,6 +2916,21 @@
     "anna_lycka",
     "valborg",
     "arvid_lycka"
+   ]
+  },
+  {
+   "title": "Hanna Elisabet Zetterlund 1910 (Arvika/Sunne) ≠ Hanna Elisabeth Eriksdotter",
+   "text": "Folk_125615049: Zetterlund, Hanna Elisabet f. 1876, född i SUNNE, Arvika köping N:o 174, ogift Tricothandlare, ’syster’ till Augusta Teodora f. 1865 och Lydia f. 1879 (båda Sunne). Elofs mors syster är född 6/7 1876 i Skog, Brunskog (SCB-utdrag) – olika födelseförsamling => annan person. Hanna Elisabeth finns inte i 1910 års folkräkning under Brunskog-födelse (endast ’Olsson, Hanna’, Bäckelid, utan koppling); sannolikt i Amerika 1910.",
+   "persons": [
+    "hanna_e"
+   ]
+  },
+  {
+   "title": "Paul Eriksson: vigselår 1907 (folkräkning 1930) mot fäst 1903",
+   "text": "1930 (Folk_128883439) anger Vigselår 1907 för Paul Eriksson; husförhör A II a/1 anger fäst 4/6 1903 med Hilda och barn Astrid Maria f. 3/7 1904 – vigselår 1907 är sannolikt skrivfel/annat (t.ex. Erik Johan Georgs födelseår 1907). Vigselboken Brunskog 1903 bör kontrolleras.",
+   "persons": [
+    "paul_e",
+    "hilda_maria_olsdotter_1882"
    ]
   }
  ],
