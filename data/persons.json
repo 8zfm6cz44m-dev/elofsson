@@ -3960,10 +3960,17 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 140953",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/140953"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29 rad 27: Elofsson, Jonas f. 1821 Brunskog, Hemmansägare, gift, Far/man; hustru Malin Olsdotter f. 1826 Mangskog; inga barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423248&tab=post"
    }
   ],
   "search": [
    "Jonas Elofsson"
+  ],
+  "notes": [
+   "FOLKRÄKNING 1880: hemmansägare Ö. Takene (Brunskog), gift med Malin Olsdotter f. 1826 i Mangskog; inga barn i hushållet. Även sökbar i 1890 (post ej öppnad)."
   ]
  },
  {
@@ -3990,10 +3997,22 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 140924",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/140924"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda, Högboda, sida 23 rad 17, fam. nr 1: Elofsdotter, Ingegärd f. 1829 i Brunskog, gift, Familjeställning ”h.”, Mor/fru; make Svensson, Per f. 1821 Boda (Inhyses); barn August 1856, Emil 1859, Johan 1868, Anna 1872",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Boda, Högboda, sida 21 rad 3, fam. nr 1: Elofsdotter, Ingegärd f. 1829 Brunskog, Familjeställning ”h.”; make Per Svensson f. 1821 Inhyses; dotter Anna f. 1872",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604299&tab=post"
    }
   ],
   "search": [
    "Ingegerd"
+  ],
+  "married_name": "Ingegerd Elofsdotter g. Svensson",
+  "notes": [
+   "FOLKRÄKNING 1880/1890 (Boda, Högboda): gift (”h.”) med Per Svensson f. 1821 i Boda, inhyses. Obs: hembygdsföreningens uppgift att Ingegerd ”registrerats på Lycka” kan avse hennes födelsehem; hon själv bodde i Högboda, Boda. Födelseår 1829 och födelseförsamling Brunskog stämmer med Elof Perssons dotter Ingegerd (28/2 1829); namn+år+födelseförsamling, ej föräldrar nämnda – bekräfta via vigsel Boda/Brunskog (Per Svensson ∞ Ingegerd Elofsdotter, före 1856) om önskas."
   ]
  },
  {
@@ -4029,10 +4048,30 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 277906",
     "url": "https://www.hembygd.se/brunskog/plats/226273/person/277906"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29 rad 11, fam. nr 1: Elofsdotter, Stina f. 1835 Brunskog, gift, Familjeställning ”h.”, Mor/fru; make Olsson, Anders f. 1831 Brunskog (Hemmansägare); barn Olof 1861, Emil 1863, Maria 1868, Johannes 1873, Anna Lisa 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene sida 23 rad 32: Elofsdotter, Stina f. 1835, Familjeställning ”h.”; make Anders Olsson f. 1831 (hem.eg.); barn Maria 1868, Johannes 1873, Anna Lisa 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598152&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene sida 28 rad 28: Elofsdotter, Stina f. 1835, Hemmansegare, Änka; hos henne Berggren, Anna Lisa f. 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938004&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog Takene sida 25 rad 24: Elofsdotter, Stina f. 1835, Hemmansägare, Änka; hos henne Andersson, Maria f. 1868 och Anna Lisa f. 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549772&tab=post"
    }
   ],
   "search": [
    "Stina Elofsdotter"
+  ],
+  "married_name": "Stina Elofsdotter g. Olsson",
+  "notes": [
+   "FOLKRÄKNING 1880 och 1890 (Ö. Takene): gift (”h.”) med Anders Olsson f. 1831 i Brunskog, hemmansägare. 1900 och 1910: änka, själv hemmansägare på Ö. Takene; hushållet 1900 dottern(?) Anna Lisa Berggren f. 1876, 1910 Maria Andersson f. 1868 (gift namn) och Anna Lisa f. 1876. Födelseår 1835 och födelseförsamling Brunskog stämmer med Elof Perssons dotter Stina (10/1 1835). Hon bor på Ö. Takene, samma by som brodern Olof Elofsson."
   ]
  },
  {
@@ -4074,6 +4113,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900 (Brunskog Östra Takene): Olsson, Johan f. 1850 Hemmansegare; Anna Nilsdotter f. 1870; Olof Gunnar 1897",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938081&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping, N:o 266, sida 87 rad 6: Olsson, Johan f. 1850 Brunskog, Kommissionär, gift; hustru Nilsson, Anna f. 1870 Brunskog; barn Olof Gunnar 1897, Johan Gottfrid 1904 (Brunskog), Anna Valborg Elvira 1909 (Arvika)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
    }
   ],
   "search": [
@@ -4085,7 +4128,9 @@
    "HUSFÖRHÖRSLÄNGD 1846–1850 (bild 136): ”Son Johannes” f. 11/1850 hos Olof Elofsson och Cajsa Jansdotter.",
    "TIDNINGAR (KB): ”kommissionär Johan Olsson, Takene” (stavning Olsson) är suppleant/revisor/skolråds-/kyrkorådsledamot i Brunskogs församling 1899-12-13 (Karlstadstidningen Veckoupplagan), 1900-12-11 (Arvika tidning s.3: ”kommissionären Joh. Olsson, Takene”), 1901-05-24/29 och 1905-12-20 (Karlstadstidningen Veckoupplagan: ”skolrådet för år 1906 efter kommissionär Johan Olsson i Takene valdes handl. Anders Persson”). Passar Jan Källnes uppgift: kommissionär sedan 1891, flyttade 1905 till Arvika. Notisen 1899 om brand i en handelsbod i Takene (Arvika nyheter 1899-03-24/05-12) nämner arrendatorn ”Johan Olsson, Takene” – ej kopplad till JO säkert. Namnet Olsson i stället för Olofsson = tidningens patronymikon-variation; identiteten är mycket trolig men inte bevisad.",
    "Arvika allehanda 1892-11-11 s.2 (lista): ”Johan Olsson, Takene” bland valda/röstande 1892.",
-   "FOLKRÄKNING 1900 Takene Östra (Folk_109938081): Olsson, Johan f. 1850 Brunskog, Hemmansegare, gift med Nilsdotter, Anna f. 1870; son Olof Gunnar f. 1897; fadern Olof Elofsson (Familjeställning ”fader”) bor i hushållet."
+   "FOLKRÄKNING 1900 Takene Östra (Folk_109938081): Olsson, Johan f. 1850 Brunskog, Hemmansegare, gift med Nilsdotter, Anna f. 1870; son Olof Gunnar f. 1897; fadern Olof Elofsson (Familjeställning ”fader”) bor i hushållet.",
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87 rad 6: Johan Olsson f. 1850 Brunskog, Kommissionär, gift; hustrun Anna Nilsson f. 1870 Brunskog; barn Olof Gunnar f. 1897 Brunskog, Johan Gottfrid f. 1904 Brunskog, Anna Valborg Elvira f. 1909 Arvika.",
+   "FOLKRÄKNING 1880: en ANNAN Johan Olsson f. 1850 i Brunskog (ogift, Åmot, Familjeställning ”halfbroder” i Olof Olssons (f. 1842) hushåll, sida 44 rad 32) – ej vår Johan (denne bor 1880 hos fadern Olof Elofsson, Ö. Takene) – förväxla ej."
   ],
   "timeline": [
    [
@@ -4841,13 +4886,19 @@
    {
     "label": "Riksarkivet, Folkräkning 1890 (Brunskog Finnebäck): Elofsson, Jan f. 1819, hemmansegare, änkling; Anders 1877",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597209&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog, Finnebäck (Jösse), sida 5 rad 18, fam. nr 1: Elofsson, Jan f. 1819 i Brunskog, Hemmansägare, Gift, Famstkod Far/man",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
    }
   ],
   "search": [
    "Jan Elofsson"
   ],
   "notes": [
-   "FOLKRÄKNING 1880 Brunskog, Finnebäck, sida 5 rad 18: hustru ”Jonsdotter, Kajsa, f. 1835” (ej Maria Persdotter); barn August f. 1862, Anders f. 1877. 1890 änkling, sida 4 rad 24, med Anders 1877."
+   "FOLKRÄKNING 1880 Brunskog, Finnebäck, sida 5 rad 18: hustru ”Jonsdotter, Kajsa, f. 1835” (ej Maria Persdotter); barn August f. 1862, Anders f. 1877. 1890 änkling, sida 4 rad 24, med Anders 1877.",
+   "FOLKRÄKNING 1880 (Finnebäck, sida 5 rad 18–21): hushållet Jan Elofsson f. 1819 Hemmansägare, gift; ”Jonsdotter, Kajsa” f. 1835 (rad 19, Familjeställning ”h.”); ”August” f. 1862 (rad 20, Familjeställning ”s.”, ogift); ”Anders” f. 1877 (rad 21, Familjeställning ”s.”, ogift). Alla födda i Brunskog.",
+   "FOLKRÄKNING 1890 (Finnebäck, sida 4 rad 24, fam. nr 1): Elofsson, Jan f. 1819 hemmansegare, civilstånd Änka/Änkling; i hushållet endast Anders f. 1877."
   ]
  },
  {
@@ -4871,10 +4922,28 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/23 (1846–1850), bild 135 (sida 123), Ö. Takene ½ skatte: Per Elofsson, fader Elof Persson 1776, Olof 1826, Ingierd 1829, Stina 1835",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00135"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12 rad 37, fam. nr 1: Elofsdotter, Britta f. 1824 i Brunskog, gift, Familjeställning ”h.”, Mor/fru; make Adamsson, Per f. 1816 Boda (Åbo)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog Nolby sida 19 rad 42, fam. nr 2: Elofsdotter, Britta f. 1824 Brunskog, Änka, Familjeställning ”moder”, Ensamstående; i fam. 1 sonen Persson, Emil f. 1858 (arrendator)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937575&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog Nolby sida 11 rad 4, fam. nr 2: Elofsdotter, Brita f. 1824 Brunskog, gift, Familjeställning ”mod.”, Mor/fru; make Adamsson, Per f. 1816 (här Brunskog) i fam. nr 2; i fam. nr 1 sonen Persson, Emil f. 1858 åbo",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597533&tab=post"
    }
   ],
   "search": [
    "Britta Elofsdotter"
+  ],
+  "married_name": "Britta Elofsdotter g. Adamsson",
+  "notes": [
+   "FOLKRÄKNING 1880: gift (”h.”) med Per Adamsson f. 1816 i Boda, åbo, Nohlby (sida 12 rad 36–44). Barn i hushållet: Johannes 1850, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866 (alla Boda) och Karin 1869 (Brunskog).",
+   "FOLKRÄKNING 1900 Nolby: änka, Familjeställning ”moder” i sonen Emil Perssons hushåll (Emil f. 1858 Boda, arrendator; hustru Anna Charlotta Nilsdotter f. 1863; 8+ barn). Hennes födelseår 1824 och födelseförsamling Brunskog stämmer med Elof Perssons dotter Britta (3/3 1824).",
+   "FOLKRÄKNING 1890 Nolby sida 11: Britta (stavat ”Brita”) och maken Per Adamsson (f. 1816, födelseort här angiven Brunskog, 1880 Boda) bildar fam. nr 2 i sonen Emil Perssons (f. 1858 Boda, åbo) gård; Britta Familjeställning ”mod.” (moder)."
   ]
  },
  {
@@ -6971,7 +7040,7 @@
  },
  {
   "id": "anna_gata",
-  "name": "Anna (från Gata)",
+  "name": "Anna Nilsdotter (f. 1870 Brunskog), från Gata",
   "status": "family",
   "sex": "f",
   "places": [
@@ -6983,11 +7052,18 @@
   "sources": [
    {
     "label": "Jan Källne: ”JOO historia” (dokument 16 jul 2022, rev. 20 sep 2026), sammanställt ur bl.a. Brunskogs församlingsböcker"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266, sida 87: Nilsson, Anna f. 1870 Brunskog, hustru i hushållet Johan Olsson (Kommissionär) f. 1850",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
    }
   ],
   "search": [
    "Anna från Gata",
    "Gata"
+  ],
+  "notes": [
+   "FOLKRÄKNING 1900 (Ö. Takene): Anna Nilsdotter f. 1870; 1910 (Arvika köping): Nilsson, Anna f. 1870 i Brunskog, i hushållet Johan Olsson, kommissionär (gift). Familjeställning ”h.” ej utläst ur sökposten; gift 1895 enligt släktuppgift."
   ]
  },
  {
@@ -23779,7 +23855,7 @@
  {
   "id": "kajsa_jonsd35_finneback",
   "name": "Kajsa Jonsdotter (f. 1835 Brunskog, Finnebäck)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23791,12 +23867,17 @@
   ],
   "summary": "Hustru till Jan Elofsson (f. 1819) 1880; död före 1890.",
   "notes": [
-   "FOLKRÄKNING 1880 Finnebäck sida 5: ”Jonsdotter, Kajsa, f. 1835 i Brunskog” gift i hushållet Jan Elofsson f. 1819."
+   "FOLKRÄKNING 1880 Finnebäck sida 5: ”Jonsdotter, Kajsa, f. 1835 i Brunskog” gift i hushållet Jan Elofsson f. 1819.",
+   "FOLKRÄKNING 1880: Familjeställning ordagrant ”h.” i Jan Elofssons hushåll – hustru. Död före 1890 (Jan änkling)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): Jonsdotter, Kajsa f. 1835 i hushåll Jan Elofsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Finnebäck sida 5 rad 19: Jonsdotter, Kajsa f. 1835 Brunskog, Familjeställning ”h.” (hustru), Mor/fru, gift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422067&tab=post"
    }
   ],
   "search": [
@@ -23806,7 +23887,7 @@
  {
   "id": "august_jan62",
   "name": "August Jansson (f. 1862 Brunskog, Finnebäck)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23818,12 +23899,17 @@
   ],
   "summary": "Barn i Jan Elofssons hushåll 1880.",
   "notes": [
-   "FOLKRÄKNING 1880: ”August, f. 1862 i Brunskog” i hushåll Jan Elofsson/Kajsa Jonsdotter."
+   "FOLKRÄKNING 1880: ”August, f. 1862 i Brunskog” i hushåll Jan Elofsson/Kajsa Jonsdotter.",
+   "IDENTITET (AN1): trolig fortsättning = august_jansson62 (1890 Gryttom, 1900/1910 Wikene, Brunskog; hustru Maria Olsdotter f. 1866; 7+ barn). Koppling strong, ej verified (namn+årtal+födelseförsamling)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 (Brunskog Finnebäck): August f. 1862",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Finnebäck sida 5 rad 20: August f. 1862 Brunskog, Familjeställning ”s.” (son), Barn, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422068&tab=post"
    }
   ],
   "search": [
@@ -23833,7 +23919,7 @@
  {
   "id": "anders_jan77",
   "name": "Anders Jansson (f. 1877 Brunskog, Finnebäck)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23845,7 +23931,8 @@
   ],
   "summary": "Barn i Jan Elofssons hushåll 1880 och 1890.",
   "notes": [
-   "FOLKRÄKNING 1880/1890: ”Anders, f. 1877 i Brunskog” i hushåll Jan Elofsson."
+   "FOLKRÄKNING 1880/1890: ”Anders, f. 1877 i Brunskog” i hushåll Jan Elofsson.",
+   "IDENTITET (AN1): trolig fortsättning = anders_janson77 (1900 Stockholm fodermarsk; 1930 Solna förrådsföreståndare, gift 1913 med Emilia Nilson). Koppling strong, ej verified."
   ],
   "sources": [
    {
@@ -23855,6 +23942,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1890 (Brunskog Finnebäck): Anders f. 1877",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103597209&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Finnebäck sida 5 rad 21: Anders f. 1877 Brunskog, Familjeställning ”s.” (son), Barn, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422069&tab=post"
    }
   ],
   "search": [
@@ -26266,6 +26357,938 @@
   ],
   "search": [
    "Britta Kajsa Andersdotter (Stridsberg), Hanvik 1880"
+  ]
+ },
+ {
+  "id": "august_jansson62",
+  "name": "August Jansson (f. 1862, Gryttom/Wikene, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Hemmansägare i Wikene, Brunskog; gift med Maria Olsdotter f. 1866. Troligen samma person som sonen August (f. 1862) i Jan Elofssons hushåll 1880.",
+  "notes": [
+   "FOLKRÄKNING 1890 (Brunskog, Gryttom, sida 61 rad 8): Jansson, August f. 1862 i Brunskog, yrke ”h:egare”, gift; hustru Olsdotter, Maria f. 1866 i Brunskog.",
+   "FOLKRÄKNING 1900 (Brunskog, Wikene, sida 38 rad 9): Jansson, August f. 1862 Brunskog, Hemmansegare, gift; hustru Olsdotter, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897 (alla Brunskog).",
+   "FOLKRÄKNING 1910 (Brunskog, Wikene, sida 35 rad 2): Jansson, August f. 1862 Hemmansägare, lyte ”hör illa”; hustru Olsson, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897, Anders Herbert 1901, Karl August 1905, Tyra Alice 1907.",
+   "IDENTITET: koppling till August f. 1862 i Jan Elofssons hushåll 1880 grundas på namn+födelseår+födelseförsamling (patronymikon Jansson efter fadern Jan) – ej uttrycklig källa; därför strong, inte verified. Ingen annan August Jansson f. 1862 Brunskog i 1890–1930 års register (sökning på födelseförsamling Brunskog gav endast denne)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (Gryttom), sida 61 rad 8: Jansson, August f. 1862 Brunskog, h:egare, gift; Olsdotter, Maria f. 1866",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103600013&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene), sida 38 rad 9: Jansson, August f. 1862, Hemmansegare, med hustru Maria och barn Hulda Maria, Anna Kristina, Johan Albin, Hildur Karolina",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene), sida 35 rad 2: Jansson, August f. 1862, Hemmansägare, hustru Maria f. 1866 och 7 barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1862",
+   "place": "Brunskog",
+   "note": "Folkräkningarna anger Brunskog som födelseförsamling"
+  },
+  "places": [
+   "Finnebäck",
+   "Gryttom",
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "August Jansson (f. 1862, Gryttom/Wikene, Brunskog)"
+  ]
+ },
+ {
+  "id": "maria_olsd66_aj",
+  "name": "Maria Olsdotter (f. 1866, g. Jansson, Wikene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Hustru till August Jansson (f. 1862) i Wikene, Brunskog 1890–1910.",
+  "notes": [
+   "FOLKRÄKNING 1890, 1900 (”Olsdotter, Maria” f. 1866 i Brunskog) och 1910 (”Olsson, Maria”): i hushållet hos August Jansson f. 1862; civilstånd gift. Familjeställning ej utläst ur sökposten – hustru slutledd av civilstånd och hushållets uppbyggnad."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene) sida 38: Olsdotter, Maria f. 1866 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1866",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Maria Olsdotter (f. 1866, g. Jansson, Wikene)"
+  ]
+ },
+ {
+  "id": "hulda_aj91",
+  "name": "Hulda Maria Jansson (f. 1891, Wikene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene): Hulda Maria f. 1891 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1891",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Hulda Maria Jansson (f. 1891, Wikene)"
+  ]
+ },
+ {
+  "id": "annakristina_aj93",
+  "name": "Anna Kristina Jansson (f. 1893, Wikene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene): Anna Kristina f. 1893 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1893",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Anna Kristina Jansson (f. 1893, Wikene)"
+  ]
+ },
+ {
+  "id": "johanalbin_aj95",
+  "name": "Johan Albin Jansson (f. 1895, Wikene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene): Johan Albin f. 1895 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1895",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Johan Albin Jansson (f. 1895, Wikene)"
+  ]
+ },
+ {
+  "id": "hildur_aj97",
+  "name": "Hildur Karolina Jansson (f. 1897, Wikene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene): Hildur Karolina f. 1897 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1897",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Hildur Karolina Jansson (f. 1897, Wikene)"
+  ]
+ },
+ {
+  "id": "anders_herbert_aj01",
+  "name": "Anders Herbert Jansson (f. 1901, Wikene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene): Anders Herbert f. 1901 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1901",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Anders Herbert Jansson (f. 1901, Wikene)"
+  ]
+ },
+ {
+  "id": "karlaugust_aj05",
+  "name": "Karl August Jansson (f. 1905, Wikene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene): Karl August f. 1905 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1905",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Karl August Jansson (f. 1905, Wikene)"
+  ]
+ },
+ {
+  "id": "tyra_aj07",
+  "name": "Tyra Alice Jansson (f. 1907, Wikene)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
+  "notes": [
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene): Tyra Alice f. 1907 i hushållet August Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1907",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "search": [
+   "Tyra Alice Jansson (f. 1907, Wikene)"
+  ]
+ },
+ {
+  "id": "anders_janson77",
+  "name": "Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Troligen sonen Anders f. 1877 i Jan Elofssons hushåll. Fodermarsk i Stockholm 1900; bodde i Lübeck före 1913; gift 1913 med Emilia Kristina Wilhelmina Nilson f. 1880; förrådsföreståndare i Råsunda, Solna 1930.",
+  "notes": [
+   "FOLKRÄKNING 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10, fam. nr 3: Jansson, Anders f. 1877 i Brunskog, yrke Fodermarsk, ogift, Famstkod Ensamstående; bor som hyresgäst i samma fastighet som urmakaren Anders Nilsson f. 1846 (Brunskog) med dottern Emilia Vilhelmina Kristina f. 1880 (kontorsbiträde).",
+   "FOLKRÄKNING 1930 Solna, Råsunda (Stadsägan 73), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, Förrådsföreståndare A/B S.S.S., gift (vigselår 1913), inflyttad 1913 från Lübeck, Tyskland; hustru Nilson, Emilia Kristina Wilhelmina f. 1880 i Klara, Stockholm, bokförerska.",
+   "IDENTITET: koppling till Anders f. 1877 i Jan Elofssons hushåll (Finnebäck) är strong, ej verified – bygger på namn + födelseår + födelseförsamling Brunskog; endast en Anders Jansson/Janson f. 1877 i Brunskog finns i 1890–1930 års register för Stockholm. Sambandet 1900→1930 stöds av hustrun Emilia (bodde 1900 i samma hus). 1890 och 1910 ej funna (utomlands?).",
+   "TRÅD: Anders Nilsson f. 1846 i Brunskog (urmakare i Stockholm, hushållet i huset 1900) – möjligen släkt/landsman; ej utrett."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10: Jansson, Anders f. 1877 Brunskog, Fodermarsk, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_114467116&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Solna (Råsunda), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, förrådsföreståndare, gift 1913, inflyttad från Lübeck",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1877",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Finnebäck, Brunskog",
+   "Stockholm (Kungsholmen? Jakob och Johannes rote 21, Geten 12)",
+   "Lübeck (till 1913)",
+   "Råsunda, Solna"
+  ],
+  "search": [
+   "Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna"
+  ]
+ },
+ {
+  "id": "emilia_nilson80",
+  "name": "Emilia Kristina Wilhelmina Nilson (f. 1880 Stockholm)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Hustru (gift 1913) till Anders Janson f. 1877 (Brunskog); dotter till urmakaren Anders Nilsson f. 1846 (Brunskog) enligt hushållsuppgifter 1900 (ej uttrycklig familjeställning utläst).",
+  "notes": [
+   "FOLKRÄKNING 1900: ”Nilsson, Emilia Vilhelmina Kristina” f. 1880 i Stockholm, kontorsbiträde, i hushållet Anders Nilsson f. 1846 (Urmakare) i samma fastighet som Anders Jansson.",
+   "FOLKRÄKNING 1930: ”Nilson, Emilia Kristina Wilhelmina”, bokförerska vid fastighetsbolag, gift, i hushållet Anders Janson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Solna (Råsunda), sida 222: Nilson, Emilia Kristina Wilhelmina f. 1880 Klara, hos Anders Janson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1880",
+   "place": "Klara, Stockholm"
+  },
+  "places": [
+   "Stockholm",
+   "Råsunda, Solna"
+  ],
+  "search": [
+   "Emilia Kristina Wilhelmina Nilson (f. 1880 Stockholm)"
+  ]
+ },
+ {
+  "id": "malin_olsd26",
+  "name": "Malin Olsdotter (f. 1826 Mangskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Hustru till Jonas Elofsson f. 1821 (Ö. Takene) 1880.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene, sida 29 rad 27: Olsdotter, Malin f. 1826 i Mangskog, enda övrig person i hushållet hos Jonas Elofsson (gift) – hustru slutledd av civilstånd gift och hushållets uppbyggnad; familjeställning ej utläst ur sökposten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29 rad 27: Jonas Elofsson f. 1821, Hemmansägare, gift; Olsdotter, Malin f. 1826 Mangskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423248&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1826",
+   "place": "Mangskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Malin Olsdotter (f. 1826 Mangskog)"
+  ]
+ },
+ {
+  "id": "per_adamsson16",
+  "name": "Per Adamsson (f. 1816 Boda), åbo Nolby",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Åbo i Nolby, Brunskog 1880; gift med Britta Elofsdotter f. 1824 (dotter till Elof Persson, Ö. Takene).",
+  "notes": [
+   "FOLKRÄKNING 1880 Brunskog, Nohlby, sida 12 rad 36–44, fam. nr 1: Adamsson, Per f. 1816 i Boda, Åbo; hustru Elofsdotter, Britta f. 1824 i Brunskog (Familjeställning ”h.”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Adamsson, Per f. 1816 Boda, Åbo; hustru Britta Elofsdotter f. 1824",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1816",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby (Nohlby), Brunskog"
+  ],
+  "search": [
+   "Per Adamsson (f. 1816 Boda), åbo Nolby"
+  ]
+ },
+ {
+  "id": "johannes_pa50",
+  "name": "Johannes Persson (Adamsson) (f. 1850)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1850 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Johannes f. 1850 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1850",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Johannes Persson (Adamsson) (f. 1850)"
+  ]
+ },
+ {
+  "id": "emil_pa58",
+  "name": "Emil Persson (Adamsson), arrendator (f. 1858)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1858 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
+   "FOLKRÄKNING 1900 Nolby sida 19: Persson, Emil f. 1858 Boda, Arrendator, hustru Anna Charlotta Nilsdotter f. 1863, barn Nils Paul 1886, Anna Emilia 1887, Maria Elisabet 1889, Olof Adolf 1893, Sofia Karolina 1895 m.fl.; hans mor Britta Elofsdotter (”moder”) bor hos honom."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Emil f. 1858 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1858",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Emil Persson (Adamsson), arrendator (f. 1858)"
+  ]
+ },
+ {
+  "id": "adolf_pa61",
+  "name": "Adolf Persson (Adamsson) (f. 1861)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1861 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Adolf f. 1861 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1861",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Adolf Persson (Adamsson) (f. 1861)"
+  ]
+ },
+ {
+  "id": "kristina_pa63",
+  "name": "Kristina Persson (Adamsson) (f. 1863)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1863 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Kristina f. 1863 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1863",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Kristina Persson (Adamsson) (f. 1863)"
+  ]
+ },
+ {
+  "id": "annalisa_pa66",
+  "name": "Anna Lisa Persson (Adamsson) (f. 1866)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1866 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Anna f. 1866 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1866",
+   "place": "Boda"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Anna Lisa Persson (Adamsson) (f. 1866)"
+  ]
+ },
+ {
+  "id": "karin_pa69",
+  "name": "Karin Persson (Adamsson) (f. 1869)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1869 i Brunskog, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Karin f. 1869 i hushållet Per Adamsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1869",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Nolby, Brunskog"
+  ],
+  "search": [
+   "Karin Persson (Adamsson) (f. 1869)"
+  ]
+ },
+ {
+  "id": "per_svensson21",
+  "name": "Per Svensson (f. 1821 Boda), inhyses Högboda",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Inhyses i Högboda, Boda 1880–1890; gift med Ingegerd Elofsdotter f. 1829 (dotter till Elof Persson, Ö. Takene).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Högboda, sida 23 rad 16–21, fam. nr 1: Svensson, Per f. 1821 i Boda, Inhyses; hustru Elofsdotter, Ingegärd f. 1829 i Brunskog (Familjeställning ”h.”); barn August 1856, Emil 1859, Johan 1868, Anna 1872 (alla Boda).",
+   "FOLKRÄKNING 1890 Boda, Högboda, sida 21 rad 2–4: Per Svensson f. 1821 Inhyses, hustru Ingegärd, dotter Anna f. 1872."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda, Högboda, sida 23: Svensson, Per f. 1821 Boda, Inhyses; hustru Ingegärd Elofsdotter f. 1829 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Boda, Högboda, sida 21: Svensson, Per f. 1821, Inhyses, med hustru Ingegärd",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604299&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1821",
+   "place": "Boda"
+  },
+  "places": [
+   "Högboda, Boda"
+  ],
+  "search": [
+   "Per Svensson (f. 1821 Boda), inhyses Högboda"
+  ]
+ },
+ {
+  "id": "august_ps56",
+  "name": "August Persson Svensson (f. 1856, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: August f. 1856 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: August f. 1856",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1856",
+   "place": "Boda"
+  },
+  "places": [
+   "Högboda, Boda"
+  ],
+  "search": [
+   "August Persson Svensson (f. 1856, Boda)"
+  ]
+ },
+ {
+  "id": "emil_ps59",
+  "name": "Emil Persson Svensson (f. 1859, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: Emil f. 1859 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: Emil f. 1859",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1859",
+   "place": "Boda"
+  },
+  "places": [
+   "Högboda, Boda"
+  ],
+  "search": [
+   "Emil Persson Svensson (f. 1859, Boda)"
+  ]
+ },
+ {
+  "id": "johan_ps68",
+  "name": "Johan Persson Svensson (f. 1868, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: Johan f. 1868 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: Johan f. 1868",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1868",
+   "place": "Boda"
+  },
+  "places": [
+   "Högboda, Boda"
+  ],
+  "search": [
+   "Johan Persson Svensson (f. 1868, Boda)"
+  ]
+ },
+ {
+  "id": "anna_ps72",
+  "name": "Anna Persson Svensson (f. 1872, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: Anna f. 1872 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn).",
+   "FOLKRÄKNING 1890: dottern Anna (1872) kvar hos föräldrarna."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: Anna f. 1872",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1872",
+   "place": "Boda"
+  },
+  "places": [
+   "Högboda, Boda"
+  ],
+  "search": [
+   "Anna Persson Svensson (f. 1872, Boda)"
+  ]
+ },
+ {
+  "id": "anders_olsson31",
+  "name": "Anders Olsson (f. 1831 Brunskog), hemmansägare Ö. Takene",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Hemmansägare på Ö. Takene; gift med Stina Elofsdotter (f. 1835); död 1890–1900 (Stina änka 1900).",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29 rad 10–16, fam. nr 1: Olsson, Anders f. 1831 i Brunskog, Hemmansägare; hustru Elofsdotter, Stina f. 1835 (Familjeställning ”h.”); barn Olof 1861, Emil 1863, Maria 1868, Johannes 1873, Anna Lisa 1876.",
+   "FOLKRÄKNING 1890 Takene sida 23 rad 31–35: Olsson, Anders f. 1831, hem.eg.; hustru Stina; barn Maria, Johannes, Anna Lisa. Före 1900 död (1900: Stina änka)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Olsson, Anders f. 1831 Brunskog, Hemmansägare; hustru Stina Elofsdotter f. 1835",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog Takene sida 23: Olsson, Anders f. 1831, hem.eg.; hustru Stina",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598152&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1831",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Anders Olsson (f. 1831 Brunskog), hemmansägare Ö. Takene"
+  ]
+ },
+ {
+  "id": "olof_ao61",
+  "name": "Olof Andersson (Olsson) (f. 1861)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29: Olof f. 1861 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Olof f. 1861 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1861",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Olof Andersson (Olsson) (f. 1861)"
+  ]
+ },
+ {
+  "id": "emil_ao63",
+  "name": "Emil Andersson (Olsson) (f. 1863)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29: Emil f. 1863 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Emil f. 1863 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1863",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Emil Andersson (Olsson) (f. 1863)"
+  ]
+ },
+ {
+  "id": "maria_ao68",
+  "name": "Maria Andersson (Olsdotter), g. Andersson? (f. 1868)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29: Maria f. 1868 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
+   "FOLKRÄKNING 1910 Takene s.25: ”Andersson, Maria” f. 1868 i hushållet hos Stina Elofsdotter (efternamn Andersson = ev. gift namn eller patronymikon efter Anders)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Maria f. 1868 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1868",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Maria Andersson (Olsdotter), g. Andersson? (f. 1868)"
+  ]
+ },
+ {
+  "id": "johannes_ao73",
+  "name": "Johannes Andersson (Olsson) (f. 1873)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29: Johannes f. 1873 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Johannes f. 1873 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1873",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Johannes Andersson (Olsson) (f. 1873)"
+  ]
+ },
+ {
+  "id": "annalisa_ao76",
+  "name": "Anna Lisa Andersson, g. Berggren (f. 1876)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
+  "notes": [
+   "FOLKRÄKNING 1880 Ö. Takene sida 29: Anna f. 1876 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
+   "FOLKRÄKNING 1900 Ö. Takene s.28: ”Berggren, Anna Lisa” f. 1876 hos Stina Elofsdotter; 1910 ”Anna Lisa” f. 1876 kvar. Efternamn Berggren (gift/utomäktenskaplig? ej utrett)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Anna f. 1876 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1876",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Anna Lisa Andersson, g. Berggren (f. 1876)"
+  ]
+ },
+ {
+  "id": "olofgunnar_jo97",
+  "name": "Olof Gunnar Olsson (f. 1897)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266). Olof Gunnar finns även i folkräkning 1900 Ö. Takene.",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Olof Gunnar f. 1897 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Olof Gunnar Olsson f. 1897 i hushållet Johan Olsson, kommissionär",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1897",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Arvika (1910)",
+   "Ö. Takene, Brunskog"
+  ],
+  "search": [
+   "Olof Gunnar Olsson (f. 1897)"
+  ]
+ },
+ {
+  "id": "johangottfrid_jo04",
+  "name": "Johan Gottfrid Olsson (f. 1904)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Johan Gottfrid f. 1904 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Johan Gottfrid Olsson f. 1904 i hushållet Johan Olsson, kommissionär",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1904",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Arvika (1910)"
+  ],
+  "search": [
+   "Johan Gottfrid Olsson (f. 1904)"
+  ]
+ },
+ {
+  "id": "annavalborg_jo09",
+  "name": "Anna Valborg Elvira Olsson (f. 1909)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Anna Valborg Elvira f. 1909 i Arvika i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 266 sida 87: Anna Valborg Elvira Olsson f. 1909 i hushållet Johan Olsson, kommissionär",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   }
+  ],
+  "born": {
+   "date": "1909",
+   "place": "Arvika"
+  },
+  "places": [
+   "Arvika (1910)"
+  ],
+  "search": [
+   "Anna Valborg Elvira Olsson (f. 1909)"
   ]
  }
 ]

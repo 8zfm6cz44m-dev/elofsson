@@ -5881,8 +5881,8 @@
   "type": "partner",
   "a": "jan_e",
   "b": "kajsa_jonsd35_finneback",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): Jan f. 1819 gift, hustru Jonsdotter Kajsa f. 1835."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Finnebäck s.5 rad 19: Kajsa Jonsdotter f. 1835, Familjeställning ”h.” hos Jan Elofsson f. 1819"
  },
  {
   "id": "c-jan_e-kajsa_jonsd35_finneback-august_jan62",
@@ -5892,8 +5892,8 @@
    "kajsa_jonsd35_finneback"
   ],
   "child": "august_jan62",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): barn utan uttrycklig familjeställning i hushållet Jan Elofsson/Kajsa Jonsdotter (1890 Anders hos Jan som änkling)."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Finnebäck s.5 rad 20: August f. 1862, Familjeställning ”s.” i Jan Elofssons hushåll (fam.nr 1) med hustrun ”h.” Kajsa Jonsdotter"
  },
  {
   "id": "c-jan_e-kajsa_jonsd35_finneback-anders_jan77",
@@ -5903,8 +5903,8 @@
    "kajsa_jonsd35_finneback"
   ],
   "child": "anders_jan77",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Finnebäck (Folk_120422066): barn utan uttrycklig familjeställning i hushållet Jan Elofsson/Kajsa Jonsdotter (1890 Anders hos Jan som änkling)."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Finnebäck s.5 rad 21: Anders f. 1877, Familjeställning ”s.” i Jan Elofssons hushåll"
  },
  {
   "id": "c-anders_nilsson53_boda-lena_andersdotter-arvid_emanuel_nilsson",
@@ -6765,5 +6765,328 @@
   "child": "gurlielsa_emanuelsson20",
   "status": "strong",
   "basis": "Folkräkning 1930 Frykerud: Gurli Elsa Maria f. 1920 i hushållet."
+ },
+ {
+  "id": "p-august_jansson62-maria_olsd66_aj",
+  "type": "partner",
+  "status": "strong",
+  "basis": "Folkräkning 1890 (Gryttom s.61), 1900 och 1910 (Wikene): August Jansson f. 1862 och Maria Olsdotter/Olsson f. 1866, båda födda Brunskog, gift",
+  "a": "august_jansson62",
+  "b": "maria_olsd66_aj"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-hulda_aj91",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1900: Hulda Maria Jansson f. 1891 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "hulda_aj91"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-annakristina_aj93",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1900: Anna Kristina Jansson f. 1893 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "annakristina_aj93"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-johanalbin_aj95",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1900: Johan Albin Jansson f. 1895 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "johanalbin_aj95"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-hildur_aj97",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1900: Hildur Karolina Jansson f. 1897 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "hildur_aj97"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-anders_herbert_aj01",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1910: Anders Herbert Jansson f. 1901 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "anders_herbert_aj01"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-karlaugust_aj05",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1910: Karl August Jansson f. 1905 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "karlaugust_aj05"
+ },
+ {
+  "id": "c-august_jansson62-maria_olsd66_aj-tyra_aj07",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning Brunskog (Wikene) 1910: Tyra Alice Jansson f. 1907 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "parents": [
+   "august_jansson62",
+   "maria_olsd66_aj"
+  ],
+  "child": "tyra_aj07"
+ },
+ {
+  "id": "p-anders_janson77-emilia_nilson80",
+  "type": "partner",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Solna: gift (vigselår 1913), Emilia Kristina Wilhelmina Nilson f. 1880 i hushållet Anders Janson f. 1877 Brunskog",
+  "a": "anders_janson77",
+  "b": "emilia_nilson80"
+ },
+ {
+  "id": "p-jonas_e-malin_olsd26",
+  "type": "partner",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Jonas Elofsson f. 1821 (gift) ensam med Malin Olsdotter f. 1826 i hushållet (familjeställning ej utläst)",
+  "a": "jonas_e",
+  "b": "malin_olsd26"
+ },
+ {
+  "id": "p-per_adamsson16-britta_e",
+  "type": "partner",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nohlby s.12 rad 37: Britta Elofsdotter f. 1824 Brunskog, Familjeställning ”h.” i Per Adamssons hushåll (f. 1816 Boda)",
+  "a": "per_adamsson16",
+  "b": "britta_e"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-johannes_pa50",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Nohlby s.12: Johannes f. 1850 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "johannes_pa50"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-emil_pa58",
+  "type": "child",
+  "status": "verified",
+  "basis": "Folkräkning 1890 Nolby s.11 rad 4: Britta Elofsdotter f. 1824, Familjeställning ”mod.” (moder) i hushållet Emil Persson f. 1858 (åbo); 1900 Nolby s.19 rad 42: Britta ”moder” hos Emil Persson, Arrendator; 1880 Nohlby s.12: Emil f. 1858 i hushållet Per Adamsson/Britta (h.)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "emil_pa58"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-adolf_pa61",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Nohlby s.12: Adolf f. 1861 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "adolf_pa61"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-kristina_pa63",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Nohlby s.12: Kristina f. 1863 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "kristina_pa63"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-annalisa_pa66",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Nohlby s.12: Anna f. 1866 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "annalisa_pa66"
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-karin_pa69",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Nohlby s.12: Karin f. 1869 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "karin_pa69"
+ },
+ {
+  "id": "p-per_svensson21-ingegerd_e",
+  "type": "partner",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Boda Högboda s.23 rad 17 och 1890 s.21 rad 3: Ingegärd Elofsdotter f. 1829 Brunskog, Familjeställning ”h.” i Per Svenssons (f. 1821 Boda) hushåll",
+  "a": "per_svensson21",
+  "b": "ingegerd_e"
+ },
+ {
+  "id": "c-per_svensson21-ingegerd_e-august_ps56",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: August f. 1856 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "per_svensson21",
+   "ingegerd_e"
+  ],
+  "child": "august_ps56"
+ },
+ {
+  "id": "c-per_svensson21-ingegerd_e-emil_ps59",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: Emil f. 1859 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "per_svensson21",
+   "ingegerd_e"
+  ],
+  "child": "emil_ps59"
+ },
+ {
+  "id": "c-per_svensson21-ingegerd_e-johan_ps68",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: Johan f. 1868 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "per_svensson21",
+   "ingegerd_e"
+  ],
+  "child": "johan_ps68"
+ },
+ {
+  "id": "c-per_svensson21-ingegerd_e-anna_ps72",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Boda Högboda s.23: Anna f. 1872 i hushållet Per Svensson/Ingegerd Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "per_svensson21",
+   "ingegerd_e"
+  ],
+  "child": "anna_ps72"
+ },
+ {
+  "id": "p-anders_olsson31-stina_e",
+  "type": "partner",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29 rad 11 och 1890 s.23 rad 32: Stina Elofsdotter f. 1835 Brunskog, Familjeställning ”h.” i Anders Olssons (f. 1831 Brunskog) hushåll",
+  "a": "anders_olsson31",
+  "b": "stina_e"
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-olof_ao61",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Olof f. 1861 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "olof_ao61"
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-emil_ao63",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Emil f. 1863 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "emil_ao63"
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-maria_ao68",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Maria f. 1868 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "maria_ao68"
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-johannes_ao73",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Johannes f. 1873 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "johannes_ao73"
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-annalisa_ao76",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Anna f. 1876 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "annalisa_ao76"
+ },
+ {
+  "id": "c-johan_olofsson-anna_gata-olofgunnar_jo97",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Arvika köping N:o 266, s.87: Olof Gunnar Olsson f. 1897 i hushållet Johan Olsson/Anna Nilsson (familjeställning ej utläst)",
+  "parents": [
+   "johan_olofsson",
+   "anna_gata"
+  ],
+  "child": "olofgunnar_jo97"
+ },
+ {
+  "id": "c-johan_olofsson-anna_gata-johangottfrid_jo04",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Arvika köping N:o 266, s.87: Johan Gottfrid Olsson f. 1904 i hushållet Johan Olsson/Anna Nilsson (familjeställning ej utläst)",
+  "parents": [
+   "johan_olofsson",
+   "anna_gata"
+  ],
+  "child": "johangottfrid_jo04"
+ },
+ {
+  "id": "c-johan_olofsson-anna_gata-annavalborg_jo09",
+  "type": "child",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Arvika köping N:o 266, s.87: Anna Valborg Elvira Olsson f. 1909 i hushållet Johan Olsson/Anna Nilsson (familjeställning ej utläst)",
+  "parents": [
+   "johan_olofsson",
+   "anna_gata"
+  ],
+  "child": "annavalborg_jo09"
  }
 ]
