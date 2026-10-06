@@ -1,6 +1,6 @@
 # Släktträd – Martin Elofsson
 
-Statisk webbplats med interaktivt släktträd och hela forskningsunderlaget (Master, Forskningslogg och Bildregister, version 2026-08-25). Sammanställd för Jan Källne.
+Statisk webbplats med interaktivt släktträd och hela forskningsunderlaget (Master, Forskningslogg och Bildregister, version 2026-08-25).
 
 Ingen inloggning, databas eller byggsteg. Ren HTML, CSS och JavaScript.
 

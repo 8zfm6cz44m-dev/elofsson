@@ -48,6 +48,12 @@ async function load() {
     el.textContent=`Datafilerna kunde inte laestas (${e.message}). Oeppna via GitHub Pages eller lokal webbserver: python3 -m http.server`;
     return;
   }
+  fetch("data/meta.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(m=>{
+    const el=$("#updated"); if(!el||!m||!m.updated) return;
+    const d=new Date(m.updated);
+    const f=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Stockholm",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}).format(d);
+    el.textContent="Uppdaterad "+f.replace(", "," kl. ").replace(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/,"$1 kl. $2");
+  }).catch(()=>{});
   S.persons.forEach(p => S.P[p.id]=p);
   S.views.forEach(v => S.V[v.id]=v);
   S.persons.forEach(p => p.imgs = S.images.filter(i=>i.persons.includes(p.id)));
