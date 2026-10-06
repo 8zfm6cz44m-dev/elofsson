@@ -1482,6 +1482,76 @@
     "anders_e",
     "no_stina_nilsd13"
    ]
+  },
+  {
+   "title": "Hanna Elisabeth Eriksdotter (f. 1876) – Amerika 1901, men död på Hagen 1915",
+   "text": "A II a/1 bild 210 rad 4: ”Amerika 01 26/4”. Hembygdsregistret: ogift dam, död 1915-08-12 Hagen. Återvände hon? Sök Ellis Island apr–maj 1901 och Brunskog inflyttning 1902–1915 (A II a/2).",
+   "persons": [
+    "hanna_e"
+   ]
+  },
+  {
+   "title": "Erik Johan Eriksson – exakt utflyttningsdag 1903",
+   "text": "Utflyttningskolumnen läst ”Amerika 03 ²⁴/₈” (dag 21–24 svårläst, månad 8). Kontrollera mot Brunskog flyttlängd B/7 1903 när den blir åtkomlig.",
+   "persons": [
+    "erikjohan"
+   ]
+  },
+  {
+   "title": "Johan Albin/Nils Einar Augustsson – utflyttningsdatum 6/4 1903",
+   "text": "A II a/1 läst ”Amerika 03 6/4” (månad 4: ¼-bråk, dagen över strecket 6). Ellis Island ankomst 7 maj 1903 (Teutonic) stämmer (avresa Liverpool 29 apr). Ingen adress i husförhöret; adress Winnipeg endast i manifest.",
+   "persons": [
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Zatorski × Żarnowiecka 1869 akt 22 – troligen annan Józef Zatorski",
+   "text": "Vigselakt Kielce Katedra 25 jan 1869 (13/25 jan jul.) nr 22: brudgummen läses «Józef Zatorski, 26 år, ungkarl (холостымъ), son till avlidna Wincenty och Anna f. Gawlik», bruden «Franciszka Żarnowiecka, 43 år, ogift, dotter till avlidna Jan och Łucja f. Wróblewska». Detta är inte samma familj som Katarzynas far (Józef Zatorski, 33 år 1871, gift med Antonina f. Osuch(?)); ålder 26 (f. ca 1842) mot 33 (f. ca 1838) och föräldrar Wincenty+Anna Gawlik – oberoende bevis saknas att det är Katarzynas far. Troligen annan person eller (om samma) ett andra äktenskap först efter hustrun Antonina; men Antonina levde ej bevisat före 1895 (Katarzynas vigsel 1895 anger fadern som avliden, modern 'Antonina'). Handskriften svårläst; boendeorter (Cegielnia/Bolmin?) osäkra.",
+   "persons": [
+    "jozef_zatorski",
+    "antonina_zatorska_n"
+   ]
+  },
+  {
+   "title": "Józef Orzechowskis mor: Agnieszka (1871, 1875) eller 'Antonina' (1895)",
+   "text": "Dotter född 1871 heter Antonina (akt 260) med mor Agnieszka f. Hencel; Józefs eget födelseakt 1875 (akt 100) anger mor Agnieszka; vigselakten 1895 anger modern som 'Antonina iz Pęcłów'. Möjlig förklaring: kopisten/prästen förväxlade moderns namn med systerns/senare hustruns namn, eller Agnieszka dog och en ny hustru Antonina f. Pęcł... gifte om sig med Michał (Michał dog dock 1877 – Józef var då 2 år; Michał kan ha varit änkling i första äktenskap med Agnieszka och gift andra gången – ej sett). Ej löst.",
+   "persons": [
+    "jozef_orzechowski",
+    "agnieszka_orzechowska_1849",
+    "michal_orzechowski",
+    "antonina_orzechowska_1871"
+   ]
+  },
+  {
+   "title": "Stanisław Orzechowski 1905 – akt ej funnen",
+   "text": "Födelseindex S:t Wojciech 1905 (SkU-2) 'Оржеховскій Станиславъ' vid rad 16, aktnummer skymt av papper (läses '1?3'). Akterna 103, 113, 123, 133, 143, 153, 163, 173, 183, 193 kontrollerade: ingen Orzechowski (123/153 enl. tidigare agent, övriga lästa i E4). Aktnumret kan vara ett annat (t.ex. 1?2/1?8) – ej fastställt om han är Józefs son. Orzechowski finns inte i 1906-indexet; 1907 finns Władysława (akt 376).",
+   "persons": [
+    "jozef_orzechowski",
+    "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Stina Nilsdatter död ej funnen (Norge)",
+   "text": "Digitalarkivets index har ingen begravning för Stina Nilsdatter f. 1813 Frykerud 1876–1891 (flera namnvarianter prövade). Kyrkboken Eidsvoll/Ullensaker 1876–1890 måste läsas på bild eller finnas under oindexerat namn.",
+   "persons": [
+    "no_stina_nilsd13",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Inga syskon/släktingar till Anders Elofsson funna i Norge",
+   "text": "Systematisk sökning av Elof*/Ellef*/Elef*-namn och Brunskog-födda (1875 hela Norge, 1900 Akershus) ger ingen person som matchar Elof Perssons barn. Brunskog-födda i Eidsvoll/Hurdal 1875 är Mons/Niels Andersen (skinnberedare), Ole Danielsen Blomstrøm, Anna Johannesdatter, Olaf Josephsen Berg, Maria Pedersdatter – alla leads utan trädlänk.",
+   "persons": [
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Emigration till Amerika ej belagd",
+   "text": "Paret Anders/Stina hade inga barn i Norge; emigrasjon.no gav bara omdirigering (301) och Digitalarkivets personsök har inga utvandrare Elofsen/Ellefsen f. Brunskog. Ingen emigrant kopplad till släkten funnen.",
+   "persons": [
+    "anders_e"
+   ]
   }
  ],
  "conflicts": [

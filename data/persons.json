@@ -474,7 +474,8 @@
   },
   "notes": [
    "SCB 1915 nr 43: 'Moder: hh Hanna Elisabet Augustsson' (f. 89 13/12, g. 10 19/3). 1910 års folkräkning skriver 'Anna Elisabet Augustsson' (skrivfel/uppläsning).",
-   "OMGÅNG 8 (agent W3): Hannas mor är Maria Katrina Andersdotter (f. 24/7 1851 Segerstad, d. 17/12 1889), inte Stina Jansdotter (styvmor). Husförhör A I/35 bild 254 anger Hanna född 12/12 1889; SCB 1915 anger 13/12."
+   "OMGÅNG 8 (agent W3): Hannas mor är Maria Katrina Andersdotter (f. 24/7 1851 Segerstad, d. 17/12 1889), inte Stina Jansdotter (styvmor). Husförhör A I/35 bild 254 anger Hanna född 12/12 1889; SCB 1915 anger 13/12.",
+   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabet f. 12/12 1889 i Brunskog, dotter i August Nilssons hushåll Gullsby Ängen sida 144 (bild 154 rad 14); flyttade till sida 308 ”01 6/11” (1901-11-06). Ej Amerika."
   ]
  },
  {
@@ -1273,7 +1274,8 @@
    "Personpost 389454 kopplad till platserna Lycka och Där Nole.",
    "Registerposterna 389449–389455 skapades i följd 2011-04-02 kl. 10:02–10:08 av samma redaktör: Erik Nilsson Zetterlund (1843), Anna Andersdotter (1846), Hanna Elisabeth Eriksdotter (1876), Erik Johan Eriksson (1878), Paul Eriksson (1881), Hulda Eriksson (1885), Signe Maria Eriksdotter (1889). En inlagd familjegrupp: föräldrar och fem barn.",
    "KORRIGERING: Uppgiften ”Boställe/Bostället i Skog” gäller en skolflicka med samma namn på Takene skolfoto 1921.",
-   "Nästa steg: Huldas födelsenotis 1885-03-16 i Brunskogs födelsebok – den namnger föräldrarna."
+   "Nästa steg: Huldas födelsenotis 1885-03-16 i Brunskogs födelsebok – den namnger föräldrarna.",
+   "HUSFÖRHÖR A II a/1 (E1): Hulda f. 16/3 1885 (bild 210 sida 200 rad 7: ”Hulda, icke döpt” – ordet ”icke döpt” överstruket; anm. ”5/99 [bekräftelse/konfirmation?] af Prost Werme”). Ingen utflyttningsnotis på sidan 200."
   ],
   "sources": [
    {
@@ -1563,7 +1565,8 @@
    "Användarträdet kortar namnet till Erik Nilsson (1843–1936). Efternamnet Zetterlund får inte automatiskt likställas utan kyrkobok.",
    "Användarträd: son till Nils Eriksson (1820–1850) + Britta Nilsdotter (1820–1891).",
    "HUSFÖRHÖR A I/35 bild 179 (fol. 179, Skog): hushållet med äktenskap ”30/12 74” (gift 30 dec 1874) – ”Erik Nilsson 43 8/2 Ö. Takene; H. Anna Andersdotter 46 14/12 Skog; Hanna Elisabeth 76; Erik Johan 78 30/12; Paul 81; Hulda 85; Signe Maria 89”. Ingen utflyttningsnotering 1881–90. Hushållet finns inte i Skog-folierna 163–171 i A I/37 (1891–95, bild 159–167) – troligen annan folio/annan gård i 1891–95 (ej funnet än).",
-   "E8 KONTROLL A I/35 bild 179 (fol. 179, Skog; gårdsnamn överst ”Där Nole”): Erik Nilsson 43 8/2 Ö.Takene; H. Anna Andersdotter 46 14/12 Skog; gift 30/12 74; Dotter Hanna Elisabeth 76 (dag/mån ”9/?” oklart); Son Erik Johan 78 30/12; Son Paul 81 6/11; Dotter Hulda 85 16/3 (”död” överstruket); Signe Maria 89 8/2. Allt bekräftat; fullständiga födelsedagar nya jämfört med tidigare notering."
+   "E8 KONTROLL A I/35 bild 179 (fol. 179, Skog; gårdsnamn överst ”Där Nole”): Erik Nilsson 43 8/2 Ö.Takene; H. Anna Andersdotter 46 14/12 Skog; gift 30/12 74; Dotter Hanna Elisabeth 76 (dag/mån ”9/?” oklart); Son Erik Johan 78 30/12; Son Paul 81 6/11; Dotter Hulda 85 16/3 (”död” överstruket); Signe Maria 89 8/2. Allt bekräftat; fullständiga födelsedagar nya jämfört med tidigare notering.",
+   "HUSFÖRHÖR A II a/1 (E1) bild 210 (sida 200, Skog, Dernole): ”Erik Nilsson [HEg=hemmansegare] 43 8/2 Takene, g. 74 30/12”, h. ”Anna Andersdotter 46 14/12 L.”; inflyttat från GB 160. Barn: Hanna Elisabeth 76 6/7 (Amerika 01 26/4), Erik Johan 78 30/12 (Amerika 03 /8), Paul 81 6/11, Hulda 85 16/3, Signe Maria 89 8/2."
   ],
   "sources": [
    {
@@ -2435,7 +2438,8 @@
   },
   "places": [
    "Där Nole, Brunskog",
-   "Nordamerika (1903)"
+   "Amerika (utflyttad aug 1903)",
+   "Mt. Jewett, Pennsylvania (destination okt 1903)"
   ],
   "summary": "Huldas bror och Elofs morbror (folkräkningar 1880–1900). Född 1878-12-30 i Brunskog, emigrerade till Nordamerika 1903. Destinationen i USA är olöst.",
   "flags": [
@@ -2451,7 +2455,8 @@
    "Utesluten: en annan Erik Johan Eriksson som emigrerade 1895.",
    "USA 1903 (A1): MÖJLIG match = ”Erik J. Erikson” 24 år, gift, från Brunskog, med hustru Anna 23 och spädbarn Eric H., S.S. New York ankomst 3 okt 1903, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Se person erik_j_erikson_1903 (candidate). Ej bevisad – kräver Brunskog dop/vigsel 1901-02 eller flyttlängd 1903.",
    "USA-SPÅR B1 (2026-10-06): Hembygdsföreningens registerpost 389452 (https://www.hembygd.se/brunskog/plats/221748/person/389452) innehåller bara 'Född: 1878-12-30' och 'Emigrerar till Nordamerika 1903' (skapad/ändrad 2011-04-02) – ingen destination, hustru eller barn. Ingen öppen US-källa (Find a Grave, webbsök) kunde knyta Mt. Jewett-kandidaten till honom.",
-   "USA-SPÅR C6 (2026-10-06): MyHeritage SuperSearch (Erik Erickson f. 1878-79, Pennsylvania) stoppades av hCaptcha-'Security check' – ej klickad. Find a Grave-sökning (Erik Erickson, f. 1878±2, McKean County) gav 20 träffar men platsfiltret fungerade inte (träffar i MN, IL, NY, Ohio m.fl.); ingen Mt. Jewett-/McKean-träff med Brunskog-koppling. Ingen kandidat kan knytas till honom."
+   "USA-SPÅR C6 (2026-10-06): MyHeritage SuperSearch (Erik Erickson f. 1878-79, Pennsylvania) stoppades av hCaptcha-'Security check' – ej klickad. Find a Grave-sökning (Erik Erickson, f. 1878±2, McKean County) gav 20 träffar men platsfiltret fungerade inte (träffar i MN, IL, NY, Ohio m.fl.); ingen Mt. Jewett-/McKean-träff med Brunskog-koppling. Ingen kandidat kan knytas till honom.",
+   "HUSFÖRHÖR A II a/1 (E1) – UTVANDRING BEKRÄFTAD: bild 210 (sida 200, Skog, Dernole): Erik Nilsson 43 8/2 Takene (g. 74 30/12) + h. Anna Andersdotter 46 14/12 + barn Hanna Elisabeth 76 6/7, Erik Johan 78 30/12, Paul 81 6/11, Hulda 85 16/3 (”icke döpt” överstruket), Signe Maria 89 8/2. Erik Johan fäst 11/7 1902 med Anna Olsson (sida 199), utflyttad från föräldrahushållet 14/12 1902; i egen rad (rad 9-11): ”Gu s. Erik Johan Eriksson, Nr 12 100/99 [värnpliktsnummer], 78 30/12 Skog, g. 23/8 02”, hustru ”Anna Olsson 79 18/12 Skog” och son ”Erik Harry 02 17/11 Skog”. Utflyttningskolumn (rad 9) ordagrant: ”Amerika 03 ²⁴?/₈” – dagen svårläst (21–24), månad 8 = augusti 1903. Ingen adress i husförhöret. Matchar Ellis Island 3 okt 1903 (S.S. New York): Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., hemort Brunskog, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Därmed är erik_j_erikson_1903 mycket stark/verifierad identitet (namn, ålder, gift, hustru Anna f. 1879, barn Erik Harry f. nov 1902, Brunskog) – status bör höjas från candidate till strong/verified."
   ],
   "sources": [
    {
@@ -2469,6 +2474,14 @@
    {
     "label": "Navigationsankare Brunskog B:7 (1906 = bild 27/sida 24)",
     "url": "https://genealogi.ronnyhagerman.com/person/ddf5939c79542ef7de36d17c5ee"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 210 (sida 200, Skog, Dernole), rad 9: ”s. Erik Johan Eriksson Nr 12 100/99, 78 30/12 Skog, g. 23/8 02”; utflyttningskolumn ordagrant ”Amerika 03 [dag svårläst]/8”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200), rad 5 (i föräldrahushållet): ”Erik Johan 78 30/12”, ut ”säfra? 02 14/12”, anm. ”Fäst 11/7 02 m. Anna Olsson p. 199”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
    }
   ],
   "search": [
@@ -4020,10 +4033,17 @@
    {
     "label": "Brunskogs hembygdsförening, personpost 389451",
     "url": "https://www.hembygd.se/brunskog/plats/221748/person/389451"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (vol. 00053596), bild 210 (sida 200, Skog Dernole), rad 4: ”b. Hanna Elisabeth 76 6/7”, ut ordagrant ”Amerika 01 26/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
    }
   ],
   "search": [
    "Hanna Elisabeth Eriksdotter"
+  ],
+  "notes": [
+   "HUSFÖRHÖR A II a/1 (E1): Hanna Elisabeth f. 6/7 1876 (annan källa 5/7), dotter i Erik Nilssons hushåll Skog Dernole (bild 210 sida 200 rad 4; yrkeskolumn ”Sömmerska”). Utflyttningskolumn ordagrant: ”Amerika 01 26/4” = 26 april 1901. Hon är i hembygdsregistret ”ogift dam”, död 1915-08-12 på Hagen – dvs. hon måste ha återvänt till Sverige (inflyttning/återkomst ej funnen i A II a/1; sök A II a/2–3 och Ellis Island 1901–1913). Ingen Ellis Island-sökning gjord ännu."
   ]
  },
  {
@@ -4057,13 +4077,18 @@
    {
     "label": "Riksarkivet folkräkningsindex, Paul Eriksson f. 1881, Brunskog: 1890, 1910, 1930",
     "url": "https://sok.riksarkivet.se/folkrakningar?Fornamn=Paul&Efternamn=Eriksson&Fodelsear=1881&Fodelseforsamling=Brunskog"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 6 och 20-23: Paul Eriksson 81 6/11, ”Fäst 4/6 03 m. Hilda Olsson p. 199”, ut ”säfra? 03 4/7”; gift, eget hushåll Soldatbostället (”Nr 11 48/02”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
    }
   ],
   "search": [
    "Paul Eriksson"
   ],
   "notes": [
-   "FOLKRÄKNINGSINDEX (Riksarkivet, sök Fornamn=Paul, Efternamn=Eriksson, Fodelsear=1881, Fodelseforsamling=Brunskog): träffar 1890, 1910 och 1930 i Värmlands län => troligen inte emigrant (index visar inga hushållsdetaljer, ej verifierat att det är samme Paul)."
+   "FOLKRÄKNINGSINDEX (Riksarkivet, sök Fornamn=Paul, Efternamn=Eriksson, Fodelsear=1881, Fodelseforsamling=Brunskog): träffar 1890, 1910 och 1930 i Värmlands län => troligen inte emigrant (index visar inga hushållsdetaljer, ej verifierat att det är samme Paul).",
+   "HUSFÖRHÖR A II a/1 (E1): Paul Eriksson f. 6/11 1881 Skog; fäst 4/6 1903 med Hilda (Maria) Olsson (f. 22/9 1882, dotter till Olof Persson, sida 199); lämnade föräldrahushållet 4/7 1903 (ordagrant ”säfra? 03 4/7” = flytt inom församlingen, ej Amerika). Eget hushåll Soldatbostället (sida 200 rad 20-23): Paul Eriksson 81 6/11 + h. Hilda Maria Olson 82 + Astrid Maria 04 3/7 + Erik Johan Georg 07 22/3. Bekräftar att Paul INTE emigrerade."
   ]
  },
  {
@@ -4103,7 +4128,8 @@
    "Signe Maria Eriksdotter"
   ],
   "notes": [
-   "Folkräkning 1930: änka Johansson Eriksson, bor hos föräldrarna på Skog med sonen Erik f. 1915 (= ERIK Johansson 1915–2000 på Hagen)."
+   "Folkräkning 1930: änka Johansson Eriksson, bor hos föräldrarna på Skog med sonen Erik f. 1915 (= ERIK Johansson 1915–2000 på Hagen).",
+   "HUSFÖRHÖR A II a/1 (E1): Signe Maria f. 8/2 1889 i föräldrahemmet Skog Dernole sida 200 (bild 210 rad 8); ingen utflyttning noterad (anm. ”25/4 02 d° d°” ej entydig)."
   ]
  },
  {
@@ -4402,7 +4428,11 @@
    "BODA 1840 (E6, läst om): Boda B/1 bild 10, ”Inflyttade Personer till Boda Församling under 1840”: ”2. Bönd Anders Elofsson | Frykerud | Åstetan | Rolander”, ”3. Hu Stina Nilsdotter | Dº | Dº | Dº”. ”Åstetan” = byn Ärtetan (Boda husförhör A I/16 ortsregister: ”Ärtetan 246”; byn skrivs ”Ärtetan/Ästetan”). ”Rolander” i kolumnen är attestatorns (Frykerudspräst) namn, som vid övriga Frykerud-inflyttare samma sida.",
    "BODA HUSFÖRHÖR (E6): A I/16 (1836–40, C0036581) Ärtetan fol. 246–247 (bild 261–262) och A I/17 (1841–45, C0036582) Ärtetan fol. 259–261 (bild 271–273) genomlästa: ingen Anders Elofsson/Stina Nilsdotter i någon av byns gårdar (A I/17: Anders Nilsson/Katrina Larsdotter, Anders Nilsson/Britta Olsdotter, Olof Nilsson/Kajsa Andersdotter; A I/16: Anders Nilsson/Kattrina Larsdotter, Anders Nilsson/Britta Olsdotter). Paret är alltså inte kvarskrivet i Ärtetan 1841–45; utflyttning från Boda skedde före/vid 1841 (utflyttningslängd 1840–41 ej lokaliserad: B/1 bild 10–15 innehåller för 1840–46 enbart inflyttade; utflyttade finns först fr.o.m. 1847, bild 17–26).",
    "BODA B/1 (E6): inflyttade 1841 (bild 11), 1843 (bild 12), 1844 (bild 13), 1845 (bild 14), 1846 (bild 15) genomtittade: Anders Elofsson/Stina Nilsdotter inte återinflyttade.",
-   "E8 KONTROLL: Frykerud E I/2 bild 74 (1837), rad ’Lene. Drengen Anders Elafsson 21 / ibm. Pig. Stina Nilsd[otter] 24 / vigde af Rolander’. Datumkolumner läses av E8 som lysning ’Nov. 20’ (tidigare ’Nov. 30’ – 2:an/3:an osäker) och vigselkolumn ’28’ utan egen månad (troligen 28 dec 1837 enligt samma månadskolumn som raden ovan, ’Dec’). Husförhör A I/18 bild 183 (fol. 173): tre marginaler bekräftade: vid Stinas överstrukna rad ”Lyste tre Äktenskap d. 1/12 37 med pig. Anders Elofsson” och vid Anders egen rad (Dr. Anders Elofsson, f. 16 Brunskg, inflyttad ’Brunskg 37’) ”Lyst tre Äkt. d. 1/12 37 med pig. Stina Nilsd.”. Bekräftat."
+   "E8 KONTROLL: Frykerud E I/2 bild 74 (1837), rad ’Lene. Drengen Anders Elafsson 21 / ibm. Pig. Stina Nilsd[otter] 24 / vigde af Rolander’. Datumkolumner läses av E8 som lysning ’Nov. 20’ (tidigare ’Nov. 30’ – 2:an/3:an osäker) och vigselkolumn ’28’ utan egen månad (troligen 28 dec 1837 enligt samma månadskolumn som raden ovan, ’Dec’). Husförhör A I/18 bild 183 (fol. 173): tre marginaler bekräftade: vid Stinas överstrukna rad ”Lyste tre Äktenskap d. 1/12 37 med pig. Anders Elofsson” och vid Anders egen rad (Dr. Anders Elofsson, f. 16 Brunskg, inflyttad ’Brunskg 37’) ”Lyst tre Äkt. d. 1/12 37 med pig. Stina Nilsd.”. Bekräftat.",
+   "F2 NORGE (Digitalarkivet curl 2026-10, kontroll): Hoel 1875, hush. 02 bodde Anders och Stina i byggnad för natteopphold ”Drengestuen” hos Ole Amundsen (f. 1825 Langset, Eidsvoll; hush. 01) – kolumnen 'Building for night stay: Drengestuen' på Stinas post pf01052052001548. Paret hade inga barn i hushållet.",
+   "F2 FT 1865: sökt Anders × Elof*/Ell*/Elef* × Sver*/Brunskog*, yrke Skind* (alla Norge, 1865) och födelseår 1815–1817 × Sverige: ingen träff för Anders Elofsen. Enda skinnberedare födda i Sverige i Eidsvoll 1865: Ole Andersen och Mons Andersen (Langsæt). Stina Nilsdatter f. 1812–14 Sverige 1865: bara Stina Nielsdatter (Eidsberg) och Stina Jahnsdatter (Nittedal) – båda med annan man, uteslutna. Paret kan 1865 fortfarande ha bott i Sverige/Boda eller vara oindexerade.",
+   "F2 FT 1900: ingen post (Anders död 15/11 1893, begr. 24/11 1893; Stina död före 1/1 1891 enligt FT 1891 'e-mand'). Brunskog-födda i Eidsvoll/Hurdal/Nes/Ullensaker/Feiring 1900: endast Ole Danielsen Blomstrøm (Hurdal) med hustru.",
+   "F2 SYSKON I NORGE: sökt FT 1865/1875/1891/1900/1910 efter efternamn Elof*/Ellef*/Elef*/Ellof* × född Brunskog/Värmland/Sverige samt Brunskog-födda 1875 i hela Norge (74 träffar). Ingen träff som matchar Elof Perssons barn (Per f. 1811, Jan, Jonas f. 1821, Britta f. 1824, Olof f. 1826, Ingegerd f. 1829, Stina f. 1835, Marit f. 1808); Anders är ende bevisade släktingen i Norge. Närmaste: Kaisa Ellefsdatter f. 1842 Brunskog (Kristiania) och Anna Ellefsen f. 1853 Brunskog – ej koppling."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok)."
@@ -12527,7 +12557,8 @@
    "YRKE: 'сапожникъ' (skomakare) 1897; 'рабочій' (arbetare) 1903. Bosatt Szydłówek. Vittnen 1897: Józef Wojciechowski 34 och Jan Zatorski 28. Barn: Marianna 1897, Stefan 1901, Bronisława 1903.",
    "VIGSEL: ej i Kielce św. Wojciech 1895–1900 (alfabetiska vigselindex SkM 1895–1900 genomlästa: ingen Orzechowski). Konsistent med Genetekas index 'Kielce Katedra 1895 nr 169' (annan församling, ej id239).",
    "VIGSEL 1895 – VERIFIERAD (ersätter 'KANDIDAT'-noten): Kielce Katedra akt 169, 15/27 nov 1895 (kt1 id57 sy1895b fil 168-169): «Состоялось ... Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ ..., дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ». Svensk: Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina f. Pęcł…?; Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i Szydłówek (S:t Wojciech), boende i Kielce, dotter till avlidne Józef och Antonina f. Kc…ów?. Brudgummens 'farbror' (дядя) gav tillstånd. Hela akten: «Состоялось въ городѣ Кельцахъ пятнадцатаго двадцать седьмаго Ноября тысяча восемьсотъ девяносто пятаго года въ одиннадцать часовъ дня. Объявилъ, что въ присутствіи свидѣтелей: Якуба Кадзѣль пятидесяти четырехъ лѣтъ отъ роду земледѣльца изъ Шидлувка прихода Св. Войцѣха и Станислава Ленцалъ тридцати восьми лѣтъ, дядя дѣтища? земледѣльца изъ Невахлёва, заключенъ сего числа религіозный брачный союзъ между: Іосифомъ Оржеховскимъ (Józef Orzechowskim) холостымъ, двадцати лѣтъ отъ роду, поденщикомъ, родившимся и проживающимъ въ Невахлёвѣ, сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ — и Катариною Заторскою (Katarzyną Zatorską) дѣвицею двадцати пяти лѣтъ отъ роду, услужанкою, родившеюся въ деревнѣ Шидлувекъ, прихода Св. Войцѣха, проживающею въ Кельцахъ здѣшняго прихода, дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ. Браку сему предшествовали три оглашенія опубликованныя въ здѣшнемъ Кафедральномъ и Приходскомъ Костелѣ въ дни: двадцать девятаго Октября десятаго Ноября, пятаго шестнадцатаго? и двѣнадцатаго двадцать четвертаго Ноября сего года. Позволеніе на вступленіе въ бракъ жениху дано и заявлено словесно дядею его. Новобрачные заявили, что брачный договоръ между ними заключенъ не былъ. Религіозный обрядъ бракосочетанія совершенъ Ксендзомъ Владиславомъ Невядомскимъ? исполняющимъ должность Настоятеля здѣшняго прихода. Актъ сей присутствующимъ прочитанъ, а по неграмотности Нами только подписанъ.» Översättning: Skedde i staden Kielce 15/27 november 1895 kl. 11 på dagen. Kungjorde att i närvaro av vittnena Jakub Kądzioł? (54 år, jordbrukare från Szydłówek, S:t Wojciechs socken) och Stanisław Jęczał?/Pęcał? (38 år, jordbrukare från Niewachlów) har denna dag ett religiöst äktenskap ingåtts mellan Józef Orzechowski, ungkarl, 20 år, daglönare, född och boende i Niewachlów, son till avlidne Michał och Antonina född Pęcł(ów)? – och Katarzyna Zatorska, ogift, 25 år, tjänsteflicka, född i byn Szydłówek i S:t Wojciechs socken, boende i Kielce i denna socken, dotter till avlidne Józef och Antonina född Kc/Kozł(ów)?. Tre lysningar hade skett i katedral- och församlingskyrkan 29 okt/10 nov, 5/17 nov och 12/24 nov. Tillstånd till äktenskapet för brudgummen gavs muntligen av hans farbror/morbror [sic: 'дядею его']. Brudparet förklarade att inget äktenskapsavtal slutits. Vigseln förrättades av ksiądz (Władysław ?) som tf. kyrkoherde. Akten uppläst; vittnena analfabeter, endast prästen undertecknade.",
-   "FÖDELSEAKT (KANDIDAT/STRONG) Kielce Katedra 1875 nr 100 – FÖDELSEAKT Kielce Katedra 1875 nr 100 (ryska, marginal 'Невахлов'): «Состоялось въ городѣ Кѣльцахъ дня шестаго [восемнадцатаго] Февраля тысяча восемьсотъ семьдесятъ пятаго года въ пять часовъ по полудни. Явился подёнщикъ изъ Невахлёва Михалъ Оржеховскій (Orzechowski) тридцати трехъ лѣтъ отъ роду, въ присутствіи земледѣльцевъ изъ Невахлёва Викентія Стемпніовскаго тридцати трехъ и Яна Детки пятидесяти лѣтъ отъ роду, и предъявилъ Намъ младенца мужескаго пола, рожденнаго въ Невахлёвѣ вчера въ пять часовъ по полудни, отъ жены его Анешки [Агнешки?] изъ Хенулювъ [Ценулювъ?] двадцати шести лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Іозефъ, а воспріемниками были: Викентій Стемпніовскій и Варвара Детка.» SVENSK: Skedde i Kielce 6/18 febr 1875 kl. 17. Inför oss trädde daglönaren från Niewachlów Michał Orzechowski, 33 år, i närvaro av jordbrukarna från Niewachlów Wincenty Stępniewski, 33, och Jan Dętka, 50, och förevisade ett gossebarn fött i Niewachlów gårdagen kl. 17 av hans hustru Agnieszka [Anna?] f. 'Chenulów/Cenulów'? (osäkert), 26 år. Barnet fick vid dopet samma dag namnet Józef; faddrar Wincenty Stępniewski och Barbara Dętka. [Handstil läst från skan; formen 'Анешки' och släktnamnet osäkra. Akten anger INTE explicit 'son till', men fadern Michał Orzechowski från Niewachlów + namnet Józef + födelse feb 1875 (20 år i nov 1895) stämmer.]"
+   "FÖDELSEAKT (KANDIDAT/STRONG) Kielce Katedra 1875 nr 100 – FÖDELSEAKT Kielce Katedra 1875 nr 100 (ryska, marginal 'Невахлов'): «Состоялось въ городѣ Кѣльцахъ дня шестаго [восемнадцатаго] Февраля тысяча восемьсотъ семьдесятъ пятаго года въ пять часовъ по полудни. Явился подёнщикъ изъ Невахлёва Михалъ Оржеховскій (Orzechowski) тридцати трехъ лѣтъ отъ роду, въ присутствіи земледѣльцевъ изъ Невахлёва Викентія Стемпніовскаго тридцати трехъ и Яна Детки пятидесяти лѣтъ отъ роду, и предъявилъ Намъ младенца мужескаго пола, рожденнаго въ Невахлёвѣ вчера въ пять часовъ по полудни, отъ жены его Анешки [Агнешки?] изъ Хенулювъ [Ценулювъ?] двадцати шести лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Іозефъ, а воспріемниками были: Викентій Стемпніовскій и Варвара Детка.» SVENSK: Skedde i Kielce 6/18 febr 1875 kl. 17. Inför oss trädde daglönaren från Niewachlów Michał Orzechowski, 33 år, i närvaro av jordbrukarna från Niewachlów Wincenty Stępniewski, 33, och Jan Dętka, 50, och förevisade ett gossebarn fött i Niewachlów gårdagen kl. 17 av hans hustru Agnieszka [Anna?] f. 'Chenulów/Cenulów'? (osäkert), 26 år. Barnet fick vid dopet samma dag namnet Józef; faddrar Wincenty Stępniewski och Barbara Dętka. [Handstil läst från skan; formen 'Анешки' och släktnamnet osäkra. Akten anger INTE explicit 'son till', men fadern Michał Orzechowski från Niewachlów + namnet Józef + födelse feb 1875 (20 år i nov 1895) stämmer.]",
+   "1907 akt 376 (S:t Wojciech): Józef Orzechowski, jordbrukare ('земледѣлецъ') i Szydłówek, 32 år (=> f. ca 1875, stämmer med födelseakt 100/1875 men ger ej föräldrar), hustru Katarzyna f. Zatorska 35 år; dotter Władysława f. 9.12.1907. Yrken: skomakare 1897, arbetare 1903, jordbrukare 1907."
   ],
   "sources": [
    {
@@ -14403,7 +14434,8 @@
   },
   "summary": "Karl Augusts syster, f. 1886.",
   "notes": [
-   "Folkräkning 1890 och 1900 i Anders Nilssons hushåll (Boda Renstad / Brunskog Svartåna)."
+   "Folkräkning 1890 och 1900 i Anders Nilssons hushåll (Boda Renstad / Brunskog Svartåna).",
+   "HUSFÖRHÖR A II a/1 (E1): Dagen (Svartåna), sida 268 (bild 278) rad 5: ”Anna Maria 86 7/2 Boda” i Anders Nilsson (53, 15/10, Boda) + Lena Andersdotter-hushållet; utflyttningskolumn ordagrant ”Amerika 08 23/9” (dagen svårläst, 23 eller 28; månad 9) = utflyttad till Amerika 1908-09-23(28). Syskon på sidan: Johan Alfred 84 4/7, Karl August 88 1/1 (ut: ”p. 308 06 12/11”), Arvid Emanuel 96 2/9."
   ],
   "sources": [
    {
@@ -14417,6 +14449,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 278 (sida 268, Svartåna, Dagen) rad 5: ”Anna Maria 86 7/2 Boda”, ut ”Amerika 08 23/9”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00278"
    }
   ],
   "places": [],
@@ -14470,7 +14506,8 @@
   "notes": [
    "FOLKRÄKNING 1900 Brunskog, Gullsbyn, s. 15: 'Nilsson, August, f. 1855 i Brunskog, Hemmansegare'; Hanna Elisabet f. 1889 har familjeställning 'hans d.'. Hustru Stina Jansdotter f. 1847; barn Anna Maria 1885 (f. Uppsala), Nils Ejnar 1887, Hanna Elisabet 1889.",
    "HUSFÖRHÖR A I/25 bild 172 och A I/27 bild 174: August 22/4 55 som ”Son” hos Nils Jansson och Britta Olsdotter i Svartåna & Nytorp (Ö. Takene). Syskon: Maja Cajsa 1849, Johan 1851, Anna Charlotta 1858.",
-   "HUSFÖRHÖR A I/37 bild 223 (fol. 229, Svartåna): ”August Nilsson (enk.) 55 22/4 Svartåna; Johan Albin 83 27/7 Uppsala; Anna Maria 85 21/7 Uppsala; Nils Einar 87 21/8 Svartåna; Hanna Elisabeth 89 12/12 Svartåna”. Remark: ”På hospital i Kristinehamn, utskriven d. 24/5 1893”; flytt ”N.B. 282”. Ingen Amerikanotering före 1895 (Albin/Nils Einar emigrerar 1903 – senare volym)."
+   "HUSFÖRHÖR A I/37 bild 223 (fol. 229, Svartåna): ”August Nilsson (enk.) 55 22/4 Svartåna; Johan Albin 83 27/7 Uppsala; Anna Maria 85 21/7 Uppsala; Nils Einar 87 21/8 Svartåna; Hanna Elisabeth 89 12/12 Svartåna”. Remark: ”På hospital i Kristinehamn, utskriven d. 24/5 1893”; flytt ”N.B. 282”. Ingen Amerikanotering före 1895 (Albin/Nils Einar emigrerar 1903 – senare volym).",
+   "HUSFÖRHÖR A II a/1 (E1): August Nilsson f. 22/4 1855 Brunskog (”L.”), änkling sedan 17/12 1889 (hustrun Maria Katrina död), omgift ”97 30/12” (30 dec 1897) med Stina Jansdotter f. 1/3 1847. Bodde Svartåna sida 282 (bild 292) till 5/11 1898 då hushållet flyttade till Gullsby ”Ängen” sida 144 (bild 154). Anteckning bild 292: ”97 3/12 l.c.ä. m. Stina Jansd., 144. utskiften fr. hospitalet i Kfhn 24/5 98” (svårläst)."
   ],
   "sources": [
    {
@@ -14500,6 +14537,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 229 (bild 223): August Nilsson enk. + Johan Albin 83, Anna Maria 85, Nils Einar 87, Hanna Elisabeth 89",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00223"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 292 (sida 282, Svartåna), rad 6: ”August Nilsson 55 22/4 L., g. 97 30/12, änkling 89 17/12”, ut ”144 98 5/11”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00292"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 154 (sida 144, Gullsby Ängen), rad 9: ”August Nilsson 55 22/4 L.”, in från 282 ”98 5/11”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00154"
    }
   ],
   "search": [
@@ -14549,7 +14594,8 @@
   },
   "summary": "Hannas syster, f. 1885 i Uppsala.",
   "notes": [
-   "Folkräkning 1900 Gullsbyn i August Nilssons hushåll."
+   "Folkräkning 1900 Gullsbyn i August Nilssons hushåll.",
+   "HUSFÖRHÖR A II a/1 (E1): Anna Maria f. 19/7 1885 Upsala, dotter hos August Nilsson, Gullsby Ängen sida 144 (bild 154 rad 12); flyttade till sida 282 ”01 6/11” (1901-11-06) – ej Amerika på denna sida. Hennes vidare öde ej spårat (sida 282 = Svartåna, bild 292)."
   ],
   "sources": [
    {
@@ -14569,7 +14615,7 @@
  {
   "id": "nils_ejnar_augustsson",
   "name": "Nils Ejnar Augustsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -14579,7 +14625,8 @@
   "summary": "Hannas bror, f. 1887.",
   "notes": [
    "Folkräkning 1900 Gullsbyn i August Nilssons hushåll.",
-   "USA/KANADA 1903 (A1): reste enligt manifest S.S. Teutonic ankomst 7 maj 1903 (rad 4 ”Nils Einar 16 joiner”, efternamn ditto efter Augustsson) tillsammans med brodern Johan Albin till Winnipeg, Man. (cousin Anton …, 371 Alexander Ave.). Ålder 16 (f. 21/8 1887 → 15 år 8 mån; åldern något avrundad). Status: strong (namn + ålder + följe med bror)."
+   "USA/KANADA 1903 (A1): reste enligt manifest S.S. Teutonic ankomst 7 maj 1903 (rad 4 ”Nils Einar 16 joiner”, efternamn ditto efter Augustsson) tillsammans med brodern Johan Albin till Winnipeg, Man. (cousin Anton …, 371 Alexander Ave.). Ålder 16 (f. 21/8 1887 → 15 år 8 mån; åldern något avrundad). Status: strong (namn + ålder + följe med bror).",
+   "HUSFÖRHÖR A II a/1 (E1): f. 21/8 1887 i Brunskog (son i August Nilssons hushåll sida 144). 7/11 1901 flyttad till sida 425 (Åmot, Bråten, yrke ”Dr.” = dräng), bild 434 rad 6, utflyttningskolumn ordagrant ”Amerika 03 6/4” (6 april 1903), samma datum som brodern Johan Albin. Födelse 1887-08-21 bekräftad av två sidor."
   ],
   "sources": [
    {
@@ -14593,6 +14640,14 @@
    {
     "label": "Ellis Island manifest Teutonic 7 maj 1903, bild 352-208 rad 4",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 434 (sida 425, Åmot, Bråten), rad 6: ”Nils Ejnar Augustsson Dr. 87 21/8 Bg.”, in från 144 ”01 7/11”; utflyttning ordagrant ”Amerika 03 6/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00434"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 154 (sida 144, Gullsby Ängen), rad 13: ”Nils Einar 87 21/8 L.”, ut ”425 01 7/11”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00154"
    }
   ],
   "places": [],
@@ -14757,6 +14812,10 @@
    {
     "label": "Ellis Island manifest Teutonic 7 maj 1903, bild 352-208 rad 3-4: ”Augustsson, Johan Albin 19” + ”Nils Einar 16 joiner”; Winnipeg, Man., cousin Anton … 371 Alexander Ave.",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JF5P-9Q3"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), bild 154 (sida 144, Gullsby, Ängen), rad 17: ”Johan Albin Augustsson 83 27/7 Ups.” inflyttad från sid 181 ”01 11/11”; utflyttningskolumn: ”Amerika 03 6/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00154"
    }
   ],
   "search": [
@@ -14764,7 +14823,8 @@
   ],
   "notes": [
    "USA 1903 (Z2): Ellis Island: 'Johan Albin Augustson/Augustsson', ankomst 7 maj 1903 Ellis Island, fartyg Teutonic från Liverpool, ogift man, f. 1884, 19 år, senaste hemvist 'Vermland', nationalitet indexerad 'Norway, Scandinavian' (felindex). Passenger-id JF5P-9Q3. Ovanligt namn + ålder (f. juli 1883 -> 19 i maj 1903) + Värmland ger STARK match, men släktskap ej bevisat av posten (ingen föräldranamn/kontakt läst). Destination ej läst (manifestbild).",
-   "USA/KANADA 1903 (A1, manifestbild läst): S.S. Teutonic från Liverpool 29 apr 1903, ankomst Ellis Island 7 maj 1903, bild 352-208 rad 3: ”Augustsson, Johan Albin 19 … [labourer] … Vermland”; destination ”Winnipeg, Man.” (Kanada, ej USA); medföljande rad 4: ”Nils Einar 16 joiner” (efternamn ditto = Augustsson; = brodern Nils Ejnar f. 1887-08-21, id nils_ejnar_augustsson); anhörig: ”Cousin Anton [Kjerstrom/Nystrom? svårläst], 371 Alexander Ave., Winnipeg, Man.” Pengar ca $75/$100. Identitet stark: ovanligt namn+Albin+ålder 19+Värmland + yngre bror Nils Einar 16 i direkt följd. Ellis Island-indexet ger 'Norway, Scandinavian' (felindex)."
+   "USA/KANADA 1903 (A1, manifestbild läst): S.S. Teutonic från Liverpool 29 apr 1903, ankomst Ellis Island 7 maj 1903, bild 352-208 rad 3: ”Augustsson, Johan Albin 19 … [labourer] … Vermland”; destination ”Winnipeg, Man.” (Kanada, ej USA); medföljande rad 4: ”Nils Einar 16 joiner” (efternamn ditto = Augustsson; = brodern Nils Ejnar f. 1887-08-21, id nils_ejnar_augustsson); anhörig: ”Cousin Anton [Kjerstrom/Nystrom? svårläst], 371 Alexander Ave., Winnipeg, Man.” Pengar ca $75/$100. Identitet stark: ovanligt namn+Albin+ålder 19+Värmland + yngre bror Nils Einar 16 i direkt följd. Ellis Island-indexet ger 'Norway, Scandinavian' (felindex).",
+   "HUSFÖRHÖR A II a/1 (E1): Gullsby, Ängen, sida 144 (bild 154): i föräldrahushållet August Nilsson f. 22/4 1855 + Stina Jansdotter f. 1/3 1847 + barnen Johan Albin 83 27/7 Upsala, Anna Maria 85 19/7 Upsala, Nils Einar 87 21/8 L., Hanna Elisabet 89 12/12 L. (rad 9-14). Familjen inflyttade från Svartåna sid 282 den 5/11 1898 (bild 292, sida 282). Johan Albin utflyttad till sid 181 ”99 17/11” (tjänst, Nyköherdebostället, bild 191 sida 181 rad 18: ”Johan Albin Augustsson 83 27/7 Upsala”, in från 144 ”99 17/11”, ut ”144 01 11/11”), åter hemma 11/11 1901. Utflyttningskolumnen på sida 144 rad 17: ordagrant ”Amerika 03 6/4” = 6 april 1903 (dagsiffran 6 över 4; månad läst som 4). Bekräftar utflyttning till Amerika 6/4 1903 – stämmer med Ellis Island/Winnipeg 7 maj 1903 (Teutonic). Ingen adress anges i husförhöret."
   ],
   "country": "CA",
   "country_note": "Reste 1903 till Winnipeg, Kanada (Ellis Island-manifest)."
@@ -16123,7 +16183,7 @@
  {
   "id": "erik_j_erikson_1903",
   "name": "Erik J. Erikson (Ellis Island 3 okt 1903, Brunskog)",
-  "status": "candidate",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -16138,12 +16198,17 @@
   "notes": [
    "MANIFEST rad 3: ”Erikson, Erik J. 24 M[arried] … Swedish … Brunskog, Sweden”; rad 4: ”Anna 23 wife”; rad 5: ”Eric H. infant”. Destination ”Mt. Jewett, Pa”: ”To friend Nels Nelson, Mt. Jewett, Pa”; pengar $90; ”no” = inte tidigare i USA. Fartyg S.S. New York från Southampton 26 sep 1903, ankomst New York 3 okt 1903.",
    "Ellis Island-indexet har felaktigt Erik J. som kvinna f. 1900 (3 år); Anna Erikson 24 f. 1879 (JFYM-SWG); Eric H. Erikson 1 år f. 1902 (JFYM-SWP). Samma sida: Olof T. Olson 18/19 Brunskog (JFYM-SW5), Beda Lundqvist 31 (US-medborgare, Topeka Kans.) och Emma K. Lundqvist 22 (JFYM-SWR/SWT) från Brunskog.",
-   "VERIFIERA: finns Erik Johan Eriksson (f. 1878-12-30 Skog) i Brunskog dop/vigsel ca 1901-02 (hustru Anna, son Erik H. f. ca 1902)? Brunskog B:7 flyttlängd 1903 ej funnen digitaliserad av A1."
+   "VERIFIERA: finns Erik Johan Eriksson (f. 1878-12-30 Skog) i Brunskog dop/vigsel ca 1901-02 (hustru Anna, son Erik H. f. ca 1902)? Brunskog B:7 flyttlängd 1903 ej funnen digitaliserad av A1.",
+   "E1: Svensk primärkälla funnen: Brunskog A II a/1 bild 210 (sida 200): Erik Johan Eriksson f. 30/12 1878 Skog, g. 23/8 1902 med Anna Olsson f. 18/12 1879, son Erik Harry f. 17/11 1902, ”Amerika 03 /8”. Tre oberoende detaljer (hustru Anna ~23-24 år, spädbarn Eric H. ~11 mån, Brunskog) stämmer med manifestet – identitet med erikjohan i praktiken bekräftad."
   ],
   "sources": [
    {
     "label": "Ellis Island Foundation, S.S. New York, ankomst 3 okt 1903, T715-0400-264 rad 3 (post JFYM-SWL; Anna JFYM-SWG; Eric H. JFYM-SWP)",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SWL"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200): Erik Johan Eriksson + Anna Olsson + Erik Harry, ”Amerika 03 /8”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
    }
   ],
   "search": [
@@ -16231,7 +16296,8 @@
    "DOP-AVGÖRANDE (D2): Husförhör Frykerud A I/18 bild 183 (Lene): Nils Jonsson ”7/3 82” Frykerud, ”H. Kajsa Kristofers dr” ”27/7 84”, barn ”H. Stina” 26/10 1813 ibm. Födelsedatum 26/10 stämmer med dop C/6 (C0037139) bild 56 (26/27 okt, Lene, Nils Jonsson + Caisa Christoffersdotter), inte med bild 53 (5/6 apr, Torestad, Britta Ersdotter). Kandidat bild 53 utesluten (annan far/moder/ort). Dopbladet bild 56 ej själv avläst av D2.",
    "VIGSEL-KOPPLING: samma sida, marginal vid Stina: ”Lyst tre Aktenskap d. 1/12 37 med pig. Anders Elofsson”; vid Anders-raden: ”Lyst tre Akt. 1/12 37 med pig. Stina Nilsd. fr. afsw(?)” (sista ord osäkert).",
    "BODA 1840: Boda B/1 bild 10 (inflyttade 1840): ”2. Bönd Anders Elofsson – Frykerud – [flyttar till] Åstetan/Ärtetan(?) – Rolander” och ”3. Hu Stina Nilsdotter – Dº”. Paret flyttade alltså 1840 från Frykerud till Boda, inte direkt till Norge.",
-   "E8 KONTROLL: Husförhör A I/18 bild 183: ”H. [Stina]” 26/10 13 ibm (överstruken). Dopbok C/6 (C0037139) bild 56 (sid 93, okt 1813; året fastställt via bild 55 sid 91 med ”Död 1813”-anteckningar): kolumner ”26 | 27 | Lene Nils Jöns jons och H: Caisa Christoffersd:r barn | Stina” = född 26 okt, döpt 27 okt 1813, Lene, föräldrar Nils Jonsson och Kajsa Kristoffersdotter. Födelsedatum 26/10 1813 bekräftat av två oberoende poster (födelsen i sig kan betraktas som verified)."
+   "E8 KONTROLL: Husförhör A I/18 bild 183: ”H. [Stina]” 26/10 13 ibm (överstruken). Dopbok C/6 (C0037139) bild 56 (sid 93, okt 1813; året fastställt via bild 55 sid 91 med ”Död 1813”-anteckningar): kolumner ”26 | 27 | Lene Nils Jöns jons och H: Caisa Christoffersd:r barn | Stina” = född 26 okt, döpt 27 okt 1813, Lene, föräldrar Nils Jonsson och Kajsa Kristoffersdotter. Födelsedatum 26/10 1813 bekräftat av två oberoende poster (födelsen i sig kan betraktas som verified).",
+   "F2: Dödspost för Stina ej funnen i Digitalarkivet. Sökt förnamn Stina*/Kristina/Kristine/Christine/Kirsti*/Karen/Kjersti* × f. 1811–1815 × Sverige/Värmland/Frykerud, begravningar/avdød 1876–1892: inga matchningar. Enda Stina Nilsdatter f. 1813 i 1875-6 års poster: Stina Nilsdatter f. 1813 Aker (Hægdehaugen, fattiglem, annan person), pf01052039013442, och Stina Marie Nilsdatter f. 1813 Kristiania d. 1887 Gamle Aker – båda andra personer. Dödsår därför ospecificerat 1875–1890."
   ],
   "sources": [
    {
@@ -16926,7 +16992,8 @@
   "summary": "Far till Katarzyna Zatorska (gift 1895 med Józef Orzechowski); avliden före 1895.",
   "notes": [
    "VIGSEL 1895 akt 169: «дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» = dotter till avlidne Józef och Antonina f. 'Kc/Koz…ów'? (efternamnet Zatorski härlett från dotterns namn; fadern namnges bara 'Іосифъ').",
-   "Józef Zatorski, jordbrukare i Szydłówek, 33 år okt 1871 (f. ca 1838). Dödsår ej funnet: St. Wojciech (Szydłówek) dödsböcker före 1890 saknas på Skanoteka; i St. Wojciechs dödsindex 1890-1894 (Z-sidor) finns ingen Заторскій. Dog således före 1895 (vigselakt) - troligen 1872-1889 i S:t Wojciech."
+   "Józef Zatorski, jordbrukare i Szydłówek, 33 år okt 1871 (f. ca 1838). Dödsår ej funnet: St. Wojciech (Szydłówek) dödsböcker före 1890 saknas på Skanoteka; i St. Wojciechs dödsindex 1890-1894 (Z-sidor) finns ingen Заторскій. Dog således före 1895 (vigselakt) - troligen 1872-1889 i S:t Wojciech.",
+   "VIGSEL 1869 akt 22 (Katedra, 25 jan 1869): «... между Господиномъ Заторскимъ Іосифомъ (Józefem Zatorskim) двадцати шести лѣтъ холостымъ ... сыномъ покойныхъ Винцента и Анны Гавликъ и Францишкою Жарновецкою (Franciszką Żarnowiecką) сорока трехъ лѣтъ дѣвицею ... дочерью Ивана и Люціи Вроблевской обоихъ умершихъ» (läsning osäker, handstil). Troligen annan Józef Zatorski (26 år, ungkarl, föräldrar Wincenty + Anna Gawlik) – se flagga."
   ],
   "sources": [
    {
@@ -17245,7 +17312,8 @@
    "FÖDELSEAKT 1875 nr 100: «отъ жены его Анешки изъ Хенулювъ двадцати шести лѣтъ отъ роду» = av hans hustru Agnieszka [?] f. 'Chenulów'? 26 år. Släktnamnet liknar 'изъ Пенцлювъ' i vigselakt 1895 (akt 169) – båda tolkningarna osäkra.",
    "Maka Agnieszka nämns som levande 1877 (efterlämnad av Michał, akt 369). Flicknamn lästes i akt 369 ungefär 'Хентшесь' (Chentsześ/Kęciesz?) - jfr 'Chenulów?' i 1875 års akt; motsäger 'Pęcłów' (mor Antonina) i 1895. Hennes egen död ej funnen i Katedras dödsindex O-sidor 1878-1883 (se flagga).",
    "Flicknamn Hencel (index 1866 'Agnieszka Hencel'), föräldrar Augustyn och Maryanna Hencel, Niewachlów. Förklarar 'Chenulów?' i 1875 års akt.",
-   "E8: akt 94: 'Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny z [..]chów małżonków Hencelów rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną' – född i Niewachlów bekräftat."
+   "E8: akt 94: 'Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny z [..]chów małżonków Hencelów rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną' – född i Niewachlów bekräftat.",
+   "FÖDELSEAKT 1871 nr 260 (dotter Antonina): hustru 'Агнешка изъ Хенцлёвъ' (Hencel), 20 år; fadder 'Валерія Хенцель' – flicknamnet Hencel bekräftat även i barnets akt."
   ],
   "sources": [
    {
@@ -18859,6 +18927,375 @@
   ],
   "search": [
    "Jan Fredrik Stridsberg (Andersson)"
+  ]
+ },
+ {
+  "id": "anna_olsson_1879_skog",
+  "name": "Anna Olsson (f. 1879, Skog), g. Eriksson",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879-12-18",
+   "place": "Skog, Brunskog",
+   "note": "A II a/1: ”79 18/12 L.” (L.=Brunskog/Lyckan-ort; ’Skog’ i bild 210)"
+  },
+  "places": [
+   "Skog (Dernere, sida 199)",
+   "Amerika 1903"
+  ],
+  "summary": "Dotter till Olof Persson (Skog, Dernere); gift 23 aug 1902 med Erik Johan Eriksson; utflyttad till Amerika 1903.",
+  "notes": [
+   "HUSFÖRHÖR A II a/1 bild 209 (sida 199, Skog Dernere) rad 4: ”b. Anna 79 18/12” dotter hos Olof Persson (54, 23/11) + 2:a hustru Anna Brunzell; anmärkning ”Fäst 17/7 m. Erik Joh. Eriksson p. 200.”; utflyttad ”p. 200 02 19/12”.",
+   "HUSFÖRHÖR A II a/1 bild 210 (sida 200, Skog Dernole) rad 10: ”h. Anna Olsson 79 18/12 Skog” = hustru till Erik Johan Eriksson, son Erik Harry. Utflyttningskolumn rad 9-10 ordagrant ”Amerika 03 [dag svårläst]/8” (för maken).",
+   "Ellis Island 3 okt 1903 S.S. New York: ”Anna 23 wife” (post JFYM-SWG), se erik_j_erikson_1903."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (vol. 00053596), bild 209 (sida 199, Skog Dernere), rad 4: Anna 79 18/12, fäst 17/7 m. Erik Joh. Eriksson",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 10: Anna Olsson 79 18/12 (hustru)",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   }
+  ],
+  "search": [
+   "Anna Olsson (f. 1879, Skog), g. Eriksson"
+  ]
+ },
+ {
+  "id": "erik_harry_eriksson_1902",
+  "name": "Erik Harry Eriksson (f. 1902)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902-11-17",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog (Dernole)",
+   "Amerika 1903"
+  ],
+  "summary": "Son till Erik Johan Eriksson och Anna Olsson; spädbarn vid utvandringen 1903.",
+  "notes": [
+   "HUSFÖRHÖR A II a/1 bild 210 (sida 200) rad 11: ”s. Erik Harry 02 17/11 Skog” (= f. 17 nov 1902).",
+   "Ellis Island 3 okt 1903: ”Eric H. infant” (post JFYM-SWP) – se erik_j_erikson_1903."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 11: ”s. Erik Harry 02 17/11 Skog”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   }
+  ],
+  "search": [
+   "Erik Harry Eriksson (f. 1902)"
+  ]
+ },
+ {
+  "id": "olof_persson_dernere_1854",
+  "name": "Olof Persson (Skog, Dernere, f. 1854)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854-11-23",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Dernere (sida 199)"
+  ],
+  "summary": "Hemmansägare; svärfar till Erik Johan Eriksson och Paul Eriksson (båda gifte sig med hans döttrar 1902–03).",
+  "notes": [
+   "A II a/1 bild 209 (sida 199): ”Olof Persson 54 23/11 L., g. 79 31/1 (1:a hustru Betty Andersdotter 54 28/9), omgift 06 [?]/4 m. Anna Brunzell 69 1/5 Mångskog”. Barn: Anna 79 18/12, Hilda Maria 82 22/9, Olof Viktor 85 2/3, Signe Karolina 88 10/5, Johan Efraim 90 7/12, Gerda Elisabet 93 30/4, Nils David 96, Paul (oäkta?) 98."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 209 (sida 199, Skog Dernere)",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   }
+  ],
+  "search": [
+   "Olof Persson (Skog, Dernere, f. 1854)"
+  ]
+ },
+ {
+  "id": "hilda_maria_olsdotter_1882",
+  "name": "Hilda Maria Olsson (f. 1882, Skog), g. Eriksson",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1882-09-22",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog"
+  ],
+  "summary": "Dotter till Olof Persson; fäst 22 juni 1903 med Paul Eriksson, flyttade till sida 200 (Dernole) 4/7 1903.",
+  "notes": [
+   "A II a/1 bild 209 rad 5: ”Hilda Maria 82 22/9”, anm. ”Fäst 22/6 03 m. Paul Erikson p. 200”, utflyttad ”p. 200 03 4/7”; bild 210 rad 21 (sida 200): ”h. Hilda Maria Olson 82 22/9” hustru till Paul Eriksson (”Fäst 4/6 03”, ”Soldatbostället”), barn Astrid Maria 04 3/7 och Erik Johan Georg 07 22/3."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 209 (sida 199) rad 5",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200) rad 20-23",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   }
+  ],
+  "search": [
+   "Hilda Maria Olsson (f. 1882, Skog), g. Eriksson"
+  ]
+ },
+ {
+  "id": "olof_viktor_olsson_1885",
+  "name": "Olof Viktor Olsson (f. 1885, Skog)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1885-03-02",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog Dernere",
+   "Amerika 1903"
+  ],
+  "summary": "Son till Olof Persson, svåger till Erik Johan Eriksson; ”Amerika 03 [dag]/8” samma datum som Erik Johan.",
+  "notes": [
+   "A II a/1 bild 209 (sida 199) rad 6: ”Olof Viktor 85 2/3 L.”, utflyttningskolumn ordagrant ”Amerika 03 [dag svårläst, 21–24]/8”. Möjlig Ellis Island-match: ”Olof T. Olson 18/19 Brunskog” på samma manifestsida som Erik J. Erikson (post JFYM-SW5) – ej verifierad.",
+   "ELLIS ISLAND (E1, detaljsida läst): post JFYM-SW5 ”Olof T. Olson”, man, ålder 19 (index; manifestålder 18/19), sista hemvist Brunskog, Sweden, nationalitet Sweden/Swedish, avresehamn Southampton, fartyg New York, bildref T715-0400-264 rad 6 – samma sida/fartyg/ankomst 3 okt 1903 som Erik J. Erikson (svåger). Initialen T (troligen feltolkat V) och ålder 19 mot 18 år 7 mån avviker något; status candidate."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 209 (sida 199), rad 6: Olof Viktor 85 2/3, ”Amerika 03 /8”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   },
+   {
+    "label": "Ellis Island Foundation, post JFYM-SW5 Olof T. Olson, S.S. New York, T715-0400-264 rad 6, Brunskog",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SW5"
+   }
+  ],
+  "search": [
+   "Olof Viktor Olsson (f. 1885, Skog)"
+  ]
+ },
+ {
+  "id": "signe_karolina_olsdotter_1888",
+  "name": "Signe Karolina Olsson (f. 1888, Skog)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1888-05-10",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog Dernere",
+   "Amerika 1907"
+  ],
+  "summary": "Dotter till Olof Persson; Amerika 1907.",
+  "notes": [
+   "A II a/1 bild 209 rad 7: ”Signe Karolina 88 10/5”, utflyttning ordagrant ”d° 07 20/5” (”d°” = ”Amerika” från raden ovan) = 20 maj 1907."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 209 (sida 199), rad 7: ”d° 07 20/5”",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   }
+  ],
+  "search": [
+   "Signe Karolina Olsson (f. 1888, Skog)"
+  ]
+ },
+ {
+  "id": "antonina_orzechowska_1871",
+  "name": "Antonina Orzechowska",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1871-05-09",
+   "place": "Niewachlów",
+   "note": "27 april jul. = 9 maj greg. 1871 kl. 23; akt 260 anmäld 2/14 maj 1871"
+  },
+  "places": [
+   "Niewachlów",
+   "Kielce"
+  ],
+  "summary": "Dotter till Michał Orzechowski och Agnieszka f. Hencel, född 9.5.1871 i Niewachlów (Kielce Katedra, akt 260). Józef Orzechowskis (f. 1875) äldre syster; namnet Antonina kan förklara varför Józefs vigselakt 1895 anger modern som 'Antonina'.",
+  "notes": [
+   "FÖDELSEAKT 1871 nr 260 (ryska): «Явился подёнщикъ изъ Невахлева Михалъ Оржеховскій (Orzechowski) тридцати лѣтъ отъ роду ... и предъявилъ Намъ младенца женскаго пола, рожденнаго въ Невахлевѣ ... двадцать седьмаго Апрѣля, девятаго Мая сего года въ одиннадцать часовъ ночью отъ жены его Агнешки изъ Хенцлёвъ [Hencel] двадцати лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Антонина, а воспріемниками ... были: Матеушъ Фёлкъ [Fiołek?] и Валерія Хенцель.» Svenska: Daglönaren från Niewachlów Michał Orzechowski, 30 år, i närvaro av daglönaren Mateusz Fiołek(?) 35 och jordbrukaren Michał Gorajski 45 (båda Niewachlów), förevisade ett flickebarn fött i Niewachlów 27 apr/9 maj kl. 23 av hustrun Agnieszka f. Hencel, 20 år; barnet fick vid dopet namnet Antonina; faddrar Mateusz Fiołek(?) och Waleria Hencel. Läsning av handstil; vittnes-/fadderefternamn osäkra.",
+   "Index: 1871 födelseindex (SkU-3, sida 175 höger) rad 'Orzechowska Antonina 260'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57, zespół 0086d) födelseakter 1871 (sy1871a), fil 253-260, akt 260: Antonina, dotter till Michał Orzechowski o. Agnieszka Hencel, Niewachlów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1871a&kt=1&plik=253-260.jpg"
+   }
+  ],
+  "search": [
+   "Antonina Orzechowska"
+  ]
+ },
+ {
+  "id": "wladyslawa_orzechowska_1907",
+  "name": "Władysława Orzechowska",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1907-12-09",
+   "place": "Szydłówek (Kielce)",
+   "note": "26 nov jul. = 9 dec greg. 1907 kl. 19; akt 376 S:t Wojciech, Kielce"
+  },
+  "died": {
+   "date": "1984-10-16",
+   "place": "Kielce",
+   "note": "enligt marginalnot (blå stämpel/handskrift) vid akten: 'zmarła 16.10.1984 w Kielcach, USC Kielce Nr 1261/84' – läsning av handskrift, delvis osäker"
+  },
+  "places": [
+   "Szydłówek",
+   "Kielce"
+  ],
+  "summary": "Dotter till Józef Orzechowski och Katarzyna f. Zatorska, född 9.12.1907 i Szydłówek; syster till Stefan (f. 1901). Bekräftar att Józef (32 år 1907) och Katarzyna (35 år 1907) var gifta och bodde i Szydłówek.",
+  "notes": [
+   "FÖDELSEAKT 1907 nr 376 (S:t Wojciech, ryska; 3 dec/16 dec?-formuleringen: «Состоялось въ городѣ Кѣльцахъ двадцать шестаго Ноября девятаго Декабря тысяча девятьсотъ седьмаго года въ часъ пополудни. Явился земледѣлецъ изъ Шидлувка Іосифъ Оржеховскій (Józef Orzechowski) тридцати двухъ лѣтъ отъ роду, въ присутствіи земледѣльцевъ тойже деревни Франца Бржичка (?) тридцати лѣтъ и Михаила Гайды сорока лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувку вчера въ семь часовъ вечера отъ жены его Екатерины урожденной Заторской тридцати пяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сего дня Нами даному имя Владислава (Władysława), воспріемниками были Францъ Бржичекъ (?) и Екатерина Кисель (?)». Svenska: Skedde i Kielce 26 nov/9 dec 1907 kl. 13. Jordbrukaren från Szydłówek Józef Orzechowski, 32 år, i närvaro av jordbrukarna från samma by Franciszek Brz...(?) 35 och Michał Gajda(?) 40, förevisade ett flickebarn fött i Szydłówek i går kl. 19 av hustrun Katarzyna f. Zatorska, 35 år; barnet fick namnet Władysława; faddrar Franciszek ... och Katarzyna Kisiel(?). Namnläsning av vittnen/faddrar osäker (handstil).",
+   "Index: 1907 födelseindex (SkU-2, högra sidan, rad 4) 'Оржеховская Владислава 376'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce S:t Wojciech (id239) födelseakter 1907 (sy1907), fil 376-381, akt 376: Władysława, dotter till Józef Orzechowski o. Katarzyna f. Zatorska, Szydłówek",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1907&kt=1&plik=376-381.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce S:t Wojciech födelseindex 1907 (SkU-2): Orzechowska Władysława 376",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1907&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Władysława Orzechowska"
+  ]
+ },
+ {
+  "id": "no_kaisa_ellefsd42",
+  "name": "Kaisa Ellefsdatter (f. 1842 Brunskog, Kristiania)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1842",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Kristiania (Sagveien) 1865",
+   "Kristiania (Maridalsveien 56) 1875"
+  ],
+  "summary": "Brunskog-född kvinna med patronymikon Ellefs- (fader Elef/Elof?), gift i Kristiania 1865; ingen länk till Elof Perssons barn (hon är född 1842, efter Elofs kända barnaskara).",
+  "notes": [
+   "VIGSEL Gamle Aker 1865-06-05: \"Karsa Ellefsdtr\" f. 1842 Brunskog Wærmeland, brur (pv00000005648599). FT 1865 Kristiania Sagveien: \"Kaisa Ellefsdatter f. 1843 Sverrige, Kone g, Seildugarb\" (pf01038027053796). FT 1875 Kristiania Maridalsveien 56: \"Kaisa Gundersen f. 1842 Brunskog Sverige\" (pf01052055055182) i samma hus som Anna Ellefsen f. 1853 Brunskog (Anna Ellefsen i trädet, no_anna_ellefsen53) – identitet Kaisa Ellefsdatter = Kaisa Gundersen sannolik men ej bevisad; släktskap Kaisa/Anna ej belagt (möjligen syskon, båda med patronymikon Ellefs-)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Kristiania, Maridalsveien 56: Kaisa Gundersen f. 1842 Brunskog Sverige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1865 Kristiania, Sagveien: Kaisa Ellefsdatter f. 1843 Sverrige, Kone g, Seildugarb",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01038027053796"
+   },
+   {
+    "label": "Digitalarkivet, Gamle Aker 1865-1873, vigsel 1865-06-05: Karsa Ellefsdtr f. 1842 Brunskog Wærmeland, brur",
+    "url": "https://www.digitalarkivet.no/en/view/267/pv00000005648599"
+   }
+  ],
+  "search": [
+   "Kaisa Ellefsdatter (f. 1842 Brunskog, Kristiania)"
+  ]
+ },
+ {
+  "id": "no_anna_johannesd58",
+  "name": "Anna Johannesdatter (f. 1858 Brunskog, tjänstepiga Eidsvoll)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1858",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eidsvoll (Strand) 1875"
+  ],
+  "summary": "Ung tjänstepiga född i Brunskog, Eidsvoll 1875; inga föräldrar nämnda, ingen trädlänk.",
+  "notes": [
+   "FT 1875 Eidsvoll prestegjeld, Strand: \"Anna Johannesdatter f. 1858 Brunskog i Vermland Sverig, Tyende ug Tjenestepige\"."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Eidsvoll, Strand: Anna Johannesdatter f. 1858 Brunskog i Vermland, tjenestepige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052052005238"
+   }
+  ],
+  "search": [
+   "Anna Johannesdatter (f. 1858 Brunskog, tjänstepiga Eidsvoll)"
+  ]
+ },
+ {
+  "id": "no_olaf_josephsen44",
+  "name": "Olaf Josephsen Berg (f. 1844 Brunskog, snickare, Hurdal)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1844",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Hurdal (Strømmen) 1875"
+  ],
+  "summary": "Snickare och sågverksbyggmästare i Hurdal 1875; patronymikon Josephsen (fader Josef). Ingen trädlänk.",
+  "notes": [
+   "FT 1875 Hurdal, Strømmen (husmandsplads): \"Olaf Josephsen Berg f. 1844 Brunskog i Vermelands Län Sverrig, hf g, Inderst, Snedker og Saugbrugsbygmester m.m.\""
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Hurdal, Strømmen: Olaf Josephsen Berg f. 1844 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054001234"
+   }
+  ],
+  "search": [
+   "Olaf Josephsen Berg (f. 1844 Brunskog, snickare, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_maria_pedersd24",
+  "name": "Maria Pedersdatter (f. 1824 Brunskog, Hurdal)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1824",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Hurdal (Sagen) 1875"
+  ],
+  "summary": "Gift kvinna i Hurdal 1875, född Brunskog 1824, patronymikon Pedersdatter (fader Per). Ingen länk till trädet.",
+  "notes": [
+   "FT 1875 Hurdal, Sagen: \"Maria Pedersdatter f. 1824 Brunskogs Sogn i Sverige, Kone g\"."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1875 Hurdal, Sagen: Maria Pedersdatter f. 1824 Brunskogs Sogn",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054001844"
+   }
+  ],
+  "search": [
+   "Maria Pedersdatter (f. 1824 Brunskog, Hurdal)"
   ]
  }
 ]

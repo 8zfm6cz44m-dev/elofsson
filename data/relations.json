@@ -4247,8 +4247,8 @@
   "type": "sibling",
   "a": "johan_albin_augustsson",
   "b": "nils_ejnar_augustsson",
-  "status": "strong",
-  "basis": "Brunskog A I/35 bild 254 (redan i repot) + gemensam manifestsida Teutonic 1903 rad 3-4"
+  "status": "verified",
+  "basis": "Samma hushåll sida 144; båda ”Amerika 03 6/4”."
  },
  {
   "id": "p-erik_j_erikson_1903-anna_erikson_1903",
@@ -4794,5 +4794,130 @@
   "b": "jan_fredrik_stridsberg_1815",
   "status": "verified",
   "basis": "Samma föräldrar enligt dop 1810 (bild 49) och 1815 (bild 60)."
+ },
+ {
+  "id": "p-erikjohan-anna_olsson_1879_skog",
+  "type": "partner",
+  "a": "erikjohan",
+  "b": "anna_olsson_1879_skog",
+  "status": "verified",
+  "basis": "Brunskog A II a/1 bild 210 (sida 200) rad 9-10: ”Gu s. Erik Johan Eriksson g. 23/8 02”, ”h. Anna Olsson 79 18/12”; bild 209 anm. ”Fäst 17/7 m. Erik Joh. Eriksson p. 200”."
+ },
+ {
+  "id": "c-erikjohan-anna_olsson_1879_skog-erik_harry_eriksson_1902",
+  "type": "child",
+  "parents": [
+   "erikjohan",
+   "anna_olsson_1879_skog"
+  ],
+  "child": "erik_harry_eriksson_1902",
+  "status": "verified",
+  "basis": "Brunskog A II a/1 bild 210 rad 11: ”s. Erik Harry 02 17/11” i Erik Johan + Anna Olssons hushåll."
+ },
+ {
+  "id": "p-paul_e-hilda_maria_olsdotter_1882",
+  "type": "partner",
+  "a": "paul_e",
+  "b": "hilda_maria_olsdotter_1882",
+  "status": "verified",
+  "basis": "Brunskog A II a/1 bild 210 (sida 200) rad 20-22: ”Paul Eriksson 81 6/11”, ”h. Hilda Maria Olson 82”; bild 209 anm. ”Fäst 22/6 03 m. Paul Eriksson p. 200”."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-anna_olsson_1879_skog",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "anna_olsson_1879_skog",
+  "status": "verified",
+  "basis": "Brunskog A II a/1 bild 209 (sida 199) rad 4: ”b. Anna 79 18/12” i Olof Perssons hushåll."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-hilda_maria_olsdotter_1882",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "hilda_maria_olsdotter_1882",
+  "status": "verified",
+  "basis": "Bild 209 rad 5: ”Hilda Maria 82 22/9”."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-olof_viktor_olsson_1885",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "olof_viktor_olsson_1885",
+  "status": "verified",
+  "basis": "Bild 209 rad 6: ”Olof Viktor 85 2/3”."
+ },
+ {
+  "id": "c-olof_persson_dernere_1854-signe_karolina_olsdotter_1888",
+  "type": "child",
+  "parents": [
+   "olof_persson_dernere_1854"
+  ],
+  "child": "signe_karolina_olsdotter_1888",
+  "status": "verified",
+  "basis": "Bild 209 rad 7: ”Signe Karolina 88 10/5”."
+ },
+ {
+  "id": "c-august_nilsson_gullsbyn-johan_albin_augustsson",
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn"
+  ],
+  "child": "johan_albin_augustsson",
+  "status": "verified",
+  "basis": "A II a/1 bild 154 (sida 144) rad 11: ”Johan Albin 83 27/7 Upsala” i August Nilssons hushåll."
+ },
+ {
+  "id": "c-august_nilsson_gullsbyn-nils_ejnar_augustsson",
+  "type": "child",
+  "parents": [
+   "august_nilsson_gullsbyn"
+  ],
+  "child": "nils_ejnar_augustsson",
+  "status": "verified",
+  "basis": "A II a/1 bild 154 rad 13: ”Nils Einar 87 21/8”."
+ },
+ {
+  "id": "c-michal_orzechowski-agnieszka_orzechowska_1849-antonina_orzechowska_1871",
+  "type": "child",
+  "parents": [
+   "michal_orzechowski",
+   "agnieszka_orzechowska_1849"
+  ],
+  "child": "antonina_orzechowska_1871",
+  "status": "verified",
+  "basis": "Födelseakt Kielce Katedra 1871 nr 260: 'Михалъ Оржеховскій ... отъ жены его Агнешки изъ Хенцлёвъ ... имя Антонина', Niewachlów (Skanoteka sy1871a 253-260)"
+ },
+ {
+  "id": "s-antonina_orzechowska_1871-jozef_orzechowski",
+  "type": "sibling",
+  "a": "antonina_orzechowska_1871",
+  "b": "jozef_orzechowski",
+  "status": "strong",
+  "basis": "Samma föräldrar Michał + Agnieszka (Hencel), Niewachlów; Józef enligt akt 100/1875 (akten säger ej 'son')"
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-wladyslawa_orzechowska_1907",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "wladyslawa_orzechowska_1907",
+  "status": "verified",
+  "basis": "Födelseakt Kielce S:t Wojciech 1907 nr 376: 'Іосифъ Оржеховскій ... отъ жены его Екатерины урожденной Заторской ... имя Владислава', Szydłówek (Skanoteka sy1907 376-381)"
+ },
+ {
+  "id": "s-wladyslawa_orzechowska_1907-stefan",
+  "type": "sibling",
+  "a": "wladyslawa_orzechowska_1907",
+  "b": "stefan",
+  "status": "verified",
+  "basis": "Samma föräldrar Józef Orzechowski + Katarzyna f. Zatorska, Szydłówek (akt 376/1907 och akt 68/1903)"
  }
 ]
