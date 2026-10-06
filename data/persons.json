@@ -4227,10 +4227,17 @@
    {
     "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö: Olof August Johannesson, styvson till Anders Jansson; modern Anna Andersdotter",
     "url": "https://sok.riksarkivet.se/?postid=Folk_120430864"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 42 (1834), nr 50: ”Anders Nordsjö, född 28, döpt 29 nov, B. Jan Jonsson, Kajsa Olsdotter” (mor 37 år); faddrar ”Nils Pettersson, Britta Jansd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00042"
    }
   ],
   "search": [
    "Anders Jansson"
+  ],
+  "notes": [
+   "MÖJLIG DOPPOST Boda C I/3 bild 42: ”Anders Nordsjö … B. Jan Jonsson, Kajsa Olsdotter”, född 28/döpt 29 nov 1834 (candidate)."
   ]
  },
  {
@@ -14601,7 +14608,8 @@
   ],
   "summary": "Anders Nilssons hustru 1890; sannolikt Karl August Anderssons mor (död/ersatt före 1900 av Lena/Lina Andersdotter).",
   "notes": [
-   "FOLKRÄKNING 1890 Boda, Renstad: 'Andersdotter, Ingegärd Maria, f. 1857 i Boda' i hushåll med Anders Nilsson och barnen Johan Alfred, Anna Maria, Karl August. 1900 anges Karl som 'hans s. i 1:a g.' och hustrun heter då Lena (f. 1858). Moderskap inte uttryckligen angivet i 1890 (hushållet visar 'Karl August s.')."
+   "FOLKRÄKNING 1890 Boda, Renstad: 'Andersdotter, Ingegärd Maria, f. 1857 i Boda' i hushåll med Anders Nilsson och barnen Johan Alfred, Anna Maria, Karl August. 1900 anges Karl som 'hans s. i 1:a g.' och hustrun heter då Lena (f. 1858). Moderskap inte uttryckligen angivet i 1890 (hushållet visar 'Karl August s.').",
+   "DOPBOK Boda C I/3 bild 107: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd.”; faddrar ”B. Jord Jordsson och H. Maria Jansd. fr. Renstad”. Föräldrar: Anders Svensson / Maria Jordsdotter, N. Boda (nr 25)."
   ],
   "sources": [
    {
@@ -14615,6 +14623,10 @@
    {
     "label": "Riksarkivet, Boda husförhörslängd A I/25 (C0036590), bild 311 (folio 313, Renstad ”Ängen”): ”Anders Nilsson 53 15/10 Boda; Ingegärd Maria Andersdotter 57 14/12 Boda, gift 2?/3 1880; barn Johan Alfred 4/7 1884, Anna Maria 7/2 1886, Karl August 1/1 1888”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036590_00311"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 107 (s. 175), dec 1857: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd[otter]” (mor 32 år); faddrar ”B. Jord Jordsson och H. Maria Jansd. fr. Renstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00107"
    }
   ],
   "search": [
@@ -14833,15 +14845,17 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1847",
-   "place": "Brunskog, Värmlands län"
+   "date": "1847-03-01",
+   "place": "Gullsby, Brunskog",
+   "note": "dop 3 mars 1847, C I/5 bild 20"
   },
   "places": [
    "Gullsbyn, Brunskog"
   ],
   "summary": "Augusts hustru från ca 1890–1900 (styvmor till Hanna); f. 1847.",
   "notes": [
-   "FOLKRÄKNING 1900 Gullsbyn: 'Jansdotter, Stina, f. 1847 i Brunskog' i hushållet. Åldern 42 år 1889 gör moderskap möjligt men inte bevisat; kontrollera födelsebok 1889 (se unresolved)."
+   "FOLKRÄKNING 1900 Gullsbyn: 'Jansdotter, Stina, f. 1847 i Brunskog' i hushållet. Åldern 42 år 1889 gör moderskap möjligt men inte bevisat; kontrollera födelsebok 1889 (se unresolved).",
+   "DOPBOK Brunskog C I/5 bild 20: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd.”; faddrar ”Olof Olsson o. Karin Olsd. ibm”. Föräldrar: Jan Svensson / Maria Andersdotter, Gullsby. Tidigare notering om kontroll av 1889 (moderskap Hanna) ej berörd."
   ],
   "sources": [
    {
@@ -14851,6 +14865,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, bild Folk_017069-015",
     "url": "https://sok.riksarkivet.se/bildvisning/Folk_017069-015"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (C0036785), bild 20 (s. 19), mars 1847: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd[otter]”; faddrar ”Olof Olsson o. Karin Olsd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00020"
    }
   ],
   "search": [
@@ -20704,6 +20722,144 @@
   ],
   "search": [
    "Elin Svensdotter (Gönäs, Frykerud)"
+  ]
+ },
+ {
+  "id": "anders_svensson_nboda",
+  "name": "Anders Svensson (N. Boda 25)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "N. Boda (nr 25), Boda"
+  ],
+  "summary": "Far till Ingegärd Maria Andersdotter (dop 1857) enligt Boda dopbok; gift med Maria Jordsdotter.",
+  "notes": [
+   "DOP Boda 1857: ”N. Boda (25) B. Anders Swensson och H. Maria Jordsd.” (barn Ingjerd Maria, f. 14 / d. 18 dec 1857). Husförhörsbekräftelse (Anders Svensson/Maria Jordsd. N. Boda) ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 107 (s. 175), dec 1857: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd[otter]” (mor 32 år); faddrar ”B. Jord Jordsson och H. Maria Jansd. fr. Renstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00107"
+   }
+  ],
+  "search": [
+   "Anders Svensson (N. Boda 25)"
+  ]
+ },
+ {
+  "id": "maria_jordsd_nboda",
+  "name": "Maria Jordsdotter (N. Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "N. Boda (nr 25), Boda"
+  ],
+  "summary": "Mor till Ingegärd Maria Andersdotter (dop 1857); hustru till Anders Svensson; ca 32 år 1857 (f. ca 1825).",
+  "notes": [
+   "DOP Boda 1857: ”H. Maria Jordsd.” ; ålder 32 i åldersspalten."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 107 (s. 175), dec 1857: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd[otter]” (mor 32 år); faddrar ”B. Jord Jordsson och H. Maria Jansd. fr. Renstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00107"
+   }
+  ],
+  "search": [
+   "Maria Jordsdotter (N. Boda)"
+  ]
+ },
+ {
+  "id": "jan_svensson_gullsby",
+  "name": "Jan Svensson (Gullsby)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Gullsby, Brunskog"
+  ],
+  "summary": "Far till Stina Jansdotter (f. 1/3 1847) enligt Brunskogs dopbok.",
+  "notes": [
+   "DOP Brunskog 1847: ”Gullesby. Jan Swensson / H. Maria Andersd.” (Stina f. 1, döpt 3 mars 1847). Husförhör A I/23 Gullsbyn (bild 67–70) lästes men familjen hittades inte."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (C0036785), bild 20 (s. 19), mars 1847: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd[otter]”; faddrar ”Olof Olsson o. Karin Olsd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00020"
+   }
+  ],
+  "search": [
+   "Jan Svensson (Gullsby)"
+  ]
+ },
+ {
+  "id": "maria_andersd_gullsby",
+  "name": "Maria Andersdotter (Gullsby, Jan Svenssons hustru)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Gullsby, Brunskog"
+  ],
+  "summary": "Mor till Stina Jansdotter (f. 1847); hustru till Jan Svensson; ålder angiven ca 28 (svårläst).",
+  "notes": [
+   "DOP Brunskog 1847: ”H. Maria Andersd.” i åldersspalten ”28” (osäker läsning)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (C0036785), bild 20 (s. 19), mars 1847: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd[otter]”; faddrar ”Olof Olsson o. Karin Olsd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00020"
+   }
+  ],
+  "search": [
+   "Maria Andersdotter (Gullsby, Jan Svenssons hustru)"
+  ]
+ },
+ {
+  "id": "jan_jonsson_nordsjo",
+  "name": "Jan Jonsson (Nordsjö, Boda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Far till Anders (dop 28/29 nov 1834 Nordsjö) – möjlig far till Anders Jansson (andersjansson); identifiering via husförhör ej gjord.",
+  "notes": [
+   "DOP Boda 1834 nr 50: ”Anders Nordsjö … B. Jan Jonsson, Kajsa Olsdotter”, mor 37 år; faddrar ”Nils Pettersson, Britta Jansd. ibm”. Patronymikon Jansson stämmer, hemby Nordsjö stämmer med Anders Janssons boplats. Bekräftande husförhör (A I/20 Nordsjö b.223–230, 1856–60) visade ej Jan Jonssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 42 (1834), nr 50: ”Anders Nordsjö, född 28, döpt 29 nov, B. Jan Jonsson, Kajsa Olsdotter” (mor 37 år); faddrar ”Nils Pettersson, Britta Jansd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00042"
+   }
+  ],
+  "search": [
+   "Jan Jonsson (Nordsjö, Boda)"
+  ]
+ },
+ {
+  "id": "kajsa_olsdotter_nordsjo",
+  "name": "Kajsa Olsdotter (Nordsjö, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Mor till Anders (dop 1834 Nordsjö), ca 37 år 1834 (f. ca 1797).",
+  "notes": [
+   "DOP Boda 1834 nr 50: ”Kajsa Olsdotter”, åldersspalt 37."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (C0036594), bild 42 (1834), nr 50: ”Anders Nordsjö, född 28, döpt 29 nov, B. Jan Jonsson, Kajsa Olsdotter” (mor 37 år); faddrar ”Nils Pettersson, Britta Jansd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00042"
+   }
+  ],
+  "search": [
+   "Kajsa Olsdotter (Nordsjö, Boda)"
   ]
  }
 ]

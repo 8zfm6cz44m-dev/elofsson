@@ -5290,5 +5290,62 @@
   "b": "elin_svensdotter_gonas",
   "status": "strong",
   "basis": "Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar."
+ },
+ {
+  "id": "c-anders_svensson_nboda-maria_jordsd_nboda-ingegard_andersdotter",
+  "type": "child",
+  "parents": [
+   "anders_svensson_nboda",
+   "maria_jordsd_nboda"
+  ],
+  "child": "ingegard_andersdotter",
+  "status": "strong",
+  "basis": "Boda dopbok C I/3 bild 107: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd.” Namn + födelsedag (14 dec 1857, enl. husförhör A I/25 bild 311) + by stämmer; husförhörsbekräftelse (”dotter”) saknas → strong, ej verified."
+ },
+ {
+  "id": "p-anders_svensson_nboda-maria_jordsd_nboda",
+  "type": "partner",
+  "a": "anders_svensson_nboda",
+  "b": "maria_jordsd_nboda",
+  "status": "strong",
+  "basis": "Boda dopbok C I/3 bild 107: ”B. Anders Swensson och H. Maria Jordsd.” (föräldrar, N. Boda 25)."
+ },
+ {
+  "id": "c-jan_svensson_gullsby-maria_andersd_gullsby-stina_jansdotter",
+  "type": "child",
+  "parents": [
+   "jan_svensson_gullsby",
+   "maria_andersd_gullsby"
+  ],
+  "child": "stina_jansdotter",
+  "status": "strong",
+  "basis": "Brunskog dopbok C I/5 bild 20: ”1 | 3 | Stina | Gullesby. Jan Swensson / H. Maria Andersd.” Namn + födelsedag 1/3 1847 (enl. A II a/1, se person august_nilsson_gullsbyn) + by Gullsby, patronymikon Jansdotter stämmer; husförhör ”dotter” ej funnet → strong."
+ },
+ {
+  "id": "p-jan_svensson_gullsby-maria_andersd_gullsby",
+  "type": "partner",
+  "a": "jan_svensson_gullsby",
+  "b": "maria_andersd_gullsby",
+  "status": "strong",
+  "basis": "Brunskog dopbok C I/5 bild 20: ”Jan Swensson / H. Maria Andersd.” som föräldrar."
+ },
+ {
+  "id": "c-jan_jonsson_nordsjo-kajsa_olsdotter_nordsjo-andersjansson",
+  "type": "child",
+  "parents": [
+   "jan_jonsson_nordsjo",
+   "kajsa_olsdotter_nordsjo"
+  ],
+  "child": "andersjansson",
+  "status": "candidate",
+  "basis": "Boda dopbok C I/3 bild 42 nr 50: ”Anders Nordsjö … B. Jan Jonsson, Kajsa Olsdotter”, född 28 / döpt 29 nov 1834. Endast patronymikon + år + by; födelsedatum för Anders Jansson ej kontrollerat mot husförhör/folkräkning → candidate."
+ },
+ {
+  "id": "p-jan_jonsson_nordsjo-kajsa_olsdotter_nordsjo",
+  "type": "partner",
+  "a": "jan_jonsson_nordsjo",
+  "b": "kajsa_olsdotter_nordsjo",
+  "status": "candidate",
+  "basis": "Boda dopbok C I/3 bild 42 nr 50: ”B. Jan Jonsson, Kajsa Olsdotter”."
  }
 ]

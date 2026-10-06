@@ -1945,6 +1945,13 @@
     "erik_christ",
     "christopher_svensson_saldebraten"
    ]
+  },
+  {
+   "title": "Olof Persson Dernere (f. 23/11 1854) – dop ej i Brunskog dopbok nov 1854",
+   "text": "Brunskog C I/5 bild 54 (nov–dec 1854) och bild 55 (jan 1855) saknar dop 23/11; november har endast födda 4, 26, 29, 30. A II a/1 anger födelseort ”L.” (osäker förkortning, ej uttolkad som Brunskog). Möjligen född i annan socken eller felläst datum. Därför ingen föräldralänk skapad.",
+   "persons": [
+    "olof_persson_dernere_1854"
+   ]
   }
  ],
  "conflicts": [
@@ -2330,6 +2337,14 @@
    "persons": [
     "christopher_persson_asen",
     "pal_nilsson_hagen"
+   ]
+  },
+  {
+   "title": "Brief-uppgift Olof Jansson 1821 vs 'Där Nole'/Maria Persdotter",
+   "text": "Uppgiften 'Där Nole/Svartåna, g. Maria Persdotter' hör till d7_olof_jansson_1836_svartana (f. 3/3 1836 Svartåna, A I/37 bild 208), inte till olofjansson (f. 1821, Ö. Takene, g. Britta Nilsdotter 1820). Två olika Olof Jansson. Dopbok Brunskog 1821 (C I/3 bild 142–146) genomläst översiktligt: enda kandidat med far Jan Jansson är 'Olof, Byn' (bild 144, nr 49, mor Ellen Nilsdotter), ej styrkt.",
+   "persons": [
+    "olofjansson",
+    "d7_olof_jansson_1836_svartana"
    ]
   }
  ],
