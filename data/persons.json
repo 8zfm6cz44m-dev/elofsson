@@ -4511,6 +4511,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/31 (1866–1870, C0036770), bild 182 (s.188, Östra Takene 1 Kr. Sk.): ”Inhyses Brodr: Anders Elofsson 16 13/4 Ö Takene”, ”H: Stina Nilsd: 13 23/10 Frykerud”; ingen utflyttning noterad för dem t.o.m. 1870",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00182"
+   },
+   {
+    "label": "Digitalarkivet, Eidsvoll ministerialbok 1891–1900 (SAO-A-10888/F/Fa/L0004, I 4), Døde og begravede 1893, s. 204 nr 45 (skannad bild, avläst): Anders Ellefsen Enkemd. Fattiglem, f. 1816 Vermeland, Storbraaten (?), Asthma, död 15/11, begr. 24/11 1893",
+    "url": "https://www.digitalarkivet.no/en/view/267/pg00000003938234"
+   },
+   {
+    "label": "Digitalarkivet, 1891 census Ullensaker (0235), Øvre Sundby, Thorsten Nielsen (gnr 163 bnr 3): 002 Anders Ellefsen., Logerende hørende til Familien, e-mand, f. 1816 Brunskog. Vermeland. Sverige",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052715005286"
    }
   ],
   "search": [
@@ -4560,14 +4568,16 @@
    "HUSFÖRHÖR A I/33 (1871–80, C0036772) bild 196 (s.187, Östra Takene 1 Kr. Sk.): hushållet Enkan Kajsa Andersdotter (Per Elofssons änka) med Anders 54, Maria 56, Emil 59, Johan 63 – Anders Elofsson sr och Stina Nilsd. finns INTE på sidorna Ö. Takene s.186–192 (bild 195–202) eller Svartåna s.238–239 (bild 250–251) som jag hann läsa; de är alltså utflyttade senast vid bokens start (1870/71) eller står på annan sida. Utflyttningsnotering ej funnen. Sonen Anders (f. 30/8 48) står 1871 som ”Dräng Anders Andersson” på s.187 med flyttanteckning ”Grava S:n 14/11 72 (Bor …) p.178”.",
    "W3 A I/31 (1866–70, C0036770) bild 182 (s.188, Östra Takene 1 Kr. Sk.), zoomad: ”Inhyses / Brodr: Anders Elofsson | 16 | 13/4 | Ö Takene” och ”H: Stina Nilsd: | 13 | 23/10 | Frykerud”; ingen utflyttnings- eller dödnotering i flytt-/anmärkningskolumnerna på deras rader (till skillnad från sonen Nils: ”Lyst 1 ... med Pig. Johanna Persdotter i Remstad, Boda S:n p.168” och Anders jr: överstruken, utflyttad ”70”). Födelsedag 13/4 1816 (Brunskog) bekräftad.",
    "W3 A I/33 (1871–80, C0036772): Östra Takene bild 196–209 (s.187–198; bild 195 = s.186 Skog, bild 203 = s.193) genomläst: ingen Anders Elofsson/Stina Nilsd. bland hushållen (bl.a. Kajsa Andersdotter/Per Elofssons änka s.187; Olof Jansson s.193; Erik Nilsson s.194; Olof Olsson/Jonas Olsson s.195–196; Johannes Larsson s.197; Gl. Anders Olsson s.198). A I/34 (C0036773, bild 8–10 = s.391–393 'Byn') är fortsättningen av A I/33 (sid 391+), inte en annan sockenhalva, och innehåller alltså inte Takene. Utflyttning till Norge ligger därför efter bokens upprättande 1870/71 men bokförs inte på deras rad; Brunskogs flyttlängd efter 1860 är inte digitaliserad i Riksarkivet (B/4 C0036781 slutar 1860; B/5 saknas i serien C0036778–81).",
-   "W3 NORGE: Digitalarkivet (curl 2026-10, avancerad personsök 1868–1880, efternamn Elof*/Ellef*, f.år 1814–18; födelseort Brunskog 1868–80; Stina f. 1812–14 Eidsvold 1868–92): inga nya poster utöver FT 1875 Hoel (Anders pf01052052001547, Stina pf01052052001548), FT 1891 Ullensaker och begravning Eidsvoll 1893. Ingen inflyttning (ministerialbok 1870–75) indexerad för paret."
+   "W3 NORGE: Digitalarkivet (curl 2026-10, avancerad personsök 1868–1880, efternamn Elof*/Ellef*, f.år 1814–18; födelseort Brunskog 1868–80; Stina f. 1812–14 Eidsvold 1868–92): inga nya poster utöver FT 1875 Hoel (Anders pf01052052001547, Stina pf01052052001548), FT 1891 Ullensaker och begravning Eidsvoll 1893. Ingen inflyttning (ministerialbok 1870–75) indexerad för paret.",
+   "DÖD Eidsvoll 1893 s.204 nr 45 (skannad bild avläst): ”Anders Ellefsen Enkemd. Fattiglem.” f. ”1816”, födelseort ”Vermeland”, bosted (läst) ”Storbraaten” (osäker läsning), dödsorsak ”Asthma”, död 15/11, begravd 24/11 1893. Ålder anges ej (endast födelseår). Index (pg00000003938234) saknar bosted/ålder/orsak.",
+   "FOLKRÄKNING 1891 Ullensaker (0235), Øvre Sundby, Thorsten Nielsen: ”002 Anders Ellefsen., Logerende hørende til Familien, e-mand, 1816, Brunskog. Vermeland. Sverige” – födelseorten Brunskog uttryckligen angiven; enkemann 1891 => Stina död före 1/1 1891."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok).",
   "died": {
    "date": "1893-11-15",
-   "place": "Eidsvoll",
-   "note": "Digitalarkivet (AMF-transkription av Eidsvoll kirkebok 1891–1900, s. 204 nr 45): dødsdato 11-15 1893, begravet 24/11 1893; fødd 1816 ”Vermeland”. Ej kontrollerat mot bild."
+   "place": "Eidsvoll (Storbraaten?), Norge",
+   "note": "begravd 24/11 1893; Eidsvoll ministerialbok 1891–1900 s.204 nr 45; enkemann; fattiglem; orsak Asthma"
   }
  },
  {
@@ -16658,7 +16668,8 @@
    "H3: Barn i Boda: Maria Cajsa f. 23 jan 1842 och Nils f. 30 aug 1844 (Ärtetan), moder Stina Nilsd.r.",
    "HUSFÖRHÖR A I/14 bild 99: ”D. Stina 1813 26/10”; A I/15 bild 126: ”Stina 1813 26/10” i Nils Jonssons hushåll, Lene. Äldre Stina f. 1808 överstruken i A I/14 (se fr_stinanilsd1808).",
    "N4: Stina Nilsdotter (23/10 1813 Frykerud) följde Anders: Frykerud A I/20 bild 204/215 (Lene, in från Boda 45, ut till p.196 / 46 ; B/1 bild 50: utflyttad Frykerud -> Brunskog 1847) och Brunskog A I/23 bild 135 s.123 Ö. Takene (”H. Stina Nilsd.”). Fick sonen Anders 30/8 1848 (Brunskog C I/5 bild 27).",
-   "W3: Stina syns i A I/31 bild 182 (s.188) 1866–70 som ”H: Stina Nilsd: 13 23/10 Frykerud” (inhyses hos svågern Per Elofssons hushåll); finns inte i A I/33 (Takene s.187–198) eller i norsk indexerad källa före FT 1875. Ingen dödspost i Norge 1875–1890 hittad (omsökt)."
+   "W3: Stina syns i A I/31 bild 182 (s.188) 1866–70 som ”H: Stina Nilsd: 13 23/10 Frykerud” (inhyses hos svågern Per Elofssons hushåll); finns inte i A I/33 (Takene s.187–198) eller i norsk indexerad källa före FT 1875. Ingen dödspost i Norge 1875–1890 hittad (omsökt).",
+   "BEGRÄNSNING: Anders är enkemann både 1891 (FT Ullensaker) och 1893 (död Eidsvoll, ”Enkemd.”) => Stina död före 1/1 1891. Digitalarkivets personindex (sök 1876–1893, Stin*/Nils*, f. 1809–1817, kyrkobokskällor; även Stin*/Ellef*) ger ingen träff i Eidsvoll/Ullensaker – dödsposten ej indexerad."
   ],
   "sources": [
    {
