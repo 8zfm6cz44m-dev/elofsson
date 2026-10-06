@@ -6769,8 +6769,8 @@
  {
   "id": "p-august_jansson62-maria_olsd66_aj",
   "type": "partner",
-  "status": "strong",
-  "basis": "Folkräkning 1890 (Gryttom s.61), 1900 och 1910 (Wikene): August Jansson f. 1862 och Maria Olsdotter/Olsson f. 1866, båda födda Brunskog, gift",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Brunskog, Wikene s. 29 rad 12–13 (Folk_128884130/-131): August Jansson f. 1862, gift, vigselår 1890; Olsson, Maria f. 1866, Familjeställning ”h.”, vigselår 1890.",
   "a": "august_jansson62",
   "b": "maria_olsd66_aj"
  },
@@ -6843,8 +6843,8 @@
  {
   "id": "c-august_jansson62-maria_olsd66_aj-tyra_aj07",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning Brunskog (Wikene) 1910: Tyra Alice Jansson f. 1907 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Brunskog, Wikene (Folk_128884132/-133): svärsonen Nyström, Gustav Ragnar (”svärs.”) och hans hustru Jansson, Tyra Alina f. 1907 (”f. Jansson”) bor i fam. nr 2 i August Janssons hushåll – dotter-/svärsonsställning uttrycklig.",
   "parents": [
    "august_jansson62",
    "maria_olsd66_aj"
@@ -7300,8 +7300,8 @@
   "type": "partner",
   "a": "jo_johanaugust",
   "b": "jo_hulda_maria81",
-  "status": "candidate",
-  "basis": "Folkräkning 1910/1930 Boda, Renstad: hushåll med Johan August f. 1882 och Hulda Maria Johannesdotter f. 1881, gift (familjeställning ej utläst)."
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381597): Johan August f. 1882 gift, vigselår 1903; hushållet har Johannesdotter, Hulda Maria f. 1881 som enda vuxna kvinna; 1910 samma uppställning (Folk_125553536)."
  },
  {
   "id": "s-olofaugust-brittacaisa_j",
@@ -9512,5 +9512,392 @@
   "b": "alma_maria_alfredsson_1883",
   "status": "verified",
   "basis": "Folkräkning 1910 Svartåna: Johan Fridolf Persson ”Gifte son”, hustru Alma Maria Alfredsson 1883 i samma familj (fam 2)."
+ },
+ {
+  "id": "p-tyra_aj07-ap5_gustav_nystrom04",
+  "type": "partner",
+  "a": "tyra_aj07",
+  "b": "ap5_gustav_nystrom04",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Brunskog, Wikene s. 29 rad 13–14 (Folk_128884132/-133): Nyström, Gustav Ragnar f. 1904, ”svärs.”, gift, vigselår 1930, fam. nr 2 i August Janssons hushåll; ”Jansson, Tyra Alina f. 1907”, ”h.”, ”f. Jansson”, vigselår 1930."
+ },
+ {
+  "id": "p-ap5_karl_nystrom62-ap5_kjerstin_andersson59",
+  "type": "partner",
+  "a": "ap5_karl_nystrom62",
+  "b": "ap5_kjerstin_andersson59",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs: Nyström, Karl f. 1862 och Andersson, Kjerstin f. 1859 som makar i samma hushåll med sex barn (Folk_125550473)."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_hulda_nystrom90",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_hulda_nystrom90",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): barn i hushållet Nyström, Karl f. 1862 / Andersson, Kjerstin f. 1859."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_karlejnar_nystrom92",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_karlejnar_nystrom92",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): barn i hushållet Nyström, Karl f. 1862 / Andersson, Kjerstin f. 1859."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_estermaria_nystrom94",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_estermaria_nystrom94",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): barn i hushållet Nyström, Karl f. 1862 / Andersson, Kjerstin f. 1859."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_annateresia_nystrom98",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_annateresia_nystrom98",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): barn i hushållet Nyström, Karl f. 1862 / Andersson, Kjerstin f. 1859."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_anderssigurd_nystrom01",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_anderssigurd_nystrom01",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): barn i hushållet Nyström, Karl f. 1862 / Andersson, Kjerstin f. 1859."
+ },
+ {
+  "id": "c-ap5_karl_nystrom62-ap5_kjerstin_andersson59-ap5_gustav_nystrom04",
+  "type": "child",
+  "parents": [
+   "ap5_karl_nystrom62",
+   "ap5_kjerstin_andersson59"
+  ],
+  "child": "ap5_gustav_nystrom04",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Brunskog, Årnäs s. 40 rad 9 (Folk_125550473): Gustaf Ragnar f. 1904, ”s.” (Familjeställning), Famstkod Barn, i hushåll Nyström, Karl/Andersson, Kjerstin; identiteten med Gustav Ragnar 1930 via namn+årtal+socken."
+ },
+ {
+  "id": "p-hildur_aj97-ap5_karlalgot_wiman95",
+  "type": "partner",
+  "a": "hildur_aj97",
+  "b": "ap5_karlalgot_wiman95",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Brunskog, Årnäs s. 34 rad 13 (Folk_128884375): ”Jansson, Hildur Karolina f. 1897 Brunskog”, Familjeställning ”h.”, Famstkod Mor/fru, gift, vigselår 1923, Övrigt ”f. Jansson”; make Wiman, Karl Algot f. 1895 Boda, Rättare Brukare."
+ },
+ {
+  "id": "p-olofgunnar_jo97-ap5_arvida_svensson00",
+  "type": "partner",
+  "a": "olofgunnar_jo97",
+  "b": "ap5_arvida_svensson00",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Olsson, Olof Gunnar f. 1897, gift, vigselår 1926; i hushållet Svensson, Arvida f. 1900 Borås samt barn Karin Gunnel 1927 och Åke Gunnar 1929."
+ },
+ {
+  "id": "c-olofgunnar_jo97-ap5_arvida_svensson00-ap5_karingunnel_jo27",
+  "type": "child",
+  "parents": [
+   "olofgunnar_jo97",
+   "ap5_arvida_svensson00"
+  ],
+  "child": "ap5_karingunnel_jo27",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Karin Gunnel f. 1927 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900."
+ },
+ {
+  "id": "c-olofgunnar_jo97-ap5_arvida_svensson00-ap5_akegunnar_jo29",
+  "type": "child",
+  "parents": [
+   "olofgunnar_jo97",
+   "ap5_arvida_svensson00"
+  ],
+  "child": "ap5_akegunnar_jo29",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Åke Gunnar f. 1929 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_mariaelvina_ja02",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_mariaelvina_ja02",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 41) (Folk_125553538): Maria Elvina f. 1902 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_estervik_ja06",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_estervik_ja06",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 42) (Folk_125553539): Ester Viktoria f. 1906 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_ernstgeorg_ja08",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_ernstgeorg_ja08",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 43) (Folk_125553540): Ernst Georg f. 1908 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_arvidkrispin_ja11",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_arvidkrispin_ja11",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34) (Folk_128381597): Arvid Krispin f. 1911 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_karlsigurd_ja17",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_karlsigurd_ja17",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381600): Karl Sigurd f. 1917 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_hannagreta_ja19",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_hannagreta_ja19",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Hanna Greta f. 1919 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_sverik_ja21",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_sverik_ja21",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Sven Erik f. 1921 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_valborgviola_ja24",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_valborgviola_ja24",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Valborg Viola f. 1924 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_elvalinnea_ja28",
+  "type": "child",
+  "parents": [
+   "jo_johanaugust",
+   "jo_hulda_maria81"
+  ],
+  "child": "ap5_elvalinnea_ja28",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (s. 22) (Folk_128381597): Elva Linnéa f. 1928 Boda, barn i hushållet Johan August Johannesson f. 1882 / Hulda Maria Johannesdotter f. 1881."
+ },
+ {
+  "id": "p-jo_august_andersson54-ap5_brittakajsa_olsd59",
+  "type": "partner",
+  "a": "jo_august_andersson54",
+  "b": "ap5_brittakajsa_olsd59",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900/1910/1930 Boda, Renstad: Andersson, August f. 1854 och Olsdotter/Olsson, Britta Kajsa f. 1859 som makar; 1930 (Folk_128381566) är August Anderssons barn från förra äktenskapet märkta ”m. d. i f. ä.”, dvs. Britta Kajsa är andra hustru."
+ },
+ {
+  "id": "c-ap5_brittakajsa_olsd59-ap5_emiliehelene_jd84",
+  "type": "child",
+  "parents": [
+   "ap5_brittakajsa_olsd59"
+  ],
+  "child": "ap5_emiliehelene_jd84",
+  "status": "candidate",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943901): ”Johansdotter, Emilie Helene f. 1884”, Familjeställning ”oä. d.” i hushåll August Andersson/Britta Kajsa Olsdotter; moder antagen = Britta Kajsa (hushållets hustru), ej uttryckligt."
+ },
+ {
+  "id": "c-jo_august_andersson54-ap5_brittakajsa_olsd59-ap5_mariakajsa_aa96",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54",
+   "ap5_brittakajsa_olsd59"
+  ],
+  "child": "ap5_mariakajsa_aa96",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943905): Maria Kajsa f. 1896, Familjeställning ”bådas d.” i hushåll August Andersson f. 1854 / Britta Kajsa Olsdotter f. 1859."
+ },
+ {
+  "id": "c-jo_august_andersson54-ap5_brittakajsa_olsd59-ap5_karlgustaf_aa98",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54",
+   "ap5_brittakajsa_olsd59"
+  ],
+  "child": "ap5_karlgustaf_aa98",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943899/-905): Karl Gustaf f. 1898 i hushåll August Andersson f. 1854 / Britta Kajsa Olsdotter f. 1859; 1930 med patronymikon Augustsson (Folk_128381566)."
+ },
+ {
+  "id": "c-jo_august_andersson54-maria_j-jo_annalavinia82",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54",
+   "maria_j"
+  ],
+  "child": "jo_annalavinia82",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Renstad (Folk_128381566): Anna Lavinia f. 1882, ogift hemmadotter, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) i hushåll August Andersson f. 1854 / Britta Kajsa Olsson f. 1859; mor = förra hustrun (Maria Johannesdotter f. 1855 enligt tidigare hushåll – ej uttryckligt)."
+ },
+ {
+  "id": "c-jo_august_andersson54-maria_j-jo_nilsoskar81",
+  "type": "child",
+  "parents": [
+   "jo_august_andersson54",
+   "maria_j"
+  ],
+  "child": "jo_nilsoskar81",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1890 (Folk_103604909) och 1900 (Folk_109943903) Boda, Renstad: Nils Oskar f. 1881 barn i August Anderssons hushåll; född efter 1880 års folkräkning (då Maria Johannesdotter var hans hustru); mor ej uttryckligt."
+ },
+ {
+  "id": "p-jo_johanalfred79-ap5_elincharlotta_olsson86",
+  "type": "partner",
+  "a": "jo_johanalfred79",
+  "b": "ap5_elincharlotta_olsson86",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Södra Boda (Folk_128380764): Augustsson, Johan Alfred f. 1879, gift, vigselår 1924; i hushållet Olsson, Elin Charlotta f. 1886 och Nils Evert f. 1923."
+ },
+ {
+  "id": "c-jo_johanalfred79-ap5_elincharlotta_olsson86-ap5_nilsevert_aa23",
+  "type": "child",
+  "parents": [
+   "jo_johanalfred79",
+   "ap5_elincharlotta_olsson86"
+  ],
+  "child": "ap5_nilsevert_aa23",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1930 Boda, Södra Boda (Folk_128380764): Nils Evert f. 1923, barn i hushållet Johan Alfred Augustsson f. 1879 / Elin Charlotta Olsson f. 1886."
+ },
+ {
+  "id": "p-ap5_anders_andersson26-ap5_kajsa_olsd26",
+  "type": "partner",
+  "a": "ap5_anders_andersson26",
+  "b": "ap5_kajsa_olsd26",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1880 Boda, Renstad (Folk_120431048): Andersson, Anders f. 1826 och Olsdotter, Kajsa f. 1826 som makar (fam. nr 1) med sonen Karl Gustaf f. 1863; hustruuppgift slutledd av hushållsbygget."
+ },
+ {
+  "id": "c-ap5_anders_andersson26-ap5_kajsa_olsd26-jo_august_andersson54",
+  "type": "child",
+  "parents": [
+   "ap5_anders_andersson26",
+   "ap5_kajsa_olsd26"
+  ],
+  "child": "jo_august_andersson54",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Renstad (Folk_120431049): August Andersson f. 1854, Familjeställning ”g. son” (gift son) i fam. nr 2 i hushållet Anders Andersson f. 1826/Kajsa Olsdotter f. 1826."
+ },
+ {
+  "id": "c-ap5_anders_andersson26-ap5_kajsa_olsd26-ap5_karlgustaf_a63",
+  "type": "child",
+  "parents": [
+   "ap5_anders_andersson26",
+   "ap5_kajsa_olsd26"
+  ],
+  "child": "ap5_karlgustaf_a63",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Renstad (Folk_120431048): Karl Gustaf f. 1863, Familjeställning ”s.” (son), ogift, i fam. nr 1 hos Anders Andersson f. 1826/Kajsa Olsdotter f. 1826."
+ },
+ {
+  "id": "s-jo_august_andersson54-ap5_karlgustaf_a63",
+  "type": "sibling",
+  "a": "jo_august_andersson54",
+  "b": "ap5_karlgustaf_a63",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1880 Boda, Renstad (Folk_120431048/-049): August f. 1854 (”g. son”) och Karl Gustaf f. 1863 (”s.”) båda söner i samma gård/hushåll hos Anders Andersson f. 1826 och Kajsa Olsdotter."
+ },
+ {
+  "id": "p-ap5_karlgustaf_a63-ap5_anna_eriksd56",
+  "type": "partner",
+  "a": "ap5_karlgustaf_a63",
+  "b": "ap5_anna_eriksd56",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 och 1910 Boda, Renstad (Folk_109943870, Folk_125553551): Karl Gustaf Andersson f. 1863 gift; Eriksdotter, Anna f. 1856 som hustru i hushållet med barn."
+ },
+ {
+  "id": "c-ap5_karlgustaf_a63-ap5_anna_eriksd56-ap5_hedvig_a86",
+  "type": "child",
+  "parents": [
+   "ap5_karlgustaf_a63",
+   "ap5_anna_eriksd56"
+  ],
+  "child": "ap5_hedvig_a86",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Hedvig Kristina Andersson f. 1886, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856."
+ },
+ {
+  "id": "c-ap5_karlgustaf_a63-ap5_anna_eriksd56-ap5_karlaugust_a90",
+  "type": "child",
+  "parents": [
+   "ap5_karlgustaf_a63",
+   "ap5_anna_eriksd56"
+  ],
+  "child": "ap5_karlaugust_a90",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Karl August Andersson f. 1890, barn i hushållet Andersson, Karl Gustaf f. 1863 / Eriksdotter, Anna f. 1856."
+ },
+ {
+  "id": "p-ap5_erik_jansson18-ap5_stina_svensd19",
+  "type": "partner",
+  "a": "ap5_erik_jansson18",
+  "b": "ap5_stina_svensd19",
+  "status": "strong",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Jansson, Erik f. 1818 och Svensdotter, Stina f. 1819 som egen familj (fam. nr 2) i Karl Gustaf Anderssons hushåll; makar slutledda av hushållsbygge."
+ },
+ {
+  "id": "c-ap5_erik_jansson18-ap5_stina_svensd19-ap5_anna_eriksd56",
+  "type": "child",
+  "parents": [
+   "ap5_erik_jansson18",
+   "ap5_stina_svensd19"
+  ],
+  "child": "ap5_anna_eriksd56",
+  "status": "candidate",
+  "basis": "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Erik Jansson f. 1818 + Stina Svensdotter f. 1819 bor i svärsonen/Karl Gustaf Anderssons hushåll; Anna Eriksdotter f. 1856 (patronymikon Eriksdotter) – släktskap ej uttryckt, kontrollera i husförhör."
  }
 ]

@@ -26875,7 +26875,8 @@
    "FOLKRÄKNING 1890 (Brunskog, Gryttom, sida 61 rad 8): Jansson, August f. 1862 i Brunskog, yrke ”h:egare”, gift; hustru Olsdotter, Maria f. 1866 i Brunskog.",
    "FOLKRÄKNING 1900 (Brunskog, Wikene, sida 38 rad 9): Jansson, August f. 1862 Brunskog, Hemmansegare, gift; hustru Olsdotter, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897 (alla Brunskog).",
    "FOLKRÄKNING 1910 (Brunskog, Wikene, sida 35 rad 2): Jansson, August f. 1862 Hemmansägare, lyte ”hör illa”; hustru Olsson, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897, Anders Herbert 1901, Karl August 1905, Tyra Alice 1907.",
-   "IDENTITET: koppling till August f. 1862 i Jan Elofssons hushåll 1880 grundas på namn+födelseår+födelseförsamling (patronymikon Jansson efter fadern Jan) – ej uttrycklig källa; därför strong, inte verified. Ingen annan August Jansson f. 1862 Brunskog i 1890–1930 års register (sökning på födelseförsamling Brunskog gav endast denne)."
+   "IDENTITET: koppling till August f. 1862 i Jan Elofssons hushåll 1880 grundas på namn+födelseår+födelseförsamling (patronymikon Jansson efter fadern Jan) – ej uttrycklig källa; därför strong, inte verified. Ingen annan August Jansson f. 1862 Brunskog i 1890–1930 års register (sökning på födelseförsamling Brunskog gav endast denne).",
+   "FOLKRÄKNING 1930 Brunskog, Wikene (s. 29 rad 12, Folk_128884130; sida i församlingsboken 401): August Jansson f. 1862 Brunskog, Hemmansägare, gift, vigselår 1890; hustru Olsson, Maria f. 1866 (”h.”); i fam. nr 2 dottern Tyra Alina (g. 1930) med svärsonen Gustav Ragnar Nyström f. 1904."
   ],
   "sources": [
    {
@@ -26889,6 +26890,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene), sida 35 rad 2: Jansson, August f. 1862, Hemmansägare, hustru Maria f. 1866 och 7 barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): August Jansson f. 1862, hemmansägare, vigselår 1890",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884130&tab=post"
    }
   ],
   "born": {
@@ -26908,17 +26913,22 @@
  {
   "id": "maria_olsd66_aj",
   "name": "Maria Olsdotter (f. 1866, g. Jansson, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Hustru till August Jansson (f. 1862) i Wikene, Brunskog 1890–1910.",
   "notes": [
-   "FOLKRÄKNING 1890, 1900 (”Olsdotter, Maria” f. 1866 i Brunskog) och 1910 (”Olsson, Maria”): i hushållet hos August Jansson f. 1862; civilstånd gift. Familjeställning ej utläst ur sökposten – hustru slutledd av civilstånd och hushållets uppbyggnad."
+   "FOLKRÄKNING 1890, 1900 (”Olsdotter, Maria” f. 1866 i Brunskog) och 1910 (”Olsson, Maria”): i hushållet hos August Jansson f. 1862; civilstånd gift. Familjeställning ej utläst ur sökposten – hustru slutledd av civilstånd och hushållets uppbyggnad.",
+   "FOLKRÄKNING 1930 Brunskog, Wikene (s. 29 rad 12–13, Folk_128884130/-131): ”Olsson, Maria f. 1866 Brunskog”, Familjeställning ”h.” (hustru), Famstkod Mor/fru, gift, vigselår 1890, i hushåll med August Jansson f. 1862 (hemmansägare, vigselår 1890) – uttrycklig hustru-uppgift."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene) sida 38: Olsdotter, Maria f. 1866 i hushållet August Jansson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): Olsson, Maria f. 1866, h., vigselår 1890",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884131&tab=post"
    }
   ],
   "born": {
@@ -26940,7 +26950,8 @@
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930: sökning på förnamn+födelseår+födelseförsamling Brunskog gav ingen säker 1930-post (Hulda Maria f. 1891) – eventuellt utflyttad/gift/ej ännu registrerad (1930 registreras fortfarande)."
   ],
   "sources": [
    {
@@ -26967,7 +26978,8 @@
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930: sökning på förnamn+födelseår+födelseförsamling Brunskog gav ingen säker 1930-post (Anna Kristina f. 1893) – eventuellt utflyttad/gift/ej ännu registrerad (1930 registreras fortfarande)."
   ],
   "sources": [
    {
@@ -26994,7 +27006,8 @@
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930: sökning på förnamn+födelseår+födelseförsamling Brunskog gav ingen säker 1930-post (Johan Albin f. 1895) – eventuellt utflyttad/gift/ej ännu registrerad (1930 registreras fortfarande)."
   ],
   "sources": [
    {
@@ -27015,18 +27028,23 @@
  },
  {
   "id": "hildur_aj97",
-  "name": "Hildur Karolina Jansson (f. 1897, Wikene)",
+  "name": "Hildur Karolina Jansson (g. Wiman, f. 1897, Wikene)",
   "status": "strong",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930 Brunskog, Årnäs (s. 34 rad 13, Folk_128884375): Jansson, Hildur Karolina f. 1897 Brunskog, Ladugårdsföreståndarinna, ”h.”, ”f. Jansson”, gift 1923 med Karl Algot Wiman f. 1895 Boda. Inga barn i hushållet."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene): Hildur Karolina f. 1897 i hushållet August Jansson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs (s. 34): Hildur Karolina f. 1897, h., f. Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884375&tab=post"
    }
   ],
   "born": {
@@ -27048,7 +27066,8 @@
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930: sökning på förnamn+födelseår+födelseförsamling Brunskog gav ingen säker 1930-post (Anders Herbert f. 1901) – eventuellt utflyttad/gift/ej ännu registrerad (1930 registreras fortfarande)."
   ],
   "sources": [
    {
@@ -27075,7 +27094,8 @@
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930: sökning på förnamn+födelseår+födelseförsamling Brunskog gav ingen säker 1930-post (Karl August f. 1905) – eventuellt utflyttad/gift/ej ännu registrerad (1930 registreras fortfarande)."
   ],
   "sources": [
    {
@@ -27096,18 +27116,23 @@
  },
  {
   "id": "tyra_aj07",
-  "name": "Tyra Alice Jansson (f. 1907, Wikene)",
+  "name": "Tyra Alina Jansson (g. Nyström, f. 1907, Wikene)",
   "status": "strong",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
   "notes": [
-   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten)."
+   "FOLKRÄKNING: förekommer i hushållet som barn till August Jansson och Maria Olsdotter (egen familjeställning ej utläst ur sökposten).",
+   "FOLKRÄKNING 1930 Brunskog, Wikene (s. 29 rad 14, Folk_128884133): ”Jansson, Tyra Alina, f. 1907 i Brunskog”, ”h.”, ”f. Jansson”, gift 1930 med Gustav Ragnar Nyström (”svärs.” i August Janssons hushåll, fam. nr 2). Namnformen 1930 är Tyra Alina (1900-talets utdrag: Tyra Alice)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene): Tyra Alice f. 1907 i hushållet August Jansson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): Jansson, Tyra Alina f. 1907, h., f. Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884133&tab=post"
    }
   ],
   "born": {
@@ -27132,7 +27157,8 @@
    "FOLKRÄKNING 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10, fam. nr 3: Jansson, Anders f. 1877 i Brunskog, yrke Fodermarsk, ogift, Famstkod Ensamstående; bor som hyresgäst i samma fastighet som urmakaren Anders Nilsson f. 1846 (Brunskog) med dottern Emilia Vilhelmina Kristina f. 1880 (kontorsbiträde).",
    "FOLKRÄKNING 1930 Solna, Råsunda (Stadsägan 73), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, Förrådsföreståndare A/B S.S.S., gift (vigselår 1913), inflyttad 1913 från Lübeck, Tyskland; hustru Nilson, Emilia Kristina Wilhelmina f. 1880 i Klara, Stockholm, bokförerska.",
    "IDENTITET: koppling till Anders f. 1877 i Jan Elofssons hushåll (Finnebäck) är strong, ej verified – bygger på namn + födelseår + födelseförsamling Brunskog; endast en Anders Jansson/Janson f. 1877 i Brunskog finns i 1890–1930 års register för Stockholm. Sambandet 1900→1930 stöds av hustrun Emilia (bodde 1900 i samma hus). 1890 och 1910 ej funna (utomlands?).",
-   "TRÅD: Anders Nilsson f. 1846 i Brunskog (urmakare i Stockholm, hushållet i huset 1900) – möjligen släkt/landsman; ej utrett."
+   "TRÅD: Anders Nilsson f. 1846 i Brunskog (urmakare i Stockholm, hushållet i huset 1900) – möjligen släkt/landsman; ej utrett.",
+   "FOLKRÄKNING 1930 Solna, Råsunda, Stadsägan 73 (s. 222 rad 23, Folk_130024578; födelseförsamling Brunskog, inflyttad 1913 från Lübeck): hushållet består endast av Anders (förrådsföreståndare A/B S.S.S.) och hustrun Emilia Kristina Wilhelmina Nilson f. 1880 Klara, Stockholm. Inga barn i hushållet och inga barn med fynd i 1900–1930 års register – barnlöst par så långt kontrollerat."
   ],
   "sources": [
    {
@@ -27141,6 +27167,10 @@
    },
    {
     "label": "Riksarkivet, Folkräkning 1930 Solna (Råsunda), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, förrådsföreståndare, gift 1913, inflyttad från Lübeck",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Solna, Råsunda (s. 222): Anders Janson f. 1877 Brunskog, gift 1913, hushåll utan barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
    }
   ],
@@ -27787,7 +27817,8 @@
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266). Olof Gunnar finns även i folkräkning 1900 Ö. Takene.",
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Olof Gunnar f. 1897 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
-   "FOLKRÄKNING 1930 Nyed (Molkom), sida 55 rad 42 (Folk_128911700): Olsson, Olof Gunnar f. 1897 i Brunskog, Banktjänsteman Kassakontrollant, gift (vigselår 1926), inflyttad 1920 från Arvika; hustru Svensson, Arvida f. 1900 i Borås; barn Karin Gunnel f. 1927 Nyed, Åke Gunnar f. 1929 Nyed. Samma namn+födelseår+ort; ”inflyttad från Arvika” stämmer med familjen i Arvika 1910, men föräldrar nämns inte i posten."
+   "FOLKRÄKNING 1930 Nyed (Molkom), sida 55 rad 42 (Folk_128911700): Olsson, Olof Gunnar f. 1897 i Brunskog, Banktjänsteman Kassakontrollant, gift (vigselår 1926), inflyttad 1920 från Arvika; hustru Svensson, Arvida f. 1900 i Borås; barn Karin Gunnel f. 1927 Nyed, Åke Gunnar f. 1929 Nyed. Samma namn+födelseår+ort; ”inflyttad från Arvika” stämmer med familjen i Arvika 1910, men föräldrar nämns inte i posten.",
+   "FOLKRÄKNING 1930 Nyed: hustru Arvida Svensson f. 1900 Borås (gift 1926), barn Karin Gunnel f. 1927 och Åke Gunnar f. 1929 – se ap5_arvida_svensson00, ap5_karingunnel_jo27, ap5_akegunnar_jo29."
   ],
   "sources": [
    {
@@ -27820,7 +27851,8 @@
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Johan Gottfrid f. 1904 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
-   "FOLKRÄKNING 1930 Silbodal (Årjängs municipalsamhälle), sida 54 rad 25: Olsson, Johan Gottfrid f. 1904 i Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika, ensamstående. Samma namn+födelseår+ort; ”från Arvika” stämmer; föräldrar nämns ej."
+   "FOLKRÄKNING 1930 Silbodal (Årjängs municipalsamhälle), sida 54 rad 25: Olsson, Johan Gottfrid f. 1904 i Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika, ensamstående. Samma namn+födelseår+ort; ”från Arvika” stämmer; föräldrar nämns ej.",
+   "FOLKRÄKNING 1930 Silbodal, Årjängs municipalsamhälle (s. 54 rad 25): Olsson, Johan Gottfrid f. 1904 Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika; ensamstående, inga barn. Familjeställning mot föräldrar ej utläst."
   ],
   "sources": [
    {
@@ -27852,7 +27884,8 @@
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Anna Valborg Elvira f. 1909 i Arvika i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
-   "FOLKRÄKNING 1930 Arvika (Stadsägan no 392, Jösse kontrakt, Folk_129011712), sida 145 rad 36: ”Anna Valborg Elvira” f. 1909 i Arvika, Ogift, Familjeställning ”d.”, Famstkod Barn, familj nr 1, hos ”Olsson Nilsson, Anna, f. 1870 i Brunskog, Kommissionärsänka”. Ogift 1930 (21 år) – alltså ännu inte Källne 1930; ev. senare giftermål ej belagt. Dotterskapet nu uttryckligt (Familjeställning d.)."
+   "FOLKRÄKNING 1930 Arvika (Stadsägan no 392, Jösse kontrakt, Folk_129011712), sida 145 rad 36: ”Anna Valborg Elvira” f. 1909 i Arvika, Ogift, Familjeställning ”d.”, Famstkod Barn, familj nr 1, hos ”Olsson Nilsson, Anna, f. 1870 i Brunskog, Kommissionärsänka”. Ogift 1930 (21 år) – alltså ännu inte Källne 1930; ev. senare giftermål ej belagt. Dotterskapet nu uttryckligt (Familjeställning d.).",
+   "FOLKRÄKNING 1930 Arvika, Stadsägan no 392 (s. 145 rad 36): Anna Valborg Elvira f. 1909 Arvika, ogift, Familjeställning ”d.” (dotter) hos Olsson Nilsson, Anna f. 1870 Brunskog, Kommissionärsänka – bekräftar modern och att fadern Johan Olsson då var död."
   ],
   "sources": [
    {
@@ -27861,6 +27894,10 @@
    },
    {
     "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan no 392, sida 145 rad 36: Anna Valborg Elvira f. 1909 Arvika, ogift, d. (dotter) hos kommissionärsänkan Anna Olsson Nilsson f. 1870",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika (s. 145): Anna Valborg Elvira f. 1909, d. hos kommissionärsänkan Anna Olsson Nilsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
    }
   ],
@@ -28197,7 +28234,8 @@
   "notes": [
    "FOLKRÄKNING 1900 Boda, Renstad (s. 28 rad 48): ”Johannesson, Johan August, f. 1882 i Boda”, familjeställning ”s.” (son) i hushåll med modern Britta Kajsa Johannesdotter (änka, Hemmansegare).",
    "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 39): Johan August f. 1882 Boda, Ägare Hemmansägare, gift; hustru(?) ”Johannesdotter, Hulda Maria, f. 1881 i Boda” (ej uttryckligen märkt h. i det sökbara utdraget); barn Maria Elvina f. 1902, Ester Viktoria f. 1906, Ernst Georg f. 1908; modern i fam. nr 2 ”Ägareänka f.d.” (moder).",
-   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34): Johan August f. 1882 Boda, Hemmansägare, gift; Hulda Maria f. 1881; med flera barn/hushållsmedlemmar (Arvid Krispin Johansson f. 1911, Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928)."
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34): Johan August f. 1882 Boda, Hemmansägare, gift; Hulda Maria f. 1881; med flera barn/hushållsmedlemmar (Arvid Krispin Johansson f. 1911, Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928).",
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34, Folk_128381597): Hemmansägare, biyrke Postbärare, gift 1903; barn i hushållet Arvid Krispin 1911 (jordbruksarbetare), Karl Sigurd 1917, Hanna Greta 1919, Sven Erik 1921, Valborg Viola 1924, Elva Linnéa 1928; äldre barn Maria Elvina 1902, Ester Viktoria 1906, Ernst Georg 1908 (1910) är ej i 1930 års hushåll."
   ],
   "sources": [
    {
@@ -28220,7 +28258,7 @@
  {
   "id": "jo_hulda_maria81",
   "name": "Hulda Maria Johannesdotter (f. 1881, Boda)",
-  "status": "candidate",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -28232,7 +28270,8 @@
   ],
   "summary": "Hushållsmedlem hos Johan August Johannesson 1910 och 1930, sannolikt hans hustru (gift) – familjeställning ej utläst.",
   "notes": [
-   "FOLKRÄKNING 1910 och 1930 Boda, Renstad: ”Johannesdotter, Hulda Maria, f. 1881 i Boda”, i Johan Augusts familj. Obs: Johan August är född 1882 med patronymikon Johannes – hon är sannolikt hustru (barn född 1902 ff.), men kan inte uteslutas vara syster."
+   "FOLKRÄKNING 1910 och 1930 Boda, Renstad: ”Johannesdotter, Hulda Maria, f. 1881 i Boda”, i Johan Augusts familj. Obs: Johan August är född 1882 med patronymikon Johannes – hon är sannolikt hustru (barn född 1902 ff.), men kan inte uteslutas vara syster.",
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22, Folk_128381597): Johan August Johannesson f. 1882, Civilstånd gift, vigselår 1903; i hushållet endast en vuxen kvinna, Johannesdotter, Hulda Maria f. 1881 – därmed hustru (strong; ej uttrycklig familjeställning i hushållslistan)."
   ],
   "sources": [
    {
@@ -28261,7 +28300,9 @@
   "notes": [
    "FOLKRÄKNING 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 44): ”Andersson, August, f. 1854 i Boda”, ”g. son” i föräldrarnas hushåll (Anders Andersson f. 1826, Kajsa Olsdotter f. 1826); fam. nr 2: August, ”Johannesdotter, Maria, f. 1855 i Boda” (hustru), Johan Alfred f. 1879.",
    "FOLKRÄKNING 1890 Boda, Renstad der Nole (s. 33 rad 22): August Andersson f. 1854 Hemeg., barn Johan Alfred 1879, Nils Oskar 1881, Anna Lavinia 1882, ingen hustru (Maria död 1880–90, ej kontrollerat).",
-   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 41): August, gift med ”Olsdotter, Britta Kajsa, f. 1859 i Boda”; Johansdotter Emilie Helene 1884; Johan Alfred, Nils Oskar, Anna Lavinia; Maria Kajsa 1896, Karl Gustaf 1898; svärmor/mor Kajsa Olsdotter f. 1826 (fam. 2)."
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 41): August, gift med ”Olsdotter, Britta Kajsa, f. 1859 i Boda”; Johansdotter Emilie Helene 1884; Johan Alfred, Nils Oskar, Anna Lavinia; Maria Kajsa 1896, Karl Gustaf 1898; svärmor/mor Kajsa Olsdotter f. 1826 (fam. 2).",
+   "FOLKRÄKNING 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 44, Folk_120431049): August Andersson f. 1854, ”g. son” (gift son) i fam. nr 2 i hushållet Anders Andersson f. 1826/Kajsa Olsdotter f. 1826 (fam. nr 1; också Karl Gustaf f. 1863, ”s.”) – uttrycklig son.",
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 3, Folk_128381566; sida 336): August Andersson f. 1854, hemmansägare, hustru Olsson, Britta Kajsa f. 1859, hemmadotter Anna Lavinia 1882 (”m. d. i f. ä.”), Maria Kajsa 1896, Karl Gustav Augustsson 1898."
   ],
   "sources": [
    {
@@ -28284,7 +28325,7 @@
  {
   "id": "jo_johanalfred79",
   "name": "Johan Alfred Andersson (f. 1879, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -28296,12 +28337,21 @@
   ],
   "summary": "Son till August Andersson och Maria Johannesdotter – Olof Augusts systerson.",
   "notes": [
-   "FOLKRÄKNING 1880 Boda, Renstad (s. 35): ”Johan Alfred, f. 1879 i Boda” i August Anderssons och Maria Johannesdotters familj (utan egen familjeställning i utdraget)."
+   "FOLKRÄKNING 1880 Boda, Renstad (s. 35): ”Johan Alfred, f. 1879 i Boda” i August Anderssons och Maria Johannesdotters familj (utan egen familjeställning i utdraget).",
+   "FOLKRÄKNING 1910 Boda annex, Renstad Der nole (s. 28 rad 46, Folk_125553500): ”Johan Alfred f. 1879, snickeriarbetare, ogift”, Familjeställning ”m:s s. i f. ä.” (makens son i förra äktenskapet) hos August Andersson f. 1854/Britta Kajsa Olsdotter – uttrycklig son till August. Fortsättning 1930: Augustsson, Johan Alfred f. 1879 Boda, hemmansägare i Södra Boda, gift 1924 med Elin Charlotta Olsson f. 1886, son Nils Evert f. 1923 (identitet via namn+födelseår+socken+patronymikon Augustsson: strong)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Boda, Renstad (s. 35)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431050&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Boda annex, Renstad Der nole (s. 28 rad 46): Johan Alfred f. 1879, m:s s. i f. ä.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553500&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Södra Boda (s. 5 rad 40): Augustsson, Johan Alfred f. 1879, hemmansägare, gift 1924",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380764&tab=post"
    }
   ],
   "search": [
@@ -28311,7 +28361,7 @@
  {
   "id": "jo_nilsoskar81",
   "name": "Nils Oskar Andersson (f. 1881, Boda)",
-  "status": "candidate",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -28323,7 +28373,8 @@
   ],
   "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1881) – troligen Marias son.",
   "notes": [
-   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat)."
+   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat).",
+   "FOLKRÄKNING 1930: ingen träff på Nils Oskar f. 1881 Boda (sökning med förnamn+år+födelseförsamling gav endast 1890 och 1900) – troligen utflyttad/utvandrad; ej utrett."
   ],
   "sources": [
    {
@@ -28338,7 +28389,7 @@
  {
   "id": "jo_annalavinia82",
   "name": "Anna Lavinia Andersson (f. 1882, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -28350,12 +28401,17 @@
   ],
   "summary": "Barn i August Anderssons hushåll 1890/1900 (f. 1882).",
   "notes": [
-   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Anna Lavinia, f. 1882 i Boda” i August Anderssons hushåll."
+   "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Anna Lavinia, f. 1882 i Boda” i August Anderssons hushåll.",
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 4, Folk_128381566): Anna Lavinia f. 1882 Boda, hemmadotter, ogift, Familjeställning ”m. d. i f. ä.” (makens dotter i förra äktenskapet) hos August Andersson f. 1854 och Britta Kajsa Olsson f. 1859 – uttrycklig dotter till August."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1900, Boda, Renstad (s. 29)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943899&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22 rad 4, sida 336): Anna Lavinia f. 1882, m. d. i f. ä., hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381566&tab=post"
    }
   ],
   "search": [
@@ -32897,6 +32953,980 @@
   ],
   "search": [
    "Alma Maria Alfredsson (f. 1883, Grava)"
+  ]
+ },
+ {
+  "id": "ap5_gustav_nystrom04",
+  "name": "Gustav Ragnar Nyström (f. 1904, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Wikene",
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Jordarbetare, gift 1930 med Tyra Alina Jansson (dotter till August Jansson, Wikene); son till Karl Nyström, Årnäs, Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Wikene, s. 29 rad 13: ”Nyström, Gustav Ragnar, f. 1904 i Brunskog”, Jordarbetare, Gift, vigselår 1930, Familjeställning ”svärs.” (svärson) i August Janssons hushåll, fam. nr 2, med hustrun Jansson, Tyra Alina f. 1907 (”h.”, ”f. Jansson”).",
+   "FOLKRÄKNING 1910 Brunskog, Årnäs: ”Gustaf Ragnar f. 1904” s. i hushållet Karl Nyström/Kjerstin Andersson (identitet via namn+födelseår+socken: strong)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): Nyström, Gustav Ragnar f. 1904, svärs., vigselår 1930",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884132&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9): Gustaf Ragnar f. 1904, s. i hushåll Karl Nyström",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Gustav Ragnar Nyström (f. 1904, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_karl_nystrom62",
+  "name": "Karl Nyström (f. 1862, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1862",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Hemmansägare Årnäs, Brunskog 1910; gift med Kjerstin Andersson f. 1859 (Värmskog); far till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs: hushåll Nyström, Karl f. 1862 Brunskog (hemmansägare), Andersson, Kjerstin f. 1859 Värmskog; barn Hulda 1890, Karl Ejnar 1892, Ester Maria 1894, Anna Teresia 1898, Anders Sigurd 1901, Gustaf Ragnar 1904 (alla Brunskog). Familjeställning för makarna ej utläst; hustru slutledd av hushållsbygge."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Nyström (f. 1862, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_kjerstin_andersson59",
+  "name": "Kjerstin Andersson (f. 1859, Värmskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1859",
+   "place": "Värmskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Gift med Karl Nyström (f. 1862) i Årnäs, Brunskog; mor till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs: hushåll Nyström, Karl f. 1862 Brunskog (hemmansägare), Andersson, Kjerstin f. 1859 Värmskog; barn Hulda 1890, Karl Ejnar 1892, Ester Maria 1894, Anna Teresia 1898, Anders Sigurd 1901, Gustaf Ragnar 1904 (alla Brunskog). Familjeställning för makarna ej utläst; hustru slutledd av hushållsbygge."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Kjerstin Andersson (f. 1859, Värmskog)"
+  ]
+ },
+ {
+  "id": "ap5_hulda_nystrom90",
+  "name": "Hulda Nyström (f. 1890, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1890",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Barn i Karl Nyströms hushåll i Årnäs, Brunskog 1910; syskon till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs (s. 40 rad 9): Hulda i hushållet Nyström, Karl/Andersson, Kjerstin (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll: barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Hulda Nyström (f. 1890, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_karlejnar_nystrom92",
+  "name": "Karl Ejnar Nyström (f. 1892, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1892",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Barn i Karl Nyströms hushåll i Årnäs, Brunskog 1910; syskon till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs (s. 40 rad 9): Karl Ejnar i hushållet Nyström, Karl/Andersson, Kjerstin (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll: barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Ejnar Nyström (f. 1892, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_estermaria_nystrom94",
+  "name": "Ester Maria Nyström (f. 1894, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Barn i Karl Nyströms hushåll i Årnäs, Brunskog 1910; syskon till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs (s. 40 rad 9): Ester Maria i hushållet Nyström, Karl/Andersson, Kjerstin (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll: barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Ester Maria Nyström (f. 1894, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_annateresia_nystrom98",
+  "name": "Anna Teresia Nyström (f. 1898, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Barn i Karl Nyströms hushåll i Årnäs, Brunskog 1910; syskon till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs (s. 40 rad 9): Anna Teresia i hushållet Nyström, Karl/Andersson, Kjerstin (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll: barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Teresia Nyström (f. 1898, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_anderssigurd_nystrom01",
+  "name": "Anders Sigurd Nyström (f. 1901, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1901",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Barn i Karl Nyströms hushåll i Årnäs, Brunskog 1910; syskon till Gustav Ragnar Nyström (f. 1904).",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Årnäs (s. 40 rad 9): Anders Sigurd i hushållet Nyström, Karl/Andersson, Kjerstin (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs (s. 40 rad 9) – Nyströms hushåll: barn i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550473&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Sigurd Nyström (f. 1901, Brunskog)"
+  ]
+ },
+ {
+  "id": "ap5_karlalgot_wiman95",
+  "name": "Karl Algot Wiman (f. 1895, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1895",
+   "place": "Boda"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Rättare/brukare, Årnäs, Brunskog 1930; gift 1923 med Hildur Karolina Jansson (f. 1897, dotter till August Jansson, Wikene).",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Årnäs, s. 34 rad 12: ”Wiman, Karl Algot, f. 1895 i Boda”, Rättare Brukare, gift; hustru ”Jansson, Hildur Karolina, f. 1897 i Brunskog”, Ladugårdsföreståndarinna, ”h.”, vigselår 1923, Övrigt ”f. Jansson”. Inga barn i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs (s. 34): Wiman, Karl Algot f. 1895 Boda, gift, hustru Hildur Karolina f. Jansson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884374&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Algot Wiman (f. 1895, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_arvida_svensson00",
+  "name": "Arvida Svensson (f. 1900, Borås)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Borås"
+  },
+  "places": [
+   "Nyed (Molkom)"
+  ],
+  "summary": "Hustru till Olof Gunnar Olsson (f. 1897), Nyed (Molkom) 1930; gift 1926.",
+  "notes": [
+   "FOLKRÄKNING 1930 Nyed, Molkom (s. 55 rad 42): ”Svensson, Arvida, f. 1900 i Borås Älvsborgs län” i hushållet Olsson, Olof Gunnar f. 1897 (banktjänsteman kassakontrollant, gift, vigselår 1926). Familjeställning ej utläst i postens hushållslista; hustru slutledd av civilstånd/vigselår/hushållsbygge."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Nyed (Molkom), s. 55 rad 42: Svensson, Arvida f. 1900 Borås, i hushåll Olof Gunnar Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128911700&tab=post"
+   }
+  ],
+  "search": [
+   "Arvida Svensson (f. 1900, Borås)"
+  ]
+ },
+ {
+  "id": "ap5_karingunnel_jo27",
+  "name": "Karin Gunnel Olsson (f. 1927, Nyed)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1927",
+   "place": "Nyed"
+  },
+  "places": [
+   "Nyed (Molkom)"
+  ],
+  "summary": "Barn till Olof Gunnar Olsson (f. 1897) och Arvida Svensson, Nyed (Molkom) 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Nyed, Molkom (s. 55 rad 42): ”Karin Gunnel, f. 1927 i Nyed” i hushållet Olof Gunnar Olsson/Arvida Svensson (barn enligt hushållsbygge, egen familjeställning ej utläst; patronymikon Olsson ej angivet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Nyed (Molkom), s. 55 rad 42: Karin Gunnel f. 1927 Nyed i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128911700&tab=post"
+   }
+  ],
+  "search": [
+   "Karin Gunnel Olsson (f. 1927, Nyed)"
+  ]
+ },
+ {
+  "id": "ap5_akegunnar_jo29",
+  "name": "Åke Gunnar Olsson (f. 1929, Nyed)",
+  "status": "strong",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1929",
+   "place": "Nyed"
+  },
+  "places": [
+   "Nyed (Molkom)"
+  ],
+  "summary": "Barn till Olof Gunnar Olsson (f. 1897) och Arvida Svensson, Nyed (Molkom) 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Nyed, Molkom (s. 55 rad 42): ”Åke Gunnar, f. 1929 i Nyed” i hushållet Olof Gunnar Olsson/Arvida Svensson (barn enligt hushållsbygge, egen familjeställning ej utläst; patronymikon Olsson ej angivet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Nyed (Molkom), s. 55 rad 42: Åke Gunnar f. 1929 Nyed i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128911700&tab=post"
+   }
+  ],
+  "search": [
+   "Åke Gunnar Olsson (f. 1929, Nyed)"
+  ]
+ },
+ {
+  "id": "ap5_mariaelvina_ja02",
+  "name": "Maria Elvina Johannesson (f. 1902, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 41): ”Maria Elvina, f. 1902 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Boda annex, Renstad Bråten (s. 29 rad 41): Maria Elvina f. 1902 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553538&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Elvina Johannesson (f. 1902, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_estervik_ja06",
+  "name": "Ester Viktoria Johannesson (f. 1906, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1906",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 42): ”Ester Viktoria, f. 1906 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Boda annex, Renstad Bråten (s. 29 rad 42): Ester Viktoria f. 1906 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553539&tab=post"
+   }
+  ],
+  "search": [
+   "Ester Viktoria Johannesson (f. 1906, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_ernstgeorg_ja08",
+  "name": "Ernst Georg Johannesson (f. 1908, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1910 Boda annex, Renstad Bråten (s. 29 rad 43): ”Ernst Georg, f. 1908 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Boda annex, Renstad Bråten (s. 29 rad 43): Ernst Georg f. 1908 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553540&tab=post"
+   }
+  ],
+  "search": [
+   "Ernst Georg Johannesson (f. 1908, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_arvidkrispin_ja11",
+  "name": "Arvid Krispin Johansson (f. 1911, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1911",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22 rad 34): ”Arvid Krispin, f. 1911 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamnet Johansson i 1930 års hushållslista (i övrigt ofta utan efternamn); jordbruksarbetare – son enligt hushållsbygge, familjeställning ej utläst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22 rad 34): Arvid Krispin f. 1911 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Arvid Krispin Johansson (f. 1911, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_karlsigurd_ja17",
+  "name": "Karl Sigurd Johannesson (f. 1917, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1917",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22): ”Karl Sigurd, f. 1917 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22): Karl Sigurd f. 1917 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381600&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Sigurd Johannesson (f. 1917, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_hannagreta_ja19",
+  "name": "Hanna Greta Johannesson (f. 1919, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1919",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22): ”Hanna Greta, f. 1919 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22): Hanna Greta f. 1919 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Hanna Greta Johannesson (f. 1919, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_sverik_ja21",
+  "name": "Sven Erik Johannesson (f. 1921, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1921",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22): ”Sven Erik, f. 1921 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22): Sven Erik f. 1921 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Sven Erik Johannesson (f. 1921, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_valborgviola_ja24",
+  "name": "Valborg Viola Johannesson (f. 1924, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1924",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22): ”Valborg Viola, f. 1924 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22): Valborg Viola f. 1924 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Valborg Viola Johannesson (f. 1924, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_elvalinnea_ja28",
+  "name": "Elva Linnéa Johannesson (f. 1928, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1928",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Bråten), Boda"
+  ],
+  "summary": "Barn till Johan August Johannesson (f. 1882) och Hulda Maria Johannesdotter, Renstad (Bråten), Boda.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Renstad (s. 22): ”Elva Linnéa, f. 1928 i Boda” i hushållet Johan August Johannesson/Hulda Maria Johannesdotter (barn enligt hushållsbygge, familjeställning ej utläst). Efternamn ej angivet i posten (barn); Johannesson antaget efter fadern."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22): Elva Linnéa f. 1928 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381597&tab=post"
+   }
+  ],
+  "search": [
+   "Elva Linnéa Johannesson (f. 1928, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_brittakajsa_olsd59",
+  "name": "Britta Kajsa Olsdotter (f. 1859, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1859",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Andra hustru till August Andersson (f. 1854), Renstad, Boda; mor till Emilie Helene (1884, oäkta), Maria Kajsa (1896) och Karl Gustaf (1898).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 42): Olsdotter, Britta Kajsa f. 1859 Boda i hushållet August Andersson (gift); 1910 och 1930 samma. OBS: skild från Britta Kajsa Johannesdotter f. 1859 (brittacaisa_j, Johan Augusts mor) som bodde i Renstad Bråten som änka – två olika kvinnor f. 1859 i Boda, båda Renstad; hållhake: olika patronymikon och olika hushåll 1900/1910/1930.",
+   "FOLKRÄKNING 1930 Boda, Renstad: Olsson, Britta Kajsa f. 1859; dottern Anna Lavinia 1882 är ”m. d. i f. ä.” (makens dotter i förra äktenskapet) – bekräftar att Britta Kajsa är August Anderssons andra hustru."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29): Olsdotter, Britta Kajsa f. 1859 i August Anderssons hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943899&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22 rad 3, sida 336): Olsson, Britta Kajsa f. 1859",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381566&tab=post"
+   }
+  ],
+  "search": [
+   "Britta Kajsa Olsdotter (f. 1859, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_emiliehelene_jd84",
+  "name": "Emilie Helene Johansdotter (f. 1884, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Oäkta dotter (”oä. d.”) i August Anderssons hushåll i Renstad, Boda 1900; troligen Britta Kajsa Olsdotters dotter (patronymikon Johansdotter).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 43, Folk_109943901): ”Johansdotter, Emilie Helene f. 1884 Boda”, ogift, Familjeställning ”oä. d.” (oäkta dotter), Famstkod Barn, i hushållet August Andersson/Britta Kajsa Olsdotter. Vems oäkta dotter anges ej i utdraget; moderslänken (Britta Kajsa, f. 1859 – då 25 år) är candidate. Ej funnen i 1910."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29 rad 43): Johansdotter, Emilie Helene f. 1884, oä. d.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943901&tab=post"
+   }
+  ],
+  "search": [
+   "Emilie Helene Johansdotter (f. 1884, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_mariakajsa_aa96",
+  "name": "Maria Kajsa Andersson (f. 1896, Boda)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Dotter till August Andersson (f. 1854) och Britta Kajsa Olsdotter, Renstad, Boda; hemma hos föräldrarna 1930.",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 47, Folk_109943905): ”Maria Kajsa f. 1896”, Familjeställning ”bådas d.” (bådas dotter), ogift, i hushållet August Andersson/Britta Kajsa Olsdotter.",
+   "FOLKRÄKNING 1910 (Folk_125553502) och 1930 (s. 22 rad 5, Folk_128381567): Maria Kajsa f. 1896 Boda, jordbruksarbetare, hos föräldrarna."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29 rad 47): Maria Kajsa f. 1896, bådas d.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943905&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22 rad 5, sida 336): Maria Kajsa f. 1896, jordbruksarbetare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381567&tab=post"
+   }
+  ],
+  "search": [
+   "Maria Kajsa Andersson (f. 1896, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_karlgustaf_aa98",
+  "name": "Karl Gustaf Andersson (Augustsson) (f. 1898, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Son till August Andersson (f. 1854) och Britta Kajsa Olsdotter, Renstad, Boda; jordbruksarbetare hemma 1930 (”Augustsson, Karl Gustav”).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 48): Karl Gustaf f. 1898 i hushållet August Andersson/Britta Kajsa Olsdotter; 1910 samma; 1930 (s. 22 rad 6): ”Augustsson, Karl Gustav f. 1898 Boda”, jordbruksarbetare, hos föräldrarna. Familjeställning ej kontrollerad (sannolikt ”bådas s.” som systern)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29): Karl Gustaf f. 1898 i hushåll August Andersson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943899&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Renstad (s. 22 rad 3, sida 336): Augustsson, Karl Gustav f. 1898",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128381566&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Gustaf Andersson (Augustsson) (f. 1898, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_elincharlotta_olsson86",
+  "name": "Elin Charlotta Olsson (f. 1886, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Boda"
+  },
+  "places": [
+   "Södra Boda"
+  ],
+  "summary": "Hustru (gift 1924) till Johan Alfred Augustsson (f. 1879), Södra Boda; mor till Nils Evert (f. 1923).",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Södra Boda 1/2 mantal (s. 5 rad 41, Folk_128380764): ”Olsson, Elin Charlotta, f. 1886 i Boda” i hushållet Johan Alfred Augustsson f. 1879 (hemmansägare, gift, vigselår 1924); barn Nils Evert f. 1923. Familjeställning ej utläst; hustru slutledd av civilstånd/vigselår/hushållsbygge."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Södra Boda (s. 5): Olsson, Elin Charlotta f. 1886 i hushåll Johan Alfred Augustsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380764&tab=post"
+   }
+  ],
+  "search": [
+   "Elin Charlotta Olsson (f. 1886, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_nilsevert_aa23",
+  "name": "Nils Evert Augustsson (f. 1923, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1923",
+   "place": "Boda"
+  },
+  "places": [
+   "Södra Boda"
+  ],
+  "summary": "Son till Johan Alfred Augustsson (f. 1879) och Elin Charlotta Olsson, Södra Boda 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Boda, Södra Boda (s. 5, Folk_128380764): ”Nils Evert, f. 1923 i Boda” i hushållet Johan Alfred Augustsson/Elin Charlotta Olsson (barn enligt hushållsbygge; efternamn ej angivet – Augustsson antaget efter fadern). Född före 1925 – living false enligt regel, men kan vara i livet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Boda, Södra Boda (s. 5): Nils Evert f. 1923 i hushållet",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380764&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Evert Augustsson (f. 1923, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_anders_andersson26",
+  "name": "Anders Andersson (f. 1826, Boda), hemmansägare Renstad",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1826",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hemmansägare Renstad, Boda 1880; far till August Andersson (f. 1854) och Karl Gustaf Andersson (f. 1863).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 42, Folk_120431048): ”Andersson, Anders, f. 1826 i Boda”, Hemmansägare, fam. nr 1 med Olsdotter, Kajsa f. 1826 (hustru enligt hushållsbygge), Karl Gustaf f. 1863 (”s.”); i fam. nr 2 sonen August f. 1854 (”g. son”) med hustrun Maria Johannesdotter och sonsonen Johan Alfred f. 1879."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 42–44): Andersson, Anders f. 1826, hemmansägare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431048&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1826, Boda), hemmansägare Renstad"
+  ]
+ },
+ {
+  "id": "ap5_kajsa_olsd26",
+  "name": "Kajsa Olsdotter (f. 1826, Boda), Renstad",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1826",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hustru till Anders Andersson (f. 1826), Renstad, Boda; mor till August Andersson (f. 1854) och Karl Gustaf (f. 1863). Änka hos sonen August 1900.",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad (s. 35, Folk_120431048): ”Olsdotter, Kajsa f. 1826 i Boda” i fam. nr 1 med Anders Andersson f. 1826. FOLKRÄKNING 1900 (Folk_109943899/-901): Olsdotter, Kajsa f. 1826, fam. nr 2 i sonen August Anderssons hushåll (svärmor/mor-uppgift)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 42–44): Olsdotter, Kajsa f. 1826",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431048&tab=post"
+   }
+  ],
+  "search": [
+   "Kajsa Olsdotter (f. 1826, Boda), Renstad"
+  ]
+ },
+ {
+  "id": "ap5_karlgustaf_a63",
+  "name": "Karl Gustaf Andersson (f. 1863, Boda), hemmansägare Renstad",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1863",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad (Sjöbråten), Boda"
+  ],
+  "summary": "Son till Anders Andersson (f. 1826) och Kajsa Olsdotter; hemmansägare i Renstad (Sjöbråten) 1900–1910; gift med Anna Eriksdotter (f. 1856). Bror till August Andersson (f. 1854).",
+  "notes": [
+   "FOLKRÄKNING 1880 Boda, Renstad (s. 35 rad 43, Folk_120431048): ”Karl Gustaf f. 1863”, ogift, Familjeställning ”s.” (son) hos Anders Andersson f. 1826/Kajsa Olsdotter.",
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 12, Folk_109943870): Hem.eg., gift; hustru Eriksdotter, Anna f. 1856; barn Hedvig Kristina 1886, Karl August 1890; fam. nr 2 Jansson, Erik f. 1818 Östra Ämtervik (f.d. hemegare) och Svensdotter, Stina f. 1819 Boda. FOLKRÄKNING 1910 Renstad Sjöbråten (s. 30 rad 9, Folk_125553551): ägare hemmansägare, hustru Anna, dotter Hedvig Kristina."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Boda, Renstad 1/3 m. Kr.sk. (s. 35 rad 42–44): Karl Gustaf f. 1863, s.",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120431048&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29 rad 12): Andersson, Karl Gustaf f. 1863, hem.eg., gift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Boda annex, Renstad Sjöbråten (s. 30 rad 9)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553551&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Gustaf Andersson (f. 1863, Boda), hemmansägare Renstad"
+  ]
+ },
+ {
+  "id": "ap5_anna_eriksd56",
+  "name": "Anna Eriksdotter (f. 1856, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1856",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hustru till Karl Gustaf Andersson (f. 1863), Renstad, Boda; mor till Hedvig Kristina (1886) och Karl August (1890).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29 rad 12–13, Folk_109943870): ”Eriksdotter, Anna f. 1856 Boda” i hushållet Karl Gustaf Andersson f. 1863 (gift); 1910 samma (Folk_125553551). Familjeställning ej utläst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29): Eriksdotter, Anna f. 1856 i hushåll Karl Gustaf Andersson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Eriksdotter (f. 1856, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_hedvig_a86",
+  "name": "Hedvig Kristina Andersson (f. 1886, Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Barn till Karl Gustaf Andersson (f. 1863) och Anna Eriksdotter, Renstad, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910 Boda, Renstad (Folk_109943870): Hedvig Kristina Andersson i hushållet Karl Gustaf Andersson/Anna Eriksdotter (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29 rad 12): barn i hushåll Karl Gustaf Andersson f. 1863",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   }
+  ],
+  "search": [
+   "Hedvig Kristina Andersson (f. 1886, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_karlaugust_a90",
+  "name": "Karl August Andersson (f. 1890, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1890",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Barn till Karl Gustaf Andersson (f. 1863) och Anna Eriksdotter, Renstad, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (Folk_109943870): Karl August Andersson i hushållet Karl Gustaf Andersson/Anna Eriksdotter (barn enligt hushållsbygge, familjeställning ej utläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29 rad 12): barn i hushåll Karl Gustaf Andersson f. 1863",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   }
+  ],
+  "search": [
+   "Karl August Andersson (f. 1890, Boda)"
+  ]
+ },
+ {
+  "id": "ap5_erik_jansson18",
+  "name": "Erik Jansson (f. 1818, Östra Ämtervik)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1818",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "F.d. hemmansägare, inneboende hos Karl Gustaf Andersson, Renstad, Boda 1900; möjligen far till Anna Eriksdotter (f. 1856).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29, Folk_109943870): ”Jansson, Erik, f. 1818 i Östra Ämtervik”, f.d. hemegare, fam. nr 2 tillsammans med ”Svensdotter, Stina, f. 1819 i Boda” i Karl Gustaf Anderssons hushåll. Släktskapet till husets hustru Anna Eriksdotter (f. 1856; patronymikon Eriksdotter) ej angivet – candidate."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29): Jansson, Erik f. 1818, f.d. hemegare, fam. nr 2",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Jansson (f. 1818, Östra Ämtervik)"
+  ]
+ },
+ {
+  "id": "ap5_stina_svensd19",
+  "name": "Stina Svensdotter (f. 1819, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1819",
+   "place": "Boda"
+  },
+  "places": [
+   "Renstad, Boda"
+  ],
+  "summary": "Hos Karl Gustaf Andersson, Renstad, Boda 1900 tillsammans med Erik Jansson (f. 1818); möjligen mor till Anna Eriksdotter (f. 1856).",
+  "notes": [
+   "FOLKRÄKNING 1900 Boda, Renstad (s. 29, Folk_109943870): ”Svensdotter, Stina, f. 1819 i Boda”, fam. nr 2 med Erik Jansson f. 1818 i Karl Gustaf Anderssons hushåll. Släktskap ej angivet – candidate."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Boda, Renstad (s. 29): Svensdotter, Stina f. 1819, fam. nr 2",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943870&tab=post"
+   }
+  ],
+  "search": [
+   "Stina Svensdotter (f. 1819, Boda)"
   ]
  }
 ]
