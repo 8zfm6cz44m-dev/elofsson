@@ -5013,5 +5013,35 @@
   "b": "lena_salomonsd_saldebraten",
   "status": "verified",
   "basis": "Dop Frykerud C/5 bild 164: ”Christopher Svensons och Hust: Lena Salomonsdotrs Son”."
+ },
+ {
+  "id": "c-anders_gustafsson_smadal-kerstin_nilsd_smadal-nils_andersson_smadal",
+  "type": "child",
+  "parents": [
+   "anders_gustafsson_smadal",
+   "kerstin_nilsd_smadal"
+  ],
+  "child": "nils_andersson_smadal",
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 164 nr 45: ”27. Nov. Christnades Anders Giostafsson och Kerstin Nils dotter Barn i Smådal Nils kallat.”"
+ },
+ {
+  "id": "c-nils_larsson_toltan-kjersti_olsd_toltan_nl-nils_nilsson35_fraston",
+  "type": "child",
+  "parents": [
+   "nils_larsson_toltan",
+   "kjersti_olsd_toltan_nl"
+  ],
+  "child": "nils_nilsson35_fraston",
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 209 nr 5: ”9 Martii Nils Larsson och Hust. Kerstin Olofsd. i Toltan Son Nils”; dödbok F I/1 bild 66: ”af D.M. Nils Larsson och H. Kjersti Olsd.”"
+ },
+ {
+  "id": "p-nils_larsson_toltan-kjersti_olsd_toltan_nl",
+  "type": "partner",
+  "a": "nils_larsson_toltan",
+  "b": "kjersti_olsd_toltan_nl",
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 209 nr 5: ”Nils Larsson och Hust. Kerstin Olofsd. i Toltan”"
  }
 ]

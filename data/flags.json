@@ -1844,6 +1844,36 @@
    "persons": [
     "kari_nilsd07"
    ]
+  },
+  {
+   "title": "Dopböcker 1712 saknar nästan helt poster",
+   "text": "C I/1: Anno 1711 slutar bild 81 sid 139 (Michaeli 1711); bild 82 sid 140-141 har bara 3-4 poster för 1712 (bl.a. ”Dnica XV p. trin. … Andreas, Erik Persson och Marit Nilsd. i Öst. Tortan”, ”IV Adv.” och 14 jan 1713 Börit). Erik Nilsson (Kyrkebyn) och Karin Olsd (Sandviken) f. 1712 återfinns därför inte – troligen lucka i boken, ej bevisat att de föddes annorstädes.",
+   "persons": [
+    "erik_nilsson12_kyrkebyn",
+    "karin_olsd12_asen"
+   ]
+  },
+  {
+   "title": "Kjersti Jonsdotter f. 14/8 1728 ej funnen i dopbok",
+   "text": "C I/1 bild 171-173 (apr-okt 1728) genomläst: nr 17 = 11 aug (Nils Ersson, Finnsäd), nr 18 = 25 aug (Jon Månsson, Åmot); ingen post för Jon Nilsson/Kjersti Jonsd. i Renstad. Möjligen annat dopår eller annan församling (Renstad?), eller feldaterad dödbok.",
+   "persons": [
+    "kjersti_jonsd28"
+   ]
+  },
+  {
+   "title": "Börit Andersdotter f. 28/12 1718 ”Tobyn” ej funnen",
+   "text": "C I/1 bild 120 (sep-dec 1718, sid 216-217; sista post 27 dec) och bild 121 (jan 1719) genomlästa: ingen post för Anders Jonsson/Kari/Börit. ’Tobyn’ kan vara annan socken (obekant ort) – avgörs ej här.",
+   "persons": [
+    "borit_andersd18_tobyn"
+   ]
+  },
+  {
+   "title": "Nils Nilsson 1735: fadern Nils Larsson, Toltan – koppling till Elofs familj?",
+   "text": "Dopposten 9 mars 1735 bekräftar fader Nils Larsson (Toltan) och moder Kerstin/Kjersti Olsd. Detta är samma namnpar som nils_larsson_toltan (mantal 1696–1735, status lead). Fadder ’Olof Nilsson’ i posten kan vara Elof Nilsson (Elofs far heter Nils) – nils_larsson_toltan som Elofs far är dock fortfarande bara namnlikhet.",
+   "persons": [
+    "nils_nilsson35_fraston",
+    "nils_larsson_toltan"
+   ]
   }
  ],
  "conflicts": [

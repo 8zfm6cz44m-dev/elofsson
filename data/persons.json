@@ -8285,8 +8285,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1726",
-   "place": "(oläst)"
+   "date": "1726-11-27",
+   "place": "Smådal, Brunskog",
+   "note": "Dopbok C I/1 bild 164, nr 45: baptized 27 nov 1726; A I/8 anger född 27/11 1726 (daterad dop-/födelsedag sammanfaller)."
   },
   "places": [
    "Smådal, Brunskog"
@@ -8298,7 +8299,8 @@
    "A I/8 bild 370: ”Nils Andersen” 27/11 1726 Smådal, hustru ”Kjersti Daniels.” 6/3 1725 från Berga, dotter ”Kjersti Nilsd.” 6/1 1753; Daniel Nilsson 18/9 1757 (samma dag som dopet 1757 med föräldrar Nils och Kjerstin Danielsd.).",
    "Levde 3 sept 1813 (efterlefver hustrun Kjersti Danielsdotter, F I/2 bild 43 nr 20).",
    "DÖDBOK 1821 (bild 79, kolumner Månad | Dödsdag | Begr.dag | Namn | By | Dödsorsak | år): ”nov: 22 | 2/12 | Enkem. Nils Andersson | Smådal | ålderd | 96”. Enkeman efter Kjerstin Danielsdotter († 3/9 1813). Tabellformat 1821–: första datumkolumn = dödsdag, andra = begravningsdag (bråk d/m).",
-   "MANTAL (B4): Smådal-/Skog-grupperna 1697–1711 ej lokaliserade med säkerhet (rubrikerna ligger sent i Brunskog-avsnittet; B4 läste bara Toltan-raderna 1:1). ’Nils Andersson’ ses i 1711 (485 vä/hö ’Nils Andersson, Johan Andersson, …’), Åsmotta (1711 484 hö ’Nils Andersson, Måns Andersson’) och Wester Toltan 1697/1698 (’Nils Andersson’) – ej knutet till Smådal."
+   "MANTAL (B4): Smådal-/Skog-grupperna 1697–1711 ej lokaliserade med säkerhet (rubrikerna ligger sent i Brunskog-avsnittet; B4 läste bara Toltan-raderna 1:1). ’Nils Andersson’ ses i 1711 (485 vä/hö ’Nils Andersson, Johan Andersson, …’), Åsmotta (1711 484 hö ’Nils Andersson, Måns Andersson’) och Wester Toltan 1697/1698 (’Nils Andersson’) – ej knutet till Smådal.",
+   "DOPBOK 1726 (C I/1 bild 164 nr 45, sida 305 vä): ”27. Nov. Christnades Anders Giostafsson och Kerstin Nils dotter Barn i Smådal Nils kallat. Fadd. Olof Jonsson i Åsmotta, Per Jacobsson i Byn, Hust. Börit Anders dr och Margreta Matts dotter i Smådal.” Föräldrar: Anders Gustafsson och Kerstin Nilsdotter. Dopdatum stämmer med A I/8 (27/11 1726)."
   ],
   "sources": [
    {
@@ -8324,6 +8326,10 @@
    {
     "label": "Riksarkivet, Mantalslängder 1642-1820 Örebro län, Brunskog 1711, bild 484 hö: Toltan-gruppen",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003192_00484"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 164, 1726 nr 45: Anders Gustafsson och Kerstin Nilsdotter, barn i Smådal, Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00164"
    }
   ],
   "search": [
@@ -15874,9 +15880,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1735",
+   "date": "1735-03-09",
    "place": "Toltan, Brunskog",
-   "note": "Dödbok 1799: född 1735 [9/4?] uti Toltan af Nils Larsson och Kjersti Olsd."
+   "note": "Dopbok C I/1 bild 209, nr 5: ’9 Martii’ 1735 (dödboken angav osäkert 9/4; dopbokens datum 9 mars stämmer med åldern 63 år 10 mån vid död 28/12 1798)."
   },
   "died": {
    "date": "1798-12-28",
@@ -15889,12 +15895,17 @@
   ],
   "summary": "Gift 28 dec 1758 med Marit Christophersdotter från Åsen. Son till Nils Larsson och Kjersti Olsdotter, Toltan (ej samma som Nils Nilsson i Stoy).",
   "notes": [
-   "DÖDBOK F I/1 bild 66 (s. 105), Begrafne 1799, jan. 6, nr 1: ”D.M. Nils Nilsson i Frastån[?] född 1735 9/4[?] uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd. Gift 1758 28/12 med H. Marit Christophersd. från Åsen. Afled den 28 December uti Hals af Slag. 63 år 10 mån.”"
+   "DÖDBOK F I/1 bild 66 (s. 105), Begrafne 1799, jan. 6, nr 1: ”D.M. Nils Nilsson i Frastån[?] född 1735 9/4[?] uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd. Gift 1758 28/12 med H. Marit Christophersd. från Åsen. Afled den 28 December uti Hals af Slag. 63 år 10 mån.”",
+   "DOPBOK 1735 (C I/1 bild 209, sida 391 hö, nr 5): ”9 Martii Nils Larsson och Hust. Kerstin Olofsd. i Toltan Son Nils. Fadd. Olof Nilsson, Nils Ingesson ibid. Hust. Marit Olofsd., Ingrid Mattsd. ibidem.” Verifierar föräldrarna Nils Larsson och Kerstin/Kjersti Olsdotter. (Fadder ’Olof Nilsson’ kan vara Elof Nilsson – ej bevisat.)"
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1, bild 66 (s. 105), 1799 nr 1: Nils Nilsson i Frastån, f. 1735 Toltan, gift 1758 28/12 med Marit Christophersd. från Åsen, † 28 dec 1798",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00066"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 209, 1735 nr 5: 9 Martii Nils Larsson och Hust. Kerstin Olofsd. i Toltan, Son Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00209"
    }
   ],
   "search": [
@@ -19927,6 +19938,75 @@
   ],
   "search": [
    "Lena Salomonsdotter (Såldebråten, Frykerud)"
+  ]
+ },
+ {
+  "id": "anders_gustafsson_smadal",
+  "name": "Anders Gustafsson (Smådal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Smådal, Brunskog"
+  ],
+  "summary": "Far till Nils Andersson (f. 27/11 1726 Smådal), enligt dopposten 1726.",
+  "notes": [
+   "DOPBOK C I/1 bild 164, 1726 nr 45: ”27. Nov. Christnades Anders Giostafsson och Kerstin Nils dotter Barn i Smådal Nils kallat. Fadd. Olof Jonsson i Åsmotta, Per Jacobsson i Byn, Hust. Börit Anders dr och Margreta Matts dotter i Smådal.” (läsning av efternamn ’Gustafsson’ sannolik, handstil svårläst)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688-1736), bild 164, sida 305 vä, 1726 nr 45: Christnades Anders Gustafsson och Kerstin Nilsdotter, barn i Smådal, Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00164"
+   }
+  ],
+  "search": [
+   "Anders Gustafsson (Smådal)"
+  ]
+ },
+ {
+  "id": "kerstin_nilsd_smadal",
+  "name": "Kerstin Nilsdotter (Smådal, mor till Nils Andersson f. 1726)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Smådal, Brunskog"
+  ],
+  "summary": "Hustru till Anders Gustafsson i Smådal; mor till Nils Andersson f. 1726 (dopbok 1726).",
+  "notes": [
+   "DOPBOK C I/1 bild 164 nr 45 (27 nov 1726): ”Anders Giostafsson och Kerstin Nils dotter”. Förväxla ej med Kjerstin Danielsdotter (hustru till Nils Andersson)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 164, 1726 nr 45",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00164"
+   }
+  ],
+  "search": [
+   "Kerstin Nilsdotter (Smådal, mor till Nils Andersson f. 1726)"
+  ]
+ },
+ {
+  "id": "kjersti_olsd_toltan_nl",
+  "name": "Kjersti Olsdotter (Toltan, hustru till Nils Larsson)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Hustru till Nils Larsson i Toltan; mor till Nils Nilsson f. 1735 (dopbok 1735 + dödbok 1799).",
+  "notes": [
+   "DOPBOK C I/1 bild 209, 1735 nr 5: ”… Nils Larsson och Hust. Kerstin Olofsd. i Toltan Son Nils”. DÖDBOK 1799: ”af D.M. Nils Larsson och H. Kjersti Olsd.” Namnformen Kerstin/Kjersti växlar."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 209 (sida 391 hö), 1735 nr 5: Nils Larsson och Hust. Kerstin Olofsd. i Toltan, Son Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00209"
+   }
+  ],
+  "search": [
+   "Kjersti Olsdotter (Toltan, hustru till Nils Larsson)"
   ]
  }
 ]
