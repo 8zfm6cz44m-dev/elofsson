@@ -5467,8 +5467,8 @@
    "fr_elinlene1756"
   ],
   "child": "fr_katarinaandersd1781",
-  "status": "strong",
-  "basis": "Husförhör A I/9 bild 46: ”Doll: Catharina Andersdr” 1781 22/11 i Anders Erssons hushåll, Lene. Identiteten med Nils Jonssons hustru (död aug 1808, 26 år 8 mån 28 dgr) stöds av födelsedatum, namn, Lene samt faddrarna Britta/Cajsa/Nils Andersson i dopet 1808; ej uttryckligt ”dotter” i dödboken."
+  "status": "verified",
+  "basis": "Dop C/5 bild 39 (s. 51, nov 1781): ”22 | 25 Catharina Andersdr i Lened. Föräld: Anders Ersson och Hust: Elin Swensdr”."
  },
  {
   "id": "p-fr_jonasandersson_lene-fr_stinamansd_lene",
@@ -5576,8 +5576,8 @@
    "fr_kerstinnilsd1727_lene"
   ],
   "child": "fr_stinamansd_lene",
-  "status": "strong",
-  "basis": "Husförhör A I/9 bild 49: Jonas Andersson står som ”Måg” i Måns Månssons/Knutssons hushåll tillsammans med ”H. Stina Månsd.” 1753; patronymikon Månsdotter. Stinas dop 1753 ej funnet (ej uttryckligt ”dotter”)."
+  "status": "verified",
+  "basis": "Dop C/4 bild 69 (s. 115, 1753 juli 10/15): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” (marg. ”Stina”); A I/8 bild 48: ”D: Stina M[åns]” 1753 10/7 i Måns Knutssons hushåll."
  },
  {
   "id": "p-fr_salomonberger1734-fr_ingeridjonsd1726",
@@ -5616,5 +5616,60 @@
   "b": "lena_salomonsd_saldebraten",
   "status": "strong",
   "basis": "Samma hushåll A I/9 bild 217."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_mansmansson1746_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_mansmansson1746_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Måns Måns[son] 1746 4/9”. Dop ej läst."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_ingeborgmansd1761_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_ingeborgmansd1761_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Ingeborg Må[ns] 1761 11/7”. Dop ej läst."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_elinmansd1765_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_elinmansd1765_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Elin 1765”. Dop ej läst."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_margaretamansd1768_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_margaretamansd1768_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”D: Margreta 1768”. Dop ej läst."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_nilsmansson1771_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_nilsmansson1771_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Nils M[åns] 1771 10/8”. Dop ej läst."
  }
 ]

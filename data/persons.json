@@ -20543,7 +20543,11 @@
    "DOP Frykerud C/5 bild 43 (s. 57, 1782): ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr”; fadder bl.a. ”Eric Olsson uti Karsbole”, ”Nils Månsson uti Lene”.",
    "HUSFÖRHÖR A I/9 bild 49 (fol. 37), Lene: Jonas Andersson 1750 12/4 står som ”Måg” (svärson) i Måns [Knutsson/Månsson]s hushåll, H. Stina Månsd. 1753 10/4; barn Anders 1776 24/6, Catharina 1779 25/3, Nils 1782.",
    "HUSFÖRHÖR A I/10 bild 38 (fol. 25) och A I/11 bild 33 (fol. 23): eget hushåll på Lene, barn Anders, Catharina, Nils, Olof 1785, Sven 1788, Maria 1791, Stina 1794. Finns ej på Lene i A I/12 (1797–1807, Lene fol. 20 bild 31); död/utflyttning ej funnen (sök F/1 1797–1814 + A I/12 övriga byar).",
-   "Syskon/föräldrar (Anders …, dop 1750 C/4 ca bild 35–38) ej funna."
+   "Syskon/föräldrar (Anders …, dop 1750 C/4 ca bild 35–38) ej funna.",
+   "DOP (kandidat, handstil svårläst): Frykerud C/4 bild 37 (s. 54, ”Anno 1750”, vänster sida, post med datum ”12 Apr” i marginalen; marg. namn ”Jonas” överstruket + tillagt ”Död 1820”): ”Född och d. 15 dito döptes ungt barn … [An]ders Nilsson och H. Marit Bengtsdr[?] … kallat Jonas. Fadd: Mattes Bengtsson …, Sven Nilsson i Lene, Olof Jonsson i Lene”. Födelsedatum 12/4 stämmer med husförhör; föräldrars förnamn (Anders Nilsson + Marit Bengtsdotter) läst med osäkerhet, bostadsort ej säkrad. ‘Död 1820’ (senare påskrift) – sök F/2 1820.",
+   "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): ”Dr [dräng] Jöns And:” 1750 12/4 står i Måns Knutssons hushåll direkt före/efter ”H. Stina Månsd.” 1753 10/7 (nygift); i samma hushåll ”S: Anders Jönsson” 1776 …/6.",
+   "DÖD: Frykerud F/2 (1814–1861) C0037143 bild 35 (vänstersida, april 1820): ”Lene Gifte Jonas Andersson” – dödsorsak ”Frossfeber”, ålder ”70” år, ”—” mån, ”6” dagar (12/4 1750 + 70 år 6 dagar ≈ 18/4 1820; dagkolumnen svårläst). Åldern + födelsedatum 12/4 1750 stämmer med husförhören; i dopposten C/4 bild 37 står marginalpåskriften ”Död 1820”.",
+   "VIGSEL: Frykerud E I/1 C0037140 bild 110 (s. 204, ”Wigde Åhr 1775”), post 29 Oct 1775: ”wigdes hemma i egna kläder Dr: Jonas Andersson i Fä[l]s[…] med P[ig]: [Stina?] Månsdr [i Lene?] … morgongåfva 30 Rdr Kopp[ar]mynt” – mannens namn tydligt, hustruns namn/hemort svårlästa (kandidat; barn Anders f. 24/6 1776 stämmer)."
   ],
   "sources": [
    {
@@ -20561,6 +20565,22 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797) C0037112, bild 33 (fol. 23), Lene: Jonas Andersson 50 12/4, H. Stina Månsdr 53, Son Anders 76 24/6 (utfl. 93 Såldebr.), D. Cathrina 79 25/3, Son Nils 82, Son Sven 88 10/10, D. Maria 91 1/10, D. Stina 94",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00033"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777), bild 37 (s. 54), 1750 apr: födde 12 apr, döpt 15 apr, kallat Jonas (marg. ’Jonas’, ’Död 1820’) – föräldrar läst som Anders Nilsson + Marit Bengtsdr (osäkert)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/2 (1814–1861), bild 35, apr 1820: Lene Gifte Jonas Andersson, Frossfeber, 70 år – mån 6 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00035"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 110 (s. 204), 29 okt 1775: Dr Jonas Andersson … vigdes hemma i egna kläder",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00110"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8, bild 48 (fol. 36), Lene 1777: Dr Jöns And: 1750 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
    }
   ],
   "search": [
@@ -20570,6 +20590,11 @@
    "date": "1750-04-12",
    "place": "(Frykerud?)",
    "note": "Husförhör A I/9 bild 49 / A I/10 bild 38 / A I/11 bild 33: ”Jonas Andersson” 1750 12/4. Dop/föräldrar (Anders …) ej funnet."
+  },
+  "died": {
+   "date": "1820-04",
+   "place": "Lene, Frykerud",
+   "note": "död ca 18 apr 1820, 70 år 0 mån 6 dagar, frossfeber (F/2 bild 35)"
   }
  },
  {
@@ -20584,7 +20609,10 @@
   "summary": "Moder till Nils Jonsson f. 7/3 1782 (Frykerud); hustru till Jonas Andersson.",
   "notes": [
    "DOP Frykerud C/5 bild 43: ”Föräld: Jonas Andersson och hust: Stina Månsdr” (efternamnsändelsen avläst Månsd.).",
-   "Troligen dotter till Måns Knutsson/Månsson (Lene): maken Jonas Andersson står som ”Måg” i dennes hushåll (A I/9 bild 49)."
+   "Troligen dotter till Måns Knutsson/Månsson (Lene): maken Jonas Andersson står som ”Måg” i dennes hushåll (A I/9 bild 49).",
+   "DOP: Frykerud C/4 (1747–1777) bild 69 (s. 115, ”Anno 1753”, post ”Juli 10”, marg. ”Stina”): ”Föddes och döptes d. 15 af Herr Pr: S.W. Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina. Fadd: Olof Hermansson i Hammarlia, Anders Hermansson …” – läsning av förnamnen Måns Knutsson / Kerstin Nilsd tydlig. Föräldrar bekräftade: Måns Knutsson + Kerstin Nilsdotter, Lene.",
+   "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): i Måns Knutssons hushåll raden ”D: Stina M[åns]” (överstruken, 1753 10/7) samt längre ned ”H. Stina Månsd.” 1753 10/7 bredvid ”Dr [dräng] Jöns And:” 1750 12/4 (Jonas Andersson) – dvs. hon gifter sig från Måns hushåll.",
+   "VIGSEL (kandidat): E I/1 bild 110 (s. 204), 29 okt 1775: Jonas Andersson ”med P[ig]: … Månsdr” – se Jonas."
   ],
   "sources": [
    {
@@ -20602,15 +20630,23 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797) C0037112, bild 33 (fol. 23), Lene: Jonas Andersson 50 12/4, H. Stina Månsdr 53, Son Anders 76 24/6 (utfl. 93 Såldebr.), D. Cathrina 79 25/3, Son Nils 82, Son Sven 88 10/10, D. Maria 91 1/10, D. Stina 94",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00033"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777), bild 69 (s. 115), 1753 juli: Måns Knutsson + H. Kerstin Nilsd, barn i Lene kallat Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00069"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene: Måns Knutsson med D. Stina M. 1753 10/7; H. Stina Månsd. 1753 10/7 + Dr Jöns And: 1750 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
    }
   ],
   "search": [
    "Stina Månsdotter (Lene, Frykerud)"
   ],
   "born": {
-   "date": "1753-04-10",
-   "place": "(Frykerud?)",
-   "note": "A I/9 bild 49: ”H. Stina Månsd.” 1753 10/4 (A I/11 läser 10/7?). Dop ej säkert funnet (C/4 bild 67, apr 1753 har marg. ”Stina” men text oläsbar)."
+   "date": "1753-07-10",
+   "place": "Lene, Frykerud",
+   "note": "dop 15/7 1753, C/4 bild 69; (A I/8 bild 48 läser 1753 10/7; A I/9 ’10/4’ var felläst)"
   }
  },
  {
@@ -21405,7 +21441,7 @@
   "born": {
    "date": "1781-11-22",
    "place": "Lene, Frykerud",
-   "note": "Husförhör A I/9 bild 46 (fol. 34): ”Doll Catharina Andersdr” 1781 22/11 i Anders Erssons hushåll; stämmer med ålder vid död 26 år 8 mån 28 dgr (död aug 1808). Dop 1781 ej läst."
+   "note": "dop 25/11 1781, C/5 bild 39"
   },
   "died": {
    "date": "1808-08-21",
@@ -21420,7 +21456,8 @@
    "VIGSEL Frykerud E I/1 bild 156 (s. 294, ”September 1806”): ”Dräng: Nils Jonsson i Lene och Pigan Catharina Andersdotr därsammastädes”; vigdkolumnen: ”vigde den 26 Dec: af Dito” (raden ovanför vigd 19 Okt av Adj. Ekström).",
    "DOP Frykerud C/6 bild 19 (febr 1808): ”13 | 14 | Lene Föräldrar Nills Jonsson och Cathrina Andersdotter. Wittnen Nills Månsson, Nills Andersson, Hustru Britta Andersdotter och Cajsa Andersdotter” (marg. ”Stina”). Fadder Nils Andersson, Britta och Cajsa Andersdotter = hennes syskon enligt husförhörens hushåll (A I/11 f.21: S. Nils, D. Britta, D. Cajsa).",
    "DÖD Frykerud F/1 bild 118 (s. 208), aug 1808: ”Lene Gifta Katrina Anderssd…”, 26 år 8 mån 28 dagar; födelse 22/11 1781 + 26 år 8 mån 28 dgr ≈ 19–21 aug 1808.",
-   "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”Anders Ersson” 1747; ”H. Elin […]dr” 1756; ”D. Nils Andersson” 1777; ”Doll: Stina Andersdr” 1779; ”Doll: Catharina Andersdr” 1781 22/11. A I/11 bild 31 (fol. 21): Anders Ersson 47, H. Elin, Son Nils, D. Stina, D. Catharina 81, Son Olof, D. Britta, D. Cajsa, S. Per, S. Erik."
+   "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”Anders Ersson” 1747; ”H. Elin […]dr” 1756; ”D. Nils Andersson” 1777; ”Doll: Stina Andersdr” 1779; ”Doll: Catharina Andersdr” 1781 22/11. A I/11 bild 31 (fol. 21): Anders Ersson 47, H. Elin, Son Nils, D. Stina, D. Catharina 81, Son Olof, D. Britta, D. Cajsa, S. Per, S. Erik.",
+   "DOP: Frykerud C/5 (1778–1807) bild 39 (s. 51, ”Åhr 1781”, Novemb:): ”22 | 25 Catharina Andersdr i Lened. Föräld: Anders Ersson och Hust: Elin Swensdr [i Lened?]. Fadd: Nils Larsson i Lened, Nils Svensson i Gönäs, Dr Olof Nilsson i Klungsbol?, Hust: Kerstin Falk[?] i Gönäs, Hust: Stina Olsdr i Lened, pig: Britta …” – föräldrar bekräftade."
   ],
   "sources": [
    {
@@ -21442,6 +21479,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797) C0037112, bild 31 (fol. 21), Lene: Anders Ersson 47, H. Elin, barn inkl. D. Catharina 81",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00031"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5, bild 39 (s. 51), nov 1781: 22/25 Catharina Andersdr i Lened; Föräld: Anders Ersson och Hust: Elin Swensdr",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00039"
    }
   ],
   "search": [
@@ -21465,7 +21506,10 @@
   "summary": "Bonde på Lene; far (husförhör ”Doll.”) till Catharina Andersdotter f. 22/11 1781, Nils Jonssons första hustru; gift med Elin […]dotter f. 1756.",
   "notes": [
    "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”Anders Ersson” 1747, ”H. Elin […]dr” 1756, D. Nils 1777, Doll Stina 1779, Doll Catharina 1781 22/11. A I/11 bild 31 (fol. 21): barn Nils, Stina, Catharina 81, Olof, Britta, Cajsa, Per, Erik. Hustruns patronymikon svårläst (Danielsdr/Ivensdr?).",
-   "Härkomst och död ej undersökt."
+   "Härkomst och död ej undersökt.",
+   "DOP dotter Catharina C/5 bild 39 (1781): ”Föräld: Anders Ersson och Hust: Elin Swensdr”.",
+   "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 50 (fol. 38, Lene 1777), nedre delen: ”do: Anders Ers[son]” 1747, ”p: Britta And:dr” 1754 24/10(?), ”Gustaf Larsson” 1764 (?), ”S: Nils Andersson” 1777 10/1; Elin (f. 1756) syns ej tydligt (överstruken rad 1758). Hushållet hör till Lene fol. 38 (ej Måns Knutssons fol. 36).",
+   "VIGSEL Anders–Elin ej funnen: E I/1 bild 110 (sept 1775–okt 1776) saknar dem; äldste son Nils f. 10/1 1777 (inte 1779–80 som antagits) → gifta senast ca 1776 (annan socken?). Dop Anders Ersson 1747 ej sökt."
   ],
   "sources": [
    {
@@ -21475,6 +21519,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797) C0037112, bild 31 (fol. 21), Lene: Anders Ersson 47 med familj",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00031"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 50 (fol. 38), Lene 1777: Anders Ers 1747, S: Nils Andersson 1777",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00050"
    }
   ],
   "search": [
@@ -21497,12 +21545,17 @@
   ],
   "summary": "Hustru till Anders Ersson på Lene; mor till Catharina Andersdotter f. 1781.",
   "notes": [
-   "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”H. Elin […]dr” 1756 i Anders Erssons hushåll."
+   "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”H. Elin […]dr” 1756 i Anders Erssons hushåll.",
+   "DOP dotter Catharina C/5 bild 39 (1781): ”Hust: Elin Swensdr” (Svensdotter) – ersätter osäker ’Danielsdr?’."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 46 (fol. 34), Lene: Anders Ersson 1747, H. Elin […]dr 1756, D. Nils Andersson 1777, Doll Stina Andersdr 1779, Doll Catharina Andersdr 1781 22/11",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00046"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5, bild 39 (s. 51), 1781: Anders Ersson + Elin Swensdr",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00039"
    }
   ],
   "search": [
@@ -21718,7 +21771,11 @@
   "summary": "Hushållsföreståndare på Lene; i A I/9 står Jonas Andersson som ”Måg” (svärson) i hans hushåll, i A I/10 står han som ”Svärf.” (svärfar). Troligen far till Stina Månsdotter f. 1753.",
   "notes": [
    "HUSFÖRHÖR A I/9 bild 49 (fol. 37), Lene: hushåll med Måns [Månsson/Knutsson] 1711 2/10, H. [Kerstin/Catharina?] Nilsd. 1727 6/11, barn Måns 1746, Ingeborg 1761, Elin 1765, Margareta 1768, Nils 1771; i hushållet ”Måg” Jonas Andersson 1750 12/4 + H. Stina Månsd. 1753 med barn.",
-   "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”Måns Knutsson” 1711 2/10, ”H. Kerstin Nilsdr” 1727 6/11, marg. ”Svärf.”, ”död 1789 29/8” vid en av sönerna/Måns."
+   "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”Måns Knutsson” 1711 2/10, ”H. Kerstin Nilsdr” 1727 6/11, marg. ”Svärf.”, ”död 1789 29/8” vid en av sönerna/Måns.",
+   "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): ”Måns Knuts[son]” 1711 2/10, ”H. Kierstin Nilsd[r]” 1727 6/11, ”S: Måns Måns[son]” 1746 4/9, ”D: Ingeborg Må[ns]” (överstruken) 1761 11/7, ”D: Elin” 1765, ”D: Margreta” 1768, ”D: Catharina” (överstruken) 1756 7/11, ”D: Stina M[åns]” (överstruken) 1753 10/7, ”S: Nils M[åns]” 1771 10/8; därefter dräng Pehr Nilsson 1748 (överstruken), ”Dr Jöns Als” 1755 (överstruken), ”D: Maria?” 1746 5/1 (överstruken), ”H. Stina Månsd.” 1753 10/7, ”Dr Jöns And:” 1750 12/4, ”D: Catarina …” (överstruken) 1756 7/11, ”S: Anders Jönsson” 1776 …/6, ”D: Ingeborg …” 1761 11/7 (sista raden osäker).",
+   "DOP dotter Stina: C/4 bild 69 (1753 juli 10/15): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – patronymikon Knutsson verifierat i dopet.",
+   "BARN i hushållet A I/8 bild 48 (1777) och A I/9 bild 49 (1778–84): Stina 1753, Catharina 1756 (överstruken), Måns 1746, Ingeborg 1761, Elin 1765, Margareta 1768, Nils 1771. Sonen Måns Månsson dog 29/8 1789 (F/1 bild 71, s. 119, begr. 6/9: ”Ungkarlen Drängen Måns Månsson i Lene”, Diarrhé, 42 år 11 mån 15 dagar) – detta är raden som A I/10 bild 38 markerar ”död 1789 29/8”, inte fadern Måns Knutsson.",
+   "DOP/VIGSEL egen: dop 1711 saknas i C/3 (börjar 1726). Vigsel Måns–Kerstin ej funnen: E I/1 bild 60 (1744), 62 (apr–nov 1745), 65 (1747) lästa utan träff; äldsta kända barn Måns f. 1746 – vigsel troligen 1745 (bild 61–63 ej fullt avläst)."
   ],
   "sources": [
    {
@@ -21728,6 +21785,14 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–1791) C0037111, bild 38 (fol. 25), Lene: Måns Knutsson 1711 2/10 (marg. ’Svärf.’), H. Kerstin Nilsdr 1727 6/11",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00038"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36, Lene 1777): Måns Knuts, H. Kierstin Nilsd, barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4, bild 69 (s. 115), 1753: Måns Knutsson + Kerstin Nilsd, dotter Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00069"
    }
   ],
   "search": [
@@ -21750,7 +21815,8 @@
   ],
   "summary": "Hustru till Måns Knutsson på Lene; troligen mor till Stina Månsdotter f. 1753.",
   "notes": [
-   "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”H. Kerstin Nilsdr” 1727 6/11 (A I/9 bild 49 läser förnamnet som Catharina?)."
+   "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”H. Kerstin Nilsdr” 1727 6/11 (A I/9 bild 49 läser förnamnet som Catharina?).",
+   "DOP dotter Stina C/4 bild 69 (1753): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – namnet Kerstin Nilsdotter bekräftat (A I/9:s läsning ’Catharina?’ avförd). HUSFÖRHÖR A I/8 bild 48: ”H. Kierstin Nilsd[r]” 1727 6/11."
   ],
   "sources": [
    {
@@ -21760,6 +21826,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 49 (fol. 37), Lene: Måns [Knutsson/Månsson] 1711 2/10 med ’Måg’ Jonas Andersson 1750 12/4, H. Stina Månsd. 1753, S. Anders 1776 24/6, D. Catharina Jonsdr 1779 25/3, D. Nils Jonsson 1782",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4, bild 69 (s. 115), 1753: H. Kerstin Nilsd, mor till Stina",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00069"
    }
   ],
   "search": [
@@ -21854,6 +21924,151 @@
   ],
   "search": [
    "Anna Maria Salomonsdotter (f. 1761, Rörbäcken)"
+  ]
+ },
+ {
+  "id": "fr_mansmansson1746_lene",
+  "name": "Måns Månsson (Lene, f. 1746)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1746-09",
+   "place": "Frykerud",
+   "note": "A I/8 bild 48: 1746 4/9; ålder 42 år 11 mån 15 d vid död 29/8 1789 ger ca 14/9 1746"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Son till Måns Knutsson och Kerstin Nilsdotter i Lene; ogift dräng; död 29/8 1789.",
+  "notes": [
+   "HUSFÖRHÖR A I/8 bild 48 (fol. 36): ”S: Måns Måns[son]” 1746 4/9 i Måns Knutssons hushåll.",
+   "DÖD: F/1 C0037142 bild 71 (s. 119, 1789): ”Ungkarlen Drängen Måns Månsson i Lene”, Diarrhé, 42 år 11 mån 15 dagar, dag 29 aug (begr. 6 sep)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene 1777: Måns Knutssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814), bild 71 (s. 119), 1789: Ungkarlen Drängen Måns Månsson i Lene, 42 år 11 mån 15 d",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00071"
+   }
+  ],
+  "search": [
+   "Måns Månsson (Lene, f. 1746)"
+  ]
+ },
+ {
+  "id": "fr_ingeborgmansd1761_lene",
+  "name": "Ingeborg Månsdotter (Lene, f. 1761)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1761-07-11",
+   "place": "Frykerud",
+   "note": "A I/8 bild 48: 1761 11/7"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Måns Knutsson och Kerstin Nilsdotter på Lene (överstruken 1777).",
+  "notes": [
+   "HUSFÖRHÖR A I/8 bild 48 (fol. 36): ”D: Ingeborg Må[ns]” (överstruken) 1761 11/7."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene 1777: Måns Knutssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   }
+  ],
+  "search": [
+   "Ingeborg Månsdotter (Lene, f. 1761)"
+  ]
+ },
+ {
+  "id": "fr_elinmansd1765_lene",
+  "name": "Elin Månsdotter (Lene, f. 1765)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1765",
+   "place": "Frykerud",
+   "note": "A I/8 bild 48: 1765"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Måns Knutsson och Kerstin Nilsdotter på Lene.",
+  "notes": [
+   "HUSFÖRHÖR A I/8 bild 48 (fol. 36): ”D: Elin” 1765 i Måns Knutssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene 1777: Måns Knutssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   }
+  ],
+  "search": [
+   "Elin Månsdotter (Lene, f. 1765)"
+  ]
+ },
+ {
+  "id": "fr_margaretamansd1768_lene",
+  "name": "Margareta Månsdotter (Lene, f. 1768)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1768",
+   "place": "Frykerud",
+   "note": "A I/8 bild 48: 1768"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Måns Knutsson och Kerstin Nilsdotter på Lene.",
+  "notes": [
+   "HUSFÖRHÖR A I/8 bild 48 (fol. 36): ”D: Margreta” 1768."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene 1777: Måns Knutssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   }
+  ],
+  "search": [
+   "Margareta Månsdotter (Lene, f. 1768)"
+  ]
+ },
+ {
+  "id": "fr_nilsmansson1771_lene",
+  "name": "Nils Månsson (Lene, f. 1771)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1771-08-10",
+   "place": "Frykerud",
+   "note": "A I/8 bild 48: 1771 10/8"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Son till Måns Knutsson och Kerstin Nilsdotter på Lene.",
+  "notes": [
+   "HUSFÖRHÖR A I/8 bild 48 (fol. 36): ”S: Nils M[åns]” 1771 10/8."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 48 (fol. 36), Lene 1777: Måns Knutssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   }
+  ],
+  "search": [
+   "Nils Månsson (Lene, f. 1771)"
   ]
  }
 ]

@@ -2246,6 +2246,21 @@
     "olof_persson_takene",
     "ingrid_olofsd_1693"
    ]
+  },
+  {
+   "title": "Jonas Anderssons föräldrar (dop 12/4 1750)",
+   "text": "Dop C/4 bild 37 (s. 54): född 12 apr, döpt 15 apr 1750, ”kallat Jonas”; föräldrar läses som Anders Nilsson och H. Marit Bengtsdr (mycket svårläst, säkerhet ca 60 %). Marginal ’Död 1820’ stämmer med F/2 bild 35 (Lene, Gifte Jonas Andersson, 70 år 0 mån 6 d, apr 1820). Behöver kontrolleras.",
+   "persons": [
+    "fr_jonasandersson_lene"
+   ]
+  },
+  {
+   "title": "Anders Ersson + Elin: vigsel och Anders Erssons dop",
+   "text": "Elin heter Svensdotter (dop 1781). Vigsel ej i Frykerud E I/1 sept 1775–okt 1776 (bild 110); första barn Nils f. 10/1 1777 → gifta senast ca 1776. Anders Ersson f. 1747 dop ej sökt.",
+   "persons": [
+    "fr_anderserson1747_lene",
+    "fr_elinlene1756"
+   ]
   }
  ],
  "conflicts": [
@@ -2666,6 +2681,14 @@
     "agata_ksiol",
     "jozef_zatorski"
    ]
+  },
+  {
+   "title": "Måns Knutssons död – A I/10 ’död 1789 29/8’ gäller sonen Måns Månsson",
+   "text": "F/1 bild 71: 29/8 1789 dog ”Ungkarlen Drängen Måns Månsson i Lene”, 42 år 11 mån 15 d (f. ca 14/9 1746). Fadern Måns Knutsson (f. 1711) dödsår ej funnet – anteckningen i A I/10 bör inte tillskrivas honom utan kontroll.",
+   "persons": [
+    "fr_mansknutsson1711_lene",
+    "fr_mansmansson1746_lene"
+   ]
   }
  ],
  "excluded": [
@@ -2922,6 +2945,15 @@
     "fr_nilsjonsson1782",
     "fr_katarinaandersd1781",
     "fr_stinanilsd1808"
+   ]
+  },
+  {
+   "title": "Stina Månsdotter – dotter till Måns Knutsson",
+   "text": "Dop 10/15 juli 1753 (C/4 bild 69): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina”. Födelsedatum 10/7 1753 (A I/9:s 10/4 var felläst). A I/8 bild 48 listar ”D: Stina M[åns]” i Måns hushåll innan hon gifter sig med Jonas Andersson.",
+   "persons": [
+    "fr_stinamansd_lene",
+    "fr_mansknutsson1711_lene",
+    "fr_kerstinnilsd1727_lene"
    ]
   }
  ]
