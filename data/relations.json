@@ -5170,16 +5170,6 @@
   "basis": "Frykerud dopbok C/5 bild 43 (s. 57): ”7. 9. Nils Jonsson ifrån Lene. Föräld: Jonas Andersson och hust: Stina Månsdr” – födelsedag 7/3 och Lene stämmer med husförhör A I/18 bild 183 (”7/3 82”)."
  },
  {
-  "id": "c-fr_nilsjonsson1782-fr_stinanilsd1808",
-  "type": "child",
-  "parents": [
-   "fr_nilsjonsson1782"
-  ],
-  "child": "fr_stinanilsd1808",
-  "status": "strong",
-  "basis": "Frykerud husförhörslängd A I/14 bild 99 (s. 83), Lene: ”D. Stina 1808” i Nils Jonssons hushåll (dotter); mor okänd (första hustru)."
- },
- {
   "id": "c-anders_arnesson-marit_andersd67-olof_andersson_takene_1826",
   "type": "child",
   "parents": [

@@ -20997,7 +20997,8 @@
   "notes": [
    "DOP Frykerud C/5 bild 20, 26 mars 1779: ”Erik Christophersson i Gönäs, af Comminister Wener. Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.”",
    "VIGSEL Frykerud E I/1 bild 114 (s. 212), 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin [Svens?]dotter i Gönäs, morgongåfvor efter lag.” (efternamnsled svårläst/understruken; dopboken anger Svensdotter)",
-   "OMLÄSNING Y1 (C0037140_00114, E I/1 s. 212 vänster, rubrik ”Wigde år 1778”, datum ”24” under ”Juni”): ”wigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin Swen-|dotter [första ledet läses ’Swen’ med hög osäkerhet; kursiv] i Gönäs, morgongåfwor efter lag.” (Christophers namn understruket med tjockt streck.) Dopet 1779 (C/5 bild 20) ger ”Elin Svensdoller” ordagrant – den läsningen är säker; vigselns patronymikon är blott troligt. Status oförändrad (strong)."
+   "OMLÄSNING Y1 (C0037140_00114, E I/1 s. 212 vänster, rubrik ”Wigde år 1778”, datum ”24” under ”Juni”): ”wigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin Swen-|dotter [första ledet läses ’Swen’ med hög osäkerhet; kursiv] i Gönäs, morgongåfwor efter lag.” (Christophers namn understruket med tjockt streck.) Dopet 1779 (C/5 bild 20) ger ”Elin Svensdoller” ordagrant – den läsningen är säker; vigselns patronymikon är blott troligt. Status oförändrad (strong).",
+   "DÖD (AF1): F/1 C0037142 bild 60 vänstersida (s. 96), första posterna ”År 1781”, ordagrant: ”Hust: Elin Svensdr från Såldebråten” – död 4 jan / begr. 14 jan 1781, ”blodgång” (barnsängsblödning), ålder ”25” år (månader/dagar ej läst) ⇒ f. ca 1755/56. Kandidat = Christopher Svenssons första hustru (Christopher är ’Enklingen’ vid omgifte 12 jun 1782). Obs: dödboken säger ’från Såldebråten’ (sambos hemort), inte Gönäs; identitet med E I/1 bild 114 (24 juni 1778) ej bevisad av dödposten men mycket trolig."
   ],
   "sources": [
    {
@@ -21007,11 +21008,20 @@
    {
     "label": "Riksarkivet, Frykerud lysnings-/vigselbok E I/1, bild 114 (s. 212), 24 juni 1778: drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00114"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 60 (s. 96, ”År 1781”): hustru Elin Svensdr från Såldebråten, död 4 jan, begr. 14 jan, blodgång, 25 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00060"
    }
   ],
   "search": [
    "Elin Svensdotter (Gönäs, Frykerud)"
-  ]
+  ],
+  "died": {
+   "date": "1781-01-04",
+   "place": "Såldebråten, Frykerud",
+   "note": "död 4 jan 1781, begr. 14 jan 1781, blodgång, 25 år (F/1 bild 60, s. 96)"
+  }
  },
  {
   "id": "anders_svensson_nboda",
@@ -21252,12 +21262,17 @@
   ],
   "summary": "”Fad.” i Nils Svenssons hushåll i Gönäs 1792–97 (A I/11 fol 113). Möjlig släkt till Elin/Christopher Svensson – STARKT OSÄKER hypotes, ej belagd.",
   "notes": [
-   "HUSFÖRHÖR Frykerud A I/11 bild 125 (fol 113), Gönäs: ”Nils Svensson” f. 1756(?), ”H. Stina Pålsd.”, barn Nils 1782, Per 1786, Erik 1790, Stina 1792, Ingeborg 1796; ”Brod. Olof Svensson” 1753 (död 96); ”Fad. Sven Nilsson” 27 (död 95). Samma ort och patronymikon som Elin Svensdotter i Gönäs; ingen koppling bevisad."
+   "HUSFÖRHÖR Frykerud A I/11 bild 125 (fol 113), Gönäs: ”Nils Svensson” f. 1756(?), ”H. Stina Pålsd.”, barn Nils 1782, Per 1786, Erik 1790, Stina 1792, Ingeborg 1796; ”Brod. Olof Svensson” 1753 (död 96); ”Fad. Sven Nilsson” 27 (död 95). Samma ort och patronymikon som Elin Svensdotter i Gönäs; ingen koppling bevisad.",
+   "DÖD (AF1, lead): F/1 bild 80 (s. 137), dec 1795: ”Gifta Sven Nilsson från Gjönäs” – död 2 dec, begr. 20 dec 1795, sjukdom ’Rosen’(?), 68 år (⇒ f. ca 1727, stämmer med kandidatåret). Främjar identifieringen som Elin Svensdotters far men släktskapet ej belagt."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–1797), bild 125 (fol 113), Gönäs: Nils Svensson, Brod. Olof Svensson, Fad. Sven Nilsson",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00125"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 80 (s. 137, ”Begrafne 1795”): Gifta Sven Nilsson från Gjönäs, död 2 dec, begr. 20 dec 1795, ”Rosen”(?), 68 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00080"
    }
   ],
   "search": [
@@ -21521,7 +21536,8 @@
    "Härkomst och död ej undersökt.",
    "DOP dotter Catharina C/5 bild 39 (1781): ”Föräld: Anders Ersson och Hust: Elin Swensdr”.",
    "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 50 (fol. 38, Lene 1777), nedre delen: ”do: Anders Ers[son]” 1747, ”p: Britta And:dr” 1754 24/10(?), ”Gustaf Larsson” 1764 (?), ”S: Nils Andersson” 1777 10/1; Elin (f. 1756) syns ej tydligt (överstruken rad 1758). Hushållet hör till Lene fol. 38 (ej Måns Knutssons fol. 36).",
-   "VIGSEL Anders–Elin ej funnen: E I/1 bild 110 (sept 1775–okt 1776) saknar dem; äldste son Nils f. 10/1 1777 (inte 1779–80 som antagits) → gifta senast ca 1776 (annan socken?). Dop Anders Ersson 1747 ej sökt."
+   "VIGSEL Anders–Elin ej funnen: E I/1 bild 110 (sept 1775–okt 1776) saknar dem; äldste son Nils f. 10/1 1777 (inte 1779–80 som antagits) → gifta senast ca 1776 (annan socken?). Dop Anders Ersson 1747 ej sökt.",
+   "VIGSEL (AF1): E I/1 bild 111 (s. 206, ”Wigde år 1776”), första posten, marginal ”Nov: 10”: ”wigdes hemma i egna kläder [?] Dr: Anders Er[…] i Lena med p. Elin Swensd:r i B[…] … morgongåfwa … [Rdr] Kopparmynt”. Efternamnet (”Ers…”) och sista ordet efter Elin Swensdr svårlästa (Bidum? Gönäs?). Sonen Nils f. 10/1 1777 kommer 2 månader efter vigseln. Tidigare antagande ’vigsel saknas i bild 110’ stämmer – den står på bild 111 (nov 1776)."
   ],
   "sources": [
    {
@@ -21535,6 +21551,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhör A I/8 (1771–77) C0037109, bild 50 (fol. 38), Lene 1777: Anders Ers 1747, S: Nils Andersson 1777",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00050"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/1 C0037140, bild 111 (s. 206, ”Wigde år 1776”): 10 nov 1776 Dr Anders Er[sson?] i Lena med p. Elin Swensd:r",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00111"
    }
   ],
   "search": [
@@ -21558,7 +21578,8 @@
   "summary": "Hustru till Anders Ersson på Lene; mor till Catharina Andersdotter f. 1781.",
   "notes": [
    "HUSFÖRHÖR A I/9 bild 46 (fol. 34), Lene: ”H. Elin […]dr” 1756 i Anders Erssons hushåll.",
-   "DOP dotter Catharina C/5 bild 39 (1781): ”Hust: Elin Swensdr” (Svensdotter) – ersätter osäker ’Danielsdr?’."
+   "DOP dotter Catharina C/5 bild 39 (1781): ”Hust: Elin Swensdr” (Svensdotter) – ersätter osäker ’Danielsdr?’.",
+   "VIGSEL (AF1): se Anders Ersson – gift 10 nov 1776 (E I/1 bild 111, s. 206)."
   ],
   "sources": [
    {
@@ -21568,6 +21589,10 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/5, bild 39 (s. 51), 1781: Anders Ersson + Elin Swensdr",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00039"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/1 C0037140, bild 111 (s. 206): 10 nov 1776 Anders Er[sson] i Lena med p. Elin Swensd:r",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00111"
    }
   ],
   "search": [
@@ -21787,7 +21812,10 @@
    "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): ”Måns Knuts[son]” 1711 2/10, ”H. Kierstin Nilsd[r]” 1727 6/11, ”S: Måns Måns[son]” 1746 4/9, ”D: Ingeborg Må[ns]” (överstruken) 1761 11/7, ”D: Elin” 1765, ”D: Margreta” 1768, ”D: Catharina” (överstruken) 1756 7/11, ”D: Stina M[åns]” (överstruken) 1753 10/7, ”S: Nils M[åns]” 1771 10/8; därefter dräng Pehr Nilsson 1748 (överstruken), ”Dr Jöns Als” 1755 (överstruken), ”D: Maria?” 1746 5/1 (överstruken), ”H. Stina Månsd.” 1753 10/7, ”Dr Jöns And:” 1750 12/4, ”D: Catarina …” (överstruken) 1756 7/11, ”S: Anders Jönsson” 1776 …/6, ”D: Ingeborg …” 1761 11/7 (sista raden osäker).",
    "DOP dotter Stina: C/4 bild 69 (1753 juli 10/15): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – patronymikon Knutsson verifierat i dopet.",
    "BARN i hushållet A I/8 bild 48 (1777) och A I/9 bild 49 (1778–84): Stina 1753, Catharina 1756 (överstruken), Måns 1746, Ingeborg 1761, Elin 1765, Margareta 1768, Nils 1771. Sonen Måns Månsson dog 29/8 1789 (F/1 bild 71, s. 119, begr. 6/9: ”Ungkarlen Drängen Måns Månsson i Lene”, Diarrhé, 42 år 11 mån 15 dagar) – detta är raden som A I/10 bild 38 markerar ”död 1789 29/8”, inte fadern Måns Knutsson.",
-   "DOP/VIGSEL egen: dop 1711 saknas i C/3 (börjar 1726). Vigsel Måns–Kerstin ej funnen: E I/1 bild 60 (1744), 62 (apr–nov 1745), 65 (1747) lästa utan träff; äldsta kända barn Måns f. 1746 – vigsel troligen 1745 (bild 61–63 ej fullt avläst)."
+   "DOP/VIGSEL egen: dop 1711 saknas i C/3 (börjar 1726). Vigsel Måns–Kerstin ej funnen: E I/1 bild 60 (1744), 62 (apr–nov 1745), 65 (1747) lästa utan träff; äldsta kända barn Måns f. 1746 – vigsel troligen 1745 (bild 61–63 ej fullt avläst).",
+   "VIGSEL (AF1): E I/1 bild 67 (s. 123), sista posten för 1749, marginal ”28” (föregående post ”Dec 26”), ordagrant (handstil läsbar, ort efter Kierstin Nilsd svårläst): ”wigdes för altaret i vanlig ständ Måns Knutsson i Lena med pigan Kierstin Nilsd: i Sundrviken[?] efter 3ne lagen ständda lysningar morgongåfwa 20 lod silfwer.” ⇒ vigsel 28 dec 1749 (INTE ca 1745). E I/1 bild 60–63 (okt 1744–jun 1746) och 64–66 (1746–48) genomlästa utan Måns Knutsson.",
+   "DÖD (AF1): F/1 C0037142 bild 80 (s. 137, ”Begrafne 1795”), dec: ”Gifta Måns Knutsson ifrån Lene” – kolumner: död 11 / begr. 20 dec, sjukdom ”Slag”, ålder 84 år 2 mån 9 dagar (⇒ f. 2/10 1711, stämmer med husförhör). VERIFIERAD död.",
+   "Not: i samma bok (bild 71, 1789) ’Ungkarlen Drängen Måns Månsson i Lene’ d. 29/8 1789 = sonen, ej fadern; fadern dog 11/12 1795 (bild 80)."
   ],
   "sources": [
    {
@@ -21805,11 +21833,24 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4, bild 69 (s. 115), 1753: Måns Knutsson + Kerstin Nilsd, dotter Stina",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00069"
+   },
+   {
+    "label": "Riksarkivet, Frykerud lysnings- och vigselbok E I/1 (1708–1814) C0037140, bild 67 (s. 123, ”Wigde Anno 1749”), 28 dec 1749: Måns Knutsson i Lena med pigan Kierstin Nilsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00067"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 80 (s. 137, ”Begrafne 1795”): Gifta Måns Knutsson ifrån Lene, död 11 dec, begr. 20 dec, 84 år 2 mån 9 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00080"
    }
   ],
   "search": [
    "Måns Knutsson (Månsson?) (Lene, f. 1711)"
-  ]
+  ],
+  "died": {
+   "date": "1795-12-11",
+   "place": "Lene, Frykerud",
+   "note": "död 11 dec 1795, begr. 20 dec 1795, 84 år 2 mån 9 dagar (F/1 bild 80, s. 137) – stämmer med född 2/10 1711"
+  }
  },
  {
   "id": "fr_kerstinnilsd1727_lene",
@@ -21828,7 +21869,8 @@
   "summary": "Hustru till Måns Knutsson på Lene; troligen mor till Stina Månsdotter f. 1753.",
   "notes": [
    "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”H. Kerstin Nilsdr” 1727 6/11 (A I/9 bild 49 läser förnamnet som Catharina?).",
-   "DOP dotter Stina C/4 bild 69 (1753): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – namnet Kerstin Nilsdotter bekräftat (A I/9:s läsning ’Catharina?’ avförd). HUSFÖRHÖR A I/8 bild 48: ”H. Kierstin Nilsd[r]” 1727 6/11."
+   "DOP dotter Stina C/4 bild 69 (1753): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – namnet Kerstin Nilsdotter bekräftat (A I/9:s läsning ’Catharina?’ avförd). HUSFÖRHÖR A I/8 bild 48: ”H. Kierstin Nilsd[r]” 1727 6/11.",
+   "DÖD (AF1): F/1 C0037142 bild 104 högersida (s. 183), ordagrant: ”Enkan Kjerstin Nilsdotr i Lene.” – febr 3 / 12, ”ålderdom”, 76 år 2 mån 23 d. Änka (Måns Knutsson d. dec 1795). VERIFIERAD död."
   ],
   "sources": [
    {
@@ -21842,11 +21884,20 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4, bild 69 (s. 115), 1753: H. Kerstin Nilsd, mor till Stina",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00069"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 104 (s. 183, ”Begrafne 1804”): Enkan Kjerstin Nilsdotr i Lene, död 3 febr, begr. 12, ålderdom, 76 år 2 mån 23 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00104"
    }
   ],
   "search": [
    "Kerstin Nilsdotter (Lene, f. 1727)"
-  ]
+  ],
+  "died": {
+   "date": "1804-02-03",
+   "place": "Lene, Frykerud",
+   "note": "död 3 feb 1804, begr. 12 feb 1804, ålderdom, 76 år 2 mån 23 dagar (F/1 bild 104, s. 183) – ger f. ca 11 nov 1727 (hf: 6/11 1727)"
+  }
  },
  {
   "id": "fr_salomonberger1734",
@@ -21868,7 +21919,8 @@
    "Barnen Nils (1752) och Olof (1758) har patronymikon Jonsson = sannolikt Ingerids barn i tidigare gifte (styvbarn) – ej bevisat.",
    "Vigsel Salomon–Ingerid ej funnen (sökte E I/1 bild 84–88 = 1759–1762 men handstilen är för svårläst för helsökning; bör sökas ”Enkan Ingerid Jonsdotter” ca 1758–60). Salomons föräldrar/ursprung okänt.",
    "DOP Anna Maria 1761 (C/4 bild 140): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj …” – titeln ’Hr.’ och fadder ”Hr. Adam Berger” tyder på bruks-/tjänstemannamiljö; Adam Berger möjlig släkting (lead)",
-   "DOP 1734: ej funnen i Frykerud C/3 jan–feb 1734 (bild 96–97, nr 26/1–10/2 genomläst: inget Salomon) – född sannolikt annan socken"
+   "DOP 1734: ej funnen i Frykerud C/3 jan–feb 1734 (bild 96–97, nr 26/1–10/2 genomläst: inget Salomon) – född sannolikt annan socken",
+   "DÖD (AF1): F/1 C0037142 bild 71 högersida (s. 119), nedersta raden 1790: ”Gifta Salomon Berger i Rörbäcken” – död 10 / begr. 18 april (1790), ”Lungsot”, 56 år 2 mån 4 dagar. Obs: dag-/månadskolumnerna ligger på raden under föregående rad ”Barn Ingebor Månsdr i Klaxäs” (Apr 2 …); läsningen ’10/18 apr’ hör med stor sannolikhet till Berger-raden (ålder 56 ⇒ f. 1734 stämmer). Gift (hustrun alltså ännu i livet; Ingerid dog 1799)."
   ],
   "sources": [
    {
@@ -21882,11 +21934,20 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 140 (1761 maj, höger sida nederst): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito af Com: Hr. Wenerlöf; vittnen: … Hr. Erik Frisell(?) … Hr. Adam Berger … i Rörbäcken …” (marg. ”Anna Maria”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00140"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 71 (s. 119, ”Begrafne 1790”), apr: Gifta Salomon Berger i Rörbäcken, död 10, begr. 18, Lungsot, 56 år 2 mån 4 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00071"
    }
   ],
   "search": [
    "Salomon Berger (Rörbäcken, Frykerud, f. 1734)"
-  ]
+  ],
+  "died": {
+   "date": "1790-04-10",
+   "place": "Rörbäcken, Frykerud",
+   "note": "död 10 apr 1790, begr. 18 apr 1790, lungsot, 56 år 2 mån 4 dagar (F/1 bild 71, s. 119) – ger f. ca 6 feb 1734"
+  }
  },
  {
   "id": "fr_ingeridjonsd1726",
@@ -21908,7 +21969,8 @@
    "DOP-KANDIDAT C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid” – enda Ingerid i nov 1726 (bild 13–14), dag stämmer med hf 21/11 (födelse)",
    "FÖRSTA MAKE: Jonas Pålsson, Rörbäcken – barn Nils (dop 14/10 1752, C/4 bild 63) och Olof (dop 17/9 1758, C/4 bild 118: ”Jonas Pålsson och h: Ingerid Jönsd(r)”)",
    "ANDRA MAKE: Salomon Berger – barn Anna Maria (f. 7/5, dop 10/5 1761, C/4 bild 140: ”Hr. Salomon Bergers och h. Ingerid Jönsd. dr”), Lena (30/5 1764), Jan Jonas (13/7 1767)",
-   "Vigsel Salomon Berger–Ingerid ej funnen i E I/1 bild 85–87 (1759 aug–1761 jun) – se unresolved"
+   "Vigsel Salomon Berger–Ingerid ej funnen i E I/1 bild 85–87 (1759 aug–1761 jun) – se unresolved",
+   "DÖD (AF1): F/1 C0037142 bild 91 högersida (s. 157), ordagrant: ”Enk[an]: Ingrid Jonesdr i Rörbecken” – Oct 31 / Nov 9, ”Gicht”, 72 år 11 mån 8 dagar (⇒ f. ca 23 nov 1726; hf: 21/11 1726, dop 22 nov 1726). VERIFIERAD död. Ingerid överlevde Salomon Berger (d. 1790) som änka."
   ],
   "sources": [
    {
@@ -21926,11 +21988,20 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 140 (1761 maj, höger sida nederst): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito af Com: Hr. Wenerlöf; vittnen: … Hr. Erik Frisell(?) … Hr. Adam Berger … i Rörbäcken …” (marg. ”Anna Maria”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00140"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 91 (s. 157, ”Begrafne 1799”): [Enkan] Ingrid Jonesdr i Rörbecken, död 31 okt, begr. 9 nov, Gicht, 72 år 11 mån 8 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00091"
    }
   ],
   "search": [
    "Ingerid Jonsdotter (Rörbäcken, f. 21/11 1726)"
-  ]
+  ],
+  "died": {
+   "date": "1799-10-31",
+   "place": "Rörbäcken, Frykerud",
+   "note": "död 31 okt 1799, begr. 9 nov 1799, gicht, 72 år 11 mån 8 dagar (F/1 bild 91, s. 157) – ger f. ca 22–23 nov 1726 (stämmer med 21/11 1726)"
+  }
  },
  {
   "id": "fr_annamariasalomonsd1761",
@@ -22123,7 +22194,8 @@
   "notes": [
    "DOP Olof 1758 (C/4 bild 118): ”föddes Vedamannen(?) Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken”",
    "DOP Nils 1752 (C/4 bild 63): ”Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils” (läsning osäker)",
-   "Vigsel och död ej funna (söktes ej i E I/1 före 1759)."
+   "Vigsel och död ej funna (söktes ej i E I/1 före 1759).",
+   "DÖD (AF1): F/1 C0037142 bild 30 högersida (s. 41), ”Döda och begrafne år 1759”, aug: ”24 | Rörbäcken, nämnd:m Jonas Pålsson [stavning ’Påhlsson/Pålson’]” – åldersrutan ”48” år (månader/dagar ”28” osäkert läst). Titel nämndeman, plats Rörbäcken och efternamn Pålsson stämmer med dopen 1752/1758; död aug 1759 sammanfaller med att hustrun Ingerid får barn med Salomon Berger i maj 1761 (omgifte 1759–60). Vigsel Jonas Pålsson × Ingerid Jonsdotter ej funnen (se unresolved)."
   ],
   "sources": [
    {
@@ -22133,11 +22205,20 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 63 (1752 okt, vänster sida, överst): ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils; faddrar Mattes Matsson i Tunnge, Nils Larsson i östra Glänna …” (marg. ”Nils”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00063"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 30 (s. 41, ”Döda och begrafne år 1759”): 24 aug: Rörbäcken, nämndeman Jonas Pålsson, 48 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00030"
    }
   ],
   "search": [
    "Jonas Pålsson (Rörbäcken, Frykerud)"
-  ]
+  ],
+  "died": {
+   "date": "1759-08-24",
+   "place": "Rörbäcken, Frykerud",
+   "note": "nämndeman; död 24 aug 1759, 48 år (F/1 bild 30, s. 41)"
+  }
  },
  {
   "id": "fr_nilsjonsson1752",
@@ -22151,14 +22232,15 @@
    "note": "dop 14 okt 1752 (C/4 bild 63); husförhör A I/9 anger 1752 ../10"
   },
   "died": {
-   "date": "1780-12",
-   "place": "Rörbäcken(?)",
-   "note": "marginal i A I/9 bild 217 (dec 1780?) – ej verifierad mot dödbok"
+   "date": "1780-12-19",
+   "place": "Rörbäcken, Frykerud",
+   "note": "död 19 dec 1780, begr. 24 dec 1780, bröstfeber, 28 år 2 mån (F/1 bild 60, s. 96)"
   },
   "summary": "Äldre son till Jonas Pålsson och Ingerid Jonsdotter i Rörbäcken; styvson till Salomon Berger. Dopet är läst med osäkra ord (fadersnamn och moderns patronymikon).",
   "notes": [
    "HUSFÖRHÖR A I/9 bild 217: ”D. Nils Jons” (överstruken) 1752 ../10",
-   "DOP C/4 bild 63: ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils”"
+   "DOP C/4 bild 63: ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils”",
+   "DÖD (AF1): F/1 C0037142 bild 60 vänstersida (s. 96), sista dec-posterna 1780, ordagrant: ”… Nils Jonsson uti Rörbäcken af bröstfeber” – död 19 / begr. 24 dec 1780, ålder ”28” år ”2” mån (⇒ f. okt 1752, stämmer med dop 14/10 1752; condition-kolumnens ord (ungkarl/dräng?) ej säkert läst). Föregående post på sidan: ”Gifta Jon Jansson uti Bodeta”. Dödsmånad = december 1780 bekräftad."
   ],
   "sources": [
    {
@@ -22168,6 +22250,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 217 (fol. 193), Rörbäcken: Salomon Berger 1734 26/1, H. Ingerid Jonsd 1726 21/11, D. Nils Jons (överstruken) 1752 ../10 [marg. död dec 1780], D. Olof Jönsson 1758 11/9, D. Anna Maria S.d. 1761 7/5 (överstruken), D. Lena S.d. 1764 30/5 (överstruken), D. Jan Jonas S.S. 1767 13/7; därefter dr. Erik Persson 1762 7/6, piga Catharina Nilsd. 1763 22/1",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 60 (s. 96, ”År 1780”): Nils Jonsson uti Rörbäcken, död 19 dec, begr. 24 dec, bröstfeber, 28 år 2 mån",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00060"
    }
   ],
   "places": [],

@@ -2342,6 +2342,14 @@
     "fr_jon_far_ingerid",
     "fr_malinolofsd_ingerid"
    ]
+  },
+  {
+   "title": "Salomon Berger × Ingerid Jonsdotter: vigsel ej i Frykerud E I/1",
+   "text": "Jonas Pålsson dog 24 aug 1759 (F/1 bild 30); dotter Anna Maria f. 7/5 1761 ⇒ vigsel Aug 1759–aug 1760. E I/1 bild 84 (okt 1758–jul 1759), 85 (aug 1759–jan 1760), 86 (jan 1760–nov 1760), 87 (dec 1760–jun 1761) och 88 (jul 1761–feb 1762) genomlästa i zoom: ingen post med Salomon Berger/Ingerid. Vigseln torde ha skett i annan socken (söks i Salomons hemsocken/Östra Ämtervik/Arvika?) eller är ’lysning’ utom socken.",
+   "persons": [
+    "fr_salomonberger1734",
+    "fr_ingeridjonsd1726"
+   ]
   }
  ],
  "conflicts": [
@@ -2777,6 +2785,15 @@
    "persons": [
     "lena_salomonsd_saldebraten",
     "fr_salomonberger1734"
+   ]
+  },
+  {
+   "title": "Måns Knutsson × Kerstin Nilsdotter: vigsel 1749, men son Måns f. 1746",
+   "text": "Vigsel enligt E I/1 bild 67 (s. 123): 28 dec 1749 (Måns Knutsson i Lena med pigan Kierstin Nilsd). Sonen Måns Månsson f. 4/9 1746 (hf A I/8; död 29/8 1789, 42 år 11 mån) föregår vigseln med 3 år: antingen oäkta barn före giftet, barn i Måns Knutssons tidigare gifte (Kerstin f. 1727 hade då varit 19) eller felläst vigselår. Barnen Stina 1753, Catharina 1756, Ingeborg 1761 m.fl. är födda efter vigseln.",
+   "persons": [
+    "fr_mansknutsson1711_lene",
+    "fr_kerstinnilsd1727_lene",
+    "fr_mansmansson1746_lene"
    ]
   }
  ],
