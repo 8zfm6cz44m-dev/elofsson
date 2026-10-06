@@ -1761,6 +1761,13 @@
     "anders_stridsberg_1783",
     "brita_lisa_jonsdotter_1780"
    ]
+  },
+  {
+   "title": "Påhl Nilsson efter 1730 – ”Nils Påhlsson” i mantalet 1731–35",
+   "text": "Från 1731 ersätts raden ”Påhl Nilsson” av ”Nils Påhlsson” (osäker läsning) vid sidan av Christopher Påhlsson. Antingen felläsning eller Påhl död 1730–31 och hans son Nils bruker. Kontrollera dödbok/gravsättning 1730–31 och dop med fader Påhl Nilsson efter 1731.",
+   "persons": [
+    "pal_nilsson_hagen"
+   ]
   }
  ],
  "conflicts": [
@@ -2139,6 +2146,14 @@
     "per_olofsson_braten",
     "elof_nilsson"
    ]
+  },
+  {
+   "title": "Christopher Påhlsson i Toltan-mantalet 1729–1735, men gift med Åsen-flicka 1729",
+   "text": "I mantalet står ”Christopher Påhlsson” i Toltan ½ 1729, 1731, 1732, 1733 och 1735 (A0003208 b.571; A0003210 b.515; A0003211 b.517; A0003212 b.554; A0003214 b.543), ofta i klammer med ”Nils/Påhl Påhlsson/Nilsson”. Detta strider mot summary ’bonde i Åsen’. Åsen-gruppen 1726–1735 ej läst. Avgör om Åsen-Christopher (g. 1729) och Toltan-Christopher är samme man.",
+   "persons": [
+    "christopher_persson_asen",
+    "pal_nilsson_hagen"
+   ]
   }
  ],
  "excluded": [
@@ -2340,6 +2355,13 @@
    "persons": [
     "marit_isaksd",
     "per_olofsson_braten",
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Elof Nilsson död 1734? – nej",
+   "text": "Brief-hypotesen att Elof Nilsson dog 1734 stöds inte: han står i Toltan-mantalet 1726–1733 och 1735 (Olof Nilsson) och som ’Inh.’ 73 år i husförhör 1760.",
+   "persons": [
     "elof_nilsson"
    ]
   }
