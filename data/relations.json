@@ -10813,5 +10813,396 @@
   "child": "aq3_ingridmaria_emanuelsson26",
   "status": "strong",
   "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+ },
+ {
+  "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_olof_jj55",
+  "type": "child",
+  "parents": [
+   "jakob_jonsson22_amot",
+   "britta_olofsd28_amot"
+  ],
+  "child": "aq5_olof_jj55",
+  "status": "family",
+  "basis": "Husförhör A I/2 bild 148 (s. 136), Åmot nr 10: under ”Jon/Jacob Jonsson 1722” och ”Hu. Britta Olofsd. 1728” står som barn ”Olof Jonsson” 1755."
+ },
+ {
+  "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_per_jj58",
+  "type": "child",
+  "parents": [
+   "jakob_jonsson22_amot",
+   "britta_olofsd28_amot"
+  ],
+  "child": "aq5_per_jj58",
+  "status": "family",
+  "basis": "Husförhör A I/2 bild 148 (s. 136), Åmot nr 10: under ”Jon/Jacob Jonsson 1722” och ”Hu. Britta Olofsd. 1728” står som barn ”Per Jonsson” 1758."
+ },
+ {
+  "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_gjarsti_jd61",
+  "type": "child",
+  "parents": [
+   "jakob_jonsson22_amot",
+   "britta_olofsd28_amot"
+  ],
+  "child": "aq5_gjarsti_jd61",
+  "status": "family",
+  "basis": "Husförhör A I/2 bild 148 (s. 136), Åmot nr 10: under ”Jon/Jacob Jonsson 1722” och ”Hu. Britta Olofsd. 1728” står som barn ”Gjärsti Jonsd.” 1761."
+ },
+ {
+  "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_jon_jj64",
+  "type": "child",
+  "parents": [
+   "jakob_jonsson22_amot",
+   "britta_olofsd28_amot"
+  ],
+  "child": "aq5_jon_jj64",
+  "status": "family",
+  "basis": "Husförhör A I/2 bild 148 (s. 136), Åmot nr 10: under ”Jon/Jacob Jonsson 1722” och ”Hu. Britta Olofsd. 1728” står som barn ”Jon Jonsson” 1764."
+ },
+ {
+  "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_mans_jj67",
+  "type": "child",
+  "parents": [
+   "jakob_jonsson22_amot",
+   "britta_olofsd28_amot"
+  ],
+  "child": "aq5_mans_jj67",
+  "status": "family",
+  "basis": "Husförhör A I/2 bild 148 (s. 136), Åmot nr 10: under ”Jon/Jacob Jonsson 1722” och ”Hu. Britta Olofsd. 1728” står som barn ”Måns Jonsson” 1767."
+ },
+ {
+  "id": "s-aq5_olof_jj55-aq5_per_jj58",
+  "type": "sibling",
+  "a": "aq5_olof_jj55",
+  "b": "aq5_per_jj58",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_olof_jj55-aq5_gjarsti_jd61",
+  "type": "sibling",
+  "a": "aq5_olof_jj55",
+  "b": "aq5_gjarsti_jd61",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_olof_jj55-aq5_jon_jj64",
+  "type": "sibling",
+  "a": "aq5_olof_jj55",
+  "b": "aq5_jon_jj64",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_olof_jj55-aq5_mans_jj67",
+  "type": "sibling",
+  "a": "aq5_olof_jj55",
+  "b": "aq5_mans_jj67",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_per_jj58-aq5_gjarsti_jd61",
+  "type": "sibling",
+  "a": "aq5_per_jj58",
+  "b": "aq5_gjarsti_jd61",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_per_jj58-aq5_jon_jj64",
+  "type": "sibling",
+  "a": "aq5_per_jj58",
+  "b": "aq5_jon_jj64",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_per_jj58-aq5_mans_jj67",
+  "type": "sibling",
+  "a": "aq5_per_jj58",
+  "b": "aq5_mans_jj67",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_gjarsti_jd61-aq5_jon_jj64",
+  "type": "sibling",
+  "a": "aq5_gjarsti_jd61",
+  "b": "aq5_jon_jj64",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_gjarsti_jd61-aq5_mans_jj67",
+  "type": "sibling",
+  "a": "aq5_gjarsti_jd61",
+  "b": "aq5_mans_jj67",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-aq5_jon_jj64-aq5_mans_jj67",
+  "type": "sibling",
+  "a": "aq5_jon_jj64",
+  "b": "aq5_mans_jj67",
+  "status": "family",
+  "basis": "Samma föräldrar Jakob Jonsson och Britta Olofsdotter, Åmot (A I/2 bild 148)."
+ },
+ {
+  "id": "s-daniel_nilsson-britta_nd50",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "britta_nd50",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-daniel_nilsson-kjersti_nd53",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "kjersti_nd53",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-daniel_nilsson-anna_nd55",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "anna_nd55",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-daniel_nilsson-ingerd_nd60",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "ingerd_nd60",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-daniel_nilsson-karin_nd62",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "karin_nd62",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-daniel_nilsson-mans_nd66",
+  "type": "sibling",
+  "a": "daniel_nilsson",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-britta_nd50-kjersti_nd53",
+  "type": "sibling",
+  "a": "britta_nd50",
+  "b": "kjersti_nd53",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-britta_nd50-anna_nd55",
+  "type": "sibling",
+  "a": "britta_nd50",
+  "b": "anna_nd55",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-britta_nd50-ingerd_nd60",
+  "type": "sibling",
+  "a": "britta_nd50",
+  "b": "ingerd_nd60",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-britta_nd50-karin_nd62",
+  "type": "sibling",
+  "a": "britta_nd50",
+  "b": "karin_nd62",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-britta_nd50-mans_nd66",
+  "type": "sibling",
+  "a": "britta_nd50",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-kjersti_nd53-anna_nd55",
+  "type": "sibling",
+  "a": "kjersti_nd53",
+  "b": "anna_nd55",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-kjersti_nd53-ingerd_nd60",
+  "type": "sibling",
+  "a": "kjersti_nd53",
+  "b": "ingerd_nd60",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-kjersti_nd53-karin_nd62",
+  "type": "sibling",
+  "a": "kjersti_nd53",
+  "b": "karin_nd62",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-kjersti_nd53-mans_nd66",
+  "type": "sibling",
+  "a": "kjersti_nd53",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-anna_nd55-ingerd_nd60",
+  "type": "sibling",
+  "a": "anna_nd55",
+  "b": "ingerd_nd60",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-anna_nd55-karin_nd62",
+  "type": "sibling",
+  "a": "anna_nd55",
+  "b": "karin_nd62",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-anna_nd55-mans_nd66",
+  "type": "sibling",
+  "a": "anna_nd55",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-ingerd_nd60-karin_nd62",
+  "type": "sibling",
+  "a": "ingerd_nd60",
+  "b": "karin_nd62",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-ingerd_nd60-mans_nd66",
+  "type": "sibling",
+  "a": "ingerd_nd60",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-karin_nd62-mans_nd66",
+  "type": "sibling",
+  "a": "karin_nd62",
+  "b": "mans_nd66",
+  "status": "family",
+  "basis": "Samma föräldrar Nils Andersson och Kjerstin Danielsdotter, Smådal; barnen står i samma hushåll i husförhör A I/2 bild 259 (s. 247)."
+ },
+ {
+  "id": "s-marit_p68-olof_p72",
+  "type": "sibling",
+  "a": "marit_p68",
+  "b": "olof_p72",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-marit_p68-elofpersson",
+  "type": "sibling",
+  "a": "marit_p68",
+  "b": "elofpersson",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-marit_p68-brita_p80",
+  "type": "sibling",
+  "a": "marit_p68",
+  "b": "brita_p80",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-olof_p72-elofpersson",
+  "type": "sibling",
+  "a": "olof_p72",
+  "b": "elofpersson",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-olof_p72-brita_p80",
+  "type": "sibling",
+  "a": "olof_p72",
+  "b": "brita_p80",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-elofpersson-brita_p80",
+  "type": "sibling",
+  "a": "elofpersson",
+  "b": "brita_p80",
+  "status": "family",
+  "basis": "Samma föräldrar Per Elofsson och Karin Elofsdotter, Toltan/Uppsjön (husförhör A I/4 bild 178 s. 159: Marit 1768, Olof 1772, Elof 1776, Brita 1780)."
+ },
+ {
+  "id": "s-anders_aa92-nils_aa93",
+  "type": "sibling",
+  "a": "anders_aa92",
+  "b": "nils_aa93",
+  "status": "family",
+  "basis": "Samma föräldrar Anders Arnesson och Marit Andersdotter, Ö. Takene (husförhör A I/10 bild 82 s. 70: Anders 4/2 1792, Nils 24/12 1793, Olof 12/12 1795)."
+ },
+ {
+  "id": "s-anders_aa92-olof_andersson_takene_1826",
+  "type": "sibling",
+  "a": "anders_aa92",
+  "b": "olof_andersson_takene_1826",
+  "status": "family",
+  "basis": "Samma föräldrar Anders Arnesson och Marit Andersdotter, Ö. Takene (husförhör A I/10 bild 82 s. 70: Anders 4/2 1792, Nils 24/12 1793, Olof 12/12 1795)."
+ },
+ {
+  "id": "s-nils_aa93-olof_andersson_takene_1826",
+  "type": "sibling",
+  "a": "nils_aa93",
+  "b": "olof_andersson_takene_1826",
+  "status": "family",
+  "basis": "Samma föräldrar Anders Arnesson och Marit Andersdotter, Ö. Takene (husförhör A I/10 bild 82 s. 70: Anders 4/2 1792, Nils 24/12 1793, Olof 12/12 1795)."
+ },
+ {
+  "id": "s-mariaand1787-olof_andersson_takene_1826",
+  "type": "sibling",
+  "a": "mariaand1787",
+  "b": "olof_andersson_takene_1826",
+  "status": "family",
+  "basis": "Halvsyskon: gemensam far Anders Arnesson; Maria (f. 1787) är dotter till hans första hustru Kjersti Olsdotter, de övriga till Marit Andersdotter."
+ },
+ {
+  "id": "p-anders_arnesson-aq5_kari_mansd53_skog",
+  "type": "partner",
+  "a": "anders_arnesson",
+  "b": "aq5_kari_mansd53_skog",
+  "status": "candidate",
+  "basis": "Husförhör A I/10 bild 82 (s. 70): ”H. Kari Månsdr” 53 Skog står som hustru under ”Anders Arneson” 22/9 54 Ragnilsrud, Ö. Takene, med sönerna Anders 1792, Nils 1793, Olof 1795."
  }
 ]

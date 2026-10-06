@@ -8995,7 +8995,8 @@
   ],
   "summary": "Son till Anders Arnesson och Marit Andersdotter; halvbror till Maria Andersdotter (f. 1787).",
   "notes": [
-   "DOPBOK 1792 (C I/3 bild 42, nr 11): ”Ö. Takene, Anders. Anders Arnes[son], Marit Andersdotter 67.”"
+   "DOPBOK 1792 (C I/3 bild 42, nr 11): ”Ö. Takene, Anders. Anders Arnes[son], Marit Andersdotter 67.”",
+   "HUSFÖRHÖR A I/10 bild 82 (s. 70, Ö. Takene): ”S. Anders” 4/2 92 Takene, dödkolumn ”09” (död 1809, ej kontrollerat mot dödbok)."
   ],
   "sources": [
    {
@@ -9026,7 +9027,8 @@
   ],
   "summary": "Son till Anders Arnesson och Marit Andersdotter; halvbror till Maria Andersdotter (f. 1787).",
   "notes": [
-   "DOPBOK 1793 (C I/3 bild 46, nr 55): ”Takene, Nils. Anders Arnes[son], Marit Anders[dotter] 67.” Faddrar Nils Jonsson, Lisa Halfvardsdotter."
+   "DOPBOK 1793 (C I/3 bild 46, nr 55): ”Takene, Nils. Anders Arnes[son], Marit Anders[dotter] 67.” Faddrar Nils Jonsson, Lisa Halfvardsdotter.",
+   "HUSFÖRHÖR A I/10 bild 82 (s. 70, Ö. Takene): ”S. Nils” 24/12 93 ibm, dödkolumn ”07” (död 1807, ej kontrollerat mot dödbok)."
   ],
   "sources": [
    {
@@ -36401,6 +36403,174 @@
   ],
   "search": [
    "Ingrid Maria Paulina Emanuelsson (f. 1926, Frykerud)"
+  ]
+ },
+ {
+  "id": "aq5_olof_jj55",
+  "name": "Olof Jonsson (1755, Åmot)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1755",
+   "place": "Åmot, Brunskog",
+   "note": "Födelseår enligt husförhör A I/2 (kolumn Annus Nativitatis); födelsedatum ej läst."
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Barn till Jakob Jonsson och Britta Olofsdotter, Åmot nr 10, f. 1755.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (s. 136, Åmot nr 10): hushållet ”Jon Jonsson [Jacob]” 1722, ”Hu. Britta Olofsd.” 1728, därefter barnen ”Son Olof Jonsson” 1755, ”S. Per Jonsson” 1758, ”D. Gjärsti Jonsd.” 1761, ”Son Jon Jonsson” 1764, ”Son Måns Jonsson” 1767 (årtal i kolumnen Annus Nativitatis; raden för detta barn: ”Olof Jonsson”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 148 (s. 136, Åmot nr 10): barnrad ”Olof Jonsson” f. 1755",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Olof Jonsson (1755, Åmot)"
+  ]
+ },
+ {
+  "id": "aq5_per_jj58",
+  "name": "Per Jonsson (1758, Åmot)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1758",
+   "place": "Åmot, Brunskog",
+   "note": "Födelseår enligt husförhör A I/2 (kolumn Annus Nativitatis); födelsedatum ej läst."
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Barn till Jakob Jonsson och Britta Olofsdotter, Åmot nr 10, f. 1758.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (s. 136, Åmot nr 10): hushållet ”Jon Jonsson [Jacob]” 1722, ”Hu. Britta Olofsd.” 1728, därefter barnen ”Son Olof Jonsson” 1755, ”S. Per Jonsson” 1758, ”D. Gjärsti Jonsd.” 1761, ”Son Jon Jonsson” 1764, ”Son Måns Jonsson” 1767 (årtal i kolumnen Annus Nativitatis; raden för detta barn: ”Per Jonsson”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 148 (s. 136, Åmot nr 10): barnrad ”Per Jonsson” f. 1758",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Per Jonsson (1758, Åmot)"
+  ]
+ },
+ {
+  "id": "aq5_gjarsti_jd61",
+  "name": "Gjärsti (Kjersti) Jonsdotter (1761, Åmot)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1761",
+   "place": "Åmot, Brunskog",
+   "note": "Födelseår enligt husförhör A I/2 (kolumn Annus Nativitatis); födelsedatum ej läst."
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Barn till Jakob Jonsson och Britta Olofsdotter, Åmot nr 10, f. 1761.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (s. 136, Åmot nr 10): hushållet ”Jon Jonsson [Jacob]” 1722, ”Hu. Britta Olofsd.” 1728, därefter barnen ”Son Olof Jonsson” 1755, ”S. Per Jonsson” 1758, ”D. Gjärsti Jonsd.” 1761, ”Son Jon Jonsson” 1764, ”Son Måns Jonsson” 1767 (årtal i kolumnen Annus Nativitatis; raden för detta barn: ”Gjärsti Jonsd.”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 148 (s. 136, Åmot nr 10): barnrad ”Gjärsti Jonsd.” f. 1761",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Gjärsti (Kjersti) Jonsdotter (1761, Åmot)"
+  ]
+ },
+ {
+  "id": "aq5_jon_jj64",
+  "name": "Jon Jonsson (1764, Åmot)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1764",
+   "place": "Åmot, Brunskog",
+   "note": "Födelseår enligt husförhör A I/2 (kolumn Annus Nativitatis); födelsedatum ej läst."
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Barn till Jakob Jonsson och Britta Olofsdotter, Åmot nr 10, f. 1764.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (s. 136, Åmot nr 10): hushållet ”Jon Jonsson [Jacob]” 1722, ”Hu. Britta Olofsd.” 1728, därefter barnen ”Son Olof Jonsson” 1755, ”S. Per Jonsson” 1758, ”D. Gjärsti Jonsd.” 1761, ”Son Jon Jonsson” 1764, ”Son Måns Jonsson” 1767 (årtal i kolumnen Annus Nativitatis; raden för detta barn: ”Jon Jonsson”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 148 (s. 136, Åmot nr 10): barnrad ”Jon Jonsson” f. 1764",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Jon Jonsson (1764, Åmot)"
+  ]
+ },
+ {
+  "id": "aq5_mans_jj67",
+  "name": "Måns Jonsson (1767, Åmot)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1767",
+   "place": "Åmot, Brunskog",
+   "note": "Födelseår enligt husförhör A I/2 (kolumn Annus Nativitatis); födelsedatum ej läst."
+  },
+  "places": [
+   "Åmot, Brunskog"
+  ],
+  "summary": "Barn till Jakob Jonsson och Britta Olofsdotter, Åmot nr 10, f. 1767.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 148 (s. 136, Åmot nr 10): hushållet ”Jon Jonsson [Jacob]” 1722, ”Hu. Britta Olofsd.” 1728, därefter barnen ”Son Olof Jonsson” 1755, ”S. Per Jonsson” 1758, ”D. Gjärsti Jonsd.” 1761, ”Son Jon Jonsson” 1764, ”Son Måns Jonsson” 1767 (årtal i kolumnen Annus Nativitatis; raden för detta barn: ”Måns Jonsson”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (1764–1768), bild 148 (s. 136, Åmot nr 10): barnrad ”Måns Jonsson” f. 1767",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00148"
+   }
+  ],
+  "search": [
+   "Måns Jonsson (1767, Åmot)"
+  ]
+ },
+ {
+  "id": "aq5_kari_mansd53_skog",
+  "name": "Kari Månsdotter (f. 1753, Skog; hustru till Anders Arnesson 1805–09)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1753",
+   "place": "Skog, Brunskog",
+   "note": "Födelseår 1753 och födelseort ”Skog” enligt husförhör A I/10; dag/månad (”4/11”?) osäker."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Står som hustru till Anders Arnesson (f. 22/9 1754) i husförhör A I/10 (1805–09); troligen hans tredje hustru efter Marit Andersdotters död (död/giftermål ej belagt).",
+  "notes": [
+   "HUSFÖRHÖR A I/10 (1805–1809) bild 82 (s. 70, Ö. Takene): ”Anders Arneson” 22/9 54 Ragnilsrud; ”H. Kari Månsdr” 4/11 [?] 53 Skog; ”S. Anders” 4/2 92 Takene (död 09); ”S. Nils” 24/12 93 ibm (död 07); ”S. Olof” 12/12 95 ibm. Marit Andersdotter (f. 1767) finns inte längre i hushållet och inga barn efter 1795 står antecknade. Giftermålsår ej funnet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/10 (1805–1809), bild 82 (s. 70, Ö. Takene): ”H. Kari Månsdr” 53 Skog under ”Anders Arneson” 54 Ragnilsrud",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036749_00082"
+   }
+  ],
+  "search": [
+   "Kari Månsdotter (f. 1753, Skog; hustru till Anders Arnesson 1805–09)"
   ]
  }
 ]
