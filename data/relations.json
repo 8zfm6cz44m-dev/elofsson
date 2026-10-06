@@ -6203,5 +6203,40 @@
   "child": "karlbertil_eklund05",
   "status": "strong",
   "basis": "Folkräkning 1910 Eda Emterud södra (sida 12): hushåll Gustaf Persson Eklund + hustru Kristina Nilsson + ”Karl Bertil” f. i Eda; barnets familjeställning ej angiven i indexposten (https://sok.riksarkivet.se/folkrakningar/?Fornamn=Kristina&Fodelsear=1867&Folk1900=true&Folk1910=true&Folk1930=true&Hemforsamling=Eda&AvanceradSok=True&postid=Folk_125622280&tab=post)."
+ },
+ {
+  "id": "p-signe_e-anders_gustaf_johansson_1885",
+  "type": "partner",
+  "a": "signe_e",
+  "b": "anders_gustaf_johansson_1885",
+  "status": "verified",
+  "basis": "Brunskog A II a/3 bild 185 (sid 180) rad 7-8: ”Måg ... Anders Gustaf Johansson” 85 11/1 Grafva, gift ”11 27/5”; rad 8 ”Enka Signe Maria Eriksson” (änka från 15 1/8); remark ”fäst 5/5 11 m. And. Gust. Johansson i Takene p. 295”."
+ },
+ {
+  "id": "c-anders_gustaf_johansson_1885-signe_e-hanna_kristina_johansson_1911",
+  "type": "child",
+  "parents": [
+   "anders_gustaf_johansson_1885",
+   "signe_e"
+  ],
+  "child": "hanna_kristina_johansson_1911",
+  "status": "strong",
+  "basis": "Bild 185 rad 9: ”d. Hanna Kristina Johansson” i hushållet; föräldraskap framgår av efternamn och familjeställning (dotter), födelsedag osäkert läst."
+ },
+ {
+  "id": "s-hulda-signe_e",
+  "type": "sibling",
+  "a": "hulda",
+  "b": "signe_e",
+  "status": "verified",
+  "basis": "Brunskog A II a/3 bild 185 (Skog, Där nole): ”d. Hulda” 85 16/3 och Signe Maria 89 8/2 i Erik Nilssons och Anna Andersdotters hushåll."
+ },
+ {
+  "id": "s-hulda-hanna_e",
+  "type": "sibling",
+  "a": "hulda",
+  "b": "hanna_e",
+  "status": "verified",
+  "basis": "Brunskog A II a/3 bild 185 (Skog, Där nole): Hulda och Hanna Elisabet Eriksson (76 6/7, Brunskog) uppförda i Erik Nilssons och Anna Andersdotters hushåll (Hanna utan angiven familjeställning i kolumn 1; syskonskap stöds av SCB 1876 med samma föräldrar)."
  }
 ]

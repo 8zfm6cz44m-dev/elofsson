@@ -2478,6 +2478,16 @@
     "n44k_nils72",
     "anna_kajsa_nilsdotter69"
    ]
+  },
+  {
+   "title": "Johan Olof och Hulda 1913–1920: återflytt till Brunskog/Lyckan ej funnen i A II a/3",
+   "text": "A II a/3 Takene nr 41 Lyckan (bild 286): familjen (Johan Olof, Hulda, Arvid) utflyttad ”Arvika stad 27/9 1913”. Ingen återinflyttning (Anna 1916, Valborg 1919, ”Lyckan 1920”) hittad i Takene (bild 276-313) eller Skog/Svartåna i A II a/3; A II a/4 (00053599) omfattar andra byar (Torten, Skärmnäs m.fl.), ej Takene. Sök vidare i Arvika B/1 (in-/utflyttning), A II a/3 Skog bild 183-200 och folkräkning 1920/1930.",
+   "persons": [
+    "johan",
+    "hulda",
+    "anna_lycka",
+    "valborg"
+   ]
   }
  ],
  "conflicts": [
@@ -2948,6 +2958,13 @@
     "paul_e",
     "hilda_maria_olsdotter_1882"
    ]
+  },
+  {
+   "title": "Ellen Marias födelsemånad: 20/9 mot 20/11 1915",
+   "text": "Husförhör Brunskog A II a/3 bild 253 rad 9 och bild 187 rad 18: ”d. Ellen Maria 15 20/9” (Brunskog). Repots SCB-baserade datum 20 nov 1915 byggde på ditto-månad efter nr 42 ”nov 24”. Husförhörets ”20/9” (20 sept) bör kontrolleras mot SCB-bilden/dopbok (A0036... 1915) innan datumet fastställs.",
+   "persons": [
+    "ellen"
+   ]
   }
  ],
  "excluded": [
@@ -3218,6 +3235,13 @@
   {
    "title": "Hanna Elisabeth Eriksdotter födelsedag 5/7 eller 6/7 1876",
    "text": "SCB födelseutdrag Brunskog 1876 (A0036065_00314) nr 76 anger ”Juli 6 Hanna Elisabet”, föräldrar Erik Nilsson (bonde, Skog) + Anna Andersdotter. 6 juli 1876 är därmed det belagda datumet.",
+   "persons": [
+    "hanna_e"
+   ]
+  },
+  {
+   "title": "Hanna Elisabeth Eriksdotter: återkomst och död 1915",
+   "text": "A II a/3 bild 185: inflyttad från Helsingborg 17/7 1915, död 12/8 1915 (Skog, Där nole). Utflyttningen Amerika 1901 (A II a/1) följd av återkomst 1915 är därmed belagd.",
    "persons": [
     "hanna_e"
    ]
