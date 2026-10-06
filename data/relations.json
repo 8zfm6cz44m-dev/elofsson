@@ -4907,5 +4907,35 @@
   "b": "britta_olofsd28_amot",
   "status": "verified",
   "basis": "Husförhör A I/2 bild 148 Åmot nr 10: ”Jakob Jonsson 1722”, direkt under ”h. Britta Olofsd. 1728” (hustru)."
+ },
+ {
+  "id": "c-anders_e-no_stina_nilsd13-maria_cajsa_ae42",
+  "type": "child",
+  "parents": [
+   "anders_e",
+   "no_stina_nilsd13"
+  ],
+  "child": "maria_cajsa_ae42",
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 62: ”Maria Cajsa 23. 24. Ärtetan: B: Anders Elofsson: Stina Nilsd.r” – föräldrar uttryckligen angivna"
+ },
+ {
+  "id": "c-anders_e-no_stina_nilsd13-nils_ae44",
+  "type": "child",
+  "parents": [
+   "anders_e",
+   "no_stina_nilsd13"
+  ],
+  "child": "nils_ae44",
+  "status": "verified",
+  "basis": "Boda dopbok C I/3 bild 74: ”Nils 30 31. Ertetan. Anders Elofsson och Hu. Stina Nilsd.r”"
+ },
+ {
+  "id": "s-maria_cajsa_ae42-nils_ae44",
+  "type": "sibling",
+  "a": "maria_cajsa_ae42",
+  "b": "nils_ae44",
+  "status": "verified",
+  "basis": "samma föräldrar, Boda dopbok C I/3 bild 62 och 74"
  }
 ]
