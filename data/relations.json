@@ -115,8 +115,8 @@
   "type": "partner",
   "a": "annabritta",
   "b": "erikgeorg",
-  "status": "strong",
-  "basis": "Gemensam grav Silbodal 1 07 69; Geneanet anger vigsel 1948. Vigselakt saknas."
+  "status": "verified",
+  "basis": "Gemensam grav Silbodal 1 07 69; Geneanet anger vigsel 1948. Vigselakt saknas. VERIFIERAD (omgång 24): SCB Utdrag ur födelse-, vigsel- och dödböcker 1948, Brunskog, Lysnings- och vigselbok (SE/RA/420401/01/H 1 AA/4034), bild A0041696_00047, nr 19: ”Eriksson, Erik Georg, snickeriarb., Högerud 1:127 [Silbodal]” född 21 20/5; ”Nolemark, Märta Anna-Britta, Skog 1:3, Där Nole, tandtekn(iker?) (osäker)” född 24 19/6; Vigd månad ”okt.” dag ”9” 1948; anteckning ”Vigselbev. t.p.å. Silbodal 48 12/10” (vigselbevis till Silbodal). Födelsedata 1921-05-20 resp. 1924-06-19 stämmer med våra poster. URL https://sok.riksarkivet.se/bildvisning/A0041696_00047. Vigseldatum 1948-10-09, vigselförrättare Stellan von Berger (osäker läsning); utdrag daterat Brunskog 11/2 1949."
  },
  {
   "id": "c-annabritta-erikgeorg-goranlennart",
@@ -4066,8 +4066,8 @@
   "type": "partner",
   "a": "anders_persson_vakarr_1851",
   "b": "brita_cajsa_andersdotter_1851",
-  "status": "strong",
-  "basis": "Dop Segerstad 1851 bild 133: föräldrar."
+  "status": "verified",
+  "basis": "Dop Segerstad 1851 bild 133: föräldrar. VERIFIERAD (omgång 24): Segerstad födelse- och dopbok/vigsel C/2 (SE/VA/13456/C/2, C0038692), bild 185 (s. 335, 1839): ”Dr. Anders Persson fr. Hanvik” / ”Pig. Brita Kajsa Stridsberg fr. N. Årås” – ”Vigde 10/10 39” (kolumnen Vigde läst; lysningsdag osäker). Läst i bild: https://sok.riksarkivet.se/bildvisning/C0038692_00185. Identitet med Anders Persson f. 1811 Ed: husförhör A I/14 (C0038678) bild 162 (folio 150, Hannevik), drängpost ’11 Ed’ med anteckning om äktenskap med Brita Kajsa Stridsberg 39 (enligt persons.json-noten, ej omläst här), och A I/16 (C0038680) bild 129 där de står som Inh. Anders Persson 11 Ed + H. (hustru) Brita Kajsa Andersd. 17/6 10 med barnen. Hennes födelse 1810 stämmer med dopet C/2 bild 49. Vigselposten ensam räcker som bevis för parförhållandet."
  },
  {
   "id": "c-jan_nilsson_olserud_1824-stina_jonsdotter_olserud_1824-nils_jansson_svartana",
@@ -4251,23 +4251,23 @@
   "basis": "Samma hushåll sida 144; båda ”Amerika 03 6/4”."
  },
  {
-  "id": "p-erik_j_erikson_1903-anna_erikson_1903",
+  "id": "p-erikjohan-anna_olsson_1879_skog",
   "type": "partner",
-  "a": "erik_j_erikson_1903",
-  "b": "anna_erikson_1903",
-  "status": "candidate",
-  "basis": "Manifest S.S. New York 3 okt 1903: ”Anna 23 wife”"
+  "a": "erikjohan",
+  "b": "anna_olsson_1879_skog",
+  "status": "verified",
+  "basis": "Manifest S.S. New York 3 okt 1903: ”Anna 23 wife” VERIFIERAD (omgång 24): Brunskog församlingsbok A II a/1 (vol. 00053596), bild 210 (sida 200, Skog, Dernole), nr 9–11: ”Dr/Son Erik Johan Eriksson” f. 78 30/12 Skog; ”H. Anna Olsson” f. 79 18/12; ”S. Erik Harry” f. 02 17/11 (rad 11); utflyttningskolumn ”Amerika 03 /8”; anteckning vid hustrun ”p. 199 02 …”. Läst direkt: https://sok.riksarkivet.se/bildvisning/00053596_00210. Husförhöret ger familjeställning h. (hustru) och s. (son) i samma hushåll. Identitet med manifestet (S.S. New York 3 okt 1903: ’Erikson, Erik J. 24 M, Brunskog’, ’Anna 23 wife’, ’Eric H. infant’) styrks av flera oberoende detaljer: ålder 24 resp. 23 (f. dec 1878/dec 1879), församling Brunskog, barnets initial H. (Harry), spädbarn (f. nov 1902), utvandring 1903. Ingen annan känd Brunskog-familj med dessa uppgifter. Förslag: slå ihop manifestpersonerna med erikjohan / anna_olsson_1879_skog / Erik Harry."
  },
  {
-  "id": "c-erik_j_erikson_1903-anna_erikson_1903-eric_h_erikson_1902",
+  "id": "c-erikjohan-anna_olsson_1879_skog-erik_harry_eriksson_1902",
   "type": "child",
   "parents": [
-   "erik_j_erikson_1903",
-   "anna_erikson_1903"
+   "erikjohan",
+   "anna_olsson_1879_skog"
   ],
-  "child": "eric_h_erikson_1902",
-  "status": "candidate",
-  "basis": "Manifest rad 5 ”Eric H. infant” under samma familjepost"
+  "child": "erik_harry_eriksson_1902",
+  "status": "verified",
+  "basis": "Manifest rad 5 ”Eric H. infant” under samma familjepost VERIFIERAD (omgång 24): Brunskog A II a/1 bild 210 (sida 200, Skog Dernole): ”S. Erik Harry” född 02 17/11, under ”Erik Johan Eriksson” (f. 78 30/12) och ”H. Anna Olsson” (f. 79 18/12), utflyttning ”Amerika 03”. https://sok.riksarkivet.se/bildvisning/00053596_00210. Manifestets ’Eric H. infant’ (spädbarn ca 11 mån i okt 1903) i samma familjepost som Erik J. (24) och Anna (23, wife) från Brunskog = Erik Harry; barnets familjeställning ’s.’ i husförhöret binder honom till båda föräldrarna."
  },
  {
   "id": "p-anders_e-no_stina_nilsd13",
@@ -4796,25 +4796,6 @@
   "basis": "Samma föräldrar enligt dop 1810 (bild 49) och 1815 (bild 60)."
  },
  {
-  "id": "p-erikjohan-anna_olsson_1879_skog",
-  "type": "partner",
-  "a": "erikjohan",
-  "b": "anna_olsson_1879_skog",
-  "status": "verified",
-  "basis": "Brunskog A II a/1 bild 210 (sida 200) rad 9-10: ”Gu s. Erik Johan Eriksson g. 23/8 02”, ”h. Anna Olsson 79 18/12”; bild 209 anm. ”Fäst 17/7 m. Erik Joh. Eriksson p. 200”."
- },
- {
-  "id": "c-erikjohan-anna_olsson_1879_skog-erik_harry_eriksson_1902",
-  "type": "child",
-  "parents": [
-   "erikjohan",
-   "anna_olsson_1879_skog"
-  ],
-  "child": "erik_harry_eriksson_1902",
-  "status": "verified",
-  "basis": "Brunskog A II a/1 bild 210 rad 11: ”s. Erik Harry 02 17/11” i Erik Johan + Anna Olssons hushåll."
- },
- {
   "id": "p-paul_e-hilda_maria_olsdotter_1882",
   "type": "partner",
   "a": "paul_e",
@@ -4975,14 +4956,6 @@
   "b": "marit_isaksd",
   "status": "verified",
   "basis": "E I/1 bild 30: ”vigdes Drängen Per Olufsson ifrån Bråten med Jfr. Marit Isaaksdotter i Tolta” (dec 1714)"
- },
- {
-  "id": "p-marit_isaksd-elof_nilsson",
-  "type": "partner",
-  "a": "marit_isaksd",
-  "b": "elof_nilsson",
-  "status": "verified",
-  "basis": "E I/1 bild 34: ”D. 28 Oct: … D. Elof Nilsson i Hög[Hag] med Enk: Marit Isaaksdotter i Tolta” (1717) – finns kanske redan"
  },
  {
   "id": "c-anders_stridsberg_1783-brita_lisa_jonsdotter_1780-andreas_stridsberg_1806",
@@ -7096,14 +7069,6 @@
   "b": "fr_lenanilsd1815",
   "status": "verified",
   "basis": "Folkräkning 1880 Frykerud/Lene s.32 r.27–28 (post 119246447/119246448): Sven Nilsson f. 1828 (Hemmansägare, ogift) och Lena Nilsdotter f. 1815 (ogift), båda ”Barn”, båda f. Frykerud, samma hushåll; 1890 s.39 r.16–17; stämmer med husförhör A I/18 bild 183 (syskon). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
- },
- {
-  "id": "p-nilsbengtsson_fr30-fr_kajsanilsd1818",
-  "type": "partner",
-  "a": "nilsbengtsson_fr30",
-  "b": "fr_kajsanilsd1818",
-  "status": "verified",
-  "basis": "Folkräkning 1880 Frykerud/Klaxås s.22 r.18–19: ”Bengtsson, Nils f. 1830 i Frykerud, Hemmansägare, Gift, Far/man”; ”Nilsdotter, Kajsa f. 1818 i Frykerud, Gift, Mor/fru”. Samma 1890 s.32, 1900 s.28."
  },
  {
   "id": "p-nils_jansson42_gullsby-kn_kajsa1843",
