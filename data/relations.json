@@ -4339,8 +4339,8 @@
   "type": "partner",
   "a": "jan_mlodawski",
   "b": "marianna_lutawska",
-  "status": "strong",
-  "basis": "Vigselakt 1900 nr 23: Jan 'вдовымъ послѣ Маріянны изъ Лютавскихъ'"
+  "status": "verified",
+  "basis": "Vigselakt 1900 nr 23: Jan 'вдовымъ послѣ Маріянны изъ Лютавскихъ' VERIFIERAD (omgång 24): Vigselakt Kielce (S:t Wojciech/id239) 1900 akt 23 (2/14 febr 1900), fil 022-023.jpg (sid 152), omläst: «...между Яномъ Младавскимъ (Jan Młodawski) вдовымъ послѣ Маріанны изъ Лютавскихъ, родившимся въ деревнѣ Одровонжъ ... тридцати семи лѣтъ ...» = Jan Młodawski, änkling efter Marianna f. Lutawska. Aktens egen uttryckliga uppgift att Jan varit gift med Marianna z Lutawskich (hon död före 1900; inga andra data om henne). URL https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1900&kt=2&plik=022-023.jpg"
  },
  {
   "id": "c-jacek_mlodawski-anna_bartosinska-jan_mlodawski",
@@ -4415,16 +4415,16 @@
    "antonina_pecl"
   ],
   "child": "jozef_orzechowski",
-  "status": "candidate",
-  "basis": "Vigselakt 169/1895: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» (son till avlidne Michał och Antonina). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel."
+  "status": "excluded",
+  "basis": "Vigselakt 169/1895: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» (son till avlidne Michał och Antonina). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel. DEMENTERAD (omgång 24): Józef Orzechowski f. 17/2 1875 Niewachlów har i sin födelseakt (akt 100/1875) modern Agnieszka f. Hencel, inte Antonina; Michał hade hustrun Agnieszka 1866-1877 (se p-michal_orzechowski-antonina_pecl). Endast 1895 års vigselakt säger 'Antonina z Pęcłów' (20-årig brudgum, Niewachlów, far Michał död) – identiteten med barnet 1875 är i övrigt belagd (ålder, ort, far död). Samma förbehåll som ovan; 'Antonina' = sannolikt skrivarfel."
  },
  {
   "id": "p-michal_orzechowski-antonina_pecl",
   "type": "partner",
   "a": "michal_orzechowski",
   "b": "antonina_pecl",
-  "status": "candidate",
-  "basis": "Samma akt: Józefs föräldrar Michał och Antonina (nämnda tillsammans som föräldrar, 'покойныхъ'). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel."
+  "status": "excluded",
+  "basis": "Samma akt: Józefs föräldrar Michał och Antonina (nämnda tillsammans som föräldrar, 'покойныхъ'). NEDGRADERAD (granskning): vigselakten 1895 anger modern som Antonina, men Józefs födelseakt 1875 och Michał/Agnieszkas vigsel 1866 anger Agnieszka Hencel. DEMENTERAD (omgång 24): Michał Orzechowski var ogift 1866 (akt 94: «młodzian»), gifte sig då med Agnieszka Hencel (akt 94, 20 juni 1866), hade hustrun Agnieszka 1871 (akt 260: «отъ жены его Агнешки изъ Хенцлёвъ») och 1875 (akt 100: «отъ жены его Анешки изъ Хенулювъ») och dog 22 juni 1877 «оставивъ жену Агнешку» (akt 369/1877). Ingen tidpunkt finns då han kan ha varit gift med en Antonina; namnet Antonina förekommer endast i brudgummens egen vigselakt 1895 (akt 169: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ») och är sannolikt skrivarfel (dotterns namn Antonina f. 1871). FÖRBEHÅLL: bygger på att fadern Michał i akt 169 är samme man som Michał i akt 100/369; om Józef 1895 vore en annan Józef (ej belagd – inget annat Orzechowski-barn f. 1874-76 i Katedras index) faller hela Józef-Michał-kedjan."
  },
  {
   "id": "c-jozef_zatorski-antonina_zatorska_n-katarzyna_zatorska",
@@ -4537,8 +4537,8 @@
    "agnieszka_orzechowska_1849"
   ],
   "child": "jozef_orzechowski",
-  "status": "strong",
-  "basis": "Födelseakt Kielce Katedra 1875 nr 100 (fil 095-102): far Михалъ Оржеховскій, подёнщикъ från Невахлёвъ, 33; mor 'Анешки изъ Хенулювъ' 26; barnet Іозефъ f. dagen före 6/18 febr 1875 i Невахлёвѣ. Moderns namn avviker från vigselakt 1895 (Antonina) – därför strong, ej verified."
+  "status": "verified",
+  "basis": "Födelseakt Kielce Katedra 1875 nr 100 (fil 095-102): far Михалъ Оржеховскій, подёнщикъ från Невахлёвъ, 33; mor 'Анешки изъ Хенулювъ' 26; barnet Іозефъ f. dagen före 6/18 febr 1875 i Невахлёвѣ. Moderns namn avviker från vigselakt 1895 (Antonina) – därför strong, ej verified. VERIFIERAD (omgång 24): Födelseakt Kielce Katedra 1875 akt 100 (sy1875a fil 095-102.jpg, marginal «Невахлевъ 100», omläst): «Состоялось въ городѣ Кельцахъ дня шестаго восемнадцатаго Февраля тысяча восемьсотъ семьдесятъ пятаго года въ пять часовъ по полудни. Явился подёнщикъ изъ Неваклёва Михалъ Оржеховскій (Orzechowski) тридцати трехъ лѣтъ отъ роду ... и предъявилъ Намъ младенца мужескаго пола рожденнаго въ Неваклёвѣ ... въ пять часовъ по полудни, отъ жены его Анешки изъ Хенулювъ двадцати шести лѣтъ отъ роду. Младенцу ... дано имя Іозефъ». Nytt som avgör identiteten barn 1875 = brudgummen 1895: akt 169/1895 ger brudgummen som «двадцати лѣтъ отъ роду ... родившимся и проживающимъ въ Неваклёвѣ, сыномъ покойныхъ Михаила ...» (20 år i nov 1895 = f. feb 1875; Niewachlów; fadern Michał död – Michał Orzechowski dog 1877). Katedras födelseindex 1871-1877 (genomläst av tidigare pass) har ingen annan Orzechowski (utom systern Antonina 1871), dvs. en Niewachlów-född Orzechowski-pojke f. 1874-75 kan inte vara någon annan. Senare åldrar: 22 år 1897, 28 år 1903 (f. 1875). Kvarstående motsägelse: modern heter 'Antonina z Pęcłów' i 1895 års akt – se refuted-posterna (sannolikt skrivarfel/namn efter systern Antonina f. 1871). Moderns släktnamn Hencel stöds också av att brudgummens morbror (дяди жениха?) 1895 var Stanisław 'Ленцалъ(osäker)' 38 år från Niewachlów; en Stanisław Józef Hencel f. 3 maj 1858 Niewachlów, son till Augustyn Hencel + Maryanna z Szreków (Katedra 1858 akt 257, fil 256-265.jpg), vore 37 år 1895 = Agnieszkas yngre bror. (Tolkningen av vittnesnamnet och 'дядя' är osäker.)"
  },
  {
   "id": "p-michal_orzechowski-agnieszka_orzechowska_1849",
@@ -4859,8 +4859,8 @@
   "type": "sibling",
   "a": "antonina_orzechowska_1871",
   "b": "jozef_orzechowski",
-  "status": "strong",
-  "basis": "Samma föräldrar Michał + Agnieszka (Hencel), Niewachlów; Józef enligt akt 100/1875 (akten säger ej 'son')"
+  "status": "verified",
+  "basis": "Samma föräldrar Michał + Agnieszka (Hencel), Niewachlów; Józef enligt akt 100/1875 (akten säger ej 'son') VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-jozef_orzechowski-katarzyna_zatorska-wladyslawa_orzechowska_1907",
@@ -4927,16 +4927,16 @@
    "maryanna_socha"
   ],
   "child": "jozef_zatorski",
-  "status": "candidate",
-  "basis": "Akt 152/1864: 'synem Marcina i Maryanny z Sochów' – gäller bara om brudgummen 1864 = Katarzynas far"
+  "status": "verified",
+  "basis": "Akt 152/1864: 'synem Marcina i Maryanny z Sochów' – gäller bara om brudgummen 1864 = Katarzynas far VERIFIERAD (omgång 24): Vigselakt 1864 akt 152 (sy1864b fil 150-153.jpg, omläst): «...między Józefem Zatorskim lat dwadzieścia jeden mającym młodzieńcem, synem Marcina i Maryanny z Sochów małżonków Zatorskich już nieżyjących, na gospodarstwie we wsi Brzezinach zamieszkałych...» × «Antoniną Ksiołówną lat dwadzieścia dwa mającą panną, córką [fars namn oläsl.] i Agaty z Osuchów żyjącej, małżonków Ksiołów, na gospodarstwie w Szydłówku zamieszkałych». Brudgummens föräldrar uttryckligen Marcin + Maryanna z Sochów. Identitet med Katarzynas far: samma par Józef Zatorski + Antonina z Ksiołów i Szydłówek 1867 (23/26 år) och 1868 (26/27); 1871 akt 550 Józef (30), Antonina (30) Szydłówek; 1895 akt 169 «дочерью покойныхъ Іосифа и Антонины изъ Ксѣлювъ». (Den andre Józef Zatorski, ungkarl 26 år 1869 akt 22, föräldrar Wincenty + Anna Gawlik, kan inte vara samme man: vår Józef var gift sedan 1864.)"
  },
  {
   "id": "p-marcin_zatorski-maryanna_socha",
   "type": "partner",
   "a": "marcin_zatorski",
   "b": "maryanna_socha",
-  "status": "candidate",
-  "basis": "Akt 152/1864"
+  "status": "verified",
+  "basis": "Akt 152/1864 VERIFIERAD (omgång 24): Vigselakt 1864 akt 152 (fil 150-153.jpg): «synem Marcina i Maryanny z Sochów małżonków Zatorskich już nieżyjących» = bruden/brudgummens föräldrar uttryckligen som makar (małżonków). Identitet med vår Józef: se c-marcin_zatorski-maryanna_socha-jozef_zatorski."
  },
  {
   "id": "c-per_olofsson_braten-marit_isaksd-olof_perssonbraten15",
@@ -5726,14 +5726,14 @@
   "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
-  "id": "c-hencel_jan_1820-hencel_augustyn_1820",
+  "id": "c-hencel_jan_1820-augustyn_hencel",
   "type": "child",
   "parents": [
    "hencel_jan_1820"
   ],
-  "child": "hencel_augustyn_1820",
-  "status": "candidate",
-  "basis": "Akt 369/1820: far Jan Hencel, Niewachłów (skan 1820a 369-375)"
+  "child": "augustyn_hencel",
+  "status": "verified",
+  "basis": "Akt 369/1820: far Jan Hencel, Niewachłów (skan 1820a 369-375) VERIFIERAD (omgång 24): (1) Födelseakt Kielce Katedra 1820 akt 369 (fil 369-375.jpg, omläst): «...stawił się Jan Hentel lat czterdzieści pięć mający, Mayster konsztu Ciesielskiego (osäker: hantverk = timmerman), we Wsi Niewachłów zamieszkały, i okazał nam Dziecię płci męskiej, które urodziło się dnia pierwszego (osäker) miesiąca ... o godzinie trzeciej po południu ... spłodzone z niego i Tekli z Piotrowskich lat trzydzieści mającej jego Małżonki ... nadać mu Imię Augustyn». (2) Vigselakt 1841 akt 148 (26 nov 1841, sy1841b fil 148-150.jpg): «Augustynem Hentzel [Hencel] lat dwadzieścia jeden mającym gospodarzem młodzianem w Niewachłowie zamieszkałym i urodzonym z nieżyjącego Jana i Tekli z Piotrowskich żyjącej» (21 år 1841 = f. 1820). Barnet f. 1820 Niewachłów, far Jan Hencel: stämmer. Modern = Tekla z Piotrowskich (nytt). URL https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=369-375.jpg och ...sy=1841b&kt=1&plik=148-150.jpg"
  },
  {
   "id": "c-augustyn_hencel-hencel_agnieszka_1847",
@@ -5742,8 +5742,8 @@
    "augustyn_hencel"
   ],
   "child": "hencel_agnieszka_1847",
-  "status": "candidate",
-  "basis": "Augustyn Hencel (id augustyn_hencel) = Augustyn f. 1820? Ej bekräftat."
+  "status": "verified",
+  "basis": "Augustyn Hencel (id augustyn_hencel) = Augustyn f. 1820? Ej bekräftat. VERIFIERAD (omgång 24): Dopakt 1847 akt 34 (fil 029-036): Augustyn Hencel (26 år, Czarnów) + Maryanna z Szreków -> Agnieszka (redan verifierad i systerrelationen med båda föräldrar; denna är dubbletten med enbart far). IDENTITETEN Augustyn (f. 1820 Niewachłów, son till Jan) = Agnieszkas far är nu avgjord: vigselakt Kielce Katedra 1841 akt 148 (26 nov 1841, fil 148-150.jpg): «Augustynem Hentzel lat dwadzieścia jeden ... w Niewachłowie zamieszkałym i urodzonym z nieżyjącego Jana i Tekli z Piotrowskich żyjącej; a Maryanną z Szrekow lat siedemnaście mającą panną przy rodzicach w Niewachłowie zamieszkałą i urodzoną z Mikołaja i Małgorzaty z Jaworskich». Hustrun Maryanna z Szreków = samma kvinna som i barnens dopakter 1847 (akt 34) och 1850 (akt 408) och i födelseakt 1858 akt 257 («Augustyn Hencel Kolonista lat czterdzieści ... Niewachłów ... z jego Małżonki Maryanny z Szreków lat trzydzieści ... Stanisław Józef»). Ålder 21 år 1841 -> 26 år 1847 stämmer exakt. Marriage-index 1841 sy1841b SkM-2: «Hencel Augustyn z Maryanną Szrekow ... 148»."
  },
  {
   "id": "c-fr_andersnilsson1710_lene-fr_maritbryngelsd_lene-fr_jonasandersson_lene",
@@ -11453,8 +11453,8 @@
    "antonina_zatorska_n"
   ],
   "child": "aq4_marianna_zatorska_1867",
-  "status": "strong",
-  "basis": "Katedra 1867 akt 476: 'Józef Zatorski ... z jego małżonki Antoniny z Ksiołów ... imię Marjanna Franciszka' (Szydłówek). Strong, ej verified: Józefs åldrar avviker från 1871."
+  "status": "verified",
+  "basis": "Katedra 1867 akt 476: 'Józef Zatorski ... z jego małżonki Antoniny z Ksiołów ... imię Marjanna Franciszka' (Szydłówek). Strong, ej verified: Józefs åldrar avviker från 1871. VERIFIERAD (omgång 24): Födelseakt Kielce Katedra 1867 akt 476 (sy1867a fil 471-477.jpg, marginal «Szydłówek 476»), omläst: «Dnia piątego Września ... o godzinie ósmej wieczorem: Stanął przed nami Józef Zatorski rolnik we wsi Szydłówku zamieszkały lat dwadzieścia trzy liczący ... okazał nam dziecię płci żeńskiej tamże dnia dzisiejszego o godzinie trzeciej [osäker] ... urodzone z jego małżonki Antoniny z Ksiołów lat dwadzieścia sześć liczącej ... nadane zostało imię Marjanna Franciszka». Barn f. 5 sept 1867 Szydłówek: stämmer. IDENTITET Józef/Antonina = vår Józef Zatorski + Antonina Ksiołówna: vigselakt 1864 akt 152 «Józef Zatorski lat dwadzieścia jeden» × «Antoniną Ksiołówną lat dwadzieścia dwa» (Szydłówek); åldrar sedan 1864:21/22, 1867:23/26, 1868:26/27, 1871:30/30 (Józef 'тридцати лѣтъ' = 30, ej 33) – konsekventa, samma hustrumaidenname Ksiołów 1864, 1867, 1868 och i 1895 års akt 169 («Іосифа и Антонины изъ Ксѣлювъ»). Tidigare 'avvikelse' berodde på felläst ålder 1871."
  },
  {
   "id": "c-jozef_zatorski-antonina_zatorska_n-aq4_jan_zatorski_1868",
@@ -11464,24 +11464,24 @@
    "antonina_zatorska_n"
   ],
   "child": "aq4_jan_zatorski_1868",
-  "status": "strong",
-  "basis": "Katedra 1868 akt 661: 'Іосифъ Заторскій ... отъ жены его Антонины Заторской рожденной Кселъ ... дано имя Янъ' (Szydłówek)."
+  "status": "verified",
+  "basis": "Katedra 1868 akt 661: 'Іосифъ Заторскій ... отъ жены его Антонины Заторской рожденной Кселъ ... дано имя Янъ' (Szydłówek). VERIFIERAD (omgång 24): Födelseakt Kielce Katedra 1868 akt 661 (sy1868a fil 652-661.jpg, marginal «Шидловекъ 661»), omläst: «Состоялось въ городѣ Кѣльцахъ пятнадцатаго двадцать седьмаго Декабря тысяча восемьсотъ шестьдесятъ восьмаго года въ четыре часа по полудни: Явился крестьянинъ деревни Шидловекъ служащій Іосифъ Заторскій (Zatorski) двадцати шести лѣтъ отъ роду ... дѣтей мужескаго пола родившагося въ Шидловкѣ сегодня ... въ восемь часовъ утра отъ жены его Антонины Заторской рожденной Ксѣль двадцати семи лѣтъ отъ роду ... дано имя Янъ» (läsning av enstaka ord osäker). Barn f. 27 dec 1868 Szydłówek: stämmer. Identitet: se akt 476/1867 (ålder 26/27, Ksiołów, Szydłówek)."
  },
  {
   "id": "s-katarzyna_zatorska-aq4_marianna_zatorska_1867",
   "type": "sibling",
   "a": "katarzyna_zatorska",
   "b": "aq4_marianna_zatorska_1867",
-  "status": "strong",
-  "basis": "Samma föräldranamn Józef Zatorski + Antonina z Ksiołów, båda Szydłówek (akt 476/1867 mot akt 550/1871)."
+  "status": "verified",
+  "basis": "Samma föräldranamn Józef Zatorski + Antonina z Ksiołów, båda Szydłówek (akt 476/1867 mot akt 550/1871). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-katarzyna_zatorska-aq4_jan_zatorski_1868",
   "type": "sibling",
   "a": "katarzyna_zatorska",
   "b": "aq4_jan_zatorski_1868",
-  "status": "strong",
-  "basis": "Samma föräldranamn (akt 661/1868 mot akt 550/1871), Szydłówek."
+  "status": "verified",
+  "basis": "Samma föräldranamn (akt 661/1868 mot akt 550/1871), Szydłówek. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-jozef_orzechowski-katarzyna_zatorska-aq4_antonina_orzechowska_1910",

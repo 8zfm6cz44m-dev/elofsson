@@ -18080,7 +18080,7 @@
  {
   "id": "marianna_lutawska",
   "name": "Marianna Lutawska (Jan Młodawskis första hustru)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -18289,7 +18289,8 @@
    "FÖDELSEAKT 1875 nr 100: Michał Orzechowski, daglönare ('подёнщикъ') från Niewachlów, 33 år, anmäler son Józef f. 17 febr 1875; vittnen Wincenty Stępniewski 33 och Jan Dętka 50, båda jordbrukare från Niewachlów (Dętka 'Детка' kan vara släkt med faddern Barbara Dętka). Katedrans födelseindex 1871–1877 (SkU) visar ingen annan Orzechowski; hans vigsel finns ej i Katedra 1870–1874 (SkM genomlästa).",
    "DÖD 1877 akt 369 (ryska, anmäld 11/23 juni 1877 av tegelmästare Franciszek Brodziński 56 år och jordbrukare Józef Jagodziński 54 år, båda Niewachlów): 'объявили что въ Неваклевѣ вчера въ три часа пополудни умеръ Михаилъ Оржеховскій (Michał Orzechowski) тридцати лѣтъ отъ роду, кузнецъ, оставивъ жену Агнешку урожденную Хентшесь' = 'förkunnade att i Niewachlów i går kl. 15 dog Michał Orzechowski, 30 år gammal, smed, efterlämnande hustrun Agnieszka född Chentsześ/Kęciesz? [efternamn osäkert]'. Akten anger EJ föräldrar eller födelseort. Identiteten med Józefs far är strong (samma ort Niewachlów, hustru Agnieszka som i Józefs födelseakt 1875 nr 100); ålder 30 vs 33 avviker. Sökt i Katedras dödsindex 1876-1883 (O-sidor): endast 1877 har Orzechowski.",
    "VIGSEL 1866 akt 94 (polska; 'dnia dwudziestego czerwca tysiąc ośmset sześćdziesiątego szóstego roku o godzinie dziesiątej rano'): '...małżeństwo między Michałem Orzechowskim lat dwadzieścia cztery mającym, młodzianem, synem Wawrzyńca już zmarłego i Tekli z [flicknamn oläsligt] małżonków Orzechowskich, wyrobników w Niewachlowie zamieszkałych, ... a Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny [f. ?] małżonków Hencel, rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną' = Michał Orzechowski, 24 år, ungkarl, son till avlidne Wawrzyniec och Tekla Orzechowski, daglönare i Niewachlów; brud Agnieszka Hencel, 18 år, ogift, dotter till Augustyn och Maryanna Hencel, gårdsägare i Niewachlów, född där. Vittnen Kazimierz Mikołajczyk och Franciszek Brodziński (båda 52 år). Ålder 24 (1866) stämmer med 33 år 1875.",
-   "KONTROLLÄSNING E8 av akt 94 (fil 093-095.jpg, höger sida av vänstersidans akt): 'Dnia dwudziestego czerwca tysiąc ośmset sześćdziesiątego szóstego roku o godzinie dziesiątej rano … małżeństwo między Michałem Orzechowskim lat dwadzieścia cztery mającym, młodzianem, synem Wawrzyńca już zmarłego i Tekli z [Sz/Strz…]chów [oläsligt] małżonków Orzechowskich, wyrobników w Niewachlowie zamieszkałych, we wsi Wólce Pokonnej urodzonym, w Niewachlowie w stanie wolnym zostającym, a Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny z [Sz/Strz…]chów małżonków Hencelów rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną.' Vittnen: Kazimierz Mikołajczyk (wójt gminy, 52 år) och Franciszek Brodziński (ålder/yrke ej säkert läst). Åldrar 24/18, föräldrar och Niewachlów som bostadsort bekräftade; födelseort för Michał rättad till Wólka Pokonna."
+   "KONTROLLÄSNING E8 av akt 94 (fil 093-095.jpg, höger sida av vänstersidans akt): 'Dnia dwudziestego czerwca tysiąc ośmset sześćdziesiątego szóstego roku o godzinie dziesiątej rano … małżeństwo między Michałem Orzechowskim lat dwadzieścia cztery mającym, młodzianem, synem Wawrzyńca już zmarłego i Tekli z [Sz/Strz…]chów [oläsligt] małżonków Orzechowskich, wyrobników w Niewachlowie zamieszkałych, we wsi Wólce Pokonnej urodzonym, w Niewachlowie w stanie wolnym zostającym, a Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny z [Sz/Strz…]chów małżonków Hencelów rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną.' Vittnen: Kazimierz Mikołajczyk (wójt gminy, 52 år) och Franciszek Brodziński (ålder/yrke ej säkert läst). Åldrar 24/18, föräldrar och Niewachlów som bostadsort bekräftade; födelseort för Michał rättad till Wólka Pokonna.",
+   "Föräldrar Wawrzyniec + Tekla (akt 94/1866). Enda hustrun enligt akterna: Agnieszka Hencel (1866-1877). 'Antonina Pęcł' i akt 169/1895 är sannolikt skrivarfel – se refuted. Död 22 juni 1877 (akt 369)."
   ],
   "sources": [
    {
@@ -18316,7 +18317,7 @@
  {
   "id": "antonina_pecl",
   "name": "Antonina (f. 'Pęcł…'?) Orzechowska",
-  "status": "verified",
+  "status": "excluded",
   "sex": "f",
   "living": false,
   "born": {},
@@ -18329,7 +18330,8 @@
   "summary": "Mor till Józef Orzechowski; avliden före 1895. Flicknamn läst 'изъ Пенцлювъ' (osäkert).",
   "notes": [
    "VIGSEL 1895 akt 169: «Михаила и Антонины изъ Пенцлювъ» – flicknamnet osäkert (Pęcławów/Pęcał/Pęclów?). Vittnet Stanisław 'Ленцалъ' 38 år från Niewachlów kan vara släkting (brudgummens 'дядя' gav samtycke).",
-   "KONFLIKT: födelseakt 1875 nr 100 anger mor 'Анешка' (Agnieszka?) f. 'Хенулювъ' 26 år, vigselakt 1895 'Антонины изъ Пенцлювъ'. Se flagga."
+   "KONFLIKT: födelseakt 1875 nr 100 anger mor 'Анешка' (Agnieszka?) f. 'Хенулювъ' 26 år, vigselakt 1895 'Антонины изъ Пенцлювъ'. Se flagga.",
+   "UTESLUTEN (omgång 24): Michał Orzechowski var gift med Agnieszka Hencel 1866–1877 (akt 94/1866, 550/1871 m.fl.). ”Antonina iz Pęcłów” i vigselakt 169/1895 är sannolikt skrivfel."
   ],
   "sources": [
    {
@@ -18352,9 +18354,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "ca 1838",
-   "place": "Szydłówek (Kielce)?",
-   "note": "33 år i dotterns födelseakt okt 1871 (akt 550); bosatt i Szydłówek, jordbrukare"
+   "date": "ca 1841",
+   "place": "okänd",
+   "note": "Åldrar i akter: 21 (vigsel 11 okt 1864 akt 152), 23 (5 sept 1867 akt 476), 26 (27 dec 1868 akt 661), 30 (29 okt 1871 akt 550: «тридца|ти лѣтъ отъ роду» – omläst; tidigare läst som 33 = fel). Alltså f. ca 1841-1843."
   },
   "died": {
    "date": "före 1895"
@@ -18370,7 +18372,8 @@
    "VIGSEL 1864 akt 152, Kielce Katedra (STRONG, ej verified): 'Józef Zatorski, ungkarl, 21 [?] år, son till avlidne Marcin och Maryanna f. Socha, bosatt i Brzeziny(?)' × 'Antonina Ksiołówna, ogift, 22 år, dotter till makarna Ksioł (mor Agata f. Osuch?), bosatta i Szydłówek'. Datum 11 [okt?] 1864 kl. 12. Vittnen Marcin Stawiński(?) 30 och Józef Skarz(?) 58 [osäkert]. Index 1864 SkM-4 rad 187 'Zatorski Józef / Antonina Ksel(?)' akt 152. Passar Katarzynas föräldrar (Antonina 22 år 1864 = 30 år 1871; flicknamn Ksiołów jfr 1895; Szydłówek). AVVIKELSE: Józef 21 år 1864 (f. ca 1843) mot 33 år 1871 (f. ca 1838).",
    "OMLÄSNING Y1 av födelseakt 1871 akt 550 (Skanoteka id57, sy1871a, fil 544-551.jpg, högra sidan, marginal ”Шидловекъ 550.”): «Состоялось въ Кельцахъ дня семнадцатаго, двадцать девятаго Октября, тысяча восемьсот семьдесят первого года въ девять часовъ утра. Явился земледѣлецъ изъ Шидлувка Іосифъ Заторскій (Zatorski) тридца|ти лѣтъ отъ роду, въ присутствіи земледѣльцевъ изъ Шидлувка Валентія Рунерта тридцати шести лѣтъ и Собестіяна Цедро сорока пяти лѣтъ отъ роду, и предъявилъ Намъ младенца женскаго пола рожденнаго въ Шидлувку сегодня въ десять часовъ ночью, отъ жены его Антонины изъ [Осуховъ/Деуховъ?] тридцати лѣтъ отъ роду. Младенцу сему при совершенномъ сегодня Св. Крещеніи дано имя Катаржина, а воспріемниками его были: Валентій Рунертъ и Антонина Бембачъ.» KORRIGERING: faderns ålder är ”тридцати” = 30 år (inget ”трехъ” efter ordet) – tidigare uppgift ”33 år / f. ca 1838” stämmer inte; f. ca 1841 (vigselakt 1864 akt 152: 21 år ⇒ f. ca 1843; avvikelse ca 2 år, normalt för ryska akter).",
    "OMLÄSNING Y1 av vigselakt 1864 akt 152 (Kielce Katedra, Skanoteka id57, sy1864b, fil 150-153.jpg, högra sidan, sidnr 77, överst): «152. Działo się w Mieście Kielcach dnia jedenastego [Paź]dziernika Tysiąc ośmset sześćdziesiątego czwartego roku o godzinie dwunastej w południe. Wiadomo czynimy iż w przytomności świadków Marcina Stwińskiego(?) lat trzydzieści we wsi Nidzie(?) i Józefa Skarz(?) lat pięćdziesiąt osiem bieżących, we wsi Brzeznach(?), zamieszkałych, obu kolonistów(?), na dniu dzisiejszym zawarte zostało religijnie małżeństwo między Józefem Zatorskim [skrivet ’Katorski’-lik, Z som K-snirkel] lat dwadzieścia jeden mającym młodzieńcem, Synem Marcina i Maryanny z Sochów małżonków Zatorskich(?) już nieżyjących, na gospodarstwie we wsi Br[z]e[z]nach(?) zamieszkałych, także urodzonym w Kielcach(?) w służbie rodzącym [= pozostającym], i Antoniną Ksiołówną lat dwadzieścia dwa mającą panną córką Jana mieszkającego(?) i Agaty z Osuchów żyjących małżonków Ksiołów, na gospodarstwie w Szydłówku zamieszkałych, także urodzoną i przy Matce rodzicach pozostającą. Małżeństwo to poprzedziły trzy zapowiedzi ogłoszone w kościele parafialnym Kieleckim w dniach osiemnastym, dwudziestym piątym Września i drugim Października roku bieżącego.» Läsningen av namn på vittnen/bostadsorter är osäker (kursiv 1860-tal); brudgummens efternamn ”Zatorski”, hans ålder 21, föräldrarna Marcin & Maryanna z Sochów, brudens namn ”Antonina Ksiołówna” 22 år, hennes mor Agata z Osuchów, hemort Szydłówek – alla läsbara. Länken till 1871-aktens Józef Zatorski i Szydłówek vilar på namn, bostad (bruden från Szydłówek) och Antoninas ålder (22 år 1864 ⇒ 29-30 år 1871) men aktern 550 nämner ingen släktskap → kopplingen 1864↔1871 är STRONG, inte bevisad (se flagga).",
-   "AQ4: Szydłówek-par Józef Zatorski × Antonina z Ksiołów har även dotter Marianna Franciszka (akt 476/1867: Józef 23 år, Antonina 26) och son Jan (akt 661/1868: Józef 26, Antonina 27). Åldrarna passar vigseln 1864 akt 152 (Józef 21 son av Marcin+Maryanna Socha, Antonina Ksiołówna 22) bättre än 1871 (33/30)."
+   "AQ4: Szydłówek-par Józef Zatorski × Antonina z Ksiołów har även dotter Marianna Franciszka (akt 476/1867: Józef 23 år, Antonina 26) och son Jan (akt 661/1868: Józef 26, Antonina 27). Åldrarna passar vigseln 1864 akt 152 (Józef 21 son av Marcin+Maryanna Socha, Antonina Ksiołówna 22) bättre än 1871 (33/30).",
+   "Rättar tidigare 'ca 1838/33 år'. Vigsel 1864 akt 152 med Antonina Ksiołówna, son till Marcin + Maryanna z Sochów; bodde i Brzeziny 1864, Szydłówek 1867-1871."
   ],
   "sources": [
    {
@@ -18402,8 +18405,8 @@
   "living": false,
   "born": {
    "date": "ca 1841",
-   "place": "Okänd",
-   "note": "30 år i dotterns födelseakt 1871 (akt 550); flicknamn 'изъ Осуховъ' = Osuch(?)"
+   "place": "Szydłówek?",
+   "note": "Åldrar: 22 (1864 akt 152), 26 (1867 akt 476), 27 (1868 akt 661), 30 (1871 akt 550). Flicknamn 'z Ksiołów' 1864/1867/1868/1895; 1871 'z Osuchów/Deuchów' (osäker; Osuch = moderns Agatas namn enligt 1864)."
   },
   "died": {
    "date": "före 1895"
@@ -18416,7 +18419,8 @@
    "VIGSEL 1895 akt 169: «Іосифа и Антонины изъ Ксолювъ» – flicknamnet osäkert.",
    "Flicknamn i akt 550 (1871) läses 'изъ Осуховъ' (Osuch?) - avviker från tidigare läsning 'изъ Ксолювъ' (Ksiołów?) i vigselakten 1895; kontrollera originalet om möjligt. Ålder 30 år okt 1871 -> f. ca 1841.",
    "VIGSEL 1864 akt 152: bruden 'Antoniną Ksiołówną lat dwadzieścia dwa' (f. ca 1842), dotter till makarna Ksioł(ów) och Agata f. Osuch(?), Szydłówek. Ålder (30 år 1871) och flicknamn Ksiołów (jfr 1895) stämmer; 'Osuch' i akt 550/1871 kan vara förväxlat med moderns flicknamn. STRONG.",
-   "OMLÄSNING Y1 akt 550/1871 (fil 544-551.jpg): modern ”Антонины изъ [Осуховъ? / Деуховъ?] тридцати лѣтъ отъ роду” – första bokstaven i släktnamnet är en kursiv О/Д som inte går att avgöra säkert; ordet slutar ”-уховъ”, alltså ”Osuchów”/”Deuchów”, i alla fall INTE ”Ksiołów”. Vigselakt 1864 akt 152 ger bruden som ”Antoniną Ksiołówną” med mor ”Agaty z Osuchów”. Möjligt skrivarmisstag 1871 (modern Agatas flicknamn i stället för Antoninas) – ej bevisat. Se flagga. Antoninas ålder 1871 = 30 år (f. ca 1841), vid vigseln 1864 22 år (f. ca 1842)."
+   "OMLÄSNING Y1 akt 550/1871 (fil 544-551.jpg): modern ”Антонины изъ [Осуховъ? / Деуховъ?] тридцати лѣтъ отъ роду” – första bokstaven i släktnamnet är en kursiv О/Д som inte går att avgöra säkert; ordet slutar ”-уховъ”, alltså ”Osuchów”/”Deuchów”, i alla fall INTE ”Ksiołów”. Vigselakt 1864 akt 152 ger bruden som ”Antoniną Ksiołówną” med mor ”Agaty z Osuchów”. Möjligt skrivarmisstag 1871 (modern Agatas flicknamn i stället för Antoninas) – ej bevisat. Se flagga. Antoninas ålder 1871 = 30 år (f. ca 1841), vid vigseln 1864 22 år (f. ca 1842).",
+   "Dotter till makarna Ksioł (mor Agata z Osuchów, levande 1864) i Szydłówek."
   ],
   "sources": [
    {
@@ -19113,7 +19117,8 @@
   ],
   "summary": "Far till Agnieszka Hencel; gårdsägare i Niewachlów 1866.",
   "notes": [
-   "VIGSEL 1866 akt 94: 'córką Augustyna i Maryanny ... małżonków Hencel'"
+   "VIGSEL 1866 akt 94: 'córką Augustyna i Maryanny ... małżonków Hencel'",
+   "Född 1820 i Niewachłów: Katedra 1820 akt 369 (far Jan Hentel, mor Tekla z Piotrowskich); vigsel 1841 akt 148: ”z nieżyjącego Jana i Tekli z Piotrowskich” × Maryanna z Szrekow (17 år, dotter till Mikołaj och Małgorzata z Jaworskich)."
   ],
   "sources": [
    {
@@ -19124,7 +19129,12 @@
   "living": false,
   "search": [
    "Augustyn Hencel"
-  ]
+  ],
+  "born": {
+   "date": "1820",
+   "place": "Niewachłów (Kielce)",
+   "note": "Katedra 1820 akt 369"
+  }
  },
  {
   "id": "maryanna_hencel",
@@ -21190,7 +21200,7 @@
  {
   "id": "marcin_zatorski",
   "name": "Marcin Zatorski",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "died": {
@@ -23575,7 +23585,7 @@
  {
   "id": "hencel_agnieszka_1847",
   "name": "Agnieszka Hencel (f. 25.1.1847, Czarnów)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23636,13 +23646,13 @@
  {
   "id": "hencel_augustyn_1820",
   "name": "Augustyn Hencel (f. 1820, Niewachlów)",
-  "status": "candidate",
+  "status": "excluded",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1820",
-   "place": "Niewachlów (Kielce Katedra)",
-   "note": "akt 369, 1820; månad/dag osäkra (månadsordet överstruket/oläsligt, sannolikt september)"
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 369/1820; 21 år vid vigseln 26 nov 1841 (akt 148)"
   },
   "places": [
    "Niewachlów",
@@ -23652,7 +23662,9 @@
   "notes": [
    "Födelseindex Kielce Katedra 1820 (SkU-2): rad 'Hencel Augustyn' nr 195, akt 369.",
    "AKT 369 (läst delvis): 'Przed nami Urzędnikiem Stanu Cywilnego Gminy Kieleckiej ... stawił się Jan Hentel lat czterdzieści pięć mający, Mayster Kunsztu Cu[…]ielskiego, we Wsi Niewachłów zamieszkały, i okazał nam Dziecię płci męskiej ... spłodzone z niego i [?]li z [?] lat trzydzieści mającej jego Małżonki ... nadał mu Imię Augustyn' (svenska: Jan Hencel, 45 år, mästare i ett hantverk, bosatt i Niewachłów, visade en son som fick namnet Augustyn; mor ca 30 år, förnamn och flicknamn oläsliga). Vittnen Jan Becher 45 och Melchior Fraynd 50, gruvarbetare i Niewachłów.",
-   "Fynd stödjer att Augustyn Hencel 26 år 1847 kan vara f. 1820 (ålder stämmer) och att familjen fanns i Niewachłów (jfr Hencel-hushållet där 1866), men Czarnów-bostad 1847 är ej kopplad. Ingen annan Hencel Augustyn i 1820 års index; 1821 ej kontrollerat."
+   "Fynd stödjer att Augustyn Hencel 26 år 1847 kan vara f. 1820 (ålder stämmer) och att familjen fanns i Niewachłów (jfr Hencel-hushållet där 1866), men Czarnów-bostad 1847 är ej kopplad. Ingen annan Hencel Augustyn i 1820 års index; 1821 ej kontrollerat.",
+   "IDENTIFIERAD som Agnieszka Hencels far: vigsel 1841 akt 148 Augustyn Hencel (21, f. Niewachłów, son till avlidne Jan + Tekla z Piotrowskich) × Maryanna z Szrekow (17, dotter till Mikołaj och Małgorzata z Jaworskich). Slå ihop med augustyn_hencel. Modern till Augustyn = Tekla z Piotrowskich (akt 369/1820 och 148/1841). Ny person: Stanisław Józef Hencel f. 3 maj 1858 Niewachlów, son till Augustyn + Maryanna z Szreków (Katedra 1858 akt 257), troligen morbror till Józef Orzechowski.",
+   "SAMMANSLAGEN med augustyn_hencel (omgång 24): född 1820 (Katedra 1820 akt 369, far Jan Hentel, mor Tekla z Piotrowskich; vigsel 1841 akt 148 med Maryanna z Szrekow)."
   ],
   "sources": [
    {
@@ -37277,7 +37289,7 @@
  {
   "id": "aq4_marianna_zatorska_1867",
   "name": "Marianna Franciszka Zatorska (f. 1867)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -37305,7 +37317,7 @@
  {
   "id": "aq4_jan_zatorski_1868",
   "name": "Jan Zatorski (f. 1868)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
