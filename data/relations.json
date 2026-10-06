@@ -8017,5 +8017,169 @@
   "child": "ivar_georg_nilsson01",
   "status": "strong",
   "basis": "Folkräkning 1910 Takene s.28 rad 9: Ivar Georg f. 1901 i hushållet Johan Nilsson/Kristina; 1930 hos modern (Johansson)."
+ },
+ {
+  "id": "c-anders_olsson31-stina_e-jb73_berggren",
+  "type": "child",
+  "parents": [
+   "anders_olsson31",
+   "stina_e"
+  ],
+  "child": "jb73_berggren",
+  "status": "candidate",
+  "basis": "Född Brunskog 1873; Berggren samma efternamn som systern Anna Lisa (f. 1876) i Stinas hushåll 1900/1910; hushållet 1880 Ö. Takene innehåller Johannes f. 1873. Ingen uttrycklig familjeställning mot föräldrarna för Berggren-posten."
+ },
+ {
+  "id": "p-jb73_berggren-betty_persson70_berggren",
+  "type": "partner",
+  "a": "jb73_berggren",
+  "b": "betty_persson70_berggren",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Årnäs sida 44: Berggren, Johannes; Persson, Betty (hustru)."
+ },
+ {
+  "id": "p-jb73_berggren-elin_engstrom86_berggren",
+  "type": "partner",
+  "a": "jb73_berggren",
+  "b": "elin_engstrom86_berggren",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Årnäs sida 34: Engström, Elin, vigselår 1928."
+ },
+ {
+  "id": "c-jb73_berggren-betty_persson70_berggren-jonmaurits_jb98",
+  "type": "child",
+  "parents": [
+   "jb73_berggren",
+   "betty_persson70_berggren"
+  ],
+  "child": "jonmaurits_jb98",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Årnäs: Jon Maurits f. 1898 i hushållet."
+ },
+ {
+  "id": "c-jb73_berggren-betty_persson70_berggren-hildur_jb00",
+  "type": "child",
+  "parents": [
+   "jb73_berggren",
+   "betty_persson70_berggren"
+  ],
+  "child": "hildur_jb00",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910 Årnäs: Hildur Ingegärd f. 1900 i hushållet."
+ },
+ {
+  "id": "c-jb73_berggren-betty_persson70_berggren-nanny_jb02",
+  "type": "child",
+  "parents": [
+   "jb73_berggren",
+   "betty_persson70_berggren"
+  ],
+  "child": "nanny_jb02",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Årnäs: Nanny Maria f. 1902."
+ },
+ {
+  "id": "c-jb73_berggren-betty_persson70_berggren-ellen_jb04",
+  "type": "child",
+  "parents": [
+   "jb73_berggren",
+   "betty_persson70_berggren"
+  ],
+  "child": "ellen_jb04",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Årnäs: Ellen Elisabet f. 1904."
+ },
+ {
+  "id": "c-jb73_berggren-betty_persson70_berggren-olofgustaf_jb07",
+  "type": "child",
+  "parents": [
+   "jb73_berggren",
+   "betty_persson70_berggren"
+  ],
+  "child": "olofgustaf_jb07",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Årnäs: Olof Gustaf f. 1907; 1930: Elof Gustav f. 1907."
+ },
+ {
+  "id": "s-jb73_berggren-annalisa_ao76",
+  "type": "sibling",
+  "a": "jb73_berggren",
+  "b": "annalisa_ao76",
+  "status": "candidate",
+  "basis": "Båda Brunskog-födda, Berggren; Anna Lisa f. 1876 i Stinas hushåll 1900/1910."
+ },
+ {
+  "id": "p-karljohansson71_pa-anna_ps72",
+  "type": "partner",
+  "a": "karljohansson71_pa",
+  "b": "anna_ps72",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Arvika köping sida 40: Persdotter, Anna ”h.”; 1930: vigselår 1897."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-johanevald_kj98",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "johanevald_kj98",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-oskarhenry_kj99",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "oskarhenry_kj99",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-andersgustav_kj02",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "andersgustav_kj02",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-karinelisabet_kj04",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "karinelisabet_kj04",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-klarahelena_kj07",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "klarahelena_kj07",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "c-karljohansson71_pa-anna_ps72-gretamaria_kj10",
+  "type": "child",
+  "parents": [
+   "karljohansson71_pa",
+   "anna_ps72"
+  ],
+  "child": "gretamaria_kj10",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
  }
 ]

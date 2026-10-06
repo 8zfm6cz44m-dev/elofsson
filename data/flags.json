@@ -3076,6 +3076,34 @@
     "anna_charlotta_n63",
     "anna_charlotta_nilsdotter_1858"
    ]
+  },
+  {
+   "title": "Johannes Berggren f. 1873 = Johannes Olsson/Andersson i Stinas hushåll?",
+   "text": "Johannes Berggren (Årnäs) matchar födelseår/-socken och syskonet Anna Lisa Berggrens efternamn, men familjeställning mot Anders Olsson/Stina Elofsdotter är inte läst. Bekräfta via dop Brunskog 1873 (C I/4 el. motsv.) eller husförhör Ö. Takene.",
+   "persons": [
+    "jb73_berggren",
+    "johannes_ao73",
+    "annalisa_ao76"
+   ]
+  },
+  {
+   "title": "Anna Persdotter f. 1872 Boda = Anna Persson Svensson?",
+   "text": "Anna Persdotter (g. Karl Johansson) matchar födelseår/-socken och patronymikon efter Per; 1890 bodde Anna kvar hos föräldrarna i Högboda. Familjeställning ”dotter” mot Per/Ingegerd i en post efter 1890 saknas; bekräfta via vigsel Boda 1897 eller dop.",
+   "persons": [
+    "anna_ps72",
+    "karljohansson71_pa"
+   ]
+  },
+  {
+   "title": "Emil, August, Johan Persson Svensson efter 1880 ej spårade",
+   "text": "August f.1856 Boda: ingen träff med Svensson/Persson efter 1880 (ev. emigrerad). Johan f.1868 Boda: kandidater Johan Nordling (Norra Boda 1910), Johan Andersson (Högboda Långmyren 1910, barn f. Chicago) – ingen koppling till föräldrarna. Olof f.1861 och Emil f.1863 (Stina) ej funna efter 1880 (Amerika?).",
+   "persons": [
+    "august_ps56",
+    "johan_ps68",
+    "emil_ps59",
+    "olof_ao61",
+    "emil_ao63"
+   ]
   }
  ],
  "conflicts": [

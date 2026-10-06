@@ -27323,12 +27323,17 @@
   "living": false,
   "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
   "notes": [
-   "FOLKRÄKNING 1880 Boda Högboda sida 23: Emil f. 1859 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn)."
+   "FOLKRÄKNING 1880 Boda Högboda sida 23: Emil f. 1859 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn).",
+   "FOLKRÄKNING 1890 Högboda sida 20 rad 48: Persson, Emil f. 1859 i Boda, arbetare, inhys., ogift, ensamstående (sannolikt samma person). Lead: 1900 Visby Södervärn 10 sida 105 rad 39: Persson, Emil f. 1859 Boda, Snickare, ogift (Folk_114691172)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: Emil f. 1859",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Boda, Högboda, sida 20 rad 48: Persson, Emil f. 1859 Boda, arbetare Inhys., ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103604295&tab=post"
    }
   ],
   "born": {
@@ -27375,15 +27380,20 @@
   "status": "strong",
   "sex": "f",
   "living": false,
-  "summary": "Barn i Per Svenssons och Ingegerd Elofsdotters hushåll i Högboda 1880 (folkräkning).",
+  "summary": "Dotter till Per Svensson och Ingegerd Elofsdotter; gift 1897 med Karl Johansson (f. 1871 Stavnäs); bodde i Arvika köping 1900, därefter Norra Näs, Frykerud (1910, 1930).",
   "notes": [
    "FOLKRÄKNING 1880 Boda Högboda sida 23: Anna f. 1872 i Boda, i hushållet Per Svensson/Ingegärd Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst; efternamn ej angivet för barn).",
-   "FOLKRÄKNING 1890: dottern Anna (1872) kvar hos föräldrarna."
+   "FOLKRÄKNING 1890: dottern Anna (1872) kvar hos föräldrarna.",
+   "FOLKRÄKNING 1900 Arvika köping N:o 116 sida 40: Persdotter, Anna f. 1872 i Boda, h. (fam.ställning hustru); 1930 Frykerud sida 43 rad 41: Anna Persdotter f. 1872 Boda, ”f. Persdotter”, vigselår 1897, inflyttad 1910 från Arvika."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Boda Högboda sida 23: Anna f. 1872",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430442&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Frykerud, Norra Näs, sida 38: Persdotter, Anna f. 1872 Boda, hustru",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043935&tab=post"
    }
   ],
   "born": {
@@ -27503,12 +27513,17 @@
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
   "notes": [
    "FOLKRÄKNING 1880 Ö. Takene sida 29: Maria f. 1868 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
-   "FOLKRÄKNING 1910 Takene s.25: ”Andersson, Maria” f. 1868 i hushållet hos Stina Elofsdotter (efternamn Andersson = ev. gift namn eller patronymikon efter Anders)."
+   "FOLKRÄKNING 1910 Takene s.25: ”Andersson, Maria” f. 1868 i hushållet hos Stina Elofsdotter (efternamn Andersson = ev. gift namn eller patronymikon efter Anders).",
+   "FOLKRÄKNING 1930 Takene sida 22 rad 4: Andersson, Maria f. 1868 i Brunskog, Hemmansägarinna, ogift, ensamstående (sannolikt Stinas dotter, fortfarande ogift på Takene)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Maria f. 1868 i hushållet Anders Olsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Takene, sida 22 rad 4: Andersson, Maria f. 1868 Brunskog, Hemmansägarinna, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883778&tab=post"
    }
   ],
   "born": {
@@ -29226,6 +29241,430 @@
   ],
   "search": [
    "Ivar Georg Nilsson/Johansson (f. 1901)"
+  ]
+ },
+ {
+  "id": "jb73_berggren",
+  "name": "Johannes Berggren (f. 1873, Brunskog), byggmästare Årnäs",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1873",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Fabriksförman/byggmästare/byggnadssnickare i Årnäs, Brunskog; troligen son till Anders Olsson och Stina Elofsdotter (syskon till Anna Lisa Berggren, f. 1876), gift 1:o Betty Persson, 2:o 1928 Elin Engström.",
+  "notes": [
+   "FOLKRÄKNING 1900 Brunskog, Årnäs, sida 44 rad 33: Berggren, Johannes f. 1873 i Brunskog, Fabriksförman, gift (Famstkod Far/man); Persson, Betty f. 1870 Brunskog; Jon Maurits 1898; Hildur Ingegärd 1900.",
+   "FOLKRÄKNING 1910 Brunskog, Årnäs, sida 40 rad 19: Berggren, Johannes f. 1873 Brunskog, Byggmästare; hustru Betty; barn Hildur Ingegärd 1900, Johan Maritz 1898, Nanny Maria 1902, Ellen Elisabet 1904, Olof Gustaf 1907.",
+   "FOLKRÄKNING 1930 Brunskog, Årnäs, sida 34 rad 5: Berggren, Johannes f. 1873 Brunskog, Byggnadssnickare, biyrke jordbrukare, gift 1928 (Vigselår 1928); Engström, Elin f. 1886 Stavnäs; Elof Gustav f. 1907, Snickare.",
+   "KOPPLING: Anslutning till Stina Elofsdotters barn är sannolik (född Brunskog 1873; systern Anna Lisa f. 1876 bar efternamnet Berggren i Stinas hushåll 1900/1910; dottern Hildur Ingegärd uppkallad Ingegärd) men ingen uttrycklig familjeställning mot föräldrarna är läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog, Årnäs, sida 44: Berggren, Johannes f. 1873 Brunskog, Fabriksförman",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938805&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs, sida 40: Berggren, Johannes, Byggmästare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550483&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs, sida 34: Berggren, Johannes, Byggnadssnickare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884367&tab=post"
+   }
+  ],
+  "search": [
+   "Johannes Berggren (f. 1873, Brunskog), byggmästare Årnäs"
+  ]
+ },
+ {
+  "id": "betty_persson70_berggren",
+  "name": "Betty Persson, g. Berggren (f. 1870, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1870",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Hustru till Johannes Berggren, Årnäs.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910 Brunskog, Årnäs: Persson, Betty f. 1870 i Brunskog, hustru i Johannes Berggrens hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog, Årnäs, sida 44",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938805&tab=post"
+   }
+  ],
+  "search": [
+   "Betty Persson, g. Berggren (f. 1870, Brunskog)"
+  ]
+ },
+ {
+  "id": "elin_engstrom86_berggren",
+  "name": "Elin Engström, g. Berggren (f. 1886, Stavnäs)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1886",
+   "place": "Stavnäs"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Andra hustru till Johannes Berggren (gift 1928).",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Årnäs, sida 34 rad 5: Engström, Elin f. 1886 i Stavnäs; Johannes Berggren, vigselår 1928."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs, sida 34",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884367&tab=post"
+   }
+  ],
+  "search": [
+   "Elin Engström, g. Berggren (f. 1886, Stavnäs)"
+  ]
+ },
+ {
+  "id": "jonmaurits_jb98",
+  "name": "Jon Maurits Berggren (f. 1898, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Son till Johannes Berggren och Betty Persson.",
+  "notes": [
+   "FOLKRÄKNING 1900 Årnäs: Jon Maurits f. 1898; 1910: Johan Maritz f. 1898 (barn i hushållet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog, Årnäs, sida 44",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938805&tab=post"
+   }
+  ],
+  "search": [
+   "Jon Maurits Berggren (f. 1898, Brunskog)"
+  ]
+ },
+ {
+  "id": "hildur_jb00",
+  "name": "Hildur Ingegärd Berggren (f. 1900, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Dotter till Johannes Berggren och Betty Persson.",
+  "notes": [
+   "FOLKRÄKNING 1900 och 1910 Årnäs: Hildur Ingegärd f. 1900."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs, sida 40",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550483&tab=post"
+   }
+  ],
+  "search": [
+   "Hildur Ingegärd Berggren (f. 1900, Brunskog)"
+  ]
+ },
+ {
+  "id": "nanny_jb02",
+  "name": "Nanny Maria Berggren (f. 1902, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Dotter till Johannes Berggren och Betty Persson.",
+  "notes": [
+   "FOLKRÄKNING 1910 Årnäs: Nanny Maria f. 1902."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs, sida 40",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550483&tab=post"
+   }
+  ],
+  "search": [
+   "Nanny Maria Berggren (f. 1902, Brunskog)"
+  ]
+ },
+ {
+  "id": "ellen_jb04",
+  "name": "Ellen Elisabet Berggren (f. 1904, Brunskog)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Dotter till Johannes Berggren och Betty Persson.",
+  "notes": [
+   "FOLKRÄKNING 1910 Årnäs: Ellen Elisabet f. 1904."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Årnäs, sida 40",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550483&tab=post"
+   }
+  ],
+  "search": [
+   "Ellen Elisabet Berggren (f. 1904, Brunskog)"
+  ]
+ },
+ {
+  "id": "olofgustaf_jb07",
+  "name": "Olof (Elof) Gustaf Berggren (f. 1907, Brunskog), snickare",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Son till Johannes Berggren och Betty Persson; snickare i faderns hushåll 1930.",
+  "notes": [
+   "FOLKRÄKNING 1910 Årnäs: Olof Gustaf f. 1907; 1930 Årnäs: Elof Gustav f. 1907 Brunskog, Snickare."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs, sida 34",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884367&tab=post"
+   }
+  ],
+  "search": [
+   "Olof (Elof) Gustaf Berggren (f. 1907, Brunskog), snickare"
+  ]
+ },
+ {
+  "id": "karljohansson71_pa",
+  "name": "Karl Johansson (f. 1871, Stavnäs), hemmansägare Norra Näs",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1871",
+   "place": "Stavnäs"
+  },
+  "places": [
+   "Arvika köping",
+   "Norra Näs, Frykerud"
+  ],
+  "summary": "Gift 1897 med Anna Persdotter (f. 1872 Boda); mek. arbetare i Arvika 1900, hemmansägare i Norra Näs, Frykerud från 1910.",
+  "notes": [
+   "FOLKRÄKNING 1900 Arvika köping, N:o 116, sida 40 rad 22: Johansson, Karl f. 1871 i Stavnäs, Mek. arb.; Persdotter, Anna (h.)",
+   "FOLKRÄKNING 1910 Frykerud, Norra Näs, sida 38 rad 42: Johansson, Karl, Hemmansägare; 1930 sida 43 rad 41, vigselår 1897."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Frykerud, Norra Näs, sida 38: Johansson, Karl f. 1871 Stavnäs, Hemmansägare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043935&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Frykerud, Norra Näs Kullen, sida 43: Johansson, Karl; vigselår 1897",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128608213&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Johansson (f. 1871, Stavnäs), hemmansägare Norra Näs"
+  ]
+ },
+ {
+  "id": "johanevald_kj98",
+  "name": "Johan Evald Karlsson/Johansson (f. 1898, Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Boda"
+  },
+  "places": [
+   "Arvika köping",
+   "Frykerud"
+  ],
+  "summary": "Son till Karl Johansson och Anna Persdotter.",
+  "notes": [
+   "FOLKRÄKNING 1900 Arvika köping: Karlsson, Johan Evald f. 1898 Boda; 1910 Frykerud: Johan Evald f. 1898 Boda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Arvika köping, sida 40: Karlsson, Johan Evald f. 1898 Boda",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113723615&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Evald Karlsson/Johansson (f. 1898, Boda)"
+  ]
+ },
+ {
+  "id": "oskarhenry_kj99",
+  "name": "Oscar Henry Johansson (f. 1899, Arvika köping)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1899",
+   "place": "Arvika köping"
+  },
+  "places": [
+   "Arvika köping",
+   "Frykerud"
+  ],
+  "summary": "Son till Karl Johansson och Anna Persdotter.",
+  "notes": [
+   "FOLKRÄKNING 1900 Arvika köping sida 40: Oscar Henry f. 1899; 1910 Frykerud: Oskar Henry f. 1899."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Frykerud, Norra Näs, sida 38: Oskar Henry f. 1899 Arvika köping",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043935&tab=post"
+   }
+  ],
+  "search": [
+   "Oscar Henry Johansson (f. 1899, Arvika köping)"
+  ]
+ },
+ {
+  "id": "andersgustav_kj02",
+  "name": "Anders Gustav Johansson (f. 1902, Arvika köping)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "Arvika köping"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Son till Karl Johansson och Anna Persdotter.",
+  "notes": [
+   "FOLKRÄKNING 1910 Frykerud, Norra Näs sida 38: Anders Gustav f. 1902 Arvika köping."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Frykerud, Norra Näs, sida 38",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043935&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Gustav Johansson (f. 1902, Arvika köping)"
+  ]
+ },
+ {
+  "id": "karinelisabet_kj04",
+  "name": "Karin Elisabet Johansson (f. 1904, Arvika)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Arvika köping"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Dotter till Karl Johansson och Anna Persdotter; hemmadotter 1930.",
+  "notes": [
+   "FOLKRÄKNING 1910 Frykerud sida 38; 1930 Norra Näs Kullen sida 43: Karin Elisabet f. 1904 Arvika, Hemmadotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Frykerud, Norra Näs Kullen, sida 43",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128608213&tab=post"
+   }
+  ],
+  "search": [
+   "Karin Elisabet Johansson (f. 1904, Arvika)"
+  ]
+ },
+ {
+  "id": "klarahelena_kj07",
+  "name": "Klara Helena Johansson (f. 1907, Arvika landsförsamling)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Dotter till Karl Johansson och Anna Persdotter.",
+  "notes": [
+   "FOLKRÄKNING 1910 Frykerud, Norra Näs sida 38: Klara Helena f. 1907 Arvika landsförsamling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Frykerud, Norra Näs, sida 38",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043935&tab=post"
+   }
+  ],
+  "search": [
+   "Klara Helena Johansson (f. 1907, Arvika landsförsamling)"
+  ]
+ },
+ {
+  "id": "gretamaria_kj10",
+  "name": "Greta Maria Johansson (f. 1910, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Dotter till Karl Johansson och Anna Persdotter; hembiträde 1930.",
+  "notes": [
+   "FOLKRÄKNING 1910 Frykerud sida 38: Greta Maria f. 1910 Frykerud; 1930 Hembiträde."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Frykerud, Norra Näs Kullen, sida 43",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128608213&tab=post"
+   }
+  ],
+  "search": [
+   "Greta Maria Johansson (f. 1910, Frykerud)"
   ]
  }
 ]
