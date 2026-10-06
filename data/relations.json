@@ -11204,5 +11204,81 @@
   "b": "aq5_kari_mansd53_skog",
   "status": "candidate",
   "basis": "Husförhör A I/10 bild 82 (s. 70): ”H. Kari Månsdr” 53 Skog står som hustru under ”Anders Arneson” 22/9 54 Ragnilsrud, Ö. Takene, med sönerna Anders 1792, Nils 1793, Olof 1795."
+ },
+ {
+  "id": "c-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol-no_olaf_josephsen44",
+  "type": "child",
+  "parents": [
+   "ar2_josef_berg_lerhol",
+   "ar2_cajsa_olsd_lerhol"
+  ],
+  "child": "no_olaf_josephsen44",
+  "status": "strong",
+  "basis": "Dop Brunskog 6/7 dec 1844: \"Olaf. Lerhal. Joseph Berg H. Cajsa Ols[d]r\" (C0036784_00246). Namn Olaf + Josephsen Berg + Brunskog 1844 stämmer; ej uttrycklig koppling till Norge."
+ },
+ {
+  "id": "p-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol",
+  "type": "partner",
+  "a": "ar2_josef_berg_lerhol",
+  "b": "ar2_cajsa_olsd_lerhol",
+  "status": "strong",
+  "basis": "Dop 1844 C0036784_00246: föräldrar Joseph Berg och hustru Cajsa Olsdotter, Lerhol."
+ },
+ {
+  "id": "c-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof-no_kaisa_ellefsd42",
+  "type": "child",
+  "parents": [
+   "ar2_elof_larsson_brunskog",
+   "ar2_brita_nilsd_elof"
+  ],
+  "child": "no_kaisa_ellefsd42",
+  "status": "strong",
+  "basis": "Dop Brunskog 6/7 nov 1842 nr 112: \"Elof Larsson Hu Brita Nilsd\", barn Kajsa (C0036784_00237). Faderns namn Elof Larsson = 'Ellef Larsen' i Kristiania-vigseln 1865; födelseår 1842 stämmer. Annan Kajsa 1842 med annan far finns (nr 89 Skammnäs, nr 94 Gullsby) men fadersnamnet avgör."
+ },
+ {
+  "id": "p-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof",
+  "type": "partner",
+  "a": "ar2_elof_larsson_brunskog",
+  "b": "ar2_brita_nilsd_elof",
+  "status": "strong",
+  "basis": "Dop 1842 C0036784_00237 nr 112."
+ },
+ {
+  "id": "c-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof-no_anna_ellefsen53",
+  "type": "child",
+  "parents": [
+   "ar2_elof_larsson_brunskog",
+   "ar2_brita_nilsd_elof"
+  ],
+  "child": "no_anna_ellefsen53",
+  "status": "strong",
+  "basis": "Dop Brunskog 4/5 nov 1853: \"Anna. Olaf Larsson o h. Britta [Nilsd.] i v. Fäshed\" (C0036785_00046). Fadersnamn Olof/Ellef Larsson, bostad Fäshed/Förked samma som Kajsa 1842; födelseår 1853 stämmer. Moderns patronymikon omskrivet i boken."
+ },
+ {
+  "id": "s-no_kaisa_ellefsd42-no_anna_ellefsen53",
+  "type": "sibling",
+  "a": "no_kaisa_ellefsd42",
+  "b": "no_anna_ellefsen53",
+  "status": "strong",
+  "basis": "Båda döpta med fadern Elof/Olof Larsson och modern Brita/Britta Nilsd (Fäshed): Kajsa 6/7 nov 1842 (C0036784_00237), Anna 4/5 nov 1853 (C0036785_00046). Bodde 1875 i samma hus, Maridalsveien 56 Kristiania."
+ },
+ {
+  "id": "c-ar2_johannes_olsson_nas-ar2_anna_bryntesd_nas-no_anna_johannesd58",
+  "type": "child",
+  "parents": [
+   "ar2_johannes_olsson_nas",
+   "ar2_anna_bryntesd_nas"
+  ],
+  "child": "no_anna_johannesd58",
+  "status": "candidate",
+  "basis": "Dop Brunskog 18 aug 1858: \"Anna. Näs (228) Gde Johannes Olsson och H. Anna Bryntesd\" (C0036785_00082). Enda Anna 1858 med fadern Johannes som sågs (scannat b.77–84 men ej alla rader läst på detalj); namn+år+patronymikon stämmer men länk till Eidsvoll-tjänstepigan ej bevisad."
+ },
+ {
+  "id": "p-ar2_johannes_olsson_nas-ar2_anna_bryntesd_nas",
+  "type": "partner",
+  "a": "ar2_johannes_olsson_nas",
+  "b": "ar2_anna_bryntesd_nas",
+  "status": "candidate",
+  "basis": "Dop 1858 C0036785_00082."
  }
 ]

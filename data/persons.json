@@ -36572,5 +36572,153 @@
   "search": [
    "Kari Månsdotter (f. 1753, Skog; hustru till Anders Arnesson 1805–09)"
   ]
+ },
+ {
+  "id": "ar2_josef_berg_lerhol",
+  "name": "Joseph Berg",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Fader till Olaf Josephsen Berg, dopfört i Brunskog dec 1844 (Lerhol).",
+  "notes": [
+   "DOP 1844-12-06/07: \"Olaf. Lerhal. Joseph Berg H. Cajsa Ols[d]r\" (gudfäder Anders Andersson ... H. Kari Olsd ibm)",
+   "DOP 1853-11-04/05: \"Anna. Olaf Larsson o h. Britta [Nilsd., överskrivet 'Maria Andersd'] i v. Fäshed\" (C0036785_00046) – samma föräldrar som Kajsa 1842"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 246: dop 6/7 dec 1844 Olaf, Lerhol, Joseph Berg & hu Cajsa Olsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00246"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (1850–), bild 46: dop 4/5 nov 1853 Anna, Olof Larsson & Britta, v. Fäshed",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00046"
+   }
+  ],
+  "search": [
+   "Joseph Berg"
+  ]
+ },
+ {
+  "id": "ar2_cajsa_olsd_lerhol",
+  "name": "Cajsa Olsdotter",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lerhol, Brunskog"
+  ],
+  "summary": "Moder till Olaf Josephsen Berg (dop dec 1844).",
+  "notes": [
+   "DOP 1844-12-06/07: hustru \"H. Cajsa Ols[dr]\", Lerhol",
+   "DOP 1853-11-04/05: Britta (efternamn/patronymikon överskrivet, 'Nilsd.' tolkas; tidigare 'Maria Andersd' struket)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 246: dop 6/7 dec 1844 Olaf, Lerhol",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00246"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (1850–), bild 46: dop 4/5 nov 1853 Anna",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00046"
+   }
+  ],
+  "search": [
+   "Cajsa Olsdotter"
+  ]
+ },
+ {
+  "id": "ar2_elof_larsson_brunskog",
+  "name": "Elof Larsson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Fader till Kajsa, dopfört i Brunskog 6/7 nov 1842 (inhyses/Förked?). Troligen Ellef Larsen i Kristiania-vigseln 1865 för dotterns brudgumsregistrering.",
+  "notes": [
+   "DOP 1842-11-06/07 nr 112: \"Forked. Inb. Elof Larsson Hu Brita Nilsd. Test. Nils Månsson H. Marit Persd. Stenstad\"; barnet \"Kajsa\" (ålder 27 i högra kolumnen = faderns/modrens ålder?)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 237: dop 6/7 nov 1842 nr 112 Kajsa, Elof Larsson & Brita Nilsd",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00237"
+   }
+  ],
+  "search": [
+   "Elof Larsson"
+  ]
+ },
+ {
+  "id": "ar2_brita_nilsd_elof",
+  "name": "Brita Nilsdotter",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Moder till Kajsa Elofsdotter (dop nov 1842); maka till Elof Larsson.",
+  "notes": [
+   "DOP 1842-11-06/07: \"Hu Brita Nilsd.\" gift med Elof Larsson"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 237: dop 6/7 nov 1842 nr 112",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00237"
+   }
+  ],
+  "search": [
+   "Brita Nilsdotter"
+  ]
+ },
+ {
+  "id": "ar2_johannes_olsson_nas",
+  "name": "Johannes Olsson",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Näs (nr 228), Brunskog"
+  ],
+  "summary": "Gårdsägare (Gde) i Näs, Brunskog; fader till Anna, döpt 18 aug 1858.",
+  "notes": [
+   "DOP 1858-08-18: \"Anna. Näs (228) Gde Johannes Olsson och H. Anna Bryntesd[?]\"; fadder B. Anders Nilsson och H. Anna Olsd ibm. Prästens signatur Wigelius."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (1850–), bild 82: dop 18 aug 1858 Anna, Näs (228), Johannes Olsson & Anna",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00082"
+   }
+  ],
+  "search": [
+   "Johannes Olsson"
+  ]
+ },
+ {
+  "id": "ar2_anna_bryntesd_nas",
+  "name": "Anna Bryntesdotter",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Näs (nr 228), Brunskog"
+  ],
+  "summary": "Moder till Anna, döpt 18 aug 1858 i Brunskog (Näs); patronymikon osäkert läst (Bryntesd?).",
+  "notes": [
+   "DOP 1858-08-18: hustru \"H. Anna Bryntesd[?]\" (handstil, osäker läsning)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5 (1850–), bild 82: dop 18 aug 1858 Anna, Näs 228",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00082"
+   }
+  ],
+  "search": [
+   "Anna Bryntesdotter"
+  ]
  }
 ]
