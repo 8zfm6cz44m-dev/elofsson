@@ -7938,7 +7938,9 @@
    "DOPBOK 1754 (C I/2 bild 91, nr 32): ”Arne Anderssons och Hust. Marit Jönsdotter i Ragnilsrud, Son Anders.”",
    "Hans hushåll har inte hittats i husförhörslängderna A I/1 (1760–63) sidorna 212–214 eller A I/2 (1764–68) sidorna 221–222 (Ragnilsrud) – kan ha avlidit eller flyttat före 1760.",
    "MYHERITAGE (användarträd, lead): Arun Andersson (1724), f. 1724-01-26 – antas vara samma person; oberoende uppgift men ingen primärkälla.",
-   "MYHERITAGE-MATCH: MH-trädet har honom som ”Arun Andersson”, f. 1724 (ort/dag ej angivna), gift med Marit Andersson f. Jonsdotter 1727–1762; son till Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760; far till Anders Arnesson 1754–1828. NB: Arne Andersson 1645–1722 (arne_andersson45) är hans farfar, inte han själv."
+   "MYHERITAGE-MATCH: MH-trädet har honom som ”Arun Andersson”, f. 1724 (ort/dag ej angivna), gift med Marit Andersson f. Jonsdotter 1727–1762; son till Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760; far till Anders Arnesson 1754–1828. NB: Arne Andersson 1645–1722 (arne_andersson45) är hans farfar, inte han själv.",
+   "DOP (C I/1 bild 148, nr 5): ”26 Jan: Christnades Anders Arnesson och h. Dordi Pehrsdotter i Ragnerud barn ... vid namn Arne. Fadd. Anders Arnesson [?] och Claves Pehrss. i Crona, h. Britta Pehrsdotter i Ragnerud.” Datum 26 jan 1724 = MyHeritage-trädets 1724-01-26. Marginalen vid posten: ”begraf. 1772 6/9” (senare hand; läsning osäker) – antyder död/begravning 1772. Föräldrar Anders Arnesson + Dordi Pehrsdotter stämmer med MH-trädet (Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760). Identiteten med vår Arne (far till Anders f. 1754) bygger på namn+ort Ragnilsrud+datum från MH, inte på uttrycklig länk -> strong.",
+   "VIGSEL 1746 (E I/1 bild 64, nr 2): ”14 Martii [vigde] Arne Andersson från Crona, Enkl. Pig. Ingierd Nilsd. fr. Ranglarud [Ragnilsrud]”. Kan vara samma Arne (föräldrars fadderbygd Krona) i ett första äktenskap, eller en annan Arne Andersson – ej avgjort. Hans giftermål med Marit Jönsdotter har ej hittats i Brunskogs E I/1 1744–1754 (bild 63–72)."
   ],
   "sources": [
    {
@@ -7956,11 +7958,20 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 148 (s. 273), 1724 nr 5: ”26 Jan: Christnades Anders Arnesson och h. Dordi Pehrsdotter i Ragnerud barn vid namn Arne. Fadd. Anders Arnesson [i Krona?] och Claves Pehrss. i Crona, h. Britta Pehrsdotter i Ragnerud”; marginal ”begraf. 1772 ⁶⁄₉”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00148"
    }
   ],
   "search": [
    "Arne Andersson"
-  ]
+  ],
+  "born": {
+   "date": "1724-01-26",
+   "place": "Ragnilsrud, Brunskog",
+   "note": "Dopbok C I/1 bild 148 (s. 273), 1724: ”d 26 Jan: Christnades [Anders Arnesson och h. Dordi Pehrsdotter i Ragnerud] barn ... vid namn Arne”"
+  }
  },
  {
   "id": "marit_jonsd_ragnilsrud",
@@ -8121,7 +8132,8 @@
    "DOPBOK 1760 (C I/2 bild 111, nr 38): Kjerstin, Ö. Takene, föräldrar Olof Andersson och Kjersti Jonsd.",
    "HUSFÖRHÖR A I/6 bild 74: ”Olof Andersson” Ö. Takene 1733, hustru ”Kjersti Jons[dotter]” Renstad 1728.",
    "HUSFÖRHÖR A I/5 bild 74: hushåll med barnen Kjersti 1760, Olof 13/2 1763 (genomstruken), Nils 16/2 1772 och Jonas 28/8 1757 (genomstruken). Alla barn med dop funna.",
-   "DÖDBOK F I/1 1801 bild 79 (s. 131), nr 35, marginal ”Dec 13 | 35”: ”Wäl. och f.d. Nämndeman Olof Andersson från Östra Takene, född 1733 ²⁸⁄₃ af Wäl. Anders Nilsson och h. Marit Olsd. Gift 1754 … med hustru Kjersti Jonsd. från Renstad. Afled af ålderdom 26 Nov. …” (tjänstetitel ”Nämndeman” – läst). Hans ”Dog 1801 13/12” i trädet är alltså BEGRAVNINGSDAGEN; dödsdag 26/11 1801 bekräftas av hustruns dödspost (b.80: ”Olof Andersson fr. Takene, som afled d. 26 november 1801”)."
+   "DÖDBOK F I/1 1801 bild 79 (s. 131), nr 35, marginal ”Dec 13 | 35”: ”Wäl. och f.d. Nämndeman Olof Andersson från Östra Takene, född 1733 ²⁸⁄₃ af Wäl. Anders Nilsson och h. Marit Olsd. Gift 1754 … med hustru Kjersti Jonsd. från Renstad. Afled af ålderdom 26 Nov. …” (tjänstetitel ”Nämndeman” – läst). Hans ”Dog 1801 13/12” i trädet är alltså BEGRAVNINGSDAGEN; dödsdag 26/11 1801 bekräftas av hustruns dödspost (b.80: ”Olof Andersson fr. Takene, som afled d. 26 november 1801”).",
+   "VIGSEL (E I/1 bild 72, 1754 nr 1): ”15 Aprilis Dr. Olof Andersson från ... Pig. Kjerstin Jönsdotter från Renstad.” Bruden = Kjersti Jonsdotter från Renstad (jfr dödboken ”gift 1754” och husförhöret ”Renstad 1728”). Gårdsnamnet efter ”från” vid brudgummen står vid bildens högerkant (Ö. Takene enligt sammanhanget, ej säkert läst)."
   ],
   "sources": [
    {
@@ -8155,6 +8167,10 @@
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/1 (1783-1809), bild 80: 1802 s. 133 nr 1: änkan ”Kjersti Jonsd. … Gift 1754 … med Wäl. Olof Andersson fr. Takene, som afled d. 26 november 1801”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00080"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1691–1763), bild 72 (s. 125), 1754 nr 1: ”d. 15 Aprilis Dr. Olof Andersson från Ö[st]. [Takene?] Pig. Kjerstin Jönsdotter från Renstad”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00072"
    }
   ],
   "search": [
