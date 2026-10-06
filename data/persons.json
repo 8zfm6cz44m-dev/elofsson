@@ -5775,7 +5775,8 @@
    "place": "Brunskog"
   },
   "places": [
-   "Ö. Takene, Brunskog"
+   "Ö. Takene, Brunskog",
+   "Svartåna, Brunskog"
   ],
   "summary": "Barn till Erik Christophersson och Britta Olsdotter (husförhörslängd 1831–1835) – Nils Erikssons syskon.",
   "sources": [
@@ -5786,14 +5787,31 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/23 (1846–1850), bild 144 (s. 142), Ö. Takene: Olof Ersson 2/5 15, hustru Maria Olofsdr 16/9 23, dotter Betty 22/6 50",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00144"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog moder, Ö. Takene, s. 26 rad 48: Olof Eriksson 1815 Brunskog, hemmansägare, gift, fam. 1, hustru Stina Erlandsdotter f. 1825 Arvika",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423122"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Svartåna, s. 26: Olof Eriksson 1815, änkling, familjeställning ”svärfad.” hos Per Gustaf Nilsson + Betty Olsdotter 1850",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Svartåna, s. 27 rad 43: Olof Eriksson 1815 änkling, ”svärf.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937970"
    }
   ],
   "search": [
    "Olof Eriksson"
   ],
   "notes": [
-   "HUSFÖRHÖR A I/23 (1846–50) bild 144 (s. 142), Ö. Takene: ”Dr Olof Ersson 2/5 15 Brunskog”, hushållet: Hustru Maria Olofsdotter (16/9 23, inflyttad från s. 129 år 1847), Dotter Betty 22/6 50. Anm.: ”Utgjit lysning till äktenskap med Pig. Maria Olsdr i Takene.” Alltså gift ca 1847–48 och bosatt på Ö. Takene (hushållet sida vid sida med modern Britta Olsdotter och syskonen)."
-  ]
+   "HUSFÖRHÖR A I/23 (1846–50) bild 144 (s. 142), Ö. Takene: ”Dr Olof Ersson 2/5 15 Brunskog”, hushållet: Hustru Maria Olofsdotter (16/9 23, inflyttad från s. 129 år 1847), Dotter Betty 22/6 50. Anm.: ”Utgjit lysning till äktenskap med Pig. Maria Olsdr i Takene.” Alltså gift ca 1847–48 och bosatt på Ö. Takene (hushållet sida vid sida med modern Britta Olsdotter och syskonen).",
+   "FOLKRÄKNING 1880: gift med Stina Erlandsdotter f. 1825 Arvika (andra hustru? första Maria Olofsdotter f. 1823 troligen död); 1890 och 1900 änkling i Svartåna som svärfar hos Per Gustaf Nilsson."
+  ],
+  "died": {
+   "date": "",
+   "note": "änkling 1880/1890/1900; inte död före 1900"
+  }
  },
  {
   "id": "cajsa_ec",
@@ -5842,13 +5860,22 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/23 (1846–1850), bild 125 (Skog): Dr Jonas Ersson 18/8 22 ibm",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00125"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Nolsjö, s. 26 rad 1: Jonas Ersson 1822 hemmansegare, Britta Jonasdotter 1831; fam 2 Nils Andersson 1867 + Anna Jonasdotter 1871 m. barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943710"
    }
   ],
   "search": [
    "Jonas Eriksson"
   ],
   "notes": [
-   "HUSFÖRHÖR A I/23 bild 144 (s. 142): ”Son Jonas Ersson 18/8 22” överstruken med utflyttning ”113 – 47” (flyttade 1847 till s. 113 = Skog). Bild 125 (Skog, A I/23): ”Dr Jonas Ersson 18/8 22 ibm, inflyttad 132–47, utflyttad 132–47” – raden är dräng i annat hushåll; senare öde (flytt 1849?) ej utrett."
+   "HUSFÖRHÖR A I/23 bild 144 (s. 142): ”Son Jonas Ersson 18/8 22” överstruken med utflyttning ”113 – 47” (flyttade 1847 till s. 113 = Skog). Bild 125 (Skog, A I/23): ”Dr Jonas Ersson 18/8 22 ibm, inflyttad 132–47, utflyttad 132–47” – raden är dräng i annat hushåll; senare öde (flytt 1849?) ej utrett.",
+   "FOLKRÄKNING 1880/1900 (CANDIDATE, namn+år+född Brunskog): Jonas Ersson f. 1822 Brunskog, hemmansägare i Nordsjö/Nolsjö, Boda; hustru Britta Jonasdotter f. 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862 (namn efter Christopher?), Nils 1865, Britta 1867, Anna 1871 (alla f. Boda). Ej belagt att han är Jonas Eriksson f. 18/8 1822 Ö. Takene; patronymikon Ersson = Eriksson stämmer."
   ]
  },
  {
@@ -5868,13 +5895,26 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Lerhol, s. 77 rad 12: Ingegärd Eriksdotter 1825 Brunskog, ogift, ensamstående (fam 2 hos Per Persson 1811)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425607"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Västra Furtan, s. 55 rad 47: Ingegärd Eriksdotter 1825 piga, fam 2 i hushållet Anders Andersson 1831 / Karin Eriksdotter 1830",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103599756"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Västra Furtan, s. 53 rad 48: Ingegärd Eriksdotter 1825 ogift, familjeställning ”sväg.” hos Anders Andersson 1831",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109939267"
    }
   ],
   "search": [
    "Ingård Eriksdotter"
   ],
   "notes": [
-   "HUSFÖRHÖR A I/23 bild 144: ”Dotter Ingjerd Ersd 2/2 25 ibm” hemmavarande hos modern 1846–50."
+   "HUSFÖRHÖR A I/23 bild 144: ”Dotter Ingjerd Ersd 2/2 25 ibm” hemmavarande hos modern 1846–50.",
+   "FOLKRÄKNING (strong): Ingegärd Eriksdotter f. 1825 Brunskog, ogift; 1880 Lerhol, 1890 piga och 1900 ”sväg.” (svägerska) i Anders Anderssons hushåll i Västra Furtan, där hustrun Karin Eriksdotter f. 1830 (=syster Karin, strong) bodde 1880–1890. Stödjer att Karin och Ingegärd är systrar."
   ]
  },
  {
@@ -5894,10 +5934,21 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117: Ö. Takene: bonde Erik Christophersson 25/5 1779 Fryksände, hustru Britta Olsdotter 15/11 1790, barnen Sven, Maria, Olof, Cajsa, Nils (1820), Jonas, Ingård, Anna, Karin",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, V. Ämtervik, Säljebacka, s. 46 rad 45: Anna Eriksdotter 1827 Brunskog, gift (”h.”) med Erik Eriksson 1828 Brunskog, bonde; son Erik 1854",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120448736"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, V. Ämtervik, Säljebacka, s. 40 rad 7: samma hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103620504"
    }
   ],
   "search": [
    "Anna Eriksdotter"
+  ],
+  "notes": [
+   "FOLKRÄKNING 1880/1890 (CANDIDATE, endast namn+år+födelseförsamling): Anna Eriksdotter f. 1827 Brunskog, gift med Erik Eriksson f. 1828 Brunskog, Säljebacka, Västra Ämtervik (Fryksdals kontrakt); son Erik f. 1854. Ej belagt att hon är dotter till Erik Christophersson."
   ]
  },
  {
@@ -9408,7 +9459,8 @@
   "summary": "Yngsta dottern i Erik Christopherssons och Britta Olsdotters hushåll på Ö. Takene (husförhör 1831–35); syster till Nils Eriksson.",
   "notes": [
    "HUSFÖRHÖRSLÄNGD A I/17 bild 117, Ö. Takene: ”Dtr Karin 10/2 30 här.” (sista barnet i raden före Christopher 1835).",
-   "HUSFÖRHÖR A I/23 (1846–50) bild 144 (s. 142): Karin Ersd 10/2 30 överstruken, utflyttad ”25 – 47” (till s. 25, Finneböle, 1847). På s. 25 (bild 36, ”Finneböle”): ”Pig. Karin(?) Ersdr 10/2(4/2?) 30 Brunskog, inflyttad 132 – 47, utflyttad ’p. 195 – 50’” (flyttade 1850 till s. 195). Pigan Karin Ersdotter f. 1830 – stark identifiering, men sidhänvisningen 132/142 går inte ihop exakt."
+   "HUSFÖRHÖR A I/23 (1846–50) bild 144 (s. 142): Karin Ersd 10/2 30 överstruken, utflyttad ”25 – 47” (till s. 25, Finneböle, 1847). På s. 25 (bild 36, ”Finneböle”): ”Pig. Karin(?) Ersdr 10/2(4/2?) 30 Brunskog, inflyttad 132 – 47, utflyttad ’p. 195 – 50’” (flyttade 1850 till s. 195). Pigan Karin Ersdotter f. 1830 – stark identifiering, men sidhänvisningen 132/142 går inte ihop exakt.",
+   "FOLKRÄKNING 1880/1890 (strong, ej uttrycklig härkomst): Karin Eriksdotter f. 1830 Brunskog, ”h.” (hustru) till hemmansägaren Anders Andersson f. 1831 Brunskog, Västra Furtan; barn Anders 1854, Maria 1856, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875."
   ],
   "sources": [
    {
@@ -9418,6 +9470,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/23 (1846–1850), bild 36 (s. 25, Finneböle): Pig. Karin(?) Ersdr 1830 Brunskog, inflyttad 1847, utflyttad s. 195 år 1850",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00036"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Västra Furtan, s. 55 rad 47: Anders Andersson 1831 hemmansegare, Karin Eriksdotter 1830 (”h”), Maria 1856, Carolina 1875; fam 2: Ingegärd Eriksdotter 1825 piga",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103599753"
    }
   ],
   "search": [
@@ -9442,12 +9502,25 @@
   "notes": [
    "HUSFÖRHÖRSLÄNGD A I/17 bild 117: tillagd rad ”Son Christopher 29/? 1835”, ort ””” (samma som ovan).",
    "Möjlig tidningsträff (candidate, endast namn+ort): ”Kristoffer Eriksson, Takene” – elektor 1887 (Karlstadstidningen 1887-04-13: ”Kristoffer Eriksson i Takene 167”) och med i Brunskogs missionsförenings ledning (Ansgarii-posten 1895-09-25: ”Kristoffer Eriksson, Takene, fr. 83”); Karlstadstidningen Veckoupplagan 1890-08-27: ”Kristoffer Eriksson, Takene”. Identitet med Christopher Eriksson f. 1835 ej styrkt.",
-   "HUSFÖRHÖR A I/23 bild 144 (s. 142): ”Son Christopher Ersson 29/8 35 ibm” hemmavarande hos modern 1846–50."
+   "HUSFÖRHÖR A I/23 bild 144 (s. 142): ”Son Christopher Ersson 29/8 35 ibm” hemmavarande hos modern 1846–50.",
+   "FOLKRÄKNING 1880/1890/1900: Kristoffer Eriksson f. 1835 Brunskog, hemmansägare på (Ö.) Takene, gift med Maria Eriksdotter f. 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876. Samma gård som fadern Erik Christophersson → identitet strong (ej uttrycklig sonrelation i folkräkningen). 1880 samma gård: Erik Nilsson 1811 (fam 2), Karin Eriksdotter 1848 barnmorska (fam 3, ej syskon), Axel Eriksson 1856 dräng."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/17 (1831–1835), bild 117 (Ö. Takene, s. 99): Erik Christophersson 25/5 1779 Fryksände; barn Sven 29/1 1811 (utflyttad 10/10 1832 till Fryksände), Maria, Olof, Cajsa, Nils 5/1820, Jonas, Ingård, Anna 4/8 1827, Karin 10/2 1830, Christopher 1835",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00117"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
    }
   ],
   "search": [
@@ -25142,6 +25215,729 @@
   ],
   "search": [
    "Carl Kristoffersson (f. 1851, Boda)"
+  ]
+ },
+ {
+  "id": "per_gustaf_nilsson_1846",
+  "name": "Per Gustaf Nilsson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1846",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Hemmansägare i Svartåna; gift med Betty Olsdotter (f. 1850), svärson till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1890/1900 Svartåna: hushåll Fam 1 Per Gustaf Nilsson 1846, Betty Olsdotter 1850, Maria Kristina 1876, Anna Elisabeth 1879, Johan Fridolf 1883; Fam 2 Olof Eriksson 1815 med familjeställning ”svärfad.”/”svärf.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26: hushåll P. G. Nilsson, Olof Eriksson 1815 ”svärfad.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Svartåna, s. 27 rad 43: Olof Eriksson 1815 ”svärf.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937970"
+   }
+  ],
+  "search": [
+   "Per Gustaf Nilsson"
+  ]
+ },
+ {
+  "id": "maria_kristina_pgn_1876",
+  "name": "Maria Kristina Persdotter (f. 1876)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1876",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Dotter i Per Gustaf Nilssons och Betty Olsdotters hushåll (barnbarn till Olof Eriksson 1815).",
+  "notes": [
+   "FOLKRÄKNING 1890: Maria Kristina f. 1876 Brunskog i hushåll Svartåna (utan uttrycklig 'dotter' i sökutdraget)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   }
+  ],
+  "search": [
+   "Maria Kristina Persdotter (f. 1876)"
+  ]
+ },
+ {
+  "id": "anna_elisabeth_pgn_1879",
+  "name": "Anna Elisabeth Persdotter (f. 1879)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Dotter i Per Gustaf Nilssons och Betty Olsdotters hushåll.",
+  "notes": [
+   "FOLKRÄKNING 1890/1900: Anna Elisabeth(-et) f. 1879 Brunskog"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   }
+  ],
+  "search": [
+   "Anna Elisabeth Persdotter (f. 1879)"
+  ]
+ },
+ {
+  "id": "johan_fridolf_pgn_1883",
+  "name": "Johan Fridolf Persson (f. 1883)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1883",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Son i Per Gustaf Nilssons och Betty Olsdotters hushåll.",
+  "notes": [
+   "FOLKRÄKNING 1890/1900: Johan Fridolf f. 1883 Brunskog"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   }
+  ],
+  "search": [
+   "Johan Fridolf Persson (f. 1883)"
+  ]
+ },
+ {
+  "id": "maria_eriksdotter_1836_kc",
+  "name": "Maria Eriksdotter (f. 1836, hustru till Kristoffer Eriksson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1836",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hustru till Kristoffer Eriksson (f. 1835) på Ö. Takene.",
+  "notes": [
+   "FOLKRÄKNING 1880/1890/1900 Ö. Takene: Maria Eriksdotter f. 1836 Brunskog i Kristoffer Erikssons hushåll"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
+   }
+  ],
+  "search": [
+   "Maria Eriksdotter (f. 1836, hustru till Kristoffer Eriksson)"
+  ]
+ },
+ {
+  "id": "erik_kc_1862",
+  "name": "Erik Kristoffersson (f. 1862)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1862",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Son i Kristoffer Erikssons hushåll på Ö. Takene (1880, 1890).",
+  "notes": [
+   "FOLKRÄKNING 1880/1890: Erik f. 1862 Brunskog; ej i 1900 (flyttat/utvandrat? ej undersökt)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   }
+  ],
+  "search": [
+   "Erik Kristoffersson (f. 1862)"
+  ]
+ },
+ {
+  "id": "britta_kc_1864",
+  "name": "Britta Kristoffersdotter (f. 1864)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1864",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Dotter i Kristoffer Erikssons hushåll på Ö. Takene (1880, 1890).",
+  "notes": [
+   "FOLKRÄKNING 1880/1890: Britta/Brita f. 1864 Brunskog; ej i 1900"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   }
+  ],
+  "search": [
+   "Britta Kristoffersdotter (f. 1864)"
+  ]
+ },
+ {
+  "id": "karin_kc_1873",
+  "name": "Karin Kristoffersdotter (f. 1873)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1873",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Dotter i Kristoffer Erikssons hushåll på Ö. Takene (1880–1900).",
+  "notes": [
+   "FOLKRÄKNING 1880/1890/1900: Karin f. 1873 Brunskog"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
+   }
+  ],
+  "search": [
+   "Karin Kristoffersdotter (f. 1873)"
+  ]
+ },
+ {
+  "id": "maria_kc_1876",
+  "name": "Maria Kristoffersdotter (f. 1876)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1876",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Dotter i Kristoffer Erikssons hushåll på Ö. Takene (1880–1900).",
+  "notes": [
+   "FOLKRÄKNING 1880/1890/1900: Maria f. 1876 Brunskog"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Ö. Takene, s. 29 rad 33: Kristoffer Eriksson 1835 Brunskog hemmansägare, hustru Maria Eriksdotter 1836; barn Erik 1862, Britta 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423254"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
+   }
+  ],
+  "search": [
+   "Maria Kristoffersdotter (f. 1876)"
+  ]
+ },
+ {
+  "id": "anders_andersson_1831_furtan",
+  "name": "Anders Andersson (f. 1831, Västra Furtan)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1831",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Hemmansägare i Västra Furtan, gift med Karin Eriksdotter (f. 1830 Brunskog); svåger till Ingegärd Eriksdotter (1825).",
+  "notes": [
+   "FOLKRÄKNING 1880: hushåll Västra Furtan: Anders Andersson 1831, hustru (”h.”) Karin Eriksdotter 1830; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875; 1890 Maria 1856, Carolina 1875; 1900 Karolina 1875 + svägerska Ingegärd Eriksdotter 1825"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Västra Furtan, s. 55 rad 47: Anders Andersson 1831 hemmansegare, Karin Eriksdotter 1830 (”h”), Maria 1856, Carolina 1875; fam 2: Ingegärd Eriksdotter 1825 piga",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103599753"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Furtan Västra, s. 53 rad 48: Anders Andersson 1831 hemmansegare; Ingegärd Eriksdotter 1825 ”sväg.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109939267"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1831, Västra Furtan)"
+  ]
+ },
+ {
+  "id": "anders_ak_1854",
+  "name": "Anders Andersson (f. 1854)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1854)"
+  ]
+ },
+ {
+  "id": "maria_ak_1856",
+  "name": "Maria Andersdotter (f. 1856)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1856",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1856 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Maria Andersdotter (f. 1856)"
+  ]
+ },
+ {
+  "id": "anna_ak_1859",
+  "name": "Anna Andersdotter (f. 1859)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1859",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1859 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Anna Andersdotter (f. 1859)"
+  ]
+ },
+ {
+  "id": "erik_ak_1862",
+  "name": "Erik Andersson (f. 1862)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1862",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1862 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Erik Andersson (f. 1862)"
+  ]
+ },
+ {
+  "id": "ingegard_ak_1866",
+  "name": "Ingegärd Andersdotter (f. 1866)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1866",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1866 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Ingegärd Andersdotter (f. 1866)"
+  ]
+ },
+ {
+  "id": "nils_ak_1869",
+  "name": "Nils Andersson (f. 1869)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1869",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1869 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Nils Andersson (f. 1869)"
+  ]
+ },
+ {
+  "id": "emma_ak_1872",
+  "name": "Emma Andersdotter (f. 1872)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1872",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1872 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Emma Andersdotter (f. 1872)"
+  ]
+ },
+ {
+  "id": "karolina_ak_1875",
+  "name": "Karolina Andersdotter (f. 1875)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1875",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Västra Furtan, Brunskog"
+  ],
+  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "notes": [
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1875 Brunskog)"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   }
+  ],
+  "search": [
+   "Karolina Andersdotter (f. 1875)"
+  ]
+ },
+ {
+  "id": "britta_jonasdotter_1831_jec",
+  "name": "Britta Jonasdotter (f. 1831, Boda; hustru till Jonas Ersson)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1831",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Hustru till Jonas Ersson (f. 1822 Brunskog), Nolsjö/Nordsjö i Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880/1900 Nordsjö/Nolsjö, Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Boda, Nolsjö, s. 26 rad 1: Jonas Ersson 1822 hemmansegare, Britta Jonasdotter 1831; fam 2 Nils Andersson 1867 + Anna Jonasdotter 1871 m. barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109943710"
+   }
+  ],
+  "search": [
+   "Britta Jonasdotter (f. 1831, Boda; hustru till Jonas Ersson)"
+  ]
+ },
+ {
+  "id": "erik_johan_jec_1857",
+  "name": "Erik Johan Jonsson (f. 1857)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1857",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1857 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Erik Johan Jonsson (f. 1857)"
+  ]
+ },
+ {
+  "id": "maria_jec_1859",
+  "name": "Maria Jonsdotter (f. 1859)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1859",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1859 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Maria Jonsdotter (f. 1859)"
+  ]
+ },
+ {
+  "id": "krister_jec_1862",
+  "name": "Krister Jonsson (f. 1862)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1862",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1862 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Krister Jonsson (f. 1862)"
+  ]
+ },
+ {
+  "id": "nils_jec_1865",
+  "name": "Nils Jonsson (f. 1865)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1865",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1865 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Nils Jonsson (f. 1865)"
+  ]
+ },
+ {
+  "id": "britta_jec_1867",
+  "name": "Britta Jonsdotter (f. 1867)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1867",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1867 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Britta Jonsdotter (f. 1867)"
+  ]
+ },
+ {
+  "id": "anna_jec_1871",
+  "name": "Anna Jonsdotter (f. 1871)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1871",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Barn i hushållet Jonas Ersson (f. 1822 Brunskog) och Britta Jonasdotter i Nordsjö, Boda.",
+  "notes": [
+   "FOLKRÄKNING 1880 Nordsjö, Boda: barn f. 1871 Boda"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö, s. 32 rad 26: Jonas Ersson 1822 Brunskog hemmansägare, hustru Britta Jonasdotter 1831 Boda; barn Erik Johan 1857, Maria 1859, Krister 1862, Nils 1865, Britta 1867, Anna 1871",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430886"
+   }
+  ],
+  "search": [
+   "Anna Jonsdotter (f. 1871)"
   ]
  }
 ]

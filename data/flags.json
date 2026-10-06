@@ -2703,6 +2703,42 @@
    "persons": [
     "anders_ae48"
    ]
+  },
+  {
+   "title": "Olof Eriksson (1815): Betty 1850 som dotter",
+   "text": "Folkräkning 1890/1900 Svartåna: Olof Eriksson f. 1815 Brunskog, änkling, ”svärfad.” i hushåll med Per Gustaf Nilsson (1846) och Betty Olsdotter (1850). Betty f. 22/6 1850 är dotter i hans hushåll (A I/23 b.144), vilket gör identiteten mycket trolig (strong), men folkräkningen anger aldrig 'dotter' direkt. 1880: gift med Stina Erlandsdotter f. 1825 Arvika.",
+   "persons": [
+    "olof_ec",
+    "betty_ec_1850",
+    "per_gustaf_nilsson_1846"
+   ]
+  },
+  {
+   "title": "Erik Christophersson barn i folkräkning: vilka är bevisade",
+   "text": "Folkräkning 1880–1900 ger: Kristoffer Eriksson 1835 (Ö. Takene, strong), Karin Eriksdotter 1830 g. Anders Andersson 1831, Västra Furtan (strong), Ingegärd Eriksdotter 1825 (ogift; 1900 ”sväg.” hos Karins man), Olof Eriksson 1815 (se ovan), Jonas Ersson 1822 i Boda (candidate), Anna Eriksdotter 1827 g. Erik Eriksson 1828 Säljebacka V. Ämtervik (candidate). Ingen post anger uttryckligen föräldrar. Sven 1811, Maria 1813, Cajsa 1817: inga träffar som Eriksdotter/Eriksson f. Brunskog 1880–1900 (sannolikt döda eller gifta med annat efternamn).",
+   "persons": [
+    "christopher_ec",
+    "karin_ec",
+    "ingard_ec",
+    "jonas_ec",
+    "anna_ec"
+   ]
+  },
+  {
+   "title": "Britta Nilsdotter f. 1820 (Nils Erikssons änka) i folkräkning",
+   "text": "Fyra folkräkningsposter Britta Nilsdotter f. 1820 Brunskog: (a) 1880/1890/1900 Löfnäs/Grytterud, Mangskog, backstugusittare, änka (1880 med son Johan f. 1857 Mangskog), (b) 1880 gift (”h.”) med Olof Jansson f. 1821, Ö. Takene (barn Britta 1852, Karl 1861, Karin 1864, Gustaf 1866). Ingen kan knytas till Britta Nilsdotter (f. 15/2 1820 Strand) som var änka efter Nils Eriksson (d. 1850) utan ytterligare källa; sonen Johan f. 1857 Mangskog talar mot (Nils död 1850) men kan vara utom äktenskapet/andra äktenskapet. Ej sammankopplat.",
+   "persons": [
+    "brittanils"
+   ]
+  },
+  {
+   "title": "Jordeböcker Värmland 1639: inga brukarnamn",
+   "text": "Volym A0055919 (1639, 414 bilder) är läst stickprovsvis (bild 100–107, 150, 180, 200). Posterna är per BY/hemman (rubrik 'Hemman'/bråkdel + bynamn) med skatteposter (Rytteri, Hjälp, Dagsverke m.m.) i kolumner – inga brukarnamn syns. Jösse härad börjar enl. register (bild 8) ca s. 184 (bild ~101–102). Bild 101 och 102 är dubbletter. Ingen brukarkedja för Toltan kan därför byggas ur 1639; ingen text-/namnsökning finns i söksidan (endast volymträffar, 9 st).",
+   "persons": [
+    "nils_larsson_toltan",
+    "isak_larsson_toltan",
+    "elof_nilsson"
+   ]
   }
  ],
  "conflicts": [

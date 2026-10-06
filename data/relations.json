@@ -6445,5 +6445,276 @@
   "child": "kn_carl1851",
   "status": "strong",
   "basis": "Boda dop C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda (https://sok.riksarkivet.se/bildvisning/C0036594_00088)"
+ },
+ {
+  "id": "p-per_gustaf_nilsson_1846-betty_ec_1850",
+  "type": "partner",
+  "a": "per_gustaf_nilsson_1846",
+  "b": "betty_ec_1850",
+  "status": "verified",
+  "basis": "Folkräkning 1890 Svartåna: Per Gustaf Nilsson 1846 + Betty Olsdotter 1850 (fam 1), Olof Eriksson som ”svärfad.”"
+ },
+ {
+  "id": "c-per_gustaf_nilsson_1846-betty_ec_1850-maria_kristina_pgn_1876",
+  "type": "child",
+  "parents": [
+   "per_gustaf_nilsson_1846",
+   "betty_ec_1850"
+  ],
+  "child": "maria_kristina_pgn_1876",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+ },
+ {
+  "id": "c-per_gustaf_nilsson_1846-betty_ec_1850-anna_elisabeth_pgn_1879",
+  "type": "child",
+  "parents": [
+   "per_gustaf_nilsson_1846",
+   "betty_ec_1850"
+  ],
+  "child": "anna_elisabeth_pgn_1879",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+ },
+ {
+  "id": "c-per_gustaf_nilsson_1846-betty_ec_1850-johan_fridolf_pgn_1883",
+  "type": "child",
+  "parents": [
+   "per_gustaf_nilsson_1846",
+   "betty_ec_1850"
+  ],
+  "child": "johan_fridolf_pgn_1883",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+ },
+ {
+  "id": "p-christopher_ec-maria_eriksdotter_1836_kc",
+  "type": "partner",
+  "a": "christopher_ec",
+  "b": "maria_eriksdotter_1836_kc",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene: Kristoffer Eriksson 1835, Maria Eriksdotter 1836 i samma hushåll (fam 1)"
+ },
+ {
+  "id": "c-christopher_ec-maria_eriksdotter_1836_kc-erik_kc_1862",
+  "type": "child",
+  "parents": [
+   "christopher_ec",
+   "maria_eriksdotter_1836_kc"
+  ],
+  "child": "erik_kc_1862",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+ },
+ {
+  "id": "c-christopher_ec-maria_eriksdotter_1836_kc-britta_kc_1864",
+  "type": "child",
+  "parents": [
+   "christopher_ec",
+   "maria_eriksdotter_1836_kc"
+  ],
+  "child": "britta_kc_1864",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+ },
+ {
+  "id": "c-christopher_ec-maria_eriksdotter_1836_kc-karin_kc_1873",
+  "type": "child",
+  "parents": [
+   "christopher_ec",
+   "maria_eriksdotter_1836_kc"
+  ],
+  "child": "karin_kc_1873",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+ },
+ {
+  "id": "c-christopher_ec-maria_eriksdotter_1836_kc-maria_kc_1876",
+  "type": "child",
+  "parents": [
+   "christopher_ec",
+   "maria_eriksdotter_1836_kc"
+  ],
+  "child": "maria_kc_1876",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+ },
+ {
+  "id": "p-anders_andersson_1831_furtan-karin_ec",
+  "type": "partner",
+  "a": "anders_andersson_1831_furtan",
+  "b": "karin_ec",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan s. 66: Karin Eriksdotter 1830 med familjeställning ”h.” (hustru) till Anders Andersson 1831; 1890 samma"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-anders_ak_1854",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "anders_ak_1854",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-maria_ak_1856",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "maria_ak_1856",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-anna_ak_1859",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "anna_ak_1859",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-erik_ak_1862",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "erik_ak_1862",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-ingegard_ak_1866",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "ingegard_ak_1866",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-nils_ak_1869",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "nils_ak_1869",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-emma_ak_1872",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "emma_ak_1872",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "c-anders_andersson_1831_furtan-karin_ec-karolina_ak_1875",
+  "type": "child",
+  "parents": [
+   "anders_andersson_1831_furtan",
+   "karin_ec"
+  ],
+  "child": "karolina_ak_1875",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+ },
+ {
+  "id": "s-karin_ec-ingard_ec",
+  "type": "sibling",
+  "a": "karin_ec",
+  "b": "ingard_ec",
+  "status": "strong",
+  "basis": "Redan syskon enl. A I/17 b.117; folkräkning 1900 Västra Furtan: Ingegärd Eriksdotter 1825 ”sväg.” hos Anders Andersson 1831 (maka Karin Eriksdotter 1830)"
+ },
+ {
+  "id": "p-jonas_ec-britta_jonasdotter_1831_jec",
+  "type": "partner",
+  "a": "jonas_ec",
+  "b": "britta_jonasdotter_1831_jec",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda s. 32: Jonas Ersson 1822 Brunskog + Britta Jonasdotter 1831 Boda; identitet med Jonas Eriksson ej bevisad"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-erik_johan_jec_1857",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "erik_johan_jec_1857",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-maria_jec_1859",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "maria_jec_1859",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-krister_jec_1862",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "krister_jec_1862",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-nils_jec_1865",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "nils_jec_1865",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-britta_jec_1867",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "britta_jec_1867",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
+ },
+ {
+  "id": "c-jonas_ec-britta_jonasdotter_1831_jec-anna_jec_1871",
+  "type": "child",
+  "parents": [
+   "jonas_ec",
+   "britta_jonasdotter_1831_jec"
+  ],
+  "child": "anna_jec_1871",
+  "status": "candidate",
+  "basis": "Folkräkning 1880 Nordsjö, Boda, s. 32: barn i hushållet"
  }
 ]
