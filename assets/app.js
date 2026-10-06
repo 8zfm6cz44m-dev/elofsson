@@ -22,7 +22,7 @@ const LINE   = {
 };
 const COUNTRY = { PL:{f:"\u{1F1F5}\u{1F1F1}",n:"Polen"}, NO:{f:"\u{1F1F3}\u{1F1F4}",n:"Norge"}, US:{f:"\u{1F1FA}\u{1F1F8}",n:"USA"}, CA:{f:"\u{1F1E8}\u{1F1E6}",n:"Kanada"} };
 const COUNTRY_RX = {
-  PL:/Kielce|Szyd|Mni[o\u00f3]w|Trzci|Polen|Poland|Chojna|Odrow|Ro\u017cowice|Wylez|Szczecin|Gryfino/,
+  PL:/Kielce|Niewachl|Ch[e\u0119]ciny|Koz\u0142|Szyd|Mni[o\u00f3]w|Trzci|Polen|Poland|Chojna|Odrow|Ro\u017cowice|Wylez|Szczecin|Gryfino/,
   NO:/Eidsvoll|Hurdal|L\u00f8iten|Loiten|Aker\b|Kristiania|Oslo|Ullensaker|Romedal|Norge|Norway|Eidskog|Kongsvinger|Brandval|Nannestad/,
   US:/\bUSA\b|Amerika|America|New York|N\.Y\.|Pennsylvania|Mt\. Jewett|Minnesota|Minneapolis|Jamestown|Illinois|California|Chicago|Wisconsin|Michigan/,
   CA:/Winnipeg|Manitoba|Kanada|Canada/ };

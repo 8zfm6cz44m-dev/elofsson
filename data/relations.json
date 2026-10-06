@@ -4058,8 +4058,8 @@
    "brita_cajsa_andersdotter_1851"
   ],
   "child": "maria_katrina_andersdotter",
-  "status": "strong",
-  "basis": "Dop Segerstad C/2 bild 133 (juli 1851): ”Maja Cathrina – Anders Persson o Brita Cajsa Andersd.”; husförhör A I/35: Maria Katrina Andersdotter f. 24/7 1851 Segerstad. Dagen i dopboken svårläst."
+  "status": "verified",
+  "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
  },
  {
   "id": "p-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851",
@@ -4406,5 +4406,127 @@
   "b": "anna_danielsd22",
   "status": "strong",
   "basis": "Dödbok F I/2 bild 47: ”1745 gift med Drängen Johan Arnesson från Stora Skärmnäs, med hvilken hon gift 8 barn. 1789 blef hon Enka.”"
+ },
+ {
+  "id": "c-michal_orzechowski-antonina_pecl-jozef_orzechowski",
+  "type": "child",
+  "parents": [
+   "michal_orzechowski",
+   "antonina_pecl"
+  ],
+  "child": "jozef_orzechowski",
+  "status": "verified",
+  "basis": "Vigselakt 169/1895: «сыномъ покойныхъ Михаила и Антонины изъ Пенцлювъ» (son till avlidne Michał och Antonina)."
+ },
+ {
+  "id": "p-michal_orzechowski-antonina_pecl",
+  "type": "partner",
+  "a": "michal_orzechowski",
+  "b": "antonina_pecl",
+  "status": "verified",
+  "basis": "Samma akt: Józefs föräldrar Michał och Antonina (nämnda tillsammans som föräldrar, 'покойныхъ')."
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-katarzyna_zatorska",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "katarzyna_zatorska",
+  "status": "verified",
+  "basis": "Vigselakt 169/1895: «дочерью покойныхъ Іосифа и Антонины изъ Кс?лювъ» (dotter till avlidne Józef och Antonina). Faderns efternamn Zatorski antaget från dotterns flicknamn (rimligt, ej uttryckligt)."
+ },
+ {
+  "id": "p-jozef_zatorski-antonina_zatorska_n",
+  "type": "partner",
+  "a": "jozef_zatorski",
+  "b": "antonina_zatorska_n",
+  "status": "verified",
+  "basis": "Samma akt: Katarzynas föräldrar Józef och Antonina."
+ },
+ {
+  "id": "c-isak_larsson_toltan-marit_isaksd",
+  "type": "child",
+  "parents": [
+   "isak_larsson_toltan"
+  ],
+  "child": "marit_isaksd",
+  "status": "lead",
+  "basis": "Endast patronymikon (Isaksdotter) + Isak Larsson mantalsskriven i Toltan 1696–1707 (A0003176_00614 hö, A0003185_00198, A0003189_00489). Isak Björsson är lika möjlig; ingen dop-/vigselbok med fader för Marit läst."
+ },
+ {
+  "id": "c-isak_bjorsson-marit_isaksd",
+  "type": "child",
+  "parents": [
+   "isak_bjorsson"
+  ],
+  "child": "marit_isaksd",
+  "status": "lead",
+  "basis": "Patronymikon Isaksdotter + Isak Björsson/Börjesson i Toltan-gruppen 1697–1710 (A0003177_00556 vä, A0003191_00430 hö); alternativ till Isak Larsson."
+ },
+ {
+  "id": "c-nils_larsson_toltan-elof_nilsson",
+  "type": "child",
+  "parents": [
+   "nils_larsson_toltan"
+  ],
+  "child": "elof_nilsson",
+  "status": "lead",
+  "basis": "Nils Larsson mantalsskriven i Toltan 1696–1711 (A0003177_00556 vä, A0003189_00489 hö, A0003192_00484 hö); Elof Nilsson f. 1687 i Toltan, patronymikon Nilsson. Ingen primärkälla (dop 1687 saknas)."
+ },
+ {
+  "id": "c-nils_larsson_toltan-per_nilsson_toltan",
+  "type": "child",
+  "parents": [
+   "nils_larsson_toltan"
+  ],
+  "child": "per_nilsson_toltan",
+  "status": "lead",
+  "basis": "Samma bakgrund som Elof: patronymikon Nilsson i Toltan, ingen primärkälla."
+ },
+ {
+  "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-karolina_christina_andersdotter_1839",
+  "type": "child",
+  "parents": [
+   "anders_persson_vakarr_1851",
+   "brita_cajsa_andersdotter_1851"
+  ],
+  "child": "karolina_christina_andersdotter_1839",
+  "status": "verified",
+  "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
+ },
+ {
+  "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-anders_gustaf_andersson_1841",
+  "type": "child",
+  "parents": [
+   "anders_persson_vakarr_1851",
+   "brita_cajsa_andersdotter_1851"
+  ],
+  "child": "anders_gustaf_andersson_1841",
+  "status": "verified",
+  "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
+ },
+ {
+  "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-anna_lisa_andersdotter_1843",
+  "type": "child",
+  "parents": [
+   "anders_persson_vakarr_1851",
+   "brita_cajsa_andersdotter_1851"
+  ],
+  "child": "anna_lisa_andersdotter_1843",
+  "status": "verified",
+  "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
+ },
+ {
+  "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-jan_petter_andersson_1845",
+  "type": "child",
+  "parents": [
+   "anders_persson_vakarr_1851",
+   "brita_cajsa_andersdotter_1851"
+  ],
+  "child": "jan_petter_andersson_1845",
+  "status": "verified",
+  "basis": "Husförhör Segerstad A I/16 bild 129 (folio 114): barnen listade som D./S. under Inh. Anders Persson och H. Brita Kajsa Andersd.; Maria Katrina även dopbok C/2 bild 133 (”Anders Persson o Brita Cajsa Andersdotter”)."
  }
 ]
