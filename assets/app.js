@@ -61,10 +61,18 @@ async function load() {
     return;
   }
   fetch("data/meta.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(m=>{
-    const el=$("#updated"); if(!el||!m||!m.updated) return;
-    const d=new Date(m.updated);
-    const f=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Stockholm",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}).format(d);
-    el.textContent="Uppdaterad "+f.replace(", "," kl. ").replace(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/,"$1 kl. $2");
+    if(!m) return;
+    const el=$("#updated");
+    if(el&&m.updated){
+      const d=new Date(m.updated);
+      const f=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Stockholm",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}).format(d);
+      el.textContent="Uppdaterad "+f.replace(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/,"$1 kl. $2");
+    }
+    const lg=$("#lage"); if(lg&&S.persons.length){
+      const val=m.validate==="OK"?"valideringen \u00e4r OK":(m.validate?"valideringen visar fel":"valideringen \u00e4r ej k\u00f6rd");
+      const ged=m.gedcom==="OK"?` (GEDCOM testad i alla ${m.gedcom_variants===6?"sex":m.gedcom_variants||""} varianter utan fel)`:(m.gedcom==="FEL"?" (GEDCOM-testet visar fel)":"");
+      lg.innerHTML=`<strong>L\u00e4get:</strong> Tr\u00e4det har nu ${S.persons.length} personer och ${S.rels.length} relationer, och ${val}${ged}.`;
+    }
   }).catch(()=>{});
   S.persons.forEach(p => S.P[p.id]=p);
   S.views.forEach(v => S.V[v.id]=v);
