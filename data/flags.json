@@ -2261,6 +2261,13 @@
     "fr_anderserson1747_lene",
     "fr_elinlene1756"
    ]
+  },
+  {
+   "title": "Christopher Svensson (f. 1753/54) – dop ej funnet i Frykerud 1753–54",
+   "text": "Dopbok C/4 bild 65–85 (jan 1753–dec 1754) genomläst via marginalnamn: ingen Christopher med fader Sven. Enda Christopher-marginal: aug 1753 (bild 70), fader ’Lars Christoferbol(?)’ och Elin Nilsd (ej Sven). Dödbok 1803 (49 år 4 mån 8 dgr) pekar på födelse ca okt 1753 men husförhör A I/12 ger 1754 21/10. Troligen född i annan socken (Fryksände/Ämterviks?).",
+   "persons": [
+    "christopher_svensson_saldebraten"
+   ]
   }
  ],
  "conflicts": [
@@ -2688,6 +2695,14 @@
    "persons": [
     "fr_mansknutsson1711_lene",
     "fr_mansmansson1746_lene"
+   ]
+  },
+  {
+   "title": "Lena Salomonsdotters födelsedag 30/5 vs 13/7",
+   "text": "Hf A I/9 bild 217 (Rörbäcken) ger Lena S.d. 1764 30/5 (stämmer med dop C/4 bild 166) men Jan Jonas S.S. 1767 har 13/7 – och Såldebråten-hushållet A I/12 ger Lena ’1764 13/7’. 13/7 hör sannolikt till Jan Jonas (1767) och har förväxlats; behöver kontrolleras mot dop 1767 (C/4 ~bild 190).",
+   "persons": [
+    "lena_salomonsd_saldebraten",
+    "fr_salomonberger1734"
    ]
   }
  ],

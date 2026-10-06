@@ -5606,8 +5606,8 @@
    "fr_ingeridjonsd1726"
   ],
   "child": "fr_annamariasalomonsd1761",
-  "status": "strong",
-  "basis": "Husförhör A I/9 bild 217: ”D. Anna Maria S.d.” 1761 i Salomon Bergers hushåll (årtal/dag svårläst)."
+  "status": "verified",
+  "basis": "Frykerud dopbok C/4 bild 140: ”Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj”"
  },
  {
   "id": "s-fr_annamariasalomonsd1761-lena_salomonsd_saldebraten",
@@ -5671,5 +5671,54 @@
   "child": "fr_nilsmansson1771_lene",
   "status": "strong",
   "basis": "Husförhör A I/8 C0037109 bild 48 (fol. 36, Lene 1777), Måns Knutssons hushåll: ”S: Nils M[åns] 1771 10/8”. Dop ej läst."
+ },
+ {
+  "id": "c-fr_jonaspalsson-fr_ingeridjonsd1726-fr_olofjonsson1758",
+  "type": "child",
+  "parents": [
+   "fr_jonaspalsson",
+   "fr_ingeridjonsd1726"
+  ],
+  "child": "fr_olofjonsson1758",
+  "status": "verified",
+  "basis": "Frykerud dopbok C/4 bild 118: ”Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken … till Olof”"
+ },
+ {
+  "id": "c-fr_jonaspalsson-fr_ingeridjonsd1726-fr_nilsjonsson1752",
+  "type": "child",
+  "parents": [
+   "fr_jonaspalsson",
+   "fr_ingeridjonsd1726"
+  ],
+  "child": "fr_nilsjonsson1752",
+  "status": "strong",
+  "basis": "Frykerud dopbok C/4 bild 63 (14 okt 1752): ”Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils” + hf A I/9 bild 217"
+ },
+ {
+  "id": "p-fr_jonaspalsson-fr_ingeridjonsd1726",
+  "type": "partner",
+  "a": "fr_jonaspalsson",
+  "b": "fr_ingeridjonsd1726",
+  "status": "strong",
+  "basis": "Dop C/4 bild 118 (1758) nämner dem som makar; vigsel ej funnen"
+ },
+ {
+  "id": "c-fr_jon_far_ingerid-fr_malinolofsd_ingerid-fr_ingeridjonsd1726",
+  "type": "child",
+  "parents": [
+   "fr_jon_far_ingerid",
+   "fr_malinolofsd_ingerid"
+  ],
+  "child": "fr_ingeridjonsd1726",
+  "status": "candidate",
+  "basis": "Dop C/3 bild 13 (22 nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid” – identitet ej bevisad"
+ },
+ {
+  "id": "s-fr_nilsjonsson1752-fr_olofjonsson1758",
+  "type": "sibling",
+  "a": "fr_nilsjonsson1752",
+  "b": "fr_olofjonsson1758",
+  "status": "strong",
+  "basis": "Båda barn till Ingerid i Rörbäcken (dop bild 63 och 118)"
  }
 ]

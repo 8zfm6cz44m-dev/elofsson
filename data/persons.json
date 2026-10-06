@@ -21854,7 +21854,9 @@
   "notes": [
    "HUSFÖRHÖR A I/9 (1778–84) bild 217 (fol. 193), Rörbäcken, ordagrant: ”Salomon Berger” 1734; ”H. Ingerid Jonsd.” 1726 21/11; ”D. Nils Jons.” 1752 (överstruken, ”död 1780 i Decemb:”); ”D. Olof Jonsson” 1758; ”D. Anna Maria S.d.” 1761 7/?; ”D. Lena S.d.” 1764 30/5; ”D. Jan Jonas S. S.” 1767 13/? (svårläst). Sonen Olof överstruken. Marg: Anna Maria ”1781 till Lindsnar gift; 1782 till [Gunbröt/Gunnarsbytorp] gift”.",
    "Barnen Nils (1752) och Olof (1758) har patronymikon Jonsson = sannolikt Ingerids barn i tidigare gifte (styvbarn) – ej bevisat.",
-   "Vigsel Salomon–Ingerid ej funnen (sökte E I/1 bild 84–88 = 1759–1762 men handstilen är för svårläst för helsökning; bör sökas ”Enkan Ingerid Jonsdotter” ca 1758–60). Salomons föräldrar/ursprung okänt."
+   "Vigsel Salomon–Ingerid ej funnen (sökte E I/1 bild 84–88 = 1759–1762 men handstilen är för svårläst för helsökning; bör sökas ”Enkan Ingerid Jonsdotter” ca 1758–60). Salomons föräldrar/ursprung okänt.",
+   "DOP Anna Maria 1761 (C/4 bild 140): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj …” – titeln ’Hr.’ och fadder ”Hr. Adam Berger” tyder på bruks-/tjänstemannamiljö; Adam Berger möjlig släkting (lead)",
+   "DOP 1734: ej funnen i Frykerud C/3 jan–feb 1734 (bild 96–97, nr 26/1–10/2 genomläst: inget Salomon) – född sannolikt annan socken"
   ],
   "sources": [
    {
@@ -21864,6 +21866,10 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 166 (1764): Rörbäcken, Salomon Bergers och h. Ingerid [..]dr barn Lena född 30 maj",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00166"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 140 (1761 maj, höger sida nederst): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito af Com: Hr. Wenerlöf; vittnen: … Hr. Erik Frisell(?) … Hr. Adam Berger … i Rörbäcken …” (marg. ”Anna Maria”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00140"
    }
   ],
   "search": [
@@ -21878,20 +21884,36 @@
   "living": false,
   "born": {
    "date": "1726-11-21",
-   "place": "(okänd)",
-   "note": "A I/9 bild 217: ”H. Ingerid Jonsd.” 1726 21/11"
+   "place": "Östra Glänna(?), Frykerud",
+   "note": "husförhör 21/11 1726; dop 22 nov 1726 C/3 bild 13 (kandidat, ej bevisad identitet)"
   },
   "places": [
    "Rörbäcken, Frykerud"
   ],
   "summary": "Hustru till Salomon Berger på Rörbäcken; mor till Lena f. 1764 (och Anna Maria 1761); troligen tidigare gift med en Jon (barn Nils 1752, Olof 1758).",
   "notes": [
-   "HUSFÖRHÖR A I/9 bild 217 (fol. 193): ”H. Ingerid Jonsd.” 1726 21/11, i Salomon Bergers hushåll."
+   "HUSFÖRHÖR A I/9 bild 217 (fol. 193): ”H. Ingerid Jonsd.” 1726 21/11, i Salomon Bergers hushåll.",
+   "DOP-KANDIDAT C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid” – enda Ingerid i nov 1726 (bild 13–14), dag stämmer med hf 21/11 (födelse)",
+   "FÖRSTA MAKE: Jonas Pålsson, Rörbäcken – barn Nils (dop 14/10 1752, C/4 bild 63) och Olof (dop 17/9 1758, C/4 bild 118: ”Jonas Pålsson och h: Ingerid Jönsd(r)”)",
+   "ANDRA MAKE: Salomon Berger – barn Anna Maria (f. 7/5, dop 10/5 1761, C/4 bild 140: ”Hr. Salomon Bergers och h. Ingerid Jönsd. dr”), Lena (30/5 1764), Jan Jonas (13/7 1767)",
+   "Vigsel Salomon Berger–Ingerid ej funnen i E I/1 bild 85–87 (1759 aug–1761 jun) – se unresolved"
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 217 (fol. 193), Rörbäcken: Salomon Berger 1734, H. Ingerid Jonsd. 1726 21/11, D. Anna Maria S.d. 1761, D. Lena S.d. 1764 30/5",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/3 (1726–1746) C0037136, bild 13 (vänster sida, nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna …” (marg. ”22 Nov”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 118 (1758 sept, höger sida): ”11 | föddes Vedamannen(?) Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken och döptes d. 17 af Com: S: Wenerlöf till Olof, faddrar Klockaren Olof Frykholm, Mattias Matsson i Lunn …” (marg. ”Olof, död 1823”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00118"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 140 (1761 maj, höger sida nederst): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito af Com: Hr. Wenerlöf; vittnen: … Hr. Erik Frisell(?) … Hr. Adam Berger … i Rörbäcken …” (marg. ”Anna Maria”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00140"
    }
   ],
   "search": [
@@ -21901,25 +21923,30 @@
  {
   "id": "fr_annamariasalomonsd1761",
   "name": "Anna Maria Salomonsdotter (f. 1761, Rörbäcken)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1761",
+   "date": "1761-05-07",
    "place": "Rörbäcken, Frykerud",
-   "note": "A I/9 bild 217: ”D. Anna Maria S.d.” 1761 7/? (dag svårläst)"
+   "note": "dop 10 maj 1761 (C/4 bild 140)"
   },
   "places": [
    "Rörbäcken, Frykerud"
   ],
   "summary": "Äldre syster till Lena Salomonsdotter; gift 1781 (”till Lindsnar gift”) enligt marginalnotis i A I/9.",
   "notes": [
-   "HUSFÖRHÖR A I/9 bild 217: ”D. Anna Maria S.d.” 1761; marginal ”1781 till Lindsnar gift; 1782 till [..] gift” (svårläst)."
+   "HUSFÖRHÖR A I/9 bild 217: ”D. Anna Maria S.d.” 1761; marginal ”1781 till Lindsnar gift; 1782 till [..] gift” (svårläst).",
+   "DOP C/4 bild 140: ”Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito”"
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 217 (fol. 193), Rörbäcken: Salomon Berger 1734, H. Ingerid Jonsd. 1726 21/11, D. Anna Maria S.d. 1761, D. Lena S.d. 1764 30/5",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 140 (1761 maj, höger sida nederst): ”Rörbäcken. Hr. Salomon Bergers och h. Ingerid Jönsd. dr barn Anna Maria föddes d. 7 maj och döptes den 10 dito af Com: Hr. Wenerlöf; vittnen: … Hr. Erik Frisell(?) … Hr. Adam Berger … i Rörbäcken …” (marg. ”Anna Maria”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00140"
    }
   ],
   "search": [
@@ -22069,6 +22096,152 @@
   ],
   "search": [
    "Nils Månsson (Lene, f. 1771)"
+  ]
+ },
+ {
+  "id": "fr_jonaspalsson",
+  "name": "Jonas Pålsson (Rörbäcken, Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Rörbäcken, Frykerud"
+  ],
+  "summary": "Ingerid Jonsdotters första make; far till Olof (f. 11/9 1758, dop explicit) och sannolikt Nils (dop 14/10 1752). Död före ca 1760 (Ingerid kallas ’Enkan’ ej bekräftat; omgift med Salomon Berger, första barn 1761).",
+  "notes": [
+   "DOP Olof 1758 (C/4 bild 118): ”föddes Vedamannen(?) Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken”",
+   "DOP Nils 1752 (C/4 bild 63): ”Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils” (läsning osäker)",
+   "Vigsel och död ej funna (söktes ej i E I/1 före 1759)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 118 (1758 sept, höger sida): ”11 | föddes Vedamannen(?) Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken och döptes d. 17 af Com: S: Wenerlöf till Olof, faddrar Klockaren Olof Frykholm, Mattias Matsson i Lunn …” (marg. ”Olof, död 1823”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00118"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 63 (1752 okt, vänster sida, överst): ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils; faddrar Mattes Matsson i Tunnge, Nils Larsson i östra Glänna …” (marg. ”Nils”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00063"
+   }
+  ],
+  "search": [
+   "Jonas Pålsson (Rörbäcken, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_nilsjonsson1752",
+  "name": "Nils Jonsson (f. okt 1752, Rörbäcken)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1752-10-14",
+   "place": "Rörbäcken, Frykerud",
+   "note": "dop 14 okt 1752 (C/4 bild 63); husförhör A I/9 anger 1752 ../10"
+  },
+  "died": {
+   "date": "1780-12",
+   "place": "Rörbäcken(?)",
+   "note": "marginal i A I/9 bild 217 (dec 1780?) – ej verifierad mot dödbok"
+  },
+  "summary": "Äldre son till Jonas Pålsson och Ingerid Jonsdotter i Rörbäcken; styvson till Salomon Berger. Dopet är läst med osäkra ord (fadersnamn och moderns patronymikon).",
+  "notes": [
+   "HUSFÖRHÖR A I/9 bild 217: ”D. Nils Jons” (överstruken) 1752 ../10",
+   "DOP C/4 bild 63: ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 63 (1752 okt, vänster sida, överst): ”född och d. 14 dito döptes … Jonas Pål(s)on(?) och h: Ingerid …nd(?) barn i Rörbäcken kallat Nils; faddrar Mattes Matsson i Tunnge, Nils Larsson i östra Glänna …” (marg. ”Nils”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00063"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 217 (fol. 193), Rörbäcken: Salomon Berger 1734 26/1, H. Ingerid Jonsd 1726 21/11, D. Nils Jons (överstruken) 1752 ../10 [marg. död dec 1780], D. Olof Jönsson 1758 11/9, D. Anna Maria S.d. 1761 7/5 (överstruken), D. Lena S.d. 1764 30/5 (överstruken), D. Jan Jonas S.S. 1767 13/7; därefter dr. Erik Persson 1762 7/6, piga Catharina Nilsd. 1763 22/1",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00217"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Nils Jonsson (f. okt 1752, Rörbäcken)"
+  ]
+ },
+ {
+  "id": "fr_olofjonsson1758",
+  "name": "Olof Jonsson (f. 11/9 1758, Rörbäcken)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1758-09-11",
+   "place": "Rörbäcken, Frykerud",
+   "note": "dop 17 sept 1758 (C/4 bild 118); marginal ’död 1823’"
+  },
+  "died": {
+   "date": "1823",
+   "place": "",
+   "note": "marginalanteckning vid dopet, ej kontrollerad mot dödbok"
+  },
+  "summary": "Son till Jonas Pålsson och Ingerid Jönsdotter i Rörbäcken (dop med föräldrar), halvbror till Anna Maria, Lena Salomonsdotter och Jan Jonas.",
+  "notes": [
+   "DOP C/4 bild 118: ”föddes … Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken och döptes d. 17 af Com: S: Wenerlöf till Olof”; marg. ”Olof död 1823”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 118 (1758 sept, höger sida): ”11 | föddes Vedamannen(?) Jonas Pålsson och h: Ingerid Jönsd(r) barn i Rörbäcken och döptes d. 17 af Com: S: Wenerlöf till Olof, faddrar Klockaren Olof Frykholm, Mattias Matsson i Lunn …” (marg. ”Olof, död 1823”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00118"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–1784) C0037110, bild 217 (fol. 193), Rörbäcken: Salomon Berger 1734 26/1, H. Ingerid Jonsd 1726 21/11, D. Nils Jons (överstruken) 1752 ../10 [marg. död dec 1780], D. Olof Jönsson 1758 11/9, D. Anna Maria S.d. 1761 7/5 (överstruken), D. Lena S.d. 1764 30/5 (överstruken), D. Jan Jonas S.S. 1767 13/7; därefter dr. Erik Persson 1762 7/6, piga Catharina Nilsd. 1763 22/1",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00217"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Olof Jonsson (f. 11/9 1758, Rörbäcken)"
+  ]
+ },
+ {
+  "id": "fr_jon_far_ingerid",
+  "name": "Jon (Ingesson?) i Östra Glänna",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Östra Glänna, Frykerud"
+  ],
+  "summary": "Förmodad far till Ingerid Jonsdotter (dop 22 nov 1726). Fadersnamnet läst ’Jona(s) Ingesson(?)’ – osäkert.",
+  "notes": [
+   "DOP C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/3 (1726–1746) C0037136, bild 13 (vänster sida, nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna …” (marg. ”22 Nov”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   }
+  ],
+  "search": [
+   "Jon (Ingesson?) i Östra Glänna"
+  ]
+ },
+ {
+  "id": "fr_malinolofsd_ingerid",
+  "name": "Malin Olofsdotter (Östra Glänna)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Östra Glänna, Frykerud"
+  ],
+  "summary": "Förmodad mor till Ingerid Jonsdotter (dop 22 nov 1726).",
+  "notes": [
+   "DOP C/3 bild 13: ”H. Malin Olofsdotter”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/3 (1726–1746) C0037136, bild 13 (vänster sida, nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna …” (marg. ”22 Nov”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   }
+  ],
+  "search": [
+   "Malin Olofsdotter (Östra Glänna)"
   ]
  }
 ]
