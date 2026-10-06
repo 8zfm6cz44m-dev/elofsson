@@ -5347,5 +5347,13 @@
   "b": "kajsa_olsdotter_nordsjo",
   "status": "candidate",
   "basis": "Boda dopbok C I/3 bild 42 nr 50: ”B. Jan Jonsson, Kajsa Olsdotter”."
+ },
+ {
+  "id": "p-nils_andersson_takene91-brita_olsd_takene91",
+  "type": "partner",
+  "a": "nils_andersson_takene91",
+  "b": "brita_olsd_takene91",
+  "status": "strong",
+  "basis": "Brunskog vigselbok E I/3 bild 15, 1790 nr 5: ”Dr. Nils Andersson …, Ö. Takene och Pig. Brita Olsd. ibm”; dop 1791 (C I/3 bild 40) anger samma namn som föräldrar i Ö. Takene"
  }
 ]

@@ -5712,6 +5712,10 @@
    {
     "label": "Riksarkivet, Brunskog död- och begravningsbok F I/2 (1809-1860), bild 87: 1828, jan: ”Gift Mn Anders Arnesson, Ö. Takene, … 73 år 3 mån 20 dagar” (död 11 jan, begr. 27 jan)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036790_00087"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3 (1784–1860), bild 15: Vigde 1791 nr 1: ”Enkl. Anders Arneson från Ö. Takene och Pig. Marit Andersd. fr. Kärrsmåsen Arvika”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00015"
    }
   ],
   "search": [
@@ -5724,7 +5728,8 @@
    "HUSFÖRHÖR A I/6 bild 223 (Ö. Fosred, sida 213): dräng, utflyttad till p.63 (Ö. Takene) 1786. A I/6 bild 74 (sida 63): inflyttad p.213 1786, utflyttad p.60 1789 (→ A I/7 sida 61).",
    "Anders står alltså inte på Ö. Takene i A I/5 (1782–86): han kom dit först 1786 från Ö. Fosred. Se även fyndets 2:a hustru Marit Andersdotter (1790) och barnen Anders 1792, Nils 1793.",
    "MYHERITAGE-MATCH: Anders Arnesson 1754–1828, g.m. Kjersti Arnesson f. Olsdotter 1760–1790; far Arun (Arne) Andersson f. 1724, mor Marit Jonsdotter 1727–1762 – överensstämmer med dopbok C I/2 bild 91.",
-   "DÖDBOK F I/2 1828 bild 87 (s. 133), vänstra sidan: ”… Gift mn Anders Arnesson | Ö. Takene | Bråk(?) | 73 | 3 | 20”. Födelsen 22/9 1754 bekräftas av åldern (73 år 3 mån 20 d räknat från 22/9 1754 = 11/1 1828)."
+   "DÖDBOK F I/2 1828 bild 87 (s. 133), vänstra sidan: ”… Gift mn Anders Arnesson | Ö. Takene | Bråk(?) | 73 | 3 | 20”. Födelsen 22/9 1754 bekräftas av åldern (73 år 3 mån 20 d räknat från 22/9 1754 = 11/1 1828).",
+   "VIGSEL 1791 (E I/3 bild 15, 1791, nr 1, jan): ”Enkl. Anders Arneson från Ö. Takene och Pig. Marit Andersd. fr. Kärrsmåsen Arvika” (läsning av 'Kärrsmåsen'/'Arvika' något osäker). Hans 1:a hustru Kjersti Olsd. dog 1790 (A I/7)."
   ],
   "died": {
    "date": "1828-01-11",
@@ -8208,11 +8213,13 @@
    "note": "Födelseort ej läsbar i husförhöret 1790–94"
   },
   "places": [
+   "Kärrsmossen, Arvika",
    "Östra Takene, Brunskog"
   ],
   "summary": "Anders Arnessons andra hustru (gift 1790, efter Kjerstis död); mor till Anders (1792) och Nils (1793).",
   "notes": [
-   "HUSFÖRHÖR A I/7 bild 72: ”Marit Andersd.” f. 1767, inflyttad 1790 (”anvik. 90”), står efter den genomstrukna Kjersti Olsd. (”+ 90”). Vigseln 1790 (E I/3) ej läst."
+   "HUSFÖRHÖR A I/7 bild 72: ”Marit Andersd.” f. 1767, inflyttad 1790 (”anvik. 90”), står efter den genomstrukna Kjersti Olsd. (”+ 90”). Vigseln 1790 (E I/3) ej läst.",
+   "VIGSEL 1791 (E I/3 bild 15, nr 1, jan 1791): ”Enkl. Anders Arneson från Ö. Takene och Pig. Marit Andersd. fr. Kärrsmåsen Arvika”. Hon kom alltså från Kärrsmossen i Arvika (socken) – födelse/föräldrar bör sökas i Arvika (utanför Brunskog/Boda-materialet). Vigseln är 1791, inte 1790 (husförhöret anger inflyttad 90)."
   ],
   "sources": [
    {
@@ -8226,6 +8233,10 @@
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/3 (1782–1844), bild 46: 24 dec 1793, nr 55: Takene, Nils; föräldrar Anders Arnes[son] och Marit Andersd. (67); faddrar Nils Jonsson, Lisa Halfvardsd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00046"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3 (1784–1860), bild 15: Vigde 1791 nr 1: Anders Arneson från Ö. Takene och Pig. Marit Andersd. fr. Kärrsmåsen Arvika",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00015"
    }
   ],
   "search": [
@@ -20535,7 +20546,8 @@
   ],
   "summary": "Far till Nils Andersson (f. 23/6 1786 V. Grimstad, Boda).",
   "notes": [
-   "DOP Boda 23 juni 1786, nr 29: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.”"
+   "DOP Boda 23 juni 1786, nr 29: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.”",
+   "MÖJLIG VIGSEL Boda jan 1774 (E I/2 bild 98, nr 3): ”Dr. Anders Mattsson: d. Grimstad och Pig. Britta Nilsdotter i [Ö?]dent(?)” – samma namn/by som föräldrar till Nils f. 1786 (V. Grimstad), men 12 års glapp till första kända barnet; ej bevisat."
   ],
   "sources": [
    {
@@ -20582,12 +20594,17 @@
   "summary": "Far till Kjerstin Nilsdotter (f. 2/5 1791); samme Nils Andersson/Brita Olsdotter även föräldrar i dopbok 1798 (Toltan).",
   "notes": [
    "DOP Brunskog 2 maj 1791, nr 30: ”Ö. Takene / Kjersti / Nils Andersson / Brita Olsd. ; faddrar Per Nilsson, f. Kjersti Olsd.”",
-   "DOP 1798 nr 5 (C I/3 bild 58/59): ”Toltan Jonas – Nils Andersson, Brita Olsd.” – möjligen samma föräldrapar, ej utrett."
+   "DOP 1798 nr 5 (C I/3 bild 58/59): ”Toltan Jonas – Nils Andersson, Brita Olsd.” – möjligen samma föräldrapar, ej utrett.",
+   "VIGSEL 1790 (E I/3 bild 15, apr 1790, nr 5): ”Dr. Nils Andersson Gammal(?), Ö. Takene och Pig. Brita Olsd. ibm – utan bru[d](?)”. Läsning av efternamn/tillägg ('Gammal'/'Gummel'?) osäker. Alltså dräng i Ö. Takene som gifter sig 1790 med Brita Olsdotter, också Ö. Takene (ibm)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/3 (1782–1844), bild 40 (s. 57), nr 30, 2 maj 1791: Ö. Takene Kjersti; Nils Andersson, Brita Olsd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00040"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3 (1784–1860), bild 15: Vigde 1790 nr 5: ”Dr. Nils Andersson Gammal(?), Ö. Takene och Pig. Brita Olsd. ibm”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00015"
    }
   ],
   "search": [
@@ -20605,12 +20622,17 @@
   ],
   "summary": "Mor till Kjerstin Nilsdotter (f. 2/5 1791).",
   "notes": [
-   "DOP Brunskog 1791: ”Brita Olsd.”"
+   "DOP Brunskog 1791: ”Brita Olsd.”",
+   "VIGSEL 1790 (E I/3 bild 15, nr 5): ”Pig. Brita Olsd. ibm” (= Ö. Takene), gift med Nils Andersson apr 1790."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dopbok C I/3, bild 40 (s. 57), nr 30",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00040"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3, bild 15: Vigde 1790 nr 5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00015"
    }
   ],
   "search": [
