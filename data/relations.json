@@ -6325,5 +6325,35 @@
   "b": "fr_britapalsd_rorbacken",
   "status": "candidate",
   "basis": "A I/1 C0037102 bild 55: båda i Pål Månssons hushåll (Brita Pålsd, Jonas Pålsson); Britas relation till Pål läst som dotter (H. med måg)."
+ },
+ {
+  "id": "c-al5_olof_nilsson_otoltan-al5_karin_olofsd95",
+  "type": "child",
+  "parents": [
+   "al5_olof_nilsson_otoltan"
+  ],
+  "child": "al5_karin_olofsd95",
+  "status": "verified",
+  "basis": "Dop 1695 (Reminiscere): ”Olof Nilsson barn i O. Takner(Toltan), dotter Karin” – Brunskog dop C I/1 bild 42."
+ },
+ {
+  "id": "c-al5_lasse_erichsson_toltan-al5_nils_lassesson99",
+  "type": "child",
+  "parents": [
+   "al5_lasse_erichsson_toltan"
+  ],
+  "child": "al5_nils_lassesson99",
+  "status": "strong",
+  "basis": "Dop 1699: ”Lasse Erichssons barn i Tolten kallad Nils” – C I/1 bild 51 (fader namn/år delvis osäkert läst)."
+ },
+ {
+  "id": "c-al5_arne_jonsson_wtortan-al5_jon_arnesson91",
+  "type": "child",
+  "parents": [
+   "al5_arne_jonsson_wtortan"
+  ],
+  "child": "al5_jon_arnesson91",
+  "status": "verified",
+  "basis": "Dop 13/12 1691: ”Jon Arnesson i W. Fortan; fader Arne Jönsson, moder Christin Fredsdotter” – C I/1 bild 27."
  }
 ]
