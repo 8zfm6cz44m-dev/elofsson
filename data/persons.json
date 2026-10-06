@@ -20554,7 +20554,8 @@
    "DOP (kandidat, handstil svårläst): Frykerud C/4 bild 37 (s. 54, ”Anno 1750”, vänster sida, post med datum ”12 Apr” i marginalen; marg. namn ”Jonas” överstruket + tillagt ”Död 1820”): ”Född och d. 15 dito döptes ungt barn … [An]ders Nilsson och H. Marit Bengtsdr[?] … kallat Jonas. Fadd: Mattes Bengtsson …, Sven Nilsson i Lene, Olof Jonsson i Lene”. Födelsedatum 12/4 stämmer med husförhör; föräldrars förnamn (Anders Nilsson + Marit Bengtsdotter) läst med osäkerhet, bostadsort ej säkrad. ‘Död 1820’ (senare påskrift) – sök F/2 1820.",
    "HUSFÖRHÖR A I/8 (1771–77) C0037109 bild 48 (fol. 36, Lene 1777): ”Dr [dräng] Jöns And:” 1750 12/4 står i Måns Knutssons hushåll direkt före/efter ”H. Stina Månsd.” 1753 10/7 (nygift); i samma hushåll ”S: Anders Jönsson” 1776 …/6.",
    "DÖD: Frykerud F/2 (1814–1861) C0037143 bild 35 (vänstersida, april 1820): ”Lene Gifte Jonas Andersson” – dödsorsak ”Frossfeber”, ålder ”70” år, ”—” mån, ”6” dagar (12/4 1750 + 70 år 6 dagar ≈ 18/4 1820; dagkolumnen svårläst). Åldern + födelsedatum 12/4 1750 stämmer med husförhören; i dopposten C/4 bild 37 står marginalpåskriften ”Död 1820”.",
-   "VIGSEL: Frykerud E I/1 C0037140 bild 110 (s. 204, ”Wigde Åhr 1775”), post 29 Oct 1775: ”wigdes hemma i egna kläder Dr: Jonas Andersson i Fä[l]s[…] med P[ig]: [Stina?] Månsdr [i Lene?] … morgongåfva 30 Rdr Kopp[ar]mynt” – mannens namn tydligt, hustruns namn/hemort svårlästa (kandidat; barn Anders f. 24/6 1776 stämmer)."
+   "VIGSEL: Frykerud E I/1 C0037140 bild 110 (s. 204, ”Wigde Åhr 1775”), post 29 Oct 1775: ”wigdes hemma i egna kläder Dr: Jonas Andersson i Fä[l]s[…] med P[ig]: [Stina?] Månsdr [i Lene?] … morgongåfva 30 Rdr Kopp[ar]mynt” – mannens namn tydligt, hustruns namn/hemort svårlästa (kandidat; barn Anders f. 24/6 1776 stämmer).",
+   "HUSFÖRHÖR A I/7 (1759–71) C0037108 bild 41 (fol. 28, Lene): översta hushållet ”Anders Nilsson” 1710, ”H. Marit Bryng[…]” 1708, ”D. Maria”, ”S. Jonas” 1750 12/4 (inget ”Son Jonas 50” i ordagrann form: raden läses ”S. Jonas”, årtal 1750, 12/4). DOP C/4 bild 37 läst om: ”…Nilsson och h: Marit Bryngel-dotter barn … kallat Jonas” – modern heter Bryngelsdotter (inte Bengtsdotter). Förälder-uppgifterna bekräftas därmed av två källor."
   ],
   "sources": [
    {
@@ -20588,6 +20589,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhör A I/8, bild 48 (fol. 36), Lene 1777: Dr Jöns And: 1750 12/4",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00048"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–1771) C0037108, bild 41 (fol. 28, Lene): Anders Nilsson 1710, H. Marit Bryng… 1708, D. Maria, S. Jonas 1750 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00041"
    }
   ],
   "search": [
@@ -22216,12 +22221,21 @@
   ],
   "summary": "Förmodad far till Ingerid Jonsdotter (dop 22 nov 1726). Fadersnamnet läst ’Jona(s) Ingesson(?)’ – osäkert.",
   "notes": [
-   "DOP C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna”"
+   "DOP C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna”",
+   "HUSFÖRHÖR Frykerud A I/1 (1725–29) C0037102 bild 72 (Östra Glänna, översta hushållet): ”Anders Sidrikson [Sidrichsson?]”, ”H. Marit Anders[d.]”, ”Dräng Pehr Olofsson”, ”Piga Malin Olofsd.”, ”Son Jon Andersson”, ”D. Elin Anders[d.]” (överstruken), ”D. Karin Andersd.”, och indraget längst ned ”H. Malin Olofsd[otter]” = sonen Jons hustru. Tyder på att dopets ’Jona Ingesson(?)’ i själva verket är Jon Andersson (cursiv; ’Ingesson’ osäker). HUSFÖRHÖR A I/2 (1729–36) C0037103 bild 84 (Östra Glänna, nedre vänstra delen): ”Jon Andersson” med ”H. Ingerid Arfwidsdotter” (andra hustru?) och överstruken ”H. Malin Olofsdotter”-rad; barnrader svårlästa (”D. Karin Jonsd.”?). Dopet av Ingerid 22/11 1726 (C/3 bild 13) läst om: ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadas d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna, … Pehr Olufsson ibidem, h. Marit Olufsdotter, h. Ingerid Pehrs? dotter, östra Glänna”. Ingen ’D. Ingerid 26’ läst i A I/1–A I/2 (raderna svårlästa/överstrukna)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud födelse- och dopbok C/3 (1726–1746) C0037136, bild 13 (vänster sida, nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna …” (marg. ”22 Nov”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/1 (1725–1729) C0037102, bild 72 (Östra Glänna): Anders Sidrikson, H. Marit, Son Jon Andersson, H. Malin Olofsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00072"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/2 (1729–1736) C0037103, bild 84 (Östra Glänna): Jon Andersson, H. Ingerid Arfwidsdotter, överstruken H. Malin Olofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00084"
    }
   ],
   "search": [
@@ -22239,12 +22253,17 @@
   ],
   "summary": "Förmodad mor till Ingerid Jonsdotter (dop 22 nov 1726).",
   "notes": [
-   "DOP C/3 bild 13: ”H. Malin Olofsdotter”"
+   "DOP C/3 bild 13: ”H. Malin Olofsdotter”",
+   "HUSFÖRHÖR A I/1 C0037102 bild 72 (Ö. Glänna): först ”Piga Malin Olofsd.” i Anders Sidriksons hushåll, därefter indraget ”H. Malin Olofsd[otter]” efter ”Son Jon Andersson” (gift med honom 1725–26?). A I/2 C0037103 bild 84: raden ”H. Malin Olofsdotter” överstruken under Jon Andersson (död/avförd före ca 1730?). Vigsel ej funnen: E I/1 C0037140 bild 22 (1724), 24 (okt 1725–1726), 25 (1726) genomlästa – ingen Jon Andersson/Malin Olofsdotter."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud födelse- och dopbok C/3 (1726–1746) C0037136, bild 13 (vänster sida, nov 1726): ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadess d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna …” (marg. ”22 Nov”)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/1 (1725–1729) C0037102, bild 72 (Östra Glänna): Piga Malin Olofsd.; H. Malin Olofsd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00072"
    }
   ],
   "search": [
@@ -22405,6 +22424,72 @@
   ],
   "search": [
    "Jan Hencel (f. ca 1775, far till Augustyn f. 1820?)"
+  ]
+ },
+ {
+  "id": "fr_andersnilsson1710_lene",
+  "name": "Anders Nilsson (Lene, Frykerud, f. 1710)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1710",
+   "place": "",
+   "note": "årtal ur husförhör A I/7 bild 41; dag/ort ej säkert läst"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Bonde på Lene fol. 28 (A I/7); far till Jonas f. 12/4 1750; hustru Marit Bryngelsdotter f. 1708.",
+  "notes": [
+   "HUSFÖRHÖR Frykerud A I/7 (1759–71) C0037108 bild 41 (fol. 28, rubrik ”Lene 28”), översta hushållet: ”Anders Nilsson” (årtal 1710), ”H. Marit Bryng[elsd.]” (1708), ”D. Maria” (17[4?]1, 6/2), ”S. Jonas” (1750, 12/4). Radordningen: Hustru, Dotter, Son under huvudmannen. Därefter nytt hushåll ”Erik Nilsson” 1736 med Nils 1762, Katarina 1765.",
+   "DOP Frykerud C/4 bild 37 (apr 1750): ”d: 12 Apr: föddes och d: 15 dito döptes ung[e] … Nilsson och h: Marit Bryngel-dotter barn i Lena(?) kallat Jonas. Fadd: Mattes Bryngelsson i Lena, Sven Nilsson i Lena(?), Olof Jonsson i Lena …” Mannens förnamn syns inte tydligt i dopposten (radslut ”ung/Bon-/dand?”); förnamnet Anders kommer från husförhöret."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–1771) C0037108, bild 41 (fol. 28, Lene): Anders Nilsson 1710, H. Marit Bryng… 1708, D. Maria, S. Jonas 1750 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00041"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 37 (1750 apr): 12 apr född, 15 apr döpt, ”…Nilsson och h: Marit Bryngeldotter … kallat Jonas”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00037"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (Lene, Frykerud, f. 1710)"
+  ]
+ },
+ {
+  "id": "fr_maritbryngelsd_lene",
+  "name": "Marit Bryngelsdotter (Lene, Frykerud, f. 1708)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1708",
+   "place": "",
+   "note": "årtal ur husförhör A I/7 bild 41"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Hustru till Anders Nilsson på Lene; mor till Jonas f. 1750. Patronymikon enligt dopboken Bryngelsdotter (inte Bengtsdotter).",
+  "notes": [
+   "HUSFÖRHÖR A I/7 bild 41 (fol. 28 Lene): ”H. Marit Bryng[…]” 1708 (12/12?).",
+   "DOP C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–1771) C0037108, bild 41 (fol. 28, Lene): H. Marit Bryng… 1708",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00041"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 37 (1750 apr): ”…Nilsson och h: Marit Bryngeldotter … kallat Jonas”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00037"
+   }
+  ],
+  "search": [
+   "Marit Bryngelsdotter (Lene, Frykerud, f. 1708)"
   ]
  }
 ]

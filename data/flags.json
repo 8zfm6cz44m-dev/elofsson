@@ -2319,6 +2319,29 @@
     "hencel_augustyn_1820",
     "augustyn_hencel"
    ]
+  },
+  {
+   "title": "Anders Ersson f. 1747 – dopposten ej säkrad (C/4 bild 12–20)",
+   "text": "Genomläst C/4 bild 12–20 (1747, jan–nov). Två poster med namnet Anders: (a) 15/18 okt 1747 (bild 19, vänster sida): ”Olof Jonsson och Ingerid Nilsdotter barn i oss(?) kallad Anders” – fadern heter Olof Jonsson (patronymikon passar inte ’Ersson’). (b) 10 nov 1747 (bild 20, vänster sida, marginal ’Anders’): ”föddes och d.d. döptes … och h. Ingerid(?) Nilsdotter(?) … i östra(?) Glänna vid namn Anders; fadrar Erann(?) …” – faderns förnamn oläsligt. Ingen post med faderns namn Erik/Ers- läst med säkerhet. Jan–juni 1747 (bild 12–15) ingen Anders i marginalen; sept 1747 (bild 17–18) ingen Anders. Husförhörets Anders Ersson saknar dag/ort så inget datum att matcha.",
+   "persons": [
+    "fr_anderserson1747_lene"
+   ]
+  },
+  {
+   "title": "Elin Svensdotter f. 4/10 1756 – troligen Lene, far Sven Olofsson",
+   "text": "Dopbok C/4 bild 104 (okt 1756), högersida nederst, marg. ’Elin’: ”4 föddes Sven Olofsson och hustru Anna …dotter (Danielsdotter?) barn i Lena(?) och döptes d. 10 af Com. Hr Sven W: till Elin, faddrar Månde Olofsson i Boda gård, Nils Olofsson i Grönskog(?), Daniel Nils(?) Olofsson i Högåsen …”. Samma dag: ”4 föddes Pål(?) Svensson och h. Karin Olofsdotter(?) barn i Näs … till Elin” (marg. ’Elin’) – annan Elin (fader Pål, Näs). Den första matchar Anders Erssons hustru Elin Svensdotter f. 1756 (Lene, hf A I/9 bild 46) och dopet av dottern Catharina 1781 (”Hust: Elin Swensdr”). Matchning på namn+år+förnamn Sven; bostadsort (Lene) och moderns namn osäkert läst – candidate.",
+   "persons": [
+    "fr_elinlene1756"
+   ]
+  },
+  {
+   "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
+   "text": "Husförhör A I/1 bild 72 (Ö. Glänna 1725–29) visar ”Son Jon Andersson” och indraget ”H. Malin Olofsd.” i Anders Sidriksons hushåll; dopet 22/11 1726 (C/3 bild 13): ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid”. Faderns efternamn ’Ingesson’ kan vara en feltolkning av ’Andersson’. Dotter Ingerid f. 1726 ej hittad i husförhörsraderna A I/1–A I/2 (överstrukna/svårlästa). Förslag: uppgradera Malin till strong och Jon Andersson (inte Ingesson) som kandidat; verifiering kräver A I/2–A I/4 Ö. Glänna med ’D. Ingerid’ 1726 eller dödbok.",
+   "persons": [
+    "fr_ingeridjonsd1726",
+    "fr_jon_far_ingerid",
+    "fr_malinolofsd_ingerid"
+   ]
   }
  ],
  "conflicts": [

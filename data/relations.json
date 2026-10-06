@@ -5781,5 +5781,24 @@
   "child": "hencel_agnieszka_1847",
   "status": "candidate",
   "basis": "Augustyn Hencel (id augustyn_hencel) = Augustyn f. 1820? Ej bekräftat."
+ },
+ {
+  "id": "c-fr_andersnilsson1710_lene-fr_maritbryngelsd_lene-fr_jonasandersson_lene",
+  "type": "child",
+  "parents": [
+   "fr_andersnilsson1710_lene",
+   "fr_maritbryngelsd_lene"
+  ],
+  "child": "fr_jonasandersson_lene",
+  "status": "strong",
+  "basis": "Husförhör A I/7 bild 41 (fol. 28 Lene): hushåll ”Anders Nilsson” 1710, ”H. Marit Bryng…” 1708, ”S. Jonas” 1750 12/4 (fol. 28, C0037108_00041); dop C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter … kallat Jonas”, född 12/4 1750. Förnamnet Anders ej läsbart i dopposten; strong (ej verified) eftersom ”Jonas Andersson” härleds från husförhörets Anders."
+ },
+ {
+  "id": "p-fr_andersnilsson1710_lene-fr_maritbryngelsd_lene",
+  "type": "partner",
+  "a": "fr_andersnilsson1710_lene",
+  "b": "fr_maritbryngelsd_lene",
+  "status": "verified",
+  "basis": "Husförhör A I/7 bild 41 (fol. 28 Lene): ”Anders Nilsson” 1710, direkt följd av ”H. Marit Bryng…” 1708; dop C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”."
  }
 ]
