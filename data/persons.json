@@ -33317,7 +33317,7 @@
  {
   "id": "ap5_karingunnel_jo27",
   "name": "Karin Gunnel Olsson (f. 1927, Nyed)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {
@@ -33344,7 +33344,7 @@
  {
   "id": "ap5_akegunnar_jo29",
   "name": "Åke Gunnar Olsson (f. 1929, Nyed)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": true,
   "born": {
@@ -34354,7 +34354,7 @@
  {
   "id": "aq1_ester_pj76",
   "name": "Ester Johansson (f. 1876 Ny-Huggenäs)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34386,7 +34386,7 @@
  {
   "id": "aq1_josef_pj79",
   "name": "Josef Emanuel (Immanuel) Johansson (f. 1879 Ny-Huggenäs)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34418,7 +34418,7 @@
  {
   "id": "aq1_kristina_pj70",
   "name": "Kristina (f. 1870 Väse), i Petrus Johanssons hushåll 1880",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34445,7 +34445,7 @@
  {
   "id": "aq1_rebecka_pj81",
   "name": "Rebecka Naemi Johansson (f. 1881 Ny)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34478,7 +34478,7 @@
  {
   "id": "aq1_hezekiel_pj83",
   "name": "Hezekiel (Hesekiel) Natanael Johansson (f. 1883 Ljusnarsberg)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34510,7 +34510,7 @@
  {
   "id": "aq1_hanna_pj85",
   "name": "Hanna Maria Johansson (f. 1885 Stora Tuna)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34547,7 +34547,7 @@
  {
   "id": "aq1_sara_pj87",
   "name": "Sara Elisabeth Johansson (f. 1887 Stora Tuna)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34584,7 +34584,7 @@
  {
   "id": "aq1_elsa_pj89",
   "name": "Elsa Debora Johansson (f. 1889 Stora Tuna)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34997,7 +34997,7 @@
  {
   "id": "aq2_klara_karlsson_1910",
   "name": "Klara Karlsson (f. 1910, Tyskland)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35022,7 +35022,7 @@
  {
   "id": "aq2_anna_kristina_karlsson_1916",
   "name": "Anna Kristina Karlsson (f. 1916, Trollhättan)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35824,7 +35824,7 @@
  {
   "id": "aq3_karlerik_jansson19",
   "name": "Karl Erik Torvald Jansson (f. 1919, Grava)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35851,7 +35851,7 @@
  {
   "id": "aq3_gerdulla_jansson25",
   "name": "Gerd Ulla-Britta Jansson (f. 1925, Grava)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35907,7 +35907,7 @@
  {
   "id": "aq3_hildakristina_jonasson07",
   "name": "Hilda Kristina Jonasson (f. 1907, Nor)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35963,7 +35963,7 @@
  {
   "id": "aq3_gustafadolf_skoldberg13",
   "name": "Gustaf Adolf Sköldberg (f. 1913, Adolf Fredrik, Stockholm)",
-  "status": "candidate",
+  "status": "lead",
   "sex": "m",
   "living": false,
   "born": {
@@ -35975,7 +35975,8 @@
   ],
   "summary": "Boende i Karl Johan Nilssons hushåll i Norra Boda 1930 (relation ej angiven; sannolikt fosterson/inneboende).",
   "notes": [
-   "FOLKRÄKNING 1930 Boda, Norra Boda 1/2 m. kr. skatte, s.3 r.28 (post 128380656): ”Sköldberg, Gustaf Adolf, f. 1913 i Adolf Fredrik Stockholms stad” i hushållet Karl Johan Nilsson/Milla Gudbrandsdotter Fagerheim. Familjeställning/Famstkod ej läst."
+   "FOLKRÄKNING 1930 Boda, Norra Boda 1/2 m. kr. skatte, s.3 r.28 (post 128380656): ”Sköldberg, Gustaf Adolf, f. 1913 i Adolf Fredrik Stockholms stad” i hushållet Karl Johan Nilsson/Milla Gudbrandsdotter Fagerheim. Familjeställning/Famstkod ej läst.",
+   "Nedgraderad (omgång 24): föräldrarelationen dementerades: olms stad | fosters. / Barn” i hushållet Nilsson, Karl Johan (Folk_128380656) och Gudbrandsdotter Fagerheim, Milla (Folk_128380657). Familjeställning ”fosters.” = fosterson, alltså ej biologiskt barn."
   ],
   "sources": [
    {
@@ -35985,7 +35986,8 @@
   ],
   "search": [
    "Gustaf Adolf Sköldberg (f. 1913, Adolf Fredrik, Stockholm)"
-  ]
+  ],
+  "sidoperson": true
  },
  {
   "id": "aq3_emanuel_johannesson44",
@@ -36044,7 +36046,7 @@
  {
   "id": "aq3_johangottfrid_emanuelsson73",
   "name": "Johan Gottfrid Emanuelsson (f. 1873, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36072,7 +36074,7 @@
  {
   "id": "aq3_jonasalbin_emanuelsson77",
   "name": "Jonas Albin Emanuelsson (f. 1877, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36136,7 +36138,7 @@
  {
   "id": "aq3_enokferdinand_emanuelsson86",
   "name": "Enok Ferdinand Emanuelsson (f. 1886, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36163,7 +36165,7 @@
  {
   "id": "aq3_abelfritof_emanuelsson88",
   "name": "Abel Fritof Emanuelsson (f. 1888, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36217,7 +36219,7 @@
  {
   "id": "aq3_ruth_nilsson13",
   "name": "Ruth Kajsa Maria Nilsson (f. 1913, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36244,7 +36246,7 @@
  {
   "id": "aq3_gunwor_nilsson18",
   "name": "Gunwor Anna Linnéa Nilsson (f. 1918, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -36298,7 +36300,7 @@
  {
   "id": "aq3_nilsgustaf_emanuelsson14",
   "name": "Nils Gustaf Emanuel Emanuelsson (f. 1914, Lidingö)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36325,7 +36327,7 @@
  {
   "id": "aq3_kjellolof_emanuelsson16",
   "name": "Kjell Olof Albin Emanuelsson (f. 1916, Umeå landsförsamling)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36352,7 +36354,7 @@
  {
   "id": "aq3_johnoskar_emanuelsson19",
   "name": "John Oskar Gunnar Emanuelsson (f. 1919, Torp, Västernorrlands län)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36379,7 +36381,7 @@
  {
   "id": "aq3_karlerikenok_emanuelsson21",
   "name": "Karl Erik Enok Emanuelsson (f. 1921, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36406,7 +36408,7 @@
  {
   "id": "aq3_ingridmaria_emanuelsson26",
   "name": "Ingrid Maria Paulina Emanuelsson (f. 1926, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": true,
   "born": {

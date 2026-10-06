@@ -9167,8 +9167,8 @@
    "maria_ak_1856"
   ],
   "child": "hanna_maria_an_1890",
-  "status": "candidate",
-  "basis": "Folkräkning 1910: Hanna Maria 1890 i hushållet med Maria (1856) och Anders (1855); moderskap ej uttryckligt."
+  "status": "excluded",
+  "basis": "Folkräkning 1910: Hanna Maria 1890 i hushållet med Maria (1856) och Anders (1855); moderskap ej uttryckligt. DEMENTERAD (omgång 24): Folkräkning 1890 Frykerud s.15 (Folk_103488335–40): ”Nilsson, Anders | 1855 Boda | Far/man”, hustru ”Jansdotter, Maja Kajsa | 1857 Frykerud | h./Mor/fru”, ”Hanna Maria | 1890 Frykerud | d./Barn”. Folkräkning 1900 s.46 (Folk_119380184–88): ”Andersdotter, Maria | 1856 Brunskog | h./Mor/fru” men barnet ”Hanna Maria | 1890 Frykerud | hans i 1g. d. / Barn” (= hans dotter i första giftet). Maria Andersdotter är alltså styvmor, inte mor. Far Anders Nilsson verifierad; mor = Maja Kajsa Jansdotter (f. 1857 Frykerud) enl. 1890."
  },
  {
   "id": "c-anders_nilsson_1855_boda_frykerud-maria_ak_1856-berta_emilia_an_1894",
@@ -9178,8 +9178,8 @@
    "maria_ak_1856"
   ],
   "child": "berta_emilia_an_1894",
-  "status": "candidate",
-  "basis": "Folkräkning 1910/1930: Berta Emilia 1894 i hushållet hos Maria och Anders; moderskap ej uttryckligt."
+  "status": "excluded",
+  "basis": "Folkräkning 1910/1930: Berta Emilia 1894 i hushållet hos Maria och Anders; moderskap ej uttryckligt. DEMENTERAD (omgång 24): Folkräkning 1900 Frykerud s.46 (Folk_119380184–89): ”Andersdotter, Maria | 1856 Brunskog | h./Mor/fru”, barnet ”Berta Emilia | 1894 Frykerud | hans i 1g. d. / Barn” (= hans dotter i första giftet); 1890 var Anders gift med Maja Kajsa Jansdotter (f. 1857 Frykerud; Folk_103488336). Maria är styvmor. Far Anders Nilsson verifierad (1900 och 1910 Folk_124043303 d./Barn)."
  },
  {
   "id": "p-johan_jonasson_1852_aak-anna_ak_1859",
@@ -9611,8 +9611,8 @@
    "ap5_arvida_svensson00"
   ],
   "child": "ap5_karingunnel_jo27",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Karin Gunnel f. 1927 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Karin Gunnel f. 1927 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900. VERIFIERAD (omgång 24): Folkräkning 1930 Nyed (Molkom), Folk_128911702: ”Karin Gunnel | f. 1927 Nyed Värmlands län | Familjeställning d. / Famstkod Barn | Familj nr 1 | s.55 r.44”, i hushållet Folk_128911700 Olsson, Olof Gunnar (f. 1897 Brunskog, Far/man, r.42) och Folk_128911701 Svensson, Arvida (f. 1900 Borås, h./Mor/fru, r.43)."
  },
  {
   "id": "c-olofgunnar_jo97-ap5_arvida_svensson00-ap5_akegunnar_jo29",
@@ -9622,8 +9622,8 @@
    "ap5_arvida_svensson00"
   ],
   "child": "ap5_akegunnar_jo29",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Åke Gunnar f. 1929 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900."
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1930 Nyed, Molkom (Folk_128911700): Åke Gunnar f. 1929 Nyed, barn i hushållet Olsson, Olof Gunnar f. 1897 / Svensson, Arvida f. 1900. VERIFIERAD (omgång 24): Folkräkning 1930 Nyed, Folk_128911703: ”Åke Gunnar | f. 1929 Nyed | Familjeställning s. / Barn | Familj nr 1 | s.55 r.45”, samma hushåll som Olof Gunnar Olsson (Folk_128911700) och Arvida Svensson (Folk_128911701)."
  },
  {
   "id": "c-jo_johanaugust-jo_hulda_maria81-ap5_mariaelvina_ja02",
@@ -10034,8 +10034,8 @@
    "britta_oj52"
   ],
   "child": "aq1_rebecka_pj81",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1881; familjeställning ej angiven i utdraget."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1881; familjeställning ej angiven i utdraget. VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog (Brunskogs moder) s.21 r.45–50/s.22: hushåll med ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_103598065) och ”Olsson, Brita | 1852 Brunskog | h./Mor/fru” (Folk_103598066); barn ”Rebecka Naemi | 1881 Ny Werml. | d. / Barn” (Folk_103598069 r.49). Barnet står som d. i makarnas hushåll, födelseår och ort stämmer."
  },
  {
   "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_hezekiel_pj83",
@@ -10045,8 +10045,8 @@
    "britta_oj52"
   ],
   "child": "aq1_hezekiel_pj83",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1883; familjeställning ej angiven i utdraget."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1883; familjeställning ej angiven i utdraget. VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog (Brunskogs moder) s.21 r.45–50/s.22: hushåll med ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_103598065) och ”Olsson, Brita | 1852 Brunskog | h./Mor/fru” (Folk_103598066); barn ”Hezekiel Natanaël | 1883 Ljusnarsberg Örebro län | s. / Barn” (Folk_103598070 r.50). Barnet står som s. i makarnas hushåll, födelseår och ort stämmer."
  },
  {
   "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_hanna_pj85",
@@ -10056,8 +10056,8 @@
    "britta_oj52"
   ],
   "child": "aq1_hanna_pj85",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1885; familjeställning ej angiven i utdraget."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1885; familjeställning ej angiven i utdraget. VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog (Brunskogs moder) s.21 r.45–50/s.22: hushåll med ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_103598065) och ”Olsson, Brita | 1852 Brunskog | h./Mor/fru” (Folk_103598066); barn ”Hanna Maria | 1885 Stora Tuna Kopparbergs län | d. / Barn” (Folk_103598071 s.22 r.1). Barnet står som d. i makarnas hushåll, födelseår och ort stämmer."
  },
  {
   "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_sara_pj87",
@@ -10067,8 +10067,8 @@
    "britta_oj52"
   ],
   "child": "aq1_sara_pj87",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1887; familjeställning ej angiven i utdraget."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1887; familjeställning ej angiven i utdraget. VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog (Brunskogs moder) s.21 r.45–50/s.22: hushåll med ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_103598065) och ”Olsson, Brita | 1852 Brunskog | h./Mor/fru” (Folk_103598066); barn ”Sara Elisabeth | 1887 Stora Tuna Kopparbergs län | d. / Barn” (Folk_103598072 s.22 r.2). Barnet står som d. i makarnas hushåll, födelseår och ort stämmer."
  },
  {
   "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_elsa_pj89",
@@ -10078,8 +10078,8 @@
    "britta_oj52"
   ],
   "child": "aq1_elsa_pj89",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1889; familjeställning ej angiven i utdraget."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910: barn i hushåll med Petrus Johansson och hustru Britta (f. 1852), f. 1889; familjeställning ej angiven i utdraget. VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog (Brunskogs moder) s.21 r.45–50/s.22: hushåll med ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_103598065) och ”Olsson, Brita | 1852 Brunskog | h./Mor/fru” (Folk_103598066); barn ”Elsa Debora | 1889 Stora Tuna Kopparbergs län | d. / Barn” (Folk_103598073 s.22 r.3). Barnet står som d. i makarnas hushåll, födelseår och ort stämmer."
  },
  {
   "id": "c-petrus_johansson_strmtorp-britta_oj52-aq1_bror_pj92",
@@ -10121,8 +10121,8 @@
    "petrus_johansson_strmtorp"
   ],
   "child": "aq1_ester_pj76",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ramstad (Ny): Ester f. 1876 i hushåll med Petrus (änkling); modern okänd (före giftermålet 1881)."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ramstad (Ny): Ester f. 1876 i hushåll med Petrus (änkling); modern okänd (före giftermålet 1881). VERIFIERAD (omgång 24): Folkräkning 1880 Ny annex s.20 r.42–45: ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_120367288), därefter ”Ester | 1876 Ny-Huggenäs | D. / Barn” (Folk_120367290) i samma hushåll; ingen hustru i hushållet. Far verifierad, mor okänd. (Även 1890 Brunskog Folk_103598067: Ester 1876 Ny Werml. d./Barn hos Petrus + Brita.)"
  },
  {
   "id": "c-petrus_johansson_strmtorp-aq1_josef_pj79",
@@ -10131,8 +10131,8 @@
    "petrus_johansson_strmtorp"
   ],
   "child": "aq1_josef_pj79",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ramstad (Ny): Josef Immanuel f. 1879 i hushåll med Petrus (änkling); modern okänd."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ramstad (Ny): Josef Immanuel f. 1879 i hushåll med Petrus (änkling); modern okänd. VERIFIERAD (omgång 24): Folkräkning 1880 Ny annex s.20 r.42–45: Petrus Johansson (f. 1846 Väse, Far/man, Folk_120367288), ”Josef Immanuel | 1879 Ny-Huggenäs | S. / Barn” (Folk_120367291). 1890 Brunskog (Folk_103598068): ”Josef Emanuel | 1879 Ny Werml. | s./Barn” hos Petrus och Brita. Far verifierad, mor okänd."
  },
  {
   "id": "c-petrus_johansson_strmtorp-aq1_kristina_pj70",
@@ -10141,8 +10141,8 @@
    "petrus_johansson_strmtorp"
   ],
   "child": "aq1_kristina_pj70",
-  "status": "candidate",
-  "basis": "Folkräkning 1880: Kristina f. 1870 Väse i Petrus hushåll; relation ej angiven (dotter eller syster)."
+  "status": "verified",
+  "basis": "Folkräkning 1880: Kristina f. 1870 Väse i Petrus hushåll; relation ej angiven (dotter eller syster). VERIFIERAD (omgång 24): Folkräkning 1880 Ny annex s.20 r.43 (Folk_120367289): ”Kristina | 1870 Väse | D. / Barn” i hushållet efter ”Johansson, Petrus | 1846 Väse | Far/man” (Folk_120367288). Familjeställning D. = dotter; född Väse 1870 stämmer. (Åldersskillnad 24 år, möjligt.)"
  },
  {
   "id": "p-aq1_adolf_nilsson84-aq1_rut_pj94",
@@ -10252,8 +10252,8 @@
    "anna_maria_nilsson_karlsson_arvika"
   ],
   "child": "aq2_klara_karlsson_1910",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908). VERIFIERAD (omgång 24): Folkräkning 1930 Arvika s.150 (Folk_129011907–10): ”Karlsson, Ture Bernhard | 1883 Nedre Ullerud | Far/man” (r.6), ”Nilsson, Anna Maria | 1886 Boda | h./Mor/fru” (r.7), ”Klara | 1910 | b. d. / Barn” (Folk_129011910, r.9; b. d. = båda föräldrarnas dotter, födelseförsamling tom i indexet = utlandet, ej separat läst).",
   "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_klara_karlsson_1910"
  },
  {
@@ -10263,8 +10263,8 @@
    "anna_maria_nilsson_karlsson_arvika"
   ],
   "child": "aq2_anna_kristina_karlsson_1916",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908). VERIFIERAD (omgång 24): Folkräkning 1930 Arvika s.150 r.10 (Folk_129011911): ”Anna Kristina | 1916 Trollhättan Älvsborgs län | b. d. / Barn” i hushållet Ture Bernhard Karlsson (Folk_129011907) och Anna Maria Nilsson (Folk_129011908); b. d. = bådas dotter.",
   "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_anna_kristina_karlsson_1916"
  },
  {
@@ -10345,8 +10345,8 @@
    "aq2_maria_andersdotter_1857_takene"
   ],
   "child": "anders_gustaf_johansson_1885",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene). VERIFIERAD (omgång 24): Folkräkning 1890 Brunskog s.24 (Folk_103598199–202): ”Olsson, Johan | 1858 Brunskog | Far/man”, ”Andersdotter, Maria | 1857 Brunskog | h./Mor/fru”, ”Anders Gustaf | 1885 Grava | s. / Barn”. Samma 1900 s.28 (Folk_109938006–09): ”Anders Gustaf | 1885 Grava | s. / Barn”. Födelseort Grava stämmer med husförhöret A II a/3.",
   "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-anders_gustaf_johansson_1885"
  },
  {
@@ -10592,8 +10592,8 @@
    "aq3_gerda_goransson85"
   ],
   "child": "aq3_karlerik_jansson19",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst. VERIFIERAD (omgång 24): Folkräkning 1930 Grava med Forshaga s.22 (Folk_132133969–72): ”Jansson, Karl Johan | 1889 Nor | Far/man” (r.15), ”Jansson Göransson, Gerda Ottilia | 1885 Grava | h./Mor/fru” (r.16), ”Karl Erik Torvald | 1919 Grava | s. / Barn” (r.17). Obs: faderns efternamn i källan är Jansson (vår post: Larsson)."
  },
  {
   "id": "c-larsson_karljohan89-aq3_gerda_goransson85-aq3_gerdulla_jansson25",
@@ -10603,8 +10603,8 @@
    "aq3_gerda_goransson85"
   ],
   "child": "aq3_gerdulla_jansson25",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Grava Hjärpetan s.22 r.15: Karl Johan Jansson f. 1889 Nor (Gift 1917, Far/man), Gerda Ottilia Göransson f. 1885 Grava, Karl Erik Torvald f. 1919, Gerd Ulla-Britta f. 1925. Familjeställning för barnen ej separat läst. VERIFIERAD (omgång 24): Folkräkning 1930 Grava med Forshaga s.22 r.18 (Folk_132133972): ”Gerd Ulla-Britta | 1925 Grava | d. / Barn” i hushållet Karl Johan Jansson (Folk_132133969) och Gerda Ottilia Jansson Göransson (Folk_132133970)."
  },
  {
   "id": "p-larsson_ellenmaria85-aq3_johangustaf_jonasson84",
@@ -10622,8 +10622,8 @@
    "larsson_ellenmaria85"
   ],
   "child": "aq3_hildakristina_jonasson07",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil. VERIFIERAD (omgång 24): Folkräkning 1910 Karlstad stad s.112 (Folk_126865416–18): ”Jonasson, Johan Gustaf | 1884 Nor | Far/man” (r.12), ”Jansson, Ellen Maria | 1885 Nor | h./Mor/fru” (r.13), ”Hilda Kristina | 1907 Nor | d. / Barn” (r.14). Även 1930 Grava s.64 r.46 (Folk_132136070) d./Barn hos Ellen Maria."
  },
  {
   "id": "c-aq3_johangustaf_jonasson84-larsson_ellenmaria85-aq3_jannenatanael_jonasson11",
@@ -10644,8 +10644,8 @@
    "milla_fagerheim73"
   ],
   "child": "aq3_gustafadolf_skoldberg13",
-  "status": "candidate",
-  "basis": "Folkräkning 1930 Norra Boda s.3 r.28: Gustaf Adolf Sköldberg f. 1913 Stockholm i hushållet; efternamnet avviker -> sannolikt foster-/pleje-barn, ej biologiskt barn belagt."
+  "status": "excluded",
+  "basis": "Folkräkning 1930 Norra Boda s.3 r.28: Gustaf Adolf Sköldberg f. 1913 Stockholm i hushållet; efternamnet avviker -> sannolikt foster-/pleje-barn, ej biologiskt barn belagt. DEMENTERAD (omgång 24): Folkräkning 1930 Boda s.3 r.30 (Folk_128380658): ”Sköldberg, Gustaf Adolf | 1913 Adolf Fredrik Stockholms stad | fosters. / Barn” i hushållet Nilsson, Karl Johan (Folk_128380656) och Gudbrandsdotter Fagerheim, Milla (Folk_128380657). Familjeställning ”fosters.” = fosterson, alltså ej biologiskt barn."
  },
  {
   "id": "p-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50",
@@ -10674,8 +10674,8 @@
    "aq3_kajsa_gudmundsd50"
   ],
   "child": "aq3_johangottfrid_emanuelsson73",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. VERIFIERAD (omgång 24): Folkräkning 1910 Frykerud s.28: ”Johannesson, Emanuel | 1844 Frykerud | Far/man” (Folk_124043426, r.25), ”Gudmunsdotter, Kajsa | 1850 Östra Ämtervik | h./Mor/fru” (Folk_124043427, r.26), ”Johan Gottfrid | 1873 Frykerud | s. / Barn (Folk_124043428, s.28 r.27)” i samma hushåll."
  },
  {
   "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_jonasalbin_emanuelsson77",
@@ -10685,8 +10685,8 @@
    "aq3_kajsa_gudmundsd50"
   ],
   "child": "aq3_jonasalbin_emanuelsson77",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. VERIFIERAD (omgång 24): Folkräkning 1910 Frykerud s.28: ”Johannesson, Emanuel | 1844 Frykerud | Far/man” (Folk_124043426, r.25), ”Gudmunsdotter, Kajsa | 1850 Östra Ämtervik | h./Mor/fru” (Folk_124043427, r.26), ”Jonas Albin | 1877 Frykerud | s. / Barn (Folk_124043429, r.28)” i samma hushåll."
  },
  {
   "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_gerdamaria_emanuelsson83",
@@ -10696,8 +10696,8 @@
    "aq3_kajsa_gudmundsd50"
   ],
   "child": "aq3_gerdamaria_emanuelsson83",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. VERIFIERAD (omgång 24): Folkräkning 1910 Frykerud s.28: ”Johannesson, Emanuel | 1844 Frykerud | Far/man” (Folk_124043426, r.25), ”Gudmunsdotter, Kajsa | 1850 Östra Ämtervik | h./Mor/fru” (Folk_124043427, r.26), ”Gerda Maria | 1883 Frykerud | d. / Barn (Folk_124043431, r.30)” i samma hushåll."
  },
  {
   "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_enokferdinand_emanuelsson86",
@@ -10707,8 +10707,8 @@
    "aq3_kajsa_gudmundsd50"
   ],
   "child": "aq3_enokferdinand_emanuelsson86",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. VERIFIERAD (omgång 24): Folkräkning 1910 Frykerud s.28: ”Johannesson, Emanuel | 1844 Frykerud | Far/man” (Folk_124043426, r.25), ”Gudmunsdotter, Kajsa | 1850 Östra Ämtervik | h./Mor/fru” (Folk_124043427, r.26), ”Enok Ferdinand | 1886 Frykerud | s. / Barn (Folk_124043432, r.31)” i samma hushåll."
  },
  {
   "id": "c-aq3_emanuel_johannesson44-aq3_kajsa_gudmundsd50-aq3_abelfritof_emanuelsson88",
@@ -10718,8 +10718,8 @@
    "aq3_kajsa_gudmundsd50"
   ],
   "child": "aq3_abelfritof_emanuelsson88",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Frykerud, Köpung, s.28 r.29 (post 124043430, Domprosteriet): Emanuel Johannesson f. 1844 Frykerud (Sadelmakare), Kajsa Gudmunsdotter f. 1850 Östra Ämtervik, barn Johan Gottfrid 1873, Jonas Albin 1877, Oskar Alfred 1881 (Ogift, familjeställning ”s.”), Gerda Maria 1883, Enok Ferdinand 1886, Abel Fritof 1888. VERIFIERAD (omgång 24): Folkräkning 1910 Frykerud s.28: ”Johannesson, Emanuel | 1844 Frykerud | Far/man” (Folk_124043426, r.25), ”Gudmunsdotter, Kajsa | 1850 Östra Ämtervik | h./Mor/fru” (Folk_124043427, r.26), ”Abel Fritof | 1888 Frykerud | s. / Barn (Folk_124043433, r.32)” i samma hushåll."
  },
  {
   "id": "p-aq3_karlemil_nilsson68-aq3_gerdamaria_emanuelsson83",
@@ -10737,8 +10737,8 @@
    "aq3_gerdamaria_emanuelsson83"
   ],
   "child": "aq3_ruth_nilsson13",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918. VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.45 (Folk_128608289–91): ”Nilsson, Karl Emil | 1868 Frykerud | Far/man” (r.42), ”Emanuelsson, Gerda Maria | 1883 Frykerud | h./Mor/fru” (r.43), ”Ruth Kajsa Maria | 1913 Frykerud | d. / Barn” (r.44)."
  },
  {
   "id": "c-aq3_karlemil_nilsson68-aq3_gerdamaria_emanuelsson83-aq3_gunwor_nilsson18",
@@ -10748,8 +10748,8 @@
    "aq3_gerdamaria_emanuelsson83"
   ],
   "child": "aq3_gunwor_nilsson18",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Prästbol Hagaborg nr 1, s.45 r.43 (kyrkobokf. s.564): Karl Emil Nilsson f. 1868 Frykerud (hemmansägare), Gerda Maria Emanuelsson f. 1883 Frykerud (Gift 1912, ”h.”, Mor/fru, f. Emanuelsson), Ruth Kajsa Maria f. 1913 (hemmadotter), Gunwor Anna Linnéa f. 1918. VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.45 r.45 (Folk_128608292): ”Gunwor Anna Linnéa | 1918 Frykerud | d. / Barn” i hushållet Karl Emil Nilsson (Folk_128608289) och Gerda Maria Emanuelsson (Folk_128608290, h./Mor/fru)."
  },
  {
   "id": "p-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90",
@@ -10767,8 +10767,8 @@
    "aq3_hulda_nilsson90"
   ],
   "child": "aq3_nilsgustaf_emanuelsson14",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud). VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.38 (Folk_128607984–85): ”Emanuelsson, Jonas Albin | 1877 Frykerud | Far/man” (r.9), ”Nilsson, Hulda Paulina | 1890 Frykerud | h./Mor/fru” (r.10), ”Nils Gustaf Emanuel | 1914 Lidingö Stockholms län | s. / Barn” (Folk_128607986)."
  },
  {
   "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_kjellolof_emanuelsson16",
@@ -10778,8 +10778,8 @@
    "aq3_hulda_nilsson90"
   ],
   "child": "aq3_kjellolof_emanuelsson16",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud). VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.38 (Folk_128607984–85): ”Emanuelsson, Jonas Albin | 1877 Frykerud | Far/man” (r.9), ”Nilsson, Hulda Paulina | 1890 Frykerud | h./Mor/fru” (r.10), ”Kjell Olof Albin | 1916 Umeå landsförsamling Västerbottens län | s. / Barn” (Folk_128607987)."
  },
  {
   "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_johnoskar_emanuelsson19",
@@ -10789,8 +10789,8 @@
    "aq3_hulda_nilsson90"
   ],
   "child": "aq3_johnoskar_emanuelsson19",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud). VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.38 (Folk_128607984–85): ”Emanuelsson, Jonas Albin | 1877 Frykerud | Far/man” (r.9), ”Nilsson, Hulda Paulina | 1890 Frykerud | h./Mor/fru” (r.10), ”John Oskar Gunnar | 1919 Torp Västernorrlands län | s. / Barn” (Folk_128607988)."
  },
  {
   "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_karlerikenok_emanuelsson21",
@@ -10800,8 +10800,8 @@
    "aq3_hulda_nilsson90"
   ],
   "child": "aq3_karlerikenok_emanuelsson21",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud). VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.38 (Folk_128607984–85): ”Emanuelsson, Jonas Albin | 1877 Frykerud | Far/man” (r.9), ”Nilsson, Hulda Paulina | 1890 Frykerud | h./Mor/fru” (r.10), ”Karl Erik Enok | 1921 Frykerud | s. / Barn” (Folk_128607989)."
  },
  {
   "id": "c-aq3_jonasalbin_emanuelsson77-aq3_hulda_nilsson90-aq3_ingridmaria_emanuelsson26",
@@ -10811,8 +10811,8 @@
    "aq3_hulda_nilsson90"
   ],
   "child": "aq3_ingridmaria_emanuelsson26",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud)."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Frykerud, Lund Grönlund, s.38 r.9 (post 128607984, kyrkobokf. s.481): Jonas Albin Emanuelsson f. 1877 Frykerud (ingenjör, Gift 1913), Hulda Paulina Nilsson f. 1890 Frykerud, barn Nils Gustaf Emanuel 1914 (Lidingö), Kjell Olof Albin 1916 (Umeå lfs), John Oskar Gunnar 1919 (Torp, Västernorrland), Karl Erik Enok 1921 (Frykerud), Ingrid Maria Paulina 1926 (Frykerud). VERIFIERAD (omgång 24): Folkräkning 1930 Frykerud s.38 (Folk_128607984–85): ”Emanuelsson, Jonas Albin | 1877 Frykerud | Far/man” (r.9), ”Nilsson, Hulda Paulina | 1890 Frykerud | h./Mor/fru” (r.10), ”Ingrid Maria Paulina | 1926 Frykerud | d. / Barn” (Folk_128607990)."
  },
  {
   "id": "c-jakob_jonsson22_amot-britta_olofsd28_amot-aq5_olof_jj55",
@@ -11466,8 +11466,8 @@
    "as1_brita_nilsdotter_1839_skog"
   ],
   "child": "d7_karl_oskar_olofsson_skog",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog s.25–26 (Folk_120423071–76): ”Jansson, Olof | 1842 Brunskog | Far/man”, ”Nilsdotter, Britta | 1839 Brunskog | h./Mor/fru”, ”Karl Oskar | 1879 Brunskog | son / Barn” (Folk_120423076, s.26 r.1). Även 1890 s.20–21 (Folk_103598019–23): ”Karl Oskar | 1879 Brunskog | s./Barn” hos Olof och Brita."
  },
  {
   "id": "c-jozef_orzechowski-katarzyna_zatorska-aq4_stanislaw_orzechowski_1905",
