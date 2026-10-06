@@ -20060,7 +20060,7 @@
  {
   "id": "d7_britta_maria_nolen",
   "name": "Britta Maria Nolén (Där Nole, Svartåna, f. 1865)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -20123,9 +20123,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "place": "Svartåna",
-   "note": "Födelseår ej säkert läst (krossat i bok); dag 31/7."
+   "date": "1872-07-31",
+   "place": "Svartåna, Brunskog"
   },
   "places": [
    "Lyckan, Svartåna",
@@ -20133,7 +20132,8 @@
   ],
   "summary": "Son i Olof Anderssons hushåll, Lyckan (Svartåna); Nordamerika 8 mars 1893 med kunglig tillåtelse att lämna riket (frikallad 1888). Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”. Nils: ”Frikallad 1888”, ”Kungl. Maj:ts tillstånd att lämna riket”, ”Nordamerika 93 8/3 27”. Johannes: Nedra Ullerud 93 30/10; Elisabeth: N. Ullerud 95 1/11."
+   "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”. Nils: ”Frikallad 1888”, ”Kungl. Maj:ts tillstånd att lämna riket”, ”Nordamerika 93 8/3 27”. Johannes: Nedra Ullerud 93 30/10; Elisabeth: N. Ullerud 95 1/11.",
+   "Folkräkning 1880 f. 1872; husförhör 31/7."
   ],
   "sources": [
    {
@@ -20152,9 +20152,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "place": "Svartåna",
-   "note": "6/12; årtal svårläst"
+   "date": "1873",
+   "place": "Svartåna, Brunskog"
   },
   "places": [
    "Östra Nolbystegen, Svartåna",
@@ -20162,7 +20161,8 @@
   ],
   "summary": "Son till Anders Persson (f. 1830-06-27) och Maria Jonsdotter (1828?-01-16); Nordamerika 27 feb 1891 (nr 17). Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”. Emil: ”Nordamerika 91 27/2 17”."
+   "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”. Emil: ”Nordamerika 91 27/2 17”.",
+   "Folkräkning 1880 Folk_120423435: Emil f. 1873 Brunskog (s.) hos Anders Persson/Maria Jonsdotter; husförhör 6/12 → född 6/12 1873."
   ],
   "sources": [
    {
@@ -20267,8 +20267,8 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1874-06-02",
-   "place": "Takene"
+   "date": "1871-06-02",
+   "place": "Brunskog (Toltan/Takene)"
   },
   "places": [
    "Skog (gård)",
@@ -20276,7 +20276,8 @@
   ],
   "summary": "Dotter till Olof Jansson (f. 1850-09-21 Gunnarsbytorp) och Brita Nilsdotter; Nordamerika 22 maj 1891. Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”. Anna Maria: ”Nordamerika 91 22/5”. (Rader/födelseår 74 stämmer för Anna Maria 2/6.)"
+   "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”. Anna Maria: ”Nordamerika 91 22/5”. (Rader/födelseår 74 stämmer för Anna Maria 2/6.)",
+   "Född 2 juni 1871 (SCB 1871 lopnr 67 + folkräkning 1880 f. 1871); 1874 var felläsning. Föräldrabostad Tolkan/Toltan i SCB."
   ],
   "sources": [
    {
@@ -20567,7 +20568,7 @@
  {
   "id": "anna_olsson_1879_skog",
   "name": "Anna Olsson (f. 1879, Skog), g. Eriksson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -20668,7 +20669,7 @@
  {
   "id": "hilda_maria_olsdotter_1882",
   "name": "Hilda Maria Olsson (f. 1882, Skog), g. Eriksson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24305,7 +24306,7 @@
  {
   "id": "emanuel_magnusson_kyrkebyn",
   "name": "Emanuel Magnusson (Kyrkebyn, f. 1878)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24362,7 +24363,7 @@
  },
  {
   "id": "z_maria_sofia",
-  "name": "Maria Sofia Johannesdotter (Zetterlund)",
+  "name": "Anna Lydia Johannesdotter (Zetterlund) (tidigare 'Maria Sofia')",
   "status": "strong",
   "sex": "f",
   "living": false,
@@ -24374,7 +24375,8 @@
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
    "FOLKRÄKNING: 1890 ”Anna Lydia” f. 1876 i Brunskog; A I/35: ”Maria Sofia 76”. 1900 fam. nr 2 ”Anna Lydia” med barnen Johan Emanuel 1896 och Anna Helena 1900 (hos föräldrarna). Samma födelseår/ort – namnvariant, ej bevisat samma person.",
-   "FOLKRÄKNING 1910 Brunskog, Säfvelskog: ”Sätterlund, Anna Lydia, f. 1876 i Brunskog” i hushåll med torparen Olof Johannesson (1868) och barnen Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910."
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog: ”Sätterlund, Anna Lydia, f. 1876 i Brunskog” i hushåll med torparen Olof Johannesson (1868) och barnen Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910.",
+   "Husförhör A I/35 b.178 och folkräkning 1890 Folk_103597650 anger Anna Lydia f. 1876."
   ],
   "sources": [
    {
@@ -24441,7 +24443,7 @@
  {
   "id": "z_david_emanuel",
   "name": "David Emanuel Johannesson (Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24504,7 +24506,7 @@
  },
  {
   "id": "z_alfrida_christina",
-  "name": "Alfrida Christina Johannesdotter (Zetterlund)",
+  "name": "Hulda Karolina Johannesdotter (Zetterlund) (tidigare 'Alfrida Christina')",
   "status": "strong",
   "sex": "f",
   "living": false,
@@ -24517,7 +24519,8 @@
   "notes": [
    "FOLKRÄKNING: A I/35: ”Alfrida Christina 87”; folkräkning 1890 och 1900: ”Hulda Karolina, f. 1887 i Brunskog” – namnvariant (samma födelseår/ort), ej bevisad identitet.",
    "FOLKRÄKNING 1930 Arvika landsf., Ålgården: ”Hulda Karolina” f. 1887 Brunskog, f. Zetterlund, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen – samma födelseår/ort som ”Alfrida Christina” 1887: troligen samma person med namnvariant (ej bevisat; kontrollera husförhör Brunskog).",
-   "FOLKRÄKNING 1910 Arvika landsf., Ålgården: ”Sätterlund, Hulda Karolina f. 1887 Brunskog” hustru till kakelarbetaren Erik Martin Andersson (f. 1884 Hallen), son Gunnar 1910 – styrker att 1887-dottern är Hulda Karolina."
+   "FOLKRÄKNING 1910 Arvika landsf., Ålgården: ”Sätterlund, Hulda Karolina f. 1887 Brunskog” hustru till kakelarbetaren Erik Martin Andersson (f. 1884 Hallen), son Gunnar 1910 – styrker att 1887-dottern är Hulda Karolina.",
+   "Folkräkning 1890 Folk_103597654 och husförhör b.178: Hulda Karolina f. 1887."
   ],
   "sources": [
    {
@@ -24547,7 +24550,7 @@
  {
   "id": "z_signe_amalia",
   "name": "Signe Amalia Johannesdotter (Zetterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26035,7 +26038,7 @@
  {
   "id": "erik_kc_1862",
   "name": "Erik Kristoffersson (f. 1862)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26079,7 +26082,7 @@
  {
   "id": "britta_kc_1864",
   "name": "Britta Kristoffersdotter (f. 1864)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26123,7 +26126,7 @@
  {
   "id": "karin_kc_1873",
   "name": "Karin Kristoffersdotter (f. 1873)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26167,7 +26170,7 @@
  {
   "id": "maria_kc_1876",
   "name": "Maria Kristoffersdotter (f. 1876)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26349,7 +26352,7 @@
  {
   "id": "erik_ak_1862",
   "name": "Erik Andersson (f. 1862)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26376,7 +26379,7 @@
  {
   "id": "ingegard_ak_1866",
   "name": "Ingegärd Andersdotter (f. 1866)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26403,7 +26406,7 @@
  {
   "id": "nils_ak_1869",
   "name": "Nils Andersson (f. 1869)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -26430,7 +26433,7 @@
  {
   "id": "emma_ak_1872",
   "name": "Emma Andersdotter (f. 1872)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -26457,7 +26460,7 @@
  {
   "id": "karolina_ak_1875",
   "name": "Karolina Andersdotter (f. 1875)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -27514,7 +27517,7 @@
  {
   "id": "karin_pa69",
   "name": "Karin Persson (Adamsson) (f. 1869)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
@@ -27736,7 +27739,7 @@
  {
   "id": "olof_ao61",
   "name": "Olof Andersson (Olsson) (f. 1861)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
@@ -27763,7 +27766,7 @@
  {
   "id": "emil_ao63",
   "name": "Emil Andersson (Olsson) (f. 1863)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
@@ -27790,7 +27793,7 @@
  {
   "id": "maria_ao68",
   "name": "Maria Andersson (Olsdotter), g. Andersson? (f. 1868)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
@@ -27823,7 +27826,7 @@
  {
   "id": "johannes_ao73",
   "name": "Johannes Andersson (Olsson) (f. 1873)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
@@ -27850,7 +27853,7 @@
  {
   "id": "annalisa_ao76",
   "name": "Anna Lisa Andersson, g. Berggren (f. 1876)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
@@ -28014,7 +28017,7 @@
  {
   "id": "johan_nilsson77_gullsby",
   "name": "Johan Nilsson (f. 1877, Gullsby, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29097,7 +29100,7 @@
  {
   "id": "nils_paul_pa86",
   "name": "Nils Paul Persson (f. 1886)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29132,19 +29135,20 @@
  {
   "id": "anna_emilia_pa87",
   "name": "Anna Emilia Persson (f. 1887)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
    "date": "1887",
-   "place": "Brunskog"
+   "place": "Boda (enligt folkräkning 1890; kontrollera mot SCB/dop)"
   },
   "places": [
    "Brunskog"
   ],
   "summary": "Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll (Nolby/Svartåna, Brunskog). 1890 anges födelseort Boda (sannolikt skrivfel).",
   "notes": [
-   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1887 Brunskog (egen familjeställning ej utläst)."
+   "FOLKRÄKNING: Barn i Emil Perssons (f. 1858) och Anna Charlotta Nilsdotters hushåll; födelseår 1887 Brunskog (egen familjeställning ej utläst).",
+   "Folkräkning 1890 Folk_103597530 anger födelseförsamling Boda Värmlands län."
   ],
   "sources": [
    {
@@ -29167,7 +29171,7 @@
  {
   "id": "maria_elisabet_pa89",
   "name": "Maria Elisabet Persson (f. 1889)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29492,7 +29496,7 @@
  {
   "id": "johan_albert_olsson86",
   "name": "Johan Albert Olsson (f. 1886)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -34880,7 +34884,7 @@
  {
   "id": "aq1_hulda_n81",
   "name": "Hulda Kristina Nilsson (f. 1881 Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -34907,7 +34911,7 @@
  {
   "id": "aq1_alma_n89",
   "name": "Alma Maria Nilsson (f. 1889 Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35261,7 +35265,7 @@
  {
   "id": "aq2_anna_maria_olsson_1881_takene",
   "name": "Anna Maria Olsson (f. 1881, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35286,7 +35290,7 @@
  {
   "id": "aq2_amanda_amalia_olsson_1887_takene",
   "name": "Amanda Amalia Olsson (f. 1887, Brunskog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -35586,7 +35590,7 @@
  {
   "id": "aq2_olof_andersson_1875_takene",
   "name": "Olof Olsson (f. 1875; Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36819,7 +36823,7 @@
  {
   "id": "as1_olof_albert_olofsson_1880",
   "name": "Olof Albert Olofsson (Östra Skogshaget, f. 1880)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -37009,13 +37013,12 @@
  {
   "id": "as1_johannes_olofsson_lyckan_1867",
   "name": "Johannes Olofsson (Lyckan, Svartåna, f. 1867?)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "place": "Svartåna",
-   "note": "67? 24/7"
+   "date": "1867-07-24",
+   "place": "Svartåna, Brunskog"
   },
   "places": [
    "Lyckan, Svartåna",
@@ -37023,7 +37026,8 @@
   ],
   "summary": "Barn i Olof Anderssons hushåll, Lyckan; till Nedra Ullerud 30/10 1893.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 213: ”Johannes 67? 24/7 Svartåna”, flytt ”Nedra Ullerud 93 30/10”."
+   "HUSFÖRHÖR A I/37 bild 213: ”Johannes 67? 24/7 Svartåna”, flytt ”Nedra Ullerud 93 30/10”.",
+   "Folkräkning 1880 f. 1867; husförhör 24/7."
   ],
   "sources": [
    {
@@ -37038,7 +37042,7 @@
  {
   "id": "as1_elisabeth_olofsdotter_lyckan_1874",
   "name": "Elisabeth Olofsdotter (Lyckan, f. 1874)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -37093,7 +37097,7 @@
  {
   "id": "as1_anna_sofia_olofsdotter_1879",
   "name": "Anna Sofia (Där Nole, Svartåna, f. 1879)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -37175,7 +37179,7 @@
  {
   "id": "as1_karin_olofsdotter_1874",
   "name": "Karin Olofsdotter (Skog/Gärde, f. 1874)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {

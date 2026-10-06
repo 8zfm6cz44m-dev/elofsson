@@ -5924,8 +5924,8 @@
    "stina_jansdotter"
   ],
   "child": "emanuel_magnusson_kyrkebyn",
-  "status": "candidate",
-  "basis": "Folkräkning 1930 Kyrkebyn (Folk_128883351): Stina ”mor” i hushåll med Emanuel Magnusson f. 1878; oklart om hans mor eller hustruns mor."
+  "status": "verified",
+  "basis": "Folkräkning 1930 Kyrkebyn (Folk_128883351): Stina ”mor” i hushåll med Emanuel Magnusson f. 1878; oklart om hans mor eller hustruns mor. VERIFIERAD (omgång 24): Folkräkning 1890 Gullsby s.7 (Folk_103597366): Magnusson, Emanuel f. 1878 Brunskog, Familjeställning 'd.s.' (dotterson till hushållsföreståndaren Svensson, Jan f. 1821 Boda), rad 33, Fam. nr 2: 'Stina, f. 1847 i Brunskog' med barnen Emanuel 1878, Johan Peter 1880, Olof Conrad 1884 (alla Magnusson). Alltså Emanuel = Stinas son (dotterson till Jan Svensson). Folkräkning 1930 Kyrkebyn (Folk_128883349): Emanuel Magnusson f. 1878 Brunskog, hemmansägare, med 'Nilsson Jansdotter, Stina, f. 1847 i Brunskog' i hushållet (Folk_128883351). Enbart modern relevant (fader Magnus okänd/ej namngiven)."
  },
  {
   "id": "c-johannes_z-magdalena_a1853-z_maria_sofia",
@@ -5957,8 +5957,8 @@
    "magdalena_a1853"
   ],
   "child": "z_david_emanuel",
-  "status": "strong",
-  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+  "status": "verified",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan). VERIFIERAD (omgång 24): Folkräkning 1890 Säfvelskog, sida 13 (Folk_103597648: Nilsson Zetterlund, Johannes f. 1848 Brunskog, Far/man, rad 21; Andersdotter, Magdalena f. 1853 Brunskog), Folk_103597652: David Emanuel; f. 1881 Brunskog; Familjeställning: s.; Famstkod: Barn; rad 25."
  },
  {
   "id": "c-johannes_z-magdalena_a1853-z_maria_elisabeth",
@@ -5990,8 +5990,8 @@
    "magdalena_a1853"
   ],
   "child": "z_signe_amalia",
-  "status": "strong",
-  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan)."
+  "status": "verified",
+  "basis": "A I/35 bild 178 (Skog) och folkräkning 1890 Folk_103597648: barnen i Johannes och Magdalenas hushåll (familjeställning ej angiven i hushållslistan). VERIFIERAD (omgång 24): Folkräkning 1890 Säfvelskog, sida 13 (Folk_103597648: Nilsson Zetterlund, Johannes f. 1848 Brunskog, Far/man, rad 21; Andersdotter, Magdalena f. 1853 Brunskog), Folk_103597655: Signe Amalia; f. 1889 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 28."
  },
  {
   "id": "c-johannes_z-magdalena_a1853-z_nils_gustaf",
@@ -6061,8 +6061,8 @@
    "betty_a1854"
   ],
   "child": "hilda_maria_olsdotter_1882",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”). VERIFIERAD (omgång 24): Folkräkning 1900 Skog s.20 (Folk_109937588: Persson, Olof f. 1854 Brunskog, Hemmansegare, r.6; Folk_109937589: Andersdotter, Betty f. 1854 Brunskog, h., Mor/fru, r.7), Folk_109937591: Hulda Maria; f. 1882 Brunskog; Familjeställning: d.; Famstkod: Barn; r.9 (namnet 'Hilda Maria' i vår post = Hulda Maria i 1900)."
  },
  {
   "id": "c-olof_persson_dernere_1854-betty_a1854-anna_olsson_1879_skog",
@@ -6072,8 +6072,8 @@
    "betty_a1854"
   ],
   "child": "anna_olsson_1879_skog",
-  "status": "strong",
-  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”)."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Skog sida 20 (Folk_109937592) hushållslista: barn i Olof Persson f. 1854 + Betty Andersdotters hushåll (post med uttrycklig familjeställning ej öppnad för just denna person; Hilda står som ”Hulda Maria, f. 1882”). VERIFIERAD (omgång 24): Folkräkning 1900 Skog s.20 (Folk_109937588: Persson, Olof f. 1854 Brunskog, Hemmansegare, r.6; Folk_109937589: Andersdotter, Betty f. 1854 Brunskog, h., Mor/fru, r.7), Folk_109937590: Anna; f. 1879 Brunskog; Familjeställning: d.; Famstkod: Barn; r.8."
  },
  {
   "id": "c-olof_persson_dernere_1854-betty_a1854-ol_johan_efraim_1890",
@@ -6503,8 +6503,8 @@
    "maria_eriksdotter_1836_kc"
   ],
   "child": "erik_kc_1862",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423254: Eriksson, Kristoffer f. 1835 Brunskog, Far/man, rad 33; Folk_120423255: Eriksdotter, Maria f. 1836 Brunskog, h., Mor/fru), Folk_120423256: Erik; f. 1862 Brunskog; Familjeställning: s.; Famstkod: Barn; rad 35."
  },
  {
   "id": "c-christopher_ec-maria_eriksdotter_1836_kc-britta_kc_1864",
@@ -6514,8 +6514,8 @@
    "maria_eriksdotter_1836_kc"
   ],
   "child": "britta_kc_1864",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423254: Eriksson, Kristoffer f. 1835 Brunskog, Far/man, rad 33; Folk_120423255: Eriksdotter, Maria f. 1836 Brunskog, h., Mor/fru), Folk_120423257: Britta; f. 1864 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 36."
  },
  {
   "id": "c-christopher_ec-maria_eriksdotter_1836_kc-karin_kc_1873",
@@ -6525,8 +6525,8 @@
    "maria_eriksdotter_1836_kc"
   ],
   "child": "karin_kc_1873",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423254: Eriksson, Kristoffer f. 1835 Brunskog, Far/man, rad 33; Folk_120423255: Eriksdotter, Maria f. 1836 Brunskog, h., Mor/fru), Folk_120423258: Karin; f. 1873 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 37."
  },
  {
   "id": "c-christopher_ec-maria_eriksdotter_1836_kc-maria_kc_1876",
@@ -6536,8 +6536,8 @@
    "maria_eriksdotter_1836_kc"
   ],
   "child": "maria_kc_1876",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene, s. 29: barn i hushållet Kristoffer Eriksson/Maria Eriksdotter VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423254: Eriksson, Kristoffer f. 1835 Brunskog, Far/man, rad 33; Folk_120423255: Eriksdotter, Maria f. 1836 Brunskog, h., Mor/fru), Folk_120423259: Maria; f. 1876 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 38."
  },
  {
   "id": "p-anders_andersson_1831_furtan-karin_ec",
@@ -6588,8 +6588,8 @@
    "karin_ec"
   ],
   "child": "erik_ak_1862",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Westra Furtan s.66 (Folk_120425073: Andersson, Anders f. 1831 Brunskog, Far/man, rad 22; Folk_120425074: Eriksdotter, Karin f. 1830 Brunskog, h., Mor/fru), Folk_120425077: Erik; f. 1862 Brunskog; s.; Barn; rad 26."
  },
  {
   "id": "c-anders_andersson_1831_furtan-karin_ec-ingegard_ak_1866",
@@ -6599,8 +6599,8 @@
    "karin_ec"
   ],
   "child": "ingegard_ak_1866",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Westra Furtan s.66 (Folk_120425073: Andersson, Anders f. 1831 Brunskog, Far/man, rad 22; Folk_120425074: Eriksdotter, Karin f. 1830 Brunskog, h., Mor/fru), Folk_120425078: Ingegärd; f. 1866 Brunskog; d.; Barn; rad 27."
  },
  {
   "id": "c-anders_andersson_1831_furtan-karin_ec-nils_ak_1869",
@@ -6610,8 +6610,8 @@
    "karin_ec"
   ],
   "child": "nils_ak_1869",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Westra Furtan s.66 (Folk_120425073: Andersson, Anders f. 1831 Brunskog, Far/man, rad 22; Folk_120425074: Eriksdotter, Karin f. 1830 Brunskog, h., Mor/fru), Folk_120425079: Nils; f. 1869 Brunskog; s.; Barn; rad 28."
  },
  {
   "id": "c-anders_andersson_1831_furtan-karin_ec-emma_ak_1872",
@@ -6621,8 +6621,8 @@
    "karin_ec"
   ],
   "child": "emma_ak_1872",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Westra Furtan s.66 (Folk_120425073: Andersson, Anders f. 1831 Brunskog, Far/man, rad 22; Folk_120425074: Eriksdotter, Karin f. 1830 Brunskog, h., Mor/fru), Folk_120425080: Emma; f. 1872 Brunskog; d.; Barn; rad 29."
  },
  {
   "id": "c-anders_andersson_1831_furtan-karin_ec-karolina_ak_1875",
@@ -6632,8 +6632,8 @@
    "karin_ec"
   ],
   "child": "karolina_ak_1875",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet"
+  "status": "verified",
+  "basis": "Folkräkning 1880 Västra Furtan, s. 66: barn i hushållet VERIFIERAD (omgång 24): Folkräkning 1880 Westra Furtan s.66 (Folk_120425073: Andersson, Anders f. 1831 Brunskog, Far/man, rad 22; Folk_120425074: Eriksdotter, Karin f. 1830 Brunskog, h., Mor/fru), Folk_120425081: Karolina; f. 1875 Brunskog; d.; Barn; rad 30."
  },
  {
   "id": "s-karin_ec-ingard_ec",
@@ -6933,8 +6933,8 @@
  {
   "id": "c-per_adamsson16-britta_e-karin_pa69",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Nohlby s.12: Karin f. 1869 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Nohlby s.12: Karin f. 1869 i hushållet Per Adamsson/Britta Elofsdotter (barn; familjeställning ej utläst; ordningen efter föräldrarna) VERIFIERAD (omgång 24): Folkräkning 1880 Nohlby s.12 (Folk_120422426: Adamsson, Per f. 1816 Boda, Far/man, rad 36; Folk_120422427: Elofsdotter, Britta f. 1824 Brunskog, h., Mor/fru), Folk_120422433: Karin; f. 1869 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 43.",
   "parents": [
    "per_adamsson16",
    "britta_e"
@@ -7004,8 +7004,8 @@
  {
   "id": "c-anders_olsson31-stina_e-olof_ao61",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Olof f. 1861 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Olof f. 1861 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423233: Olof; f. 1861 Brunskog; s.; Barn; rad 12.",
   "parents": [
    "anders_olsson31",
    "stina_e"
@@ -7015,8 +7015,8 @@
  {
   "id": "c-anders_olsson31-stina_e-emil_ao63",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Emil f. 1863 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Emil f. 1863 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423234: Emil; f. 1863 Brunskog; s.; Barn; rad 13.",
   "parents": [
    "anders_olsson31",
    "stina_e"
@@ -7026,8 +7026,8 @@
  {
   "id": "c-anders_olsson31-stina_e-maria_ao68",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Maria f. 1868 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Maria f. 1868 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423235: Maria; f. 1868 Brunskog; d.; Barn; rad 14.",
   "parents": [
    "anders_olsson31",
    "stina_e"
@@ -7037,8 +7037,8 @@
  {
   "id": "c-anders_olsson31-stina_e-johannes_ao73",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Johannes f. 1873 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Johannes f. 1873 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423236: Johannes; f. 1873 Brunskog; s.; Barn; rad 15.",
   "parents": [
    "anders_olsson31",
    "stina_e"
@@ -7048,8 +7048,8 @@
  {
   "id": "c-anders_olsson31-stina_e-annalisa_ao76",
   "type": "child",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Anna f. 1876 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst)",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Anna f. 1876 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423237: Anna Lisa; f. 1876 Brunskog; d.; Barn; rad 16.",
   "parents": [
    "anders_olsson31",
    "stina_e"
@@ -7121,8 +7121,8 @@
    "kn_kajsa1843"
   ],
   "child": "johan_nilsson77_gullsby",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Gullsby s.9 r.10: Johan f. 1877 Brunskog i hushållet Nils Jansson/Kajsa; 1900: Johan Nilsson f. 1877 hos Kajsa (änka). Familjeställning för Johan ej individuellt läst."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Gullsby s.9 r.10: Johan f. 1877 Brunskog i hushållet Nils Jansson/Kajsa; 1900: Johan Nilsson f. 1877 hos Kajsa (änka). Familjeställning för Johan ej individuellt läst. VERIFIERAD (omgång 24): Folkräkning 1880 Gullsby s.9 (Folk_120422254: Jansson, Nils f. 1842 Brunskog, Far/man, rad 9; Folk_120422255: Kristoffersdotter, Kajsa f. 1843 Boda, Mor/fru, rad 10), Folk_120422256: Johan; f. 1877 Brunskog; Familjeställning: s.; Famstkod: Barn; rad 11."
  },
  {
   "id": "p-jan_petter_larsson56-fr_mariastinajonasd1858",
@@ -7475,8 +7475,8 @@
    "brittanils"
   ],
   "child": "karl_oj61",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karl 1861 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karl 1861 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong. VERIFIERAD (omgång 24): Olof Jansson (Folk_120423124, Folkräkning 1880 Ö. Takene s.27 rad 1, Far/man, f. 1821 Brunskog) + Nilsdotter, Britta f. 1820 Brunskog, Familj nr 1; Folk_120423127: Karl; f. 1861 Brunskog; Familjeställning: s.; Famstkod: Barn; rad 4 (Ö. Takene). Födelseår/ort stämmer."
  },
  {
   "id": "c-olofjansson-brittanils-karin_oj64",
@@ -7486,8 +7486,8 @@
    "brittanils"
   ],
   "child": "karin_oj64",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karin 1864 ”d.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Karin 1864 ”d.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong. VERIFIERAD (omgång 24): Olof Jansson (Folk_120423124, Folkräkning 1880 Ö. Takene s.27 rad 1, Far/man, f. 1821 Brunskog) + Nilsdotter, Britta f. 1820 Brunskog, Familj nr 1; Folk_120423128: Karin; f. 1864 Brunskog; Familjeställning: d.; Famstkod: Barn; rad 5 (Ö. Takene). Födelseår/ort stämmer."
  },
  {
   "id": "c-olofjansson-brittanils-gustaf_oj66",
@@ -7497,8 +7497,8 @@
    "brittanils"
   ],
   "child": "gustaf_oj66",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Gustaf 1866 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Ö. Takene (Folk_120423124/125, sida 27): Gustaf 1866 ”s.” i hushållet Olof Jansson (hemmansägare) + hustru Britta Nilsdotter f. 1820 (age 41–46 vid födseln). Fam.ställning avser familjens överhuvud Olof; moderskap Britta inte uttryckligt ⇒ strong. VERIFIERAD (omgång 24): Olof Jansson (Folk_120423124, Folkräkning 1880 Ö. Takene s.27 rad 1, Far/man, f. 1821 Brunskog) + Nilsdotter, Britta f. 1820 Brunskog, Familj nr 1; Folk_120423129: Gustaf; f. 1866 Brunskog; Familjeställning: s.; Famstkod: Barn; rad 6 (Ö. Takene). Födelseår/ort stämmer."
  },
  {
   "id": "s-nils_ne-britta_oj52",
@@ -7545,24 +7545,24 @@
   "type": "sibling",
   "a": "zetterlund",
   "b": "karl_oj61",
-  "status": "strong",
-  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+  "status": "verified",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-zetterlund-karin_oj64",
   "type": "sibling",
   "a": "zetterlund",
   "b": "karin_oj64",
-  "status": "strong",
-  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+  "status": "verified",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "s-zetterlund-gustaf_oj66",
   "type": "sibling",
   "a": "zetterlund",
   "b": "gustaf_oj66",
-  "status": "strong",
-  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene)."
+  "status": "verified",
+  "basis": "Halvsyskon via modern Britta Nilsdotter (folkräkning 1880 Ö. Takene). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-olof_am-betty_j1853_skog",
@@ -7645,8 +7645,8 @@
    "d7_matilda_nilsson_sylvander"
   ],
   "child": "d7_sylvander_johan",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895). VERIFIERAD (omgång 24): Folkräkning 1890 Skog s.20 (Folk_103598007: Sylvander, Anders f. 1852 Brunskog, 'gift son', Far/man, r.36; Folk_103598008: Nilsson, Matilda f. 1855 Boda, 's.h.' (sons hustru), Mor/fru, r.37), Folk_103598011: Johan; f. 1885 Brunskog; Familjeställning: 's.s.' (sons son, dvs. Anders och Matildas son i värdens hushåll); Famstkod: Barn; r.40. Syskon i samma hushåll: Anna 1879 (s.d.), Nils 1882 (s.s.). Husförhör A I/37 bild 162 uppger Johan 85 21/6 Skog."
  },
  {
   "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_hulda",
@@ -7688,8 +7688,8 @@
   "type": "sibling",
   "a": "d7_anna_maria_olofsdotter_1874",
   "b": "d7_karl_oskar_olofsson_skog",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” och A II a/1 bild 213 (Gärde) – syskon i samma hushåll."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” och A II a/1 bild 213 (Gärde) – syskon i samma hushåll. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-d7_maria_olsdotter_takene_enka-d7_arvid_adolf_leander_persson",
@@ -7852,8 +7852,8 @@
    "anna_charlotta_n63"
   ],
   "child": "nils_paul_pa86",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 86 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 86 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog). VERIFIERAD (omgång 24): Folkräkning 1890 Nolby s.10-11 (Folk_103597527: Persson, Emil f. 1858 Boda, Far/man, s.10 r.48; Folk_103597528: Nilsdotter, Anna Charlotta f. 1863 Brunskog, h., Mor/fru), Folk_103597529: Nils Paul; f. 1886 Brunskog; Familjeställning: s.; Famstkod: Barn; s.10 r.50."
  },
  {
   "id": "c-emil_pa58-anna_charlotta_n63-anna_emilia_pa87",
@@ -7863,8 +7863,8 @@
    "anna_charlotta_n63"
   ],
   "child": "anna_emilia_pa87",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 87 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 87 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog). VERIFIERAD (omgång 24): Folkräkning 1890 Nolby s.10-11 (Folk_103597527: Persson, Emil f. 1858 Boda, Far/man, s.10 r.48; Folk_103597528: Nilsdotter, Anna Charlotta f. 1863 Brunskog, h., Mor/fru), Folk_103597530: Anna Emilia; f. 1887 (födelseförsamling i posten: Boda Värmlands län, ej Brunskog); Familjeställning: d.; Famstkod: Barn; s.11 r.1. Föräldrarelationen uttrycklig; födelseorten avviker från vår post (Brunskog)."
  },
  {
   "id": "c-emil_pa58-anna_charlotta_n63-maria_elisabet_pa89",
@@ -7874,8 +7874,8 @@
    "anna_charlotta_n63"
   ],
   "child": "maria_elisabet_pa89",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 89 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900/1910 Nolby/Svartåna: barn f. 89 i Emil Perssons och Anna Charlotta Nilsdotters hushåll (relation ej uttryckligen angiven, men ordning och födelseort Brunskog). VERIFIERAD (omgång 24): Folkräkning 1890 Nolby s.10-11 (Folk_103597527: Persson, Emil f. 1858 Boda, Far/man, s.10 r.48; Folk_103597528: Nilsdotter, Anna Charlotta f. 1863 Brunskog, h., Mor/fru), Folk_103597531: Maria Elisabeth; f. 1889 Brunskog; Familjeställning: d.; Famstkod: Barn; s.11 r.2."
  },
  {
   "id": "c-emil_pa58-anna_charlotta_n63-elin_charlotta_pa91",
@@ -7988,8 +7988,8 @@
    "maria_olsd59_finnebaeck"
   ],
   "child": "johan_albert_olsson86",
-  "status": "candidate",
-  "basis": "Folkräkning 1900 Finnebäck: Johan Albert Olsson f. 1886 följer Maria Olsdotter i fam. nr 2."
+  "status": "verified",
+  "basis": "Folkräkning 1900 Finnebäck: Johan Albert Olsson f. 1886 följer Maria Olsdotter i fam. nr 2. VERIFIERAD (omgång 24): Folkräkning 1900 Finnebäck s.9 (Folk_109937051: Olsdotter, Maria f. 1859 Brunskog, Familjeställning 'svägerska', Mor/fru, r.11), Folk_109937052: Olsson, Johan Albert; f. 1886 Brunskog; Familjeställning: 'hennes oä. s.' (hennes oäkta son); Famstkod: Barn; r.12. Endast modern relevant (fader okänd)."
  },
  {
   "id": "p-johan_nilsson57_takene-kristina_pa63",
@@ -10201,8 +10201,8 @@
    "aq1_betty_andersd57"
   ],
   "child": "aq1_hulda_n81",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”. VERIFIERAD (omgång 24): Folkräkning 1890 Toltan s.27-28 (Folk_103598366: Nilsson, Nils f. 1851 Brunskog, Far/man, s.27 r.48; Folk_103598367: Andersdotter, Betty f. 1857 Brunskog, h., Mor/fru), Folk_103598368: Hulda Kristina; f. 1881 Brunskog; Familjeställning: d.; Famstkod: Barn; s.27 r.50."
  },
  {
   "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_alma_n89",
@@ -10212,8 +10212,8 @@
    "aq1_betty_andersd57"
   ],
   "child": "aq1_alma_n89",
-  "status": "strong",
-  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Toltan: barn (s./d.) i hushållet. Adolf Wilhelm uttryckligen ”s.”. VERIFIERAD (omgång 24): Folkräkning 1890 Toltan s.27-28 (Folk_103598366: Nilsson, Nils f. 1851 Brunskog, Far/man, s.27 r.48; Folk_103598367: Andersdotter, Betty f. 1857 Brunskog, h., Mor/fru), Folk_103598370: Alma Maria; f. 1889 Brunskog; Familjeställning: d.; Famstkod: Barn; s.28 r.2."
  },
  {
   "id": "c-aq1_nils_nilsson51-aq1_betty_andersd57-aq1_nilsjohan_n93",
@@ -10356,8 +10356,8 @@
    "aq2_maria_andersdotter_1857_takene"
   ],
   "child": "aq2_anna_maria_olsson_1881_takene",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene). VERIFIERAD (omgång 24): Folkräkning 1900 Takene Östra s.28 (Folk_109938006: Olsson, Johan f. 1858 Brunskog, Far/man, r.30; Folk_109938007: Andersdotter, Maria f. 1857 Brunskog, h., Mor/fru), Folk_109938008: Anna Maria; f. 1881 Brunskog; Familjeställning: d.; Famstkod: Barn; r.32.",
   "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_anna_maria_olsson_1881_takene"
  },
  {
@@ -10367,8 +10367,8 @@
    "aq2_maria_andersdotter_1857_takene"
   ],
   "child": "aq2_amanda_amalia_olsson_1887_takene",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene).",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 33), fam. 1: ”Olsson, Johan, f. 1858 i Brunskog, Brukare; Andersdotter, Maria, f. 1857 i Brunskog; Anna Maria 1881 Brunskog; Anders Gustaf 1885 Grava (s.); Amanda Amalia 1887; Hulda Kristina 1891; Johan Edvin 1894; Gerda Elisabet 1896; Augusta Ingeborg 1899 (alla Brunskog)”. 1890 Brunskogs moder, Takene (s. 24 rad 32): Johan Olsson, Maria Andersdotter (backst.), Anna Maria 1881, Anders Gustaf 1885 Grava (s.), Amanda Amalia 1887. Identifiering med Signe Eriksdotters make Anders Gustaf Johansson (f. 11/1 1885 Grava; inflyttad Takene 1911) är stark men ej uttryckligt bevisad (namn, födelseår, födelseförsamling Grava, Takene). VERIFIERAD (omgång 24): Folkräkning 1900 Takene Östra s.28 (Folk_109938006: Olsson, Johan f. 1858 Brunskog, Far/man, r.30; Folk_109938007: Andersdotter, Maria f. 1857 Brunskog, h., Mor/fru), Folk_109938010: Amanda Amalia; f. 1887 Brunskog; Familjeställning: d.; Famstkod: Barn; r.34.",
   "id": "c-aq2_johan_olsson_1858_takene-aq2_maria_andersdotter_1857_takene-aq2_amanda_amalia_olsson_1887_takene"
  },
  {
@@ -10482,8 +10482,8 @@
    "aq2_inga_stina_andersdotter_1851"
   ],
   "child": "aq2_olof_andersson_1875_takene",
-  "status": "strong",
-  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 40), fam. 1: ”Olsson, Anders, f. 1854 i Brunskog, Hemmansegare; Andersdotter, Inga Stina, f. 1851 i Brunskog; Olof 1875; Anna Maria 1882; Betty 1887; Götilda 1895; Gerda Karolina 1898”. 1890 (Takene, s. 22 rad 20): samma familj, födelseförsamling angiven som Västra Ämtervik (Anders 1852, Inga Stina 1851, Olof 1875, Anna Maria 1882, Betty 1887).",
+  "status": "verified",
+  "basis": "FOLKRÄKNING 1900 Brunskog, Takene Östra (s. 28 rad 40), fam. 1: ”Olsson, Anders, f. 1854 i Brunskog, Hemmansegare; Andersdotter, Inga Stina, f. 1851 i Brunskog; Olof 1875; Anna Maria 1882; Betty 1887; Götilda 1895; Gerda Karolina 1898”. 1890 (Takene, s. 22 rad 20): samma familj, födelseförsamling angiven som Västra Ämtervik (Anders 1852, Inga Stina 1851, Olof 1875, Anna Maria 1882, Betty 1887). VERIFIERAD (omgång 24): Folkräkning 1900 Takene Östra s.28 (Folk_109938015: Olsson, Anders f. 1854 Brunskog, Far/man, r.39; Folk_109938016: Andersdotter, Inga Stina f. 1851 Brunskog, h., Mor/fru), Folk_109938017: Olof; f. 1875 Brunskog; Familjeställning: s.; Famstkod: Barn; r.41. (Obs: födelseort i 1900 = Brunskog, även fadern anges Brunskog.)",
   "id": "c-aq2_anders_olsson_1854_takene-aq2_inga_stina_andersdotter_1851-aq2_olof_andersson_1875_takene"
  },
  {
@@ -11297,8 +11297,8 @@
    "as1_maria_persdotter_1844_skogshaget"
   ],
   "child": "d7_johan_olofsson_1871_skog",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt) VERIFIERAD (omgång 24): Folkräkning 1880 Skog s.25 (Folk_120423066: Jonsson, Olof f. 1840 Västra Ämtervik, Far/man, r.41; Folk_120423067: Persdotter, Maria f. 1844 Brunskog, h., Mor/fru), Folk_120423068: 'Jonte' (smeknamn för Johan; husförhör A I/37 bild 163: 'Jonte 71 3/1 Skog'); f. 1871 Brunskog; Familjeställning: s.; Famstkod: Barn; r.43."
  },
  {
   "id": "c-as1_olof_jonsson_1840_skogshaget-as1_maria_persdotter_1844_skogshaget-as1_olof_albert_olofsson_1880",
@@ -11308,16 +11308,16 @@
    "as1_maria_persdotter_1844_skogshaget"
   ],
   "child": "as1_olof_albert_olofsson_1880",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt) VERIFIERAD (omgång 24): Folkräkning 1880 Skog s.25 (Folk_120423066: Jonsson, Olof f. 1840 Västra Ämtervik, Far/man, r.41; Folk_120423067: Persdotter, Maria f. 1844 Brunskog, h., Mor/fru), Folk_120423069: Olof Albert; f. 1880 Brunskog; Familjeställning: s.; Famstkod: Barn; r.44."
  },
  {
   "id": "s-d7_johan_olofsson_1871_skog-as1_olof_albert_olofsson_1880",
   "type": "sibling",
   "a": "d7_johan_olofsson_1871_skog",
   "b": "as1_olof_albert_olofsson_1880",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt)"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6” (barn listade i föräldrarnas hushåll, ordet ”son” ej använt) VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-as1_per_olofsson_1824_svartana-as1_stina_nilsdotter_1830_svartana",
@@ -11335,8 +11335,8 @@
    "as1_stina_nilsdotter_1830_svartana"
   ],
   "child": "d7_olof_persson_svartana_1873",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” (hushållsposition, ordet ”son” ej läst)"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” (hushållsposition, ordet ”son” ej läst) VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.34 (Folk_120423477: Olsson, Per f. 1824 Brunskog, Far/man, r.9; Folk_120423478: Nilsdotter, Stina f. 1830 Boda, h., Mor/fru), Folk_120423481: Olof; f. 1873 Brunskog; Familjeställning: s.; Famstkod: Barn; r.13. (Syskon: Anders 1861 s., Maria 1867 d.)"
  },
  {
   "id": "p-as1_anders_persson_1830_nolbystegen-as1_maria_jonsdotter_1828_nolbystegen",
@@ -11354,8 +11354,8 @@
    "as1_maria_jonsdotter_1828_nolbystegen"
   ],
   "child": "d7_emil_andersson_nolbystegen",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna” VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.33 (Folk_120423429: Persson, Anders f. 1830 Brunskog, Far/man, r.11; Folk_120423430: Jonsdotter, Maria f. 1828 Brunskog, h., Mor/fru), Folk_120423435: Emil; f. 1873 Brunskog; Familjeställning: s.; Famstkod: Barn; r.17. Husförhör A I/37 bild 217: 'Emil 7? 6/12 Svartåna' – årtalet blir 1873."
  },
  {
   "id": "p-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan",
@@ -11373,8 +11373,8 @@
    "as1_ingegard_olsdotter_1832_lyckan"
   ],
   "child": "as1_johannes_olofsson_lyckan_1867",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11” VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.32 (Folk_120423398: Andersson, Olof f. 1827 Brunskog, Far/man, r.29; Folk_120423399: Olsdotter, Ingegärd f. 1832 Brunskog, h., Mor/fru, r.30), Folk_120423403: Johannes; f. 1867 Brunskog; Familjeställning: s.; Famstkod: Barn; r.34. (Husförhör '67? 24/7' → 1867.)"
  },
  {
   "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-d7_nils_olofsson_lyckan_svartana",
@@ -11384,8 +11384,8 @@
    "as1_ingegard_olsdotter_1832_lyckan"
   ],
   "child": "d7_nils_olofsson_lyckan_svartana",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11” VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.32 (Folk_120423398: Andersson, Olof f. 1827 Brunskog, Far/man, r.29; Folk_120423399: Olsdotter, Ingegärd f. 1832 Brunskog, h., Mor/fru, r.30), Folk_120423404: Nils; f. 1872 Brunskog; Familjeställning: s.; Famstkod: Barn; r.35. (Husförhör '7? 31/7' → 1872.)"
  },
  {
   "id": "c-as1_olof_andersson_lyckan_svartana-as1_ingegard_olsdotter_1832_lyckan-as1_elisabeth_olofsdotter_lyckan_1874",
@@ -11395,8 +11395,8 @@
    "as1_ingegard_olsdotter_1832_lyckan"
   ],
   "child": "as1_elisabeth_olofsdotter_lyckan_1874",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11” VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.32 (Folk_120423398: Andersson, Olof f. 1827 Brunskog, Far/man, r.29; Folk_120423399: Olsdotter, Ingegärd f. 1832 Brunskog, h., Mor/fru, r.30), Folk_120423405: Elisabeth; f. 1874 Brunskog; Familjeställning: d.; Famstkod: Barn; r.36."
  },
  {
   "id": "p-d7_olof_jansson_1836_svartana-as1_maria_persdotter_1839_svartana",
@@ -11414,8 +11414,8 @@
    "as1_maria_persdotter_1839_svartana"
   ],
   "child": "d7_britta_maria_nolen",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna” – födelse 1865 efter vigsel 1864 stödjer dotterskap"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna” – födelse 1865 efter vigsel 1864 stödjer dotterskap VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.31-32 (Folk_120423368: Jansson, Olof f. 1836 Brunskog, Far/man, s.31 r.49; Folk_120423369: Persdotter, Maria f. 1839 Brunskog, h., Mor/fru), Folk_120423370: Britta Maria; f. 1865 Brunskog; Familjeställning: d.; Famstkod: Barn; s.32 r.1."
  },
  {
   "id": "c-d7_olof_jansson_1836_svartana-as1_maria_persdotter_1839_svartana-as1_anna_sofia_olofsdotter_1879",
@@ -11425,8 +11425,8 @@
    "as1_maria_persdotter_1839_svartana"
   ],
   "child": "as1_anna_sofia_olofsdotter_1879",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 208 (fol. 213), Där nole: ”Eg. Olof Jansson 36 3/3 Svartåna [gift 64 4/1]; H. Maria Persdotter 39 18/3 Svartåna; Anna Sofia 79 15/11 Svartåna; Britta Maria (”nolén”) 65 26/7 Svartåna” VERIFIERAD (omgång 24): Folkräkning 1880 Svartåna s.31-32 (Folk_120423368: Jansson, Olof f. 1836 Brunskog, Far/man, s.31 r.49; Folk_120423369: Persdotter, Maria f. 1839 Brunskog, h., Mor/fru), Folk_120423372: Anna Sofia; f. 1879 Brunskog; Familjeställning: d.; Famstkod: Barn; s.32 r.3."
  },
  {
   "id": "p-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog",
@@ -11444,8 +11444,8 @@
    "as1_brita_nilsdotter_1839_skog"
   ],
   "child": "d7_anna_maria_olofsdotter_1874",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” VERIFIERAD (omgång 24): SCB Utdrag födelsebok 1871 Brunskogs moder, bild A0035896_00322 (https://sok.riksarkivet.se/bildvisning/A0035896_00322): lopnr 67, 'Juni 2', 'Anna Maria (1:a barn)', föräldrar ungefär 'Bonden Olof Jansson och h. Britta Nilsdotter i Tolkan, gift 2 år' (osäker läsning av föräldrarnas rad). Folkräkning 1880 Skog s.25 Folk_120423073: Anna Maria f. 1871 Brunskog, d., i hushållet Olof Jansson 1842/Britta Nilsdotter 1839. Husförhör A I/37 bild 164 'Anna Maria 74 2/6' är alltså misstolkat årtal; rätt år 1871. Dessutom: SCB 1874 (A0035998_00324-325) saknar födelse 2/6 i Brunskog."
  },
  {
   "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-as1_karin_olofsdotter_1874",
@@ -11455,8 +11455,8 @@
    "as1_brita_nilsdotter_1839_skog"
   ],
   "child": "as1_karin_olofsdotter_1874",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp”"
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 164 (fol. 168), Skog: ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Tolkan; Anna Maria 74 2/6 Takene; Karin 74 16/11 Takene; Karl Oskar 79 2/5 Gunnarsbytorp” VERIFIERAD (omgång 24): Folkräkning 1880 Skog s.25-26 (Folk_120423071: Jansson, Olof f. 1842 Brunskog, Far/man, s.25 r.46; Folk_120423072: Nilsdotter, Britta f. 1839 Brunskog, h., Mor/fru), Folk_120423074: Karin; f. 1874 Brunskog; Familjeställning: d.; Famstkod: Barn; r.49."
  },
  {
   "id": "c-as1_olof_jansson_gunnarsbytorp-as1_brita_nilsdotter_1839_skog-d7_karl_oskar_olofsson_skog",
