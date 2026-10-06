@@ -1959,6 +1959,52 @@
    "persons": [
     "marit_andersd67"
    ]
+  },
+  {
+   "title": "Ingegärd Maria Andersdotter: A I/25 (C0036590) är 1883–94 – föräldrarna ej funna i A I/20 N. Boda",
+   "text": "Boda A I/25 (C0036590) är husförhörslängd 1883–1894 (titel i Riksarkivet), där Ingegärd Maria (b. 14/12 1857) redan är gift (mars 1880) med Anders Nilsson f. 1853 (bild 311, redan i repot). 'dotter Ingjerd Maria 57' kan därför inte stå i A I/25; föräldrahushållet måste stå i A I/20 (1856–60, C0036585) eller A I/19/A I/21. I A I/20 lästes N. Boda fol. 1–8 (bild 11–18; en sida/bild, bild = folio+10): ingen Anders Svensson/Maria Jordsd./Ingjerd Maria 57 funnen. Ortregistret (bild 9) anger Boda Norra fol. 1, Södra Boda 42/60, Nordsjö 207; nr 25 i dopboken kan syfta på annan by/mantal än N. Boda-sidorna 1–8 (t.ex. Södra Boda fol. 42/60). Ej genomsökt.",
+   "persons": [
+    "ingegard_andersdotter",
+    "anders_svensson_nboda",
+    "maria_jordsd_nboda"
+   ]
+  },
+  {
+   "title": "Stina Jansdotter: Jan Svensson/Maria Andersd. ej funna i Gullsbyn, Brunskog A I/25",
+   "text": "Brunskog A I/25 (C0036764, 1851–55): ortregister (bild 9) anger Gullesbyn s. 34, Gullesby pappersbruk s. 328. Gullesbyn läst bild 47 (pappersbruksfolk/tjänstefolk), 48, 49–58, 60 (59 tom). Hushåll sedda (huvudmän): Carl Ol. Jonsson (tjänstefolk), Olof Olsson/Karin Olsd., Anders Jönsson/Stina Olsd. (f. 1811/1806), Anders Bengtsson/Britta Anderss., Anders Nilsson/Britta Pers., Nils Olsson/Anna Persd., Olof Nilsson/Britta Persd., Jon Olsson/Karin Persd., Olof Jonsson/Anna Christ. Larsd., Sven Andersson/Anna Andersd. (f. 1819/1815), Anders Jonsson/Sara Kajsa Svensd., Carl Reinholdsson/Anna Lisa Olsd., Nils Persson/Kajsa Olsd. m.fl. Ingen Jan Svensson med hustru Maria Andersd. och dotter Stina 1847. Slutsats: familjen bodde 1851–55 sannolikt annanstans (annan by) eller flyttat/avlidit; ej Gullsbyn. Kvarstår: A I/23 (1846–50), A I/21–22 samt övriga byar i A I/25.",
+   "persons": [
+    "stina_jansdotter",
+    "jan_svensson_gullsby",
+    "maria_andersd_gullsby"
+   ]
+  },
+  {
+   "title": "Anders Jansson (andersjansson): ej funnen i Nordsjö A I/20 (1856–60)",
+   "text": "Boda A I/20 Nordsjö (bild 225–227, fol. 214–216) lästa: huvudmän Anders Jönsson (f. 1823)/Maria Nilsd., Nils Jönsson/Maria Svensd., Olof Ringquist?/Lisa Olsd., Jöns Jonsson Norberg. Ingen Anders Jansson f. 1834 eller Jan Jonsson/Kajsa Olsdotter. Hans föräldrar och vigsel med Anna Andersdotter (f. 1826, änka efter Johannes Olsson) ej funna. Boda vigselbok E I/3 (C0036598) täcker bara 1842–1860 (25 bilder, ca 1 bild/år; bild 14 = 1852 med årsrubrik, bild 15 ≈ 1853); 1870–80-talen finns i en senare volym (ej identifierad).",
+   "persons": [
+    "andersjansson",
+    "jan_jonsson_nordsjo",
+    "kajsa_olsdotter_nordsjo"
+   ]
+  },
+  {
+   "title": "Sven Nilsson Boda: vigselposter saknas",
+   "text": "Vigsel Sven Nilsson × Katrin Nilsdotter (barn 1774) saknas i E I/2 1773–1780; Sven Nilsson × Britta Persdotter (barn 1792, 1794) saknas 1773–1794. En Sven Nilsson i Boda × Karin Pålsdotter (Tacketorp) vigdes 1785 (bild 102) – kan vara Katrin Nilsdotters make som änkling. Kontrollera äldre vigselbok/Katrins död (död/begravning E I/2 bild 10–91 eller dödbok) och husförhör A I/5–A I/6 (1782–89).",
+   "persons": [
+    "sven_nilsson_boda_1774",
+    "katrin_nilsd_boda_1774",
+    "sven_nilsson_lerboda92",
+    "britta_persd_lerboda92",
+    "karin_palsd_tacketorp85"
+   ]
+  },
+  {
+   "title": "Anders Mattsson × Britta Nilsdotter vigd 1774?",
+   "text": "Vigsel jan 1774 (E I/2 bild 98) Anders Mattsson S. Grimstad × Britta Nilsdotter; 1786 V. Grimstad-barnet. Ingen annan vigsel Anders Mattsson i bild 98–105. Dop 1774–1785 av äldre syskon ej genomsökt.",
+   "persons": [
+    "anders_mattsson_grimstad86",
+    "brita_nilsd_grimstad86"
+   ]
   }
  ],
  "conflicts": [

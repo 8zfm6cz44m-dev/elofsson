@@ -5355,5 +5355,32 @@
   "b": "brita_olsd_takene91",
   "status": "strong",
   "basis": "Brunskog vigselbok E I/3 bild 15, 1790 nr 5: ”Dr. Nils Andersson …, Ö. Takene och Pig. Brita Olsd. ibm”; dop 1791 (C I/3 bild 40) anger samma namn som föräldrar i Ö. Takene"
+ },
+ {
+  "id": "p-anders_mattsson_grimstad86-brita_nilsd_grimstad86",
+  "type": "partner",
+  "a": "anders_mattsson_grimstad86",
+  "b": "brita_nilsd_grimstad86",
+  "status": "candidate",
+  "basis": "Boda vigselbok E I/2 bild 98 (s. 169) jan 1774 nr 3: ”Dr. Anders Mattsn: S. Grimstad, och Pig: Britta Nilsdotter ibidem.” Namn stämmer med föräldrarna till Nils f. 23/6 1786 (V. Grimstad), men 12 års glapp och S./V. Grimstad – kan vara andra personer."
+ },
+ {
+  "id": "p-sven_nilsson_boda_1774-karin_palsd_tacketorp85",
+  "type": "partner",
+  "a": "sven_nilsson_boda_1774",
+  "b": "karin_palsd_tacketorp85",
+  "status": "lead",
+  "basis": "Boda vigselbok E I/2 bild 102 (1785 nr 1): ”Gudl. Sven Nilsson: Boda och … Karin Pålsdotter fr Tacketorp…”. Oklart om denne Sven är far till Nils f. 1774."
+ },
+ {
+  "id": "c-sven_nilsson_lerboda92-britta_persd_lerboda92-brita_svensd_lerboda94",
+  "type": "child",
+  "parents": [
+   "sven_nilsson_lerboda92",
+   "britta_persd_lerboda92"
+  ],
+  "child": "brita_svensd_lerboda94",
+  "status": "strong",
+  "basis": "Boda dopbok C I/2 bild 158 (s. 295), 2 mars 1794 nr 6: ”Lerboda, Brita. Far: Sven Nilsson, Brita Pers[d]. Test: Per Nilsson, Anna Jons[d].” Samma föräldrar som Nils f. 1792 (identitet via namn+by)."
  }
 ]

@@ -20454,7 +20454,8 @@
   ],
   "summary": "Far till Nils Svensson (f. 1774 Boda) enligt Bodas dopbok; övrigt okänt.",
   "notes": [
-   "DOP Boda nov 1774: ”Boda Nils, fad: Sven Nilsson, mod: Katrin Nilsdotter, fadd. H. Britta Christophersdotter i Boda”"
+   "DOP Boda nov 1774: ”Boda Nils, fad: Sven Nilsson, mod: Katrin Nilsdotter, fadd. H. Britta Christophersdotter i Boda”",
+   "VIGSEL SAKNAS 1773–1780: Sven Nilsson/Katrin Nilsdotter finns inte i vigselboken E I/2 bild 98–100 (1773–1780); vigseln ligger före 1773 (äldre bok) eller i annan socken. Annan Sven Nilsson i Boda gifte sig 1785 med Karin Pålsdotter fr Tacketorp (E I/2 bild 102) – möjligen samma man som änkling (Katrin död före 1783?) – ej bevisat."
   ],
   "sources": [
    {
@@ -20500,7 +20501,8 @@
   ],
   "summary": "Far till Nils Svensson (f. 1792 Boda, sedermera Lerhol) enligt Bodas dopbok.",
   "notes": [
-   "DOP Boda juli 1792, nr 19: ”Lerboda, Nils. Far: Sven Nilsson & Britta Persdotter. Test: Olof Jonsson & Annicka Nilsdotter”"
+   "DOP Boda juli 1792, nr 19: ”Lerboda, Nils. Far: Sven Nilsson & Britta Persdotter. Test: Olof Jonsson & Annicka Nilsdotter”",
+   "VIGSEL SAKNAS: ingen vigsel Sven Nilsson × Britta Persdotter i Bodas vigselbok E I/2 bild 98–105 (1773–1794). Husförhör A I/7 (1790–94) bild 60–61 (Lerboda, s. 48–49): ingen Sven Nilsson/Britta Persdotter där; hushåll: Nils Jonsson 1757/Ingrid Jonsdr 1757, Olof Jonsson 1757/Marit Jonsd 1753 m.fl. Troligen vigd i annan socken eller bodde annorstädes (t.ex. Lerbodatorp)."
   ],
   "sources": [
    {
@@ -20523,7 +20525,8 @@
   ],
   "summary": "Mor till Nils Svensson (f. 1792).",
   "notes": [
-   "DOP Boda 1792: ”Britta Persdotter”"
+   "DOP Boda 1792: ”Britta Persdotter”",
+   "Dotter Brita 1794 (se brita_svensd_lerboda94)."
   ],
   "sources": [
    {
@@ -20547,12 +20550,17 @@
   "summary": "Far till Nils Andersson (f. 23/6 1786 V. Grimstad, Boda).",
   "notes": [
    "DOP Boda 23 juni 1786, nr 29: ”V. Grimstad. Nils. S. And. Matts[son]. M. Brita Nilsd.”",
-   "MÖJLIG VIGSEL Boda jan 1774 (E I/2 bild 98, nr 3): ”Dr. Anders Mattsson: d. Grimstad och Pig. Britta Nilsdotter i [Ö?]dent(?)” – samma namn/by som föräldrar till Nils f. 1786 (V. Grimstad), men 12 års glapp till första kända barnet; ej bevisat."
+   "MÖJLIG VIGSEL Boda jan 1774 (E I/2 bild 98, nr 3): ”Dr. Anders Mattsson: d. Grimstad och Pig. Britta Nilsdotter i [Ö?]dent(?)” – samma namn/by som föräldrar till Nils f. 1786 (V. Grimstad), men 12 års glapp till första kända barnet; ej bevisat.",
+   "VIGSEL jan 1774 bild 98 nr 3: ”Dr. Anders Mattsn: S. Grimstad, och Pig: Britta Nilsdotter ibidem.” Barnet 1786 står under V. Grimstad (far And. Mattsson, mor Brita Nilsd.) – samma namn, annan by-beteckning S./V. Grimstad; 12 år mellan vigsel och 1786-barnet ej bevisat som samma par."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 134 (s. 246), nr 29, 23 juni 1786: V. Grimstad Nils; far And. Mattsson, mor Brita Nilsd.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00134"
+   },
+   {
+    "label": "Riksarkivet, Boda vigselbok E I/2 (1773–1841), bild 98 (s. 169), jan 1774 nr 3: ”Dr. Anders Mattsn: S. Grimstad, och Pig: Britta Nilsdotter ibidem.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00098"
    }
   ],
   "search": [
@@ -20570,12 +20578,17 @@
   ],
   "summary": "Mor till Nils Andersson (f. 23/6 1786).",
   "notes": [
-   "DOP Boda 1786: ”M. Brita Nilsd.”"
+   "DOP Boda 1786: ”M. Brita Nilsd.”",
+   "Möjlig vigsel jan 1774 med Anders Mattsson S. Grimstad (se relation)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 134, nr 29",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00134"
+   },
+   {
+    "label": "Riksarkivet, Boda vigselbok E I/2, bild 98 (s. 169), jan 1774 nr 3: ”Pig: Britta Nilsdotter ibidem” (S. Grimstad)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00098"
    }
   ],
   "search": [
@@ -20882,6 +20895,57 @@
   ],
   "search": [
    "Kajsa Olsdotter (Nordsjö, Boda)"
+  ]
+ },
+ {
+  "id": "karin_palsd_tacketorp85",
+  "name": "Karin Pålsdotter (Tacketorp, Boda)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Tacketorp, Boda"
+  ],
+  "summary": "Gifte sig 1785 med Sven Nilsson i Boda; hade 6/12 1783 fött ett dödfött barn med honom före vigseln. Oklart om denne Sven Nilsson är far till Nils f. 1774 (Katrin Nilsdotter) eller en annan.",
+  "notes": [
+   "VIGSEL: ”Gudl. Sven Nilsson: Boda och Del? [Fruntimmer?] Karin Pålsdotter fr Tacketorp, som förr vigseln med honom födt et dödfött Lijkbarn 1783 6/12” (ordet efter Boda och första ordet ”Gudl.” svårlästa)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda vigselbok E I/2 (1773–1841), bild 102 (s. 176), 1785 nr 1 (13 mars): ”Gudl. Sven Nilsson: Boda och … Karin Pålsdotter fr Tacketorp, som förr vigseln med honom födt et dödfött Lijkbarn 1783 6/12”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036597_00102"
+   }
+  ],
+  "search": [
+   "Karin Pålsdotter (Tacketorp, Boda)"
+  ]
+ },
+ {
+  "id": "brita_svensd_lerboda94",
+  "name": "Brita Svensdotter (Lerboda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1794-03",
+   "place": "Lerboda, Boda",
+   "note": "döpt 2 mars 1794 enligt dopbokens datum"
+  },
+  "places": [
+   "Lerboda"
+  ],
+  "summary": "Dotter till Sven Nilsson och Brita Persdotter, Lerboda; syster till Nils f. 1792 (samma föräldrar enligt namn och by).",
+  "notes": [
+   "DOP: ”Lerboda, Brita. Far: Sven Nilsson, Brita Pers[d]. Test: Per Nilsson, Anna Jons[d].” (Brita/Persd delvis överskrivet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748–1819), bild 158 (s. 295), 1794 nr 6 (2 mars): ”Lerboda, Brita. Far: Sven Nilsson, Brita Pers[d]. Test: Per Nilsson, Anna Jons[d]”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00158"
+   }
+  ],
+  "search": [
+   "Brita Svensdotter (Lerboda)"
   ]
  }
 ]
