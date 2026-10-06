@@ -6462,8 +6462,8 @@
    "betty_ec_1850"
   ],
   "child": "maria_kristina_pgn_1876",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Svartåna: ”d.”/”s.” i hushållet Nilsson, Per Gustaf 1846 / Olsdotter, Betty 1850 (Folk_103598303, Folk_109937967, Folk_109937969)."
  },
  {
   "id": "c-per_gustaf_nilsson_1846-betty_ec_1850-anna_elisabeth_pgn_1879",
@@ -6473,8 +6473,8 @@
    "betty_ec_1850"
   ],
   "child": "anna_elisabeth_pgn_1879",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Svartåna: ”d.”/”s.” i hushållet Nilsson, Per Gustaf 1846 / Olsdotter, Betty 1850 (Folk_103598303, Folk_109937967, Folk_109937969)."
  },
  {
   "id": "c-per_gustaf_nilsson_1846-betty_ec_1850-johan_fridolf_pgn_1883",
@@ -6484,8 +6484,8 @@
    "betty_ec_1850"
   ],
   "child": "johan_fridolf_pgn_1883",
-  "status": "strong",
-  "basis": "Folkräkning 1890 Svartåna, samma hushåll"
+  "status": "verified",
+  "basis": "Folkräkning 1890/1900 Svartåna: ”d.”/”s.” i hushållet Nilsson, Per Gustaf 1846 / Olsdotter, Betty 1850 (Folk_103598303, Folk_109937967, Folk_109937969)."
  },
  {
   "id": "p-christopher_ec-maria_eriksdotter_1836_kc",
@@ -8926,5 +8926,591 @@
   "b": "anna_brunzell_1869",
   "status": "strong",
   "basis": "Folkräkning 1910 Brunskog Skog sida 16 rad 26: Olof Persson 1854 och Brunzell, Anna 1869 Mångskog i samma hushåll med barn; stämmer med husförhör A II a/1 (omgift 1906 med Anna Brunzell 69 1/5 Mångskog)."
+ },
+ {
+  "id": "p-erik_kc_1862-karin_nilsd65_ekc",
+  "type": "partner",
+  "a": "erik_kc_1862",
+  "b": "karin_nilsd65_ekc",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: hushåll Erik Kristoffersson 1862 + Karin Nilsdotter 1865 (gift, vigselår 1892 enl. 1930), Arvika."
+ },
+ {
+  "id": "c-erik_kc_1862-karin_nilsd65_ekc-folke_teodor_ekc_1894",
+  "type": "child",
+  "parents": [
+   "erik_kc_1862",
+   "karin_nilsd65_ekc"
+  ],
+  "child": "folke_teodor_ekc_1894",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910: Folke Teodor f. 1894 i hushållet Erik Kristoffersson/Karin Nilsdotter, Arvika."
+ },
+ {
+  "id": "c-erik_kc_1862-karin_nilsd65_ekc-gurli_margareta_ekc_1900",
+  "type": "child",
+  "parents": [
+   "erik_kc_1862",
+   "karin_nilsd65_ekc"
+  ],
+  "child": "gurli_margareta_ekc_1900",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910: Gurli Margareta f. 1900 i samma hushåll."
+ },
+ {
+  "id": "p-folke_teodor_ekc_1894-jenny_elfrida_johansson_1894",
+  "type": "partner",
+  "a": "folke_teodor_ekc_1894",
+  "b": "jenny_elfrida_johansson_1894",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Lycke: gift (vigselår 1920), samma hushåll."
+ },
+ {
+  "id": "c-folke_teodor_ekc_1894-jenny_elfrida_johansson_1894-ester_margit_ftk_1922",
+  "type": "child",
+  "parents": [
+   "folke_teodor_ekc_1894",
+   "jenny_elfrida_johansson_1894"
+  ],
+  "child": "ester_margit_ftk_1922",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Lycke, Arvika landsförs.: barn i hushållet Folke Teodor Kristoffersson/Jenny Elfrida."
+ },
+ {
+  "id": "c-folke_teodor_ekc_1894-jenny_elfrida_johansson_1894-herdis_kristina_ftk_1924",
+  "type": "child",
+  "parents": [
+   "folke_teodor_ekc_1894",
+   "jenny_elfrida_johansson_1894"
+  ],
+  "child": "herdis_kristina_ftk_1924",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Lycke, Arvika landsförs.: barn i hushållet Folke Teodor Kristoffersson/Jenny Elfrida."
+ },
+ {
+  "id": "c-folke_teodor_ekc_1894-jenny_elfrida_johansson_1894-kjell_folke_ftk_1929",
+  "type": "child",
+  "parents": [
+   "folke_teodor_ekc_1894",
+   "jenny_elfrida_johansson_1894"
+  ],
+  "child": "kjell_folke_ftk_1929",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Lycke, Arvika landsförs.: barn i hushållet Folke Teodor Kristoffersson/Jenny Elfrida."
+ },
+ {
+  "id": "p-johannes_nilsson_1867_bk-britta_kc_1864",
+  "type": "partner",
+  "a": "johannes_nilsson_1867_bk",
+  "b": "britta_kc_1864",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Ö. Takene s. 30 rad 18: Britta Kristoffersdotter 1864, familjeställning ”h.” i hushållet Johannes Nilsson 1867."
+ },
+ {
+  "id": "c-johannes_nilsson_1867_bk-britta_kc_1864-arvid_teodor_rinberg_1896",
+  "type": "child",
+  "parents": [
+   "johannes_nilsson_1867_bk",
+   "britta_kc_1864"
+  ],
+  "child": "arvid_teodor_rinberg_1896",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Takene: Arvid Teodor 1896 ”s.” (son) i hushållet Johannes Nilsson/Britta Kristoffersson; 1900 samma hushåll."
+ },
+ {
+  "id": "c-johannes_nilsson_1867_bk-britta_kc_1864-martin_olaus_rinberg_1899",
+  "type": "child",
+  "parents": [
+   "johannes_nilsson_1867_bk",
+   "britta_kc_1864"
+  ],
+  "child": "martin_olaus_rinberg_1899",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910 Takene: Martin Olaus 1899 i hushållet."
+ },
+ {
+  "id": "c-johannes_nilsson_1867_bk-britta_kc_1864-jenny_maria_jnb_1902",
+  "type": "child",
+  "parents": [
+   "johannes_nilsson_1867_bk",
+   "britta_kc_1864"
+  ],
+  "child": "jenny_maria_jnb_1902",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Takene: Jenny Maria 1902 i hushållet."
+ },
+ {
+  "id": "c-johannes_nilsson_1867_bk-britta_kc_1864-anna_maria_jnb_1904",
+  "type": "child",
+  "parents": [
+   "johannes_nilsson_1867_bk",
+   "britta_kc_1864"
+  ],
+  "child": "anna_maria_jnb_1904",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Takene: Anna Maria 1904 i hushållet."
+ },
+ {
+  "id": "c-johannes_nilsson_1867_bk-britta_kc_1864-erik_johan_rinberg_1908",
+  "type": "child",
+  "parents": [
+   "johannes_nilsson_1867_bk",
+   "britta_kc_1864"
+  ],
+  "child": "erik_johan_rinberg_1908",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Takene: Emil Johan 1908 i hushållet; 1930 Erik Johan Rinberg 1908 hos modern."
+ },
+ {
+  "id": "p-arvid_teodor_rinberg_1896-rut_signe_vikner_1908",
+  "type": "partner",
+  "a": "arvid_teodor_rinberg_1896",
+  "b": "rut_signe_vikner_1908",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Takene: gift 1929, samma familj."
+ },
+ {
+  "id": "c-arvid_teodor_rinberg_1896-rut_signe_vikner_1908-anna_iris_rinberg_1930",
+  "type": "child",
+  "parents": [
+   "arvid_teodor_rinberg_1896",
+   "rut_signe_vikner_1908"
+  ],
+  "child": "anna_iris_rinberg_1930",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Takene: Anna Iris f. 1930 i familjen."
+ },
+ {
+  "id": "c-arvid_teodor_rinberg_1896-rut_signe_vikner_1908-brita_inez_rinberg_1930",
+  "type": "child",
+  "parents": [
+   "arvid_teodor_rinberg_1896",
+   "rut_signe_vikner_1908"
+  ],
+  "child": "brita_inez_rinberg_1930",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Takene: Brita Inez f. 1930 i familjen."
+ },
+ {
+  "id": "p-martin_olaus_rinberg_1899-alma_karolina_olsson_1896",
+  "type": "partner",
+  "a": "martin_olaus_rinberg_1899",
+  "b": "alma_karolina_olsson_1896",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Skog: gift 1930, samma hushåll."
+ },
+ {
+  "id": "c-alma_karolina_olsson_1896-elsa_ingeborg_olsson_1917",
+  "type": "child",
+  "parents": [
+   "alma_karolina_olsson_1896"
+  ],
+  "child": "elsa_ingeborg_olsson_1917",
+  "status": "candidate",
+  "basis": "Folkräkning 1930 Skog: Elsa Ingeborg f. 1917 i hushållet utan angiven relation (moder troligen Alma, f. 1896 – ålder 21; ej verifierat)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-janne_an_1881",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud"
+  ],
+  "child": "janne_an_1881",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Frykerud s. 46: barn i Anders Nilssons hushåll; moder oklar eftersom vigsel först 1899 (se Marias note)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-august_an_1889",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud"
+  ],
+  "child": "august_an_1889",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Frykerud s. 46: barn i Anders Nilssons hushåll; moder oklar eftersom vigsel först 1899 (se Marias note)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-hanna_maria_an_1890",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud"
+  ],
+  "child": "hanna_maria_an_1890",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Frykerud s. 46: barn i Anders Nilssons hushåll; moder oklar eftersom vigsel först 1899 (se Marias note)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-berta_emilia_an_1894",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud"
+  ],
+  "child": "berta_emilia_an_1894",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Frykerud s. 46: barn i Anders Nilssons hushåll; moder oklar eftersom vigsel först 1899 (se Marias note)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-erik_an_1897",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud"
+  ],
+  "child": "erik_an_1897",
+  "status": "candidate",
+  "basis": "Folkräkning 1900 Frykerud s. 46: barn i Anders Nilssons hushåll; moder oklar eftersom vigsel först 1899 (se Marias note)."
+ },
+ {
+  "id": "p-anders_nilsson_1855_boda_frykerud-maria_ak_1856",
+  "type": "partner",
+  "a": "anders_nilsson_1855_boda_frykerud",
+  "b": "maria_ak_1856",
+  "status": "strong",
+  "basis": "Folkräkning 1900/1910/1930: Maria Andersdotter 1856 ”h.” till Anders Nilsson 1855 (vigselår 1899)."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-maria_ak_1856-hanna_maria_an_1890",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud",
+   "maria_ak_1856"
+  ],
+  "child": "hanna_maria_an_1890",
+  "status": "candidate",
+  "basis": "Folkräkning 1910: Hanna Maria 1890 i hushållet med Maria (1856) och Anders (1855); moderskap ej uttryckligt."
+ },
+ {
+  "id": "c-anders_nilsson_1855_boda_frykerud-maria_ak_1856-berta_emilia_an_1894",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1855_boda_frykerud",
+   "maria_ak_1856"
+  ],
+  "child": "berta_emilia_an_1894",
+  "status": "candidate",
+  "basis": "Folkräkning 1910/1930: Berta Emilia 1894 i hushållet hos Maria och Anders; moderskap ej uttryckligt."
+ },
+ {
+  "id": "p-johan_jonasson_1852_aak-anna_ak_1859",
+  "type": "partner",
+  "a": "johan_jonasson_1852_aak",
+  "b": "anna_ak_1859",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Årnäs: Anna Andersdotter 1859 ”h.” i Johan Jonassons familj. Identitet som dotter i Furtan = candidate."
+ },
+ {
+  "id": "c-johan_jonasson_1852_aak-anna_ak_1859-gerda_jj_1897",
+  "type": "child",
+  "parents": [
+   "johan_jonasson_1852_aak",
+   "anna_ak_1859"
+  ],
+  "child": "gerda_jj_1897",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Årnäs: Gerda 1897 i familjen."
+ },
+ {
+  "id": "c-anders_ak_1854-anna_kajsa_olsdotter_1858_an-olof_an_1884_eda",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "anna_kajsa_olsdotter_1858_an"
+  ],
+  "child": "olof_an_1884_eda",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Eda s. 46 rad 9: barn i hushållet Andersson Nygren/Anna Kajsa Olsdotter (förutsätter att Eda-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-anna_kajsa_olsdotter_1858_an-karl_halvar_an_1897_eda",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "anna_kajsa_olsdotter_1858_an"
+  ],
+  "child": "karl_halvar_an_1897_eda",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Eda s. 46 rad 9: barn i hushållet Andersson Nygren/Anna Kajsa Olsdotter (förutsätter att Eda-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-anna_kajsa_olsdotter_1858_an-viktor_hilding_an_1899_eda",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "anna_kajsa_olsdotter_1858_an"
+  ],
+  "child": "viktor_hilding_an_1899_eda",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Eda s. 46 rad 9: barn i hushållet Andersson Nygren/Anna Kajsa Olsdotter (förutsätter att Eda-Anders är Karins son)."
+ },
+ {
+  "id": "p-anders_ak_1854-anna_kajsa_olsdotter_1858_an",
+  "type": "partner",
+  "a": "anders_ak_1854",
+  "b": "anna_kajsa_olsdotter_1858_an",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Eda: Anders Andersson Nygren 1854 Brunskog och Anna Kajsa Olsdotter 1858 Brunskog (gift)."
+ },
+ {
+  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-axel_as_1884_sunne",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "katrina_jansdotter_1856_sunne"
+  ],
+  "child": "axel_as_1884_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-viktor_as_1887_sunne",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "katrina_jansdotter_1856_sunne"
+  ],
+  "child": "viktor_as_1887_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-hulda_lavinia_as_1888_sunne",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "katrina_jansdotter_1856_sunne"
+  ],
+  "child": "hulda_lavinia_as_1888_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-anders_fritiof_as_1894_sunne",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "katrina_jansdotter_1856_sunne"
+  ],
+  "child": "anders_fritiof_as_1894_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+ },
+ {
+  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-ellen_teresia_as_1897_sunne",
+  "type": "child",
+  "parents": [
+   "anders_ak_1854",
+   "katrina_jansdotter_1856_sunne"
+  ],
+  "child": "ellen_teresia_as_1897_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+ },
+ {
+  "id": "p-anders_ak_1854-katrina_jansdotter_1856_sunne",
+  "type": "partner",
+  "a": "anders_ak_1854",
+  "b": "katrina_jansdotter_1856_sunne",
+  "status": "candidate",
+  "basis": "Folkräkning 1890 Årås: Anders 1854 Brunskog ”måg”, hustru Katrina Jansdotter 1856 Sunne."
+ },
+ {
+  "id": "c-hulda_lavinia_as_1888_sunne-karl_hilmer_hlas_1910",
+  "type": "child",
+  "parents": [
+   "hulda_lavinia_as_1888_sunne"
+  ],
+  "child": "karl_hilmer_hlas_1910",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Årås Lobråten: Karl Hilmer 1910 i fam 2 med Hulda Lavinia 1888 (relation ej angiven; sannolik moder)."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-jan_jansson_1861_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "jan_jansson_1861_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122, Sunne s. 209: i Britta Eriksdotters hushåll (fam 1) som (barn); patronymikon Jansson."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-erik_jansson_1864_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "erik_jansson_1864_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122, Sunne s. 209: i Britta Eriksdotters hushåll (fam 1) som (barn); patronymikon Jansson."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-olof_jansson_1866_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "olof_jansson_1866_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122, Sunne s. 209: i Britta Eriksdotters hushåll (fam 1) som (barn); patronymikon Jansson."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-johan_jansson_1869_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "johan_jansson_1869_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122, Sunne s. 209: i Britta Eriksdotters hushåll (fam 1) som (barn); patronymikon Jansson."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-lars_jansson_1875_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "lars_jansson_1875_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122, Sunne s. 209: i Britta Eriksdotters hushåll (fam 1) som (barn); patronymikon Jansson."
+ },
+ {
+  "id": "c-britta_eriksdotter_1832_sunne-katrina_jansdotter_1856_sunne",
+  "type": "child",
+  "parents": [
+   "britta_eriksdotter_1832_sunne"
+  ],
+  "child": "katrina_jansdotter_1856_sunne",
+  "status": "strong",
+  "basis": "Folkräkning 1890 Årås 122: Anders Andersson 1854 står som ”måg” i Britta Eriksdotters gård med hustru Katrina Jansdotter 1856 – Katrina därmed dotter (patronym Jans-)."
+ },
+ {
+  "id": "p-olof_andersson_1875_takene-maria_kristina_pgn_1876",
+  "type": "partner",
+  "a": "olof_andersson_1875_takene",
+  "b": "maria_kristina_pgn_1876",
+  "status": "verified",
+  "basis": "Folkräkning 1900 Svartåna: ”Gift med Olof Anderson i Takene. Östra”; 1930 Takene: ”h.”, vigselår 1901."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-anna_hildur_oa_1901",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "anna_hildur_oa_1901",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-johan_artur_oa_1903",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "johan_artur_oa_1903",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-ingrid_maria_oa_1905",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "ingrid_maria_oa_1905",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-signe_elisabet_oa_1907",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "signe_elisabet_oa_1907",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-anders_martin_oa_1910",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "anders_martin_oa_1910",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "c-olof_andersson_1875_takene-maria_kristina_pgn_1876-ellen_gotilda_oa_1912",
+  "type": "child",
+  "parents": [
+   "olof_andersson_1875_takene",
+   "maria_kristina_pgn_1876"
+  ],
+  "child": "ellen_gotilda_oa_1912",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene: barn i hushållet Olof Andersson 1875/Maria Kristina Persson 1876 (mottogs utan uttrycklig relation i listan; födda efter giftet 1901)."
+ },
+ {
+  "id": "p-olof_torsander_1875-anna_elisabeth_pgn_1879",
+  "type": "partner",
+  "a": "olof_torsander_1875",
+  "b": "anna_elisabeth_pgn_1879",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Takene s. 26: Anna Elisabet Persson 1879 ”h.” i Torsanders familj; 1930: gift 1907, ”f. Persson”."
+ },
+ {
+  "id": "c-olof_torsander_1875-anna_elisabeth_pgn_1879-johan_olof_torsander_1908",
+  "type": "child",
+  "parents": [
+   "olof_torsander_1875",
+   "anna_elisabeth_pgn_1879"
+  ],
+  "child": "johan_olof_torsander_1908",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene s. 23/26: barn i familj 2 Torsander/Persson."
+ },
+ {
+  "id": "c-olof_torsander_1875-anna_elisabeth_pgn_1879-signe_elisabet_torsander_1912",
+  "type": "child",
+  "parents": [
+   "olof_torsander_1875",
+   "anna_elisabeth_pgn_1879"
+  ],
+  "child": "signe_elisabet_torsander_1912",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene s. 23/26: barn i familj 2 Torsander/Persson."
+ },
+ {
+  "id": "c-olof_torsander_1875-anna_elisabeth_pgn_1879-per_gosta_torsander_1921",
+  "type": "child",
+  "parents": [
+   "olof_torsander_1875",
+   "anna_elisabeth_pgn_1879"
+  ],
+  "child": "per_gosta_torsander_1921",
+  "status": "strong",
+  "basis": "Folkräkning 1910/1930 Takene s. 23/26: barn i familj 2 Torsander/Persson."
+ },
+ {
+  "id": "s-olof_torsander_1875-nils_gustaf_torsander_1878",
+  "type": "sibling",
+  "a": "olof_torsander_1875",
+  "b": "nils_gustaf_torsander_1878",
+  "status": "candidate",
+  "basis": "Samma efternamn Torsander, f. i Brunskog 1875/1878, samma gård på Takene 1910 och 1930; ingen uttrycklig syskonpost."
+ },
+ {
+  "id": "p-johan_fridolf_pgn_1883-alma_maria_alfredsson_1883",
+  "type": "partner",
+  "a": "johan_fridolf_pgn_1883",
+  "b": "alma_maria_alfredsson_1883",
+  "status": "verified",
+  "basis": "Folkräkning 1910 Svartåna: Johan Fridolf Persson ”Gifte son”, hustru Alma Maria Alfredsson 1883 i samma familj (fam 2)."
  }
 ]

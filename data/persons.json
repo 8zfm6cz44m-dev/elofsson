@@ -25113,12 +25113,17 @@
   ],
   "summary": "Dotter i hushållet Olof Ersson (1815) och Maria Olofsdotter på Ö. Takene (barnbarn till Erik Christophersson).",
   "notes": [
-   "HUSFÖRHÖR A I/23 bild 144: ”Dotter Betty 22/6 50 ibm” (föräldrar via hushållet; dop ej kontrollerat i C I/5)."
+   "HUSFÖRHÖR A I/23 bild 144: ”Dotter Betty 22/6 50 ibm” (föräldrar via hushållet; dop ej kontrollerat i C I/5).",
+   "FOLKRÄKNING 1900 Svartåna: Olsdotter, Betty f. 1850 Brunskog, hustru till Per Gustaf Nilsson; Olof Eriksson f. 1815 som fam 2 (svärfar enl. tidigare post)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhör A I/23 (1846–1850), bild 144 (s. 142), Ö. Takene: ”Dotter Betty 22/6 50 ibm”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036762_00144"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Svartåna, s. 27 rad 40: Maria Kristina 1876 ”d.” (gift med Olof Anderson i Takene Östra sid. 28); Anna Elisabet 1879; Johan Fridolf 1883 ”s.” (rad 42); fam 2 Eriksson, Olof 1815",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937967"
    }
   ],
   "search": [
@@ -25829,7 +25834,7 @@
  {
   "id": "maria_kristina_pgn_1876",
   "name": "Maria Kristina Persdotter (f. 1876)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25841,12 +25846,17 @@
   ],
   "summary": "Dotter i Per Gustaf Nilssons och Betty Olsdotters hushåll (barnbarn till Olof Eriksson 1815).",
   "notes": [
-   "FOLKRÄKNING 1890: Maria Kristina f. 1876 Brunskog i hushåll Svartåna (utan uttrycklig 'dotter' i sökutdraget)"
+   "FOLKRÄKNING 1890: Maria Kristina f. 1876 Brunskog i hushåll Svartåna (utan uttrycklig 'dotter' i sökutdraget)",
+   "FOLKRÄKNING 1900 Svartåna: familjeställning ”d.” (dotter) i hushållet Per Gustaf Nilsson/Betty Olsdotter; anmärkning ”Gift med Olof Anderson i Takene. Östra. Sid. 28”. 1930 Takene: ”Persson, Maria Kristina” f. 1876, gift 1901 med hemmansägaren Olof Andersson f. 1875 (1910 felläst som ”Anna Kristina”)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Svartåna, s. 27 rad 40: Maria Kristina 1876 ”d.” (gift med Olof Anderson i Takene Östra sid. 28); Anna Elisabet 1879; Johan Fridolf 1883 ”s.” (rad 42); fam 2 Eriksson, Olof 1815",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937967"
    }
   ],
   "search": [
@@ -25856,7 +25866,7 @@
  {
   "id": "anna_elisabeth_pgn_1879",
   "name": "Anna Elisabeth Persdotter (f. 1879)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25868,12 +25878,17 @@
   ],
   "summary": "Dotter i Per Gustaf Nilssons och Betty Olsdotters hushåll.",
   "notes": [
-   "FOLKRÄKNING 1890/1900: Anna Elisabeth(-et) f. 1879 Brunskog"
+   "FOLKRÄKNING 1890/1900: Anna Elisabeth(-et) f. 1879 Brunskog",
+   "FOLKRÄKNING 1890 Svartåna: ”d.” (dotter) i hushållet. 1910/1930 Takene: Anna Elisabet Persson f. 1879, ”h.” till Olof Torsander/Thorsander f. 1875 (gift 1907)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Svartåna, s. 26 rad 34: Anna Elisabeth 1879 ”d.” (dotter) i hushållet Nilsson, Per Gustaf 1846 / Olsdotter, Betty 1850; Maria Kristina 1876, Johan Fridolf 1883; fam 2 Eriksson, Olof 1815",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598303"
    }
   ],
   "search": [
@@ -25883,7 +25898,7 @@
  {
   "id": "johan_fridolf_pgn_1883",
   "name": "Johan Fridolf Persson (f. 1883)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25895,12 +25910,21 @@
   ],
   "summary": "Son i Per Gustaf Nilssons och Betty Olsdotters hushåll.",
   "notes": [
-   "FOLKRÄKNING 1890/1900: Johan Fridolf f. 1883 Brunskog"
+   "FOLKRÄKNING 1890/1900: Johan Fridolf f. 1883 Brunskog",
+   "FOLKRÄKNING 1900 Svartåna: ”s.” (son). 1910 Svartåna fam 2: ”Gifte son” Persson, Johan Fridolf f. 1883, gift med Alma Maria Alfredsson f. 1883 i Grava; inga barn 1910. 1930 ej funnen (ej undersökt: Amerika?)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskog, Svartåna, s. 26",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598305"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Svartåna, s. 27 rad 40: Maria Kristina 1876 ”d.” (gift med Olof Anderson i Takene Östra sid. 28); Anna Elisabet 1879; Johan Fridolf 1883 ”s.” (rad 42); fam 2 Eriksson, Olof 1815",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937967"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Svartåna, s. 23 rad 15 (fam 2): Persson, Johan Fridolf 1883 Brunskog, gift, ”Gifte son”; Alfredsson, Alma Maria 1883 Grava",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549675"
    }
   ],
   "search": [
@@ -25922,7 +25946,8 @@
   ],
   "summary": "Hustru till Kristoffer Eriksson (f. 1835) på Ö. Takene.",
   "notes": [
-   "FOLKRÄKNING 1880/1890/1900 Ö. Takene: Maria Eriksdotter f. 1836 Brunskog i Kristoffer Erikssons hushåll"
+   "FOLKRÄKNING 1880/1890/1900 Ö. Takene: Maria Eriksdotter f. 1836 Brunskog i Kristoffer Erikssons hushåll",
+   "FOLKRÄKNING 1910 Takene s. 28 rad 38: Maria Eriksdotter f. 1836 Brunskog, inhyses (änka efter Kristoffer?), hos dottern Karin Kristoffersson 1873 – Kristoffer Eriksson (f. 1835) ej i 1910 → död före 1910 (ej verifierat)."
   ],
   "sources": [
    {
@@ -25936,6 +25961,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 28 rad 38",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549927"
    }
   ],
   "search": [
@@ -25957,7 +25986,8 @@
   ],
   "summary": "Son i Kristoffer Erikssons hushåll på Ö. Takene (1880, 1890).",
   "notes": [
-   "FOLKRÄKNING 1880/1890: Erik f. 1862 Brunskog; ej i 1900 (flyttat/utvandrat? ej undersökt)"
+   "FOLKRÄKNING 1880/1890: Erik f. 1862 Brunskog; ej i 1900 (flyttat/utvandrat? ej undersökt)",
+   "FOLKRÄKNING 1900/1910/1930: Erik Kristoffersson f. 1862 i Brunskog (Värmlands län), slaktare i Arvika köping 1900, Vik i Arvika 1910, hemmansägare Vik-Solvik 1930; gift 1892 med Karin Nilsdotter (f. 1865 Brunskog); barn Folke Teodor 1894, Gurli Margareta 1900. Identifiering mot Kristoffer Erikssons son = strong (namn+födelseår+födelseförsamling+patronymikon, ingen uttrycklig faderspost). Svarar på 'saknas 1900': han finns i Arvika, inte Amerika."
   ],
   "sources": [
    {
@@ -25967,6 +25997,18 @@
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Arvika köping, N:o 133, s. 47 rad 19: Kristofferson, Erik 1862 Brunskog slaktare, gift; Karin Nilsdotter 1865 Brunskog; Folke Teodor 1894 Arvika köping; Gurli Margareta 1900 Arvika köping",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113723947"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Arvika landsförsamling, Vik, s. 73 rad 25: Kristoffersson, Erik 1862 Brunskog slaktare, gift; Nilsdotter, Karin 1865 Brunskog; Folke Teodor 1894; Gurli Margareta 1900",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125539349"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Vik-Solvik, s. 88 rad 43: Kristoffersson, Erik 1862 Brunskog hemmansägare, gift (vigselår 1892, inflyttad 1907 från Arvika); Nilsson, Karin 1865 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128794943"
    }
   ],
   "search": [
@@ -25988,7 +26030,8 @@
   ],
   "summary": "Dotter i Kristoffer Erikssons hushåll på Ö. Takene (1880, 1890).",
   "notes": [
-   "FOLKRÄKNING 1880/1890: Britta/Brita f. 1864 Brunskog; ej i 1900"
+   "FOLKRÄKNING 1880/1890: Britta/Brita f. 1864 Brunskog; ej i 1900",
+   "FOLKRÄKNING 1900 (Ö. Takene): Britta Kristoffersdotter f. 1864 Brunskog, gift, ”h.” (hustru) till hemmansegaren Johannes Nilsson f. 1867 Brunskog; barn Arvid Teodor 1896, Martin Olaus 1899. 1910 Takene (+ Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908). 1930 ägareänka ”Nilsson Kristoffersson, Britta” på Takene med sonen Erik Johan Rinberg (f. 1908). Svarar på 'Britta saknas 1900': gift och kvar på Ö. Takene."
   ],
   "sources": [
    {
@@ -25998,6 +26041,18 @@
    {
     "label": "Riksarkivet, Folkräkning 1890, Brunskogs moder, Takene, s. 24 rad 4: Kristoffer Eriksson 1835, Maria Eriksdotter 1836, Erik 1862, Brita 1864, Karin 1873, Maria 1876",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103598174"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 18: Kristoffersdotter, Britta 1864 Brunskog, gift, familjeställning ”h.”; Nilsson, Johannes 1867 Brunskog hemmansegare; Arvid Teodor 1896, Martin Olaus 1899",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938094"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
    }
   ],
   "search": [
@@ -26019,7 +26074,8 @@
   ],
   "summary": "Dotter i Kristoffer Erikssons hushåll på Ö. Takene (1880–1900).",
   "notes": [
-   "FOLKRÄKNING 1880/1890/1900: Karin f. 1873 Brunskog"
+   "FOLKRÄKNING 1880/1890/1900: Karin f. 1873 Brunskog",
+   "FOLKRÄKNING 1910 Takene: ”d.” (dotter) hos modern Maria Eriksdotter f. 1836 (inhyses) – uttrycklig familjeställning, verifierar Karin som dotter till Maria. 1930: ogift sömmerska, ensamstående, Takene."
   ],
   "sources": [
    {
@@ -26033,6 +26089,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 35: Kristoffer Eriksson 1835 hemmansegare, Maria Eriksdotter 1836, Karin 1873, Maria 1876",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938111"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 28 rad 38: Kristoffersson, Karin 1873 Brunskog sömmerska ogift, familjeställning ”d.” (dotter); Eriksdotter, Maria 1836 Brunskog inhyses",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549927"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 24 rad 37: Kristoffersson, Karin 1873 Brunskog sömmerska ogift, ensamstående",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883910"
    }
   ],
   "search": [
@@ -26124,12 +26188,25 @@
   ],
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
-   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)"
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)",
+   "FOLKRÄKNING – TVÅ KANDIDATER för Anders Andersson f. 1854 i Brunskog (ej i faderns hushåll 1890): (A) Anders Andersson Nygren, banvakt, Hvittensten, Eda 1910, gift med Anna Kajsa Olsdotter f. 1858 Brunskog (barn Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 – födda i Eda); (B) Anders Andersson, ”måg” hos Britta Eriksdotter (f. 1832) i Årås, Sunne 1890, hemmansägare Årås Lobråten 1910, gift med Katrina Jansdotter f. 1856 Sunne (barn Axel 1884, Viktor 1887, Hulda Lavinia 1888, Anders Fritiof 1894, Ellen Teresia 1897). Båda har födelseår 1854 + födelseförsamling Brunskog; inget avgör vilken som är Karins son. Ingen av dem verified."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Eda, Hvittensten, s. 46 rad 9: Andersson Nygren, Anders 1854 Brunskog banvakt, gift; Olsdotter, Anna Kajsa 1858 Brunskog; Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 (alla Eda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125623967"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
    }
   ],
   "search": [
@@ -26151,12 +26228,25 @@
   ],
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
-   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1856 Brunskog)"
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1856 Brunskog)",
+   "FOLKRÄKNING 1900/1910/1930: Maria Andersdotter f. 1856 i Brunskog, ”h.” (hustru) till Anders Nilsson f. 1855 i Boda, Frykerud (Qvarntorp 1900, Klaxås 1910, Lene Hagalund 1930). Vigselår 1899 / inflyttad 1898 från Brunskog enl. 1930 – barnen f. 1881–97 är därför troligen makens barn från tidigare äktenskap (eller födda före giftet); identifiering av Maria som Anders/Karins dotter = candidate (namn+år+födelseförsamling, ingen uttrycklig föräldrapost)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Frykerud, Klaxås, s. 25 rad 49: Andersdotter, Maria 1856 Brunskog, ”h.”; Nilsson, Anders 1855 Boda hemmansägare; Hanna Maria 1890, Berta Emilia 1894",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Frykerud, Lene Hagalund, s. 34 rad 20: Andersdotter, Maria 1856 Brunskog, gift (vigselår 1899, inflyttad 1898 från Brunskog), ”h.”; Nilsson, Anders 1855 Boda lägenhetsägare; Berta Emilia 1894 sömmerska",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128607835"
    }
   ],
   "search": [
@@ -26178,12 +26268,17 @@
   ],
   "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
   "notes": [
-   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1859 Brunskog)"
+   "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1859 Brunskog)",
+   "FOLKRÄKNING 1900 Årnäs, Brunskog: Anna Andersdotter f. 1859 i Brunskog, ”h.” till fabriksarbetaren Johan Jonasson (f. 1852 Brunskog); dotter Gerda f. 1897. Identifiering som Anders/Karins dotter = candidate (namn+år+födelseförsamling). I samma gård (fam 1) bor Anders Andersson f. 1825 och Anna Nilsdotter f. 1829 samt Nils Haage f. 1857 – ej bekräftat släkt."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Västra Furtan, s. 66 rad 23: Anders Andersson 1831 hemmansägare; hustru (familjeställning ”h.”) Karin Eriksdotter 1830 Brunskog; barn Anders 1854, Anna 1859, Erik 1862, Ingegärd 1866, Nils 1869, Emma 1872, Karolina 1875",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120425074"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Årnäs, s. 43 rad 44 (fam 2): Andersdotter, Anna 1859 Brunskog, gift, ”h.”; Jonasson, Johan 1852 Brunskog fabriksarbetare; Gerda 1897 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938766"
    }
   ],
   "search": [
@@ -31194,6 +31289,1614 @@
   ],
   "search": [
    "Anna Brunzell (f. 1869 Mångskog), g. Persson"
+  ]
+ },
+ {
+  "id": "karin_nilsd65_ekc",
+  "name": "Karin Nilsdotter (f. 1865, g. m. Erik Kristoffersson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1865",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Hustru till Erik Kristoffersson (f. 1862 Brunskog), Arvika.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910/1930: Karin Nilsdotter/Nilsson f. 1865 i Brunskog, hustru i Erik Kristofferssons hushåll i Arvika (vigselår 1892 enl. 1930)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Arvika köping, N:o 133, s. 47 rad 19: Kristofferson, Erik 1862 Brunskog slaktare, gift; Karin Nilsdotter 1865 Brunskog; Folke Teodor 1894 Arvika köping; Gurli Margareta 1900 Arvika köping",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113723947"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Vik-Solvik, s. 88 rad 43: Kristoffersson, Erik 1862 Brunskog hemmansägare, gift (vigselår 1892, inflyttad 1907 från Arvika); Nilsson, Karin 1865 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128794943"
+   }
+  ],
+  "search": [
+   "Karin Nilsdotter (f. 1865, g. m. Erik Kristoffersson)"
+  ]
+ },
+ {
+  "id": "folke_teodor_ekc_1894",
+  "name": "Folke Teodor Kristoffersson (f. 1894)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Arvika köping"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Son till slaktaren Erik Kristoffersson i Arvika; hemmansägare Lycke, Arvika 1930.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910: i faderns hushåll (Arvika köping/Vik).",
+   "FOLKRÄKNING 1930: Kristoffersson, Folke Teodor f. 1894 Arvika, hemmansägare, Lycke, Arvika landsförsamling, gift 1920 med Jenny Elfrida Johansson (f. 1894); barn Ester Margit 1922, Herdis Kristina 1924, Kjell Folke 1929."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Arvika köping, N:o 133, s. 47 rad 19: Kristofferson, Erik 1862 Brunskog slaktare, gift; Karin Nilsdotter 1865 Brunskog; Folke Teodor 1894 Arvika köping; Gurli Margareta 1900 Arvika köping",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113723947"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Arvika landsförsamling, Vik, s. 73 rad 25: Kristoffersson, Erik 1862 Brunskog slaktare, gift; Nilsdotter, Karin 1865 Brunskog; Folke Teodor 1894; Gurli Margareta 1900",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125539349"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Lycke, s. 58 rad 20: Kristoffersson, Folke Teodor 1894 Arvika hemmansägare, gift (vigselår 1920); Johansson, Jenny Elfrida 1894; Ester Margit 1922, Herdis Kristina 1924, Kjell Folke 1929",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128793449"
+   }
+  ],
+  "search": [
+   "Folke Teodor Kristoffersson (f. 1894)"
+  ]
+ },
+ {
+  "id": "gurli_margareta_ekc_1900",
+  "name": "Gurli Margareta Kristoffersson (f. 1900)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Arvika köping"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Dotter till slaktaren Erik Kristoffersson och Karin Nilsdotter, Arvika.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910: Gurli Margareta f. 1900 i Arvika köping i faderns hushåll; senare öden ej undersökta."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Arvika köping, N:o 133, s. 47 rad 19: Kristofferson, Erik 1862 Brunskog slaktare, gift; Karin Nilsdotter 1865 Brunskog; Folke Teodor 1894 Arvika köping; Gurli Margareta 1900 Arvika köping",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_113723947"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Arvika landsförsamling, Vik, s. 73 rad 25: Kristoffersson, Erik 1862 Brunskog slaktare, gift; Nilsdotter, Karin 1865 Brunskog; Folke Teodor 1894; Gurli Margareta 1900",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125539349"
+   }
+  ],
+  "search": [
+   "Gurli Margareta Kristoffersson (f. 1900)"
+  ]
+ },
+ {
+  "id": "jenny_elfrida_johansson_1894",
+  "name": "Jenny Elfrida Johansson (f. 1894)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Hustru till Folke Teodor Kristoffersson, Lycke, Arvika (gift 1920).",
+  "notes": [
+   "FOLKRÄKNING 1930 Lycke, Arvika landsförsamling: Johansson, Jenny Elfrida f. 1894 i Arvika landsförs., i hushållet med maken (vigselår 1920)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Lycke, s. 58 rad 20",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128793449"
+   }
+  ],
+  "search": [
+   "Jenny Elfrida Johansson (f. 1894)"
+  ]
+ },
+ {
+  "id": "ester_margit_ftk_1922",
+  "name": "Ester Margit Kristoffersson (f. 1922)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1922",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [],
+  "summary": "Dotter till Folke Teodor Kristoffersson och Jenny Elfrida Johansson.",
+  "notes": [
+   "FOLKRÄKNING 1930 Lycke, Arvika: Ester Margit f. 1922."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Lycke, s. 58 rad 20",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128793449"
+   }
+  ],
+  "search": [
+   "Ester Margit Kristoffersson (f. 1922)"
+  ]
+ },
+ {
+  "id": "herdis_kristina_ftk_1924",
+  "name": "Herdis Kristina Kristoffersson (f. 1924)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1924",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [],
+  "summary": "Dotter till Folke Teodor Kristoffersson och Jenny Elfrida Johansson.",
+  "notes": [
+   "FOLKRÄKNING 1930 Lycke, Arvika: Herdis Kristina f. 1924."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Lycke, s. 58 rad 20",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128793449"
+   }
+  ],
+  "search": [
+   "Herdis Kristina Kristoffersson (f. 1924)"
+  ]
+ },
+ {
+  "id": "kjell_folke_ftk_1929",
+  "name": "Kjell Folke Kristoffersson (f. 1929)",
+  "status": "strong",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1929",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [],
+  "summary": "Son till Folke Teodor Kristoffersson och Jenny Elfrida Johansson.",
+  "notes": [
+   "FOLKRÄKNING 1930 Lycke, Arvika: Kjell Folke f. 1929."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Arvika landsförsamling, Lycke, s. 58 rad 20",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128793449"
+   }
+  ],
+  "search": [
+   "Kjell Folke Kristoffersson (f. 1929)"
+  ]
+ },
+ {
+  "id": "johannes_nilsson_1867_bk",
+  "name": "Johannes Nilsson (f. 1867, Takene)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1867",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hemmansägare på Ö. Takene, gift med Britta Kristoffersdotter (f. 1864); far till Arvid Teodor, Martin Olaus m.fl. (efternamn Rinberg i barnens 1930-poster).",
+  "notes": [
+   "FOLKRÄKNING 1900: Nilsson, Johannes f. 1867 Brunskog, hemmansegare, Östra Takene, familj med hustru ”h.” Britta Kristoffersdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 18: Kristoffersdotter, Britta 1864 Brunskog, gift, familjeställning ”h.”; Nilsson, Johannes 1867 Brunskog hemmansegare; Arvid Teodor 1896, Martin Olaus 1899",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938094"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   }
+  ],
+  "search": [
+   "Johannes Nilsson (f. 1867, Takene)"
+  ]
+ },
+ {
+  "id": "arvid_teodor_rinberg_1896",
+  "name": "Arvid Teodor Rinberg (f. 1896)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Son till Johannes Nilsson och Britta Kristoffersdotter (1910 ”s.” = son); målare, Takene 1930.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene: ”Arvid Teodor” f. 1896 familjeställning ”s.” (son) i hushållet Johannes Nilsson/Britta Kristoffersson.",
+   "FOLKRÄKNING 1930 Takene: Rinberg, Arvid Teodor f. 1896 Brunskog, målare, gift (vigselår 1929) med Rut Signe Helena Vikner (f. 1908 Karlstad); barn Anna Iris och Brita Inez (båda f. 1930); i grannfamilj med modern Britta Nilsson Kristoffersson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
+   }
+  ],
+  "search": [
+   "Arvid Teodor Rinberg (f. 1896)"
+  ]
+ },
+ {
+  "id": "martin_olaus_rinberg_1899",
+  "name": "Martin Olaus Rinberg (f. 1899)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1899",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Son till Johannes Nilsson och Britta Kristoffersdotter; skogsförman på Skog, Brunskog 1930.",
+  "notes": [
+   "FOLKRÄKNING 1900/1910: Martin Olaus f. 1899 i hushållet Johannes Nilsson/Britta (Takene).",
+   "FOLKRÄKNING 1930 Skog: Rinberg, Martin Olaus f. 1899 Brunskog, skogsförman, gift 1930 med Alma Karolina Olsson (f. 1896 Brunskog); i hushållet Elsa Ingeborg f. 1917 (troligen Almas dotter)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Östra Takene, s. 30 rad 18: Kristoffersdotter, Britta 1864 Brunskog, gift, familjeställning ”h.”; Nilsson, Johannes 1867 Brunskog hemmansegare; Arvid Teodor 1896, Martin Olaus 1899",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938094"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog, s. 14 rad 50: Rinberg, Martin Olaus 1899 skogsförman, gift (vigselår 1930); Olsson, Alma Karolina 1896; Elsa Ingeborg 1917",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883432"
+   }
+  ],
+  "search": [
+   "Martin Olaus Rinberg (f. 1899)"
+  ]
+ },
+ {
+  "id": "jenny_maria_jnb_1902",
+  "name": "Jenny Maria Johannesdotter (f. 1902)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Dotter i Johannes Nilssons och Britta Kristoffersdotters hushåll på Takene.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene: Jenny Maria f. 1902 Brunskog i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   }
+  ],
+  "search": [
+   "Jenny Maria Johannesdotter (f. 1902)"
+  ]
+ },
+ {
+  "id": "anna_maria_jnb_1904",
+  "name": "Anna Maria Johannesdotter (f. 1904)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1904",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Dotter i Johannes Nilssons och Britta Kristoffersdotters hushåll på Takene.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene: Anna Maria f. 1904 Brunskog i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   }
+  ],
+  "search": [
+   "Anna Maria Johannesdotter (f. 1904)"
+  ]
+ },
+ {
+  "id": "erik_johan_rinberg_1908",
+  "name": "Erik Johan Rinberg (f. 1908)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Son till Johannes Nilsson och Britta Kristoffersdotter; bor 1930 hos modern på Takene.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene: ”Emil Johan” f. 1908 i hushållet; 1930 Takene ”Rinberg, Erik Johan” f. 1908 Brunskog hos modern Britta (Emil/Erik = troligen samma person, läsvariant)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 27 rad 17: Nilsson, Johannes 1867 hemmansägare; Kristoffersson, Britta 1864; Arvid Teodor 1896 (s.), Martin Olaus 1899, Jenny Maria 1902, Anna Maria 1904, Emil Johan 1908",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549858"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
+   }
+  ],
+  "search": [
+   "Erik Johan Rinberg (f. 1908)"
+  ]
+ },
+ {
+  "id": "rut_signe_vikner_1908",
+  "name": "Rut Signe Helena Vikner (f. 1908)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Karlstads landsförsamling"
+  },
+  "places": [],
+  "summary": "Hustru till Arvid Teodor Rinberg (gift 1929).",
+  "notes": [
+   "FOLKRÄKNING 1930 Takene: Vikner, Rut Signe Helena f. 1908 Karlstads landsförsamling, i Arvid Rinbergs familj."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
+   }
+  ],
+  "search": [
+   "Rut Signe Helena Vikner (f. 1908)"
+  ]
+ },
+ {
+  "id": "anna_iris_rinberg_1930",
+  "name": "Anna Iris Rinberg (f. 1930)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1930",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Dotter till Arvid Teodor Rinberg och Rut Signe Helena Vikner (tvilling med Brita Inez?).",
+  "notes": [
+   "FOLKRÄKNING 1930 Takene: Anna Iris f. 1930 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
+   }
+  ],
+  "search": [
+   "Anna Iris Rinberg (f. 1930)"
+  ]
+ },
+ {
+  "id": "brita_inez_rinberg_1930",
+  "name": "Brita Inez Rinberg (f. 1930)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1930",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Dotter till Arvid Teodor Rinberg och Rut Signe Helena Vikner.",
+  "notes": [
+   "FOLKRÄKNING 1930 Takene: Brita Inez f. 1930 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 38 (fam 1): Nilsson Kristoffersson, Britta 1864 Brunskog ägareänka; Rinberg, Erik Johan 1908 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883861"
+   }
+  ],
+  "search": [
+   "Brita Inez Rinberg (f. 1930)"
+  ]
+ },
+ {
+  "id": "alma_karolina_olsson_1896",
+  "name": "Alma Karolina Olsson (f. 1896)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Hustru till Martin Olaus Rinberg (gift 1930), Skog.",
+  "notes": [
+   "FOLKRÄKNING 1930 Skog: Olsson, Alma Karolina f. 1896 Brunskog, i Martin Rinbergs familj."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog, s. 14 rad 50",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883432"
+   }
+  ],
+  "search": [
+   "Alma Karolina Olsson (f. 1896)"
+  ]
+ },
+ {
+  "id": "elsa_ingeborg_olsson_1917",
+  "name": "Elsa Ingeborg (f. 1917)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1917",
+   "place": "Brunskog"
+  },
+  "places": [],
+  "summary": "Dotter (troligen till Alma Karolina Olsson, före giftet 1930) i Martin Rinbergs hushåll på Skog 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Skog: Elsa Ingeborg f. 1917 Brunskog utan familjeställning i hushållet Martin Rinberg/Alma Olsson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Skog, s. 14 rad 50",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883432"
+   }
+  ],
+  "search": [
+   "Elsa Ingeborg (f. 1917)"
+  ]
+ },
+ {
+  "id": "anders_nilsson_1855_boda_frykerud",
+  "name": "Anders Nilsson (f. 1855, Boda; Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1855",
+   "place": "Boda"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Arrendator/hemmansägare i Frykerud (Qvarntorp, Klaxås, Lene Hagalund); gift 1899 med Maria Andersdotter (f. 1856 Brunskog).",
+  "notes": [
+   "FOLKRÄKNING 1900/1910/1930 Frykerud: Nilsson, Anders f. 1855 i Boda; hustru Maria Andersdotter f. 1856 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Frykerud, Klaxås, s. 25 rad 49: Andersdotter, Maria 1856 Brunskog, ”h.”; Nilsson, Anders 1855 Boda hemmansägare; Hanna Maria 1890, Berta Emilia 1894",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043301"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Frykerud, Lene Hagalund, s. 34 rad 20: Andersdotter, Maria 1856 Brunskog, gift (vigselår 1899, inflyttad 1898 från Brunskog), ”h.”; Nilsson, Anders 1855 Boda lägenhetsägare; Berta Emilia 1894 sömmerska",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128607835"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (f. 1855, Boda; Frykerud)"
+  ]
+ },
+ {
+  "id": "janne_an_1881",
+  "name": "Janne Andersson/Nilsson (f. 1881)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1881",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Barn i hushållet Anders Nilsson (f. 1855 Boda) och Maria Andersdotter (f. 1856 Brunskog), Frykerud.",
+  "notes": [
+   "FOLKRÄKNING 1900 Qvarntorp, Frykerud: Janne Andersson/Nilsson f. 1881 Frykerud i hushållet (utan angiven relation)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   }
+  ],
+  "search": [
+   "Janne Andersson/Nilsson (f. 1881)"
+  ]
+ },
+ {
+  "id": "august_an_1889",
+  "name": "August Nilsson (f. 1889)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1889",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Barn i hushållet Anders Nilsson (f. 1855 Boda) och Maria Andersdotter (f. 1856 Brunskog), Frykerud.",
+  "notes": [
+   "FOLKRÄKNING 1900 Qvarntorp, Frykerud: August Nilsson f. 1889 Frykerud i hushållet (utan angiven relation)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   }
+  ],
+  "search": [
+   "August Nilsson (f. 1889)"
+  ]
+ },
+ {
+  "id": "hanna_maria_an_1890",
+  "name": "Hanna Maria Nilsson (f. 1890)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1890",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Barn i hushållet Anders Nilsson (f. 1855 Boda) och Maria Andersdotter (f. 1856 Brunskog), Frykerud.",
+  "notes": [
+   "FOLKRÄKNING 1900 Qvarntorp, Frykerud: Hanna Maria Nilsson f. 1890 Frykerud i hushållet (utan angiven relation)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   }
+  ],
+  "search": [
+   "Hanna Maria Nilsson (f. 1890)"
+  ]
+ },
+ {
+  "id": "berta_emilia_an_1894",
+  "name": "Berta Emilia Nilsson (f. 1894)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Barn i hushållet Anders Nilsson (f. 1855 Boda) och Maria Andersdotter (f. 1856 Brunskog), Frykerud.",
+  "notes": [
+   "FOLKRÄKNING 1900 Qvarntorp, Frykerud: Berta Emilia Nilsson f. 1894 Frykerud i hushållet (utan angiven relation)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   }
+  ],
+  "search": [
+   "Berta Emilia Nilsson (f. 1894)"
+  ]
+ },
+ {
+  "id": "erik_an_1897",
+  "name": "Erik Nilsson (f. 1897)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Frykerud"
+  ],
+  "summary": "Barn i hushållet Anders Nilsson (f. 1855 Boda) och Maria Andersdotter (f. 1856 Brunskog), Frykerud.",
+  "notes": [
+   "FOLKRÄKNING 1900 Qvarntorp, Frykerud: Erik Nilsson f. 1897 Frykerud i hushållet (utan angiven relation)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Qvarntorp, s. 46 rad 6: Andersdotter, Maria 1856 Brunskog, gift, ”h.”; Nilsson, Anders 1855 Boda arrendator; Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla Frykerud)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119380185"
+   }
+  ],
+  "search": [
+   "Erik Nilsson (f. 1897)"
+  ]
+ },
+ {
+  "id": "johan_jonasson_1852_aak",
+  "name": "Johan Jonasson (f. 1852, Brunskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1852",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Fabriksarbetare på Årnäs, Brunskog; gift med Anna Andersdotter (f. 1859 Brunskog).",
+  "notes": [
+   "FOLKRÄKNING 1900 Årnäs s. 43 rad 44: Jonasson, Johan f. 1852 Brunskog, fabriksarbetare, fam 2 med hustru ”h.” Anna Andersdotter och dotter Gerda 1897."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Årnäs, s. 43 rad 44 (fam 2): Andersdotter, Anna 1859 Brunskog, gift, ”h.”; Jonasson, Johan 1852 Brunskog fabriksarbetare; Gerda 1897 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938766"
+   }
+  ],
+  "search": [
+   "Johan Jonasson (f. 1852, Brunskog)"
+  ]
+ },
+ {
+  "id": "gerda_jj_1897",
+  "name": "Gerda Johansdotter (f. 1897)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Årnäs, Brunskog"
+  ],
+  "summary": "Dotter till Johan Jonasson och Anna Andersdotter, Årnäs 1900.",
+  "notes": [
+   "FOLKRÄKNING 1900 Årnäs: Gerda f. 1897 Brunskog i familjen (fam 2). Senare öden ej undersökta."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Årnäs, s. 43 rad 44 (fam 2): Andersdotter, Anna 1859 Brunskog, gift, ”h.”; Jonasson, Johan 1852 Brunskog fabriksarbetare; Gerda 1897 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938766"
+   }
+  ],
+  "search": [
+   "Gerda Johansdotter (f. 1897)"
+  ]
+ },
+ {
+  "id": "anna_kajsa_olsdotter_1858_an",
+  "name": "Anna Kajsa Olsdotter (f. 1858, Brunskog; g. Anders Andersson Nygren)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1858",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Hustru till banvakten Anders Andersson Nygren (f. 1854 Brunskog), Eda – kandidat A för Anders Andersson f. 1854.",
+  "notes": [
+   "FOLKRÄKNING 1910 Eda, Hvittensten s. 46 rad 9: Olsdotter, Anna Kajsa f. 1858 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Eda, Hvittensten, s. 46 rad 9: Andersson Nygren, Anders 1854 Brunskog banvakt, gift; Olsdotter, Anna Kajsa 1858 Brunskog; Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 (alla Eda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125623967"
+   }
+  ],
+  "search": [
+   "Anna Kajsa Olsdotter (f. 1858, Brunskog; g. Anders Andersson Nygren)"
+  ]
+ },
+ {
+  "id": "olof_an_1884_eda",
+  "name": "Olof Andersson (f. 1884, Eda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
+  "notes": [
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Olof Andersson f. 1884 i Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Eda, Hvittensten, s. 46 rad 9: Andersson Nygren, Anders 1854 Brunskog banvakt, gift; Olsdotter, Anna Kajsa 1858 Brunskog; Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 (alla Eda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125623967"
+   }
+  ],
+  "search": [
+   "Olof Andersson (f. 1884, Eda)"
+  ]
+ },
+ {
+  "id": "karl_halvar_an_1897_eda",
+  "name": "Karl Halvar Andersson (f. 1897, Eda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
+  "notes": [
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Karl Halvar Andersson f. 1897 i Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Eda, Hvittensten, s. 46 rad 9: Andersson Nygren, Anders 1854 Brunskog banvakt, gift; Olsdotter, Anna Kajsa 1858 Brunskog; Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 (alla Eda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125623967"
+   }
+  ],
+  "search": [
+   "Karl Halvar Andersson (f. 1897, Eda)"
+  ]
+ },
+ {
+  "id": "viktor_hilding_an_1899_eda",
+  "name": "Viktor Hilding Andersson (f. 1899, Eda)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1899",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn i banvakten Anders Andersson Nygrens och Anna Kajsa Olsdotters hushåll, Eda (kandidat A).",
+  "notes": [
+   "FOLKRÄKNING 1910 Eda, Hvittensten: Viktor Hilding Andersson f. 1899 i Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Eda, Hvittensten, s. 46 rad 9: Andersson Nygren, Anders 1854 Brunskog banvakt, gift; Olsdotter, Anna Kajsa 1858 Brunskog; Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 (alla Eda)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125623967"
+   }
+  ],
+  "search": [
+   "Viktor Hilding Andersson (f. 1899, Eda)"
+  ]
+ },
+ {
+  "id": "katrina_jansdotter_1856_sunne",
+  "name": "Katrina Jansdotter (f. 1856, Sunne; g. Anders Andersson)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1856",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Hustru till Anders Andersson (f. 1854 Brunskog), Årås, Sunne – kandidat B.",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Jansdotter, Katrina f. 1856 Sunne, fam 2; 1910 Årås Lobråten ”Jansson, Katrina”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Katrina Jansdotter (f. 1856, Sunne; g. Anders Andersson)"
+  ]
+ },
+ {
+  "id": "axel_as_1884_sunne",
+  "name": "Axel Andersson (f. 1884)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Barn i Anders Anderssons och Katrina Jansdotters hushåll, Årås, Sunne (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890/1910 Årås, Sunne: Axel Andersson f. 1884 Sunne i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Axel Andersson (f. 1884)"
+  ]
+ },
+ {
+  "id": "viktor_as_1887_sunne",
+  "name": "Viktor Andersson (f. 1887)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Barn i Anders Anderssons och Katrina Jansdotters hushåll, Årås, Sunne (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890/1910 Årås, Sunne: Viktor Andersson f. 1887 Sunne i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Viktor Andersson (f. 1887)"
+  ]
+ },
+ {
+  "id": "hulda_lavinia_as_1888_sunne",
+  "name": "Hulda Lavinia Andersson (f. 1888)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1888",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Barn i Anders Anderssons och Katrina Jansdotters hushåll, Årås, Sunne (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890/1910 Årås, Sunne: Hulda Lavinia Andersson f. 1888 Sunne i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Hulda Lavinia Andersson (f. 1888)"
+  ]
+ },
+ {
+  "id": "anders_fritiof_as_1894_sunne",
+  "name": "Anders Fritiof Andersson (f. 1894)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1894",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Barn i Anders Anderssons och Katrina Jansdotters hushåll, Årås, Sunne (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890/1910 Årås, Sunne: Anders Fritiof Andersson f. 1894 Sunne i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Anders Fritiof Andersson (f. 1894)"
+  ]
+ },
+ {
+  "id": "ellen_teresia_as_1897_sunne",
+  "name": "Ellen Teresia Andersson (f. 1897)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Barn i Anders Anderssons och Katrina Jansdotters hushåll, Årås, Sunne (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890/1910 Årås, Sunne: Ellen Teresia Andersson f. 1897 Sunne i hushållet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Ellen Teresia Andersson (f. 1897)"
+  ]
+ },
+ {
+  "id": "karl_hilmer_hlas_1910",
+  "name": "Karl Hilmer (f. 1910, Sunne)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Sunne"
+  },
+  "places": [],
+  "summary": "Barn f. 1910 i fam 2 i Årås Lobråten 1910, tillsammans med Hulda Lavinia (f. 1888) – troligen hennes son (utanför äktenskapet?).",
+  "notes": [
+   "FOLKRÄKNING 1910 Årås Lobråten, Sunne s. 177: fam 2 Hulda Lavinia 1888, Karl Hilmer 1910."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Sunne, Årås Lobråten, s. 177 rad 12: Andersson, Anders 1854 Brunskog hemmansägare, gift; Jansson, Katrina 1856 Sunne; Anders Fritiof 1894, Ellen Teresia 1897; fam 2 Hulda Lavinia 1888 + Karl Hilmer 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126858383"
+   }
+  ],
+  "search": [
+   "Karl Hilmer (f. 1910, Sunne)"
+  ]
+ },
+ {
+  "id": "britta_eriksdotter_1832_sunne",
+  "name": "Britta Eriksdotter (f. 1832, Sunne)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1832",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Hemmansegarinna i Årås, Sunne 1890; svärmor (Anders var ”måg”) till Anders Andersson f. 1854 Brunskog (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122 s. 209: Eriksdotter, Britta f. 1832 Sunne, hemmansegarinna, fam 1; barn Jan Jansson 1861, Erik 1864, Olof 1866, Johan 1869, Lars 1875; fam 2 måg Anders Andersson 1854 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Britta Eriksdotter (f. 1832, Sunne)"
+  ]
+ },
+ {
+  "id": "jan_jansson_1861_sunne",
+  "name": "Jan Jansson (f. 1861)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1861",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Britta Eriksdotter, Årås, Sunne; svåger till Anders Andersson f. 1854 (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Jan Jansson f. 1861 Sunne i Britta Eriksdotters hushåll (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Jan Jansson (f. 1861)"
+  ]
+ },
+ {
+  "id": "erik_jansson_1864_sunne",
+  "name": "Erik Jansson (f. 1864)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1864",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Britta Eriksdotter, Årås, Sunne; svåger till Anders Andersson f. 1854 (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Erik Jansson f. 1864 Sunne i Britta Eriksdotters hushåll (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Erik Jansson (f. 1864)"
+  ]
+ },
+ {
+  "id": "olof_jansson_1866_sunne",
+  "name": "Olof Jansson (f. 1866)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1866",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Britta Eriksdotter, Årås, Sunne; svåger till Anders Andersson f. 1854 (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Olof Jansson f. 1866 Sunne i Britta Eriksdotters hushåll (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Olof Jansson (f. 1866)"
+  ]
+ },
+ {
+  "id": "johan_jansson_1869_sunne",
+  "name": "Johan Jansson (f. 1869)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1869",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Britta Eriksdotter, Årås, Sunne; svåger till Anders Andersson f. 1854 (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Johan Jansson f. 1869 Sunne i Britta Eriksdotters hushåll (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Johan Jansson (f. 1869)"
+  ]
+ },
+ {
+  "id": "lars_jansson_1875_sunne",
+  "name": "Lars Jansson (f. 1875)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1875",
+   "place": "Sunne"
+  },
+  "places": [
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Britta Eriksdotter, Årås, Sunne; svåger till Anders Andersson f. 1854 (kandidat B).",
+  "notes": [
+   "FOLKRÄKNING 1890 Årås 122, Sunne: Lars Jansson f. 1875 Sunne i Britta Eriksdotters hushåll (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Sunne, Årås 122, s. 209 rad 26 (fam 2): Andersson, Anders 1854 Brunskog, familjeställning ”måg” (hos Britta Eriksdotter 1832 hemmansegarinna); Jansdotter, Katrina 1856 Sunne; Axel 1884, Viktor 1887, Hulda Lavinia 1888",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103615658"
+   }
+  ],
+  "search": [
+   "Lars Jansson (f. 1875)"
+  ]
+ },
+ {
+  "id": "olof_andersson_1875_takene",
+  "name": "Olof Andersson (f. 1875, Takene)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1875",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Hemmansägare på Östra Takene, gift 1901 med Maria Kristina Persdotter/Persson (f. 1876), dotter till Per Gustaf Nilsson och Betty.",
+  "notes": [
+   "FOLKRÄKNING 1900 Svartåna (anmärkning vid Maria Kristina): ”Gift med Olof Anderson i Takene. Östra. Sid. 28”.",
+   "FOLKRÄKNING 1910 Takene s. 25 rad 43 och 1930 Takene s. 22 rad 19: Olof Andersson f. 1875 Brunskog hemmansägare; hustru Maria Kristina Persson (gift 1901). Föräldrar ej undersökta (kan sökas i 1880/1890 Brunskog)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Olof Andersson (f. 1875, Takene)"
+  ]
+ },
+ {
+  "id": "anna_hildur_oa_1901",
+  "name": "Anna Hildur Olofsdotter (f. 1901)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1901",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Anna Hildur Olofsdotter f. 1901 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Anna Hildur Olofsdotter (f. 1901)"
+  ]
+ },
+ {
+  "id": "johan_artur_oa_1903",
+  "name": "Johan Artur Olofsson (f. 1903)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1903",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Johan Artur Olofsson f. 1903 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Johan Artur Olofsson (f. 1903)"
+  ]
+ },
+ {
+  "id": "ingrid_maria_oa_1905",
+  "name": "Ingrid Maria Olofsdotter (f. 1905)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1905",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Ingrid Maria Olofsdotter f. 1905 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Ingrid Maria Olofsdotter (f. 1905)"
+  ]
+ },
+ {
+  "id": "signe_elisabet_oa_1907",
+  "name": "Signe Elisabet Olofsdotter (f. 1907)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Signe Elisabet Olofsdotter f. 1907 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Signe Elisabet Olofsdotter (f. 1907)"
+  ]
+ },
+ {
+  "id": "anders_martin_oa_1910",
+  "name": "Anders Martin Olofsson (f. 1910)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Anders Martin Olofsson f. 1910 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Anders Martin Olofsson (f. 1910)"
+  ]
+ },
+ {
+  "id": "ellen_gotilda_oa_1912",
+  "name": "Ellen Götilda Olofsdotter (f. 1912)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1912",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Andersson (f. 1875) och Maria Kristina Persson på Östra Takene; barnbarnsbarn till Olof Eriksson (f. 1815).",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Ellen Götilda Olofsdotter f. 1912 Brunskog i hushållet Olof Andersson/Maria Kristina Persson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 25 rad 43: Andersson, Olof 1875 Brunskog hemmansägare, gift; Persson, Anna Kristina 1876 Brunskog; Anna Hildur 1901, Johan Astar 1903, Ingrid Maria 1905, Signe Elisabet 1907, Anders Martin 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549791"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 22 rad 19: Andersson, Olof 1875 hemmansägare; Persson, Maria Kristina 1876, ”h.”, gift 1901; Johan Artur 1903, Signe Elisabet 1907, Anders Martin 1910, Ellen Götilda 1912; Olsson, Anna Hildur 1901 hemmadotter",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883793"
+   }
+  ],
+  "search": [
+   "Ellen Götilda Olofsdotter (f. 1912)"
+  ]
+ },
+ {
+  "id": "olof_torsander_1875",
+  "name": "Olof Torsander/Thorsander (f. 1875, Takene)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1875",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Jordbrukare på Takene; gift 1907 med Anna Elisabet Persson (f. 1879), dotter till Per Gustaf Nilsson och Betty.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene: Torsander, Olof f. 1875 Brunskog; 1930: ”Thorsander, Olov” f. 1875 jordbrukare, gift 1907 med Anna Elisabet (f. Persson)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 26 rad 31 (fam 2): Persson, Anna Elisabet 1879 Brunskog, gift, ”h.”; Torsander, Olof 1875 Brunskog; Johan Olof 1908; fam 1 Torsander, Nils Gustaf 1878 målare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549827"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 10 (fam 2): Persson, Anna Elisabet 1879 (f. Persson), ”h.”, gift 1907; Thorsander, Olov 1875 jordbrukare; Johan Olov 1908; Signe Elisabet 1912; Per Gösta 1921",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883833"
+   }
+  ],
+  "search": [
+   "Olof Torsander/Thorsander (f. 1875, Takene)"
+  ]
+ },
+ {
+  "id": "johan_olof_torsander_1908",
+  "name": "Johan Olof Torsander (f. 1908)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Torsander och Anna Elisabet Persson, Takene; barnbarn till Per Gustaf Nilsson/Betty.",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Johan Olof Torsander f. 1908 Brunskog i hushållet Olof Torsander/Anna Elisabet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 26 rad 31 (fam 2): Persson, Anna Elisabet 1879 Brunskog, gift, ”h.”; Torsander, Olof 1875 Brunskog; Johan Olof 1908; fam 1 Torsander, Nils Gustaf 1878 målare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549827"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 10 (fam 2): Persson, Anna Elisabet 1879 (f. Persson), ”h.”, gift 1907; Thorsander, Olov 1875 jordbrukare; Johan Olov 1908; Signe Elisabet 1912; Per Gösta 1921",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883833"
+   }
+  ],
+  "search": [
+   "Johan Olof Torsander (f. 1908)"
+  ]
+ },
+ {
+  "id": "signe_elisabet_torsander_1912",
+  "name": "Signe Elisabet Torsander (f. 1912)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1912",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Torsander och Anna Elisabet Persson, Takene; barnbarn till Per Gustaf Nilsson/Betty.",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Signe Elisabet Torsander f. 1912 Brunskog i hushållet Olof Torsander/Anna Elisabet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 26 rad 31 (fam 2): Persson, Anna Elisabet 1879 Brunskog, gift, ”h.”; Torsander, Olof 1875 Brunskog; Johan Olof 1908; fam 1 Torsander, Nils Gustaf 1878 målare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549827"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 10 (fam 2): Persson, Anna Elisabet 1879 (f. Persson), ”h.”, gift 1907; Thorsander, Olov 1875 jordbrukare; Johan Olov 1908; Signe Elisabet 1912; Per Gösta 1921",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883833"
+   }
+  ],
+  "search": [
+   "Signe Elisabet Torsander (f. 1912)"
+  ]
+ },
+ {
+  "id": "per_gosta_torsander_1921",
+  "name": "Per Gösta Torsander (f. 1921)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1921",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Barn till Olof Torsander och Anna Elisabet Persson, Takene; barnbarn till Per Gustaf Nilsson/Betty.",
+  "notes": [
+   "FOLKRÄKNING 1910/1930 Takene: Per Gösta Torsander f. 1921 Brunskog i hushållet Olof Torsander/Anna Elisabet."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 26 rad 31 (fam 2): Persson, Anna Elisabet 1879 Brunskog, gift, ”h.”; Torsander, Olof 1875 Brunskog; Johan Olof 1908; fam 1 Torsander, Nils Gustaf 1878 målare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549827"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 10 (fam 2): Persson, Anna Elisabet 1879 (f. Persson), ”h.”, gift 1907; Thorsander, Olov 1875 jordbrukare; Johan Olov 1908; Signe Elisabet 1912; Per Gösta 1921",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883833"
+   }
+  ],
+  "search": [
+   "Per Gösta Torsander (f. 1921)"
+  ]
+ },
+ {
+  "id": "nils_gustaf_torsander_1878",
+  "name": "Nils Gustaf Torsander (f. 1878)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1878",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Målare/artist, bor 1910 och 1930 i eget hushåll på samma gård på Takene som Olof Torsander (f. 1875) – troligen dennes bror.",
+  "notes": [
+   "FOLKRÄKNING 1910 Takene s. 26 (fam 1, i hushållet hos hemmansägaren Nils Eriksson f. 1842): Torsander, Nils Gustaf f. 1878 Brunskog, målare; 1930 Takene: Thorsander, Nils Gustav, artist (fam 1)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Takene, s. 26 rad 31 (fam 2): Persson, Anna Elisabet 1879 Brunskog, gift, ”h.”; Torsander, Olof 1875 Brunskog; Johan Olof 1908; fam 1 Torsander, Nils Gustaf 1878 målare",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549827"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930, Brunskog, Takene, s. 23 rad 10 (fam 2): Persson, Anna Elisabet 1879 (f. Persson), ”h.”, gift 1907; Thorsander, Olov 1875 jordbrukare; Johan Olov 1908; Signe Elisabet 1912; Per Gösta 1921",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883833"
+   }
+  ],
+  "search": [
+   "Nils Gustaf Torsander (f. 1878)"
+  ]
+ },
+ {
+  "id": "alma_maria_alfredsson_1883",
+  "name": "Alma Maria Alfredsson (f. 1883, Grava)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1883",
+   "place": "Grava"
+  },
+  "places": [
+   "Svartåna, Brunskog"
+  ],
+  "summary": "Hustru till Johan Fridolf Persson (f. 1883 Brunskog), Svartåna.",
+  "notes": [
+   "FOLKRÄKNING 1910 Svartåna s. 23 rad 15: Alfredsson, Alma Maria f. 1883 i Grava, gift med Johan Fridolf Persson (fam 2)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Svartåna, s. 23 rad 15 (fam 2): Persson, Johan Fridolf 1883 Brunskog, gift, ”Gifte son”; Alfredsson, Alma Maria 1883 Grava",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549675"
+   }
+  ],
+  "search": [
+   "Alma Maria Alfredsson (f. 1883, Grava)"
   ]
  }
 ]

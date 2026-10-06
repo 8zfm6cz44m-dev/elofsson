@@ -3120,6 +3120,28 @@
    "persons": [
     "z_johan_albin_efraim"
    ]
+  },
+  {
+   "title": "Maria Kristoffersdotter f. 1876 – ej funnen",
+   "text": "Folkräkningstreffar på Maria Kristoffersdotter f. 1876 (Hinneryd, Kronobergs län, f. Stiby Kristianstads län; samt Kil, Norrbotten f. 1876) är andra personer (födelseförsamling ej Brunskog). Marias öde fortfarande okänt (flyttat/utvandrat/gift med annat namn).",
+   "persons": [
+    "maria_kc_1876"
+   ]
+  },
+  {
+   "title": "Maria Andersdotter (1856) g. 1899 men 'barn' f. 1881–97 i hushållet",
+   "text": "1930 anger vigselår 1899 (inflyttad 1898 från Brunskog). Barnen Janne 1881, August 1889, Hanna Maria 1890, Berta Emilia 1894, Erik 1897 (alla födda i Frykerud) finns i Anders Nilssons hushåll redan 1900. Möjligt att de är hans barn från första äktenskap eller att Maria kom som hushållerska. Kontrollera Frykerud dop 1881–97 / vigselbok 1899.",
+   "persons": [
+    "maria_ak_1856",
+    "anders_nilsson_1855_boda_frykerud"
+   ]
+  },
+  {
+   "title": "Olof Andersson f. 1875 – två Brunskog-män med samma namn",
+   "text": "1900 Långvak, Arvika: Olof Andersson f. 1875 Brunskog, ”måg” hos Anna Nilsdotter (f. 1830 Brunskog), gift med Maria Andersdotter f. 1865 Arvika, son Arthur Yngve 1899. Maria Kristina Persdotters make (gift 1901, Takene) är en annan eller samma man efter första hustruns död. Ej utrett.",
+   "persons": [
+    "olof_andersson_1875_takene"
+   ]
   }
  ],
  "conflicts": [
@@ -3603,6 +3625,13 @@
    "text": "Dop C I/3 b.185: Olof Olsson / Kjerstin Olsdr. Husförhör A I/17 b.144: Olof Nilsson f. 6/2 1793 / Marit Olsdr f. 10/1 1802; barnen kallas Olsson (Nils Olsson). Samma dag/år/by. Troligen skrivfel/omgifte; ej avgjort.",
    "persons": [
     "anders_olsson31"
+   ]
+  },
+  {
+   "title": "Anders Andersson f. 1854 Brunskog: Eda (Nygren) eller Sunne (Årås)?",
+   "text": "Två folkräkningsposter med exakt samma födelseår/födelseförsamling. Eda: banvakt A. Andersson Nygren, hustru Anna Kajsa Olsdotter f. 1858 Brunskog (hustrun från hemsocknen talar något för). Sunne: måg i Årås, hustru Katrina Jansdotter f. 1856 Sunne. Avgörs via Brunskog dop 1854 (C I/5 b.~45?), flyttlängd Brunskog→Eda/Sunne eller vigselbok. Båda familjerna lagda som candidate.",
+   "persons": [
+    "anders_ak_1854"
    ]
   }
  ],
