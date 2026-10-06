@@ -7926,13 +7926,12 @@
  {
   "id": "christopher_persson_asen",
   "name": "Christopher Påhlsson (Åsen)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1710",
-   "place": "Toltan, Brunskog",
-   "note": "Dop sommaren 1710 (”dito” under Dnca 1ma p.t.), son till Påhl Nilsson och Gertrud Bondesdotter i Toltan. Identiteten med Åsen-Christopher (vigd 14/9 1729 som dräng från Toltan, 19 år) är mycket trolig men inte uttryckligen bevisad."
+   "place": "Toltan, Brunskog"
   },
   "places": [
    "Åsen, Brunskog"
@@ -8017,7 +8016,8 @@
    "MANTAL (D5): Christopher Påhlsson (f. 1710) ej väntad i mantalet 1715–1720 (barn). Ingen 'Christopher' i Åsen/Toltan 1715–1720.",
    "MANTAL 1730 (A0003209 b.493 hs, mitten): ’Christopher Påhlsson’ står i Toltan-gruppen direkt efter ’Påhl Nilsson’ och före ’Elof Nilsson’ – dvs. fortfarande i faderns/Toltan-hushåll i mantalet 1730 trots vigsel 14/9 1729 med pigan från Åsen. Gruppen ’Åsen ½’ i samma år (b.494 vs): ’Olof Olsson’, ’Enkan Karin’, ’Christopher(?) Jönsson’ (osäker läsning), ’Måns Olsson’ … – ingen säker Christopher Påhlsson där 1730. Första mantalsår i Åsen därmed inte funnet (se 1731+ ej läst).",
    "MANTAL – KONFLIKT: ”Christopher Påhlsson” förekommer i Toltan-gruppen i mantalet 1729 (A0003208 b.571 vs, i klammer med Påhl Nilsson), 1731 (A0003210 b.515 hs, tydligt), 1732 (A0003211 b.517 vs, klammer), 1733 (A0003212 b.554 vs, tydligt) och 1735 (A0003214 b.543 vs, klammer) – dvs. i Toltan, inte i Åsen, trots vigsel 14/9 1729 med Ingrid Mattsdotter från Åsen. Möjliga förklaringar: (a) bor kvar hos fadern i Toltan till 1735+, (b) Åsen-Christopher är en annan person, (c) mantalet noterar honom på faderns hemman. Åsen-grupperna 1726–1735 ej genomlästa av I1.",
-   "Dop 1730 (C0036782_00184) och 1748 (C0036783_00066, ”Christopher Påhlsson i Toltan alias Åsen”) – patronymikon Påhlsson; bor i Åsen men kallas ’i Toltan alias Åsen’ 1748."
+   "Dop 1730 (C0036782_00184) och 1748 (C0036783_00066, ”Christopher Påhlsson i Toltan alias Åsen”) – patronymikon Påhlsson; bor i Åsen men kallas ’i Toltan alias Åsen’ 1748.",
+   "Husförhör A I/1 b.180 (fol. 143, Toltan Åsen nr 6): ’Christopher Påhlss[on] 1710’, hustru Karin Olsd. 1710(1712?)."
   ],
   "died": {
    "date": "1772-09-20",
@@ -9758,7 +9758,7 @@
  {
   "id": "kaisa_olsd_boda",
   "name": "Kaisa Olsdotter (Anna Andersdotters mor, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -9767,7 +9767,8 @@
   "summary": "Hustru till Anders Nilsson i Norra Boda (gift 26/12 1824); mor till Anna Andersdotter f. 24/11 1826. Från Södra Boda; trolig dotter till Olof Jonsson och Ingeborg Nilsdotter.",
   "notes": [
    "FÖDELSEBOK Boda 1826 (C I/3 bild 26): ”Anna, Boda. Föräldrar: u. Anders Nilss., Kaisa Olsdr”.",
-   "HUSFÖRHÖR A I/14 bild 17: ”H. Caisa Olsdr” f. 3/? 1802 här. DOPBOK 1802 (bild 182, nr 22): ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d.” – enda Cajsa döpt i Boda 1802; strong."
+   "HUSFÖRHÖR A I/14 bild 17: ”H. Caisa Olsdr” f. 3/? 1802 här. DOPBOK 1802 (bild 182, nr 22): ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d.” – enda Cajsa döpt i Boda 1802; strong.",
+   "Dop 3 aug 1802 (nr 22) + husförhör ’3/8(?) 02’; månadssiffran läst som 8 (osäker)."
   ],
   "sources": [
    {
@@ -9791,9 +9792,8 @@
    "Kaisa Olsdotter (Anna Andersdotters mor, Boda)"
   ],
   "born": {
-   "date": "1802",
-   "place": "Boda",
-   "note": "husförhör ’3/? 1802’; dop aug 1802 (Olof Jonsson, Ingeborg Nilsd)"
+   "date": "1802-08-03",
+   "place": "Boda"
   }
  },
  {
@@ -10219,7 +10219,7 @@
  {
   "id": "gertrud_bondesd_toltan",
   "name": "Gertrud Bondesdotter (Toltan)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -10913,7 +10913,7 @@
  {
   "id": "olof_jonsson_boda",
   "name": "Olof Jonsson (Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -10944,7 +10944,7 @@
  {
   "id": "ingeborg_nilsd_boda",
   "name": "Ingeborg Nilsdotter (Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -18825,7 +18825,7 @@
  {
   "id": "anders_stridsberg_1783",
   "name": "Anders Stridsberg (klarinettblåsare, kyrkovaktare)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -18902,7 +18902,7 @@
  {
   "id": "brita_lisa_jonsdotter_1780",
   "name": "Britta Lisa Jonsdotter (Stridsberg)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -19900,7 +19900,7 @@
   "living": false,
   "born": {
    "date": "1879-11-05",
-   "place": "Fryksände"
+   "place": "Frykerud (Edet)"
   },
   "places": [
    "Skog, Brunskog",
@@ -19909,7 +19909,8 @@
   "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Flyttade 1895 (”nedre”). Åter: Amerika 15 maj 1896 (A II a/1 bild 215).",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”nedre 95” (ej Amerika)",
-   "FÖRSAMLINGSBOK A II a/1 bild 215 (fol. 205, Skog/Åsen): ”Anna Sylvander 79 5/11 Fryksände” – utflyttad: ”Amerika 96 15/5”."
+   "FÖRSAMLINGSBOK A II a/1 bild 215 (fol. 205, Skog/Åsen): ”Anna Sylvander 79 5/11 Fryksände” – utflyttad: ”Amerika 96 15/5”.",
+   "SCB Frykerud 1879 (A0036167_00112): född 5 nov 1879, föräldrar Anders Sylvander (handelsföreståndare) och Mathilda Nilsdotter, Edet. Husförhörets ’Fryksände’ är fel."
   ],
   "sources": [
    {
@@ -24875,17 +24876,18 @@
  {
   "id": "erik_johan_georg_1907",
   "name": "Erik Johan Georg Eriksson (f. 1907)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1907",
-   "place": "Brunskog"
+   "date": "1907-03-22",
+   "place": "Skog, Brunskog"
   },
   "places": [],
   "summary": "Barn till Paul Eriksson och Hilda Maria Olsson, Skog.",
   "notes": [
-   "FOLKRÄKNING: 1910: ”Erik Johan Georg, f. 1907 i Brunskog”. Hushållslista utan uttrycklig familjeställning."
+   "FOLKRÄKNING: 1910: ”Erik Johan Georg, f. 1907 i Brunskog”. Hushållslista utan uttrycklig familjeställning.",
+   "SCB Brunskog 1907 nr 16: Mars 22(?) (dagen svårläst); föräldrar Paul Eriksson och Hilda Maria Olsson, Skog."
   ],
   "sources": [
    {
@@ -35948,7 +35950,7 @@
  {
   "id": "aq3_johangustaf_jonasson84",
   "name": "Johan Gustaf Jonasson (f. 1884, Nor)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -36006,11 +36008,11 @@
  {
   "id": "aq3_jannenatanael_jonasson11",
   "name": "Janne Natanael Jonasson (f. 1911, Stora Kil)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1911",
+   "date": "1911-07-20",
    "place": "Stora Kil"
   },
   "places": [
@@ -36018,7 +36020,8 @@
   ],
   "summary": "Son till Johan Gustaf Jonasson och Ellen Maria; bilreparatör 1930.",
   "notes": [
-   "FOLKRÄKNING 1930 Grava Trangärdstorp-Råtorp s.64 r.45: ”Jonasson, Janne Natanael, f. 1911 i Stora Kil, Bilreparatör”."
+   "FOLKRÄKNING 1930 Grava Trangärdstorp-Råtorp s.64 r.45: ”Jonasson, Janne Natanael, f. 1911 i Stora Kil, Bilreparatör”.",
+   "SCB Stora Kil 1911 nr 57: 20 juli 1911; föräldrar Johan Gustaf Jonasson (kusk, f. 1884-09-20) och Ellen Maria Jansson (f. 1885-04-15, Ekenäs)."
   ],
   "sources": [
    {

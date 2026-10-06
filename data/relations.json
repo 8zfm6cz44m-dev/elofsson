@@ -1483,8 +1483,8 @@
    "marit_isaksd"
   ],
   "child": "jan_elofsson18",
-  "status": "strong",
-  "basis": "Dopbok C I/1 bild 113 (1718, 2 febr): ”Nilsson ox h. Marits i Toltan barn, vid namn [överstruket]” – faderns förnamn och barnets namn saknas/överstruket; tre månader efter vigseln 28/10 1717. Namnet Jan inte bevisat."
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 113 (1718, 2 febr): ”Nilsson ox h. Marits i Toltan barn, vid namn [överstruket]” – faderns förnamn och barnets namn saknas/överstruket; tre månader efter vigseln 28/10 1717. Namnet Jan inte bevisat. VERIFIERAD (omgång 24): Dödbok Brunskog F I/1 (C0036789_00016, s. 13, Begrafne 1785-86, 5 febr 1786 nr 2): ”D. M. Jan Elofsson frå Toltan, ibm född 1718 2/2. fad. Elof Nilsson, mod. Marit Isaks[d]tr; gift 1749 d. 3/12 med Pig. Börit Andersdotter frå Tobyn. Han afled hastigt …” (läst i halvsides-zoom). Dopet C I/1 bild 113 (C0036782_00113): ”d 2 Febr: Christnades Nilsson ox h. Marit i Toltan barn” (namnet överstruket) – samma dag 2/2 1718, samma föräldrar och ort, så dopposten är Jan. Föräldrarnas namn och födelsedag/-år/-ort uttryckligen i dödboken."
  },
  {
   "id": "c-johan_olofsson-anna_gata-jan_forald",
@@ -2528,8 +2528,8 @@
    "ingeborg_nilsd_boda"
   ],
   "child": "kaisa_olsd_boda",
-  "status": "candidate",
-  "basis": "Dopbok C I/2 bild 182: ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d” (aug 1802); husförhör: Kaisa f. 3/? 1802 Boda. Enda Cajsa i Boda 1802; fadern ev. Olof Jönsson f. 1772 N. Boda."
+  "status": "verified",
+  "basis": "Dopbok C I/2 bild 182: ”Boda. Cajsa. Par: Olof Jons:s, Ingeborg Nils:d” (aug 1802); husförhör: Kaisa f. 3/? 1802 Boda. Enda Cajsa i Boda 1802; fadern ev. Olof Jönsson f. 1772 N. Boda. VERIFIERAD (omgång 24): Dop Boda C I/2 (C0036593_00182, s. 343, 1802): ”Boda Cajsa. Par: Olof Jonss: Ingeborg Nilsd. Test: Jan Nilss, Ingborg Jons:d” med dagkolumn ”3” (nr 22, augusti); posten närmast före, nr 21 den 1 aug, är ”Tacketorp Cajsa. Par: Olof Andss: Marit Jons” – alltså två Cajsa i aug 1802 men olika dagar och byar. Husförhör Boda A I/14 (C0036579_00017, N. Boda, fol. 6): ”H. Caisa Olsdr” födelsekolumn ”3/8(?) 02” ort ”här” (bråkdelens nämnare läses 8, osäker) – dag 3 + år 1802 + Boda matchar nr 22 men inte Tacketorp-Cajsan (1 aug). Vigsel 1824 (C0036597_00120): ”pigan Cajsa Olsdotter från Södra Boda” (patronymikon Olsdotter = fadern Olof). Verifierad: dag, år, ort och faderns förnamn stämmer; enda Boda-Cajsa 3 aug 1802."
  },
  {
   "id": "c-olof_christ-britta_nilsd_boda-christopher_oc",
@@ -3143,8 +3143,8 @@
    "gertrud_bondesd_toltan"
   ],
   "child": "christopher_persson_asen",
-  "status": "strong",
-  "basis": "Dopbok C I/1 bild 80 (1710 s. 137): ”Pehl ox h. Gertrud barn i Toltan (: Christopher :) …” – identitet med Christopher Påhlsson i Åsen (vigd 1729 som dräng från Toltan) mycket trolig men inte uttryckligen bevisad; patronymet Påhlsson stämmer."
+  "status": "verified",
+  "basis": "Dopbok C I/1 bild 80 (1710 s. 137): ”Pehl ox h. Gertrud barn i Toltan (: Christopher :) …” – identitet med Christopher Påhlsson i Åsen (vigd 1729 som dräng från Toltan) mycket trolig men inte uttryckligen bevisad; patronymet Påhlsson stämmer. VERIFIERAD (omgång 24): Husförhör Brunskog A I/1 (C0036740_00180, fol. 143, ”Toltan, Åsen”, hushåll nr 6): ”Christopher Påhlss[on] 1710 [ålder 50 år 1760], H. Karin Olsd[r] 1710 [1712?]”, barn Mats 1733, Olof 1744, Nils 1747, Anna 1750 – födelseår 1710 (annus nativitatis), patronymikon Påhlsson. Dop C I/1 (C0036782_00080, s. 137, 1710): ”dito Pehl ox h. Gertrud barn i Toltan (: Christopher :)” – barnets namn Christopher, föräldrar Pehl/Påhl och Gertrud i Toltan. Vigsel 1729 (E I/1 b.46): drängen Christopher Påhlsson från Toltan (19 år → f. 1710); dödbok F I/1 b.29 (1788): ”Enkl. Christopher Pålsson fr. Toltan”. Enda Christopher f. 1710 i Toltan; födelseår, ort, namn och faderns förnamn stämmer. Faderns patronymikon Nilsson kommer ur de andra dopen (1717/1720: ”Påhl Nilsson ox h. Gertrud Bondesdotters barn i Tolta”)."
  },
  {
   "id": "c-nils_knutsson91-ilin_andersd88-anders_nilsson11",
@@ -4580,8 +4580,8 @@
   "type": "partner",
   "a": "anders_stridsberg_1783",
   "b": "brita_lisa_jonsdotter_1780",
-  "status": "strong",
-  "basis": "Dop 1810: ”Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr.”; husförhör A I/18 bild 219 (folio 207): ”Anders Stridsberg … H. Britta Lisa Jonsdotter”; bild 143: ”Enka … e. Kyrkovaktaren A. Stridsberg”. Vigselbok för deras vigsel (ca 1805–09) ej läst."
+  "status": "verified",
+  "basis": "Dop 1810: ”Clarinettblås. Anders Stridsberg och dess hust. Britta Lisa Jonsdr.”; husförhör A I/18 bild 219 (folio 207): ”Anders Stridsberg … H. Britta Lisa Jonsdotter”; bild 143: ”Enka … e. Kyrkovaktaren A. Stridsberg”. Vigselbok för deras vigsel (ca 1805–09) ej läst. VERIFIERAD (omgång 24): Segerstad (INTE Brunskog) – dop C/2 (C0038692_00049, s. 79, 1810 juni 17/18): ”Britta Caisa – Clarinettblås. Anders Stridsberg och dess hustru Britta Lisa Jonsdr i Mällgården”; husförhör Segerstad A I/18 (C0038682_00219, fol. 207, Sockenstugan): ”Kyrkovakt. Anders Stridsberg [26/3 83] By; H. Britta Lisa Jonsdotter [22/1 80] Carlstad”, samma hushåll; dessutom dop 1806 (b.41), 1812 (b.54), 1815 (b.60) med samma föräldrapar. Dop och husförhör anger uttryckligen att de är make och hustru (vigselpost ej funnen). Den tidigare källhänvisningen till Brunskog A I/18 var fel socken."
  },
  {
   "id": "c-wawrzyniec_orzechowski-tekla_orzechowska-michal_orzechowski",
@@ -6100,8 +6100,8 @@
    "hilda_maria_olsdotter_1882"
   ],
   "child": "erik_johan_georg_1907",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan)."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Skog, hushåll Paul Eriksson + Hilda Maria Olsson (barn, familjeställning ej utskriven i hushållslistan). VERIFIERAD (omgång 24): SCB-utdrag Brunskog 1907 födelsebok (A0030750_00470, blad 2 av 4, nr 16): ”[Mars] 22(?) Erik Johan Georg; Fader: Hemmansägare Paul Eriksson (f. 81 6/11); Moder: Hilda Maria Olsson i Skog (f. 8? 22/9)” gift. Folkräkning 1910 Skog (Folk_125549368) har honom i samma hushåll. Namn, år, ort och båda föräldrar uttryckligen."
  },
  {
   "id": "c-paul_e-hilda_maria_olsdotter_1882-anna_gertrud_1909",
@@ -7588,8 +7588,8 @@
    "d7_matilda_nilsson_sylvander"
   ],
   "child": "d7_sylvander_anna",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895). VERIFIERAD (omgång 24): SCB-utdrag Frykerud 1879 födelsebok (A0036167_00112, högersidan): ”[Nov] 5, Anna (1); Fader: Sylvander, Anders, Handelsföreståndare; Moder: Nilsdotter, Mathilda, Edet” (gift). Folkräkning 1880 Frykerud Edet (Folk_119245382): Anna f. 1879 Frykerud, Familjeställning ’d.’ i hushållet Anders Sylvander/Mathilda. OBS: födelseorten är Frykerud (Edet), inte Fryksände som husförhöret A I/37 anger – födelsedag 5/11 1879 stämmer."
  },
  {
   "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-d7_sylvander_nils",
@@ -7621,8 +7621,8 @@
    "d7_matilda_nilsson_sylvander"
   ],
   "child": "d7_sylvander_hulda",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895)."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 162 (fol. 166), Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog” – hustru och barn i samma hushåll. Barnen ligger i föräldrarnas hushåll och flyttkolumnen klamrar föräldrar och barn tillsammans (Amerika 18/10 1895). VERIFIERAD (omgång 24): SCB-utdrag Brunskog 1891 födelsebok (A0036522_00266, högersidan nederst, nr 86): ”Dec 9 Hulda (5); Fader: Sylvander Anders, fotograf; Moder: Nilsd. Matilda, Skog” (gift, mor f. -/55?). Husförhör A I/37 (C0036776_00162): ”Hulda 91 9/12 Skog” i samma hushåll. Datum, år, ort och båda föräldrarna stämmer."
  },
  {
   "id": "s-d7_maria_jonasdotter_skogsberg-d7_elin_jonasdotter_skogsberg",
@@ -10598,8 +10598,8 @@
    "larsson_ellenmaria85"
   ],
   "child": "aq3_jannenatanael_jonasson11",
-  "status": "strong",
-  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Karlstad V. Haga 6 s.112 r.13 (post 126865417): Johan Gustaf Jonasson f. 1884 Nor (stalldräng), Ellen Maria Jansson f. 1885 Nor (Gift, h.), Hilda Kristina f. 1907 Nor. 1930 Grava Trangärdstorp-Råtorp s.64 r.45: Ellen Maria (Gift 1906, Mor/fru, f. Jansson) med Hilda Kristina 1907 och Janne Natanael 1911 Stora Kil. VERIFIERAD (omgång 24): SCB-utdrag Stora Kil 1911 födelsebok (A0030900_00121, nr 57): ”[Juli] 20, Janne Natanael; Fader: Johan Gustaf Jonsson/Jonasson (sic), kusk (f. 84 20/9); Moder: L.L. Ellen Maria Jansson, Ekenäs (f. 85 15/4)” gift. Folkräkning 1910 Karlstad V. Haga: Johan Gustaf Jonasson f. 1884 + Ellen Maria f. 1885; 1930 Grava: Janne Natanael f. 1911 Stora Kil ’s.’/Barn hos modern. Födelse 20 juli 1911, Stora Kil, båda föräldrar."
  },
  {
   "id": "c-n44k_karljohan77-milla_fagerheim73-aq3_gustafadolf_skoldberg13",
@@ -11243,8 +11243,8 @@
   "type": "partner",
   "a": "ar2_johannes_olsson_nas",
   "b": "ar2_anna_bryntesd_nas",
-  "status": "candidate",
-  "basis": "Dop 1858 C0036785_00082."
+  "status": "verified",
+  "basis": "Dop 1858 C0036785_00082. VERIFIERAD (omgång 24): Dop Brunskog C I/5 (C0036785_00082, 1858, högersida): ”18 | 18 Anna – Näs (228) Gde Johannes Olsson och H. Anna Bryntesd[otter] – Wigelius – 21 (…) Fadd. B. Anders Nilsson och H. Anna Olsd ibm.” – dopet anger Johannes Olsson och ’H.’ (hustru) Anna Bryntesdotter som make och maka (patronymikon Bryntesd läses tydligt, handstil)."
  },
  {
   "id": "p-as1_olof_jonsson_1840_skogshaget-as1_maria_persdotter_1844_skogshaget",
