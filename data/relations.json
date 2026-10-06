@@ -8181,5 +8181,750 @@
   "child": "gretamaria_kj10",
   "status": "strong",
   "basis": "Folkräkning 1900/1910/1930: barn i hushållet Johansson/Persdotter."
+ },
+ {
+  "id": "p-nils_ne-lovisa_jansdotter_z",
+  "type": "partner",
+  "a": "nils_ne",
+  "b": "lovisa_jansdotter_z",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Sunne sida 125: Nils Zetterlund Gift (Far/man), i hushållet Lovisa Jansdotter f. 1835 i Ölme."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_augusta_teodora",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_augusta_teodora",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1865 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_august_teodor",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_august_teodor",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1866 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_erik_johan_n",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_erik_johan_n",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1868 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_hulda_lovisa",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_hulda_lovisa",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1870 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_janne_timoteus",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_janne_timoteus",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1872 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_nils_kristofer",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_nils_kristofer",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1874 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_hanna_elisabeth",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_hanna_elisabeth",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1876 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "c-nils_ne-lovisa_jansdotter_z-z_lydia_n",
+  "type": "child",
+  "parents": [
+   "nils_ne",
+   "lovisa_jansdotter_z"
+  ],
+  "child": "z_lydia_n",
+  "status": "strong",
+  "basis": "Folkräkning 1880 Sunne (Folk_120437747) sida 125: barn i hushållet f. 1879 Sunne (familjeställning ej utskriven i sökindexet, men samma hushåll som Nils/Lovisa 1880 och 1890)."
+ },
+ {
+  "id": "s-z_augusta_teodora-z_august_teodor",
+  "type": "sibling",
+  "a": "z_augusta_teodora",
+  "b": "z_august_teodor",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_august_teodor-z_erik_johan_n",
+  "type": "sibling",
+  "a": "z_august_teodor",
+  "b": "z_erik_johan_n",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_erik_johan_n-z_hulda_lovisa",
+  "type": "sibling",
+  "a": "z_erik_johan_n",
+  "b": "z_hulda_lovisa",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_hulda_lovisa-z_janne_timoteus",
+  "type": "sibling",
+  "a": "z_hulda_lovisa",
+  "b": "z_janne_timoteus",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_janne_timoteus-z_nils_kristofer",
+  "type": "sibling",
+  "a": "z_janne_timoteus",
+  "b": "z_nils_kristofer",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_nils_kristofer-z_hanna_elisabeth",
+  "type": "sibling",
+  "a": "z_nils_kristofer",
+  "b": "z_hanna_elisabeth",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "s-z_hanna_elisabeth-z_lydia_n",
+  "type": "sibling",
+  "a": "z_hanna_elisabeth",
+  "b": "z_lydia_n",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll hos Nils Zetterlund 1880 (Folk_120437747)."
+ },
+ {
+  "id": "p-z_janne_timoteus-tilda_jansson_z",
+  "type": "partner",
+  "a": "z_janne_timoteus",
+  "b": "tilda_jansson_z",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Eda sida 27 rad 10: Janne Timoteus Zetterlund Gift (Far/man), därefter Tilda Jansson 1865 Sunne."
+ },
+ {
+  "id": "p-z_janne_timoteus-gerda_brandt_z",
+  "type": "partner",
+  "a": "z_janne_timoteus",
+  "b": "gerda_brandt_z",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Hudiksvall sida 147: Janne Timotheus Zetterlund Gift (Far/man), därefter Gerda Karolina Brandt 1879."
+ },
+ {
+  "id": "c-z_janne_timoteus-tilda_jansson_z-z_elsa_ingeborg",
+  "type": "child",
+  "parents": [
+   "z_janne_timoteus",
+   "tilda_jansson_z"
+  ],
+  "child": "z_elsa_ingeborg",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Eda: barn i hushållet hos Janne Zetterlund, f. 1897 Eda (ej uttrycklig mor; Tilda 1900 för 1897–98, annars endast fadern)."
+ },
+ {
+  "id": "c-z_janne_timoteus-tilda_jansson_z-z_inez_augusta",
+  "type": "child",
+  "parents": [
+   "z_janne_timoteus",
+   "tilda_jansson_z"
+  ],
+  "child": "z_inez_augusta",
+  "status": "strong",
+  "basis": "Folkräkning 1900 Eda: barn i hushållet hos Janne Zetterlund, f. 1898 Eda (ej uttrycklig mor; Tilda 1900 för 1897–98, annars endast fadern)."
+ },
+ {
+  "id": "c-z_janne_timoteus-z_anna_margareta_matilda",
+  "type": "child",
+  "parents": [
+   "z_janne_timoteus"
+  ],
+  "child": "z_anna_margareta_matilda",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Hudiksvall: barn i hushållet hos Janne Zetterlund, f. 1901 Eda (ej uttrycklig mor; Tilda 1900 för 1897–98, annars endast fadern)."
+ },
+ {
+  "id": "c-z_janne_timoteus-z_vera_maria",
+  "type": "child",
+  "parents": [
+   "z_janne_timoteus"
+  ],
+  "child": "z_vera_maria",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Hudiksvall: barn i hushållet hos Janne Zetterlund, f. 1907 Hudiksvall (ej uttrycklig mor; Tilda 1900 för 1897–98, annars endast fadern)."
+ },
+ {
+  "id": "c-gerda_brandt_z-z_stig_ingemar_brandt",
+  "type": "child",
+  "parents": [
+   "gerda_brandt_z"
+  ],
+  "child": "z_stig_ingemar_brandt",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Hudiksvall sida 147: Brandt, Stig Ingemar f. 1909 i hushållet direkt efter Gerda Karolina Brandt (samma efternamn)."
+ },
+ {
+  "id": "c-z_janne_timoteus-gerda_brandt_z-z_vera_maria",
+  "type": "child",
+  "parents": [
+   "z_janne_timoteus",
+   "gerda_brandt_z"
+  ],
+  "child": "z_vera_maria",
+  "status": "candidate",
+  "basis": "Vera Maria f. 1907 Hudiksvall i hushållet 1910; Gerda som mor är trolig men inte uttryckligt angiven."
+ },
+ {
+  "id": "p-nils_ne-stina_bryntesdotter_z",
+  "type": "partner",
+  "a": "nils_ne",
+  "b": "stina_bryntesdotter_z",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Arvika landsf. sida 86 rad 4: Nils Zetterlund Gift (Far/man), därefter Stina Bryntesdotter 1873 Gunnarskog. (Lovisa Jansdotter finns ej 1910 – troligen död.)"
+ },
+ {
+  "id": "c-stina_bryntesdotter_z-helena_emogenia_andersdotter",
+  "type": "child",
+  "parents": [
+   "stina_bryntesdotter_z"
+  ],
+  "child": "helena_emogenia_andersdotter",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Arvika landsf. sida 86: Helena Emogenia Andersdotter f. 1901 Gunnarskog, samma födelseort som Stina; mor/dotter ej uttryckligt angivet."
+ },
+ {
+  "id": "c-stina_bryntesdotter_z-gunnar_stina_1908",
+  "type": "child",
+  "parents": [
+   "stina_bryntesdotter_z"
+  ],
+  "child": "gunnar_stina_1908",
+  "status": "candidate",
+  "basis": "Folkräkning 1910 Arvika landsf. sida 86: Gunnar f. 1908 Gunnarskog, samma födelseort som Stina; relation ej uttryckligt angiven."
+ },
+ {
+  "id": "s-helena_emogenia_andersdotter-gunnar_stina_1908",
+  "type": "sibling",
+  "a": "helena_emogenia_andersdotter",
+  "b": "gunnar_stina_1908",
+  "status": "candidate",
+  "basis": "Båda f. Gunnarskog och i Stinas hushåll 1910."
+ },
+ {
+  "id": "p-z_david_emanuel-anna_maria_gustafsson_z",
+  "type": "partner",
+  "a": "z_david_emanuel",
+  "b": "anna_maria_gustafsson_z",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika sida 116 rad 22: David Emanuel Zetterlund Gift (vigselår 1908), Far/man; i hushållet Anna Maria Gustafsson 1884."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_astrid_maria_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_astrid_maria_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1910 Stora Kil – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_inez_helena_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_inez_helena_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1912 Stora Kil – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_karl_bertil_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_karl_bertil_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1914 Ny – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_marta_sofia_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_marta_sofia_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1917 Ny – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_anna_magdalena_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_anna_magdalena_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1919 Ny – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_sven_olov_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_sven_olov_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1923 Ny – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_karin_ingrid_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_karin_ingrid_d",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika Stadsägan 85 V): barn i hushållet f. 1926 Ny – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "s-z_astrid_maria_d-z_inez_helena_d",
+  "type": "sibling",
+  "a": "z_astrid_maria_d",
+  "b": "z_inez_helena_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "s-z_inez_helena_d-z_karl_bertil_d",
+  "type": "sibling",
+  "a": "z_inez_helena_d",
+  "b": "z_karl_bertil_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "s-z_karl_bertil_d-z_marta_sofia_d",
+  "type": "sibling",
+  "a": "z_karl_bertil_d",
+  "b": "z_marta_sofia_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "s-z_marta_sofia_d-z_anna_magdalena_d",
+  "type": "sibling",
+  "a": "z_marta_sofia_d",
+  "b": "z_anna_magdalena_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "s-z_anna_magdalena_d-z_sven_olov_d",
+  "type": "sibling",
+  "a": "z_anna_magdalena_d",
+  "b": "z_sven_olov_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "s-z_sven_olov_d-z_karin_ingrid_d",
+  "type": "sibling",
+  "a": "z_sven_olov_d",
+  "b": "z_karin_ingrid_d",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_129010432)."
+ },
+ {
+  "id": "p-erik_martin_andersson_hk-z_alfrida_christina",
+  "type": "partner",
+  "a": "erik_martin_andersson_hk",
+  "b": "z_alfrida_christina",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika landsf. Ålgården sida 93 rad 36: Hulda Karolina f. Zetterlund, gift 1910, Mor/fru, i hushållet med Erik Martin Andersson (Far/man). Identiteten Hulda Karolina = Alfrida Christina (1887) ej bevisad."
+ },
+ {
+  "id": "c-erik_martin_andersson_hk-z_alfrida_christina-a_gunnar_1910",
+  "type": "child",
+  "parents": [
+   "erik_martin_andersson_hk",
+   "z_alfrida_christina"
+  ],
+  "child": "a_gunnar_1910",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika landsf. Ålgården): barn i hushållet f. 1910 Arvika landsförsamling – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-erik_martin_andersson_hk-z_alfrida_christina-a_ragnar_1911",
+  "type": "child",
+  "parents": [
+   "erik_martin_andersson_hk",
+   "z_alfrida_christina"
+  ],
+  "child": "a_ragnar_1911",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika landsf. Ålgården): barn i hushållet f. 1911 Arvika landsförsamling – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-erik_martin_andersson_hk-z_alfrida_christina-a_gertrud_helena_1914",
+  "type": "child",
+  "parents": [
+   "erik_martin_andersson_hk",
+   "z_alfrida_christina"
+  ],
+  "child": "a_gertrud_helena_1914",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika landsf. Ålgården): barn i hushållet f. 1914 Arvika landsförsamling – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "c-erik_martin_andersson_hk-z_alfrida_christina-a_anders_johan_1918",
+  "type": "child",
+  "parents": [
+   "erik_martin_andersson_hk",
+   "z_alfrida_christina"
+  ],
+  "child": "a_anders_johan_1918",
+  "status": "strong",
+  "basis": "Folkräkning 1930 (Arvika landsf. Ålgården): barn i hushållet f. 1918 Arvika landsförsamling – hushållet anges som familj med far och mor (familjeställning ej utskriven i indexet)."
+ },
+ {
+  "id": "s-a_gunnar_1910-a_ragnar_1911",
+  "type": "sibling",
+  "a": "a_gunnar_1910",
+  "b": "a_ragnar_1911",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795181)."
+ },
+ {
+  "id": "s-a_ragnar_1911-a_gertrud_helena_1914",
+  "type": "sibling",
+  "a": "a_ragnar_1911",
+  "b": "a_gertrud_helena_1914",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795181)."
+ },
+ {
+  "id": "s-a_gertrud_helena_1914-a_anders_johan_1918",
+  "type": "sibling",
+  "a": "a_gertrud_helena_1914",
+  "b": "a_anders_johan_1918",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795181)."
+ },
+ {
+  "id": "c-z_signe_amalia-a_erik_harry_1911",
+  "type": "child",
+  "parents": [
+   "z_signe_amalia"
+  ],
+  "child": "a_erik_harry_1911",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika landsf. Ålgården: barn i hushållet hos änkan Signe Amalia (Mor/fru), f. 1911 Arvika landsf. (far ej namngiven)."
+ },
+ {
+  "id": "c-z_signe_amalia-a_elsa_maria_1912",
+  "type": "child",
+  "parents": [
+   "z_signe_amalia"
+  ],
+  "child": "a_elsa_maria_1912",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika landsf. Ålgården: barn i hushållet hos änkan Signe Amalia (Mor/fru), f. 1912 Arvika landsf. (far ej namngiven)."
+ },
+ {
+  "id": "c-z_signe_amalia-a_ellen_signe_magdalena_1914",
+  "type": "child",
+  "parents": [
+   "z_signe_amalia"
+  ],
+  "child": "a_ellen_signe_magdalena_1914",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika landsf. Ålgården: barn i hushållet hos änkan Signe Amalia (Mor/fru), f. 1914 Arvika landsf. (far ej namngiven)."
+ },
+ {
+  "id": "c-z_signe_amalia-a_gunhild_1916",
+  "type": "child",
+  "parents": [
+   "z_signe_amalia"
+  ],
+  "child": "a_gunhild_1916",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Arvika landsf. Ålgården: barn i hushållet hos änkan Signe Amalia (Mor/fru), f. 1916 Arvika landsf. (far ej namngiven)."
+ },
+ {
+  "id": "s-a_erik_harry_1911-a_elsa_maria_1912",
+  "type": "sibling",
+  "a": "a_erik_harry_1911",
+  "b": "a_elsa_maria_1912",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795146)."
+ },
+ {
+  "id": "s-a_elsa_maria_1912-a_ellen_signe_magdalena_1914",
+  "type": "sibling",
+  "a": "a_elsa_maria_1912",
+  "b": "a_ellen_signe_magdalena_1914",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795146)."
+ },
+ {
+  "id": "s-a_ellen_signe_magdalena_1914-a_gunhild_1916",
+  "type": "sibling",
+  "a": "a_ellen_signe_magdalena_1914",
+  "b": "a_gunhild_1916",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128795146)."
+ },
+ {
+  "id": "p-z_nils_gustaf-wendela_olivia_nilsson_z",
+  "type": "partner",
+  "a": "z_nils_gustaf",
+  "b": "wendela_olivia_nilsson_z",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Brunskog Edane sida 45 rad 32: Nils Gustav Zetterlund Gift (vigselår 1919), Far/man; i hushållet Wendela Olivia Nilsson 1900."
+ },
+ {
+  "id": "c-z_nils_gustaf-wendela_olivia_nilsson_z-z_inga_brita_ng",
+  "type": "child",
+  "parents": [
+   "z_nils_gustaf",
+   "wendela_olivia_nilsson_z"
+  ],
+  "child": "z_inga_brita_ng",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Brunskog Edane: barn i hushållet f. 1920 Brunskog."
+ },
+ {
+  "id": "c-z_nils_gustaf-wendela_olivia_nilsson_z-z_rut_anne_maria_ng",
+  "type": "child",
+  "parents": [
+   "z_nils_gustaf",
+   "wendela_olivia_nilsson_z"
+  ],
+  "child": "z_rut_anne_maria_ng",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Brunskog Edane: barn i hushållet f. 1926 Brunskog."
+ },
+ {
+  "id": "s-z_inga_brita_ng-z_rut_anne_maria_ng",
+  "type": "sibling",
+  "a": "z_inga_brita_ng",
+  "b": "z_rut_anne_maria_ng",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1930 (Folk_128884937)."
+ },
+ {
+  "id": "p-olof_johannesson_1868_al-z_maria_sofia",
+  "type": "partner",
+  "a": "olof_johannesson_1868_al",
+  "b": "z_maria_sofia",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: Olof Johannesson (torpare) och Anna Lydia Sätterlund f. 1876 i samma hushåll, sex gemensamma barn; ”Anna Lydia”=Maria Sofia (namnvariant) ej bevisat."
+ },
+ {
+  "id": "c-z_maria_sofia-al_johan_emanuel_1896",
+  "type": "child",
+  "parents": [
+   "z_maria_sofia"
+  ],
+  "child": "al_johan_emanuel_1896",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1896 Brunskog (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "c-olof_johannesson_1868_al-z_maria_sofia-al_anna_helena_1901",
+  "type": "child",
+  "parents": [
+   "olof_johannesson_1868_al",
+   "z_maria_sofia"
+  ],
+  "child": "al_anna_helena_1901",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1901 Brunskog (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "c-olof_johannesson_1868_al-z_maria_sofia-al_david_verner_1903",
+  "type": "child",
+  "parents": [
+   "olof_johannesson_1868_al",
+   "z_maria_sofia"
+  ],
+  "child": "al_david_verner_1903",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1903 Brunskog (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "c-olof_johannesson_1868_al-z_maria_sofia-al_signe_karolina_1905",
+  "type": "child",
+  "parents": [
+   "olof_johannesson_1868_al",
+   "z_maria_sofia"
+  ],
+  "child": "al_signe_karolina_1905",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1905 Södra Ny (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "c-olof_johannesson_1868_al-z_maria_sofia-al_emma_ingeborg_1907",
+  "type": "child",
+  "parents": [
+   "olof_johannesson_1868_al",
+   "z_maria_sofia"
+  ],
+  "child": "al_emma_ingeborg_1907",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1907 Brunskog (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "c-olof_johannesson_1868_al-z_maria_sofia-al_erik_sigfrid_1910",
+  "type": "child",
+  "parents": [
+   "olof_johannesson_1868_al",
+   "z_maria_sofia"
+  ],
+  "child": "al_erik_sigfrid_1910",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Säfvelskog sida 25: barn i fam. nr 1 f. 1910 Brunskog (familjeställning ej utskriven i indexet). Johan Emanuel f. 1896 känd 1900 som Anna Lydias son hos Johannes Zetterlund."
+ },
+ {
+  "id": "s-al_johan_emanuel_1896-al_anna_helena_1901",
+  "type": "sibling",
+  "a": "al_johan_emanuel_1896",
+  "b": "al_anna_helena_1901",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1910 (Folk_125549752)."
+ },
+ {
+  "id": "s-al_anna_helena_1901-al_david_verner_1903",
+  "type": "sibling",
+  "a": "al_anna_helena_1901",
+  "b": "al_david_verner_1903",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1910 (Folk_125549752)."
+ },
+ {
+  "id": "s-al_david_verner_1903-al_signe_karolina_1905",
+  "type": "sibling",
+  "a": "al_david_verner_1903",
+  "b": "al_signe_karolina_1905",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1910 (Folk_125549752)."
+ },
+ {
+  "id": "s-al_signe_karolina_1905-al_emma_ingeborg_1907",
+  "type": "sibling",
+  "a": "al_signe_karolina_1905",
+  "b": "al_emma_ingeborg_1907",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1910 (Folk_125549752)."
+ },
+ {
+  "id": "s-al_emma_ingeborg_1907-al_erik_sigfrid_1910",
+  "type": "sibling",
+  "a": "al_emma_ingeborg_1907",
+  "b": "al_erik_sigfrid_1910",
+  "status": "strong",
+  "basis": "Syskon i samma hushåll 1910 (Folk_125549752)."
+ },
+ {
+  "id": "c-z_david_emanuel-anna_maria_gustafsson_z-z_erik_gustaf_d",
+  "type": "child",
+  "parents": [
+   "z_david_emanuel",
+   "anna_maria_gustafsson_z"
+  ],
+  "child": "z_erik_gustaf_d",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Stora Kil Frykstad station: barn i hushållet f. 1908 Stora Kil."
+ },
+ {
+  "id": "s-z_erik_gustaf_d-z_astrid_maria_d",
+  "type": "sibling",
+  "a": "z_erik_gustaf_d",
+  "b": "z_astrid_maria_d",
+  "status": "strong",
+  "basis": "Syskon i hushållet hos David Emanuel Sätterlund 1910 (Folk_126655092)."
+ },
+ {
+  "id": "p-z_johan_albin_efraim-anna_charlotta_nilsson_z",
+  "type": "partner",
+  "a": "z_johan_albin_efraim",
+  "b": "anna_charlotta_nilsson_z",
+  "status": "strong",
+  "basis": "Folkräkning 1930 Eda sida 72 rad 1: Johan Albert Efraim Zetterlund Gift (vigselår 1903), Far/man, i hushållet Anna Charlotta Nilsson 1883 Nor; 1910 Stora Kil likaså."
+ },
+ {
+  "id": "c-z_johan_albin_efraim-anna_charlotta_nilsson_z-z_anna_margareta_e",
+  "type": "child",
+  "parents": [
+   "z_johan_albin_efraim",
+   "anna_charlotta_nilsson_z"
+  ],
+  "child": "z_anna_margareta_e",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Stora Kil Frykstad Station sida 17 rad 19: barn i hushållet f. 1910 Karlstad."
+ },
+ {
+  "id": "s-emma_kristina_nilsson_1893-anna_charlotta_nilsson_z",
+  "type": "sibling",
+  "a": "emma_kristina_nilsson_1893",
+  "b": "anna_charlotta_nilsson_z",
+  "status": "candidate",
+  "basis": "Samma efternamn och födelseort (Nor); piga hos Anna Charlottas familj 1910 – systerskap ej bevisat."
+ },
+ {
+  "id": "p-olof_persson_dernere_1854-anna_brunzell_1869",
+  "type": "partner",
+  "a": "olof_persson_dernere_1854",
+  "b": "anna_brunzell_1869",
+  "status": "strong",
+  "basis": "Folkräkning 1910 Brunskog Skog sida 16 rad 26: Olof Persson 1854 och Brunzell, Anna 1869 Mångskog i samma hushåll med barn; stämmer med husförhör A II a/1 (omgift 1906 med Anna Brunzell 69 1/5 Mångskog)."
  }
 ]

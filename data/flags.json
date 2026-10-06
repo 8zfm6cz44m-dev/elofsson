@@ -3104,6 +3104,22 @@
     "olof_ao61",
     "emil_ao63"
    ]
+  },
+  {
+   "title": "Nils Zetterlund: andra hustru Stina Bryntesdotter (1910)",
+   "text": "Folkräkning 1910 Arvika landsf., Haga (Folk_125539970): Nils Zetterlund (68) gift med Stina Bryntesdotter f. 1873 Gunnarskog; barn/hushållsmedlemmar Helena Emogenia Andersdotter f. 1901 och Gunnar f. 1908 (båda Gunnarskog). Lovisa Jansdotter (f. 1835) saknas 1910. Vigsel/död bör kontrolleras (Arvika/Gunnarskog).",
+   "persons": [
+    "nils_ne",
+    "stina_bryntesdotter_z",
+    "lovisa_jansdotter_z"
+   ]
+  },
+  {
+   "title": "Efraim Zetterlund: Albert, inte Albin",
+   "text": "Folkräkningen 1910/1930 skriver Johan Albert Efraim (f. 1878 Sicklaö), inte Albin som i id z_johan_albin_efraim. En annan Efraim Zetterlund f. 1878 i Borgvik (Grums) är en annan person.",
+   "persons": [
+    "z_johan_albin_efraim"
+   ]
   }
  ],
  "conflicts": [

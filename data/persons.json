@@ -4548,6 +4548,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Eda, Åmots municipalsamhälle, sida 68 rad 44: Johannes Zetterlund f. 1848 Brunskog, byggnadssnickare f.d., gift 1875, hustru Magdalena Andersson f. 1853 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128986019&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Ny, Tostebol, sida 31 rad 23: Sätterlund, Johannes 1848 Brunskog byggnadsarbetare, Andersdotter, Magdalena 1853, Nils Gustaf 1892 och Karl Teodor 1895 (jordbruksarbetare)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125541867&tab=post"
    }
   ],
   "search": [
@@ -4560,7 +4568,9 @@
    "HUSFÖRHÖR A I/27 bild 142 (fol. 133, hushåll nr 146, Ö. Takene): ”Bd. Olof Jansson 10/12 21 Brunskog; H. Brita Nilsd 15/2 20 ibm; Stf. Nils (Nilsson) Setterlund 21/2 41 ibm; – Erik Nilsson 8/2 43 ibm; Stfd. Cajsa Nilsd 1/? 46 ibm; Stfs. Johannes Nilsson 1/11 48 ibm; egen d. Brita 4/12 52 ibm; egen d. Maria 3/11 55 ibm.” (etiketterna Stf. = styvbarn, ”egen d.” = egen dotter; läsning av förkortningarna något osäker men klar markering av styv-/egna barn). Anmärkning vid Nils: ”Intagen i Carlstads Skola med namn Setterlund.”",
    "A I/25 bild 140: ”S. Johannes Nilsson 1/11 48 ibm” (son i hushållet med Olof Jansson/Britta Nilsd.); A I/27 bild 142: ”Stfs. Johannes Nilsson 1/11 48”. Föräldrarna Nils Ersson/Britta Nilsdotter bekräftas av A I/23 bild 145.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene, nedre delen): ”Åbo(?) Johannes Nilsson Setterlund 48 1/11 do [Ö. Takene]; H. Magdalena Andersdotter 53 22/7 Skog; Anna Lydia 76 22/? do; Johan Albert Efraim 78 15/10 Siklaö, Stockholms län; David Emanuel 81 1/3 Ö. Takene”; inflyttad från ”Siklaö förs., Stockholms län 81 14/1”; utflyttad ”Sunne 83 26/10”.",
-   "A I/35 bild 197 (Ö. Takene): Johannes Nilsson Setterlund 1/11 48 med hustru Magdalena Andersdotter 53 22/7 Skog, barn Anna Lydia 76, Johan Albert Efraim 78 (f. Sicklaön), David Emanuel 81 (f. Ö. Takene); inflyttad 14/1 1881 från Sicklaön, utflyttad till Sunne 26/10 1883 (Maria Elisabeth f. 1884 Sunne stämmer). Senare tillbaka till Brunskog (A I/35 bild 178, Skog; folkräkning 1890 Säfvelskog)."
+   "A I/35 bild 197 (Ö. Takene): Johannes Nilsson Setterlund 1/11 48 med hustru Magdalena Andersdotter 53 22/7 Skog, barn Anna Lydia 76, Johan Albert Efraim 78 (f. Sicklaön), David Emanuel 81 (f. Ö. Takene); inflyttad 14/1 1881 från Sicklaön, utflyttad till Sunne 26/10 1883 (Maria Elisabeth f. 1884 Sunne stämmer). Senare tillbaka till Brunskog (A I/35 bild 178, Skog; folkräkning 1890 Säfvelskog).",
+   "FOLKRÄKNING 1930 Eda, Åmot: Johannes Zetterlund 1848 Brunskog, byggnadssnickare f.d., husägare, gift 1875 med Magdalena Andersson f. 1853 Brunskog; inflyttad 1919 från Ny. Vigselår 1875 (uppgift 1930).",
+   "FOLKRÄKNING 1910 Ny, Tostebol: ”Sätterlund, Johannes” 1848, byggnadsarbetare, hustru Magdalena Andersdotter 1853, söner Nils Gustaf 1892 och Karl Teodor 1895 (jordbruksarbetare)."
   ]
  },
  {
@@ -4764,6 +4774,22 @@
    {
     "label": "Riksarkivet, folkräkning 1910, Arvika landsförsamling, Haga, sida 86: Zetterlund, Nils f. 1841 Brunskog",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125539970&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Sunne, S:a Arneby, sida 111 rad 31: Nils Zetterlund 1841 folkskolelärare med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_103610830&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Arvika köping N:o 137, sida 49 rad 29: Nils Zetterlund f.d. folkskollärare med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_113724054&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Haga, sida 86 rad 4: Nils Zetterlund folkskolelärare f.d., hustru Stina Bryntesdotter 1873 Gunnarskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125539970&tab=post"
    }
   ],
   "search": [
@@ -4775,7 +4801,8 @@
    "IDENTITET (strong): A I/27 bild 142 (fol. 133): ”Stf. Nils (Nilsson) Setterlund 21/2 41” med anm. ”Intagen i Carlstads Skola med namn Setterlund”. Folkräkning 1880 Sunne, Södra Arneby (Folk_120437747, sida 125 rad 18): ”Zetterlund, Nils, f. 1841 i Brunskog, Gift, Folkskolelärare”. Samma person enligt namn+födelseår+socken+yrke (folkskollärare passar Karlstads skola) – dock ingen uttrycklig familjeställning mellan Nils Zetterlund och Erik Nilsson ⇒ strong.",
    "FOLKRÄKNING 1880 Sunne, S. Arneby (Folk_120437747–Folk_120437755): Nils Zetterlund 1841 (Folkskolelärare), h. Lovisa Jansdotter f. 1835 Ölme; barn (b.) Augusta Teodora 1865, August Teodor 1866, Erik Johan 1868, Hulda Lovisa 1870, Janne Timoteus 1872, Nils Kristofer 1874, Hanna Elisabeth 1876, Lydia 1879 (alla f. Sunne).",
    "FOLKRÄKNING 1890 Sunne (Folk_103610830): Zetterlund, Nils 1841, Folkskolelärare; h. Lovisa Jansdotter 1835 Ölme; d./s.: Augusta Teodora 1865, August Teodor 1866, Hulda Lovisa 1870, Nils Kristoffer 1874, Hanna Elisabet 1876, Lydia 1879.",
-   "FOLKRÄKNING 1900 Arvika köping (Folk_113724054, sida 49 rad 29): Zetterlund, Nils 1841 Brunskog, f.d. folkskollärare, gift; h. Lovisa Jansdotter 1835; d. Augusta Teodora 1865, Hanna Elisabeth 1876, Lydia 1879, Hulda Lovisa 1870 (modehandl.). 1910 Arvika landsförsamling, Haga (Folk_125539970, sida 86 rad 4): Zetterlund, Nils 1841, folkskolelärare f.d., gift (hustru nu ”Bryntesdotter, S…”, ej utredd)."
+   "FOLKRÄKNING 1900 Arvika köping (Folk_113724054, sida 49 rad 29): Zetterlund, Nils 1841 Brunskog, f.d. folkskollärare, gift; h. Lovisa Jansdotter 1835; d. Augusta Teodora 1865, Hanna Elisabeth 1876, Lydia 1879, Hulda Lovisa 1870 (modehandl.). 1910 Arvika landsförsamling, Haga (Folk_125539970, sida 86 rad 4): Zetterlund, Nils 1841, folkskolelärare f.d., gift (hustru nu ”Bryntesdotter, S…”, ej utredd).",
+   "BARN enligt folkräkning 1880 Sunne (Arneby Södra, sida 125 rad 18): Augusta Teodora 1865, August Teodor 1866, Erik Johan 1868, Hulda Lovisa 1870, Janne Timoteus 1872, Nils Kristofer 1874, Hanna Elisabeth 1876, Lydia 1879 (alla f. Sunne). Hustru Lovisa Jansdotter f. 1835 Ölme. 1900 Arvika köping N:o 137 f.d. folkskollärare; 1910 Arvika landsf., Haga, gift (andra) med Stina Bryntesdotter 1873 Gunnarskog."
   ]
  },
  {
@@ -20564,7 +20591,8 @@
   "summary": "Hemmansägare; svärfar till Erik Johan Eriksson och Paul Eriksson (båda gifte sig med hans döttrar 1902–03).",
   "notes": [
    "A II a/1 bild 209 (sida 199): ”Olof Persson 54 23/11 L., g. 79 31/1 (1:a hustru Betty Andersdotter 54 28/9), omgift 06 [?]/4 m. Anna Brunzell 69 1/5 Mångskog”. Barn: Anna 79 18/12, Hilda Maria 82 22/9, Olof Viktor 85 2/3, Signe Karolina 88 10/5, Johan Efraim 90 7/12, Gerda Elisabet 93 30/4, Nils David 96, Paul (oäkta?) 98.",
-   "HUSFÖRHÖR A II a/3 bild 184 (Skog, Dernere, nr 'Der nere'): ”B. Olof Persson … Hemeg. … 54 23/11 … L.”; gift-kolumner ”1. 79 31/1 … 2. 06 14/4(?)”, in ”05 27/1”; utflyttning (kol. 19) ordagrant ”V. Emterwik 18 9/3” (Västra Ämtervik 9 mars 1918). Fru ”H. Anna Brunzell 69 1/5 Mskog” (Mångskog), in ”04 17/2”, ut ”do do” (samma). Barn i hushållet: Johan Efraim, Gerda Elisabet, Nils Arvid, Paul Werner, 2:a giftet Anders Ragnar 07 15/8 och Ida Kristina 09 7/10 (utflyttade V. Ämtervik 18 9/3)."
+   "HUSFÖRHÖR A II a/3 bild 184 (Skog, Dernere, nr 'Der nere'): ”B. Olof Persson … Hemeg. … 54 23/11 … L.”; gift-kolumner ”1. 79 31/1 … 2. 06 14/4(?)”, in ”05 27/1”; utflyttning (kol. 19) ordagrant ”V. Emterwik 18 9/3” (Västra Ämtervik 9 mars 1918). Fru ”H. Anna Brunzell 69 1/5 Mskog” (Mångskog), in ”04 17/2”, ut ”do do” (samma). Barn i hushållet: Johan Efraim, Gerda Elisabet, Nils Arvid, Paul Werner, 2:a giftet Anders Ragnar 07 15/8 och Ida Kristina 09 7/10 (utflyttade V. Ämtervik 18 9/3).",
+   "FOLKRÄKNING 1910 Brunskog, Skog sida 16: Olof Persson f. 1854 hemmansägare; hustru Anna Brunzell f. 1869 Mångskog; barn Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909."
   ],
   "sources": [
    {
@@ -20574,6 +20602,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 184: Skog Dernere (sida ca 191), Olof Persson 54 23/11 hemman; ut V. Emterwik 18 9/3",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Skog, sida 16 rad 26: Olof Persson f. 1854 hemmansägare, Brunzell, Anna f. 1869 Mangskog, Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549356&tab=post"
    }
   ],
   "search": [
@@ -24287,7 +24319,8 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1890 ”Anna Lydia” f. 1876 i Brunskog; A I/35: ”Maria Sofia 76”. 1900 fam. nr 2 ”Anna Lydia” med barnen Johan Emanuel 1896 och Anna Helena 1900 (hos föräldrarna). Samma födelseår/ort – namnvariant, ej bevisat samma person."
+   "FOLKRÄKNING: 1890 ”Anna Lydia” f. 1876 i Brunskog; A I/35: ”Maria Sofia 76”. 1900 fam. nr 2 ”Anna Lydia” med barnen Johan Emanuel 1896 och Anna Helena 1900 (hos föräldrarna). Samma födelseår/ort – namnvariant, ej bevisat samma person.",
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog: ”Sätterlund, Anna Lydia, f. 1876 i Brunskog” i hushåll med torparen Olof Johannesson (1868) och barnen Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910."
   ],
   "sources": [
    {
@@ -24297,6 +24330,10 @@
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
    }
   ],
   "altNames": [
@@ -24319,7 +24356,8 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1890: ”Johan Albert Efraim, f. 1878 i Siklaö, Stockh. l.”; 1900 samma. A I/35: ”Johan Albin Efraim 78”. Födelseort Stockholms län (Johannes bodde tidigt i Stockholmstrakten)."
+   "FOLKRÄKNING: 1890: ”Johan Albert Efraim, f. 1878 i Siklaö, Stockh. l.”; 1900 samma. A I/35: ”Johan Albin Efraim 78”. Födelseort Stockholms län (Johannes bodde tidigt i Stockholmstrakten).",
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station (rad 19, intill brodern David Emanuel rad 14): ”Zetterlund, Johan Albert Efraim” f. 1878 i Sicklaö Stockholms län, stationskarl, gift; 1930 Eda, Åmotsfors station: stationskarl, gift 1903, inflyttad 1916 från Karlskoga. Namnet ”Albin” i filen bör rättas till ”Albert”."
   ],
   "sources": [
    {
@@ -24329,6 +24367,14 @@
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad Station, sida 17 rad 19: Zetterlund, Johan Albert Efraim f. 1878 Sicklaö, stationskarl, gift; hustru Anna Charlotta Nilsson f. 1883 Nor, dotter Anna Margareta 1910 Karlstad, piga Emma Kristina Nilsson 1893 Nor",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655097&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Eda, Åmotsfors järnvägsstation, sida 72 rad 1: Zetterlund, Johan Albert Efraim 1878 Sicklaö, stationskarl, gift 1903, hustru Anna Charlotta Nilsson 1883 Nor (inhyses: Johansson, Skallman)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128986173&tab=post"
    }
   ],
   "altNames": [
@@ -24351,7 +24397,9 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1890 och 1900 hemma i Johannes hushåll (f. 1881 i Brunskog); ej funnen 1910/1930 i detta sökupplägg."
+   "FOLKRÄKNING: 1890 och 1900 hemma i Johannes hushåll (f. 1881 i Brunskog); ej funnen 1910/1930 i detta sökupplägg.",
+   "FOLKRÄKNING 1930 Arvika: stationskarl SJ, gift 1908 med Anna Maria Gustafsson (1884 N. Finnskoga); flyttat 1928 från Arvika landsförsamling; sju barn.",
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad station: ”Sätterlund, David Emanuel” stationskarl e.o., hustru Anna Maria Gustafsson, barn Erik Gustaf 1908, Astrid Maria 1910."
   ],
   "sources": [
    {
@@ -24361,6 +24409,14 @@
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad station, sida 17 rad 14: Sätterlund, David Emanuel f. 1881 Brunskog, stationskarl e.o., hustru Anna Maria Gustafsson 1884, Erik Gustaf 1908, Astrid Maria 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655092&tab=post"
    }
   ],
   "search": [
@@ -24405,7 +24461,9 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: A I/35: ”Alfrida Christina 87”; folkräkning 1890 och 1900: ”Hulda Karolina, f. 1887 i Brunskog” – namnvariant (samma födelseår/ort), ej bevisad identitet."
+   "FOLKRÄKNING: A I/35: ”Alfrida Christina 87”; folkräkning 1890 och 1900: ”Hulda Karolina, f. 1887 i Brunskog” – namnvariant (samma födelseår/ort), ej bevisad identitet.",
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården: ”Hulda Karolina” f. 1887 Brunskog, f. Zetterlund, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen – samma födelseår/ort som ”Alfrida Christina” 1887: troligen samma person med namnvariant (ej bevisat; kontrollera husförhör Brunskog).",
+   "FOLKRÄKNING 1910 Arvika landsf., Ålgården: ”Sätterlund, Hulda Karolina f. 1887 Brunskog” hustru till kakelarbetaren Erik Martin Andersson (f. 1884 Hallen), son Gunnar 1910 – styrker att 1887-dottern är Hulda Karolina."
   ],
   "sources": [
    {
@@ -24415,6 +24473,14 @@
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Ålgården, sida 76 rad 27: Erik Martin Andersson 1884 Hallen, kakelarbetare, Sätterlund, Hulda Karolina f. 1887 Brunskog, Gunnar 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125539499&tab=post"
    }
   ],
   "altNames": [
@@ -24437,7 +24503,9 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1890 och 1900 hemma hos föräldrarna. Ej entydigt funnen 1910/1930 (flera träffar ’Signe Amalia’ f. 1889 Värmland: Olsson, Sätterlund, Andersson Zetterlund) – ej kontrollerade."
+   "FOLKRÄKNING: 1890 och 1900 hemma hos föräldrarna. Ej entydigt funnen 1910/1930 (flera träffar ’Signe Amalia’ f. 1889 Värmland: Olsson, Sätterlund, Andersson Zetterlund) – ej kontrollerade.",
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården: Signe Amalia ”Andersson Zetterlund” f. 1889 Brunskog, sömmerska, änka sedan 1916, flyttad 1904 från Ny; ”f. Zetterlund”.",
+   "FOLKRÄKNING 1910 Arvika landsf., Rackstad sida 59: ”Sätterlund, Signe Amalia” f. 1889 Brunskog, piga i konstnären Gustaf Fjaestads hushåll."
   ],
   "sources": [
    {
@@ -24447,6 +24515,14 @@
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Strand, sida 26 rad 29: Sätterlund, Johannes f. 1848 (Torpare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937907&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 1: Signe Amalia Andersson Zetterlund 1889 Brunskog, sömmerska, änka sedan 1916, ”f. Zetterlund”; barn Erik Harry 1911, Elsa Maria 1912, Ellen Signe Magdalena 1914, Gunhild 1916",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795146&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Rackstad, sida 59 rad 3: Sätterlund, Signe Amalia f. 1889 Brunskog, piga, i konstnären Gustaf Fjaestads hushåll",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125538640&tab=post"
    }
   ],
   "search": [
@@ -24466,7 +24542,9 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll."
+   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll.",
+   "FOLKRÄKNING 1930 Brunskog, Edane: ”Nils Gustav” f. 1892 Brunskog, stationskarl, gift 1919 med Wendela Olivia Nilsson f. 1900 Flisby; barn Inga-Brita 1920, Rut Anne-Maria 1926.",
+   "FOLKRÄKNING 1910 Ny, Tostebol: Nils Gustaf f. 1892 Brunskog, jordbruksarbetare, i föräldrahemmet."
   ],
   "sources": [
    {
@@ -24476,6 +24554,14 @@
    {
     "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Edane, sida 45 rad 32: Nils Gustav Zetterlund f. 1892 Brunskog, stationskarl, gift 1919, hustru Wendela Olivia Nilsson f. 1900 Flisby, barn Inga-Brita 1920, Rut Anne-Maria 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128884937&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Ny, Tostebol, sida 31 rad 23: Sätterlund, Johannes 1848 Brunskog byggnadsarbetare, Andersdotter, Magdalena 1853, Nils Gustaf 1892 och Karl Teodor 1895 (jordbruksarbetare)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125541867&tab=post"
    }
   ],
   "search": [
@@ -24495,7 +24581,8 @@
   "places": [],
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
-   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll."
+   "FOLKRÄKNING: 1900 och 1910 (Ny, Tostebol: ”Jordbruksarbetare”) i Johannes och Magdalenas hushåll.",
+   "FOLKRÄKNING 1910 Ny, Tostebol: Karl Teodor f. 1895 Brunskog, jordbruksarbetare, i föräldrahemmet hos Johannes Sätterlund."
   ],
   "sources": [
    {
@@ -24505,6 +24592,10 @@
    {
     "label": "Riksarkivet, folkräkning 1910, Ny, Tostebol, sida 31 rad 24: Sätterlund, Johannes f. 1848 (Byggnadsarbetare) + Magdalena (h.)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125541868&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Ny, Tostebol, sida 31 rad 23: Sätterlund, Johannes 1848 Brunskog byggnadsarbetare, Andersdotter, Magdalena 1853, Nils Gustaf 1892 och Karl Teodor 1895 (jordbruksarbetare)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125541867&tab=post"
    }
   ],
   "search": [
@@ -29665,6 +29756,1444 @@
   ],
   "search": [
    "Greta Maria Johansson (f. 1910, Frykerud)"
+  ]
+ },
+ {
+  "id": "lovisa_jansdotter_z",
+  "name": "Lovisa Jansdotter (g. Zetterlund)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1835",
+   "place": "Ölme"
+  },
+  "places": [
+   "Sunne",
+   "Arvika"
+  ],
+  "summary": "Hustru till folkskolläraren Nils Zetterlund; f. 1835 i Ölme; mor till åtta barn födda i Sunne 1865–79.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne: ”Jansdotter, Lovisa, f. 1835 i Ölme” i Nils Zetterlunds hushåll (hustru); samma 1890 och 1900."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Sunne, S:a Arneby, sida 111 rad 31: Nils Zetterlund 1841 folkskolelärare med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_103610830&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Arvika köping N:o 137, sida 49 rad 29: Nils Zetterlund f.d. folkskollärare med hustru och barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_113724054&tab=post"
+   }
+  ],
+  "search": [
+   "Lovisa Jansdotter (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_augusta_teodora",
+  "name": "Augusta Teodora Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1865",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1865 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1865 i Sunne.",
+   "FOLKRÄKNING 1910 Arvika köping N:o 174: trikåhandlare, ogift, med systrarna Hanna Elisabet och Lydia; 1930 Arvika, Gjutaren 5: stickerska, ogift, inflyttad 1923 från By."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 174, sida 60 rad 23-25: Augusta Teodora 1865 (trikåhandlare), Hanna Elisabet 1876 (”syster”), Lydia 1879 (handelsbiträde), alla Zetterlund f. Sunne",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125615048&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Kv. Gjutaren 5, sida 90 rad 7: Augusta Teodora Zetterlund 1865 Sunne, stickerska, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129009263&tab=post"
+   }
+  ],
+  "search": [
+   "Augusta Teodora Zetterlund"
+  ]
+ },
+ {
+  "id": "z_august_teodor",
+  "name": "August Teodor Zetterlund",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1866",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1866 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1866 i Sunne.",
+   "FOLKRÄKNING 1900 Arvika köping N:o 137 (samma hus som fadern, sida 49): verkmästare, ogift, ”s.”; 1910 kvarstående obefintlig, 1930 överförd till obefintlighetsboken 1906 (utflyttad/okänt)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Arvika köping N:o 137, sida 49 rad 35: August Teodor Zetterlund 1866 Sunne, verkmästare, ogift, familjeställning ”s.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_113724060&tab=post"
+   }
+  ],
+  "search": [
+   "August Teodor Zetterlund"
+  ]
+ },
+ {
+  "id": "z_erik_johan_n",
+  "name": "Erik Johan Zetterlund (f. 1868)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1868",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1868 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1868 i Sunne."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Johan Zetterlund (f. 1868)"
+  ]
+ },
+ {
+  "id": "z_hulda_lovisa",
+  "name": "Hulda Lovisa Zetterlund (g. Settergren)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1870",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1870 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1870 i Sunne.",
+   "FOLKRÄKNING 1900 Arvika köping: modehandlare, hos föräldrarna; 1910 Kvikkjokk: hushållerska hos komminister; 1930 Frösö: Settergren Zetterlund, pensionatsinnehavarinna, änka sedan 1923 (”f. Zetterlund”)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Kvikkjokk, sida 2 rad 13: Hulda Lovisa Zetterlund 1870 Sunne, hushållerska hos komminister Karl Oskar Karlsson Lander",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123849711&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Frösö med Hornsberg, Östberg, sida 47 rad 25: Settergren Zetterlund, Hulda Lovisa f. 1870 Sunne, pensionatsinnehavarinna, änka sedan 1923, ”f. Zetterlund”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129587665&tab=post"
+   }
+  ],
+  "search": [
+   "Hulda Lovisa Zetterlund (g. Settergren)"
+  ]
+ },
+ {
+  "id": "z_janne_timoteus",
+  "name": "Janne Timoteus Zetterlund",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1872",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1872 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1872 i Sunne.",
+   "FOLKRÄKNING 1900 Eda: bokhållare vid Charlottenbergs tobaksfabrik, gift med Tilda Jansson 1865 Sunne; 1910 Hudiksvall: snusfabriksdisponent, hustru Gerda Karolina Brandt 1879."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Eda (Charlottenbergs tobaksfabrik, Emterud södra), sida 27 rad 10: Janne Timoteus Zetterlund f. 1872 Sunne, bokhållare, gift, hustru Tilda Jansson 1865 Sunne, barn Elsa Ingeborg 1897, Inez Augusta 1898",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_109915806&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Hudiksvall, sida 147 rad 10: Janne Timotheus Zetterlund 1872 Sunne, snusfabriksdisponent, hustru Gerda Karolina Brandt 1879 Hammarby, barn Elsa Ingeborg 1897, Inez Augusta 1898, Anna Margareta Matilda 1901, Vera Maria 1907, Stig Ingemar Brandt 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123412893&tab=post"
+   }
+  ],
+  "search": [
+   "Janne Timoteus Zetterlund"
+  ]
+ },
+ {
+  "id": "z_nils_kristofer",
+  "name": "Nils Kristofer Zetterlund",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1874",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1874 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1874 i Sunne.",
+   "FOLKRÄKNING 1900 Arvika köping N:o 137: mekaniker, ogift, ”s.” hos fadern; ej funnen 1910/1930 (troligen utvandrad eller död)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Arvika köping N:o 137, sida 49 rad 36: Nils Kristoffer Zetterlund 1874 Sunne, mekaniker, ogift, familjeställning ”s.”",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_113724061&tab=post"
+   }
+  ],
+  "search": [
+   "Nils Kristofer Zetterlund"
+  ]
+ },
+ {
+  "id": "z_hanna_elisabeth",
+  "name": "Hanna Elisabeth Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1876",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1876 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1876 i Sunne.",
+   "FOLKRÄKNING 1910 Arvika köping N:o 174: trikåhandlare, familjeställning ”syster” (till Augusta Teodora)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 174, sida 60 rad 23-25: Augusta Teodora 1865 (trikåhandlare), Hanna Elisabet 1876 (”syster”), Lydia 1879 (handelsbiträde), alla Zetterlund f. Sunne",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125615048&tab=post"
+   }
+  ],
+  "search": [
+   "Hanna Elisabeth Zetterlund"
+  ]
+ },
+ {
+  "id": "z_lydia_n",
+  "name": "Lydia Zetterlund (f. 1879)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "place": "Sunne"
+  },
+  "places": [
+   "Sunne"
+  ],
+  "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1879 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1879 i Sunne.",
+   "FOLKRÄKNING 1910 Arvika köping N:o 174: handelsbiträde, ogift, hos systrarna."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Sunne, Arneby Södra, sida 125 rad 18: Nils Zetterlund f. 1841 Brunskog, folkskolelärare, med hustru och åtta barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_120437747&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika köping N:o 174, sida 60 rad 23-25: Augusta Teodora 1865 (trikåhandlare), Hanna Elisabet 1876 (”syster”), Lydia 1879 (handelsbiträde), alla Zetterlund f. Sunne",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125615048&tab=post"
+   }
+  ],
+  "search": [
+   "Lydia Zetterlund (f. 1879)"
+  ]
+ },
+ {
+  "id": "tilda_jansson_z",
+  "name": "Tilda Jansson (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1865",
+   "place": "Sunne"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Hustru 1900 till Janne Timoteus Zetterlund; f. 1865 i Sunne.",
+  "notes": [
+   "FOLKRÄKNING 1900 Eda: ”Jansson, Tilda, f. 1865 i Sunne” hustru (efter Zetterlund, Gift)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Eda (Charlottenbergs tobaksfabrik, Emterud södra), sida 27 rad 10: Janne Timoteus Zetterlund f. 1872 Sunne, bokhållare, gift, hustru Tilda Jansson 1865 Sunne, barn Elsa Ingeborg 1897, Inez Augusta 1898",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_109915806&tab=post"
+   }
+  ],
+  "search": [
+   "Tilda Jansson (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "gerda_brandt_z",
+  "name": "Gerda Karolina Brandt (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879",
+   "place": "Hammarby, Stockholms län"
+  },
+  "places": [
+   "Hudiksvall"
+  ],
+  "summary": "Hustru 1910 till Janne Timotheus Zetterlund i Hudiksvall; f. 1879 i Hammarby.",
+  "notes": [
+   "FOLKRÄKNING 1910 Hudiksvall: ”Brandt, Gerda Karolina, f. 1879 i Hammarby Stockholms län” direkt efter Zetterlund i hushållet; sonen Stig Ingemar bär efternamnet Brandt (f. 1909 Hudiksvall)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Hudiksvall, sida 147 rad 10: Janne Timotheus Zetterlund 1872 Sunne, snusfabriksdisponent, hustru Gerda Karolina Brandt 1879 Hammarby, barn Elsa Ingeborg 1897, Inez Augusta 1898, Anna Margareta Matilda 1901, Vera Maria 1907, Stig Ingemar Brandt 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123412893&tab=post"
+   }
+  ],
+  "search": [
+   "Gerda Karolina Brandt (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_elsa_ingeborg",
+  "name": "Elsa Ingeborg Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn till Janne Timoteus Zetterlund; f. 1897 i Eda.",
+  "notes": [
+   "FOLKRÄKNING 1900 Eda: i Janne Zetterlunds hushåll, f. 1897 Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Eda (Charlottenbergs tobaksfabrik, Emterud södra), sida 27 rad 10: Janne Timoteus Zetterlund f. 1872 Sunne, bokhållare, gift, hustru Tilda Jansson 1865 Sunne, barn Elsa Ingeborg 1897, Inez Augusta 1898",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_109915806&tab=post"
+   }
+  ],
+  "search": [
+   "Elsa Ingeborg Zetterlund"
+  ]
+ },
+ {
+  "id": "z_inez_augusta",
+  "name": "Inez Augusta Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1898",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn till Janne Timoteus Zetterlund; f. 1898 i Eda.",
+  "notes": [
+   "FOLKRÄKNING 1900 Eda: i Janne Zetterlunds hushåll, f. 1898 Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Eda (Charlottenbergs tobaksfabrik, Emterud södra), sida 27 rad 10: Janne Timoteus Zetterlund f. 1872 Sunne, bokhållare, gift, hustru Tilda Jansson 1865 Sunne, barn Elsa Ingeborg 1897, Inez Augusta 1898",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_109915806&tab=post"
+   }
+  ],
+  "search": [
+   "Inez Augusta Zetterlund"
+  ]
+ },
+ {
+  "id": "z_anna_margareta_matilda",
+  "name": "Anna Margareta Matilda Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1901",
+   "place": "Eda"
+  },
+  "places": [
+   "Eda"
+  ],
+  "summary": "Barn till Janne Timoteus Zetterlund; f. 1901 i Eda.",
+  "notes": [
+   "FOLKRÄKNING 1910 Hudiksvall: i Janne Zetterlunds hushåll, f. 1901 Eda."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Hudiksvall, sida 147 rad 10: Janne Timotheus Zetterlund 1872 Sunne, snusfabriksdisponent, hustru Gerda Karolina Brandt 1879 Hammarby, barn Elsa Ingeborg 1897, Inez Augusta 1898, Anna Margareta Matilda 1901, Vera Maria 1907, Stig Ingemar Brandt 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123412893&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Margareta Matilda Zetterlund"
+  ]
+ },
+ {
+  "id": "z_vera_maria",
+  "name": "Vera Maria Zetterlund",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Hudiksvall"
+  },
+  "places": [
+   "Hudiksvall"
+  ],
+  "summary": "Barn till Janne Timoteus Zetterlund; f. 1907 i Hudiksvall.",
+  "notes": [
+   "FOLKRÄKNING 1910 Hudiksvall: i Janne Zetterlunds hushåll, f. 1907 Hudiksvall."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Hudiksvall, sida 147 rad 10: Janne Timotheus Zetterlund 1872 Sunne, snusfabriksdisponent, hustru Gerda Karolina Brandt 1879 Hammarby, barn Elsa Ingeborg 1897, Inez Augusta 1898, Anna Margareta Matilda 1901, Vera Maria 1907, Stig Ingemar Brandt 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123412893&tab=post"
+   }
+  ],
+  "search": [
+   "Vera Maria Zetterlund"
+  ]
+ },
+ {
+  "id": "z_stig_ingemar_brandt",
+  "name": "Stig Ingemar Brandt (f. 1909)",
+  "status": "strong",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1909",
+   "place": "Hudiksvall"
+  },
+  "places": [
+   "Hudiksvall"
+  ],
+  "summary": "Son till Gerda Karolina Brandt, f. 1909 i Hudiksvall; bor 1910 hos Janne Zetterlund och Gerda (efternamn Brandt, ej Zetterlund).",
+  "notes": [
+   "FOLKRÄKNING 1910 Hudiksvall: ”Brandt, Stig Ingemar, f. 1909 i Hudiksvall” – bär moderns namn Brandt; far okänd (ev. född före giftermålet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Hudiksvall, sida 147 rad 10: Janne Timotheus Zetterlund 1872 Sunne, snusfabriksdisponent, hustru Gerda Karolina Brandt 1879 Hammarby, barn Elsa Ingeborg 1897, Inez Augusta 1898, Anna Margareta Matilda 1901, Vera Maria 1907, Stig Ingemar Brandt 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_123412893&tab=post"
+   }
+  ],
+  "search": [
+   "Stig Ingemar Brandt (f. 1909)"
+  ]
+ },
+ {
+  "id": "stina_bryntesdotter_z",
+  "name": "Stina Bryntesdotter (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1873",
+   "place": "Gunnarskog"
+  },
+  "places": [
+   "Haga, Arvika"
+  ],
+  "summary": "Andra hustru (1910) till Nils Zetterlund; f. 1873 i Gunnarskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika landsförsamling, Haga: ”Bryntesdotter, Stina, f. 1873 i Gunnarskog” direkt efter Nils Zetterlund (Gift)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Haga, sida 86 rad 4: Nils Zetterlund folkskolelärare f.d., hustru Stina Bryntesdotter 1873 Gunnarskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125539970&tab=post"
+   }
+  ],
+  "search": [
+   "Stina Bryntesdotter (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "helena_emogenia_andersdotter",
+  "name": "Helena Emogenia Andersdotter (f. 1901)",
+  "status": "candidate",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1901",
+   "place": "Gunnarskog"
+  },
+  "places": [
+   "Haga, Arvika"
+  ],
+  "summary": "Dotter till Stina Bryntesdotter (patronymikon Andersdotter), f. 1901 i Gunnarskog; bor 1910 hos Nils Zetterlund och Stina.",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika landsf., Haga: ”Andersdotter, Helena Emogenia, f. 1901 i Gunnarskog” i hushållet efter Stina; stjärndotter till Nils Zetterlund."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Haga, sida 86 rad 4: Nils Zetterlund folkskolelärare f.d., hustru Stina Bryntesdotter 1873 Gunnarskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125539970&tab=post"
+   }
+  ],
+  "search": [
+   "Helena Emogenia Andersdotter (f. 1901)"
+  ]
+ },
+ {
+  "id": "gunnar_stina_1908",
+  "name": "Gunnar (f. 1908, Gunnarskog), son till Stina Bryntesdotter",
+  "status": "candidate",
+  "sex": "m",
+  "living": true,
+  "born": {
+   "date": "1908",
+   "place": "Gunnarskog"
+  },
+  "places": [
+   "Haga, Arvika"
+  ],
+  "summary": "Son (troligen) till Stina Bryntesdotter; f. 1908 i Gunnarskog; bor 1910 hos Nils Zetterlund och Stina.",
+  "notes": [
+   "FOLKRÄKNING 1910 Arvika landsf., Haga: ”Gunnar, f. 1908 i Gunnarskog” i Zetterlunds hushåll; efternamn ej angivet i index."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Arvika landsförsamling, Haga, sida 86 rad 4: Nils Zetterlund folkskolelärare f.d., hustru Stina Bryntesdotter 1873 Gunnarskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125539970&tab=post"
+   }
+  ],
+  "search": [
+   "Gunnar (f. 1908, Gunnarskog), son till Stina Bryntesdotter"
+  ]
+ },
+ {
+  "id": "anna_maria_gustafsson_z",
+  "name": "Anna Maria Gustafsson (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Norra Finnskoga"
+  },
+  "places": [
+   "Arvika"
+  ],
+  "summary": "Hustru till David Emanuel Zetterlund (gift 1908); f. 1884 i Norra Finnskoga.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika, Stadsägan 85 V: ”Gustafsson, Anna Maria, f. 1884 i Norra Finnskoga” hustru; David vigselår 1908."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Maria Gustafsson (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_astrid_maria_d",
+  "name": "Astrid Maria Zetterlund (f. 1910)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Stora Kil"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1910 i Stora Kil.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1910 Stora Kil."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Astrid Maria Zetterlund (f. 1910)"
+  ]
+ },
+ {
+  "id": "z_inez_helena_d",
+  "name": "Inez Helena Zetterlund (f. 1912)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1912",
+   "place": "Stora Kil"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1912 i Stora Kil.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1912 Stora Kil."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Inez Helena Zetterlund (f. 1912)"
+  ]
+ },
+ {
+  "id": "z_karl_bertil_d",
+  "name": "Karl Bertil Zetterlund (f. 1914)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1914",
+   "place": "Ny"
+  },
+  "places": [
+   "Ny"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1914 i Ny.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1914 Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Karl Bertil Zetterlund (f. 1914)"
+  ]
+ },
+ {
+  "id": "z_marta_sofia_d",
+  "name": "Märta Sofia Zetterlund (f. 1917)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1917",
+   "place": "Ny"
+  },
+  "places": [
+   "Ny"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1917 i Ny.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1917 Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Märta Sofia Zetterlund (f. 1917)"
+  ]
+ },
+ {
+  "id": "z_anna_magdalena_d",
+  "name": "Anna Magdalena Zetterlund (f. 1919)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1919",
+   "place": "Ny"
+  },
+  "places": [
+   "Ny"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1919 i Ny.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1919 Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Magdalena Zetterlund (f. 1919)"
+  ]
+ },
+ {
+  "id": "z_sven_olov_d",
+  "name": "Sven Olov Zetterlund (f. 1923)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1923",
+   "place": "Ny"
+  },
+  "places": [
+   "Ny"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1923 i Ny.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1923 Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Sven Olov Zetterlund (f. 1923)"
+  ]
+ },
+ {
+  "id": "z_karin_ingrid_d",
+  "name": "Karin Ingrid Elisabet Zetterlund (f. 1926)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1926",
+   "place": "Ny"
+  },
+  "places": [
+   "Ny"
+  ],
+  "summary": "Barn till David Emanuel Zetterlund; f. 1926 i Ny.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1926 Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan 85 V, sida 116 rad 22: David Emanuel Zetterlund f. 1881 Brunskog, stationskarl SJ, gift 1908, hustru Anna Maria Gustafsson f. 1884 N. Finnskoga, barn Astrid Maria 1910, Inez Helena 1912, Karl Bertil 1914, Märta Sofia 1917, Anna Magdalena 1919, Sven Olov 1923, Karin Ingrid Elisabet 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_129010432&tab=post"
+   }
+  ],
+  "search": [
+   "Karin Ingrid Elisabet Zetterlund (f. 1926)"
+  ]
+ },
+ {
+  "id": "erik_martin_andersson_hk",
+  "name": "Erik Martin Andersson (krukmakare, f. 1884)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1884",
+   "place": "Hallen, Jämtlands län"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Krukmakare; gift 1910 med Hulda Karolina Zetterlund; f. 1884 i Hallen.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården: ”Andersson, Erik Martin, f. 1884 i Hallen Jämtlands län, Krukmakare”, Far/man; hustru Hulda Karolina (vigselår 1910)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Martin Andersson (krukmakare, f. 1884)"
+  ]
+ },
+ {
+  "id": "a_gunnar_1910",
+  "name": "Gunnar Andersson (f. 1910)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Erik Martin Andersson; f. 1910 i Arvika landsförsamling.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1910 Arvika landsförsamling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   }
+  ],
+  "search": [
+   "Gunnar Andersson (f. 1910)"
+  ]
+ },
+ {
+  "id": "a_ragnar_1911",
+  "name": "Ragnar Andersson (f. 1911)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1911",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Erik Martin Andersson; f. 1911 i Arvika landsförsamling.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1911 Arvika landsförsamling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   }
+  ],
+  "search": [
+   "Ragnar Andersson (f. 1911)"
+  ]
+ },
+ {
+  "id": "a_gertrud_helena_1914",
+  "name": "Gertrud Helena Andersson (f. 1914)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1914",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Erik Martin Andersson; f. 1914 i Arvika landsförsamling.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1914 Arvika landsförsamling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   }
+  ],
+  "search": [
+   "Gertrud Helena Andersson (f. 1914)"
+  ]
+ },
+ {
+  "id": "a_anders_johan_1918",
+  "name": "Anders Johan Andersson (f. 1918)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1918",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Erik Martin Andersson; f. 1918 i Arvika landsförsamling.",
+  "notes": [
+   "FOLKRÄKNING 1930: i föräldrahushållet, f. 1918 Arvika landsförsamling."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 36: Hulda Karolina f. Zetterlund 1887 Brunskog, gift 1910 med krukmakaren Erik Martin Andersson f. 1884 Hallen; barn Gunnar 1910, Ragnar 1911, Gertrud Helena 1914, Anders Johan 1918",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795181&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Johan Andersson (f. 1918)"
+  ]
+ },
+ {
+  "id": "a_erik_harry_1911",
+  "name": "Erik Harry Andersson (f. 1911)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1911",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Signe Amalia Zetterlund (änka Andersson); f. 1911 i Arvika landsförsamling; far (Andersson) död 1916 enligt 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården sida 93 rad 1: i hushållet hos Signe Amalia Andersson Zetterlund, f. 1911."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 1: Signe Amalia Andersson Zetterlund 1889 Brunskog, sömmerska, änka sedan 1916, ”f. Zetterlund”; barn Erik Harry 1911, Elsa Maria 1912, Ellen Signe Magdalena 1914, Gunhild 1916",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795146&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Harry Andersson (f. 1911)"
+  ]
+ },
+ {
+  "id": "a_elsa_maria_1912",
+  "name": "Elsa Maria Andersson (f. 1912)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1912",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Signe Amalia Zetterlund (änka Andersson); f. 1912 i Arvika landsförsamling; far (Andersson) död 1916 enligt 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården sida 93 rad 1: i hushållet hos Signe Amalia Andersson Zetterlund, f. 1912."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 1: Signe Amalia Andersson Zetterlund 1889 Brunskog, sömmerska, änka sedan 1916, ”f. Zetterlund”; barn Erik Harry 1911, Elsa Maria 1912, Ellen Signe Magdalena 1914, Gunhild 1916",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795146&tab=post"
+   }
+  ],
+  "search": [
+   "Elsa Maria Andersson (f. 1912)"
+  ]
+ },
+ {
+  "id": "a_ellen_signe_magdalena_1914",
+  "name": "Ellen Signe Magdalena Andersson (f. 1914)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1914",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Signe Amalia Zetterlund (änka Andersson); f. 1914 i Arvika landsförsamling; far (Andersson) död 1916 enligt 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården sida 93 rad 1: i hushållet hos Signe Amalia Andersson Zetterlund, f. 1914."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 1: Signe Amalia Andersson Zetterlund 1889 Brunskog, sömmerska, änka sedan 1916, ”f. Zetterlund”; barn Erik Harry 1911, Elsa Maria 1912, Ellen Signe Magdalena 1914, Gunhild 1916",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795146&tab=post"
+   }
+  ],
+  "search": [
+   "Ellen Signe Magdalena Andersson (f. 1914)"
+  ]
+ },
+ {
+  "id": "a_gunhild_1916",
+  "name": "Gunhild Andersson (f. 1916)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1916",
+   "place": "Arvika landsförsamling"
+  },
+  "places": [
+   "Arvika landsförsamling"
+  ],
+  "summary": "Barn till Signe Amalia Zetterlund (änka Andersson); f. 1916 i Arvika landsförsamling; far (Andersson) död 1916 enligt 1930.",
+  "notes": [
+   "FOLKRÄKNING 1930 Arvika landsf., Ålgården sida 93 rad 1: i hushållet hos Signe Amalia Andersson Zetterlund, f. 1916."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Arvika landsförsamling, Ålgården, sida 93 rad 1: Signe Amalia Andersson Zetterlund 1889 Brunskog, sömmerska, änka sedan 1916, ”f. Zetterlund”; barn Erik Harry 1911, Elsa Maria 1912, Ellen Signe Magdalena 1914, Gunhild 1916",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128795146&tab=post"
+   }
+  ],
+  "search": [
+   "Gunhild Andersson (f. 1916)"
+  ]
+ },
+ {
+  "id": "wendela_olivia_nilsson_z",
+  "name": "Wendela Olivia Nilsson (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Flisby, Jönköpings län"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Hustru (gift 1919) till Nils Gustav Zetterlund; f. 1900 i Flisby.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Edane: ”Nilsson, Wendela Olivia, f. 1900 i Flisby Jönköpings län” hustru; vigselår 1919."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Edane, sida 45 rad 32: Nils Gustav Zetterlund f. 1892 Brunskog, stationskarl, gift 1919, hustru Wendela Olivia Nilsson f. 1900 Flisby, barn Inga-Brita 1920, Rut Anne-Maria 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128884937&tab=post"
+   }
+  ],
+  "search": [
+   "Wendela Olivia Nilsson (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_inga_brita_ng",
+  "name": "Inga-Brita Zetterlund (f. 1920)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1920",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn till Nils Gustav Zetterlund och Wendela Olivia Nilsson; f. 1920 i Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Edane sida 45: i hushållet, f. 1920 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Edane, sida 45 rad 32: Nils Gustav Zetterlund f. 1892 Brunskog, stationskarl, gift 1919, hustru Wendela Olivia Nilsson f. 1900 Flisby, barn Inga-Brita 1920, Rut Anne-Maria 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128884937&tab=post"
+   }
+  ],
+  "search": [
+   "Inga-Brita Zetterlund (f. 1920)"
+  ]
+ },
+ {
+  "id": "z_rut_anne_maria_ng",
+  "name": "Rut Anne-Maria Zetterlund (f. 1926)",
+  "status": "strong",
+  "sex": "f",
+  "living": true,
+  "born": {
+   "date": "1926",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Brunskog"
+  ],
+  "summary": "Barn till Nils Gustav Zetterlund och Wendela Olivia Nilsson; f. 1926 i Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1930 Brunskog, Edane sida 45: i hushållet, f. 1926 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Edane, sida 45 rad 32: Nils Gustav Zetterlund f. 1892 Brunskog, stationskarl, gift 1919, hustru Wendela Olivia Nilsson f. 1900 Flisby, barn Inga-Brita 1920, Rut Anne-Maria 1926",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128884937&tab=post"
+   }
+  ],
+  "search": [
+   "Rut Anne-Maria Zetterlund (f. 1926)"
+  ]
+ },
+ {
+  "id": "olof_johannesson_1868_al",
+  "name": "Olof Johannesson (f. 1868, torpare Säfvelskog)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1868",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Torpare i Säfvelskog, Brunskog; 1910 hushållsföreståndare med Anna Lydia Sätterlund (f. 1876) och sex barn.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25 rad 3: ”Johannesson, Olof, f. 1868 i Brunskog, Torpare”, fam. nr 1; därefter Anna Lydia Sätterlund (utan efternamnsändring) och barn – förhållandet make/hustru ej uttryckligt angivet (inga familjeställningskolumner i indexet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Olof Johannesson (f. 1868, torpare Säfvelskog)"
+  ]
+ },
+ {
+  "id": "al_johan_emanuel_1896",
+  "name": "Johan Emanuel (f. 1896), son till Anna Lydia Sätterlund",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1896 Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1896 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Johan Emanuel (f. 1896), son till Anna Lydia Sätterlund"
+  ]
+ },
+ {
+  "id": "al_anna_helena_1901",
+  "name": "Anna Helena Johannesson (f. 1901)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1901",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1901 Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1901 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Helena Johannesson (f. 1901)"
+  ]
+ },
+ {
+  "id": "al_david_verner_1903",
+  "name": "David Verner Johannesson (f. 1903)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1903",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1903 Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1903 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "David Verner Johannesson (f. 1903)"
+  ]
+ },
+ {
+  "id": "al_signe_karolina_1905",
+  "name": "Signe Karolina Johannesson (f. 1905)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1905",
+   "place": "Södra Ny"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1905 Södra Ny.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1905 Södra Ny."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Signe Karolina Johannesson (f. 1905)"
+  ]
+ },
+ {
+  "id": "al_emma_ingeborg_1907",
+  "name": "Emma Ingeborg Johannesson (f. 1907)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1907",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1907 Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1907 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Emma Ingeborg Johannesson (f. 1907)"
+  ]
+ },
+ {
+  "id": "al_erik_sigfrid_1910",
+  "name": "Erik Sigfrid Johannesson (f. 1910)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Säfvelskog, Brunskog"
+  ],
+  "summary": "Barn i hushållet hos Anna Lydia Sätterlund och torparen Olof Johannesson, Säfvelskog; f. 1910 Brunskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Säfvelskog sida 25: i fam. nr 1, f. 1910 Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Säfvelskog, sida 25 rad 3: fam. nr 1 torparen Olof Johannesson f. 1868, Sätterlund, Anna Lydia f. 1876 Brunskog, Johan Emanuel 1896, Anna Helena 1901, David Verner 1903, Signe Karolina 1905, Emma Ingeborg 1907, Erik Sigfrid 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549752&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Sigfrid Johannesson (f. 1910)"
+  ]
+ },
+ {
+  "id": "z_erik_gustaf_d",
+  "name": "Erik Gustaf Sätterlund/Zetterlund (f. 1908)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "Stora Kil"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Son till David Emanuel Sätterlund (Zetterlund) och Anna Maria Gustafsson; f. 1908 i Stora Kil; ej med i hushållet 1930.",
+  "notes": [
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad station sida 17 rad 14: ”Erik Gustaf, f. 1908 i Stora Kil” i Davids hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad station, sida 17 rad 14: Sätterlund, David Emanuel f. 1881 Brunskog, stationskarl e.o., hustru Anna Maria Gustafsson 1884, Erik Gustaf 1908, Astrid Maria 1910",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655092&tab=post"
+   }
+  ],
+  "search": [
+   "Erik Gustaf Sätterlund/Zetterlund (f. 1908)"
+  ]
+ },
+ {
+  "id": "anna_charlotta_nilsson_z",
+  "name": "Anna Charlotta Nilsson (g. Zetterlund)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1883",
+   "place": "Nor"
+  },
+  "places": [
+   "Stora Kil",
+   "Eda"
+  ],
+  "summary": "Hustru (gift 1903) till stationskarlen Johan Albert Efraim Zetterlund; f. 1883 i Nor.",
+  "notes": [
+   "FOLKRÄKNING 1910 Stora Kil: ”Nilsson, Anna Charlotta, f. 1883 i Nor” hustru; 1930 Eda: samma, vigselår 1903."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad Station, sida 17 rad 19: Zetterlund, Johan Albert Efraim f. 1878 Sicklaö, stationskarl, gift; hustru Anna Charlotta Nilsson f. 1883 Nor, dotter Anna Margareta 1910 Karlstad, piga Emma Kristina Nilsson 1893 Nor",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655097&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Eda, Åmotsfors järnvägsstation, sida 72 rad 1: Zetterlund, Johan Albert Efraim 1878 Sicklaö, stationskarl, gift 1903, hustru Anna Charlotta Nilsson 1883 Nor (inhyses: Johansson, Skallman)",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_128986173&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Charlotta Nilsson (g. Zetterlund)"
+  ]
+ },
+ {
+  "id": "z_anna_margareta_e",
+  "name": "Anna Margareta Zetterlund (f. 1910)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "Karlstad"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Dotter till Johan Albert Efraim Zetterlund och Anna Charlotta Nilsson; f. 1910 i Karlstad.",
+  "notes": [
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station sida 17: ”Anna Margareta, f. 1910 i Karlstad” i Efraims hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad Station, sida 17 rad 19: Zetterlund, Johan Albert Efraim f. 1878 Sicklaö, stationskarl, gift; hustru Anna Charlotta Nilsson f. 1883 Nor, dotter Anna Margareta 1910 Karlstad, piga Emma Kristina Nilsson 1893 Nor",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655097&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Margareta Zetterlund (f. 1910)"
+  ]
+ },
+ {
+  "id": "emma_kristina_nilsson_1893",
+  "name": "Emma Kristina Nilsson (f. 1893 Nor)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1893",
+   "place": "Nor"
+  },
+  "places": [
+   "Stora Kil"
+  ],
+  "summary": "Piga 1910 i Efraim Zetterlunds hushåll; f. 1893 i Nor, samma födelseort och efternamn som hustrun Anna Charlotta – troligen hennes syster.",
+  "notes": [
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station: ”Nilsson, Emma Kristina, f. 1893 i Nor, Piga” i Efraim Zetterlunds hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Stora Kil, Frykstad Station, sida 17 rad 19: Zetterlund, Johan Albert Efraim f. 1878 Sicklaö, stationskarl, gift; hustru Anna Charlotta Nilsson f. 1883 Nor, dotter Anna Margareta 1910 Karlstad, piga Emma Kristina Nilsson 1893 Nor",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_126655097&tab=post"
+   }
+  ],
+  "search": [
+   "Emma Kristina Nilsson (f. 1893 Nor)"
+  ]
+ },
+ {
+  "id": "anna_brunzell_1869",
+  "name": "Anna Brunzell (f. 1869 Mångskog), g. Persson",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1869",
+   "place": "Mångskog"
+  },
+  "places": [
+   "Skog, Brunskog"
+  ],
+  "summary": "Andra hustru (gift 1906) till Olof Persson, Skog (Dernere); f. 1869 i Mångskog.",
+  "notes": [
+   "FOLKRÄKNING 1910 Brunskog, Skog sida 16 rad 26: ”Brunzell, Anna, f. 1869 i Mangskog” i Olof Perssons hushåll direkt efter honom; Olof gift 2:a gången 1906 enligt husförhör A II a/1."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog, Skog, sida 16 rad 26: Olof Persson f. 1854 hemmansägare, Brunzell, Anna f. 1869 Mangskog, Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549356&tab=post"
+   }
+  ],
+  "search": [
+   "Anna Brunzell (f. 1869 Mångskog), g. Persson"
   ]
  }
 ]
