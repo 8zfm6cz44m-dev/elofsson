@@ -21631,7 +21631,8 @@
   "notes": [
    "HUSFÖRHÖR Brunskog A I/23 bild 135 (s.123), Ö. Takene, nr 13: ”Son Anders” 30/8 48 Brskog efter ”Son Nils” 30/8 44 Boda; hushållet inflyttat ”Frykerud d. 47”.",
    "DOP Brunskog C I/5 bild 27 (s.32): ”Anders | Ö. Takene: Anders Elofsson g. Stina Nilsdr”, faddrar Nils Andersson g. Marit Elofsdotter ibm, Jan Elofsson g. Maria Persdotter ibm (Marit Elofsdotter och Jan Elofsson = Anders egna syskon?, ej verifierat).",
-   "W2: Grava (SE/VA/13155) husförhör 1871–75 = A I/20 C0037387 (441 bilder) och A I/21 C0037388 (452 bilder; verkar vara olika byar, bild 8 = ”Slodene”); ingen byförteckning hittad, ej genomsökt. Grava B/2 (utflytt/inflytt 1847–60) C0037398 slutar 1860. Ellis Island-sökning (statueofliberty.org, Andersson/Anders + Brunskog/Grava/Karlstad) gav inga identifierbara träffar (endast ankomster 1895–1923: Anders Anderson, Grafva 5 april 1907; Andrew Anderson, Karlstad 25 sep 1895 – ej kopplade, lead-nivå utan födelsedatum)."
+   "W2: Grava (SE/VA/13155) husförhör 1871–75 = A I/20 C0037387 (441 bilder) och A I/21 C0037388 (452 bilder; verkar vara olika byar, bild 8 = ”Slodene”); ingen byförteckning hittad, ej genomsökt. Grava B/2 (utflytt/inflytt 1847–60) C0037398 slutar 1860. Ellis Island-sökning (statueofliberty.org, Andersson/Anders + Brunskog/Grava/Karlstad) gav inga identifierbara träffar (endast ankomster 1895–1923: Anders Anderson, Grafva 5 april 1907; Andrew Anderson, Karlstad 25 sep 1895 – ej kopplade, lead-nivå utan födelsedatum).",
+   "AN4 folkräkningssök: Anders Andersson f. 1848 med födelseförsamling Brunskog finns i 9 poster 1880–1930: Ullerud (1880 ogift handlande; 1890; 1900; 1910; 1930), Spångedal 1880, Slorud 1880, Mölnerud 1910, Mangskog 1900. Ingen anger ”Grava” 1872 (folkräkning ger ej flyttdatum) eller födelsedag 30/8. Ingen folkräkning 1880–1910 visar Anders f. 1848 Brunskog boende i Grava (Grava 1880: Anders f. 1848 i Grava resp. Alster – andra personer). Enda Grava-koppling: Ullerud-mannens 1930-post ”inflyttad från Grava 1923”. Slutsats: oavgjort, aa48_ullerud (ogift 1880, handlare) är kandidat men oviss; Spångedal/Slorud/Mölnerud 1880–1910 är gifta bosatta i Brunskog och därmed osannolika."
   ],
   "sources": [
    {
@@ -23649,7 +23650,8 @@
    "FOLKRÄKNING 1880 Nedre Ullerud, Risäter, sida 52 rad 12: ”Andersson, Anders, f. 1848 i Brunskog, Handlande, Ogift”.",
    "FOLKRÄKNING 1890 Nedre Ullerud, Risätter, sida 46 rad 13: Gårdfarihandlande, gift; Nilsdotter, Mathilda f. 1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud.",
    "FOLKRÄKNING 1900 Tjusbol, sida 53 rad 35: gårdfarihandlande; Matilda; Hulda Maria 1888; Hjalmar Paulinus 1891.",
-   "FOLKRÄKNING 1910 Tjusbol, sida 71 rad 7: Gårdfarihandlare, Änka/Änkling, ensamstående. 1930 sida 72 rad 48: Änkling (upplösningsår 1904), Inflyttningsår 1923, Inflyttad från Grava."
+   "FOLKRÄKNING 1910 Tjusbol, sida 71 rad 7: Gårdfarihandlare, Änka/Änkling, ensamstående. 1930 sida 72 rad 48: Änkling (upplösningsår 1904), Inflyttningsår 1923, Inflyttad från Grava.",
+   "AN4 verifierad läsning av folkräkningsposterna: 1880 Risäter s.52 r.12 ogift handlande; 1890 Risätter s.46 r.13 gårdfarihandlande, g.; Nilsdotter, Mathilda f.1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud; 1900 Tjusbol s.53 r.35 + Hjalmar Paulinus 1891 Nedre Ullerud; 1910 Tjusbol s.71 r.7 änkling; 1930 s.72 r.48 änkling, gårdfarihandlare. Ingen post anger Grava före 1923 eller dag 30/8. Familjeställning: Gift 1890; födelseförsamling Brunskog. Hustruns son Johan Fredrik f. 1883 Gräsmark (före giftermålet?)."
   ],
   "sources": [
    {
@@ -23670,6 +23672,22 @@
    },
    {
     "label": "Riksarkivet, Folkräkning 1930 (Nedre Ullerud Tjusbol): Anders f. 1848 Brunskog, inflyttad från Grava 1923, änkling 1904",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128612748&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Nedre Ullerud Risätter s.46 r.13: Anders f. 1848 Brunskog, Gårdfarihandlande, gift; Mathilda Nilsdotter 1853 Gräsmark",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103500648&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Nedre Ullerud Tjusbol s.53 r.35",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_110650041&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Tjusbol s.71 r.7",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_126689432&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Tjusbol s.72 r.48 (inflyttad Grava 1923)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128612748&tab=post"
    }
   ],
@@ -26138,6 +26156,116 @@
   ],
   "search": [
    "Gurli Elsa Maria Emanuelsson (f. 1920, Frykerud)"
+  ]
+ },
+ {
+  "id": "aa48_slorud",
+  "name": "Anders Andersson (Ax) (f. 1848 Brunskog, inhyses Slorud 1880)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Slorud, Brunskog"
+  ],
+  "summary": "Anders Andersson (Ax) f. 1848 i Brunskog, inhyses Slorud 1880, g. Anna Henriksdotter f. 1854; ej styrkt identitet med anders_ae48 (hustrun/barnen stämmer inte med inget känt).",
+  "notes": [
+   "FOLKRÄKNING 1880 Brunskogs moder, Slorud, sida 17 rad 40: ”Andersson Ax, Anders, f. 1848 i Brunskog, Inhyses”, gift; ”Henriksdotter, Anna, f. 1854 i Brunskog”; Anna f. 1878; Karolina f. 1880 (alla Brunskog)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskogs moder, Slorud, s. 17 r. 40: Anders f. 1848 Brunskog, Inhyses; Anna Henriksdotter 1854; Anna 1878; Karolina 1880",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422674&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (Ax) (f. 1848 Brunskog, inhyses Slorud 1880)"
+  ]
+ },
+ {
+  "id": "aa48_mangskog",
+  "name": "Anders Andersson (f. 1848 Brunskog, ogift, Åstenäs, Mangskog 1900)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Brunskog"
+  },
+  "places": [
+   "Åstenäs, Mangskog"
+  ],
+  "summary": "Anders Andersson f. 1848 i Brunskog, ogift ”Eg.”, hushåll Åstenäs, Mangskog 1900 hos Kajsa Andersdotter f. 1821 Mangskog (troligen ej hans mor – modern var Stina Nilsdotter). Ej styrkt identitet med anders_ae48.",
+  "notes": [
+   "FOLKRÄKNING 1900 Mangskog (Jösse), Åstenäs, sida 33 rad 20: ”Andersson, Anders, f. 1848 i Brunskog, Eg.”, ogift, familjeställning ”og.”, famstkod Barn; hushåll fam. 1: Andersdotter, Kajsa f. 1821 i Mangskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Mangskog, Åstenäs, s. 33 r. 20: Anders f. 1848 Brunskog, Eg., ogift, famstkod Barn; Kajsa Andersdotter 1821 Mangskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109942316&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1848 Brunskog, ogift, Åstenäs, Mangskog 1900)"
+  ]
+ },
+ {
+  "id": "aa48_grava1880_lead",
+  "name": "Anders Andersson (f. 1848 i Grava; inhyses Grava 1880) – EJ identisk",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Grava"
+  },
+  "places": [
+   "Sundstad, Grava"
+  ],
+  "summary": "Anders Andersson f. 1848 i GRAVA (ej Brunskog), inhyses Sundstad Grava 1880, g. Lovisa Jonsdotter f. 1852 Frykerud. Födelseförsamling Grava utesluter identitet med anders_ae48 (f. Brunskog); dokumenteras bara för att undvika sammanblandning.",
+  "notes": [
+   "FOLKRÄKNING 1880 Grava, Sundstad, sida 57 rad 9: ”Andersson, Anders, f. 1848 i Grava, Inhyses”, gift; Lovisa Jonsdotter f. 1852 Frykerud; Gustaf Adolf f. 1877 Kil. Annan: Anders Fredrik Andersson f. 1848 i Alster, inhyses Botorp, Grava 1880 – också ej Brunskog."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Grava, Sundstad, s. 57 r. 9: Anders f. 1848 Grava; Lovisa Jonsdotter 1852 Frykerud",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119263511&tab=post"
+   }
+  ],
+  "search": [
+   "Anders Andersson (f. 1848 i Grava; inhyses Grava 1880) – EJ identisk"
+  ]
+ },
+ {
+  "id": "brita_kajsa_andersdotter_1880",
+  "name": "Britta Kajsa Andersdotter (Stridsberg), Hanvik 1880",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1810",
+   "place": "Segerstad"
+  },
+  "places": [
+   "Hanvik, Segerstad"
+  ],
+  "summary": "Folkräkning 1880: Britta Kajsa Andersdotter f. 1810 i Segerstad, fattighjon, FRÅNSKILD, ensam i hushållet, Hanvik (Segerstads annex). Troligen = Brita Kajsa Stridsberg (f. 17/6 1810); identiteten på namn+år+födelseort; ingen familjeställning angiven.",
+  "notes": [
+   "FOLKRÄKNING 1880 Segerstads annex, Hanvik, sida 22 rad 32: ”Andersdotter, Britta Kajsa, f. 1810 i Segerstad, Fattighjon”, civilstånd ”Frånskild”; fam. nr 1 endast hon (inga barn i hushållet).",
+   "Notera civilstånd ”frånskild” (maken Anders Persson, f. 1811 Ed).",
+   "LEAD: Kajsa Andersdotter f. 1810 i Segerstad, änka, Rud (Segerstads annex): 1880 inhyses s.16 r.14 (Folk_119271567); 1890 understödshjon s.13 r.48 (Folk_103513798); 1900 Rudshaget, fattighjon s.13 r.21 (Folk_108735027) – möjligen samma kvinna (”änka” kan vara fel/ändrat civilstånd), ej styrkt."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Segerstads annex, Hanvik, s. 22 r. 32: Britta Kajsa Andersdotter f. 1810 Segerstad, Fattighjon, Frånskild",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119271879&tab=post"
+   }
+  ],
+  "search": [
+   "Britta Kajsa Andersdotter (Stridsberg), Hanvik 1880"
   ]
  }
 ]
