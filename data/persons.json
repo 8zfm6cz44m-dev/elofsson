@@ -656,7 +656,8 @@
    "Takene skola 1934–35: ”Göran Andersson” nr 20, Där Nole i Skog.",
    "Jöran Nolemark: kamrer och författare till avsnittet om Wermlands enskilda bank i En bok om Filipstad (1961).",
    "Alternativ kandidat som make till Anna Arvidsson (endast ålder och familjekrets).",
-   "FOLKRÄKNING 1930 Skog: 'Arvid Göran, f. 1921 i Brunskog' i Karl August Anderssons hushåll (barn). Namnet Göran/Jöran = Arvid Göran; födelsedag 6 aug 1921 enligt hembygdsregistret."
+   "FOLKRÄKNING 1930 Skog: 'Arvid Göran, f. 1921 i Brunskog' i Karl August Anderssons hushåll (barn). Namnet Göran/Jöran = Arvid Göran; födelsedag 6 aug 1921 enligt hembygdsregistret.",
+   "Folkräkning 1930 Brunskog s.15 rad 15 (Folk_128883447): Arvid Göran Andersson f. 1921 Brunskog, ”s.” hos Karl August Andersson/Hanna Elisabet Augustsson – kandidat för identitet med Göran Nolemark."
   ],
   "sources": [
    {
@@ -15591,7 +15592,7 @@
  {
   "id": "arvid_emanuel_nilsson",
   "name": "Arvid Emanuel Nilsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24579,7 +24580,7 @@
  {
   "id": "z_nils_gustaf",
   "name": "Nils Gustaf Johannesson (Sätterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24618,7 +24619,7 @@
  {
   "id": "z_karl_teodor",
   "name": "Karl Teodor Johannesson (Sätterlund)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24710,7 +24711,7 @@
  {
   "id": "ol_johan_efraim_1890",
   "name": "Johan Efraim Olsson (f. 1890, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24740,7 +24741,7 @@
  {
   "id": "ol_gerda_elisabet_1893",
   "name": "Gerda Elisabet Olsson (f. 1893, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24770,7 +24771,7 @@
  {
   "id": "ol_nils_arvid_1896",
   "name": "Nils Arvid Olsson (f. 1896, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -24800,7 +24801,7 @@
  {
   "id": "astrid_maria_1904",
   "name": "Astrid Maria Eriksson (f. 1904)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24850,7 +24851,7 @@
  {
   "id": "anna_gertrud_1909",
   "name": "Anna Gärtrude Eriksson (f. 1909)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24875,7 +24876,7 @@
  {
   "id": "hulda_elisabet_1911",
   "name": "Hulda Elisabet Eriksson (f. 1911)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -24900,7 +24901,7 @@
  {
   "id": "rut_margit_1914",
   "name": "Rut Margit Eriksson (f. 1914)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25095,7 +25096,7 @@
  {
   "id": "hanna_kristina_johansson_1911",
   "name": "Hanna Kristina Johansson",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -25187,7 +25188,7 @@
  {
   "id": "ak3_paul_werner_olsson_1901",
   "name": "Paul Werner Olofsson (f. 1901, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25215,7 +25216,7 @@
  {
   "id": "ak3_anders_ragnar_olsson_1907",
   "name": "Anders Ragnar Olofsson (f. 1907, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25243,7 +25244,7 @@
  {
   "id": "ak3_ida_kristina_olsson_1909",
   "name": "Ida Kristina Olofsdotter (f. 1909, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -27005,7 +27006,7 @@
  {
   "id": "hulda_aj91",
   "name": "Hulda Maria Jansson (f. 1891, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27033,7 +27034,7 @@
  {
   "id": "annakristina_aj93",
   "name": "Anna Kristina Jansson (f. 1893, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27061,7 +27062,7 @@
  {
   "id": "johanalbin_aj95",
   "name": "Johan Albin Jansson (f. 1895, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27089,7 +27090,7 @@
  {
   "id": "hildur_aj97",
   "name": "Hildur Karolina Jansson (g. Wiman, f. 1897, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27121,7 +27122,7 @@
  {
   "id": "anders_herbert_aj01",
   "name": "Anders Herbert Jansson (f. 1901, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27149,7 +27150,7 @@
  {
   "id": "karlaugust_aj05",
   "name": "Karl August Jansson (f. 1905, Wikene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn i August Janssons (f. 1862) hushåll i Wikene, Brunskog; födelseår ur folkräkning.",
@@ -27871,7 +27872,7 @@
  {
   "id": "olofgunnar_jo97",
   "name": "Olof Gunnar Olsson (f. 1897)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266). Olof Gunnar finns även i folkräkning 1900 Ö. Takene.",
@@ -27905,7 +27906,7 @@
  {
   "id": "johangottfrid_jo04",
   "name": "Johan Gottfrid Olsson (f. 1904)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Barn till Johan Olsson (Olofsson) f. 1850 och Anna Nilsson f. 1870 enligt folkräkning 1910 (Arvika köping N:o 266).",
@@ -29025,7 +29026,7 @@
  {
   "id": "alma_karolina_oa96",
   "name": "Alma Karolina Olofsdotter/Andersdotter (f. 1896)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29188,7 +29189,7 @@
  {
   "id": "elin_charlotta_pa91",
   "name": "Elin Charlotta (f. 1891, hushåll Emil Persson 1900)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29215,7 +29216,7 @@
  {
   "id": "olof_adolf_pa93",
   "name": "Olof Adolf Persson (f. 1893)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -29242,7 +29243,7 @@
  {
   "id": "sofia_karolina_pa95",
   "name": "Sofia Karolina Persson (f. 1895)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29273,7 +29274,7 @@
  {
   "id": "alma_amalia_pa97",
   "name": "Alma Amalia Persson (f. 1897)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29304,7 +29305,7 @@
  {
   "id": "hilma_alfrida_pa00",
   "name": "Hilma Alfrida Persson (f. 1900)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29335,7 +29336,7 @@
  {
   "id": "jenny_frideborg_pa05",
   "name": "Jenny Frideborg Persson (f. 1905)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29393,7 +29394,7 @@
  {
   "id": "anna_amalia_jp91",
   "name": "Anna Amalia Johannesdotter (f. 1891)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -29424,7 +29425,7 @@
  {
   "id": "olof_arvid_jp93",
   "name": "Olof Arvid Johannesson (f. 1893)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
