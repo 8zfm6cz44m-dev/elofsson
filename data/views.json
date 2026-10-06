@@ -1936,6 +1936,18 @@
    "ak3_ida_kristina_olsson_1909": [
     -28.5,
     2
+   ],
+   "fr_palmansson_rorbacken": [
+    41.5,
+    -4
+   ],
+   "fr_elinnilsd_rorbacken": [
+    42.5,
+    -4
+   ],
+   "fr_britapalsd_rorbacken": [
+    41.5,
+    -3
    ]
   },
   "groups": []
@@ -2362,151 +2374,151 @@
     11.5,
     5.4
    ],
-   "anna_nilsson_takene_1939": [
+   "d7_anders_sylvander": [
     0.0,
     7.4
    ],
-   "per_persson91_renstad": [
+   "d7_anna_maria_olofsdotter_1874": [
     1.2,
     7.4
    ],
-   "no_torsten_nielsen13": [
+   "tommy_johansson": [
     2.4,
+    7.4
+   ],
+   "d7_gustaf_svensson_takene": [
+    3.5999999999999996,
+    7.4
+   ],
+   "britta_persd_lerboda92": [
+    4.8,
     7.4
    ],
    "backer_j_takene": [
-    3.5999999999999996,
-    7.4
-   ],
-   "d7_maria_olsdotter_takene_enka": [
-    4.8,
-    7.4
-   ],
-   "per_nilsson28_skog": [
     6.0,
     7.4
    ],
-   "hencel_augustyn_1820": [
+   "olof_olsson_takene_1896": [
     7.199999999999999,
     7.4
    ],
-   "jon_borjesson_asen": [
+   "borje_persson_asen": [
     8.4,
     7.4
    ],
-   "olof_andersson60_lerhol": [
+   "ivar_nilson_takene_usa": [
     9.6,
     7.4
    ],
-   "hencel_jan_1820": [
+   "bengt_backdahl": [
     10.799999999999999,
     7.4
    ],
-   "d7_jonte_skogsberg_1873": [
+   "d7_hulda_maria_olofsdotter_1880": [
     12.0,
     7.4
    ],
-   "d7_nils_olofsson_lyckan_svartana": [
+   "no_ole_danielsen40": [
     13.2,
     7.4
    ],
-   "no_mons_andersen15": [
+   "eric_h_erikson_1902": [
     14.399999999999999,
     7.4
    ],
-   "mathilda_nilsd53_gras": [
+   "folke_kilhage": [
     15.6,
     7.4
    ],
-   "nils_olsson90_lerhol": [
+   "mikael_backdahl": [
     0.0,
     8.4
    ],
-   "borje_persson_asen": [
+   "jon_borjesson_asen": [
     1.2,
-    8.4
-   ],
-   "ei_johan_olaf_olsson_1923": [
-    2.4,
-    8.4
-   ],
-   "c3_marit_larsd92_toltan": [
-    3.5999999999999996,
     8.4
    ],
    "ingel_toltan93": [
+    2.4,
+    8.4
+   ],
+   "stefania_uchman": [
+    3.5999999999999996,
+    8.4
+   ],
+   "d7_sylvander_johan": [
     4.8,
     8.4
    ],
-   "d7_arvid_adolf_leander_persson": [
+   "olof_andersson60_lerhol": [
     6.0,
     8.4
    ],
-   "no_maria_pedersd24": [
+   "knut_olofsson_takene": [
     7.199999999999999,
     8.4
    ],
-   "erik_j_erikson_1903": [
+   "karl_backdahl": [
     8.4,
     8.4
    ],
-   "isak_l_toltan": [
+   "olof_olofsson87_lerhol": [
     9.6,
     8.4
    ],
-   "sven_nilsson_gonas_d95": [
+   "elin_tortan91": [
     10.799999999999999,
     8.4
    ],
-   "d7_matilda_nilsson_sylvander": [
+   "d7_anders_andersson_skog_1868": [
     12.0,
     8.4
    ],
-   "jakob_jonsson22_amot": [
+   "sven_nilsson_gonas_d95": [
     13.2,
     8.4
    ],
-   "olof_christophersson89_toltan": [
+   "nels_nelson_mtjewett": [
     14.399999999999999,
     8.4
    ],
-   "aa48_molnerud": [
+   "anna_nilsson_takene_1939": [
     15.6,
     8.4
    ],
-   "oskar_backdahl_2": [
+   "d7_emil_andersson_nolbystegen": [
     0.0,
     9.4
    ],
-   "zebastian_backdahl": [
+   "d7_elin_jonasdotter_skogsberg": [
     1.2,
     9.4
    ],
-   "ernstrom_helena_blomstrom": [
+   "anton_winnipeg_cousin": [
     2.4,
     9.4
    ],
-   "petrus_johansson_strmtorp": [
+   "b4_isak_nilsson_toltan": [
     3.5999999999999996,
     9.4
    ],
-   "karin_olofsd93_lerhol": [
+   "kristofer_hult_fryks": [
     4.8,
     9.4
    ],
-   "olof_olsson_takene_1896": [
+   "hencel_augustyn_1820": [
     6.0,
     9.4
    ],
-   "d7_anders_sylvander": [
+   "andersson_takene_gigharbor": [
     7.199999999999999,
     9.4
    ],
-   "ernstrom_ludvig_sr": [
+   "anna_andersd_lerhol41": [
     8.4,
     9.4
    ],
-   "agata_ksiol": [
+   "d7_sylvander_hulda": [
     9.6,
     9.4
    ],
@@ -2514,359 +2526,359 @@
     10.799999999999999,
     9.4
    ],
-   "karl_backdahl": [
+   "jakob_jonsson22_amot": [
     12.0,
     9.4
    ],
-   "anna_jonsd_skog1689": [
+   "d7_maria_jonasdotter_skogsberg": [
     13.2,
     9.4
    ],
-   "greta_backdahl": [
+   "jennie_backdahl": [
     14.399999999999999,
     9.4
    ],
-   "mikael_backdahl": [
+   "anna_maria_nilsson_karlsson_arvika": [
     15.6,
     9.4
-   ],
-   "d7_sylvander_hulda": [
-    0.0,
-    10.4
-   ],
-   "nils_christophersson_skog": [
-    1.2,
-    10.4
-   ],
-   "no_anders_andersen23": [
-    2.4,
-    10.4
-   ],
-   "bitten_jakobsson": [
-    3.5999999999999996,
-    10.4
-   ],
-   "borje_bryntesson_toltan": [
-    4.8,
-    10.4
-   ],
-   "b4_per_ersson_toltan": [
-    6.0,
-    10.4
-   ],
-   "knut_olofsson_takene": [
-    7.199999999999999,
-    10.4
-   ],
-   "anna_erikson_1903": [
-    8.4,
-    10.4
-   ],
-   "d7_sylvander_nils": [
-    9.6,
-    10.4
-   ],
-   "annastina_backdahl": [
-    10.799999999999999,
-    10.4
-   ],
-   "nils_andersson89_vtortan": [
-    12.0,
-    10.4
-   ],
-   "karin_elofsd44": [
-    13.2,
-    10.4
-   ],
-   "d7_elin_jonasdotter_skogsberg": [
-    14.399999999999999,
-    10.4
-   ],
-   "no_daniel_danielsen25": [
-    15.6,
-    10.4
    ],
    "ludvig_ernstrom_slc": [
     0.0,
-    11.4
+    10.4
    ],
-   "no_olaf_josephsen44": [
+   "d7_olof_persson_svartana_1873": [
     1.2,
-    11.4
+    10.4
    ],
-   "z5_nils_toltan_1715": [
+   "lisbeth_tortan93": [
     2.4,
-    11.4
+    10.4
    ],
-   "b4_lars_ersson_toltan": [
+   "no_niels_andersen08": [
     3.5999999999999996,
-    11.4
+    10.4
    ],
-   "aa48_ullerud": [
+   "anna_jonsd_skog1689": [
     4.8,
-    11.4
+    10.4
    ],
-   "anders_backdahl": [
+   "nils_olsson90_lerhol": [
     6.0,
-    11.4
+    10.4
+   ],
+   "olof_nilsson_asen_mantal": [
+    7.199999999999999,
+    10.4
+   ],
+   "no_torsten_nielsen13": [
+    8.4,
+    10.4
+   ],
+   "oskar_backdahl": [
+    9.6,
+    10.4
+   ],
+   "isak_l_toltan": [
+    10.799999999999999,
+    10.4
+   ],
+   "no_maria_pedersd24": [
+    12.0,
+    10.4
+   ],
+   "ernstrom_helena_blomstrom": [
+    13.2,
+    10.4
+   ],
+   "no_kaisa_ellefsd42": [
+    14.399999999999999,
+    10.4
+   ],
+   "hencel_jan_1820": [
+    15.6,
+    10.4
    ],
    "brynthe_vtortan93": [
-    7.199999999999999,
+    0.0,
     11.4
    ],
-   "ida_backdahl": [
-    8.4,
-    11.4
-   ],
-   "gunnar_kilhage": [
-    9.6,
-    11.4
-   ],
-   "elin_tortan91": [
-    10.799999999999999,
+   "d7_johan_olofsson_1871_skog": [
+    1.2,
     11.4
    ],
    "hagstrom_d_predikant_arvika": [
+    2.4,
+    11.4
+   ],
+   "d7_maria_olsdotter_takene_enka": [
+    3.5999999999999996,
+    11.4
+   ],
+   "z5_nils_palsson12": [
+    4.8,
+    11.4
+   ],
+   "petrus_johansson_strmtorp": [
+    6.0,
+    11.4
+   ],
+   "karin_elofsd44": [
+    7.199999999999999,
+    11.4
+   ],
+   "gunilla_backdahl": [
+    8.4,
+    11.4
+   ],
+   "z5_marit_toltan_1715": [
+    9.6,
+    11.4
+   ],
+   "per_persson91_renstad": [
+    10.799999999999999,
+    11.4
+   ],
+   "greta_backdahl": [
     12.0,
     11.4
    ],
-   "oskar_backdahl": [
+   "christin_tortan91": [
     13.2,
     11.4
    ],
-   "d7_maria_jonasdotter_skogsberg": [
+   "jon_ofortan93": [
     14.399999999999999,
     11.4
    ],
-   "stefania_uchman": [
+   "anders_backdahl": [
     15.6,
     11.4
    ],
-   "nils_svensson_saldebraten": [
+   "erik_j_erikson_1903": [
     0.0,
     12.4
    ],
-   "d7_karl_oskar_olofsson_skog": [
+   "oskar_backdahl_2": [
     1.2,
     12.4
    ],
-   "folke_kilhage": [
+   "d7_jonte_skogsberg_1873": [
     2.4,
     12.4
    ],
-   "d7_johan_olofsson_1871_skog": [
+   "olof_nilsson_skog1689": [
     3.5999999999999996,
     12.4
    ],
-   "b4_mattis_ersson_toltan": [
+   "nils_andersson89_otortan": [
     4.8,
+    12.4
+   ],
+   "per_nilsson28_skog": [
+    6.0,
     12.4
    ],
    "brita_nilsd_lerhol1820": [
-    6.0,
-    12.4
-   ],
-   "no_kaisa_ellefsd42": [
     7.199999999999999,
     12.4
    ],
-   "anna_andersd_lerhol41": [
+   "d7_karl_oskar_olofsson_skog": [
     8.4,
     12.4
    ],
-   "elin_backdahl": [
+   "gunnar_kilhage": [
     9.6,
-    12.4
-   ],
-   "olof_olofsson87_lerhol": [
-    10.799999999999999,
-    12.4
-   ],
-   "no_anna_johannesd58": [
-    12.0,
-    12.4
-   ],
-   "erik_kilhage": [
-    13.2,
-    12.4
-   ],
-   "d7_olof_jansson_1836_svartana": [
-    14.399999999999999,
     12.4
    ],
    "brita_svensd_lerboda94": [
+    10.799999999999999,
+    12.4
+   ],
+   "pal_persson_toltan1700": [
+    12.0,
+    12.4
+   ],
+   "backer_anna_takene": [
+    13.2,
+    12.4
+   ],
+   "d7_britta_maria_nolen": [
+    14.399999999999999,
+    12.4
+   ],
+   "d7_sylvander_anna": [
     15.6,
     12.4
    ],
-   "no_ole_danielsen40": [
+   "anna_erikson_1903": [
     0.0,
     13.4
    ],
-   "bengt_backdahl": [
+   "d7_sylvander_nils": [
     1.2,
     13.4
    ],
-   "johan_olson_takene_usa1899": [
+   "d7_elin_maria_jonasdotter_1886": [
     2.4,
     13.4
    ],
-   "b4_isak_nilsson_toltan": [
+   "britta_olofsd28_amot": [
     3.5999999999999996,
     13.4
    ],
-   "z5_marit_toltan_1715": [
+   "no_anna_johannesd58": [
     4.8,
     13.4
    ],
-   "z5_nils_palsson12": [
+   "no_daniel_danielsen25": [
     6.0,
     13.4
    ],
-   "jon_ofortan93": [
+   "nils_svensson_saldebraten": [
     7.199999999999999,
     13.4
    ],
-   "olof_nilsson_skog1689": [
+   "z5_nils_toltan_1715": [
     8.4,
-    13.4
-   ],
-   "kristofer_hult_fryks": [
-    9.6,
-    13.4
-   ],
-   "gunilla_backdahl": [
-    10.799999999999999,
-    13.4
-   ],
-   "d7_anders_andersson_skog_1868": [
-    12.0,
-    13.4
-   ],
-   "pal_persson_toltan1700": [
-    13.2,
-    13.4
-   ],
-   "d7_anna_maria_olofsdotter_1874": [
-    14.399999999999999,
     13.4
    ],
    "aa48_spangedal": [
+    9.6,
+    13.4
+   ],
+   "c3_marit_larsd92_toltan": [
+    10.799999999999999,
+    13.4
+   ],
+   "b4_mattis_ersson_toltan": [
+    12.0,
+    13.4
+   ],
+   "borje_bryntesson_toltan": [
+    13.2,
+    13.4
+   ],
+   "z5_erik_nilsson_toltan": [
+    14.399999999999999,
+    13.4
+   ],
+   "karin_olofsd93_lerhol": [
     15.6,
     13.4
    ],
-   "nels_nelson_mtjewett": [
+   "no_anders_andersen23": [
     0.0,
+    14.4
+   ],
+   "d7_nils_olofsson_lyckan_svartana": [
+    1.2,
+    14.4
+   ],
+   "ernstrom_ludvig_sr": [
+    2.4,
+    14.4
+   ],
+   "nils_andersson89_vtortan": [
+    3.5999999999999996,
+    14.4
+   ],
+   "elin_backdahl": [
+    4.8,
+    14.4
+   ],
+   "ei_johan_olaf_olsson_1923": [
+    6.0,
+    14.4
+   ],
+   "agata_ksiol": [
+    7.199999999999999,
+    14.4
+   ],
+   "no_mons_andersen15": [
+    8.4,
+    14.4
+   ],
+   "nils_christophersson_skog": [
+    9.6,
     14.4
    ],
    "stanislaw_uchman": [
-    1.2,
-    14.4
-   ],
-   "olof_nilsson_asen_mantal": [
-    2.4,
-    14.4
-   ],
-   "britta_persd_lerboda92": [
-    3.5999999999999996,
-    14.4
-   ],
-   "d7_gustaf_svensson_takene": [
-    4.8,
-    14.4
-   ],
-   "d7_emil_andersson_nolbystegen": [
-    6.0,
-    14.4
-   ],
-   "christin_tortan91": [
-    7.199999999999999,
-    14.4
-   ],
-   "nils_andersson89_otortan": [
-    8.4,
-    14.4
-   ],
-   "z5_erik_nilsson_toltan": [
-    9.6,
-    14.4
-   ],
-   "nils_svensson_lerhol": [
     10.799999999999999,
     14.4
    ],
-   "d7_elin_maria_jonasdotter_1886": [
+   "b4_per_ersson_toltan": [
     12.0,
     14.4
    ],
-   "d7_sylvander_anna": [
+   "ida_backdahl": [
     13.2,
     14.4
    ],
-   "anton_winnipeg_cousin": [
+   "d7_matilda_nilsson_sylvander": [
     14.399999999999999,
     14.4
    ],
-   "jennie_backdahl": [
+   "aa48_ullerud": [
     15.6,
     14.4
    ],
-   "eric_h_erikson_1902": [
+   "aa48_molnerud": [
     0.0,
     15.4
    ],
-   "anna_maria_nilsson_karlsson_arvika": [
+   "annastina_backdahl": [
     1.2,
     15.4
    ],
-   "backer_anna_takene": [
+   "no_anna_ellefsen53": [
     2.4,
     15.4
    ],
-   "d7_britta_maria_nolen": [
+   "b4_lars_ersson_toltan": [
     3.5999999999999996,
     15.4
    ],
-   "d7_olof_persson_svartana_1873": [
+   "olof_christophersson89_toltan": [
     4.8,
     15.4
    ],
-   "lisbeth_tortan93": [
+   "d7_arvid_adolf_leander_persson": [
     6.0,
     15.4
    ],
-   "sven_nilsson_lerboda92": [
+   "no_olaf_josephsen44": [
     7.199999999999999,
     15.4
    ],
-   "no_niels_andersen08": [
+   "erik_kilhage": [
     8.4,
     15.4
    ],
-   "d7_sylvander_johan": [
+   "mathilda_nilsd53_gras": [
     9.6,
     15.4
    ],
-   "andersson_takene_gigharbor": [
+   "sven_nilsson_lerboda92": [
     10.799999999999999,
     15.4
    ],
-   "ivar_nilson_takene_usa": [
+   "johan_olson_takene_usa1899": [
     12.0,
     15.4
    ],
-   "tommy_johansson": [
+   "bitten_jakobsson": [
     13.2,
     15.4
    ],
-   "d7_hulda_maria_olofsdotter_1880": [
+   "nils_svensson_lerhol": [
     14.399999999999999,
     15.4
    ],
-   "britta_olofsd28_amot": [
+   "zebastian_backdahl": [
     15.6,
     15.4
    ],
-   "no_anna_ellefsen53": [
+   "d7_olof_jansson_1836_svartana": [
     0.0,
     16.4
    ]

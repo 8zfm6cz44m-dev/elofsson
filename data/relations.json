@@ -6298,5 +6298,32 @@
   "child": "ak3_nils_basil_andersson_1910",
   "status": "verified",
   "basis": "A II a/3 bild 253 rad 8: ”s. Nils [..] 10 5/10” direkt under Karl August och Hanna Elisabet (familjeställning s.)."
+ },
+ {
+  "id": "c-fr_palmansson_rorbacken-fr_elinnilsd_rorbacken-fr_jonaspalsson",
+  "type": "child",
+  "parents": [
+   "fr_palmansson_rorbacken",
+   "fr_elinnilsd_rorbacken"
+  ],
+  "child": "fr_jonaspalsson",
+  "status": "strong",
+  "basis": "Frykerud A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson”. Ålder ej angiven; identitet med nämndeman Jonas Pålsson d.1759 (48 år) trolig."
+ },
+ {
+  "id": "p-fr_palmansson_rorbacken-fr_elinnilsd_rorbacken",
+  "type": "partner",
+  "a": "fr_palmansson_rorbacken",
+  "b": "fr_elinnilsd_rorbacken",
+  "status": "strong",
+  "basis": "A I/1 C0037102 bild 55: ”Pähl Månsson / H: Elin Nilsdotter”."
+ },
+ {
+  "id": "s-fr_jonaspalsson-fr_britapalsd_rorbacken",
+  "type": "sibling",
+  "a": "fr_jonaspalsson",
+  "b": "fr_britapalsd_rorbacken",
+  "status": "candidate",
+  "basis": "A I/1 C0037102 bild 55: båda i Pål Månssons hushåll (Brita Pålsd, Jonas Pålsson); Britas relation till Pål läst som dotter (H. med måg)."
  }
 ]

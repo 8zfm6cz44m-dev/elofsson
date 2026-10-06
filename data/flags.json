@@ -2587,6 +2587,26 @@
     "n44k_nils72",
     "anna_kajsa_nilsdotter69"
    ]
+  },
+  {
+   "title": "Arvika stad 1911-1920: inga digitaliserade kyrkoböcker hittade i Riksarkivets bildvisning",
+   "text": "Sonderade lbiiif-manifest (webbläsare, same-origin; curl ger 403) för C0036430-C0039800, 00053000-00058000 samt glesa stickprov 00000001-00100000 och 00026000-00037200. Arvika östra stadsförsamling (SE/VA/13012) har endast A I/1-11 husförhör 1826-1895 = C0036472-C0036482 samt personakter A IV d C0029073-74. Arvika västra landsförsamling (13011): A I/1-? C0036446-, B/1 C0036483, B/2 (1861-75) C0036484, C I/1 C0036485 .. C I/10 (1857-64) C0036494, E I/1 (1868-70) C0036495, L I/1-4 C0036496-99. Inga volymer för Arvika efter 1895 (varken födelse-/dopbok 1914-19, församlingsbok eller flyttlängd 1913+) finns bland manifest som går att nå. Troligen ej digitaliserade/publicerade (Värmlandsarkiv). Anna f. 1916 och Valborg f. 1919 kunde därför inte läsas; ingen ny person skapad.",
+   "persons": []
+  },
+  {
+   "title": "Måns Knutssons föräldrar ej funna",
+   "text": "Måns Knutsson (f. 2/10 1711, Lene, d. 11/12 1795) står i A I/6 bild 75 (sid. 56, Lene) som ’M.’ i Olof Såessons/Karin Håkansdotters hushåll – inga föräldrar angivna. A I/6–A I/8 har ingen ’född i’-kolumn. Nästa steg: sök Knut-hushåll med son Måns i A I/1–A I/3 (1725–41), alla byar (Lene-sidan i A I/1 ej lokaliserad: bild 40–57 och 68–78 genomsökta utan träff på Lene; Rörbäcken = bild 55, Klaxås = bild 48–50, Östra Glänna = bild 72, A I/2 b.84).",
+   "persons": [
+    "fr_mansknutsson1711_lene"
+   ]
+  },
+  {
+   "title": "Christopher Svensson f. 1754: far ej funnen",
+   "text": "Dop okt 1754 ej i C/4 bild 84–85; inte i Gönäs/Klaxås A I/6. Sven Nilsson (Gönäs f. 1727) har egna barn Nils 1756/Erik 1759 – troligen ej far.",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "sven_nilsson_gonas_d95"
+   ]
   }
  ],
  "conflicts": [
