@@ -3714,6 +3714,22 @@
     "marcin_zatorski",
     "maryanna_socha"
    ]
+  },
+  {
+   "title": "MyHeritage: Irena->Stefan saknar källa",
+   "text": "I Martins MyHeritage-träd har Irena (1500005) föräldrarna Stefan (1500013) och Zofia (1500014) men ingen källa, note eller bekräftad Record Match hänger på någon av dem som styrker det. Källor-fliken är tom för Irena och Boleslaw. Länkens skapandedatum visas inte i gränssnittet.",
+   "persons": [
+    "irena",
+    "stefan",
+    "zofia"
+   ]
+  },
+  {
+   "title": "Bolesław Kogut 15.1.1915-24.9.1965 (candidate)",
+   "text": "Gravstensregister (MyHeritage, fritt synlig): Bolesław Kogut f. 15.1.1915 d. 24.9.1965, Cmentarz Komunalny Trzcińsko-Zdrój. Möjlig make till Irena. Nästa steg: USC Trzcińsko-Zdrój vigsel/födelse Iwona 1956 (föräldrar), Szukaj w Archiwach, ev. Geneteka Zachodniopomorskie.",
+   "persons": [
+    "boleslaw"
+   ]
   }
  ],
  "conflicts": [
@@ -4246,6 +4262,22 @@
     "anna_bartosinska",
     "jacek_mlodawski",
     "jan_mlodawski"
+   ]
+  },
+  {
+   "title": "Irena Jarczyńska vs Orzechowska",
+   "text": "Gravstensposten (MyHeritage, Polen Gravstenar 1800-2020) ger Irena Jarczyńska f. 6.2.1926, d. 17.3.2017, begravd i Trzcińsko-Zdrój. Geni-posten kallar henne Orzechowska-Jarczynska med syskon Ryszard Orzechowski. Hennes söner heter Orzechowski, döttrarna Kogut. Födelsenamnet Jarczyńska talar mot att Stefan Orzechowski (gift med Zofia 1923) är fadern, om inte namnet förklaras av adoption/andra äktenskap/felskrivning.",
+   "persons": [
+    "irena",
+    "stefan"
+   ]
+  },
+  {
+   "title": "Trädets datum för Stefan och Zofia avviker från akterna",
+   "text": "Martins träd: Stefan f. 7.9.1902 Kielce, Zofia f. 28.6.1904 (utan ort). Verified (Skanoteka): Stefan 7.8.1901 (akt 68), Zofia 17.4.1904 (akt 125). Trädets datum bör rättas av ägaren.",
+   "persons": [
+    "stefan",
+    "zofia"
    ]
   }
  ],

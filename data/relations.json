@@ -12189,5 +12189,13 @@
   "b": "magdalena_pisarzyk",
   "status": "verified",
   "basis": "Vigsel 1832 akt 278: 'Mikołaja i Magdaleny z Pisarzyków Małżonków Osuchów'."
+ },
+ {
+  "id": "p-irena-boleslaw",
+  "type": "partner",
+  "a": "irena",
+  "b": "boleslaw",
+  "status": "lead",
+  "basis": "Martins träd: 'Gift med' Trzcińsko-Zdrój (utan datum eller källa). Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead)."
  }
 ]

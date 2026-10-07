@@ -2845,13 +2845,14 @@
    "Helena Orzechowska (MyHeritage-vy, 1926–2017)"
   ],
   "born": {
-   "date": "1926",
-   "place": "Okänd",
-   "note": "MyHeritage-listan anger Trzcińsko-Zdrój, men orten var tyska Bad Schönfließ till 1945 – hon kan inte vara född där 1926. Troligen anges bosättningsorten. Fadern Stefan och bröderna är födda i Kielce."
+   "date": "1926-02-06",
+   "place": "okänd",
+   "note": "Datum enligt MyHeritage Gravstenar i Polen (Irena Jarczyńska f. 6 feb 1926, d. 17 mar 2017, Cmentarz Komunalny Trzcińsko-Zdrój) – gravregister, ej akt."
   },
   "died": {
-   "date": "2017",
-   "place": "Trzcińsko-Zdrój"
+   "date": "2017-03-17",
+   "place": "Trzcińsko-Zdrój",
+   "note": "Gravstenar i Polen (MyHeritage), begravd Cmentarz Komunalny."
   },
   "summary": "Iwonas mor enligt familjen. Födelseort och föräldrar okända.",
   "flags": [
@@ -2862,7 +2863,12 @@
    "Historiskt namn för Trzcińsko-Zdrój: Bad Schönfließ före 1945. Sök polska och tyska ortnamn.",
    "Användarträdet visar Stefan Orzechowski + Zofia Młodowska ovanför Irena – källkritisk konflikt med födelsenamnet Jarczyńska.",
    "Uteslutna: Irena Jarczyńska, Poznań, ca 1912/13; Irena Jarczyńska, Staroźreby 1926; Helena Orzechowska 1925–2006.",
-   "Polenfynd: Trzcińsko-Zdrój var tyskt (Bad Schönfließ) till 1945. Familjen kom troligen från Kielce-trakten (Stefan f. 1902 Kielce, Zofia d. 1933 Kielce, Ryszard f. 1931 Kielce) och bosatte sig efter kriget där tyskarna hade fördrivits."
+   "Polenfynd: Trzcińsko-Zdrój var tyskt (Bad Schönfließ) till 1945. Familjen kom troligen från Kielce-trakten (Stefan f. 1902 Kielce, Zofia d. 1933 Kielce, Ryszard f. 1931 Kielce) och bosatte sig efter kriget där tyskarna hade fördrivits.",
+   "MYHERITAGE-LÄSNING (BG1, 2026-10-07): Namnformen 'Jarczyńska' finns i tre oberoende avtryck: Martins träd (född Jarczynska), gravstensposten (Irena Jarczyńska 6.2.1926-17.3.2017, kommunala kyrkogården Trzcińsko-Zdrój) och Smart Match mot Izabelas träd. Gravstensdatum 6.2.1926 och 17.3.2017 är nya detaljer (trädet har bara år 1926/2017). Gravstensposten nämner varken föräldrar eller make i det som syns gratis.",
+   "MYHERITAGE-LÄSNING: Inget i Martins träd styrker länken Irena->Stefan: Irenas Källor-flik är tom, ingen Notes/Biografi, och profilen har inga bekräftade Record Matches som nämner Stefan. Profil-id i trädet: Irena 1500005, Boleslaw 1500012, Stefan 1500013, Zofia 1500014 (löpnummer tyder på att Stefan/Zofia lades in efter Irena/Boleslaw; MyHeritage visar inget datum för när länken skapades).",
+   "MYHERITAGE-LÄSNING: Geni-posterna (lead) har en egen familjesammansättning: Stefan Orzechowski (f. 1902, d. 1972, barn 'Ryszard Orzechowski och 2 till'), Zofia Mlodawska-Orzechowska (f. 1904, d. 1933, barn 'Ryszard Orzechowski och 2 till') och Irena Orzechowska-Jarczynska (f. 1926, syskon 'Ryszard Orzechowski och ett till'). Dvs Genis träd verkar ha Stefan+Zofia med tre barn inkl Ryszard, och Irena som syskon till Ryszard. Föräldrarna syns inte som länkade i Irenas Geni-panel. Geni-trädets ägare är okänd och fullposten ligger bakom paywall. Det kan vara samma släktgren som Martins träd (samma mönster Ryszard/Czesław) och är inte oberoende bevis.",
+   "OBSERVATION (ej bevis): Irenas söner bär efternamnet Orzechowski (Zdzislaw 1946, Grzegorz 1952, Roman 1955) medan hennes make är Bolesław Kogut och döttrarna Iwona och Janina heter Kogut. Irena själv står som 'född Jarczyńska' i trädet och på graven, men som Orzechowska i Geni. Detta kan tyda på att Orzechowski/Jarczyńska är två olika namn för samma kvinna (t.ex. adoption/styvfar, giftermål med tidigare make eller felskrivning) - kräver Trzcińsko-Zdrój civilstandsakter (USC Trzcińsko-Zdrój, ev. Szczecinarkiv) för avgörande.",
+   "OMGÅNG 31 (BG1): länken Irena→Stefan/Zofia har ingen källa i MyHeritage-trädet (Källor-fliken tom); Geni World Tree har samma familj (Irena Orzechowska-Jarczynska, bror Ryszard). Gravregistret anger Jarczyńska – avgörande saknas fortfarande (Trzcińsko-Zdrój-akter). Barn enligt trädet: Zdzisław 1946, Grzegorz 1952, Roman 1955, Iwona 1956, Janina."
   ],
   "sources": [
    {
@@ -2876,6 +2882,22 @@
    {
     "label": "Wikipedia, ”Trzcińsko-Zdrój” (tyska Bad Schönfließ, Neumark; tyskt 1871–1945, därefter polskt)",
     "url": "https://en.wikipedia.org/wiki/Trzci%C5%84sko-Zdr%C3%B3j"
+   },
+   {
+    "label": "MyHeritage, profilsida Irena Orzechowski (født Jarczynska) i Martins träd 'Elofson Family Tree' (profil-id 1500005): fakta Född 1926 Trzcińsko-Zdrój (bara år), Död 2017 Trzcińsko-Zdrój, Jordfästning Trzcińsko-Zdrój; Gift med Boleslaw Kogut; Närmaste familj: far Stefan Orzechowski (1902-1972), mor Zofia Orzechowska (født Mlodawska) (1904-1933), bröder Ryszard Orzechowski (f. 1931, står två gånger) och Czcslaw Orzechowski (avliden), make Boleslaw Kogut, söner Zdzislaw 22.5.1946, Grzegorz 4.4.1952, Roman 19.1.1955, döttrar Iwona (f. 8.9.1956) och Janina Jaćkiewicz (født Kogut). Fliken 'Källor' (Källcitat och Länkar) är TOM. Användarträd = lead.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500005/irena-orzechowski-fodt-jarczynska"
+   },
+   {
+    "label": "MyHeritage Record Match (väntande, ej bekräftad av oss): 'Irena Jarczyńska i Gravstenar i Polen 1800-2020' (samling 10963). I fri sökning visas posten som: Irena Jarczyńska, Född 6 feb 1926, Död 17 mar 2017, Begravning Cmentarz Komunalny w Trzcińsku Zdroju, Trzcińsko Zdrój, Zachodniopomorskie. Fullständig post kräver betalabonnemang (paywall). Matchningens dagsmätare visar födelseår 1926 men inga föräldrar.",
+    "url": "https://www.myheritage.no/research/collection/poland-gravestones-1800-2020/colid-10963"
+   },
+   {
+    "label": "MyHeritage Record Match (väntande): 'Irena Orzechowska-Jarczynska i Världsträdet hos Geni' (record-40000-214098544). Granskningspanel: Född 1926 (dag/månad/plats saknas), Far/Mor/Make ej angivna, Barn '<Privat> Orzechowski och 4 till', Syskon 'Ryszard Orzechowski och ett/en till syskon'. Geni World Family Tree = användarträd = lead.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500005/irena-orzechowski-fodt-jarczynska#matches"
+   },
+   {
+    "label": "MyHeritage Smart Match (väntande): 'IRENA JARCZYŃSKA har hittats på Orzechowska som hanteras av Izabela Orzechowska från Polen' (Namn IRENA JARCZYŃSKA, Make ej angiven, Barn 'Orzechowska och 4 till'). Izabela Orzechowska (f. 1983) finns själv i Martins träd (Grzegorz' dotter) = släkting, ej oberoende källa.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500005/irena-orzechowski-fodt-jarczynska#matches"
    }
   ],
   "search": [
@@ -2892,11 +2914,23 @@
   "summary": "Far till samtliga Irenas barn enligt familjen. Födelsedata, föräldrar och vigsel okända.",
   "notes": [
    "Utesluten: Bolesław Orzechowski/Kogut som dog 1944.",
-   "Utesluten: Hieronim Kogut (Monitor Polski 1947), endast namnlik."
+   "Utesluten: Hieronim Kogut (Monitor Polski 1947), endast namnlik.",
+   "MYHERITAGE-LÄSNING (BG1): Kandidat för Irenas make: Bolesław Kogut, f. 15.1.1915, d. 24.9.1965, begravd Cmentarz Komunalny, Trzcińsko-Zdrój (gravstensregister). Samma ort som Irena/Iwona -> status candidate, inte verified (postens släktband syns ej, ingen förälder). Skiljer sig från den redan uteslutne Bolesław som dog 1944 och från 'Bolesław Kogut f. 1916 d. 1943' (FamilySearch-träd) som också dök upp.",
+   "OMGÅNG 31 (BG1, candidate): Bolesław Kogut f. 15.1.1915, d. 24.9.1965, begravd Trzcińsko-Zdrój (MyHeritage Gravstenar i Polen, gravregister). Möjlig make till Irena – ej bekräftat. En annan Bolesław Kogut f. 1916 d. 1943 är sannolikt inte han."
   ],
   "search": [
    "Bolesław",
    "Boleslaw"
+  ],
+  "sources": [
+   {
+    "label": "MyHeritage, profilsida Boleslaw Kogut i Martins träd (profil-id 1500012): ingen födelse- eller dödsinfo; Gift med Irena Orzechowski (født Jarczynska), Trzcińsko-Zdrój; barn Janina Jaćkiewicz (født Kogut), Zdzislaw Orzechowski, Grzegorz Orzechowski, Roman Orzechowski, Iwona Elofsson (født Kogut). Inga föräldrar. Källor-flik tom. Väntande Smart Match mot Izabela Orzechowskas träd ('BOLESŁAW KOGUT har hittats på Orzechowska som hanteras av Izabela Orzechowska från Polen').",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500012/boleslaw-kogut"
+   },
+   {
+    "label": "MyHeritage gratis sökning, samling 'Polen, Gravstener 1800-2020': Bolesław Kogut, Född 15 jan 1915, Död 24 sep 1965, Begravning Cmentarz Komunalny w Trzcińsku Zdroju, Trzcińsko Zdrój, Zachodniopomorskie. Enda Kogut som visas med begravning på den kyrkogården (sökning med Trzcińsko-Zdrój som ortboost, 867 Kogut-träffar totalt). Ej länkad till Irena i posten - lead.",
+    "url": "https://www.myheritage.no/research/collection/poland-gravestones-1800-2020/colid-10963"
+   }
   ]
  },
  {
@@ -2949,6 +2983,14 @@
    {
     "label": "Skanoteka PTG, Kielce (id239) födelseakter 1903 (kt1), skan 063-068.jpg, akt nr 67 (marginal 'Szydłówek')",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1903&kt=1&plik=063-068.jpg"
+   },
+   {
+    "label": "MyHeritage, profilsida Stefan Orzechowski i Martins träd (profil-id 1500013): Född 7 sep 1902 Kielce, Död 13 aug 1972 Trzcińsko-Zdrój, Jordfästning Trzcińsko-Zdrój; hustru Zofia (d. 24 okt 1933 Kielce); barn Irena (1926), Ryszard (11 juni 1931 Kielce, står två gånger) och Czcslaw (avliden). Källor-flik utan synlig post, ett foto. OBS: trädet anger födelse 7.9.1902 medan verified-posten här är 7.8.1901 (akt 68) - dagen/året i trädet är alltså fel.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500013/stefan-orzechowski"
+   },
+   {
+    "label": "MyHeritage Record Match (väntande): 'Stefan Orzechowski i Världsträdet hos Geni' (record-40000-214098655): Född 1902 (plats saknas), Död 1972, Barn 'Ryszard Orzechowski och 2 till'; make ej angiven. Geni = användarträd = lead.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500013/stefan-orzechowski#matches"
    }
   ],
   "search": [
@@ -2960,7 +3002,9 @@
    "AKT 68 (rysk text, kyrillisk handskrift; 1903, Kielce): \"Состоялось въ городѣ Кельцахъ второго, пятнадцатаго Марта тысяча девятьсотъ третьяго года въ часъ дня. Явился работникъ изъ Шидлувка Іосифъ Оржеховскій двадцати восьми лѣтъ отъ роду, въ присутствіи работниковъ изъ Шидлувка Людовика Бартховскаго и Валентія Цедро обоихъ сорока двухъ лѣтъ отъ роду и предъявилъ намъ младенца мужескаго пола, родившагося въ Шидлувку двадцать пятаго Іюля седьмаго Августа тысяча девятьсотъ перваго года въ двѣнадцать часовъ ночи отъ жены его Екатерины урожденной Заторской двадцати девяти лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ дня сего Ксендзомъ Іоанномъ Куделскимъ дано имя Стефанъ, воспріемниками были Іоаннъ Офурга и Софія Вейцеховская ...\" [läsning av handstil; enstaka ord (vittnesnamn) osäkra].",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 2/15 mars 1903 kl. 13. Inför oss trädde arbetaren från Szydłówek Józef Orzechowski, 28 år gammal, i närvaro av arbetarna från Szydłówek Ludwik Bartkowski och Walenty Cedro, båda 42 år, och förevisade ett gossebarn som föddes i Szydłówek den 25 juli/7 augusti 1901 kl. 24 [midnatt] av hans hustru Katarzyna född Zatorska, 29 år. Barnet fick vid dopet, förrättat samma dag av prästen Jan Kudelski, namnet Stefan; fadderna var Jan Ofurga [?] och Zofia Wejcechowska [?]. NOTERA: barnet är fött 1901 men registrerat först 1903 (sen anmälan) - därför 'år 1903' i Geneteka-indexet.",
    "MARGINALNOT vid akt 68 (polska, ca 1923): \"Szydłówek. Stefan Orzechowski dnia 7 stycznia 1923 r. w Kościele Sw. Wojciecha w Kielcach zaślubił Zofję Młodawską. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach ...\" (lösa ord i slutet osäkra). = Stefan Orzechowski gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Zofia Młodawska; införd på prästens skrivelse.",
-   "SYSKON (verifierade födelseakter): Marianna Orzechowska f. 1.1.1897 (1897 akt 3) och Bronisława Orzechowska f. 15.3.1903 (1903 akt 67, anmäld samma dag som Stefans akt 68). Stanisław Orzechowski finns i födelseindex 1905 (akt nr oläsligt '1?3', ej 123/153) – ev. syskon, ej läst."
+   "SYSKON (verifierade födelseakter): Marianna Orzechowska f. 1.1.1897 (1897 akt 3) och Bronisława Orzechowska f. 15.3.1903 (1903 akt 67, anmäld samma dag som Stefans akt 68). Stanisław Orzechowski finns i födelseindex 1905 (akt nr oläsligt '1?3', ej 123/153) – ev. syskon, ej läst.",
+   "MYHERITAGE-LÄSNING (BG1): Geni anger Stefan med tre barn (Ryszard + 2) och hans fru Zofia med tre barn (Ryszard + 2) - stämmer numerärt med Martins träds Irena, Ryszard och Czesław, men Geni-panelen visar inte barnens namn utöver Ryszard. Ingen enskild MyHeritage-källa namnger Irena som Stefans barn med dokumentstöd.",
+   "MYHERITAGE-SÖKNING: gravstenssamlingen visar INGEN Stefan Orzechowski d. 1972 i Trzcińsko-Zdrój (ortboostade träffar för Orzechowski där: Szczepan 31.10.1938-12.2.2012 och Piotr 8.8.1931-30.4.1998, båda 'Cmentarz Komunalny w Trzcińsku Zdroju'; Zofia Orzechowska 14.7.1941-9.11.2003 samma kyrkogård). Ej släktkopplade. Stefans grav är alltså inte indexerad där (eller felstavad)."
   ]
  },
  {
@@ -3008,6 +3052,10 @@
    {
     "label": "Skanoteka PTG, Kielce (id239) födelseakter 1902 (kt1), skan 205-212.jpg, akt nr 211 (marginal 'Szydłówek')",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1902&kt=1&plik=205-212.jpg"
+   },
+   {
+    "label": "MyHeritage, profilsida Zofia Orzechowska (født Mlodawska) i Martins träd (profil-id 1500014): Född 28 juni 1904 (ingen ort), Död 24 okt 1933 Kielce. Trädets födelsedatum 28.6.1904 avviker från verified-posten 17.4.1904 (akt 125) - trädets dag är fel. Väntande Record Match mot Geni 'Zofia Mlodawska-Orzechowska' (record-40000-214098622): Född 1904, Död 1933, Barn 'Ryszard Orzechowski och 2 till'.",
+    "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500014/zofia"
    }
   ],
   "search": [
@@ -3021,7 +3069,8 @@
    "AKT 125 (rysk text, 1904, Kielce): \"Состоялось въ городѣ Кельцахъ четвертаго, семнадцатаго Апрѣля тысяча девятьсотъ четвертаго года въ четыре часа пополудни. Явился работникъ изъ Шидлувка Іоаннъ Млодавскій (Jan Młodawski) ...-ка лѣтъ отъ роду [ålder ej säkert läst], въ присутствіи работниковъ изъ Шидлувка Іоанна Рольки тридцати лѣтъ и Мартина Вось двадцати шести лѣтъ отъ роду и предъявилъ намъ младенца женскаго пола, родившагося въ Шидлувкѣ сегодня въ восемь часовъ утра отъ жены его Викторіи урожденной Шевчикъ двадцати восьми лѣтъ отъ роду. Младенцу сему при Святомъ Крещеніи совершенномъ сегодня Ксендзомъ Антоніемъ Стрембскимъ дано имя Софія (Zofia), воспріемниками были Іоаннъ Ролька и Анеля Шевчикъ.\" [handskrift; enstaka efternamn osäkra]",
    "ÖVERSÄTTNING: Skedde i staden Kielce den 4/17 april 1904 kl. 16. Arbetaren från Szydłówek Jan Młodawski (ålder ej säkert läst) trädde fram i närvaro av arbetarna från Szydłówek Jan Rolka, 30 år, och Marcin Wos, 26 år, och förevisade ett flickebarn fött i Szydłówek samma dag kl. 8 på morgonen av hans hustru Wiktoria född Szewczyk, 28 år. Barnet döptes samma dag av prästen Antoni Strembski [?] och fick namnet Zofia; fadder Jan Rolka och Aniela Szewczyk.",
    "MARGINALNOT vid akt 125 (polska): \"Szydłówek. Zofja Młodawska dnia 7 stycznia 1923 r. w kościele Sw. Wojciecha w Kielcach zaślubiła Stefana Orzechowskiego. Wniesiono na mocy pisma proboszcza parafji Sw. Wojciecha w Kielcach (Nr dzienn. ...) ...\" = Zofia Młodawska gifte sig 7.1.1923 i S:t Wojciechs kyrka i Kielce med Stefan Orzechowski.",
-   "SYSKON: Bolesław Stanisław Młodawski f. 13.7.1902 (akt 211) – äldre bror; samma föräldrar Jan Młodawski + Wiktoria Szewczyk."
+   "SYSKON: Bolesław Stanisław Młodawski f. 13.7.1902 (akt 211) – äldre bror; samma föräldrar Jan Młodawski + Wiktoria Szewczyk.",
+   "MYHERITAGE-SÖKNING (BG1): 'Zofia Łucja Młodawska' f. 1902 (FamilySearch-träd + MyHeritage-träd Kubarska/Kubarski, syskon Marianna Maria Kusztal) är en annan person (f. 1902, ej 1904) - redan uteslutet namnlik (Niekłań)."
   ]
  },
  {
