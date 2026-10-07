@@ -3730,6 +3730,13 @@
    "persons": [
     "boleslaw"
    ]
+  },
+  {
+   "title": "Emanuel Johannesson f. 1844: dödsår 1913 enligt flera användarträd",
+   "text": "Många oberoende-utseende MyHeritage-träd (dock sannolikt kopierade från samma Värmlandsrötter-källa) anger död 1913. Lead, ej verifierat. Kontrollera dödbok Frykerud/Köpung 1913 (SCB-utdrag).",
+   "persons": [
+    "aq3_emanuel_johannesson44"
+   ]
   }
  ],
  "conflicts": [
@@ -4641,6 +4648,13 @@
     "antonina_zatorska_n",
     "agata_ksiol",
     "jan_ksiol"
+   ]
+  },
+  {
+   "title": "Emanuel Johannesson död 1913",
+   "text": "MyHeritage-träden (död 1913) bekräftas: SCB död Frykerud 1913 nr 33, 6 juli, Emanuel Johansson, sadelmakare från Köpung, f. 23/11 1844. Äldre bror Johan: ej belagd; dopinlägget 1844 nämner inga syskon (dopbok ger inte syskon).",
+   "persons": [
+    "aq3_emanuel_johannesson44"
    ]
   }
  ]
