@@ -24622,7 +24622,7 @@
  {
   "id": "anna_maria_nilsson_karlsson_arvika",
   "name": "Anna Maria Karlsson f. Nilsson (f. 1886 Boda, g. 1909; Arvika 1930)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -32522,7 +32522,7 @@
  {
   "id": "anna_kajsa_olsdotter_1858_an",
   "name": "Anna Kajsa Olsdotter (f. 1858, Brunskog; g. Anders Andersson Nygren)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33225,7 +33225,7 @@
  {
   "id": "olof_torsander_1875",
   "name": "Olof Torsander/Thorsander (f. 1875, Takene)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33349,7 +33349,7 @@
  {
   "id": "nils_gustaf_torsander_1878",
   "name": "Nils Gustaf Torsander (f. 1878)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35347,7 +35347,7 @@
  {
   "id": "aq2_ture_bernhard_karlsson_1883",
   "name": "Ture Bernhard Karlsson (f. 1883, Nedre Ullerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -35372,7 +35372,7 @@
  {
   "id": "aq2_ture_hjalmar_karlsson_1906",
   "name": "Ture Hjalmar Karlsson (f. 1906, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -37004,7 +37004,7 @@
  {
   "id": "ar2_josef_berg_lerhol",
   "name": "Joseph Berg",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -37032,7 +37032,7 @@
  {
   "id": "ar2_cajsa_olsd_lerhol",
   "name": "Cajsa Olsdotter",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -37060,7 +37060,7 @@
  {
   "id": "ar2_elof_larsson_brunskog",
   "name": "Elof Larsson",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -37083,7 +37083,7 @@
  {
   "id": "ar2_brita_nilsd_elof",
   "name": "Brita Nilsdotter",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -37730,7 +37730,7 @@
  {
   "id": "nygren_andreas_1854_eda",
   "name": "Andreas (Anders) Andersson Nygren (f. 1854 Brunskog, banvakt, Eda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {

@@ -9459,8 +9459,8 @@
   "type": "sibling",
   "a": "olof_torsander_1875",
   "b": "nils_gustaf_torsander_1878",
-  "status": "candidate",
-  "basis": "Samma efternamn Torsander, f. i Brunskog 1875/1878, samma gård på Takene 1910 och 1930; ingen uttrycklig syskonpost."
+  "status": "verified",
+  "basis": "Samma efternamn Torsander, f. i Brunskog 1875/1878, samma gård på Takene 1910 och 1930; ingen uttrycklig syskonpost. VERIFIERAD (omgång 24): Folkräkning 1880 Brunskog, Ö. Takene, sida 28: hushåll Eriksson, Nils f. 1842 Hemmansägare + Jonsdotter, Anna f. 1841; barn Johannes 1867, Emil 1872, Olof f. 1875 Brunskog (rad 33, Familjeställning 's.', Famstkod Barn; Folk_120423205) och Nils Gustaf f. 1878 Brunskog (rad 34, 's.', Barn; Folk_120423206). 1900 Takene Östra s.29 samma hushåll: 'Olof f. 1875' (s., Folk_109938067) och 'Torsander, Nils Gustaf f. 1878, Målare' (s., Folk_109938068). Båda söner till Nils Eriksson och Anna Jonsdotter = helsyskon."
  },
  {
   "id": "p-johan_fridolf_pgn_1883-alma_maria_alfredsson_1883",
@@ -10206,8 +10206,8 @@
    "anna_maria_nilsson_karlsson_arvika"
   ],
   "child": "aq2_ture_hjalmar_karlsson_1906",
-  "status": "strong",
-  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908).",
+  "status": "verified",
+  "basis": "Folkräkning 1930 Arvika, hushållets barn (Folk_129011908). VERIFIERAD (omgång 24): Folkräkning 1930 Arvika, Stadsägan no 415, s.150: 'Ture Hjalmar' f. 1906 i Boda, Järnarbetare, Familjeställning 'h. s. u. ä.', Famstkod 'Barn', rad 8 (Folk_129011909), i hushåll med Karlsson, Ture Bernhard f. 1883 Nedre Ullerud (Folk_129011908?, hushållets fam. nr 1) och Nilsson, Anna Maria f. 1886 Boda, 'h.' (rad 7, Folk_129011908), vigselår 1909.",
   "id": "c-aq2_ture_bernhard_karlsson_1883-anna_maria_nilsson_karlsson_arvika-aq2_ture_hjalmar_karlsson_1906"
  },
  {
@@ -11179,7 +11179,7 @@
   ],
   "child": "no_olaf_josephsen44",
   "status": "strong",
-  "basis": "Dop Brunskog 6/7 dec 1844: \"Olaf. Lerhal. Joseph Berg H. Cajsa Ols[d]r\" (C0036784_00246). Namn Olaf + Josephsen Berg + Brunskog 1844 stämmer; ej uttrycklig koppling till Norge."
+  "basis": "Dop Brunskog 6/7 dec 1844: \"Olaf. Lerhal. Joseph Berg H. Cajsa Ols[d]r\" (C0036784_00246). Namn Olaf + Josephsen Berg + Brunskog 1844 stämmer; ej uttrycklig koppling till Norge. VERIFIERAD (omgång 24): Brunskog dopbok C I/3, 1844 (C0036784_00246, sid 447): 'Dec. 6/7  Olaf.  Lerhal. Joseph Berg H. Cajsa Ols[d]r' (osäker läsning av moderns patronymikon 'Olsdr'). Barn Olaf f. dec 1844 Brunskog; Norge-posten 'Olaf Josephsen Berg f. 1844 Brunskog' (Hurdal 1875) har fader Josef och samma födelseår/-ort; ingen annan Olaf med fadern Joseph Berg sågs. NEDGRADERAD TILL STRONG (omgång 28, chefens kontroll): dopposten i Brunskog är läst, men den norska personens identitet med dopbarnet bygger bara på namn, födelseår, Brunskog och patronymikon (norska posterna nämner inga föräldrar)."
  },
  {
   "id": "p-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol",
@@ -11198,7 +11198,7 @@
   ],
   "child": "no_kaisa_ellefsd42",
   "status": "strong",
-  "basis": "Dop Brunskog 6/7 nov 1842 nr 112: \"Elof Larsson Hu Brita Nilsd\", barn Kajsa (C0036784_00237). Faderns namn Elof Larsson = 'Ellef Larsen' i Kristiania-vigseln 1865; födelseår 1842 stämmer. Annan Kajsa 1842 med annan far finns (nr 89 Skammnäs, nr 94 Gullsby) men fadersnamnet avgör."
+  "basis": "Dop Brunskog 6/7 nov 1842 nr 112: \"Elof Larsson Hu Brita Nilsd\", barn Kajsa (C0036784_00237). Faderns namn Elof Larsson = 'Ellef Larsen' i Kristiania-vigseln 1865; födelseår 1842 stämmer. Annan Kajsa 1842 med annan far finns (nr 89 Skammnäs, nr 94 Gullsby) men fadersnamnet avgör. VERIFIERAD (omgång 24): Brunskog dopbok C I/3 (C0036784_00237, sid 429 högra sidan): nr 112, 'Nov. 6/7  Förked(osäker) Elof Larsson Hu Brita Nilsd(r)', test. 'Nils Månsson h. Marit Pers.. Stenstad' (osäker); barn 'Kajsa', föräldrars ålder '27' (rad enligt zoom). Barnnamn, år 1842, församling Brunskog och faderns patronymikon Ellef/Elof stämmer med Kristiania-vigseln 1865 (Karsa Ellefsdtr f. 1842 Brunskog). Övriga Kajsa 1842 (nr 89, 94) har andra fäder. NEDGRADERAD TILL STRONG (omgång 28, chefens kontroll): dopposten i Brunskog är läst, men den norska personens identitet med dopbarnet bygger bara på namn, födelseår, Brunskog och patronymikon (norska posterna nämner inga föräldrar)."
  },
  {
   "id": "p-ar2_elof_larsson_brunskog-ar2_brita_nilsd_elof",
@@ -11217,7 +11217,7 @@
   ],
   "child": "no_anna_ellefsen53",
   "status": "strong",
-  "basis": "Dop Brunskog 4/5 nov 1853: \"Anna. Olaf Larsson o h. Britta [Nilsd.] i v. Fäshed\" (C0036785_00046). Fadersnamn Olof/Ellef Larsson, bostad Fäshed/Förked samma som Kajsa 1842; födelseår 1853 stämmer. Moderns patronymikon omskrivet i boken."
+  "basis": "Dop Brunskog 4/5 nov 1853: \"Anna. Olaf Larsson o h. Britta [Nilsd.] i v. Fäshed\" (C0036785_00046). Fadersnamn Olof/Ellef Larsson, bostad Fäshed/Förked samma som Kajsa 1842; födelseår 1853 stämmer. Moderns patronymikon omskrivet i boken. VERIFIERAD (omgång 24): Brunskog dopbok C I/4 (C0036785_00046, sid 71): 'Nov. 4/5  Anna  Elaf Larsson o h. Maria[överstruket; ovanför infört: Britta] [Nilsdr?] v. Fäshed' (moderns namn överskrivet/rättat; 'Maria Andersdr' överstruket, osäker läsning); fadern Olof/Elof Larsson, Fäshed samma bosättning som Kajsa 1842. Kyrkans ålder 46 för fadern (osäker). Barn Anna f. nov 1853 Brunskog = Anna Ellefsen f. 1853 Brunskog. NEDGRADERAD TILL STRONG (omgång 28, chefens kontroll): dopposten i Brunskog är läst, men den norska personens identitet med dopbarnet bygger bara på namn, födelseår, Brunskog och patronymikon (norska posterna nämner inga föräldrar)."
  },
  {
   "id": "s-no_kaisa_ellefsd42-no_anna_ellefsen53",
@@ -11225,7 +11225,7 @@
   "a": "no_kaisa_ellefsd42",
   "b": "no_anna_ellefsen53",
   "status": "strong",
-  "basis": "Båda döpta med fadern Elof/Olof Larsson och modern Brita/Britta Nilsd (Fäshed): Kajsa 6/7 nov 1842 (C0036784_00237), Anna 4/5 nov 1853 (C0036785_00046). Bodde 1875 i samma hus, Maridalsveien 56 Kristiania."
+  "basis": "Båda döpta med fadern Elof/Olof Larsson och modern Brita/Britta Nilsd (Fäshed): Kajsa 6/7 nov 1842 (C0036784_00237), Anna 4/5 nov 1853 (C0036785_00046). Bodde 1875 i samma hus, Maridalsveien 56 Kristiania. VERIFIERAD (omgång 24): Båda barnens dopposter (C0036784_00237 nr 112 Kajsa 1842; C0036785_00046 sid 71 Anna 1853) anger fadern Elof/Olof Larsson och modern Brita/Britta (Nilsdotter), Fäshed/Förked; båda föräldrarelationerna verified -> helsyskon. NEDGRADERAD TILL STRONG (omgång 28, chefens kontroll): dopposten i Brunskog är läst, men den norska personens identitet med dopbarnet bygger bara på namn, födelseår, Brunskog och patronymikon (norska posterna nämner inga föräldrar)."
  },
  {
   "id": "c-ar2_johannes_olsson_nas-ar2_anna_bryntesd_nas-no_anna_johannesd58",
@@ -11529,8 +11529,8 @@
   "type": "partner",
   "a": "nygren_andreas_1854_eda",
   "b": "anna_kajsa_olsdotter_1858_an",
-  "status": "strong",
-  "basis": "Folkräkning 1880 Eda, Hvittensten (Folk_120406571): Nygren Andersson, Andreas f. 1854 Brunskog, banvakt, gift med Anna Kajsa f. 1858 Brunskog; son f. 1880 i Eda."
+  "status": "verified",
+  "basis": "Folkräkning 1880 Eda, Hvittensten (Folk_120406571): Nygren Andersson, Andreas f. 1854 Brunskog, banvakt, gift med Anna Kajsa f. 1858 Brunskog; son f. 1880 i Eda. VERIFIERAD (omgång 24): Folkräkning 1880 Eda, Hvittensten, s.54 rad 16 (Folk_120406571): 'Olsdotter, Anna Kajsa' f. 1858 Brunskog, Civilstånd Gift, Familjeställning 'h.', Famstkod 'Mor/fru', fam. nr 1 med 'Nygren Andersson, Andreas, f. 1854 i Brunskog, Banvakt'. Samma par 1890 s.55 (Folk_103578541) och 1900 s.60 (Folk_109917463, Andreas 'Far/man'); 1930 Eda Vittensten: Nygren, Andreas f. 1854 Brunskog, gift, vigselår 1879 (Folk_128984766)."
  },
  {
   "id": "c-nygren_andreas_1854_eda-anna_kajsa_olsdotter_1858_an-olof_an_1884_eda",
@@ -11540,8 +11540,8 @@
    "anna_kajsa_olsdotter_1858_an"
   ],
   "child": "olof_an_1884_eda",
-  "status": "strong",
-  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son)."
+  "status": "verified",
+  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son). VERIFIERAD (omgång 24): Folkräkning 1890 Eda, Hvittensten, s.55 rad 20 (Folk_103578544): 'Olof' f. 1884 Eda, Familjeställning 's.', Famstkod 'Barn', fam. nr 1 med Nygren Andersson, Andreas (Banvakt) och Olsdotter, Anna Kajsa. 1900 s.60 rad 28 (Folk_109917466): 'Olof' f. 1884 Eda, 's.', Barn, samma hushåll."
  },
  {
   "id": "c-nygren_andreas_1854_eda-anna_kajsa_olsdotter_1858_an-karl_halvar_an_1897_eda",
@@ -11551,8 +11551,8 @@
    "anna_kajsa_olsdotter_1858_an"
   ],
   "child": "karl_halvar_an_1897_eda",
-  "status": "strong",
-  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son)."
+  "status": "verified",
+  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son). VERIFIERAD (omgång 24): Folkräkning 1900 Eda, Hvittensten, s.60 rad 30 (Folk_109917468): 'Karl Halvar' f. 1897 Eda, Familjeställning 's.', Famstkod 'Barn', hushåll Andersson Nygren, Andreas (Banvakt) + Olsdotter, Anna Kajsa. 1930: Nygren, Karl Halvar f. 1897 Eda i föräldrarnas hushåll (Folk_128984768)."
  },
  {
   "id": "c-nygren_andreas_1854_eda-anna_kajsa_olsdotter_1858_an-viktor_hilding_an_1899_eda",
@@ -11562,8 +11562,8 @@
    "anna_kajsa_olsdotter_1858_an"
   ],
   "child": "viktor_hilding_an_1899_eda",
-  "status": "strong",
-  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son)."
+  "status": "verified",
+  "basis": "Folkräkning Eda 1890/1900 (hushåll Andersson Nygren): barnet i banvakten Andreas Anderssons hushåll med Anna Kajsa; korrigerat omgång 24 (inte Karin Eriksdotters son). VERIFIERAD (omgång 24): Folkräkning 1900 Eda, Hvittensten, s.60 rad 31 (Folk_109917469): 'Viktor Hilding' f. 1899 Eda, Familjeställning 's.', Famstkod 'Barn', hushåll Andersson Nygren, Andreas (Banvakt) + Olsdotter, Anna Kajsa."
  },
  {
   "id": "p-fr_knut_lene1711-fr_karinmansd_lene1711",
