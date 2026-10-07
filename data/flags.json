@@ -3803,6 +3803,33 @@
    "persons": [
     "fr_kerstinnilsd1727_lene"
    ]
+  },
+  {
+   "title": "Lubgens: möjlig Kogut-familj Lublin św. Pawła 1914-1920 (lead)",
+   "text": "Lubgens-index (Lublin, św. Pawła): Janina Kogut 1914 akt 212 (O: Mikołaj Kogut, M: Marianna Depta), Anna 1916 akt 784 (O: Mikołaj, M: Marianna zd. Depta), Jan 1918 akt 369, Anna 1920 akt 352 (lat 3). Bolesław f. 15.1.1915 saknas i indexet men passar tidsmässigt. Kontrollera Lublin św. Pawła födelsebok 1915 (Archiwum Państwowe Lublin via szukajwarchiwach.gov.pl / genealodzy metryki) för akt med datum 15.1.1915. Lead tills akt läst; Kogut är vanligt och Lublin är bara en gissning.",
+   "persons": [
+    "boleslaw"
+   ]
+  },
+  {
+   "title": "Resurs Lubgens (Lubelskie): söker utan inloggning, stor täckning",
+   "text": "Sök: POST https://regestry.lubgens.eu/viewpage.php?page_id=1057 med fält urodz=1&sluby=1&zgony=1&parafia=&nazwisko=..&wildmode=1(prefix)&imie=..&rok_od=..&rok_do=..&sort1=1&sort2=3&sort3=5 (max 500 träffar/typ). Täcker Lubelszczyzna ca 1650-1950 (flera hundra socknar inkl. USC 1940-talet, ortodoxa/judiska). Kogut >500 födelser, 437 vigslar. Index ger socken/akt/år/föräldrar. Inga träffar: Kogut Bolesław 1900-30 (födelse), Kogut x Irena 1940-55, Jarczyński/-ska f.1926 Irena, Ksioł. Orzechowski Stefan 1901 endast Starawieś (Węgrów) 1901 son till Józef/Marianna Olejasz och Trzeszczany 1903 – ej Kielce-Stefan (verified Szydłówek 1901, far Józef) = utesluten. Hencel: endast Lublin/Prawno/Piotrawin/Radzyń – ingen koppling till Niewachłów. Zatorski/Zatorska 233/115/181 träffar 1830-1900 i Lublin-trakten, ingen med Szydłówek/Kielce.",
+   "persons": []
+  },
+  {
+   "title": "Resurs PTG PomGenBaza (Gdańsk): fungerar utan inloggning (max 300 träffar)",
+   "text": "Sök via WordPress-AJAX: POST https://www.ptg.gda.pl/wp-admin/admin-ajax.php action=ptg_search_ajax_find, findAction=births|marriages|deaths, firstName, lastName, filterMode=begin|exact, yearFrom, yearTo, parish, lines=50, page, nonce (hämtas från sidan https://www.ptg.gda.pl/language/pl/pomgenbaza/przeszukiwanie-rejestrow-metrykalnych/ i ptgSearchJsLocalize.ptgNonceFind). Täcker Pommern/Kujawy (Tczew, Kościerzyna, Świecie, Starogard m.fl.) ca 1650-1945. Kogut: 25 födelser/11 vigslar/22 dödsfall, men endast Pommern (Polskie Łąki, Pogódki 1923-25, Jaroszewy 1922) och Toki/Zbaraż (Ukraina) – ingen Bolesław f.1915. Jarczyński 8/5, Jarczyńska 2/1/1 – ingen Irena. Młodawska 3 födelser (Grabowo Kościerskie 1843/45, Lubichowo 1851 – ej Jan-familjen). Ksioł 0. Orzechowski 448/147/162 (ej genomgånget, Pommern). Hencel 4, Henzel 51 (ej genomgånget). Alla = ingen relevant träff.",
+   "persons": []
+  },
+  {
+   "title": "Resurs Poznan Project: fungerar utan inloggning, men bara vigslar 1800-1899",
+   "text": "Sök: POST https://poznan-project.psnc.pl/getresults.php med lastname=..&action=simple&threshold=100 (80=ungefär). Täcker >1 milj. vigslar Wielkopolska 1800-1899 (kat., evang., USC). Kan ej innehålla Bolesław (f.1915) eller Irena (f.1926). Kogut: 5 träffar (Bucz 1823, Chocz 1840, Ostrzeszów 1854/1858, Brodnica 1856) – Wielkopolska, ingen koppling funnen. Jarczyński 316, Orzechowski 1153, Hencel 123, Henzel 77, Osuch 254 – statistiskt brus för Wielkopolska; Młodawski 1 (Skęczniew 1856: Józef Młodawski alias Małachowski, far Jan, mor Agata Ciesielska – ej känd släkt). Ksioł 0 träffar. Resultatlistan visas ej vid >ca 100 träffar.",
+   "persons": []
+  },
+  {
+   "title": "Resurs BASIA (Wielkopolska): sök ej verifierad utan inloggning",
+   "text": "basia.famula.pl/en/ ger 6,7 milj. index Wielkopolska (kyrko-/USC-böcker 1577-2026). Enkel POST (q=Kogut) via curl returnerar sida utan träfflista; avancerad POST (search_ext=szukaj, lname0, od, do) hängde (timeout 120 s); i Chrome hängde fetch. Troligen kräver träfflista konto/inloggning (att skapa konto är förbjudet för agent). Ej testad vidare. Geografiskt ointressant för Kielce/Lublin-släkten.",
+   "persons": []
   }
  ],
  "conflicts": [
