@@ -6281,7 +6281,7 @@
   ],
   "child": "fr_jonaspalsson",
   "status": "strong",
-  "basis": "Frykerud A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson”. Ålder ej angiven; identitet med nämndeman Jonas Pålsson d.1759 (48 år) trolig."
+  "basis": "Frykerud A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson”. Ålder ej angiven; identitet med nämndeman Jonas Pålsson d.1759 (48 år) trolig. OMGÅNG 26 (BB4): dop Frykerud C/2 C0037135 bild 95 (s. 169): \"14/17 Febr. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon\" (f. 14/2, döpt 17/2 1711); stämmer med dödbok 1759 (48 år). Fadersförnamn svårläst, därför strong."
  },
  {
   "id": "p-fr_palmansson_rorbacken-fr_elinnilsd_rorbacken",
@@ -11798,5 +11798,37 @@
   "b": "ewa_lutowska_1874",
   "status": "strong",
   "basis": "Geneteka-index födelse Odrowąż 1874 akt 176: Ewa Lutowska, föräldrar Maciej + Agnieszka Trzebińska (samma som Marianna 1872 akt 190)."
+ },
+ {
+  "id": "c-jan_mlodawski-marianna_lutawska-marianna_mlodawska_1893",
+  "type": "child",
+  "parents": [
+   "jan_mlodawski",
+   "marianna_lutawska"
+  ],
+  "child": "marianna_mlodawska_1893",
+  "status": "strong",
+  "basis": "Odrowąż 1895 akt 3: 'Marianna Młodawska ... z Jana [i] Marianny z Lutowskich ... Młodawskich' (delvis svårläst); Skanoteka id5830 sy1895 kt3 fil 001-003"
+ },
+ {
+  "id": "c-cyprian_mlodawski--jan_mlodawski_1863",
+  "type": "child",
+  "parents": [
+   "cyprian_mlodawski"
+  ],
+  "child": "jan_mlodawski_1863",
+  "status": "strong",
+  "basis": "Mniów 1863 akt 74: 'Cyprjan Młodawski ... gospodarz w Krasnej' anmäler son Jan född 26.8.1863"
+ },
+ {
+  "id": "c-mans_larsson_skog-elin_olofsd_skog-aq5_kari_mansd53_skog",
+  "type": "child",
+  "parents": [
+   "mans_larsson_skog",
+   "elin_olofsd_skog"
+  ],
+  "child": "aq5_kari_mansd53_skog",
+  "status": "strong",
+  "basis": "Dop Brunskog C I/2 bild 88 nr 30: ”d 4 Novembris Måns Larsson och hustru … i Skog dotter Karin”. Matchar husförhör A I/10 bild 82: ”H. Kari Månsdr 4/11 53 Skog” (datum, ort, patronymikon). Saknar uttryckligt samband dop–husförhörsrad, därför strong."
  }
 ]

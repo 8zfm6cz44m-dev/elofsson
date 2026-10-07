@@ -3383,6 +3383,94 @@
     "anna_bartosinska",
     "marianna_lutawska"
    ]
+  },
+  {
+   "title": "Jan Młodawski 1860 vs 1863 (ålder i Kielce 1900)",
+   "text": "Kielce 1900 (37 år) och 1902 (40 år) passar ca 1862/63; föräldrarna Jacek+Anna talar för Jan f. 12.3.1860 (Rogowice). En annan Jan f. 26.8.1863 i Krasna (fader Cyprian) existerar men har fel far. Bedömning: samma person som 1860-Jan (strong), ej bevisat via död/ålder.",
+   "persons": [
+    "jan_mlodawski",
+    "jan_mlodawski_1863"
+   ]
+  },
+  {
+   "title": "Tomasz Młodawski och Anna z Gębskich – föräldrar/vigsel",
+   "text": "Ej funnet: Mniów-skanningar börjar 1826, vigseln bör ligga före (Miedzierza/Chęciny, ingen skanning). Geneteka var spärrad (falska träffar) under hela omgången.",
+   "persons": [
+    "tomasz_mlodawski",
+    "anna_gebska"
+   ]
+  },
+  {
+   "title": "Geneteka-API spärrat/oanvändbart 2026-10-07",
+   "text": "Fem sökningar (S/D/B, 25 s mellanrum) gav recordsTotal ~30000-38000 och orelaterade träffar (Mazowsze/Pałuki-namn) – spärr är aktiv. Inga Geneteka-resultat är giltiga. Försök igen först efter lång paus (timmar).",
+   "persons": []
+  },
+  {
+   "title": "Wawrzyniec Orzechowski + Tekla: vigsel ej i Katedra 1840–1841",
+   "text": "Katedra Kielce vigselindex 1840 (SkM-2/3, 140-143) och 1841 (SkM-2, sid 98-99) O-avsnitten lästa: ingen Orzechowski (1840: Olearczyk Franciszek, Ośuch Franciszek; 1841: Opitz Aleksander, Ostrowski Franciszek). Vigsel troligen före 1840 eller i annan parafia (Michał född ca 1841/42 i Wólka Pokonna, ej i Katedras födelseindex). Kvarstår: 1837–1839 samt 1830–1836 (UMZ-enheter), 1842 och död 1842–1865 (id57 sy1842c–1865c Z).",
+   "persons": [
+    "wawrzyniec_orzechowski",
+    "tekla_orzechowska",
+    "michal_orzechowski"
+   ]
+  },
+  {
+   "title": "Elof Nilssons far: två Nils i Toltan dör feb 1715",
+   "text": "Dödboken 1715 (E I/1 bild 148) har både Nils Larsson från Toltan (20 feb, ca 80 år) och Nils Andersson från Ö. Tortan (24 feb, ca 80 år). Ingen av posterna anger barn. Faderskapet till Elof Nilsson (f. 1687) kan inte avgöras utan t.ex. hustrudöd, bouppteckning eller mantal; Nils Larsson är mantalsskriven först i Toltan-gruppen 1696.",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan_d1715",
+    "nils_andersson_otortan_d1715"
+   ]
+  },
+  {
+   "title": "Joel Nilsson d. 1731 – möjlig bror till Elof",
+   "text": "Posten 24/1 1731 läses 'Joel Nilsson i Toltan' (53 år 6 mån), inte Per. 'Elof och Pehr Nilssonar i Toltan' som faddrar 1729 är en annan Per; kopplingen Joel–Elof är obevisad.",
+   "persons": [
+    "per_nilsson_toltan_d1731",
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Vigsel Anders Nilsson × Marit Bryngelsdotter (Lene) ej funnen 1738–1742",
+   "text": "E I/1 C0037140 bild 50–56 (vigslar 1738–dec 1742) lästa: ingen Anders Nilsson på Lene × Marit Bryngelsdotter. Vigseln 15 maj 1740 (bild 52, s. 94) gäller 'Påhl(?) Andersson i Åsb(?)' med hustru 'Marit Bryngelsdotter i Nedabohl' – annan man (förnamn+patronymikon ≠ Anders Nilsson); lead att inte förväxla. Dottern Maria f. 6/2 1741(?) tyder på vigsel ca 1739–40 eller i annan socken; bild 40–49 (1732–37) och bild 57–66 (1743–49) ej genomsökta.",
+   "persons": [
+    "fr_andersnilsson1710_lene",
+    "fr_maritbryngelsd_lene"
+   ]
+  },
+  {
+   "title": "Anders Ersson f. 1747 – dop ej säkrat",
+   "text": "Frykerud C/4 (börjar 1747, 1746 saknas) bild 12–22 (hela 1747 + jan 1748) lästa översiktligt: ingen post med fader Erik/Ers och barn 'Anders' i/vid Lene. Kandidater utan säker koppling: 15 okt 1747 (bild 19) 'Anders', far Olof Jonsson/Ingerid; 10 nov 1747 (bild 20) 'Anders', fadern svårläst, nedre/V. Glänna. Troligen född i annan socken (hustru Elin Swensdr i 'B…'); vigsel 10/11 1776 'i Lena'.",
+   "persons": [
+    "fr_anderserson1747_lene"
+   ]
+  },
+  {
+   "title": "Christopher Svensson f. 21/10 1754 – dop ej i Frykerud/Brunskog",
+   "text": "Ingen dopsedel 21/10 1754 i Frykerud C/4 bild 84 (okt 1754: 4/9/10/26/28 okt) eller Brunskog C I/2 bild 91 (okt–nov 1754). Född sannolikt i annan socken (t.ex. Fryksände/Östmark/Ny) – ej undersökt.",
+   "persons": []
+  },
+  {
+   "title": "Dop saknas: Börit Andersdotter (f. 28/12 1718, Tobyn)",
+   "text": "Brunskog dop C I/1 bild 120 (sid 216–217) slutar med dop 7 dec 1718 och jan 1719 börjar bild 121; Börit (dödbok 1795: f. Tobyn 28/12 1718 av Anders Jonsson och Kari) finns inte bland dopen. Föräldrar kvarstår enligt dödboken.",
+   "persons": [
+    "borit_andersd18_tobyn"
+   ]
+  },
+  {
+   "title": "Dop ej funnet: Kjersti Jonsdotter (f. 14/8 1728, Renstad)",
+   "text": "Brunskog dop C I/1 bild 171–172 (1728): inga dop mellan nr 17 (11 aug) och nr 18 (25 aug); ingen Kjersti från Renstad bland bilderna 171–172. Bild 173 ej läst. Föräldrar enligt dödbok: Jon Nilsson och Kjersti Jonsdotter.",
+   "persons": [
+    "kjersti_jonsd28"
+   ]
+  },
+  {
+   "title": "Dop ej funnet: Brita Jansdotter (f. 26/3 1757, Boda)",
+   "text": "Boda dop C I/2 (C0036593) bild 40 (s. 67, mars–apr 1757) läst: inga dop född 26/3 med dotter Brita; närliggande dop f. 21, 22 och 25/3 samt 31/3 gäller andra barn. 1757 börjar ca bild 39; bild 39 ej läst.",
+   "persons": [
+    "brita_jansd_lerbodatorp"
+   ]
   }
  ],
  "conflicts": [
@@ -4245,6 +4333,14 @@
     "aq4_stanislaw_orzechowski_1905",
     "jozef_orzechowski",
     "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Marianna Lutowskas död: Odrowąż 1897 akt 3",
+   "text": "Marianna z Lutowskich Młodawska dog 20 dec 1896 (jul.) = 1 jan 1897 i Świerczów, 23 år, änka efter Jan lämnad (maken Jan Młodawski levde). Akt 1895/3 och 1896/158 gäller små flickor med namnet Marianna Młodawska (1895: dotter till Jan + Marianna z Lutowskich, 2 år; 1896 nr 158: 2 år, annan by/föräldrar, ej vår släkt), inte mamman.",
+   "persons": [
+    "marianna_lutawska",
+    "marianna_mlodawska_1893"
    ]
   }
  ]
