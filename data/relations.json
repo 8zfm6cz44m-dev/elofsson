@@ -12254,5 +12254,182 @@
   "b": "aq3_emanuel_johannesson44",
   "status": "strong",
   "basis": "Samma hushåll, husförhör A I/19 bild 399."
+ },
+ {
+  "id": "p-adam_ersson68_nordsjo-maria_palsd74_nordsjo",
+  "type": "partner",
+  "a": "adam_ersson68_nordsjo",
+  "b": "maria_palsd74_nordsjo",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): ”Adam Ersson” 68 – ”H. Maria Påls d[otte]r” 74 (H. = hustru)."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-per_adamsson16",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "per_adamsson16",
+  "status": "verified",
+  "basis": "Boda dopbok C I/2 (C0036593) bild 227 (1816, april 4, höger sida): ”Nordsjö Per” – ”Adam Ersson / Maria Påls d.” (osäker läsning av föräldranamnen: ”Adam Ersson”, ”Maria Pålsd”), mor 35(?) år; fadder Nils Pettersson/Britta Jansdotter (osäker). Husförhör A I/12 bild 131: ”S. Per” 16 i Adams hushåll."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-olof_adamsson94",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "olof_adamsson94",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-jonas_adamsson99",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "jonas_adamsson99",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-britta_adamsd03",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "britta_adamsd03",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-cajsa_adamsd11",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "cajsa_adamsd11",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-maria_adamsd13",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "maria_adamsd13",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-adam_ersson68_nordsjo-maria_palsd74_nordsjo-anders_adamsson19",
+  "type": "child",
+  "parents": [
+   "adam_ersson68_nordsjo",
+   "maria_palsd74_nordsjo"
+  ],
+  "child": "anders_adamsson19",
+  "status": "verified",
+  "basis": "Boda A I/12 bild 131 (fol. 119 Nordsjö): barn i hushållet Adam Ersson / H. Maria Påls d., familjeställning S./D.; A I/13 bild 127 bekräftar."
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-anders_pa48",
+  "type": "child",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "anders_pa48",
+  "status": "verified",
+  "basis": "Boda A I/22 bild 150 (s.154 Nordsjö): hushåll Per Adamsson/Britta Elofsdotter, barnraderna med ”S./Dot./„” (son/dotter/ditto)."
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-maria_pa53",
+  "type": "child",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "maria_pa53",
+  "status": "verified",
+  "basis": "Boda A I/22 bild 150 (s.154 Nordsjö): hushåll Per Adamsson/Britta Elofsdotter, barnraderna med ”S./Dot./„” (son/dotter/ditto)."
+ },
+ {
+  "id": "c-per_adamsson16-britta_e-brittakajsa_pa56",
+  "type": "child",
+  "parents": [
+   "per_adamsson16",
+   "britta_e"
+  ],
+  "child": "brittakajsa_pa56",
+  "status": "verified",
+  "basis": "Boda A I/22 bild 150 (s.154 Nordsjö): hushåll Per Adamsson/Britta Elofsdotter, barnraderna med ”S./Dot./„” (son/dotter/ditto)."
+ },
+ {
+  "id": "s-per_adamsson16-olof_adamsson94",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "olof_adamsson94",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "s-per_adamsson16-jonas_adamsson99",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "jonas_adamsson99",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "s-per_adamsson16-britta_adamsd03",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "britta_adamsd03",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "s-per_adamsson16-cajsa_adamsd11",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "cajsa_adamsd11",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "s-per_adamsson16-maria_adamsd13",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "maria_adamsd13",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "s-per_adamsson16-anders_adamsson19",
+  "type": "sibling",
+  "a": "per_adamsson16",
+  "b": "anders_adamsson19",
+  "status": "verified",
+  "basis": "Båda barn till Adam Ersson/Maria Pålsdotter i Nordsjö (A I/12 bild 131; Per: dop 1816 bild 227)."
+ },
+ {
+  "id": "c-fr_mansknutsson1711_lene-fr_kerstinnilsd1727_lene-fr_catharinamansd1756_lene",
+  "type": "child",
+  "parents": [
+   "fr_mansknutsson1711_lene",
+   "fr_kerstinnilsd1727_lene"
+  ],
+  "child": "fr_catharinamansd1756_lene",
+  "status": "verified",
+  "basis": "Frykerud A I/7 C0037108_00043 (fol. 30, Lene): hushållet ”Måns Knutsson” 1711, ”H. Kerstin Nilsd” 1727, ”S. Måns” 1746, ”D. Stina” 1753, (överstruken) ”Catharina” 1756 ⁷⁄₁₁, ”D. Ingeborg Måns” 1761; A I/6 bild 75 ”d. Catarina Måns dr” 1756."
  }
 ]

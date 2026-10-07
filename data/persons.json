@@ -22793,7 +22793,8 @@
    "Därefter i Boda: p.171 Renstad (1867), p.157 Nordsjö (1868), p.156 Nordsjö (1870): ”Johanna Persdotter” 45 18/12 Boda.",
    "FOLKRÄKNING 1880–1910: med maken Nils Andersson i Boda (Nordsjö), f. 1845 Boda.",
    "MyHeritage Smart Match (lead, 2 träffar, båda lästa): f. 18 dec 1845 Boda, DÖD 1917 (årtal; ej i vårt träd). NYA SYSKON: Stina Persdotter (+5 fler = 6 syskon, ett träd). Barn: Kristina Nilsdotter +9 fler (dvs. 10 barn; vårt träd har 9 barn i trädet - ett barn kan saknas), samt 'Emelia Emanuelsson (född Nilsdotter)' (dotter). Gift Nils Andersson Elofsson. Kontrollera: 10:e barnet, död 1917, syskonet Stina Persdotter.",
-   "BK1: SCB död Boda 1917, bild A0031330_00244 (nr 15): ”Enkan Johanna Andersson f. Persd, från Nordsjö”, f. 45 18/11. Dödsår 1917 stämmer; namn (f. Persdotter, g. Andersson) + födelseår 1845 + Boda stämmer. AVVIKELSE: SCB anger födelsedag 18/11, vår post 18/12 1845 (husförhör Boda A I/22) – kontrollera; boplats Nordsjö (inte Remstad). Maken Nils Andersson (1844) död före 1917 (enka)."
+   "BK1: SCB död Boda 1917, bild A0031330_00244 (nr 15): ”Enkan Johanna Andersson f. Persd, från Nordsjö”, f. 45 18/11. Dödsår 1917 stämmer; namn (f. Persdotter, g. Andersson) + födelseår 1845 + Boda stämmer. AVVIKELSE: SCB anger födelsedag 18/11, vår post 18/12 1845 (husförhör Boda A I/22) – kontrollera; boplats Nordsjö (inte Remstad). Maken Nils Andersson (1844) död före 1917 (enka).",
+   "DOP Boda C I/3 bild 77 (s.119, höger sida, hel 1845): rad ”18 19 Johanna Takenetorp. Per Olsson / H. Cajsa Nilsd[otter]” (30 = ålder/nummer?; fadder Bengt Jansson m. H. Catharina Olsd[otter]). Födelse 18, dop 19 november 1845 – SCB 18/11 stämmer; husförhörens ”18/12” (A I/22) är därmed felläsning/skrivfel."
   ],
   "sources": [
    {
@@ -22819,15 +22820,19 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 (Boda annex Nordsjö Smedåsen): Persdotter, Johanna f. 1845 i Boda, hustru i Nils Anderssons hushåll",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125553446&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (1820-1858) C0036594, bild 77 (1845, november): Johanna, Takenetorp, Per Olsson / H. Cajsa Nils d.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00077"
    }
   ],
   "search": [
    "Johanna Persdotter (Remstad, Boda)"
   ],
   "born": {
-   "date": "1845-12-18",
-   "place": "Boda",
-   "note": "husförhör Boda A I/22 sida 168/171/157/156: f. 18/12 1845 Boda"
+   "date": "1845-11-18",
+   "place": "Takenetorp, Boda",
+   "note": "dop Boda C I/3 bild 77 (1845, nov): född 18, döpt 19 nov; föräldrar Per Olsson / Cajsa Nilsdotter"
   },
   "died": {
    "date": "1917-04-26",
@@ -23414,7 +23419,9 @@
    "HUSFÖRHÖR A I/10 bild 38 (fol. 25): ”H. Kerstin Nilsdr” 1727 6/11 (A I/9 bild 49 läser förnamnet som Catharina?).",
    "DOP dotter Stina C/4 bild 69 (1753): ”Måns Knutsson och H. Kerstin Nilsd: barn i Lene kallat Stina” – namnet Kerstin Nilsdotter bekräftat (A I/9:s läsning ’Catharina?’ avförd). HUSFÖRHÖR A I/8 bild 48: ”H. Kierstin Nilsd[r]” 1727 6/11.",
    "DÖD (AF1): F/1 C0037142 bild 104 högersida (s. 183), ordagrant: ”Enkan Kjerstin Nilsdotr i Lene.” – febr 3 / 12, ”ålderdom”, 76 år 2 mån 23 d. Änka (Måns Knutsson d. dec 1795). VERIFIERAD död.",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 41 träffar (person 3000394). Stark: Kerstin Knutsson f. Nilsdotter, f. 1727, d. 1803/1804 (vårt träd: d. 3 feb 1804 – flera träd 1803, enstaka 1804 = bekräftar vår dag/år). NYA: syskon Karin Svensson (f. Nilsdotter) +?, Jonas Nilsson +3 syskon; barn Måns Månsson +6-8 och Sven Månsson +6 (Sven Månsson saknas i vårt träd? vi har Stina, Måns, Ingeborg, Elin, Margareta, Nils) samt Stina Andersson (f. Månsdotter). Karin Svensson f. Nilsdotter kan vara vår Karin Ersson/Svensson (f. 1719, g. Sven Ersson) – hypotes: systrar. Kontrollera Frykerud dopbok 1727 (Kerstin Nilsdotter, föräldrar) och 1719 (Karin Nilsdotter), samt barn Sven Månsson i dopbok Frykerud 1750-60-tal."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 41 träffar (person 3000394). Stark: Kerstin Knutsson f. Nilsdotter, f. 1727, d. 1803/1804 (vårt träd: d. 3 feb 1804 – flera träd 1803, enstaka 1804 = bekräftar vår dag/år). NYA: syskon Karin Svensson (f. Nilsdotter) +?, Jonas Nilsson +3 syskon; barn Måns Månsson +6-8 och Sven Månsson +6 (Sven Månsson saknas i vårt träd? vi har Stina, Måns, Ingeborg, Elin, Margareta, Nils) samt Stina Andersson (f. Månsdotter). Karin Svensson f. Nilsdotter kan vara vår Karin Ersson/Svensson (f. 1719, g. Sven Ersson) – hypotes: systrar. Kontrollera Frykerud dopbok 1727 (Kerstin Nilsdotter, föräldrar) och 1719 (Karin Nilsdotter), samt barn Sven Månsson i dopbok Frykerud 1750-60-tal.",
+   "HUSFÖRHÖR A I/6 (1753-59) C0037107 bild 75 (fol. 56, Lene): ”M. Måns Knutsson” 1711 ²⁄₁₀, ”H. Kerstin Nilsd[r]” 1727 ⁶⁄₁₁, ”S. Måns Månsson” 1746 ⁴⁄₉, ”d. Stina Månsd[r]” 1753 ¹⁰⁄₇ (ingen Sven). A I/7 (1759-71) C0037108 bild 43 (fol. 30, Lene): ”Måns Knutsson” 1711 ²⁄₁₀, ”H. Kerstin Nilsd[r]” 1727 ⁶⁄₁₁, ”S. Måns” 1746 ⁴⁄₉, ”D. Stina” 1753 ¹⁰⁄₇, (överstruken) ”Catharina” 1756 ⁷⁄₁₁, ”D. Ingeborg Måns[d]” 1761 ¹¹⁄₇. Någon Sven Månsson finns ej i hushållet 1753–71 eller 1777 (A I/8).",
+   "DOP 1727 (möjlig föräldralänk, EJ verifierad): Frykerud dopbok C/3 (1726-46) C0037136 bild 24 (s.27), marginal ”Karstin”, ”d 6 Nov: Födde Niel Pehrsson og H: Ingebor Niels[dotter] barn i Wänersbyen(?), Christnades … d 7 dito af Hr Capellanen på Wäsby(?) och kalld Karstin”; fadder bl.a. ”Madame Anna Margreta de Tern”. Dag och namn (Kerstin f. 6/11 1727) stämmer med husförhörets 1727 6/11 och patronymikon Nilsdotter stämmer med fadern Niels – men bostadsorten (Wänersbyen? ej Lene) och att dopet är hennes är inte styrkt. Se flagga."
   ],
   "sources": [
    {
@@ -27845,17 +27852,29 @@
   "notes": [
    "FOLKRÄKNING 1880 Brunskog, Nohlby, sida 12 rad 36–44, fam. nr 1: Adamsson, Per f. 1816 i Boda, Åbo; hustru Elofsdotter, Britta f. 1824 i Brunskog (Familjeställning ”h.”).",
    "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 13 väntande träffar (sida 1 av 2 läst; person 3000513 i MyHeritage-trädet Elofsson_slakttrad_2026-10-07). Stark träff på namn+år: f. 1816, d. 1891 i ~10 av 12 träd (ett träd d. 1881; flera träd är kopior av 'Carlson Tree'/Don Carlson, Lindqvist, larsson m.fl.). NYA: syskon Jonas Adamsson (6 av trädens syskonlistor, totalt 5-7 syskon), Olof Adamsson (Cramne-trädet); barn 'Anders Persson' + 7-13 fler (vårt träd har 6 barn: Johannes, Emil, Adolf, Kristina, Anna Lisa, Karin – alltså kan 5-7 barn saknas, ev. äldre kull/namn Anders). Kontrollera: Boda dopbok 1816 (Per Adamsson, föräldrar -> Adam ...), Boda dödbok 1891, husförhör Nolby för barnlista.",
-   "BK1: SCB död Brunskog 1891 (Dödbok för Brunskogs norra församling, blad 4), bild A0036522_00721: ”Adamsson Per, f. d. åbo, Nolby”, ålder 74 år 10 mån 27 dagar. Stämmer med f. 1816 och Nolby. MyHeritage-leadens dödsår 1891 bekräftat (namn + ålder + bosättning)."
+   "BK1: SCB död Brunskog 1891 (Dödbok för Brunskogs norra församling, blad 4), bild A0036522_00721: ”Adamsson Per, f. d. åbo, Nolby”, ålder 74 år 10 mån 27 dagar. Stämmer med f. 1816 och Nolby. MyHeritage-leadens dödsår 1891 bekräftat (namn + ålder + bosättning).",
+   "DOP Boda C I/2 bild 227 (1816 april 4): ”Nordsjö Per” – ”Adam Ersson / Maria Påls d.”; fadder (osäker) Nils Pettersson och Britta Jansdotter. Föräldrar = adam_ersson68_nordsjo / maria_palsd74_nordsjo.",
+   "SYSKON (husförhör Boda A I/12 bild 131, fol. 119): Olof 1794, Jonas 1799, Britta 1803, Cajsa 1811, Maria 1813, Anders 1819 – se relations. MyHeritage-syskonen Jonas och Olof bekräftade som bröder.",
+   "BARN (husförhör Boda A I/22 bild 150): 9 barn – Anders 1848, Johannes 1850, Maria 1853, Britta Kajsa 1856, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866 (+ Karin 1869 i Brunskog, folkräkning 1880). Tre nya (Anders, Maria, Britta Kajsa); MyHeritages ’5-7 fler barn’ ej belagda utöver dessa."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Adamsson, Per f. 1816 Boda, Åbo; hustru Britta Elofsdotter f. 1824",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866-1870) C0036587, bild 150 (s.154, Nordsjö): Per Adamsson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00150"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748-1819) C0036593, bild 227 (1816, april 4): Nordsjö, Per, föräldrar Adam Ersson / Maria Påls d.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00227"
    }
   ],
   "born": {
    "date": "1816",
-   "place": "Boda"
+   "place": "Nordsjö, Boda",
+   "note": "husförhör Boda A I/22 bild 150: ”16 ⁷⁄₃” (7/3, osäker); dop 4 april 1816 (C I/2 bild 227). SCB-åldern 74 år 10 mån 27 d vid död 4/4 1891 ger 8 maj 1816 = stämmer inte | Födelsedatum osäkert: dop 4/4 1816 (säkert), husförhörets 7/3 osäkert läst, SCB-ålder ger 8/5; därför bara år."
   },
   "places": [
    "Nolby (Nohlby), Brunskog"
@@ -40103,6 +40122,367 @@
   ],
   "search": [
    "Klara Katrina Johannesdotter (f. 1842, Väsby, Frykerud)"
+  ]
+ },
+ {
+  "id": "anders_pa48",
+  "name": "Anders Persson (Adamsson) (f. 1848)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848-07-06",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Äldste kända son till Per Adamsson och Britta Elofsdotter; står som ”S. Anders” i hushållet i Nordsjö 1866–69. Ej med i folkräkningen 1880 (död eller utflyttad).",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 150 (s.154 Nordsjö), hushåll: ”B. Per Adamsson” 16 ⁷⁄₃ Boda, ”H. Britta Elofsdotter” 24 ¹³⁄₇(?) Brskog, ”S. Anders” 48 ⁶⁄₇ Boda, ”„ Johannes” 51(?) ¹⁰⁄₁₀ [anm. ”förderfvad i högra hand”(osäker)], ”Dot. Maria” 53 ²³⁄₆, ”„ Britta Kajsa” 56 ⁵⁄₇, ”S. Emil” 58 ⁷⁄₁₂, ”„ Adolf” 61 ¹⁵⁄₃, ”Dot. Kristina” 63 ¹⁵⁄₆, ”„ Anna Lisa” 66 ¹⁴⁄₆; utflyttning ”Nohlby i Brunskog 69”. Familjeställning ”S.” = son. Dop 1848 ej läst (Boda dopbok C I/3)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866-1870) C0036587, bild 150 (s.154, Nordsjö): Per Adamsson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00150"
+   }
+  ],
+  "search": [
+   "Anders Persson (Adamsson) (f. 1848)"
+  ]
+ },
+ {
+  "id": "maria_pa53",
+  "name": "Maria Persdotter (Adamsson) (f. 1853)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1853-06-23",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter till Per Adamsson och Britta Elofsdotter, ”Dot. Maria” i Nordsjö 1866–69; ej i 1880 års hushåll.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 150 (s.154 Nordsjö), hushåll: ”B. Per Adamsson” 16 ⁷⁄₃ Boda, ”H. Britta Elofsdotter” 24 ¹³⁄₇(?) Brskog, ”S. Anders” 48 ⁶⁄₇ Boda, ”„ Johannes” 51(?) ¹⁰⁄₁₀ [anm. ”förderfvad i högra hand”(osäker)], ”Dot. Maria” 53 ²³⁄₆, ”„ Britta Kajsa” 56 ⁵⁄₇, ”S. Emil” 58 ⁷⁄₁₂, ”„ Adolf” 61 ¹⁵⁄₃, ”Dot. Kristina” 63 ¹⁵⁄₆, ”„ Anna Lisa” 66 ¹⁴⁄₆; utflyttning ”Nohlby i Brunskog 69”. Familjeställning ”Dot.” = dotter. Dop 1853 ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866-1870) C0036587, bild 150 (s.154, Nordsjö): Per Adamsson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00150"
+   }
+  ],
+  "search": [
+   "Maria Persdotter (Adamsson) (f. 1853)"
+  ]
+ },
+ {
+  "id": "brittakajsa_pa56",
+  "name": "Britta Kajsa Persdotter (Adamsson) (f. 1856)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1856-07-05",
+   "place": "Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Dotter till Per Adamsson och Britta Elofsdotter (ditto-tecken efter ”Dot. Maria”); ej i 1880 års hushåll.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/22 bild 150 (s.154 Nordsjö), hushåll: ”B. Per Adamsson” 16 ⁷⁄₃ Boda, ”H. Britta Elofsdotter” 24 ¹³⁄₇(?) Brskog, ”S. Anders” 48 ⁶⁄₇ Boda, ”„ Johannes” 51(?) ¹⁰⁄₁₀ [anm. ”förderfvad i högra hand”(osäker)], ”Dot. Maria” 53 ²³⁄₆, ”„ Britta Kajsa” 56 ⁵⁄₇, ”S. Emil” 58 ⁷⁄₁₂, ”„ Adolf” 61 ¹⁵⁄₃, ”Dot. Kristina” 63 ¹⁵⁄₆, ”„ Anna Lisa” 66 ¹⁴⁄₆; utflyttning ”Nohlby i Brunskog 69”. Raden ”„ Britta Kajsa” följer på ”Dot. Maria” (ditto = dotter). Dop 1856 ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/22 (1866-1870) C0036587, bild 150 (s.154, Nordsjö): Per Adamsson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036587_00150"
+   }
+  ],
+  "search": [
+   "Britta Kajsa Persdotter (Adamsson) (f. 1856)"
+  ]
+ },
+ {
+  "id": "adam_ersson68_nordsjo",
+  "name": "Adam Ersson (Nordsjö, Boda, f. 1768)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1768-11-13",
+   "place": "Nordsjö, Boda",
+   "note": "A I/12: 68 ¹³⁄₁₁ ibm; A I/13 läser ¹³⁄₁₀(?)"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Bonde i Nordsjö, Boda; far till Per Adamsson (f. 1816) enligt dopet 1816. Gift med Maria Pålsdotter.",
+  "notes": [
+   "DOP Boda C I/2 1816 (bild 227, s.433): ”Nordsjö Per – Adam Ersson / Maria Påls d.” – se Per Adamsson. HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), hushåll: ”Adam Ersson” 68 ¹³⁄₁₁ ibm; ”H. Maria Påls d[otte]r” 74 ³¹⁄₇ Nordsjö; ”S. Olof” 94 ²²⁄₆ ibm (överstruken, utflyttad 18 p.85); ”S. Jonas” 99 ¹⁵⁄₃(?) ibm; ”D. Britta” 03 ²⁶⁄₆; ”D. Cajsa” 11 ¹²⁄₇; ”D. Maria” 13 ⁶⁄₁₂; ”S. Per” 16; ”S. Anders” 19 ²⁰⁄₅. A I/13 bild 127 (fol. 116, 1820–24): samma hushåll ”Bn Adam Ersson” 68 ¹³⁄₁₀(?), ”H. Maria Påls d.” 74 ³⁰⁄₇, ”S. Jonas” 99 ¹⁵⁄₃, ”D. Britta” 03 ²⁶⁄₆ (utfl. p.119 1821), ”D. Cajsa” 11, ”D. Maria” 13, ”S. Per” 16, ”S. Anders” 19(?); Olof ej kvar."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/2 (1748-1819) C0036593, bild 227 (1816, april 4): Per, Nordsjö, Adam Ersson / Maria Pålsd",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00227"
+   }
+  ],
+  "search": [
+   "Adam Ersson (Nordsjö, Boda, f. 1768)"
+  ]
+ },
+ {
+  "id": "maria_palsd74_nordsjo",
+  "name": "Maria Pålsdotter (Nordsjö, Boda, f. 1774)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1774-07-31",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Hustru till Adam Ersson i Nordsjö; mor till Per Adamsson (f. 1816) och hans syskon.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), hushåll: ”Adam Ersson” 68 ¹³⁄₁₁ ibm; ”H. Maria Påls d[otte]r” 74 ³¹⁄₇ Nordsjö; ”S. Olof” 94 ²²⁄₆ ibm (överstruken, utflyttad 18 p.85); ”S. Jonas” 99 ¹⁵⁄₃(?) ibm; ”D. Britta” 03 ²⁶⁄₆; ”D. Cajsa” 11 ¹²⁄₇; ”D. Maria” 13 ⁶⁄₁₂; ”S. Per” 16; ”S. Anders” 19 ²⁰⁄₅. A I/13 bild 127 (fol. 116, 1820–24): samma hushåll ”Bn Adam Ersson” 68 ¹³⁄₁₀(?), ”H. Maria Påls d.” 74 ³⁰⁄₇, ”S. Jonas” 99 ¹⁵⁄₃, ”D. Britta” 03 ²⁶⁄₆ (utfl. p.119 1821), ”D. Cajsa” 11, ”D. Maria” 13, ”S. Per” 16, ”S. Anders” 19(?); Olof ej kvar."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Maria Pålsdotter (Nordsjö, Boda, f. 1774)"
+  ]
+ },
+ {
+  "id": "olof_adamsson94",
+  "name": "Olof Adamsson (f. 1794)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1794-06-22",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Bror till Per Adamsson (nämnd som syskon i MyHeritage-leadet). Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: S. Olof 94 ²²⁄₆; överstruken, utflyttad ”18 p.85” (flyttat 1818, sida 85 i Boda husförhör). Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Olof Adamsson (f. 1794)"
+  ]
+ },
+ {
+  "id": "jonas_adamsson99",
+  "name": "Jonas Adamsson (f. 1799)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1799-03-15",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Bror till Per Adamsson (Jonas Adamsson i MyHeritage-leadet). Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: S. Jonas 99 ¹⁵⁄₃(?) ibm (både A I/12 och A I/13); månaden svårläst. Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Jonas Adamsson (f. 1799)"
+  ]
+ },
+ {
+  "id": "britta_adamsd03",
+  "name": "Britta Adamsdotter (f. 1803)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1803-06-26",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Syster till Per Adamsson. Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: D. Britta 03 ²⁶⁄₆; överstruken, utflyttad p.119 1821. Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Britta Adamsdotter (f. 1803)"
+  ]
+ },
+ {
+  "id": "cajsa_adamsd11",
+  "name": "Cajsa Adamsdotter (f. 1811)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1811-07-12",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Syster till Per Adamsson. Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: D. Cajsa 11 ¹²⁄₇. Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Cajsa Adamsdotter (f. 1811)"
+  ]
+ },
+ {
+  "id": "maria_adamsd13",
+  "name": "Maria Adamsdotter (f. 1813)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1813-12-06",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Syster till Per Adamsson. Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: D. Maria 13 ⁶⁄₁₂. Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Maria Adamsdotter (f. 1813)"
+  ]
+ },
+ {
+  "id": "anders_adamsson19",
+  "name": "Anders Adamsson (f. 1819)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1819-05-20",
+   "place": "Nordsjö, Boda"
+  },
+  "places": [
+   "Nordsjö, Boda"
+  ],
+  "summary": "Yngre bror till Per Adamsson. Barn i Adam Erssons hushåll i Nordsjö.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/12 bild 131 (fol. 119 Nordsjö), Adam Erssons hushåll: S. Anders 19 ²⁰⁄₅ (A I/12); A I/13 läses 17(?) – året 1819 antas. Familjeställning ”S.”/”D.” = son/dotter. Dop ej läst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/12 (1815-1819) C0036577, bild 131 (fol. 119, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036577_00131"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/13 (1820-1824) C0036578, bild 127 (fol. 116, Nordsjö): Adam Ersson med hustru och barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036578_00127"
+   }
+  ],
+  "search": [
+   "Anders Adamsson (f. 1819)"
+  ]
+ },
+ {
+  "id": "fr_catharinamansd1756_lene",
+  "name": "Catharina Månsdotter (Lene, f. 1756)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1756-11-07",
+   "place": "Frykerud"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Måns Knutsson och Kerstin Nilsdotter på Lene; står överstruken (död/utflyttad) i husförhören efter 1759.",
+  "notes": [
+   "HUSFÖRHÖR A I/7 (1759-71) C0037108 bild 43 (fol. 30, Lene), Måns Knutssons hushåll: ”D. Stina” 1753 ¹⁰⁄₇, (överstruken) ”d. Catharina” 1756 ⁷⁄₁₁, ”D. Ingeborg Måns[d]” 1761 ¹¹⁄₇. A I/6 (C0037107) bild 75 (fol. 56): ”d. Catarina Måns dr” 1756 ⁷⁄₁₁. Dop 1756 ej läst. Överstruken = död före 1771 (dödbok ej kontrollerad)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759-1771) C0037108, bild 43 (fol. 30, Lene): Måns Knutssons hushåll, ”Catharina” 1756 7/11 (överstruken)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00043"
+   }
+  ],
+  "search": [
+   "Catharina Månsdotter (Lene, f. 1756)"
   ]
  }
 ]

@@ -3789,6 +3789,20 @@
     "sven_ersson",
     "karin_nilsdotter19"
    ]
+  },
+  {
+   "title": "Johannes Persson f. 1850 eller 1851?",
+   "text": "Boda A I/22 bild 150 läser ”51 ¹⁰⁄₁₀” för Johannes; dopbok C I/3 bild 87 (1850) ger 10/10 1850. Dopet (primärkälla) gäller; husförhörets årtal troligen skrivfel.",
+   "persons": [
+    "johannes_pa50"
+   ]
+  },
+  {
+   "title": "Kerstin Nilsdotter f. 6/11 1727: möjlig dopost hittad – föräldralänk ej styrkt",
+   "text": "Frykerud C/3 C0037136_00024: Kerstin f. 6 nov 1727, föräldrar Niel Pehrsson och Ingebor Nilsdotter, bostad Wänersbyen(?) (ej Lene). Samma födelsedag som vår Kerstin (husförhör 1727 6/11) men inget band mellan dopet och Lene visat. Kandidat: far Nils Persson. Kan inte kopplas till Karin Nilsdotter f. 1719 (syster?) utan dop/husförhör för henne.",
+   "persons": [
+    "fr_kerstinnilsd1727_lene"
+   ]
   }
  ],
  "conflicts": [
@@ -4352,6 +4366,20 @@
    "persons": [
     "bh1_johannes_jonsson_vadbey",
     "aq3_emanuel_johannesson44"
+   ]
+  },
+  {
+   "title": "Johanna Persdotter: födelsedag 18/11 (dop, SCB) mot 18/12 (husförhör)",
+   "text": "Dopboken Boda C I/3 bild 77 (C0036594_00077) anger Johanna, Takenetorp, Per Olsson / Cajsa Nilsd, född 18, döpt 19 november 1845. SCB säger 18/11. Husförhörets 18/12 är fel. Rekommendation: 1845-11-18; föräldrar Per Olsson och Cajsa Nilsdotter i Takenetorp (ej nya personposter skapade för dem).",
+   "persons": [
+    "johanna_persdotter_remstad"
+   ]
+  },
+  {
+   "title": "Per Adamsson: födelse- och dödsålder stämmer inte",
+   "text": "Dop Boda 4 april 1816 (C0036593_00227); husförhör A I/22 ’16 7/3’ (7 mars). SCB-dödbokens ålder 74 år 10 mån 27 d vid död 4/4 1891 ger födelse ca 8 maj 1816, dvs efter dopet – åldern i SCB är fel (eller dödsdatum). Födelsedag 7/3 är osäker läsning.",
+   "persons": [
+    "per_adamsson16"
    ]
   }
  ],
