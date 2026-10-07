@@ -35,6 +35,12 @@ function parseName(raw, id) {
   return { given, surname, married };
 }
 
+/* ---- platser ---- */
+function cleanPlace(v) {
+  v = String(v || "").trim();
+  return /^(okänd|okänt)(\s+ort)?\.?$/i.test(v) ? "" : v;
+}
+
 /* ---- datum ---- */
 function gdate(v) {
   v = String(v || "").trim();
@@ -160,7 +166,8 @@ function buildGedcom(persons, relations, opts) {
     if (p.sex === "m" || p.sex === "f") emit(out, 1, "SEX", p.sex.toUpperCase());
     if (p.living) emit(out, 1, "RESN", "privacy");
     if (!mask) {
-      const b = p.born || {}, dd = p.died || {};
+      const b = Object.assign({}, p.born || {}), dd = Object.assign({}, p.died || {});
+      b.place = cleanPlace(b.place); dd.place = cleanPlace(dd.place);
       const bd = gdate(b.date);
       if (bd || b.place || b.note) {
         emit(out, 1, "BIRT"); if (bd) emit(out, 2, "DATE", bd); if (b.place) emit(out, 2, "PLAC", b.place);
@@ -175,7 +182,7 @@ function buildGedcom(persons, relations, opts) {
         const raw = dd.date && !gdate(dd.date) && !/avliden/i.test(dd.date) ? `Datum enligt källa: ${dd.date}. ` : "";
         if (raw || dd.note) emit(out, 2, "NOTE", raw + (dd.note || ""));
       }
-      (p.places || []).forEach(pl => { emit(out, 1, "RESI"); emit(out, 2, "PLAC", pl); });
+      (p.places || []).map(cleanPlace).filter(Boolean).forEach(pl => { emit(out, 1, "RESI"); emit(out, 2, "PLAC", pl); });
       const lines = [`Bevisläge: ${STATUS_SV[p.status] || p.status}.`];
       if (p.sidoperson) lines.push("Sidoperson (bifigur i släktträdet, inte släkt).");
       if (p.summary) lines.push(p.summary);
