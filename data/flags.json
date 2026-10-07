@@ -3364,6 +3364,15 @@
    "persons": [
     "anders_e"
    ]
+  },
+  {
+   "title": "Wawrzyniec+Tekla Orzechowski och Michał Orzechowskis födelse ej funna",
+   "text": "Katedra födelseindex 1841 (SkU-3), 1842 (SkU-4) och 1843 (SkU-3) genomlästa i O-avsnittet: ingen Michał Orzechowski (1843 endast Józef akt 161). Michał f. ca 1841/42 i 'Wólka Pokonna' (Wola Pokonna hör till Katedra-sockenområdet, jfr akt 373/1820). Geneteka har ingen indexering för Orzechowski i Katedra. Nästa steg: 1840a, 1844a–1845a, ev. Michał som 'Orzechowski' under annan stavning (Orzechowksi, Orzehowski), samt vigsel Wawrzyniec x Tekla 1825–1840 och Wawrzyniecs död 1841–1866.",
+   "persons": [
+    "michal_orzechowski",
+    "wawrzyniec_orzechowski",
+    "tekla_orzechowska"
+   ]
   }
  ],
  "conflicts": [
@@ -3878,6 +3887,15 @@
     "jozef_zatorski",
     "antonina_zatorska_n",
     "katarzyna_zatorska"
+   ]
+  },
+  {
+   "title": "Tekla Hencels flicknamn: Skrzyńska eller Piotrowska?",
+   "text": "Franciszek Henzel 1816 (Geneteka): mor Tekla Skrzyńska. Augustyn 1820 akt 369 (läst på bild): 'Tekli z […]ńskich' (Geneteka 'Slerzyńska'). Franciszeks vigsel 1838 akt 73: 'Tekli ze Skrzyńskich'. Augustyns vigsel 1841 akt 148: 'Tekli z Piotrowskich'. Tre källor säger Skrzyńska, en Piotrowska. Möjligen skrivarfel, eller Jan gifte om sig med en Tekla Piotrowska (nej: samma förnamn är osannolikt) – föreslå Skrzyńska som huvudläsning. Kräver omläsning av 1841 akt 148 på nära håll och av Jan+Teklas vigsel (ca 1808-1815, saknas i Skanoteka 1813-1816).",
+   "persons": [
+    "tekla_hencel_mor",
+    "augustyn_hencel",
+    "franciszek_hencel_1816"
    ]
   }
  ],

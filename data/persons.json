@@ -19134,12 +19134,26 @@
   "summary": "Far till Agnieszka Hencel; gårdsägare i Niewachlów 1866.",
   "notes": [
    "VIGSEL 1866 akt 94: 'córką Augustyna i Maryanny ... małżonków Hencel'",
-   "Född 1820 i Niewachłów: Katedra 1820 akt 369 (far Jan Hentel, mor Tekla z Piotrowskich); vigsel 1841 akt 148: ”z nieżyjącego Jana i Tekli z Piotrowskich” × Maryanna z Szrekow (17 år, dotter till Mikołaj och Małgorzata z Jaworskich)."
+   "Född 1820 i Niewachłów: Katedra 1820 akt 369 (far Jan Hentel, mor Tekla z Piotrowskich); vigsel 1841 akt 148: ”z nieżyjącego Jana i Tekli z Piotrowskich” × Maryanna z Szrekow (17 år, dotter till Mikołaj och Małgorzata z Jaworskich).",
+   "OMLÄSNING 1841 akt 148 (ordagrant): 'Augustynem Hencel lat dwadzieścia jeden … urodzonym z nieżyjącego Jana, i Tekli z Piotrowskich żyjącej' – fadern Jan död före 26.11.1841, modern Tekla levde. Syskon: Franciszek Hencel f. 17.9.1816 (franciszek_hencel_1816).",
+   "Modernamn: akt 369/1820 och Franciszeks vigsel 1838 anger 'Skrzyńska' (index 'Slerzyńska'), akt 148/1841 'z Piotrowskich' – se flagga."
   ],
   "sources": [
    {
     "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1841 (1841b), akt 148, fil 148-150.jpg: Augustyn Hencel x Maryanna z Szrekow",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1841b&kt=1&plik=148-150.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1820 (1820a), akt 369, fil 369-375.jpg: Augustyn, far Jan Hentel, mor 'Tekli ...ńskich'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1820a&kt=1&plik=369-375.jpg"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, födelse 1820 akt 369: Augustyn Hencel, f. 01.09.1820, far Jan, mor Tekla Slerzyńska [sic] (gid=8624897)",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Hencel&from_date=1820&to_date=1820"
    }
   ],
   "living": false,
@@ -23704,8 +23718,8 @@
  },
  {
   "id": "hencel_jan_1820",
-  "name": "Jan Hencel (f. ca 1775, far till Augustyn f. 1820?)",
-  "status": "candidate",
+  "name": "Jan Hencel/Hentel (f. ca 1775, d. före 1838)",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23718,17 +23732,31 @@
   ],
   "summary": "Far i akt 369/1820, Niewachłów; hantverksmästare. Koppling till Augustyn (far till Agnieszka) ej bekräftad.",
   "notes": [
-   "Se hencel_augustyn_1820."
+   "Se hencel_augustyn_1820.",
+   "Yrke 1820: 'Mayster Konsztu C…lskiego' (hantverksmästare, ev. kołodziej/wheelwright enligt 1838). Gift med Tekla (f. Skrzyńska/Piotrowska). Barn: Franciszek f. 1816, Augustyn f. 1820. Död mellan 1820 och aug 1838 (dödsakt ej funnen)."
   ],
   "sources": [
    {
     "label": "Kielce Katedra 1820, akt 369",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=369-375.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1820 (1820a), akt 369, fil 369-375.jpg: Augustyn, far Jan Hentel, mor 'Tekli ...ńskich'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1820a&kt=1&plik=369-375.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1838 (1838b), akt 73, fil 072-074.jpg: Franciszek Hencel x Antonina Majewska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1838b&kt=1&plik=072-074.jpg"
    }
   ],
   "search": [
    "Jan Hencel (f. ca 1775, far till Augustyn f. 1820?)"
-  ]
+  ],
+  "died": {
+   "date": "före 1838-08-13",
+   "place": "",
+   "note": "'już zmarłego' i Franciszeks vigsel 1838 akt 73; 'nieżyjącego' 1841"
+  }
  },
  {
   "id": "fr_andersnilsson1710_lene",
@@ -37731,6 +37759,129 @@
   ],
   "search": [
    "Marit Olsdotter (f. 1776, Ö. Takene, mor till Marit f. 1802)"
+  ]
+ },
+ {
+  "id": "tekla_hencel_mor",
+  "name": "Tekla Hencel (f. Piotrowska/Skrzyńska?)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1790",
+   "place": "",
+   "note": "30 år i födelseakt 1820"
+  },
+  "died": {
+   "date": "efter 1841",
+   "place": "",
+   "note": "levde 26.11.1841 (akt 148 'żyjącej'); död ej funnen"
+  },
+  "places": [
+   "Niewachłów (Kielce)"
+  ],
+  "summary": "Hustru till Jan Hencel/Hentel, mor till Franciszek (f. 1816) och Augustyn (f. 1820). Moderns flicknamn anges olika: 'Skrzyńska' (1816 index, 1820, 1838) men 'z Piotrowskich' (1841).",
+  "notes": [
+   "VIGSEL 1838 akt 73 (polska, ordagrant, 13 aug 1838): 'urodzonym w Niewachlowie z Jana już zmarłego [yrke svårläst, ev. kołodzieja] i tamże żyjącej Tekli ze Skrzyńskich małżonków Hencel' (brudgum Franciszek Hencel, 22 år).",
+   "VIGSEL 1841 akt 148 (polska, ordagrant, 26 nov 1841): 'Augustynem Hencel lat dwadzieścia jeden mającym gospodarzem młodzianem w Niewachlowie zamieszkałym i urodzonym z nieżyjącego Jana, i Tekli z Piotrowskich żyjącej' (Maryanna z Szrekow, 17 år, dotter till Mikołaj och Małgorzata z Jaworskich).",
+   "FÖDELSEAKT 1820 akt 369 (läst på bild): 'stawił się Jan Hentel lat czterdzieści pięć mający, Mayster Konsztu C[…]lskiego, we Wsi Niewachlow zamieszkały … spłodzone z niego i Tekli z […]ńskich lat trzydzieści mającej jego Małżonki' – flicknamnet slutar på -ńskich (Geneteka-index: 'Slerzyńska'), ej Piotrowskich.",
+   "KONFLIKT: 'Skrzyńska' (1816 index, 1820, 1838) mot 'Piotrowska' (1841). Se flagga."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1838 (1838b), akt 73, fil 072-074.jpg: Franciszek Hencel x Antonina Majewska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1838b&kt=1&plik=072-074.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1841 (1841b), akt 148, fil 148-150.jpg: Augustyn Hencel x Maryanna z Szrekow",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1841b&kt=1&plik=148-150.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1820 (1820a), akt 369, fil 369-375.jpg: Augustyn, far Jan Hentel, mor 'Tekli ...ńskich'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1820a&kt=1&plik=369-375.jpg"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, födelse 1816: Franciszek Henzel, f. 17.09.1816, far Jan, mor Tekla Skrzyńska, Niewachlów (gid=8787973, rid=7602). Ingen skan finns i Skanoteka för 1813-1816.",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Henzel&from_date=1816&to_date=1816"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, födelse 1820 akt 369: Augustyn Hencel, f. 01.09.1820, far Jan, mor Tekla Slerzyńska [sic] (gid=8624897)",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Hencel&from_date=1820&to_date=1820"
+   }
+  ],
+  "search": [
+   "Tekla Hencel (f. Piotrowska/Skrzyńska?)"
+  ]
+ },
+ {
+  "id": "franciszek_hencel_1816",
+  "name": "Franciszek Hencel (f. 1816)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1816-09-17",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "Geneteka-index; ingen skan finns för 1816"
+  },
+  "places": [
+   "Niewachłów",
+   "Białogon (bosatt 1838)",
+   "Kielce"
+  ],
+  "summary": "Äldre bror till Augustyn Hencel (f. 1820): son till Jan Hencel och Tekla ze Skrzyńskich. Gift 13.8.1838 i Kielce Katedra med Antonina Majewska.",
+  "notes": [
+   "VIGSEL 1838 akt 73 (polska, ordagrant): 'między Franciszkiem Hencel [yrke ev. stolarzem/kołodziejem] w Białogonie zamieszkałym, urodzonym w Niewachlowie z Jana już zmarłego … i tamże żyjącej Tekli ze Skrzyńskich małżonków Hencel lat dwadzieścia dwa mającym, a panną Antoniną Majewską córką Jana … i Maryanny Sz[…]skiej małżonków Majewskich w Kielcach zamieszkałych, lat dwadzieścia jeden mającą' (ålder 22 stämmer med f. 1816).",
+   "GENETEKA B 1816 (Kielce Katedra, Niewachlów): Franciszek Henzel, f. 17.09.1816, far Jan, mor Tekla Skrzyńska. Namnlikhet Henzel/Hencel + far Jan + mor Tekla + samma by + ålder 22 år 1838 → strong (ej verified: födelseakten ej bildläst, skan saknas 1813-1816)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1838 (1838b), akt 73, fil 072-074.jpg: Franciszek Hencel x Antonina Majewska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1838b&kt=1&plik=072-074.jpg"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, födelse 1816: Franciszek Henzel, f. 17.09.1816, far Jan, mor Tekla Skrzyńska, Niewachlów (gid=8787973, rid=7602). Ingen skan finns i Skanoteka för 1813-1816.",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Henzel&from_date=1816&to_date=1816"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, vigsel 1838 akt 73: Franciszek Hencel x Antonina Majewska (gid=653276)",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&rid=S&search_lastname=Hencel&from_date=1838&to_date=1838"
+   }
+  ],
+  "search": [
+   "Franciszek Hencel (f. 1816)"
+  ]
+ },
+ {
+  "id": "antonina_majewska_hencel",
+  "name": "Antonina Majewska (g. Hencel)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1817",
+   "place": "Kielce",
+   "note": "21 år 1838"
+  },
+  "places": [
+   "Kielce"
+  ],
+  "summary": "Hustru till Franciszek Hencel (g. 1838), dotter till Jan Majewski och Maryanna Sz[…]ska.",
+  "notes": [
+   "VIGSEL 1838 akt 73: 'panną Antoniną Majewską córką Jana … i Maryanny Sz[…]skiej małżonków Majewskich w Kielcach zamieszkałych, lat dwadzieścia jeden'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigselbok 1838 (1838b), akt 73, fil 072-074.jpg: Franciszek Hencel x Antonina Majewska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1838b&kt=1&plik=072-074.jpg"
+   },
+   {
+    "label": "Geneteka (index), Kielce Katedra, vigsel 1838 akt 73: Franciszek Hencel x Antonina Majewska (gid=653276)",
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=13sk&rid=S&search_lastname=Hencel&from_date=1838&to_date=1838"
+   }
+  ],
+  "search": [
+   "Antonina Majewska (g. Hencel)"
   ]
  }
 ]

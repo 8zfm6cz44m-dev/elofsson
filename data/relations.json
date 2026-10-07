@@ -11641,5 +11641,51 @@
   "b": "marit_olsd_takene76",
   "status": "strong",
   "basis": "Dop 1802 bild 72 nr 1 (”g.” = gift)."
+ },
+ {
+  "id": "c-hencel_jan_1820-tekla_hencel_mor-franciszek_hencel_1816",
+  "type": "child",
+  "parents": [
+   "hencel_jan_1820",
+   "tekla_hencel_mor"
+  ],
+  "child": "franciszek_hencel_1816",
+  "status": "strong",
+  "basis": "Vigsel 1838 akt 73: 'urodzonym w Niewachlowie z Jana już zmarłego … i … Tekli ze Skrzyńskich małżonków Hencel'; Geneteka B 1816 Franciszek Henzel, far Jan, mor Tekla Skrzyńska, Niewachlów."
+ },
+ {
+  "id": "c-hencel_jan_1820-tekla_hencel_mor-augustyn_hencel",
+  "type": "child",
+  "parents": [
+   "hencel_jan_1820",
+   "tekla_hencel_mor"
+  ],
+  "child": "augustyn_hencel",
+  "status": "verified",
+  "basis": "Vigsel 1841 akt 148: 'urodzonym z nieżyjącego Jana, i Tekli z Piotrowskich żyjącej'; födelse 1820 akt 369: Jan Hentel + 'Tekli z […]ńskich', Niewachlów."
+ },
+ {
+  "id": "p-hencel_jan_1820-tekla_hencel_mor",
+  "type": "partner",
+  "a": "hencel_jan_1820",
+  "b": "tekla_hencel_mor",
+  "status": "verified",
+  "basis": "Akt 369/1820 'jego Małżonki' Tekla; vigsel 1838 akt 73 'Jana … i … Tekli … małżonków Hencel'."
+ },
+ {
+  "id": "s-franciszek_hencel_1816-augustyn_hencel",
+  "type": "sibling",
+  "a": "franciszek_hencel_1816",
+  "b": "augustyn_hencel",
+  "status": "strong",
+  "basis": "Samma föräldrar Jan + Tekla, Niewachlów (1816 Geneteka, 1838 akt 73, 1820 akt 369, 1841 akt 148)."
+ },
+ {
+  "id": "p-franciszek_hencel_1816-antonina_majewska_hencel",
+  "type": "partner",
+  "a": "franciszek_hencel_1816",
+  "b": "antonina_majewska_hencel",
+  "status": "strong",
+  "basis": "Vigsel Kielce Katedra 13.8.1838 akt 73."
  }
 ]
