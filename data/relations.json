@@ -6296,8 +6296,8 @@
   "type": "sibling",
   "a": "fr_jonaspalsson",
   "b": "fr_britapalsd_rorbacken",
-  "status": "candidate",
-  "basis": "A I/1 C0037102 bild 55: båda i Pål Månssons hushåll (Brita Pålsd, Jonas Pålsson); Britas relation till Pål läst som dotter (H. med måg)."
+  "status": "strong",
+  "basis": "A I/1 bild 55: Påhl Månsson/Elin Nilsdotter, ”måg Pehr Larsson / H: Brita Påhlsdotter / S: Jonas Påhlsson” samma hushåll"
  },
  {
   "id": "c-al5_olof_nilsson_otoltan-al5_karin_olofsd95",
@@ -12002,5 +12002,86 @@
   "child": "hencel_stanislaw_jozef_1858",
   "status": "verified",
   "basis": "Katedra 1858 akt 257: 'Augustyn Hencel kolonista ... z jego Małżonki Maryanny z Szrekow ... Imiona Stanisław Jzydor'"
+ },
+ {
+  "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_jonknutsson_lene",
+  "type": "child",
+  "parents": [
+   "fr_knut_lene1711",
+   "fr_karinmansd_lene1711"
+  ],
+  "child": "fr_jonknutsson_lene",
+  "status": "strong",
+  "basis": "A I/1 bild 61 (s. 46, Lene): ”S: Jon Knutsson (överstruken)” under Knut/Karin Månsdotter"
+ },
+ {
+  "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_britaknutsd_lene",
+  "type": "child",
+  "parents": [
+   "fr_knut_lene1711",
+   "fr_karinmansd_lene1711"
+  ],
+  "child": "fr_britaknutsd_lene",
+  "status": "strong",
+  "basis": "A I/2 bild 52 (s. 82): ”E: Karin Månsdotter / … / Brita Knutsdotter” – patronymikon Knutsdotter"
+ },
+ {
+  "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_catharinaknutsd_lene",
+  "type": "child",
+  "parents": [
+   "fr_knut_lene1711",
+   "fr_karinmansd_lene1711"
+  ],
+  "child": "fr_catharinaknutsd_lene",
+  "status": "strong",
+  "basis": "A I/2 bild 52 (s. 82): ”d: Catharina Knutsdotter” i hushållet hos enkan Karin Månsdotter"
+ },
+ {
+  "id": "s-fr_mansknutsson1711_lene-fr_jonknutsson_lene",
+  "type": "sibling",
+  "a": "fr_mansknutsson1711_lene",
+  "b": "fr_jonknutsson_lene",
+  "status": "strong",
+  "basis": "Samma hushåll A I/1 bild 61, båda ”S:” under Knut/Karin"
+ },
+ {
+  "id": "s-fr_mansknutsson1711_lene-fr_britaknutsd_lene",
+  "type": "sibling",
+  "a": "fr_mansknutsson1711_lene",
+  "b": "fr_britaknutsd_lene",
+  "status": "strong",
+  "basis": "A I/2 bild 52, samma hushåll under enkan Karin Månsdotter"
+ },
+ {
+  "id": "s-fr_mansknutsson1711_lene-fr_catharinaknutsd_lene",
+  "type": "sibling",
+  "a": "fr_mansknutsson1711_lene",
+  "b": "fr_catharinaknutsd_lene",
+  "status": "strong",
+  "basis": "A I/2 bild 52 och A I/3 bild 59, samma hushåll"
+ },
+ {
+  "id": "s-fr_maritbryngelsd_lene-fr_nilsbryngelsson_lene",
+  "type": "sibling",
+  "a": "fr_maritbryngelsd_lene",
+  "b": "fr_nilsbryngelsson_lene",
+  "status": "candidate",
+  "basis": "A I/1 bild 60: ”S: Nils Bryngelsson … d: Marit Bryngelsd., d: Ingeri Bryngelsd.” i samma hushåll; faderns namn överstruket"
+ },
+ {
+  "id": "s-fr_maritbryngelsd_lene-fr_ingeribryngelsd_lene",
+  "type": "sibling",
+  "a": "fr_maritbryngelsd_lene",
+  "b": "fr_ingeribryngelsd_lene",
+  "status": "candidate",
+  "basis": "A I/1 bild 60 och A I/3 bild 60: ”Ingeri Bryngelsd.” i samma hushåll som Marit"
+ },
+ {
+  "id": "s-fr_jonaspalsson-fr_engelinpalsd_rorbacken",
+  "type": "sibling",
+  "a": "fr_jonaspalsson",
+  "b": "fr_engelinpalsd_rorbacken",
+  "status": "candidate",
+  "basis": "A I/1 bild 55: ”d: Engelin(?) Påhlsd.” i hushållet Påhl Månsson, förnamn osäkert"
  }
 ]

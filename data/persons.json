@@ -23241,7 +23241,8 @@
    "DÖD (AF1): F/1 C0037142 bild 80 (s. 137, ”Begrafne 1795”), dec: ”Gifta Måns Knutsson ifrån Lene” – kolumner: död 11 / begr. 20 dec, sjukdom ”Slag”, ålder 84 år 2 mån 9 dagar (⇒ f. 2/10 1711, stämmer med husförhör). VERIFIERAD död.",
    "Not: i samma bok (bild 71, 1789) ’Ungkarlen Drängen Måns Månsson i Lene’ d. 29/8 1789 = sonen, ej fadern; fadern dog 11/12 1795 (bild 80).",
    "HUSFÖRHÖR A I/6 (1753–59) C0037107 bild 75 (sid. 56, ”Lene”; Lene börjar sid. 55 = bild 74), ordagrant: ”Olof Saesson(?) [1688 4/6] / H. Karin Håkansdr [1680] / M. Måns Knutsson [1711 2/10] / H. Kerstin Nilsd [1727 6/11] / S. Måns Månsson [1746 4/9] / D. Stina Månsd [1753 10/7] / ab. dr. Jonas Nilsson / ab p. Ingeborg Månsd …”. Måns står i Olof Såessons/Karin Håkansdotters hushåll med förkortningen ”M.” (läst som ”Måg”/inhyses; osäker) – ej ”son”. Inga föräldrar till Måns Knutsson angivna; ingen ”född i”-kolumn i A I/6. Föräldrar (Knut …) alltså INTE funna; födelsen 1711 föregår dopböckerna (C/3 börjar 1726). Förslag: leta ”Måns Knutsson” som son i A I/1–A I/3 (1725–41) i annan by, eller i E I/1 bild 67 efter hemvist.",
-   "DOP (BA4): Frykerud C/2 bild 102 (s. 179), 1711 okt, marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …”. Dag (2 okt), by (Lene), namn (Måns) och faderns förnamn (Knut = Knutsson) stämmer med husförhör och dödbok (84 år 2 mån 9 d, d. 11/12 1795). Föräldrar: Knut och Karin Månsdotter."
+   "DOP (BA4): Frykerud C/2 bild 102 (s. 179), 1711 okt, marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …”. Dag (2 okt), by (Lene), namn (Måns) och faderns förnamn (Knut = Knutsson) stämmer med husförhör och dödbok (84 år 2 mån 9 d, d. 11/12 1795). Föräldrar: Knut och Karin Månsdotter.",
+   "A I/1 bild 61: ”Knut [Olofsson?] (överstruken) / H: Karin Månsdotter / S: Jon Knutsson (överstruken) / S: Måns Knutsson” – Måns är son (S:) till Knut/Karin; bror Jon. A I/2 bild 52: Karin är ”E” (enka); i hushållet Måns, Brita Knutsdotter, Catharina Knutsdotter; hushållet ligger i Måns Bryngelsson/Karin Hålandsdotters gård (undergård vars rubrik är oläsligt, ”Ö. Våhan?/Lene”). Måns ogift hos modern t.o.m. A I/3 (1736–40)."
   ],
   "sources": [
    {
@@ -23275,6 +23276,18 @@
    {
     "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 (1725-29), bild 61 (s. 46): ”S: Måns Knutsson” under Knut/Karin Månsdotter, Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00061"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729-36), bild 52 (s. 82): ”E: Karin Månsdotter / d: Måns Knutsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00052"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 (1736-41), bild 59 (s. 92): ”E: Karin Månsd. / Måns Knutsson” (ogift, hos modern)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00059"
    }
   ],
   "search": [
@@ -23632,7 +23645,8 @@
    "Vigsel och död ej funna (söktes ej i E I/1 före 1759).",
    "DÖD (AF1): F/1 C0037142 bild 30 högersida (s. 41), ”Döda och begrafne år 1759”, aug: ”24 | Rörbäcken, nämnd:m Jonas Pålsson [stavning ’Påhlsson/Pålson’]” – åldersrutan ”48” år (månader/dagar ”28” osäkert läst). Titel nämndeman, plats Rörbäcken och efternamn Pålsson stämmer med dopen 1752/1758; död aug 1759 sammanfaller med att hustrun Ingerid får barn med Salomon Berger i maj 1761 (omgifte 1759–60). Vigsel Jonas Pålsson × Ingerid Jonsdotter ej funnen (se unresolved).",
    "FÖRÄLDRAR (strong): A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg: Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson / … / D: Engelin(?) Pålsd”. Ålder saknas i A I/1; identiteten med nämndemannen Jonas Pålsson (48 år 1759 ⇒ f. ca 1711, alltså ca 14 år 1725) är trolig men ej bevisad (ej explicit dop). Syskon: Brita Pålsd (g. m. Pehr Larsson?) och en Engelin/Ingeborg Pålsd.",
-   "DOP (strong): Frykerud C/2 bild 95 (1711, s. 169): ”14/17 Febr. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon. Faddrar Corporalen Lars Larsson i Frölle(?), Per Nilsson i Gästebohl …”. Födelse 14/2 1711 ⇒ 48 år 6 mån i aug 1759 = stämmer med dödboken (48 år); föräldrarna Pål Månsson + Elin Nilsdotter = samma som i A I/1 bild 55 Rörbäcken. Barnets namn står 'Jon' (inte Jonas) och faderns förnamn är svårläst – därför strong, ej verified. Övriga Jon/Jonas-dop 1710–11 (bild 94–104) har andra föräldrar: bild 98 apr 1711 Nils Nilsson/Karin Månsdotter i Åsb; Olof Ersson/Brita i Köping; bild 97 1710 Jon Andersson/Karin Olofsdotter (Getsmossen); bild 101 sep 1711 'Jonas' Ingemar Nilsson/Ingeborg (Getsmossen) – alla utesluts av fader/ort."
+   "DOP (strong): Frykerud C/2 bild 95 (1711, s. 169): ”14/17 Febr. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon. Faddrar Corporalen Lars Larsson i Frölle(?), Per Nilsson i Gästebohl …”. Födelse 14/2 1711 ⇒ 48 år 6 mån i aug 1759 = stämmer med dödboken (48 år); föräldrarna Pål Månsson + Elin Nilsdotter = samma som i A I/1 bild 55 Rörbäcken. Barnets namn står 'Jon' (inte Jonas) och faderns förnamn är svårläst – därför strong, ej verified. Övriga Jon/Jonas-dop 1710–11 (bild 94–104) har andra föräldrar: bild 98 apr 1711 Nils Nilsson/Karin Månsdotter i Åsb; Olof Ersson/Brita i Köping; bild 97 1710 Jon Andersson/Karin Olofsdotter (Getsmossen); bild 101 sep 1711 'Jonas' Ingemar Nilsson/Ingeborg (Getsmossen) – alla utesluts av fader/ort.",
+   "A I/1 bild 55: ”Påhl Månsson / H: Elin Nilsdotter / måg: Pehr Larsson / H: Brita Påhlsdotter / S: Jonas Påhlsson / [överstruken] / d: Engelin(?) Påhlsd.” A I/2 bild 42: ”Påhl Månsson / H: Elin Nilsdotter / måg: Pehr Larsson (överstruken) / H: Brita Påhlsdotter (överstruken) / [S/d:] Jonas Påhlsson”. A I/3 bild 47 (s. 68): Påhl Månsson/Elin Nilsdotter kvar, ”Jonas Påhlsson” överstruken (utflyttad före 1736–41). Syskon i hushållet: Brita (m. Pehr Larsson), Engelin(?)."
   ],
   "sources": [
    {
@@ -23654,6 +23668,14 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/2 (1701–1726) C0037135, bild 95 (s. 169, höger sida, 1711): '14/17 Febr. döptes [Pähwell/Påhl?] Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon'; faddrar bl.a. 'Corporalen Lars Larsson i Frölle(?)', 'Per Nilsson i Gästebohl'",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00095"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 (1725-29), bild 55: Rörbäcken, ”S: Jonas Påhlsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00055"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729-36), bild 42 (s. 62): Rörbäcken, ”d: Jonas Påhlsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00042"
    }
   ],
   "search": [
@@ -23996,7 +24018,8 @@
   "summary": "Bonde på Lene fol. 28 (A I/7); far till Jonas f. 12/4 1750; hustru Marit Bryngelsdotter f. 1708.",
   "notes": [
    "HUSFÖRHÖR Frykerud A I/7 (1759–71) C0037108 bild 41 (fol. 28, rubrik ”Lene 28”), översta hushållet: ”Anders Nilsson” (årtal 1710), ”H. Marit Bryng[elsd.]” (1708), ”D. Maria” (17[4?]1, 6/2), ”S. Jonas” (1750, 12/4). Radordningen: Hustru, Dotter, Son under huvudmannen. Därefter nytt hushåll ”Erik Nilsson” 1736 med Nils 1762, Katarina 1765.",
-   "DOP Frykerud C/4 bild 37 (apr 1750): ”d: 12 Apr: föddes och d: 15 dito döptes ung[e] … Nilsson och h: Marit Bryngel-dotter barn i Lena(?) kallat Jonas. Fadd: Mattes Bryngelsson i Lena, Sven Nilsson i Lena(?), Olof Jonsson i Lena …” Mannens förnamn syns inte tydligt i dopposten (radslut ”ung/Bon-/dand?”); förnamnet Anders kommer från husförhöret."
+   "DOP Frykerud C/4 bild 37 (apr 1750): ”d: 12 Apr: föddes och d: 15 dito döptes ung[e] … Nilsson och h: Marit Bryngel-dotter barn i Lena(?) kallat Jonas. Fadd: Mattes Bryngelsson i Lena, Sven Nilsson i Lena(?), Olof Jonsson i Lena …” Mannens förnamn syns inte tydligt i dopposten (radslut ”ung/Bon-/dand?”); förnamnet Anders kommer från husförhöret.",
+   "Gift med Marit Bryngelsdotter redan i A I/2 (1729–35, bild 51): ”u(nge?): Anders Nilsson / H: Marit Bryngelsd. / [syst.] Ingebor Nilsdotter” – särskiljs från ”Gamle Anders Nilsson / H: Kerstin Bryngelsd.” (bild 51 nederst; svärfar till Nils Andersson via dotter Karin Andersdotter). Inga barn synliga 1729–40 i hushållet (A I/3 bild 60: bara Ingeri Bryngelsd. och Ingebor Nilsd.). Möjlig läsning i A I/1 bild 60: ”i: Anders Nilsson” bland pigor/drängar hos Jon Olofsson, Lene (ålder 15 stämmer). Föräldrar ej funna (Nils?) – dop 1710 ej verifierat."
   ],
   "sources": [
    {
@@ -24006,6 +24029,18 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 37 (1750 apr): 12 apr född, 15 apr döpt, ”…Nilsson och h: Marit Bryngeldotter … kallat Jonas”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729-36), bild 51 (s. 80): ”Unge Anders Nilsson / H: Marit Bryngelsd.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00051"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 (1736-41), bild 60 (s. 94)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00060"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 (1725-29), bild 60 (s. 44): ”d: Anders Nilsson” (dräng?) i Jon Olofssons hushåll, Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00060"
    }
   ],
   "search": [
@@ -24030,7 +24065,8 @@
   "notes": [
    "HUSFÖRHÖR A I/7 bild 41 (fol. 28 Lene): ”H. Marit Bryng[…]” 1708 (12/12?).",
    "DOP C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”.",
-   "DOP-KANDIDAT (BA4): C/2 bild 78 (s. 152), dec 1708, marg. ”15/20”: ”Bryngell [patron. oläsligt] och h. Ingeri(d) barn i Lene kallat Marit”. Fader Bryngel + by Lene + år 1708 matchar patronymikon Bryngelsdotter; dagen (15 dec) vs husförhörets ”12/12?” ej säkerställd. Faddrar bl.a. Olof i Lene; notera att ”Mattes Bryngelsson i Lena” är fadder vid Jonas 1750 (möjlig bror till Marit)."
+   "DOP-KANDIDAT (BA4): C/2 bild 78 (s. 152), dec 1708, marg. ”15/20”: ”Bryngell [patron. oläsligt] och h. Ingeri(d) barn i Lene kallat Marit”. Fader Bryngel + by Lene + år 1708 matchar patronymikon Bryngelsdotter; dagen (15 dec) vs husförhörets ”12/12?” ej säkerställd. Faddrar bl.a. Olof i Lene; notera att ”Mattes Bryngelsson i Lena” är fadder vid Jonas 1750 (möjlig bror till Marit).",
+   "A I/1 bild 60 (s. 44): hushåll ”[Bryngel (överstruken)] / S: Nils Bryngelsson / H: Ingeri Börjesd.(?) / d: Marit Bryngelsd. / d: Ingeri Bryngelsd. (överstruken)”. Marit är således syskon till Nils Bryngelsson (och Ingeri Bryngelsd.) – om raderna avser barn till Bryngel; faderns patronymikon överstruket/oläsligt. Föräldrar enligt dop 1708: Bryngel och Ingeri – möjligen Ingeri Börjesdotter (osäkert: i A I/2 står hon som hustru till Nils)."
   ],
   "sources": [
    {
@@ -24044,6 +24080,14 @@
    {
     "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 78 (s. 152), dec 1708 (15/20): Bryngell … och h. Ingeri barn i Lene kallat Marit",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00078"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 (1725-29), bild 60 (s. 44): ”d: Marit Bryngelsd.”, Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00060"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2, bild 51 (s. 80): ”H: Marit Bryngelsd.” (hustru till Unge Anders Nilsson)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00051"
    }
   ],
   "search": [
@@ -37862,12 +37906,17 @@
   ],
   "summary": "Far till Måns Knutsson (f. 2/10 1711 på Lene) enligt dopboken; patronymikon ej angivet i dopposten.",
   "notes": [
-   "DOP Frykerud C/2 (1701–1726) bild 102 (s. 179, högra sidan), 1711 okt: marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …” (fadderlistan ej fullt läst). Endast förnamnet Knut anges; ”Knutsson” för sonen kommer från husförhör/dop 1753."
+   "DOP Frykerud C/2 (1701–1726) bild 102 (s. 179, högra sidan), 1711 okt: marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …” (fadderlistan ej fullt läst). Endast förnamnet Knut anges; ”Knutsson” för sonen kommer från husförhör/dop 1753.",
+   "A I/1 bild 61 (s. 46, Lene): ”Knut [Olofsson/Eliasson?] ” överstruken (död före/under 1725–29); patronymikon läst som ”El…/Ol…” – osäkert (Knutsson/Olofsson?). Död före A I/2 (1729) – Karin är enka."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 (1725-29), bild 61 (s. 46)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00061"
    }
   ],
   "search": [
@@ -37885,12 +37934,21 @@
   ],
   "summary": "Hustru till Knut på Lene; mor till Måns Knutsson f. 2/10 1711 enligt dopboken.",
   "notes": [
-   "DOP Frykerud C/2 bild 102 (s. 179), 2 okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns”."
+   "DOP Frykerud C/2 bild 102 (s. 179), 2 okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns”.",
+   "A I/1 bild 61: hustru till Knut; A I/2 bild 52 och A I/3 bild 59: ”E: Karin Månsdotter” = enka, barn Måns, Brita, Catharina Knutsdotter (+Jon, överstruken). Hennes föräldrar: möjligen Måns Bryngelsson/Karin Hålandsdotter i samma gård – OBEVISAT (hon står under deras hushåll)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729-36), bild 52 (s. 82)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00052"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3, bild 59 (s. 92)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00059"
    }
   ],
   "search": [
@@ -39206,6 +39264,202 @@
   ],
   "search": [
    "Walenty? Hencel (f. 15.5.1855, Niewachłów)"
+  ]
+ },
+ {
+  "id": "fr_jonknutsson_lene",
+  "name": "Jon Knutsson (Lene, Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Son till Knut och Karin Månsdotter, bror till Måns Knutsson f. 1711; överstruken i A I/1 (flyttat/död).",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 61 (s. 46, Lene): ”Knut [Olofsson?] (överstruken) / H: Karin Månsdotter / S: Jon Knutsson (överstruken) / S: Måns Knutsson”. Knuts patronymikon svårläst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 C0037102 (1725-29), bild 61 (s. 46): Lene, hushåll Knut/Karin Månsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00061"
+   }
+  ],
+  "search": [
+   "Jon Knutsson (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_britaknutsd_lene",
+  "name": "Brita Knutsdotter (Lene, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Karin Månsdotter (enka), syster till Måns Knutsson f. 1711.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 52 (s. 82, Lene): ”E: Karin Månsdotter / d: Måns Knutsson / [d:] Brita Knutsdotter / [överstruken rad] / d: Catharina Knutsdotter”. 'd:' tolkat som dotter/son (ev. dräng); Karin står som ”E” (enka)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 C0037103 (1729-36), bild 52 (s. 82): Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00052"
+   }
+  ],
+  "search": [
+   "Brita Knutsdotter (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_catharinaknutsd_lene",
+  "name": "Catharina Knutsdotter (Lene, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Karin Månsdotter, syster till Måns Knutsson f. 1711; i A I/3 överstruken.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 52 (s. 82): ”d: Catharina Knutsdotter”. A I/3 bild 59 (s. 92): överstrukna rader under ”E: Karin Månsd. / Måns Knutsson”: ”d: Ingebor Knuts[d.]”(?), ”d: Catharina Knuts[d.]”, ”g: Lars Andersson”(?), ytterligare en överstruken rad – olösta."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 C0037103, bild 52 (s. 82)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00052"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 C0037104 (1736-41), bild 59 (s. 92)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00059"
+   }
+  ],
+  "search": [
+   "Catharina Knutsdotter (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_engelinpalsd_rorbacken",
+  "name": "Engelin(?) Pålsdotter (Rörbäcken, Frykerud)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Rörbäcken, Frykerud"
+  ],
+  "summary": "Dotter till Pål Månsson, syster till Jonas Pålsson f. 1711 (läsning av förnamn osäker).",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 55 (s. 34-35, Rörbäcken): rad ”d: Engelin Påhlsd[otter]” efter ”S: Jonas Påhlsson” och en överstruken rad i hushållet Påhl Månsson/Elin Nilsdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 C0037102, bild 55 (Rörbäcken)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00055"
+   }
+  ],
+  "search": [
+   "Engelin(?) Pålsdotter (Rörbäcken, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_kerstinpalsd_rorbacken",
+  "name": "Kerstin Pålsdotter (Rörbäcken, Frykerud)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Rörbäcken, Frykerud"
+  ],
+  "summary": "Hustru till Pål Torstensson i grannhushållet på Rörbäcken; patronymikon Pålsdotter – möjlig syster till Jonas Pålsson, ej styrkt.",
+  "notes": [
+   "HUSFÖRHÖR A I/2 bild 42 (s. 62) och A I/3 bild 47 (s. 68), Rörbäcken: ”Påhl Torstensson / H: Kerstin Påhlsdotter / g: Måns Larsson / p: Ellika Eriksdotter” (A I/2); samma par i A I/3. Ingen ”dotter”-markering mot Pål Månsson."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 C0037103, bild 42 (s. 62)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00042"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 C0037104, bild 47 (s. 68)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00047"
+   }
+  ],
+  "search": [
+   "Kerstin Pålsdotter (Rörbäcken, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_nilsbryngelsson_lene",
+  "name": "Nils Bryngelsson (Lene, Frykerud)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Hushållsföreståndare på Lene 1725–40 med hustru Ingeri Börjesdotter; trolig bror till Marit Bryngelsdotter f. 1708 (Anders Nilsson/Marit bor i hans hushåll i A I/3).",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 60 (s. 44): ”[Bryngel … överstruken] / S: Nils Bryngelsson / H: Ingeri Börjesdotter(?) / d: Marit Bryngelsd. / d: Ingeri Bryngelsd. (överstruken)”. A I/2 bild 51 (s. 80): ”Nils Bryngelsson / H: Ingeri Börjesd.”. A I/3 bild 60 (s. 94): ”Nils Bryngelsson / H: Ingeri Börjesd.(?) [överstrukna rader] / Unge Anders Nilsson / H: Marit Bryngelsd. / [sy:] Ingeri Bryngelsd. / [sy:] Ingebor Nilsd.”. OBS: osäkert om ”H: Ingeri” avser Nils eller faderns hustru."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/1 C0037102, bild 60 (s. 44): Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00060"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 C0037104, bild 60 (s. 94)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00060"
+   }
+  ],
+  "search": [
+   "Nils Bryngelsson (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_ingeribryngelsd_lene",
+  "name": "Ingeri Bryngelsdotter (Lene, Frykerud)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Syster(?) till Marit Bryngelsdotter f. 1708, i hushållet 1725–29 och 1736–40.",
+  "notes": [
+   "A I/1 bild 60 (s. 44): ”d: Ingeri Bryngelsd.” (överstruken). A I/3 bild 60: ”Ingeri Bryngelsd.” i Marits och Anders Nilssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/3 C0037104, bild 60 (s. 94)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00060"
+   }
+  ],
+  "search": [
+   "Ingeri Bryngelsdotter (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_ingebornilsd_lene",
+  "name": "Ingebor Nilsdotter (Lene, Frykerud)",
+  "status": "lead",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "I hushållet hos Unge Anders Nilsson/Marit Bryngelsdotter 1729–40; troligen Anders Nilssons syster (patronymikon Nilsdotter).",
+  "notes": [
+   "A I/2 bild 51 (s. 80): ”Unge(?) Anders Nilsson / H: Marit Bryngelsd. / [syst.] Ingebor Nilsdotter”. A I/3 bild 60 (s. 94) samma."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 C0037103, bild 51 (s. 80)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00051"
+   }
+  ],
+  "search": [
+   "Ingebor Nilsdotter (Lene, Frykerud)"
   ]
  }
 ]

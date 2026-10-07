@@ -3628,6 +3628,31 @@
    "persons": [
     "maryanna_hencel"
    ]
+  },
+  {
+   "title": "Lene A I/1–3: Bryngel-familjen oklar",
+   "text": "A I/1 bild 60 (Lene s. 44): Bryngel (överstruken, fadersnamn oläsligt), S: Nils Bryngelsson, H: Ingeri Börjesd(?), d: Marit Bryngelsd., d: Ingeri Bryngelsd. Oklart om Ingeri Börjesdotter är Bryngels hustru (mor till Marit enl. dop 1708 'Bryngell och h. Ingeri') eller Nils hustru. Kräver dopbok C/2 1700–08 eller vigsel.",
+   "persons": [
+    "fr_maritbryngelsd_lene",
+    "fr_nilsbryngelsson_lene",
+    "fr_ingerid_lene1708",
+    "fr_bryngel_lene1708"
+   ]
+  },
+  {
+   "title": "Anders Nilsson f. 1710: två personer i Lene 1729–40",
+   "text": "A I/2 bild 51: ”Unge(?) Anders Nilsson, H Marit Bryngelsd.” och ”Gamle Anders Nilsson, H Kerstin Bryngelsd., [d Karin Andersd.], H Nils Andersson”. Risk för sammanblandning; den gifta med Marit är den yngre. Anders Nilssons föräldrar ej funna; ”Ingebor Nilsd.” i hushållet möjligen hans syster.",
+   "persons": [
+    "fr_andersnilsson1710_lene"
+   ]
+  },
+  {
+   "title": "Måns Knutsson: fadersnamn Knut",
+   "text": "Knuts patronymikon i A I/1 bild 61 läst som ”El…/Ol…” (överstruket) – Knut kan vara Knut Olofsson/Eliasson. Karin Månsdotter står under Måns Bryngelsson/Karin Hålandsdotters gård (A I/2 bild 52) – möjlig släkt, ej styrkt.",
+   "persons": [
+    "fr_knut_lene1711",
+    "fr_karinmansd_lene1711"
+   ]
   }
  ],
  "conflicts": [
