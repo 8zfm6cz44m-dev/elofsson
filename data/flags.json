@@ -3284,6 +3284,86 @@
     "d7_anders_andersson_skog_1868",
     "hagstrom_d_predikant_arvika"
    ]
+  },
+  {
+   "title": "Nils Larsson som Elofs far – dementi av äldre ledtråd",
+   "text": "Den äldre Nils Larsson i Toltan dog feb 1715 (ca 80 år, E I/1 bild 148). Mantalets Nils Larsson 1722–35 är en yngre man. Fadern till Elof Nilsson (f. 1687) kan fortfarande vara den äldre Nils Larsson, men det finns ingen källa som säger det.",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan"
+   ]
+  },
+  {
+   "title": "Dödboken 1691–1748 ligger i vigselboken E I/1",
+   "text": "Brunskogs död- och begravningsposter 1691–1748 finns i E I/1 (C0036786) bild 119–183 (1691@119, 1710@138, 1715@148, 1719@157, 1730@172, 1733@175–176, 1735@180, 1748@117), dessutom 1737–1748 på bild 81–117. Inte tidigare använd. Lästa: 1710–1719 (delvis), 1729–1734. Olästa: 1691–1709, 1720–1728, 1735–1748.",
+   "persons": []
+  },
+  {
+   "title": "Mantalslängder före 1685 svåra",
+   "text": "Mantal 1684 (A0003164_00224) har annat format och mycket svår handstil, ingen tydlig Toltan-grupp; 1642–1684 ej genomläst. Startbilder Brunskog: 1669 A0003150_00187, 1674 A0003155_00123, 1679 A0003160_00221, 1684 A0003164_00224.",
+   "persons": []
+  },
+  {
+   "title": "Marit Bryngelsdotter – dopdag 15 dec 1708 vs husförhör 12/12?",
+   "text": "Dopposten C/2 bild 78 anger födelse 15 / dop 20 dec 1708 för ”Marit” i Lene med fader Bryngel. Husförhör A I/7 bild 41 har osäkert läst ”12/12?”. Kontrollera husförhörets dag (A I/6–A I/8) innan status höjs till verified.",
+   "persons": [
+    "fr_maritbryngelsd_lene",
+    "fr_bryngel_lene1708"
+   ]
+  },
+  {
+   "title": "Andra Anders Nilsson i Lene 1711",
+   "text": "Dop C/2 bild 102 (s. 178, vänster) 24/29 sept 1711: ”Anders Nilsson och h. Kir[stin] i Lene, kallad Karin” – en äldre Anders Nilsson på Lene (ej f. 1710). Kan vara släkt (Erik Nilsson f. 1736 bor intill Anders Nilsson f. 1710 på Lene fol. 28 i A I/7) – ej belagt.",
+   "persons": [
+    "fr_andersnilsson1710_lene"
+   ]
+  },
+  {
+   "title": "Stridsberg: ingen utflyttning från Karlstad stad 1806",
+   "text": "Karlstad stadsförs. B/2 (C0037864) utflyttade 1806, hela året (bild 17 nederdel + bild 18, nr 1–39 jan–dec) genomläst: ingen Anders Stridsberg/Britta Lisa Jonsdotter. Familjen kom 1806 alltså inte direkt från Karlstad stad; pröva Karlstads landsförsamling, Brotorp/Hanevik-spåret eller regementsrullor (klarinettblåsare).",
+   "persons": [
+    "anders_stridsberg_1783",
+    "brita_lisa_jonsdotter_1780"
+   ]
+  },
+  {
+   "title": "Olof Nilsson f. 6/2 1793: namnrättelse",
+   "text": "Posten ao4_olof_olsson93 bör heta Olof Nilsson (dop 1793: far Nils Jonsson).",
+   "persons": [
+    "ao4_olof_olsson93"
+   ]
+  },
+  {
+   "title": "Norge: Wikene och Ullerud ligger i Sverige",
+   "text": "Uppdragets ortlista (Wikene/Rakkestad, Ullerud, Rut Olsson f. 1894 Wikene) avser svenska orter: Wikene = by i Brunskog, Nedre Ullerud = socken i Värmland, Rut Olsson f. 1894 Wikene = Brunskog (föräldrar redan kända: Magnus Olsson/Matilda Håkansdotter). Inga norska Wikene/Rakkestad/Aurskog-personer finns i persons.json. Enda äkta norska kopplingen är Anders Elofsson/Stina Nilsdotter (Eidsvoll/Ullensaker) samt no_*-leads (Brunskog-födda utvandrare, ej kopplade).",
+   "persons": [
+    "anders_e",
+    "no_stina_nilsd13",
+    "rut_olsson_1894_wikene",
+    "aa48_ullerud"
+   ]
+  },
+  {
+   "title": "Stina Nilsdotter (f. 1813): död i Norge fortfarande ej funnen",
+   "text": "Bekräftat igen: FT 1875 Hoel är sista kända post; Anders är enkemann i FT 1891 Ullensaker, alltså död 1875–1890. Indexerade dödposter ger ingen träff; kan vara oindexerad (Eidsvoll/Ullensaker ministerialbok 1875–90, bildläsning krävs) eller död i Sverige efter 1870 om hon reste hem. Nästa steg: bläddra Eidsvoll klokkerbok/ministerialbok 1875–1890 'døde' i Digitalarkivets viewer.",
+   "persons": [
+    "no_stina_nilsd13"
+   ]
+  },
+  {
+   "title": "Svag lead: Marie Andersdatter, tjenestepige 24 år, FT 1865 Ullensaker",
+   "text": "Digitalarkivet pf01038022007902 (Røgler lille, Sundby): 'Marie Andersdatter', Tjenestepige, född Sverige, ca 24 år (f. ca 1841). Skulle kunna vara Maria Cajsa f. 23/1 1842 Boda (dotter till Anders Elofsson/Stina), men enda stödet är namn+ålder+land, och Anders bodde i Ullensaker 1891. Status lead, ej kopplad.",
+   "persons": [
+    "maria_cajsa_ae42",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Svag lead: Kristine Elefsdatter f. 1840 Frykerud, FT 1900 Nordre Land",
+   "text": "Digitalarkivet pf01037098003178 (Kjendseth, hush. 009, g.m. Lars Larssen f. 1845 Ullerud-Norge?). Patronymikon Elefs- + född Frykerud 1840. Anders gifte sig Frykerud dec 1837 och bodde i Frykerud/Boda 1837–40, så en dotter f. 1838–40 är kronologiskt möjlig men inget barn har setts i dopböcker (genomläst endast översiktligt). Obevisat; ej kopplad.",
+   "persons": [
+    "anders_e"
+   ]
   }
  ],
  "conflicts": [

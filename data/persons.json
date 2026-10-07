@@ -5073,7 +5073,8 @@
    "W3 NORGE: Digitalarkivet (curl 2026-10, avancerad personsök 1868–1880, efternamn Elof*/Ellef*, f.år 1814–18; födelseort Brunskog 1868–80; Stina f. 1812–14 Eidsvold 1868–92): inga nya poster utöver FT 1875 Hoel (Anders pf01052052001547, Stina pf01052052001548), FT 1891 Ullensaker och begravning Eidsvoll 1893. Ingen inflyttning (ministerialbok 1870–75) indexerad för paret.",
    "DÖD Eidsvoll 1893 s.204 nr 45 (skannad bild avläst): ”Anders Ellefsen Enkemd. Fattiglem.” f. ”1816”, födelseort ”Vermeland”, bosted (läst) ”Storbraaten” (osäker läsning), dödsorsak ”Asthma”, död 15/11, begravd 24/11 1893. Ålder anges ej (endast födelseår). Index (pg00000003938234) saknar bosted/ålder/orsak.",
    "FOLKRÄKNING 1891 Ullensaker (0235), Øvre Sundby, Thorsten Nielsen: ”002 Anders Ellefsen., Logerende hørende til Familien, e-mand, 1816, Brunskog. Vermeland. Sverige” – födelseorten Brunskog uttryckligen angiven; enkemann 1891 => Stina död före 1/1 1891.",
-   "AL6 NORGE (Digitalarkivet curl): (1) Dödsindex 'Deceased and buried' 1876–1890 i kommun 0235 Ullensaker, 0237 Eidsvoll, 0239 Hurdal (inkl. Feiring), 0238 Nannestad, 0233 Nittedal, 0236 Nes, 0234 Gjerdrum, 0231 Skedsmo, 0229 Enebakk, 0232/0230/0228: personer f. 1811–1815 genomgångna (94/204/35/84/58/126/29/47/92 poster): ingen Stina/Kristina Nilsdatter f. 1813 med födelseland Sverige/Värmland/Frykerud. Enda 'Sverige f. 1813'-träff Eidsvoll: Marie Jonasd (död 1888-03-09, pg00000003724696) – annan person. Fri sökning Stina/Kristina/Kristine/Stine + Sverige + f. 1811–15 i hela Norge 1875–91: Marthe Stina Eriksen (f. 1813-12-22, Tønsberg 1889), Stine Jensdatter (Hvaler 1882), Kristine Olsdatter (Halden 1883), Christine Pedersen (Trefoldighet 1889) m fl – alla med annat patronymikon, utesluts. Stinas död 1875–1890 alltså fortsatt ej indexerad. (2) FT 1891 hushållet Torsten Nielsen: se no_torsten_nielsen13 – endast Torsten (f. 1813 Ullensaker, enkeman) + Anders. (3) Brunskog-födda i FT 1875 Eidsvoll/Ullensaker/Hurdal/Nannestad/Nes: se flagga."
+   "AL6 NORGE (Digitalarkivet curl): (1) Dödsindex 'Deceased and buried' 1876–1890 i kommun 0235 Ullensaker, 0237 Eidsvoll, 0239 Hurdal (inkl. Feiring), 0238 Nannestad, 0233 Nittedal, 0236 Nes, 0234 Gjerdrum, 0231 Skedsmo, 0229 Enebakk, 0232/0230/0228: personer f. 1811–1815 genomgångna (94/204/35/84/58/126/29/47/92 poster): ingen Stina/Kristina Nilsdatter f. 1813 med födelseland Sverige/Värmland/Frykerud. Enda 'Sverige f. 1813'-träff Eidsvoll: Marie Jonasd (död 1888-03-09, pg00000003724696) – annan person. Fri sökning Stina/Kristina/Kristine/Stine + Sverige + f. 1811–15 i hela Norge 1875–91: Marthe Stina Eriksen (f. 1813-12-22, Tønsberg 1889), Stine Jensdatter (Hvaler 1882), Kristine Olsdatter (Halden 1883), Christine Pedersen (Trefoldighet 1889) m fl – alla med annat patronymikon, utesluts. Stinas död 1875–1890 alltså fortsatt ej indexerad. (2) FT 1891 hushållet Torsten Nielsen: se no_torsten_nielsen13 – endast Torsten (f. 1813 Ullensaker, enkeman) + Anders. (3) Brunskog-födda i FT 1875 Eidsvoll/Ullensaker/Hurdal/Nannestad/Nes: se flagga.",
+   "BA6 KONTROLL 2026-10 (Digitalarkivet, curl): FT 1875 Eidsvoll, Hoel, Stina Nilsdatter pf01052052001548 återläst – boende i 'Drengestuen' (natteopphold), födelseort 'Frykerud S, Sverige'; Anders pf01052052001547 'Brunskog S Sverige', Husfader Inderst. Inga nya norska poster (FT 1865/1900, dop, vigsel, död) för paret utöver tidigare funna."
   ],
   "country": "NO",
   "country_note": "Dog 1893 i Eidsvoll, Norge (norsk folkräkning 1875 och ministerialbok).",
@@ -6995,8 +6996,9 @@
   "status": "verified",
   "sex": "f",
   "born": {
-   "date": "",
-   "note": ""
+   "date": "1694",
+   "place": "",
+   "note": "beräknat ur dödbokens ålder 39 år 3 mån 1 vecka vid död sept 1733 (f. ca juni 1694); dopet ej funnet i C I/1 bild 40–41 (lucka mellan 1 juni och 5 aug 1694)"
   },
   "places": [
    "Toltan, Brunskog"
@@ -7042,6 +7044,10 @@
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1 (1708–1762), bild 34 (sida 48): 28 okt 1717, Elof Nilsson × Jung. Marit Isaksdotter i Tolta",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
+   },
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsregister i E I/1 (C0036786), 1733, bild 176 (sid 329) nr 27: 30 sept, Hustru Marit Isaacsdotter från Toltan, 39 år 3 mån 1 vecka",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00176"
    }
   ],
   "search": [
@@ -7067,8 +7073,14 @@
    "DÖD: ingen dödbok före 1783. Hon är levande vid dopet 15 nov 1730 (Anna; C I/1 bild ~185–186) och Elof är ’enkling’ vid omgifte 29/9 1734 → död nov 1730–sep 1734. Ingen begravningsnotering funnen.",
    "K3 KORRIGERING (bild 34, zoom): ordet före ”Marit Isaksdotter i Tolta” i vigseln 28 okt 1717 är med största sannolikhet ”Enk:” (Enkan = änka), INTE ”Jung./Ehr.”: ”D 28 Oct: Sammanvigdes efter 3 ordentl. lysningar D. Elof Nilsson i Hög[?] med Enk: Marit Isaksdotter i Tolta. Morgongåfva 30 lod förgyllt Silf.” Bokstavsformen = samma E-versal + k som i ”Enkan Maria Anderd.” på samma sida (21 Decemb). Ett läsfel ”Jung.” är osannolikt (J-versal saknas). Konsekvens: hon var änka 1717 – förenligt med att hon vigdes som ”Jfr.” med Per Olufsson ifrån Bråten 4:de dag jul (28 dec) 1714 och att Per dog 1715–17. Identiteten med 1714-bruden = strong (samma namn, samma by Tolta, jungfru 1714 -> änka 1717), ej verified (ingen död-/begravningspost för Per bevarad före 1783).",
    "MANTALSTABELL Toltan (Brunskog, Jösse härad), Riksarkivet mantalslängder (Värmlands län-serien): hennes möjliga fäder i Toltan: Isak Larsson och Isak Biörsson, båda skrivna 1695, 1696, 1698, 1700 (se ovan). Avgörande källa (bouppteckning/dop 1696) kvarstår. Ingen dotter nämns i mantalen.",
-   "TABELL AL5 (bild 10–52 genomläst halvsida för halvsida; Brunskog dop C I/1 1688–1700). Toltan = i dopboken ’Tortan/Fortan/Furtan/Zolta/Holta/Tokner/Tolten’ (ö. = östra, w./v. = västra). Läsning av 1690-talshanden är osäker; ’?’ = osäkert.\nA) BARN MED FADER ’NILS’ I TOLTAN (= Elofs syskon?): INGET FUNNET. Ingen Nils-son/-dotter född i Toltan 1688–1700 hittades i bild 10–52.\nB) BARN MED FADER ISAK (Larsson/Björsson) I TOLTAN (= Marits syskon?): INGET FUNNET (Isak nämns bara som fadder: ’Isaac L. i Zolta’ 26/5 1689 bild 15 och ’Isaack L. i Zoltan’ 15/2 1691 bild 22; Marit Isaksdotter kan vara född före 1688 → dopboken börjar 1688).\nC) BARN I ÅSEN/ÅSNÄS MED FADER NILS: INGET FUNNET. (’Åstnäs/Åsnäs’ i 1688–90 är en annan by än Åsen.) Ett barn ’i Åsen’ finns 1693 nr 5 (Dnca 3 Epiph., bild 34 vä): fadern oläsligt (”… barn i Åsen”, namn ’Börit?’; fadder ”d. Lars i Tokner”, ”H. Ingri i Takner, H. Börit ibid, P. Elin Åsen och Dordi i Tolby”). Fadder 15/2 1691 bild 22: ”Nils Ersson i Åsen” (bredvid ”Isaac L. i Zoltan”, ”Hans ibid”) – en möjlig ’Nils’ i Åsen (patronymikon Ersson) men ingen koppling till Elof belagd.\nD) ÖVRIGA DOP I TOLTAN 1688–1700 (datum, barn, far, mor; bild):\n 1689-04-21 Nils Andersson, ö. Tortan; Anders Jonsson / Christin Persdotter; b.15\n 1689-06-23 Olof Christophersson, Zolta; Christopher Jonsson? / Mari Johansdotter; b.15\n 1689-08-22 Nils Andersson, v. Fortan; Anders Nilsson / Gunila Gerlsdotter?; b.16\n 1691-01-11 Christin, ö. Fortan; far oläsligt; b.21\n 1691-01-18 Elin, ”Anders barn i öst. Fortan”; b.21\n 1691 (nr 33, Trin.-tid) Nils Håkansson i Östbackom(?); Håkan Nilsson / Marit Ericsdotter i Tolta(!); fadder bl.a. Hans Ersson i Zolta, Nils Ersson, ”Ragnila Månsd. i Toltakärr?”; b.26\n 1691-12-13 Jon Arnesson, W. Fortan; Arne Jönsson / Christin Fredsdotter i W. Fortan; b.27\n 1693 nr 2 (jan) ”Bryngts barn i Tokner”, flicka ’Dorin?’; far Brynt/Bryngel?; b.34\n 1693 nr 5 barn i Åsen (se C), b.34\n 1693 Dnca Misericordias Matts(?) barn i W. Furtan, Brynthe; b.36\n 1693 Dnca Rogationis barn i Toltan, Ingel; far oläsligt (tidigare agent: ’Gunne…’); b.37\n 1693 1:a Advent ”Jonssons?/Jans barn i öst. Furtan, Jon”; b.38\n 1693 (nr 15) Lisbeth i Furtan; b.35–36 (tidigare agent)\n 1695 (Reminiscere, mars) Olof Nilssons barn i Ö. Tokner, dotter Karin; b.42\n 1696-01-01 Jan?/Anders Olssons barn i W. Tokner, Karin; fadder bl.a. Per i Finbäck, Brynte Jonsson i Åstnäs; b.45\n 1696-02-06 Amunds barn i Ö. Tokner (namn oläsligt); b.45\n 1696 (sent, ’Dnca 9?’) Lasse Erichssons(?) barn i Toltan, ’Pär/Per’; fadder Nils Christophersson i Skog, Knut i Ö. Tokner, H. Kerstin i Toltan; b.46\n 1697 (Dnca 2 p. Pascha) Olof Nilssons barn i Ö. Tokner, ’Mattes?’ (+ ’Dnca Exaudi Mattes barn … kallad Karin’ ej säkert Toltan); b.46\n 1698-02-14 (nr 8) Halfwards barn i Gryttom; fadder Olof Mattsson i Ö. Furtan; b.48/49 (ej Toltan-barn)\n 1699 (efter 23/…) Lasse Erichssons barn i Tolten, Nils; fadder Amund i Ö. Tokner, Hans i Tolten; H. Kirsti i Tolten; b.51\n 1699-11-30 (Sankt Andreas dag) Olof Andersons barn i Furtan, Marit; fadder Hans i Furtan; b.52\nSLUTSATS: dopboken (som är gles; ca 15–25 dop/år i början) visar INGA yngre syskon till Elof (f. 1687) med fader Nils i Toltan 1688–1700. Möjliga orsaker: föräldrarna dog/flyttade, barnen är inte bevarade i den glesa boken, eller Elofs far är inte bosatt i Toltan. Observera: ”Olof Nilsson i Ö. Toltan” (barn 1695 och 1697) och ”Nils Larsson”/Lars Ersson är olika hushåll – Olof Nilsson i Ö. Toltan kan vara en äldre bror/släkting till Elof men det är OBEVISAT."
-  ]
+   "TABELL AL5 (bild 10–52 genomläst halvsida för halvsida; Brunskog dop C I/1 1688–1700). Toltan = i dopboken ’Tortan/Fortan/Furtan/Zolta/Holta/Tokner/Tolten’ (ö. = östra, w./v. = västra). Läsning av 1690-talshanden är osäker; ’?’ = osäkert.\nA) BARN MED FADER ’NILS’ I TOLTAN (= Elofs syskon?): INGET FUNNET. Ingen Nils-son/-dotter född i Toltan 1688–1700 hittades i bild 10–52.\nB) BARN MED FADER ISAK (Larsson/Björsson) I TOLTAN (= Marits syskon?): INGET FUNNET (Isak nämns bara som fadder: ’Isaac L. i Zolta’ 26/5 1689 bild 15 och ’Isaack L. i Zoltan’ 15/2 1691 bild 22; Marit Isaksdotter kan vara född före 1688 → dopboken börjar 1688).\nC) BARN I ÅSEN/ÅSNÄS MED FADER NILS: INGET FUNNET. (’Åstnäs/Åsnäs’ i 1688–90 är en annan by än Åsen.) Ett barn ’i Åsen’ finns 1693 nr 5 (Dnca 3 Epiph., bild 34 vä): fadern oläsligt (”… barn i Åsen”, namn ’Börit?’; fadder ”d. Lars i Tokner”, ”H. Ingri i Takner, H. Börit ibid, P. Elin Åsen och Dordi i Tolby”). Fadder 15/2 1691 bild 22: ”Nils Ersson i Åsen” (bredvid ”Isaac L. i Zoltan”, ”Hans ibid”) – en möjlig ’Nils’ i Åsen (patronymikon Ersson) men ingen koppling till Elof belagd.\nD) ÖVRIGA DOP I TOLTAN 1688–1700 (datum, barn, far, mor; bild):\n 1689-04-21 Nils Andersson, ö. Tortan; Anders Jonsson / Christin Persdotter; b.15\n 1689-06-23 Olof Christophersson, Zolta; Christopher Jonsson? / Mari Johansdotter; b.15\n 1689-08-22 Nils Andersson, v. Fortan; Anders Nilsson / Gunila Gerlsdotter?; b.16\n 1691-01-11 Christin, ö. Fortan; far oläsligt; b.21\n 1691-01-18 Elin, ”Anders barn i öst. Fortan”; b.21\n 1691 (nr 33, Trin.-tid) Nils Håkansson i Östbackom(?); Håkan Nilsson / Marit Ericsdotter i Tolta(!); fadder bl.a. Hans Ersson i Zolta, Nils Ersson, ”Ragnila Månsd. i Toltakärr?”; b.26\n 1691-12-13 Jon Arnesson, W. Fortan; Arne Jönsson / Christin Fredsdotter i W. Fortan; b.27\n 1693 nr 2 (jan) ”Bryngts barn i Tokner”, flicka ’Dorin?’; far Brynt/Bryngel?; b.34\n 1693 nr 5 barn i Åsen (se C), b.34\n 1693 Dnca Misericordias Matts(?) barn i W. Furtan, Brynthe; b.36\n 1693 Dnca Rogationis barn i Toltan, Ingel; far oläsligt (tidigare agent: ’Gunne…’); b.37\n 1693 1:a Advent ”Jonssons?/Jans barn i öst. Furtan, Jon”; b.38\n 1693 (nr 15) Lisbeth i Furtan; b.35–36 (tidigare agent)\n 1695 (Reminiscere, mars) Olof Nilssons barn i Ö. Tokner, dotter Karin; b.42\n 1696-01-01 Jan?/Anders Olssons barn i W. Tokner, Karin; fadder bl.a. Per i Finbäck, Brynte Jonsson i Åstnäs; b.45\n 1696-02-06 Amunds barn i Ö. Tokner (namn oläsligt); b.45\n 1696 (sent, ’Dnca 9?’) Lasse Erichssons(?) barn i Toltan, ’Pär/Per’; fadder Nils Christophersson i Skog, Knut i Ö. Tokner, H. Kerstin i Toltan; b.46\n 1697 (Dnca 2 p. Pascha) Olof Nilssons barn i Ö. Tokner, ’Mattes?’ (+ ’Dnca Exaudi Mattes barn … kallad Karin’ ej säkert Toltan); b.46\n 1698-02-14 (nr 8) Halfwards barn i Gryttom; fadder Olof Mattsson i Ö. Furtan; b.48/49 (ej Toltan-barn)\n 1699 (efter 23/…) Lasse Erichssons barn i Tolten, Nils; fadder Amund i Ö. Tokner, Hans i Tolten; H. Kirsti i Tolten; b.51\n 1699-11-30 (Sankt Andreas dag) Olof Andersons barn i Furtan, Marit; fadder Hans i Furtan; b.52\nSLUTSATS: dopboken (som är gles; ca 15–25 dop/år i början) visar INGA yngre syskon till Elof (f. 1687) med fader Nils i Toltan 1688–1700. Möjliga orsaker: föräldrarna dog/flyttade, barnen är inte bevarade i den glesa boken, eller Elofs far är inte bosatt i Toltan. Observera: ”Olof Nilsson i Ö. Toltan” (barn 1695 och 1697) och ”Nils Larsson”/Lars Ersson är olika hushåll – Olof Nilsson i Ö. Toltan kan vara en äldre bror/släkting till Elof men det är OBEVISAT.",
+   "DÖD/BEGRAVNING Brunskog 1733, E I/1 bild 176 (sid 329, höger sida) nr 27: ”d 30 Sept. Hustru Marit Isaacsdotter från Toltan, som gudeligt och tåligt lefwerat i 39 år, 3 månader och 1 wecka. Hon dödde ofördröjd[?] i barnsäng[?]”. Ger födelse ca juni 1694 och död i barnsäng sept 1733 (inte 1730–34 som tidigare). Elof blir änkling och gifter om sig 29/9 1734."
+  ],
+  "died": {
+   "date": "1733-09",
+   "place": "Toltan, Brunskog",
+   "note": "begr. 30 sept 1733"
+  }
  },
  {
   "id": "kari_nilsd07",
@@ -17927,7 +17939,9 @@
    "MANTAL 1726–1735: ”Nils Larsson” är första eller andra namn i Toltan ½ varje läst år (1731, 1732, 1733, 1735 först, före ”Nils Påhlsson”/”Christopher Påhlsson”); 1727/1728/1729 efter Elof/Påhl-raden. Fortfarande ingen ”son”/”moder”-notering.",
    "MANTALSTABELL Toltan (Brunskog, Jösse härad), Riksarkivet mantalslängder (Värmlands län-serien): Nils Larsson i Toltan: 1695 (A0003175_00491) första namn i Toltan-gruppen ”Nilss Larsson og hustru”; 1696 (A0003176_00614) ”Nilss Larsson”; 1698 (A0003178_00485) ”Nils [Larsson]”; 1700 (A0003180_00386) ”Nils” först i Toltan ½. Ingen son nämns i något av åren (sönerna räknas först från 15 år: Elof f. 1687 → ca 1702, ej läst). Grannar samma år: Lars Ersson (1695–96), Isak Larsson, Isak Björsson, Pär Ersson, Jöns Ersson (1695–96).",
    "TABELL AL5 (bild 10–52 genomläst halvsida för halvsida; Brunskog dop C I/1 1688–1700). Toltan = i dopboken ’Tortan/Fortan/Furtan/Zolta/Holta/Tokner/Tolten’ (ö. = östra, w./v. = västra). Läsning av 1690-talshanden är osäker; ’?’ = osäkert.\nA) BARN MED FADER ’NILS’ I TOLTAN (= Elofs syskon?): INGET FUNNET. Ingen Nils-son/-dotter född i Toltan 1688–1700 hittades i bild 10–52.\nB) BARN MED FADER ISAK (Larsson/Björsson) I TOLTAN (= Marits syskon?): INGET FUNNET (Isak nämns bara som fadder: ’Isaac L. i Zolta’ 26/5 1689 bild 15 och ’Isaack L. i Zoltan’ 15/2 1691 bild 22; Marit Isaksdotter kan vara född före 1688 → dopboken börjar 1688).\nC) BARN I ÅSEN/ÅSNÄS MED FADER NILS: INGET FUNNET. (’Åstnäs/Åsnäs’ i 1688–90 är en annan by än Åsen.) Ett barn ’i Åsen’ finns 1693 nr 5 (Dnca 3 Epiph., bild 34 vä): fadern oläsligt (”… barn i Åsen”, namn ’Börit?’; fadder ”d. Lars i Tokner”, ”H. Ingri i Takner, H. Börit ibid, P. Elin Åsen och Dordi i Tolby”). Fadder 15/2 1691 bild 22: ”Nils Ersson i Åsen” (bredvid ”Isaac L. i Zoltan”, ”Hans ibid”) – en möjlig ’Nils’ i Åsen (patronymikon Ersson) men ingen koppling till Elof belagd.\nD) ÖVRIGA DOP I TOLTAN 1688–1700 (datum, barn, far, mor; bild):\n 1689-04-21 Nils Andersson, ö. Tortan; Anders Jonsson / Christin Persdotter; b.15\n 1689-06-23 Olof Christophersson, Zolta; Christopher Jonsson? / Mari Johansdotter; b.15\n 1689-08-22 Nils Andersson, v. Fortan; Anders Nilsson / Gunila Gerlsdotter?; b.16\n 1691-01-11 Christin, ö. Fortan; far oläsligt; b.21\n 1691-01-18 Elin, ”Anders barn i öst. Fortan”; b.21\n 1691 (nr 33, Trin.-tid) Nils Håkansson i Östbackom(?); Håkan Nilsson / Marit Ericsdotter i Tolta(!); fadder bl.a. Hans Ersson i Zolta, Nils Ersson, ”Ragnila Månsd. i Toltakärr?”; b.26\n 1691-12-13 Jon Arnesson, W. Fortan; Arne Jönsson / Christin Fredsdotter i W. Fortan; b.27\n 1693 nr 2 (jan) ”Bryngts barn i Tokner”, flicka ’Dorin?’; far Brynt/Bryngel?; b.34\n 1693 nr 5 barn i Åsen (se C), b.34\n 1693 Dnca Misericordias Matts(?) barn i W. Furtan, Brynthe; b.36\n 1693 Dnca Rogationis barn i Toltan, Ingel; far oläsligt (tidigare agent: ’Gunne…’); b.37\n 1693 1:a Advent ”Jonssons?/Jans barn i öst. Furtan, Jon”; b.38\n 1693 (nr 15) Lisbeth i Furtan; b.35–36 (tidigare agent)\n 1695 (Reminiscere, mars) Olof Nilssons barn i Ö. Tokner, dotter Karin; b.42\n 1696-01-01 Jan?/Anders Olssons barn i W. Tokner, Karin; fadder bl.a. Per i Finbäck, Brynte Jonsson i Åstnäs; b.45\n 1696-02-06 Amunds barn i Ö. Tokner (namn oläsligt); b.45\n 1696 (sent, ’Dnca 9?’) Lasse Erichssons(?) barn i Toltan, ’Pär/Per’; fadder Nils Christophersson i Skog, Knut i Ö. Tokner, H. Kerstin i Toltan; b.46\n 1697 (Dnca 2 p. Pascha) Olof Nilssons barn i Ö. Tokner, ’Mattes?’ (+ ’Dnca Exaudi Mattes barn … kallad Karin’ ej säkert Toltan); b.46\n 1698-02-14 (nr 8) Halfwards barn i Gryttom; fadder Olof Mattsson i Ö. Furtan; b.48/49 (ej Toltan-barn)\n 1699 (efter 23/…) Lasse Erichssons barn i Tolten, Nils; fadder Amund i Ö. Tokner, Hans i Tolten; H. Kirsti i Tolten; b.51\n 1699-11-30 (Sankt Andreas dag) Olof Andersons barn i Furtan, Marit; fadder Hans i Furtan; b.52\nSLUTSATS: dopboken (som är gles; ca 15–25 dop/år i början) visar INGA yngre syskon till Elof (f. 1687) med fader Nils i Toltan 1688–1700. Möjliga orsaker: föräldrarna dog/flyttade, barnen är inte bevarade i den glesa boken, eller Elofs far är inte bosatt i Toltan. Observera: ”Olof Nilsson i Ö. Toltan” (barn 1695 och 1697) och ”Nils Larsson”/Lars Ersson är olika hushåll – Olof Nilsson i Ö. Toltan kan vara en äldre bror/släkting till Elof men det är OBEVISAT.",
-   "MANTAL Brunskog 1685-1693 (AM2, Toltan-gruppen, 'ux'=hustru; Toltan ligger i Brunskog efter Arnäs-gruppen (Jacob Börjesson, Jacob Knutsson), före Åsen): 1685 (A0003165_00243, h. sida) Toltan: Nilss Larsson, Isak Larsson, Isak Biörsson, Per Ersson; därefter Åsen ('Åsen/Torbyn'): Erik, Börje(?), Jon, Johan, Måns. 1686 (A0003166_00228) Toltan: Nils Larsson, Isak Larsson, Isak Björsson, Per Eriksson/Ersson; Åsen: Erik, Anders Bengtsson … 1687 (A0003167_00266, v. sida) Toltan: Nils Larsson 2, Isak Larsson 2, [3:e namnet läst 'Lars/Hans Eriksson', ej Isak Björsson?] 2, Per Eriksson 2; Åsen: Erik 3, Anders Bengtsson 1, Jon, Johan, Måns, Nils Jönsson. 1688 (A0003168_00321, bild svårt fläckig) Toltan: Nils Larsson, Isak Larsson, 'Christopher…', Lars Ersson, Per Ersson, Per Ers… (sista raden står vid Åsen-rubriken). 1689 (A0003169_00279, mycket skadad, nytt format 'og hustru') Toltan: Nils Larsson og hustru, 'Eric/Isak Larsson' og hustru (osäker), Christopher og hustru, Lars(?) Persson/Ersson og hustru, Per Ersson og hustru, Per Ersson, Jon Börjesson … – svårläst. 1690 (A0003170_00284, h. sida nederst; klar) Toltan: Nils Larsson ux, Isak Larsson ux, Christopher ux, Lars Ersson ux, Per Ersson ux (alla 2 mantal). 1691 (A0003171_00292 nederst h. kolumn; fortsättning 00293 överst) Toltan: Nils Larsson ux, Isak Larsson ux, Christopher ux, Isak Björsson ux (summa sidan 86); överst 293: Lars Ersson ux, Per Ersson ux, Mattis Ersson(?), piga … ; Åsen: Jon Bengtsson, Johan, Erik …, Nils …. 1692 (A0003172_00278 h. sida, 2:a kolumnen; klar) Toltan: Nils Larsson ux, Isak Larsson ux, Isak Björsson, Per Ersson, Lars Ersson [3 mantal: 'd:o Nils Ersson' (sannolikt hans son/dräng), 'piga Kirstin']; Åsen: Per Ersson, 'd:o Mattis', piga Marit Olofsd. 1693 (A0003173_00304 h. sida; klar) Toltan: Nils Larsson, Isak Larsson, Isak Björsson, Per Ersson, Lars Ersson, Per Ersson/Larsson(?); Åsen: Jon Bengtsson, Johan, Erik Jonsson. SLUTSATS: Nils Larsson är förste namn i Toltan oavbrutet 1685-1693 (ingen annan 'Nils' i Toltan, ingen ersättare) och Isak Larsson andra namn 1685-1693 – Isak finns alltså redan 1685 (första lästa året; tidigare år ej lästa). Isak Björsson 1685, 1686, 1691-93 (läst 'Christopher' 1688-91 på samma plats – möjligen annan man/felläsning). Ingen 'Nils Ersson' i Åsen-gruppen 1685-93 (en 'Nils Ersson' 1687 står under nästa by 'Jörgenäs'). Inga söner/'enkan'/'dräng' noterade i Toltan-gruppen utom 'd:o Nils Ersson' hos Lars Ersson 1692. Elofs far (Nils) kan alltså inte skiljas ut: Nils Larsson är enda Nils i Toltan (lead kvarstår)."
+   "MANTAL Brunskog 1685-1693 (AM2, Toltan-gruppen, 'ux'=hustru; Toltan ligger i Brunskog efter Arnäs-gruppen (Jacob Börjesson, Jacob Knutsson), före Åsen): 1685 (A0003165_00243, h. sida) Toltan: Nilss Larsson, Isak Larsson, Isak Biörsson, Per Ersson; därefter Åsen ('Åsen/Torbyn'): Erik, Börje(?), Jon, Johan, Måns. 1686 (A0003166_00228) Toltan: Nils Larsson, Isak Larsson, Isak Björsson, Per Eriksson/Ersson; Åsen: Erik, Anders Bengtsson … 1687 (A0003167_00266, v. sida) Toltan: Nils Larsson 2, Isak Larsson 2, [3:e namnet läst 'Lars/Hans Eriksson', ej Isak Björsson?] 2, Per Eriksson 2; Åsen: Erik 3, Anders Bengtsson 1, Jon, Johan, Måns, Nils Jönsson. 1688 (A0003168_00321, bild svårt fläckig) Toltan: Nils Larsson, Isak Larsson, 'Christopher…', Lars Ersson, Per Ersson, Per Ers… (sista raden står vid Åsen-rubriken). 1689 (A0003169_00279, mycket skadad, nytt format 'og hustru') Toltan: Nils Larsson og hustru, 'Eric/Isak Larsson' og hustru (osäker), Christopher og hustru, Lars(?) Persson/Ersson og hustru, Per Ersson og hustru, Per Ersson, Jon Börjesson … – svårläst. 1690 (A0003170_00284, h. sida nederst; klar) Toltan: Nils Larsson ux, Isak Larsson ux, Christopher ux, Lars Ersson ux, Per Ersson ux (alla 2 mantal). 1691 (A0003171_00292 nederst h. kolumn; fortsättning 00293 överst) Toltan: Nils Larsson ux, Isak Larsson ux, Christopher ux, Isak Björsson ux (summa sidan 86); överst 293: Lars Ersson ux, Per Ersson ux, Mattis Ersson(?), piga … ; Åsen: Jon Bengtsson, Johan, Erik …, Nils …. 1692 (A0003172_00278 h. sida, 2:a kolumnen; klar) Toltan: Nils Larsson ux, Isak Larsson ux, Isak Björsson, Per Ersson, Lars Ersson [3 mantal: 'd:o Nils Ersson' (sannolikt hans son/dräng), 'piga Kirstin']; Åsen: Per Ersson, 'd:o Mattis', piga Marit Olofsd. 1693 (A0003173_00304 h. sida; klar) Toltan: Nils Larsson, Isak Larsson, Isak Björsson, Per Ersson, Lars Ersson, Per Ersson/Larsson(?); Åsen: Jon Bengtsson, Johan, Erik Jonsson. SLUTSATS: Nils Larsson är förste namn i Toltan oavbrutet 1685-1693 (ingen annan 'Nils' i Toltan, ingen ersättare) och Isak Larsson andra namn 1685-1693 – Isak finns alltså redan 1685 (första lästa året; tidigare år ej lästa). Isak Björsson 1685, 1686, 1691-93 (läst 'Christopher' 1688-91 på samma plats – möjligen annan man/felläsning). Ingen 'Nils Ersson' i Åsen-gruppen 1685-93 (en 'Nils Ersson' 1687 står under nästa by 'Jörgenäs'). Inga söner/'enkan'/'dräng' noterade i Toltan-gruppen utom 'd:o Nils Ersson' hos Lars Ersson 1692. Elofs far (Nils) kan alltså inte skiljas ut: Nils Larsson är enda Nils i Toltan (lead kvarstår).",
+   "DÖD/BEGRAVNING Brunskog 1715, E I/1 bild 148 (sid 273, vänster sida): ”d 20 Feb: begrofs Nils Larsson ifrån Toltan, som … legat någon åhr wed Sängen och war mycket Elåndig. Hans ålder war 80 åhr.” (ca f. 1635). Det är alltså den ÄLDRE Nils Larsson (mantalsskriven i Toltan 1685–1711+) som dog i feb 1715. Mantalets ”Nils Larsson” 1722–35 med hustru Kerstin Olofsdotter är en yngre man (sannolikt Nils Larsson f. 1699, son till Lasse Erichsson) och därmed inte Elofs far.",
+   "DÖD Brunskog 1715, bild 148, direkt efter: ”d 24 Feb: Begrofs Nils Andersson ifrån Ö. Tortan … Hans ålder … 80 år” – en annan Nils i Toltan-området, f. ca 1635; kan också vara Elofs far (alternativ kandidat, lika obevisad). Dödböckerna 1711–1722 (E I/1 bild 140–157) saknar post som nämner son Elof."
   ],
   "sources": [
    {
@@ -22984,8 +22998,8 @@
   "living": false,
   "born": {
    "date": "1711-10-02",
-   "place": "(Frykerud?)",
-   "note": "A I/10 bild 38: ”Måns Knutsson” 1711 2/10; A I/9 bild 49 ser ut som ”Måns Månsson” 1711 2/10"
+   "place": "Lene, Frykerud",
+   "note": "dop C/2 bild 102 (s. 179): ”2 Oct: Knut och h. Karin Månsdotter barn i Lene, kallad Måns”"
   },
   "places": [
    "Lene, Frykerud"
@@ -23001,7 +23015,8 @@
    "VIGSEL (AF1): E I/1 bild 67 (s. 123), sista posten för 1749, marginal ”28” (föregående post ”Dec 26”), ordagrant (handstil läsbar, ort efter Kierstin Nilsd svårläst): ”wigdes för altaret i vanlig ständ Måns Knutsson i Lena med pigan Kierstin Nilsd: i Sundrviken[?] efter 3ne lagen ständda lysningar morgongåfwa 20 lod silfwer.” ⇒ vigsel 28 dec 1749 (INTE ca 1745). E I/1 bild 60–63 (okt 1744–jun 1746) och 64–66 (1746–48) genomlästa utan Måns Knutsson.",
    "DÖD (AF1): F/1 C0037142 bild 80 (s. 137, ”Begrafne 1795”), dec: ”Gifta Måns Knutsson ifrån Lene” – kolumner: död 11 / begr. 20 dec, sjukdom ”Slag”, ålder 84 år 2 mån 9 dagar (⇒ f. 2/10 1711, stämmer med husförhör). VERIFIERAD död.",
    "Not: i samma bok (bild 71, 1789) ’Ungkarlen Drängen Måns Månsson i Lene’ d. 29/8 1789 = sonen, ej fadern; fadern dog 11/12 1795 (bild 80).",
-   "HUSFÖRHÖR A I/6 (1753–59) C0037107 bild 75 (sid. 56, ”Lene”; Lene börjar sid. 55 = bild 74), ordagrant: ”Olof Saesson(?) [1688 4/6] / H. Karin Håkansdr [1680] / M. Måns Knutsson [1711 2/10] / H. Kerstin Nilsd [1727 6/11] / S. Måns Månsson [1746 4/9] / D. Stina Månsd [1753 10/7] / ab. dr. Jonas Nilsson / ab p. Ingeborg Månsd …”. Måns står i Olof Såessons/Karin Håkansdotters hushåll med förkortningen ”M.” (läst som ”Måg”/inhyses; osäker) – ej ”son”. Inga föräldrar till Måns Knutsson angivna; ingen ”född i”-kolumn i A I/6. Föräldrar (Knut …) alltså INTE funna; födelsen 1711 föregår dopböckerna (C/3 börjar 1726). Förslag: leta ”Måns Knutsson” som son i A I/1–A I/3 (1725–41) i annan by, eller i E I/1 bild 67 efter hemvist."
+   "HUSFÖRHÖR A I/6 (1753–59) C0037107 bild 75 (sid. 56, ”Lene”; Lene börjar sid. 55 = bild 74), ordagrant: ”Olof Saesson(?) [1688 4/6] / H. Karin Håkansdr [1680] / M. Måns Knutsson [1711 2/10] / H. Kerstin Nilsd [1727 6/11] / S. Måns Månsson [1746 4/9] / D. Stina Månsd [1753 10/7] / ab. dr. Jonas Nilsson / ab p. Ingeborg Månsd …”. Måns står i Olof Såessons/Karin Håkansdotters hushåll med förkortningen ”M.” (läst som ”Måg”/inhyses; osäker) – ej ”son”. Inga föräldrar till Måns Knutsson angivna; ingen ”född i”-kolumn i A I/6. Föräldrar (Knut …) alltså INTE funna; födelsen 1711 föregår dopböckerna (C/3 börjar 1726). Förslag: leta ”Måns Knutsson” som son i A I/1–A I/3 (1725–41) i annan by, eller i E I/1 bild 67 efter hemvist.",
+   "DOP (BA4): Frykerud C/2 bild 102 (s. 179), 1711 okt, marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …”. Dag (2 okt), by (Lene), namn (Måns) och faderns förnamn (Knut = Knutsson) stämmer med husförhör och dödbok (84 år 2 mån 9 d, d. 11/12 1795). Föräldrar: Knut och Karin Månsdotter."
   ],
   "sources": [
    {
@@ -23031,6 +23046,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–1759) C0037107, bild 75 (sid. 56), Lene: M. Måns Knutsson 1711 2/10, H. Kerstin Nilsd 1727 6/11, S. Måns Månsson 1746 4/9, D. Stina Månsd 1753 10/7",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00075"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
    }
   ],
   "search": [
@@ -23751,9 +23770,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1708",
-   "place": "",
-   "note": "årtal ur husförhör A I/7 bild 41"
+   "date": "1708-12-15",
+   "place": "Lene, Frykerud",
+   "note": "dop C/2 bild 78 (s. 152): marg. 15/20 dec 1708, ”Bryngell … och h. Ingeri barn i Lene kallat Marit” (husförhör: 1708, ev. 12/12 – dag ej säkert)"
   },
   "places": [
    "Lene, Frykerud"
@@ -23761,7 +23780,8 @@
   "summary": "Hustru till Anders Nilsson på Lene; mor till Jonas f. 1750. Patronymikon enligt dopboken Bryngelsdotter (inte Bengtsdotter).",
   "notes": [
    "HUSFÖRHÖR A I/7 bild 41 (fol. 28 Lene): ”H. Marit Bryng[…]” 1708 (12/12?).",
-   "DOP C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”."
+   "DOP C/4 bild 37: ”…Nilsson och h: Marit Bryngel-dotter”.",
+   "DOP-KANDIDAT (BA4): C/2 bild 78 (s. 152), dec 1708, marg. ”15/20”: ”Bryngell [patron. oläsligt] och h. Ingeri(d) barn i Lene kallat Marit”. Fader Bryngel + by Lene + år 1708 matchar patronymikon Bryngelsdotter; dagen (15 dec) vs husförhörets ”12/12?” ej säkerställd. Faddrar bl.a. Olof i Lene; notera att ”Mattes Bryngelsson i Lena” är fadder vid Jonas 1750 (möjlig bror till Marit)."
   ],
   "sources": [
    {
@@ -23771,6 +23791,10 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/4 (1747–1777) C0037137, bild 37 (1750 apr): ”…Nilsson och h: Marit Bryngeldotter … kallat Jonas”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037137_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 78 (s. 152), dec 1708 (15/20): Bryngell … och h. Ingeri barn i Lene kallat Marit",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00078"
    }
   ],
   "search": [
@@ -28626,7 +28650,9 @@
   "notes": [
    "HUSFÖRHÖR A I/17 b.144 (s.126): ”inhy. Olof Nilsson 6/2 93 loco; hust. Marit Olsdr 10/1 02 loco; Son Nils Olsson 1823 (överstruken, död 18/8 32); Son Olof 25; Son Per 1830? (död 2/7 32); Son Anders 8/3 31 loco; Dotter Lisa 7/2 34 loco”. Mors namn Marit i husförhöret men Kjerstin i dopet 8/3 1831.",
    "Husförhör A I/17 b.144 anger ”Olof Nilsson 6/2 93” (tydligt Nilsson), vår post har Olsson – kontrollera patronymikon.",
-   "Namnet bör vara Olof Nilsson (både husförhör A I/17 b.144 och dopposterna 1825/1831/1834 ger patronymikon Nilsson)."
+   "Namnet bör vara Olof Nilsson (både husförhör A I/17 b.144 och dopposterna 1825/1831/1834 ger patronymikon Nilsson).",
+   "DOP Brunskog C I/3 1793, bild 44 (s. 65), nr 8, 6 febr: ”Takene Olof – Nils Jonsson / Lisa Larsd 53 – Måns Jonsson, Kari Jonsd”. Födelsedagen 6/2 stämmer med husförhörets ”6/2 93”, patronymikon Nilsson stämmer med fadern Nils Jonsson. (Dopet nr 7 samma dag-vecka, ”Takene Olof – Olof Olsen / Ingjerd Nilsd”, född 30/1, är annan Olof, överstruket.) Föreslagen rättelse: namnet Olof Nilsson, inte Olsson.",
+   "VIGSEL Brunskog E I/3 (C0036788) bild 52 (s. 77), lysning 1822: ”Emellan Tjenstedräng Olof Nilson från Takene och pigan Marit Olsdotter därstädes” – vigd 8/10 1822 (läsning av datum osäker)."
   ],
   "sources": [
    {
@@ -28636,6 +28662,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 44 (1793) nr 8: Takene Olof – Nils Jonsson / Lisa Larsd",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00044"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/3 (1810-), bild 52 (1822, s. 77): Olof Nilson och pigan Marit Olsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036788_00052"
    }
   ],
   "search": [
@@ -28657,12 +28691,17 @@
   ],
   "summary": "Hustru till inhyses Olof (f. 1793) 1831–35; enligt husförhöret mor till Anders (f. 1831). Dopet 1831 anger modern som Kjerstin Olsd. – konflikt.",
   "notes": [
-   "Se Olof f. 1793."
+   "Se Olof f. 1793.",
+   "DOP Brunskog C I/3 1802, bild 72 (s. 115), nr 1, 10 jan: ”Ö. Takene Marit – Olof Andersson / g. Marit Olsd 76”. Födelsedag 10/1 stämmer med husförhör A I/17."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhör A I/17 (1831-35), bild 144 (s.126, Ö. Takene): inhyses Olof Nilsson [sic] 6/2 1793, hustru Marit Olsdr 10/1 1802, söner Nils Olsson 1823 (överstruken, död 1832), Olof 1825, Per 1830? (död 1832), Anders 8/3 1831, dotter Lisa 7/2 1834",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036756_00144"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 72 (1802) nr 1",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00072"
    }
   ],
   "search": [
@@ -37437,6 +37476,261 @@
   ],
   "search": [
    "Andreas (Anders) Andersson Nygren (f. 1854 Brunskog, banvakt, Eda)"
+  ]
+ },
+ {
+  "id": "isak_bjorsson_toltan",
+  "name": "Isak Björsson (Toltan, d. 1719)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1645",
+   "place": "",
+   "note": "ålder ca 74 år vid död 1719 enligt begravningsposten (sista siffran svårläst)"
+  },
+  "died": {
+   "date": "1719-04-12",
+   "place": "Toltan, Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Bonde i Toltan, mantalsskriven 1685–93 m.fl. Begravd 12 april 1719 (infogad rad). Möjlig far till Marit Isaksdotter (g. Elof Nilsson) – patronymikon stämmer, men ingen källa säger det uttryckligen; kopplingen kommer från MyHeritage-trädet.",
+  "notes": [
+   "DÖD/BEGRAVNING Brunskog 1719, E I/1 bild 157 (sid 291), överstruken/infogad rad mellan nr 17 och 18: ”d 12 Apr: Begrof Isaac Biörnsson ifrån Tolt[en] … gudfruchtigen … ålder 74 år” (rad delvis överskriven och svårläst; läsning ”Isaac Björnsson/Björsson ifrån Toltan, 74 år” bedöms rimlig men ej säker i alla ord)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsregister i E I/1 (C0036786), 1719, bild 157 (sid 291), infogad rad 12 apr: Isaac Biörnsson ifrån Toltan, 74 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00157"
+   }
+  ],
+  "search": [
+   "Isak Björsson (Toltan, d. 1719)"
+  ]
+ },
+ {
+  "id": "per_nilsson_toltan_d1731",
+  "name": "Per(?) Nilsson (Toltan, d. 1731)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1677",
+   "note": "ca juli 1677 enligt åldern vid död"
+  },
+  "died": {
+   "date": "1731-01-24",
+   "place": "Toltan, Brunskog"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Man i Toltan, begravd 24 jan 1731 vid 53 år 6 mån. Möjlig äldre bror till Elof Nilsson (\"Elof och Pehr Nilssonar i Toltan\" 1729), men förnamnet i dödboken är svårläst och identiteten obevisad.",
+  "notes": [
+   "DÖD/BEGRAVNING Brunskog 1731, E I/1 bild 173 (sid 323, vänster sida) nr 2: ”d 24 Januarii [Pehl/Joel?] Nilsson i Toltan, som lefwerat berömligen i 53 år och 6 mån” (förnamnet svårläst; den mantalsskrivne Per Nilsson i Ö. Toltan 1712 och fadder ”Pehr Nilsson i Toltan” 1729 talar för Per)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog död- och begravningsregister i E I/1 (C0036786), 1731, bild 173 (sid 323) nr 2: 24 jan, [Per?] Nilsson i Toltan, 53 år 6 mån",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00173"
+   }
+  ],
+  "search": [
+   "Per(?) Nilsson (Toltan, d. 1731)"
+  ]
+ },
+ {
+  "id": "fr_knut_lene1711",
+  "name": "Knut (Knutsson?) (Lene, Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Far till Måns Knutsson (f. 2/10 1711 på Lene) enligt dopboken; patronymikon ej angivet i dopposten.",
+  "notes": [
+   "DOP Frykerud C/2 (1701–1726) bild 102 (s. 179, högra sidan), 1711 okt: marg. ”2 Oct”: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns. Faddersskor h. Marit i Gönäs …” (fadderlistan ej fullt läst). Endast förnamnet Knut anges; ”Knutsson” för sonen kommer från husförhör/dop 1753."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
+   }
+  ],
+  "search": [
+   "Knut (Knutsson?) (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_karinmansd_lene1711",
+  "name": "Karin Månsdotter (Lene, Frykerud, mor till Måns Knutsson f. 1711)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Hustru till Knut på Lene; mor till Måns Knutsson f. 2/10 1711 enligt dopboken.",
+  "notes": [
+   "DOP Frykerud C/2 bild 102 (s. 179), 2 okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 102 (s. 179), 2 okt 1711: Knut och h. Karin Månsdotter, barn i Lene, kallad Måns",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00102"
+   }
+  ],
+  "search": [
+   "Karin Månsdotter (Lene, Frykerud, mor till Måns Knutsson f. 1711)"
+  ]
+ },
+ {
+  "id": "fr_bryngel_lene1708",
+  "name": "Bryngel (patronymikon oläsligt) (Lene, Frykerud)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Förmodad far till Marit Bryngelsdotter f. dec 1708 på Lene (dop C/2).",
+  "notes": [
+   "DOP Frykerud C/2 bild 78 (s. 152, vänstra sidan), 1708 dec, marg. ”15/20”: ”Bryngell [patronymikon svårläst: Pet(t)ersson?] och h. Ingeri(d?) barn i Lene kallat Marit. Faddrar … Olof i Gömnäs(?), Olof i Lene, h. Malin i Lene, h. Marit …”. Födelsedag 15 dec/dop 20 dec; husförhör A I/7 har Marit f. 1708 (”12/12?” osäkert läst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 78 (s. 152), dec 1708 (15/20): Bryngell … och h. Ingeri(d) barn i Lene kallat Marit",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00078"
+   }
+  ],
+  "search": [
+   "Bryngel (patronymikon oläsligt) (Lene, Frykerud)"
+  ]
+ },
+ {
+  "id": "fr_ingerid_lene1708",
+  "name": "Ingerid (Lene, Frykerud, mor till Marit f. 1708)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Förmodad mor till Marit Bryngelsdotter f. dec 1708; patronymikon ej angivet i dopposten (läst ”Ingeri”).",
+  "notes": [
+   "DOP Frykerud C/2 bild 78 (s. 152), dec 1708 (15/20): ”Bryngell … och h. Ingeri(d) barn i Lene kallat Marit”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dop C/2 (1701–1726) C0037135, bild 78 (s. 152), dec 1708",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00078"
+   }
+  ],
+  "search": [
+   "Ingerid (Lene, Frykerud, mor till Marit f. 1708)"
+  ]
+ },
+ {
+  "id": "nils_jonsson_takene93",
+  "name": "Nils Jonsson (Takene, far till Olof f. 6/2 1793)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Takene, Brunskog"
+  ],
+  "summary": "Far till Olof Nilsson (f. 6/2 1793, Takene) enligt dopboken 1793; gift med Lisa Larsdotter.",
+  "notes": [
+   "DOP Brunskog C I/3 1793, bild 44 (s. 65), nr 8, 6 febr: ”Takene Olof – Nils Jonsson / Lisa Larsd[otter] 53 – [faddrar] Måns Jonsson, Kari Jonsd”. Moderns efternamn delvis överstruket/svårläst; talet 53 läses som mors födelseår (1753)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3 (1782-1844), bild 44 (1793, s. 65), nr 8: Takene Olof – Nils Jonsson / Lisa Larsd",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00044"
+   }
+  ],
+  "search": [
+   "Nils Jonsson (Takene, far till Olof f. 6/2 1793)"
+  ]
+ },
+ {
+  "id": "lisa_larsd_takene93",
+  "name": "Lisa Larsdotter (Takene, mor till Olof f. 6/2 1793)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1753",
+   "note": "talet ”53” i dopbokens åldersspalt, tolkat som födelseår – osäkert"
+  },
+  "places": [
+   "Takene, Brunskog"
+  ],
+  "summary": "Mor till Olof Nilsson (f. 6/2 1793); efternamnet Larsdotter delvis överstruket i källan.",
+  "notes": [
+   "DOP 1793 bild 44 nr 8: ”Lisa [överstruket ord] Larsd 53”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 44 (1793), nr 8",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00044"
+   }
+  ],
+  "search": [
+   "Lisa Larsdotter (Takene, mor till Olof f. 6/2 1793)"
+  ]
+ },
+ {
+  "id": "olof_andersson_takene02",
+  "name": "Olof Andersson (Ö. Takene, far till Marit f. 10/1 1802)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Marit Olsdotter (f. 10/1 1802, Ö. Takene) enligt dopboken 1802.",
+  "notes": [
+   "DOP Brunskog C I/3 1802, bild 72 (s. 115), nr 1, 10 jan: ”Ö. Takene Marit – Olof Andersson / g. Marit Olsd 76 – Olof Olsen, Brita Jonsd[otter]” (faddrar)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 72 (1802, s. 115), nr 1",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00072"
+   }
+  ],
+  "search": [
+   "Olof Andersson (Ö. Takene, far till Marit f. 10/1 1802)"
+  ]
+ },
+ {
+  "id": "marit_olsd_takene76",
+  "name": "Marit Olsdotter (f. 1776, Ö. Takene, mor till Marit f. 1802)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1776",
+   "note": "talet ”76” i dopbokens åldersspalt, tolkat som födelseår"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Gift med Olof Andersson; mor till Marit Olsdotter f. 10/1 1802.",
+  "notes": [
+   "DOP 1802 bild 72 nr 1: ”g. Marit Olsd 76”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/3, bild 72 (1802), nr 1",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036784_00072"
+   }
+  ],
+  "search": [
+   "Marit Olsdotter (f. 1776, Ö. Takene, mor till Marit f. 1802)"
   ]
  }
 ]
