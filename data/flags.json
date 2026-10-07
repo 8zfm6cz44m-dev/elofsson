@@ -3660,6 +3660,44 @@
    "persons": [
     "anders_ak_1854"
    ]
+  },
+  {
+   "title": "Irena: dotter till Stefan Orzechowski och Zofia Młodawska? OAVGJORT",
+   "text": "Ingen primärkälla nåbar 2026-10-07. Geneteka är spärrat (recordsTotal som sträng 35635/39005 och orelaterade träffar för både B 1926 Orzechowski och S 1923 Orzechowski/Stefan). Szukaj w Archiwach ligger bakom Imperva/Incapsula-captcha (curl: 'Request unsuccessful. Incapsula incident'; webbläsare: 'Additional security check is required') – ej försökt förbi. Skanoteka/metryki.genealodzy.pl svarar, men Kielce St Wojciech (id239) har skanningar bara 1890–1911, Katedra (id57) 1810–1917 samt kassaböcker (pokładne) 1922/23/25; Podwyższenia Krzyża Św. (id5674) 1915–1917 och 1922 UMZ; Białogon (id3912) 1919–1941 finns men ej genomsökt (okänt om Szydłówek hörde dit). Födelse 1926, Ryszard 1931 och Zofias död 1933 ligger alltså utanför Skanotekas Kielce-material. Webbsökningar (två) gav inga träffar. Hypotesen Irena = dotter till Stefan/Zofia kvarstår som lead: tidsmässigt möjlig (gifta 7.1.1923, barn 1926 och 1931) men namnet Jarczyńska talar emot. Kan avgöras via Szukaj w Archiwach (manuellt, captcha) eller via Irenas dödsakt/Trzcińsko-Zdrój USC (död 2017, ev. föräldranamn) eller släktingars uppgift.",
+   "persons": [
+    "irena",
+    "stefan",
+    "zofia"
+   ]
+  },
+  {
+   "title": "Bolesław Kogut: inga spår funna (BE2)",
+   "text": "Geneteka-API (getAct.php) gav redan vid första sökningen spärrsvar (recordsTotal som sträng 38410/36726/30030 med orelaterade träffar som Zakrzewski, Kowalewski, Małolepszy oavsett nyckelord/w) – avbrutet efter 3 anrop. Websökning 'Bolesław Kogut Trzcińsko-Zdrój' och 'Kogut Bolesław Irena Orzechowska/Jarczyńska' gav inga relevanta träffar. Szukaj w Archiwach är JS-drivet (curl ger tom sida, 946 byte). Ingen vigsel eller födelse hittad.",
+   "persons": [
+    "boleslaw"
+   ]
+  },
+  {
+   "title": "Michał Orzechowski (f. ca 1842) – födelse ej funnen i Katedra 1840–1848",
+   "text": "Katedra födelseindex (SkU) O-avsnitt lästa 1840 (endast Orzechowska Ludwika akt 417), 1844, 1845, 1846 (Orzechowski Kazimierz akt 115), 1847, 1848: ingen Michał. Tillsammans med BA1/BD8 (1841–43) och BD10 (Piekoszów 1840–44) är Katedra 1840–1848 och Piekoszów 1840–44 negativa. Födelseort 'Wólka Pokonna' kan avse Wólka Pokłonna (gm. Raków, 33 km SÖ om Kielce) – Raków-parishen (Skanoteka id3083) har skanningar endast t.o.m. 1825 (inga 1840-tal). Lead, ej bekräftat.",
+   "persons": [
+    "michal_orzechowski"
+   ]
+  },
+  {
+   "title": "Wawrzyniec × Tekla Orzechowski: vigsel ej i Katedra 1837–1841",
+   "text": "Katedra vigselindex (SkM) 1837, 1838, 1839, 1840, 1841 (groom-O): ingen Orzechowski (endast Ogrodnik, Olszański, Opel, Obara, Olearczyk, Osuch, Opitz, Ostrowski, Orzłach Feliks 1839 akt 75). Katedra 1826–1836 saknas helt i Skanoteka; vigseln ligger troligen där (eller före 1826/utanför Katedra). Wawrzyniecs död: oindexerade 1848 (akter 123–209 finns) och 1852 (671 akter, ~85 bilder) ej lästa sekventiellt; 1842–1865 i övrigt negativt (BD6/BD8).",
+   "persons": [
+    "wawrzyniec_orzechowski",
+    "tekla_orzechowska"
+   ]
+  },
+  {
+   "title": "Szrek i Katedras vigselindex",
+   "text": "Andra Szrek-poster (ej kopplade till Mikołaj): 1837 akt 96 'Surek Maciej z Jadwigą z Boryckich' (stavning Surek/Szrek osäker); 1838/1837 akt 143 'Styrek Andrzej z Agnieszką ze Szrekow' (brud Szrek); 1822 akt 71 'Sraka Andrzej z Garmankówną Maryanną' (osäker). Visar Szrek-släkt i Katedra-området; kräver akterna för koppling.",
+   "persons": [
+    "maryanna_hencel"
+   ]
   }
  ],
  "conflicts": [

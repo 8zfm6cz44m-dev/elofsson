@@ -12102,5 +12102,24 @@
   "b": "britta_olsd_amatt",
   "status": "verified",
   "basis": "Dop 1854: 'Anders Nilsson o h. Brita Olsd i Åmått'."
+ },
+ {
+  "id": "c-mikolaj_szrek_1804-malgorzata_jaworska_szrek-maryanna_hencel",
+  "type": "child",
+  "parents": [
+   "mikolaj_szrek_1804",
+   "malgorzata_jaworska_szrek"
+  ],
+  "child": "maryanna_hencel",
+  "status": "strong",
+  "basis": "Födelse Katedra 1824 akt 532 (Maryanna, Mikołay Schrek + Małgorzata z Jaworskich, Niewachłów) + dödsakt 1880 akt 909 + vigsel 1841 akt 148 (föräldranamn identiska). Ej verified: akt 532 nämner inte Hencel; koppling via ålder, förnamn och föräldrars namn."
+ },
+ {
+  "id": "p-mikolaj_szrek_1804-malgorzata_jaworska_szrek",
+  "type": "partner",
+  "a": "mikolaj_szrek_1804",
+  "b": "malgorzata_jaworska_szrek",
+  "status": "strong",
+  "basis": "Akt 532/1824: 'z Małgorzaty z Jaworskich ... żony iego'."
  }
 ]
