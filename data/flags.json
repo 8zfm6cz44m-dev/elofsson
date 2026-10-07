@@ -3494,6 +3494,36 @@
    "persons": [
     "anders_persson_vakarr_1851"
    ]
+  },
+  {
+   "title": "USA-spåret: Jamestown NY och Oklahoma",
+   "text": "John/E. John Erickson (f. 30 dec 1878, d. sep 1969 Tulsa) med hustru Anna och söner Harry E (1902), Sidney (ca 1905, f. Pennsylvania) och Paul W (1917) bodde i Jamestown NY 1915-1930 och i Dewey, Washington Co, Oklahoma 1940. Saknas: amerikansk poster som nämner Brunskog (naturalisering, 1910-census, död Anna), därför ej uppgraderat Erik Harry till verified. Nästa steg: naturalisering John Erickson Jamestown/Chautauqua, 1910 census (Pennsylvania, McKean), Anna Erickson död, Find a Grave-biografin för Erik Johan (Memorial Park, Tulsa).",
+   "persons": [
+    "erikjohan",
+    "anna_olsson_1879_skog",
+    "erik_harry_eriksson_1902"
+   ]
+  },
+  {
+   "title": "Signe Karolina Olsson 1907: Sunne vs Brunskog",
+   "text": "Ellis Island 21 aug 1907 'Signe K Olson' 18 år hemort Sunne med fader Olof Person och bror Edv Olson. Kan vara Signe Karolina (utflyttad 20/5 1907) men hemort/ålder/bror avviker.",
+   "persons": [
+    "signe_karolina_olsdotter_1888"
+   ]
+  },
+  {
+   "title": "Johan Olaf Olsson (Ellis Island 1923) ej avgjord",
+   "text": "FamilySearch-sökning gav ingen ny information om manifestraden (JNXV-W62, Berengaria). Ålder 36 passar Johan Olof Olsson f. 23/9 1886 Brunskog (husförhör: Arvika, g. 1909 m. Hilda/Hulda Eriksson, barn Arvid, Valborg) men denne är i persons.json död 1945; identitet ej fastställd.",
+   "persons": [
+    "ei_johan_olaf_olsson_1923"
+   ]
+  },
+  {
+   "title": "Bror Rensta: Kanada/USA-liv och död 1976?",
+   "text": "Gustav Rensta (f. 12 aug 1892, d. 11 maj 1976, Kelowna BC; hustru Jean) matchar Bror Gustaf Benjamin Rensta på efternamn och födelsedatum. Nästa steg: öppna BC Death Registration (Gustav Rensta, make Jean Rensta) för födelseort/föräldrar; leta Canada census 1921/1931 och naturalisering.",
+   "persons": [
+    "aq1_bror_pj92"
+   ]
   }
  ],
  "conflicts": [

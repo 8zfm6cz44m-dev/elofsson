@@ -2712,7 +2712,8 @@
    "USA-SPÅR C6 (2026-10-06): MyHeritage SuperSearch (Erik Erickson f. 1878-79, Pennsylvania) stoppades av hCaptcha-'Security check' – ej klickad. Find a Grave-sökning (Erik Erickson, f. 1878±2, McKean County) gav 20 träffar men platsfiltret fungerade inte (träffar i MN, IL, NY, Ohio m.fl.); ingen Mt. Jewett-/McKean-träff med Brunskog-koppling. Ingen kandidat kan knytas till honom.",
    "HUSFÖRHÖR A II a/1 (E1) – UTVANDRING BEKRÄFTAD: bild 210 (sida 200, Skog, Dernole): Erik Nilsson 43 8/2 Takene (g. 74 30/12) + h. Anna Andersdotter 46 14/12 + barn Hanna Elisabeth 76 6/7, Erik Johan 78 30/12, Paul 81 6/11, Hulda 85 16/3 (”icke döpt” överstruket), Signe Maria 89 8/2. Erik Johan fäst 11/7 1902 med Anna Olsson (sida 199), utflyttad från föräldrahushållet 14/12 1902; i egen rad (rad 9-11): ”Gu s. Erik Johan Eriksson, Nr 12 100/99 [värnpliktsnummer], 78 30/12 Skog, g. 23/8 02”, hustru ”Anna Olsson 79 18/12 Skog” och son ”Erik Harry 02 17/11 Skog”. Utflyttningskolumn (rad 9) ordagrant: ”Amerika 03 ²⁴?/₈” – dagen svårläst (21–24), månad 8 = augusti 1903. Ingen adress i husförhöret. Matchar Ellis Island 3 okt 1903 (S.S. New York): Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., hemort Brunskog, destination Mt. Jewett, Pennsylvania (till vän Nels Nelson). Därmed är erik_j_erikson_1903 mycket stark/verifierad identitet (namn, ålder, gift, hustru Anna f. 1879, barn Erik Harry f. nov 1902, Brunskog) – status bör höjas från candidate till strong/verified.",
    "SCB FÖDELSEUTDRAG Brunskog 1878 (A0036134_00291, nr 118, högersida om 'Mangskog' börjar): nr 118, dag 30 (dec), barnnamn ordagrant ”Erik Johan (2)” [siffran i parentes = antal bokstäver/namnordning, ej ålder]; föräldrar: ”Nilsson Erik, hemmegare/hemmansägare [osäker läsning]” och ”Andersdotter Anna, L. Hu. [lagvigd hustru]”, ort ”Skog” [läsning delvis osäker], moderns/faderns ålder ca 30/32 (kolumn). Bekräftar födelsedatum 30/12 1878 och föräldrarna Erik Nilsson + Anna Andersdotter. Ingen anteckning om utvandring i SCB-utdraget (SCB födelseutdrag har inga flyttanteckningar).",
-   "Ellis Island: Erik J. Erikson (Ellis Island 3 okt 1903, Brunskog) (id erik_j_erikson_1903) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York)."
+   "Ellis Island: Erik J. Erikson (Ellis Island 3 okt 1903, Brunskog) (id erik_j_erikson_1903) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York).",
+   "USA-SPÅR BC1 (FamilySearch): Hushållet i Jamestown, Chautauqua, New York (1915 NY-census, 1920, 1930) = John/E. John Erickson f. ca 1879 Sweden, ankomst 1903, hustru Anna f. Sweden, söner Eric H./Harry E. (f. Sweden ca 1902-03), Sidney (f. Pennsylvania ca 1905) och Paul W (f. 1917 Jamestown). Ankomst 1903 + Pennsylvania-född son stämmer med Mt. Jewett PA. NUMIDENT för sonen Paul W anger föräldrar 'Erik J Erikson' och 'Anna Olson'. Senare Oklahoma: 1940 Jefferson Twp (Dewey), Washington Co; Find a Grave/SSDI/WWII-kort ger exakt födelsedag 30 dec 1878 och död sep 1969 Tulsa. Slutsats: identiteten mycket stark (födelsedag, ankomst 1903, hustru Anna Olson, son Harry f. Sverige). Namnformer: Erik Johan Eriksson, John Erickson/Erikson, E. John Erickson, John E J Erickson."
   ],
   "sources": [
    {
@@ -2742,6 +2743,34 @@
    {
     "label": "Riksarkivet, SCB utdrag ur födelsebok, Brunskog (Värmlands län) 1878, SE/RA/420401/01/H 1 AA/635, bild 8 (A0036134_00291), nr 118: 30 dec 'Erik Johan (2)'",
     "url": "https://sok.riksarkivet.se/bildvisning/A0036134_00291"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Erik Johan Eriksson f. 30 dec 1878, d. sep 1969, Memorial Park Cemetery, Tulsa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVPM-71DW"
+   },
+   {
+    "label": "FamilySearch, SSDI: John Erikson f. 30 dec 1878, d. sep 1969, Tulsa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:JY5Z-D6K"
+   },
+   {
+    "label": "FamilySearch, WWII Draft 1942 Dewey, Washington, Oklahoma: Erik John Erikson f. 30 dec 1878",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XPRY-K3Y"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown NY: John Erickson 41, f. Sweden, ankomst 1903, hustru Anna 40 f. Sweden, söner Harry E 17 (f. Sweden), Sidney 15 (f. Pennsylvania), Paul W 3",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKB-97Y"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 Jamestown NY: E John Erickson 51 f. Sweden, hustru Anna 50 f. Sweden, son Paul W 13",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X7H2-PV4"
+   },
+   {
+    "label": "FamilySearch, New York State Census 1915 Jamestown: John E J Erickson 37, Anna 36, söner Eric H 12 och Sidney J 10",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K9NC-HYB"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Jefferson Twp, Washington, Oklahoma: John Erikson 61 f. Sweden, hustru Anne 60 f. Sweden, son Paul 22 f. New York",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VBK1-7WC"
    }
   ],
   "search": [
@@ -2769,7 +2798,17 @@
    ]
   ],
   "country": "US",
-  "country_note": "Emigrerade 1903 till USA (möjligen Mt. Jewett, Pennsylvania)."
+  "country_note": "Emigrerade 1903 till USA (möjligen Mt. Jewett, Pennsylvania).",
+  "died": {
+   "date": "1969-09",
+   "place": "Tulsa, Oklahoma, USA",
+   "note": "Find a Grave/SSDI, begravd Memorial Park Cemetery, Tulsa"
+  },
+  "places_add": [
+   "Jamestown, Chautauqua, New York (1915-1930)",
+   "Dewey/Jefferson Twp, Washington County, Oklahoma (1940-42)",
+   "Tulsa, Oklahoma (d. 1969)"
+  ]
  },
  {
   "id": "iwona",
@@ -20751,7 +20790,8 @@
    "HUSFÖRHÖR A II a/1 bild 209 (sida 199, Skog Dernere) rad 4: ”b. Anna 79 18/12” dotter hos Olof Persson (54, 23/11) + 2:a hustru Anna Brunzell; anmärkning ”Fäst 17/7 m. Erik Joh. Eriksson p. 200.”; utflyttad ”p. 200 02 19/12”.",
    "HUSFÖRHÖR A II a/1 bild 210 (sida 200, Skog Dernole) rad 10: ”h. Anna Olsson 79 18/12 Skog” = hustru till Erik Johan Eriksson, son Erik Harry. Utflyttningskolumn rad 9-10 ordagrant ”Amerika 03 [dag svårläst]/8” (för maken).",
    "Ellis Island 3 okt 1903 S.S. New York: ”Anna 23 wife” (post JFYM-SWG), se erik_j_erikson_1903.",
-   "Ellis Island: Anna Erikson (f. ca 1880, Brunskog; Ellis Island 1903) (id anna_erikson_1903) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York)."
+   "Ellis Island: Anna Erikson (f. ca 1880, Brunskog; Ellis Island 1903) (id anna_erikson_1903) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York).",
+   "USA BC1: 1915 'Anna' 36, 1920 Anna 40 f. Sweden, 1930 Anna 50 f. Sweden, 1940 Anne 60 f. Sweden i Jamestown NY resp. Dewey OK. NUMIDENT sonen Paul W anger moder 'Anna Olson'. Dödsdatum/-plats ej funnen."
   ],
   "sources": [
    {
@@ -20761,6 +20801,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 10: Anna Olsson 79 18/12 (hustru)",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Jefferson Twp, Washington, Oklahoma: Anne Erikson 60 f. Sweden, hustru till John Erikson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VBK1-7WZ"
    }
   ],
   "search": [
@@ -20785,17 +20829,35 @@
   "notes": [
    "HUSFÖRHÖR A II a/1 bild 210 (sida 200) rad 11: ”s. Erik Harry 02 17/11 Skog” (= f. 17 nov 1902).",
    "Ellis Island 3 okt 1903: ”Eric H. infant” (post JFYM-SWP) – se erik_j_erikson_1903.",
-   "Ellis Island: Eric H. Erikson (spädbarn f. ca 1902) (id eric_h_erikson_1902) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York)."
+   "Ellis Island: Eric H. Erikson (spädbarn f. ca 1902) (id eric_h_erikson_1902) sammanslagen hit; manifest: Erik J. Erikson 24 g., hustru Anna 23, spädbarn Eric H., Brunskog, destination Mt. Jewett PA, 3/10 1903 (S.S. New York).",
+   "USA BC1: exakt födelsedag 17 nov 1902 (Find a Grave samt WWII-kort Bartlesville OK 1942, födelseland Sweden) = Erik Harry i husförhöret. 1915 NY-census 'Eric H Erickson' 12 år, 1920 'Harry E' 17 f. Sweden i fadern John Ericksons hushåll i Jamestown. Död 9 okt 1974, begravd Dewey Cemetery, Washington Co, Oklahoma (nära faderns Oklahoma-bostad 1940). Ingen uttrycklig förälderpost med födelseort Brunskog funnen; ev. 1930/1940-poster ej genomgångna."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 210 (sida 200, Skog Dernole), rad 11: ”s. Erik Harry 02 17/11 Skog”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00210"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Erik Harry Eriksson f. 17 nov 1902, d. 9 okt 1974, Dewey Cemetery, Washington, Oklahoma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVK4-37NC"
+   },
+   {
+    "label": "FamilySearch, Oklahoma WWII Draft 1942, Bartlesville: Erick Harry Erickson f. 17 nov 1902 Sweden, släkting John Erickson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2B4-R44Z"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown NY: Harry E Erickson, son, 17, f. Sweden (hushåll John Erickson)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKB-971"
    }
   ],
   "search": [
    "Erik Harry Eriksson (f. 1902)"
-  ]
+  ],
+  "died": {
+   "date": "1974-10-09",
+   "place": "Washington County, Oklahoma, USA (begravd Dewey Cemetery)"
+  },
+  "born_place_note": "USA-namn: Harry E./Erick Harry Erickson"
  },
  {
   "id": "olof_persson_dernere_1854",
@@ -20868,7 +20930,7 @@
  {
   "id": "olof_viktor_olsson_1885",
   "name": "Olof Viktor Olsson (f. 1885, Skog)",
-  "status": "verified",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -20877,12 +20939,14 @@
   },
   "places": [
    "Skog Dernere",
-   "Amerika 1903"
+   "Amerika 1903",
+   "Los Angeles, California"
   ],
   "summary": "Son till Olof Persson, svåger till Erik Johan Eriksson; ”Amerika 03 [dag]/8” samma datum som Erik Johan.",
   "notes": [
    "A II a/1 bild 209 (sida 199) rad 6: ”Olof Viktor 85 2/3 L.”, utflyttningskolumn ordagrant ”Amerika 03 [dag svårläst, 21–24]/8”. Möjlig Ellis Island-match: ”Olof T. Olson 18/19 Brunskog” på samma manifestsida som Erik J. Erikson (post JFYM-SW5) – ej verifierad.",
-   "ELLIS ISLAND (E1, detaljsida läst): post JFYM-SW5 ”Olof T. Olson”, man, ålder 19 (index; manifestålder 18/19), sista hemvist Brunskog, Sweden, nationalitet Sweden/Swedish, avresehamn Southampton, fartyg New York, bildref T715-0400-264 rad 6 – samma sida/fartyg/ankomst 3 okt 1903 som Erik J. Erikson (svåger). Initialen T (troligen feltolkat V) och ålder 19 mot 18 år 7 mån avviker något; status candidate."
+   "ELLIS ISLAND (E1, detaljsida läst): post JFYM-SW5 ”Olof T. Olson”, man, ålder 19 (index; manifestålder 18/19), sista hemvist Brunskog, Sweden, nationalitet Sweden/Swedish, avresehamn Southampton, fartyg New York, bildref T715-0400-264 rad 6 – samma sida/fartyg/ankomst 3 okt 1903 som Erik J. Erikson (svåger). Initialen T (troligen feltolkat V) och ålder 19 mot 18 år 7 mån avviker något; status candidate.",
+   "FAMILYSEARCH (strong, ej verified: födelseort bara 'Sweden'): California Death Index 1940-1997: Victor O Olson, man, f. 02 Mar 1885 Sweden, död 27 nov 1964 Los Angeles; moderns flicknamn 'Anderson' (jfr Betty Andersdotter). Datumet = 1885-03-02 som i A II a/1. Gift med Marie Anna Lindahl (f. ca 1887 Sweden); County Birth Records 7 jul 1928 Los Angeles: Olof Victor Olson, 43 år, Sweden, maka Marie Anna Lindahl 41 Sweden, son Richard Harry Olson f. 7 jul 1928. Länsvigselindex Kalifornien nämner (som far) Olof V/Olaf V Olson + Marie A Lindahl med barnen Dorothy Victoria, Helen Marian, Evelyn K, Ruth (g. Chilson), Edith (g. Tracy) – ej kontrollerat att alla hör hit (levande/okända, ej inlagda). Möjlig koppling till Ellis Island 1903 'Olof T. Olson' är fortfarande oprövad."
   ],
   "sources": [
    {
@@ -20892,16 +20956,29 @@
    {
     "label": "Ellis Island Foundation, post JFYM-SW5 Olof T. Olson, S.S. New York, T715-0400-264 rad 6, Brunskog",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JFYM-SW5"
+   },
+   {
+    "label": "FamilySearch, California Death Index 1940-1997: Victor O Olson f. 2 Mar 1885 Sweden, d. 27 Nov 1964 Los Angeles, mor Anderson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VPFB-7S4"
+   },
+   {
+    "label": "FamilySearch, California County Birth and Death Records: Olof Victor Olson 43 Sweden, maka Marie Anna Lindahl, son Richard Harry (f. 7 jul 1928 Los Angeles)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QGLW-HG7T"
    }
   ],
   "search": [
    "Olof Viktor Olsson (f. 1885, Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1964-11-27",
+   "place": "Los Angeles, California, USA",
+   "note": "California Death Index: Victor O Olson, f. 2 mar 1885 Sweden, mor 'Anderson'"
+  }
  },
  {
   "id": "signe_karolina_olsdotter_1888",
   "name": "Signe Karolina Olsson (f. 1888, Skog)",
-  "status": "verified",
+  "status": "candidate",
   "sex": "f",
   "living": false,
   "born": {
@@ -20914,12 +20991,17 @@
   ],
   "summary": "Dotter till Olof Persson; Amerika 1907.",
   "notes": [
-   "A II a/1 bild 209 rad 7: ”Signe Karolina 88 10/5”, utflyttning ordagrant ”d° 07 20/5” (”d°” = ”Amerika” från raden ovan) = 20 maj 1907."
+   "A II a/1 bild 209 rad 7: ”Signe Karolina 88 10/5”, utflyttning ordagrant ”d° 07 20/5” (”d°” = ”Amerika” från raden ovan) = 20 maj 1907.",
+   "FAMILYSEARCH (candidate): Ellis Island 21 aug 1907, S.S. Caronia från Liverpool, sida 71: 'Signe K Olson', kvinna, 18 år, ogift, hemort 'Sunne, Werml., Sweden' (ej Brunskog), anhöriga: 'Olof Person' (Fader) och 'Edv Olson' (Bror). Fadersnamnet Olof Person stämmer med Olof Persson, men hemorten Sunne, åldern 18 (hon var 19) och brodern 'Edv' (ingen känd bror Edv; Johan Efraim f. 1890?) avviker; avresa 20 maj 1907 mot ankomst 21 aug tyder på uppehåll. Ingen senare post (folkräkning/död) hittad."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 209 (sida 199), rad 7: ”d° 07 20/5”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00209"
+   },
+   {
+    "label": "FamilySearch, New York Passenger Arrival Lists (Ellis Island) 1892-1925: Signe K Olson 18, Sunne Werml., Caronia 21 Aug 1907, fader Olof Person, bror Edv Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:JXL6-J3D"
    }
   ],
   "search": [
@@ -25404,7 +25486,7 @@
  {
   "id": "ak3_paul_werner_olsson_1901",
   "name": "Paul Werner Olofsson (f. 1901, Skog)",
-  "status": "verified",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -25413,21 +25495,36 @@
   },
   "places": [
    "Skog",
-   "Amerika"
+   "Amerika",
+   "Erie, Pennsylvania"
   ],
   "summary": "Son till Olof Persson (Skog, Dernere) och Betty/ Anna; Amerika efter 1912.",
   "notes": [
-   "HUSFÖRHÖR A II a/3 bild 184 rad 7: ”s. Paul Werner 01 7/5”; utflyttning ”do [Amerika] ’’ [år/dag som Nils Arvid: 12 18/10]” (ditto-tecken)."
+   "HUSFÖRHÖR A II a/3 bild 184 rad 7: ”s. Paul Werner 01 7/5”; utflyttning ”do [Amerika] ’’ [år/dag som Nils Arvid: 12 18/10]” (ditto-tecken).",
+   "FAMILYSEARCH (strong, ej verified: födelseort anges bara 'Sweden', föräldrar ej angivna): Warner Paul Olson f. 7 maj 1901 Sweden = exakt samma födelsedatum som Paul Werner (1901-05-07). WWII draft (4:e registreringen) 16 feb 1942, Erie PA, arbetsgivare Erie Meter System; Find a Grave: död 24 okt 1975, begravd Calvary Cemetery, Millcreek Twp, Erie PA; SSDI död okt 1975 Erie. Folkräkning 1950 (1 apr, Erie): Warner P Olson f. 1902 Sweden, hustru Rose M, barn Audrey L och Nancy K. Dödsannons (GenealogyBank): Warner P Olson, hustru Rose M Sitter Olson, barn Audrey L Olson Steimer, Nancy K Fries (troligen levande/okända – ej inlagda). Erie ligger nära McKean Co PA där svågern Erik Johan Eriksson bodde."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 184: Paul Werner 01 7/5, Amerika (ditto)",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "FamilySearch, Pennsylvania WWII Draft Registration Cards 1940-1945: Warner Paul Olson, f. 7 May 1901 Sweden, Erie PA, 16 Feb 1942, hustru/anhörig Rose Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2SY-22PD"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Warner Paul Olson 7 May 1901 - 24 Oct 1975, Calvary Cemetery, Millcreek Township, Erie PA",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVV4-Q3L4"
    }
   ],
   "search": [
    "Paul Werner Olofsson (f. 1901, Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1975-10-24",
+   "place": "Erie, Pennsylvania, USA",
+   "note": "Find a Grave Index: Calvary Cemetery, Millcreek Township, Erie PA; SSDI okt 1975 Erie"
+  }
  },
  {
   "id": "ak3_anders_ragnar_olsson_1907",
@@ -34893,17 +34990,20 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1892",
-   "place": "Brunskog"
+   "date": "1892-08-12",
+   "place": "Brunskog",
+   "note": "FamilySearch index av husförhörsbok: 12 augusti 1892"
   },
   "places": [
    "Takene, Brunskog",
    "Degerfors",
-   "Canada"
+   "Canada (Trois-Rivières/Three Rivers, Quebec 1924)",
+   "Kelowna, British Columbia (trolig, död 1976)"
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Efternamn senare Rensta; vistades i Canada, överförd till obefintlighetsboken 1925.",
   "notes": [
-   "FOLKRÄKNING 1900 Takene: ”Bror Gustaf Benjamin, f. 1892 i Brunskog”; 1910 Degernästorp: ”Johansson, Bror Gustaf Benjamin”; 1930 Arvika, obefintlighetsboken s.19 (överförd 1925), s.184 r.1: ”Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada”. Samma tre namn + födelseår/-ort."
+   "FOLKRÄKNING 1900 Takene: ”Bror Gustaf Benjamin, f. 1892 i Brunskog”; 1910 Degernästorp: ”Johansson, Bror Gustaf Benjamin”; 1930 Arvika, obefintlighetsboken s.19 (överförd 1925), s.184 r.1: ”Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada”. Samma tre namn + födelseår/-ort.",
+   "FAMILYSEARCH-INDEX: Bror Gustaf Benjamin Rensta f. 12/8 1892 Brunskog, föräldrar Petrus Johansson + Britta Olsson (verified som person redan; födelsedatum nytt). Kanada: invandringspost 1924 Three Rivers, Quebec, ålder 32, ogift, f. Brunskog (verified identitet: samma tre namn + efternamn Rensta + födelseort). Fortsatt öde (STRONG): 'Gustav (B.) Rensta' f. 12 aug 1892 'Sweden' i USA:s Alien Case Files + NUMIDENT, och Find a Grave 'Gustav Rensta' 1892-11 maj 1976 Kelowna BC; make i BC dödsregister 'Gustav Rensta' med hustru Jean Rensta (post ej öppnad). Rensta är ovanligt namn, men ingen post binder Gustav till Brunskog – kräver t.ex. BC-dödsbevis (föräldrar/födelseort) eller 1921/1931 Canada census."
   ],
   "sources": [
    {
@@ -34917,11 +35017,36 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Arvika, obefintlighetsboken s.184 r.1: Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129013322&tab=post"
+   },
+   {
+    "label": "FamilySearch, Sverige, Husförhörsböcker 1874-1931: Bror Gustaf Benjamin Rensta, f. 12 aug 1892 Brunskog, föräldrar Petrus Johansson & Britta Olsson, syskon Hanna Maria, Elias Emfrid, Rut, Rebecka Naemi, Elsa Debora (Arvika, folkräkning 1916-20)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL57-TLPZ"
+   },
+   {
+    "label": "FamilySearch, Canada Immigration Records 1919-1924: Bror Gustaf Benjamin Rensta, 32, ogift, skandinavisk, f. Brunskog, ankomst 1924 'Three Rivers, Quebec'",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:68M6-7GG2"
+   },
+   {
+    "label": "FamilySearch, US Index to Alien Case Files 1940-2003: Gustav Rensta f. 12 Aug 1892 SWEDEN, reg.nr 11864351",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QK8J-9CDG"
+   },
+   {
+    "label": "FamilySearch, US NUMIDENT: Gustav B Rensta f. 12 Aug 1892, social program claim 9 jan 1968",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6KSB-JJ7P"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Gustav Rensta f. 1892, d. 11 maj 1976, begravd Kelowna Memorial Park Cemetery, Kelowna, BC",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVGM-ZTWW"
    }
   ],
   "search": [
    "Bror Gustaf Benjamin Johansson (Rensta) (f. 1892 Brunskog)"
-  ]
+  ],
+  "died": {
+   "date": "1976-05-11",
+   "place": "Kelowna, British Columbia, Canada",
+   "note": "STRONG (ej verified): Find a Grave-index 'Gustav Rensta' f. 1892, d. 11 maj 1976, Kelowna Memorial Park Cemetery. Koppling bygger på ovanligt efternamn + exakt födelsedatum 12 aug 1892, inte på en post som nämner Brunskog/föräldrar."
+  }
  },
  {
   "id": "aq1_rut_pj94",
@@ -38535,6 +38660,74 @@
   ],
   "search": [
    "Elin Olofsdotter (Skog, hustru till Måns Larsson)"
+  ]
+ },
+ {
+  "id": "paul_william_erickson_1917",
+  "name": "Paul William Erickson (f. 1917, Jamestown NY)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1917-04-13",
+   "place": "Jamestown, Chautauqua, New York, USA"
+  },
+  "died": {
+   "date": "1994-03-13"
+  },
+  "places": [
+   "Jamestown, New York",
+   "Tulsa, Oklahoma"
+  ],
+  "summary": "Yngste son till Erik Johan (John) Erickson och Anna Olson/Olsson; född i USA 1917, senare bosatt i Tulsa, Oklahoma.",
+  "notes": [
+   "NUMIDENT: Paul William Erickson f. 13 apr 1917 Jamestown NY, d. 13 mar 1994, bosatt Tulsa; föräldrar ordagrant 'Erik J Erikson' och 'Anna Olson'.",
+   "FOLKRÄKNING 1920 Jamestown: Paul W, son, 3 år, född New York; 1930: Paul W, son, 13; 1940 Jefferson Twp, Washington, Oklahoma: Paul Erikson, son, 22, född New York."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, United States, Social Security NUMIDENT 1936-2007: Paul W Erickson, föräldrar Erik J Erikson och Anna Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K7X-5ZDD"
+   },
+   {
+    "label": "FamilySearch, US Census 1940, Jefferson Twp, Washington, Oklahoma: Paul Erikson son 22 f. New York",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VBK1-7W8"
+   }
+  ],
+  "search": [
+   "Paul William Erickson (f. 1917, Jamestown NY)"
+  ]
+ },
+ {
+  "id": "sidney_erickson_1905",
+  "name": "Sidney J. Erickson (f. ca 1905, Pennsylvania)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1905",
+   "place": "Pennsylvania",
+   "note": "ca; troligen Mt. Jewett-området, ej belagt"
+  },
+  "places": [
+   "Jamestown, New York"
+  ],
+  "summary": "Son till John (Erik Johan) och Anna Erickson, född i Pennsylvania ca 1905 (efter ankomsten 1903); känd i Jamestown 1915 och 1920.",
+  "notes": [
+   "NY STATE CENSUS 1915 Jamestown: Sidney J Erickson, son, 10 år; folkräkning 1920 Jamestown: Sidney Erickson, son, 15 år, född Pennsylvania, syskon Paul W och Harry E."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown NY: Sidney Erickson son 15 f. Pennsylvania (hushåll John Erickson)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKB-9WM"
+   },
+   {
+    "label": "FamilySearch, New York State Census 1915 Jamestown: Sidney J Erickson son 10",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K9NC-HB3"
+   }
+  ],
+  "search": [
+   "Sidney J. Erickson (f. ca 1905, Pennsylvania)"
   ]
  }
 ]

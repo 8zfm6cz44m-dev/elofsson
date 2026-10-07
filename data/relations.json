@@ -11830,5 +11830,27 @@
   "child": "aq5_kari_mansd53_skog",
   "status": "strong",
   "basis": "Dop Brunskog C I/2 bild 88 nr 30: ”d 4 Novembris Måns Larsson och hustru … i Skog dotter Karin”. Matchar husförhör A I/10 bild 82: ”H. Kari Månsdr 4/11 53 Skog” (datum, ort, patronymikon). Saknar uttryckligt samband dop–husförhörsrad, därför strong."
+ },
+ {
+  "id": "c-erikjohan-anna_olsson_1879_skog-paul_william_erickson_1917",
+  "type": "child",
+  "parents": [
+   "erikjohan",
+   "anna_olsson_1879_skog"
+  ],
+  "child": "paul_william_erickson_1917",
+  "status": "strong",
+  "basis": "NUMIDENT: Paul William Erickson f. 13 apr 1917 Jamestown NY, föräldrar 'Erik J Erikson' och 'Anna Olson'; census 1920/1930 Jamestown och 1940 Oklahoma: son i hushållet John/Anne Erikson."
+ },
+ {
+  "id": "c-erikjohan-anna_olsson_1879_skog-sidney_erickson_1905",
+  "type": "child",
+  "parents": [
+   "erikjohan",
+   "anna_olsson_1879_skog"
+  ],
+  "child": "sidney_erickson_1905",
+  "status": "strong",
+  "basis": "NY-census 1915 Jamestown (Sidney J, son 10) och US-census 1920 (Sidney, son 15, f. Pennsylvania, föräldrar John och Anna Erickson)."
  }
 ]
