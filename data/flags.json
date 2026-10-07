@@ -3653,6 +3653,13 @@
     "fr_knut_lene1711",
     "fr_karinmansd_lene1711"
    ]
+  },
+  {
+   "title": "Karins son Anders f. 11/2 1854 – vidare öden okända",
+   "text": "Kvarstående kandidater i 1880 (alla ej bevisade): Anders hos Olof Jansson (f.1821), Brunskog s.50 r42, fam 2, gift med Maria Magnusdotter f.1854, barn Olof 1879, Anna 1880 (Folk_120424300) – gift 1880, möjlig; Anders Andersson f.1854 i Skon/Ottviken g. Kajsa Olsdotter f.1857 Sunne (Folk_115490034); Nygren i Eda uteslutet av BD1. Ej kontrollerat: husförhör A I/34, A I/35, flyttlängd (ej hunnit).",
+   "persons": [
+    "anders_ak_1854"
+   ]
   }
  ],
  "conflicts": [
@@ -4523,6 +4530,22 @@
    "persons": [
     "marianna_lutawska",
     "marianna_mlodawska_1893"
+   ]
+  },
+  {
+   "title": "Sunne-Anders är inte Karin Eriksdotters son",
+   "text": "Sunne-Anders (Årås, g. Katrina Jansdotter) är f. 29/6 1854, son till Anders Nilsson och Britta Olsdotter, Åmått (dop 30/6 1854 C I/5 b.50 nr 81; SCB vigsel Sunne 1882 nr 34). Karins son Anders f. 11/2 1854 (Ö. Takene) är en annan person; hans öde är okänt (Eda-Anders avförd; Olof Janssons 'Anders' 1880 är gift och inte han).",
+   "persons": [
+    "anders_ak_1854",
+    "anders_andersson_1854_sunne"
+   ]
+  },
+  {
+   "title": "Sunne-Anders (Årås) är INTE Karin Eriksdotters son",
+   "text": "SCB vigsel Sunne moder 1882, bild A0036252_00516, rad 34, vigd 7 nov 1882: ”Andersson, Anders, Inh. fr. Årnät(Åmått?), Brunskog, Wermland” född ”1854 Juni 29”; bruden ”Jansdr, Katrina, Hgd. fr. Aråås” född ”1856 [Juni] 30”. Brunskog dop C I/5 (C0036785_00050, högra sidan, nr 81): född 29, döpt 30 juni 1854: ”Par: B. Anders Nilsson o h. Brita Olsd i Åmått. Test: B. unge Nils Nilsson o h. Maria Olsd ibm” – barnet ”Anders”. Alltså är Sunne-Anders son till Anders Nilsson (f. 1820) och Britta Olsdotter, Åmått (= den post som i 1880 års folkräkning står som Anders Nilsson/Andersson s.47 r39), inte son till Anders Andersson 1831 och Karin Eriksdotter (Anders f. 11/2 1854, döpt 12/2 1854, Ö. Takene). Födelsedag 29/6 ≠ 11/2. Patronymikon Andersson stämmer med faderns förnamn Anders.",
+   "persons": [
+    "anders_ak_1854",
+    "katrina_jansdotter_1856_sunne"
    ]
   }
  ]

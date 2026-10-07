@@ -26639,12 +26639,11 @@
   "places": [
    "Västra Furtan, Brunskog"
   ],
-  "summary": "Barn i Anders Anderssons (1831) och Karin Eriksdotters hushåll i Västra Furtan.",
+  "summary": "Son till Anders Andersson och Karin Eriksdotter, f. 11/2 1854 i Ö. Takene (dop C I/5 b.47 nr 13). Ogift i hemmet i Västra Furtan 1880; senare öde okänt.",
   "notes": [
    "FOLKRÄKNING 1880 Västra Furtan, s. 66: barn i hushållet (f. 1854 Brunskog)",
-   "FOLKRÄKNING – TVÅ KANDIDATER för Anders Andersson f. 1854 i Brunskog (ej i faderns hushåll 1890): (A) Anders Andersson Nygren, banvakt, Hvittensten, Eda 1910, gift med Anna Kajsa Olsdotter f. 1858 Brunskog (barn Olof 1884, Karl Halvar 1897, Viktor Hilding 1899 – födda i Eda); (B) Anders Andersson, ”måg” hos Britta Eriksdotter (f. 1832) i Årås, Sunne 1890, hemmansägare Årås Lobråten 1910, gift med Katrina Jansdotter f. 1856 Sunne (barn Axel 1884, Viktor 1887, Hulda Lavinia 1888, Anders Fritiof 1894, Ellen Teresia 1897). Båda har födelseår 1854 + födelseförsamling Brunskog; inget avgör vilken som är Karins son. Ingen av dem verified.",
    "Dop Brunskog C I/5 b.47 nr 13.",
-   "Eda-kandidaten (A) är avförd: Andreas Nygren Andersson i Eda var gift med barn f. 1880 i Eda samtidigt som Karins son (ogift, 's.') står i Västra Furtan 1880. Kvarstår: Sunne-kandidaten (B) – ej avgjord. Uppdatera note 'TVÅ KANDIDATER'. Dop: 'C I/5 b.47 nr 13' bekräftad: född 11 febr, döpt 12 febr 1854, 'Par: G. Drängen Anders Andersson et H. Karin Ersdr i Ö. Takene', fadder bl.a. Olof Ersson et H. Maria Olsdr."
+   "OMGÅNG 29: Sunne-kandidaten (B) är avförd – Sunne-Anders är f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått (se anders_andersson_1854_sunne). Eda-kandidaten (A) avförd tidigare. Karins sons (f. 11/2 1854, Ö. Takene) senare öde är okänt: ogift hemma 1880 (Folk_120425075), saknas i hushållet 1890."
   ],
   "sources": [
    {
@@ -39461,5 +39460,62 @@
   "search": [
    "Ingebor Nilsdotter (Lene, Frykerud)"
   ]
+ },
+ {
+  "id": "anders_andersson_1854_sunne",
+  "name": "Anders Andersson (f. 29/6 1854, Åmått → Årås, Sunne)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1854-06-29",
+   "place": "Åmått, Brunskog"
+  },
+  "places": [
+   "Åmått, Brunskog",
+   "Årås, Sunne"
+  ],
+  "summary": "Son till Anders Nilsson och Britta Olsdotter i Åmått; hemmansägare i Årås, Sunne; gift 7/11 1882 med Katrina Jansdotter. INTE Karin Eriksdotters son (den Anders är f. 11/2 1854 i Ö. Takene).",
+  "notes": [
+   "DOP Brunskog C I/5 bild 50 nr 81 (C0036785_00050): född 29/6, döpt 30/6 1854, 'Par: B. Anders Nilsson o h. Brita Olsd i Åmått. Test: B. unge Nils Nilsson o h. Maria Olsd ibm', barnet 'Anders'.",
+   "VIGSEL SCB Sunne moder 1882 nr 34, 7 nov 1882 (A0036252_00516): brudgum 'Andersson, Anders, Inh. fr. Årnät/Åmått (läsning osäker), Brunskog', f. 1854 juni 29; brud 'Jansdr, Katrina, Hgd. fr. Aråås', f. 1856 juni 30.",
+   "Avgör frågan 'Sunne-kandidat B': varken Karins son (f. 11/2) eller Eda-Anders."
+  ],
+  "search": [
+   "Anders Andersson 1854 Sunne Årås"
+  ],
+  "sources": []
+ },
+ {
+  "id": "anders_nilsson_1820_amatt",
+  "name": "Anders Nilsson (f. ca 1820, Åmått)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "summary": "Bonde i Åmått, Brunskog; far till Anders f. 29/6 1854 (dop C I/5 bild 50 nr 81). Födelseår enligt BD1 (folkräkning 1880 s.47 r39).",
+  "notes": [
+   "DOP 1854: 'B. Anders Nilsson o h. Brita Olsd i Åmått' (C0036785_00050 nr 81)."
+  ],
+  "search": [
+   "Anders Nilsson Åmått Brunskog"
+  ],
+  "places": [],
+  "sources": []
+ },
+ {
+  "id": "britta_olsd_amatt",
+  "name": "Britta Olsdotter (Åmått)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "summary": "Hustru till Anders Nilsson i Åmått, mor till Anders f. 29/6 1854.",
+  "notes": [
+   "DOP 1854: 'h. Brita Olsd i Åmått' (C0036785_00050 nr 81)."
+  ],
+  "search": [
+   "Britta Olsdotter Åmått Brunskog"
+  ],
+  "places": [],
+  "sources": []
  }
 ]

@@ -9207,67 +9207,67 @@
   "basis": "Folkräkning 1910 Eda: Anders Andersson Nygren 1854 Brunskog och Anna Kajsa Olsdotter 1858 Brunskog (gift). DEMENTERAD (omgång 24): Folkräkning 1880 Eda, Hvittensten, s.54 rad 16 (Folk_120406571): 'Nygren Andersson, Andreas' f. 1854 i Brunskog, Banvakt, med hustrun 'Olsdotter, Anna Kajsa' f. 1858 Brunskog och sonen 'Anders Johan' f. 1880 i Eda. Folkräkning 1890 Eda, Hvittensten (Folk_103578542): 'Nygren Andersson, Andreas, f. 1854 i Brunskog, Banvakt', Anna Kajsa f. 1858, barn Anders Johan 1880, Olof 1884, Lydia Matilda 1888 (alla f. Eda). SAMTIDIGT står i folkräkning 1880 Brunskog, Västra Furtan, s.66 (Folk_120425075, rad 24): 'Anders' f. 1854 Brunskog, Civilstånd Ogift, Familjeställning 's.', i hushållet Andersson, Anders f. 1831 (Far/man, rad 22) + Eriksdotter, Karin f. 1830 (h., rad 23) – dvs. Karins son var ogift hemmaboende i Furtan 1880, medan Eda-mannen (Andreas Nygren Andersson) då var gift med barn född 1880 i Eda. Två olika män => Eda-mannen är INTE anders_ak_1854 (Karin Eriksdotters son, f. 11 feb 1854 Ö. Takene, dop Brunskog C I/5 b.47 nr 13: 'Par: G. Drängen Anders Andersson et H. Karin Ersdr i Ö. Takene'). Relationen (förälder/make = anders_ak_1854) är därför fel; barnen/partnern tillhör en egen person 'Andreas (Anders) Andersson Nygren f. 1854 Brunskog, banvakt, Hvittensten, Eda'."
  },
  {
-  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-axel_as_1884_sunne",
+  "id": "c-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne-axel_as_1884_sunne",
   "type": "child",
   "parents": [
-   "anders_ak_1854",
+   "anders_andersson_1854_sunne",
    "katrina_jansdotter_1856_sunne"
   ],
   "child": "axel_as_1884_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet . OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
-  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-viktor_as_1887_sunne",
+  "id": "c-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne-viktor_as_1887_sunne",
   "type": "child",
   "parents": [
-   "anders_ak_1854",
+   "anders_andersson_1854_sunne",
    "katrina_jansdotter_1856_sunne"
   ],
   "child": "viktor_as_1887_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet . OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
-  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-hulda_lavinia_as_1888_sunne",
+  "id": "c-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne-hulda_lavinia_as_1888_sunne",
   "type": "child",
   "parents": [
-   "anders_ak_1854",
+   "anders_andersson_1854_sunne",
    "katrina_jansdotter_1856_sunne"
   ],
   "child": "hulda_lavinia_as_1888_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet . OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
-  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-anders_fritiof_as_1894_sunne",
+  "id": "c-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne-anders_fritiof_as_1894_sunne",
   "type": "child",
   "parents": [
-   "anders_ak_1854",
+   "anders_andersson_1854_sunne",
    "katrina_jansdotter_1856_sunne"
   ],
   "child": "anders_fritiof_as_1894_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet . OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
-  "id": "c-anders_ak_1854-katrina_jansdotter_1856_sunne-ellen_teresia_as_1897_sunne",
+  "id": "c-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne-ellen_teresia_as_1897_sunne",
   "type": "child",
   "parents": [
-   "anders_ak_1854",
+   "anders_andersson_1854_sunne",
    "katrina_jansdotter_1856_sunne"
   ],
   "child": "ellen_teresia_as_1897_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet (förutsätter att Sunne-Anders är Karins son)."
+  "status": "verified",
+  "basis": "Folkräkning 1890/1910 Årås, Sunne: barn i hushållet . OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
-  "id": "p-anders_ak_1854-katrina_jansdotter_1856_sunne",
+  "id": "p-anders_andersson_1854_sunne-katrina_jansdotter_1856_sunne",
   "type": "partner",
-  "a": "anders_ak_1854",
+  "a": "anders_andersson_1854_sunne",
   "b": "katrina_jansdotter_1856_sunne",
-  "status": "candidate",
-  "basis": "Folkräkning 1890 Årås: Anders 1854 Brunskog ”måg”, hustru Katrina Jansdotter 1856 Sunne."
+  "status": "verified",
+  "basis": "Folkräkning 1890 Årås: Anders 1854 Brunskog ”måg”, hustru Katrina Jansdotter 1856 Sunne. OMGÅNG 29: identiteten Sunne-Anders avgjord (f. 29/6 1854, son till Anders Nilsson/Britta Olsdotter, Åmått) via SCB vigsel Sunne 1882 nr 34 (brud Katrina Jansdotter f. 30/6 1856); barnen står i hushållet i folkräkning 1890/1900/1910."
  },
  {
   "id": "c-hulda_lavinia_as_1888_sunne-karl_hilmer_hlas_1910",
@@ -12083,5 +12083,24 @@
   "b": "fr_engelinpalsd_rorbacken",
   "status": "candidate",
   "basis": "A I/1 bild 55: ”d: Engelin(?) Påhlsd.” i hushållet Påhl Månsson, förnamn osäkert"
+ },
+ {
+  "id": "c-anders_nilsson_1820_amatt-britta_olsd_amatt-anders_andersson_1854_sunne",
+  "type": "child",
+  "parents": [
+   "anders_nilsson_1820_amatt",
+   "britta_olsd_amatt"
+  ],
+  "child": "anders_andersson_1854_sunne",
+  "status": "verified",
+  "basis": "Dop Brunskog C I/5 bild 50 nr 81 (C0036785_00050), 30/6 1854: 'Par: B. Anders Nilsson o h. Brita Olsd i Åmått' + SCB vigsel Sunne 1882 nr 34 (brudgum f. 1854 juni 29, Brunskog)."
+ },
+ {
+  "id": "p-anders_nilsson_1820_amatt-britta_olsd_amatt",
+  "type": "partner",
+  "a": "anders_nilsson_1820_amatt",
+  "b": "britta_olsd_amatt",
+  "status": "verified",
+  "basis": "Dop 1854: 'Anders Nilsson o h. Brita Olsd i Åmått'."
  }
 ]
