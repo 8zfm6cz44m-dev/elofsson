@@ -92,6 +92,28 @@ function buildGedcom(persons, relations, opts) {
       fam(par).kids.push({ id: r.child, rel: r });
     }
   }
+  // syskonrelationer utan gemensam förälderfamilj: anteckning på personen; egen familj (okända föräldrar) bara om ingen i gruppen har förälderfamilj
+  const kidKeys = {};
+  for (const f of fams.values()) f.kids.forEach(k => (kidKeys[k.id] = kidKeys[k.id] || new Set()).add(f.key));
+  const share = (a, b) => { const A = kidKeys[a], B = kidKeys[b]; if (!A || !B) return false; for (const x of A) if (B.has(x)) return true; return false; };
+  const sibNotes = {};                  // personid -> ["Syskon enligt släktträdet: X (status)"]
+  const uf = {}; const find = x => (uf[x] === undefined || uf[x] === x) ? (uf[x] = x) : (uf[x] = find(uf[x]));
+  const sibRels = [];
+  for (const r of relations) {
+    if (r.type !== "sibling" || !ok.has(r.status) || !P[r.a] || !P[r.b] || share(r.a, r.b)) continue;
+    sibRels.push(r);
+    (sibNotes[r.a] = sibNotes[r.a] || []).push(`${P[r.b].name} (${REL_SV[r.status] || r.status})`);
+    (sibNotes[r.b] = sibNotes[r.b] || []).push(`${P[r.a].name} (${REL_SV[r.status] || r.status})`);
+    uf[find(r.a)] = find(r.b);
+  }
+  const groups = {};
+  sibRels.forEach(r => [r.a, r.b].forEach(x => (groups[find(x)] = groups[find(x)] || new Set()).add(x)));
+  Object.values(groups).forEach(set => {
+    const ids = [...set].sort();
+    if (ids.some(x => kidKeys[x])) return;      // någon har redan föräldrar: bara personanteckning
+    const key = "sib|" + ids.join("|");
+    fams.set(key, { key, ids: [], synthetic: true, partner: null, kids: ids.map(id => ({ id, rel: { status: "verified", basis: "" } })) });
+  });
   const famList = [...fams.values()];
   const fid = {}; famList.forEach((f, i) => fid[f.key] = `@F${i + 1}@`);
   const famsOf = {}, famcOf = {};
@@ -132,6 +154,8 @@ function buildGedcom(persons, relations, opts) {
     emit(out, 1, "NAME", `${nm.given} /${nm.surname}/`);
     if (nm.given) emit(out, 2, "GIVN", nm.given);
     if (nm.surname) emit(out, 2, "SURN", nm.surname);
+    (p.altNames || []).forEach(a => { const an = parseName(a, ""); if (an.given) { emit(out, 1, "NAME", `${an.given} /${an.surname}/`); emit(out, 2, "TYPE", "aka"); emit(out, 2, "NOTE", `Alternativt namn enligt släktträdet: ${a}`); } });
+    if (p.married_name && !mask) { const mn = parseName(p.married_name, ""); if (mn.given) { emit(out, 1, "NAME", `${mn.given} /${mn.married || mn.surname}/`); emit(out, 2, "TYPE", "married"); } }
     if (nm.married && !mask) { emit(out, 1, "NAME", `${nm.given} /${nm.married}/`); emit(out, 2, "TYPE", "married"); }
     if (p.sex === "m" || p.sex === "f") emit(out, 1, "SEX", p.sex.toUpperCase());
     if (p.living) emit(out, 1, "RESN", "privacy");
@@ -153,13 +177,16 @@ function buildGedcom(persons, relations, opts) {
       }
       (p.places || []).forEach(pl => { emit(out, 1, "RESI"); emit(out, 2, "PLAC", pl); });
       const lines = [`Bevisläge: ${STATUS_SV[p.status] || p.status}.`];
+      if (p.sidoperson) lines.push("Sidoperson (bifigur i släktträdet, inte släkt).");
       if (p.summary) lines.push(p.summary);
+      if ((p.flags || []).length) lines.push("Flaggor: " + p.flags.join("; "));
       emit(out, 1, "NOTE", lines.join("\n"));
       if ((p.notes || []).length) emit(out, 1, "NOTE", "Källanteckningar:\n" + p.notes.join("\n"));
       (p.sources || []).forEach(s => emit(out, 1, "SOUR", srcPtr(s)));
     }
+    if ((sibNotes[p.id] || []).length && !mask) emit(out, 1, "NOTE", "Syskon enligt släktträdet (utan gemensam förälder i trädet): " + sibNotes[p.id].join("; "));
     (famcOf[p.id] || []).forEach(({ f, rel }) => {
-      emit(out, 1, "FAMC", fid[f.key]); emit(out, 2, "PEDI", "birth");
+      emit(out, 1, "FAMC", fid[f.key]); if (!f.synthetic) emit(out, 2, "PEDI", "birth");
       if (rel.status !== "verified") emit(out, 2, "NOTE", `Släktskapet är ${REL_SV[rel.status] || rel.status}.`);
     });
     (famsOf[p.id] || []).forEach(f => emit(out, 1, "FAMS", fid[f.key]));
@@ -169,7 +196,8 @@ function buildGedcom(persons, relations, opts) {
     emit(out, 0, "FAM", "", fid[f.key]);
     let husb = null, wife = null;
     const [a, b] = f.ids;
-    if (b === undefined) { if (P[a].sex === "f") wife = a; else husb = a; }
+    if (f.synthetic) { /* inga föräldrar kända */ }
+    else if (b === undefined) { if (P[a].sex === "f") wife = a; else husb = a; }
     else {
       const ma = P[a].sex, mb = P[b].sex;
       if (ma === "f" && mb !== "f") { wife = a; husb = b; }
@@ -181,8 +209,9 @@ function buildGedcom(persons, relations, opts) {
     if (wife) emit(out, 1, "WIFE", iid[wife]);
     f.kids.forEach(k => emit(out, 1, "CHIL", iid[k.id]));
     const notes = [];
+    if (f.synthetic) notes.push("Syskon enligt släktträdet. Föräldrarna är okända i trädet.");
     if (f.partner) notes.push(`Parförhållandet är ${REL_SV[f.partner.status] || f.partner.status}. ${f.partner.basis || ""}`.trim());
-    f.kids.forEach(k => { if (k.rel.status !== "verified") notes.push(`${P[k.id].name}: släktskapet är ${REL_SV[k.rel.status] || k.rel.status} (${k.rel.basis || ""})`); });
+    if (!f.synthetic) f.kids.forEach(k => { if (k.rel.status !== "verified" || k.rel.basis) notes.push(`${P[k.id].name}: släktskapet är ${REL_SV[k.rel.status] || k.rel.status}${k.rel.basis ? " (" + k.rel.basis + ")" : ""}`); });
     if (notes.length) emit(out, 1, "NOTE", notes.join("\n"));
   });
 
