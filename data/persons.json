@@ -20930,7 +20930,7 @@
  {
   "id": "olof_viktor_olsson_1885",
   "name": "Olof Viktor Olsson (f. 1885, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20978,7 +20978,7 @@
  {
   "id": "signe_karolina_olsdotter_1888",
   "name": "Signe Karolina Olsson (f. 1888, Skog)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -23188,7 +23188,7 @@
  {
   "id": "fr_mansknutsson1711_lene",
   "name": "Måns Knutsson (Månsson?) (Lene, f. 1711)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -23589,7 +23589,7 @@
  {
   "id": "fr_jonaspalsson",
   "name": "Jonas Pålsson (Rörbäcken, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -25486,7 +25486,7 @@
  {
   "id": "ak3_paul_werner_olsson_1901",
   "name": "Paul Werner Olofsson (f. 1901, Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -25639,7 +25639,7 @@
  {
   "id": "fr_palmansson_rorbacken",
   "name": "Pål Månsson (Rörbäcken, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -25668,7 +25668,7 @@
  {
   "id": "fr_elinnilsd_rorbacken",
   "name": "Elin Nilsdotter (Rörbäcken, hustru till Pål Månsson)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -37845,7 +37845,7 @@
  {
   "id": "fr_karinmansd_lene1711",
   "name": "Karin Månsdotter (Lene, Frykerud, mor till Måns Knutsson f. 1711)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -37975,7 +37975,7 @@
  {
   "id": "olof_andersson_takene02",
   "name": "Olof Andersson (Ö. Takene, far till Marit f. 10/1 1802)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -38010,7 +38010,7 @@
  {
   "id": "marit_olsd_takene76",
   "name": "Marit Olsdotter (f. 1776, Ö. Takene, mor till Marit f. 1802)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38617,7 +38617,7 @@
  {
   "id": "mans_larsson_skog",
   "name": "Måns Larsson (Skog)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {},
@@ -38641,7 +38641,7 @@
  {
   "id": "elin_olofsd_skog",
   "name": "Elin Olofsdotter (Skog, hustru till Måns Larsson)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {},

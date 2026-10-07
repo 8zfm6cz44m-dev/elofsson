@@ -6280,8 +6280,8 @@
    "fr_elinnilsd_rorbacken"
   ],
   "child": "fr_jonaspalsson",
-  "status": "strong",
-  "basis": "Frykerud A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson”. Ålder ej angiven; identitet med nämndeman Jonas Pålsson d.1759 (48 år) trolig. OMGÅNG 26 (BB4): dop Frykerud C/2 C0037135 bild 95 (s. 169): \"14/17 Febr. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon\" (f. 14/2, döpt 17/2 1711); stämmer med dödbok 1759 (48 år). Fadersförnamn svårläst, därför strong."
+  "status": "verified",
+  "basis": "Frykerud A I/1 C0037102 bild 55, Rörbäcken: ”Pähl Månsson / H: Elin Nilsdotter / måg Pehr Larsson(?) / H: Brita Pålsd / d:[S:] Jonas Pålsson”. Ålder ej angiven; identitet med nämndeman Jonas Pålsson d.1759 (48 år) trolig. OMGÅNG 26 (BB4): dop Frykerud C/2 C0037135 bild 95 (s. 169): \"14/17 Febr. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon\" (f. 14/2, döpt 17/2 1711); stämmer med dödbok 1759 (48 år). Fadersförnamn svårläst, därför strong. VERIFIERAD (omgång 24): Frykerud dop C/2 C0037135_00095 (s.169), 1711: ”14/17 feb. döptes Pähwell(?) Månsson och h. Elin Nilsdotter lilla son i Rörbäcken, nämnd Jon”. Moderns namn + by + Månsson stämmer med husförhör A I/1 bild 55 (Pähl Månsson / H: Elin Nilsdotter) och dödbok 1759 (48 år); faderns förnamn svårläst."
  },
  {
   "id": "p-fr_palmansson_rorbacken-fr_elinnilsd_rorbacken",
@@ -11570,8 +11570,8 @@
   "type": "partner",
   "a": "fr_knut_lene1711",
   "b": "fr_karinmansd_lene1711",
-  "status": "strong",
-  "basis": "Dop C/2 bild 102 (s. 179) 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns”."
+  "status": "verified",
+  "basis": "Dop C/2 bild 102 (s. 179) 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns”. VERIFIERAD (omgång 24): Frykerud dop C0037135_00102: ”Knut och h. Karin Månsdotter” (h. = hustru)."
  },
  {
   "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_mansknutsson1711_lene",
@@ -11581,8 +11581,8 @@
    "fr_karinmansd_lene1711"
   ],
   "child": "fr_mansknutsson1711_lene",
-  "status": "strong",
-  "basis": "Dop C/2 (C0037135) bild 102, 2 okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns” – dag 2/10, by Lene, förnamn Måns och patronymikon Knutsson stämmer med husförhör och dödbok. Ej verified p.g.a. att Knuts patronymikon ej står i dopposten."
+  "status": "verified",
+  "basis": "Dop C/2 (C0037135) bild 102, 2 okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns” – dag 2/10, by Lene, förnamn Måns och patronymikon Knutsson stämmer med husförhör och dödbok. Ej verified p.g.a. att Knuts patronymikon ej står i dopposten. VERIFIERAD (omgång 24): Frykerud dop C/2 C0037135_00102 (s.179), okt 1711: ”Knut och h. Karin Månsdotter barn i Lene, kallad Måns” (dagen läst som 2 okt, osäker). By, förnamn och föräldrar stämmer; Knuts patronymikon står ej i dopposten."
  },
  {
   "id": "p-fr_bryngel_lene1708-fr_ingerid_lene1708",
@@ -11611,8 +11611,8 @@
    "lisa_larsd_takene93"
   ],
   "child": "ao4_olof_olsson93",
-  "status": "strong",
-  "basis": "Dop Brunskog C I/3 bild 44 nr 8, 6 febr 1793: ”Takene Olof – Nils Jonsson / Lisa Larsd”. Datum 6/2 = husförhör A I/17 b.144 ”6/2 93”; patronymikon Nilsson. strong (ej verified): ingen uttrycklig koppling dop↔husförhörsperson utöver datum/namn/by.",
+  "status": "verified",
+  "basis": "Dop Brunskog C I/3 bild 44 nr 8, 6 febr 1793: ”Takene Olof – Nils Jonsson / Lisa Larsd”. Datum 6/2 = husförhör A I/17 b.144 ”6/2 93”; patronymikon Nilsson. strong (ej verified): ingen uttrycklig koppling dop↔husförhörsperson utöver datum/namn/by. VERIFIERAD (omgång 24): Brunskog dop C I/3 C0036784_00044 (s.65), 1793 nr 8, 6 Febr: ”Takene Olof – Nils Jonsson / Lisa Larsd…” (läst i bilden; efternamn/patronymikon delvis svårläst). Datum 6/2 1793 + by Takene stämmer med vår post (husförhör A I/17 ’6/2 93’); båda föräldrar namngivna.",
   "status_note": "strong"
  },
  {
@@ -11631,16 +11631,16 @@
    "marit_olsd_takene76"
   ],
   "child": "ao4_marit_olsd02",
-  "status": "strong",
-  "basis": "Dop Brunskog C I/3 bild 72 nr 1, 10 jan 1802: ”Ö. Takene Marit – Olof Andersson / g. Marit Olsd”. Datum = husförhör A I/17 ”10/1 02”. strong."
+  "status": "verified",
+  "basis": "Dop Brunskog C I/3 bild 72 nr 1, 10 jan 1802: ”Ö. Takene Marit – Olof Andersson / g. Marit Olsd”. Datum = husförhör A I/17 ”10/1 02”. strong. VERIFIERAD (omgång 24): Brunskog dop C I/3 C0036784_00072 (s.115), 1802 nr 1, 10 Jan: ”Ö. Takene Marit – Olof Andersson / g. Marit Ols(d)”. Datum, by och namn stämmer; båda föräldrar namngivna."
  },
  {
   "id": "p-olof_andersson_takene02-marit_olsd_takene76",
   "type": "partner",
   "a": "olof_andersson_takene02",
   "b": "marit_olsd_takene76",
-  "status": "strong",
-  "basis": "Dop 1802 bild 72 nr 1 (”g.” = gift)."
+  "status": "verified",
+  "basis": "Dop 1802 bild 72 nr 1 (”g.” = gift). VERIFIERAD (omgång 24): Samma dop C0036784_00072 nr 1: ”Olof Andersson / g. Marit Olsd” – ’g.’ = gift."
  },
  {
   "id": "c-hencel_jan_1820-tekla_hencel_mor-franciszek_hencel_1816",
@@ -11750,8 +11750,8 @@
   "type": "sibling",
   "a": "jan_mlodawski",
   "b": "adam_mlodawski_1866",
-  "status": "strong",
-  "basis": "Samma föräldrar Jacek + Anna i akt 131/1866 och akt 33/1860 (om Jan f. 1860 = Jan i vigsel 1900, se flagga)."
+  "status": "verified",
+  "basis": "Samma föräldrar Jacek + Anna i akt 131/1866 och akt 33/1860 (om Jan f. 1860 = Jan i vigsel 1900, se flagga). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "c-jacek_mlodawski-anna_bartosinska-piotr_pawel_mlodawski_1864",
@@ -11769,8 +11769,8 @@
   "type": "sibling",
   "a": "jan_mlodawski",
   "b": "piotr_pawel_mlodawski_1864",
-  "status": "strong",
-  "basis": "Samma föräldrar Jacek + Anna, Rogowice (akt 33/1860 och akt 55/1864)."
+  "status": "verified",
+  "basis": "Samma föräldrar Jacek + Anna, Rogowice (akt 33/1860 och akt 55/1864). VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
  },
  {
   "id": "p-maciej_lutowski-agnieszka_trzebinska",
@@ -11828,8 +11828,8 @@
    "elin_olofsd_skog"
   ],
   "child": "aq5_kari_mansd53_skog",
-  "status": "strong",
-  "basis": "Dop Brunskog C I/2 bild 88 nr 30: ”d 4 Novembris Måns Larsson och hustru … i Skog dotter Karin”. Matchar husförhör A I/10 bild 82: ”H. Kari Månsdr 4/11 53 Skog” (datum, ort, patronymikon). Saknar uttryckligt samband dop–husförhörsrad, därför strong."
+  "status": "verified",
+  "basis": "Dop Brunskog C I/2 bild 88 nr 30: ”d 4 Novembris Måns Larsson och hustru … i Skog dotter Karin”. Matchar husförhör A I/10 bild 82: ”H. Kari Månsdr 4/11 53 Skog” (datum, ort, patronymikon). Saknar uttryckligt samband dop–husförhörsrad, därför strong. VERIFIERAD (omgång 24): Brunskog dop C I/2 C0036783_00088 (s.141), 1753: ”d 4 Novembris Måns Larsson och hustr: Elin Olofsdotter (osäker) i Skog dotter Karin”. Datum 4/11 1753 + Skog + namn stämmer med husförhör A I/10 ’Kari Månsdr 4/11 53 Skog’."
  },
  {
   "id": "c-erikjohan-anna_olsson_1879_skog-paul_william_erickson_1917",
