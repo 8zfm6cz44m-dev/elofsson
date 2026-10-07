@@ -1,6 +1,8 @@
 {
- "updated": "2026-10-07T06:22:14Z",
- "validate": "FEL",
+ "updated": "2026-10-07T06:22:25Z",
+ "validate": "OK",
+ "persons": 1162,
+ "relations": 1224,
  "gedcom": "OK",
  "gedcom_variants": 6
 }
