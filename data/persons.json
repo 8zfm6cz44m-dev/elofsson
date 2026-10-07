@@ -38094,7 +38094,7 @@
  {
   "id": "franciszek_hencel_1816",
   "name": "Franciszek Hencel (f. 1816)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -38133,7 +38133,7 @@
  {
   "id": "antonina_majewska_hencel",
   "name": "Antonina Majewska (g. Hencel)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38165,7 +38165,7 @@
  {
   "id": "tomasz_mlodawski",
   "name": "Tomasz Młodawski",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -38199,7 +38199,7 @@
  {
   "id": "anna_gebska",
   "name": "Anna Gębska (g. Młodawska)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38241,7 +38241,8 @@
   "summary": "Far till Anna Bartosińska (f. ca 1831, gift Sołtyk, sedan Młodawska). Levde 1856 enligt vigselakten (modern anges 'dotąd żyjącej'; faderns status oklar).",
   "notes": [
    "VIGSELAKT Mniów 1856 nr 12: Anna Bartosińska 'córką Stanisława i ... Elżbiety z ... dotąd żyjącej, urodzoną we wsi Zaborowicach w Parafii Miedzierza' [fadern anges med förnamn Stanisław; moderns efternamn svårläst].",
-   "GENETEKA-index vigsel Miedzierza 1853 akt 14: Anna Bartosińska, föräldrar 'Stanisław, Elżbieta Chlewicka'. Systern Marianna Bartosińska (vigsel Miedzierza 1860 akt 10, Jędrzej Zbróg) har samma föräldrar 'Stanisław, Elżbieta Chlewicka'."
+   "GENETEKA-index vigsel Miedzierza 1853 akt 14: Anna Bartosińska, föräldrar 'Stanisław, Elżbieta Chlewicka'. Systern Marianna Bartosińska (vigsel Miedzierza 1860 akt 10, Jędrzej Zbróg) har samma föräldrar 'Stanisław, Elżbieta Chlewicka'.",
+   "Närläsning Mniów 1856 akt 12: 'córką Stanisława i[uż nieżyjącego?] i Elżbiety z … dotąd żyjącej' – fadern verkar vara död vid vigseln (osäker läsning); modern 'dotąd żyjącej'. Ändra ej utan omläsning."
   ],
   "sources": [
    {
@@ -38255,7 +38256,11 @@
   ],
   "search": [
    "Stanisław Bartosiński"
-  ]
+  ],
+  "died": {
+   "date": "före 1856-04-13",
+   "place": ""
+  }
  },
  {
   "id": "elzbieta_chlewicka",
@@ -38269,7 +38274,8 @@
   "summary": "Mor till Anna Bartosińska; flicknamn Chlewicka enligt Geneteka-index (Miedzierza 1853 akt 14). Levde 1856.",
   "notes": [
    "VIGSELAKT Mniów 1856 nr 12: modern till bruden nämns som 'Elżbiety z ... dotąd żyjącej' (levande 1856; efternamn svårläst på skanningen).",
-   "GENETEKA-index Miedzierza 1853 akt 14: Anna Bartosińska, föräldrar 'Stanisław, Elżbieta Chlewicka'."
+   "GENETEKA-index Miedzierza 1853 akt 14: Anna Bartosińska, föräldrar 'Stanisław, Elżbieta Chlewicka'.",
+   "Flicknamn: Geneteka-index 'Chlewicka'; bildläsning Mniów 1856 akt 12 ger 'z Skr…ów' (osäker). Flagga som konflikt."
   ],
   "sources": [
    {
@@ -38288,7 +38294,7 @@
  {
   "id": "michal_soltyk",
   "name": "Michał Sołtyk",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -38379,7 +38385,7 @@
  {
   "id": "maciej_lutowski",
   "name": "Maciej Lutowski",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -38416,7 +38422,7 @@
  {
   "id": "agnieszka_trzebinska",
   "name": "Agnieszka Trzebińska (g. Lutowska)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38449,7 +38455,7 @@
  {
   "id": "ewa_lutowska_1874",
   "name": "Ewa Lutowska (f. 1874)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38476,7 +38482,7 @@
  {
   "id": "marianna_mlodawska_1893",
   "name": "Marianna Młodawska (dotter, d. 1894/95)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -38509,7 +38515,7 @@
  {
   "id": "cyprian_mlodawski",
   "name": "Cyprian Młodawski",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -38537,7 +38543,7 @@
  {
   "id": "jan_mlodawski_1863",
   "name": "Jan Młodawski (f. 1863, Krasna)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
