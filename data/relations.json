@@ -12197,5 +12197,24 @@
   "b": "boleslaw",
   "status": "lead",
   "basis": "Martins träd: 'Gift med' Trzcińsko-Zdrój (utan datum eller källa). Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead)."
+ },
+ {
+  "id": "c-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey-aq3_emanuel_johannesson44",
+  "type": "child",
+  "parents": [
+   "bh1_johannes_jonsson_vadbey",
+   "bh1_brita_maja_vadbey"
+  ],
+  "child": "aq3_emanuel_johannesson44",
+  "status": "strong",
+  "basis": "Dopbok Frykerud C/6 (1844) bild 185: ”23 | 24(?) Vådbey. Bd Johannes Jonass: H. Brita Maja [patronym ofullständig] — Eman[uel]” (barnnamnet skymmer ut i bildkanten men börjar ”Eman”; födelsedag 23 nov stämmer med SCB 23/11 1844). strong, inte verified: namnet i sista kolumnen ej helt läst och byn osäker."
+ },
+ {
+  "id": "p-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey",
+  "type": "partner",
+  "a": "bh1_johannes_jonsson_vadbey",
+  "b": "bh1_brita_maja_vadbey",
+  "status": "strong",
+  "basis": "samma dopinlägg"
  }
 ]

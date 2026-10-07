@@ -36552,7 +36552,7 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1844",
+   "date": "1844-11-23",
    "place": "Frykerud"
   },
   "places": [
@@ -36561,7 +36561,8 @@
   "summary": "Sadelmakare i Köpung, Frykerud; far till Oskar Alfred Emanuelsson (gift m. Emilia Helena Nilsson).",
   "notes": [
    "FOLKRÄKNING 1910 Frykerud Köpung s.28 r.29: ”Johannesson, Emanuel, f. 1844 i Frykerud, Sadelmakare”.",
-   "MyHeritage Smart Match (lead, ej verifierat): minst 12 av 26 väntande träffar i andras träd (bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Berglund, Allan & Källström, Mogren, Östlund, Kjellgren) har Emanuel Johannesson f. 1844 med död 1913 (endast årtal synligt, dag/månad maskerade). Ett träd (Mogren) saknar dödsår. Beskrivningar: sko-/sadelmakare, äldre bror Johan, syskon Klara Katarina m.fl., styvbarn/pupill 'Emma Elisabeth Emanuelsdotter' som fosterbarn, sju+ barn inkl. Johan Gottfrid, Karl August(?). Ett träd (Värmlandsrötter) anger 'Linjen Stamfader Jon Olofsson'. Kontrollera dödsår 1913 mot SCB/dödbok Frykerud 1913."
+   "MyHeritage Smart Match (lead, ej verifierat): minst 12 av 26 väntande träffar i andras träd (bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Berglund, Allan & Källström, Mogren, Östlund, Kjellgren) har Emanuel Johannesson f. 1844 med död 1913 (endast årtal synligt, dag/månad maskerade). Ett träd (Mogren) saknar dödsår. Beskrivningar: sko-/sadelmakare, äldre bror Johan, syskon Klara Katarina m.fl., styvbarn/pupill 'Emma Elisabeth Emanuelsdotter' som fosterbarn, sju+ barn inkl. Johan Gottfrid, Karl August(?). Ett träd (Värmlandsrötter) anger 'Linjen Stamfader Jon Olofsson'. Kontrollera dödsår 1913 mot SCB/dödbok Frykerud 1913.",
+   "Död 6 juli 1913 (inte lev. efter 1913 som MyHeritage-träden anger år 1913: årtalet stämmer). Född 23 nov 1844, döpt 24 nov 1844 (dagen osäker, 24 eller 27)."
   ],
   "sources": [
    {
@@ -36571,7 +36572,12 @@
   ],
   "search": [
    "Emanuel Johannesson (f. 1844, Frykerud)"
-  ]
+  ],
+  "died": {
+   "date": "1913-07-06",
+   "place": "Frykerud",
+   "note": "SCB död 1913 nr 33; sadelmakare från Köpung, ålder 68"
+  }
  },
  {
   "id": "aq3_kajsa_gudmundsd50",
@@ -39871,6 +39877,42 @@
   ],
   "search": [
    "Magdalena Osuchowa (f. Pisarzyk)"
+  ]
+ },
+ {
+  "id": "bh1_johannes_jonsson_vadbey",
+  "name": "Johannes Jonsson (Vådbey/Våtbäck? , Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "summary": "Bonde; far till Emanuel Johannesson f. 1844 enligt dopbok Frykerud.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6 C0037139 (1806-1860), bild 185 (s. 343): nr 23 född 23, döpt 24(?) nov 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Johannes Jonsson (Vådbey/Våtbäck? , Frykerud)"
+  ]
+ },
+ {
+  "id": "bh1_brita_maja_vadbey",
+  "name": "Brita Maja (patronym ej läsbart), hustru till Johannes Jonsson",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "summary": "Mor till Emanuel f. 1844.",
+  "sources": [
+   {
+    "label": "samma dopinlägg",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Brita Maja (patronym ej läsbart), hustru till Johannes Jonsson"
   ]
  }
 ]
