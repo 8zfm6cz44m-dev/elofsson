@@ -3737,6 +3737,41 @@
    "persons": [
     "aq3_emanuel_johannesson44"
    ]
+  },
+  {
+   "title": "Smart Matches: många träffar är namnkrockar (Erik Jansson 1818, Maria Persdotter 1839, Johan Jonasson 1852, Kajsa Jonsdotter 1835)",
+   "text": "Träffar med samma namn+födelseår men olika död/barn/make. Använd endast träffar där make+barn stämmer; avfärda övriga. Allt är lead.",
+   "persons": [
+    "ap5_erik_jansson18",
+    "as1_maria_persdotter_1839_svartana",
+    "johan_jonasson_1852_aak",
+    "kajsa_jonsd35_finneback"
+   ]
+  },
+  {
+   "title": "Möjligt 10:e barn till Johanna Persdotter (Remstad) och Nils Andersson Elofsson",
+   "text": "Smart Matches anger Kristina Nilsdotter + 9 fler barn; vårt träd har 9 barn. Lead.",
+   "persons": [
+    "johanna_persdotter_remstad"
+   ]
+  },
+  {
+   "title": "Möjlig dublett: christopher_svensson54 = christopher_svensson_saldebraten",
+   "text": "MyHeritage (Elofson Family Tree, 64 träffar) anger Christopher Svensson f. 21 okt 1754, d. 1803, föräldrar Sven Ersson/Karin Ersson f. Nilsdotter. Vårt träd har samma person två gånger (lead + verified). Slå ihop först efter primärkälla (Frykerud dop/husförhör).",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "christopher_svensson54",
+    "sven_ersson",
+    "karin_nilsdotter19"
+   ]
+  },
+  {
+   "title": "Kerstin Nilsdotter (1727) och Karin Ersson f. Nilsdotter (1719): möjliga systrar",
+   "text": "Träffarna för Kerstin anger syskon 'Karin Svensson (född Nilsdotter)'. Hypotes att det är Karin f. 1719 (g. Sven Ersson). Lead, ej verifierat.",
+   "persons": [
+    "fr_kerstinnilsd1727_lene",
+    "karin_nilsdotter19"
+   ]
   }
  ],
  "conflicts": [
