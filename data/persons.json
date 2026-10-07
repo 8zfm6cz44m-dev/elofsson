@@ -2911,12 +2911,12 @@
   "name": "Bolesław Kogut",
   "status": "family",
   "sex": "m",
-  "summary": "Far till samtliga Irenas barn enligt familjen. Födelsedata, föräldrar och vigsel okända.",
+  "summary": "Iwonas far (Martins morfar). F. 15/1 1915, d. 24/9 1965, begravd Trzcińsko-Zdrój (gravregister; datumen igenkända av Martin). Födelseort, föräldrar och vigsel okända.",
   "notes": [
    "Utesluten: Bolesław Orzechowski/Kogut som dog 1944.",
    "Utesluten: Hieronim Kogut (Monitor Polski 1947), endast namnlik.",
    "MYHERITAGE-LÄSNING (BG1): Kandidat för Irenas make: Bolesław Kogut, f. 15.1.1915, d. 24.9.1965, begravd Cmentarz Komunalny, Trzcińsko-Zdrój (gravstensregister). Samma ort som Irena/Iwona -> status candidate, inte verified (postens släktband syns ej, ingen förälder). Skiljer sig från den redan uteslutne Bolesław som dog 1944 och från 'Bolesław Kogut f. 1916 d. 1943' (FamilySearch-träd) som också dök upp.",
-   "OMGÅNG 31 (BG1, candidate): Bolesław Kogut f. 15.1.1915, d. 24.9.1965, begravd Trzcińsko-Zdrój (MyHeritage Gravstenar i Polen, gravregister). Möjlig make till Irena – ej bekräftat. En annan Bolesław Kogut f. 1916 d. 1943 är sannolikt inte han."
+   "OMGÅNG 31 (BG1; bekräftad av Martin som morfar): Bolesław Kogut f. 15.1.1915, d. 24.9.1965, begravd Trzcińsko-Zdrój (MyHeritage Gravstenar i Polen, gravregister). Möjlig make till Irena – ej bekräftat. En annan Bolesław Kogut f. 1916 d. 1943 är sannolikt inte han."
   ],
   "search": [
    "Bolesław",
@@ -2931,7 +2931,17 @@
     "label": "MyHeritage gratis sökning, samling 'Polen, Gravstener 1800-2020': Bolesław Kogut, Född 15 jan 1915, Död 24 sep 1965, Begravning Cmentarz Komunalny w Trzcińsku Zdroju, Trzcińsko Zdrój, Zachodniopomorskie. Enda Kogut som visas med begravning på den kyrkogården (sökning med Trzcińsko-Zdrój som ortboost, 867 Kogut-träffar totalt). Ej länkad till Irena i posten - lead.",
     "url": "https://www.myheritage.no/research/collection/poland-gravestones-1800-2020/colid-10963"
    }
-  ]
+  ],
+  "born": {
+   "date": "1915-01-15",
+   "place": "okänd",
+   "note": "Datum enligt MyHeritage Gravstenar i Polen; igenkänt av Martin (morfar) 2026-10-07."
+  },
+  "died": {
+   "date": "1965-09-24",
+   "place": "Trzcińsko-Zdrój",
+   "note": "Begravd Trzcińsko-Zdrój (gravregister); igenkänt av Martin (morfar)."
+  }
  },
  {
   "id": "stefan",
