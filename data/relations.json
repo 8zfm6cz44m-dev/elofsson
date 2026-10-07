@@ -11687,5 +11687,116 @@
   "b": "antonina_majewska_hencel",
   "status": "strong",
   "basis": "Vigsel Kielce Katedra 13.8.1838 akt 73."
+ },
+ {
+  "id": "p-tomasz_mlodawski-anna_gebska",
+  "type": "partner",
+  "a": "tomasz_mlodawski",
+  "b": "anna_gebska",
+  "status": "verified",
+  "basis": "Mniów födelseakt 1837 nr 58: 'Tomasz Młodawski ... z jego małżonki Anny z Gębskich'; vigselakt 1856 nr 12: 'synem Tomasza i Anny z Gębskich, małżonków Młodawskich' (fil 058-061.jpg resp. 011-014.jpg, Mniów id 1317)."
+ },
+ {
+  "id": "c-tomasz_mlodawski-anna_gebska-jacek_mlodawski",
+  "type": "child",
+  "parents": [
+   "tomasz_mlodawski",
+   "anna_gebska"
+  ],
+  "child": "jacek_mlodawski",
+  "status": "strong",
+  "basis": "Verifierat för Jacek f. 12 aug 1837 i Rogowice (födelseakt Mniów 1837 nr 58) = brudgummen i vigselakt Mniów 1856 nr 12 'synem Tomasza i Anny z Gębskich'. Identiteten med Jan Młodawskis far Jacek (Rogowice, 23 år 1860 akt 33, 'gospodarz w Rogowicach') är strong (samma namn, by, ålder och hustruns flicknamn Bartosińska i 1856 och 1900), inte uttryckligen sagd."
+ },
+ {
+  "id": "p-stanislaw_bartosinski-elzbieta_chlewicka",
+  "type": "partner",
+  "a": "stanislaw_bartosinski",
+  "b": "elzbieta_chlewicka",
+  "status": "strong",
+  "basis": "Geneteka-index Miedzierza 1853 akt 14 och 1860 akt 10 (föräldrar 'Stanisław, Elżbieta Chlewicka'); vigselakt Mniów 1856 nr 12 nämner 'Stanisława i ... Elżbiety'."
+ },
+ {
+  "id": "c-stanislaw_bartosinski-elzbieta_chlewicka-anna_bartosinska",
+  "type": "child",
+  "parents": [
+   "stanislaw_bartosinski",
+   "elzbieta_chlewicka"
+  ],
+  "child": "anna_bartosinska",
+  "status": "strong",
+  "basis": "Vigselakt Mniów 1856 nr 12 (fil 011-014.jpg, bild läst): Anna z Bartosińskich Sołtykowa, 25 år, änka efter Michał Sołtyk, 'córką Stanisława i ... Elżbiety z ...', född i Zaborowice, Miedzierza-socknen. Geneteka-index Miedzierza 1853 akt 14 ger samma föräldrar Stanisław + Elżbieta Chlewicka för Anna Bartosińska (gift Michał Sołtyk). Strong (moderns flicknamn bygger på indexet; identiteten Anna 1853 = Anna 1856 stöds av makens namn Michał Sołtyk)."
+ },
+ {
+  "id": "p-michal_soltyk-anna_bartosinska",
+  "type": "partner",
+  "a": "michal_soltyk",
+  "b": "anna_bartosinska",
+  "status": "strong",
+  "basis": "Vigselakt Mniów 1856 nr 12: Anna 'Sołtykowa ... wdową po Michale Sołtyku' (verifierat som änka); Geneteka-index Miedzierza 1853 akt 14 anger vigseln Michał Sołtyk x Anna Bartosińska (index = strong)."
+ },
+ {
+  "id": "c-jacek_mlodawski-anna_bartosinska-adam_mlodawski_1866",
+  "type": "child",
+  "parents": [
+   "jacek_mlodawski",
+   "anna_bartosinska"
+  ],
+  "child": "adam_mlodawski_1866",
+  "status": "verified",
+  "basis": "Mniów födelseakt 1866 nr 131 (fil 126-134.jpg): 'Jacek Młodawski ... z jego małżonki Anny z Bartosińskich ... imię Adam'."
+ },
+ {
+  "id": "s-jan_mlodawski-adam_mlodawski_1866",
+  "type": "sibling",
+  "a": "jan_mlodawski",
+  "b": "adam_mlodawski_1866",
+  "status": "strong",
+  "basis": "Samma föräldrar Jacek + Anna i akt 131/1866 och akt 33/1860 (om Jan f. 1860 = Jan i vigsel 1900, se flagga)."
+ },
+ {
+  "id": "c-jacek_mlodawski-anna_bartosinska-piotr_pawel_mlodawski_1864",
+  "type": "child",
+  "parents": [
+   "jacek_mlodawski",
+   "anna_bartosinska"
+  ],
+  "child": "piotr_pawel_mlodawski_1864",
+  "status": "verified",
+  "basis": "Mniów födelseakt 1864 nr 55 (fil 046-055.jpg): fader Jacek Młodawski, Rogowice; moder 'Anny z Oparów' (OBS: akten anger Opara, ej Bartosińska – se flagga om Annas flicknamn)."
+ },
+ {
+  "id": "s-jan_mlodawski-piotr_pawel_mlodawski_1864",
+  "type": "sibling",
+  "a": "jan_mlodawski",
+  "b": "piotr_pawel_mlodawski_1864",
+  "status": "strong",
+  "basis": "Samma föräldrar Jacek + Anna, Rogowice (akt 33/1860 och akt 55/1864)."
+ },
+ {
+  "id": "p-maciej_lutowski-agnieszka_trzebinska",
+  "type": "partner",
+  "a": "maciej_lutowski",
+  "b": "agnieszka_trzebinska",
+  "status": "verified",
+  "basis": "Odrowąż födelseakt 1872 nr 190 (fil 186-195.jpg): 'отъ законной жены Агнешки изъ Трѣбинскихъ' till Maciej Lutowski; vigselakt 1891 nr 5: 'Мацея и Анешки съ Трѣбинскихъ супруговъ Лютовскихъ'."
+ },
+ {
+  "id": "c-maciej_lutowski-agnieszka_trzebinska-marianna_lutawska",
+  "type": "child",
+  "parents": [
+   "maciej_lutowski",
+   "agnieszka_trzebinska"
+  ],
+  "child": "marianna_lutawska",
+  "status": "strong",
+  "basis": "Verifierat: Marianna Lutowska f. 1872 i Świerczów, dotter till Maciej + Agnieszka z Trzebińskich (Odrowąż födelseakt 1872 nr 190) = bruden 'Marianna Lutowska, 18 år, född och boende hos föräldrarna i Świerczów' i vigselakt Odrowąż 1891 nr 5 (Jan Młodawski). Länken till Jan Młodawskis änklingsakt 1900 ('vdovym posle Marianny iz Lutavskich') är strong, ej bevisad (se flagga)."
+ },
+ {
+  "id": "s-marianna_lutawska-ewa_lutowska_1874",
+  "type": "sibling",
+  "a": "marianna_lutawska",
+  "b": "ewa_lutowska_1874",
+  "status": "strong",
+  "basis": "Geneteka-index födelse Odrowąż 1874 akt 176: Ewa Lutowska, föräldrar Maciej + Agnieszka Trzebińska (samma som Marianna 1872 akt 190)."
  }
 ]

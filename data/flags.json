@@ -3373,6 +3373,16 @@
     "wawrzyniec_orzechowski",
     "tekla_orzechowska"
    ]
+  },
+  {
+   "title": "Jan Młodawski: identitet 1860/1891/1900 (och Annas flicknamn Opara/Bartosińska)",
+   "text": "Fynd: Jan Młodawski f. 12.3.1860 i Rogowice (Mniów akt 33; fader Jacek 23 år, moder Anna z Oparów 30 år) gifte sig 28.1.1891 i Odrowąż (akt 5) som ungkarl med Marianna Lutowska (f. 1872 Świerczów, d. till Maciej och Agnieszka z Trzebińskich). Jan Młodawski i vigselakten Kielce 1900 nr 23 är 'änkling efter Marianna z Lutawskich', 'född i byn Odrowąż', 37 år, son till Jacek och Anna z Bartosińskich. Likheter: samma förnamn på fadern (Jacek) och modern (Anna), hustruns förnamn + efternamn Lutowska/Lutawska, bytes närhet (Rogowice-Odrowąż, Mniów-Odrowąż). Skillnader: ålder (30 år 1891 vs 37 år 1900 = ca 1863; 40 år 1902), födelseort (Rogowice i 1860/1891 vs 'Odrowąż' 1900) och moderns flicknamn (Opara 1860, 1864, 1891 vs Bartosińska 1856, 1866, 1900). Anna z Bartosińskich är dock belagd som maka till Jacek Młodawski i Rogowice (vigsel 1856 akt 12, barn 1866 akt 131), så föräldraparet Jacek+Anna är samma familj. Bedömning: Jan f. 1860 = Jan 1900 är STRONG (änkling efter just Marianna Lutowska), men inte bevisat; ålders-/ortskillnaderna bör redovisas som avvikelser. Bör kontrolleras mot Marianna Młodawskas dödsakt (Odrowąż 1891–1899) där 'żona Jana' och födelseort bör stå, samt Jans dödsakt.",
+   "persons": [
+    "jan_mlodawski",
+    "jacek_mlodawski",
+    "anna_bartosinska",
+    "marianna_lutawska"
+   ]
   }
  ],
  "conflicts": [
@@ -3896,6 +3906,15 @@
     "tekla_hencel_mor",
     "augustyn_hencel",
     "franciszek_hencel_1816"
+   ]
+  },
+  {
+   "title": "Anna (Młodawska) – flicknamn Opara eller Bartosińska",
+   "text": "Vigselakt Mniów 1856 nr 12 (Jacek Młodawski x Anna z Bartosińskich Sołtykowa, änka efter Michał Sołtyk, född Zaborowice, Miedzierza) och födelseakt 1866 nr 131 samt vigsel 1900 anger Bartosińska; födelseakt 1860 nr 33 (Jan) och 1864 nr 55 (Piotr Paweł) samt vigsel 1891 anger 'z Oparów'. Åldern passar (25 år 1856, 30 år 1860, 36 år 1864, 37 år 1866). Möjlig förklaring: tilltalsnamn/tidigare giftermål eller skrivarfel – oklart. Båda varianterna bör behållas.",
+   "persons": [
+    "anna_bartosinska",
+    "jacek_mlodawski",
+    "jan_mlodawski"
    ]
   }
  ],
