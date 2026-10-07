@@ -3614,6 +3614,20 @@
    "title": "Zagnańsk (id1315) och Chęciny (id1318): inga indexfiler 1840-talet",
    "text": "Zagnańsk (enheter UMZ-<år>, 1810-) och Chęciny (1811-) har i 1842 års enhet inga SkU/SkM/SkZ-indexfiler; endast sekventiella akt-bilder (3-4 sidor per bild). Sökning kräver sekventiell läsning av hela årgångar och gjordes inte. Piekoszów 1840-44 har index för födelser; vigsel-/dödsindex i Piekoszów ej genomsökta (se unresolved).",
    "persons": []
+  },
+  {
+   "title": "Walerja/Wiktoria Hencel 1855: namnläsning",
+   "text": "Akt 319/1855 (flicka, f. 15 maj 1855) läses 'Walerja' i akten men index SkU-2 har 'Hencel Wiktorya'. Kontrollera med nära zoom/Geneteka. Id hencel_walenty_1855 bör ev. döpas om till hencel_walerja_1855 vid sammanslagning (sex = f).",
+   "persons": [
+    "hencel_walenty_1855"
+   ]
+  },
+  {
+   "title": "Marianna Hencel död 1880 akt 909 – ej nödvändigtvis fullständigt avstämd mot födelseår",
+   "text": "56 år 1880 ger f. ca 1824, men vigsel 1841 anger 17 år (f. ca 1824) – stämmer. Dödsakten: dotter till Mikołaj/Małgorzata = stämmer med vigsel 1841 akt 148. Därmed verifierad identitet.",
+   "persons": [
+    "maryanna_hencel"
+   ]
   }
  ],
  "conflicts": [

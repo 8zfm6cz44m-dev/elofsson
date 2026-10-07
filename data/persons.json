@@ -19283,7 +19283,9 @@
    "VIGSEL 1866 akt 94: 'córką Augustyna i Maryanny ... małżonków Hencel'",
    "Född 1820 i Niewachłów: Katedra 1820 akt 369 (far Jan Hentel, mor Tekla z Piotrowskich); vigsel 1841 akt 148: ”z nieżyjącego Jana i Tekli z Piotrowskich” × Maryanna z Szrekow (17 år, dotter till Mikołaj och Małgorzata z Jaworskich).",
    "OMLÄSNING 1841 akt 148 (ordagrant): 'Augustynem Hencel lat dwadzieścia jeden … urodzonym z nieżyjącego Jana, i Tekli z Piotrowskich żyjącej' – fadern Jan död före 26.11.1841, modern Tekla levde. Syskon: Franciszek Hencel f. 17.9.1816 (franciszek_hencel_1816).",
-   "Modernamn: akt 369/1820 och Franciszeks vigsel 1838 anger 'Skrzyńska' (index 'Slerzyńska'), akt 148/1841 'z Piotrowskich' – se flagga."
+   "Modernamn: akt 369/1820 och Franciszeks vigsel 1838 anger 'Skrzyńska' (index 'Slerzyńska'), akt 148/1841 'z Piotrowskich' – se flagga.",
+   "Barn funna (Katedra födelse): Agnieszka 1847 akt 34, Franciszek Marceli 1850 akt 408, Kazimierz 1.3.1852 akt 118 (Niewachłów), Walerja/Wiktorya 15.5.1855 akt 319, Stanisław Józef Izydor 3.5.1858 akt 257 – totalt minst 5 barn, stämmer med 'pięcioro dzieci' i moderns dödsakt 1880. 1855 beskrivs han som 'rolnik' 1858 'kolonista'. Hustrun Maryanna dog 1880 (akt 909).",
+   "Augustyn bor i Czarnów 1847/1850 men Niewachłów 1852–1858."
   ],
   "sources": [
    {
@@ -19323,7 +19325,8 @@
   ],
   "summary": "Mor till Agnieszka Hencel; Niewachlów 1866.",
   "notes": [
-   "VIGSEL 1866 akt 94"
+   "VIGSEL 1866 akt 94",
+   "Död Katedra 1880 akt 909: 'Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel)', 56 år, dotter till Nikolaj/Mikołaj och Małgorzata, änka efter Augustyn, efterlämnade fem barn (se maryanna_hencel_szrek_1880 – slå ihop)."
   ],
   "sources": [
    {
@@ -19334,7 +19337,17 @@
   "living": false,
   "search": [
    "Maryanna Hencel"
-  ]
+  ],
+  "died": {
+   "date": "1880-12-25",
+   "place": "Niewachłów",
+   "note": "Katedra 1880 akt 909"
+  },
+  "born": {
+   "date": "ca 1824",
+   "place": "",
+   "note": "56 år 1880"
+  }
  },
  {
   "id": "fr_nilsjonsson1782",
@@ -39091,6 +39104,135 @@
   "places": [],
   "search": [
    "Marianna Młodawska (f. 1858)"
+  ]
+ },
+ {
+  "id": "hencel_kazimierz_1852",
+  "name": "Kazimierz Hencel (f. 1.3.1852, Niewachłów)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1852-03-01",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 118, aktdatum 7 mars 1852; född 'pierwszego bieżącego miesiąca' kl. 3 på morgonen"
+  },
+  "places": [
+   "Niewachłów"
+  ],
+  "summary": "Son till Augustyn Hencel (32 år, rolnik) och Maryanna z Szreków (22 år), Niewachłów. Syskon till Agnieszka f. 1847, Franciszek Marceli f. 1850.",
+  "notes": [
+   "FÖDELSEAKT Kielce Katedra 1852 akt 118 (polska, ordagrant): 'stawił się Augustyn Hencel lat trzydzieści dwa liczący rolnik w Niewachlowi zamieszkały w obecności Stanisława Wroblewskiego lat czterdzieści ośm i Jana Ludwinek lat czterdzieści ... liczących rolników w Niewachlowi zamieszkałych okazał Nam Dziecię płci Męskiej które się urodziło dnia pierwszego bieżącego Miesiąca ... o godzinie trzeciej rano z jego Małżonki Maryanny z Szrekow lat dwadzieścia ... liczącej. Dziecięciu temu na Chrzcie Świętym ... nadane zostało Imię Kazimierz a rodzicami jego Chrzestnemi byli Jan Ludwinek i Apolonia Wrokowa [läsning osäker]'. Index SkU-2 1852: 'Hencel Kazimierz 118'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1852 (1852a), fil 116-125.jpg, akt 118: Kazimierz, far Augustyn Hencel, mor Maryanna z Szrekow, Niewachlów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1852a&kt=1&plik=116-125.jpg"
+   },
+   {
+    "label": "Kielce Katedra 1852 index SkU-2: Hencel Kazimierz 118",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1852a&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Kazimierz Hencel (f. 1.3.1852, Niewachłów)"
+  ]
+ },
+ {
+  "id": "hencel_stanislaw_jozef_1858",
+  "name": "Stanisław Józef (Izydor) Hencel (f. 3.5.1858, Niewachłów)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1858-05-03",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 257, aktdatum 8 maj 1858; född 'trzeciego bieżącego miesiąca' kl. 20.30"
+  },
+  "places": [
+   "Niewachłów"
+  ],
+  "summary": "Son till Augustyn Hencel, kolonista (ca 48 år), och Maryanna z Szrekow (ca 30 år), Niewachłów. Index 'Hencel Stanisław Izydor 257'.",
+  "notes": [
+   "FÖDELSEAKT Kielce Katedra 1858 akt 257 (polska, ordagrant, delvis): 'stawił się Augustyn Hencel kolonista lat czterdzieści ośm mający w Niewachlowi zamieszkały w obecności Jana Sieczańskiego lat ... i Franciszka Sernekiego lat dwadzieścia trzy liczących kolonistów w Niewachlowi zamieszkałych i okazał Nam Dziecię płci Męskiej które się urodziło dnia trzeciego bieżącego Miesiąca i roku o godzinie dziewiątej wieczór z jego Małżonki Maryanny z Szrekow lat trzydzieści ma[jącej] ... nadane zostały Imiona Stanisław Jzydor a rodzicami jego Chrzestnemi byli Franciszek Sernecki i Marcelina Szrek'. (Fadder Marcelina Szrek = trolig släkting till modern.) Index SkU-2 1858: 'Hencel Stanisław Jzydor 257'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1858 (1858a), fil 256-265.jpg, akt 257 (sid 52): Niewachłów, Augustyn Hencel, Maryanna z Szrekow",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1858a&kt=1&plik=256-265.jpg"
+   },
+   {
+    "label": "Kielce Katedra 1858 index SkU-2: Hencel Stanisław Jzydor 257",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1858a&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Stanisław Józef (Izydor) Hencel (f. 3.5.1858, Niewachłów)"
+  ]
+ },
+ {
+  "id": "hencel_walenty_1855",
+  "name": "Walenty? Hencel (f. 15.5.1855, Niewachłów)",
+  "status": "verified",
+  "sex": "",
+  "living": false,
+  "born": {
+   "date": "1855-05-15",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 319, aktdatum 16 sept 1855; född 'piętnastego Maja' kl. 1 på natten (1 f.m.); förnamn osäkert läst (Walerja/Walenty/Wiktorya)"
+  },
+  "places": [
+   "Niewachłów"
+  ],
+  "summary": "Barn till Augustyn Hencel (rolnik, 45 år) och Maryanna z Szrekow (ca 30 år), Niewachłów. Index SkU-2 1855 rad 'Hencel Wiktorya' – sannolikt dotter Wiktoria/Walerya.",
+  "notes": [
+   "FÖDELSEAKT Kielce Katedra 1855 akt 319 (polska, ordagrant, delvis): 'stawił się Augustyn Hencel rolnik lat trzydzieści pięć [?] mający w Niewachlowi zamieszkały w obecności Józefa Surawskiego lat trzydzieści i Piotra Karpińskiego lat dwadzieścia cztery liczących rolników w Niewachlowi zamieszkałych i okazał Nam Dziecię płci Żeńskiej które się urodziło dnia piętnastego Maja roku bieżącego o godzinie pierwszej rano z jego Małżonki Maryanny z Szrekow lat trzydzieści ... liczącej. Dziecięciu temu na Chrzcie Świętym w dniu dziesiątym odbytym nadane zostało Imię Walerja [läsning; index: Wiktorya] a rodzicami jego Chrzestnemi byli Piotr Karpiński i Apolonia Szkolowa'. Barnet är 'płci Żeńskiej' = flicka; namnläsning osäker. Aktdatum 16 sept (aktens text 'szesnastego Wrześ.') men födelse 15 maj enligt texten – läsning av månad osäker."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelsebok 1855 (1855a), fil 316-325.jpg, akt 319 (sid 64): Niewachłów, Augustyn Hencel",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1855a&kt=1&plik=316-325.jpg"
+   },
+   {
+    "label": "Kielce Katedra 1855 index SkU-2: Hencel Wiktorya (rad H.2)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1855a&kt=1&plik=SkU-2.jpg"
+   }
+  ],
+  "search": [
+   "Walenty? Hencel (f. 15.5.1855, Niewachłów)"
+  ]
+ },
+ {
+  "id": "maryanna_hencel_szrek_1880",
+  "name": "Marianna Hencel z domu Szrek (d. 1880)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1824",
+   "place": "",
+   "note": "56 år vid dödsfallet 1880"
+  },
+  "died": {
+   "date": "1880-12-25",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 909, aktdatum 15/27 dec 1880; död 'i tre timmar' på morgonen (kl. 3) – exakt dag osäker"
+  },
+  "places": [
+   "Niewachłów"
+  ],
+  "summary": "Änka efter Augustyn Hencel, dotter till Mikołaj och Małgorzata, efterlämnade fem barn. Identifierad som Augustyn Hencels hustru Maryanna Szrek.",
+  "notes": [
+   "DÖDSAKT Kielce Katedra 1880 akt 909 (ryska, transkription ur kyrilliska): 'Явились земледельцы из деревни Цегельни Францъ Брозинский шестидесяти лѣтъ и из деревни Неважелова Янъ Шрекъ семидесяти лѣтъ отъ роду и объявили что въ Неважелова ... въ три часа утра умерла Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel) пятидесяти шести лѣтъ отъ роду, дочь Николая и Малгорзаты, вдова Августа земледѣльца, оставивъ пятеро дѣтей' = Marianna Hencel f. Szrek, 56 år, dotter till Mikołaj och Małgorzata, änka efter jordbrukaren Augustyn, efterlämnade fem barn. Anmälare Franciszek Brodziński (60, Cegielnia) och Jan Szrek (70, Niewachłów – trolig släkting). Aktnummer 909 på bilden."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) dödsbok 1880 (1880c), fil 900-911.jpg, akt 909 (Niewachłów): Marianna Hencel z Szrek",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1880c&kt=1&plik=900-911.jpg"
+   }
+  ],
+  "search": [
+   "Marianna Hencel z domu Szrek (d. 1880)"
   ]
  }
 ]

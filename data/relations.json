@@ -11969,5 +11969,38 @@
   "child": "marianna_mlodawska_1856",
   "status": "verified",
   "basis": "Mniów 1856 nr 64 + död 1857 nr 5: 'córka ... i Anny z Oparów małżonków Młodawskich'."
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_kazimierz_1852",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "hencel_kazimierz_1852",
+  "status": "verified",
+  "basis": "Katedra 1852 akt 118: 'Augustyn Hencel ... z jego Małżonki Maryanny z Szrekow ... Imię Kazimierz'"
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_walenty_1855",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "hencel_walenty_1855",
+  "status": "verified",
+  "basis": "Katedra 1855 akt 319: Augustyn Hencel + Maryanna z Szrekow, Niewachlów"
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_stanislaw_jozef_1858",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "hencel_stanislaw_jozef_1858",
+  "status": "verified",
+  "basis": "Katedra 1858 akt 257: 'Augustyn Hencel kolonista ... z jego Małżonki Maryanny z Szrekow ... Imiona Stanisław Jzydor'"
  }
 ]
