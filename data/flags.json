@@ -3698,6 +3698,22 @@
    "persons": [
     "maryanna_hencel"
    ]
+  },
+  {
+   "title": "Flicknamn Agata i Antoninas födelseakt 1839",
+   "text": "Akt 257/1839 läses 'z Mawrzecich(?)' – avviker från 'z Osuchów' (1832, 1835, 1864). Bör omläsas; Jans ålder 40 (1839) mot 28 (1835) är också inkonsekvent. Alternativ: annan Jan Ksioł/Agata – men Szydłówek, Agata 25 år, dotter Antonina (namn efter faddern Antonina Xelowa) talar för samma par.",
+   "persons": [
+    "antonina_zatorska_n"
+   ]
+  },
+  {
+   "title": "Józef Zatorskis föräldrar Marcin Zatorski × Maryanna Socha ej funna i Katedra 1826–1842",
+   "text": "Vigselindex (SkM) Z-sidor genomlästa för Katedra Kielce 1826, 1829, 1830, 1832, 1833, 1834, 1835, 1836, 1838, 1839, 1840 (delvis), 1841, 1842: ingen Zatorski/Socha-vigsel (endast Zapata, Zalewski, Zagnański, Zachowski m.fl.). Józef 'urodzonym w Kielcach(?)' och bodde i Brzeziny 1864 – föräldrarna gifte sig sannolikt i annan socken (Brzeziny/Zagnańsk/Chęciny/Piekoszów) eller före 1826 (1827, 1828, 1831, 1837 saknar index).",
+   "persons": [
+    "jozef_zatorski",
+    "marcin_zatorski",
+    "maryanna_socha"
+   ]
   }
  ],
  "conflicts": [
@@ -4584,6 +4600,15 @@
    "persons": [
     "anders_ak_1854",
     "katrina_jansdotter_1856_sunne"
+   ]
+  },
+  {
+   "title": "Antoninas far: Jan Ksioł (inte okänd)",
+   "text": "Tidigare Agata Ksiołowa (f. Osuch?) 'dotter till makarna Ksioł'. Nu: Agata Osuch (dotter till Mikołaj Osuch & Magdalena Pisarzyk, Szydłówek) g. 1832 Antoni Ksioł (d. 1834), g. 1835 Jan Ksioł (son till Sebastian). Antonina f. 20.5.1839 i Szydłówek (Katedra akt 257) = dotter till Jan & Agata.",
+   "persons": [
+    "antonina_zatorska_n",
+    "agata_ksiol",
+    "jan_ksiol"
    ]
   }
  ]

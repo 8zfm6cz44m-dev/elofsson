@@ -18568,9 +18568,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "ca 1841",
-   "place": "Szydłówek?",
-   "note": "Åldrar: 22 (1864 akt 152), 26 (1867 akt 476), 27 (1868 akt 661), 30 (1871 akt 550). Flicknamn 'z Ksiołów' 1864/1867/1868/1895; 1871 'z Osuchów/Deuchów' (osäker; Osuch = moderns Agatas namn enligt 1864)."
+   "date": "1839-05-20",
+   "place": "Szydłówek (Kielce)",
+   "note": "Katedra 1839 akt 257 (födelsen dagen för anmälan, kl. 10 f.m.); åldrar i senare akter (22 år 1864, 30 år 1871) avviker"
   },
   "died": {
    "date": "före 1895"
@@ -18584,7 +18584,8 @@
    "Flicknamn i akt 550 (1871) läses 'изъ Осуховъ' (Osuch?) - avviker från tidigare läsning 'изъ Ксолювъ' (Ksiołów?) i vigselakten 1895; kontrollera originalet om möjligt. Ålder 30 år okt 1871 -> f. ca 1841.",
    "VIGSEL 1864 akt 152: bruden 'Antoniną Ksiołówną lat dwadzieścia dwa' (f. ca 1842), dotter till makarna Ksioł(ów) och Agata f. Osuch(?), Szydłówek. Ålder (30 år 1871) och flicknamn Ksiołów (jfr 1895) stämmer; 'Osuch' i akt 550/1871 kan vara förväxlat med moderns flicknamn. STRONG.",
    "OMLÄSNING Y1 akt 550/1871 (fil 544-551.jpg): modern ”Антонины изъ [Осуховъ? / Деуховъ?] тридцати лѣтъ отъ роду” – första bokstaven i släktnamnet är en kursiv О/Д som inte går att avgöra säkert; ordet slutar ”-уховъ”, alltså ”Osuchów”/”Deuchów”, i alla fall INTE ”Ksiołów”. Vigselakt 1864 akt 152 ger bruden som ”Antoniną Ksiołówną” med mor ”Agaty z Osuchów”. Möjligt skrivarmisstag 1871 (modern Agatas flicknamn i stället för Antoninas) – ej bevisat. Se flagga. Antoninas ålder 1871 = 30 år (f. ca 1841), vid vigseln 1864 22 år (f. ca 1842).",
-   "Dotter till makarna Ksioł (mor Agata z Osuchów, levande 1864) i Szydłówek."
+   "Dotter till makarna Ksioł (mor Agata z Osuchów, levande 1864) i Szydłówek.",
+   "FÖDELSEAKT Kielce Katedra 1839 nr 257 (ordagrant): 'Stawił się Jan Xel Rolnik w Szydłowku zamieszkały lat czterdzieści mający ... okazał nam dziecię płci żeńskiej w Szydłowku dnia dzisiejszego o godzinie dziesiątej rano urodzone z jego Małżonki Agaty z Mawrzecich(?) lat dwadzieścia pięć mającej ... nadane zostało imię Antonina, a ... Chrzestnemi byli: Jakob Jakobczyk i Antonina Xelowa.' Identitet med Antonina Ksiołówna (vigsel 1864 akt 152: dotter till Jan och Agata z Osuchów, Szydłówek) = STRONG (namn, by, föräldranamn, ålder inom marginalen); flicknamn i födelseakten 'Mawrzecich' avviker från Osuch."
   ],
   "sources": [
    {
@@ -18602,6 +18603,10 @@
    {
     "label": "Skanoteka PTG, Kielce Katedra vigselindex 1864 (sy1864b, SkM-4), rad 187: 'Zatorski Józef / Antonina Ksel(?)' akt 152",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1864b&kt=1&plik=SkM-4.jpg"
+   },
+   {
+    "label": "Skanoteka Kielce Katedra födelser 1839 (sy1839a), fil 251-260.jpg, akt 257",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1839a&kt=1&plik=251-260.jpg"
    }
   ],
   "search": [
@@ -21495,24 +21500,38 @@
  },
  {
   "id": "agata_ksiol",
-  "name": "Agata Ksiołowa (f. Osuch?)",
-  "status": "candidate",
+  "name": "Agata Ksiołowa (f. Osuch)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Mor till bruden Antonina Ksiołówna i akt 152/1864; flicknamn läst 'z Osuchów'. Kan förklara 'Osuch' i dopakten 1871.",
   "notes": [
-   "VIGSEL 1864 akt 152: 'córką [fars förnamn oläsligt] i Agaty z Osuchów małżonków Ksiołów, na gospodarstwie w Szydłówku zamieszkałych, także zmarłych i przy matce rodzącej' [sista frasen osäker] = dotter till makar Ksioł (mor Agata f. Osuch?), bosatta i Szydłówek."
+   "VIGSEL 1864 akt 152: 'córką [fars förnamn oläsligt] i Agaty z Osuchów małżonków Ksiołów, na gospodarstwie w Szydłówku zamieszkałych, także zmarłych i przy matce rodzącej' [sista frasen osäker] = dotter till makar Ksioł (mor Agata f. Osuch?), bosatta i Szydłówek.",
+   "RÄTTELSE: Agata Osuch gifte sig 1:o 3.9.1832 med Antoni Ksioł (Kielce Katedra akt 278; han d. 1834) och 2:o 23.11.1835 med änklingen Jan Ksioł (akt 94). Hennes föräldrar Mikołaj Osuch och Magdalena z Pisarzyków (Szydłówek, komornicy). Antoninas far är alltså JAN Ksioł (1864 akt 152: 'córką Jana ... i Agaty z Osuchów')."
   ],
   "sources": [
    {
     "label": "Skanoteka PTG, Kielce Katedra (id57) vigselakter 1864 (sy1864b, kt1), fil 150-153.jpg, akt 152: Zatorski × Ksiołówna",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1864b&kt=1&plik=150-153.jpg"
+   },
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1832 akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   },
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1835 akt 94",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1835&kt=2&plik=094-099.jpg"
    }
   ],
   "places": [],
   "search": [
    "Agata Ksiołowa (f. Osuch?)"
-  ]
+  ],
+  "born": {
+   "date": "ca 1814/15",
+   "place": "Szydłówek",
+   "note": "17 år vid vigsel 1832, 21 år 1835, 25 år 1839 (födelseakt Antonina)"
+  }
  },
  {
   "id": "olof_perssonbraten15",
@@ -39582,6 +39601,216 @@
   ],
   "search": [
    "Małgorzata Szrek (f. Jaworska) (f. ca 1802)"
+  ]
+ },
+ {
+  "id": "jan_ksiol",
+  "name": "Jan Ksioł (Xeł)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1807",
+   "place": "Szydłówek",
+   "note": "28 år vid vigsel 23.11.1835; 40 år vid dotterns födelse 1839 (åldrar avviker)"
+  },
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Bonde i Szydłówek; gift 1:o med Magdalena z Tarnów(?) (död före 1835), 2:o 23.11.1835 med änkan Agata Osuch; far till Antonina f. 1839 (gift Zatorski).",
+  "notes": [
+   "VIGSELAKT Kielce Katedra 1835 nr 94 (polska, ordagrant, delvis osäker läsning): '94. Działo się w Kielcach dnia dwudziestego trzeciego Listopada Tysiąc ośmset trzydziestego piątego roku, o godzinie dziewiątej rano. Wiadomo czynimy że w przytomności świadków Andrzeja Kobłow(?)czyka lat trzydzieści cztery i Michała Xeł lat czterdzieści sześć liczących Rolników w Szydłowku zamieszkałych. Na dniu dzisiejszym zawarte zostało Religijnie Małżeństwo między Janem Xeł, po zmarłej Magdalenie z Tarnów(?) pozostałym wdowcem Rolnikiem w Szydłowku zamieszkałym i urodzonym, z Sebastyana i Maryanny z Markow(?) Xełów obojga zmarłych, lat dwadzieścia osm mającym, a Agatą z Osuchowskich po zmarłym Antonim Xeł w roku Tysiąc ośmset trzydziestym czwartym, pozostałą wdową, córką Mikołaja i Magdaleny z Pisarzyków Osuchowskich w Szydłowku zamieszkałych, tamże urodzoną lat dwadzieścia jeden mającą.'",
+   "FÖDELSEAKT Antonina Kielce Katedra 1839 nr 257 (ordagrant): 'Stawił się Jan Xel Rolnik w Szydłowku zamieszkały lat czterdzieści mający ... okazał nam dziecię płci żeńskiej w Szydłowku dnia dzisiejszego o godzinie dziesiątej rano urodzone z jego Małżonki Agaty z Mawrzecich(?) lat dwadzieścia pięć mającej ... nadane zostało imię Antonina, a Rodzicami jego Chrzestnemi byli: Jakob Jakobczyk i Antonina Xelowa.' (mammans flicknamn läses 'Mawrzecich' – avviker från Osuch; sannolikt samma par, åldern 25 passar Agata f. ca 1814; NB index anger akt 259, akten är nr 257)"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigsel 1835 (kt2), fil 094-099.jpg, akt 94",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1835&kt=2&plik=094-099.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) födelser 1839 (sy1839a), fil 251-260.jpg, akt 257",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1839a&kt=1&plik=251-260.jpg"
+   }
+  ],
+  "search": [
+   "Jan Ksioł (Xeł)"
+  ]
+ },
+ {
+  "id": "antoni_ksiol_1834",
+  "name": "Antoni Ksioł (Xeł)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1811",
+   "place": "Domaparice(?) (oläst bynamn)",
+   "note": "21 år vid vigsel 3.9.1832"
+  },
+  "died": {
+   "date": "1834",
+   "note": "död 1834 enligt vigselakt 1835 nr 94 ('po zmarłym Antonim Xeł w roku 1834')"
+  },
+  "summary": "Förste make till Agata Osuch (vigsel Kielce Katedra 3.9.1832 akt 278); son till Szczepan Ksioł och Jadwiga z Sroków (bägge döda 1832).",
+  "notes": [
+   "VIGSELAKT Kielce Katedra 1832 nr 278 (3 Września 1832, kl. 9 f.m.; ordagrant, delvis osäkert): 'Wiadomo czynimy że w obecności świadków Jana Biernat lat czterdzieści osm i Mateusza Xell lat pięćdziesiąt dwa liczących Rolników we Szydłowku zamieszkałych. Na dniu dzisiejszym zawarte zostało Religijne Małżeństwo między Antonim Xell młodzianem Rolnikiem w Domoparicach(?) zamieszkałym i urodzonym s.p. Szczepana i Jadwigi z Srokow(?) Małżonków Xełów Rolników w tejże wsi obojga już zmarłych lat dwadzieścia jeden liczącym a panną Agatą Osuchówną córką Mikołaja i Magdaleny z Pisarzyków Małżonków Osuchów Komorników obojga żyjących w Szydłowku zamieszkałych tamże urodzoną lat siedmnaście mającą przy Rodzicach zostającą.' Banns 5/12(?)/19 Aug."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) vigsel 1832 (kt2), fil 273-278.jpg, akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Antoni Ksioł (Xeł)"
+  ]
+ },
+ {
+  "id": "szczepan_ksiol",
+  "name": "Szczepan Ksioł (Xeł)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "died": {
+   "date": "före 1832-09-03"
+  },
+  "summary": "Far till Antoni Ksioł (vigsel 1832 akt 278).",
+  "notes": [
+   "VIGSEL Kielce Katedra 1832 nr 278: 'Antonim Xell ... s.p. Szczepana i Jadwigi z Srokow(?) Małżonków Xełów ... obojga już zmarłych'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1832 akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Szczepan Ksioł (Xeł)"
+  ]
+ },
+ {
+  "id": "jadwiga_srok",
+  "name": "Jadwiga Ksiołowa (f. Srok?)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "died": {
+   "date": "före 1832-09-03"
+  },
+  "summary": "Mor till Antoni Ksioł; flicknamn 'z Srokow' osäkert läst.",
+  "notes": [
+   "VIGSEL Kielce Katedra 1832 nr 278: 'Szczepana i Jadwigi z Srokow(?) Małżonków Xełów'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1832 akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Jadwiga Ksiołowa (f. Srok?)"
+  ]
+ },
+ {
+  "id": "sebastian_ksiol",
+  "name": "Sebastian Ksioł (Xeł)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "died": {
+   "date": "före 1835-11-23"
+  },
+  "summary": "Far till Jan Ksioł (vigsel 1835 akt 94); gift med Maryanna z Markow(?).",
+  "notes": [
+   "VIGSEL Kielce Katedra 1835 nr 94: 'z Sebastyana i Maryanny z Markow(?) Xełów obojga zmarłych'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1835 akt 94",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1835&kt=2&plik=094-099.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Sebastian Ksioł (Xeł)"
+  ]
+ },
+ {
+  "id": "maryanna_markow",
+  "name": "Maryanna Ksiołowa (f. Marków?)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "died": {
+   "date": "före 1835-11-23"
+  },
+  "summary": "Mor till Jan Ksioł; flicknamn 'z Markow(?)' osäkert läst.",
+  "notes": [
+   "VIGSEL Kielce Katedra 1835 nr 94: 'Sebastyana i Maryanny z Markow(?) Xełów obojga zmarłych'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1835 akt 94",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1835&kt=2&plik=094-099.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Maryanna Ksiołowa (f. Marków?)"
+  ]
+ },
+ {
+  "id": "mikolaj_osuch",
+  "name": "Mikołaj Osuch",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Komornik i Szydłówek; far till Agata Osuch (b. ca 1814/15); levde 1832 (vigselakt 278).",
+  "notes": [
+   "VIGSEL 1832 nr 278: 'Agatą Osuchówną córką Mikołaja i Magdaleny z Pisarzyków Małżonków Osuchów Komorników obojga żyjących w Szydłowku zamieszkałych'",
+   "VIGSEL 1835 nr 94: 'córką Mikołaja i Magdaleny z Pisarzyków Osuchowskich w Szydłowku zamieszkałych'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1832 akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   },
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1835 akt 94",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1835&kt=2&plik=094-099.jpg"
+   }
+  ],
+  "search": [
+   "Mikołaj Osuch"
+  ]
+ },
+ {
+  "id": "magdalena_pisarzyk",
+  "name": "Magdalena Osuchowa (f. Pisarzyk)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Szydłówek (Kielce)"
+  ],
+  "summary": "Mor till Agata Osuch; flicknamn 'z Pisarzyków'.",
+  "notes": [
+   "VIGSEL 1832 nr 278 och 1835 nr 94: 'Mikołaja i Magdaleny z Pisarzyków Osuchów'"
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka Kielce Katedra vigsel 1832 akt 278",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1832&kt=2&plik=273-278.jpg"
+   }
+  ],
+  "search": [
+   "Magdalena Osuchowa (f. Pisarzyk)"
   ]
  }
 ]

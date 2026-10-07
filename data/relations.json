@@ -12121,5 +12121,73 @@
   "b": "malgorzata_jaworska_szrek",
   "status": "strong",
   "basis": "Akt 532/1824: 'z Małgorzaty z Jaworskich ... żony iego'."
+ },
+ {
+  "id": "c-jan_ksiol-agata_ksiol-antonina_zatorska_n",
+  "type": "child",
+  "parents": [
+   "jan_ksiol",
+   "agata_ksiol"
+  ],
+  "child": "antonina_zatorska_n",
+  "status": "strong",
+  "basis": "Födelseakt Katedra 1839 nr 257 (Jan Xel & Agata, Szydłówek) + vigsel 1864 akt 152 ('córką Jana ... i Agaty z Osuchów')."
+ },
+ {
+  "id": "p-jan_ksiol-agata_ksiol",
+  "type": "partner",
+  "a": "jan_ksiol",
+  "b": "agata_ksiol",
+  "status": "verified",
+  "basis": "Vigsel Katedra 23.11.1835 akt 94."
+ },
+ {
+  "id": "p-antoni_ksiol_1834-agata_ksiol",
+  "type": "partner",
+  "a": "antoni_ksiol_1834",
+  "b": "agata_ksiol",
+  "status": "verified",
+  "basis": "Vigsel Katedra 3.9.1832 akt 278; Antoni död 1834 (akt 94/1835)."
+ },
+ {
+  "id": "c-szczepan_ksiol-jadwiga_srok-antoni_ksiol_1834",
+  "type": "child",
+  "parents": [
+   "szczepan_ksiol",
+   "jadwiga_srok"
+  ],
+  "child": "antoni_ksiol_1834",
+  "status": "verified",
+  "basis": "Vigsel 1832 akt 278: 's.p. Szczepana i Jadwigi z Srokow(?) Małżonków Xełów'."
+ },
+ {
+  "id": "c-sebastian_ksiol-maryanna_markow-jan_ksiol",
+  "type": "child",
+  "parents": [
+   "sebastian_ksiol",
+   "maryanna_markow"
+  ],
+  "child": "jan_ksiol",
+  "status": "verified",
+  "basis": "Vigsel 1835 akt 94: 'z Sebastyana i Maryanny z Markow(?) Xełów obojga zmarłych'."
+ },
+ {
+  "id": "c-mikolaj_osuch-magdalena_pisarzyk-agata_ksiol",
+  "type": "child",
+  "parents": [
+   "mikolaj_osuch",
+   "magdalena_pisarzyk"
+  ],
+  "child": "agata_ksiol",
+  "status": "verified",
+  "basis": "Vigsel 1832 akt 278 och 1835 akt 94."
+ },
+ {
+  "id": "p-mikolaj_osuch-magdalena_pisarzyk",
+  "type": "partner",
+  "a": "mikolaj_osuch",
+  "b": "magdalena_pisarzyk",
+  "status": "verified",
+  "basis": "Vigsel 1832 akt 278: 'Mikołaja i Magdaleny z Pisarzyków Małżonków Osuchów'."
  }
 ]
