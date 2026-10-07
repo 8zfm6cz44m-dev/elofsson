@@ -19317,21 +19317,27 @@
  },
  {
   "id": "maryanna_hencel",
-  "name": "Maryanna Hencel",
+  "name": "Maryanna Hencel (född Szrek)",
   "status": "verified",
   "sex": "f",
   "places": [
-   "Niewachlów"
+   "Niewachlów",
+   "Niewachłów"
   ],
-  "summary": "Mor till Agnieszka Hencel; Niewachlów 1866.",
+  "summary": "Mor till Agnieszka Hencel; Niewachlów 1866. Död 1880 (Niewachłów, akt 909, Kielce Katedra): \"Marjanna z Szreków\", 56 år, dotter till Mikołaj och Małgorzata, änka efter Augustyn, fem barn.",
   "notes": [
    "VIGSEL 1866 akt 94",
-   "Död Katedra 1880 akt 909: 'Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel)', 56 år, dotter till Nikolaj/Mikołaj och Małgorzata, änka efter Augustyn, efterlämnade fem barn (se maryanna_hencel_szrek_1880 – slå ihop)."
+   "Död Katedra 1880 akt 909: 'Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel)', 56 år, dotter till Nikolaj/Mikołaj och Małgorzata, änka efter Augustyn, efterlämnade fem barn (se maryanna_hencel_szrek_1880 – slå ihop).",
+   "DÖDSAKT Kielce Katedra 1880 akt 909 (ryska, transkription ur kyrilliska): 'Явились земледельцы из деревни Цегельни Францъ Брозинский шестидесяти лѣтъ и из деревни Неважелова Янъ Шрекъ семидесяти лѣтъ отъ роду и объявили что въ Неважелова ... въ три часа утра умерла Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel) пятидесяти шести лѣтъ отъ роду, дочь Николая и Малгорзаты, вдова Августа земледѣльца, оставивъ пятеро дѣтей' = Marianna Hencel f. Szrek, 56 år, dotter till Mikołaj och Małgorzata, änka efter jordbrukaren Augustyn, efterlämnade fem barn. Anmälare Franciszek Brodziński (60, Cegielnia) och Jan Szrek (70, Niewachłów – trolig släkting). Aktnummer 909 på bilden."
   ],
   "sources": [
    {
     "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra (id57) dödsbok 1880 (1880c), fil 900-911.jpg, akt 909 (Niewachłów): Marianna Hencel z Szrek",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1880c&kt=1&plik=900-911.jpg"
    }
   ],
   "living": false,
@@ -19340,8 +19346,8 @@
   ],
   "died": {
    "date": "1880-12-25",
-   "place": "Niewachłów",
-   "note": "Katedra 1880 akt 909"
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "akt 909, aktdatum 15/27 dec 1880; död 'i tre timmar' på morgonen (kl. 3) – exakt dag osäker"
   },
   "born": {
    "date": "ca 1824",
@@ -39200,39 +39206,6 @@
   ],
   "search": [
    "Walenty? Hencel (f. 15.5.1855, Niewachłów)"
-  ]
- },
- {
-  "id": "maryanna_hencel_szrek_1880",
-  "name": "Marianna Hencel z domu Szrek (d. 1880)",
-  "status": "verified",
-  "sex": "f",
-  "living": false,
-  "born": {
-   "date": "ca 1824",
-   "place": "",
-   "note": "56 år vid dödsfallet 1880"
-  },
-  "died": {
-   "date": "1880-12-25",
-   "place": "Niewachłów (Kielce Katedra)",
-   "note": "akt 909, aktdatum 15/27 dec 1880; död 'i tre timmar' på morgonen (kl. 3) – exakt dag osäker"
-  },
-  "places": [
-   "Niewachłów"
-  ],
-  "summary": "Änka efter Augustyn Hencel, dotter till Mikołaj och Małgorzata, efterlämnade fem barn. Identifierad som Augustyn Hencels hustru Maryanna Szrek.",
-  "notes": [
-   "DÖDSAKT Kielce Katedra 1880 akt 909 (ryska, transkription ur kyrilliska): 'Явились земледельцы из деревни Цегельни Францъ Брозинский шестидесяти лѣтъ и из деревни Неважелова Янъ Шрекъ семидесяти лѣтъ отъ роду и объявили что въ Неважелова ... въ три часа утра умерла Марианна Хенцель урожденная Шрекъ (Marjanna ze Szrekow Hencel) пятидесяти шести лѣтъ отъ роду, дочь Николая и Малгорзаты, вдова Августа земледѣльца, оставивъ пятеро дѣтей' = Marianna Hencel f. Szrek, 56 år, dotter till Mikołaj och Małgorzata, änka efter jordbrukaren Augustyn, efterlämnade fem barn. Anmälare Franciszek Brodziński (60, Cegielnia) och Jan Szrek (70, Niewachłów – trolig släkting). Aktnummer 909 på bilden."
-  ],
-  "sources": [
-   {
-    "label": "Skanoteka, Kielce Katedra (id57) dödsbok 1880 (1880c), fil 900-911.jpg, akt 909 (Niewachłów): Marianna Hencel z Szrek",
-    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1880c&kt=1&plik=900-911.jpg"
-   }
-  ],
-  "search": [
-   "Marianna Hencel z domu Szrek (d. 1880)"
   ]
  }
 ]
