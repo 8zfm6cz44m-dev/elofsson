@@ -36630,12 +36630,22 @@
   "notes": [
    "FOLKRÄKNING 1910 Frykerud Köpung s.28 r.29: ”Johannesson, Emanuel, f. 1844 i Frykerud, Sadelmakare”.",
    "MyHeritage Smart Match (lead, ej verifierat): minst 12 av 26 väntande träffar i andras träd (bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Berglund, Allan & Källström, Mogren, Östlund, Kjellgren) har Emanuel Johannesson f. 1844 med död 1913 (endast årtal synligt, dag/månad maskerade). Ett träd (Mogren) saknar dödsår. Beskrivningar: sko-/sadelmakare, äldre bror Johan, syskon Klara Katarina m.fl., styvbarn/pupill 'Emma Elisabeth Emanuelsdotter' som fosterbarn, sju+ barn inkl. Johan Gottfrid, Karl August(?). Ett träd (Värmlandsrötter) anger 'Linjen Stamfader Jon Olofsson'. Kontrollera dödsår 1913 mot SCB/dödbok Frykerud 1913.",
-   "Död 6 juli 1913 (inte lev. efter 1913 som MyHeritage-träden anger år 1913: årtalet stämmer). Född 23 nov 1844, döpt 24 nov 1844 (dagen osäker, 24 eller 27)."
+   "Död 6 juli 1913 (inte lev. efter 1913 som MyHeritage-träden anger år 1913: årtalet stämmer). Född 23 nov 1844, döpt 24 nov 1844 (dagen osäker, 24 eller 27).",
+   "DOP Frykerud C/6 bild 185 (s. 343), post 23 | 24, nov 1844: 'Vådbey. B: Johannes Jonass: H: Brita Maja' - barnnamn i högra kolumnen 'Emanuel' (fullständigt, ej avskuret): född 23 nov, döpt 24 nov 1844 (kolumnerna 'födda | döpta' som i övriga poster; 24 nov, inte 27).",
+   "HUSFÖRHÖR A I/19 bild 399: 'Emanuel' f. 23/11 1844 ibm, sist i Johannes Jonasons hushåll i Väsby, efter 'Son Johan' 1840 och 'Klara Katrina' 1842. Ej funnen i Väsby i A I/20 (1846-50) fol. 359 (bild 381) - flyttat."
   ],
   "sources": [
    {
     "label": "Riksarkivet, folkräkning 1910 Frykerud, Köpung, s.28 r.29: hushåll Emanuel Johannesson (sadelmakare) med sex barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043430&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6 (1806-1860), bild 185 (s. 343): 23 | 24 dec(nov) 1844, 'Vådbey. B: Johannes Jonass: H: Brita Maja' - barnet 'Emanuel'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841-1845), bild 399 (fol. 381, Wäsby): Johannes Jonarson f. 26/11 1812, H. Brita Magnus(d) f. 25/2 1810, Son Johan 15/3 1840, Klara Katrina 20/7 1842, Emanuel 23/11 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00399"
    }
   ],
   "search": [
@@ -39973,8 +39983,8 @@
  },
  {
   "id": "bh1_johannes_jonsson_vadbey",
-  "name": "Johannes Jonsson (Vådbey/Våtbäck? , Frykerud)",
-  "status": "strong",
+  "name": "Johannes Jonasson (f. 1812, Väsby, Frykerud)",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "summary": "Bonde; far till Emanuel Johannesson f. 1844 enligt dopbok Frykerud.",
@@ -39982,17 +39992,33 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/6 C0037139 (1806-1860), bild 185 (s. 343): nr 23 född 23, döpt 24(?) nov 1844",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841-1845), bild 399 (fol. 381, Wäsby): Johannes Jonarson f. 26/11 1812, H. Brita Magnus(d) f. 25/2 1810, Son Johan 15/3 1840, Klara Katrina 20/7 1842, Emanuel 23/11 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00399"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6 (1806-1860), bild 185 (s. 343): 23 | 24 dec(nov) 1844, 'Vådbey. B: Johannes Jonass: H: Brita Maja' - barnet 'Emanuel'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
    }
   ],
   "places": [],
   "search": [
    "Johannes Jonsson (Vådbey/Våtbäck? , Frykerud)"
+  ],
+  "born": {
+   "date": "1812-11-26",
+   "place": "Frykerud",
+   "note": "husförhör A I/19 bild 399: 26/11 1812 'ibm'"
+  },
+  "notes": [
+   "HUSFÖRHÖR Frykerud A I/19 bild 399, fol. 381, Wäsby: 'Bd Gd Johannes Jonarson' (läsning: Jonasson; dopet 1844 'Jonass:') f. 26/11 1812 ibm. Fadersnamnet är alltså Jonasson, inte Jonsson. Orten 'Vådbey' i dopet = Väsby (fol. 380-381 i A I/19; fol. 359 i A I/20) - inte Våtbäck."
   ]
  },
  {
   "id": "bh1_brita_maja_vadbey",
-  "name": "Brita Maja (patronym ej läsbart), hustru till Johannes Jonsson",
-  "status": "strong",
+  "name": "Brita Maja Magnusdotter (Väsby, Frykerud)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "summary": "Mor till Emanuel f. 1844.",
@@ -40000,11 +40026,83 @@
    {
     "label": "samma dopinlägg",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841-1845), bild 399 (fol. 381, Wäsby): Johannes Jonarson f. 26/11 1812, H. Brita Magnus(d) f. 25/2 1810, Son Johan 15/3 1840, Klara Katrina 20/7 1842, Emanuel 23/11 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00399"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6 (1806-1860), bild 185 (s. 343): 23 | 24 dec(nov) 1844, 'Vådbey. B: Johannes Jonass: H: Brita Maja' - barnet 'Emanuel'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00185"
    }
   ],
   "places": [],
   "search": [
    "Brita Maja (patronym ej läsbart), hustru till Johannes Jonsson"
+  ],
+  "born": {
+   "date": "1810-02-25",
+   "place": "Frykerud",
+   "note": "husförhör A I/19 bild 399: 25/2 1810 'ibm'"
+  },
+  "notes": [
+   "HUSFÖRHÖR A I/19 bild 399: 'H. Brita Magnus(d)' f. 25/2 1810 ibm; dopet 1844: 'H: Brita Maja'. Fullt namn sannolikt Brita Maja Magnusdotter (avskuret/förkortat i husförhöret; ändelsen -dotter oläst)."
+  ]
+ },
+ {
+  "id": "bh1_johan_johannesson40_vasby",
+  "name": "Johan Johannesson (f. 1840, Väsby, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1840-03-15",
+   "place": "Frykerud",
+   "note": "husförhör A I/19 bild 399: 'ibm' (= Frykerud)"
+  },
+  "places": [
+   "Väsby, Frykerud"
+  ],
+  "summary": "Äldre bror till Emanuel Johannesson (f. 1844); son till Johannes Jonasson och Brita Magnusdotter i Väsby.",
+  "notes": [
+   "HUSFÖRHÖR Frykerud A I/19 (1841-45) bild 399, fol. 381, Wäsby: 'Son Jahan' f. 15/3 1840 'ibm', i hushållet Johannes Jonarson (f. 26/11 1812) / 'H. Brita Magnus(d)' (f. 25/2 1810)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841-1845), bild 399 (fol. 381, Wäsby): Johannes Jonarson f. 26/11 1812, H. Brita Magnus(d) f. 25/2 1810, Son Johan 15/3 1840, Klara Katrina 20/7 1842, Emanuel 23/11 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00399"
+   }
+  ],
+  "search": [
+   "Johan Johannesson (f. 1840, Väsby, Frykerud)"
+  ]
+ },
+ {
+  "id": "bh1_klara_katrina_johannesd42_vasby",
+  "name": "Klara Katrina Johannesdotter (f. 1842, Väsby, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1842-07-20",
+   "place": "Frykerud",
+   "note": "husförhör: 'ibm'"
+  },
+  "places": [
+   "Väsby, Frykerud"
+  ],
+  "summary": "Syster till Emanuel Johannesson (f. 1844); står i Johannes Jonassons hushåll i Väsby.",
+  "notes": [
+   "HUSFÖRHÖR Frykerud A I/19 bild 399 (fol. 381): 'Klara Katrina' f. 20/7 1842 'ibm' (utan uttrycklig familjeställning, indragen under Johannes/Brita Magnus(d)); stämmer med MyHeritage-trädets syster Klara Katarina."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841-1845), bild 399 (fol. 381, Wäsby): Johannes Jonarson f. 26/11 1812, H. Brita Magnus(d) f. 25/2 1810, Son Johan 15/3 1840, Klara Katrina 20/7 1842, Emanuel 23/11 1844",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00399"
+   }
+  ],
+  "search": [
+   "Klara Katrina Johannesdotter (f. 1842, Väsby, Frykerud)"
   ]
  }
 ]

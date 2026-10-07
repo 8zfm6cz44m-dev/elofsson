@@ -12206,15 +12206,53 @@
    "bh1_brita_maja_vadbey"
   ],
   "child": "aq3_emanuel_johannesson44",
-  "status": "strong",
-  "basis": "Dopbok Frykerud C/6 (1844) bild 185: ”23 | 24(?) Vådbey. Bd Johannes Jonass: H. Brita Maja [patronym ofullständig] — Eman[uel]” (barnnamnet skymmer ut i bildkanten men börjar ”Eman”; födelsedag 23 nov stämmer med SCB 23/11 1844). strong, inte verified: namnet i sista kolumnen ej helt läst och byn osäker."
+  "status": "verified",
+  "basis": "Dop C/6 bild 185: 'Vådbey. B: Johannes Jonass: H: Brita Maja' / 'Emanuel' f. 23, döpt 24 nov 1844; husförhör A I/19 bild 399 Wäsby: Emanuel f. 23/11 1844 i hushållet Johannes Jonarson / H. Brita Magnus(d)."
  },
  {
   "id": "p-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey",
   "type": "partner",
   "a": "bh1_johannes_jonsson_vadbey",
   "b": "bh1_brita_maja_vadbey",
+  "status": "verified",
+  "basis": "samma dopinlägg VERIFIERAD (omgång 35): husförhör Frykerud A I/19 (C0037120) bild 399 fol. 381, Wäsby: ”Johannes … H. Brita Magnus(d)” i samma hushåll med barnen Johan 1840, Klara Katrina 1842, Emanuel 1844."
+ },
+ {
+  "id": "c-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey-bh1_johan_johannesson40_vasby",
+  "type": "child",
+  "parents": [
+   "bh1_johannes_jonsson_vadbey",
+   "bh1_brita_maja_vadbey"
+  ],
+  "child": "bh1_johan_johannesson40_vasby",
+  "status": "verified",
+  "basis": "Husförhör A I/19 bild 399: 'Son Jahan' f. 15/3 1840 ibm i hushållet Johannes Jonarson / H. Brita Magnus(d)."
+ },
+ {
+  "id": "c-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey-bh1_klara_katrina_johannesd42_vasby",
+  "type": "child",
+  "parents": [
+   "bh1_johannes_jonsson_vadbey",
+   "bh1_brita_maja_vadbey"
+  ],
+  "child": "bh1_klara_katrina_johannesd42_vasby",
   "status": "strong",
-  "basis": "samma dopinlägg"
+  "basis": "Husförhör A I/19 bild 399: 'Klara Katrina' f. 20/7 1842 ibm i samma hushåll, utan uttrycklig familjeställning."
+ },
+ {
+  "id": "s-bh1_johan_johannesson40_vasby-aq3_emanuel_johannesson44",
+  "type": "sibling",
+  "a": "bh1_johan_johannesson40_vasby",
+  "b": "aq3_emanuel_johannesson44",
+  "status": "verified",
+  "basis": "Samma hushåll, husförhör A I/19 bild 399."
+ },
+ {
+  "id": "s-bh1_klara_katrina_johannesd42_vasby-aq3_emanuel_johannesson44",
+  "type": "sibling",
+  "a": "bh1_klara_katrina_johannesd42_vasby",
+  "b": "aq3_emanuel_johannesson44",
+  "status": "strong",
+  "basis": "Samma hushåll, husförhör A I/19 bild 399."
  }
 ]

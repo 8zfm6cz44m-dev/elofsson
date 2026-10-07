@@ -3772,6 +3772,23 @@
     "fr_kerstinnilsd1727_lene",
     "karin_nilsdotter19"
    ]
+  },
+  {
+   "title": "Kajsa Gudmundsdotter f. 3/7 1850: ingen dopost i Frykerud",
+   "text": "Frykerud C/6 jul 1850 (bild 206 höger sida, poster 3/4 jul-31/7) och aug-dec 1850 (bild 207) saknar Gudmundsdotter född 3 juli; folkräkning 1910 anger födelseort Östra Ämtervik. Troligen döpt i Ö Ämtervik - föräldrar/syskon (ev. Nils, Lars Magnus d. späda) ej belagda.",
+   "persons": [
+    "aq3_kajsa_gudmundsd50"
+   ]
+  },
+  {
+   "title": "Christopher Svensson f. 1754: ej hos föräldrar på Såldebråten 1753-71 och ej i Frykerud-dop okt 1754",
+   "text": "A I/6 (1753-59) fol. 48 Säldebråten (bild 66) och A I/7 (1759-71) fol. 1 Såldebråten (bild 13) har Pål Andersson, Nils Börjesson och Mats/Anders Pålsson-hushåll, ingen Sven Ersson/Christopher. Dublett christopher_svensson54 = christopher_svensson_saldebraten är fortsatt MyHeritage-hypotes (samma födelsedag 21/10 1754, d. 1803, Såldebråten); ej sammanslagen. Föräldrarna Sven Ersson/Karin Nilsdotter oprövade (ev. annan socken).",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "christopher_svensson54",
+    "sven_ersson",
+    "karin_nilsdotter19"
+   ]
   }
  ],
  "conflicts": [
@@ -4327,6 +4344,14 @@
    "text": "SCB död Boda 1917 bild A0031330_00244 nr 15 anger f. 1845 18/11; vår post (husförhör Boda A I/22) har 18/12 1845. Dödsår 1917 stämmer.",
    "persons": [
     "johanna_persdotter_remstad"
+   ]
+  },
+  {
+   "title": "Emanuels far: Jonasson (källa) mot Jonsson (vårt id/namn)",
+   "text": "Dopet 1844: 'Johannes Jonass:'; husförhöret: 'Johannes Jonarson' (läst Jonasson), f. 26/11 1812 Frykerud. Vårt id bh1_johannes_jonsson_vadbey/namnet 'Jonsson' bör rättas till Jonasson. Orten 'Vådbey' = Väsby (Wäsby), inte Våtbäck.",
+   "persons": [
+    "bh1_johannes_jonsson_vadbey",
+    "aq3_emanuel_johannesson44"
    ]
   }
  ],
