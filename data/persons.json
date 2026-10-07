@@ -22792,7 +22792,8 @@
    "HUSFÖRHÖR Boda A I/22 bild 164 (s.168), Renstad: ”Pig. Johanna Persdotter” 45 ¹⁸⁄₁₂ Boda, kolumn Äktenskap ”²²⁄₄ 67”, flytt till ”p.171 67”; anmärkning: ”Lysn. t. äkt. med Dr. Nils Andersson i Östra Takene, Brunskogs S:n pag. 188”. Ortnamnet är alltså Renstad (ej ’Remstad’). Vigsel 22/4 1867; föräldrar ej angivna (vigselbok ej digitaliserad efter 1860).",
    "Därefter i Boda: p.171 Renstad (1867), p.157 Nordsjö (1868), p.156 Nordsjö (1870): ”Johanna Persdotter” 45 18/12 Boda.",
    "FOLKRÄKNING 1880–1910: med maken Nils Andersson i Boda (Nordsjö), f. 1845 Boda.",
-   "MyHeritage Smart Match (lead, 2 träffar, båda lästa): f. 18 dec 1845 Boda, DÖD 1917 (årtal; ej i vårt träd). NYA SYSKON: Stina Persdotter (+5 fler = 6 syskon, ett träd). Barn: Kristina Nilsdotter +9 fler (dvs. 10 barn; vårt träd har 9 barn i trädet - ett barn kan saknas), samt 'Emelia Emanuelsson (född Nilsdotter)' (dotter). Gift Nils Andersson Elofsson. Kontrollera: 10:e barnet, död 1917, syskonet Stina Persdotter."
+   "MyHeritage Smart Match (lead, 2 träffar, båda lästa): f. 18 dec 1845 Boda, DÖD 1917 (årtal; ej i vårt träd). NYA SYSKON: Stina Persdotter (+5 fler = 6 syskon, ett träd). Barn: Kristina Nilsdotter +9 fler (dvs. 10 barn; vårt träd har 9 barn i trädet - ett barn kan saknas), samt 'Emelia Emanuelsson (född Nilsdotter)' (dotter). Gift Nils Andersson Elofsson. Kontrollera: 10:e barnet, död 1917, syskonet Stina Persdotter.",
+   "BK1: SCB död Boda 1917, bild A0031330_00244 (nr 15): ”Enkan Johanna Andersson f. Persd, från Nordsjö”, f. 45 18/11. Dödsår 1917 stämmer; namn (f. Persdotter, g. Andersson) + födelseår 1845 + Boda stämmer. AVVIKELSE: SCB anger födelsedag 18/11, vår post 18/12 1845 (husförhör Boda A I/22) – kontrollera; boplats Nordsjö (inte Remstad). Maken Nils Andersson (1844) död före 1917 (enka)."
   ],
   "sources": [
    {
@@ -22827,6 +22828,11 @@
    "date": "1845-12-18",
    "place": "Boda",
    "note": "husförhör Boda A I/22 sida 168/171/157/156: f. 18/12 1845 Boda"
+  },
+  "died": {
+   "date": "1917-04-26",
+   "place": "Boda",
+   "note": "SCB död Boda 1917 bild A0031330_00244, nr 15: \"Enkan Johanna Andersson f. Persd[otter], från Nordsjö\", f. 1845 18/11 (vår post har 18/12 1845), död april 26."
   }
  },
  {
@@ -25129,7 +25135,8 @@
   "summary": "Johannes Zetterlunds hustru.",
   "notes": [
    "FOLKRÄKNING 1900 (Folk_109937907): ”Andersdotter, Magdalena, f. 1853 i Brunskog, Civilstånd Gift, Familjeställning h.” i hushållet med Sätterlund, Johannes. 1890 ”Andersdotter, Magdalena f. 1853”. 1910 samma, familjeställning ”h.”, Ny Tostebol. 1930 (Folk_128986020, Andersson, Magdalena) Eda Åmot med Johannes. Vigselår 1875 enligt 1930.",
-   "MyHeritage Smart Match (lead, 46 träffar; 12 lästa; ägare bl.a. Salvesen, Johansson, Schroder, Steiner, Martha Gay Anderson, Edén, Carlsson, Norberg, Persson, Vennergren, Alenvik): f. 1853, DÖD 1937 (årtal; ej i vårt träd), gift Johannes Zetterlund. NYTT SYSKON: Olof Andersson (+3 fler syskon, dvs. 4 syskon totalt; namn maskerade). Barn Anna Lydia Johannesson Hultgren (född Zetterlund) m.fl. (+7 = 8 barn, stämmer med vårt träd). Ett träd anger bouppteckning/sparbank 'b s 143. Behållning 1168:95 Kr'. STARK träff; föräldrar maskerade. Kontrollera död 1937 och syskon Olof m.fl. i Brunskog dop 1853 +/-."
+   "MyHeritage Smart Match (lead, 46 träffar; 12 lästa; ägare bl.a. Salvesen, Johansson, Schroder, Steiner, Martha Gay Anderson, Edén, Carlsson, Norberg, Persson, Vennergren, Alenvik): f. 1853, DÖD 1937 (årtal; ej i vårt träd), gift Johannes Zetterlund. NYTT SYSKON: Olof Andersson (+3 fler syskon, dvs. 4 syskon totalt; namn maskerade). Barn Anna Lydia Johannesson Hultgren (född Zetterlund) m.fl. (+7 = 8 barn, stämmer med vårt träd). Ett träd anger bouppteckning/sparbank 'b s 143. Behållning 1168:95 Kr'. STARK träff; föräldrar maskerade. Kontrollera död 1937 och syskon Olof m.fl. i Brunskog dop 1853 +/-.",
+   "BK1: ej funnen i SCB död Brunskog 1937 (alla poster nr 1–53, bild A0032801_00743–00747; ingen f. 1853 Magdalena Andersdotter/Zetterlund). Dödsår 1937 ej bekräftat; Boda 1937 delvis sett (bild 00748–00750) utan träff."
   ],
   "sources": [
    {
@@ -25608,7 +25615,8 @@
   "summary": "Hustru till Olof Eriksson (f. 2/5 1815), inflyttad till Ö. Takene 1847 från sid. 129; mor till Betty (1850).",
   "notes": [
    "HUSFÖRHÖR A I/23 (1846–50) bild 144 (s. 142), Ö. Takene: ”B. Dr Olof Ersson 2/5 15 Brunskog”, ”Hustru Maria Olofsdr 16/9 23 ibm, inflyttad 129 – 47”, ”Dotter Betty 22/6 50 ibm”. Anmärkning vid Olof: ”Utgjit lysning till äktenskap med Pig. Maria Olsdr i Takene”.",
-   "MyHeritage Smart Match (lead, 1 träff, läst): f. 16 sep 1823 Brunskog, DÖD 1910 (årtal). NYA SYSKON: Peter Olofsson (+2 fler syskon). Barn: Erik Eriksson (+6 fler = 7 barn; vårt träd har dotter Betty). Gift Olof Eriksson f. 1815. Kontrollera död 1910 och syskon Peter Olofsson i Brunskog dop 1823."
+   "MyHeritage Smart Match (lead, 1 träff, läst): f. 16 sep 1823 Brunskog, DÖD 1910 (årtal). NYA SYSKON: Peter Olofsson (+2 fler syskon). Barn: Erik Eriksson (+6 fler = 7 barn; vårt träd har dotter Betty). Gift Olof Eriksson f. 1815. Kontrollera död 1910 och syskon Peter Olofsson i Brunskog dop 1823.",
+   "BK1: ej funnen i SCB död Brunskog 1910 (alla 84 poster, bild A0030843_01280–01288 genomlästa; ingen f. 1823). Dödsår 1910 från MyHeritage ej bekräftat – kan vara fel år/socken."
   ],
   "sources": [
    {
@@ -26367,7 +26375,8 @@
   "summary": "Hemmansägare i Svartåna; gift med Betty Olsdotter (f. 1850), svärson till Olof Eriksson (f. 1815).",
   "notes": [
    "FOLKRÄKNING 1890/1900 Svartåna: hushåll Fam 1 Per Gustaf Nilsson 1846, Betty Olsdotter 1850, Maria Kristina 1876, Anna Elisabeth 1879, Johan Fridolf 1883; Fam 2 Olof Eriksson 1815 med familjeställning ”svärfad.”/”svärf.”",
-   "MyHeritage Smart Match (lead, 6 träffar, alla lästa): f. 1846, DÖD 1935 (årtal; ej i vårt träd). NYTT SYSKON: Johannes Nilsson (+4 fler syskon, ett träd); barn Maria Kristina Andersson (född P...) m.fl. (stämmer med vårt barn Maria Kristina). STARK på barn+år, föräldrar maskerade. Kontrollera död 1935 (Brunskog) och syskon Johannes Nilsson."
+   "MyHeritage Smart Match (lead, 6 träffar, alla lästa): f. 1846, DÖD 1935 (årtal; ej i vårt träd). NYTT SYSKON: Johannes Nilsson (+4 fler syskon, ett träd); barn Maria Kristina Andersson (född P...) m.fl. (stämmer med vårt barn Maria Kristina). STARK på barn+år, föräldrar maskerade. Kontrollera död 1935 (Brunskog) och syskon Johannes Nilsson.",
+   "BK1: SCB död Brunskog 1935, bild A0032707_01100 (nr 31): ”Per Gustaf Nilsson, hem. ag., Svartåna” (bostadsordet delvis oläsligt), f. 46 21/10 (=21/10 1846). Namn + födelseår 1846 + hemmansägare + Svartåna stämmer. Dödsår 1935 bekräftat."
   ],
   "sources": [
    {
@@ -26381,7 +26390,12 @@
   ],
   "search": [
    "Per Gustaf Nilsson"
-  ]
+  ],
+  "died": {
+   "date": "1935-07-08",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1935 bild A0032707_01100, nr 31: \"Per Gustaf Nilsson, hem. ag., Svartåna(?)\", f. 1846 21/10, död juli 8, orsak ålderdomssvaghet."
+  }
  },
  {
   "id": "maria_kristina_pgn_1876",
@@ -26500,7 +26514,8 @@
   "notes": [
    "FOLKRÄKNING 1880/1890/1900 Ö. Takene: Maria Eriksdotter f. 1836 Brunskog i Kristoffer Erikssons hushåll",
    "FOLKRÄKNING 1910 Takene s. 28 rad 38: Maria Eriksdotter f. 1836 Brunskog, inhyses (änka efter Kristoffer?), hos dottern Karin Kristoffersson 1873 – Kristoffer Eriksson (f. 1835) ej i 1910 → död före 1910 (ej verifierat).",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 4 träffar (person 3000475). Stark på år: Maria Eriksson/Ersson f. Eriksdotter, f. 1836, d. 1918 (4 träd, sannolikt kopior; trädägare bl.a. Olsson, Lundkvist, Levin). NYA: syskon Britta Olsson (f. Eriksdotter) + fler; barn Erik Kristoffersson +3 (stämmer med våra 4 barn: Erik, Britta, Karin, Maria). Nytt: dödsår 1918. Kontrollera Brunskog dödbok 1918; syskon Britta Eriksdotter (g. Olsson) – jämför ev. dubblett britta_olsd53."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 4 träffar (person 3000475). Stark på år: Maria Eriksson/Ersson f. Eriksdotter, f. 1836, d. 1918 (4 träd, sannolikt kopior; trädägare bl.a. Olsson, Lundkvist, Levin). NYA: syskon Britta Olsson (f. Eriksdotter) + fler; barn Erik Kristoffersson +3 (stämmer med våra 4 barn: Erik, Britta, Karin, Maria). Nytt: dödsår 1918. Kontrollera Brunskog dödbok 1918; syskon Britta Eriksdotter (g. Olsson) – jämför ev. dubblett britta_olsd53.",
+   "BK1: SCB död Brunskog 1918, bild A0031407_00247 (nr 86): ”Maria Erikson, född Eriksd, enka, Takene”, f. 36 13/12 (=13/12 1836). Namn + födelseår + Takene stämmer; enka 1918 (maken Kristoffer Eriksson död före)."
   ],
   "sources": [
    {
@@ -26522,7 +26537,12 @@
   ],
   "search": [
    "Maria Eriksdotter (f. 1836, hustru till Kristoffer Eriksson)"
-  ]
+  ],
+  "died": {
+   "date": "1918-12-07",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1918 bild A0031407_00247, nr 86: \"Maria Erikson, född Eriksd, enka, Takene\", f. 1836 13/12, död dec 7, orsak ålder."
+  }
  },
  {
   "id": "erik_kc_1862",
@@ -26992,7 +27012,8 @@
   "summary": "Hustru till Jonas Ersson (f. 1822 Brunskog), Nolsjö/Nordsjö i Boda.",
   "notes": [
    "FOLKRÄKNING 1880/1900 Nordsjö/Nolsjö, Boda",
-   "MyHeritage Smart Match (lead, 10 träffar, alla lästa; ägare bl.a. Olsson/Pär Olsson, Dahl/Helena Holte Glöersen, Anne-Marie Mårtensson, Høgmoe/Lund/Svensson, Berglund, Roos, Rune Larsson): f. 1831, DÖD 1915 (endast årtal; ej i vårt träd). Namnformer 'Britta Ersson/Brita Erson (född Jonasdotter)'. Syskon: Kajsa Nilsson (född Jonasdotter) / Kajsa Eriksdotter / Kajsa Jonasdotter + 3-6 fler syskon (namn maskerade). Barn: Erik Jonasson/Erik Johan Jonasson (ett träd: 'Erik Jonasson, USA 1882', dvs. utvandrad) +5 fler barn. Stark träff på namn+år+make Jonas Eriksson; kontrollera död 1915 och syskonskaran (Kajsa Jonasdotter gift Nilsson) i Boda/Brunskog."
+   "MyHeritage Smart Match (lead, 10 träffar, alla lästa; ägare bl.a. Olsson/Pär Olsson, Dahl/Helena Holte Glöersen, Anne-Marie Mårtensson, Høgmoe/Lund/Svensson, Berglund, Roos, Rune Larsson): f. 1831, DÖD 1915 (endast årtal; ej i vårt träd). Namnformer 'Britta Ersson/Brita Erson (född Jonasdotter)'. Syskon: Kajsa Nilsson (född Jonasdotter) / Kajsa Eriksdotter / Kajsa Jonasdotter + 3-6 fler syskon (namn maskerade). Barn: Erik Jonasson/Erik Johan Jonasson (ett träd: 'Erik Jonasson, USA 1882', dvs. utvandrad) +5 fler barn. Stark träff på namn+år+make Jonas Eriksson; kontrollera död 1915 och syskonskaran (Kajsa Jonasdotter gift Nilsson) i Boda/Brunskog.",
+   "BK1: SCB död Boda (annex) 1915, bild A0031187_00259 (nr 25): ”Britta Jonasdotter, f. d. egare-enka, Nordsjö”, f. 31 19/3 (=19/3 1831). Namn + födelseår 1831 + Nordsjö stämmer; enka 1915 (maken Jonas Ersson död före). Dödsår 1915 bekräftat."
   ],
   "sources": [
    {
@@ -27006,7 +27027,12 @@
   ],
   "search": [
    "Britta Jonasdotter (f. 1831, Boda; hustru till Jonas Ersson)"
-  ]
+  ],
+  "died": {
+   "date": "1915-10-24",
+   "place": "Boda",
+   "note": "SCB död Boda 1915 bild A0031187_00259, nr 25: \"Britta Jonasdotter, f. d. egare-enka, Nordsjö\", f. 1831 19/3, död okt 24, orsak blåskatarr+urinspärr (osäker)."
+  }
  },
  {
   "id": "erik_johan_jec_1857",
@@ -27818,7 +27844,8 @@
   "summary": "Åbo i Nolby, Brunskog 1880; gift med Britta Elofsdotter f. 1824 (dotter till Elof Persson, Ö. Takene).",
   "notes": [
    "FOLKRÄKNING 1880 Brunskog, Nohlby, sida 12 rad 36–44, fam. nr 1: Adamsson, Per f. 1816 i Boda, Åbo; hustru Elofsdotter, Britta f. 1824 i Brunskog (Familjeställning ”h.”).",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 13 väntande träffar (sida 1 av 2 läst; person 3000513 i MyHeritage-trädet Elofsson_slakttrad_2026-10-07). Stark träff på namn+år: f. 1816, d. 1891 i ~10 av 12 träd (ett träd d. 1881; flera träd är kopior av 'Carlson Tree'/Don Carlson, Lindqvist, larsson m.fl.). NYA: syskon Jonas Adamsson (6 av trädens syskonlistor, totalt 5-7 syskon), Olof Adamsson (Cramne-trädet); barn 'Anders Persson' + 7-13 fler (vårt träd har 6 barn: Johannes, Emil, Adolf, Kristina, Anna Lisa, Karin – alltså kan 5-7 barn saknas, ev. äldre kull/namn Anders). Kontrollera: Boda dopbok 1816 (Per Adamsson, föräldrar -> Adam ...), Boda dödbok 1891, husförhör Nolby för barnlista."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 13 väntande träffar (sida 1 av 2 läst; person 3000513 i MyHeritage-trädet Elofsson_slakttrad_2026-10-07). Stark träff på namn+år: f. 1816, d. 1891 i ~10 av 12 träd (ett träd d. 1881; flera träd är kopior av 'Carlson Tree'/Don Carlson, Lindqvist, larsson m.fl.). NYA: syskon Jonas Adamsson (6 av trädens syskonlistor, totalt 5-7 syskon), Olof Adamsson (Cramne-trädet); barn 'Anders Persson' + 7-13 fler (vårt träd har 6 barn: Johannes, Emil, Adolf, Kristina, Anna Lisa, Karin – alltså kan 5-7 barn saknas, ev. äldre kull/namn Anders). Kontrollera: Boda dopbok 1816 (Per Adamsson, föräldrar -> Adam ...), Boda dödbok 1891, husförhör Nolby för barnlista.",
+   "BK1: SCB död Brunskog 1891 (Dödbok för Brunskogs norra församling, blad 4), bild A0036522_00721: ”Adamsson Per, f. d. åbo, Nolby”, ålder 74 år 10 mån 27 dagar. Stämmer med f. 1816 och Nolby. MyHeritage-leadens dödsår 1891 bekräftat (namn + ålder + bosättning)."
   ],
   "sources": [
    {
@@ -27835,7 +27862,12 @@
   ],
   "search": [
    "Per Adamsson (f. 1816 Boda), åbo Nolby"
-  ]
+  ],
+  "died": {
+   "date": "1891-04-04",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1891 bild A0036522_00721: \"Adamsson Per, f. d. åbo, Nolby\", 74 år 10 mån 27 dagar, död april 4 (dag osäker 3/4). Ålder ger f. ca maj 1816."
+  }
  },
  {
   "id": "johannes_pa50",
@@ -29541,7 +29573,8 @@
   "summary": "Hustru till Olof Andersson (f. 1841) på Skog 1900; död före 1910 (Olof änkling 1910).",
   "notes": [
    "FOLKRÄKNING 1900 Skog (Folk_109937586, sida 20 rad 4): Jansdotter, Betty f. 1853 Brunskog, Gift, ”h.” i Olof Anderssons hushåll; dotter Alma Karolina f. 1896. Folkräkning 1910: Olof änkling.",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 15 träffar (person 3000562). Stark: Betty Andersson f. Jansdotter, f. 1853, d. 1910 (alla träd). NYA: syskon Anna Jansdotter +4-5 syskon; barn Alma Carolina Olofsdotter (stämmer med Alma Karolina) – inga nya barn synliga; ett träd anger 'Alma Carolina Rinberg (född Jansdotter)' (felaktigt patronymikon). Nytt: dödsår 1910. Kontrollera dödbok Brunskog 1910; dopbok 1853 Skog -> föräldrar (Jan ...), syskon Anna Jansdotter."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 15 träffar (person 3000562). Stark: Betty Andersson f. Jansdotter, f. 1853, d. 1910 (alla träd). NYA: syskon Anna Jansdotter +4-5 syskon; barn Alma Carolina Olofsdotter (stämmer med Alma Karolina) – inga nya barn synliga; ett träd anger 'Alma Carolina Rinberg (född Jansdotter)' (felaktigt patronymikon). Nytt: dödsår 1910. Kontrollera dödbok Brunskog 1910; dopbok 1853 Skog -> föräldrar (Jan ...), syskon Anna Jansdotter.",
+   "BK1: SCB död Brunskog 1910, bild A0030843_01280 (nr 6): ”Betty Jansson, h. till Hemm. Olof Andersson, Skog”, f. 1853 24/12 (osäker läsning av månad). Dödsår 1910 bekräftat, make Olof Andersson, Skog."
   ],
   "sources": [
    {
@@ -29551,7 +29584,12 @@
   ],
   "search": [
    "Betty Jansdotter (f. 1853, Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1910-01-24",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1910 bild A0030843_01280, nr 6: \"Betty Jansson, h. till Hemm. Olof Andersson – Skog\", f. 1853 24/12 (månad osäker 11/12), död januari 24 (osäker)."
+  }
  },
  {
   "id": "alma_karolina_oa96",
@@ -30542,7 +30580,8 @@
   "summary": "Hustru till folkskolläraren Nils Zetterlund; f. 1835 i Ölme; mor till åtta barn födda i Sunne 1865–79.",
   "notes": [
    "FOLKRÄKNING 1880 Sunne: ”Jansdotter, Lovisa, f. 1835 i Ölme” i Nils Zetterlunds hushåll (hustru); samma 1890 och 1900.",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 18 träffar (person 3000594). Stark: Lovisa Zetterlund f. Jansdotter, f. 1835, d. 1904; barn Augusta Teodora Zetterlund + 7-8 fler (stämmer med våra 8 barn: inga nya namn i synliga fält; ett träd har annan barnlista). Syskon ej synliga. Nytt: dödsår 1904. Kontrollera dödbok/husförhör (Ölme/Boda) 1904; födelse Ölme 1835 -> föräldrar."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 18 träffar (person 3000594). Stark: Lovisa Zetterlund f. Jansdotter, f. 1835, d. 1904; barn Augusta Teodora Zetterlund + 7-8 fler (stämmer med våra 8 barn: inga nya namn i synliga fält; ett träd har annan barnlista). Syskon ej synliga. Nytt: dödsår 1904. Kontrollera dödbok/husförhör (Ölme/Boda) 1904; födelse Ölme 1835 -> föräldrar.",
+   "BK1: SCB död Arvika köping 1904, bild A0030656_01321 (nr 22): ”Lovisa Jansdotter, hustru till f.d. folkskolläraren Nils Zetterlund fr N:o 137”, f. 35 9/12 (=9/12 1835). Namn + make Nils Zetterlund + födelseår 1835 stämmer. Dödsår 1904 bekräftat; död i Arvika (inte Sunne). Sunne 1904 (bild A0030656_01360–01374, nr 1–150) genomläst utan träff."
   ],
   "sources": [
    {
@@ -30560,7 +30599,12 @@
   ],
   "search": [
    "Lovisa Jansdotter (g. Zetterlund)"
-  ]
+  ],
+  "died": {
+   "date": "1904-03-18",
+   "place": "Arvika",
+   "note": "SCB död Arvika (köpingen) 1904 bild A0030656_01321, nr 22: \"Lovisa Jansdotter, hustru till f.d. folkskolläraren Nils Zetterlund fr N:o 137\", f. 1835 9/12, död mars 18, orsak tuberculosis pulmonum."
+  }
  },
  {
   "id": "z_augusta_teodora",
@@ -36619,7 +36663,8 @@
   "summary": "Hustru till sadelmakare Emanuel Johannesson i Köpung, Frykerud.",
   "notes": [
    "FOLKRÄKNING 1910 Frykerud Köpung s.28: ”Gudmunsdotter, Kajsa, f. 1850 i Östra Ämtervik”.",
-   "MyHeritage Smart Match (lead, 26 träffar; 12 lästa; ägare bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Martinez, Gjerstad, Kjellgren, Smedberg, Berglund, Östlund): f. 1850, död 1922 (endast årtal). STARK träff (alla 12 stämmer: gift Emanuel Johannesson, 7+ barn inkl. Johan Gottfrid, fosterbarn/pupill Emma Elisabeth Emanuelsdotter). NYA SYSKON (föräldrar maskerade): Nils Gudmundsson ('Nr 1, blev 1 år' = dog som spädbarn), Lars Magnus Gudmundsson ('Nr 1, dog nyfödd'); träffarna anger +9 (upp till 10) syskon; ett träd anger att hon är syster till Maria (i 'Wi/us'?). Trädägarna ser ut som kopior av Värmlandsrötter. Kontrollera: dop Östra Ämtervik 1850, död 1922, föräldrar och syskonskaran."
+   "MyHeritage Smart Match (lead, 26 träffar; 12 lästa; ägare bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Martinez, Gjerstad, Kjellgren, Smedberg, Berglund, Östlund): f. 1850, död 1922 (endast årtal). STARK träff (alla 12 stämmer: gift Emanuel Johannesson, 7+ barn inkl. Johan Gottfrid, fosterbarn/pupill Emma Elisabeth Emanuelsdotter). NYA SYSKON (föräldrar maskerade): Nils Gudmundsson ('Nr 1, blev 1 år' = dog som spädbarn), Lars Magnus Gudmundsson ('Nr 1, dog nyfödd'); träffarna anger +9 (upp till 10) syskon; ett träd anger att hon är syster till Maria (i 'Wi/us'?). Trädägarna ser ut som kopior av Värmlandsrötter. Kontrollera: dop Östra Ämtervik 1850, död 1922, föräldrar och syskonskaran.",
+   "BK1: SCB död Frykerud 1922, bild A0032243_00347 (nr 40): ”Kajsa Johansson f. Gudmunds…, [sadel]makaren, Köpung”, f. 50 3/7 (=3/7 1850). Namn + födelseår 1850 + Köpung + maken sadelmakare stämmer; ordet efter Gudmunds- delvis oläsligt. Dödsår 1922 bekräftat."
   ],
   "sources": [
    {
@@ -36629,7 +36674,12 @@
   ],
   "search": [
    "Kajsa Gudmundsdotter (f. 1850, Östra Ämtervik)"
-  ]
+  ],
+  "died": {
+   "date": "1922-07-11",
+   "place": "Frykerud",
+   "note": "SCB död Frykerud 1922 bild A0032243_00347, nr 40: \"Kajsa Johansson f. Gudmunds[dotter?], ... sadelmakaren, Köpung\", f. 1850 3/7, död juli 11, orsak Cancer."
+  }
  },
  {
   "id": "aq3_johangottfrid_emanuelsson73",
@@ -37379,7 +37429,8 @@
   "summary": "Hustru till Olof Jönsson, Östra Skogshaget.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 163: ”H. Maria Persdotter 44 5/5 Skog”.",
-   "MyHeritage Smart Match (lead, 5 träffar, alla lästa): f. 1844 (5 maj 1844 enligt vårt träd), död 1928 eller 1929 (träden spretar). NYA SYSKON: Karin Persdotter (+4 till +7 fler syskon) och Halfvard Jonsson (+3, träd med annat efternamn, osäkert); barn 'Maria Jonsdotter +8' och 'Jonte Olsson' (förmodligen felkopplat). Gift Olof Jönsson, son Olof Albert enligt vårt träd. MEDEL-SVAG: dödsår 1928/1929 och syskonet Karin Persdotter ska kontrolleras (Skog/Skogshaget husförhör, död Brunskog 1928/29)."
+   "MyHeritage Smart Match (lead, 5 träffar, alla lästa): f. 1844 (5 maj 1844 enligt vårt träd), död 1928 eller 1929 (träden spretar). NYA SYSKON: Karin Persdotter (+4 till +7 fler syskon) och Halfvard Jonsson (+3, träd med annat efternamn, osäkert); barn 'Maria Jonsdotter +8' och 'Jonte Olsson' (förmodligen felkopplat). Gift Olof Jönsson, son Olof Albert enligt vårt träd. MEDEL-SVAG: dödsår 1928/1929 och syskonet Karin Persdotter ska kontrolleras (Skog/Skogshaget husförhör, död Brunskog 1928/29).",
+   "BK1: SCB död Brunskog 1928, bild A0032462_01085 (nr 30): ”Maria Jonsson f. Persdotter, hemmansägareänka, Skog”, f. 44 5/5 (=5/5 1844) – exakt match. Dödsår 1928 (inte 1929); enka 1928 (maken Olof Jönsson död före)."
   ],
   "sources": [
    {
@@ -37389,7 +37440,12 @@
   ],
   "search": [
    "Maria Persdotter (Östra Skogshaget, f. 1844)"
-  ]
+  ],
+  "died": {
+   "date": "1928-06-03",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1928 bild A0032462_01085, nr 30: \"Maria Jonsson f. Persdotter, hemmansägareänka, Skog\", f. 1844 5/5, död juni 3, orsak ålderdomssvaghet."
+  }
  },
  {
   "id": "as1_olof_albert_olofsson_1880",
@@ -37515,7 +37571,8 @@
   "summary": "Hustru till Anders Persson, Östra Nolbystegen.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 217: ”H. Maria Jonsdotter 28 16/1 Svartåna”.",
-   "MyHeritage Smart Match (lead, 10 träffar, alla lästa): f. 1828 (16 jan 1828 Svartåna enligt vårt träd); dödsår 1910 (7 träffar) eller 1889 (2) eller 1916 (1). Barn i träden: Anders G Andersson Wicklund, Johannes B Andersson, Par B Anderson (+4/+5 fler) - efternamn Andersson, medan vårt träd har make Anders Persson (barn bör heta Andersson): plausibelt. Syskon: Jonas Törngren (+3 fler) (ett träd) och Stina Svensson (född Carlsdotter) (förmodligen annan person). MEDEL: kontrollera död 1910, barnnamnen Anders G., Johannes B. och Per B. mot Svartåna husförhör."
+   "MyHeritage Smart Match (lead, 10 träffar, alla lästa): f. 1828 (16 jan 1828 Svartåna enligt vårt träd); dödsår 1910 (7 träffar) eller 1889 (2) eller 1916 (1). Barn i träden: Anders G Andersson Wicklund, Johannes B Andersson, Par B Anderson (+4/+5 fler) - efternamn Andersson, medan vårt träd har make Anders Persson (barn bör heta Andersson): plausibelt. Syskon: Jonas Törngren (+3 fler) (ett träd) och Stina Svensson (född Carlsdotter) (förmodligen annan person). MEDEL: kontrollera död 1910, barnnamnen Anders G., Johannes B. och Per B. mot Svartåna husförhör.",
+   "BK1: ej funnen i SCB död Brunskog 1910 (alla 84 poster, bild A0030843_01280–01288; ingen f. 1828 16/1). Dödsår 1910 från MyHeritage ej bekräftat."
   ],
   "sources": [
    {
@@ -37738,7 +37795,8 @@
   "summary": "Hustru till Olof Jansson, Skog/Gärde.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 164: ”H. Brita Nilsdotter 39 25/6 Tolkan”.",
-   "MyHeritage Smart Match (lead, 22 träffar; 12 lästa): f. 25 juni 1839 Toltan, gift Olof Jansson. Två spår: (a) döds-år 1911 (7 träffar; 'Karin Jansson (född Nilsdotter)' som SYSTER, 'Karin Nilsdotter +6' och barn Karin Olsson, Anna Maria Olsson (+3 fler)) - stämmer med vårt barn Karin; (b) döds-år 1895 (6 träffar; syskon Erik Nilsson +3/+4, barn Zakarias August Olofsson (+6), Johan Olof Jansson) - sannolikt annan Brita Nilsdotter. NYA SYSKON (lead): Karin Nilsdotter (gift Jansson), Erik Nilsson. NYA BARN (lead): Anna Maria Olsson, Karin Olsson. Kontrollera död 1911 och Toltan husförhör."
+   "MyHeritage Smart Match (lead, 22 träffar; 12 lästa): f. 25 juni 1839 Toltan, gift Olof Jansson. Två spår: (a) döds-år 1911 (7 träffar; 'Karin Jansson (född Nilsdotter)' som SYSTER, 'Karin Nilsdotter +6' och barn Karin Olsson, Anna Maria Olsson (+3 fler)) - stämmer med vårt barn Karin; (b) döds-år 1895 (6 träffar; syskon Erik Nilsson +3/+4, barn Zakarias August Olofsson (+6), Johan Olof Jansson) - sannolikt annan Brita Nilsdotter. NYA SYSKON (lead): Karin Nilsdotter (gift Jansson), Erik Nilsson. NYA BARN (lead): Anna Maria Olsson, Karin Olsson. Kontrollera död 1911 och Toltan husförhör.",
+   "BK1: SCB död Brunskog 1911, bild A0030902_00162 (nr 74): ”Brita Nilsdotter, h. till Hemm. Olof Jansson i Skog”, f. 39 25/6 – stämmer exakt med f. 25/6 1839, make Olof Jansson, Skog."
   ],
   "sources": [
    {
@@ -37748,7 +37806,12 @@
   ],
   "search": [
    "Brita Nilsdotter (Skog/Gärde, f. 1839, Toltan)"
-  ]
+  ],
+  "died": {
+   "date": "1911-12-11",
+   "place": "Brunskog",
+   "note": "SCB död Brunskog 1911 bild A0030902_00162, nr 74: \"Brita Nilsdotter, h. till Hemm. Olof Jansson i Skog\", f. 1839 25/6, död dec 11, orsak ålderdom."
+  }
  },
  {
   "id": "as1_karin_olofsdotter_1874",
