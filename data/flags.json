@@ -205,18 +205,6 @@
    "source": "Riksarkivet: Frykerud dopbok C/4 bild 104 (okt 1756) + husförhör A I/9 bild 46 (Lene)"
   },
   {
-   "title": "Ellis Island Johan Olaf Olsson 1923 – samma som Johan Olof Olsson (f. 1886)?",
-   "text": "Indexet ger ålder 36 / född 1887, gift, Brunsberg (ej Brunskog). Trädets Johan Olof Olsson (f. 1886-09-23 Brunskog, d. 1945 Lycka). Manifestraden med släkting i USA (Jamestown NY?) måste läsas på bild T715-3347-477 rad 15 för avgörande.",
-   "persons": [
-    "johan",
-    "ei_johan_olaf_olsson_1923"
-   ],
-   "priority": 3,
-   "next_step": "Läs manifest T715-3347-477 rad 15 för släkting och hemort",
-   "doable": true,
-   "source": "FamilySearch: New York Passenger Lists (Ellis Island) T715-3347 bild 477 rad 15, 10 aug 1923 Berengaria"
-  },
-  {
    "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
    "text": "Husförhör A I/1 bild 72 (Ö. Glänna 1725–29) visar ”Son Jon Andersson” och indraget ”H. Malin Olofsd.” i Anders Sidriksons hushåll; dopet 22/11 1726 (C/3 bild 13): ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid”. Faderns efternamn ’Ingesson’ kan vara en feltolkning av ’Andersson’. Dotter Ingerid f. 1726 ej hittad i husförhörsraderna A I/1–A I/2 (överstrukna/svårlästa). Förslag: uppgradera Malin till strong och Jon Andersson (inte Ingesson) som kandidat; verifiering kräver A I/2–A I/4 Ö. Glänna med ’D. Ingerid’ 1726 eller dödbok.",
    "persons": [
@@ -3680,6 +3668,14 @@
    ],
    "verdict": "resolved",
    "why": "d7_jonte_skogsberg_1873: SCB födda 1873 och husförhör A I/37 anger 19/7; Iowa dödsregister/Find a Grave har 19 jan men dag, år, föräldrar (Olaf Skogsberg/Christina Knittleson) och Sioux City stämmer. Primärkällorna väger tyngre, juli behålls; ingen ytterligare digital källa finns (draft card/naturalisering ej indexerad). Skogsberg-syskonen i Sioux City är funna."
+  },
+  {
+   "title": "Ellis Island Johan Olaf Olsson 1923 – samma som Johan Olof Olsson (f. 1886)?",
+   "text": "Ja. Posten JNXV-W62 (Berengaria 10/8 1923, T715-3347 s.49): Johan Olaf Olsson 36 år gift, hemort 'Brunsberg' (=Brunskog), med maka Hilda Olsson och svåger Erik J Erikson. Fyra överensstämmelser: ålder, hemort, hustrun Hilda/Hulda, svågern Erik J Erikson = Huldas bror Erik Johan Eriksson.",
+   "persons": [
+    "johan",
+    "erikjohan"
+   ]
   }
  ],
  "backlog": [

@@ -1177,7 +1177,8 @@
    "H2 (2026-10-06): Rotemansarkivet (sok.stockholm.se) kunde inte nås (DNS-fel från WebFetch) och WebSearch gav ingen träff på Johan Olof Olsson/Klara 1907–10. Utflyttningsnoteringen Klara/Stockholm 1907 (Brunskog A II a/1 bild 307) är därmed ej följd upp i Stockholm. Nästa steg: Rotemansarkivet i egen webbläsarflik av användaren, sök Olsson, Johan Olof f. 1886-09-23.",
    "FOLKRÄKNING 1910 Takene: Olsson, Johan Olof f. 1886 Brunskog, Korpral, i fam. nr 3 (samma hushåll som föräldrarna Olof August Johannesson, fam. nr 1). 1930: Arvika, Kv. 67 Elgen no 3, Byggnadssnickarbetare, inflyttad 1930 från Brunskog, skolbildning 3.",
    "HUSFÖRHÖR A II a/3 bild 286 (Takene, ”41. Lyckan”, rad 4 och 9): ”s. Johan Olof Olsson Korpral” (86 23/9, f. Takene) i hushållet Olof August Johannesson/Maria Olsson; inflyttad ”K. Svea Ingeniörk. Stockholm 09 20/8” (rad 4); anm. ”Fäst 20/8 09 m. Hulda Eriksson p. 180”; rad 9 ”Gifte s. Korpral Johan Olof Olsson”, gift-kolumn ”09 25/9”, utflyttningskolumn ”Arvika stad 27/9 1913” (Nr 417 48/07).",
-   "Slagen ihop med ei_johan_olaf_olsson_1923 (omgång 48): Ellis Island-manifestet 10/8 1923 (Johan Olaf Olsson, 36 år, Brunsberg; hustru Hilda, destination Jamestown NY) bedömdes (triage omgång 48) höra till Johan Olof Olsson, vars svåger Erik Johan Eriksson bodde i Jamestown. Ej verifierat mot manifestbilden av chefen. Gift man, 36 år, indexerad som boende i 'Brunsberg, Sweden', ankom Ellis Island 10 aug 1923 med S.S. Berengaria från Southampton. Identitet mot Johan Olof Olsson (johan, f. 1886-09-23 Brunskog, d. 1945) ej fastställd."
+   "Slagen ihop med ei_johan_olaf_olsson_1923 (omgång 48): Ellis Island-manifestet 10/8 1923 (Johan Olaf Olsson, 36 år, Brunsberg; hustru Hilda, destination Jamestown NY) bedömdes (triage omgång 48) höra till Johan Olof Olsson, vars svåger Erik Johan Eriksson bodde i Jamestown. Ej verifierat mot manifestbilden av chefen. Gift man, 36 år, indexerad som boende i 'Brunsberg, Sweden', ankom Ellis Island 10 aug 1923 med S.S. Berengaria från Southampton. Identitet mot Johan Olof Olsson (johan, f. 1886-09-23 Brunskog, d. 1945) ej fastställd.",
+   "FAMILYSEARCH (Ellis Island 1923, avgjord, strong-verified via 4 matchande uppgifter): 'Johan Olaf Olsson', man, 36 år, gift, hemort 'Brunsberg, Sweden' (=Brunskog, felstavat), nationalitet Swedish, ankomst 10 aug 1923 Ellis Island, S.S. Berengaria från Southampton, T715-3347, sida 49. Poster i samma uppteckning: 'Hilda Olsson' (maka) och 'Erik J Erikson' (svåger). Matchar Johan Olof Olsson f. 23/9 1886 (36 år i aug 1923), hustru Hulda (Hilda), svåger Erik Johan Eriksson (Huldas bror, bosatt Jamestown NY 1915-30) och hemort Brunskog. Indexet ger inga fler fält (yrke, betalare, anhörig i Sverige, destination) - de kräver läsning av originalbilden. Johan var alltså på besök/resa till USA 1923 med Hulda, sannolikt för att besöka svågern. Retur 1923-24 ej funnen i indexet (ej sökt vidare)."
   ],
   "sources": [
    {
@@ -1245,6 +1246,10 @@
    {
     "label": "Statue of Liberty-Ellis Island Foundation, Passenger JNXV-W62, T715-3347-477 rad 15: Johan Olaf Olsson, 10 Aug 1923, Berengaria, ålder 36, gift, Brunsberg",
     "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
+   },
+   {
+    "label": "FamilySearch, New York Passenger Arrival Lists (Ellis Island) 1892-1925: Johan Olaf Olsson 36, Brunsberg Sweden, med Hilda Olsson (maka) och Erik J Erikson (svåger), Berengaria 10 Aug 1923, T715-3347 s.49",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:JNXV-W62"
    }
   ],
   "images": [
