@@ -11589,8 +11589,8 @@
   "type": "partner",
   "a": "fr_bryngel_lene1708",
   "b": "fr_ingerid_lene1708",
-  "status": "candidate",
-  "basis": "Dop C/2 bild 78 (s. 152) dec 1708: ”Bryngell … och h. Ingeri barn i Lene kallat Marit”."
+  "status": "verified",
+  "basis": "Dop C/2 bild 78 (s. 152) dec 1708: ”Bryngell … och h. Ingeri barn i Lene kallat Marit”. VERIFIERAD (omgång 24): Frykerud dop C/2 (C0037135) bild 78 (sid 152), dec 1708, rad 15/20: 'Bryngell Eitersson(osäker) och Hustru Ingeri barn i Lene kallat Marit' – dopposten anger dem som makar/föräldrar. https://sok.riksarkivet.se/bildvisning/C0037135_00078"
  },
  {
   "id": "c-fr_bryngel_lene1708-fr_ingerid_lene1708-fr_maritbryngelsd_lene",
@@ -11600,8 +11600,8 @@
    "fr_ingerid_lene1708"
   ],
   "child": "fr_maritbryngelsd_lene",
-  "status": "candidate",
-  "basis": "Dop C/2 (C0037135) bild 78, 15/20 dec 1708: ”Bryngell … och h. Ingeri barn i Lene kallat Marit”. Namn+by+år+Bryngel stämmer men dagen (husförhör ”12/12?”) och patronymikon hos fadern är inte säkra."
+  "status": "verified",
+  "basis": "Dop C/2 (C0037135) bild 78, 15/20 dec 1708: ”Bryngell … och h. Ingeri barn i Lene kallat Marit”. Namn+by+år+Bryngel stämmer men dagen (husförhör ”12/12?”) och patronymikon hos fadern är inte säkra. VERIFIERAD (omgång 24): Frykerud dop C/2 (C0037135) bild 78 (sid 152), dec 1708 (15/20): 'Bryngell [Eitersson, osäker patronymikon] och hustru Ingeri barn i Lene kallat Marit' – fadder Oloff i Lene (osäker). Barn Marit, Lene, dec 1708 stämmer. https://sok.riksarkivet.se/bildvisning/C0037135_00078"
  },
  {
   "id": "c-nils_jonsson_takene93-lisa_larsd_takene93-ao4_olof_olsson93",
@@ -11916,16 +11916,16 @@
    "ingeborg_jansd_boda"
   ],
   "child": "maria_nilsd_boda04",
-  "status": "strong",
-  "basis": "Husförhör Boda A I/14 b.40: i Nils Svenssons hushåll ”H. Maria Nilsdr 8/7 04” (hustru till måg Jan Nilsson), ’dotterson Nils Jansson’; Nilsdotter-patronymikon och måg-kontext, men ordet dotter saknas."
+  "status": "verified",
+  "basis": "Husförhör Boda A I/14 b.40: i Nils Svenssons hushåll ”H. Maria Nilsdr 8/7 04” (hustru till måg Jan Nilsson), ’dotterson Nils Jansson’; Nilsdotter-patronymikon och måg-kontext, men ordet dotter saknas. VERIFIERAD (omgång 24): Boda dopbok C I/2 (C0036593) bild 190 (sid 359), 1804: 'Boda Maria. P: Nils Svensson: Ingeborg Jonsdr. T: And: Olsson Britta Nilsdr' (rad '8 / 22', dag; husförhör A I/14 b.40 anger Maria Nilsdr f. 9/7 (osäker: 8/7) 04 här, i Nils Svenssons hushåll som 'dss H. Maria Nilsdr', hushållet 'Bond Nils Svensson 27/11 74, H. Engeborg Jonsdr 17/2 65 Takene'). Obs: dagen i dopbokens kolumn ('8') kan avvika en dag från husförhöret. https://sok.riksarkivet.se/bildvisning/C0036593_00190 ; C0036579_00040"
  },
  {
   "id": "p-jan_nilsson_boda03-maria_nilsd_boda04",
   "type": "partner",
   "a": "jan_nilsson_boda03",
   "b": "maria_nilsd_boda04",
-  "status": "candidate",
-  "basis": "Husförhör Boda A I/14 b.40: ”Dr. Jan Nilsson 03 … dss H. Maria Nilsdr” (Gifte måg)."
+  "status": "verified",
+  "basis": "Husförhör Boda A I/14 b.40: ”Dr. Jan Nilsson 03 … dss H. Maria Nilsdr” (Gifte måg). VERIFIERAD (omgång 24): Boda vigselbok E I/2 (C0036597) bild 119 (sid 209), 1822: 'Tjenstedrang Jan Nilson i Smedjerud och pigan Maria Nilsdr i Södr: Boda ... vigde d. 26 Dec: 1822 af L: M: Alstermark' (osäker läsning av 'Smedjerud'); husförhör A I/14 b.40 Jan Nilsson 03 'dss H. Maria Nilsdr' (gift måg) och dop 1823 anger 'Mr Jan Nilson Hy Maria Nilsdr'. https://sok.riksarkivet.se/bildvisning/C0036597_00119"
  },
  {
   "id": "c-jan_nilsson_boda03-maria_nilsd_boda04-nils_jansson_boda23",
@@ -11935,8 +11935,8 @@
    "maria_nilsd_boda04"
   ],
   "child": "nils_jansson_boda23",
-  "status": "candidate",
-  "basis": "”dotterson Nils Jansson 1/9 23” i Nils Svenssons hushåll, A I/14 b.40."
+  "status": "verified",
+  "basis": "”dotterson Nils Jansson 1/9 23” i Nils Svenssons hushåll, A I/14 b.40. VERIFIERAD (omgång 24): Boda dopbok C I/3 (C0036594) bild 19 (sid 17), aug 1823 (rad 31/31): 'Nils, Boda. Mn Jan Nilson Hy Maria Nilsdr; vittnen Mn Per Anderson Hy Katrina Månsdr'. Husförhör A I/14 b.40: 'dotterson Nils Jansson 1/9 23 här' (dopboken anger 31 [aug]; en dags skillnad). https://sok.riksarkivet.se/bildvisning/C0036594_00019"
  },
  {
   "id": "c-szymon_mlodawski-tomasz_mlodawski",
@@ -12011,8 +12011,8 @@
    "fr_karinmansd_lene1711"
   ],
   "child": "fr_jonknutsson_lene",
-  "status": "strong",
-  "basis": "A I/1 bild 61 (s. 46, Lene): ”S: Jon Knutsson (överstruken)” under Knut/Karin Månsdotter"
+  "status": "verified",
+  "basis": "A I/1 bild 61 (s. 46, Lene): ”S: Jon Knutsson (överstruken)” under Knut/Karin Månsdotter VERIFIERAD (omgång 24): Frykerud husförhör A I/1 (C0037102) bild 61 (sid 46), Lene: 'Knut [patronymikon överstruket] / H: Karin Månsdotter / S: Jon Knutsson [överstruket] / S: Måns Knutsson'. https://sok.riksarkivet.se/bildvisning/C0037102_00061"
  },
  {
   "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_britaknutsd_lene",
@@ -12022,8 +12022,8 @@
    "fr_karinmansd_lene1711"
   ],
   "child": "fr_britaknutsd_lene",
-  "status": "strong",
-  "basis": "A I/2 bild 52 (s. 82): ”E: Karin Månsdotter / … / Brita Knutsdotter” – patronymikon Knutsdotter"
+  "status": "verified",
+  "basis": "A I/2 bild 52 (s. 82): ”E: Karin Månsdotter / … / Brita Knutsdotter” – patronymikon Knutsdotter VERIFIERAD (omgång 24): Frykerud husförhör A I/2 (C0037103) bild 52 (sid 82), Lene: 'E: Karin Månsdotter / S: Måns Knutsson / d: Brita Knutsdotter / [överstruket] / d: Cathrina Knutsdotter' (Brita och Cathrina står efter ett glapp i raden under enkan Karin; patronymikon Knuts- = avlidne Knut). https://sok.riksarkivet.se/bildvisning/C0037103_00052"
  },
  {
   "id": "c-fr_knut_lene1711-fr_karinmansd_lene1711-fr_catharinaknutsd_lene",
@@ -12033,32 +12033,32 @@
    "fr_karinmansd_lene1711"
   ],
   "child": "fr_catharinaknutsd_lene",
-  "status": "strong",
-  "basis": "A I/2 bild 52 (s. 82): ”d: Catharina Knutsdotter” i hushållet hos enkan Karin Månsdotter"
+  "status": "verified",
+  "basis": "A I/2 bild 52 (s. 82): ”d: Catharina Knutsdotter” i hushållet hos enkan Karin Månsdotter VERIFIERAD (omgång 24): A I/2 bild 52 (C0037103_00052): 'd: Cathrina Knutsdotter' under E: Karin Månsdotter; A I/3 (C0037104) bild 59 (sid 93): 'E: Karin Mån[sdotter] / Måns Knutsson / [överstruket: d: ... Knutsd.] / [överstruket] d: Cathrina Knuts[d]...' i samma hushåll."
  },
  {
   "id": "s-fr_mansknutsson1711_lene-fr_jonknutsson_lene",
   "type": "sibling",
   "a": "fr_mansknutsson1711_lene",
   "b": "fr_jonknutsson_lene",
-  "status": "strong",
-  "basis": "Samma hushåll A I/1 bild 61, båda ”S:” under Knut/Karin"
+  "status": "verified",
+  "basis": "Samma hushåll A I/1 bild 61, båda ”S:” under Knut/Karin VERIFIERAD (omgång 24): Samma hushåll A I/1 bild 61: båda 'S:' under Knut / H: Karin Månsdotter (C0037102_00061)."
  },
  {
   "id": "s-fr_mansknutsson1711_lene-fr_britaknutsd_lene",
   "type": "sibling",
   "a": "fr_mansknutsson1711_lene",
   "b": "fr_britaknutsd_lene",
-  "status": "strong",
-  "basis": "A I/2 bild 52, samma hushåll under enkan Karin Månsdotter"
+  "status": "verified",
+  "basis": "A I/2 bild 52, samma hushåll under enkan Karin Månsdotter VERIFIERAD (omgång 24): A I/2 bild 52 (C0037103_00052): Måns Knutsson (S:) och d: Brita Knutsdotter i enkan Karin Månsdotters hushåll."
  },
  {
   "id": "s-fr_mansknutsson1711_lene-fr_catharinaknutsd_lene",
   "type": "sibling",
   "a": "fr_mansknutsson1711_lene",
   "b": "fr_catharinaknutsd_lene",
-  "status": "strong",
-  "basis": "A I/2 bild 52 och A I/3 bild 59, samma hushåll"
+  "status": "verified",
+  "basis": "A I/2 bild 52 och A I/3 bild 59, samma hushåll VERIFIERAD (omgång 24): A I/2 bild 52 (C0037103_00052) och A I/3 bild 59 (C0037104_00059): Måns Knutsson och Cathrina Knutsdotter i samma hushåll under E: Karin Månsdotter."
  },
  {
   "id": "s-fr_maritbryngelsd_lene-fr_nilsbryngelsson_lene",
@@ -12081,8 +12081,8 @@
   "type": "sibling",
   "a": "fr_jonaspalsson",
   "b": "fr_engelinpalsd_rorbacken",
-  "status": "candidate",
-  "basis": "A I/1 bild 55: ”d: Engelin(?) Påhlsd.” i hushållet Påhl Månsson, förnamn osäkert"
+  "status": "verified",
+  "basis": "A I/1 bild 55: ”d: Engelin(?) Påhlsd.” i hushållet Påhl Månsson, förnamn osäkert VERIFIERAD (omgång 24): Frykerud husförhör A I/1 (C0037102) bild 55 (sid 35), Rörbäcken: 'Påhl Månsson / H: Kari(n) Nilsdotter / måg: Petter Torsson / H: Brita Påhlsd. / S: Jonas Påhlsson / [överstruket: d: ...] / d: Engelin(?) Påhlsd.' – både son och dotter under Påhl Månsson (förnamnet Engelin osäkert). https://sok.riksarkivet.se/bildvisning/C0037102_00055"
  },
  {
   "id": "c-anders_nilsson_1820_amatt-britta_olsd_amatt-anders_andersson_1854_sunne",
@@ -12236,8 +12236,8 @@
    "bh1_brita_maja_vadbey"
   ],
   "child": "bh1_klara_katrina_johannesd42_vasby",
-  "status": "strong",
-  "basis": "Husförhör A I/19 bild 399: 'Klara Katrina' f. 20/7 1842 ibm i samma hushåll, utan uttrycklig familjeställning."
+  "status": "verified",
+  "basis": "Husförhör A I/19 bild 399: 'Klara Katrina' f. 20/7 1842 ibm i samma hushåll, utan uttrycklig familjeställning. VERIFIERAD (omgång 24): Frykerud dopbok C/6 (C0037139) bild 177 (sid 327), juli 1842: 'Väsby. Bn Johannes Jonass: Dr Brita Magnusd' – barn 'Klara Katrina' (dag 20/21; husförhör A I/19 bild 399 anger 20/7 42). https://sok.riksarkivet.se/bildvisning/C0037139_00177"
  },
  {
   "id": "s-bh1_johan_johannesson40_vasby-aq3_emanuel_johannesson44",
@@ -12252,8 +12252,8 @@
   "type": "sibling",
   "a": "bh1_klara_katrina_johannesd42_vasby",
   "b": "aq3_emanuel_johannesson44",
-  "status": "strong",
-  "basis": "Samma hushåll, husförhör A I/19 bild 399."
+  "status": "verified",
+  "basis": "Samma hushåll, husförhör A I/19 bild 399. VERIFIERAD (omgång 24): Båda döpta med fadern Johannes Jonasson och modern Brita Magnusdotter i Väsby: Klara Katrina juli 1842 (C0037139_00177) och Emanuel nov 1844: 'Väsby. Bn Johannes Jonass: Dr Brita Magn[us]d' barn 'Emanuel' (rad 23/24 nov 1844, sid 343, C0037139_00185). Husförhör A I/19 bild 399: Klara Katrina 20/7 42 och Emanuel 23/11 44 samma hushåll. Båda föräldrarelationerna verified -> helsyskon."
  },
  {
   "id": "p-adam_ersson68_nordsjo-maria_palsd74_nordsjo",

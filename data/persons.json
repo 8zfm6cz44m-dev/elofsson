@@ -38233,7 +38233,7 @@
  {
   "id": "fr_bryngel_lene1708",
   "name": "Bryngel (patronymikon oläsligt) (Lene, Frykerud)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -38256,7 +38256,7 @@
  {
   "id": "fr_ingerid_lene1708",
   "name": "Ingerid (Lene, Frykerud, mor till Marit f. 1708)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -39289,7 +39289,7 @@
  {
   "id": "maria_nilsd_boda04",
   "name": "Maria Nilsdotter (f. 1804, Boda)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -39321,7 +39321,7 @@
  {
   "id": "jan_nilsson_boda03",
   "name": "Jan Nilsson (f. 1803, måg hos Nils Svensson, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -39349,7 +39349,7 @@
  {
   "id": "nils_jansson_boda23",
   "name": "Nils Jansson (f. 1/9 1823, Boda)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -39556,7 +39556,7 @@
  {
   "id": "fr_jonknutsson_lene",
   "name": "Jon Knutsson (Lene, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -39579,7 +39579,7 @@
  {
   "id": "fr_britaknutsd_lene",
   "name": "Brita Knutsdotter (Lene, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -39602,7 +39602,7 @@
  {
   "id": "fr_catharinaknutsd_lene",
   "name": "Catharina Knutsdotter (Lene, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -40192,7 +40192,7 @@
  {
   "id": "bh1_klara_katrina_johannesd42_vasby",
   "name": "Klara Katrina Johannesdotter (f. 1842, Väsby, Frykerud)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
