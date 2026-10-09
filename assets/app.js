@@ -722,6 +722,12 @@ function renderExport() {
       <li>I MyHeritage: <em>Släktträd → Importera släktträd</em> (eller <em>Hantera träd → Importera GEDCOM</em>) och välj .ged-filen.</li>
       <li>Importera helst som <strong>ett nytt träd</strong> för att inte blanda in hypoteser i ditt ordinarie träd.</li>
     </ol>
+    <h3>Så laddar du upp i FamilySearch</h3>
+    <ol>
+      <li>Ladda ner filen här med omfattningen <em>Bara verifierade och familjebekräftade</em> och <em>Dölj detaljer om levande</em> ikryssad.</li>
+      <li>Logga in på FamilySearch och gå till <em>Sök → Släktträd/Genealogies</em>. Scrolla längst ned och välj <em>Submit Your Tree</em> (Skicka in ditt träd) och .ged-filen (högst 100 MB).</li>
+      <li>Det skapar <strong>inga poster i det gemensamma Family Tree</strong> automatiskt. Personerna måste kopplas manuellt till personer i Family Tree. Uppladdade träd kan vara synliga för andra, så skicka inte med leads eller levande personers uppgifter.</li>
+    </ol>
     <p class="muted">Bevisläget (Verifierad, Familjebekräftad, Mycket stark kandidat, Kandidat, Lead) står i varje persons anteckning och i släktskapsanteckningarna. Behandla allt utom ”Verifierad” som hypoteser. Gratiskonton har ofta en gräns för antal personer, så använd gärna ”Utan leads” eller ”Bara verifierade”. Filen skapas i webbläsaren; ingenting skickas någonstans.</p>`;
   const upd=()=>{
     if(!window.GedcomExport){ $("#exp-info").textContent="Exportmodulen kunde inte laddas."; return; }
