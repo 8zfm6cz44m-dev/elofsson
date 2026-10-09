@@ -194,17 +194,6 @@
    "source": "SCB vigselutdrag Arvika 1909 (Ture Bernhard Karlsson x Anna Maria Nilsson) + Boda dop 1886; Folkräkning 1930 Arvika (redan läst)"
   },
   {
-   "title": "Elin Svensdotter f. 4/10 1756 – troligen Lene, far Sven Olofsson",
-   "text": "Dopbok C/4 bild 104 (okt 1756), högersida nederst, marg. ’Elin’: ”4 föddes Sven Olofsson och hustru Anna …dotter (Danielsdotter?) barn i Lena(?) och döptes d. 10 af Com. Hr Sven W: till Elin, faddrar Månde Olofsson i Boda gård, Nils Olofsson i Grönskog(?), Daniel Nils(?) Olofsson i Högåsen …”. Samma dag: ”4 föddes Pål(?) Svensson och h. Karin Olofsdotter(?) barn i Näs … till Elin” (marg. ’Elin’) – annan Elin (fader Pål, Näs). Den första matchar Anders Erssons hustru Elin Svensdotter f. 1756 (Lene, hf A I/9 bild 46) och dopet av dottern Catharina 1781 (”Hust: Elin Swensdr”). Matchning på namn+år+förnamn Sven; bostadsort (Lene) och moderns namn osäkert läst – candidate.",
-   "persons": [
-    "fr_elinlene1756"
-   ],
-   "priority": 3,
-   "next_step": "Uppdatera fr_elinlene1756 med far Sven Olofsson efter kontroll av C/4 bild 104.",
-   "doable": true,
-   "source": "Riksarkivet: Frykerud dopbok C/4 bild 104 (okt 1756) + husförhör A I/9 bild 46 (Lene)"
-  },
-  {
    "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
    "text": "Husförhör A I/1 bild 72 (Ö. Glänna 1725–29) visar ”Son Jon Andersson” och indraget ”H. Malin Olofsd.” i Anders Sidriksons hushåll; dopet 22/11 1726 (C/3 bild 13): ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid”. Faderns efternamn ’Ingesson’ kan vara en feltolkning av ’Andersson’. Dotter Ingerid f. 1726 ej hittad i husförhörsraderna A I/1–A I/2 (överstrukna/svårlästa). Förslag: uppgradera Malin till strong och Jon Andersson (inte Ingesson) som kandidat; verifiering kräver A I/2–A I/4 Ö. Glänna med ’D. Ingerid’ 1726 eller dödbok.",
    "persons": [
@@ -269,17 +258,6 @@
    "source": ""
   },
   {
-   "title": "Jonas Anderssons föräldrar (dop 12/4 1750)",
-   "text": "Dop C/4 bild 37 (s. 54): född 12 apr, döpt 15 apr 1750, ”kallat Jonas”; föräldrar läses som Anders Nilsson och H. Marit Bengtsdr (mycket svårläst, säkerhet ca 60 %). Marginal ’Död 1820’ stämmer med F/2 bild 35 (Lene, Gifte Jonas Andersson, 70 år 0 mån 6 d, apr 1820). Behöver kontrolleras.",
-   "persons": [
-    "fr_jonasandersson_lene"
-   ],
-   "priority": 3,
-   "next_step": "Läs om Frykerud C/4 bild 37 med högre förstoring; bekräfta föräldrar Anders Nilsson/Marit Bengtsdr.",
-   "doable": true,
-   "source": "Riksarkivet bildvisning: Frykerud dopbok C/4 (1747-1777) bild 37 (s. 54), 12-15 apr 1750"
-  },
-  {
    "title": "Jonas Nilsson f. 3/5 1821 – gift 4/1 1857 med Lovisa Carlsdotter (strong)",
    "text": "Vigselbok E I/2 bild 108: lysning 16/11 1856, vigsel 4/1 1857, ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år. Förälder ej angiven. 1859 (bild 116) nämns ”Jonas Nilsson och dess hustru Cajsa Svensdotter i Lene” som vittne – ev. annan Jonas Nilsson i Lene, eller Lovisa död/omgift; ej utrett.",
    "persons": [
@@ -304,17 +282,6 @@
    "next_step": "Läs Frykerud dopbok C/2 1700-08 och vigsel Bryngel/Ingeri Lene.",
    "doable": true,
    "source": "Frykerud dopbok C/2 1700-08 och vigsel Bryngel x Ingeri Lene"
-  },
-  {
-   "title": "Marginalnotering ”Hör til gift(?) d: 2 Dec: 1742” vid dop Nils Andersson 1726 (Smådal)",
-   "text": "Under dopposten nr 45 (C I/1 bild 164, 27/11 1726) står en svårläst notering som läses ”Hör til gift(?) d: 2. Dec: 1742” – möjligen vigsel 2 dec 1742. Ej kontrollerad i vigselbok E I/1 (1708–1762). Nästa steg: leta vigsel Nils Andersson × Kjerstin Danielsdotter (f. 1725) i Brunskog E I/1 ca bild 56-60 (1742). Dödboken säger gift 1750 – dessutom avviker; noteringen kan avse en annan person eller ett tidigare äktenskap.",
-   "persons": [
-    "nils_andersson_smadal"
-   ],
-   "priority": 3,
-   "next_step": "Brunskog E I/1 bild 56-60 (1742): leta vigsel Nils Andersson x Kjerstin Danielsdotter.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog vigselbok E I/1 (C0036786) bild ca 56-60 (1742) och 1750"
   },
   {
    "title": "Marit Jonsdotters förste make: ’Olof Persson från Skog’ (död 1748) eller ’Olof Ihrsson(?) från Toltan’ (vigsel 1745)?",
@@ -385,28 +352,6 @@
    "next_step": "Sök vigsel Nils Jonsson x Lisa Larsdotter 1787-92 och Lisas hushåll Boda/Brunskog.",
    "doable": true,
    "source": "Brunskog E I/2-E I/3 vigsel 1780-92, husförhör A I/5-A I/6 Svartån/Takene"
-  },
-  {
-   "title": "Olov Ragnar Augustson f. 1902 Brunskog (USA)",
-   "text": "Naturaliserad Illinois 1934, f. 9 okt 1902 Brunskog. Undersök om han är barn till August Nilsson/Stina Jansdotter (Gullsbyn) eller annan Augustsson; kontrollera husförhör Brunskog 1902-1920.",
-   "persons": [
-    "olov_ragnar_augustson_1902"
-   ],
-   "priority": 3,
-   "next_step": "Sök Brunskog dop 9/10 1902 och husförhör Gullsbyn.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog födelsebok/SCB födda 1902 (9 okt) och församlingsbok A II a/1 Gullsbyn"
-  },
-  {
-   "title": "Två Anders Nilsson f. 1796 i Boda–Lerboda?",
-   "text": "Husförhör A I/14 bild 133 (Lerboda fol. 112) listar 'Dr Anders Nilsson f. ?/96' med H. Britta Nilsdr f. 1797 och son Jan 1823 (utflyttad p. 38, 1825). Anders i N. Boda (bild 17) är f. 2/11 1796 och gifte sig med Kaisa Olsdotter 26/12 1824. Kan vara samma man (om första hustrun dött) eller en namne – avgör via död-/vigselbok 1823–24.",
-   "persons": [
-    "anders_nilsson_boda"
-   ],
-   "priority": 3,
-   "next_step": "Dödbok/vigsel Boda 1823-24 för Anders Nilssons första hustru Britta.",
-   "doable": true,
-   "source": "Riksarkivet: Boda husförhör A I/14 bild 133 (Lerboda fol. 112) och bild 17 (N. Boda); Boda dödbok/vigsel 1823-24"
   },
   {
    "title": "Två ’Nils Larsson’ i Toltan? (mantalsskriven vs. son till Lasse Erichsson f. 1699)",
@@ -3675,6 +3620,41 @@
    "persons": [
     "johan",
     "erikjohan"
+   ]
+  },
+  {
+   "title": "Elin Svensdotter f. 4/10 1756 – troligen Lene, far Sven Olofsson",
+   "text": "Dop C/4 bild 104: 4/10 1756 ”Swen Olofsson och hustru Anna Danielsdotter(?) … till Elin” (dop 10/10). Elin Swensdr (1776/1781) = denna; annan Elin samma dag hade far Pål (Näs). Strong; bostad Lene läst osäkert.",
+   "persons": [
+    "fr_elinlene1756"
+   ]
+  },
+  {
+   "title": "Jonas Anderssons föräldrar (dop 12/4 1750)",
+   "text": "Omläsning C/4 bild 37: ”…ders Nilsson och H. Marit Bengtsd[otter] … kallat Jonas”, faddrar Mattes Bengtsson, Sven Nilsson i Lene, Olof Jonsson i Lene; marg. ”Död 1820”. Föräldrar Anders Nilsson/Marit Bengtsdotter (strong, ca 80 %).",
+   "persons": [
+    "fr_jonasandersson_lene"
+   ]
+  },
+  {
+   "title": "Marginalnotering ”Hör til gift(?) d: 2 Dec: 1742” vid dop Nils Andersson 1726 (Smådal)",
+   "text": "Vigselbok E I/1 1742 (bild 60) har ingen lysning 2 dec 1742 med paret. Rätt vigsel: E I/1 bild 68, 28 okt 1750: ”Dr. Nils Andersson från Smådahl, Pig. Kjerstin Danielsdotter i Berga” – stämmer med dödbokens ”gift 1750”. Marginalnoteringen avser annat/ej tolkat.",
+   "persons": [
+    "nils_andersson_smadal"
+   ]
+  },
+  {
+   "title": "Olov Ragnar Augustson f. 1902 Brunskog (USA)",
+   "text": "SCB födda Brunskog 1902 nr 62 (A0030595_00490): 9 okt ”Olaf Ragner”, far August Olsson fr. Toltan (f. 1866), mor Emma Jansdotter (f. 1871). Alltså inte barn till August Nilsson/Stina Jansdotter (Gullsbyn).",
+   "persons": [
+    "olov_ragnar_augustson_1902"
+   ]
+  },
+  {
+   "title": "Två Anders Nilsson f. 1796 i Boda–Lerboda?",
+   "text": "Två olika män: Anders Nilsson f. 96 Lerboda, g.m. Britta Nilsdotter f. 97, flyttar 1825 till Bodatorp (A I/14 bild 53, fol 38, från fol 112); och Anders Nilsson f. 2/11 1796 N. Boda, g. 26/12 1824 med Cajsa Olsdotter (A I/14 bild 17; E I/2 bild 120). Båda hushållen finns samtidigt.",
+   "persons": [
+    "anders_nilsson_boda"
    ]
   }
  ],

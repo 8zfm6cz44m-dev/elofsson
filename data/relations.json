@@ -12890,5 +12890,46 @@
   "child": "d7_okerman_thiel",
   "status": "strong",
   "basis": "Census 1910 Edgerton MN: barn i hushållet med Albert och Ellen Okerman."
+ },
+ {
+  "id": "c-bt2_august_olsson_toltan66-bt2_emma_jansdotter71-olov_ragnar_augustson_1902",
+  "type": "child",
+  "parents": [
+   "bt2_august_olsson_toltan66",
+   "bt2_emma_jansdotter71"
+  ],
+  "child": "olov_ragnar_augustson_1902",
+  "status": "verified",
+  "basis": "SCB födda Brunskog 1902 (A0030595_00490) nr 62: ”9 Okt. Olaf Ragner”; Fader ”Gift Ä(?) August Olsson fr. Toltan”; Moder ”H.H. Emma Jansdotter”. Samma födelsedag 9 okt 1902 som FamilySearch-naturalisering."
+ },
+ {
+  "id": "p-bt2_august_olsson_toltan66-bt2_emma_jansdotter71",
+  "type": "partner",
+  "a": "bt2_august_olsson_toltan66",
+  "b": "bt2_emma_jansdotter71",
+  "status": "verified",
+  "basis": "SCB 1902 nr 62: föräldrarna angivna som gifta (kolumn Gift) – ”Gift … August Olsson” / ”H.H. Emma Jansdotter”."
+ },
+ {
+  "id": "c-fr_sven_olofsson_lene-fr_anna_danielsd_lene56-fr_elinlene1756",
+  "type": "child",
+  "parents": [
+   "fr_sven_olofsson_lene",
+   "fr_anna_danielsd_lene56"
+  ],
+  "child": "fr_elinlene1756",
+  "status": "strong",
+  "basis": "Frykerud dopbok C/4 bild 104 okt 1756: ”4. föddes Swen Olofsson och hustru Anna Danielsdotter(?) ett barn i Lena(?), döptes d. 10 … till Elin”; Elin Swensdr gift 1776/1781 (E I/1 bild 111; C/5 bild 39)."
+ },
+ {
+  "id": "c-fr_anders_nilsson_jonas50-fr_marit_bengtsd_jonas50-fr_jonasandersson_lene",
+  "type": "child",
+  "parents": [
+   "fr_anders_nilsson_jonas50",
+   "fr_marit_bengtsd_jonas50"
+  ],
+  "child": "fr_jonasandersson_lene",
+  "status": "strong",
+  "basis": "Frykerud dopbok C/4 bild 37 apr 1750: ”…ders Nilsson och H. Marit Bengtsd[otter] … kallat Jonas”; fadder Sven Nilsson i Lene; marg. ”Död 1820” = F/2 bild 35 Jonas Andersson Lene 70 år."
  }
 ]
