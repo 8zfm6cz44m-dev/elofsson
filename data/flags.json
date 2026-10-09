@@ -3959,6 +3959,22 @@
    "persons": [
     "d7_anders_sylvander"
    ]
+  },
+  {
+   "title": "Szukaj w Archiwach: Ostrowiec Św. födelsebok 1914-1917 (21/3060/0/-/24) ej skannad",
+   "text": "Szukaj w Archiwach är åtkomlig i Chrome utan Incapsula-captcha (2026-10-09). Parish-register-översikt: https://www.szukajwarchiwach.gov.pl/wyszukiwanie-akt-metrykalnych (fyll Miejscowość, tryck Enter). Ostrowiec Świętokrzyski rzymskokatolickie Świętego Michała: zespół 21/3060/0 (id 114562), 1872-1940, 481 skanów; jednostka -/24 Księga aktów urodzeń 1914-1917 har 0 skanów, därför kan akt 28/1915 (Bolesław Kogut, mor Anna Kogut) inte läsas online. Åtgärd: be AP Kielce om kopia av akt 28/1915 (sygn. 21/3060/0/-/24) eller USC Ostrowiec Świętokrzyski om odpis; alternativt Archiwum Diecezjalne Radom/Sandomierz (parafia św. Michała). Lead tills akten är läst.",
+   "persons": [
+    "boleslaw"
+   ]
+  },
+  {
+   "title": "Resurs Szukaj w Archiwach: fungerar i Chrome, men Kielce-metrik 1900-1930 oskannad",
+   "text": "Åtkomst utan inloggning/captcha via Chrome (kakbanner ignorerad). Zespol-sidor laddar långsamt (vänta 5-8 s); enhetslista via 'Przejdź do jednostek'. Stefan Orzechowski/Zofia Młodawska (vigsel 7.1.1923 Kielce) och Irena 1926/Ryszard 1931: Kielce-parishen ej sökt i detta pass – kontrollera zespół för Kielce (katedra, św. Wojciecha/Szydłówek) med samma metod innan beställning.",
+   "persons": [
+    "stefan",
+    "zofia",
+    "irena"
+   ]
   }
  ],
  "conflicts": [
