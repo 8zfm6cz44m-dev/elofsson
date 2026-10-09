@@ -349,7 +349,7 @@
   "a": "boleslaw",
   "b": "irena",
   "status": "family",
-  "basis": "Familjen: Bolesław var far till samtliga Irenas barn. Vigselakt/civilstånd saknas.",
+  "basis": "Familjen: Bolesław var far till samtliga Irenas barn. Vigselakt/civilstånd saknas. | Dubblett (omgång 45): Martins träd: 'Gift med' Trzcińsko-Zdrój (utan datum eller källa). Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead).",
   "label": "vigsel ej belagd"
  },
  {
@@ -2702,12 +2702,12 @@
   "b": "anna_andersd56"
  },
  {
-  "id": "p-christopher_svensson54-elin_svensd55",
+  "id": "p-christopher_svensson_saldebraten-elin_svensdotter_gonas",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
-  "a": "christopher_svensson54",
-  "b": "elin_svensd55"
+  "status": "verified",
+  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla | Dubblett (omgång 45): Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar. VERIFIERAD (omgång 24): ",
+  "a": "christopher_svensson_saldebraten",
+  "b": "elin_svensdotter_gonas"
  },
  {
   "id": "p-isak_bjorsson-boret_eriksd53",
@@ -3037,35 +3037,35 @@
   "basis": "MyHeritage-trädet: Böret Olsson f. Johansdotter 1730–1787: far Johan Andersson, mor Ingeborg Bryntesdotter (ej daterade)."
  },
  {
-  "id": "c-christopher_svensson54-elin_svensd55-erik_christ",
+  "id": "c-christopher_svensson_saldebraten-elin_svensdotter_gonas-erik_christ",
   "type": "child",
   "parents": [
-   "christopher_svensson54",
-   "elin_svensd55"
+   "christopher_svensson_saldebraten",
+   "elin_svensdotter_gonas"
   ],
   "child": "erik_christ",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Erik Christophersson (1779–1818, vår erik_christ, verifierad f. 25/5 1779): far Christopher Svensson f. 1754, mor Elin Svensson f. Svensdotter f. 1755. Föräldrarna är inte styrkta i kyrkböcker hos oss."
+  "status": "verified",
+  "basis": "MyHeritage-trädet: Erik Christophersson (1779–1818, vår erik_christ, verifierad f. 25/5 1779): far Christopher Svensson f. 1754, mor Elin Svensson f. Svensdotter f. 1755. Föräldrarna är inte styrkta i kyrkböcker hos oss. | Dubblett (omgång 45): Frykerud dopbok C/5 bild 20 (C0037138_00020), mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.” Husförhör A I/12 bild 16: ”S. Erik” 1779 25"
  },
  {
-  "id": "c-sven_ersson-karin_nilsdotter19-christopher_svensson54",
+  "id": "c-sven_ersson-karin_nilsdotter19-christopher_svensson_saldebraten",
   "type": "child",
   "parents": [
    "sven_ersson",
    "karin_nilsdotter19"
   ],
-  "child": "christopher_svensson54",
+  "child": "christopher_svensson_saldebraten",
   "status": "lead",
   "basis": "MyHeritage-trädet: Christopher Svensson f. 1754: far Sven Ersson f. 1718, mor Karin Ersson f. Nilsdotter f. 1719."
  },
  {
-  "id": "c-sven_eriksson02-elin_palsdotter35-elin_svensd55",
+  "id": "c-sven_eriksson02-elin_palsdotter35-elin_svensdotter_gonas",
   "type": "child",
   "parents": [
    "sven_eriksson02",
    "elin_palsdotter35"
   ],
-  "child": "elin_svensd55",
+  "child": "elin_svensdotter_gonas",
   "status": "lead",
   "basis": "MyHeritage-trädet: Elin Svensson f. Svensdotter f. 1755: far Sven Eriksson f. 1702, mor Elin Pålsson f. 1735 (modern är enligt trädet född 1735, dvs. bara 20 år äldre än dottern – bör kontrolleras)."
  },
@@ -5234,25 +5234,6 @@
   "b": "anders_ae48",
   "status": "verified",
   "basis": "samma föräldrar, Brunskog A I/23 bild 135 (s.123)"
- },
- {
-  "id": "c-christopher_svensson_saldebraten-elin_svensdotter_gonas-erik_christ",
-  "type": "child",
-  "parents": [
-   "christopher_svensson_saldebraten",
-   "elin_svensdotter_gonas"
-  ],
-  "child": "erik_christ",
-  "status": "verified",
-  "basis": "Frykerud dopbok C/5 bild 20 (C0037138_00020), mars 1779 nr 26: ”Erik Christophersson i Gönäs … Föräldrar: Christopher Svensson och Elin Svensdoller ibidem.” Husförhör A I/12 bild 16: ”S. Erik” 1779 25/3 hos Christopher Svensson. Identitet med Brunskog-Erik (25/3 79) bygger på samma dag/månad/år + namn. VERIFIERAD (omgång 24): Frykerud dop C/5 C0037138_00020 (1779, s. 13), mars: ”25 | 26 | Erik Christopherson i Gönäs, af Commissier Wener. Föräldrar: Christopher Svenson och Elin Svensdot[ter] ibidem” (förstoring). Född 25, döpt 26 mars 1779."
- },
- {
-  "id": "p-christopher_svensson_saldebraten-elin_svensdotter_gonas",
-  "type": "partner",
-  "a": "christopher_svensson_saldebraten",
-  "b": "elin_svensdotter_gonas",
-  "status": "verified",
-  "basis": "Frykerud E I/1 bild 114, 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs”; dopbok 1779 anger båda som föräldrar. VERIFIERAD (omgång 24): Frykerud vigselbok E I/1 (1778) bild 114 (C0037140_00114), 24 juni: ”vigdes hemma i egna kläder drängen Christopher Swensson i Gönäs med pigan Elin ..dotter i Gönäs, morgongåfvan efter lag” (Elins patronymikon ej läsbart i vigselposten). https://sok.riksarkivet.se/bildvisning/C0037140_00114"
  },
  {
   "id": "c-anders_svensson_nboda-maria_jordsd_nboda-ingegard_andersdotter",
@@ -12189,14 +12170,6 @@
   "b": "magdalena_pisarzyk",
   "status": "verified",
   "basis": "Vigsel 1832 akt 278: 'Mikołaja i Magdaleny z Pisarzyków Małżonków Osuchów'."
- },
- {
-  "id": "p-irena-boleslaw",
-  "type": "partner",
-  "a": "irena",
-  "b": "boleslaw",
-  "status": "lead",
-  "basis": "Martins träd: 'Gift med' Trzcińsko-Zdrój (utan datum eller källa). Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead)."
  },
  {
   "id": "c-bh1_johannes_jonsson_vadbey-bh1_brita_maja_vadbey-aq3_emanuel_johannesson44",

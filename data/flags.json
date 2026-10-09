@@ -276,7 +276,6 @@
    "text": "MyHeritage (Elofson Family Tree, 64 träffar) anger Christopher Svensson f. 21 okt 1754, d. 1803, föräldrar Sven Ersson/Karin Ersson f. Nilsdotter. Vårt träd har samma person två gånger (lead + verified). Slå ihop först efter primärkälla (Frykerud dop/husförhör).",
    "persons": [
     "christopher_svensson_saldebraten",
-    "christopher_svensson54",
     "sven_ersson",
     "karin_nilsdotter19"
    ],
@@ -1488,6 +1487,17 @@
    "persons": [
     "d7_jonte_skogsberg_1873"
    ]
+  },
+  {
+   "title": "BS1-sammanfattning: prövat utan lösning",
+   "text": "Q1 Christopher Svensson: Boda dop 1754 (C0036593 bild 30–32) negativ. Q2/Q6/Q13/Q29/Q38 (Toltan-Nils): inga nya primärkällor; faderskap obevisat; rekommendation backlog. Q3 Marit Isaksdotters far: obevisat; backlog. Q26 dublett christopher_svensson54: rekommenderas sammanslagning in i christopher_svensson_saldebraten som alias; MyHeritage-föräldrar Sven Ersson/Karin Nilsdotter kvarstår som lead.",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "christopher_svensson54",
+    "elof_nilsson",
+    "nils_larsson_toltan",
+    "marit_isaksd"
+   ]
   }
  ],
  "excluded": [
@@ -2185,7 +2195,7 @@
    "persons": [
     "nils_andersson_smadal",
     "elin_palsdotter35",
-    "elin_svensd55"
+    "elin_svensdotter_gonas"
    ],
    "verdict": "obsolete",
    "why": "Påpekande om MH-datumfel, ingen öppen fråga."
@@ -3640,7 +3650,6 @@
    "text": "A I/6 (1753-59) fol. 48 Säldebråten (bild 66) och A I/7 (1759-71) fol. 1 Såldebråten (bild 13) har Pål Andersson, Nils Börjesson och Mats/Anders Pålsson-hushåll, ingen Sven Ersson/Christopher. Dublett christopher_svensson54 = christopher_svensson_saldebraten är fortsatt MyHeritage-hypotes (samma födelsedag 21/10 1754, d. 1803, Såldebråten); ej sammanslagen. Föräldrarna Sven Ersson/Karin Nilsdotter oprövade (ev. annan socken).",
    "persons": [
     "christopher_svensson_saldebraten",
-    "christopher_svensson54",
     "sven_ersson",
     "karin_nilsdotter19"
    ],
