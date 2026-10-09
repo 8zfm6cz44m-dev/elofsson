@@ -32969,7 +32969,7 @@
  {
   "id": "axel_as_1884_sunne",
   "name": "Axel Andersson (f. 1884)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33000,7 +33000,7 @@
  {
   "id": "viktor_as_1887_sunne",
   "name": "Viktor Andersson (f. 1887)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33031,7 +33031,7 @@
  {
   "id": "hulda_lavinia_as_1888_sunne",
   "name": "Hulda Lavinia Andersson (f. 1888)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -33062,7 +33062,7 @@
  {
   "id": "anders_fritiof_as_1894_sunne",
   "name": "Anders Fritiof Andersson (f. 1894)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -33093,7 +33093,7 @@
  {
   "id": "ellen_teresia_as_1897_sunne",
   "name": "Ellen Teresia Andersson (f. 1897)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -39949,7 +39949,7 @@
  {
   "id": "szczepan_ksiol",
   "name": "Szczepan Ksioł (Xeł)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "died": {
@@ -39997,7 +39997,7 @@
  {
   "id": "sebastian_ksiol",
   "name": "Sebastian Ksioł (Xeł)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "died": {
