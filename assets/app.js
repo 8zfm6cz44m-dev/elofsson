@@ -679,6 +679,9 @@ function renderBevis() {
     ${(x.persons||[]).map(nameBtn).join(" ")}
     ${(x.images||[]).map(id=>{const im=S.images.find(y=>y.id===id);
       return im?.url?`<a href="${esc(im.url)}" target="_blank" rel="noopener" style="font-size:13.5px">${esc(im.title)}</a>`:"";}).join(" ")}</div>`;
+  const boxP=x=>`<div class="box"><h4>${esc(x.title)}</h4><p>${esc(x.text)}</p>
+    ${x.next_step?`<p><strong>Nästa steg:</strong> ${esc(x.next_step)}</p>`:""}
+    ${(x.persons||[]).map(nameBtn).join(" ")}</div>`;
   const groups=ORDER.filter(s=>s!=="excluded").map(st=>{
     const rs=S.rels.filter(r=>r.status===st); if(!rs.length) return "";
     return `<h3>${chip(st)} ${rs.length} relationer</h3><p>${esc(STATUS[st].desc)}</p>
@@ -688,7 +691,15 @@ function renderBevis() {
   }).join("");
   el.innerHTML=`<h2>Bevisl\xe4ge</h2>
     <p>Alla ${S.rels.length} relationer i tr\xe4den, grupperade efter bevisl\xe4ge.</p>
-    <h3>Ol\xf6sta huvudfr\xe5gor (${S.flags.open.length})</h3><div class="statgrid">${S.flags.open.map(box).join("")}</div>
+    <h3>Öppna huvudfrågor (${S.flags.open.length})</h3>
+    <p class="muted">Verkliga frågor där svaret ändrar trädet, sorterade efter hur viktiga de är. Forskningsuppgifter ligger under Backlog, och besvarade eller föråldrade frågor under Lösta.</p>
+    ${[1,2,3].map(pr=>{const L=S.flags.open.filter(x=>(x.priority||2)===pr); if(!L.length) return "";
+      const lab={1:"Viktigast",2:"Normal",3:"Låg prioritet"}[pr];
+      return `<h4 style="margin:14px 0 6px">${lab} (${L.length})</h4><div class="statgrid">${L.map(boxP).join("")}</div>`;}).join("")}
+    <details class="sec"><summary><strong>Forskningsbacklog (${(S.flags.backlog||[]).length})</strong> – att göra, inte olösta frågor</summary>
+      <div class="statgrid">${(S.flags.backlog||[]).map(boxP).join("")}</div></details>
+    <details class="sec"><summary><strong>Lösta och föråldrade (${(S.flags.resolved||[]).length})</strong> – sparade för spårbarhet</summary>
+      <ul class="bullets">${(S.flags.resolved||[]).map(x=>`<li><strong>${esc(x.title)}</strong>${x.verdict?` <small class="muted">(${x.verdict==="obsolete"?"föråldrad":"löst"})</small>`:""}${x.why?` – ${esc(x.why)}`:(x.text?` – ${esc(x.text)}`:"")}</li>`).join("")}</ul></details>
     <h3>Mots\xe4gelser i underlaget</h3><div class="statgrid">${S.flags.conflicts.map(box).join("")}</div>
     ${groups}
     <h3>${chip("excluded")} Uteslutet</h3>
