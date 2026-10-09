@@ -12431,5 +12431,32 @@
   "child": "fr_catharinamansd1756_lene",
   "status": "verified",
   "basis": "Frykerud A I/7 C0037108_00043 (fol. 30, Lene): hushållet ”Måns Knutsson” 1711, ”H. Kerstin Nilsd” 1727, ”S. Måns” 1746, ”D. Stina” 1753, (överstruken) ”Catharina” 1756 ⁷⁄₁₁, ”D. Ingeborg Måns” 1761; A I/6 bild 75 ”d. Catarina Måns dr” 1756."
+ },
+ {
+  "id": "c-tomasz_mlodawski-anna_gebska-tomasz_mlodawski_1838",
+  "type": "child",
+  "parents": [
+   "tomasz_mlodawski",
+   "anna_gebska"
+  ],
+  "child": "tomasz_mlodawski_1838",
+  "status": "strong",
+  "basis": "Geneteka-index S Mniów 1838 akt 4: brudgum Tomasz Młodawski, föräldrar 'Tomasz, Anna Gębska'. Ej bildläst."
+ },
+ {
+  "id": "p-tomasz_mlodawski_1838-julianna_kotwica",
+  "type": "partner",
+  "a": "tomasz_mlodawski_1838",
+  "b": "julianna_kotwica",
+  "status": "strong",
+  "basis": "Geneteka-index S Mniów 5.2.1838 akt 4. Ej bildläst."
+ },
+ {
+  "id": "p-wawrzyniec_orzechowski-tekla_orzechowska",
+  "type": "partner",
+  "a": "wawrzyniec_orzechowski",
+  "b": "tekla_orzechowska",
+  "status": "lead",
+  "basis": "Geneteka S 1840 akt 9 Ociesęki: Laurenty Orzechowski × Tekla Sieczka; endast namnlikhet, geografiskt osäker."
  }
 ]
