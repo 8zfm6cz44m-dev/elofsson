@@ -12767,5 +12767,139 @@
   "b": "stanislawa_smuga",
   "status": "strong",
   "basis": "Geneteka-index S 1934 akt 49, Kielce Katedra (Stefan Orzechowski, föräldrar Józef + Katarzyna Zatorska, 32 wdowiec ur. Szydłówek x Stanisława Smuga). Ej bildläst."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_florence_hildegae",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_florence_hildegae",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_joseph_theodore",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_joseph_theodore",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_lillian_marie",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_lillian_marie",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_dora_josephine",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_dora_josephine",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_paul_e",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_paul_e",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_harvey_victor",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_harvey_victor",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_arvid_v",
+  "type": "child",
+  "parents": [
+   "d7_andrew_leaf",
+   "d7_maria_jonasdotter_skogsberg"
+  ],
+  "child": "d7_leaf_arvid_v",
+  "status": "strong",
+  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
+ },
+ {
+  "id": "p-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg",
+  "type": "partner",
+  "a": "d7_andrew_leaf",
+  "b": "d7_maria_jonasdotter_skogsberg",
+  "status": "strong",
+  "basis": "Vigsel 3 maj 1899 Woodbury, Iowa: Andrew Leaf – Mary Thogsberg/Skogsberg."
+ },
+ {
+  "id": "p-d7_albert_okerman-d7_elin_jonasdotter_skogsberg",
+  "type": "partner",
+  "a": "d7_albert_okerman",
+  "b": "d7_elin_jonasdotter_skogsberg",
+  "status": "strong",
+  "basis": "Census 1910 Edgerton: Albert Okerman head, hustru Ellen (= Elin Skogsberg, MN 1905)."
+ },
+ {
+  "id": "p-d7_john_skogsberg-susan",
+  "type": "partner",
+  "a": "d7_jonte_skogsberg_1873",
+  "b": "d7_susan_skogsberg_john",
+  "status": "candidate",
+  "basis": "Census 1940 Plymouth Iowa: John Skogsberg 67 med hustru Susan 55."
+ },
+ {
+  "id": "c-d7_albert_okerman-d7_elin_jonasdotter_skogsberg-d7_okerman_marie",
+  "type": "child",
+  "parents": [
+   "d7_albert_okerman",
+   "d7_elin_jonasdotter_skogsberg"
+  ],
+  "child": "d7_okerman_marie",
+  "status": "strong",
+  "basis": "Census 1910 Edgerton MN: barn i hushållet med Albert och Ellen Okerman."
+ },
+ {
+  "id": "c-d7_albert_okerman-d7_elin_jonasdotter_skogsberg-d7_okerman_melford",
+  "type": "child",
+  "parents": [
+   "d7_albert_okerman",
+   "d7_elin_jonasdotter_skogsberg"
+  ],
+  "child": "d7_okerman_melford",
+  "status": "strong",
+  "basis": "Census 1910 Edgerton MN: barn i hushållet med Albert och Ellen Okerman."
+ },
+ {
+  "id": "c-d7_albert_okerman-d7_elin_jonasdotter_skogsberg-d7_okerman_thiel",
+  "type": "child",
+  "parents": [
+   "d7_albert_okerman",
+   "d7_elin_jonasdotter_skogsberg"
+  ],
+  "child": "d7_okerman_thiel",
+  "status": "strong",
+  "basis": "Census 1910 Edgerton MN: barn i hushållet med Albert och Ellen Okerman."
  }
 ]

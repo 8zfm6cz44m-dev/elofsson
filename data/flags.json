@@ -873,6 +873,13 @@
    ],
    "priority": 3,
    "next_step": "Zooma akt 319/1855 Niewachłów och kolla Geneteka."
+  },
+  {
+   "title": "John Skogsberg födelsemånad",
+   "text": "Dödsregister/Find a Grave: 19 jan 1873; SCB/husförhör: 19 juli 1873. Ingen draft card/naturalisering funnen i indexet som avgör.",
+   "persons": [
+    "d7_jonte_skogsberg_1873"
+   ]
   }
  ],
  "conflicts": [
@@ -1497,6 +1504,14 @@
     "elof_nilsson",
     "nils_larsson_toltan",
     "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Matilda Nilsson Sylvander levde i USA 1900",
+   "text": "Pennsylvania-födelseindex: Ester Sylvander f. 1900 Hamlin Twp, McKean, mor Mathilda. BN1 antog att hon var död före 1910 utan USA-spår; hon kom alltså till USA (eller kvarstod) och dog mellan 1900 och 1910.",
+   "persons": [
+    "d7_matilda_nilsson_sylvander",
+    "d7_anders_sylvander"
    ]
   }
  ],
