@@ -15375,9 +15375,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1749",
-   "place": "Ö. Takene, Brunskog",
-   "note": "Dödbok F I/1 b.64: ”född 1749 ²⁴⁄₁₂ [?]” – dag/månad svårläst; ålder 49½ år vid död 16/7 1798 ger jan–feb 1749. Föräldrar enligt dödboken: ”Wäl. H. Olof Persson och h. Kjersti Ers.d(?)”."
+   "date": "1749-12-24",
+   "place": "Ö. Takene, Brunskog"
   },
   "died": {
    "date": "1798-07-16",
@@ -15388,7 +15387,8 @@
   ],
   "summary": "Bonde i Takene, f. 1749, son till Olof Persson och Kjersti (halvbror till Olof Olsson f. 1731?); gift 1776 med pigan Kari Nilsdotter från Skog (f. 1751); död 16/7 1798 (49½ år), begravd 22/7 1798.",
   "notes": [
-   "DÖDBOK F I/1 1798 bild 64 (s. 101), nr 24 (margin ”Julii 22 | 24”): ”Wäl. H. Olof Olsson i Takene ibm född 1749 ²⁴⁄₁₂ [?] af Wäl. H. Olof Persson och h. Kjersti Ers.d. Gift 1776 ²⁰⁄₁₂ [?] med Pigan Kari Nilsd. från Skog. Afled den 16 sistl. [juli] af svindning efter … 49½ år.” Hustruns egen dödpost (b.90, 1804) bekräftar att hon var änka efter ”Wäl. Olof Olsson fr. Ö. Takene, som afled 1798 ¹⁶⁄₇”."
+   "DÖDBOK F I/1 1798 bild 64 (s. 101), nr 24 (margin ”Julii 22 | 24”): ”Wäl. H. Olof Olsson i Takene ibm född 1749 ²⁴⁄₁₂ [?] af Wäl. H. Olof Persson och h. Kjersti Ers.d. Gift 1776 ²⁰⁄₁₂ [?] med Pigan Kari Nilsd. från Skog. Afled den 16 sistl. [juli] af svindning efter … 49½ år.” Hustruns egen dödpost (b.90, 1804) bekräftar att hon var änka efter ”Wäl. Olof Olsson fr. Ö. Takene, som afled 1798 ¹⁶⁄₇”.",
+   "Dop C I/2 (C0036783) bild 73 nr 52, 24 dec 1749, son till Olof Persson och Kjersti Pehrsd i Öst. Takene"
   ],
   "sources": [
    {
@@ -20217,7 +20217,7 @@
  {
   "id": "d7_sylvander_anna",
   "name": "Anna Andersdotter Sylvander",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -20264,7 +20264,7 @@
  {
   "id": "d7_sylvander_nils",
   "name": "Nils Andersson Sylvander",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20305,7 +20305,7 @@
  {
   "id": "d7_sylvander_johan",
   "name": "Johan Andersson Sylvander",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -20349,7 +20349,7 @@
  {
   "id": "d7_sylvander_hulda",
   "name": "Hulda Andersdotter Sylvander",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -21395,7 +21395,7 @@
  {
   "id": "no_kaisa_ellefsd42",
   "name": "Kaisa Ellefsdatter (f. 1842 Brunskog, Kristiania)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -39954,7 +39954,7 @@
  {
   "id": "fr_nilsbryngelsson_lene",
   "name": "Nils Bryngelsson (Lene, Frykerud)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
