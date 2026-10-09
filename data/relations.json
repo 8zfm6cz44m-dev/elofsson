@@ -3700,8 +3700,8 @@
   "type": "partner",
   "a": "per_olofsson_1747",
   "b": "anna_nilsd52",
-  "status": "strong",
-  "basis": "Dödbok F I/1 b.103 (1806) nr 33: ”Gift 1775 26/12 med Pig. Anna Nilsd. fr. Skog”. Identitet med Anna Nilsd. f. 1752 (dotter till Nils Jonsson) är strong, inte verified."
+  "status": "verified",
+  "basis": "Dödbok F I/1 b.103 (1806) nr 33: ”Gift 1775 26/12 med Pig. Anna Nilsd. fr. Skog”. Identitet med Anna Nilsd. f. 1752 (dotter till Nils Jonsson) är strong, inte verified. VERIFIERAD (omgång 24): Brunskog vigselbok E I/2 (C0036787) bild 29 (s. 37), ”Wigde 775”, 26 Dec, nr 16: ”Dr. Per Olofsson: Ö. Takene och P. Anna Nilsd: i Skog.” (läsning av förnamn/by något osäker; nr 12 samma dag är en annan Per Olofsson: ”Bäckelid … Marit Jonsd. från Toltan”). Stämmer med dödbokens ”Gift 1775 26/12 med Pig. Anna Nilsd. fr. Skog”. https://sok.riksarkivet.se/bildvisning/C0036787_00029"
  },
  {
   "id": "p-olof_persson_takene-kjersti_pers_takene",
@@ -7663,8 +7663,8 @@
    "d7_maria_olsdotter_takene_enka"
   ],
   "child": "d7_arvid_adolf_leander_persson",
-  "status": "strong",
-  "basis": "HUSFÖRHÖR A I/37 bild 169 (fol. 173), Östra Takene: ”Pig. enk. Maria Olsdotter … 19/12 Svartåna; Son Arvid Adolf Leander Persson 8? 29/4 Nordamerika” – uttryckligen ”Son”; fadern ej angiven."
+  "status": "verified",
+  "basis": "HUSFÖRHÖR A I/37 bild 169 (fol. 173), Östra Takene: ”Pig. enk. Maria Olsdotter … 19/12 Svartåna; Son Arvid Adolf Leander Persson 8? 29/4 Nordamerika” – uttryckligen ”Son”; fadern ej angiven. VERIFIERAD (omgång 24): Brunskog husförhör A I/37 (C0036776) bild 169, fol. 173, Östra Takene: ”Pig. enk. Maria Olsdotter 6? 19/12 Svartåna” följt av ”Son Arvid Adolf Leander Persson 8? 29/4 Nordamerika” (båda överstrukna). Uttryckligt ’Son’ under modern; fadern anges ej. https://sok.riksarkivet.se/bildvisning/C0036776_00169"
  },
  {
   "id": "c-jo_august_andersson54-jo_nilsoskar81",
