@@ -1176,7 +1176,8 @@
    "SLUTSATS EMIGRATIONSMOTSÄGELSE: Ellis Island 1923 (Berengaria, 10 aug 1923, ”Johan Olaf Olsson”, 36 år, carpenter, hustru Hilda i Brunsberg) är förenligt med att samme Johan Olof (f. 1886 Brunskog, korpral/byggnadssnickare, hustru Hulda) gjorde en resa/temporär vistelse i USA och sedan återvände (död Lycka 1945) – inget i 1896–1909-längden talar emot. Återresa/hemkomst 1923–24 ej belagd (A II a/3–4, 1909–1920, kräver inloggning hos Riksarkivet).",
    "H2 (2026-10-06): Rotemansarkivet (sok.stockholm.se) kunde inte nås (DNS-fel från WebFetch) och WebSearch gav ingen träff på Johan Olof Olsson/Klara 1907–10. Utflyttningsnoteringen Klara/Stockholm 1907 (Brunskog A II a/1 bild 307) är därmed ej följd upp i Stockholm. Nästa steg: Rotemansarkivet i egen webbläsarflik av användaren, sök Olsson, Johan Olof f. 1886-09-23.",
    "FOLKRÄKNING 1910 Takene: Olsson, Johan Olof f. 1886 Brunskog, Korpral, i fam. nr 3 (samma hushåll som föräldrarna Olof August Johannesson, fam. nr 1). 1930: Arvika, Kv. 67 Elgen no 3, Byggnadssnickarbetare, inflyttad 1930 från Brunskog, skolbildning 3.",
-   "HUSFÖRHÖR A II a/3 bild 286 (Takene, ”41. Lyckan”, rad 4 och 9): ”s. Johan Olof Olsson Korpral” (86 23/9, f. Takene) i hushållet Olof August Johannesson/Maria Olsson; inflyttad ”K. Svea Ingeniörk. Stockholm 09 20/8” (rad 4); anm. ”Fäst 20/8 09 m. Hulda Eriksson p. 180”; rad 9 ”Gifte s. Korpral Johan Olof Olsson”, gift-kolumn ”09 25/9”, utflyttningskolumn ”Arvika stad 27/9 1913” (Nr 417 48/07)."
+   "HUSFÖRHÖR A II a/3 bild 286 (Takene, ”41. Lyckan”, rad 4 och 9): ”s. Johan Olof Olsson Korpral” (86 23/9, f. Takene) i hushållet Olof August Johannesson/Maria Olsson; inflyttad ”K. Svea Ingeniörk. Stockholm 09 20/8” (rad 4); anm. ”Fäst 20/8 09 m. Hulda Eriksson p. 180”; rad 9 ”Gifte s. Korpral Johan Olof Olsson”, gift-kolumn ”09 25/9”, utflyttningskolumn ”Arvika stad 27/9 1913” (Nr 417 48/07).",
+   "Slagen ihop med ei_johan_olaf_olsson_1923 (omgång 48): Ellis Island-manifestet 10/8 1923 (Johan Olaf Olsson, 36 år, Brunsberg; hustru Hilda, destination Jamestown NY) bedömdes (triage omgång 48) höra till Johan Olof Olsson, vars svåger Erik Johan Eriksson bodde i Jamestown. Ej verifierat mot manifestbilden av chefen. Gift man, 36 år, indexerad som boende i 'Brunsberg, Sweden', ankom Ellis Island 10 aug 1923 med S.S. Berengaria från Southampton. Identitet mot Johan Olof Olsson (johan, f. 1886-09-23 Brunskog, d. 1945) ej fastställd."
   ],
   "sources": [
    {
@@ -1240,6 +1241,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A II a/3 (1909-1920), Takene nr 41 Lyckan, bild 286 (sid 281): Johan Olof Olsson, korpral, f. 86 23/9; inflyttad Kungl. Svea Ingeniörkår Stockholm 09 20/8; gift 09 25/9; utflyttad Arvika stad 27/9 1913",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00286"
+   },
+   {
+    "label": "Statue of Liberty-Ellis Island Foundation, Passenger JNXV-W62, T715-3347-477 rad 15: Johan Olaf Olsson, 10 Aug 1923, Berengaria, ålder 36, gift, Brunsberg",
+    "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
    }
   ],
   "images": [
@@ -2695,10 +2700,8 @@
    "Amerika (utflyttad aug 1903)",
    "Mt. Jewett, Pennsylvania (destination okt 1903)"
   ],
-  "summary": "Huldas bror och Elofs morbror (folkräkningar 1880–1900). Född 1878-12-30 i Brunskog, emigrerade till Nordamerika 1903. Destinationen i USA är olöst.",
-  "flags": [
-   "USA-spår olöst"
-  ],
+  "summary": "Huldas bror och Elofs morbror (folkräkningar 1880–1900). Född 1878-12-30 i Brunskog, emigrerade till Nordamerika 1903 (Mt. Jewett, Pennsylvania; 1915–30 Jamestown NY; senare Dewey/Tulsa, Oklahoma; död 1969 Tulsa).",
+  "flags": [],
   "notes": [
    "FOLKRÄKNINGAR 1880, 1890 och 1900: barn i Erik Nilssons och Anna Andersdotters hushåll på Skog, Brunskog. Finns kvar hemma 1900 – emigrerade alltså mellan 1900 och 1903. Han är därmed belagd som Huldas bror och Elofs morbror.",
    "NYTT 2026-10-02: Registerpost 389452 skapades i följd med Zetterlund-familjen (389449–389455). Patronymikon Eriksson. Han är därmed mycket stark kandidat som Huldas bror – det förklarar varför USA-spåret finns i familjens minne.",
@@ -18615,7 +18618,7 @@
  },
  {
   "id": "antonina_zatorska_n",
-  "name": "Antonina Zatorska (f. 'Ksiołów'?)",
+  "name": "Antonina Zatorska (f. Ksioł)",
   "status": "verified",
   "sex": "f",
   "living": false,
@@ -18630,7 +18633,7 @@
   "places": [
    "Szydłówek"
   ],
-  "summary": "Mor till Katarzyna Zatorska; avliden före 1895. Flicknamn läst 'изъ Ксолювъ' (osäkert).",
+  "summary": "Mor till Katarzyna Zatorska; avliden före 1895. Född 20/5 1839 Szydłówek (Katedra akt 257), dotter till Jan Ksioł och Agata Osuch (strong).",
   "notes": [
    "VIGSEL 1895 akt 169: «Іосифа и Антонины изъ Ксолювъ» – flicknamnet osäkert.",
    "Flicknamn i akt 550 (1871) läses 'изъ Осуховъ' (Osuch?) - avviker från tidigare läsning 'изъ Ксолювъ' (Ksiołów?) i vigselakten 1895; kontrollera originalet om möjligt. Ålder 30 år okt 1871 -> f. ca 1841.",
@@ -20072,7 +20075,7 @@
    "Takene, Brunskog",
    "Strömtorp"
   ],
-  "summary": "Predikant i Missionsförbundet; 70-årsnotis 1916: efter tjänst i Stora Tuna flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Svärfadern ej namngiven – möjligen Olof Olsson i Takene (d. 1896)? Ej belagt.",
+  "summary": "Predikant i Missionsförbundet; 70-årsnotis 1916: efter tjänst i Stora Tuna flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Svärfadern är Olof Jansson (hustrun Britta är hans dotter, britta_oj52) – inte Olof Olsson.",
   "notes": [
    "MISSIONSVÄNNEN 1916-11-21 s.7 (OCR): ”Den 4 oktober fyllde predikant Petrus Johansson i Strömtorp 70 år. Han var år 1846 född i Väse … År 1874 antog han kallelse till Värmlandsnäs … Efter fem och ett halft års verksamhet därstädes flyttade han till Brunskog där han genom köp övertog sin svärfaders gård Takene. Emellanåt och särskildt under vintern verkade han som predikant i Brunnskog, på Hammarön, Gr…”",
    "KONTROLL: Svärfadern kan vara Olof Olsson i Takene (d. 27/11 1896, 92 år) men hans dotter var enligt Svenska Morgonbladet gift med predikanten D. Hagström i Arvika – så en andra dotter/annan svärfader måste klarläggas (husförhör Takene 1885–1895, Brunskog A I/30–A I/36).",
@@ -21639,38 +21642,6 @@
   ],
   "search": [
    "Britta Olofsdotter (f. 1728, hustru till Jakob Jonsson, Åmot)"
-  ]
- },
- {
-  "id": "ei_johan_olaf_olsson_1923",
-  "name": "Johan Olaf Olsson (Ellis Island 1923, Brunsberg)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "born": {
-   "date": "1887",
-   "place": "",
-   "note": "Beräknat ur ålder 36 vid ankomst; indexerat födelseår 1887"
-  },
-  "places": [
-   "Brunsberg, Sweden",
-   "Southampton",
-   "Ellis Island"
-  ],
-  "summary": "Gift man, 36 år, indexerad som boende i 'Brunsberg, Sweden', ankom Ellis Island 10 aug 1923 med S.S. Berengaria från Southampton. Identitet mot Johan Olof Olsson (johan, f. 1886-09-23 Brunskog, d. 1945) ej fastställd.",
-  "notes": [
-   "INDEX (statueofliberty.org, Passenger ID JNXV-W62): Johan Olaf Olsson; Date of Arrival 10 August 1923; Last Residence 'Brunsberg, Sweden'; Marital Status Married; Gender Male; Age at Arrival 36; Year of Birth 1887; Place of Departure Southampton; Ship Berengaria; Image Reference T715-3347-477; Line Number 0015; Nationality Sweden, Swedish.",
-   "OBS: manifestraden (anhörig i hemlandet, destination/släkting i USA, födelseort) ej läst – sidbilden (bild 477 av 781) visas bara i låg upplösning i webbvisaren och gick inte att läsa; hel bild är en betald produkt (35 USD). Namn i index: Brunsberg (ej Brunskog/Takene) – kan vara annan person eller felskrivning/felindexering.",
-   "FAMILYSEARCH BN2: ej utrett vidare (ingen ny post)."
-  ],
-  "sources": [
-   {
-    "label": "Statue of Liberty-Ellis Island Foundation, Passenger JNXV-W62, T715-3347-477 rad 15: Johan Olaf Olsson, 10 Aug 1923, Berengaria, ålder 36, gift, Brunsberg",
-    "url": "https://www.statueofliberty.org/arrival-details/?id=JNXV-W62"
-   }
-  ],
-  "search": [
-   "Johan Olaf Olsson (Ellis Island 1923, Brunsberg)"
   ]
  },
  {
@@ -25231,7 +25202,7 @@
  },
  {
   "id": "z_johan_albin_efraim",
-  "name": "Johan Albin Efraim Johannesson (Zetterlund)",
+  "name": "Johan Albert Efraim Johannesson (Zetterlund)",
   "status": "verified",
   "sex": "m",
   "living": false,
@@ -25243,7 +25214,8 @@
   "summary": "Barn till Johannes Zetterlund och Magdalena Andersdotter (Elofs mors kusin). Länk via husförhörs-/folkräkningshushåll utan uttrycklig ’d./s.’ i hushållslistan.",
   "notes": [
    "FOLKRÄKNING: 1890: ”Johan Albert Efraim, f. 1878 i Siklaö, Stockh. l.”; 1900 samma. A I/35: ”Johan Albin Efraim 78”. Födelseort Stockholms län (Johannes bodde tidigt i Stockholmstrakten).",
-   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station (rad 19, intill brodern David Emanuel rad 14): ”Zetterlund, Johan Albert Efraim” f. 1878 i Sicklaö Stockholms län, stationskarl, gift; 1930 Eda, Åmotsfors station: stationskarl, gift 1903, inflyttad 1916 från Karlskoga. Namnet ”Albin” i filen bör rättas till ”Albert”."
+   "FOLKRÄKNING 1910 Stora Kil, Frykstad Station (rad 19, intill brodern David Emanuel rad 14): ”Zetterlund, Johan Albert Efraim” f. 1878 i Sicklaö Stockholms län, stationskarl, gift; 1930 Eda, Åmotsfors station: stationskarl, gift 1903, inflyttad 1916 från Karlskoga. Namnet ”Albin” i filen bör rättas till ”Albert”.",
+   "Namnet är Albert (folkräkningarna 1890–1930), inte Albin – rättat omgång 48."
   ],
   "sources": [
    {
@@ -28750,33 +28722,6 @@
   ]
  },
  {
-  "id": "johannes_ao73",
-  "name": "Johannes Andersson (Olsson) (f. 1873)",
-  "status": "verified",
-  "sex": "m",
-  "living": false,
-  "summary": "Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson.",
-  "notes": [
-   "FOLKRÄKNING 1880 Ö. Takene sida 29: Johannes f. 1873 i Brunskog, i hushållet Anders Olsson/Stina Elofsdotter (barn enligt hushållsuppbyggnad; familjeställning ej utläst)."
-  ],
-  "sources": [
-   {
-    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Johannes f. 1873 i hushållet Anders Olsson",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
-   }
-  ],
-  "born": {
-   "date": "1873",
-   "place": "Brunskog"
-  },
-  "places": [
-   "Ö. Takene, Brunskog"
-  ],
-  "search": [
-   "Johannes Andersson (Olsson) (f. 1873)"
-  ]
- },
- {
   "id": "annalisa_ao76",
   "name": "Anna Lisa Andersson, g. Berggren (f. 1876)",
   "status": "verified",
@@ -29481,7 +29426,7 @@
  },
  {
   "id": "ao4_olof_olsson93",
-  "name": "Olof Olsson (f. 6/2 1793), inhyses Ö. Takene",
+  "name": "Olof Nilsson (f. 6/2 1793), inhyses Ö. Takene",
   "status": "verified",
   "sex": "m",
   "living": false,
@@ -29499,7 +29444,8 @@
    "Husförhör A I/17 b.144 anger ”Olof Nilsson 6/2 93” (tydligt Nilsson), vår post har Olsson – kontrollera patronymikon.",
    "Namnet bör vara Olof Nilsson (både husförhör A I/17 b.144 och dopposterna 1825/1831/1834 ger patronymikon Nilsson).",
    "DOP Brunskog C I/3 1793, bild 44 (s. 65), nr 8, 6 febr: ”Takene Olof – Nils Jonsson / Lisa Larsd 53 – Måns Jonsson, Kari Jonsd”. Födelsedagen 6/2 stämmer med husförhörets ”6/2 93”, patronymikon Nilsson stämmer med fadern Nils Jonsson. (Dopet nr 7 samma dag-vecka, ”Takene Olof – Olof Olsen / Ingjerd Nilsd”, född 30/1, är annan Olof, överstruket.) Föreslagen rättelse: namnet Olof Nilsson, inte Olsson.",
-   "VIGSEL Brunskog E I/3 (C0036788) bild 52 (s. 77), lysning 1822: ”Emellan Tjenstedräng Olof Nilson från Takene och pigan Marit Olsdotter därstädes” – vigd 8/10 1822 (läsning av datum osäker)."
+   "VIGSEL Brunskog E I/3 (C0036788) bild 52 (s. 77), lysning 1822: ”Emellan Tjenstedräng Olof Nilson från Takene och pigan Marit Olsdotter därstädes” – vigd 8/10 1822 (läsning av datum osäker).",
+   "Namnrättelse omgång 48: dop 1793 (C I/3 bild 44) anger fadern Nils Jonsson – patronymikon Nilsson."
   ],
   "sources": [
    {
@@ -30552,7 +30498,8 @@
    "FOLKRÄKNING 1910 Brunskog, Årnäs, sida 40 rad 19: Berggren, Johannes f. 1873 Brunskog, Byggmästare; hustru Betty; barn Hildur Ingegärd 1900, Johan Maritz 1898, Nanny Maria 1902, Ellen Elisabet 1904, Olof Gustaf 1907.",
    "FOLKRÄKNING 1930 Brunskog, Årnäs, sida 34 rad 5: Berggren, Johannes f. 1873 Brunskog, Byggnadssnickare, biyrke jordbrukare, gift 1928 (Vigselår 1928); Engström, Elin f. 1886 Stavnäs; Elof Gustav f. 1907, Snickare.",
    "KOPPLING: Anslutning till Stina Elofsdotters barn är sannolik (född Brunskog 1873; systern Anna Lisa f. 1876 bar efternamnet Berggren i Stinas hushåll 1900/1910; dottern Hildur Ingegärd uppkallad Ingegärd) men ingen uttrycklig familjeställning mot föräldrarna är läst.",
-   "Födelsedatum 19 feb 1873 (SCB födelse 1873 rad 19 + SCB vigsel 1897 nr 11); gift 11 dec 1897 med Betty Persson (f. 1870-03-23(?) Kyrkobyn, ägardotter). Föräldrar Anders Olsson + Stina Elofsdotter, Ö. Takene."
+   "Födelsedatum 19 feb 1873 (SCB födelse 1873 rad 19 + SCB vigsel 1897 nr 11); gift 11 dec 1897 med Betty Persson (f. 1870-03-23(?) Kyrkobyn, ägardotter). Föräldrar Anders Olsson + Stina Elofsdotter, Ö. Takene.",
+   "Slagen ihop med johannes_ao73 (omgång 48): Johannes Andersson (Olsson) f. 1873, barn i Anders Olssons och Stina Elofsdotters hushåll Ö. Takene 1880 = Johannes Berggren (föräldrar Anders Olsson/Stina verified via SCB 1873/1897). Barn i Anders Olssons och Stina Elofsdotters hushåll på Ö. Takene 1880 (folkräkning); syskonbarn till Olof Elofsson."
   ],
   "sources": [
    {
@@ -30566,6 +30513,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Brunskog, Årnäs, sida 34: Berggren, Johannes, Byggnadssnickare",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884367&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880 Brunskog Ö. Takene sida 29: Johannes f. 1873 i hushållet Anders Olsson",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120423232&tab=post"
    }
   ],
   "search": [
@@ -35690,11 +35641,8 @@
    "Degerfors",
    "Toltan, Brunskog"
   ],
-  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Troligen identisk med Rut Olsson, g. 1925 med Adolf Wilhelm Nilsson, Toltan (”f. Olsson” – modern Britta Olsdotters patronymikon?). Identiteten ej styrkt.",
-  "notes": [
-   "FOLKRÄKNING 1930 Brunskog Toltan s.26 r.24 (Folk_128883994): ”Olsson, Rut f. 1894 Brunskog, gift 1925, h., f. Olsson” hos Adolf Wilhelm Nilsson. Rut f. 1894 i Brunskog syns även 1910 i Petrus Johanssons hushåll; kopplingen bygger på namn + födelseår/-ort + patronymet Olsson.",
-   "SCB födelse Brunskog moder 1894 (A0036609_00460, nr 71): Rut f. 11 okt, föräldrar 'Johansf. Petrus, Eg.' + 'Olsd:r Brita, Takene'. Hon är INTE gift 1925 med Adolf Wilhelm Nilsson – ta bort 'g. 1925 Adolf Wilhelm Nilsson' ur namn/summary/notes (den som gifte sig 31 dec 1925 var Rut Olsson f. 23/11 1894, Wikene)."
-  ],
+  "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll, f. 11/10 1894. Hålls isär från Rut Olsson f. 1894 Wikene (g. 1925 med Adolf Wilhelm Nilsson); giftermålet 1925 gäller inte henne.",
+  "notes": [],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",

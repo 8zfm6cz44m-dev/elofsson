@@ -6989,15 +6989,15 @@
   "child": "maria_ao68"
  },
  {
-  "id": "c-anders_olsson31-stina_e-johannes_ao73",
+  "id": "c-anders_olsson31-stina_e-jb73_berggren",
   "type": "child",
   "status": "verified",
-  "basis": "Folkräkning 1880 Ö. Takene s.29: Johannes f. 1873 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423236: Johannes; f. 1873 Brunskog; s.; Barn; rad 15.",
+  "basis": "Folkräkning 1880 Ö. Takene s.29: Johannes f. 1873 i hushållet Anders Olsson/Stina Elofsdotter (familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1880 Ö. Takene s.29 (Folk_120423231: Olsson, Anders f. 1831 Brunskog, Far/man, rad 10; Folk_120423232: Elofsdotter, Stina f. 1835 Brunskog, h., Mor/fru), Folk_120423236: Johannes; f. 1873 Brunskog; s.; Barn; rad 15. | Dubblett: Född Brunskog 1873; Berggren samma efternamn som systern Anna Lisa (f. 1876) i Stinas hushåll 1900/1910; hushållet 1880 Ö. Takene innehåller Johannes f. 1873. Ingen uttrycklig familjeställning mot för",
   "parents": [
    "anders_olsson31",
    "stina_e"
   ],
-  "child": "johannes_ao73"
+  "child": "jb73_berggren"
  },
  {
   "id": "c-anders_olsson31-stina_e-annalisa_ao76",
@@ -7955,17 +7955,6 @@
   "child": "ivar_georg_nilsson01",
   "status": "verified",
   "basis": "Folkräkning 1910 Takene s.28 rad 9: Ivar Georg f. 1901 i hushållet Johan Nilsson/Kristina; 1930 hos modern (Johansson). VERIFIERAD (omgång 24): FOLKRÄKNING 1910 Brunskog, Takene, s.28 rad 10 (Folk_125549899): ”Ivar Georg, f. 1901 i Brunskog, Familjeställning s., Famstkod Barn”, Fam. nr 1 med ”Nilsson, Johan, f. 1857 i Brunskog, Hemmansägare” och ”Persdotter, Kristina, f. 1863 i Boda”. Barnets födelseår/ort stämmer (1901 Brunskog)."
- },
- {
-  "id": "c-anders_olsson31-stina_e-jb73_berggren",
-  "type": "child",
-  "parents": [
-   "anders_olsson31",
-   "stina_e"
-  ],
-  "child": "jb73_berggren",
-  "status": "verified",
-  "basis": "Född Brunskog 1873; Berggren samma efternamn som systern Anna Lisa (f. 1876) i Stinas hushåll 1900/1910; hushållet 1880 Ö. Takene innehåller Johannes f. 1873. Ingen uttrycklig familjeställning mot föräldrarna för Berggren-posten. VERIFIERAD (omgång 24): SCB-födelseutdrag Brunskog 1873 (A0035965_00321, https://sok.riksarkivet.se/bildvisning/A0035965_00321), rad 19: 'Johannes, 5:te barnet i 1:a äktenskapet', född 19 (februari) 1873, föräldrar 'Östra Takene Bonden Unge(?) Anders Olsson och hustrun Stina Elofsdotter, gifta 13 år' (läsning av rad 19; 'Unge(?)' osäker). SCB-vigselutdrag Brunskog 1897 (A0036700_00941, nr 11, https://sok.riksarkivet.se/bildvisning/A0036700_00941): 'Johannes Berggren, Egson fr. Takene', född 73 19/2 (läst '19/2'), gift 11 dec 1897 med 'Betty Persson, Egdotter fr. Kyrkobyn' f. 70. Samma födelsedatum 19 feb 1873, samma gård (Takene, ägarson) och unik gosse f. 19/2 1873 i Brunskog => Johannes Berggren är Johannes Olsson f. 19 feb 1873, son till Anders Olsson och Stina Elofsdotter. (Berggren = tillagt släktnamn; även systern Anna Lisa f. 1876 bär Berggren.)"
  },
  {
   "id": "p-jb73_berggren-betty_persson70_berggren",
@@ -10095,8 +10084,8 @@
   "type": "partner",
   "a": "aq1_adolf_nilsson84",
   "b": "aq1_rut_pj94",
-  "status": "verified",
-  "basis": "Folkräkning 1930 Toltan s.26: Rut f. 1894, h. (vigselår 1925) i Adolf Wilhelm Nilssons hushåll (partnerskapet är verifierat; Ruts identitet som Petrus dotter är candidate)."
+  "status": "excluded",
+  "basis": "Folkräkning 1930 Toltan s.26: Rut f. 1894, h. (vigselår 1925) i Adolf Wilhelm Nilssons hushåll (partnerskapet är verifierat; Ruts identitet som Petrus dotter är candidate). DEMENTERAD (omgång 48): Adolf Wilhelm Nilssons hustru är Rut Olsson f. 23/11 1894 Wikene (rut_olsson_1894_wikene), inte Rut Johansson f. 11/10 1894 (Petrus Johanssons dotter)."
  },
  {
   "id": "c-aq1_adolf_nilsson84-aq1_rut_pj94-aq1_ingrid_nilsson27",
