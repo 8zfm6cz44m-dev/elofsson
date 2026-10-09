@@ -2340,8 +2340,8 @@
   "type": "partner",
   "a": "olof_ihrsson_toltan45",
   "b": "marit_jonsd21",
-  "status": "lead",
-  "basis": "Vigselbok E I/1 bild 64, 1745 nr 5: ”d 29 Dec: Dr. Olof Ihrsson(?) från Toltan, pig. Marit Jons dr från Skog.” Osäkert om detta är samma Marit som Nils Jonssons hustru – SE FLAGGA."
+  "status": "verified",
+  "basis": "Vigsel E I/1 bild 64 nr 5: ”d 29 Dec: Dr. Olof Pehrsson från Toltan, pig: Marit Jons d:r från Skog”; dödbok (E I/1) bild 117 1748 nr 5: ”unge Mannen Olof Pehrsson från Skog, som lefwat med H. Marit från d 29 Dec: 1745, til d 9 Jan: 1748”; Marits dödpost F I/1 bild 80 (1802): ”Gift 1:o 1745 26/12 med Dr Olof Persson från Skog, som afled 1748”."
  },
  {
   "id": "c-olof_andersson33-kjersti_jonsd28-jonas_olofsson57",
@@ -7340,8 +7340,8 @@
    "ao4_olof_andersson_takene"
   ],
   "child": "olof_olsson_takene_1896",
-  "status": "lead",
-  "basis": "Dop 1804 C I/3 b.80 nr 47: ”Ö. Takene Olof – Olof Andersson / Marit Olsd.” – endast kandidatdop."
+  "status": "excluded",
+  "basis": "Dop 1804 C I/3 b.80 nr 47: ”Ö. Takene Olof – Olof Andersson / Marit Olsd.” – endast kandidatdop. | BU1 2026-10-10 motbevisad: BU1: Rätt dop är C I/3 bild 78 nr 18 (24/9 1804, föräldrar Olof Olofsson och Ingjerd Nilsd. 61) – husförhörets födelsedag 24/9 04 och modern Ingjerd i hushållet. Nr 47 (bild 80, Olof Andersson/Marit Olsd.) är en annan Olof."
  },
  {
   "id": "s-nils_ne-zetterlund",
@@ -12968,5 +12968,32 @@
   "b": "lars_nilsson_toltan",
   "status": "lead",
   "basis": "Mantal 1718 (A0003197 bild 488 hö) och 1719 (A0003198 bild 505 vä): ”Lasse Nilsson / Elof Nilsson” på varandra följande rader i Toltan-gruppen; samma patronymikon. ”Lasse ibid” fadder 2/2 1718 (C I/1 bild 113) hos ”…Nilsses o: h. Marits i Tolton barn”. Ej bevisat."
+ },
+ {
+  "id": "s-olof_nilsson54-britta_nilsd_toltan48",
+  "type": "sibling",
+  "a": "olof_nilsson54",
+  "b": "britta_nilsd_toltan48",
+  "status": "verified",
+  "basis": "Dödbok F I/1 bild 94 (1805): Britta f. Toltan 4/3 1748 ”af Nils Persson och H. Marit Nilsd.”; dop C I/2 bild 90 nr 23 (7/7 1754), omläst av BU1: ”Nils Pehrssons och hust. Marit Nilsdotter i Toltan Son Olof”. Samma föräldrapar (Nils Persson + Marit Nilsdotter) i samma by; jfr dop 1748 C I/2 bild 66 (Britta, Toltan)."
+ },
+ {
+  "id": "c-olof_olsson_s-ingierd_nilsd61-olof_olsson_takene_1896",
+  "type": "child",
+  "parents": [
+   "olof_olsson_s",
+   "ingierd_nilsd61"
+  ],
+  "child": "olof_olsson_takene_1896",
+  "status": "verified",
+  "basis": "Dop C I/3 bild 78 (Döpte 1804) nr 18: ”24 [Sept] Ö. Takene Olof – R. Olof Olofsson, Ingjerd Nils d:r 61”; husförhör A I/23 bild 147: ”B.u. Olof Olsson 24/9 04” med ”Mad. Enk. Ingjerd Nilsd. 20/11 61” i hushållet. Datum och moderns födelseår stämmer exakt."
+ },
+ {
+  "id": "p-fr_nilsbryngelsson_lene-ingeri_borjesd_lene",
+  "type": "partner",
+  "a": "fr_nilsbryngelsson_lene",
+  "b": "ingeri_borjesd_lene",
+  "status": "verified",
+  "basis": "Frykerud E I/1 bild 22 (1723): ”Nils Bryngelss. … Ingeri Börjesd. … 24 lod”; husförhör A I/2 bild 51 och A I/3 bild 60: ”Nils Bryngelsson / H: Ingeri Börjesd.”."
  }
 ]

@@ -105,32 +105,6 @@
    "source": "Riksarkivet: Boda husförhör A I/19 Södra Boda/Bodatorp/Renstad (fol 42-80, 217+), Boda dopbok C I/3 1855-58, husförhör A I/21-22 (1861-70)"
   },
   {
-   "title": "Olof Olsson (f. 24/?/1804, Ö. Takene, hustru Britta Nilsd. 1802) – son till Olof Olsson 1757 och Ingierd Nilsd.?",
-   "text": "A I/23 bild 147 (s. 135): ”B.u. Olof Olsson” f. ca 20–24/(3?)/1804 Brunskog, hustru Britta Nilsd. f. 3?/10 1802 Brunskog, barn Olof 22/?/1846, Britta 14/8? 1848(?), Nils 2?/10 1840, Ingierd ?/? 1845; i samma hushåll bor ”Mad. Enk. Ingjerd Nilsd.” (f. 20/11 1761, d. 1850). Sonskap till Ingierd/Olof Olsson 1757 ej bevisat: dopbok C I/3 bild 79–80 (1804) har bara en Ö. Takene-pojke Olof (nr 47, föräldrar Olof Andersson + Marit Olsd.), ingen Olof med föräldrar Olof Olsson/Ingierd – dopet kan ligga på annat blad eller vara 1803/1805. Obekräftat; ej registrerat som person.",
-   "persons": [
-    "ingierd_nilsd61",
-    "olof_olsson_s"
-   ],
-   "priority": 2,
-   "next_step": "Läs dopbok C I/3 1804 Ö. Takene och dödbok 1850 för Ingierds barn.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog dödbok F I/2 1896 (Olof Olsson Takene 92 år, ger födelsedatum/föräldrar) + dopbok C I/3 1803/1805"
-  },
-  {
-   "title": "Toltan: ’Nils Persson’ (dödbok 1805) eller ’Nils Ihrsson(?)’ (dopbok 1754)",
-   "text": "Britta Nilsdotters dödpost (F I/1 b.94, 1805) säger tydligt ”Nils Persson och H. Marit Nilsd.” i Toltan (f. 1748). Dopboken 1754 (C I/2 b.90 nr 23) lästes ”Nils Ihrsson(?) och Marit Nilsd.” som föräldrar till Olof Nilsson f. 1754. Troligen är ”Ihrsson” en felläsning av ”Persson”; då är Britta (1748) syster till Olof Nilsson (1754). Läs om dopet 1754 (b.90 nr 23) med fokus på fadersnamnet.",
-   "persons": [
-    "olof_nilsson54",
-    "nils_ihrsson_toltan",
-    "marit_nilsd_toltan",
-    "britta_nilsd_toltan48"
-   ],
-   "priority": 2,
-   "next_step": "Läs om C I/2 C0036783 bild 90 nr 23 och F I/1 bild 94.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog dopbok C I/2 (C0036783) bild 90 nr 23 (1754) och dödbok F I/1 bild 94 (1805)"
-  },
-  {
    "title": "Anders Andersson f. 1848 Brunskog – flera namnbröder",
    "text": "Folkräkningsindex 1880–1930 ger minst fem män Anders Andersson f. 1848 i Brunskog: (a) Spångedal statdräng m. Augusta Sandgren; (b) Nedre Ullerud handlande/gårdfarihandlare (1880 ogift, 1890 gift Mathilda Nilsdotter f. 1853 Gräsmark; 1930 inflyttad från Grava 1923, änkling sedan 1904); (c) Mölnerud hemmansägare 1910 m. Maria Bengtsdotter; (d) Anders ”Ax” Andersson, Slorud, inhyses (Folk_120422674) m. Anna Henriksdotter f. 1854; (e) Mangskog Åstenäs 1900 ogift med Kajsa Andersdotter f. 1821 (Folk_110650041). Kandidat (b) stöds av Grava-kopplingen (anders_ae48 dräng Grava 1872) men ingen post anger föräldrar. Kräver t.ex. Grava/Nedre Ullerud husförhör eller flyttbok.",
    "persons": [
@@ -143,18 +117,6 @@
    "next_step": "Skilj Anders Andersson f. 1848 per ort i folkräkning; koppla rätt person till anders_ae48.",
    "doable": true,
    "source": "Riksarkivet: husförhör Risäter/Nedre Ullerud 1880-90 (födelsedatum 30/8 1848?), Grava husförhör A I/20 C0037387, Brunskog utflyttning till Grava 1872"
-  },
-  {
-   "title": "Anna Maria Nilsson f. 1886 Boda – Arvika 1930",
-   "text": "Gift 1909 med Ture Bernhard Karlsson, Arvika 1930; f. Nilsson f. 1886 Boda. Ej bevisat att hon är Anders Nilssons dotter (flera Anna Maria f. 1886 Boda). Tidigare uppgift ”Amerika 1908” stämmer ej med giftermål 1909 om det är samma person – kontrollera.",
-   "persons": [
-    "anna_maria_nilsson_1886",
-    "anna_maria_nilsson_karlsson_arvika"
-   ],
-   "priority": 3,
-   "next_step": "Avgör om anna_maria_nilsson_karlsson_arvika är samma som anna_maria_nilsson_1886; Amerika 1908 mot gift 1909.",
-   "doable": true,
-   "source": "SCB vigselutdrag Arvika 1909 (Ture Bernhard Karlsson x Anna Maria Nilsson) + Boda dop 1886; Folkräkning 1930 Arvika (redan läst)"
   },
   {
    "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
@@ -217,32 +179,6 @@
    "next_step": "Reda ut Jonas Nilsson i Lene 1857 vs 1859 (Cajsa Svensdotter); verifiera lovisa_carlsd_lene31.",
    "doable": true,
    "source": "Riksarkivet: Frykerud husförhör A I/21b (1851-60) Lene + vigselbok E I/2 bild 116 (1859)"
-  },
-  {
-   "title": "Lene A I/1–3: Bryngel-familjen oklar",
-   "text": "A I/1 bild 60 (Lene s. 44): Bryngel (överstruken, fadersnamn oläsligt), S: Nils Bryngelsson, H: Ingeri Börjesd(?), d: Marit Bryngelsd., d: Ingeri Bryngelsd. Oklart om Ingeri Börjesdotter är Bryngels hustru (mor till Marit enl. dop 1708 'Bryngell och h. Ingeri') eller Nils hustru. Kräver dopbok C/2 1700–08 eller vigsel.",
-   "persons": [
-    "fr_maritbryngelsd_lene",
-    "fr_nilsbryngelsson_lene",
-    "fr_ingerid_lene1708",
-    "fr_bryngel_lene1708"
-   ],
-   "priority": 3,
-   "next_step": "Läs Frykerud dopbok C/2 1700-08 och vigsel Bryngel/Ingeri Lene.",
-   "doable": true,
-   "source": "Frykerud dopbok C/2 1700-08 och vigsel Bryngel x Ingeri Lene"
-  },
-  {
-   "title": "Marit Jonsdotters förste make: ’Olof Persson från Skog’ (död 1748) eller ’Olof Ihrsson(?) från Toltan’ (vigsel 1745)?",
-   "text": "Dödbok F I/1 b.80 nr 4 (1802): Marit Jonsdotter gifte 1:o 1745 26/12 med ”Dr Olof Persson från Skog”, död 1748 (dag ev. 9/1), 2:o 26/12 1748 med Nils Jonsson (Beckelid). Vigselbok E I/1 b.64 läste ’29 Dec 1745: Olof Ihrsson(?) från Toltan’. Sannolikt samma vigsel (datum 26 resp. 29/12 skiljer). Kräver ny läsning av vigselboken. Dödboken är den klarare källan (fadersnamn Persson).",
-   "persons": [
-    "marit_jonsd21",
-    "olof_ihrsson_toltan45"
-   ],
-   "priority": 3,
-   "next_step": "Läs om E I/1 C0036786 bild 64 (29/12 1745).",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog vigselbok E I/1 (C0036786) bild 64 (29/12 1745)"
   },
   {
    "title": "Maryanna Sochas födelse: dateringen 8.12.1817 stöds inte av Brzeziny 1817",
@@ -3729,6 +3665,51 @@
    "persons": [
     "elof_nilsson",
     "olof_nilsson_asen_mantal"
+   ]
+  },
+  {
+   "title": "Toltan: ’Nils Persson’ (dödbok 1805) eller ’Nils Ihrsson(?)’ (dopbok 1754)",
+   "text": "Löst av BU1: fadern heter Nils Pehrsson (Persson) i både dopet 1754 och dödboken 1805. Britta f. 1748 och Olof f. 1754 är syskon.",
+   "persons": [
+    "nils_ihrsson_toltan",
+    "olof_nilsson54",
+    "britta_nilsd_toltan48",
+    "marit_nilsd_toltan"
+   ]
+  },
+  {
+   "title": "Marit Jonsdotters förste make: ’Olof Persson från Skog’ (död 1748) eller ’Olof Ihrsson(?) från Toltan’ (vigsel 1745)?",
+   "text": "Löst av BU1. Id olof_ihrsson_toltan45 = Olof Persson, f. ca dec 1715, d. 9/1 1748 Skog.",
+   "persons": [
+    "marit_jonsd21",
+    "olof_ihrsson_toltan45"
+   ]
+  },
+  {
+   "title": "Olof Olsson (f. 24/?/1804, Ö. Takene, hustru Britta Nilsd. 1802) – son till Olof Olsson 1757 och Ingierd Nilsd.?",
+   "text": "Löst av BU1.",
+   "persons": [
+    "olof_olsson_takene_1896",
+    "olof_olsson_s",
+    "ingierd_nilsd61"
+   ]
+  },
+  {
+   "title": "Lene A I/1–3: Bryngel-familjen oklar",
+   "text": "Löst av BU1 vad gäller frågan om Ingeri Börjesdotter. Bryngels patronymikon och Ingeris (1708) patronymikon kvarstår okända.",
+   "persons": [
+    "fr_nilsbryngelsson_lene",
+    "fr_ingerid_lene1708",
+    "fr_bryngel_lene1708",
+    "fr_maritbryngelsd_lene"
+   ]
+  },
+  {
+   "title": "Anna Maria Nilsson f. 1886 Boda – Arvika 1930",
+   "text": "Löst av BU1: anna_maria_nilsson_karlsson_arvika ≠ anna_maria_nilsson_1886 (kan markeras sidoperson).",
+   "persons": [
+    "anna_maria_nilsson_1886",
+    "anna_maria_nilsson_karlsson_arvika"
    ]
   }
  ],
