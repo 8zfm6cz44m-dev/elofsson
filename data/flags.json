@@ -3952,6 +3952,13 @@
    "title": "Brunskog-födda i USA: kvarvarande namn",
    "text": "Sökning birthLikePlace=Brunskog (US, 1840-1925) gav 98 poster, mest Illinois Cook County födelseattest. Namn att jämföra med trädet: Adolfson (Erik Natanael 1899, Enock Henning 1904, Erik 1900), Erickson (Charlotte 1879, Sigfrid 1906, Erik Georg 1907), Lindell (Gustaf/John 1889, Gustav 1888), Wastlund (Olof 1878, David Emanuel 1890, Elin Sofia 1883), Bystrom (Olaf Jonasson 1863, William 1889), Wikstrom (Olof H 1889), Haglund/Hoglund (Olof Oscar 1899, Anders Emanuel 1904-05), Johnson (David Werner 1902, Carl Edwin 1879, Otto Ferdinand Johanson 1897 m.fl.), Randstrom John Emanuel 1904, Nelson (Algot Ferdinand 1910, Frida Amalia 1898), Anderson (Olaf Paul 1893, John Iver 1886, Arvid Emanuel 1896 m.fl.). Ingen kunde kopplas till trädets personer med två uppgifter inom tiden.",
    "persons": []
+  },
+  {
+   "title": "Sylvander i Pennsylvania (Mount Jewett)",
+   "text": "Familjen Sylvander bodde i Coraopolis/Mount Jewett, PA – samma trakt som BC1:s Erickson-familj (Mt. Jewett). Ev. samband mellan grannfamiljer från Brunskog, ej undersökt.",
+   "persons": [
+    "d7_anders_sylvander"
+   ]
   }
  ],
  "conflicts": [
@@ -4537,6 +4544,13 @@
    "persons": [
     "karin_nilsdotter19",
     "christopher_svensson_saldebraten"
+   ]
+  },
+  {
+   "title": "Sylvander: Ellis Island aug 1895",
+   "text": "Ellis Island-lista 10 aug 1895 ”Anders Sylvander” f. 1852 ligger före utflyttningen 18 okt 1895 i husförhöret; ej kopplad till familjen. Utvandrarens ankomstår i USA ej belagt.",
+   "persons": [
+    "d7_anders_sylvander"
    ]
   }
  ],

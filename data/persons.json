@@ -20126,7 +20126,7 @@
  {
   "id": "d7_anders_sylvander",
   "name": "Anders Sylvander (Skog)",
-  "status": "lead",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -20140,12 +20140,25 @@
   "summary": "Bonde på Skog med familj; utflyttad till Amerika 18 okt 1895 enligt husförhörslängd. Släktskap med Martins släkt EJ belagt (granne på Skog).",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166), rubrik Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog”. Flyttkolumnen: ”Amerika 95 18/10” (klammer över föräldrarna) och ”Amerika 95 18/10” (klammer över Nils, Johan, Hulda); Anna: ”nedre 95” (ej Amerika).",
-   "Födelseår står som tvåsiffrigt (52 = 1852)."
+   "Födelseår står som tvåsiffrigt (52 = 1852).",
+   "USA (FamilySearch): Andrew Sylvander f. ca 1853 Sweden, änkling, huvud i hushåll i Coraopolis, Allegheny, Pennsylvania 1910 med barnen Nelse (27, Sweden), Hulda (18, Sweden), Elmer (14, PA), Esther (10, PA); 1930 Mount Jewett, McKean PA, änkling 77 med dotter Anna 50. Matchning: förnamn+efternamn (Sylvander = sällsynt), födelseår 1852/1853, födelseland Sweden, barnnamn Nils/Hulda/Anna, änkling (hustrun Matilda sinnessjuk 1895). Ankomstår ej bekräftat i posten; Ellis Island 10 aug 1895 (Anders Sylvander f. 1852) ligger FÖRE utflyttningsdatumet 18/10 1895 och är ej kopplad. Möjlig död: Find a Grave Andrew Sylvander d. 13 feb 1942 Bridge View Cemetery, Mount Jewett (födelseår där 1843 – avvikande, ej säkert samma)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Anders Sylvander + familj, Amerika 95 18/10",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Coraopolis Ward 2, Allegheny, Pennsylvania: Andrew Sylvander 57 widowed, f. Sweden, head; Elmer 14 PA, Nelse 27 Sweden, Esther 10 PA, Hulda 18 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFF"
+   },
+   {
+    "label": "FamilySearch, US Census 1930, Mount Jewett, McKean, Pennsylvania: Andrew Sylvander 77 widowed f. Sweden, head; Anna 50 single, daughter, f. Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XHCT-MTB"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Andrew Sylvander f. 1843 (sic), d. 13 feb 1942, Bridge View Cemetery, Mount Jewett, McKean, PA",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVLQ-MXB8"
    }
   ],
   "search": [
@@ -20168,12 +20181,17 @@
   ],
   "summary": "Anders Sylvanders hustru (sinnessjuk enligt husförhör); Amerika 18 okt 1895.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 162: ”H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda” – Amerika 95 18/10."
+   "HUSFÖRHÖR A I/37 bild 162: ”H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda” – Amerika 95 18/10.",
+   "USA: ingen post funnen för Matilda; Andrew Sylvander är änkling i 1910 års folkräkning (Coraopolis) – hon är därmed död före 1910 (ev. i USA eller Sverige, ej belagt)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Matilda Nilsson, Amerika 95 18/10",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Coraopolis Ward 2, Allegheny, Pennsylvania: Andrew Sylvander 57 widowed, f. Sweden, head; Elmer 14 PA, Nelse 27 Sweden, Esther 10 PA, Hulda 18 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFF"
    }
   ],
   "search": [
@@ -20183,7 +20201,7 @@
  {
   "id": "d7_sylvander_anna",
   "name": "Anna Andersdotter Sylvander",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -20198,7 +20216,8 @@
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”nedre 95” (ej Amerika)",
    "FÖRSAMLINGSBOK A II a/1 bild 215 (fol. 205, Skog/Åsen): ”Anna Sylvander 79 5/11 Fryksände” – utflyttad: ”Amerika 96 15/5”.",
-   "SCB Frykerud 1879 (A0036167_00112): född 5 nov 1879, föräldrar Anders Sylvander (handelsföreståndare) och Mathilda Nilsdotter, Edet. Husförhörets ’Fryksände’ är fel."
+   "SCB Frykerud 1879 (A0036167_00112): född 5 nov 1879, föräldrar Anders Sylvander (handelsföreståndare) och Mathilda Nilsdotter, Edet. Husförhörets ’Fryksände’ är fel.",
+   "USA: Anna Sylvander f. ca 1880 Sweden, ogift dotter i fadern Andrews hushåll Mount Jewett, McKean PA 1930 (50 år); även Anna Sylvander f. 1880 Warren PA 1920 och f. 1881 Conewango Twp, Warren PA 1940 (troliga samma person, ej säkrat). Matchning: namn, födelseår, födelseland, fadern Andrew. Återkomst 15/5 1896 stämmer med att hon fortsatt i USA."
   ],
   "sources": [
    {
@@ -20208,6 +20227,18 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 205, Anna Sylvander → Amerika 96 15/5",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00215"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 Mount Jewett: Anna Sylvander 50 daughter single f. Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XHCT-MT1"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Warren, Pennsylvania: Anna Sylvander f. 1880 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M6BM-YDZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Conewango Twp, Warren, PA: Anna Sylvander f. 1881 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KQ78-DQM"
    }
   ],
   "search": [
@@ -20217,7 +20248,7 @@
  {
   "id": "d7_sylvander_nils",
   "name": "Nils Andersson Sylvander",
-  "status": "lead",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -20230,12 +20261,25 @@
   ],
   "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”",
+   "USA: Nelse/Nelson/Nels Sylvander f. ca 1883 Sweden: 1910 Coraopolis i faderns hushåll (27), 1920 Coraopolis gift med Myrtle (37, barn Charles), 1950 Coraopolis, WWII-inskrivning 1942 Summit, Allegheny PA. Födelseår 1883 (SE: 2/10 1882) ± 1; fadern Andrew."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Nils Andersson Sylvander",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "FamilySearch, US Census 1910 Coraopolis: Nelse Sylvander f. 1883 Sweden, son till Andrew",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFN"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Coraopolis, Allegheny, PA: Nelson Sylvander 37, f. Sweden, gift med Myrtle, son Charles",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M6BN-VNB"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Coraopolis: Nels Sylvander f. 1883 Sweden, hustru Myrtle",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XBK-HHVJ"
    }
   ],
   "search": [
@@ -20245,7 +20289,7 @@
  {
   "id": "d7_sylvander_johan",
   "name": "Johan Andersson Sylvander",
-  "status": "lead",
+  "status": "candidate",
   "sex": "m",
   "living": false,
   "born": {
@@ -20258,12 +20302,21 @@
   ],
   "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”",
+   "USA: John Sylvander f. 21 jun 1885 Sweden (exakt dag = SE 21/6 1885), d. 11 nov 1967 Los Angeles (California Death Index); 1940 Los Angeles, ogift 54 år, f. Sweden; ev. samma som 1930 Brooklyn/1910 Cleveland-posterna f. 1886 (ej verifierat; Cleveland-posten med naturalisering 1900 passar EJ). Inga föräldrar/syskon angivna i posterna – därför candidate."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Johan Andersson Sylvander",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "FamilySearch, California Death Index: John Sylvander f. 21 jun 1885 Sweden, d. 11 nov 1967 Los Angeles",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VGR5-J4B"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Los Angeles: John Sylvander 54, f. Sweden, ensam (ogift), huvud",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K9ZH-9C1"
    }
   ],
   "search": [
@@ -20273,7 +20326,7 @@
  {
   "id": "d7_sylvander_hulda",
   "name": "Hulda Andersdotter Sylvander",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -20286,12 +20339,17 @@
   ],
   "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”"
+   "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”",
+   "USA: Hulda Sylvander f. ca 1892 Sweden (SE: 9/12 1891), dotter i Andrew Sylvanders hushåll Coraopolis 1910 (18 år; syskon Elmer, Nelse, Esther). Senare öde ej undersökt."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 166 (bild 162): Hulda Andersdotter Sylvander",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00162"
+   },
+   {
+    "label": "FamilySearch, US Census 1910 Coraopolis: Hulda Sylvander f. 1892 Sweden, förälder Andrew, syskon Elmer, Nelse, Esther",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFJ"
    }
   ],
   "search": [
@@ -20342,7 +20400,8 @@
   ],
   "summary": "Dotter till korpral Jonas Olof Skogsberg (Skog); Nordamerika 20 mars 1891. Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”. Bortflyttad: Maria ”Nordamerika 91 20/3”; Elin ”Nordamerika 94 26/4”."
+   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”. Bortflyttad: Maria ”Nordamerika 91 20/3”; Elin ”Nordamerika 94 26/4”.",
+   "USA: ingen säker träff. Maria Skogsberg f. 1873 Sweden, Chicago 1940 (K4MT-9PK) och Ellis Island 1910 – ej belagd som samma; troligen gift under annat namn. Ej matchad."
   ],
   "sources": [
    {
@@ -20357,7 +20416,7 @@
  {
   "id": "d7_elin_jonasdotter_skogsberg",
   "name": "Elin Jonasdotter Skogsberg (f. 1877)",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -20370,12 +20429,17 @@
   ],
   "summary": "Dotter till korpral Jonas Olof Skogsberg; Nordamerika 26 apr 1894. Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Elin 77 3/1 Skog” – ”Nordamerika 94 26/4”."
+   "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Elin 77 3/1 Skog” – ”Nordamerika 94 26/4”.",
+   "USA: Elin Skogsberg f. 1877 Brunskog, Arvika, Värmland, Sweden, 26 år, Edgerton, Pipestone, Minnesota (MN statscensus 1905), alias Ellen Okerman – gift Albert Okerman, son Lee Milford Okerman (MN födelse-/dopindex); FamilySearch-träd: Elin ”Ellen” Skogsberg 1877–1967 (KLG6-VR1, användarträd = lead). Matchning: namn, födelseår, födelseort Brunskog, ankomst efter 26 apr 1894. Föräldrar ej angivna i posten."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 171 (bild 167): Elin 77 → Nordamerika 94 26/4",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00167"
+   },
+   {
+    "label": "FamilySearch, Minnesota State Census 1905, Edgerton, Pipestone: Elin Skogsberg (alias Ellen Okerman) 26, f. 1877 Brunskog, Arvika, Värmland, Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:SP3G-K38"
    }
   ],
   "search": [
@@ -20687,7 +20751,8 @@
   ],
   "summary": "Son till korpral Jonas Olof Skogsberg; Amerika 31 maj 1901; föräldrarna och yngre syskon flyttade 7 juni 1901 till Västra Emtervik.",
   "notes": [
-   "FÖRSAMLINGSBOK A II a/1 bild 220 (fol. 210, Skog): ”Jonas Skogsberg 46 [26/5] Spångdal; H. Stina Nilsd.; Jonte 73 17/7; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”; Jonte: ”Amerika 01 31/5”; övriga: ”W. Emt. 01 7/6”. Varnpligt: ”13 100/94 / 11 100/1900”."
+   "FÖRSAMLINGSBOK A II a/1 bild 220 (fol. 210, Skog): ”Jonas Skogsberg 46 [26/5] Spångdal; H. Stina Nilsd.; Jonte 73 17/7; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”; Jonte: ”Amerika 01 31/5”; övriga: ”W. Emt. 01 7/6”. Varnpligt: ”13 100/94 / 11 100/1900”.",
+   "USA: John Skogsberg f. 19 jan 1873 Värmland, d. 6 aug 1962 Sioux City, Iowa (Iowa dödsregister, föräldrar börjar på ”Ch…”) – födelsedatum avviker (SE 17/7 1873), EJ matchad. Ingen säker träff."
   ],
   "sources": [
    {
@@ -41334,6 +41399,87 @@
   ],
   "search": [
    "Olov Ragnar Olson/Augustson (f. 9 okt 1902, Brunskog)"
+  ]
+ },
+ {
+  "id": "us_elmer_sylvander",
+  "name": "Elmer Sylvander (f. ca 1896, Pennsylvania)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1896",
+   "place": "Pennsylvania",
+   "note": "ca; 14 år 1910"
+  },
+  "places": [
+   "Coraopolis, Pennsylvania"
+  ],
+  "summary": "Son till Andrew Sylvander (ex-Skog, Brunskog), född i USA efter familjens ankomst; i hushållet 1910.",
+  "notes": [
+   "FOLKRÄKNING 1910 Coraopolis: ”Elmer Sylvander Son M 14 Pennsylvania” i hushåll med Andrew Sylvander 57 (född Sweden)."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1910, Coraopolis Ward 2, Allegheny, Pennsylvania: Andrew Sylvander 57 widowed, f. Sweden, head; Elmer 14 PA, Nelse 27 Sweden, Esther 10 PA, Hulda 18 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFF"
+   }
+  ],
+  "search": [
+   "Elmer Sylvander (f. ca 1896, Pennsylvania)"
+  ]
+ },
+ {
+  "id": "us_esther_sylvander",
+  "name": "Esther Sylvander (f. ca 1900, Pennsylvania)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1900",
+   "place": "Pennsylvania",
+   "note": "ca; 10 år 1910"
+  },
+  "places": [
+   "Coraopolis, Pennsylvania"
+  ],
+  "summary": "Dotter till Andrew Sylvander (ex-Skog, Brunskog); i hushållet 1910.",
+  "notes": [
+   "FOLKRÄKNING 1910 Coraopolis: ”Esther Sylvander Dotter F 10 Pennsylvania”."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1910, Coraopolis Ward 2, Allegheny, Pennsylvania: Andrew Sylvander 57 widowed, f. Sweden, head; Elmer 14 PA, Nelse 27 Sweden, Esther 10 PA, Hulda 18 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGQ3-BFF"
+   }
+  ],
+  "search": [
+   "Esther Sylvander (f. ca 1900, Pennsylvania)"
+  ]
+ },
+ {
+  "id": "us_myrtle_sylvander",
+  "name": "Myrtle Sylvander (hustru till Nils Sylvander)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "summary": "Hustru till Nelson/Nels Sylvander, Coraopolis (1920, 1950); son Charles.",
+  "notes": [
+   "FOLKRÄKNING 1920 Coraopolis: Nelson Sylvander 37 gift med Myrtle, barn Charles; 1950 Nels med Myrtle."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1920 Coraopolis, Allegheny, PA: Nelson Sylvander 37, f. Sweden, gift med Myrtle, son Charles",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M6BN-VNB"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Coraopolis: Nels Sylvander f. 1883 Sweden, hustru Myrtle",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XBK-HHVJ"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Myrtle Sylvander (hustru till Nils Sylvander)"
   ]
  }
 ]

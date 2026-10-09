@@ -12711,5 +12711,34 @@
   "b": "johanna_persdotter_remstad",
   "status": "verified",
   "basis": "Samma föräldrar Per Olsson/Cajsa Nilsdotter, Boda A I/18 bild 261"
+ },
+ {
+  "id": "c-d7_anders_sylvander-d7_matilda_nilsson_sylvander-us_elmer_sylvander",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander",
+   "d7_matilda_nilsson_sylvander"
+  ],
+  "child": "us_elmer_sylvander",
+  "status": "candidate",
+  "basis": "1910 ”Elmer Sylvander Son M 14 Pennsylvania” i Andrews hushåll; modern ej angiven (Andrew änkling) – endast fadern säker."
+ },
+ {
+  "id": "c-d7_anders_sylvander-us_esther_sylvander",
+  "type": "child",
+  "parents": [
+   "d7_anders_sylvander"
+  ],
+  "child": "us_esther_sylvander",
+  "status": "strong",
+  "basis": "1910 ”Esther Sylvander Dotter F 10 Pennsylvania” i Andrews hushåll."
+ },
+ {
+  "id": "p-us_myrtle_sylvander-d7_sylvander_nils",
+  "type": "partner",
+  "a": "us_myrtle_sylvander",
+  "b": "d7_sylvander_nils",
+  "status": "strong",
+  "basis": "1920 Coraopolis: Nelson Sylvander gift med Myrtle."
  }
 ]
