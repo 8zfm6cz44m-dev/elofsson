@@ -18590,9 +18590,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "ca 1841",
-   "place": "okänd",
-   "note": "Åldrar i akter: 21 (vigsel 11 okt 1864 akt 152), 23 (5 sept 1867 akt 476), 26 (27 dec 1868 akt 661), 30 (29 okt 1871 akt 550: «тридца|ти лѣтъ отъ роду» – omläst; tidigare läst som 33 = fel). Alltså f. ca 1841-1843."
+   "date": "1843-02-24",
+   "place": "Brzeziny (pow. kielecki)",
+   "note": "Födelseakt Brzeziny 1843 akt 15: född 24.2.1843 kl. 19, anmäld/döpt 25.2.1843; föräldrar Marcin Zatorski (30) och Maryanna z Sochów (23). Identitet med vår Józef (vigsel 1864 akt 152: 'son till Marcin och Maryanna z Sochów', 21 år) = namn+föräldrar+ålder stämmer; ej annan uttryckligt bevis – strong."
   },
   "died": {
    "date": "före 1895"
@@ -18610,7 +18610,8 @@
    "OMLÄSNING Y1 av vigselakt 1864 akt 152 (Kielce Katedra, Skanoteka id57, sy1864b, fil 150-153.jpg, högra sidan, sidnr 77, överst): «152. Działo się w Mieście Kielcach dnia jedenastego [Paź]dziernika Tysiąc ośmset sześćdziesiątego czwartego roku o godzinie dwunastej w południe. Wiadomo czynimy iż w przytomności świadków Marcina Stwińskiego(?) lat trzydzieści we wsi Nidzie(?) i Józefa Skarz(?) lat pięćdziesiąt osiem bieżących, we wsi Brzeznach(?), zamieszkałych, obu kolonistów(?), na dniu dzisiejszym zawarte zostało religijnie małżeństwo między Józefem Zatorskim [skrivet ’Katorski’-lik, Z som K-snirkel] lat dwadzieścia jeden mającym młodzieńcem, Synem Marcina i Maryanny z Sochów małżonków Zatorskich(?) już nieżyjących, na gospodarstwie we wsi Br[z]e[z]nach(?) zamieszkałych, także urodzonym w Kielcach(?) w służbie rodzącym [= pozostającym], i Antoniną Ksiołówną lat dwadzieścia dwa mającą panną córką Jana mieszkającego(?) i Agaty z Osuchów żyjących małżonków Ksiołów, na gospodarstwie w Szydłówku zamieszkałych, także urodzoną i przy Matce rodzicach pozostającą. Małżeństwo to poprzedziły trzy zapowiedzi ogłoszone w kościele parafialnym Kieleckim w dniach osiemnastym, dwudziestym piątym Września i drugim Października roku bieżącego.» Läsningen av namn på vittnen/bostadsorter är osäker (kursiv 1860-tal); brudgummens efternamn ”Zatorski”, hans ålder 21, föräldrarna Marcin & Maryanna z Sochów, brudens namn ”Antonina Ksiołówna” 22 år, hennes mor Agata z Osuchów, hemort Szydłówek – alla läsbara. Länken till 1871-aktens Józef Zatorski i Szydłówek vilar på namn, bostad (bruden från Szydłówek) och Antoninas ålder (22 år 1864 ⇒ 29-30 år 1871) men aktern 550 nämner ingen släktskap → kopplingen 1864↔1871 är STRONG, inte bevisad (se flagga).",
    "AQ4: Szydłówek-par Józef Zatorski × Antonina z Ksiołów har även dotter Marianna Franciszka (akt 476/1867: Józef 23 år, Antonina 26) och son Jan (akt 661/1868: Józef 26, Antonina 27). Åldrarna passar vigseln 1864 akt 152 (Józef 21 son av Marcin+Maryanna Socha, Antonina Ksiołówna 22) bättre än 1871 (33/30).",
    "Rättar tidigare 'ca 1838/33 år'. Vigsel 1864 akt 152 med Antonina Ksiołówna, son till Marcin + Maryanna z Sochów; bodde i Brzeziny 1864, Szydłówek 1867-1871.",
-   "GENETEKA B 1843 akt 15, Brzeziny (pow. kielecki): 'Józef Zatorski' utan föräldrar i indexet (födelse 1843) – passar ålder ca 1841–43 och föräldrarna Marcin/Maria i Brzeziny 1833; lead. Andra Józef Zatorski i indexet avvisas: 1841 akt 83 Suchedniów (Franciszek & Elżbieta Tuśnio), 1845 akt 13 Bodzentyn (Franciszek & Wiktoria Wilgaszewska) – andra föräldrar."
+   "GENETEKA B 1843 akt 15, Brzeziny (pow. kielecki): 'Józef Zatorski' utan föräldrar i indexet (födelse 1843) – passar ålder ca 1841–43 och föräldrarna Marcin/Maria i Brzeziny 1833; lead. Andra Józef Zatorski i indexet avvisas: 1841 akt 83 Suchedniów (Franciszek & Elżbieta Tuśnio), 1845 akt 13 Bodzentyn (Franciszek & Wiktoria Wilgaszewska) – andra föräldrar.",
+   "BILDLÄST födelseakt Brzeziny 1843 akt 15: Józef f. 24.2.1843, far Marcin Zatorski 30 år, mor Maryanna z Sochów 23 år, Brzeziny. Åldrarna 21 (1864) och 23 (1867) och 26 (1868) i hans senare akter stämmer med 1843 (21 år i okt 1864 = f. feb 1843). Åldern 30 i okt 1871 stämmer ej (28) – avvikelse som redan noterats; födelseår 1843 föreslås som bästa värde."
   ],
   "sources": [
    {
@@ -18628,6 +18629,10 @@
    {
     "label": "Skanoteka PTG, Kielce Katedra vigselindex 1864 (sy1864b, SkM-4), rad 187: 'Zatorski Józef / Antonina Ksel(?)' akt 152",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1864b&kt=1&plik=SkM-4.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1843 (kt1), fil 010-015.jpg, akt 15 (25.2.1843): Józef, son till Marcin Zatorski och Maryanna z Sochów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1843&kt=1&plik=010-015.jpg"
    }
   ],
   "search": [
@@ -21535,10 +21540,13 @@
   "died": {
    "date": "före 1864"
   },
-  "summary": "Far till brudgummen Józef Zatorski i vigselakt Kielce Katedra 1864 nr 152 (avliden). Koppling till Katarzyna Zatorskas far endast strong (ålder avviker).",
+  "summary": "Gift 15.1.1833 med Maryanna Socha i Brzeziny; son till Jan och Helena Zatorski. Far till Józef Zatorski (f. 24.2.1843). Död före 1864.",
   "notes": [
    "VIGSEL 1864 akt 152 (polska): 'Józefem Zatorskim lat dwadzieścia jeden [?] mającym młodzieńcem, synem Marcina i Maryanny z Sochów małżonków, którzy już nie żyją' = Józef Zatorski, 21 [?] år, ungkarl, son till Marcin och Maryanna f. Socha, bägge avlidna.",
-   "GENETEKA S 1833 akt 3, Brzeziny (pow. kielecki): brudgum 'Marcin Zatorski' (inga föräldrar i indexet), brud 'Maria Socha'. Stark ledtråd till vigseln Marcin Zatorski × Maryanna Socha (före 1841; föräldrar till Józef Zatorski f. ca 1841). Lead/candidate tills akten bildlästs (Skanoteka: Brzeziny kielecki, vigsel 1833 akt 3; kontrollera att brudens namn är 'Maryanna z Sochów')."
+   "GENETEKA S 1833 akt 3, Brzeziny (pow. kielecki): brudgum 'Marcin Zatorski' (inga föräldrar i indexet), brud 'Maria Socha'. Stark ledtråd till vigseln Marcin Zatorski × Maryanna Socha (före 1841; föräldrar till Józef Zatorski f. ca 1841). Lead/candidate tills akten bildlästs (Skanoteka: Brzeziny kielecki, vigsel 1833 akt 3; kontrollera att brudens namn är 'Maryanna z Sochów').",
+   "BILDLÄST vigsel Brzeziny 1833 akt 3 (ordagrant, [ ] osäkert): «Działo się we Wsi Brzezinach, dnia piętnastego Stycznia, Tysiąc ośmset trzydziestego trzeciego roku. o godzinie dziewiątey rano. Wiadomo czyniemy, iż w przytomności Ignacego Sochy lat siedmdziesiąt, i Franciszka Pietrasia(?) lat czterdzieści liczących, Rolników Włościan Rolników we Wsi Brzeziny na Gospodarstwie osiadłych, Świadków niżej wyrażonego Marcina Zatorskiego. Na dniu dzisieyszym zawarte zostało Religiyne Małżeństwo między Marcinem Zatorskim Młodzianem, urodzonem we Wsi Brzezinach iedenastego Listopada, Tysiąc ośmset trzynastego roku, Synem Jana i Heleny z Kie[...]ków Zatorskich, iuż nieżyiących, A Maryanną Sochówną Panną lat piętnaście ukończone dnia ósmego Grudnia roku zeszłego, urodzoną we Wsi Brzezinach w Parafii Brzezińskiey. Małżeństwo to poprzedziły trzy Zapowiedzi w Parafii Brzezińskiey, w dniach pierwszym, szóstem i trzynastem Stycznia bieżącego roku. Jako też Zezwolenie ustne obecnych Aktowi Małżeństwa nowo zaślubionych ... Tamowanie Małżeństwa nie zaszło. Małżonkowie nowi oświadczaią iż nie zawarli umowy przed ślubem. Akt stawaiącym przeczytany, że pisać nie umieią my podpisali. X. Adam Rędzierski.» (Obs: aktens text anger INGA föräldrar till bruden; Ignacy Socha, 70, vittne – eventuell släkting men ej uttryckt.) Brudgummen 19 år, bruden 15 år.",
+   "BILDLÄST födelseakt Brzeziny 1843 akt 15 (ordagrant, [ ] osäkert): «N 15. Działo się w Wsi Brzezinach Dnia dwudziestego piątego Lutego Tysiąc ośmset czterdziestego trzeciego Roku o godzinie pierwszey po południu Stawił się Marcin Zatorski lat trzydzieści maiący w Obecności Świadków Tomasza Kruka lat czterdzieści i Józefa [Kucza?] lat trzydzieści trzy liczących Gospodarzy we Wsi Brzezinach zamieszkałych i okazał nam Dziecię płci Męskiey urodzone w Wsi Brzezinach Dnia dwudziestego czwartego Lutego Roku bieżącego o godzinie siódmey po południu z Jego Małżonki [överstruket ord] Maryanny z Sochów lat dwadzieścia trzy maiącey. Dziecięciu temu na Chrzcie Swiętym w Dniu dzisieyszym odbytym nadane zostało Imię Józef A Rodzicami iego Chrzestnemi byli wspomniony Tomasz Kruk i Katarzyna [Rzeczowa?(Reliowa)]. Akt ten stawaiącym przeczytany że pisać nie umieią my podpisali. Xiądz Adam Rędzierski.» Ålder 30 stämmer med född 1813; 'Józef' född 24.2.1843 passar åldrarna 21 (1864)/23/26 i Józef Zatorskis senare akter.",
+   "FÖDELSEAKT Brzeziny 1813 akt 86: se jan_zatorski_far."
   ],
   "sources": [
    {
@@ -21548,17 +21556,36 @@
    {
     "label": "Geneteka-index, vigsel Brzeziny (pow. kielecki) 1833 akt 3, Zatorski Marcin × Socha Maria",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1843 (kt1), fil 010-015.jpg, akt 15 (25.2.1843): Józef, son till Marcin Zatorski och Maryanna z Sochów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1843&kt=1&plik=010-015.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1813 (kt1), fil 084-090.jpg, akt 86 (11.11.1813): Marcin, son till Jan Zatorski och Helena",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1813&kt=1&plik=084-090.jpg"
    }
   ],
-  "places": [],
+  "places": [
+   "Brzeziny (pow. kielecki)"
+  ],
   "search": [
    "Marcin Zatorski"
-  ]
+  ],
+  "born": {
+   "date": "1813-11-11",
+   "place": "Brzeziny (sjukhuset, 'w spitalu'), pow. kielecki",
+   "note": "Vigselakt 1833 akt 3 anger «urodzonem w Wsi Brzezinach, iedenastego Listopada, Tysiąc ośmset trzynastego roku»; födelseakt Brzeziny 1813 akt 86 (11.11.1813) bekräftar."
+  }
  },
  {
   "id": "maryanna_socha",
-  "name": "Maryanna Zatorska (f. Socha?)",
-  "status": "candidate",
+  "name": "Maryanna Zatorska (f. Socha)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "died": {
@@ -21567,18 +21594,34 @@
   "summary": "Mor till brudgummen Józef Zatorski i akt 152/1864 ('z Sochów'), avliden.",
   "notes": [
    "VIGSEL 1864 akt 152: 'Marcina i Maryanny z Sochów małżonków, którzy już nie żyją'. Flicknamnet Socha(?) läst från handstil.",
-   "GENETEKA S 1833 akt 3 Brzeziny: 'Maria Socha' gift med Marcin Zatorski – troligen samma person (Maryanna). Bildläs akten."
+   "GENETEKA S 1833 akt 3 Brzeziny: 'Maria Socha' gift med Marcin Zatorski – troligen samma person (Maryanna). Bildläs akten.",
+   "BILDLÄST: vigsel Brzeziny 1833 akt 3 «A Maryanną Sochówną Panną lat piętnaście ukończone ... urodzoną we Wsi Brzezinach w Parafii Brzezińskiey» – brudens föräldrar anges INTE i akten. Födelseakt 1843 akt 15: «Maryanny z Sochów lat dwadzieścia trzy maiącey» (hustru till Marcin Zatorski). Flicknamn Socha bekräftat ordagrant i två akter + 1864 akt 152."
   ],
   "sources": [
    {
     "label": "Skanoteka PTG, Kielce Katedra (id57) vigselakter 1864 (sy1864b, kt1), fil 150-153.jpg, akt 152: Zatorski × Ksiołówna",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1864b&kt=1&plik=150-153.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1843 (kt1), fil 010-015.jpg, akt 15 (25.2.1843): Józef, son till Marcin Zatorski och Maryanna z Sochów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1843&kt=1&plik=010-015.jpg"
    }
   ],
-  "places": [],
+  "places": [
+   "Brzeziny (pow. kielecki)"
+  ],
   "search": [
    "Maryanna Zatorska (f. Socha?)"
-  ]
+  ],
+  "born": {
+   "date": "ca 1817-12-08",
+   "place": "Brzeziny, pow. kielecki",
+   "note": "Vigselakt 1833 akt 3: 'lat piętnaście ukończone dnia ósmego Grudnia roku zeszłego, urodzoną we Wsi Brzezinach' = fyllde 15 den 8.12.1832 → f. 8.12.1817. Födelseakt ej funnen (Brzeziny 1817-index har endast 'Socha Wincenty'); akt 15/1843 anger 23 år (f. ca 1819/20)."
+  }
  },
  {
   "id": "agata_ksiol",
@@ -38500,7 +38543,8 @@
    "VIGSELAKT Mniów 1856 nr 12: Jacek Młodawski 'kawalerem, lat dziewiętnaście mającym, urodzonym w Rogowicach w Parafii tutejszej, synem Tomasza i Anny z Gębskich, małżonków Młodawskich, dotąd żyjących i tamże przy rodzicach zamieszkałym' (föräldrarna levde alltså 13 apr 1856).",
    "Äldre generation ej funnen: Mniów-skanningar börjar 1826; vigsel Tomasz × Anna z Gębskich bör ligga före 1826 (Tomasz f. ca 1792, Anna ca 1797) – troligen Miedzierza/Chęciny (ingen skanning). Vittnet 'Tomasz Młodawski' 49 år (1864) / 50 år (1866) i barnaktern är sannolikt en annan, yngre Tomasz (ca f. 1815) – ev. äldre son till Tomasz/Anna eller bror; ej bevisat.",
    "DÖDAKT Mniów 1857 nr 6 (död 19 jan 1857 kl 8 i Rogowice): 'Tomasz Młodawski, mający lat osmdziesiąt, gospodarz, syn Szymona i Anny, małżonków Młodawskich, zostawiwszy owdowiałą po sobie żonę Anne z Gębskich w Rogowicach'. Ålder 80 mot ca 45 år 1837 – ålder i akterna opålitlig. Anmälare Walenty Kotfica, Jakub Bator.",
-   "GENETEKA kontroll: B 1837 akt 58 Mniów, 'Jacek Młodawski', föräldrar 'Tomasz, Anna Gębska' (Uwagi 'Rogowice 1837.08.12') – bekräftar Jacek-akten. S 1838 akt 4 Mniów: sonen Tomasz Młodawski (föräldrar Tomasz, Anna Gębska) × Julianna Kotwica. Avvisat: Jacek Młodawski B 1834 akt 188 Odrowąż (Łukasz & Agnieszka Lipowska) – annan Jacek. Ingen vigsel Tomasz × Anna Gębska 1810–1837 och ingen död Szymon Młodawski 1800–1850 hittades i indexet."
+   "GENETEKA kontroll: B 1837 akt 58 Mniów, 'Jacek Młodawski', föräldrar 'Tomasz, Anna Gębska' (Uwagi 'Rogowice 1837.08.12') – bekräftar Jacek-akten. S 1838 akt 4 Mniów: sonen Tomasz Młodawski (föräldrar Tomasz, Anna Gębska) × Julianna Kotwica. Avvisat: Jacek Młodawski B 1834 akt 188 Odrowąż (Łukasz & Agnieszka Lipowska) – annan Jacek. Ingen vigsel Tomasz × Anna Gębska 1810–1837 och ingen död Szymon Młodawski 1800–1850 hittades i indexet.",
+   "Vigsel Mniów 1838 akt 4: namnges som far 'Tomasz' till brudgummen Tomasz Młodawski (20 år, f. Rogowice) – bägge föräldrarna 'włościan na gospodarstwie osiadłych', levande 5.2.1838 (stämmer med Tomasz d. 1857). Ingen åldersuppgift för fadern i akten."
   ],
   "sources": [
    {
@@ -38514,6 +38558,10 @@
    {
     "label": "Skanoteka Mniów död 1857 kt3 fil 04-09.jpg akt 6",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&sy=1857&kt=3&plik=04-09.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
    }
   ],
   "search": [
@@ -38542,7 +38590,8 @@
   "notes": [
    "FÖDELSEAKT Mniów 1837 nr 58: 'z jego małżonki Anny z Gębskich lat czterdzieści mającej'.",
    "VIGSELAKT Mniów 1856 nr 12: 'synem Tomasza i Anny z Gębskich, małżonków Młodawskich, dotąd żyjących'.",
-   "Änka efter Tomasz 19 jan 1857 (dödakt Mniów 1857 nr 6: 'owdowiałą ... żonę Anne z Gębskich w Rogowicach'). Levde alltså men var änka vid sonens vigsel 13 apr 1856? NEJ: vigselakten 1856 säger föräldrarna 'dotąd żyjących' – Tomasz levde 1856, död 1857; Anna levde jan 1857. Hennes död ej funnen (SkZ 1857–59 saknar Młodawska Anna)."
+   "Änka efter Tomasz 19 jan 1857 (dödakt Mniów 1857 nr 6: 'owdowiałą ... żonę Anne z Gębskich w Rogowicach'). Levde alltså men var änka vid sonens vigsel 13 apr 1856? NEJ: vigselakten 1856 säger föräldrarna 'dotąd żyjących' – Tomasz levde 1856, död 1857; Anna levde jan 1857. Hennes död ej funnen (SkZ 1857–59 saknar Młodawska Anna).",
+   "Vigsel Mniów 1838 akt 4: 'Tomasza i Anny z Gębskich Młodawskich' – flicknamn skrivs 'Gębskich' (Gębska) ordagrant i akten; levande 5.2.1838. Hennes föräldrar nämns inte."
   ],
   "sources": [
    {
@@ -38552,6 +38601,10 @@
    {
     "label": "Skanoteka PTG, Mniów (id 1317) vigselakter 1856 (kt2), fil 011-014.jpg, akt 12 (marginal 'Rogowice'): Jacek Młodawski x Anna z Bartosińskich Sołtykowa",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&sy=1856&kt=2&plik=011-014.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
    }
   ],
   "search": [
@@ -39755,13 +39808,13 @@
  {
   "id": "mikolaj_szrek_1804",
   "name": "Mikołaj Szrek (Schrek) (f. ca 1804)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
    "date": "ca 1804",
-   "place": "",
-   "note": "'lat dwadzieścia' 1824 (ålder i akter ofta ungefärlig)"
+   "place": "Kielce (Katedra) enligt metryk 'wyjętey z Ksiąg Kościoła kieleckiego'",
+   "note": "19 år vid vigseln 14.1.1824 (akt 5); 20 år vid dotterns födelse 12/1824"
   },
   "places": [
    "Niewachłów (Kielce)"
@@ -39769,7 +39822,8 @@
   "summary": "Kolonist i Niewachłów; far till Maryanna Szrek (f. 7 dec 1824, g.m. Augustyn Hencel). Gift med Małgorzata z Jaworskich.",
   "notes": [
    "FÖDELSEAKT Kielce Katedra 1824 akt 532 (polska, delvis ordagrant, aktdatum 7 dec 1824 kl. 10 f.m.): 'stawił się Mikołay Schrek liczący lat dwadzieścia Kolonista we Wsi Niewachłow zamieszkały i okazał nam Dziecię płci żeńskiey które urodziło się dnia wczoraiszego [?] o godzinie dwunastey w południe ... z Małgorzaty z Jaworskich liczącey lat dwadzieście dwa żony iego ... nadane mu imię Maryanna'. Vittnen (osäker läsning): 'Andrzeia Ch...skiego liczącego lat czterdzieści i Stanisława ... Zychiewicza [?] lat trzydzieści Włościanów we Wsi Niewachłow'. Identiteten stöds av dödsakt 1880 akt 909 (Marianna Hencel f. Szrek, 56 år, dotter till Mikołaj och Małgorzata) och vigsel 1841 akt 148 (föräldrar Mikołaj + Małgorzata z Jaworskich).",
-   "GENETEKA S 1824 akt 5, Kielce Katedra, datum 14.01.1824: brudgum 'Mikołaj Schrek', brud 'Małgorzata Gawonka' (Uwagi '14.01.1824'). Sannolikt hans vigsel, 11 månader före dotterns födelse 7.12.1824 (akt 532); tidigare vigselindex-läsning 1821–24 missade den. Bildläs Katedra vigsel 1824 akt 5 (Skanoteka id57 sy1824 kt2). Brudens efternamn avviker från 'Jaworska' i födelseakten – kan vara avläsningsfel i indexet (Gawońska/Jaworska?) eller annan Małgorzata."
+   "GENETEKA S 1824 akt 5, Kielce Katedra, datum 14.01.1824: brudgum 'Mikołaj Schrek', brud 'Małgorzata Gawonka' (Uwagi '14.01.1824'). Sannolikt hans vigsel, 11 månader före dotterns födelse 7.12.1824 (akt 532); tidigare vigselindex-läsning 1821–24 missade den. Bildläs Katedra vigsel 1824 akt 5 (Skanoteka id57 sy1824 kt2). Brudens efternamn avviker från 'Jaworska' i födelseakten – kan vara avläsningsfel i indexet (Gawońska/Jaworska?) eller annan Małgorzata.",
+   "BILDLÄST vigsel Kielce Katedra 14.1.1824 akt 5 (ordagrant, [ ] = osäker): «Roku tysiąc ośmset dwudziestego czwartego, dnia czternastego Stycznia o godzinie trzeciey po południu. Przed nami Urzędnikiem Stanu Cywilnego Gminy kieleckiey, Obwodu kieleckiego w Woiewodztwie Krakowskiem stawił się Mikołay Schrek mający podług zdania przed nami Metryki wyjętey z Ksiąg Kościoła kieleckiego lat dziewiętnaście [przy Rodzicach dotąd rez..daiący] w Assystencyi Oyca swego Augustyna Schrek [Strażnika Zakładów] górniczych Okręgu [Miechowskiego(?)] w Niewachłowie zamieszkałego i Matki swoiey Elżbiety z Forwaldów stawiła się także Panna Małgorzata Gaworska [Jaworska?] dowodząca przed nami Aktem Metryki wyjętą z Ksiąg Kościoła [Piekoszowskiego(?)] że skończyła rok dwudziesty pierwszy [Wieku swego, przy Siostrze swoiey na Piaskach dotąd rozdająca] w Assystencyi Matki swoiey Agnieszki z Dudzików Gaworskiey ... zamieszkałey tylko, gdy Oyciec Onufry Gaworski już nieżyie ... oświadczamy w imieniu Prawa iż Mikołay Schrek i Małgorzata Gaworska są połączeni osobą Węzłem Małżeństwa. Czego spisaliśmy Akt w przytomności Antoniego Romańskiego liczącego lat pięćdziesiąt trzy Posiadacza dożywotniego Wójtostwa we Wsi Niewachłow zamieszkałego i Jana Hencel liczącego lat pięćdziesiąt Budowniczego we Wsi Niewachłow zamieszkałego, Świadków Ludwika Gaworskiego liczącego lat trzydzieści trzy Brata Nowozaślubioney w [Słowikowie?] zamieszkałego i [Józefa] Rogalskiego liczącego lat dwadzieścia jeden na kręgłach zamieszkałego. Akt [ten] ... podpisany przy nas Oyca Nowożeńca...» Akten undertecknad av Urzędnik Ks. Bernard Szczepanowski; flera egenhändiga namnteckningar nederst (läsning osäker, bl.a. 'Antoni Romański'). Kommentar: Brudens efternamn i akten läses 'Gaworska' (G/J i handstilen svår att skilja); samma Małgorzata som 'z Jaworskich' i födelseakt 532/1824 och vigsel 1841 akt 148 – strong. Vittne 'Jan Hencel, 50, Budowniczy i Niewachłów' = möjlig släkting till Augustyn Hencel (Maryanna Szrek gifte sig 1841 med Augustyn Hencel) – ej styrkt."
   ],
   "sources": [
    {
@@ -39783,6 +39837,10 @@
    {
     "label": "Geneteka-index, vigsel Kielce Katedra 1824 akt 5, Schrek Mikołaj × Gawonka Małgorzata, 14.01.1824",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
    }
   ],
   "search": [
@@ -39798,7 +39856,7 @@
   "born": {
    "date": "ca 1802",
    "place": "",
-   "note": "'lat dwadzieścia dwa' 1824"
+   "note": "'rok dwudziesty pierwszy' (21) 14.1.1824 vigselakt 5; 22 år dec 1824 (akt 532)"
   },
   "places": [
    "Niewachłów (Kielce)"
@@ -39806,12 +39864,17 @@
   "summary": "Hustru till Mikołaj Szrek; mor till Maryanna Hencel f. Szrek. Flicknamn Jaworska (akt 532/1824 'z Jaworskich'; vigsel 1841 akt 148 'z Jaworskich').",
   "notes": [
    "Se mikolaj_szrek_1804. Vigseln Mikołaj × Małgorzata ej funnen: Katedra vigselindex (SkM) 1821, 1822, 1823, 1824 (S-avsnitt) lästa utan Szrek; 1817–1820 ej lästa.",
-   "GENETEKA: brud 'Małgorzata Gawonka' i vigsel 14.01.1824 Katedra akt 5 (Mikołaj Schrek) – flicknamnet 'Gawonka' avviker från 'Jaworska'; bildläs akten för att avgöra."
+   "GENETEKA: brud 'Małgorzata Gawonka' i vigsel 14.01.1824 Katedra akt 5 (Mikołaj Schrek) – flicknamnet 'Gawonka' avviker från 'Jaworska'; bildläs akten för att avgöra.",
+   "BILDLÄST vigsel 14.1.1824 akt 5: bruden 'Panna Małgorzata Gaworska' (Jaworska läses G/J-osäkert), dotter till Onufry Gaworski (död före 1824) och Agnieszka z Dudzików Gaworska; bodde med sin syster på 'Piaski'; bror Ludwik Gaworski (33 år) vittne. Metryk 'wyjętą z Ksiąg Kościoła [Piekoszowskiego?]' – födelseorten ev. Piekoszów (osäkert läst)."
   ],
   "sources": [
    {
     "label": "Skanoteka, Kielce Katedra födelsebok 1824, akt 532",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824a&kt=1&plik=532-537.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
    }
   ],
   "search": [
@@ -40517,7 +40580,7 @@
  {
   "id": "tomasz_mlodawski_1838",
   "name": "Tomasz Młodawski (gift 1838, son till Tomasz & Anna Gębska)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -40525,22 +40588,32 @@
   ],
   "summary": "Brudgum vid vigsel Mniów 5.2.1838 akt 4; Genetekas indexerade föräldrar Tomasz och Anna Gębska stämmer med Tomasz (d. 1857) och Anna z Gębskich i Rogowice. Bror till Jacek (f. 1837) sannolik men ej styrkt.",
   "notes": [
-   "GENETEKA S 1838 akt 4, socken Mniów: brudgum 'Tomasz Młodawski', föräldrar 'Tomasz, Anna Gębska'; brud 'Julianna Kotwica', hennes föräldrar 'Marcin, Marianna Błońska'; Uwagi: 'Rogowice 1838.02.05 kawaler, panna'. Lead tills akten bildlästs (Skanoteka Mniów id1317, vigsel 1838, akt 4)."
+   "GENETEKA S 1838 akt 4, socken Mniów: brudgum 'Tomasz Młodawski', föräldrar 'Tomasz, Anna Gębska'; brud 'Julianna Kotwica', hennes föräldrar 'Marcin, Marianna Błońska'; Uwagi: 'Rogowice 1838.02.05 kawaler, panna'. Lead tills akten bildlästs (Skanoteka Mniów id1317, vigsel 1838, akt 4).",
+   "BILDLÄST vigsel Mniów 1838 akt 4 (ordagrant, [ ] osäkert): «N. 4. Działo się we wsi Mniowie dnia piątego Lutego Tysiąc ośmset trzydziestego ósmego roku o godzinie drugiey po południu. Wiadomo czyniemy że w przytomności świadków Łukasza Piętka lat czterdzieści cztery i Kazimierza Jonciarza(?) lat trzydzieści ieden (31) maiących Rolników włościan we wsi Rogowicach na gospodarstwie osiadłych na dniu dzisieyszym zawarte zostało religiyne małżeństwo między Tomaszem Młodawskim młodzianem we wsi Rogowicach urodzonym Tomasza i Anny z Gębskich Młodawskich włościan we wsi Rogowicach na gospodarstwie osiadłych małżonków synem lat dwadzieścia maiącym przy swoich rodzicach pozostaiącym, a panną Juliannę Kotwicanką we wsi Rogowicach urodzoną Marcina i Maryanny z Błońskich [Kot]wiców włościan we wsi Rogowicach na gospodarstwie osiadłych małżonków córką lat dwadzieścia maiącą przy matce pozostaiącą. Małżeństwo to poprzedziły trzy zapowiedzi w dniach dwudziestym pierwszym, dwudziestym ósmym Stycznia i czwartym bieżącego miesiąca i roku o godzinie dwunastey w południe w Parafii Mniowskiey ... Tamowanie małżeństwa nie zaszło. Małżonkowie nowi oświadczaią że umowy przedślubney żadney z sobą nie zawarli. ... X. Ludwik Zaiączkowski [läsning osäker] Proboszcz Parafii Mniowskiey.» Marginal: «Rogowice / Młodawski Tomasz z Kotwiców(?) Julian[na]». Bekräftar: brudgummens föräldrar Tomasz + Anna z Gębskich Młodawskich, bägge i Rogowice (samma by och föräldrapar som Jacek Młodawski f. 12.8.1837, akt 58); brudgummens ålder 20 → f. ca 1817/18 (föräldrarnas ålder i akten anges ej, så Tomasz Sr:s födelseår ca 1792 kan inte stramas åt; Tomasz Sr 25/Anna 20–21 vid sonens födelse är rimligt). Bruden 20 år, f. ca 1817/18 i Rogowice."
   ],
   "sources": [
    {
     "label": "Geneteka-index, vigsel Mniów 1838 akt 4 (Młodawski Tomasz × Kotwica Julianna) – bildläs i Skanoteka Mniów id1317 kt2 sy1838",
     "url": "https://metryki.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
    }
   ],
   "search": [
    "Tomasz Młodawski (gift 1838, son till Tomasz & Anna Gębska)"
-  ]
+  ],
+  "born": {
+   "date": "ca 1817/18",
+   "place": "Rogowice (Mniów-socknen)",
+   "note": "Vigselakt 1838 akt 4: 'urodzonym we wsi Rogowicach ... synem lat dwadzieścia maiącym przy swych rodzicach pozostaiącym'"
+  }
  },
  {
   "id": "julianna_kotwica",
   "name": "Julianna Kotwica (g. Młodawska)",
-  "status": "candidate",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "places": [
@@ -40548,16 +40621,233 @@
   ],
   "summary": "Brud 1838 i Mniów, dotter till Marcin och Marianna Błońska (enligt Geneteka-index).",
   "notes": [
-   "GENETEKA S 1838 akt 4 Mniów: 'Julianna Kotwica', föräldrar 'Marcin, Marianna Błońska'."
+   "GENETEKA S 1838 akt 4 Mniów: 'Julianna Kotwica', föräldrar 'Marcin, Marianna Błońska'.",
+   "BILDLÄST vigsel Mniów 5.2.1838 akt 4: 'pannę Juliannę Kotwicankę we wsi Rogowicach urodzoną Marcina i Maryanny z Błońskich [Kot]wiców ... córką lat dwadzieścia maiącą przy matce pozostaiącą'. Flicknamn Kotwica (Kotwicanka), föräldrar Marcin + Maryanna f. Błońska."
   ],
   "sources": [
    {
     "label": "Geneteka-index, vigsel Mniów 1838 akt 4",
     "url": "https://metryki.genealodzy.pl/"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
    }
   ],
   "search": [
    "Julianna Kotwica (g. Młodawska)"
+  ],
+  "born": {
+   "date": "ca 1817/18",
+   "place": "Rogowice (Mniów-socknen)",
+   "note": "'lat dwadzieścia maiącą' vid vigseln 5.2.1838; född i Rogowice"
+  }
+ },
+ {
+  "id": "augustyn_schrek",
+  "name": "Augustyn Schrek",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "places": [
+   "Niewachłów (Kielce)"
+  ],
+  "summary": "Far till Mikołaj Schrek (f. ca 1804/05); bosatt i Niewachłów 1824, yrke i akten svårläst (gruv-/bergverksrelaterat, 'Okręgu ... górniczych').",
+  "notes": [
+   "VIGSEL Kielce Katedra 1824 akt 5 (ordagrant, osäkra ord inom [ ]): «Mikołay Schrek mający podług zdania przed nami Metryki wyjętey z Ksiąg Kościoła kieleckiego lat dziewiętnaście przy Rodzicach dotąd [rez..]daiący w Assystencyi Oyca swego Augustyna Schrek [Strażnika(?) Zakładów(?)] górniczych Okręgu [Miechowskiego(?)] w Niewachłowie zamieszkałego i Matki swoiey Elżbiety z Forwaldów» – yrkesordet och okrugsnamnet ej säkert lästa."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
+   }
+  ],
+  "search": [
+   "Augustyn Schrek"
+  ]
+ },
+ {
+  "id": "elzbieta_forwald",
+  "name": "Elżbieta Schrek (f. Forwald)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "places": [
+   "Niewachłów (Kielce)"
+  ],
+  "summary": "Mor till Mikołaj Schrek; flicknamn 'z Forwaldów' (läsning 'Forwald' ej helt säker).",
+  "notes": [
+   "VIGSEL Kielce Katedra 1824 akt 5: «... Matki swoiey Elżbiety z Forwaldów» (Forwald läst ur handstil, möjligen Forwalt/Forwaldów)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
+   }
+  ],
+  "search": [
+   "Elżbieta Schrek (f. Forwald)"
+  ]
+ },
+ {
+  "id": "onufry_gaworski",
+  "name": "Onufry Gaworski (Jaworski?)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "summary": "Far till Małgorzata (g. Schrek); död före 14.1.1824.",
+  "notes": [
+   "VIGSEL Kielce Katedra 1824 akt 5: «... w Assystencyi Matki swoiey Agnieszki z Dudzików Gaworskiey na [Kuźnicy ?] rozdaiący tylko, gdy Oyciec Onufry Gaworski już nieżyie» (G/J i efternamnet svårläst; 1824 födelseakt 532 och vigsel 1841 akt 148 läser 'Jaworskich'). Vittne: «Ludwika Gaworskiego lat trzydzieści trzy Brata Nowozaślubioney» (brud-bror)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Onufry Gaworski (Jaworski?)"
+  ]
+ },
+ {
+  "id": "agnieszka_dudzik",
+  "name": "Agnieszka Gaworska (f. Dudzik)",
+  "status": "verified",
+  "sex": "f",
+  "living": true,
+  "summary": "Mor till Małgorzata Schrek f. Gaworska/Jaworska; änka 1824, bosatt 'na [Kuźnicy?]' (ortnamn osäkert).",
+  "notes": [
+   "VIGSEL Kielce Katedra 1824 akt 5: «Matki swoiey Agnieszki z Dudzików Gaworskiey» (z Dudzików = f. Dudzik, osäker läsning av 'Dudzików')."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) vigsel 1824 (1824b, kt2), fil 005-007.jpg, akt 5 (14.1.1824): Mikołaj Schrek × Małgorzata Gaworska/Jaworska",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg"
+   }
+  ],
+  "places": [],
+  "search": [
+   "Agnieszka Gaworska (f. Dudzik)"
+  ]
+ },
+ {
+  "id": "jan_zatorski_far",
+  "name": "Jan Zatorski (f. ca 1763, dozorca szpitala Brzeziny)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1763",
+   "place": "",
+   "note": "'lat pięćdziesiąt' (läsning 'przedziesiąt'/50) vid sonens födelseanmälan 11.11.1813"
+  },
+  "places": [
+   "Brzeziny (pow. kielecki)"
+  ],
+  "summary": "Far till Marcin Zatorski (f. 11.11.1813). Dozorca szpitalny (sjukhusuppsyningsman) i Brzeziny 1813; död före 15.1.1833.",
+  "notes": [
+   "VIGSEL Brzeziny 1833 akt 3: Marcin Zatorski «Syn Jana i Heleny z Kie[...]ków Zatorskich, iuż nieżyiących» = son till Jan och Helena (f. Kie…/Kiel…), båda avlidna 1833.",
+   "FÖDELSEAKT Brzeziny 1813 akt 86 (11.11.1813, kl. 9 f.m. anmälan): «stawił się Jan Zatorski dozorca spitalny Brzeziński maiący lat [pięćdziesiąt?] i okazał Nam dziecię w spitalu zrodzone pod Numerem [czterdzie]stym [?] płci męskiey o godzinie pierwszey po północy dnia tego miesiąca i Roku i oświadczył Nam iż iest spłodzone z niego i Heleny z Zetermiałów(?) małżonki maiącey lat czterdzie[ści] ... dane mu imię Marcin»; vittnen «Pawła Wojciechowskiego Gaiowego Brzezińskiego» och Wojciech Sugiennego(?) Sołtys ze wsi Bilery. Identitet med brudgummens far i akt 3/1833: bägge Marcin, Jan+Helena, födelsedatum 11.11.1813 uttryckligen i 1833-akten – strong (ej utesluter annan Jan)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1813 (kt1), fil 084-090.jpg, akt 86 (11.11.1813): Marcin, son till Jan Zatorski och Helena",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1813&kt=1&plik=084-090.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   }
+  ],
+  "search": [
+   "Jan Zatorski (f. ca 1763, dozorca szpitala Brzeziny)"
+  ]
+ },
+ {
+  "id": "helena_zatorska_zeterniak",
+  "name": "Helena Zatorska (f. 'Kie…/Zeter…')",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "ca 1773",
+   "place": "",
+   "note": "'lat czterdzie…' vid 1813 (siffran svårläst)"
+  },
+  "places": [
+   "Brzeziny (pow. kielecki)"
+  ],
+  "summary": "Mor till Marcin Zatorski; flicknamn osäkert läst (1833: 'z Kie…ków'; 1813: 'z Zeterni/Zetermiałów'). Död före 15.1.1833.",
+  "notes": [
+   "VIGSEL Brzeziny 1833 akt 3: «Syn Jana i Heleny z Kie.. [sista stavelser '-ciłłów'/'-ków'] Zatorskich»; FÖDELSEAKT 1813 akt 86: «Heleny z Zetermiałów [?] małżonki». Flicknamnet ej fastställt – öppen fråga."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) födelse 1813 (kt1), fil 084-090.jpg, akt 86 (11.11.1813): Marcin, son till Jan Zatorski och Helena",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1813&kt=1&plik=084-090.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   }
+  ],
+  "search": [
+   "Helena Zatorska (f. 'Kie…/Zeter…')"
+  ]
+ },
+ {
+  "id": "marcin_kotwica",
+  "name": "Marcin Kotwica",
+  "status": "verified",
+  "sex": "m",
+  "living": true,
+  "places": [
+   "Rogowice (Mniów)"
+  ],
+  "summary": "Far till Julianna Kotwica; włościanin (bonde) i Rogowice 1838. Levande eller avliden 1838 oklart (bruden 'przy matce pozostającą').",
+  "notes": [
+   "VIGSEL Mniów 1838 akt 4: «pannę Juliannę Kotwicankę we wsi Rogowicach urodzoną Marcina i Maryanny z Błońskich [Kot]wiców włościan we wsi Rogowicach na gospodarstwie osiadłych małżonków córką lat dwadzieścia mającą przy matce pozostającą» (ordet efter 'Błońskich' på s. 56 första raden 'Kotwiców' läst; 'przy matce pozostającą' kan indikera att fadern var död – ej uttryckligt)."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=005-006.jpg"
+   }
+  ],
+  "search": [
+   "Marcin Kotwica"
+  ]
+ },
+ {
+  "id": "marianna_blonska",
+  "name": "Marianna Kotwica (f. Błońska)",
+  "status": "verified",
+  "sex": "f",
+  "living": true,
+  "places": [
+   "Rogowice (Mniów)"
+  ],
+  "summary": "Mor till Julianna Kotwica; flicknamn Błońska; Rogowice.",
+  "notes": [
+   "VIGSEL Mniów 1838 akt 4: «Marcina i Maryanny z Błońskich [Kot]wiców włościan we wsi Rogowicach»; bruden bodde 'przy matce'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Mniów (id1317) vigsel 1838 (kt2), fil 003-004.jpg (s. 55) + 005-006.jpg (s. 56), akt 4 (5.2.1838): Tomasz Młodawski × Julianna Kotwicanka",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=005-006.jpg"
+   }
+  ],
+  "search": [
+   "Marianna Kotwica (f. Błońska)"
   ]
  }
 ]

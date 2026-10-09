@@ -3896,6 +3896,21 @@
    "persons": [
     "boleslaw"
    ]
+  },
+  {
+   "title": "Åldersavvikelse Józef Zatorski",
+   "text": "Födelseakt 1843 ger f. 24.2.1843, vilket stämmer med 21 år (okt 1864), 23 (sept 1867) och 26 (dec 1868) men ger 28 år i okt 1871 (akt 550: 30). Redan noterat; 1843 föreslås som födelseår.",
+   "persons": [
+    "jozef_zatorski"
+   ]
+  },
+  {
+   "title": "Maryanna Sochas föräldrar och Helenas flicknamn (Zatorski) oklara",
+   "text": "1833-akten anger inga föräldrar till bruden (vittne Ignacy Socha, 70 år, möjlig släkting). Födelseakt Brzeziny 1817 ej funnen: 1817 års alfabetiska index har bara 'Socha Wincenty' (akt ca 60), ingen 'Sochówna'; akter ca 112–117 (dec 1817) visar ingen Socha. Marcins mor Helena: flicknamn 'z Kie…ków' (1833) resp. 'z Zetermiałów(?)' (1813) – ej fastställt.",
+   "persons": [
+    "maryanna_socha",
+    "helena_zatorska_zeterniak"
+   ]
   }
  ],
  "conflicts": [
@@ -4851,6 +4866,39 @@
    "persons": [
     "stefan",
     "zofia"
+   ]
+  },
+  {
+   "title": "Małgorzata 'Gawonka' = Małgorzata Gaworska/Jaworska (Kielce Katedra 1824 akt 5)",
+   "text": "Vigselakten bildläst: bruden skrivs 'Małgorzata Gaworska' (Genetekas 'Gawonka' var avläsningsfel av -ska). G/J i handstilen går ej att särskilja; brudens far Onufry Gaworski (död), mor Agnieszka z Dudzików. Brudgummens föräldrar Augustyn Schrek och Elżbieta z Forwaldów, Niewachłów. Samma par som i dotterns födelseakt 532/1824 (vigsel 11 månader tidigare). Efternamnet Jaworska/Gaworska bör föras som 'Jaworska/Gaworska' tills fler akter (t.ex. brodern Ludwik Gaworski) kontrollerats.",
+   "persons": [
+    "mikolaj_szrek_1804",
+    "malgorzata_jaworska_szrek",
+    "onufry_gaworski",
+    "agnieszka_dudzik",
+    "augustyn_schrek",
+    "elzbieta_forwald"
+   ]
+  },
+  {
+   "title": "Marcin Zatorski × Maryanna Socha vigsel 15.1.1833 bildläst (Brzeziny akt 3)",
+   "text": "Akten bekräftar paret, Marcin f. 11.11.1813 i Brzeziny (son till Jan och Helena Zatorski, avlidna), Maryanna Socha 15 år (f. 8.12.1817) f. i Brzeziny; brudens föräldrar anges inte. Födelseakt Brzeziny 1843 akt 15: Józef Zatorski f. 24.2.1843, far Marcin 30 år, mor Maryanna z Sochów 23 år. Józefs födelseort Brzeziny ersätter 'okänd'.",
+   "persons": [
+    "marcin_zatorski",
+    "maryanna_socha",
+    "jozef_zatorski",
+    "jan_zatorski_far",
+    "helena_zatorska_zeterniak"
+   ]
+  },
+  {
+   "title": "Vigsel Tomasz Młodawski × Julianna Kotwica 5.2.1838 bildläst (Mniów akt 4)",
+   "text": "Bekräftar föräldrar Tomasz och Anna z Gębskich Młodawskich (Rogowice) för brudgummen (20 år) och Marcin och Maryanna z Błońskich Kotwiców för bruden (20 år). Ingen åldersuppgift för Tomasz Sr i akten – hans födelseår ca 1792 går inte att förbättra här.",
+   "persons": [
+    "tomasz_mlodawski_1838",
+    "julianna_kotwica",
+    "tomasz_mlodawski",
+    "anna_gebska"
    ]
   }
  ]

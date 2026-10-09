@@ -12448,8 +12448,8 @@
   "type": "partner",
   "a": "tomasz_mlodawski_1838",
   "b": "julianna_kotwica",
-  "status": "strong",
-  "basis": "Geneteka-index S Mniów 5.2.1838 akt 4. Ej bildläst."
+  "status": "verified",
+  "basis": "Vigsel Mniów 5.2.1838 akt 4: 'zawarte zostało religiyne małżeństwo między Tomaszem Młodawskim młodzianem ... a panną Juliannę Kotwicanką' (https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg)"
  },
  {
   "id": "p-wawrzyniec_orzechowski-tekla_orzechowska",
@@ -12458,5 +12458,89 @@
   "b": "tekla_orzechowska",
   "status": "lead",
   "basis": "Geneteka S 1840 akt 9 Ociesęki: Laurenty Orzechowski × Tekla Sieczka; endast namnlikhet, geografiskt osäker."
+ },
+ {
+  "id": "c-augustyn_schrek-elzbieta_forwald-mikolaj_szrek_1804",
+  "type": "child",
+  "parents": [
+   "augustyn_schrek",
+   "elzbieta_forwald"
+  ],
+  "child": "mikolaj_szrek_1804",
+  "status": "verified",
+  "basis": "Vigsel Kielce Katedra 14.1.1824 akt 5: «Mikołay Schrek ... w Assystencyi Oyca swego Augustyna Schrek ... w Niewachłowie zamieszkałego i Matki swoiey Elżbiety z Forwaldów» (https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg)"
+ },
+ {
+  "id": "p-augustyn_schrek-elzbieta_forwald",
+  "type": "partner",
+  "a": "augustyn_schrek",
+  "b": "elzbieta_forwald",
+  "status": "verified",
+  "basis": "Samma akt: Augustyn Schrek och 'Matki swoiey Elżbiety z Forwaldów' = föräldrapar till Mikołaj (https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg)"
+ },
+ {
+  "id": "c-onufry_gaworski-agnieszka_dudzik-malgorzata_jaworska_szrek",
+  "type": "child",
+  "parents": [
+   "onufry_gaworski",
+   "agnieszka_dudzik"
+  ],
+  "child": "malgorzata_jaworska_szrek",
+  "status": "strong",
+  "basis": "Vigsel Kielce Katedra 14.1.1824 akt 5: bruden 'Małgorzata Gaworska' i assistens av 'Matki swoiey Agnieszki z Dudzików Gaworskiey ... gdy Oyciec Onufry Gaworski już nieżyie'. Strong, ej verified: efternamnet läst Gaworska/Jaworska (G/J) och identiteten med hustrun i födelseakt 532/1824 bygger på förnamn+make+tidsföljd (https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1824b&kt=2&plik=005-007.jpg)"
+ },
+ {
+  "id": "p-onufry_gaworski-agnieszka_dudzik",
+  "type": "partner",
+  "a": "onufry_gaworski",
+  "b": "agnieszka_dudzik",
+  "status": "verified",
+  "basis": "Samma akt: 'Matki swoiey Agnieszki z Dudzików Gaworskiey ... Oyciec Onufry Gaworski już nieżyie'"
+ },
+ {
+  "id": "c-jan_zatorski_far-helena_zatorska_zeterniak-marcin_zatorski",
+  "type": "child",
+  "parents": [
+   "jan_zatorski_far",
+   "helena_zatorska_zeterniak"
+  ],
+  "child": "marcin_zatorski",
+  "status": "strong",
+  "basis": "Vigsel Brzeziny 1833 akt 3: 'Marcinem Zatorskim ... urodzonem we Wsi Brzezinach iedenastego Listopada 1813 roku, Synem Jana i Heleny z Kie[..]ków Zatorskich, iuż nieżyiących' + födelseakt Brzeziny 1813 akt 86 (11.11.1813, Marcin, far Jan Zatorski dozorca spitalny, mor Helena). Strong: födelsedatum+namn+föräldranamn stämmer i två akter, mors flicknamn läses olika (https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg)"
+ },
+ {
+  "id": "p-jan_zatorski_far-helena_zatorska_zeterniak",
+  "type": "partner",
+  "a": "jan_zatorski_far",
+  "b": "helena_zatorska_zeterniak",
+  "status": "strong",
+  "basis": "Brzeziny 1833 akt 3 'Jana i Heleny ... Zatorskich'; 1813 akt 86 'z niego i Heleny ... małżonki'"
+ },
+ {
+  "id": "c-marcin_kotwica-marianna_blonska-julianna_kotwica",
+  "type": "child",
+  "parents": [
+   "marcin_kotwica",
+   "marianna_blonska"
+  ],
+  "child": "julianna_kotwica",
+  "status": "verified",
+  "basis": "Vigsel Mniów 5.2.1838 akt 4: 'pannę Juliannę Kotwicankę we wsi Rogowicach urodzoną Marcina i Maryanny z Błońskich [Kot]wiców ... córką' (https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1838&kt=2&plik=003-004.jpg)"
+ },
+ {
+  "id": "p-marcin_kotwica-marianna_blonska",
+  "type": "partner",
+  "a": "marcin_kotwica",
+  "b": "marianna_blonska",
+  "status": "verified",
+  "basis": "Samma akt: 'Marcina i Maryanny z Błońskich ... małżonków'"
+ },
+ {
+  "id": "s-tomasz_mlodawski_1838-jacek_mlodawski",
+  "type": "sibling",
+  "a": "tomasz_mlodawski_1838",
+  "b": "jacek_mlodawski",
+  "status": "strong",
+  "basis": "Samma föräldrapar (Tomasz + Anna z Gębskich Młodawscy, Rogowice) i akt 4/1838 och Jacek-födelseakt Mniów 1837 akt 58; strong"
  }
 ]
