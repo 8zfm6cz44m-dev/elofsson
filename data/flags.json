@@ -3991,6 +3991,34 @@
    "persons": [
     "karin_nilsdotter19"
    ]
+  },
+  {
+   "title": "Kristine Elefsdatter f. 1840 Frykerud (Nordre Land) är inte dotter till Anders Elofsson",
+   "text": "Patronymikon Elefs- = fadern hette Elof/Ellef. Anders Elofssons barn heter Andersdotter/-son. Elof Persson (Anders far) hade hustrun död 1/12 1838. Lead stängd som koppling till anders_e; ny person no_kristine_elefsd40 (lead).",
+   "persons": [
+    "no_kristine_elefsd40",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Stina Nilsdotter f. 1813: ingen död i Eidsvoll/Ullensaker 1875–1892 i Digitalarkivets index",
+   "text": "Systematisk genomsökning av begravningar (Eidsvoll och Ullensaker, alla indexerade volymer 1871–1895) för kvinnor f. 1811–1816 och för-namnen Stina/Kristina/Kristine/Christine/Kirsti/Kjersti gav ingen träff. Indexet verkar heltäckande för åren → hon dog troligen utanför Eidsvoll/Ullensaker (annan norsk socken eller i Sverige, Boda/Frykerud dödböcker 1876–1890) eller står under helt annat namn. FT 1875 är sista säkra post. Anders var enkemann 1891 och begravdes i Eidsvoll 1893.",
+   "persons": [
+    "no_stina_nilsd13",
+    "anders_e"
+   ]
+  },
+  {
+   "title": "Marie Andersdatter 1865 Ullensaker förblir svag lead",
+   "text": "Endast namn/patronymikon/ålder/land. Mer än 25 liknande 'Marie/Maria/Kaisa Andersdatter f. 1841–43 Sverige' i FT 1865/1875. Ingen födelseort Boda/Brunskog i någon norsk post. Anders själv finns inte i FT 1865 (ej funnen i Norge så tidigt).",
+   "persons": [
+    "maria_cajsa_ae42"
+   ]
+  },
+  {
+   "title": "Norska FT med födelseort Brunskog: inga nya träd-matchningar",
+   "text": "Genomgång av FT 1865 (1 träff), 1875 (~109 personer), 1891 (~60), 1900 (~30), 1910 (14) med födelseort Brunskog (alla stavningar Brunskog/Brunskov/Brunsko/Bruskog) jämfört med persons.json (förnamn+patronym+födelseår±1). Enda sammanfall: redan kända no_*/anders_e. Granskade och AVFÖRDA falska träffar: Nils Eriksen f. 1821 Lier (träd: Nils Eriksson d. 1850), Anders Andersen f. 1832 Sandø (träd: Anders Andersson f. 1831 V. Furtan bodde i Sverige 1880), Maria Anderssen f. 1869 Kristiania (träd: Maria Andersson f. 1868 kvar på Takene 1910/1930), Johan Nilsen f. 1876 Spydeberg (träd: Johan Nilsson f. 1877 Gullsby, 1900 hemma). Fullständig lista i nyckeln 'norway_brunskog_born_list' (dessa är födda ≤1899 dvs avlidna).",
+   "persons": []
   }
  ],
  "conflicts": [
@@ -5008,6 +5036,15 @@
     "julianna_kotwica",
     "tomasz_mlodawski",
     "anna_gebska"
+   ]
+  },
+  {
+   "title": "Kaisa Ellefsdatter (Kristiania) är dotter till Ellef/Elof Larsson",
+   "text": "Vigseln Gamle Aker 5/6 1865 s.149 nr 31 (Digitalarkivet view/327/pv00000005648599) anger bruras far 'Ellef Larsen' och Karsa Ellefsdtr f. 1842 Brunskog Wærmeland. Matchar Brunskog-doppet 1842 (Kajsa, Elof Larsson o h. Brita Nilsd.). Status strong; verified när doppet 1842 bildläses. Anna Ellefsen f. 1853 bodde 1875 på samma gård (Maridalsveien 56) – troligen syster (candidate).",
+   "persons": [
+    "no_kaisa_ellefsd42",
+    "no_anna_ellefsen53",
+    "ar2_elof_larsson_brunskog"
    ]
   }
  ]
