@@ -12542,5 +12542,24 @@
   "b": "jacek_mlodawski",
   "status": "strong",
   "basis": "Samma föräldrapar (Tomasz + Anna z Gębskich Młodawscy, Rogowice) i akt 4/1838 och Jacek-födelseakt Mniów 1837 akt 58; strong"
+ },
+ {
+  "id": "c-jan_zatorski_far-helena_zatorska_zeterniak-grzegorz_zatorski",
+  "type": "child",
+  "parents": [
+   "jan_zatorski_far",
+   "helena_zatorska_zeterniak"
+  ],
+  "child": "grzegorz_zatorski",
+  "status": "strong",
+  "basis": "Vigsel Brzeziny 1826 akt 2: 'Grzegorzem Zatorskim Młodzieńcem ... Jana Zatorskiego Zmarłego Ojca i Matki Heleny z Zel[...] Zatorskiey żyjącey' (https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1826&kt=2&plik=001-002.jpg)"
+ },
+ {
+  "id": "s-grzegorz_zatorski-marcin_zatorski",
+  "type": "sibling",
+  "a": "grzegorz_zatorski",
+  "b": "marcin_zatorski",
+  "status": "strong",
+  "basis": "Båda söner till Jan och Helena Zatorski, Brzeziny (1826 akt 2 resp. 1833 akt 3 + 1813 akt 86); samma föräldrapar förutsatt (Helenas flicknamn ofullständigt läst)."
  }
 ]

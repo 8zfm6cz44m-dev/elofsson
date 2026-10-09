@@ -21546,7 +21546,8 @@
    "GENETEKA S 1833 akt 3, Brzeziny (pow. kielecki): brudgum 'Marcin Zatorski' (inga föräldrar i indexet), brud 'Maria Socha'. Stark ledtråd till vigseln Marcin Zatorski × Maryanna Socha (före 1841; föräldrar till Józef Zatorski f. ca 1841). Lead/candidate tills akten bildlästs (Skanoteka: Brzeziny kielecki, vigsel 1833 akt 3; kontrollera att brudens namn är 'Maryanna z Sochów').",
    "BILDLÄST vigsel Brzeziny 1833 akt 3 (ordagrant, [ ] osäkert): «Działo się we Wsi Brzezinach, dnia piętnastego Stycznia, Tysiąc ośmset trzydziestego trzeciego roku. o godzinie dziewiątey rano. Wiadomo czyniemy, iż w przytomności Ignacego Sochy lat siedmdziesiąt, i Franciszka Pietrasia(?) lat czterdzieści liczących, Rolników Włościan Rolników we Wsi Brzeziny na Gospodarstwie osiadłych, Świadków niżej wyrażonego Marcina Zatorskiego. Na dniu dzisieyszym zawarte zostało Religiyne Małżeństwo między Marcinem Zatorskim Młodzianem, urodzonem we Wsi Brzezinach iedenastego Listopada, Tysiąc ośmset trzynastego roku, Synem Jana i Heleny z Kie[...]ków Zatorskich, iuż nieżyiących, A Maryanną Sochówną Panną lat piętnaście ukończone dnia ósmego Grudnia roku zeszłego, urodzoną we Wsi Brzezinach w Parafii Brzezińskiey. Małżeństwo to poprzedziły trzy Zapowiedzi w Parafii Brzezińskiey, w dniach pierwszym, szóstem i trzynastem Stycznia bieżącego roku. Jako też Zezwolenie ustne obecnych Aktowi Małżeństwa nowo zaślubionych ... Tamowanie Małżeństwa nie zaszło. Małżonkowie nowi oświadczaią iż nie zawarli umowy przed ślubem. Akt stawaiącym przeczytany, że pisać nie umieią my podpisali. X. Adam Rędzierski.» (Obs: aktens text anger INGA föräldrar till bruden; Ignacy Socha, 70, vittne – eventuell släkting men ej uttryckt.) Brudgummen 19 år, bruden 15 år.",
    "BILDLÄST födelseakt Brzeziny 1843 akt 15 (ordagrant, [ ] osäkert): «N 15. Działo się w Wsi Brzezinach Dnia dwudziestego piątego Lutego Tysiąc ośmset czterdziestego trzeciego Roku o godzinie pierwszey po południu Stawił się Marcin Zatorski lat trzydzieści maiący w Obecności Świadków Tomasza Kruka lat czterdzieści i Józefa [Kucza?] lat trzydzieści trzy liczących Gospodarzy we Wsi Brzezinach zamieszkałych i okazał nam Dziecię płci Męskiey urodzone w Wsi Brzezinach Dnia dwudziestego czwartego Lutego Roku bieżącego o godzinie siódmey po południu z Jego Małżonki [överstruket ord] Maryanny z Sochów lat dwadzieścia trzy maiącey. Dziecięciu temu na Chrzcie Swiętym w Dniu dzisieyszym odbytym nadane zostało Imię Józef A Rodzicami iego Chrzestnemi byli wspomniony Tomasz Kruk i Katarzyna [Rzeczowa?(Reliowa)]. Akt ten stawaiącym przeczytany że pisać nie umieią my podpisali. Xiądz Adam Rędzierski.» Ålder 30 stämmer med född 1813; 'Józef' född 24.2.1843 passar åldrarna 21 (1864)/23/26 i Józef Zatorskis senare akter.",
-   "FÖDELSEAKT Brzeziny 1813 akt 86: se jan_zatorski_far."
+   "FÖDELSEAKT Brzeziny 1813 akt 86: se jan_zatorski_far.",
+   "Syskon (GA5): Grzegorz Zatorski (f. ca 1805, Brzeziny) gifte sig 1826 med Wiktoria, son till Jan Zatorski (d. 22.3.1820) och Helena z Ze… – se grzegorz_zatorski (strong). Fadern Jan Zatorski dog 22.3.1820 när Marcin var 6 år."
   ],
   "sources": [
    {
@@ -40738,17 +40739,18 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "ca 1763",
+   "date": "ca 1760",
    "place": "",
-   "note": "'lat pięćdziesiąt' (läsning 'przedziesiąt'/50) vid sonens födelseanmälan 11.11.1813"
+   "note": "'lat sześćdziesiąt'(?) vid döden 22.3.1820 (siffran svårläst); 1813 'lat pięćdziesiąt'(?) → ca 1760–63"
   },
   "places": [
    "Brzeziny (pow. kielecki)"
   ],
-  "summary": "Far till Marcin Zatorski (f. 11.11.1813). Dozorca szpitalny (sjukhusuppsyningsman) i Brzeziny 1813; död före 15.1.1833.",
+  "summary": "Far till Marcin Zatorski (f. 11.11.1813) och troligen Grzegorz Zatorski (f. ca 1805). Dozorca (uppsyningsman) vid sjukhuset (Szpital) i Brzeziny; död 22.3.1820, gift.",
   "notes": [
    "VIGSEL Brzeziny 1833 akt 3: Marcin Zatorski «Syn Jana i Heleny z Kie[...]ków Zatorskich, iuż nieżyiących» = son till Jan och Helena (f. Kie…/Kiel…), båda avlidna 1833.",
-   "FÖDELSEAKT Brzeziny 1813 akt 86 (11.11.1813, kl. 9 f.m. anmälan): «stawił się Jan Zatorski dozorca spitalny Brzeziński maiący lat [pięćdziesiąt?] i okazał Nam dziecię w spitalu zrodzone pod Numerem [czterdzie]stym [?] płci męskiey o godzinie pierwszey po północy dnia tego miesiąca i Roku i oświadczył Nam iż iest spłodzone z niego i Heleny z Zetermiałów(?) małżonki maiącey lat czterdzie[ści] ... dane mu imię Marcin»; vittnen «Pawła Wojciechowskiego Gaiowego Brzezińskiego» och Wojciech Sugiennego(?) Sołtys ze wsi Bilery. Identitet med brudgummens far i akt 3/1833: bägge Marcin, Jan+Helena, födelsedatum 11.11.1813 uttryckligen i 1833-akten – strong (ej utesluter annan Jan)."
+   "FÖDELSEAKT Brzeziny 1813 akt 86 (11.11.1813, kl. 9 f.m. anmälan): «stawił się Jan Zatorski dozorca spitalny Brzeziński maiący lat [pięćdziesiąt?] i okazał Nam dziecię w spitalu zrodzone pod Numerem [czterdzie]stym [?] płci męskiey o godzinie pierwszey po północy dnia tego miesiąca i Roku i oświadczył Nam iż iest spłodzone z niego i Heleny z Zetermiałów(?) małżonki maiącey lat czterdzie[ści] ... dane mu imię Marcin»; vittnen «Pawła Wojciechowskiego Gaiowego Brzezińskiego» och Wojciech Sugiennego(?) Sołtys ze wsi Bilery. Identitet med brudgummens far i akt 3/1833: bägge Marcin, Jan+Helena, födelsedatum 11.11.1813 uttryckligen i 1833-akten – strong (ej utesluter annan Jan).",
+   "BILDLÄST DÖD Brzeziny 1820 (akt mellan nr 32 och 34, på s. 112, nummer läst som 33; datum akten ca 23.3.1820), ordagrant [ ] osäkert: «... stawili się Helena Zatorska żona zmarłego lat czterdzieści siedem mająca, Uboga Babka w Szpitalu Kościoła Brzezińskiego mieszkaiąca i Józef Śliwiński lat pięćdziesiąt sześć maiący profesji [Kowalskiey?] w Wsi Brzezinach mieszkaiący Świadkowie i oświadczyli nam iż dnia dwudziestego drugiego miesiąca Marca roku bieżącego o godzinie trzeciey popołudniu Jan Zatorski dozorca Szpitalu Kościoła Brzezińskiego żonaty maiący lat sześćdziesiąt [?] umarł w Brzezinach w Domu pod Numerem czternastym.» Akten anger inte föräldrar. Identitet med Marcins far: samma yrke, samma sjukhus, hustru Helena (47 år 1820 ≈ 40 år 1813), makan lever – strong. Dödsakten verifierar att Jan dog 22.3.1820, alltså före sonen Grzegorz vigsel (1826: 'Zmarłego Ojca')."
   ],
   "sources": [
    {
@@ -40758,11 +40760,23 @@
    {
     "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) död 1820 (kt3), fil 031-037.jpg (s. 112-113), akt ca 33 (23.3.1820): Jan Zatorski dozorca szpitala, död 22.3.1820",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1820&kt=3&plik=031-037.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) vigsel 1826 (kt2), fil 001-002.jpg, akt 2: 'Jana Zatorskiego Zmarłego Ojca'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1826&kt=2&plik=001-002.jpg"
    }
   ],
   "search": [
    "Jan Zatorski (f. ca 1763, dozorca szpitala Brzeziny)"
-  ]
+  ],
+  "died": {
+   "date": "1820-03-22",
+   "place": "Brzeziny (spitalet)"
+  }
  },
  {
   "id": "helena_zatorska_zeterniak",
@@ -40773,14 +40787,15 @@
   "born": {
    "date": "ca 1773",
    "place": "",
-   "note": "'lat czterdzie…' vid 1813 (siffran svårläst)"
+   "note": "'lat czterdzieści siedem' 1820 (död Jan, akt ca 33) → ca 1773; 1813 'czterdzie…' stämmer"
   },
   "places": [
    "Brzeziny (pow. kielecki)"
   ],
-  "summary": "Mor till Marcin Zatorski; flicknamn osäkert läst (1833: 'z Kie…ków'; 1813: 'z Zeterni/Zetermiałów'). Död före 15.1.1833.",
+  "summary": "Mor till Marcin Zatorski (och troligen Grzegorz); änka efter Jan Zatorski (d. 22.3.1820), 'uboga babka' (fattig barnmorska/gumma) i spitalet Brzeziny; levande jan 1826; flicknamn 'z Ze…/Zel…' ej fastställt; död före 15.1.1833.",
   "notes": [
-   "VIGSEL Brzeziny 1833 akt 3: «Syn Jana i Heleny z Kie.. [sista stavelser '-ciłłów'/'-ków'] Zatorskich»; FÖDELSEAKT 1813 akt 86: «Heleny z Zetermiałów [?] małżonki». Flicknamnet ej fastställt – öppen fråga."
+   "VIGSEL Brzeziny 1833 akt 3: «Syn Jana i Heleny z Kie.. [sista stavelser '-ciłłów'/'-ków'] Zatorskich»; FÖDELSEAKT 1813 akt 86: «Heleny z Zetermiałów [?] małżonki». Flicknamnet ej fastställt – öppen fråga.",
+   "1820 dödsakt: 'Helena Zatorska żona zmarłego lat czterdzieści siedem ... Uboga Babka w Szpitalu' – anmälare (vittne) för makens död. 1826 vigsel akt 2: 'Matki Heleny z Zel[…]/Zet[…] ... Zatorskiey żyjącey'. Alla tre akter (1813, 1826, 1833) ger flicknamnsbörjan Ze-/Zel-/Zet- (1833 tidigare läst 'Kie…'), så 'Kie…' från 1833 bör omprövas. Hennes död 1826–1833: dödsindex 1827–1832 genomsökta på Zatorsk-/Zatorska-poster (se unresolved) utan säker träff."
   ],
   "sources": [
    {
@@ -40790,11 +40805,22 @@
    {
     "label": "Skanoteka PTG, Brzeziny (id2612, zespół 76) vigsel 1833 (kt2), fil 001-004.jpg (s. 23), akt 3 (15.1.1833): Marcin Zatorski × Maryanna Socha",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1833&kt=2&plik=001-004.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) död 1820 (kt3), fil 031-037.jpg, akt ca 33: Helena Zatorska, żona zmarłego, 47 år, 'Uboga Babka w Szpitalu'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1820&kt=3&plik=031-037.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) vigsel 1826 (kt2), fil 001-002.jpg, akt 2: 'Matki Heleny z Zel[...] Zatorskiey żyjącey'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1826&kt=2&plik=001-002.jpg"
    }
   ],
   "search": [
    "Helena Zatorska (f. 'Kie…/Zeter…')"
-  ]
+  ],
+  "died": {
+   "date": "1826–1833 (levande jan 1826, död före 15.1.1833)"
+  }
  },
  {
   "id": "marcin_kotwica",
@@ -40848,6 +40874,35 @@
   ],
   "search": [
    "Marianna Kotwica (f. Błońska)"
+  ]
+ },
+ {
+  "id": "grzegorz_zatorski",
+  "name": "Grzegorz Zatorski (f. ca 1805, Brzeziny)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1805",
+   "place": "Brzeziny (pow. kielecki)",
+   "note": "'lat dwadzieścia [i pół?]' vid vigseln 1826 (siffran ej helt säker)"
+  },
+  "places": [
+   "Brzeziny (pow. kielecki)"
+  ],
+  "summary": "Troligen bror till Marcin Zatorski: gifte sig 1826 i Brzeziny, son till Jan Zatorski (död) och Helena z Ze… Zatorska (levande 1826).",
+  "notes": [
+   "BILDLÄST VIGSEL Brzeziny 1826 akt 2 (ordagrant, [ ] osäkert): «Działo się we Wsi Brzezinach Dnia [dag oläslig] Stycznia Tysiąc Osiemset Dwudziestego szóstego Roku o godzinie trzeciey po południu. Wiadomo czyniemy iż w przytomności Świadków Franciszka Potoraja lat trzydzieści i Jędrzeja Jędra(?)... lat pięćdziesiąt i dwa mieszkańców Gospodarzy ze Wsi Brzezin na dniu dzisieyszym zawarte zostało Religiyne Małżeństwo między Grzegorzem Zatorskim Młodzieńcem zamieszkałym w Brzezinach urodzonym we Wsi Brzezinach [Parafii?] Jana Zatorskiego Zmarłego Ojca i Matki Heleny z Zel[...] ... Zatorskiey żyjącey ... lat dwadzieścia [i pół?] mającym, a Panną Wiktoryą córką Jędrzeja żyjącego i Matki Salomei z Zegadłów(?) zmarłey, zamieszkałych w Brzezinach, lat dziewiętnaście liczącą ... przy Ojcu zostaiącą.» Mors flicknamn bara 'z Zel…' / 'z Zet…' läsbart – samma ofullständiga läsning som 1813/1833. Brudens efternamn framgår inte tydligt.",
+   "Slutsats: Grzegorz = son till samma par (Jan Zatorski död, Helena levande 1826) i Brzeziny; sannolikt Marcins äldre bror (Marcin f. 1813). Strong, inte verified, eftersom bildläsningen av moderns flicknamn är ofullständig."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Brzeziny (id2612) vigsel 1826 (kt2), fil 001-002.jpg (s. 101) + 003-005.jpg (s. 102), akt 2: Grzegorz Zatorski × Wiktoria",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1826&kt=2&plik=001-002.jpg"
+   }
+  ],
+  "search": [
+   "Grzegorz Zatorski (f. ca 1805, Brzeziny)"
   ]
  }
 ]

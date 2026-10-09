@@ -3911,6 +3911,21 @@
     "maryanna_socha",
     "helena_zatorska_zeterniak"
    ]
+  },
+  {
+   "title": "Maryanna Sochas födelse och föräldrar ej funna; Helenas flicknamn",
+   "text": "Födelseindex Brzeziny 1818 (SkU-1, SkU-2) har inga 'Sochówna' (endast Socha Ignacy, Stanisław, Walenty); 1819 är inte skannat/saknas i Skanoteka (enheter 1810–1818, 1820–1851; 1743–1809 endast skorowidz). Födelseakt 1817 genomsöktes av GA4. Brudens föräldrar ej angivna i 1833 akt 3. Helena: bokstäverna 'Ze…/Zel…/Zet…' i 1813, 1826 och 1820-kontext; 'Kie…' (1833) bör omprövas.",
+   "persons": [
+    "maryanna_socha",
+    "helena_zatorska_zeterniak"
+   ]
+  },
+  {
+   "title": "Brzeziny före 1810: endast skorowidz skannat",
+   "text": "Skanoteka Brzeziny har före 1810 endast skorowidze (index) över födslar 1755–1800, vigslar 1754–1809 och dödsfall 1743–1809 (enhet 1743, 64+20+26 bilder) samt aneksy 1780–1810; själva akterna 1743–1809 är inte skannade. Jan Zatorskis födelse (ca 1760) och vigsel med Helena (ca 1795–1805) kan därför inte läsas på bild; indexen (alfabetiska efter initial, utan efternamn-sidnummer) hann inte genomsökas på Zatorski. Nästa steg: bläddra SkM-20 (Z), SkU-60 (Z) och SkZ-25 (Z) i enhet 1743.",
+   "persons": [
+    "jan_zatorski_far"
+   ]
   }
  ],
  "conflicts": [
