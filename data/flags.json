@@ -337,6 +337,31 @@
    "persons": [
     "maryanna_socha"
    ]
+  },
+  {
+   "title": "Anton Nordstrom (Winnipeg): svenskt ursprung och kusinskap till Augustsson-bröderna",
+   "text": "Kusinen från manifestet 1903 är identifierad genom adressen 371 Alexander Ave. (Henderson 1903/1904) som Anton/Anthony Nordstrom, f. ca 1874 i Sverige, invandrad 1893/94 och d. 1946 i Minnedosa. Hans svenska namn och föräldrar är okända. Nästa steg: Emihamn/utvandrarregister 1893 (Anton … f. 1874, Värmland), Uppsala/Brunskog/Svartåna husförhör för syskonbarn till August Nilsson (f. 1855 Svartåna, son till Nils Jansson) eller till hans hustrur Maria Katrina Andersdotter/Stina Jansdotter, samt BC-dödsattesten för dottern Vera Elizabeth Holt (FamilySearch FLBJ-93R).",
+   "persons": [
+    "anton_winnipeg_cousin",
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson",
+    "august_nilsson_gullsbyn"
+   ]
+  },
+  {
+   "title": "'E. Augustson, carpenter' Winnipeg 1904 = Nils Einar?",
+   "text": "Henderson's Winnipeg Directory 1904: 'Augustson, E., carpenter, J. Mattson.' Initialen och yrket stämmer med Nils Einar (joiner 1903, destination Winnipeg). Posten saknar ålder och ursprung och är candidate. Nästa steg: läsa 1905/1906 års katalog (P000921-3-6/-7, nedladdningen misslyckades), Manitoba vital statistics (vigsel/död Augustson) och Kanadas folkräkning 1906 under felstavade namn (Augustsen/Augustine).",
+   "persons": [
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Andrew Haugberg f. 13/1 1861 Brunskog (föräldrar Per Olson/Stina Nilson)",
+   "text": "NUMIDENT-posten ger föräldrar med samma namn som föräldrarna till Olof Persson f. 1873 i Svartåna. Kontrollera i Brunskog husförhör (Svartåna, A I/30–35) om Per Olsson/Stina Nilsdotter har en son Anders f. 13/1 1861 med utflyttning till Amerika.",
+   "persons": [
+    "andrew_haugberg_1861",
+    "d7_olof_persson_svartana_1873"
+   ]
   }
  ],
  "conflicts": [
