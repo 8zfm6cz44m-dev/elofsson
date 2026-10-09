@@ -4019,6 +4019,30 @@
    "title": "Norska FT med födelseort Brunskog: inga nya träd-matchningar",
    "text": "Genomgång av FT 1865 (1 träff), 1875 (~109 personer), 1891 (~60), 1900 (~30), 1910 (14) med födelseort Brunskog (alla stavningar Brunskog/Brunskov/Brunsko/Bruskog) jämfört med persons.json (förnamn+patronym+födelseår±1). Enda sammanfall: redan kända no_*/anders_e. Granskade och AVFÖRDA falska träffar: Nils Eriksen f. 1821 Lier (träd: Nils Eriksson d. 1850), Anders Andersen f. 1832 Sandø (träd: Anders Andersson f. 1831 V. Furtan bodde i Sverige 1880), Maria Anderssen f. 1869 Kristiania (träd: Maria Andersson f. 1868 kvar på Takene 1910/1930), Johan Nilsen f. 1876 Spydeberg (träd: Johan Nilsson f. 1877 Gullsby, 1900 hemma). Fullständig lista i nyckeln 'norway_brunskog_born_list' (dessa är födda ≤1899 dvs avlidna).",
    "persons": []
+  },
+  {
+   "title": "Maryanna Sochas födelse: dateringen 8.12.1817 stöds inte av Brzeziny 1817",
+   "text": "Födelseboken Brzeziny dec 1817 saknar födsel 8-9.12 och saknar Socha; 1818-index har inga Sochówny; 1819 oskannat. Ålder 23 år 1843 pekar på 1819/20. Föräldrar/vigsel okända.",
+   "persons": [
+    "maryanna_socha"
+   ]
+  },
+  {
+   "title": "Jan Hencel död: ej i Katedra 1826-1836 (index); 1828 och 1831 saknar index",
+   "text": "Se hencel_jan_1820. Jan Hengiel akt 394/1836 är 38 år och ingen lösning. Återstår 1828, 1831 (oindexerat, ca 600 akter/år) samt 1837-1841.",
+   "persons": [
+    "hencel_jan_1820",
+    "tekla_hencel_mor"
+   ]
+  },
+  {
+   "title": "Białogon (id3912): oindexerat, ej genomsökt",
+   "text": "Endast en enhet A-1919-1941 med 9 böcker (ca 800 bilder). Geneteka saknar Białogon-poster för Orzechowski; Stefan/Zofia bodde i Szydłówek (S:t Wojciech/Katedra). Irena 1926 och Ryszard 1931 finns inte i Geneteka B.",
+   "persons": [
+    "stefan",
+    "zofia",
+    "irena"
+   ]
   }
  ],
  "conflicts": [
@@ -5045,6 +5069,15 @@
     "no_kaisa_ellefsd42",
     "no_anna_ellefsen53",
     "ar2_elof_larsson_brunskog"
+   ]
+  },
+  {
+   "title": "Wawrzyniec och Tekla Orzechowski: Ociesęki-ledtråden bekräftad (BQ3)",
+   "text": "GA2:s svaga Ociesęki-ledtråd är rätt: Wólka Pokłonna ligger i Ociesęki socken (gmina Raków). Vigsel 14.9.1840 akt 16 (Wawrzyniec, änkling 34 år, f. Huta Stara, son till Jan och Agnieszka x Tekla Sieczka 21 år, f. Wólka Pokłonna, dotter till Mikołaj och Katarzyna f. Głodowicz), Michał f. 23.8.1842 akt 47, Wawrzyniec död 10.9.1847 akt 172 (41 år). Geneteka anger vigseln felaktigt som akt 9 (rätt: 16). Katedra Kielce 1848/1852 behöver inte bläddras för Wawrzyniec. Tekla levde 1866; hennes död ej funnen. Wawrzyniecs första hustru (Agnieszka?) och barn ej utredda (Geneteka D 1847 akt 119: Agnieszka Orzechowska, córka Wawrzyńca i Agnieszki – lead).",
+   "persons": [
+    "wawrzyniec_orzechowski",
+    "tekla_orzechowska",
+    "michal_orzechowski"
    ]
   }
  ]

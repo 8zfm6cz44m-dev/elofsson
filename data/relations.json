@@ -12456,8 +12456,8 @@
   "type": "partner",
   "a": "wawrzyniec_orzechowski",
   "b": "tekla_orzechowska",
-  "status": "lead",
-  "basis": "Geneteka S 1840 akt 9 Ociesęki: Laurenty Orzechowski × Tekla Sieczka; endast namnlikhet, geografiskt osäker."
+  "status": "verified",
+  "basis": "Vigsel Ociesęki 14.9.1840 akt 16: 'między Wawrzeńcem Orzechowskim, włościaninem wdowcem ... a Teklą Sieczkówną panną'; födelseakt 1842 akt 47 'z jego Małżonki Tekli z Sieczków'; död 1847 akt 172 'Małżonek pozostałej wdowy Tekli z Sieczków' (https://metryki.genealodzy.pl/index.php?op=pg&id=1324&se=&sy=1840&kt=2&plik=015-018.jpg)"
  },
  {
   "id": "c-augustyn_schrek-elzbieta_forwald-mikolaj_szrek_1804",
@@ -12740,5 +12740,59 @@
   "b": "d7_sylvander_nils",
   "status": "strong",
   "basis": "1920 Coraopolis: Nelson Sylvander gift med Myrtle."
+ },
+ {
+  "id": "c-jan_orzechowski_huta-agnieszka_wajtasienska-wawrzyniec_orzechowski",
+  "type": "child",
+  "parents": [
+   "jan_orzechowski_huta",
+   "agnieszka_wajtasienska"
+  ],
+  "child": "wawrzyniec_orzechowski",
+  "status": "verified",
+  "basis": "Vigsel Ociesęki 1840 akt 16: 'w Hucie Starey Zamieszkałym tamże Urodzonym, z Jana Orzechowskiego y Agnieszki z Waytasieńskich Małżonków' (flicknamnet osäkert) (https://metryki.genealodzy.pl/index.php?op=pg&id=1324&se=&sy=1840&kt=2&plik=015-018.jpg)"
+ },
+ {
+  "id": "p-jan_orzechowski_huta-agnieszka_wajtasienska",
+  "type": "partner",
+  "a": "jan_orzechowski_huta",
+  "b": "agnieszka_wajtasienska",
+  "status": "verified",
+  "basis": "'Małżonków' i vigsel Ociesęki 1840 akt 16"
+ },
+ {
+  "id": "c-mikolaj_sieczka-katarzyna_glodowicz-tekla_orzechowska",
+  "type": "child",
+  "parents": [
+   "mikolaj_sieczka",
+   "katarzyna_glodowicz"
+  ],
+  "child": "tekla_orzechowska",
+  "status": "verified",
+  "basis": "Vigsel Ociesęki 1840 akt 16: 'Teklą Sieczkówną ... w Wolce poklonney Urodzoną z Mikołaja Sieczki, y Katarzyny z Głodowiczów Małżonków' (https://metryki.genealodzy.pl/index.php?op=pg&id=1324&se=&sy=1840&kt=2&plik=015-018.jpg)"
+ },
+ {
+  "id": "p-mikolaj_sieczka-katarzyna_glodowicz",
+  "type": "partner",
+  "a": "mikolaj_sieczka",
+  "b": "katarzyna_glodowicz",
+  "status": "verified",
+  "basis": "'Małżonków' i vigsel Ociesęki 1840 akt 16"
+ },
+ {
+  "id": "p-jozef_orzechowski-zofia_obara",
+  "type": "partner",
+  "a": "jozef_orzechowski",
+  "b": "zofia_obara",
+  "status": "strong",
+  "basis": "Geneteka-index S 1921 akt 46, Kielce św. Wojciech (Józef Orzechowski, föräldrar Michał + Agnieszka Hędzel, 46 wdowiec ur. Niewachlów x Zofia Obara). Ej bildläst."
+ },
+ {
+  "id": "p-stefan-stanislawa_smuga",
+  "type": "partner",
+  "a": "stefan",
+  "b": "stanislawa_smuga",
+  "status": "strong",
+  "basis": "Geneteka-index S 1934 akt 49, Kielce Katedra (Stefan Orzechowski, föräldrar Józef + Katarzyna Zatorska, 32 wdowiec ur. Szydłówek x Stanisława Smuga). Ej bildläst."
  }
 ]
