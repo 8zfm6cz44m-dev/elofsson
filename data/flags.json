@@ -105,18 +105,6 @@
    "source": "Riksarkivet: Boda husförhör A I/19 Södra Boda/Bodatorp/Renstad (fol 42-80, 217+), Boda dopbok C I/3 1855-58, husförhör A I/21-22 (1861-70)"
   },
   {
-   "title": "Olof Andersson (Takene) – kandidat f. 1779, motsägelse om modern",
-   "text": "Olof Anders f. 1779 Ö. Takene (A I/5 b.73) är son till Anders Andersson 1752; dopet 1779 (C I/2 b.160 nr 22) anger modern Marit Bengtsd medan husförhöret har Kjerst Jansd 1755 som hustru. Koppling till Marit Olsd 1776 (vigsel ca 1800) ej visad.",
-   "persons": [
-    "olof_andersson_takene02",
-    "marit_olsd_takene76"
-   ],
-   "priority": 2,
-   "next_step": "Sök vigsel Olof Andersson x Marit Olsdotter ca 1800 Brunskog E I/3.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog vigselbok E I/3 ca 1795-1802 (Olof Andersson x Marit Olsd.); dopbok C I/2 1779 b.160"
-  },
-  {
    "title": "Olof Olsson (f. 24/?/1804, Ö. Takene, hustru Britta Nilsd. 1802) – son till Olof Olsson 1757 och Ingierd Nilsd.?",
    "text": "A I/23 bild 147 (s. 135): ”B.u. Olof Olsson” f. ca 20–24/(3?)/1804 Brunskog, hustru Britta Nilsd. f. 3?/10 1802 Brunskog, barn Olof 22/?/1846, Britta 14/8? 1848(?), Nils 2?/10 1840, Ingierd ?/? 1845; i samma hushåll bor ”Mad. Enk. Ingjerd Nilsd.” (f. 20/11 1761, d. 1850). Sonskap till Ingierd/Olof Olsson 1757 ej bevisat: dopbok C I/3 bild 79–80 (1804) har bara en Ö. Takene-pojke Olof (nr 47, föräldrar Olof Andersson + Marit Olsd.), ingen Olof med föräldrar Olof Olsson/Ingierd – dopet kan ligga på annat blad eller vara 1803/1805. Obekräftat; ej registrerat som person.",
    "persons": [
@@ -127,31 +115,6 @@
    "next_step": "Läs dopbok C I/3 1804 Ö. Takene och dödbok 1850 för Ingierds barn.",
    "doable": true,
    "source": "Riksarkivet: Brunskog dödbok F I/2 1896 (Olof Olsson Takene 92 år, ger födelsedatum/föräldrar) + dopbok C I/3 1803/1805"
-  },
-  {
-   "title": "Per Nilsson (f. 1728) – mor Ingrid Elofsdotter, far Nils Jonsson ej identifierad",
-   "text": "Dödboken 1802 nämner Nils Jonsson och Ingrid Elofsdotter som föräldrar. Mor-relationen är skapad som candidate mot lead-posten ingrid_elofsd_toltan (identitet ej belagd). Fadern är inte Nils Jonsson (f. 1722, Skog). Kontrollera Åsen-dopet 1728 (C I/1 ca bild 180). Pål Persson (Toltan, barn 2/7 1700) kan inte vara far till Christopher Påhlsson (dop 1710 anger far ”Pehl”) – ingen länk.",
-   "persons": [
-    "per_nilsson28_skog",
-    "ingrid_elofsd_toltan",
-    "pal_persson_toltan1700"
-   ],
-   "priority": 2,
-   "next_step": "Brunskog dopbok C I/1 Åsen 1728 (ca bild 180) och dödbok 1802.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog dopbok C I/1 Åsen 1728 (ca bild 170-180) + dödbok F I/1 1802 b.82"
-  },
-  {
-   "title": "Stina Jansdotters ”mor” hos Emanuel Magnusson 1930",
-   "text": "Stina (f. 1847, änka 1930) bor 1930 i Kyrkebyn med Emanuel Magnusson f. 1878 Brunskog (g. Maria Andersdotter f. 1878 Sunne) och står som ”mor”. Kan vara hans mor (utom äktenskapet/tidigare förhållande, patronymikon Magnusson) eller svärmor. Kontrollera Brunskog dop 1878 (Emanuel, modern Stina Jansdotter?) och död F II 1930 (August).",
-   "persons": [
-    "stina_jansdotter",
-    "emanuel_magnusson_kyrkebyn"
-   ],
-   "priority": 2,
-   "next_step": "Dopbok Brunskog 1878: Emanuel Magnusson, modern Stina Jansdotter? Annars svärmor.",
-   "doable": true,
-   "source": "Riksarkivet: SCB födelseutdrag Brunskog 1878 (moder; A0036134-serien) / dopbok Brunskog 1878 - Emanuel Magnusson; även Sunne födelse 1878 för Maria Andersdotter"
   },
   {
    "title": "Toltan: ’Nils Persson’ (dödbok 1805) eller ’Nils Ihrsson(?)’ (dopbok 1754)",
@@ -3655,6 +3618,30 @@
    "text": "Två olika män: Anders Nilsson f. 96 Lerboda, g.m. Britta Nilsdotter f. 97, flyttar 1825 till Bodatorp (A I/14 bild 53, fol 38, från fol 112); och Anders Nilsson f. 2/11 1796 N. Boda, g. 26/12 1824 med Cajsa Olsdotter (A I/14 bild 17; E I/2 bild 120). Båda hushållen finns samtidigt.",
    "persons": [
     "anders_nilsson_boda"
+   ]
+  },
+  {
+   "title": "Per Nilsson (f. 1728) – mor Ingrid Elofsdotter, far Nils Jonsson ej identifierad",
+   "text": "Dop C I/1 bild 172 nr 19 (1 sept 1728): Nils Jonsson och h. Ingrid Elofsd:r i Åsen; marginal ”begr. 1802 23/5” = Pers begravning. Per f. Åsen, dopt 1/9 1728; far Nils Jonsson i Åsen (ej Nils Jonsson 1722 Skog). Pål Persson/Christopher Påhlsson ej berörd.",
+   "persons": [
+    "per_nilsson28_skog",
+    "ingrid_elofsd_toltan"
+   ]
+  },
+  {
+   "title": "Stina Jansdotters ”mor” hos Emanuel Magnusson 1930",
+   "text": "Folkräkning 1890 Gullsby: Emanuel Magnusson f. 1878 Brunskog står som ”d.s.” (dotterson) i fam 2 med Stina f. 1847 (dotter till husfadern Jan Svensson) och bröderna Johan Peter 1880 och Olof Conrad 1884 Magnusson – Stina är alltså Emanuels mor, ej svärmor.",
+   "persons": [
+    "stina_jansdotter",
+    "emanuel_magnusson_kyrkebyn"
+   ]
+  },
+  {
+   "title": "Olof Andersson (Takene) – kandidat f. 1779, motsägelse om modern",
+   "text": "Vigsel funnen: E I/3 bild 24 (Vigde 1800 nr 8, 14 dec 1800): ”Dr Olof Andersson i Ö. Takene / f. Marit Olsd. i V. Takene”. Kopplingen Marit Olsd 1776 – Olof Andersson är därmed belagd; identiteten med Olof f. 1779 strong. Modersmotsägelsen (Marit Bengtsd i dopet 1779 vs Kjerst Jansd i husförhöret) kvarstår som separat fråga.",
+   "persons": [
+    "olof_andersson_takene02",
+    "marit_olsd_takene76"
    ]
   }
  ],

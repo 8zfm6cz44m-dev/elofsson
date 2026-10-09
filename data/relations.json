@@ -12931,5 +12931,24 @@
   "child": "fr_jonasandersson_lene",
   "status": "strong",
   "basis": "Frykerud dopbok C/4 bild 37 apr 1750: ”…ders Nilsson och H. Marit Bengtsd[otter] … kallat Jonas”; fadder Sven Nilsson i Lene; marg. ”Död 1820” = F/2 bild 35 Jonas Andersson Lene 70 år."
+ },
+ {
+  "id": "c-nils_jonsson_asen28-ingrid_elofsd_toltan-per_nilsson28_skog",
+  "type": "child",
+  "parents": [
+   "nils_jonsson_asen28",
+   "ingrid_elofsd_toltan"
+  ],
+  "child": "per_nilsson28_skog",
+  "status": "verified",
+  "basis": "Brunskog dopbok C I/1 bild 172 nr 19 (1 sept 1728): ”Nills Jonsson och h. Ingrid Elofsd:r i Åsen Barn, som i Döpelsen blef Kalladt [namn överstruket]”, marg. ”begr. 1802 23/5” = Pers begravning (dödbok F I/1 bild 82: ”född i Åsen 1728 af D.M. Nils Jonsson och H. Ingrid Elofsd.”). Moderns identitet med ingrid_elofsd_toltan (gudmor ”Ingrid Elofsdotter i Åsen”) är strong, ej bevisad. https://sok.riksarkivet.se/bildvisning/C0036782_00172"
+ },
+ {
+  "id": "p-nils_jonsson_asen28-ingrid_elofsd_toltan",
+  "type": "partner",
+  "a": "nils_jonsson_asen28",
+  "b": "ingrid_elofsd_toltan",
+  "status": "strong",
+  "basis": "Dop 1 sept 1728 (C0036782_00172): ”Nills Jonsson och h. Ingrid Elofsd:r i Åsen” – makar enligt dopet; vigsel ej funnen."
  }
 ]
