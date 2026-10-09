@@ -20301,7 +20301,8 @@
   "living": false,
   "born": {
    "date": "1885-06-21",
-   "place": "Skog"
+   "place": "Skog, Brunskog",
+   "note": "SCB födda Brunskog 1885 (A0036341_00275, vänstersida lopnr 57): 'Johan (3)', 21 juni; 'Andersson Anders, gift dräng / Nilsdotter Mathilda, Skog, 6' (gifta år)."
   },
   "places": [
    "Skog, Brunskog",
@@ -20310,7 +20311,8 @@
   "summary": "Barn till Anders Sylvander och Matilda Nilsson, Skog. Amerika 18 okt 1895.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”",
-   "USA: John Sylvander f. 21 jun 1885 Sweden (exakt dag = SE 21/6 1885), d. 11 nov 1967 Los Angeles (California Death Index); 1940 Los Angeles, ogift 54 år, f. Sweden; ev. samma som 1930 Brooklyn/1910 Cleveland-posterna f. 1886 (ej verifierat; Cleveland-posten med naturalisering 1900 passar EJ). Inga föräldrar/syskon angivna i posterna – därför candidate."
+   "USA: John Sylvander f. 21 jun 1885 Sweden (exakt dag = SE 21/6 1885), d. 11 nov 1967 Los Angeles (California Death Index); 1940 Los Angeles, ogift 54 år, f. Sweden; ev. samma som 1930 Brooklyn/1910 Cleveland-posterna f. 1886 (ej verifierat; Cleveland-posten med naturalisering 1900 passar EJ). Inga föräldrar/syskon angivna i posterna – därför candidate.",
+   "SCB 1885: Johan (3:e barnet) f. 21 juni; far 'Andersson Anders, gift dräng', mor 'Nilsdotter Mathilda, Skog'. Matchar Anders Sylvander/Matilda Nilsson (modern Mathilda Nilsdotter även i Anna 1879). Fadern står med patronymikon Andersson, inte Sylvander i utdraget. Födelsedatum VERIFIERAT; föräldraskap starkt (namn+ort+datum, ej efternamnet Sylvander)."
   ],
   "sources": [
    {
@@ -20324,6 +20326,10 @@
    {
     "label": "FamilySearch, US Census 1940 Los Angeles: John Sylvander 54, f. Sweden, ensam (ogift), huvud",
     "url": "https://www.familysearch.org/ark:/61903/1:1:K9ZH-9C1"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1885, bild 275 (A0036341): 21 juni Johan (3:e barnet) – Andersson Anders, gift dräng / Nilsdotter Mathilda, Skog",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036341_00275"
    }
   ],
   "search": [
@@ -20371,7 +20377,8 @@
   "living": false,
   "born": {
    "date": "1871-01-03",
-   "place": "Skog, Brunskog"
+   "place": "Skog, Brunskog",
+   "note": "SCB födda Brunskog 1871 (A0035896_00317), högersida rad 3 jan: 'Jonte (1:a barnet i 1:a äktenskapet)' – föräldrar 'Bonden Olof Jönsson och hustrun Maria Persdotter i Skog 4 år'. Föräldrar bekräftade."
   },
   "places": [
    "Östra Skogshaget, Skog",
@@ -20379,12 +20386,17 @@
   ],
   "summary": "Son till Olof Jönsson och Maria Persdotter, Östra Skogshaget; Amerika 29 apr 1895 (nr 22). Släktskap ej belagt.",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6”. Bortflyttad-kolumn rad 4: ”Amerika 95 29/4 22”; flytt ”12 100/1892 K. M. tillstånd 19.IV.95”."
+   "HUSFÖRHÖR A I/37 bild 163 (fol. 167), Östra Skogshaget: ”Eg. Olof Jönsson 40 8/4 W. Emtervik; H. Maria Persdotter 44 5/5 Skog; Jonte 71 3/1 Skog; Olof Albert 80 24/6”. Bortflyttad-kolumn rad 4: ”Amerika 95 29/4 22”; flytt ”12 100/1892 K. M. tillstånd 19.IV.95”.",
+   "SCB 1871: 'Jonte (1:a barnet i 1:a äktenskapet)' född 3 jan; far Olof Jönsson (bonde), mor Maria Persdotter, Skog, gifta 4 år. Släktskap VERIFIERAT. (Samma dag 3 jan föddes även Johan, soldat Andersson Wikmanvale/Kajsa Jonsdotter, Wikene – annan person.)"
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 167 (bild 163): Jonte 71 3/1 → Amerika 95 29/4",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00163"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1871, bild 317 (A0035896): 3 jan 'Jonte' – 'Bonden Olof Jönsson / h. Maria Persdotter i Skog'",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035896_00317"
    }
   ],
   "search": [
@@ -20399,7 +20411,8 @@
   "living": false,
   "born": {
    "date": "1874-10-21",
-   "place": "Skog, Brunskog"
+   "place": "Skog, Brunskog",
+   "note": "SCB födda Brunskog 1874 (A0035998_00328, lopnr 102): 21 okt 'Maria (2:a barnet i 1:a äktenskapet)'; 'Soldaten Jonas Olsson Skogsberg och hustrun Stina Nilsdotter, gifta 2 år'."
   },
   "places": [
    "Skog",
@@ -20408,12 +20421,17 @@
   "summary": "Dotter till korpral Jonas Olof Skogsberg (Skog); Nordamerika 20 mars 1891. Släktskap ej belagt.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”. Bortflyttad: Maria ”Nordamerika 91 20/3”; Elin ”Nordamerika 94 26/4”.",
-   "USA: ingen säker träff. Maria Skogsberg f. 1873 Sweden, Chicago 1940 (K4MT-9PK) och Ellis Island 1910 – ej belagd som samma; troligen gift under annat namn. Ej matchad."
+   "USA: ingen säker träff. Maria Skogsberg f. 1873 Sweden, Chicago 1940 (K4MT-9PK) och Ellis Island 1910 – ej belagd som samma; troligen gift under annat namn. Ej matchad.",
+   "SCB 1874: 21 okt 'Maria, 2:a barnet i 1:a äktenskapet'; 'Soldaten Jonas Olson Skogsberg och hustrun Stina Nilsdotter, gifta 2 år'. Släktskap VERIFIERAT (husförhörets Elina Nilsdotter = Stina)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Skog folio 171 (bild 167): Maria 74 → Nordamerika 91 20/3",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00167"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1874, bild 328 (A0035998): 21 okt Maria – soldaten Jonas Olofsson Skogsberg / Stina Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035998_00328"
    }
   ],
   "search": [
@@ -20428,7 +20446,8 @@
   "living": false,
   "born": {
    "date": "1877-01-03",
-   "place": "Skog, Brunskog"
+   "place": "Skog, Brunskog",
+   "note": "SCB födda Brunskog 1877 (A0036100_00314, lopnr 3): 3 jan 'Elin (3)'; 'Skogsberg Jonas, soldat / Nilsdotter Stina, Skog 5' (5 = gifta år, läst)."
   },
   "places": [
    "Skog",
@@ -20437,7 +20456,8 @@
   "summary": "Dotter till korpral Jonas Olof Skogsberg; Nordamerika 26 apr 1894. Släktskap ej belagt.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Elin 77 3/1 Skog” – ”Nordamerika 94 26/4”.",
-   "USA: Elin Skogsberg f. 1877 Brunskog, Arvika, Värmland, Sweden, 26 år, Edgerton, Pipestone, Minnesota (MN statscensus 1905), alias Ellen Okerman – gift Albert Okerman, son Lee Milford Okerman (MN födelse-/dopindex); FamilySearch-träd: Elin ”Ellen” Skogsberg 1877–1967 (KLG6-VR1, användarträd = lead). Matchning: namn, födelseår, födelseort Brunskog, ankomst efter 26 apr 1894. Föräldrar ej angivna i posten."
+   "USA: Elin Skogsberg f. 1877 Brunskog, Arvika, Värmland, Sweden, 26 år, Edgerton, Pipestone, Minnesota (MN statscensus 1905), alias Ellen Okerman – gift Albert Okerman, son Lee Milford Okerman (MN födelse-/dopindex); FamilySearch-träd: Elin ”Ellen” Skogsberg 1877–1967 (KLG6-VR1, användarträd = lead). Matchning: namn, födelseår, födelseort Brunskog, ankomst efter 26 apr 1894. Föräldrar ej angivna i posten.",
+   "SCB 1877: 3 jan 'Elin (3:e barnet)', föräldrar 'Skogsberg Jonas, soldat' och 'Nilsdotter Stina, Skog'. Släktskap och födelsedatum VERIFIERADE. (Hon är Ellen Okerman i Minnesota; födelsedatum 3 jan 1877 kan nu användas vid USA-matchning.)"
   ],
   "sources": [
    {
@@ -20447,6 +20467,10 @@
    {
     "label": "FamilySearch, Minnesota State Census 1905, Edgerton, Pipestone: Elin Skogsberg (alias Ellen Okerman) 26, f. 1877 Brunskog, Arvika, Värmland, Sweden",
     "url": "https://www.familysearch.org/ark:/61903/1:1:SP3G-K38"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1877, bild 314 (A0036100): 3 jan Elin – Skogsberg Jonas soldat / Nilsdotter Stina, Skog",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036100_00314"
    }
   ],
   "search": [
@@ -20521,7 +20545,8 @@
   "living": false,
   "born": {
    "date": "1872-07-31",
-   "place": "Svartåna, Brunskog"
+   "place": "Svartåna, Brunskog",
+   "note": "SCB födda Brunskog 1872 (A0035931_00308, vänstersida lopnr 87): 31 juli 'Nils (2:a barnet i äktenskapet)'; 'Bonden Olof Andersson och hustrun Ingegärd Olsdotter (bostad Svartåna, ort svårläst), gifta 18 år'."
   },
   "places": [
    "Lyckan, Svartåna",
@@ -20530,12 +20555,17 @@
   "summary": "Son i Olof Anderssons hushåll, Lyckan (Svartåna); Nordamerika 8 mars 1893 med kunglig tillåtelse att lämna riket (frikallad 1888). Släktskap ej belagt.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 213 (fol. 218), Lyckan: ”Eg. Olof Andersson 27? 11/2 Svartåna; H. Ingegärd Olsdotter 32 30/8 Hortan; Johannes 67? 24/7 Svartåna; Nils 7? 31/7 Svartåna; Elisabeth 74 28/11”. Nils: ”Frikallad 1888”, ”Kungl. Maj:ts tillstånd att lämna riket”, ”Nordamerika 93 8/3 27”. Johannes: Nedra Ullerud 93 30/10; Elisabeth: N. Ullerud 95 1/11.",
-   "Folkräkning 1880 f. 1872; husförhör 31/7."
+   "Folkräkning 1880 f. 1872; husförhör 31/7.",
+   "SCB 1872: 'Nils (2:a barnet i äktenskapet)' f. 31 juli; 'Bonden Olof Andersson och hustrun Ingegärd Olsdotter', gifta 18 år. Stämmer med husförhörets Olof Andersson/Ingegärd Olsdotter (Lyckan) – släktskap VERIFIERAT; Nils nr 87 i 1872 års SCB-utdrag."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 218 (bild 213), Lyckan: Nils → Nordamerika 93 8/3",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00213"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1872, bild 308 (A0035931): 31 juli Nils – bonden Olof Andersson / Ingegärd Olsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035931_00308"
    }
   ],
   "search": [
@@ -20549,8 +20579,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1873",
-   "place": "Svartåna, Brunskog"
+   "date": "1873-12-06",
+   "place": "Svartåna, Brunskog",
+   "note": "SCB födda Brunskog 1873 (A0035965_00326, högersida sista raden): 'Emil, 5:e barnet i 1:a äktenskapet', 6 dec; 'Svartåna Bonden Anders (Persson? osäker, kan läsas Andersson) och hustrun Maria Jonsdotter, gifta 13 år'."
   },
   "places": [
    "Östra Nolbystegen, Svartåna",
@@ -20559,12 +20590,17 @@
   "summary": "Son till Anders Persson (f. 1830-06-27) och Maria Jonsdotter (1828?-01-16); Nordamerika 27 feb 1891 (nr 17). Släktskap ej belagt.",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 217 (fol. 222): ”Östra Nolbystegen: Eg. Anders Persson 30 27/6 Svartåna; H. Maria Jonsdotter 28 16/1 Svartåna; Emil 7? 6/12 Svartåna”. Emil: ”Nordamerika 91 27/2 17”.",
-   "Folkräkning 1880 Folk_120423435: Emil f. 1873 Brunskog (s.) hos Anders Persson/Maria Jonsdotter; husförhör 6/12 → född 6/12 1873."
+   "Folkräkning 1880 Folk_120423435: Emil f. 1873 Brunskog (s.) hos Anders Persson/Maria Jonsdotter; husförhör 6/12 → född 6/12 1873.",
+   "SCB 1873: 6 dec 'Emil, 5:e barnet i 1:a äktenskapet'; Svartåna, bonde Anders (efternamn svårläst) och hustrun Maria Jonsdotter, gifta 13 år. Modern, ort och datum stämmer med husförhör (6/12) och Maria Jonsdotter – släktskap VERIFIERAT."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 222 (bild 217), Östra Nolbystegen: Emil → Nordamerika 91 27/2",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00217"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1873, bild 326 (A0035965): 6 dec Emil – Svartåna bonden Anders (P/A)ndersson / Maria Jonsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035965_00326"
    }
   ],
   "search": [
@@ -20694,7 +20730,8 @@
   "living": false,
   "born": {
    "date": "1879-05-02",
-   "place": "Gunnarsbytorp"
+   "place": "Gunnarsbytorp, Brunskog",
+   "note": "SCB födda Brunskog 1879 (A0036167_00309, lopnr 54): 2 maj 'Karl Oskar (4)'; 'Jansson Olof, hemmansägare / Nilsdotter Britta, Gunnarsbytorp, 10' (gifta år)."
   },
   "places": [
    "Skog (Gärde)",
@@ -20702,12 +20739,17 @@
   ],
   "summary": "Son till Olof Jansson och Brita Nilsdotter (Skog, gård Gärde); Amerika 19 april 1901 (frikallad 1900). Släktskap ej belagt.",
   "notes": [
-   "FÖRSAMLINGSBOK A II a/1 bild 213 (fol. 203, Skog Gärde): ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Toltan; … Karin 74 16/11 Jacken; Karl Oskar 79 2/5 Gunnarsbytorp”; Karl Oskar: ”Frk. 00” – ”Amerika 01 19/4”."
+   "FÖRSAMLINGSBOK A II a/1 bild 213 (fol. 203, Skog Gärde): ”Eg. Olof Jansson 42 21/9 Gunnarsbytorp; H. Brita Nilsdotter 39 25/6 Toltan; … Karin 74 16/11 Jacken; Karl Oskar 79 2/5 Gunnarsbytorp”; Karl Oskar: ”Frk. 00” – ”Amerika 01 19/4”.",
+   "SCB 1879: 2 maj 'Karl Oskar (4:e barnet)'; 'Jansson Olof, hemmansägare' och 'Nilsdotter Britta, Gunnarsbytorp'. Släktskap VERIFIERAT (syskon Anna Maria f. 1871, Karin enl. husförhör)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 203, Karl Oskar → Amerika 01 19/4",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00213"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1879, bild 309 (A0036167): 2 maj Karl Oskar – Jansson Olof hemmansägare / Nilsdotter Britta, Gunnarsbytorp",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036167_00309"
    }
   ],
   "search": [
@@ -20749,8 +20791,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1873-07-17",
-   "place": "Skog"
+   "date": "1873-07-19",
+   "place": "Skog, Brunskog",
+   "note": "SCB födda Brunskog 1873 (A0035965_00324, vänstersida lopnr 77): 'Jönte, 1:a barnet i 1:a äktenskapet', dag läst 19 (kan möjligen vara 17); 'Skog, Soldaten Jonas Olofsson Skogsberg och hustrun Stina Nilsdotter, gifta 1 år'."
   },
   "places": [
    "Skog",
@@ -20759,12 +20802,17 @@
   "summary": "Son till korpral Jonas Olof Skogsberg; Amerika 31 maj 1901; föräldrarna och yngre syskon flyttade 7 juni 1901 till Västra Emtervik.",
   "notes": [
    "FÖRSAMLINGSBOK A II a/1 bild 220 (fol. 210, Skog): ”Jonas Skogsberg 46 [26/5] Spångdal; H. Stina Nilsd.; Jonte 73 17/7; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”; Jonte: ”Amerika 01 31/5”; övriga: ”W. Emt. 01 7/6”. Varnpligt: ”13 100/94 / 11 100/1900”.",
-   "USA: John Skogsberg f. 19 jan 1873 Värmland, d. 6 aug 1962 Sioux City, Iowa (Iowa dödsregister, föräldrar börjar på ”Ch…”) – födelsedatum avviker (SE 17/7 1873), EJ matchad. Ingen säker träff."
+   "USA: John Skogsberg f. 19 jan 1873 Värmland, d. 6 aug 1962 Sioux City, Iowa (Iowa dödsregister, föräldrar börjar på ”Ch…”) – födelsedatum avviker (SE 17/7 1873), EJ matchad. Ingen säker träff.",
+   "SCB 1873: 'Jönte, 1:a barnet i 1:a äktenskapet', juli (dag läst 19, husförhör A I/37 har 19/7; församlingsboken A II a/1 har 17/7); 'Skog, Soldaten Jonas Olofsson Skogsberg och hustrun Stina Nilsdotter, gifta 1 år'. Släktskap VERIFIERAT. Datumkonflikt 17 vs 19 juli: SCB-utdraget + husförhör 19/7 väger tyngst."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 210, Jonte → Amerika 01 31/5",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00220"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1873, bild 324 (A0035965): juli 'Jönte' – Skog, soldaten Jonas Olofsson Skogsberg / Stina Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035965_00324"
    }
   ],
   "search": [
@@ -20778,8 +20826,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1880-02-02",
-   "place": "Takene"
+   "date": "1880-02-08",
+   "place": "Takene, Brunskog",
+   "note": "SCB födda Brunskog 1880 (A0036196_00287, lopnr 15, vänstersida): 'Hulda Maria (7)', dag läst '8' febr (församlingsboken har 2/2 – dag osäker); 'Olofson Olof, hemmansägare / Olofsdotter Maria, Takene, 13' (gifta år)."
   },
   "places": [
    "Östra Skogshaget",
@@ -20787,12 +20836,17 @@
   ],
   "summary": "Piga/dotter (Östra Skogshaget); inflyttad 1899-11-16 från fol. 203; Amerika 3 nov 1904 enligt A II a/1.",
   "notes": [
-   "FÖRSAMLINGSBOK A II a/1 bild 216 (fol. 206, Östra Skogshaget): ”Hulda Maria Olsd. 80 2/2 Takene” – ”203 99 16/11” och ”Amerika 04 3/11”. Tolkning av raden osäker."
+   "FÖRSAMLINGSBOK A II a/1 bild 216 (fol. 206, Östra Skogshaget): ”Hulda Maria Olsd. 80 2/2 Takene” – ”203 99 16/11” och ”Amerika 04 3/11”. Tolkning av raden osäker.",
+   "SCB 1880: Hulda Maria, 7:e barnet, f. febr (dag läst 8; A II a/1 har 2/2) – far 'Olofson Olof, hemmansägare', mor 'Olofsdotter Maria, Takene'. Namn, år, månad, ort stämmer; dagen avviker (8 vs 2) → STRONG, inte fullt verified. Släktskap Olof Olofsson/Maria Olofsdotter."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896-1909) (vol. 00053596), fol. 206, Hulda Maria Olsd. → Amerika 04 3/11",
     "url": "https://sok.riksarkivet.se/bildvisning/00053596_00216"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1880, bild 287 (A0036196): febr Hulda Maria (7) – Olofson Olof hemmansägare / Olofsdotter Maria, Takene",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036196_00287"
    }
   ],
   "search": [
@@ -20835,7 +20889,8 @@
   "living": false,
   "born": {
    "date": "1873-01-27",
-   "place": "Svartåna"
+   "place": "Svartåna, Brunskog",
+   "note": "SCB födda Brunskog 1873 (A0035965_00321, vänstersida lopnr 11): 'Olof, 5:e barnet i 1:a äktenskapet', 27 jan; 'Svartåna Inhysesm. Per Olsson och hustrun Stina Nilsdotter, gifta 17 år'."
   },
   "places": [
    "Svartåna",
@@ -20843,12 +20898,17 @@
   ],
   "summary": "Son till Per Olofsson (f. 1824?) och Stina Nilsdotter, Svartåna; Nordamerika 1892 (dag/månad svårläst, nr 40).",
   "notes": [
-   "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” – ”Nordamerika 92 [2?]/8 40”."
+   "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” – ”Nordamerika 92 [2?]/8 40”.",
+   "SCB 1873: 27 jan 'Olof, 5:e barnet i 1:a äktenskapet'; föräldrar 'Svartåna Inhysesm. Per Olsson och hustrun Stina Nilsdotter, gifta 17 år' (fadern Per Olofsson i husförhöret). Släktskap VERIFIERAT (födelsedatum 27/1 stämmer med husförhör)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/37 (1891-1895), Svartåna folio 230 (bild 224): Olof 73 27/1 → Nordamerika 92",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00224"
+   },
+   {
+    "label": "Riksarkivet, SCB födda Brunskog 1873, bild 321 (A0035965): 27 jan Olof – Svartåna inhysesman Per Olsson / Stina Nilsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0035965_00321"
    }
   ],
   "search": [
