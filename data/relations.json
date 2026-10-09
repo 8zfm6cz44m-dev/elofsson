@@ -3439,8 +3439,8 @@
   "type": "sibling",
   "a": "marit_isaksd",
   "b": "nils_isaksson_toltan",
-  "status": "lead",
-  "basis": "Bild 143 (1723): Marit Isaacsdotter fadder hos Nils Isaack(?)/Marit i Toltan; patronymikon lika – syskonskap ej bevisat."
+  "status": "candidate",
+  "basis": "Mantal 1715 (A0003196 bild 499 vä): ”Nils Isaksson } Pär Olofsson” klammerförda i Toltan – Per Olofsson = drängen från Bråten som vigdes 28/12 1714 med ”Jfr. Marit Isaksdotter i Tolta” (E I/1 bild 30). Dessutom bild 143 (1723): Marit Isaacsdotter fadder hos Nils Isaack(?)/Marit i Toltan. Samma patronymikon och hushåll – syskonskap trolig men ej uttryckligen belagd."
  },
  {
   "id": "c-olof_andersson82-kari_jonsd-olof_olofsson10",
@@ -4472,8 +4472,8 @@
    "nils_larsson_toltan"
   ],
   "child": "elof_nilsson",
-  "status": "lead",
-  "basis": "Nils Larsson mantalsskriven i Toltan 1696–1711 (A0003177_00556 vä, A0003189_00489 hö, A0003192_00484 hö); Elof Nilsson f. 1687 i Toltan, patronymikon Nilsson. Ingen primärkälla (dop 1687 saknas)."
+  "status": "excluded",
+  "basis": "Nils Larsson mantalsskriven i Toltan 1696–1711 (A0003177_00556 vä, A0003189_00489 hö, A0003192_00484 hö); Elof Nilsson f. 1687 i Toltan, patronymikon Nilsson. Ingen primärkälla (dop 1687 saknas). | BU3 2026-10-10: ersatt av c-nils_larsson_toltan_d1715-elof_nilsson – id nils_larsson_toltan blandar flera män; relationen flyttad till Nils Larsson begr. 20/2 1715."
  },
  {
   "id": "c-nils_larsson_toltan-per_nilsson_toltan",
@@ -12950,5 +12950,23 @@
   "b": "ingrid_elofsd_toltan",
   "status": "strong",
   "basis": "Dop 1 sept 1728 (C0036782_00172): ”Nills Jonsson och h. Ingrid Elofsd:r i Åsen” – makar enligt dopet; vigsel ej funnen."
+ },
+ {
+  "id": "c-nils_larsson_toltan_d1715-elof_nilsson",
+  "type": "child",
+  "parents": [
+   "nils_larsson_toltan_d1715"
+  ],
+  "child": "elof_nilsson",
+  "status": "candidate",
+  "basis": "Ingen källa säger relationen. Indicier: (1) mantal 1714 (A0003195 bild 500 hö) och 1715 (A0003196 bild 499 vä), grupp Tolten: ”Lars Ersson / Lasse Nilsson / Nils Isaksson / Nils Larsson …” – Nils Larsson man utan hustru; (2) Nils Larsson ifrån Toltan begr. 20/2 1715, 80 år (E I/1 bild 148); (3) mantal 1718 (A0003197 bild 488 hö): ”Lars Ersson / Lasse Nilsson / Elof Nilsson” och 1719 (A0003198 bild 505 vä) samma följd – Elof (patronymikon Nilsson, f. 1687) tar Nils Larssons plats i samma Toltan-grupp direkt efter Lasse Nilsson. Elof står aldrig i Öst. Tortan-gruppen, där den andre Nils (Nils Andersson, begr. 24/2 1715) hörde hemma; Nils Andersson saknas för övrigt i Öst. Tortan-mantalet 1714 (A0003195 bild 499 hö). Därför candidate (stärkt jämfört med tidigare lead), inte strong."
+ },
+ {
+  "id": "s-elof_nilsson-lars_nilsson_toltan",
+  "type": "sibling",
+  "a": "elof_nilsson",
+  "b": "lars_nilsson_toltan",
+  "status": "lead",
+  "basis": "Mantal 1718 (A0003197 bild 488 hö) och 1719 (A0003198 bild 505 vä): ”Lasse Nilsson / Elof Nilsson” på varandra följande rader i Toltan-gruppen; samma patronymikon. ”Lasse ibid” fadder 2/2 1718 (C I/1 bild 113) hos ”…Nilsses o: h. Marits i Tolton barn”. Ej bevisat."
  }
 ]

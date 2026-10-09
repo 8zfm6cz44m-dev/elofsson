@@ -362,6 +362,23 @@
     "andrew_haugberg_1861",
     "d7_olof_persson_svartana_1873"
    ]
+  },
+  {
+   "title": "Elof Nilsson saknas i Toltan-mantalet 1720 – ”H:o Marit” ensam",
+   "text": "A0003199 bild 530 vä (1720, Toltan-gruppen): ”Nils Larsson och mo:r / Påhl Nilsson / Lars Nilsson / Nils Isaksson / Nils Larsson / H:o Marit”, forts. bild 530 hö ”Nils Mattsson och m:r / Nils Jönsson / Pär Ersson”. Elof Nilsson (1718, 1719) saknas; en ensam ”H:o Marit” står med kvinnokolumn. Kan vara Elofs hustru Marit Isaksdotter med Elof frånvarande (t.ex. soldat/utskriven 1719–20), eller en annan Marit. Kontrollera rullor (Värmlands regemente 1719–20) och mantal 1721–22.",
+   "persons": [
+    "elof_nilsson",
+    "marit_isaksd"
+   ]
+  },
+  {
+   "title": "Domböcker och bouppteckningar Jösse härad 1713–1721 ej digitaliserade",
+   "text": "Jösse domsagas häradsrätts arkiv SE/VA/11166 (Värmlandsarkiv): A I a vol. 7 (1713–1718) och vol. 8 (1713–1721); bouppteckningar F II börjar 1737. Göta hovrätt, renoverade domböcker ”Värmlands län 1701–1813” (RA Vadstena): vol. 29 (1714) och 31 (1715) omfattar Jösse. Ingen av volymerna har bildvisning hos RA. Arvskifte efter Nils Larsson/Nils Andersson i Toltan 1715 kan bara sökas via Arkiv Digital eller på plats (Värmlandsarkiv/Vadstena).",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan_d1715",
+    "nils_andersson_otortan_d1715"
+   ]
   }
  ],
  "conflicts": [
@@ -3680,6 +3697,38 @@
    "persons": [
     "jan_mlodawski",
     "marianna_lutawska"
+   ]
+  },
+  {
+   "title": "Fadder ”Elof i Toltan, hustru Gertrud” 1715",
+   "text": "Dopboken C I/1 bild 94 (s. 164–165, jan–feb 1715: 25 jan, 11, 12, 20, 24 feb) har ingen post 2 febr 1715 och ingen Toltan-fadder Elof/Gertrud; bild 95 börjar med mars 1715. Tholéns uppgift motsvarar i stället dopet 2 febr 1718 (bild 113): ”Test: Lasse ibid, [E/O]lafs[?] i Toltan [h.?] Hustro Gertrud, h. Marit i Tolton”.",
+   "persons": [
+    "elof_nilsson",
+    "gertrud_bondesd_toltan",
+    "jan_elofsson18"
+   ]
+  },
+  {
+   "title": "Mantal 1715–1720: Elof Nilsson och Påhl Nilsson saknas i Toltan klass 1",
+   "text": "Den tidigare läsningen tittade i Öst. Torten. Toltan-gruppen (”Tolten/Tolta”) ligger separat: 1715 A0003196 bild 499 vä, 1718 A0003197 bild 488 hö–489 vä, 1719 A0003198 bild 505 vä, 1720 A0003199 bild 530 vä–hö. Elof Nilsson finns 1718 och 1719; Påhl Nilsson 1720.",
+   "persons": [
+    "elof_nilsson",
+    "pal_nilsson_hagen"
+   ]
+  },
+  {
+   "title": "Första mantalsår för Elof Nilsson i Toltan",
+   "text": "Första mantalsår är 1718 (A0003197 bild 488 hö: ”Lars Ersson / Lasse Nilsson / Elof Nilsson”), därefter 1719 (A0003198 bild 505 vä). 1716–17 saknas i serien. 1720 saknas han (bild 530: ”H:o Marit” ensam).",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Mantalslängder 1706–1720: Toltan-bönder lästa endast delvis",
+   "text": "BU3 läste Toltan-gruppen 1714 (A0003195_00500 hö), 1715 (A0003196_00499 vä), 1718 (A0003197_00488 hö/00489 vä), 1719 (A0003198_00505 vä) och 1720 (A0003199_00530). 1707, 1709–1711 och 1713 är lästa i tidigare omgångar. Elof står i Toltan-gruppen (inte Åsen) 1718–19.",
+   "persons": [
+    "elof_nilsson",
+    "olof_nilsson_asen_mantal"
    ]
   }
  ],
