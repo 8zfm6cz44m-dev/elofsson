@@ -11952,13 +11952,13 @@
   "basis": "Katedra 1852 akt 118: 'Augustyn Hencel ... z jego Małżonki Maryanny z Szrekow ... Imię Kazimierz'"
  },
  {
-  "id": "c-augustyn_hencel-maryanna_hencel-hencel_walenty_1855",
+  "id": "c-augustyn_hencel-maryanna_hencel-hencel_walerja_1855",
   "type": "child",
   "parents": [
    "augustyn_hencel",
    "maryanna_hencel"
   ],
-  "child": "hencel_walenty_1855",
+  "child": "hencel_walerja_1855",
   "status": "verified",
   "basis": "Katedra 1855 akt 319: Augustyn Hencel + Maryanna z Szrekow, Niewachlów"
  },

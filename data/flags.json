@@ -195,20 +195,6 @@
    "source": "Riksarkivet: Brunskog husförhör Finnebäck/Gryttom (A II a/1, ca 1880-1900), Stockholm/Solna flyttlängder för Anders"
   },
   {
-   "title": "Jan Młodawski: identitet 1860/1891/1900 (och Annas flicknamn Opara/Bartosińska)",
-   "text": "Fynd: Jan Młodawski f. 12.3.1860 i Rogowice (Mniów akt 33; fader Jacek 23 år, moder Anna z Oparów 30 år) gifte sig 28.1.1891 i Odrowąż (akt 5) som ungkarl med Marianna Lutowska (f. 1872 Świerczów, d. till Maciej och Agnieszka z Trzebińskich). Jan Młodawski i vigselakten Kielce 1900 nr 23 är 'änkling efter Marianna z Lutawskich', 'född i byn Odrowąż', 37 år, son till Jacek och Anna z Bartosińskich. Likheter: samma förnamn på fadern (Jacek) och modern (Anna), hustruns förnamn + efternamn Lutowska/Lutawska, bytes närhet (Rogowice-Odrowąż, Mniów-Odrowąż). Skillnader: ålder (30 år 1891 vs 37 år 1900 = ca 1863; 40 år 1902), födelseort (Rogowice i 1860/1891 vs 'Odrowąż' 1900) och moderns flicknamn (Opara 1860, 1864, 1891 vs Bartosińska 1856, 1866, 1900). Anna z Bartosińskich är dock belagd som maka till Jacek Młodawski i Rogowice (vigsel 1856 akt 12, barn 1866 akt 131), så föräldraparet Jacek+Anna är samma familj. Bedömning: Jan f. 1860 = Jan 1900 är STRONG (änkling efter just Marianna Lutowska), men inte bevisat; ålders-/ortskillnaderna bör redovisas som avvikelser. Bör kontrolleras mot Marianna Młodawskas dödsakt (Odrowąż 1891–1899) där 'żona Jana' och födelseort bör stå, samt Jans dödsakt.",
-   "persons": [
-    "jan_mlodawski",
-    "jacek_mlodawski",
-    "anna_bartosinska",
-    "marianna_lutawska"
-   ],
-   "priority": 3,
-   "next_step": "Marianna Młodawskas dödsakt Odrowąż 1891-1899 och Jans dödsakt.",
-   "doable": true,
-   "source": "Skanoteka/Mniów 1858-60 vigsel Jacek Młodawski x Anna (flicknamn) alt. Anna Młodawskas död"
-  },
-  {
    "title": "Johan Olofssons barn (kommissionär i Arvika)",
    "text": "1910 Arvika köping N:o 266: barn Olof Gunnar 1897, Johan Gottfrid 1904, Anna Valborg Elvira 1909. Jan Källnes mor/far (”jan_forald”) torde vara ett av dessa (Anna Valborg Elvira f. 1909? eller en dotter född 1898–1903 som ej bor hemma 1910) – kontrollera Brunskog dop 1895–1903 och Arvika-husförhör. Morfar till Jan Källne ⇒ Jan Källnes förälder är en DOTTER till Johan: i 1910 finns bara Anna Valborg Elvira (f. 1909) som dotter – kan vara Jan Källnes mor, eller en äldre dotter f. ca 1896–1903.",
    "persons": [
@@ -330,15 +316,27 @@
    "source": "Riksarkivet: mantalslängder Toltan 1696-1735, Brunskog dopbok C I/1 1699 bild 51 och C I/1 bild 209"
   },
   {
-   "title": "Walerja/Wiktoria Hencel 1855: namnläsning",
-   "text": "Akt 319/1855 (flicka, f. 15 maj 1855) läses 'Walerja' i akten men index SkU-2 har 'Hencel Wiktorya'. Kontrollera med nära zoom/Geneteka. Id hencel_walenty_1855 bör ev. döpas om till hencel_walerja_1855 vid sammanslagning (sex = f).",
+   "title": "Annas flicknamn: Opara eller Bartosińska",
+   "text": "Oförändrat: Opara i 1860/1864/1891, Bartosińska i 1856/1866/1900. Ej löst av BT3.",
    "persons": [
-    "hencel_walenty_1855"
-   ],
-   "priority": 3,
-   "next_step": "Zooma akt 319/1855 Niewachłów och kolla Geneteka.",
-   "doable": true,
-   "source": "Skanoteka: Kielce Katedra 1855 akt 319 (Niewachłów) och Geneteka SkU-2 1855"
+    "anna_bartosinska"
+   ]
+  },
+  {
+   "title": "Białogon (id3912) innehåller bara Allegata, inte födelseböcker",
+   "text": "Enheten A-1919-1941 (sy7000) har 9 kuvert 'Allegata' (1919, 1921-1942, 1924, 1927, 1929, 1930, 1931, 1932, 1940), dvs lösa bilagor till akter (ex. kopior av dopbevis för vigslar), inte själva födelseböckerna. Irenas födelseakt 1926 ligger därför troligen i S:t Wojciech/Katedra eller i ej skannad Białogon-bok; Geneteka B 13sk Orzechowska Irena 1925-27 ger 0. Irena kvarstår som lead.",
+   "persons": [
+    "irena",
+    "stefan",
+    "zofia"
+   ]
+  },
+  {
+   "title": "Maryanna Sochas födelse: ytterligare negativa index",
+   "text": "Födelseindex Brzeziny 1816 (SkU-1: endast Socha Kazimierz, Józef) och 1820 (SkU-2: endast Socha Walenty, Stanisław) saknar Sochówna; 1817 jan-nov och 1818 var negativa sedan tidigare; 1819 är inte skannat. Geneteka D/B 13sk Socha Maryanna 1815-1822 = 0 träffar. Troligast född 1819 (ålder 23 år 1843) i oskannad bok, eller registrerad i annan socken.",
+   "persons": [
+    "maryanna_socha"
+   ]
   }
  ],
  "conflicts": [
@@ -3642,6 +3640,21 @@
    "persons": [
     "olof_andersson_takene02",
     "marit_olsd_takene76"
+   ]
+  },
+  {
+   "title": "Walerja/Wiktoria Hencel 1855: namnläsning",
+   "text": "Akt 319/1855 (Kielce Katedra, Niewachłów, aktdatum 16.9.1855, f. 15.5.1855) bildläst och zoomad: barnet är 'płci żeńskiej' och får namnet 'Wale-ya' (Walerja), inte Wiktorya (inget 'kt') och inte Walenty. Föräldrar Augustyn Hencel (32) och Maryjanna (30); faddrar Piotr Karpiński och Apolonia. Id hencel_walenty_1855 bör bytas till hencel_walerja_1855 (sex f).",
+   "persons": [
+    "hencel_walenty_1855"
+   ]
+  },
+  {
+   "title": "Jan Młodawski: identitet 1860/1891/1900 (och Annas flicknamn Opara/Bartosińska)",
+   "text": "Marianna z Lutowskich Młodawska dog 1.1.1897 (Odrowąż akt 3/1897) och lämnade 'änkling Jan Młodawski' efter sig; Jan i Kielce 1900 akt 23 (änkling efter Marianna z Lutawskich) är därmed hennes man från 1891 = samma person. Åldern 37 år, födelseort Odrowąż och moderns flicknamn Bartosińska i 1900-akten är avvikande uppgifter i den akten. Annas flicknamn (Opara vs Bartosińska) är ej avgjort här.",
+   "persons": [
+    "jan_mlodawski",
+    "marianna_lutawska"
    ]
   }
  ],
