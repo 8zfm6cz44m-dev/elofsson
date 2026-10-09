@@ -3830,6 +3830,39 @@
    "title": "Resurs BASIA (Wielkopolska): sök ej verifierad utan inloggning",
    "text": "basia.famula.pl/en/ ger 6,7 milj. index Wielkopolska (kyrko-/USC-böcker 1577-2026). Enkel POST (q=Kogut) via curl returnerar sida utan träfflista; avancerad POST (search_ext=szukaj, lname0, od, do) hängde (timeout 120 s); i Chrome hängde fetch. Troligen kräver träfflista konto/inloggning (att skapa konto är förbjudet för agent). Ej testad vidare. Geografiskt ointressant för Kielce/Lublin-släkten.",
    "persons": []
+  },
+  {
+   "title": "Bolesław Kogut: födelseakt-lead Ostrowiec Św. 1915 akt 28 (mor Anna Kogut)",
+   "text": "Geneteka B 13sk: Bolesław Kogut, 1915, akt 28, mor Anna Kogut, far saknas, Ostrowiec Świętokrzyski (Rzeczki), Uwagi 'Data urodzenia: 14.01.1915 r.'. Passar år, namn och region (Świętokrzyskie) men datum 14.1 mot 15.1 och inget om Trzcińsko-Zdrój/Irena. Lead, ej bevisat – akten måste läsas; även dopdatum kan vara 15.1.",
+   "persons": [
+    "boleslaw"
+   ]
+  },
+  {
+   "title": "Irena f. 1926: ingen födelseakt i Geneteka 13sk",
+   "text": "B w=13sk: Orzechowska 1925–1927 → inga flickor Irena/Helena (träffar: Marianna Orzechowska 1925 Masłów, Stanisław Mróz mor Antonina Orzechowska). Jarczyńska/Jarczyński: inga födslar 1925–27 (totalt 127 Jarczyński-poster, alla andra år; Irena Jarczyńska utan datum: 0). Hypotesen Irena = dotter till Stefan/Zofia varken stärkt eller motsagd; Kielce-materialet 1926 är dåligt indexerat.",
+   "persons": [
+    "irena",
+    "stefan",
+    "zofia"
+   ]
+  },
+  {
+   "title": "Vigsel Stefan Orzechowski x Zofia Młodawska 7.1.1923 ej funnen i Geneteka",
+   "text": "S w=13sk Orzechowski 1922–1924 (28 poster) och Młodawska Zofia 1922–1924: ingen Stefan×Zofia. Enda Stefan-vigslar: 1911 Ostrowiec (Stefan Orzechowski, föräldrar Wincenty/Franciszka Reńska × Bronisława Kosowska; son Stanisław gift 1934) och Stefan Orzechowski × Helena Kołtun 15.2.1922 Ostrowiec (akt 34) – INTE samma person (annan brud). Kielce/Szydłówek-vigslar ej indexerade.",
+   "persons": [
+    "stefan",
+    "zofia"
+   ]
+  },
+  {
+   "title": "Ryszard och Czesław Orzechowski: inga födelser/död i Geneteka",
+   "text": "B w=13sk Orzechowski Ryszard (alla år): 0. Czesław: 6 poster, ingen son till Stefan (Czesław & Józefa Siedlecka, Kielce Podwyższenia Krzyża, barn Bolesław 1920 akt 389 och Czesława Józefa 1923 akt 117 – annan familj, bara notering; ev. syskonrelation Irena–Czesław Orzechowski förblir obelagd). Zofias död 1933: D Młodawska 1931–35 gav bara Odrowąż-poster, ej Kielce.",
+   "persons": [
+    "ryszard_o",
+    "czeslaw_o",
+    "zofia"
+   ]
   }
  ],
  "conflicts": [
@@ -4777,6 +4810,14 @@
    "text": "MyHeritage-träden (död 1913) bekräftas: SCB död Frykerud 1913 nr 33, 6 juli, Emanuel Johansson, sadelmakare från Köpung, f. 23/11 1844. Äldre bror Johan: ej belagd; dopinlägget 1844 nämner inga syskon (dopbok ger inte syskon).",
    "persons": [
     "aq3_emanuel_johannesson44"
+   ]
+  },
+  {
+   "title": "Stefans födelseakt 68/1903 och Zofias akt 125/1904 finns i Geneteka",
+   "text": "Index bekräftar bara att posterna 'Stefan Orzechowski 1903 akt 68 Kielce św. Wojciech' och 'Zofia Młodawski 1904 akt 125 Kielce św. Wojciech' finns (utan föräldrar/datum). Stämmer med befintliga noter i persons.json; ingen ny information.",
+   "persons": [
+    "stefan",
+    "zofia"
    ]
   }
  ]
