@@ -3926,6 +3926,20 @@
    "persons": [
     "jan_zatorski_far"
    ]
+  },
+  {
+   "title": "Christopher Svensson f. 21/10 1754 – dop ej funnet",
+   "text": "Frykerud C/4 (C0037137) bild 71–72 (okt–nov 1753) och bild 83–85 (okt–dec 1754) tidigare genomlästa utan träff (se person); inte läst på nytt. Grannsocknar (Boda/Kil/Gönäs) ej genomsökta i BM1.",
+   "persons": [
+    "christopher_svensson_saldebraten"
+   ]
+  },
+  {
+   "title": "Syskon Stina Persdotter – 6 syskon enl. träd, 3 hittade",
+   "text": "Husförhör Boda A I/18 (1846–50) bild 261 visar bara Stina (1839), Maria (1843), Johanna (1845), Johan (1848). Övriga ev. syskon (äldre än 1839, födda efter 1850) kräver Boda A I/17 (C0036582, 1841–45) resp. A I/19 (C0036584, 1850–55) bild ~Takenetorp samt dop C I/3 bild 54–97.",
+   "persons": [
+    "johanna_persdotter_remstad"
+   ]
   }
  ],
  "conflicts": [
@@ -4503,6 +4517,14 @@
    "text": "Dop Boda 4 april 1816 (C0036593_00227); husförhör A I/22 ’16 7/3’ (7 mars). SCB-dödbokens ålder 74 år 10 mån 27 d vid död 4/4 1891 ger födelse ca 8 maj 1816, dvs efter dopet – åldern i SCB är fel (eller dödsdatum). Födelsedag 7/3 är osäker läsning.",
    "persons": [
     "per_adamsson16"
+   ]
+  },
+  {
+   "title": "Karin Nilsdotter f. 1719 – dop 27/11 1719 anger annan far?",
+   "text": "Frykerud dopbok C/2 (C0037135) bild 154 (s. 210, vänstersida, 1719): första posten ”27 / 29 Nov. Bengt Börjesson och h. Kirstin … barn i … kallad Karin” (mycket svårläst; fadersnamn ’Bengt Börjesson’ osäker). Dagen 27/11 1719 och namnet Karin stämmer med MyHeritage-leadens födelsedatum, men fadern är inte Nils. Kan vara en annan Karin eller feltolkad post; ingen post ’Nils …/Karin’ hittad på bild 153–154 (okt–dec 1719). Karin Ersson f. Nilsdotter förblir lead; sambandet Christopher Svensson ← Sven Ersson/Karin Nilsdotter obekräftat.",
+   "persons": [
+    "karin_nilsdotter19",
+    "christopher_svensson_saldebraten"
    ]
   }
  ],

@@ -22857,7 +22857,8 @@
    "FOLKRÄKNING 1880–1910: med maken Nils Andersson i Boda (Nordsjö), f. 1845 Boda.",
    "MyHeritage Smart Match (lead, 2 träffar, båda lästa): f. 18 dec 1845 Boda, DÖD 1917 (årtal; ej i vårt träd). NYA SYSKON: Stina Persdotter (+5 fler = 6 syskon, ett träd). Barn: Kristina Nilsdotter +9 fler (dvs. 10 barn; vårt träd har 9 barn i trädet - ett barn kan saknas), samt 'Emelia Emanuelsson (född Nilsdotter)' (dotter). Gift Nils Andersson Elofsson. Kontrollera: 10:e barnet, död 1917, syskonet Stina Persdotter.",
    "BK1: SCB död Boda 1917, bild A0031330_00244 (nr 15): ”Enkan Johanna Andersson f. Persd, från Nordsjö”, f. 45 18/11. Dödsår 1917 stämmer; namn (f. Persdotter, g. Andersson) + födelseår 1845 + Boda stämmer. AVVIKELSE: SCB anger födelsedag 18/11, vår post 18/12 1845 (husförhör Boda A I/22) – kontrollera; boplats Nordsjö (inte Remstad). Maken Nils Andersson (1844) död före 1917 (enka).",
-   "DOP Boda C I/3 bild 77 (s.119, höger sida, hel 1845): rad ”18 19 Johanna Takenetorp. Per Olsson / H. Cajsa Nilsd[otter]” (30 = ålder/nummer?; fadder Bengt Jansson m. H. Catharina Olsd[otter]). Födelse 18, dop 19 november 1845 – SCB 18/11 stämmer; husförhörens ”18/12” (A I/22) är därmed felläsning/skrivfel."
+   "DOP Boda C I/3 bild 77 (s.119, höger sida, hel 1845): rad ”18 19 Johanna Takenetorp. Per Olsson / H. Cajsa Nilsd[otter]” (30 = ålder/nummer?; fadder Bengt Jansson m. H. Catharina Olsd[otter]). Födelse 18, dop 19 november 1845 – SCB 18/11 stämmer; husförhörens ”18/12” (A I/22) är därmed felläsning/skrivfel.",
+   "FÖRÄLDRAR/SYSKON (Boda A I/18 bild 261, fol. 242, Takenetorp): ”B. Per Olsson” 16, ”H. Cajsa Nilsd[r]” ⁵⁄₁₁ 15; barn ”D. Stina” ²⁵⁄₂ 39, ”D. Marta” ¹⁰⁄₈ 43, ”D. Johanna” ¹⁸⁄₁₂ 45, ”S. Johan” 48. Födelsedag 18/12 1845 stämmer exakt med vår post → syskon: Stina, Maria, Johan (+ ev. äldre/yngre barn som flyttat/dött; träd anger Stina +5 = 6 syskon, endast 3 hittade 1846–50)."
   ],
   "sources": [
    {
@@ -22887,15 +22888,18 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/3 (1820-1858) C0036594, bild 77 (1845, november): Johanna, Takenetorp, Per Olsson / H. Cajsa Nils d.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00077"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”D. Johanna” 18/12 45 i Per Olssons/Cajsa Nilsd hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
    }
   ],
   "search": [
    "Johanna Persdotter (Remstad, Boda)"
   ],
   "born": {
-   "date": "1845-11-18",
-   "place": "Takenetorp, Boda",
-   "note": "dop Boda C I/3 bild 77 (1845, nov): född 18, döpt 19 nov; föräldrar Per Olsson / Cajsa Nilsdotter"
+   "date": "1845-12-18",
+   "place": "Boda (Takenetorp)"
   },
   "died": {
    "date": "1917-04-26",
@@ -27919,7 +27923,8 @@
    "BK1: SCB död Brunskog 1891 (Dödbok för Brunskogs norra församling, blad 4), bild A0036522_00721: ”Adamsson Per, f. d. åbo, Nolby”, ålder 74 år 10 mån 27 dagar. Stämmer med f. 1816 och Nolby. MyHeritage-leadens dödsår 1891 bekräftat (namn + ålder + bosättning).",
    "DOP Boda C I/2 bild 227 (1816 april 4): ”Nordsjö Per” – ”Adam Ersson / Maria Påls d.”; fadder (osäker) Nils Pettersson och Britta Jansdotter. Föräldrar = adam_ersson68_nordsjo / maria_palsd74_nordsjo.",
    "SYSKON (husförhör Boda A I/12 bild 131, fol. 119): Olof 1794, Jonas 1799, Britta 1803, Cajsa 1811, Maria 1813, Anders 1819 – se relations. MyHeritage-syskonen Jonas och Olof bekräftade som bröder.",
-   "BARN (husförhör Boda A I/22 bild 150): 9 barn – Anders 1848, Johannes 1850, Maria 1853, Britta Kajsa 1856, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866 (+ Karin 1869 i Brunskog, folkräkning 1880). Tre nya (Anders, Maria, Britta Kajsa); MyHeritages ’5-7 fler barn’ ej belagda utöver dessa."
+   "BARN (husförhör Boda A I/22 bild 150): 9 barn – Anders 1848, Johannes 1850, Maria 1853, Britta Kajsa 1856, Emil 1858, Adolf 1861, Kristina 1863, Anna Lisa 1866 (+ Karin 1869 i Brunskog, folkräkning 1880). Tre nya (Anders, Maria, Britta Kajsa); MyHeritages ’5-7 fler barn’ ej belagda utöver dessa.",
+   "DOP BEKRÄFTADE (Boda C I/3): Anders: bild 83, nr 6 | dop 9 juli 1848 (år enl. volymindex 1848 = bild 82–83): ”Anders. Nordsjö: Per Adamsson g. Britta Elofsd[r]”. Maria: bild 90, 1853 juni (född/dop ditto 23/24): ”Maria – Per Adamsson o[ch] H. Britta Elofsd[r] i Nordsjö.” Vittnen ”Nils Olsson o. h. Maria Ersd[r] i Nordsjö”. Britta Kajsa: bild 103 (s. 167 mitt emot bild 102 med rubrik 1856): ”5 | 6 Britta Kajsa – Per Adamsson o. Britta Elofsd[r] i Nordsjö (P. 209)”. (Anders 6/7 = dop 9/7; Maria: 23/6 enligt vår post; Britta Kajsa 5/7, dop 6/7.)"
   ],
   "sources": [
    {
@@ -27933,6 +27938,18 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/2 (1748-1819) C0036593, bild 227 (1816, april 4): Nordsjö, Per, föräldrar Adam Ersson / Maria Påls d.",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036593_00227"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858) C0036594, bild 83 (1848, juli): ”Anders – Nordsjö: Per Adamsson g. Britta Elofsd”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00083"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858) C0036594, bild 90 (s. 145, 1853, juni): ”Maria – Per Adamsson o. Britta Elofsd i Nordsjö”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00090"
+   },
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858) C0036594, bild 103 (s. 167, 1856, juli): ”Britta Kajsa – Per Adamsson o. Britta Elofsd i Nordsjö”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00103"
    }
   ],
   "born": {
@@ -36747,8 +36764,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1850",
-   "place": "Östra Ämtervik"
+   "date": "1850-07-03",
+   "place": "Östra Ämtervik (Bössviken)",
+   "note": "dop 7/7 1850; dopbok C/5 bild 177 nr 40"
   },
   "places": [
    "Köpung, Frykerud"
@@ -36757,12 +36775,18 @@
   "notes": [
    "FOLKRÄKNING 1910 Frykerud Köpung s.28: ”Gudmunsdotter, Kajsa, f. 1850 i Östra Ämtervik”.",
    "MyHeritage Smart Match (lead, 26 träffar; 12 lästa; ägare bl.a. Värmlandsrötter/Mimmi, Svensson/Håkan Svensson, Martinez, Gjerstad, Kjellgren, Smedberg, Berglund, Östlund): f. 1850, död 1922 (endast årtal). STARK träff (alla 12 stämmer: gift Emanuel Johannesson, 7+ barn inkl. Johan Gottfrid, fosterbarn/pupill Emma Elisabeth Emanuelsdotter). NYA SYSKON (föräldrar maskerade): Nils Gudmundsson ('Nr 1, blev 1 år' = dog som spädbarn), Lars Magnus Gudmundsson ('Nr 1, dog nyfödd'); träffarna anger +9 (upp till 10) syskon; ett träd anger att hon är syster till Maria (i 'Wi/us'?). Trädägarna ser ut som kopior av Värmlandsrötter. Kontrollera: dop Östra Ämtervik 1850, död 1922, föräldrar och syskonskaran.",
-   "BK1: SCB död Frykerud 1922, bild A0032243_00347 (nr 40): ”Kajsa Johansson f. Gudmunds…, [sadel]makaren, Köpung”, f. 50 3/7 (=3/7 1850). Namn + födelseår 1850 + Köpung + maken sadelmakare stämmer; ordet efter Gudmunds- delvis oläsligt. Dödsår 1922 bekräftat."
+   "BK1: SCB död Frykerud 1922, bild A0032243_00347 (nr 40): ”Kajsa Johansson f. Gudmunds…, [sadel]makaren, Köpung”, f. 50 3/7 (=3/7 1850). Namn + födelseår 1850 + Köpung + maken sadelmakare stämmer; ordet efter Gudmunds- delvis oläsligt. Dödsår 1922 bekräftat.",
+   "DOPBOK Östra Ämtervik C/5 (C0039804) bild 177 (s. 352), juli 1850 nr 40: ”Kajsa 3 | 7. Bössviken: Gudmund Nilsson: Maria Nilsd[r]. Vittnen Jon Olsson [och] Hu Kjerstin Bengtsd[r] ibm”. Föräldrar = Gudmund Nilsson och Maria Nilsdotter i Bössviken. Namn + dag (3/7 1850) stämmer med SCB död Frykerud 1922 (f. 3/7 1850) och folkräkning 1910 (f. Östra Ämtervik) – VERIFIERAD.",
+   "SYSKON (husförhör A I/11 bild 340, fol. 327): Nils Gustaf 17/10 1840, Maria 1842, Olof 25/10 1843, Gudmund 1847, Lars Magnus 8/6 1848 († 2/12 1848, spädbarn – stämmer med MyHeritage ’Lars Magnus dog nyfödd’). Kajsa själv ej med i 1847-listan (föddes 1850). MyHeritages ’Nils, blev 1 år’ ej funnen i Bössviken 1847–53 (kan vara född/död före 1847 eller under annan gård)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, folkräkning 1910 Frykerud, Köpung, s.28 r.29: hushåll Emanuel Johannesson (sadelmakare) med sex barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_124043430&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Östra Ämtervik dopbok C/5 (1818–1859) C0039804, bild 177 (s. 352, juli 1850) nr 40: ”Kajsa 3 | 7 Bössviken: Gudmund Nilsson: Maria Nilsdr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039804_00177"
    }
   ],
   "search": [
@@ -40903,6 +40927,350 @@
   ],
   "search": [
    "Grzegorz Zatorski (f. ca 1805, Brzeziny)"
+  ]
+ },
+ {
+  "id": "gudmund_nilsson_bossviken",
+  "name": "Gudmund Nilsson (Bössviken, Östra Ämtervik)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1802-08",
+   "place": "Östra Ämtervik",
+   "note": "husförhör A I/11 bild 340: dag/år svårläst, ”⁹⁄₈ 0?” (osäker)"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Far till Kajsa Gudmundsdotter f. 3/7 1850 enligt dopboken; bosatt i Bössviken med hustru Maria Nilsdotter.",
+  "notes": [
+   "DOPBOK Östra Ämtervik C/5 bild 177 (s. 352) 1850, nr 40: ”Kajsa” född 3, döpt 7 (juli) ”Bössviken: Gudmund Nilsson: Maria Nilsd[r].” Vittnen: ”Jon Olsson [och] Hu Kjerstin Bengtsd[r] ibm”.",
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Gudmund Nilsson” (renskrivet ’Bössviken’) f. ”⁹⁄₈ 0?” Ö. Ämtervik; ”Hu Maria Nilsd[r]” 6/8 21; moder (på raden under) ”Enk[a] Katrina Gudmundsd[r]” 11/4 7? Ö. Ämtervik."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik dopbok C/5 (1818–1859) C0039804, bild 177 (s. 352, juli 1850) nr 40: ”Kajsa 3 | 7 Bössviken: Gudmund Nilsson: Maria Nilsdr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039804_00177"
+   },
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Gudmund Nilsson”, ”Hu Maria Nilsd[r]”, barn",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Gudmund Nilsson (Bössviken, Östra Ämtervik)"
+  ]
+ },
+ {
+  "id": "maria_nilsd21_bossviken",
+  "name": "Maria Nilsdotter (f. 1821, Bössviken, Östra Ämtervik)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1821-08-06",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Hustru till Gudmund Nilsson; mor till Kajsa Gudmundsdotter f. 1850.",
+  "notes": [
+   "DOPBOK Östra Ämtervik C/5 bild 177 1850 nr 40: ”Bössviken: Gudmund Nilsson: Maria Nilsd[r].” (marginalålder 29 = född 1821).",
+   "HUSFÖRHÖR A I/11 bild 340: ”Hu Maria Nilsd[r]” ⁶⁄₈ 21, född ”ibm” (Östra Ämtervik)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Hu Maria Nilsd[r]” 6/8 21",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Maria Nilsdotter (f. 1821, Bössviken, Östra Ämtervik)"
+  ]
+ },
+ {
+  "id": "nils_gustaf_gn40",
+  "name": "Nils Gustaf Gudmundsson (f. 1840, Bössviken)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1840-10-17",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Barn till Gudmund Nilsson och Maria Nilsdotter i Bössviken (äldre syskon till Kajsa f. 1850).",
+  "notes": [
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Barn Nils Gustaf” ¹⁷⁄₁₀ 40 (dag osäker), född ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Barn Nils Gustaf” ¹⁷⁄₁₀ 40 (dag osäker)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Nils Gustaf Gudmundsson (f. 1840, Bössviken)"
+  ]
+ },
+ {
+  "id": "maria_gn42",
+  "name": "Maria Gudmundsdotter (f. 1842, Bössviken)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1842-04",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Barn till Gudmund Nilsson och Maria Nilsdotter i Bössviken (äldre syskon till Kajsa f. 1850).",
+  "notes": [
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Barn Maria” ⁷⁄₄ 42 (dag osäker), född ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Barn Maria” ⁷⁄₄ 42 (dag osäker)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Maria Gudmundsdotter (f. 1842, Bössviken)"
+  ]
+ },
+ {
+  "id": "olof_gn43",
+  "name": "Olof Gudmundsson (f. 1843, Bössviken)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1843-10-25",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Barn till Gudmund Nilsson och Maria Nilsdotter i Bössviken (äldre syskon till Kajsa f. 1850).",
+  "notes": [
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Barn Olof” ²⁵⁄₁₀ 43, född ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Barn Olof” ²⁵⁄₁₀ 43",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Olof Gudmundsson (f. 1843, Bössviken)"
+  ]
+ },
+ {
+  "id": "gudmund_gn47",
+  "name": "Gudmund Gudmundsson (f. 1847, Bössviken)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1847-03-26",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Barn till Gudmund Nilsson och Maria Nilsdotter i Bössviken (äldre syskon till Kajsa f. 1850).",
+  "notes": [
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Barn Gudmund” ²⁶⁄₃(?) 47 (månad osäker), född ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Barn Gudmund” ²⁶⁄₃(?) 47 (månad osäker)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "search": [
+   "Gudmund Gudmundsson (f. 1847, Bössviken)"
+  ]
+ },
+ {
+  "id": "lars_magnus_gn48",
+  "name": "Lars Magnus Gudmundsson (1848–1848, Bössviken)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848-06-08",
+   "place": "Östra Ämtervik"
+  },
+  "places": [
+   "Bössviken, Östra Ämtervik"
+  ],
+  "summary": "Barn till Gudmund Nilsson och Maria Nilsdotter i Bössviken (äldre syskon till Kajsa f. 1850).",
+  "notes": [
+   "HUSFÖRHÖR A I/11 bild 340 (fol. 327): ”Barn Lars Magnus” ⁸⁄₆ 48; anm. ”†²⁄₁₂ 48”, född ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Barn Lars Magnus” ⁸⁄₆ 48; anm. ”†²⁄₁₂ 48”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039791_00340"
+   }
+  ],
+  "died": {
+   "date": "1848-12-02",
+   "place": "Östra Ämtervik",
+   "note": "anm. ”†”, spädbarn (läst ²⁄₁₂ 48)"
+  },
+  "search": [
+   "Lars Magnus Gudmundsson (1848–1848, Bössviken)"
+  ]
+ },
+ {
+  "id": "per_olsson16_takenetorp",
+  "name": "Per Olsson (f. 1816, Takenetorp, Boda)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1816",
+   "place": "Boda"
+  },
+  "places": [
+   "Takenetorp, Boda"
+  ],
+  "summary": "Bonde i Takenetorp, Boda; far till Stina (f. 25/2 1839), Maria (1843), Johanna (f. 18/12 1845) och Johan (1848).",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/18 bild 261 (fol. 242) Takenetorp: ”B. Per Olsson” 16 Boda; ”H. Cajsa Nilsd[r]” ⁵⁄₁₁ 15 ibm; ”D. Stina” ²⁵⁄₂ 39; ”D. Marta” ¹⁰⁄₈ 43; ”D. Johanna” ¹⁸⁄₁₂ 45; ”S. Johan” …48 (alla ibm).",
+   "DOPBOK Boda C I/3 bild 50 (1839) Stina: ”Krogstad[?] g. Dr. Per Olsson: Kajsa Nilsd[r]”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”B. Per Olsson” 16 Boda, barn Stina/Marta/Johanna/Johan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
+   }
+  ],
+  "search": [
+   "Per Olsson (f. 1816, Takenetorp, Boda)"
+  ]
+ },
+ {
+  "id": "cajsa_nilsd15_takenetorp",
+  "name": "Cajsa Nilsdotter (f. 1815, Takenetorp, Boda)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1815-11-05",
+   "place": "Boda"
+  },
+  "places": [
+   "Takenetorp, Boda"
+  ],
+  "summary": "Hustru till Per Olsson i Takenetorp; mor till Stina, Maria, Johanna och Johan.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/18 bild 261 (fol. 242): ”H. Cajsa Nilsd[r]” ⁵⁄₁₁ 15 ibm (Boda)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”H. Cajsa Nilsd[r]” 5/11 15",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
+   }
+  ],
+  "search": [
+   "Cajsa Nilsdotter (f. 1815, Takenetorp, Boda)"
+  ]
+ },
+ {
+  "id": "stina_persd39_takenetorp",
+  "name": "Stina Persdotter (f. 25/2 1839, Boda)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1839-02-25",
+   "place": "Boda (Takenetorp)",
+   "note": "dopboken anger bostadsort svårläst ’Krogstad(?)’; husförhöret Takenetorp"
+  },
+  "places": [
+   "Takenetorp, Boda"
+  ],
+  "summary": "Syster till Johanna Persdotter (f. 1845); dotter till Per Olsson och Cajsa Nilsdotter.",
+  "notes": [
+   "DOPBOK Boda C I/3 (C0036594) bild 50 (s. 71, 1839, februari): ”Stina 25 | 25 Kroqstad[?] g. Dr. Per Olsson: Kajsa Nilsd[r]” vittnen ”Sold. Nils Grim fr. S. Grimstad, Hu. Katrina Olsd[r] fr Taken[etorp]”.",
+   "HUSFÖRHÖR Boda A I/18 bild 261 (fol. 242): ”D. Stina” ²⁵⁄₂ 39 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda dopbok C I/3 (1820–1858) C0036594, bild 50 (s. 71, 1839): ”Stina 25 25 … Per Olsson: Kajsa Nilsd”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036594_00050"
+   },
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”D. Stina” 25/2 39",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
+   }
+  ],
+  "search": [
+   "Stina Persdotter (f. 25/2 1839, Boda)"
+  ]
+ },
+ {
+  "id": "maria_persd43_takenetorp",
+  "name": "Maria (Marta) Persdotter (f. 10/8 1843, Boda)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1843-08-10",
+   "place": "Boda (Takenetorp)"
+  },
+  "places": [
+   "Takenetorp, Boda"
+  ],
+  "summary": "Dotter till Per Olsson och Cajsa Nilsdotter i Takenetorp; syster till Johanna f. 1845.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/18 bild 261: ”D. Marta [läst Maria]” ¹⁰⁄₈ 43 ibm. Dop ej kontrollerat (bild ca 66–70 i C I/3)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”D. Marta” 10/8 43",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
+   }
+  ],
+  "search": [
+   "Maria (Marta) Persdotter (f. 10/8 1843, Boda)"
+  ]
+ },
+ {
+  "id": "johan_persson48_takenetorp",
+  "name": "Johan Persson (f. 1848, Takenetorp, Boda)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1848",
+   "place": "Boda (Takenetorp)",
+   "note": "dag/månad ej utläst"
+  },
+  "places": [
+   "Takenetorp, Boda"
+  ],
+  "summary": "Son till Per Olsson och Cajsa Nilsdotter; yngre bror till Johanna f. 1845.",
+  "notes": [
+   "HUSFÖRHÖR Boda A I/18 bild 261: ”S. Johan” …48 ibm (dag svårläst)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”S. Johan” 48 ibm",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036583_00261"
+   }
+  ],
+  "search": [
+   "Johan Persson (f. 1848, Takenetorp, Boda)"
   ]
  }
 ]

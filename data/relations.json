@@ -12561,5 +12561,155 @@
   "b": "marcin_zatorski",
   "status": "strong",
   "basis": "Båda söner till Jan och Helena Zatorski, Brzeziny (1826 akt 2 resp. 1833 akt 3 + 1813 akt 86); samma föräldrapar förutsatt (Helenas flicknamn ofullständigt läst)."
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-aq3_kajsa_gudmundsd50",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "aq3_kajsa_gudmundsd50",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik dopbok C/5 (1818–1859) C0039804, bild 177 (s. 352, juli 1850) nr 40: ”Kajsa 3 | 7 Bössviken: Gudmund Nilsson: Maria Nilsd[r]” (bild C0039804_00177)"
+ },
+ {
+  "id": "p-gudmund_nilsson_bossviken-maria_nilsd21_bossviken",
+  "type": "partner",
+  "a": "gudmund_nilsson_bossviken",
+  "b": "maria_nilsd21_bossviken",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: ”Gudmund Nilsson” / ”Hu Maria Nilsd[r]” (C0039791_00340)"
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-nils_gustaf_gn40",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "nils_gustaf_gn40",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: under föräldrarna ”Barn …” (C0039791_00340)"
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-maria_gn42",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "maria_gn42",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: under föräldrarna ”Barn …” (C0039791_00340)"
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-olof_gn43",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "olof_gn43",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: under föräldrarna ”Barn …” (C0039791_00340)"
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-gudmund_gn47",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "gudmund_gn47",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: under föräldrarna ”Barn …” (C0039791_00340)"
+ },
+ {
+  "id": "c-gudmund_nilsson_bossviken-maria_nilsd21_bossviken-lars_magnus_gn48",
+  "type": "child",
+  "parents": [
+   "gudmund_nilsson_bossviken",
+   "maria_nilsd21_bossviken"
+  ],
+  "child": "lars_magnus_gn48",
+  "status": "verified",
+  "basis": "Riksarkivet, Östra Ämtervik husförhörslängd A I/11 (1847–1853) C0039791, bild 340 (fol. 327), Bössviken: under föräldrarna ”Barn …” (C0039791_00340)"
+ },
+ {
+  "id": "p-per_olsson16_takenetorp-cajsa_nilsd15_takenetorp",
+  "type": "partner",
+  "a": "per_olsson16_takenetorp",
+  "b": "cajsa_nilsd15_takenetorp",
+  "status": "verified",
+  "basis": "Riksarkivet, Boda husförhörslängd A I/18 (1846–1850) C0036583, bild 261 (fol. 242), Takenetorp: ”B. Per Olsson” / ”H. Cajsa Nilsd[r]” (C0036583_00261); dop Stina C I/3 bild 50: ”Per Olsson: Kajsa Nilsd[r]”"
+ },
+ {
+  "id": "c-per_olsson16_takenetorp-cajsa_nilsd15_takenetorp-stina_persd39_takenetorp",
+  "type": "child",
+  "parents": [
+   "per_olsson16_takenetorp",
+   "cajsa_nilsd15_takenetorp"
+  ],
+  "child": "stina_persd39_takenetorp",
+  "status": "verified",
+  "basis": "Dop Boda C I/3 bild 50 (1839): ”Stina … Per Olsson: Kajsa Nilsd[r]”; husförhör A I/18 bild 261 ”D. Stina” 25/2 39 (C0036583_00261)"
+ },
+ {
+  "id": "c-per_olsson16_takenetorp-cajsa_nilsd15_takenetorp-maria_persd43_takenetorp",
+  "type": "child",
+  "parents": [
+   "per_olsson16_takenetorp",
+   "cajsa_nilsd15_takenetorp"
+  ],
+  "child": "maria_persd43_takenetorp",
+  "status": "verified",
+  "basis": "Husförhör A I/18 bild 261 ”D. Marta” 10/8 43 (C0036583_00261)"
+ },
+ {
+  "id": "c-per_olsson16_takenetorp-cajsa_nilsd15_takenetorp-johanna_persdotter_remstad",
+  "type": "child",
+  "parents": [
+   "per_olsson16_takenetorp",
+   "cajsa_nilsd15_takenetorp"
+  ],
+  "child": "johanna_persdotter_remstad",
+  "status": "verified",
+  "basis": "Husförhör A I/18 bild 261 ”D. Johanna” 18/12 45 (stämmer med vår födelsedag) (C0036583_00261)"
+ },
+ {
+  "id": "c-per_olsson16_takenetorp-cajsa_nilsd15_takenetorp-johan_persson48_takenetorp",
+  "type": "child",
+  "parents": [
+   "per_olsson16_takenetorp",
+   "cajsa_nilsd15_takenetorp"
+  ],
+  "child": "johan_persson48_takenetorp",
+  "status": "verified",
+  "basis": "Husförhör A I/18 bild 261 ”S. Johan” 48 (C0036583_00261)"
+ },
+ {
+  "id": "s-stina_persd39_takenetorp-johanna_persdotter_remstad",
+  "type": "sibling",
+  "a": "stina_persd39_takenetorp",
+  "b": "johanna_persdotter_remstad",
+  "status": "verified",
+  "basis": "Samma föräldrar Per Olsson/Cajsa Nilsdotter, Boda A I/18 bild 261"
+ },
+ {
+  "id": "s-maria_persd43_takenetorp-johanna_persdotter_remstad",
+  "type": "sibling",
+  "a": "maria_persd43_takenetorp",
+  "b": "johanna_persdotter_remstad",
+  "status": "verified",
+  "basis": "Samma föräldrar Per Olsson/Cajsa Nilsdotter, Boda A I/18 bild 261"
+ },
+ {
+  "id": "s-johan_persson48_takenetorp-johanna_persdotter_remstad",
+  "type": "sibling",
+  "a": "johan_persson48_takenetorp",
+  "b": "johanna_persdotter_remstad",
+  "status": "verified",
+  "basis": "Samma föräldrar Per Olsson/Cajsa Nilsdotter, Boda A I/18 bild 261"
  }
 ]
