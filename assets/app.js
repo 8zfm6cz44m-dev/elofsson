@@ -149,6 +149,8 @@ function initUI() {
   const dm=$("#dim-others"); dm.checked=S.dim;
   dm.addEventListener("change",e=>{ S.dim=e.target.checked; try{localStorage.setItem("dimOthers",S.dim?"1":"0");}catch(x){} applySelect(S.sel); });
   document.addEventListener("keydown",e=>{ const t=e.target; if(e.key==="Escape"&&S.sel&&!(t&&t.closest&&t.closest("input,textarea,select"))) closeCard(); });
+  $("#tools-toggle").onclick=()=>{ const b=$(".treebar"); const o=b.classList.toggle("open"); $("#tools-toggle").setAttribute("aria-expanded",o); };
+  let rz; window.addEventListener("resize",()=>{ clearTimeout(rz); rz=setTimeout(()=>{ if(!S.sel&&$("#view-tree").classList.contains("active")) fit(); },200); });
   $("#zoom-in").onclick=()=>zoomBy(1.2);
   $("#zoom-out").onclick=()=>zoomBy(1/1.2);
   $("#zoom-fit").onclick=fit;
@@ -173,6 +175,7 @@ function initUI() {
 function route() {
   const h=decodeURIComponent(location.hash.slice(1))||"pappa";
   const [tab,kind,arg]=h.split("/");
+  if(!(["pappa","mamma","ovriga"].includes(tab)&&kind==="person")) document.body.classList.remove("sheet-open");
   $$(".tabs a").forEach(a=>{
     a.removeAttribute("aria-current");
     if(a.dataset.tab===tab) a.setAttribute("aria-current","page");
@@ -185,6 +188,7 @@ function route() {
       S.sel=arg;
       if(S.trail[S.trail.length-1]!==arg){ S.trail.push(arg); if(S.trail.length>40) S.trail.shift(); }
       applySelect(arg); openPanel(arg);
+      if(isMobile()) requestAnimationFrame(()=>revealCard(arg));
     } else if(S.sel){ S.sel=null; S.trail=[]; applySelect(null); emptyPanel(); }
   } else if(tab==="uteslutna"){
     $("#view-uteslutna").classList.add("active"); renderUteslutna();
@@ -392,6 +396,7 @@ function renderTree() {
 }
 
 function applySelect(id) {
+  document.body.classList.toggle("sheet-open",!!id&&isMobile());
   const stage=$("#stage");
   stage.classList.toggle("has-sel",!!id&&S.dim);
   $$(".card",stage).forEach(c=>c.classList.remove("sel","rel"));
@@ -419,14 +424,32 @@ function fit() {
   const k=Math.max(0.08,Math.min(1,vp.width/w,vp.height/h));
   S.tf={k,x:(vp.width-w*k)/2,y:10}; applyTf();
 }
+function isMobile() { return window.matchMedia("(max-width:920px)").matches; }
+function revealCard(id) {
+  const v=S.V[S.view]; if(!v||!v.pos[id]) return;
+  const vp=$("#viewport").getBoundingClientRect();
+  const[c,r]=v.pos[id], k=Math.max(S.tf.k,0.75);
+  const sheetTop=window.innerHeight*0.48-vp.top;
+  S.tf={k,x:vp.width/2-(X(c)+CW/2)*k,y:sheetTop/2-(Y(r)+CH/2)*k}; applyTf();
+}
 function focusOn(id) {
+  if(isMobile()&&S.sel&&S.V[S.view]?.pos[S.sel]) return revealCard(S.sel);
   const v=S.V[S.view]; if(!v||!v.pos[id]) return;
   const vp=$("#viewport").getBoundingClientRect();
   const[c,r]=v.pos[id], k=Math.max(S.tf.k,0.85);
   const panelW=window.innerWidth>920?490:0;
   S.tf={k,x:(vp.width-panelW)/2-(X(c)+CW/2)*k,y:vp.height/2-(Y(r)+CH/2)*k}; applyTf();
 }
-function fitOrFocus() { requestAnimationFrame(()=>fit()); }
+function fitOrFocus() {
+  requestAnimationFrame(()=>{
+    const v=S.V[S.view];
+    if(isMobile()&&v&&v.focus&&v.pos[v.focus]){
+      // mobil: läsbar storlek, centrerad på utgångspersonen (Visa hela ger överblick)
+      const vp=$("#viewport").getBoundingClientRect(), k=0.8, [c,r]=v.pos[v.focus];
+      S.tf={k,x:vp.width/2-(X(c)+CW/2)*k,y:vp.height*0.3-(Y(r)+CH/2)*k}; applyTf();
+    } else fit();
+  });
+}
 function initPanZoom() {
   const vp=$("#viewport");
   const pts=new Map(); let start=null,pinch=null;

@@ -14,4 +14,10 @@ if shutil.which("node"):
 else:
     meta["gedcom"] = "ej testad"
 (root / "data" / "meta.json").write_text(json.dumps(meta, indent=1) + "\n")
+# cache-busting: versionsstämpla css/js i index.html så att webbläsare hämtar nya filer
+idx = root / "index.html"
+txt = idx.read_text(encoding="utf-8")
+ver = now.strftime("%Y%m%d%H%M%S")
+txt = re.sub(r'(assets/(?:style\.css|app\.js|gedcom\.js))(\?v=\w+)?', lambda m: m.group(1) + "?v=" + ver, txt)
+idx.write_text(txt, encoding="utf-8")
 print("Stämplat:", meta)
