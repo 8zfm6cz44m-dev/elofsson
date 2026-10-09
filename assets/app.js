@@ -60,6 +60,10 @@ async function load() {
     el.textContent=`Datafilerna kunde inte laestas (${e.message}). Oeppna via GitHub Pages eller lokal webbserver: python3 -m http.server`;
     return;
   }
+  // Uteslutna personer/relationer hålls utanför trädet och visas under fliken Uteslutna
+  S.exPersons=S.persons.filter(p=>p.status==="excluded"); S.exRels=S.rels.filter(r=>r.status==="excluded");
+  S.EP={}; S.exPersons.forEach(p=>S.EP[p.id]=p);
+  S.persons=S.persons.filter(p=>p.status!=="excluded"); S.rels=S.rels.filter(r=>r.status!=="excluded");
   fetch("data/meta.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(m=>{
     if(!m) return;
     const el=$("#updated");
@@ -182,6 +186,8 @@ function route() {
       if(S.trail[S.trail.length-1]!==arg){ S.trail.push(arg); if(S.trail.length>40) S.trail.shift(); }
       applySelect(arg); openPanel(arg);
     } else if(S.sel){ S.sel=null; S.trail=[]; applySelect(null); emptyPanel(); }
+  } else if(tab==="uteslutna"){
+    $("#view-uteslutna").classList.add("active"); renderUteslutna();
   } else if(tab==="noteringar"){
     $("#view-noteringar").classList.add("active"); filterNotes();
   } else {
@@ -686,12 +692,33 @@ function renderBevis() {
     <h3>Mots\xe4gelser i underlaget</h3><div class="statgrid">${S.flags.conflicts.map(box).join("")}</div>
     ${groups}
     <h3>${chip("excluded")} Uteslutet</h3>
-    <ul class="bullets">${S.flags.excluded.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
+    <p>${S.exPersons.length} personer och ${S.exRels.length} relationer är uteslutna. De syns inte i trädet men finns kvar i databasen under fliken <a href="#uteslutna">Uteslutna</a>.</p>
     <h3>Bevisregler</h3>
     <ul class="bullets">${S.flags.rules.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
     <h3>Alla ${S.persons.length} personer per status</h3>
     ${ORDER.map(st=>{const ps=S.persons.filter(p=>p.status===st);
       return ps.length?`<p>${chip(st)} ${ps.map(p=>nameBtn(p.id)).join(", ")}</p>`:"";}).join("")}`;
+}
+
+function renderUteslutna() {
+  const el=$("#uteslutna-body"); if(el.dataset.done) return; el.dataset.done="1";
+  const nm=id=>S.P[id]?nameBtn(id):(S.EP[id]?`<span class="muted">${esc(S.EP[id].name)}</span>`:esc(id));
+  const rt=r=>r.type==="child"?`${r.parents.map(nm).join(" + ")} \u2192 ${nm(r.child)}`
+    :r.type==="partner"?`${nm(r.a)} och ${nm(r.b)}, par`:`${nm(r.a)} och ${nm(r.b)}, möjliga syskon`;
+  const reason=r=>{ const m=(r.basis||"").match(/DEMENTERAD[^:]*:\s*(.*)$/s); return m?m[1]:(r.basis||""); };
+  el.innerHTML=`<h2>Uteslutna</h2>
+    <p>Prövade och avfärdade personer och relationer. De visas inte i trädet och får inte återanvändas, men sparas här så att vi inte prövar dem igen.</p>
+    <h3>Personer (${S.exPersons.length})</h3>
+    <div class="tablewrap"><table class="reltable"><thead><tr><th>Person</th><th>Varför utesluten</th></tr></thead><tbody>
+    ${S.exPersons.map(p=>`<tr><td><strong>${esc(p.name)}</strong>${years(p)?`<br><small class="muted">${esc(years(p))}</small>`:""}</td>
+      <td>${esc(p.summary||"")}${(p.notes||[]).length?`<ul class="bullets">${p.notes.slice(0,4).map(n=>`<li>${richText(n)}</li>`).join("")}</ul>`:""}</td></tr>`).join("")||'<tr><td colspan="2">Inga.</td></tr>'}
+    </tbody></table></div>
+    <h3>Relationer (${S.exRels.length})</h3>
+    <div class="tablewrap"><table class="reltable"><thead><tr><th>Relation</th><th>Skäl</th></tr></thead><tbody>
+    ${S.exRels.map(r=>`<tr><td>${rt(r)}</td><td>${esc(reason(r))}</td></tr>`).join("")||'<tr><td colspan="2">Inga.</td></tr>'}
+    </tbody></table></div>
+    <h3>Tidigare utredda och avförda spår</h3>
+    <ul class="bullets">${S.flags.excluded.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`;
 }
 
 function renderBilder() {
