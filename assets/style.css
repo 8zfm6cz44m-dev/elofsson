@@ -253,3 +253,7 @@ ol.tl .tly{font-weight:700;color:var(--muted)}
 
 .lage{margin:2px 0 0;font-size:12.5px;color:var(--muted)}
 .lage strong{color:var(--ink)}
+
+.backbtn{display:block;margin:0 0 8px;padding:4px 10px;border:1px solid var(--rule);border-radius:16px;background:#fff;color:var(--lake);font:600 13px/1.2 system-ui,sans-serif;cursor:pointer;max-width:calc(100% - 4px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.backbtn:hover,.panel-close:hover{background:#f2efe6}
+.panel-close{z-index:2}

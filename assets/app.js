@@ -37,7 +37,7 @@ const COLW=208, ROWH=190, CW=184, CH=140, GUT=170, PAD=56;
 let OX=0, OY=0;
 
 const S = { persons:[], P:{}, rels:[], views:[], V:{}, images:[], notes:[], flags:{},
-            view:null, showLeads:true, sel:null, panelTab:"info", tf:{x:0,y:0,k:1} };
+            view:null, showLeads:true, sel:null, panelTab:"info", tf:{x:0,y:0,k:1}, trail:[], dim:true, moved:false };
 
 const $  = (s,r=document) => r.querySelector(s);
 const $$ = (s,r=document) => [...r.querySelectorAll(s)];
@@ -141,6 +141,10 @@ function initUI() {
   const sl=$("#show-leads");
   sl.checked=S.showLeads;
   sl.addEventListener("change",e=>{ S.showLeads=e.target.checked; renderTree(); });
+  try{ if(localStorage.getItem("dimOthers")==="0") S.dim=false; }catch(e){}
+  const dm=$("#dim-others"); dm.checked=S.dim;
+  dm.addEventListener("change",e=>{ S.dim=e.target.checked; try{localStorage.setItem("dimOthers",S.dim?"1":"0");}catch(x){} applySelect(S.sel); });
+  document.addEventListener("keydown",e=>{ const t=e.target; if(e.key==="Escape"&&S.sel&&!(t&&t.closest&&t.closest("input,textarea,select"))) closeCard(); });
   $("#zoom-in").onclick=()=>zoomBy(1.2);
   $("#zoom-out").onclick=()=>zoomBy(1/1.2);
   $("#zoom-fit").onclick=fit;
@@ -150,6 +154,8 @@ function initUI() {
     if(b){ e.preventDefault(); gotoPerson(b.dataset.person); }
     const n=e.target.closest("[data-note]");
     if(n){ e.preventDefault(); openNote(n.dataset.note, n.dataset.q||""); }
+    if(e.target.closest("#pclose")){ e.preventDefault(); closeCard(); }
+    if(e.target.closest("#pback")){ e.preventDefault(); goBack(); }
     const pt=e.target.closest("[data-ptab]");
     if(pt){ switchPanelTab(pt.dataset.ptab); }
   });
@@ -170,8 +176,12 @@ function route() {
   $$(".view").forEach(v=>v.classList.remove("active"));
   if(["pappa","mamma","ovriga"].includes(tab)){
     $("#view-tree").classList.add("active");
-    if(S.view!==tab){ S.view=tab; S.sel=null; renderTree(); fitOrFocus(); }
-    if(kind==="person"&&S.P[arg]){ S.sel=arg; applySelect(arg); openPanel(arg); }
+    if(S.view!==tab){ S.view=tab; S.sel=null; S.trail=[]; renderTree(); fitOrFocus(); emptyPanel(); }
+    if(kind==="person"&&S.P[arg]){
+      S.sel=arg;
+      if(S.trail[S.trail.length-1]!==arg){ S.trail.push(arg); if(S.trail.length>40) S.trail.shift(); }
+      applySelect(arg); openPanel(arg);
+    } else if(S.sel){ S.sel=null; S.trail=[]; applySelect(null); emptyPanel(); }
   } else if(tab==="noteringar"){
     $("#view-noteringar").classList.add("active"); filterNotes();
   } else {
@@ -192,6 +202,23 @@ function gotoPerson(id) {
   const target=`${v}/person/${id}`;
   if(decodeURIComponent(location.hash.slice(1))===target) route();
   else location.hash=target;
+}
+
+function emptyPanel() {
+  const panel=$("#person-panel"); if(!panel) return;
+  panel.classList.add("empty");
+  panel.innerHTML='<div class="panel-body"><p style="font-size:40px;line-height:1">\ud83d\udc64</p><p>Klicka på ett kort i trädet för att öppna personkortet.</p></div>';
+}
+function closeCard() {
+  S.sel=null; S.trail=[];
+  applySelect(null); emptyPanel();
+  const h=S.view||"pappa";
+  if(decodeURIComponent(location.hash.slice(1))!==h) history.pushState(null,"","#"+h);
+}
+function goBack() {
+  S.trail.pop();
+  const prev=S.trail[S.trail.length-1];
+  if(prev) gotoPerson(prev); else closeCard();
 }
 
 function lineSample(st) {
@@ -360,7 +387,7 @@ function renderTree() {
 
 function applySelect(id) {
   const stage=$("#stage");
-  stage.classList.toggle("has-sel",!!id);
+  stage.classList.toggle("has-sel",!!id&&S.dim);
   $$(".card",stage).forEach(c=>c.classList.remove("sel","rel"));
   $$("path.ln",stage).forEach(l=>l.classList.remove("hl"));
   if(!id) return;
@@ -397,7 +424,9 @@ function fitOrFocus() { requestAnimationFrame(()=>fit()); }
 function initPanZoom() {
   const vp=$("#viewport");
   const pts=new Map(); let start=null,pinch=null;
+  vp.addEventListener("click",e=>{ if(e.target.closest(".card")||S.moved) return; if(S.sel) closeCard(); });
   vp.addEventListener("pointerdown",e=>{
+    S.moved=false; S.down={x:e.clientX,y:e.clientY};
     if(e.target.closest(".card")) return;
     vp.setPointerCapture(e.pointerId); pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
     if(pts.size===1) start={x:e.clientX-S.tf.x,y:e.clientY-S.tf.y};
@@ -407,6 +436,7 @@ function initPanZoom() {
   vp.addEventListener("pointermove",e=>{
     if(!pts.has(e.pointerId)) return;
     pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+    if(S.down&&Math.hypot(e.clientX-S.down.x,e.clientY-S.down.y)>5) S.moved=true;
     if(pts.size===2&&pinch){
       const[a,b]=[...pts.values()],d=Math.hypot(a.x-b.x,a.y-b.y),rect=vp.getBoundingClientRect();
       zoomBy(d/pinch,(a.x+b.x)/2-rect.left,(a.y+b.y)/2-rect.top); pinch=d;
@@ -456,6 +486,8 @@ function openPanel(id) {
   const imgTab=numImgs?`<button data-ptab="imgs" role="tab">Bilder&nbsp;<span style="color:var(--muted)">(${numImgs})</span></button>`:"";
   panel.innerHTML=`
 <div class="panel-head">
+  <button type="button" class="panel-close" id="pclose" aria-label="Stäng personkortet" title="Stäng (Esc)">&times;</button>
+  ${S.trail.length>1?`<button type="button" class="backbtn" id="pback">← Tillbaka till ${esc(S.P[S.trail[S.trail.length-2]]?.name||"föregående")}</button>`:""}
   <h2 id="ppname">${esc(p.name)}</h2>
   ${p.altNames?.length?`<p class="alt">Ocks\xe5: ${esc(p.altNames.join("; "))}</p>`:""}
   <div class="chips">${chip(p.status)}${(p.flags||[]).map(f=>chip("unresolved",f)).join("")}</div>
