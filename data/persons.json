@@ -20370,7 +20370,8 @@
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”Amerika 95 18/10”",
    "USA: John Sylvander f. 21 jun 1885 Sweden (exakt dag = SE 21/6 1885), d. 11 nov 1967 Los Angeles (California Death Index); 1940 Los Angeles, ogift 54 år, f. Sweden; ev. samma som 1930 Brooklyn/1910 Cleveland-posterna f. 1886 (ej verifierat; Cleveland-posten med naturalisering 1900 passar EJ). Inga föräldrar/syskon angivna i posterna – därför candidate.",
-   "SCB 1885: Johan (3:e barnet) f. 21 juni; far 'Andersson Anders, gift dräng', mor 'Nilsdotter Mathilda, Skog'. Matchar Anders Sylvander/Matilda Nilsson (modern Mathilda Nilsdotter även i Anna 1879). Fadern står med patronymikon Andersson, inte Sylvander i utdraget. Födelsedatum VERIFIERAT; föräldraskap starkt (namn+ort+datum, ej efternamnet Sylvander)."
+   "SCB 1885: Johan (3:e barnet) f. 21 juni; far 'Andersson Anders, gift dräng', mor 'Nilsdotter Mathilda, Skog'. Matchar Anders Sylvander/Matilda Nilsson (modern Mathilda Nilsdotter även i Anna 1879). Fadern står med patronymikon Andersson, inte Sylvander i utdraget. Födelsedatum VERIFIERAT; föräldraskap starkt (namn+ort+datum, ej efternamnet Sylvander).",
+   "BP2: omsökt – ingen ny post med föräldrar/Brunskog för John Sylvander (f. 21 juni 1885, d. 11 nov 1967 Los Angeles). Fadern står som Anders Andersson i SCB (ej Sylvander) – hans bror Nils/Hulda/Anna bär Sylvander i USA. Förblir candidate (namn + exakt datum, men inga föräldrar)."
   ],
   "sources": [
    {
@@ -20464,7 +20465,7 @@
  {
   "id": "d7_maria_jonasdotter_skogsberg",
   "name": "Maria Jonasdotter Skogsberg (f. 1874)",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -20480,7 +20481,8 @@
   "notes": [
    "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Nr 103 Korpral Jonas Olof Skogsberg 46 26/5 Spångdal; H. Elina Nilsdotter 42 12/6 Bråten; Jonte 73 19/7 Skog; Maria 74 21/10; Elin 77 3/1; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”. Bortflyttad: Maria ”Nordamerika 91 20/3”; Elin ”Nordamerika 94 26/4”.",
    "USA: ingen säker träff. Maria Skogsberg f. 1873 Sweden, Chicago 1940 (K4MT-9PK) och Ellis Island 1910 – ej belagd som samma; troligen gift under annat namn. Ej matchad.",
-   "SCB 1874: 21 okt 'Maria, 2:a barnet i 1:a äktenskapet'; 'Soldaten Jonas Olson Skogsberg och hustrun Stina Nilsdotter, gifta 2 år'. Släktskap VERIFIERAT (husförhörets Elina Nilsdotter = Stina)."
+   "SCB 1874: 21 okt 'Maria, 2:a barnet i 1:a äktenskapet'; 'Soldaten Jonas Olson Skogsberg och hustrun Stina Nilsdotter, gifta 2 år'. Släktskap VERIFIERAT (husförhörets Elina Nilsdotter = Stina).",
+   "USA: Mary Skogsberg Leaf f. 21 okt 1874, d. 20 juni 1964, begravd Graceland Park Cemetery, Sioux City, Woodbury, Iowa (Find a Grave). Exakt födelsedatum = SCB 21/10 1874. Vigsel 3 maj 1899 Woodbury, Iowa: 'Mary Thogsberg' (25 år, f. ca 1874), föräldrar 'Jonas Thogsberg' och 'Stima Thogsberg' (= Jonas Skogsberg/Stina Nilsdotter), make Andrew Leaf (29). Iowa-födelseuppgifter nämner modern 'Mary Skogsberg', make Andrew Leaf, barn bl.a. Lillian Marie, Florence Hildegae, Dora Josephine, Joseph Theodore Leaf. Matchning: exakt födelsedatum + förnamn + efternamn + föräldrarnas förnamn (Jonas, Stina). Ej verified: ingen enskild post anger både födelseort Brunskog och datum."
   ],
   "sources": [
    {
@@ -20490,6 +20492,14 @@
    {
     "label": "Riksarkivet, SCB födda Brunskog 1874, bild 328 (A0035998): 21 okt Maria – soldaten Jonas Olofsson Skogsberg / Stina Nilsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/A0035998_00328"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Mary Skogsberg Leaf f. 21 okt 1874, d. 20 juni 1964, Graceland Park Cemetery, Sioux City, Iowa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPSZ-33CW"
+   },
+   {
+    "label": "FamilySearch, Iowa County Marriages 1838-1934: Mary Thogsberg 25, gift 3 maj 1899 Woodbury Twp, Iowa med Andrew Leaf; föräldrar Jonas Thogsberg, Stima Thogsberg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QJDS-H9N4"
    }
   ],
   "search": [
@@ -20845,7 +20855,7 @@
  {
   "id": "d7_jonte_skogsberg_1873",
   "name": "Jonte (Johan) Skogsberg (Skog, f. 1873)",
-  "status": "lead",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -20861,7 +20871,9 @@
   "notes": [
    "FÖRSAMLINGSBOK A II a/1 bild 220 (fol. 210, Skog): ”Jonas Skogsberg 46 [26/5] Spångdal; H. Stina Nilsd.; Jonte 73 17/7; Anders Gustaf 79 24/1; Anna Hildegard 80 1/11; Albin Emanuel 83 7/6; Olof Viktor 86 6/2”; Jonte: ”Amerika 01 31/5”; övriga: ”W. Emt. 01 7/6”. Varnpligt: ”13 100/94 / 11 100/1900”.",
    "USA: John Skogsberg f. 19 jan 1873 Värmland, d. 6 aug 1962 Sioux City, Iowa (Iowa dödsregister, föräldrar börjar på ”Ch…”) – födelsedatum avviker (SE 17/7 1873), EJ matchad. Ingen säker träff.",
-   "SCB 1873: 'Jönte, 1:a barnet i 1:a äktenskapet', juli (dag läst 19, husförhör A I/37 har 19/7; församlingsboken A II a/1 har 17/7); 'Skog, Soldaten Jonas Olofsson Skogsberg och hustrun Stina Nilsdotter, gifta 1 år'. Släktskap VERIFIERAT. Datumkonflikt 17 vs 19 juli: SCB-utdraget + husförhör 19/7 väger tyngst."
+   "SCB 1873: 'Jönte, 1:a barnet i 1:a äktenskapet', juli (dag läst 19, husförhör A I/37 har 19/7; församlingsboken A II a/1 har 17/7); 'Skog, Soldaten Jonas Olofsson Skogsberg och hustrun Stina Nilsdotter, gifta 1 år'. Släktskap VERIFIERAT. Datumkonflikt 17 vs 19 juli: SCB-utdraget + husförhör 19/7 väger tyngst.",
+   "USA (ersätter tidigare 'ej matchad' i BN1): John Skogsberg f. 19 jan(!) 1873 Varmland, Sweden, d. 6 aug 1962 Sioux City, Iowa (89 år), begravd 9 aug 1962; Iowa Death Records 1904-1951/1952-1967: föräldrar 'Olaf Skogsberg' och 'Christina Knittleson' (= Jonas Olof Skogsberg / Stina Nilsdotter; Knittleson = Nilsson-variant). Dagen 19 stämmer med SCB/husförhör (19/7), månaden Jan i stället för Jul sannolikt felskrivning på dödsattest; modern Christina, fadern Olof(Jonas Olof) och födelseland/landskap stämmer; systern Maria bodde i Sioux City (gift Leaf). Matchning: namn, dag 19, år, landskap, föräldrar, systerns bosättning. Datumavvikelse (jan/jul) gör att den inte är verified.",
+   "Find a Grave Index har samma John Skogsberg 19 jan 1873 – 6 aug 1962, begravd Sioux City."
   ],
   "sources": [
    {
@@ -20871,6 +20883,10 @@
    {
     "label": "Riksarkivet, SCB födda Brunskog 1873, bild 324 (A0035965): juli 'Jönte' – Skog, soldaten Jonas Olofsson Skogsberg / Stina Nilsdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/A0035965_00324"
+   },
+   {
+    "label": "FamilySearch, Iowa Death Records: John Skogsberg 89, f. 19 jan 1873 Varmland, d. 6 aug 1962 Sioux City; föräldrar Olaf Skogsberg, Christina Knittleson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:61KF-2YWM"
    }
   ],
   "search": [
@@ -20880,7 +20896,7 @@
  {
   "id": "d7_hulda_maria_olofsdotter_1880",
   "name": "Hulda Maria Olofsdotter (Skog, f. 1880)",
-  "status": "lead",
+  "status": "candidate",
   "sex": "f",
   "living": false,
   "born": {
@@ -20895,7 +20911,8 @@
   "summary": "Piga/dotter (Östra Skogshaget); inflyttad 1899-11-16 från fol. 203; Amerika 3 nov 1904 enligt A II a/1.",
   "notes": [
    "FÖRSAMLINGSBOK A II a/1 bild 216 (fol. 206, Östra Skogshaget): ”Hulda Maria Olsd. 80 2/2 Takene” – ”203 99 16/11” och ”Amerika 04 3/11”. Tolkning av raden osäker.",
-   "SCB 1880: Hulda Maria, 7:e barnet, f. febr (dag läst 8; A II a/1 har 2/2) – far 'Olofson Olof, hemmansägare', mor 'Olofsdotter Maria, Takene'. Namn, år, månad, ort stämmer; dagen avviker (8 vs 2) → STRONG, inte fullt verified. Släktskap Olof Olofsson/Maria Olofsdotter."
+   "SCB 1880: Hulda Maria, 7:e barnet, f. febr (dag läst 8; A II a/1 har 2/2) – far 'Olofson Olof, hemmansägare', mor 'Olofsdotter Maria, Takene'. Namn, år, månad, ort stämmer; dagen avviker (8 vs 2) → STRONG, inte fullt verified. Släktskap Olof Olofsson/Maria Olofsdotter.",
+   "USA: Hulda Maria Olson f. 2 feb 1880 (dag 2 = församlingsboken A II a/1; SCB-dagen 8 läst osäkert), d. 10 apr 1951, begravd Oak Hill Cemetery, Bradford, McKean, Pennsylvania (Find a Grave; träd-ID MCPX-RHM). Endast namn + exakt födelsedatum; födelseort/föräldrar/utvandring saknas i posten – därför candidate. Notera: Hulda Maria Olson f. 15 jan 1880 Alvidaberg (Chicago, naturalisering 1940) är en annan person. Bradford/McKean grannar med Mount Jewett (Sylvander-familjen)."
   ],
   "sources": [
    {
@@ -20905,6 +20922,10 @@
    {
     "label": "Riksarkivet, SCB födda Brunskog 1880, bild 287 (A0036196): febr Hulda Maria (7) – Olofson Olof hemmansägare / Olofsdotter Maria, Takene",
     "url": "https://sok.riksarkivet.se/bildvisning/A0036196_00287"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Hulda Maria Olson f. 2 feb 1880, d. 10 apr 1951, Oak Hill Cemetery, Bradford, McKean, PA",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVK4-XS42"
    }
   ],
   "search": [
@@ -20957,7 +20978,9 @@
   "summary": "Son till Per Olofsson (f. 1824?) och Stina Nilsdotter, Svartåna; Nordamerika 1892 (dag/månad svårläst, nr 40).",
   "notes": [
    "HUSFÖRHÖR A I/37 bild 224 (fol. 230), Svartåna: ”Inh. Per Olofsson 24 7/9 N. Tutan; H. Stina Nilsdotter 30 7/8 Boda; Olof 73 27/1 Svartåna” – ”Nordamerika 92 [2?]/8 40”.",
-   "SCB 1873: 27 jan 'Olof, 5:e barnet i 1:a äktenskapet'; föräldrar 'Svartåna Inhysesm. Per Olsson och hustrun Stina Nilsdotter, gifta 17 år' (fadern Per Olofsson i husförhöret). Släktskap VERIFIERAT (födelsedatum 27/1 stämmer med husförhör)."
+   "SCB 1873: 27 jan 'Olof, 5:e barnet i 1:a äktenskapet'; föräldrar 'Svartåna Inhysesm. Per Olsson och hustrun Stina Nilsdotter, gifta 17 år' (fadern Per Olofsson i husförhöret). Släktskap VERIFIERAT (födelsedatum 27/1 stämmer med husförhör).",
+   "BP2 USA-sökning 27 jan 1873: Olaf Peterson f. 27 jan 1873 (NUMIDENT, Connecticut-naturalisering 28 okt 1904, WWI-kort San Diego) har föräldrar 'Per Olson, Karna Bengson' och födelseort Glumakra (Skåne) – AVFÄRDAD (annan person; vår Olof har mor Stina Nilsdotter, Svartåna).",
+   "Olof Pearson f. 1873 Sweden, Cincinnati/Hamilton OH, vigsel 1900 med föräldrar 'Per Jonson, Christina Nilson' – endast år + lösa namn, lead (fadern Jonson ≠ Olsson); ej bekräftat."
   ],
   "sources": [
    {
