@@ -880,6 +880,30 @@
    "persons": [
     "d7_jonte_skogsberg_1873"
    ]
+  },
+  {
+   "title": "Ociesęki: Skanoteka skannat först från 1823",
+   "text": "Skanotekas Ociesęki (id1324) har enheter från 1823 (födelse 1823a, vigsel 1823b) t.o.m. minst 1880. Alla akter före 1823 (Orzechowski/Wojtasiewicz-vigsel 1799, Wawrzyniec f. 1806, Sieczka/Głodowicz-vigsel, Teklas födelse ca 1819) är oskannade. Geneteka indexerar Ociesęki från 1797/98 men utan föräldrar. Tekla Orzechowskas död 1848-1870 ej funnen i Geneteka (luckor).",
+   "persons": [
+    "jan_orzechowski_huta",
+    "mikolaj_sieczka",
+    "tekla_orzechowska"
+   ]
+  },
+  {
+   "title": "Katedra Kielce: oskannade år i Skanoteka",
+   "text": "Katedra saknar 1828 och 1831 helt, och 1837-1842 finns bara födelseenheter (inga dödsenheter efter 1836). 1813-1816 saknas sedan tidigare. Kielce S:t Wojciech (id239) slutar 1911; Katedra 1934 saknas. Hencel-dödsfall och 1921/1934-omgiften kan inte bildläsas.",
+   "persons": [
+    "hencel_jan_1820",
+    "stefan"
+   ]
+  },
+  {
+   "title": "Maryanna Sochas föräldrar: vigsel före 1810",
+   "text": "Brzeziny vigselindex 1810-1817 (och Piekoszów 1816-17) saknar Socha; föräldrarnas vigsel ligger före 1810 och därmed i oskannade akter (Brzeziny före 1810 endast skorowidz). Geneteka-kandidater 1801-1810: Wojciech x Maria Kolano, Stanisław x Jadwiga Piwowarczyk, Piotr x Elżbieta Tkacz, Walenty x Tekla Dorociak.",
+   "persons": [
+    "maryanna_socha"
+   ]
   }
  ],
  "conflicts": [
