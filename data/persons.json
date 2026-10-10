@@ -7702,15 +7702,19 @@
  {
   "id": "ryszard_o",
   "name": "Ryszard Orzechowski",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": false,
   "places": [],
-  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”), alltså son till Stefan och Zofia Orzechowski. Användarträd – obekräftat.",
+  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”), alltså son till Stefan och Zofia Orzechowski. Bror bekräftad av Ywonne 2026-10-10 (avliden).",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”",
+    "url": ""
    }
   ],
   "search": [
@@ -7719,25 +7723,37 @@
   "born": {
    "date": "1931-06-11",
    "place": "Kielce"
+  },
+  "died": {
+   "date": "",
+   "note": "Avliden (Ywonne 2026-10-10); datum okänt."
   }
  },
  {
   "id": "czeslaw_o",
   "name": "Czesław Orzechowski",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": false,
   "places": [],
-  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”, avliden). Stavningen i trädet är ”Czcslaw”.",
+  "summary": "Irenas bror enligt MyHeritage (”Mormors bror”) och Ywonne (avliden). Stavningen i trädet är ”Czcslaw”.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”",
+    "url": ""
    }
   ],
   "search": [
    "Czesław Orzechowski"
-  ]
+  ],
+  "died": {
+   "date": "",
+   "note": "Avliden (Ywonne 2026-10-10); datum okänt."
+  }
  },
  {
   "id": "stefania_o",
@@ -44717,6 +44733,35 @@
   ],
   "search": [
    "Johan Elofsson (1746, Persjön)"
+  ]
+ },
+ {
+  "id": "janek_orzechowski",
+  "name": "Jan (Janek) Orzechowski",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt"
+  },
+  "died": {
+   "date": "",
+   "note": "Avliden (Ywonne 2026-10-10); datum okänt."
+  },
+  "altNames": [
+   "Janek Orzechowski"
+  ],
+  "search": [
+   "Janek",
+   "Jan Orzechowski"
+  ],
+  "summary": "Irenas bror enligt Ywonne (2026-10-10), avliden. Okänt om han är helbror (Stefan + Zofia Młodawska) eller halvbror från Stefans äktenskap 1934 med Stanisława Smuga.",
+  "sources": [
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”",
+    "url": ""
+   }
   ]
  }
 ]

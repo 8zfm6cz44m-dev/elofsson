@@ -1525,8 +1525,8 @@
    "zofia"
   ],
   "child": "ryszard_o",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa.",
+  "status": "family",
+  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa. | Ywonne 2026-10-10 bekräftar honom som Irenas bror (avliden).",
   "id": "c-stefan-zofia-ryszard_o"
  },
  {
@@ -1536,8 +1536,8 @@
    "zofia"
   ],
   "child": "czeslaw_o",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa.",
+  "status": "family",
+  "basis": "MyHeritage-trädet: ”Mormors bror”. Användarträd, ingen dokumentär källa. | Ywonne 2026-10-10 bekräftar honom som Irenas bror (avliden).",
   "id": "c-stefan-zofia-czeslaw_o"
  },
  {
@@ -13477,5 +13477,13 @@
   "b": "maciek",
   "status": "family",
   "basis": "Båda barn till Zdzisław och Celina enligt familjen."
+ },
+ {
+  "id": "s-irena-janek_orzechowski",
+  "type": "sibling",
+  "a": "irena",
+  "b": "janek_orzechowski",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”. Hel- eller halvbror okänt."
  }
 ]

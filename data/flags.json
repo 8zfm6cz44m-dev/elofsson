@@ -268,6 +268,18 @@
       ],
       "priority": 3,
       "next_step": "Fråga familjen om Zdzisławs far (låg prioritet)."
+    },
+    {
+      "title": "Janek Orzechowski: hel- eller halvbror till Irena?",
+      "text": "Ywonne 2026-10-10 nämner Janek Orzechowski bland Irenas (avlidna) bröder. Om han är son till Stefan och Zofia Młodawska (d. 1933) bör han vara född 1923–1933 i Kielce; om han är född efter 1934 är han halvbror via Stanisława Smuga.",
+      "persons": [
+        "janek_orzechowski",
+        "stefan",
+        "zofia",
+        "stanislawa_smuga"
+      ],
+      "priority": 3,
+      "next_step": "Fråga familjen om Janeks födelseår; sök födelseakt Kielce 1923–1940."
     }
   ],
   "conflicts": [
