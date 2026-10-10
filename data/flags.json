@@ -14,19 +14,6 @@
    "source": "Dopböcker Fryksände, Ämtervik, Kil (Riksarkivet bildvisning) okt 1753-54"
   },
   {
-   "title": "Irena är fortfarande inte bevisad dotter till Stefan + Zofia",
-   "text": "Stefan Orzechowski (f. 7.8.1901) och Zofia Młodawska (f. 17.4.1904) är nu belagda som verkliga personer och gifta 7.1.1923 i Kielce, och Zofias födelseår 1904 stämmer exakt med släktträdet - vilket gör användarträdets uppgifter trovärdiga. MEN ingen källa har hittats som visar att Irena (f. 1926, f. Jarczyńska enligt familjen) är deras barn. Relationen c-stefan-zofia-irena ska stå kvar som lead tills barnets dopakt (Kielce ca 1926) eller annat bevis hittas. Namnkonflikten Jarczyńska/Orzechowska kvarstår.",
-   "persons": [
-    "stefan",
-    "zofia",
-    "irena"
-   ],
-   "priority": 1,
-   "next_step": "Dopakt Irena Kielce ca 1926 (Geneteka/PROGRES); fråga familjen.",
-   "doable": true,
-   "source": "Skanoteka Białogon id3912 födelseböcker 1926 (A-1919-1941, ej genomsökt); Katedra id57 saknar 1926-akter"
-  },
-  {
    "title": "Agnieszka Hencel: födelse 1847 Czarnów - är det samma som 1866-bruden (agnieszka_orzechowska_1849)?",
    "text": "Katedra 1847 akt 34 (Augustyn Hencel + Maryanna z Szreków, Czarnów, f. 25.1.1847) matchar förnamn på barn och föräldrar, men 1866 står bostad Niewachlów och ålder 18 (förväntat 19). Id agnieszka_orzechowska_1849 har födelseår ca 1848 - föreslå uppdatering till 1847 först om chefen godtar strong. Ingen annan Agnieszka Hencel i Katedra 1846, 1848, 1850 (H-sidor lästa).",
    "persons": [
@@ -315,6 +302,46 @@
     "nils_larsson_toltan_d1715",
     "nils_andersson_otortan_d1715"
    ]
+  },
+  {
+   "title": "Sänk c-nils_larsson_toltan_d1715-elof_nilsson från candidate till lead",
+   "text": "Hypotesen att Elof är son till Nils Larsson i Toltan (begr. 20/2 1715, 80 år, f. ca 1635) vilar bara på att Elof tar Nils Larssons plats i mantalsföljden 1718 – vilket lika väl förklaras av att Elof gifte sig 1717 med änkan Marit Isaksdotter i Toltan och övertog hennes hushåll. Mot den står nu: dopet 26/5 1689 ”[E]luff Nilsson i Skog”, föräldrar Nils Christophersson och Anna Jonsdotter (bild 15, E-formen), Elofs täta faddersamband med Skog-hushållet (Nils och Karin Nilsdotter i Skog 1727–1735) och med Påhl Nilsson (”Elof och Påhl Nilssonar”, 1729), sonnamnet Christopher, samt herdaminnets bekräftelse av familjen i Skog. Föreslår: relationen till Nils Larsson sänks till lead; ny relation c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson som candidate.",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan_d1715",
+    "nils_christophersson_skog",
+    "olof_nilsson_skog1689"
+   ]
+  },
+  {
+   "title": "Möjlig dubblett: olof_nilsson_skog1689 = elof_nilsson",
+   "text": "Barnet 26/5 1689 (C I/1 bild 15) läses nu ”[E]luff Nilsson i Skog”. Om sammanslagning görs ska id elof_nilsson behållas (ändras aldrig). Föreslår ingen merge förrän vigselortnamnet 1717 (E I/1 bild 34) bekräftats som ”Skog” eller annan källa knyter Elof i Toltan till Skog. Åldersdiffen (annus nativitatis 1687 i A I/2–A I/3, ”1689” överskrivet i A I/1, 73 år 1760) är förenlig med ett dop 1689 eftersom 1700-talets åldersuppgifter ofta avviker 1–2 år.",
+   "persons": [
+    "elof_nilsson",
+    "olof_nilsson_skog1689"
+   ]
+  },
+  {
+   "title": "”Stoy” är felläst – ska vara ”Skog”",
+   "text": "I noter/källor för nils_n_stoy, elof_nilsson och relationer står ”Nils Nilsson i Stoy”, ”Jon Gustafsson i Stoy”, ”Karin Nilsdotter i Stoy”. BU4 läser ortnamnet som ”Skog” (kurrent-Sk, C I/1 bild 165, 170, 176, 212); Jon Gustafsson står i Skog i mantal 1714 (A0003195 bild 502) och 1719 (A0003198 bild 506). Likaså ska ”Elof och Pehr Nilssonar i Toltan” (bild 176, 1729) läsas ”Elof och Påhl Nilssonar”, vilket försvagar basis för s-elof_nilsson-per_nilsson_toltan.",
+   "persons": [
+    "nils_n_stoy",
+    "elof_nilsson",
+    "per_nilsson_toltan",
+    "pal_nilsson_hagen"
+   ]
+  },
+  {
+   "title": "Irenas flicknamn ”Jarczyńska”: varifrån kommer det?",
+   "text": "Irena är släktbekräftad dotter till Stefan Orzechowski och Zofia Młodawska (Iwona 2026-10-10), men namnet Jarczyńska har ingen förklaring (fosterhem, styvfar, adoptivnamn eller felaktig uppgift?).",
+   "persons": [
+    "irena",
+    "stefan",
+    "zofia"
+   ],
+   "priority": 3,
+   "next_step": "Fråga Iwona om namnet Jarczyńska; Irenas dopakt Kielce 1926 (arkivbeställning).",
+   "doable": false
   }
  ],
  "conflicts": [
@@ -3711,6 +3738,28 @@
     "anna_maria_nilsson_1886",
     "anna_maria_nilsson_karlsson_arvika"
    ]
+  },
+  {
+   "title": "Elof Nilssons dödsår – inte 1772",
+   "text": "A I/2 bild 159: nattvard t.o.m. 1768 (”14/9”). A I/3 bild 167 (s. 154): Elof och Karin överstrukna utan nattvardsnoteringar 1769–74. Död (eller flyttad) sent 1768 / tidigt 1769. MyHeritages 1772 stöds inte. Dödbok 1749–82 saknas; A I/4 (1775–81) behövs inte.",
+   "persons": [
+    "elof_nilsson"
+   ]
+  },
+  {
+   "title": "Irena är fortfarande inte bevisad dotter till Stefan + Zofia",
+   "text": "Stefan Orzechowski (f. 7.8.1901) och Zofia Młodawska (f. 17.4.1904) är nu belagda som verkliga personer och gifta 7.1.1923 i Kielce, och Zofias födelseår 1904 stämmer exakt med släktträdet - vilket gör användarträdets uppgifter trovärdiga. MEN ingen källa har hittats som visar att Irena (f. 1926, f. Jarczyńska enligt familjen) är deras barn. Relationen c-stefan-zofia-irena ska stå kvar som lead tills barnets dopakt (Kielce ca 1926) eller annat bevis hittas. Namnkonflikten Jarczyńska/Orzechowska kvarstår.",
+   "persons": [
+    "stefan",
+    "zofia",
+    "irena"
+   ],
+   "priority": 1,
+   "next_step": "Dopakt Irena Kielce ca 1926 (Geneteka/PROGRES); fråga familjen.",
+   "doable": true,
+   "source": "Skanoteka Białogon id3912 födelseböcker 1926 (A-1919-1941, ej genomsökt); Katedra id57 saknar 1926-akter",
+   "verdict": "resolved",
+   "why": "Iwona (Martins mamma, Irenas dotter) bekräftade 2026-10-10 att Stefan och Zofia är Irenas föräldrar. Relationen satt till family. Kvar: varför ”Jarczyńska” – egen fråga om familjen vet."
   }
  ],
  "backlog": [

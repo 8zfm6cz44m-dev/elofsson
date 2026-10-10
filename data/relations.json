@@ -424,7 +424,7 @@
   ],
   "child": "irena",
   "status": "family",
-  "basis": "Användarträd – konflikt med födelsenamnet Jarczyńska. | OMGÅNG 36: Martin bekräftar (2026-10-07) att Stefan Orzechowski var morfar till Iwona, alltså Irenas far. Att modern är Zofia Młodawska är inte uttryckligen bekräftat (gift 7/1 1923, d. 24/10 1933); namnet Jarczyńska är fortfarande oförklarat."
+  "basis": "Användarträd – konflikt med födelsenamnet Jarczyńska. | OMGÅNG 36: Martin bekräftar (2026-10-07) att Stefan Orzechowski var morfar till Iwona, alltså Irenas far. Att modern är Zofia Młodawska är inte uttryckligen bekräftat (gift 7/1 1923, d. 24/10 1933); namnet Jarczyńska är fortfarande oförklarat. | 2026-10-10: Iwona (Irenas dotter, Martins mamma) har bekräftat att Irena är dotter till Stefan Orzechowski och Zofia Młodawska (båda föräldrarna). Släktbekräftad; ingen dopakt hittad. Flicknamnet ”Jarczyńska” är fortfarande oförklarat."
  },
  {
   "id": "p-zdzislaw-celina",
@@ -2283,8 +2283,8 @@
   "type": "sibling",
   "a": "elof_nilsson",
   "b": "nils_n_stoy",
-  "status": "lead",
-  "basis": "Samma patronymikon, ömsesidiga faddrar 1727–1735; 1729 ”Elof och Pehr Nilssonar i Toltan” fadder hos Nils Nilsson i Stoy. Ej bevisat."
+  "status": "candidate",
+  "basis": "Ömsesidiga faddrar: C I/1 bild 165 (1727 nr 10) ”Nils Nilssons och Britta Claesd. Barn i Skog … Fadd. Jon Gustafsson i Skog och Elof Nilsson i Toltan”; bild 176 (1729 nr 7) ”Fadd. Elof och Påhl Nilssonar i Toltan … Karin Nilsdotter i Skog”; bild 170 (1728) och 212 (1735) Nils Nilsson i Skog fadder hos Elof. Samma patronymikon; Nils bor i Skog där Nils Christophersson var bonde. Höjs från lead till candidate."
  },
  {
   "id": "s-elof_nilsson-per_nilsson_toltan",
@@ -3431,8 +3431,8 @@
   "type": "sibling",
   "a": "elof_nilsson",
   "b": "pal_nilsson_hagen",
-  "status": "lead",
-  "basis": "Samma patronymikon och by; Elof och Påhl Nilsson står tillsammans som faddrar ibid i Toltan 1723 (bild 144); Marit Isaksdotter fadder hos Påhl 1717, Gertrud Bondesdotter fadder hos Elofs barn 1721/1724/1727–29. Syskonskap ej bevisat."
+  "status": "candidate",
+  "basis": "C I/1 bild 176 (1729 nr 7): ”Fadd. Elof och Påhl Nilssonar i Toltan” (gemensam plural form) hos Nils Nilsson i Skog; bild 144 (1723) båda faddrar ibid; Påhls son Christopher Pålsson (bild 212) och Elofs son Christopher (1748) – förenligt med farfar Nils Christophersson. Ej uttryckligen syskon."
  },
  {
   "id": "s-marit_isaksd-nils_isaksson_toltan",
@@ -12958,8 +12958,8 @@
    "nils_larsson_toltan_d1715"
   ],
   "child": "elof_nilsson",
-  "status": "candidate",
-  "basis": "Ingen källa säger relationen. Indicier: (1) mantal 1714 (A0003195 bild 500 hö) och 1715 (A0003196 bild 499 vä), grupp Tolten: ”Lars Ersson / Lasse Nilsson / Nils Isaksson / Nils Larsson …” – Nils Larsson man utan hustru; (2) Nils Larsson ifrån Toltan begr. 20/2 1715, 80 år (E I/1 bild 148); (3) mantal 1718 (A0003197 bild 488 hö): ”Lars Ersson / Lasse Nilsson / Elof Nilsson” och 1719 (A0003198 bild 505 vä) samma följd – Elof (patronymikon Nilsson, f. 1687) tar Nils Larssons plats i samma Toltan-grupp direkt efter Lasse Nilsson. Elof står aldrig i Öst. Tortan-gruppen, där den andre Nils (Nils Andersson, begr. 24/2 1715) hörde hemma; Nils Andersson saknas för övrigt i Öst. Tortan-mantalet 1714 (A0003195 bild 499 hö). Därför candidate (stärkt jämfört med tidigare lead), inte strong."
+  "status": "lead",
+  "basis": "Ingen källa säger relationen. Indicier: (1) mantal 1714 (A0003195 bild 500 hö) och 1715 (A0003196 bild 499 vä), grupp Tolten: ”Lars Ersson / Lasse Nilsson / Nils Isaksson / Nils Larsson …” – Nils Larsson man utan hustru; (2) Nils Larsson ifrån Toltan begr. 20/2 1715, 80 år (E I/1 bild 148); (3) mantal 1718 (A0003197 bild 488 hö): ”Lars Ersson / Lasse Nilsson / Elof Nilsson” och 1719 (A0003198 bild 505 vä) samma följd – Elof (patronymikon Nilsson, f. 1687) tar Nils Larssons plats i samma Toltan-grupp direkt efter Lasse Nilsson. Elof står aldrig i Öst. Tortan-gruppen, där den andre Nils (Nils Andersson, begr. 24/2 1715) hörde hemma; Nils Andersson saknas för övrigt i Öst. Tortan-mantalet 1714 (A0003195 bild 499 hö). Därför candidate (stärkt jämfört med tidigare lead), inte strong. | BU4 2026-10-10: sänkt till lead – mantalsplatsen förklaras lika väl av att Elof gifte in sig hos änkan Marit i Toltan 1717; Nils Christophersson i Skog nu starkare kandidat (dop 26/5 1689 ”Eluff”, herdaminnet om Petrus Sylvander, faddrar Skog–Toltan)."
  },
  {
   "id": "s-elof_nilsson-lars_nilsson_toltan",
@@ -12995,5 +12995,35 @@
   "b": "ingeri_borjesd_lene",
   "status": "verified",
   "basis": "Frykerud E I/1 bild 22 (1723): ”Nils Bryngelss. … Ingeri Börjesd. … 24 lod”; husförhör A I/2 bild 51 och A I/3 bild 60: ”Nils Bryngelsson / H: Ingeri Börjesd.”."
+ },
+ {
+  "id": "c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog",
+   "anna_jonsd_skog1689"
+  ],
+  "child": "elof_nilsson",
+  "status": "candidate",
+  "basis": "Ingen källa säger uttryckligen att Elof i Toltan är barnet från 1689. Indicier: (1) dop C I/1 bild 15 hö, 26 maj 1689: ”[E]luff Nilsson i Skog | Nilß Christopherson, Anna Jonsd.” – begynnelsebokstaven har samma form som E i ”Elin” (bild 15 vä, bild 16 vä), inte som O i ”Oliff/Oluff” i samma hand; (2) A I/1 bild 181 anger annus nativitatis ”1689” (A I/2: 1687); (3) vigsel 1717 (E I/1 bild 34): ”D. Elof Nilsson i S[k]og[?]” – osäker läsning; (4) faddrar: Elof i Toltan hos Nils Nilsson i Skog 1727 (bild 165) och 1729 (bild 176: ”Elof och Påhl Nilssonar i Toltan … Karin Nilsdotter i Skog”), Nils Nilsson i Skog hos Elof 1728 (bild 170) och 1735 (bild 212); (5) sonen Christopher 1748 (C I/2 bild 67), Påhls son Christopher Pålsson; (6) Edestams herdaminne (1970) bekräftar att Nils Christofersson i Skog och Anna Jonsdotter var föräldrar till prästen Petrus Nicolai Sylvander f. 1676 – stämmer med MyHeritage/Geni-trädens syskonlista (lead). Kan höjas till strong om ortnamnet 1717 säkert läses ”Skog”."
+ },
+ {
+  "id": "c-nils_christophersson_skog-anna_jonsd_skog1689-petrus_sylvander1676",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog",
+   "anna_jonsd_skog1689"
+  ],
+  "child": "petrus_sylvander1676",
+  "status": "strong",
+  "basis": "Edestam, Karlstads stifts herdaminne (1970), Glava: ”PETRUS NICOLAI SYLVANDER . 1713-1745 . F. 1676 , son till bonden Nils Christofersson i Skog , Brunskog , och Anna Jonsdotter” (Google Books-snippet). Tryckt sekundärkälla; primärkälla (dop 1676) saknas – därför strong, inte verified."
+ },
+ {
+  "id": "s-elof_nilsson-petrus_sylvander1676",
+  "type": "sibling",
+  "a": "elof_nilsson",
+  "b": "petrus_sylvander1676",
+  "status": "lead",
+  "basis": "Följer av c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson (candidate) + herdaminnet; Geni/Wikipedia-syskonlista (Elof Nilsson, Pål Nilsson, Kristoffer Nilsson m.fl.) är oprövad."
  }
 ]
