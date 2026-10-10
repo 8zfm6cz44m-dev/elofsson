@@ -13678,5 +13678,24 @@
   "b": "nils_svensson_1759_hogvalta",
   "status": "verified",
   "basis": "Båda ’S.’ under Suen Ersson/H. Karin Nilsd:r, Frykerud A I/8 bild 243 (Högvalta)."
+ },
+ {
+  "id": "c-jozef_orzechowski-katarzyna_zatorska-bronislawa_orzechowska_1910",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "katarzyna_zatorska"
+  ],
+  "child": "bronislawa_orzechowska_1910",
+  "status": "verified",
+  "basis": "Födelseakt S:t Wojciech 1910 nr 27 (fil 022-027.jpg): «Іосифъ Оржеховскій (Józef Orzechowski) ... отъ жены его Екатерины урожденной Заторской тридцати пяти лѣтъ ... дано имя Бронислава»"
+ },
+ {
+  "id": "s-stefan-bronislawa_orzechowska_1910",
+  "type": "sibling",
+  "a": "stefan",
+  "b": "bronislawa_orzechowska_1910",
+  "status": "verified",
+  "basis": "Samma föräldrapar Józef Orzechowski + Katarzyna f. Zatorska, Szydłówek (akt 68/1903 resp. 27/1910)"
  }
 ]
