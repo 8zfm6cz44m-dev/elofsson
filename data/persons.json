@@ -12424,6 +12424,26 @@
    {
     "label": "Riksarkivet, Frykerud död- och begravningsbok F/1 (1744–1814), bild 61 (s. 99), 1782 sept: ”Gifte Sven Eriksson i Högwalta”, död 18, begr. 29, 64 år",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00061"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 81 (fol. 68), Karsbol: Suen Ersson 1718, H. Karin Nilsd:r 1719, S. Eric Sv. 1747, S. Christopher Sv. 1753, S. Måns[Magnus] Sv. 1755, S. Nils Svensson 1759 10/2 – inramat ’ab’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00081"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 225 (fol. 201), Högvalta: [Sven Ersson] 1718 ”död 18/9 1782”, H. Karin Nilsd. 1719 27/11, [överstr.] S. Christopher S. 1754 21/10, S. Magnus Svensson 1756, H. Sigrid Olofsdr 1755, S. Nils Svensson 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00225"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 54 (s. 98), 11 maj 1741: ”wigdes i Sacristian Dr. Swen Ersson i Högwalt[a] med pigan Karin Nils dotter i Kårsbohl, ord. lysningar [d. 19?] och 26 April och 3 Maij, morgongåfwa 20 lod silfwer”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00054"
    }
   ],
   "notes": [
@@ -12441,7 +12461,14 @@
    "BV1 HUSFÖRHÖR Frykerud A I/5 (1746–53, C0037106) bild 16, s. 12, ”Högvalta”: första hushållet ”Jon Ersson / H. Sigrid Ersdotter / D. Ingeb. Jonsd. / D. Britta Jonsd. …”; därefter ”Enkan Kerstin Månsdotter” (egen rad); sist ”Swen Eriksson / H: Karin Nilsd:r / ab. D: Ingeborg Nilsd[otter?] / ab. Son Petter …sson / ab. … Olsdotter / dr Påhl Ersson / p. Ingeborg Månsd. / g. Nils Nilsson”. Sven och Karin alltså gifta och bosatta på Högvalta före 1753; inga barn utskrivna i denna längd.",
    "BV1 DÖD Frykerud F/1 (C0037142) bild 61, s. 99 (Begrafne 1782), Sept: ”18 | 29 | Gifte Sven Eriksson i Högwal|ta | [dödsorsak svårläst] | 64”.",
    "BV1 HÖGVALTA ligger i Frykerud (Frykeruds husförhör A I/1, A I/3, A I/5 har egen rubrik ’Högvalta’; byregistren A I/1 s. 6, A I/3 s. 12, A I/5 s. 12, A I/6 fol. 5). BU5:s antagande att Svens Högvalta är Arvika landsförsamling stämmer inte för denna familj.",
-   "BV1 NEGATIVT: Frykerud dopbok C/2 (C0037135) 1718 bild 145 hö–150 vä genomläst; ingen post med fader Erik och barn Sven hittad (en ’Swen’ bild 149 vä har fader Olof Jönsson; bild 149 hö, okt–dec 1718, nästan oläslig p.g.a. genomslag). Vigsel Frykerud E I/1 (C0037140) 1744–jan 1746 (bild 59–63) översiktligt läst utan träff."
+   "BV1 NEGATIVT: Frykerud dopbok C/2 (C0037135) 1718 bild 145 hö–150 vä genomläst; ingen post med fader Erik och barn Sven hittad (en ’Swen’ bild 149 vä har fader Olof Jönsson; bild 149 hö, okt–dec 1718, nästan oläslig p.g.a. genomslag). Vigsel Frykerud E I/1 (C0037140) 1744–jan 1746 (bild 59–63) översiktligt läst utan träff.",
+   "BW1 HUSFÖRHÖR A I/7 (C0037108) bild 81, fol. 68, ”Karsbol”: ”Suen Ersson” 1718 / ”H. Karin Nilsd:r” 1719 / ”S. Eric Sv.” 1747 / ”S. Christopher Sv.” 1753 / ”S. Måns[?] Sv.” 1755 / ”S Nils Svensson” 1759 10/2 – hushållet inom klammer märkt ’ab’; förhörsnoteringar 1759–62.",
+   "BW1 HUSFÖRHÖR A I/7 (C0037108) bild 217, fol. 202, ”Högvalta” (andra hushållet, efter Jon Ersson & H. Sigrid Ers.): ”Suen Ersson” 171[8, överskr.] / ”H. Karin Nilsd:r” 1719 27/11 / ”Sonen Erik” 1747 / ”S. Christopher” 175[4/3 överskr.] 21/10 / ”S. Magnus” 1756 10/[8] / ”S. Nils” 1759 10/2. Familjen alltså tillbaka på Högvalta ca 1763. Byregister A I/7 bild 11–12: Karsbol fol. 65–68, Högvalta fol. 202.",
+   "BW1 HUSFÖRHÖR A I/8 (C0037109) bild 243, fol. 230, ”Högvalta”: ”Suen Ersson” 1718 / ”H. Karin Nilsd:r” 1719 27/11 / [överstr.] ”S. Eric Sv.” 1747 / ”S. Christoffer S.” 1754 21/10 / ”S. Magnus Sv.” 1756 10/8 / ”S. Nils Sv.” 1759 10/2; pigor Caisa Ers.d:r 1758, Stina Larsd:r m.fl.",
+   "BW1 HUSFÖRHÖR A I/9 (C0037110) bild 225, fol. 201, ”Högvalta”: [Sven Ersson] 1718, marg. ”död d. 18/9 1782”; ”H. Karin Nilsd.” 1719 27/11; [överstr.] ”S. Christopher S.” 1754 21/10; ”S. Magnus Svensson” 1756; ”H. Sigrid Olofsd:r” 1755 (Magnus hustru); ”S. Nils Svensson” 1759 10/2; ”Son Son Eric Magnusson” 1780. Vid Sigrid/Magnus-raden på högersidan ’Såldebråten 82’ (oklart vilken rad).",
+   "BW1 VIGSEL Frykerud E I/1 (C0037140) bild 54, s. 98 (sidan efter rubriken ”Anno 1741” s. 97): ”d. 11 Maij wigdes i Sacristian Dr. Swen Ersson i Högwalt[a] med pigan Karin Nils dotter i Kårsbohl, ord[inarie] lysningar [d. ..] och 26 April och 3 Maij, morgongåfwa 20 lod silfwer.” Vigseln alltså 11 maj 1741 (ej 1744–47).",
+   "BW1 DOP-SÖK (negativt/ofullständigt): Frykerud C/2 (C0037135) bild 149 hö (okt–dec 1718) omläst i zoom: poster 20/26 okt (Olof Bull…), 30 okt/1 nov (Johan Johansson och h. Sigrid Olofsd.), 4/7 dec ([Erik?] …son i Skålleruds?, ’Kirstin’?), 5/7 dec (Sven Nilsson och h. Sigrid Olofsd.), 5/7 (Nils Olofsson och h. Anna …) – genomslag gör 4/7 dec-posten oläslig; ingen säker ’Högvalta’ eller ’Swen’ med fader Erik. Eftersom Kil A I/4 ger ålder 43 (≈1712) och A I/7 bild 217 visar ’1712’ överskrivet till 1718 genomsöktes även C/2 1712 (bild 104–112, jan–sept): ingen Swen med fader Erik i Högvalta (1/2 febr 1712: ’Erich Jonsons och h. Ragnils barn i W. Glenne kallat Swen’ – annan familj).",
+   "BW1 VIGSEL-SÖK Erik Påhlsson × Kerstin Månsdotter (negativt): Frykerud E I/1 (C0037140) börjar 1708 (bild 10); bild 10–21 (1708–1722) översiktligt lästa utan träff på Erik Påhlsson/Kerstin Månsdotter. Dottern Sigrid Ersdotter (Jon Erssons hustru på Högvalta) har i A I/7 bild 217 födelseår 1710 – om hon är Erik Påhlssons dotter (A I/1 ’D: Sigrid’) var paret gift senast 1709, dvs. före vigselbokens början. Ingen ’hammarsmed’ har setts i någon primärkälla."
   ],
   "born": {
    "date": "1718",
@@ -12501,6 +12528,18 @@
    {
     "label": "Riksarkivet, Frykerud död- och begravningsbok F/1, bild 66 (s. 109), 1785 maj: ”Enkan Karin Nilsd:r i Högwalta”, död 2, begr. 8, ”Moderssjuka”[?], 65 år 4 mån 24 dgr",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00066"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 54 (s. 98), 11 maj 1741: ”wigdes i Sacristian Dr. Swen Ersson i Högwalt[a] med pigan Karin Nils dotter i Kårsbohl, ord. lysningar [d. 19?] och 26 April och 3 Maij, morgongåfwa 20 lod silfwer”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00054"
    }
   ],
   "notes": [
@@ -12509,7 +12548,9 @@
    "BU5 MYHERITAGE (50 matchningar, lead): Karin Ersson f. Nilsdotter 1719–1785 (några 1786). Trädet Värmlandsrötter (Mimmi) anger syskon ”Jonas* (Magnus far) Nilsson” och ”Christoffer (Jonas bror) Nilsson”; andra träd: Annika Nilsdotter, Karin Andersson f. Nilsdotter. Barn: Nils, Eric/Erik, Christoffer Svensson (+ upp till 6 till). Föräldrar maskerade. Ingen ort i klartext.",
    "BU7: mor till Christopher f. 21/10 1754 i Måsserud, Stora Kil (C/6 bild 135): ”Sven Erssons och Karin Nilsdotters barn”.",
    "BV1 DÖD Frykerud F/1 (C0037142) bild 66, s. 109 (Begrafne 1785), maj: ”Enkan Karin Nils d:r i Högwalta | 2 | 8 | Moders[?]sjuka | 65 | 4 | 24”.",
-   "BV1 Stora Kils utflyttningslängd (A I/4 bild 18): ”h. Kari Nilsdotter född ibid. [= Frykerud] 1721”; Frykerud A I/6 bild 15: ”H. Karin Nilsd:r 1721”."
+   "BV1 Stora Kils utflyttningslängd (A I/4 bild 18): ”h. Kari Nilsdotter född ibid. [= Frykerud] 1721”; Frykerud A I/6 bild 15: ”H. Karin Nilsd:r 1721”.",
+   "BW1: Frykerud A I/7 bild 217, A I/8 bild 243 och A I/9 bild 225 ger Karin Nilsdotters födelsedag som 1719 27/11 (stämmer med dopet nov 1719, C/2 bild 154). Stora Kils flyttlängd anger 1721.",
+   "BW1 VIGSEL Frykerud E I/1 (C0037140) bild 54, s. 98 (sidan efter rubriken ”Anno 1741” s. 97): ”d. 11 Maij wigdes i Sacristian Dr. Swen Ersson i Högwalt[a] med pigan Karin Nils dotter i Kårsbohl, ord[inarie] lysningar [d. ..] och 26 April och 3 Maij, morgongåfwa 20 lod silfwer.” Vigseln alltså 11 maj 1741 (ej 1744–47)."
   ],
   "born": {
    "date": "1719",
@@ -22809,7 +22850,8 @@
    "BU1 VIGSEL Frykerud E I/1 bild 114 (s. 212), 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Svensson i Gönäs(?) med pigan Elin Svens dotter i Gönäs, morgongåfwor efter lag” – ingen uppgift om födelseort/föräldrar.",
    "BU1 DOP-SÖK (negativt): Fryksände C I/3 (C0037198) okt 1753 (bild 57, nr 96–104, 13 okt–2 nov) och sept–nov 1754 (bild 70–71, nr 102–123): ingen Christopher. Östra Ämtervik C/2 (C0039801) bild 148–149 (sept–dec 1753) och C/3 (C0039802) bild 12–13 (aug–nov 1754): ingen Christopher. Tillsammans med Boda (BS1/BT1) och Frykerud är fem socknar uteslutna för okt 1753 och okt 1754. Kil ej hunnen (volym-id ej funnet).",
    "BU7 DOP FUNNET: Stora Kil C/6 (C0038909) bild 135 vä, 1754 okt: ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud …”. Födelsedagen 21/10 1754 är exakt samma som i Frykerud A I/12 bild 16, och föräldrarna är de som MyHeritage anger (Sven Ersson och Karin Nilsdotter). Ingen källa knyter uttryckligen Kil-barnet till Såldebråten-Christopher (inget flyttbetyg läst) – därför strong, inte verified. Volym-id Stora Kil (SE/VA/13504): dop C/1–C/14 = C0038904–C0038917 (C/6 1741–57 = C0038909), vigsel E/1 C0038918, husförhör A I/3 (1751–55) C0038878, A I/4 (1755–61) C0038879.",
-   "BV1 FLYTT: Stora Kils utflyttningslängd (A I/4 bild 18, nr 39) – ”Christopher född i Mosserud 1755” flyttar med föräldrarna Sven Eriksson och Kari Nilsdotter till Carlsbol i Frykeruds socken (ca 1756/57). Frykerud A I/6 bild 15 Karsbol: ”S. Christopher 175[3/4]” hos Sven Erichsson och Karin Nilsd:r. Därmed är Kil-barnet följt till Frykerud; länken till Såldebråten-Christopher (f. 21/10 1754 enl. A I/12) vilar fortfarande på samma födelsedag+socken (Frykerud A I/7 1759–71 Karsbol/Högvalta ej läst)."
+   "BV1 FLYTT: Stora Kils utflyttningslängd (A I/4 bild 18, nr 39) – ”Christopher född i Mosserud 1755” flyttar med föräldrarna Sven Eriksson och Kari Nilsdotter till Carlsbol i Frykeruds socken (ca 1756/57). Frykerud A I/6 bild 15 Karsbol: ”S. Christopher 175[3/4]” hos Sven Erichsson och Karin Nilsd:r. Därmed är Kil-barnet följt till Frykerud; länken till Såldebråten-Christopher (f. 21/10 1754 enl. A I/12) vilar fortfarande på samma födelsedag+socken (Frykerud A I/7 1759–71 Karsbol/Högvalta ej läst).",
+   "BW1 KEDJA Christopher f. 21/10 1754: (1) Stora Kil C/6 bild 135 dop 21/10 1754 Sven Ersson+Karin Nilsdotter, Måsserud; (2) Kil utflyttningslängd A I/4 bild 18: familjen inkl. Christopher flyttar till Carlsbol, Frykerud; (3) Frykerud A I/6 bild 15 Karsbol ’S. Christopher’; (4) A I/7 bild 81 Karsbol ’S. Christopher Sv. 1753’ och bild 217 Högvalta ’S. Christopher 175[4] 21/10’; (5) A I/8 bild 243 Högvalta ’S. Christoffer S. 1754 21/10’ under Suen Ersson/H. Karin Nilsd:r; (6) E I/1 bild 114 vigsel 24/6 1778 ’drängen Christopher Swensson i Högwalta med pigan Elin [Svens]dotter i Gjönäs’ (ortnamnet tydligt ’Högwalta’, tidigare läst ’Gönäs [Hjörvalta?]’); (7) A I/9 bild 225 Högvalta: Christopher 1754 21/10 överstruken i föräldrahushållet; (8) A I/9 bild 177 Gönäs: ’Christopher Svensson 1754 21/10’, ’Hust. Elin Svensd.’ 1755 16/9, ’S. Erik Christophersson 1779 25/3’; (9) A I/9 bild 27 Klaxås: ’Christopher Swensson 1754 21/10, H. Lena Salomonsd:r 1764 13/7, S. Erik 1779 25/3’ (marg. ’Såldebråt. 83’); (10) A I/10 bild 17 Såldebråten fol. 6: samma rader + barn Caisa 1784, Sven 1788, Nils 1791 (marg. ’Klaxås 87’); (11) A I/12 bild 16 Såldebråten 1754 21/10. Samma födelsedag 21/10 1754 bärs obruten från Kil-dopet via föräldrarnas hushåll (Högvalta) till Såldebråten, och sonen Erik 25/3 1779 binder Gönäs-, Klaxås- och Såldebråten-posterna."
   ],
   "sources": [
    {
@@ -22855,6 +22897,38 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 81 (fol. 68), Karsbol: Suen Ersson 1718, H. Karin Nilsd:r 1719, S. Eric Sv. 1747, S. Christopher Sv. 1753, S. Måns[Magnus] Sv. 1755, S. Nils Svensson 1759 10/2 – inramat ’ab’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00081"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 114 (s. 212), 24 juni 1778: ”wigdes hemma i egna kläder drängen Christopher Swensson i Högwalta med pigan Elin [Svens]dotter i Gjönäs, morgongåfwa efter lag”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00114"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 225 (fol. 201), Högvalta: [Sven Ersson] 1718 ”död 18/9 1782”, H. Karin Nilsd. 1719 27/11, [överstr.] S. Christopher S. 1754 21/10, S. Magnus Svensson 1756, H. Sigrid Olofsdr 1755, S. Nils Svensson 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00225"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 177 (fol. 157), Gönäs: [överstr.] Christopher Svensson 1754 21/10 (marg. ’1. gift’), [Hu]st. Elin Svensd. 1755 16/9 (marg. ’2. gift’), S. Erik Christophersson 1779 25/3",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00177"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 27 (fol. 15), Klaxås: Christopher Swensson 1754 21/10, H. Lena Salomonsd:r 1764 13/7, S. Erik 1779 25/3 – marg. ’Såldebråt. 83’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00027"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–90), bild 17 (fol. 6), Såldebråten: Christopher Swensson 1754 21/10, H. Lena Salomonsd:r 1764 13/7, S. Erik 1779 25/3, D. Caisa 1784, S. Sven 1788, S. Nils 1791 – marg. ’Klaxås 87’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00017"
    }
   ],
   "search": [
@@ -44301,7 +44375,9 @@
    "Karsbol, Frykerud"
   ],
   "summary": "Son till Sven Eriksson och Karin Nilsdotter, f. 1747 i Frykerud; flyttade med föräldrarna Stora Kil → Karsbol, Frykerud ca 1756/57. Troligen MyHeritages ’Eric/Erik Svensson’.",
-  "notes": [],
+  "notes": [
+   "BW1: A I/7 bild 81 (Karsbol) ”S. Eric Sv.” 1747, bild 217 (Högvalta) ”Sonen Erik” 1747; A I/8 bild 243 Högvalta ”S. Eric Sv.” 1747 – överstruken (utflyttad/död under 1771–77, ingen anteckning läst)."
+  ],
   "sources": [
    {
     "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
@@ -44314,6 +44390,18 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 81 (fol. 68), Karsbol: Suen Ersson 1718, H. Karin Nilsd:r 1719, S. Eric Sv. 1747, S. Christopher Sv. 1753, S. Måns[Magnus] Sv. 1755, S. Nils Svensson 1759 10/2 – inramat ’ab’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00081"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
    }
   ],
   "search": [
@@ -44337,7 +44425,9 @@
    "Karsbol, Frykerud"
   ],
   "summary": "Son till Sven Eriksson och Karin Nilsdotter, f. 1756 i Mosserud, Stora Kil; flyttade med familjen till Karsbol i Frykerud.",
-  "notes": [],
+  "notes": [
+   "BW1: A I/7 bild 217 och A I/8 bild 243 ger Magnus födelsedag 1756 10/8 (A I/7 Karsbol skriver ’S. Måns[?] Sv. 1755’). A I/9 bild 225 Högvalta: gift med ”H. Sigrid Olofsd:r” 1755, son ”Eric Magnusson” 1780."
+  ],
   "sources": [
    {
     "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
@@ -44350,6 +44440,22 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 81 (fol. 68), Karsbol: Suen Ersson 1718, H. Karin Nilsd:r 1719, S. Eric Sv. 1747, S. Christopher Sv. 1753, S. Måns[Magnus] Sv. 1755, S. Nils Svensson 1759 10/2 – inramat ’ab’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00081"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 225 (fol. 201), Högvalta: [Sven Ersson] 1718 ”död 18/9 1782”, H. Karin Nilsd. 1719 27/11, [överstr.] S. Christopher S. 1754 21/10, S. Magnus Svensson 1756, H. Sigrid Olofsdr 1755, S. Nils Svensson 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00225"
    }
   ],
   "search": [
@@ -45321,6 +45427,48 @@
   ],
   "search": [
    "Olof Elofsson (f. 1729, Persjön)"
+  ]
+ },
+ {
+  "id": "nils_svensson_1759_hogvalta",
+  "name": "Nils Svensson (f. 1759, Högvalta)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1759-02-10",
+   "place": "Karsbol, Frykerud",
+   "note": "Husförhör A I/7–A I/9: 1759 10/2."
+  },
+  "died": {},
+  "places": [
+   "Karsbol, Frykerud",
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Son till Sven Ersson och Karin Nilsdotter, f. 10/2 1759, troligen i Karsbol; bor med föräldrarna på Högvalta 1763–83.",
+  "notes": [
+   "HUSFÖRHÖR A I/7 bild 81 Karsbol: ”S Nils Svensson” 1759 10/2; bild 217 Högvalta ”S. Nils” 1759 10/2; A I/8 bild 243 ”S. Nils Sv.” 1759 10/2; A I/9 bild 225 ”S. Nils Svensson” 1759 10/2. Dop i Frykerud C/4 feb 1759 ej läst. Troligen MyHeritages syskon ’Nils Svensson’ (vittne vid Olofs dop 1802)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 81 (fol. 68), Karsbol: Suen Ersson 1718, H. Karin Nilsd:r 1719, S. Eric Sv. 1747, S. Christopher Sv. 1753, S. Måns[Magnus] Sv. 1755, S. Nils Svensson 1759 10/2 – inramat ’ab’",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00081"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Suen Ersson, H. Karin Nilsd:r 1719 27/11, Sonen Erik 1747, S. Christopher 175[4] 21/10, S. Magnus 1756 10/[8], S. Nils 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/8 (1771–77), bild 243 (fol. 230), Högvalta: Suen Ersson 1718, H. Karin Nilsd:r 1719 27/11, [överstr.] S. Eric Sv. 1747, S. Christoffer S. 1754 21/10, S. Magnus Sv. 1756 10/8, S. Nils Sv. 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037109_00243"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/9 (1778–83), bild 225 (fol. 201), Högvalta: [Sven Ersson] 1718 ”död 18/9 1782”, H. Karin Nilsd. 1719 27/11, [överstr.] S. Christopher S. 1754 21/10, S. Magnus Svensson 1756, H. Sigrid Olofsdr 1755, S. Nils Svensson 1759 10/2",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037110_00225"
+   }
+  ],
+  "search": [
+   "Nils Svensson (f. 1759, Högvalta)"
   ]
  }
 ]

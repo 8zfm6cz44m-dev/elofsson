@@ -3055,8 +3055,8 @@
    "karin_nilsdotter19"
   ],
   "child": "christopher_svensson_saldebraten",
-  "status": "strong",
-  "basis": "Stora Kil dopbok C/6 bild 135: ”d 21 Octob: [1754] föddes Sven Erssons och Karin Nilsdotters barn i Måsserud … til namn Christopher”. Frykerud A I/12 bild 16 ger Christopher Svensson i Såldebråten exakt 1754 21/10. Namn, patronymikon och exakt födelsedag stämmer. Flyttbetyget Kil→Frykerud är inte läst."
+  "status": "verified",
+  "basis": "BW1 KEDJA Christopher f. 21/10 1754: (1) Stora Kil C/6 bild 135 dop 21/10 1754 Sven Ersson+Karin Nilsdotter, Måsserud; (2) Kil utflyttningslängd A I/4 bild 18: familjen inkl. Christopher flyttar till Carlsbol, Frykerud; (3) Frykerud A I/6 bild 15 Karsbol ’S. Christopher’; (4) A I/7 bild 81 Karsbol ’S. Christopher Sv. 1753’ och bild 217 Högvalta ’S. Christopher 175[4] 21/10’; (5) A I/8 bild 243 Högvalta ’S. Christoffer S. 1754 21/10’ under Suen Ersson/H. Karin Nilsd:r; (6) E I/1 bild 114 vigsel 24/6 1778 ’drängen Christopher Swensson i Högwalta med pigan Elin [Svens]dotter i Gjönäs’ (ortnamnet tydligt ’Högwalta’, tidigare läst ’Gönäs [Hjörvalta?]’); (7) A I/9 bild 225 Högvalta: Christopher 1754 21/10 överstruken i föräldrahushållet; (8) A I/9 bild 177 Gönäs: ’Christopher Svensson 1754 21/10’, ’Hust. Elin Svensd.’ 1755 16/9, ’S. Erik Christophersson 1779 25/3’; (9) A I/9 bild 27 Klaxås: ’Christopher Swensson 1754 21/10, H. Lena Salomonsd:r 1764 13/7, S. Erik 1779 25/3’ (marg. ’Såldebråt. 83’); (10) A I/10 bild 17 Såldebråten fol. 6: samma rader + barn Caisa 1784, Sven 1788, Nils 1791 (marg. ’Klaxås 87’); (11) A I/12 bild 16 Såldebråten 1754 21/10. Samma födelsedag 21/10 1754 bärs obruten från Kil-dopet via föräldrarnas hushåll (Högvalta) till Såldebråten, och sonen Erik 25/3 1779 binder Gönäs-, Klaxås- och Såldebråten-posterna."
  },
  {
   "id": "c-sven_eriksson02-elin_palsdotter35-elin_svensdotter_gonas",
@@ -13659,5 +13659,24 @@
   "child": "olof_elofsson29_persjon",
   "status": "verified",
   "basis": "Nyed C/2 bild 26 (1729): ”Olof Elofsson i Persjön född d 28 octber fadren Elof Ersson modren Maria Olofsdotter döpt hemma för dess swaghet”"
+ },
+ {
+  "id": "c-sven_ersson-karin_nilsdotter19-nils_svensson_1759_hogvalta",
+  "type": "child",
+  "parents": [
+   "sven_ersson",
+   "karin_nilsdotter19"
+  ],
+  "child": "nils_svensson_1759_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud A I/7 bild 81 (Karsbol): ”Suen Ersson / H. Karin Nilsd:r / … / S Nils Svensson 1759 10/2”; A I/8 bild 243 Högvalta ”S. Nils Sv.” 1759 10/2."
+ },
+ {
+  "id": "s-christopher_svensson_saldebraten-nils_svensson_1759_hogvalta",
+  "type": "sibling",
+  "a": "christopher_svensson_saldebraten",
+  "b": "nils_svensson_1759_hogvalta",
+  "status": "verified",
+  "basis": "Båda ’S.’ under Suen Ersson/H. Karin Nilsd:r, Frykerud A I/8 bild 243 (Högvalta)."
  }
 ]
