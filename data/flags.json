@@ -14,18 +14,6 @@
    "source": "Dopböcker Fryksände, Ämtervik, Kil (Riksarkivet bildvisning) okt 1753-54"
   },
   {
-   "title": "Agnieszka Hencel: födelse 1847 Czarnów - är det samma som 1866-bruden (agnieszka_orzechowska_1849)?",
-   "text": "Katedra 1847 akt 34 (Augustyn Hencel + Maryanna z Szreków, Czarnów, f. 25.1.1847) matchar förnamn på barn och föräldrar, men 1866 står bostad Niewachlów och ålder 18 (förväntat 19). Id agnieszka_orzechowska_1849 har födelseår ca 1848 - föreslå uppdatering till 1847 först om chefen godtar strong. Ingen annan Agnieszka Hencel i Katedra 1846, 1848, 1850 (H-sidor lästa).",
-   "persons": [
-    "agnieszka_orzechowska_1849",
-    "hencel_agnieszka_1847"
-   ],
-   "priority": 2,
-   "next_step": "Besluta om agnieszka_orzechowska_1849 ska slås ihop med/uppdateras mot hencel_agnieszka_1847 (f. 25.1.1847).",
-   "doable": false,
-   "source": ""
-  },
-  {
    "title": "Arne Andersson: vigsel 1746 med Ingerd Nilsd. eller bara Marit Jönsdotter?",
    "text": "E I/1 bild 64 (1746 nr 2): ”14 Martii Arne Andersson från Crona, Enkl. Pig. Ingierd Nilsd. fr. Ranglarud”. Om det är samme Arne (f. 26/1 1724 Ragnerud, fadder i Krona) var han gift med Ingerd Nilsd. före Marit Jönsdotter (barn 1752 och 1754 med Marit). Vigseln med Marit Jönsdotter ej funnen i E I/1 bild 63–72 (1744–54).",
    "persons": [
@@ -191,17 +179,6 @@
    "source": ""
   },
   {
-   "title": "Nils Arvid Olofsson: Amerika 1912, hemma, Amerika 1916",
-   "text": "A II a/3 bild 184: Nils Arvid f. 17/1 1896 (Olof Perssons son) har två rader: utflyttad Amerika 12 18/10, därefter ny rad ’Hem ej som drängen’ och utflyttning ordagrant ’Amerika 16 1/9’ + anm. ’Fb 1/9 16 Erkänt sig s. far t. barnet å pag 67,19’. Identifiera barnet/modern på sida 67 (bild ca 73?).",
-   "persons": [
-    "ol_nils_arvid_1896"
-   ],
-   "priority": 3,
-   "next_step": "Brunskog A II a/3 sida 67: identifiera barnet som Nils Arvid erkände 1916.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog församlingsbok A II a/3 (1909-1920) sida 67 rad 19 (bild ca 73), samt SCB födda Brunskog 1915-16"
-  },
-  {
    "title": "Nils Bertil → Bertil Inge",
    "text": "Avgör om Sune och Inge är kusiner. Nästa källa: bouppteckning 1972.",
    "persons": [
@@ -262,28 +239,10 @@
    ]
   },
   {
-   "title": "Anton Nordstrom (Winnipeg): svenskt ursprung och kusinskap till Augustsson-bröderna",
-   "text": "Kusinen från manifestet 1903 är identifierad genom adressen 371 Alexander Ave. (Henderson 1903/1904) som Anton/Anthony Nordstrom, f. ca 1874 i Sverige, invandrad 1893/94 och d. 1946 i Minnedosa. Hans svenska namn och föräldrar är okända. Nästa steg: Emihamn/utvandrarregister 1893 (Anton … f. 1874, Värmland), Uppsala/Brunskog/Svartåna husförhör för syskonbarn till August Nilsson (f. 1855 Svartåna, son till Nils Jansson) eller till hans hustrur Maria Katrina Andersdotter/Stina Jansdotter, samt BC-dödsattesten för dottern Vera Elizabeth Holt (FamilySearch FLBJ-93R).",
-   "persons": [
-    "anton_winnipeg_cousin",
-    "johan_albin_augustsson",
-    "nils_ejnar_augustsson",
-    "august_nilsson_gullsbyn"
-   ]
-  },
-  {
    "title": "'E. Augustson, carpenter' Winnipeg 1904 = Nils Einar?",
    "text": "Henderson's Winnipeg Directory 1904: 'Augustson, E., carpenter, J. Mattson.' Initialen och yrket stämmer med Nils Einar (joiner 1903, destination Winnipeg). Posten saknar ålder och ursprung och är candidate. Nästa steg: läsa 1905/1906 års katalog (P000921-3-6/-7, nedladdningen misslyckades), Manitoba vital statistics (vigsel/död Augustson) och Kanadas folkräkning 1906 under felstavade namn (Augustsen/Augustine).",
    "persons": [
     "nils_ejnar_augustsson"
-   ]
-  },
-  {
-   "title": "Andrew Haugberg f. 13/1 1861 Brunskog (föräldrar Per Olson/Stina Nilson)",
-   "text": "NUMIDENT-posten ger föräldrar med samma namn som föräldrarna till Olof Persson f. 1873 i Svartåna. Kontrollera i Brunskog husförhör (Svartåna, A I/30–35) om Per Olsson/Stina Nilsdotter har en son Anders f. 13/1 1861 med utflyttning till Amerika.",
-   "persons": [
-    "andrew_haugberg_1861",
-    "d7_olof_persson_svartana_1873"
    ]
   },
   {
@@ -3829,6 +3788,45 @@
    ],
    "verdict": "resolved",
    "why": "Åtgärdat 2026-10-10: relationen sänkt till lead; ”Stoy” ändrat till ”Skog” i namn/sammanfattning (id:n oförändrade)."
+  },
+  {
+   "title": "Agnieszka Hencel: födelse 1847 Czarnów - är det samma som 1866-bruden (agnieszka_orzechowska_1849)?",
+   "text": "Behåll id agnieszka_orzechowska_1849; hencel_agnieszka_1847 tas bort som dubblett efter att dess källor och anteckningar flyttats.",
+   "persons": [
+    "agnieszka_orzechowska_1849",
+    "hencel_agnieszka_1847",
+    "bu8_jan_hencel_1844"
+   ]
+  },
+  {
+   "title": "Andrew Haugberg f. 13/1 1861 Brunskog (föräldrar Per Olson/Stina Nilson)",
+   "text": "Dop C I/6 1861 nr 7 (bild 4) och A I/35 bild 256 ('Son Anders 61 13/1 Svartåna – Nordamerika 8? 14/4'). NUMIDENT har samma födelsedatum, socken och föräldrar. Kvar att göra: läsa årtalet för utflyttningen säkert (1881/1884) i Brunskogs utflyttningslängd B, samt Emihamn/Göteborgs passagerarlistor.",
+   "persons": [
+    "andrew_haugberg_1861",
+    "d7_olof_persson_svartana_1873",
+    "bu8_maria_persdotter_1867"
+   ]
+  },
+  {
+   "title": "Anton Nordstrom (Winnipeg): svenskt ursprung och kusinskap till Augustsson-bröderna",
+   "text": "Primärkällor: dop C I/6 1874 nr 8; dop C I/5 1849 (Maria Cajsa, dotter till Nils Jansson och Britta Olsd.); A I/31 bild 225 (Maria Kajsa 49 2/2 Talken bland Augusts syskon); A I/35 bild 253 (samma Maria Kajsa 49 2/2 Talken som hustru till Anders Andersson, med Anton 74 9/2); folkräkning 1880 och 1890 (fadern 'Andersson Norström'); Gudmundrå B I/3 1893 nr 22 'Arb. Anton Norström f. 74 … N. America'. Kopplingen till Winnipeg-Anton (via namn, födelseår, utvandringstid och manifestets 'cousin') är strong, inte verified.",
+   "persons": [
+    "anton_winnipeg_cousin",
+    "maria_cajsa_nilsdotter_1849",
+    "bu8_anders_andersson_norstrom_1844",
+    "august_nilsson_gullsbyn",
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Nils Arvid Olofsson: Amerika 1912, hemma, Amerika 1916",
+   "text": "A II a/3 bild 184 rad 10 (kolumnrubriker kontrollerade); A II a/3 bild 75 sid 67 rad 9; Brunskog födelsebok C I/9 1920 nr 1 (bild 40) 'Erkänd Fader: Nils Arvid Olofsson Skog … 96 17/1'.",
+   "persons": [
+    "ol_nils_arvid_1896",
+    "bu8_anna_britta_olsson_1920",
+    "bu8_hulda_maria_andersson_1898"
+   ]
   }
  ],
  "backlog": [

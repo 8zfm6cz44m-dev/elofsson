@@ -16510,6 +16510,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/29 (1861–65), bild 170 (s.179, Ö. Takene Svartåna): Nils Jansson 24 30/6 Lubäda Boda + Märtha Olofsd. 24, barn Nils 53, August 56, Johan 59, Olof 63, Maria 64",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036768_00170"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/31 (1866–1870), bild 225 (fol. 234), Ö. Takene Svartåna, Nystuga: 'Enk. Britta Olsd. 26 1/9 Ö. Takene' (enka 30/12 65); 'D. Maria Kajsa Nilsd. 49 2/2 Talken; S. Johan Nilsson 51 ?/12 d:o; S. August Nilsson 55 22/4 Svartåna; S. Nils Fredrik Nilsson 61 18/1 d:o; D. Anna Charlotta Nilsd. 65 7/11 d:o'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00225"
    }
   ],
   "search": [
@@ -16520,7 +16524,8 @@
    "OBS A I/35 bild 254 (nedre hushållet): ”Inhyses Nils Jansson 24 ?/9 Boda; H. Märta Olsdotter 24 ?/9 ö. Takene; barn Karin, Johan 59, Karin 64” – kan vara samme Nils (andra äktenskap/felläst hustrunamn) eller en annan Nils Jansson f. 1824; ej avgjort.",
    "DOP-LEAD Boda 1824 nr 37 (8/9): ”Nils, Olserud – Jan Nilsson, Stina Jonsd.”; A I/25 anger födelseår som 23 (svårläst – kan vara 24).",
    "DOP-AVGÖRANDE Boda C I/3: Sept 1823 (bild 19) finns ingen Nils med fader Jan/Jansson; augusti 1823 ”Nils, Boda – Jan Nilson, Maria Nilsd.” (21/8) har fel månad. 7 sept 1824 ”nr 37, 7 | 8, Nils, Olserud – Jan Nilsson, Stina Jonsd.” passar månad 9 och A I/35 år 24. Kvarstående osäkerhet: dagen i A I/25 läses ’1/9’ (jfr Britta ’1/9’) mot dopbokens 7/9, och Jan Nilsson hade även en Nils f. 21/8 1823 (kan ha dött).",
-   "D6 FLAGGA: I A I/29 (1861–65) bild 170 (s.179, Ö. Takene Svartåna) bor ”Bo. Nils Jansson 24 30/6 Lubäda, Boda; Hu. Märtha Olofsd. 24 (Ö. Takene); S. Nils 53 29/8; S. August 56 28/8; S. Johan 59 11/2; S. Olof 63; D. Maria 64” – det är samma hushåll som A I/35 bild 254 (Johan 59 11/2, Karin 64 22/11 – ”Karin 64” vs ”Maria 64” osäkert) och alltså en ANNAN Nils Jansson (f. 30/6 1824 Boda) än vår Nils Jansson (f. ?/9 1823, hustru Britta Olsdotter) i A I/25 b.172 / A I/27 b.174. Vår Nils/Britta-familj har inte kunnat återfinnas i Svartåna-sidorna i A I/29 (bild 164–176, lästa)."
+   "D6 FLAGGA: I A I/29 (1861–65) bild 170 (s.179, Ö. Takene Svartåna) bor ”Bo. Nils Jansson 24 30/6 Lubäda, Boda; Hu. Märtha Olofsd. 24 (Ö. Takene); S. Nils 53 29/8; S. August 56 28/8; S. Johan 59 11/2; S. Olof 63; D. Maria 64” – det är samma hushåll som A I/35 bild 254 (Johan 59 11/2, Karin 64 22/11 – ”Karin 64” vs ”Maria 64” osäkert) och alltså en ANNAN Nils Jansson (f. 30/6 1824 Boda) än vår Nils Jansson (f. ?/9 1823, hustru Britta Olsdotter) i A I/25 b.172 / A I/27 b.174. Vår Nils/Britta-familj har inte kunnat återfinnas i Svartåna-sidorna i A I/29 (bild 164–176, lästa).",
+   "BU8: I A I/31 (1866–70) bild 225 står hustrun som 'Enk. Britta Olsd. 26 1/9 Ö. Takene', med datumet '30/12 65' i kolumnen för änka/änkling. Nils Jansson dog alltså troligen den 30 dec 1865 (datumet bör kontrolleras mot dödboken). Barn i hushållet: Maria Kajsa 49 2/2, Johan 51, August 55 22/4, Nils Fredrik 61 18/1 och Anna Charlotta 65 7/11."
   ]
  },
  {
@@ -16694,16 +16699,17 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1849",
-   "place": "Brunskog (Ö. Takene), Värmlands län",
-   "note": "A I/25: ²⁄₂ 49 (dag/månad svårläst); född Brunskog (”do”)."
+   "date": "1849-02-04",
+   "place": "Ö. Takene (Svartåna), Brunskog",
+   "note": "Dopbok C I/5 1849: född 4, döpt 5 febr. Husförhören (A I/25, A I/31, A I/35) skriver 2/2 49; A I/31 och A I/35 anger födelseort 'Talken'."
   },
   "places": [
    "Svartåna & Nytorp (Ö. Takene), Brunskog"
   ],
   "summary": "Äldre syster till August Nilsson (f. 1855); dotter till Nils Jansson och Britta Olsdotter, Svartåna.",
   "notes": [
-   "HUSFÖRHÖR A I/25 s.163: ”Dr. Maja Cajsa ²⁄₂ 49” under Nils Jansson/Britta Olsd.; A I/27 s.181: ”D. Maria Cajsa ²⁄₂ 49”."
+   "HUSFÖRHÖR A I/25 s.163: ”Dr. Maja Cajsa ²⁄₂ 49” under Nils Jansson/Britta Olsd.; A I/27 s.181: ”D. Maria Cajsa ²⁄₂ 49”.",
+   "BU8: Dop Brunskog 1849: 'Feb. 4 5 Maria Cajsa – Ö. Takene, Gifte D:r Nils Jansson och H. Britta Olsd:r 23'. I A I/31 (1866–70) bild 225 står hon som 'D. Maria Kajsa Nilsd. 49 2/2 Talken' hos änkan Britta Olsdotter, med bröderna Johan, August och Nils Fredrik. I A I/35 bild 253 står hon som 'H. Maria Kajsa Nilsdotter 49 2/2 Talken', hustru till inhyses Anders Andersson (gifta ca 1871), med barnen Betty 1871, Anton 1874 och Nils 1879. Identiteten bygger på samma namn, samma datum 2/2 49 och samma ovanliga födelseortsangivelse 'Talken' i båda husförhören. Familjen flyttade till Härnösand/Gudmundrå 1885. 1890 saknas hon i hushållet i Sprängsviken, så hon kan ha dött 1885–1890 (inte kontrollerat)."
   ],
   "sources": [
    {
@@ -16713,6 +16719,26 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/27 (C0036766, 1856–60), bild 174 (s. 181, Ö. Takene, ”Svartåna och Nytorp”): ”B. Nils Jansson ?/? 23 Boda; H. Britta Olsd. 26 Brunskog; D. Maria Cajsa ²⁄₂ 49; S. Johan 51; S. August 22/4 55; D. Anna Charlotta 21/4 58”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036766_00174"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/5, bild 28, 1849: 'Feb. 4 5 Maria Cajsa – Ö. Takene, Gifte D:r Nils Jansson och H. Britta Olsd:r 23'; faddrar Olof Ersson och h. Maria Olsd:r i Ö. Takene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00028"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/31 (1866–1870), bild 225 (fol. 234), Ö. Takene Svartåna, Nystuga: 'Enk. Britta Olsd. 26 1/9 Ö. Takene' (enka 30/12 65); 'D. Maria Kajsa Nilsd. 49 2/2 Talken; S. Johan Nilsson 51 ?/12 d:o; S. August Nilsson 55 22/4 Svartåna; S. Nils Fredrik Nilsson 61 18/1 d:o; D. Anna Charlotta Nilsd. 65 7/11 d:o'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00225"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 253, Ö. Takene Svartåna: 'Inhyses Anders Andersson 44 26/9 Svartåna; H. Maria Kajsa Nilsdotter 49 2/2 Talken; Dot. Betty 71 12/8 Svartåna; Son Anton 74 9/2 Nolby; [Son] Nils 79 11/10 D:o' – 'Vistas i Ångermanland vid Sågverk', utflyttade 'Hernösand 85'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00253"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Svartåna, sida 33 (Folk_120423468): Andersson, Anders f. 1844 Brunskog, inhyses; Nilsdotter, Maria Kajsa f. 1849 Brunskog; Betty 1871; Anton 1874 (s.); Nils 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_120423468"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/6, bild 154, 1874 nr 8: född 9, döpt 10 febr 'Anton' – 'Handtlangaren(?) Anders Andersson och h. Maria Kajsa Nilsdotter, gifte 2½ år', Nolby, mor 25 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00154"
    }
   ],
   "search": [
@@ -17798,7 +17824,7 @@
  },
  {
   "id": "anton_winnipeg_cousin",
-  "name": "Anton (Anthony) Nordstrom (kusin i Winnipeg 1903)",
+  "name": "Anton Nordstrom (Anton Andersson Norström, f. 9 febr 1874 Brunskog; kusin i Winnipeg 1903)",
   "status": "strong",
   "sex": "m",
   "living": false,
@@ -17808,10 +17834,13 @@
    "Odanah, Manitoba (1916)",
    "Minnedosa, Manitoba (1926; begravd 1946)"
   ],
-  "summary": "Kusin (”cousin”) som Johan Albin Augustsson och Nils Einar Augustsson reste till 1903 enligt Ellis Island-manifest. Efternamnet svårläst (Kjerstrom/Nystrom?).",
+  "summary": "Anton, son till Anders Andersson (Norström) och Maria Kajsa Nilsdotter, föddes 1874 i Brunskog. Modern var syster till August Nilsson, så Anton var kusin till Augustsson-bröderna. Familjen flyttade 1885 till sågverket i Sprängsviken (Gudmundrå). Anton utvandrade i mars–april 1893 och bodde i Winnipeg 1903, där han tog emot kusinerna Johan Albin och Nils Einar.",
   "notes": [
    "MANIFEST: ”Cousin Anton [Kjerstrom/Nystrom? – svårläst], 371 Alexander Ave., Winnipeg, Man.”",
-   "BU2: Manifestets 'Cousin Anton [..]strom, 371 Alexander Ave., Winnipeg' (Teutonic 7 maj 1903) är Anton/Anthony NORDSTROM. Henderson's Winnipeg Directory 1903 och 1904 har en enda boende på 371 Alexander: 'Nordstrom, Anthony, teamster' (1903 Windatt & Co., 1904 Winnipeg Coal Co.). Förnamn, '-strom'-slutet och den exakta adressen stämmer, så identiteten med manifestets kusin är stark. Senare: 1907–08 'Nordstrom Anton teamstr h 259 Gunnell'; folkräkning 1906 Winnipeg (f. 1874 Sverige); 1916 Odanah; 1926 Minnedosa (f. 1874, invandrad 1894, maka Martha Janet, barn Paul Milton, Clarence Henning, Eva Astroid); begravd Minnedosa 1946. I en BC-dödsregistrering för dottern Vera Elizabeth Holt står föräldrarna Anton Nordstrom och Janet Peterson (FamilySearch FLBJ-93R). OBEVISAT: hans svenska ursprung och hur han är kusin till Augustsson-bröderna (barn till ett syskon till August Nilsson eller till modern). Avgångslistan från England 27 apr 1893 (Anton Nordstrom f. 1874, FamilySearch 68LP-99PH) är bara en lead. FamilySearch-trädprofilen GQJG-JHJ saknar uppgifter."
+   "BU2: Manifestets 'Cousin Anton [..]strom, 371 Alexander Ave., Winnipeg' (Teutonic 7 maj 1903) är Anton/Anthony NORDSTROM. Henderson's Winnipeg Directory 1903 och 1904 har en enda boende på 371 Alexander: 'Nordstrom, Anthony, teamster' (1903 Windatt & Co., 1904 Winnipeg Coal Co.). Förnamn, '-strom'-slutet och den exakta adressen stämmer, så identiteten med manifestets kusin är stark. Senare: 1907–08 'Nordstrom Anton teamstr h 259 Gunnell'; folkräkning 1906 Winnipeg (f. 1874 Sverige); 1916 Odanah; 1926 Minnedosa (f. 1874, invandrad 1894, maka Martha Janet, barn Paul Milton, Clarence Henning, Eva Astroid); begravd Minnedosa 1946. I en BC-dödsregistrering för dottern Vera Elizabeth Holt står föräldrarna Anton Nordstrom och Janet Peterson (FamilySearch FLBJ-93R). OBEVISAT: hans svenska ursprung och hur han är kusin till Augustsson-bröderna (barn till ett syskon till August Nilsson eller till modern). Avgångslistan från England 27 apr 1893 (Anton Nordstrom f. 1874, FamilySearch 68LP-99PH) är bara en lead. FamilySearch-trädprofilen GQJG-JHJ saknar uppgifter.",
+   "BU8 – SVENSKT URSPRUNG: Brunskog C I/6 1874 nr 8: 'Anton', född 9, döpt 10 febr 1874, föräldrar Anders Andersson och Maria Kajsa Nilsdotter, Nolby. A I/35 (1881–90) bild 253: 'Son Anton 74 9/2 Nolby', familjen 'Vistas i Ångermanland vid Sågverk', utflyttad Härnösand 1885. Folkräkning 1890 Gudmundrå, Sprängsvikens Ångsåg: fadern heter 'Andersson Norström, Anders', med sonen Anton f. 1874 i Brunskog. Gudmundrå in- och utflyttningslängd B I/3 bild 100, 1893 nr 22: '18/3 | 865 | Arb. Anton Norström f. 74 | Sprängsviken | N. America'. Han finns inte i de svenska folkräkningarna 1900 och 1910 (Riksarkivets index: Anton Nordström f. 1874 bara Norrbotten 1900 och Stockholm 1910/1930, andra personer). Avresan från Liverpool 27/4 1893 (Anton Nordstrom 19, Laurentian till Quebec) ligger 5–6 veckor efter flyttattesten och stämmer.",
+   "BU8 – KUSINSKAP: modern Maria Kajsa Nilsdotter (f. 4/2 1849) är dotter till Nils Jansson och Britta Olsdotter (dop 1849; A I/31 bild 225) och därmed helsyster till August Nilsson f. 1855. Anton är alltså kusin på fädernet till Johan Albin, Anna Maria, Nils Einar och Hanna Augustsson. Det stämmer med 'Cousin' i manifestet 1903.",
+   "Status för identiteten Winnipeg-Anton = Anton Norström f. 1874 Brunskog: STRONG (namnet Norström/Nordstrom, födelseåret, utvandringen till N. Amerika våren 1893 och den belagda kusinrelationen; det finns ingen kanadensisk handling som nämner Brunskog eller föräldrarna)."
   ],
   "sources": [
    {
@@ -17841,15 +17870,39 @@
    {
     "label": "FamilySearch, Find a Grave-index: Anton 'Tony' Nordstrom, d. 1946, Minnedosa Cemetery, Manitoba",
     "url": "https://www.familysearch.org/ark:/61903/1:1:6FD5-8677"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/6, bild 154, 1874 nr 8: född 9, döpt 10 febr 'Anton' – 'Handtlangaren(?) Anders Andersson och h. Maria Kajsa Nilsdotter, gifte 2½ år', Nolby, mor 25 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00154"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 253, Ö. Takene Svartåna: 'Inhyses Anders Andersson 44 26/9 Svartåna; H. Maria Kajsa Nilsdotter 49 2/2 Talken; Dot. Betty 71 12/8 Svartåna; Son Anton 74 9/2 Nolby; [Son] Nils 79 11/10 D:o' – 'Vistas i Ångermanland vid Sågverk', utflyttade 'Hernösand 85'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00253"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Svartåna, sida 33 (Folk_120423468): Andersson, Anders f. 1844 Brunskog, inhyses; Nilsdotter, Maria Kajsa f. 1849 Brunskog; Betty 1871; Anton 1874 (s.); Nils 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_120423468"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Gudmundrå (Västernorrland), Sprängsvikens Ångsåg, sida 82 (Folk_104516865): 'Andersson Norström, Anders, f. 1844 i Brunskog, Arbetare'; Anton f. 1874 Brunskog (s.); Nils f. 1879 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_104516865"
+   },
+   {
+    "label": "Riksarkivet, Gudmundrå kyrkoarkiv B I/3 (in- och utflyttningslängd 1879–1893), bild 100, utflyttade 1893 nr 22: '18/3 | 865 | Arb. Anton Norström f. 74 | Sprängsviken | N. America'",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0014123_00100"
+   },
+   {
+    "label": "FamilySearch, UK Outgoing Passenger Lists: Anton Nordstrom, 19 år, f. 1874, ogift, 'LAB', Liverpool 27 apr 1893, S/S Laurentian (Allan Line) till Quebec",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:68LP-99PH"
    }
   ],
   "search": [
    "Anton [K?]strom (kusin i Winnipeg 1903)"
   ],
   "born": {
-   "date": "1874",
-   "place": "Sverige",
-   "note": "Kanadensiska folkräkningar 1906/1926: f. 1874 Sweden; invandrad 1894 (1926), ev. avresa England 27 apr 1893"
+   "date": "1874-02-09",
+   "place": "Nolby, Brunskog, Värmland",
+   "note": "Dopbok Brunskog C I/6 1874 nr 8 (döpt 10 febr); A I/35 '74 9/2 Nolby'. Kanadensiska folkräkningar: f. 1874 Sverige."
   },
   "died": {
    "date": "1946",
@@ -19198,9 +19251,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "ca 1848",
-   "place": "Niewachlów",
-   "note": "18 år vid vigseln 1866 akt 94; 26 år 1875"
+   "date": "1847-01-25",
+   "place": "Czarnów (Kielce Katedra)",
+   "note": "Katedra 1847 akt 34 (anmäld 26.1.1847 kl. 14, född dagen innan kl. 21). Vigselakt 1866 anger 18 år och 'tamże urodzona' (Niewachlów) – avvikelse, se BU8-flagga."
   },
   "places": [
    "Niewachlów"
@@ -19211,7 +19264,9 @@
    "Maka Agnieszka nämns som levande 1877 (efterlämnad av Michał, akt 369). Flicknamn lästes i akt 369 ungefär 'Хентшесь' (Chentsześ/Kęciesz?) - jfr 'Chenulów?' i 1875 års akt; motsäger 'Pęcłów' (mor Antonina) i 1895. Hennes egen död ej funnen i Katedras dödsindex O-sidor 1878-1883 (se flagga).",
    "Flicknamn Hencel (index 1866 'Agnieszka Hencel'), föräldrar Augustyn och Maryanna Hencel, Niewachlów. Förklarar 'Chenulów?' i 1875 års akt.",
    "E8: akt 94: 'Agnieszką Hencel lat osiemnaście mającą, panną, córką Augustyna i Maryanny z [..]chów małżonków Hencelów rolników, gospodarzy w Niewachlowie zamieszkałych, tamże urodzoną' – född i Niewachlów bekräftat.",
-   "FÖDELSEAKT 1871 nr 260 (dotter Antonina): hustru 'Агнешка изъ Хенцлёвъ' (Hencel), 20 år; fadder 'Валерія Хенцель' – flicknamnet Hencel bekräftat även i barnets akt."
+   "FÖDELSEAKT 1871 nr 260 (dotter Antonina): hustru 'Агнешка изъ Хенцлёвъ' (Hencel), 20 år; fadder 'Валерія Хенцель' – flicknamnet Hencel bekräftat även i barnets akt.",
+   "Sammanslagen med hencel_agnieszka_1847 (Agnieszka Hencel (f. 25.1.1847, Czarnów)). BU8 2026-10-10: samma person – föräldrar Augustyn Hencel och Maryanna z Szreków i både födelseakt Czarnów 1847 nr 34 och vigselakt 1866 nr 94. | Från hencel_agnieszka_1847: FÖDELSEAKT Kielce Katedra 1847 akt 34: \"Stawił się Augustyn Hencel rolnik lat dwadzieścia sześć mający we Wsi Czarnów zamieszkały w obecności Jakóba Gil rolnika lat pięćdziesiąt i Karola Szrukowskiego rolnika lat trzydzieści siedm mających tamże zamieszkałych i okazał nam dziecię płci żeńskiej które się urodziło dnia wczorajszego o godzinie dziewiątej wieczór z jego małżonki Maryanny z Szreków lat dwadzieścia mającej. Dziecięciu temu na Chrzcie Świętym ... nadane zostało imię Agnieszka. Rodzicami zaś Chrzestnemi byli Karol Szrukowski i Rozalia Zwodzińska\" (aktdatum 26 januari 1847 kl. 14; födelse alltså 25.1.1847 kl. 21). Efternamn Szreków/Szrekow osäkert läst. | Från hencel_agnieszka_1847: INDEX: Katedra födelseindex 1847 SkU-2 (vänstersida, H-rader): 'Hencel Agnieszka, akt 34'. Tidigare agent (X2) läste bara SkU-1/2 'Haba, Habert, Habrowska' och missade denna post. H-sidor 1846, 1848 och 1850 genomlästa: ingen annan Agnieszka Hencel (1850: endast 'Hencel Franciszek Marcin akt 408'). | Från hencel_agnieszka_1847: KONFLIKT/SVAGHET: vigselakt 1866 anger Agnieszka som 18 år, 'tamże urodzona' i Niewachlów, föräldrar 'Augustyna i Maryanny z [..]chów' gårdsägare i Niewachlów; födelseakten 1847 ger Czarnów och skulle ge 19 år. Åldrar i senare akter (1871: 20; 1875: 26) är ofta ungefär. Moderns flicknamn 1866 ('[..]chów') kan vara samma som 'Szreków' i 1847 men är ej säkert läst.",
+   "BU8: SAMMA PERSON som hencel_agnieszka_1847 (f. 25.1.1847, Czarnów). Skäl: (1) vigselakt 1866 nr 94 och födelseakt 1847 nr 34 anger båda föräldrarna Augustyn Hencel och Maryanna z Sz[reków]; (2) inga andra Agnieszka Hencel finns i Katedras födelseindex 1846, 1847, 1848, 1849 och 1850 (H-sidor; BU8 läste 1849 SkU-1: H = Haba Józef 122, Haba Józefa 140, Haba Wojciech 141, Hajduk Antoni 218, Haber Piotr 355, Hoffmann Jan Gwalbert Henryk 498); (3) ingen Agnieszka Hencel i dödsindex 1847 (SkZ-3), 1848 (SkZ-03) och 1849 (SkZ-2/3); (4) familjen flyttade från Czarnów till Niewachłów senast mars 1849 (sonen Jan Hentzel, 5 år, dog där, akt 115/1849), så 'tamże urodzona' 1866 är en ungefärlig uppgift. Åldern 18 i juni 1866 (rätt: 19) är inom normal felmarginal (jfr 20 år 1871 och 26 år 1875). Moderns dödsakt 1880 nämner fem efterlevande barn: Agnieszka, Franciszek Marceli, Kazimierz, Walerja och Stanisław, vilket stämmer bara om 1847- och 1866-Agnieszka är samma."
   ],
   "sources": [
    {
@@ -19225,6 +19280,18 @@
    {
     "label": "Skanoteka, Kielce Katedra vigselbok 1866, akt 94 (sy1866b fil 093-095; index SkM-2 'Orzechowski Michał / Agnieszka Hencel 94')",
     "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1866b&kt=1&plik=093-095.jpg"
+   },
+   {
+    "label": "Riksarkivet-motsvarighet saknas; Skanoteka PTG, Kielce Katedra (id57) födelsebok 1847 (sy1847a, kt1), skan 029-036.jpg, akt 34 (sid 9): Agnieszka Hencel, far Augustyn Hencel, mor Maryanna z Szreków",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=029-036.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) födelseindex 1847 (SkU-2): 'Hencel Agnieszka 34'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=SkU-2.jpg"
+   },
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) födelsebok 1847 (sy1847a), skan 029-036.jpg, akt 34: Agnieszka, far Augustyn Hencel (26, Czarnów), mor Maryanna z Szreków (20)",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=029-036.jpg"
    }
   ],
   "search": [
@@ -24606,41 +24673,6 @@
   ]
  },
  {
-  "id": "hencel_agnieszka_1847",
-  "name": "Agnieszka Hencel (f. 25.1.1847, Czarnów)",
-  "status": "verified",
-  "sex": "f",
-  "living": false,
-  "born": {
-   "date": "1847-01-25",
-   "place": "Czarnów (Kielce Katedra)",
-   "note": "anmäld 26.1.1847 kl. 14"
-  },
-  "places": [
-   "Czarnów",
-   "Kielce Katedra"
-  ],
-  "summary": "Dotter till Augustyn Hencel (rolnik, 26 år) och Maryanna z Szreków [läsning], 20 år. Förnamn + faderns förnamn + moderns förnamn stämmer med Agnieszka Hencel i vigselakt 1866 akt 94, men bostadsort (Czarnów, ej Niewachlów) och ålder (19 i st f 18) avviker - därför strong, ej verified.",
-  "notes": [
-   "FÖDELSEAKT Kielce Katedra 1847 akt 34: \"Stawił się Augustyn Hencel rolnik lat dwadzieścia sześć mający we Wsi Czarnów zamieszkały w obecności Jakóba Gil rolnika lat pięćdziesiąt i Karola Szrukowskiego rolnika lat trzydzieści siedm mających tamże zamieszkałych i okazał nam dziecię płci żeńskiej które się urodziło dnia wczorajszego o godzinie dziewiątej wieczór z jego małżonki Maryanny z Szreków lat dwadzieścia mającej. Dziecięciu temu na Chrzcie Świętym ... nadane zostało imię Agnieszka. Rodzicami zaś Chrzestnemi byli Karol Szrukowski i Rozalia Zwodzińska\" (aktdatum 26 januari 1847 kl. 14; födelse alltså 25.1.1847 kl. 21). Efternamn Szreków/Szrekow osäkert läst.",
-   "INDEX: Katedra födelseindex 1847 SkU-2 (vänstersida, H-rader): 'Hencel Agnieszka, akt 34'. Tidigare agent (X2) läste bara SkU-1/2 'Haba, Habert, Habrowska' och missade denna post. H-sidor 1846, 1848 och 1850 genomlästa: ingen annan Agnieszka Hencel (1850: endast 'Hencel Franciszek Marcin akt 408').",
-   "KONFLIKT/SVAGHET: vigselakt 1866 anger Agnieszka som 18 år, 'tamże urodzona' i Niewachlów, föräldrar 'Augustyna i Maryanny z [..]chów' gårdsägare i Niewachlów; födelseakten 1847 ger Czarnów och skulle ge 19 år. Åldrar i senare akter (1871: 20; 1875: 26) är ofta ungefär. Moderns flicknamn 1866 ('[..]chów') kan vara samma som 'Szreków' i 1847 men är ej säkert läst."
-  ],
-  "sources": [
-   {
-    "label": "Riksarkivet-motsvarighet saknas; Skanoteka PTG, Kielce Katedra (id57) födelsebok 1847 (sy1847a, kt1), skan 029-036.jpg, akt 34 (sid 9): Agnieszka Hencel, far Augustyn Hencel, mor Maryanna z Szreków",
-    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=029-036.jpg"
-   },
-   {
-    "label": "Skanoteka PTG, Kielce Katedra (id57) födelseindex 1847 (SkU-2): 'Hencel Agnieszka 34'",
-    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1847a&kt=1&plik=SkU-2.jpg"
-   }
-  ],
-  "search": [
-   "Agnieszka Hencel (f. 25.1.1847, Czarnów)"
-  ]
- },
- {
   "id": "hencel_franciszek_marcel_1850",
   "name": "Franciszek Marceli Hencel (f. 1850)",
   "status": "verified",
@@ -25917,7 +25949,9 @@
   "notes": [
    "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Nils Arvid, f. 1896 i Brunskog”.",
    "HUSFÖRHÖR A II a/3 bild 184 rad 6: ”s. Nils Arvid 96 17/1”; utflyttning ”do [Amerika] 12 18/10” (18 okt 1912). Ny rad 10 (återinskriven): ”s. Nils Arvid Olofsson … Hem ej som drängen hos O. Arvid Tälten(?)” 96 17/1; utflyttning ordagrant ”Amerika 16 1/9” (1 sept 1916); anm. ”Fb 1/9 16 Erkänt sig s. far t. barnet å pag 67,19”. = Återkomst 1912–16 och ny Amerika-utflyttning 1916; far till barn på sida 67/19 (okänd).",
-   "BT2: A II a/3 bild 75 = sid 67 (Bråten ⅛ m. skatte) har bara 8 rader/radnummer 1–9 (Jan Nilsson, Anders Jansson m.fl.); ”rad 19” finns inte där – hänvisningen ”pag 67,19” avser troligen annan sida/volym (föregående församlingsbok A II a/2?) eller radnumrering som ej ses. Barnet ej identifierat; SCB födda 1915–16 (A0031185_00359, A0031257_00355) ej genomsökta."
+   "BT2: A II a/3 bild 75 = sid 67 (Bråten ⅛ m. skatte) har bara 8 rader/radnummer 1–9 (Jan Nilsson, Anders Jansson m.fl.); ”rad 19” finns inte där – hänvisningen ”pag 67,19” avser troligen annan sida/volym (föregående församlingsbok A II a/2?) eller radnumrering som ej ses. Barnet ej identifierat; SCB födda 1915–16 (A0031185_00359, A0031257_00355) ej genomsökta.",
+   "BU8 – RÄTTELSE av tidigare läsning (bild 184 rad 10): 'Amerika 16 1/9' står i kolumnerna 9–10 'Inflyttad eller återinförd', inte i utflyttningskolumnen. Raden betyder alltså att han kom TILLBAKA från Amerika den 1 sept 1916; han reste inte ut igen. Utflyttningskolumnen på rad 10 är tom. Han var 'Hem eg son' och dräng i Skog och fick värnpliktsnummer '232 48/1917'. Förloppet: Amerika 18/10 1912, åter i Brunskog 1/9 1916, sedan kvar (gifte sig senare med Gerda Katarina Augustsson).",
+   "BU8: Hänvisningen lyder ordagrant 'pag 67, r. 9' (rad 9, inte 19). A II a/3 sid 67 (bild 75, Bråten) rad 9: 'd. u.ä. Anna Britta Olsson 20 1/1 Brunskog'. Födelseboken 1920 nr 1 har 'Erkänd Fader: Nils Arvid Olofsson Skog Brunskog 96 17/1' och modern Hulda Maria Andersson, Bråten, f. 3/9 1898. Anteckningen 'F.b. 1/9 16' framför hör troligen till inflyttningen 1916 (flyttbetyg?). Erkännandet gjordes vid eller efter barnets födelse 1/1 1920."
   ],
   "sources": [
    {
@@ -25927,6 +25961,18 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 184: Nils Arvid 96 17/1: Amerika 1912 18/10; åter hemma; Amerika 16 1/9; ’Erkänt sig s. far t. barnet’",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909–1920), bild 184 (sid 179, Skog), rad 10: 's. Nils Arvid Olofsson' 'Hem eg son, dräng hos O. Arvid Tälten(?)' 96 17/1; kol. 9–10 (Inflyttad): 'Amerika 16 1/9'; anm. 'F.b. 1/9 16 Erkänt sig s. far t. barnet å pag 67, r. 9'; värnplikt '232 48/1917'; ingen utflyttning",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/3, bild 75 (sid 67, Bråten 1/8 m. skatte): rad 5–9 'Egare Anders Jansson 58 12/6 Gunnarsbyn; H. Britta Kajsa Persdotter 56 5/7 Boda; s. Johan Albin Andersson 87 31/12; d. Hulda Maria 98 3/9; d. u.ä. Anna Britta Olsson 20 1/1 Brunskog'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053598_00075"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/9 (1915–1943), bild 40 (sid 35), 1920 nr 1: född 1 jan 1920 'u.ä. Anna Britta'; 'Erkänd Fader: Nils Arvid Olofsson, Skog Brunskog 96 17/1'; mor 'Hulda Maria Andersson, Bråten 98 3/9'; döpt 13 febr; fadder 'Anders Jansson, Eg. Bråten'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053638_00040"
    }
   ],
   "search": [
@@ -42770,26 +42816,41 @@
  },
  {
   "id": "andrew_haugberg_1861",
-  "name": "Andrew Haugberg (f. 13 jan 1861 Brunskog, USA)",
-  "status": "lead",
+  "name": "Anders Persson / Andrew Haugberg (f. 13 jan 1861 Svartåna, d. 1948 Minneapolis?)",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1861-01-13",
-   "place": "Brunskog, Värmland",
-   "note": "Enligt amerikanskt NUMIDENT-index (ansökan feb 1937)"
+   "place": "Svartåna, Brunskog",
+   "note": "Dopbok Brunskog C I/6 1861 nr 7: född 13, döpt 14 jan; husförhör A I/35: '61 13/1 Svartåna'. NUMIDENT ger samma datum."
   },
   "places": [
-   "USA (ort ej angiven i indexet)"
+   "Svartåna, Brunskog",
+   "Nordamerika 1881(?)",
+   "Minneapolis, Minnesota (lead)"
   ],
   "summary": "Brunskog-född man i USA vars föräldrar anges som Per Olson och Stina Nilson – samma namn som föräldrarna till Olof Persson f. 1873 i Svartåna (d7_olof_persson_svartana_1873). Han kan vara Olofs äldre bror, men det är inte belagt.",
   "notes": [
-   "FAMILYSEARCH NUMIDENT (BU2): 'Andrew Haugberg', född '13 January 1861', födelseort 'Brunskog Ver*, Sweden', Social Program Application Date 'February 1937', föräldrar 'Stina Nilson' och 'Per Olson'. I SCB 1873 står föräldrarna till Olof (f. 27/1 1873, 5:e barnet) som 'Per Olsson och hustrun Stina Nilsdotter, gifta 17 år', alltså gifta ca 1856, så en son född 1861 är möjlig. Patronymikon + föräldranamn räcker inte: kräver Brunskogs dopbok 1861 (C I/5 är digitaliserad t.o.m. 1860, så Brunskog husförhör A I/35–37, Svartåna) för att se om en Anders f. 13/1 1861 finns hos Per Olsson/Stina Nilsdotter."
+   "FAMILYSEARCH NUMIDENT (BU2): 'Andrew Haugberg', född '13 January 1861', födelseort 'Brunskog Ver*, Sweden', Social Program Application Date 'February 1937', föräldrar 'Stina Nilson' och 'Per Olson'. I SCB 1873 står föräldrarna till Olof (f. 27/1 1873, 5:e barnet) som 'Per Olsson och hustrun Stina Nilsdotter, gifta 17 år', alltså gifta ca 1856, så en son född 1861 är möjlig. Patronymikon + föräldranamn räcker inte: kräver Brunskogs dopbok 1861 (C I/5 är digitaliserad t.o.m. 1860, så Brunskog husförhör A I/35–37, Svartåna) för att se om en Anders f. 13/1 1861 finns hos Per Olsson/Stina Nilsdotter.",
+   "BU8: Brunskogs dopbok 1861 nr 7 bekräftar en son Anders f. 13 jan 1861 i Svartåna till 'Inh. Per Olsson, H. Stina Nilsd:r' (modern 30 år, stämmer med f. 1830). Husförhör A I/35 (1881–90) har 'Son Anders 61 13/1 Svartåna' i Per Olssons och Stina Nilsdotters hushåll, tillsammans med Maria 67 och Olof 73, och utflyttningen 'Nordamerika 8[1?] 14/4' (14 april 1881, år kan vara 84). Att svenska Anders är NUMIDENT:s Andrew Haugberg är STRONG: exakt födelsedatum, socken och båda föräldranamnen stämmer, och efternamnet Haugberg är taget i USA. Minneapolis-posterna (d. 28/9 1948, maka Augusta) är lead och knyts till NUMIDENT bara genom namn och år."
   ],
   "sources": [
    {
     "label": "FamilySearch, United States Social Security NUMIDENT 1936–2007: Andrew Haugberg, f. 13 jan 1861 Brunskog, föräldrar Per Olson/Stina Nilson",
     "url": "https://www.familysearch.org/ark:/61903/1:1:6K42-J8S7"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/6 (1861–1874), bild 4, 1861 nr 7: född 13, döpt 14 jan 'Anders' – 'Inh. Per Olsson, H. Stina Nilsd:r', 30 år, Svartåna, husförhör pag 188",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00004"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 256 (fol. 255), Ö. Takene Svartåna: Inhyses Per Olsson, H. Stina Nilsdotter, 'Son Anders 61 13/1 Svartåna' – 'Nordamerika 8[1?] 14/4'; 'Dot. Maria 67 25/4' – 'D:o 8? 26/8'; 'Son Olof 73 27/1'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00256"
+   },
+   {
+    "label": "FamilySearch, Minnesota Deaths 1887–2001 / Find a Grave (lead): Andrew Haugberg, f. 1861 Sverige, d. 28 sept 1948 Minneapolis, maka Augusta, begravd Lakewood Cemetery; 1910 Minneapolis f. 1862 Sverige m. maka Augusta och söner William A och Elmer T; Minneapolis-kataloger 1888–1898",
+    "url": "https://www.familysearch.org/sv/search/record/results?q.surname=Haugberg&q.givenName=Andrew"
    }
   ],
   "search": [
@@ -43064,6 +43125,311 @@
   ],
   "search": [
    "Kari (hustru till Anders La[rs]son, Wikene)"
+  ]
+ },
+ {
+  "id": "bu8_jan_hencel_1844",
+  "name": "Jan Hencel (ca 1844–1849, Niewachłów)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "ca 1844",
+   "place": "",
+   "note": "5 år vid döden mars 1849"
+  },
+  "died": {
+   "date": "1849-03",
+   "place": "Niewachłów (Kielce Katedra)",
+   "note": "dödsakt 1849 nr 115, aktdatum [?] mars 1849 kl. 15; död 'w dniu onegdajszym' (i förrgår) kl. 3"
+  },
+  "places": [
+   "Niewachłów"
+  ],
+  "summary": "Son till Augustyn Hencel och Maryanna z Szreków; dog 5 år gammal 1849. Visar att familjen bodde i Niewachłów redan 1849.",
+  "notes": [
+   "DÖDSAKT Kielce Katedra 1849 nr 115 (polska): '...stawili się Stanisław Gróblewski(?) ... i Antoni Mikołajczyk(?) włościanie obadwaj po czterdzieści lat liczący w Niewachłowie zamieszkali i oświadczyli iż w dniu onegdajszym o godzinie trzeciej rano tamże zmarł Jan Hentzel pięć lat mający syn Augustyna i Maryanny z Szreków rolników w Niewachłowie zamieszkałych.' Index 1849 SkZ-2: 'Hentzel Jan 115'."
+  ],
+  "sources": [
+   {
+    "label": "Skanoteka PTG, Kielce Katedra (id57) dödsbok 1849 (sy1849c), fil 115-117.jpg, akt 115: Jan Hentzel, 5 år, son till Augustyn och Maryanna z Szreków, Niewachłów",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1849c&kt=1&plik=115-117.jpg"
+   },
+   {
+    "label": "Skanoteka, Kielce Katedra dödsindex 1849 SkZ-2: 'Hentzel Jan 115'",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1849c&kt=1&plik=SkZ-2.jpg"
+   }
+  ],
+  "search": [
+   "Jan Hencel (ca 1844–1849, Niewachłów)"
+  ]
+ },
+ {
+  "id": "bu8_maria_persdotter_1867",
+  "name": "Maria Persdotter (f. 25 apr 1867, Svartåna)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1867-04-25",
+   "place": "Svartåna, Brunskog",
+   "note": "A I/35: '67 25/4 D:o'"
+  },
+  "places": [
+   "Svartåna",
+   "Nordamerika (188?)"
+  ],
+  "summary": "Dotter till Per Olsson och Stina Nilsdotter, Svartåna; syster till Anders (Andrew Haugberg) och Olof. Utflyttad Nordamerika 188? (26/8).",
+  "notes": [
+   "HUSFÖRHÖR A I/35 bild 256: 'Dot. Maria 67 25/4 D:o' (överstruken), utflyttning 'D:o [Nordamerika] 8? 26/8'."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 256 (fol. 255), Ö. Takene Svartåna: Inhyses Per Olsson, H. Stina Nilsdotter, 'Son Anders 61 13/1 Svartåna' – 'Nordamerika 8[1?] 14/4'; 'Dot. Maria 67 25/4' – 'D:o 8? 26/8'; 'Son Olof 73 27/1'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00256"
+   }
+  ],
+  "search": [
+   "Maria Persdotter (f. 25 apr 1867, Svartåna)"
+  ]
+ },
+ {
+  "id": "bu8_anders_andersson_norstrom_1844",
+  "name": "Anders Andersson Norström (f. 26 sept 1844, Svartåna)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1844-09-26",
+   "place": "Svartåna, Brunskog",
+   "note": "A I/35: '44 26/9 Svartåna'"
+  },
+  "places": [
+   "Svartåna, Brunskog",
+   "Nolby, Brunskog (1874)",
+   "Sprängsvikens ångsåg, Gudmundrå (1885–1890)"
+  ],
+  "summary": "Inhyses/arbetare; gift ca 1871 med Maria Kajsa Nilsdotter (August Nilssons syster). Far till Anton Norström (Nordstrom). Flyttade till Härnösand/Gudmundrå 1885 och kallas 1890 'Andersson Norström'.",
+  "notes": [
+   "A I/35 bild 253: 'Inhyses Anders Andersson 44 26/9 Svartåna' med H. Maria Kajsa Nilsdotter; anm. 'Vistas i Ångermanland vid Sågverk', utflyttad 'Hernösand 85'.",
+   "FOLKRÄKNING 1890 Gudmundrå, Sprängsvikens Ångsåg: 'Andersson Norström, Anders, f. 1844 i Brunskog, Arbetare' med sönerna Anton 1874 och Nils 1879 (hustrun finns inte med i hushållet 1890)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 253, Ö. Takene Svartåna: 'Inhyses Anders Andersson 44 26/9 Svartåna; H. Maria Kajsa Nilsdotter 49 2/2 Talken; Dot. Betty 71 12/8 Svartåna; Son Anton 74 9/2 Nolby; [Son] Nils 79 11/10 D:o' – 'Vistas i Ångermanland vid Sågverk', utflyttade 'Hernösand 85'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00253"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Svartåna, sida 33 (Folk_120423468): Andersson, Anders f. 1844 Brunskog, inhyses; Nilsdotter, Maria Kajsa f. 1849 Brunskog; Betty 1871; Anton 1874 (s.); Nils 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_120423468"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Gudmundrå (Västernorrland), Sprängsvikens Ångsåg, sida 82 (Folk_104516865): 'Andersson Norström, Anders, f. 1844 i Brunskog, Arbetare'; Anton f. 1874 Brunskog (s.); Nils f. 1879 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_104516865"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/6, bild 154, 1874 nr 8: född 9, döpt 10 febr 'Anton' – 'Handtlangaren(?) Anders Andersson och h. Maria Kajsa Nilsdotter, gifte 2½ år', Nolby, mor 25 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00154"
+   }
+  ],
+  "search": [
+   "Anders Andersson Norström (f. 26 sept 1844, Svartåna)"
+  ]
+ },
+ {
+  "id": "bu8_betty_andersdotter_1871",
+  "name": "Betty Andersdotter (f. 12 aug 1871, Svartåna)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1871-08-12",
+   "place": "Svartåna, Brunskog",
+   "note": "A I/35: 'Dot. Betty 71 12/8 Svartåna'"
+  },
+  "places": [
+   "Svartåna",
+   "Härnösand/Gudmundrå 1885"
+  ],
+  "summary": "Dotter till Anders Andersson (Norström) och Maria Kajsa Nilsdotter; syster till Anton Norström.",
+  "notes": [
+   "A I/35 bild 253: 'Dot. Betty 71 12/8 Svartåna'. Folkräkning 1880 Svartåna: 'Betty, f. 1871'."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 253, Ö. Takene Svartåna: 'Inhyses Anders Andersson 44 26/9 Svartåna; H. Maria Kajsa Nilsdotter 49 2/2 Talken; Dot. Betty 71 12/8 Svartåna; Son Anton 74 9/2 Nolby; [Son] Nils 79 11/10 D:o' – 'Vistas i Ångermanland vid Sågverk', utflyttade 'Hernösand 85'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00253"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Svartåna, sida 33 (Folk_120423468): Andersson, Anders f. 1844 Brunskog, inhyses; Nilsdotter, Maria Kajsa f. 1849 Brunskog; Betty 1871; Anton 1874 (s.); Nils 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_120423468"
+   }
+  ],
+  "search": [
+   "Betty Andersdotter (f. 12 aug 1871, Svartåna)"
+  ]
+ },
+ {
+  "id": "bu8_nils_andersson_norstrom_1879",
+  "name": "Nils Andersson Norström (f. 11 okt 1879, Nolby)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1879-10-11",
+   "place": "Brunskog",
+   "note": "A I/35: '79 11/10 D:o' (Nolby)"
+  },
+  "places": [
+   "Svartåna",
+   "Sprängsviken, Gudmundrå 1890"
+  ],
+  "summary": "Son till Anders Andersson (Norström) och Maria Kajsa Nilsdotter; bror till Anton.",
+  "notes": [
+   "A I/35 bild 253; folkräkning 1880 (Nils 1879) och 1890 Gudmundrå (Nils f. 1879 Brunskog, s.)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), bild 253, Ö. Takene Svartåna: 'Inhyses Anders Andersson 44 26/9 Svartåna; H. Maria Kajsa Nilsdotter 49 2/2 Talken; Dot. Betty 71 12/8 Svartåna; Son Anton 74 9/2 Nolby; [Son] Nils 79 11/10 D:o' – 'Vistas i Ångermanland vid Sågverk', utflyttade 'Hernösand 85'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00253"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Brunskog, Svartåna, sida 33 (Folk_120423468): Andersson, Anders f. 1844 Brunskog, inhyses; Nilsdotter, Maria Kajsa f. 1849 Brunskog; Betty 1871; Anton 1874 (s.); Nils 1879",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_120423468"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Gudmundrå (Västernorrland), Sprängsvikens Ångsåg, sida 82 (Folk_104516865): 'Andersson Norström, Anders, f. 1844 i Brunskog, Arbetare'; Anton f. 1874 Brunskog (s.); Nils f. 1879 Brunskog",
+    "url": "https://sok.riksarkivet.se/folkrakningar?postid=Folk_104516865"
+   }
+  ],
+  "search": [
+   "Nils Andersson Norström (f. 11 okt 1879, Nolby)"
+  ]
+ },
+ {
+  "id": "bu8_nils_fredrik_nilsson_1861",
+  "name": "Nils Fredrik Nilsson (f. 18 jan 1861, Svartåna)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1861-01-18",
+   "place": "Svartåna, Brunskog",
+   "note": "Dop C I/6 1861 nr 8: född 18, döpt 20 jan"
+  },
+  "places": [
+   "Svartåna"
+  ],
+  "summary": "Son till Nils Jansson och Britta Olsdotter; yngre bror till August Nilsson.",
+  "notes": [
+   "DOP Brunskog 1861 nr 8 (bild 4): '18 | 20 | Nils Fredrik | B. Nils Jansson, H. Britta Olsd:r | 181 Svartåna' (mor 34 år). A I/31 bild 225: 'S. Nils Fredrik Nilsson 61 18/1 d:o'."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog C I/6, bild 4, 1861 nr 8: Nils Fredrik – B. Nils Jansson, H. Britta Olsd:r, Svartåna",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00004"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/31 (1866–1870), bild 225 (fol. 234), Ö. Takene Svartåna, Nystuga: 'Enk. Britta Olsd. 26 1/9 Ö. Takene' (enka 30/12 65); 'D. Maria Kajsa Nilsd. 49 2/2 Talken; S. Johan Nilsson 51 ?/12 d:o; S. August Nilsson 55 22/4 Svartåna; S. Nils Fredrik Nilsson 61 18/1 d:o; D. Anna Charlotta Nilsd. 65 7/11 d:o'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00225"
+   }
+  ],
+  "search": [
+   "Nils Fredrik Nilsson (f. 18 jan 1861, Svartåna)"
+  ]
+ },
+ {
+  "id": "bu8_anna_charlotta_nilsdotter_1865",
+  "name": "Anna Charlotta Nilsdotter (f. 7 nov 1865, Svartåna)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1865-11-07",
+   "place": "Svartåna, Brunskog",
+   "note": "A I/31: '65 7/11 d:o'"
+  },
+  "places": [
+   "Svartåna"
+  ],
+  "summary": "Yngsta barnet till Nils Jansson och Britta Olsdotter, född strax före faderns död (Britta änka 30/12 1865). Inte samma som systern Anna Charlotta f. 1858 (d. 1859?).",
+  "notes": [
+   "A I/31 bild 225: 'D. Anna Charlotta Nilsd. 65 7/11 d:o' under 'Enk. Britta Olsd.' (änka 30/12 65)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/31 (1866–1870), bild 225 (fol. 234), Ö. Takene Svartåna, Nystuga: 'Enk. Britta Olsd. 26 1/9 Ö. Takene' (enka 30/12 65); 'D. Maria Kajsa Nilsd. 49 2/2 Talken; S. Johan Nilsson 51 ?/12 d:o; S. August Nilsson 55 22/4 Svartåna; S. Nils Fredrik Nilsson 61 18/1 d:o; D. Anna Charlotta Nilsd. 65 7/11 d:o'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036770_00225"
+   }
+  ],
+  "search": [
+   "Anna Charlotta Nilsdotter (f. 7 nov 1865, Svartåna)"
+  ]
+ },
+ {
+  "id": "bu8_anna_britta_olsson_1920",
+  "name": "Anna Britta Olsson (f. 1 jan 1920, Bråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1920-01-01",
+   "place": "Bråten, Brunskog",
+   "note": "Födelsebok C I/9 1920 nr 1; döpt 13 febr 1920"
+  },
+  "places": [
+   "Bråten, Brunskog"
+  ],
+  "summary": "Utomäktenskaplig dotter till Hulda Maria Andersson (f. 1898, Bråten). Nils Arvid Olofsson (f. 1896, Skog) erkände sig som far.",
+  "notes": [
+   "FÖDELSEBOK Brunskog C I/9, 1920 nr 1 (bild 40, sid 35): 'Jan 1 | 1 | u.ä. Anna Britta'; 'Erkänd Fader: Nils Arvid Olofsson Skog Brunskog 96 17/1'; mor 'Hulda Maria Andersson Bråten 98 3/9'; döpt 13 febr; fadder 'Anders Jansson, Eg. Bråten'.",
+   "FÖRSAMLINGSBOK A II a/3 bild 75 (sid 67, Bråten) rad 9: 'd. u.ä. Anna Britta Olsson 20 1/1 Brunskog' (dotterns oäkta barn) i Anders Janssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog C I/9 (1915–1943), bild 40 (sid 35), 1920 nr 1: född 1 jan 1920 'u.ä. Anna Britta'; 'Erkänd Fader: Nils Arvid Olofsson, Skog Brunskog 96 17/1'; mor 'Hulda Maria Andersson, Bråten 98 3/9'; döpt 13 febr; fadder 'Anders Jansson, Eg. Bråten'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053638_00040"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/3, bild 75 (sid 67, Bråten 1/8 m. skatte): rad 5–9 'Egare Anders Jansson 58 12/6 Gunnarsbyn; H. Britta Kajsa Persdotter 56 5/7 Boda; s. Johan Albin Andersson 87 31/12; d. Hulda Maria 98 3/9; d. u.ä. Anna Britta Olsson 20 1/1 Brunskog'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053598_00075"
+   }
+  ],
+  "search": [
+   "Anna Britta Olsson (f. 1 jan 1920, Bråten)"
+  ]
+ },
+ {
+  "id": "bu8_hulda_maria_andersson_1898",
+  "name": "Hulda Maria Andersson (f. 3 sept 1898, Bråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1898-09-03",
+   "place": "Brunskog",
+   "note": "A II a/3: '98 3/9'"
+  },
+  "places": [
+   "Bråten, Brunskog"
+  ],
+  "summary": "Dotter till egaren Anders Jansson (f. 1858 Gunnarsbyn) och Britta Kajsa Persdotter (f. 1856 Boda), Bråten. Mor till Anna Britta f. 1920 (erkänd far Nils Arvid Olofsson).",
+  "notes": [
+   "A II a/3 bild 75 (sid 67): 'Egare Anders Jansson 58 12/6 Gunnarsbyn; H. Britta Kajsa Persdotter 56 5/7 Boda; s. Johan Albin Andersson 87 31/12; d. Hulda Maria 98 3/9; d. u.ä. Anna Britta Olsson 20 1/1'.",
+   "Föräldrarna Anders Jansson och Britta Kajsa Persdotter har inte lagts in som egna personer (ingen dubblettkontroll gjord mot andersjansson f. 1834 eller anders_jan77)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/3, bild 75 (sid 67, Bråten 1/8 m. skatte): rad 5–9 'Egare Anders Jansson 58 12/6 Gunnarsbyn; H. Britta Kajsa Persdotter 56 5/7 Boda; s. Johan Albin Andersson 87 31/12; d. Hulda Maria 98 3/9; d. u.ä. Anna Britta Olsson 20 1/1 Brunskog'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053598_00075"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/9 (1915–1943), bild 40 (sid 35), 1920 nr 1: född 1 jan 1920 'u.ä. Anna Britta'; 'Erkänd Fader: Nils Arvid Olofsson, Skog Brunskog 96 17/1'; mor 'Hulda Maria Andersson, Bråten 98 3/9'; döpt 13 febr; fadder 'Anders Jansson, Eg. Bråten'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053638_00040"
+   }
+  ],
+  "search": [
+   "Hulda Maria Andersson (f. 3 sept 1898, Bråten)"
   ]
  }
 ]

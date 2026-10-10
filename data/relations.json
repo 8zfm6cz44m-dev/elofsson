@@ -5677,17 +5677,6 @@
   "basis": "Boda E I/2 bild 49 (s. 73), begrafne 1795 nr 18: ”Pigan Kari Nilsd. Boda … af Vll. Nils arneson och h. Kari Anders…” – samma föräldranamn som dopboken 1796 (C I/2 bild 165); ej enda möjliga Nils Arnesson men samma socken. VERIFIERAD (omgång 24): Dödbok Boda (C0036597_00049, s. 73), Begrafne 1795, 1 nov nr 18 (https://sok.riksarkivet.se/bildvisning/C0036597_00049): ”Pigan Kari Nilsd. i Boda, född 1778 25/12 af Vll. Nils arneson och H. Kari Anders[d]. [död] af feber 14 Oct.” 16 år 10 mån. Dopboken C I/2 bild 116 (C0036593_00116, s. 215) har en Boda-post 25 dec 1778 nr 35 (föräldrar där ej läsbara). Född 25/12 1778."
  },
  {
-  "id": "c-augustyn_hencel-maryanna_hencel-hencel_agnieszka_1847",
-  "type": "child",
-  "parents": [
-   "augustyn_hencel",
-   "maryanna_hencel"
-  ],
-  "child": "hencel_agnieszka_1847",
-  "status": "verified",
-  "basis": "Katedra 1847 akt 34: \"Augustyn Hencel ... z jego małżonki Maryanny z Szreków ... imię Agnieszka\" (skan 029-036). VERIFIERAD (omgång 24): Kielce Katedra födelseakter 1847 akt 34 (skan 029-036): ”Stawił się Augustyn Hencel rolnik lat dwadzieścia sześć mający we Wsi Czarnów zamieszkały … dziecię płci żeńskiej które się urodziło dnia wczorajszego o godzinie dziewiątej wieczór z jego małżonki Maryanny z Szreków lat dwadzieścia … imię Agnieszka” (aktdatum 26.1.1847, född 25.1.1847, Czarnów)."
- },
- {
   "id": "c-augustyn_hencel-maryanna_hencel-hencel_franciszek_marcel_1850",
   "type": "child",
   "parents": [
@@ -5699,9 +5688,9 @@
   "basis": "Katedra 1850 akt 408 (skan 406-415). VERIFIERAD (omgång 24): Kielce Katedra födelseakter 1850 akt 408 (skan 406-415, förstoring): ”Działo się w Kielcach dnia dziewiątego tego Września … tysiąc ośmset piędziesiątego roku … Stawił się Augustyn Hencel lat [30?] … rolnik … zamieszkały … i okazał nam dziecię płci męskiej … z małżonki jego Maryanny z Szreków lat dwadzieścia trzy mającej … imię Franciszek Marceli” (gudfar Michał Haslinger). Bostadsort och exakt födelsedag ej säkert läst (aktdatum 9 sept 1850); moderns namn och ålder stämmer med 1847 års akt."
  },
  {
-  "id": "s-hencel_agnieszka_1847-hencel_franciszek_marcel_1850",
+  "id": "s-agnieszka_orzechowska_1849-hencel_franciszek_marcel_1850",
   "type": "sibling",
-  "a": "hencel_agnieszka_1847",
+  "a": "agnieszka_orzechowska_1849",
   "b": "hencel_franciszek_marcel_1850",
   "status": "verified",
   "basis": "Samma föräldranamn Augustyn Hencel + Maryanna z Szreków 1847 och 1850. VERIFIERAD (omgång 24): bägge syskonen har verifierad barnrelation till samma förälder."
@@ -5715,16 +5704,6 @@
   "child": "augustyn_hencel",
   "status": "verified",
   "basis": "Akt 369/1820: far Jan Hencel, Niewachłów (skan 1820a 369-375) VERIFIERAD (omgång 24): (1) Födelseakt Kielce Katedra 1820 akt 369 (fil 369-375.jpg, omläst): «...stawił się Jan Hentel lat czterdzieści pięć mający, Mayster konsztu Ciesielskiego (osäker: hantverk = timmerman), we Wsi Niewachłów zamieszkały, i okazał nam Dziecię płci męskiej, które urodziło się dnia pierwszego (osäker) miesiąca ... o godzinie trzeciej po południu ... spłodzone z niego i Tekli z Piotrowskich lat trzydzieści mającej jego Małżonki ... nadać mu Imię Augustyn». (2) Vigselakt 1841 akt 148 (26 nov 1841, sy1841b fil 148-150.jpg): «Augustynem Hentzel [Hencel] lat dwadzieścia jeden mającym gospodarzem młodzianem w Niewachłowie zamieszkałym i urodzonym z nieżyjącego Jana i Tekli z Piotrowskich żyjącej» (21 år 1841 = f. 1820). Barnet f. 1820 Niewachłów, far Jan Hencel: stämmer. Modern = Tekla z Piotrowskich (nytt). URL https://metryki.genealodzy.pl/index.php?op=pg&id=57&sy=1820a&kt=1&plik=369-375.jpg och ...sy=1841b&kt=1&plik=148-150.jpg"
- },
- {
-  "id": "c-augustyn_hencel-hencel_agnieszka_1847",
-  "type": "child",
-  "parents": [
-   "augustyn_hencel"
-  ],
-  "child": "hencel_agnieszka_1847",
-  "status": "verified",
-  "basis": "Augustyn Hencel (id augustyn_hencel) = Augustyn f. 1820? Ej bekräftat. VERIFIERAD (omgång 24): Dopakt 1847 akt 34 (fil 029-036): Augustyn Hencel (26 år, Czarnów) + Maryanna z Szreków -> Agnieszka (redan verifierad i systerrelationen med båda föräldrar; denna är dubbletten med enbart far). IDENTITETEN Augustyn (f. 1820 Niewachłów, son till Jan) = Agnieszkas far är nu avgjord: vigselakt Kielce Katedra 1841 akt 148 (26 nov 1841, fil 148-150.jpg): «Augustynem Hentzel lat dwadzieścia jeden ... w Niewachłowie zamieszkałym i urodzonym z nieżyjącego Jana i Tekli z Piotrowskich żyjącej; a Maryanną z Szrekow lat siedemnaście mającą panną przy rodzicach w Niewachłowie zamieszkałą i urodzoną z Mikołaja i Małgorzaty z Jaworskich». Hustrun Maryanna z Szreków = samma kvinna som i barnens dopakter 1847 (akt 34) och 1850 (akt 408) och i födelseakt 1858 akt 257 («Augustyn Hencel Kolonista lat czterdzieści ... Niewachłów ... z jego Małżonki Maryanny z Szreków lat trzydzieści ... Stanisław Józef»). Ålder 21 år 1841 -> 26 år 1847 stämmer exakt. Marriage-index 1841 sy1841b SkM-2: «Hencel Augustyn z Maryanną Szrekow ... 148»."
  },
  {
   "id": "c-fr_andersnilsson1710_lene-fr_maritbryngelsd_lene-fr_jonasandersson_lene",
@@ -13082,5 +13061,120 @@
   "b": "kari_wikene_1720",
   "status": "candidate",
   "basis": "F I/1 bild 44 (1793): ”Bonden Anders La[rs]son och h. Kari” som föräldrar till Anders Andersson."
+ },
+ {
+  "id": "c-augustyn_hencel-maryanna_hencel-bu8_jan_hencel_1844",
+  "type": "child",
+  "parents": [
+   "augustyn_hencel",
+   "maryanna_hencel"
+  ],
+  "child": "bu8_jan_hencel_1844",
+  "status": "verified",
+  "basis": "Katedra dödsakt 1849 nr 115: 'zmarł Jan Hentzel pięć lat mający syn Augustyna i Maryanny z Szreków rolników w Niewachłowie zamieszkałych'."
+ },
+ {
+  "id": "c-as1_per_olofsson_1824_svartana-as1_stina_nilsdotter_1830_svartana-andrew_haugberg_1861",
+  "type": "child",
+  "parents": [
+   "as1_per_olofsson_1824_svartana",
+   "as1_stina_nilsdotter_1830_svartana"
+  ],
+  "child": "andrew_haugberg_1861",
+  "status": "strong",
+  "basis": "Dop Brunskog C I/6 1861 nr 7 (bild 4): '13 | 14 | Anders | Inh. Per Olsson, H. Stina Nilsd:r [30] | 188 Svartåna'; A I/35 bild 256: Per Olsson/Stina Nilsdotter, 'Son Anders 61 13/1 Svartåna – Nordamerika 8? 14/4'. Svenska Anders är son (verified); strong eftersom id:t avser USA-personen Andrew Haugberg (identitet via NUMIDENT: samma datum och föräldrar)."
+ },
+ {
+  "id": "s-andrew_haugberg_1861-d7_olof_persson_svartana_1873",
+  "type": "sibling",
+  "a": "andrew_haugberg_1861",
+  "b": "d7_olof_persson_svartana_1873",
+  "status": "strong",
+  "basis": "Båda i Per Olssons och Stina Nilsdotters hushåll i A I/35 bild 256 (Son Anders 61 13/1, Son Olof 73 27/1); strong av samma skäl som barnrelationen."
+ },
+ {
+  "id": "c-as1_per_olofsson_1824_svartana-as1_stina_nilsdotter_1830_svartana-bu8_maria_persdotter_1867",
+  "type": "child",
+  "parents": [
+   "as1_per_olofsson_1824_svartana",
+   "as1_stina_nilsdotter_1830_svartana"
+  ],
+  "child": "bu8_maria_persdotter_1867",
+  "status": "verified",
+  "basis": "A I/35 bild 256: 'Dot. Maria 67 25/4' i hushållet Inhyses Per Olsson / H. Stina Nilsdotter."
+ },
+ {
+  "id": "p-bu8_anders_andersson_norstrom_1844-maria_cajsa_nilsdotter_1849",
+  "type": "partner",
+  "a": "bu8_anders_andersson_norstrom_1844",
+  "b": "maria_cajsa_nilsdotter_1849",
+  "status": "verified",
+  "basis": "Dop 1874 nr 8: 'Anders Andersson och h. Maria Kajsa Nilsdotter, gifte 2½ år'; A I/35 bild 253 'Inhyses Anders Andersson … H. Maria Kajsa Nilsdotter 49 2/2 Talken'; folkräkning 1880 Svartåna."
+ },
+ {
+  "id": "c-bu8_anders_andersson_norstrom_1844-maria_cajsa_nilsdotter_1849-anton_winnipeg_cousin",
+  "type": "child",
+  "parents": [
+   "bu8_anders_andersson_norstrom_1844",
+   "maria_cajsa_nilsdotter_1849"
+  ],
+  "child": "anton_winnipeg_cousin",
+  "status": "strong",
+  "basis": "Svenska Anton är verifierat son: dop Brunskog 1874 nr 8 (bild 154) 'Anton', föräldrar Anders Andersson och Maria Kajsa Nilsdotter; A I/35 bild 253 'Son Anton 74 9/2 Nolby'; folkräkning 1880 (s.) och 1890 Gudmundrå (s. till Anders Andersson Norström). Strong eftersom id:t avser Winnipeg-Anton, och identiteten bygger på Gudmundrå B I/3 1893 nr 22 'Arb. Anton Norström f. 74 … N. America' (18/3 1893), avresan från Liverpool 27/4 1893 (Anton Nordstrom 19 år) och kanadensiska folkräkningar (f. 1874 Sverige)."
+ },
+ {
+  "id": "c-bu8_anders_andersson_norstrom_1844-maria_cajsa_nilsdotter_1849-bu8_betty_andersdotter_1871",
+  "type": "child",
+  "parents": [
+   "bu8_anders_andersson_norstrom_1844",
+   "maria_cajsa_nilsdotter_1849"
+  ],
+  "child": "bu8_betty_andersdotter_1871",
+  "status": "verified",
+  "basis": "A I/35 bild 253 'Dot. Betty 71 12/8 Svartåna' i hushållet Anders Andersson/Maria Kajsa Nilsdotter; folkräkning 1880."
+ },
+ {
+  "id": "c-bu8_anders_andersson_norstrom_1844-maria_cajsa_nilsdotter_1849-bu8_nils_andersson_norstrom_1879",
+  "type": "child",
+  "parents": [
+   "bu8_anders_andersson_norstrom_1844",
+   "maria_cajsa_nilsdotter_1849"
+  ],
+  "child": "bu8_nils_andersson_norstrom_1879",
+  "status": "verified",
+  "basis": "A I/35 bild 253 '[Son] Nils 79 11/10'; folkräkning 1880 och 1890 (s.)."
+ },
+ {
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-bu8_nils_fredrik_nilsson_1861",
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "bu8_nils_fredrik_nilsson_1861",
+  "status": "verified",
+  "basis": "Dop 1861 nr 8 'B. Nils Jansson, H. Britta Olsd:r'; A I/31 bild 225: barn under 'Enk. Britta Olsd.' tillsammans med Maria Kajsa, Johan och August Nilsson."
+ },
+ {
+  "id": "c-nils_jansson_svartana-britta_olsdotter_svartana-bu8_anna_charlotta_nilsdotter_1865",
+  "type": "child",
+  "parents": [
+   "nils_jansson_svartana",
+   "britta_olsdotter_svartana"
+  ],
+  "child": "bu8_anna_charlotta_nilsdotter_1865",
+  "status": "verified",
+  "basis": "A I/31 bild 225: barn under 'Enk. Britta Olsd.' tillsammans med Maria Kajsa, Johan och August Nilsson."
+ },
+ {
+  "id": "c-ol_nils_arvid_1896-bu8_hulda_maria_andersson_1898-bu8_anna_britta_olsson_1920",
+  "type": "child",
+  "parents": [
+   "ol_nils_arvid_1896",
+   "bu8_hulda_maria_andersson_1898"
+  ],
+  "child": "bu8_anna_britta_olsson_1920",
+  "status": "verified",
+  "basis": "Födelsebok C I/9 1920 nr 1: 'u.ä. Anna Britta', 'Erkänd Fader: Nils Arvid Olofsson Skog Brunskog 96 17/1', mor 'Hulda Maria Andersson Bråten 98 3/9'; A II a/3 bild 184 anm. 'Erkänt sig s. far t. barnet å pag 67, r. 9' = A II a/3 sid 67 rad 9 'd. u.ä. Anna Britta Olsson 20 1/1'."
  }
 ]
