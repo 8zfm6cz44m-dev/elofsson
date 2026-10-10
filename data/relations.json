@@ -13916,5 +13916,119 @@
   "b": "antonina_orzechowska_1871",
   "status": "verified",
   "basis": "Vigselakt Kielce Katedra 1889 akt 22 (bildläst): Antoni Wach, 20, × Antonina Orzechowska, 18, Niewachlów, 'дочерью покойнаго Михала и Агнешки Хендзель супруговъ Оржеховскихъ'"
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-pl4_maryanna_zatorska_1865",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "pl4_maryanna_zatorska_1865",
+  "status": "verified",
+  "basis": "Katedra 1865 akt 441: 'Józef [Zatorski] Gospodarz lat dwadzieścia trzy ... w Szydłowku ... z Jego Małżonki Antoniny z Kselów lat dwadzieścia sześć' – fil 436-445.jpg"
+ },
+ {
+  "id": "s-katarzyna_zatorska-pl4_maryanna_zatorska_1865",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "pl4_maryanna_zatorska_1865",
+  "status": "verified",
+  "basis": "Samma föräldrar Józef Zatorski + Antonina z Ksiołów/Kselów, Szydłówek (akt 441/1865 och 550/1871)"
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-pl4_franciszka_zatorska_1873",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "pl4_franciszka_zatorska_1873",
+  "status": "verified",
+  "basis": "Katedra 1873 akt 636: 'Іосифъ Заторскій (Zatorski) тридцати одного года ... отъ жены его Антонины урожденной Ксель тридцати пяти лѣтъ', Szydłówek"
+ },
+ {
+  "id": "s-katarzyna_zatorska-pl4_franciszka_zatorska_1873",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "pl4_franciszka_zatorska_1873",
+  "status": "verified",
+  "basis": "Samma föräldrar (akt 550/1871 och 636/1873)"
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-pl4_izydor_zatorski_1876",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "pl4_izydor_zatorski_1876",
+  "status": "verified",
+  "basis": "Katedra 1876 akt 252: 'Іозефъ Заторскій (Zatorski) тридцати шести лѣтъ ... отъ жены его Антонины урожденной Ксель тридцати семи лѣтъ', Szydłówek"
+ },
+ {
+  "id": "s-katarzyna_zatorska-pl4_izydor_zatorski_1876",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "pl4_izydor_zatorski_1876",
+  "status": "verified",
+  "basis": "Samma föräldrar (akt 550/1871 och 252/1876)"
+ },
+ {
+  "id": "c-jozef_zatorski-antonina_zatorska_n-pl4_anna_zatorska_1877",
+  "type": "child",
+  "parents": [
+   "jozef_zatorski",
+   "antonina_zatorska_n"
+  ],
+  "child": "pl4_anna_zatorska_1877",
+  "status": "verified",
+  "basis": "Katedra 1877 akt 383: 'Юзефъ Заторскій (Zatorski) тридцати восьми лѣтъ ... отъ жены его Антонины урожденной Ксель тридцати девяти лѣтъ', Szydłówek"
+ },
+ {
+  "id": "s-katarzyna_zatorska-pl4_anna_zatorska_1877",
+  "type": "sibling",
+  "a": "katarzyna_zatorska",
+  "b": "pl4_anna_zatorska_1877",
+  "status": "verified",
+  "basis": "Samma föräldrar (akt 550/1871 och 383/1877)"
+ },
+ {
+  "id": "c-hencel_jan_1820-tekla_hencel_mor-pl4_andrzej_hencel_1818",
+  "type": "child",
+  "parents": [
+   "hencel_jan_1820",
+   "tekla_hencel_mor"
+  ],
+  "child": "pl4_andrzej_hencel_1818",
+  "status": "strong",
+  "basis": "Katedra 1818 akt 361: 'Efraim Hentschel Mayster konsztu Ciesielskiego lat czterdzieści cztery ... we Wsi Niewachłowie ... z niego i Tekli z Skrzyńskich lat dwadzieścia siedem'. Modern, by, yrke (mästare i Ciesielski-yrket), ålder (44 år 1818 / 45 år 1820) och vittnet Melchior Freind (även i akt 369/1820) stämmer med Jan Hentel i akt 369/1820; endast faderns förnamn (Efraim vs Jan) avviker – därför strong, ej verified."
+ },
+ {
+  "id": "s-augustyn_hencel-pl4_andrzej_hencel_1818",
+  "type": "sibling",
+  "a": "augustyn_hencel",
+  "b": "pl4_andrzej_hencel_1818",
+  "status": "strong",
+  "basis": "Samma mor Tekla z Skrzyńskich, samma hushåll i Niewachłów (akt 361/1818, 369/1820)"
+ },
+ {
+  "id": "c-hencel_jan_1820-tekla_hencel_mor-pl4_michal_hencel_1822",
+  "type": "child",
+  "parents": [
+   "hencel_jan_1820",
+   "tekla_hencel_mor"
+  ],
+  "child": "pl4_michal_hencel_1822",
+  "status": "strong",
+  "basis": "Katedra 1822 akt 380: 'Efraim Hentchel ... lat czterdzieści ośm Mayster Fabryczny we Wsi Niewachłowie ... z niego i Tekli z Skrzyńskich lat trzydzieści'. Mor, by och ålder stämmer med Jan Hentel (45 år 1820, hustru Tekla); förnamnet Efraim avviker (som 1818) – strong."
+ },
+ {
+  "id": "s-augustyn_hencel-pl4_michal_hencel_1822",
+  "type": "sibling",
+  "a": "augustyn_hencel",
+  "b": "pl4_michal_hencel_1822",
+  "status": "strong",
+  "basis": "Samma mor Tekla z Skrzyńskich, Niewachłów (akt 369/1820, 380/1822)"
  }
 ]
