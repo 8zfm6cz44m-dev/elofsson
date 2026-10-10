@@ -13590,5 +13590,33 @@
   "child": "janek_orzechowski",
   "status": "family",
   "basis": "Ywonne 2026-10-10: morfar (Stefan) gifte om sig efter att mormor (Zofia) dog och de två fick Janek. Hustruns namn Stanisława Smuga kommer från Geneteka-index för vigseln 1934 (strong), inte från familjen."
+ },
+ {
+  "id": "c-olof_nilsson_10-mattes_olufsson_1697",
+  "type": "child",
+  "parents": [
+   "olof_nilsson_10"
+  ],
+  "child": "mattes_olufsson_1697",
+  "status": "verified",
+  "basis": "C I/1 bild 46 hö (1697): ”Dnca 2d. post Paschae. Oluf Nilssons barn i Ö. Takene s. Mattes”. Mantalet 1694–1696 har bara en Olof Nilsson i Öst. Takene. (Om olof_nilsson_10 = Ingrids far är fortfarande MyHeritage/candidate.)"
+ },
+ {
+  "id": "s-al5_karin_olofsd95-mattes_olufsson_1697",
+  "type": "sibling",
+  "a": "al5_karin_olofsd95",
+  "b": "mattes_olufsson_1697",
+  "status": "strong",
+  "basis": "Båda döpta som ”Oluf Nilssons barn i Ö. Takene” (C I/1 bild 42 vä 1695, bild 46 hö 1697); endast en Olof Nilsson i Öst. Takene i mantalet 1694–1696. Modern nämns inte."
+ },
+ {
+  "id": "c-olof_nilsson_10-karin_olofsd_toltan",
+  "type": "child",
+  "parents": [
+   "olof_nilsson_10"
+  ],
+  "child": "karin_olofsd_toltan",
+  "status": "candidate",
+  "basis": "Vigsel E I/1 bild 32 hö (1716): ”Pig. Karin Olufsdotter i Ö: Takene” g.m. Per Nilsson; trolig identitet med Karin döpt 1695 som ”Oluf Nilssons barn i Ö. Takene” (bild 42) – namn, by och ålder (21 år) stämmer, Per Nilsson står i Ö. Takene-mantalet 1718–1720. Ingen källa säger uttryckligen att bruden är Oluf Nilssons dotter."
  }
 ]
