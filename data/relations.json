@@ -4553,8 +4553,8 @@
   "type": "sibling",
   "a": "karin_elofsd35",
   "b": "maria_elofsd31_toltan",
-  "status": "lead",
-  "basis": "Endast samma patronymikon och samma gård (Toltan) i Brunskog A I/2 bild 159; ingen källa anger släktskap."
+  "status": "candidate",
+  "basis": "Båda döttrar till Elof Ersson och Maria Olofsdotter i Persjön enligt Älvsbacka C/1 bild 10 (1731) och bild 17 (1735), förutsatt att identifieringarna håller."
  },
  {
   "id": "s-karin_elofsd35-kerstin_olofsd41",
@@ -13396,5 +13396,68 @@
   "child": "anders_christophersson25_edane",
   "status": "candidate",
   "basis": "Dop C I/1 bild 155 (2/7 1725): ”Christopher Nilssons och H. Kari Hans[?]d:rs barn i Edane wid namn Anders” (namnet överstruket)."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-karin_elofsd35",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "karin_elofsd35",
+  "status": "strong",
+  "basis": "Älvsbacka C/1 bild 17 (1735): ”Karin Elofsdotter i Persjön född d 20 Maji ... Fadren Elof Ersson Modren Maria Olofsdotter i Persjön” + Brunskog E I/2 b.17 (1767) och F I/1 b.73 (1800): Kari Elofsdotter ”fr. Persjön i Nyeds sochn”, f. 1735 (A I/4–5)."
+ },
+ {
+  "id": "p-elof_ersson_persjon-maria_olofsd_persjon",
+  "type": "partner",
+  "a": "elof_ersson_persjon",
+  "b": "maria_olofsd_persjon",
+  "status": "verified",
+  "basis": "Älvsbacka C/1 bild 17 (1735): fader Elof Ersson, moder Maria Olofsdotter i Persjön."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-mans_elofsson38_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "mans_elofsson38_persjon",
+  "status": "verified",
+  "basis": "Älvsbacka C/1 bild 25 (1738): ”Måns Elofsson i Persjön född d 18 maji, Fadren Elof Ersson Modren Maria Olofsdotter”"
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-olof_elofsson41_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "olof_elofsson41_persjon",
+  "status": "verified",
+  "basis": "Älvsbacka C/1 bild 33 (1741): ”Olof Elofsson i Persjön född d 13 November Fadren Elof Ersson Modren Maria Olofsdotter”"
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-maria_elofsd31_toltan",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "maria_elofsd31_toltan",
+  "status": "candidate",
+  "basis": "Älvsbacka C/1 bild 10 (1731): ”Maria Elofsdotter i Persjön född d 25 Octob. ... Fadren Elof Ersson, modren Maria Olofsdotter i Persjön” – identitet med pigan Maria Elofsdotter f. 1731 i Toltan (Brunskog A I/2 b.159) bygger på namn+år+grannskap med Kari."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-johan_elofsson46_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "johan_elofsson46_persjon",
+  "status": "verified",
+  "basis": "Älvsbacka C/1 bild 42 (1746): ”Johan Elofsson i Persjön född d 17 December”; marginal ”Fadren Elof Ersson, Modren Maria Ol:dotter”."
  }
 ]

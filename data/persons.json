@@ -5818,9 +5818,9 @@
   "status": "verified",
   "sex": "f",
   "born": {
-   "date": "1735",
-   "place": "Åmot, Brunskog",
-   "note": "Födelseår 1735 bekräftat av dopboken 1780 (moderns födelseår 'Kari Elofs. 735'). Eget dop ej funnet i C I/1 1735 nr 24–42 (bild 212–215) eller C I/2 1736 (bild 11–14); ev. född annan socken eller annat år."
+   "date": "1735-05-20",
+   "place": "Persjön, Älvsbacka kapellförsamling (Nyeds pastorat), Värmland",
+   "note": "Född 20 maj, nöddöpt 21 maj 1735 'för des swaghet' (Älvsbacka C/1 bild 17). Identifiering strong: namn, by Persjön, Nyeds pastorat och år stämmer med vigselboken 1767 och dödboken 1800 (”fr. Persjön i Ny-Eds sochn”); flyttattest saknas."
   },
   "places": [
    "Toltan, Brunskog"
@@ -5902,6 +5902,10 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/3 (1769–1774), bild 166 (s. 153, Toltan nr 5): Per Elofsson 1728, H. Karin Elofsd. 1735, Marit 1768, Olof 1772",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036742_00166"
+   },
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 17 (s. 17), 1735: 'Karin Elofsdotter i Persjön född d 20 Maji döpt d 21 dito ... Fadren Elof Ersson Modren Maria Olofsdotter i Persjön'",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00017"
    }
   ],
   "search": [
@@ -5936,7 +5940,8 @@
    "HUSFÖRHÖR A I/3 bild 166 (s. 153), Toltan nr 5: ”H. Karin Elofsd.” 1735 under Per Elofsson 1728; barn Marit 1768, Olof 1772.",
    "BT1: Nyed dopbok C/3 (C0038559) 1735 (bild 81–86, s. 117–end 1735) bläddrad (mycket tät, svårläst stående format) – ingen genomläsning fullbordad, ingen träff funnen. Åldersuppgifterna är inkonsekventa: dödbok 1800 ”88 år” ger f. ca 1712, husförhör/dop 1735 – dop kan alltså ligga i Nyed C/2 (1712-tiden) i stället. Ej löst.",
    "BU1 DOP-SÖK: Nyed C/3 (C0038559) 1735 bild 81–90 genomläst post för post (namnen står först i varje post): ingen Kari/Karin Elofs-/Olofsdotter (närmast: 'Ingier Olofsdotter i Björketorp' 8 mars, 'Karin Jonsdotter' aug, 'Kirstin Olofsdotter' dec – fel förnamn/fader). Nyed C/4 (C0038560) börjar först 1738 – 1736–37 saknas i Nyed. Ny socken (SE/VA/13406) dop C/3 (C0038508) bild 26–32 (okt 1733–jan 1736) genomläst: ingen Kari med fader Elof/Olof (1735 nr 12 'Kari' har fader Bengt Bengtsson; 1734 nr 15 'Karin' är oäkta barn av Annika). Persjön förekommer inte som ort i dessa poster. Ny husförhör A I/1 (1711–1750) = C0038487 (220 bilder, ej genomsökt) är nästa källa för 'Persjön'.",
-   "BU7 NY HUSFÖRHÖR A I/1 (1711–1750, C0038487, 220 bilder): bild 8 och 12 är arkivförteckning, och volymen saknar ortregister. Stickprov bild 150, 160, 162, 164, 195 och 216 (1735–53) visar täta namnkolumner utan läsbar rubrik ’Persjön’. Kari Elofs-/Olofsdotter hittades inte i stickproven. Volymen behöver genomgås sida för sida (ca 200 bilder); det hanns inte i BU7."
+   "BU7 NY HUSFÖRHÖR A I/1 (1711–1750, C0038487, 220 bilder): bild 8 och 12 är arkivförteckning, och volymen saknar ortregister. Stickprov bild 150, 160, 162, 164, 195 och 216 (1735–53) visar täta namnkolumner utan läsbar rubrik ’Persjön’. Kari Elofs-/Olofsdotter hittades inte i stickproven. Volymen behöver genomgås sida för sida (ca 200 bilder); det hanns inte i BU7.",
+   "BV2 DOP (strong): Älvsbacka dopbok C/1 (C0039597) bild 17, 1735: ”Karin Elofsdotter i Persjön född d 20 Maji döpt d 21 dito för des swaghet uti Berg af Adj: Ol: Edberg. Fadren Elof Ersson Modren Maria Olofsdotter i Persjön. Faddrar Per Mattsson, Olof Olofsson, H: Ingrid Persdotter, H: Maria Johansdotter uti Persjön.” Persjön ligger alltså i Älvsbacka kapellag (annex/kapell i Nyeds pastorat) – därför saknas hon i Nyeds egen dopbok. Dödboken 1800 (F I/1 b.73) omläst: ”med Pig. Kari Elofsd:r fr. Persjön i Ny-/Eds sochn”; vigselboken 1767 (E I/2 b.17): ”Pigan Kari Elofsdotter ifrån Persjön i Nyeds Sochn, men tjenande i T[oltan?]”."
   ],
   "died": {
    "date": "1823-01-14",
@@ -19672,21 +19677,26 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1731",
-   "place": "",
-   "note": "Födelseort ej känd"
+   "date": "1731-10-25",
+   "place": "Persjön, Älvsbacka kapellförsamling (Nyeds pastorat)",
+   "note": "Kandidatdop: Maria Elofsdotter i Persjön f. o. nöddöpt 25 okt 1731 (Älvsbacka C/1 bild 10), dotter till Elof Ersson och Maria Olofsdotter. Koppling till pigan i Toltan 1764–68 ej bevisad."
   },
   "places": [
    "Toltan, Brunskog"
   ],
   "summary": "Piga på Toltan 1764–68 med dotter Maria (f. 1765), bor intill Per Elofsson och Kari Elofsdotter. Samma patronymikon som Kari – möjlig syster/släkting, ej belagt.",
   "notes": [
-   "HUSFÖRHÖR: Brunskog A I/2 bild 159, Toltan: 'Pig: Maria Elofsdotter' 1731 (ålder 37 i kolumnen 1764) med 'dotter Maria Elofsdotter' 1765 (ålder 5/0) – raden ligger direkt under 'Per Elofsson 1728 / Hustru Kari Elofsdotter 1735 / dotter Marit 1768'."
+   "HUSFÖRHÖR: Brunskog A I/2 bild 159, Toltan: 'Pig: Maria Elofsdotter' 1731 (ålder 37 i kolumnen 1764) med 'dotter Maria Elofsdotter' 1765 (ålder 5/0) – raden ligger direkt under 'Per Elofsson 1728 / Hustru Kari Elofsdotter 1735 / dotter Marit 1768'.",
+   "BV2: Älvsbacka C/1 bild 10 (1731): ”Maria Elofsdotter i Persjön född d 25 Octob. döpt samma dag för des swaghet på Elfbacka gård af Adj: O: Edberg. Fadren Elof Ersson, modren Maria Olofsdotter i Persjön. Faddrar Hr Petter Bergström, Olof Olofsson i Persjön, Q: H: Elsa Nilsd: H: Britta Johansd: ibidem.” Födelseåret 1731 och patronymikonet stämmer med pigan Maria Elofsdotter (f. 1731) som 1764–68 bodde intill Per Elofsson och Kari Elofsdotter i Toltan (A I/2 b.159) – sannolikt Karis äldre syster. Status bör vara candidate→strong (ålder+namn+grannskap med systern), ej verified."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/2 (C0036741), bild 159, Toltan: Pig. Maria Elofsdotter 1731 med dotter Maria 1765 (efter Per Elofsson 1728, hustru Karin Elofsdotter 1735, dotter Marit 1768)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00159"
+   },
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 10 (1731): Maria Elofsdotter i Persjön f. 25 okt, fader Elof Ersson, moder Maria Olofsdotter i Persjön",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00010"
    }
   ],
   "search": [
@@ -44537,6 +44547,148 @@
   ],
   "search": [
    "Anders Christophersson (döpt 2/7 1725, Edane)"
+  ]
+ },
+ {
+  "id": "elof_ersson_persjon",
+  "name": "Elof Ersson (Persjön, Älvsbacka)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": "Ej känt"
+  },
+  "places": [
+   "Persjön, Älvsbacka kapellförsamling (Nyeds pastorat)"
+  ],
+  "summary": "Fader till Karin Elofsdotter döpt 21 maj 1735 i Persjön (Älvsbacka dopbok C/1 bild 17). Trolig far till Kari Elofsdotter (g. 1767 m. Per Elofsson i Toltan, Brunskog).",
+  "notes": [
+   "DOPBOK Älvsbacka C/1 (C0039597) bild 17, sid 17, 1735: ”Karin Elofsdotter i Persjön född d 20 Maji döpt d 21 dito för des swaghet uti Berg af Adj: Ol: Edberg. Fadren Elof Ersson Modren Maria Olofsdotter i Persjön. Faddrar Per Mattsson, Olof Olofsson, H: Ingrid Persdotter, H: Maria Johansdotter uti Persjön.”",
+   "Barn i Älvsbacka C/1 (1731–1749 genomläst, bild 10–47): Maria 25/10 1731 (b.10), Karin 20/5 1735 (b.17), Måns 18/5 1738 (b.25), Olof 13/11 1741 (b.33), Johan 17/12 1746 (b.42). Elof Ersson förekommer även som fadder i Persjön 1733 (b.13) och 1746 (b.42). OBS: en annan Elof Ersson/Ericsson (bergsfogde/murmästare) i Elfbacka, g.m. Maria Jonsdotter/Jönsdotter, har barn 1737 (Maria, b.23) och 1739 (Jonas, b.28) – ej samma familj.",
+   "DÖDBOK Älvsbacka (i E I/1, C0039600) bild 17–29 (1744–1758) genomläst: varken Elof Ersson eller Maria Olofsdotter i Persjön död där. Vigsel ca 1730 ej sökt (Älvsbacka E I/1 börjar 1732; Nyeds vigselbok ej kontrollerad)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 17 (s. 17), 1735: Karin Elofsdotter i Persjön f. 20 maj, döpt 21 maj; fader Elof Ersson, moder Maria Olofsdotter i Persjön",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00017"
+   }
+  ],
+  "search": [
+   "Elof Ersson (Persjön, Älvsbacka)"
+  ]
+ },
+ {
+  "id": "maria_olofsd_persjon",
+  "name": "Maria Olofsdotter (Persjön, Älvsbacka)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": "Ej känt"
+  },
+  "places": [
+   "Persjön, Älvsbacka kapellförsamling (Nyeds pastorat)"
+  ],
+  "summary": "Moder till Karin Elofsdotter döpt 21 maj 1735 i Persjön (Älvsbacka C/1 bild 17); hustru till Elof Ersson. Trolig mor till Kari Elofsdotter i Toltan.",
+  "notes": [
+   "Se dopposten Älvsbacka C/1 bild 17 (1735) under elof_ersson_persjon."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 17 (s. 17), 1735: Karin Elofsdotter i Persjön, moder Maria Olofsdotter i Persjön",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00017"
+   }
+  ],
+  "search": [
+   "Maria Olofsdotter (Persjön, Älvsbacka)"
+  ]
+ },
+ {
+  "id": "mans_elofsson38_persjon",
+  "name": "Måns Elofsson (1738, Persjön)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1738-05-18",
+   "place": "Persjön, Älvsbacka",
+   "note": "Nöddöpt 20 maj 1738"
+  },
+  "places": [
+   "Persjön, Älvsbacka"
+  ],
+  "summary": "Son till Elof Ersson och Maria Olofsdotter i Persjön; bror till Kari/Karin Elofsdotter (1735). Vidare öde ej undersökt.",
+  "notes": [
+   "DOPBOK Älvsbacka C/1 bild 25 (1738): ”Måns Elofsson i Persjön född d 18 maji, Fadren Elof Ersson Modren Maria Olofsdotter döpt för des swaghet uti Berg d 20 dito af Adj: Ol: Edberg. Faddrar Gulbrand[?] Jönsson, Nils Månsson, Hustru Maria Johansdotter i Persjön, Hustru Kirstin Olofsdotter uti Strandsjön[?].”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 25 (1738): Måns Elofsson i Persjön f. 18 maj, fader Elof Ersson, moder Maria Olofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00025"
+   }
+  ],
+  "search": [
+   "Måns Elofsson (1738, Persjön)"
+  ]
+ },
+ {
+  "id": "olof_elofsson41_persjon",
+  "name": "Olof Elofsson (1741, Persjön)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1741-11-13",
+   "place": "Persjön, Älvsbacka",
+   "note": "Döpt 15 nov 1741"
+  },
+  "places": [
+   "Persjön, Älvsbacka"
+  ],
+  "summary": "Son till Elof Ersson och Maria Olofsdotter i Persjön; bror till Kari/Karin Elofsdotter (1735). Vidare öde ej undersökt.",
+  "notes": [
+   "DOPBOK Älvsbacka C/1 bild 33 (1741, sista posten före 1742): ”Olof Elofsson i Persjön född d 13 November Fadren Elof Ersson Modren Maria Olofsdotter döpt d 15 dito af Adj: Ol: Edberg. Faddrar Nils Ersson, Nils Andersson, Hustru Marina[?] Hindersdotter, Hustru Maria Johansdotter, alla hemma i Persjön.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 33 (1741): Olof Elofsson i Persjön f. 13 nov, fader Elof Ersson, moder Maria Olofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00033"
+   }
+  ],
+  "search": [
+   "Olof Elofsson (1741, Persjön)"
+  ]
+ },
+ {
+  "id": "johan_elofsson46_persjon",
+  "name": "Johan Elofsson (1746, Persjön)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1746-12-17",
+   "place": "Persjön, Älvsbacka",
+   "note": "Nöddöpt hemma 19 dec 1746"
+  },
+  "places": [
+   "Persjön, Älvsbacka"
+  ],
+  "summary": "Son till Elof Ersson och Maria Olofsdotter i Persjön (föräldrarna i marginalen); bror till Kari/Karin Elofsdotter (1735).",
+  "notes": [
+   "DOPBOK Älvsbacka C/1 bild 42 (1746, sista posten): ”Johan Elofsson i Persjön född d 17 December döpt för des swaghet d 19 dito hemma ... af Adj: Ol: Edberg. Faddrar Olof Olofsson i Persjön, Olof Olofsson i Elfbacka, Hustru Maria Hindersdotter, H: Margreta Persdotter i Persjön.” I vänstermarginalen (lodrätt): ”Fadren Elof Ersson, Modren Maria Ol[ofs]dotter”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Älvsbacka födelse- och dopbok C/1 (1731–1787), bild 42 (1746): Johan Elofsson i Persjön f. 17 dec; marginal: fader Elof Ersson, moder Maria Ol:dotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0039597_00042"
+   }
+  ],
+  "search": [
+   "Johan Elofsson (1746, Persjön)"
   ]
  }
 ]
