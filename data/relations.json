@@ -13484,7 +13484,8 @@
   "a": "irena",
   "b": "janek_orzechowski",
   "status": "family",
-  "basis": "Ywonne 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”. Hel- eller halvbror okänt."
+  "basis": "Ywonne 2026-10-10: Janek var halvbror till Irena och hennes bröder (samma far Stefan, annan mor).",
+  "label": "halvsyskon"
  },
  {
   "id": "p-kjersti_perlarsd_1721-mans_mansson_amot_g1746",
@@ -13493,5 +13494,101 @@
   "b": "mans_mansson_amot_g1746",
   "status": "verified",
   "basis": "F I/1 bild 12 hö (1784 nr 12): ”Hust: Kjerstin Persd:r från Åmot … gift 1746 … Måns Månsson i Åmot”"
+ },
+ {
+  "id": "p-jon_larsson_arnas1710-marit_persd_arnas1718",
+  "type": "partner",
+  "a": "jon_larsson_arnas1710",
+  "b": "marit_persd_arnas1718",
+  "status": "verified",
+  "basis": "Vigsel E I/1 bild 59, 1 juni 1740 nr 1: ”Drängen Jon Larsson från Arnäs; pig. Marit Persd:r i Öst. T[…]”; dop C I/2 bild 50 och 64: ”Jon Larsson och hust. Marit Persdotter i Arnäs”."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-nils_jonsson_takene93",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "nils_jonsson_takene93",
+  "status": "verified",
+  "basis": "Dop C I/2 bild 64, 1747 nr 35: ”d. 27 Sept: Jon Larsson och hust. Marit Persdotter i Arnäs son Nils”; dödbok F I/1 bild 73 (1800): ”född i Arnäs … 27/9 af Bonden Jon Larsson och H. Marit Persd:r”."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-per_jonsson_arnas1744",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "per_jonsson_arnas1744",
+  "status": "verified",
+  "basis": "Dop C I/2 bild 50, 1744 nr 55: ”Jon Larsson och hust. Marit Persdotter i Arnäs son Per”; A I/1 bild 197 ”S. Per Jönsson 1744”."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-britta_jonsd_arnas1741",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "britta_jonsd_arnas1741",
+  "status": "verified",
+  "basis": "Husförhör A I/1 (C0036740) bild 197 s. 160 Årnäs nr 1, i hushållet Jon Larsson/H. Marit Persd:r: ”D. Britta Jönsd:r 1741”; även A I/2 bild 176."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-olof_jonsson_arnas1752",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "olof_jonsson_arnas1752",
+  "status": "verified",
+  "basis": "Husförhör A I/1 (C0036740) bild 197 s. 160 Årnäs nr 1, i hushållet Jon Larsson/H. Marit Persd:r: ”S. Olof Jönsson 1752 (struken)”; även A I/2 bild 176."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-anna_jonsd_arnas1755",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "anna_jonsd_arnas1755",
+  "status": "verified",
+  "basis": "Husförhör A I/1 (C0036740) bild 197 s. 160 Årnäs nr 1, i hushållet Jon Larsson/H. Marit Persd:r: ”D. Anna Jönsd 1755”; även A I/2 bild 176."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-ingierd_jonsd_arnas1759",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "ingierd_jonsd_arnas1759",
+  "status": "verified",
+  "basis": "Husförhör A I/1 (C0036740) bild 197 s. 160 Årnäs nr 1, i hushållet Jon Larsson/H. Marit Persd:r: ”D. Ingierd Jönsd 1759”; även A I/2 bild 176."
+ },
+ {
+  "id": "c-jon_larsson_arnas1710-marit_persd_arnas1718-karin_jonsd_arnas1762",
+  "type": "child",
+  "parents": [
+   "jon_larsson_arnas1710",
+   "marit_persd_arnas1718"
+  ],
+  "child": "karin_jonsd_arnas1762",
+  "status": "verified",
+  "basis": "Husförhör A I/1 (C0036740) bild 197 s. 160 Årnäs nr 1, i hushållet Jon Larsson/H. Marit Persd:r: ”D. Kari Jönsdott [1762]”; även A I/2 bild 176."
+ },
+ {
+  "id": "c-stefan-stanislawa_smuga-janek_orzechowski",
+  "type": "child",
+  "parents": [
+   "stefan",
+   "stanislawa_smuga"
+  ],
+  "child": "janek_orzechowski",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10: morfar (Stefan) gifte om sig efter att mormor (Zofia) dog och de två fick Janek. Hustruns namn Stanisława Smuga kommer från Geneteka-index för vigseln 1934 (strong), inte från familjen."
  }
 ]

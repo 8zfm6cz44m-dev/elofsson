@@ -39348,7 +39348,10 @@
    "HUSFÖRHÖR A I/7 (C0036746, 1790–94) bild 70 s. 59 Ö. Takene: ”H. Nils Jonsson ✓ 27/9 Arnäs 45; H. Lisa Larsdr Ullerud 52; D. Ingeborg Nilsdr 9/5 Takene 84; D. Maria Nilsdr 24/6 ibm 87; S. Per Nilsson 6/1 ibm 90; S. Olof Nilsson 6/2 ibm 93”. Olof 6/2 93 = dopet C I/3 bild 44 nr 8.",
    "HUSFÖRHÖR A I/8 (C0036747, 1795–99) bild 77 s. 63 Ö. Takene: ”H. Nils Jonsson [struken] 27/9 45 Arnäs … +1800; H. Lisa Larsdr 52 Ullerud; D. Ingeborg 9/5 84 Takene; D. Maria 24/6 87 ibm (p.170 99); S. Per 6/1 90; S. Olof 6/2 93; D. Brita 1[4?]/4 96 ibm”.",
    "RÄTTELSE av volym-id: C0036745 = A I/6 (1786–89), C0036746 = A I/7 (1790–94), C0036747 = A I/8 (1795–99). Tidigare källhänvisningar som kallar C0036746 för ”A I/6” gäller egentligen A I/7.",
-   "HYPOTESEN AVFÖRD: ”Nils Jansson f. 1769” på A I/7 bild 73 (s. 62) läses ”S. Nils Jansson 18/1 Takene 69, p.57 94” (inte p.152). På s. 57 (bild 68) står han som ”S. Nils Jonsson 18/1 Takene 67, p:62 94”, son till Jon Persson (1739) och Kari Nilsdr (Skog 1742) – en ogift son, inte Olofs far. Sidan 152 (bild 166) är Vikene (Olof Nilsson 1755 m.fl.) utan samband."
+   "HYPOTESEN AVFÖRD: ”Nils Jansson f. 1769” på A I/7 bild 73 (s. 62) läses ”S. Nils Jansson 18/1 Takene 69, p.57 94” (inte p.152). På s. 57 (bild 68) står han som ”S. Nils Jonsson 18/1 Takene 67, p:62 94”, son till Jon Persson (1739) och Kari Nilsdr (Skog 1742) – en ogift son, inte Olofs far. Sidan 152 (bild 166) är Vikene (Olof Nilsson 1755 m.fl.) utan samband.",
+   "DOP C I/2 (C0036783) bild 64, 1747 nr 35: ”d. 27 Sept: Jon Larsson och hust. Marit Persdotter i Arnäs son Nils. Fadd. Göran Andersson i Arnäs, Jon Jonsson i Bäckelid[?]: hust. Ingeborg Jacobsdotter, Marit Nilsdotter i Arnäs”. 1745 (bild 51–55) genomläst: ingen Nils till Jon Larsson; brodern Per döptes 16/12 1744 (bild 50 nr 55).",
+   "OBS 1745 bild 54 nr 35 (29 sept 1745): ”Göran Christophersson och hustru Marit Persdotter i Lenntjärnsviken[?] son Nils” – en ANNAN familj (fadder Nils Christophersson i Edane m.fl.). Får inte förväxlas.",
+   "HUSFÖRHÖR A I/2 (C0036741) bild 176 s. 165 Årnäs: en struken son f. 1747 (ålder 18 år 1765), namnet svårläst – sannolikt Nils."
   ],
   "sources": [
    {
@@ -39390,15 +39393,23 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/8 (1795–99), bild 77 (s. 63), Ö. Takene: Nils Jonsson 27/9 1745 Arnäs (struken, ”+1800”), H. Lisa Larsdr 1752 Ullerud, D. Ingeborg 9/5 84, D. Maria 24/6 87 (p.170 99), S. Per 6/1 90, S. Olof 6/2 93, D. Brita 1[4?]/4 96",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036747_00077"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2 (1736–1781), bild 64 (s. 92), 1747 nr 35: ”d. 27 Sept: Jon Larsson och hust. Marit Persdotter i Arnäs son Nils. Fadd. Göran Andersson i Arnäs, Jon Jonsson i Bäckelid: hust. Ingeborg Jacobsdotter, Marit Nilsdotter i Arnäs”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00064"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
    }
   ],
   "search": [
    "Nils Jonsson (Takene, far till Olof f. 6/2 1793)"
   ],
   "born": {
-   "date": "1745-09-27",
+   "date": "1747-09-27",
    "place": "Arnäs, Brunskog",
-   "note": "Dödbok 1800 och husförhör A I/6–A I/8 ger samma datum"
+   "note": "Dop C I/2 bild 64 (1747 nr 35) ger 27/9 1747. Husförhör A I/6–8 och dödboken 1800 (54½ år) anger 27/9 1745 – året är fel där; datum och föräldrar stämmer exakt."
   },
   "died": {
    "date": "1800-04-14",
@@ -39424,7 +39435,8 @@
   "summary": "F. 1752 (Ullerud enligt husförhör), piga från Glava socken; gift 1779 med Nils Jonsson i Ö. Takene, mor till Ingeborg 1784, Maria 1787, Per 1790, Olof 1793 och Brita 1796. Änka 1800.",
   "notes": [
    "DOP 1793 bild 44 nr 8: ”Lisa [överstruket ord] Larsd 53”.",
-   "VIGSEL E I/2 bild 34 (1779 nr 9): ”Pig: Lisa Larsdotter från [Åsen?] i Glafwa S:n”. DÖDBOK 1800 (makens): ”gift 1779 22/10 med Pigan Lisa Larsd:r från Glafwa sochn”. Husförhör A I/6–8: ”Lisa Larsdr Ullerud 52” – födelseort Ullerud, inflyttad via Glava (ej utrett)."
+   "VIGSEL E I/2 bild 34 (1779 nr 9): ”Pig: Lisa Larsdotter från [Åsen?] i Glafwa S:n”. DÖDBOK 1800 (makens): ”gift 1779 22/10 med Pigan Lisa Larsd:r från Glafwa sochn”. Husförhör A I/6–8: ”Lisa Larsdr Ullerud 52” – födelseort Ullerud, inflyttad via Glava (ej utrett).",
+   "BW3 SÖKNING (negativ): Lisa, dotter till Lars, ej funnen 1752–53 i Glava dopbok C I/4 (C0037354, 1750–88; 1752 = bild 16–20, 1753 = bild 20–25, alla rader genomlästa via marginalnamn – enda Lisa 1752 är dotter till Henrik Persson i Lenungen, bild 18 nr 14), Nedre Ullerud C/3 (C0038289; 1752 = bild 116–119, 1753 = bild 119–121; ”Lisa” 1753 = dotter till Nils Bengtsson, ”Lisken Elin” 1753 = dotter till Nils Larsson) eller Övre Ullerud C/3 (C0039835; 1752 = bild 170–174, inga Lisa). Volym-id: Glava SE/VA/13154: A I/1 (1779–90) C0037327, B/1 in-/utflyttning (1754–94) C0037349, C I/3 (1733–50) C0037353, C I/4 (1750–88) C0037354, F I/1 död (1753–1800) C0037360. Nedre Ullerud SE/VA/13387: C/3 (1719–57) C0038289, C/4 (1758–1805) C0038290, E I/1 vigsel (1723–1818) C0038294, A I/6 (1781–91) C0038270. Övre Ullerud SE/VA/13691: C/3 (1725–52) C0039835 (vigslar ca bild 180–194), A I/2 (1769–76) C0039810."
   ],
   "sources": [
    {
@@ -44794,7 +44806,7 @@
   "living": false,
   "born": {
    "date": "",
-   "note": "Okänt"
+   "note": "Efter 1934 (Stefans andra äktenskap); exakt okänt."
   },
   "died": {
    "date": "",
@@ -44807,10 +44819,14 @@
    "Janek",
    "Jan Orzechowski"
   ],
-  "summary": "Irenas bror enligt Ywonne (2026-10-10), avliden. Okänt om han är helbror (Stefan + Zofia Młodawska) eller halvbror från Stefans äktenskap 1934 med Stanisława Smuga.",
+  "summary": "Irenas halvbror och yngsta barnet i familjen Orzechowski: son till Stefan Orzechowski i hans andra äktenskap (efter Zofia Młodawskas död 1933). Avliden. Enligt Ywonne 2026-10-10.",
   "sources": [
    {
     "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”",
+    "url": ""
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: Janek var yngsta barnet, halvbror till Irena och hennes bröder; Stefan gifte om sig efter att Zofia dog och de fick Janek",
     "url": ""
    }
   ]
@@ -44846,6 +44862,266 @@
   ],
   "search": [
    "Måns Månsson (Åmot, g. 1746 m. Kjerstin Persdotter)"
+  ]
+ },
+ {
+  "id": "jon_larsson_arnas1710",
+  "name": "Jon Larsson (Arnäs, 1710)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1710",
+   "place": "",
+   "note": "Husförhör A I/1 och A I/2: 1710"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Bonde i Arnäs, Brunskog, f. 1710, gift med Marit Persdotter (f. 1718). Far till Britta 1741, Per 1744, Nils 1747, Olof 1752, Anna 1755, Ingierd 1759 och Karin 1762.",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 197 (s. 160) ”Årnäs ½” nr 1: ”Jon Larsson 1710; H. Marit Persd:r 1718; D. Britta Jönsd:r 1741; S. Per Jönsson 1744 [struken, marg. 1761]; S. Olof Jönsson 1752 [struken]; D. Anna Jönsd 1755; D. Ingierd Jönsd 1759; D. Kari Jönsdott [1762]”; därunder Ingeborg Michelsdr 1675, Anna Michelsdr 1682 (struken), Dr. Olof Larsson 1714.",
+   "Fadder ”Jon Larsson i Arnäs” 1746 nr 59 (bild 60).",
+   "VIGSEL E I/1 (C0036786) bild 59, 1740 nr 1: ”d. 1 Junii Drängen Jon Larsson från Arnäs; pig. Marit Persd:r i Öst. T[olänen?/Takene?]” – Marits hemby svårläst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2 (1736–1781), bild 64 (s. 92), 1747 nr 35: ”d. 27 Sept: Jon Larsson och hust. Marit Persdotter i Arnäs son Nils. Fadd. Göran Andersson i Arnäs, Jon Jonsson i Bäckelid: hust. Ingeborg Jacobsdotter, Marit Nilsdotter i Arnäs”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00064"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2, bild 50 (s. 64), 1744 nr 55: ”d. 16 Dec: Jon Larsson och hust. Marit Persdotter i Arnäs son Per. Fadd. Göran Andersson, Olof [Anders överstruket] Jonsson i Arnäs: hust. Ingeborg Jacobsdr, Marit Nilsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00050"
+   },
+   {
+    "label": "Riksarkivet, Brunskog lysnings- och vigselbok E I/1 (1691–1763), bild 59 (s. 99), Wigde 1740 nr 1: ”d. 1 Junii Drängen Jon Larsson från Arnäs; pig. Marit Persd:r i Öst. T[…]” (bynamnet svårläst)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00059"
+   }
+  ],
+  "search": [
+   "Jon Larsson (Arnäs, 1710)"
+  ]
+ },
+ {
+  "id": "marit_persd_arnas1718",
+  "name": "Marit Persdotter (Arnäs, 1718)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1718",
+   "place": "",
+   "note": "Husförhör A I/1 och A I/2: 1718"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Hustru till Jon Larsson i Arnäs, f. 1718; mor till Nils Jonsson (f. 27/9 1747).",
+  "notes": [
+   "Patronymikon i husförhöret A I/1 svårläst (”Persd:r”), men dopen 1744 och 1747 ger uttryckligen ”Marit Persdotter”.",
+   "VIGSEL E I/1 (C0036786) bild 59, 1740 nr 1: ”d. 1 Junii Drängen Jon Larsson från Arnäs; pig. Marit Persd:r i Öst. T[olänen?/Takene?]” – Marits hemby svårläst."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2 (1736–1781), bild 64 (s. 92), 1747 nr 35: ”d. 27 Sept: Jon Larsson och hust. Marit Persdotter i Arnäs son Nils. Fadd. Göran Andersson i Arnäs, Jon Jonsson i Bäckelid: hust. Ingeborg Jacobsdotter, Marit Nilsdotter i Arnäs”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00064"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2, bild 50 (s. 64), 1744 nr 55: ”d. 16 Dec: Jon Larsson och hust. Marit Persdotter i Arnäs son Per. Fadd. Göran Andersson, Olof [Anders överstruket] Jonsson i Arnäs: hust. Ingeborg Jacobsdr, Marit Nilsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00050"
+   },
+   {
+    "label": "Riksarkivet, Brunskog lysnings- och vigselbok E I/1 (1691–1763), bild 59 (s. 99), Wigde 1740 nr 1: ”d. 1 Junii Drängen Jon Larsson från Arnäs; pig. Marit Persd:r i Öst. T[…]” (bynamnet svårläst)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00059"
+   }
+  ],
+  "search": [
+   "Marit Persdotter (Arnäs, 1718)"
+  ]
+ },
+ {
+  "id": "per_jonsson_arnas1744",
+  "name": "Per Jonsson (Arnäs, 1744)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1744-12-16",
+   "place": "Arnäs, Brunskog",
+   "note": "Dopdatum/födelsedag enligt C I/2 bild 50 nr 55"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Son till Jon Larsson och Marit Persdotter i Arnäs, bror till Nils Jonsson.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2, bild 50 (s. 64), 1744 nr 55: ”d. 16 Dec: Jon Larsson och hust. Marit Persdotter i Arnäs son Per. Fadd. Göran Andersson, Olof [Anders överstruket] Jonsson i Arnäs: hust. Ingeborg Jacobsdr, Marit Nilsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00050"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   }
+  ],
+  "search": [
+   "Per Jonsson (Arnäs, 1744)"
+  ]
+ },
+ {
+  "id": "britta_jonsd_arnas1741",
+  "name": "Britta Jonsdotter (Arnäs, 1741)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1741",
+   "place": "Arnäs, Brunskog"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Dotter till Jon Larsson och Marit Persdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   }
+  ],
+  "search": [
+   "Britta Jonsdotter (Arnäs, 1741)"
+  ]
+ },
+ {
+  "id": "olof_jonsson_arnas1752",
+  "name": "Olof Jonsson (Arnäs, 1752)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1752",
+   "place": "Arnäs, Brunskog"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Son till Jon Larsson och Marit Persdotter; struken i A I/1 (ca 1763, troligen död).",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   }
+  ],
+  "search": [
+   "Olof Jonsson (Arnäs, 1752)"
+  ]
+ },
+ {
+  "id": "anna_jonsd_arnas1755",
+  "name": "Anna Jonsdotter (Arnäs, 1755)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1755",
+   "place": "Arnäs, Brunskog"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Dotter till Jon Larsson och Marit Persdotter; struken i A I/2 efter 1765.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   }
+  ],
+  "search": [
+   "Anna Jonsdotter (Arnäs, 1755)"
+  ]
+ },
+ {
+  "id": "ingierd_jonsd_arnas1759",
+  "name": "Ingierd Jonsdotter (Arnäs, 1759)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1759",
+   "place": "Arnäs, Brunskog"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Dotter till Jon Larsson och Marit Persdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   }
+  ],
+  "search": [
+   "Ingierd Jonsdotter (Arnäs, 1759)"
+  ]
+ },
+ {
+  "id": "karin_jonsd_arnas1762",
+  "name": "Karin Jonsdotter (Arnäs, 1762)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1762",
+   "place": "Arnäs, Brunskog"
+  },
+  "places": [
+   "Arnäs, Brunskog"
+  ],
+  "summary": "Dotter till Jon Larsson och Marit Persdotter.",
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 197 (s. 160), Årnäs ½ nr 1: Jon Larsson 1710, H. Marit Persdr 1718, D. Britta Jonsdr 1741, S. Per Jonsson 1744 (struken, marg. 1761), S. Olof Jonsson 1752 (struken), D. Anna Jonsdr 1755, D. Ingierd Jonsdr 1759, D. Kari Jonsdotter [1762]; Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/2 (1764–68), bild 176 (s. 165), Årnäs nr 2: Jon Larsson 1710, H. Marit Persdotter 1718, D. Britta Jonsdotter 1741, S. Per Jonsson 1744 (struken; åter inskriven 1766–68), D. Anna Jonsdotter 1755 (struken), D. Ingierd Jonsdotter 1759, D. Karin Jonsdotter 1762, S. [Nils?] … 1747 (struken, ålder 18 år 1765); Dr. Olof Larsson 1714",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036741_00176"
+   }
+  ],
+  "search": [
+   "Karin Jonsdotter (Arnäs, 1762)"
   ]
  }
 ]

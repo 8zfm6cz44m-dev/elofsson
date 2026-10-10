@@ -245,13 +245,6 @@
       ]
     },
     {
-      "title": "Jon Larsson och Marit Persdotter i Arnäs – föräldrar till Nils Jonsson f. 27/9 1745",
-      "text": "Dödboken 1800 (F I/1 bild 73 nr 16) anger Nils Jonssons föräldrar: bonden Jon Larsson och h. Marit Persdotter, Arnäs. Sök dopet 27/9 1745 i C I/2 (C0036783) och familjen i Arnäs i A I/1 (C0036740). Även Lisa Larsdotters ursprung (Ullerud/Glava) är outrett.",
-      "persons": [
-        "nils_jonsson_takene93"
-      ]
-    },
-    {
       "title": "Elof Ersson och Maria Olofsdotter i Persjön: vigsel, död och ursprung",
       "text": "Ej funna: vigsel (troligen ca 1729–30, före Älvsbacka E I/1) och död (ej i Älvsbacka dödbok 1744–1758). Nästa steg: Älvsbacka dödbok 1759–1822 (C0039600 bild 30–80), Älvsbacka HF A I/1 (1779–90) by Persjön, Nyed vigselbok ca 1725–31, samt Nyed C/3 1727–31 för ev. äldre barn.",
       "persons": [
@@ -268,18 +261,6 @@
       ],
       "priority": 3,
       "next_step": "Fråga familjen om Zdzisławs far (låg prioritet)."
-    },
-    {
-      "title": "Janek Orzechowski: hel- eller halvbror till Irena?",
-      "text": "Ywonne 2026-10-10 nämner Janek Orzechowski bland Irenas (avlidna) bröder. Om han är son till Stefan och Zofia Młodawska (d. 1933) bör han vara född 1923–1933 i Kielce; om han är född efter 1934 är han halvbror via Stanisława Smuga.",
-      "persons": [
-        "janek_orzechowski",
-        "stefan",
-        "zofia",
-        "stanislawa_smuga"
-      ],
-      "priority": 3,
-      "next_step": "Fråga familjen om Janeks födelseår; sök födelseakt Kielce 1923–1940."
     },
     {
       "title": "Var tog Christopher Nilsson i Skog vägen efter 1713?",
@@ -959,6 +940,13 @@
       "persons": [
         "karin_nilsdotter19",
         "sven_ersson"
+      ]
+    },
+    {
+      "title": "Nils Jonssons födelseår: 1747 (dop) mot 1745 (husförhör/dödbok)",
+      "text": "Dopboken C I/2 bild 64 (1747 nr 35) har Nils, son till Jon Larsson och Marit Persdotter i Arnäs, 27 sept 1747. Husförhör A I/6–A I/8 och dödboken 1800 (”född i Arnäs 1745 27/9”, 54½ år) anger 1745. 1745 års dop genomlästa utan träff; brodern Per föddes 16/12 1744. Dopboken är primär: 27/9 1747. Dödsålder borde vara 52½ år.",
+      "persons": [
+        "nils_jonsson_takene93"
       ]
     }
   ],
@@ -4000,6 +3988,27 @@
         "karin_hansd_edane"
       ],
       "resolution": "BW4 (omgång 59): två olika män – båda står samtidigt i mantal 1711–1712 (Edane A0003192_00482, Skog 00486); Skog-Christopher försvinner ur Skog 1713, Edane-Christopher kvar 1711–1719."
+    },
+    {
+      "title": "Jon Larsson och Marit Persdotter i Arnäs – föräldrar till Nils Jonsson f. 27/9 1745",
+      "text": "Dödboken 1800 (F I/1 bild 73 nr 16) anger Nils Jonssons föräldrar: bonden Jon Larsson och h. Marit Persdotter, Arnäs. Sök dopet 27/9 1745 i C I/2 (C0036783) och familjen i Arnäs i A I/1 (C0036740). Även Lisa Larsdotters ursprung (Ullerud/Glava) är outrett.",
+      "persons": [
+        "nils_jonsson_takene93"
+      ],
+      "resolution": "BW3 (omgång 59): Nils dop 27/9 1747 (C I/2 bild 64): Jon Larsson och Marit Persdotter i Arnäs; familjen i A I/1 bild 197 och A I/2 bild 176; vigsel 1/6 1740 (E I/1 bild 59)."
+    },
+    {
+      "title": "Janek Orzechowski: hel- eller halvbror till Irena?",
+      "text": "Ywonne 2026-10-10 nämner Janek Orzechowski bland Irenas (avlidna) bröder. Om han är son till Stefan och Zofia Młodawska (d. 1933) bör han vara född 1923–1933 i Kielce; om han är född efter 1934 är han halvbror via Stanisława Smuga.",
+      "persons": [
+        "janek_orzechowski",
+        "stefan",
+        "zofia",
+        "stanislawa_smuga"
+      ],
+      "priority": 3,
+      "next_step": "Fråga familjen om Janeks födelseår; sök födelseakt Kielce 1923–1940.",
+      "resolution": "Ywonne 2026-10-10: halvbror, son till Stefan i andra äktenskapet."
     }
   ],
   "backlog": [
