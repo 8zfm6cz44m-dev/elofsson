@@ -273,6 +273,15 @@
     "nils_jonsson_takene93",
     "lisa_larsd_takene93"
    ]
+  },
+  {
+   "title": "Karin och Malin Olofsdotter i Takene – systrar till Ingrid Olofsdotter (1693)?",
+   "text": "I Takene förekommer 1719–1727 flera Olofsdöttrar: Karin Olufsdotter, g.m. Per Nilsson (barn 25/1 1719 bild 121 nr 4, 1721 bild 134 nr 30, tvillingar 15/1 1724 bild 149 nr 9, 15/1 1727 bild 164 nr 4 där ”Ingri Olofsdotter i Takene” är gudmor); Malin Olufsdotter (gudmor vid Ingrids son Nils 1719, bild 121 nr 1; mor till barn 31/3 1722 bild 139 nr 13 med Per/Amund Gunnarsson?); Amund Olufsson och Oluf Olufsson i Takene (faddrar). Dop 1695 (bild 42): ”Oluf Nilssons barn i Ö. Takene dotter Karin”. Mönstret talar för att Ingrid, Karin och Malin är syskon och döttrar till Oluf Nilsson i Ö. Takene, men ingen källa säger det uttryckligen. OBS: mantalet har två Olof Nilsson i Ö. Takene (äldre/yngre).",
+   "persons": [
+    "ingrid_olofsd_1693",
+    "olof_nilsson_10",
+    "per_nilsson_toltan"
+   ]
   }
  ],
  "conflicts": [
@@ -3875,6 +3884,15 @@
     "christopher_svensson_saldebraten",
     "sven_ersson",
     "karin_nilsdotter19"
+   ]
+  },
+  {
+   "title": "Per Persson ifrån Ö. Takene 4 mån, begr. 1/5 1724 – son till Per Nilsson, inte Per Larsson",
+   "text": "Dopbok C I/1 bild 149 vä, 1724 nr 9: ”d 15 Jan: Christnades uti Christel. Församl. Namn Per Nilssons och h. Kari Olufsd:rs Twillinga barn i Ta-|kene wid namn Pär och Ingri. Fadd: Oluf Gunnarsson(?) i Takene, Nils Hansson(?) i Vinsta, h. Maria Åkman i Vinsta, h. Anna Josefsd.(?) i Takene.” Marginal: ”Pehr begrofs d. 1 Maji 1724.” Barnet som begravdes 1/5 1724 (E I/1 bild 165) är alltså Per Nilssons och Kari Olufsdotters tvilling, inte Per Larssons och Ingrids. Ortnamnet läses Takene (radbrytning ’Ta-|kene’, samma form som i fadderraden); notera att per_nilsson_toltan i repot anger tvillingarna 15/1 1724 under Toltan – ortsläsningen bör stämmas av. Kari Olufsdotter i Takene kan vara syster till Ingrid Olofsdotter (ej belagt).",
+   "persons": [
+    "per_larsson_takene",
+    "ingrid_olofsd_1693",
+    "per_nilsson_toltan"
    ]
   }
  ],

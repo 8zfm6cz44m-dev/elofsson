@@ -13248,5 +13248,24 @@
   "child": "august_jan62",
   "status": "verified",
   "basis": "Husförhör A I/35 bild 42 (Finnebäck): Jan Elofssons ”Sonen i första äkt. August 62 4/8 Brunskog”. Ersätter c-jan_e-kajsa_jonsd35_finneback-august_jan62 (se konfliktflagga – Kajsa Jonsdotter är inte hans mor)."
+ },
+ {
+  "id": "c-per_larsson_takene-ingrid_olofsd_1693-kjersti_perlarsd_1721",
+  "type": "child",
+  "parents": [
+   "per_larsson_takene",
+   "ingrid_olofsd_1693"
+  ],
+  "child": "kjersti_perlarsd_1721",
+  "status": "verified",
+  "basis": "C I/1 bild 136 hö, 1721 nr 43: ”Per Larssons och h. Ingri Olufsd:rs barn i Takene wid Namn Kiersti”"
+ },
+ {
+  "id": "s-nils_ihrsson_toltan-kjersti_perlarsd_1721",
+  "type": "sibling",
+  "a": "nils_ihrsson_toltan",
+  "b": "kjersti_perlarsd_1721",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Per Larsson och h. Ingrid Olufsdotter i Takene (C I/1 bild 121 nr 1, 1719; bild 136 nr 43, 1721)"
  }
 ]

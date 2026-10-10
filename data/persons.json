@@ -8146,6 +8146,18 @@
    {
     "label": "Riksarkivet, Brunskog vigselbok E I/1 (1727), bild 43 hö, inklistrad lapp (s. 67): ”d 29 Dec. … 1727 … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.” – senare tillägg ovanför: ”[Olof] dödde d 22 Aug: 1748”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00043"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 136 hö (s. 249), 1721 nr 43 [dito = 22 nov 1721]: ”dito Christnades uti Christel. Församl. Namn Per Larssons och h. Ingri Olufsd:rs barn i Takene wid Namn Kiersti. Fadd: Erik Knutss. ibid, Per Nilss. ibid, h. Börit Jacobsd:r, h. Anna Christoph.d:r ibid.” Marginal/tillägg: ”begrofs 1784 d 25/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00136"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 164 hö, 1727 nr 4: ”d 15 Jan. Christnades … Pehr Nilssons och Karin Olofsdotters barn i Takene kallat [Ingrid? överstruket]. Fadd. Olof Olofsson och Pehr Gunnarsson(?). Hust. Börit Jacobsd:r och Ingri Olofsdotter i Takene.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00164"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 43 (inklistrad lapp s. 67): 29 dec 1727 Olof Persson ifrån Kallgården(?) och [Enkan?] Ingeri i Ö. Takene; morgongåva 30 lod silver",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00043"
    }
   ],
   "search": [
@@ -8161,7 +8173,10 @@
    "BU5: Ingrid Olofsdotter på Takene var 1719 gift med Per Larsson (son Nils döpt 1/1 1719, C I/1 bild 121; Nils dödbok 1785 F I/1 bild 14: ”Mod. Ingrid Olofsd:r”). Hon var alltså gift två gånger: 1:o Per Larsson (d. före ca 1730), 2:o Olof Persson (son Olof Olsson 1731). Identiteten bygger på samma namn + Ö. Takene + ålder (f. 1693, son 1719) – strong. Stämmer med MyHeritage-trädets ”Ingrid … (född Olofsdotter 1:a giftet)” under Böret Persdotter. Fadder 1719 ”h. Malin Olufsd:r ibid” kan vara en syster (oprövat).",
    "BU7 VIGSEL 1: E I/1 bild 34 hö (1718): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.” (ortnamnet efter Per läses ’Tolta’ = Toltan). Sonen Nils döps 1/1 1719 (C I/1 bild 121).",
    "BU7 VIGSEL 2: E I/1 bild 43 hö, inklistrad lapp med rubrik 1727 (s. 67): ”d 29 Dec. … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.” Bruden kallas änka och bor på Ö. Takene; patronymikon står inte på lappen. Med dopet 7/2 1731 (”Olof Persson och h. Ingrid Olofsdr i Takene”) knyter detta Per Larssons änka till Olof Perssons hustru. Ovanför posten har en senare hand skrivit att Olof ”dödde d 22 Aug: 1748” (stämmer med MyHeritage 1703–1748). Lappen lästes inte av tidigare genomgång av bild 38–47.",
-   "BU7 PER LARSSONS DÖD: Brunskogs dödbok 1719–1730 (E I/1 bild 157–172) genomläst halvsida för halvsida. Ingen Per Larsson från Takene. Kandidat: 1726 nr 8 (bild 167 hö) ”d 13 Martii begrofs Per Larsson i Toltan … war 29 åhr” (f. ca 1697) – passar ’Dr. Per Larsson i Tolta’ vid vigseln 1718, men gården skiljer sig från Takene. Dessutom 1724 nr 4 (bild 165 hö): ”d 1 Maii begrofs Per Persson ifrån Ö. Takene 4 mån.” – möjligen parets barn (f. ca jan 1724), ej bevisat."
+   "BU7 PER LARSSONS DÖD: Brunskogs dödbok 1719–1730 (E I/1 bild 157–172) genomläst halvsida för halvsida. Ingen Per Larsson från Takene. Kandidat: 1726 nr 8 (bild 167 hö) ”d 13 Martii begrofs Per Larsson i Toltan … war 29 åhr” (f. ca 1697) – passar ’Dr. Per Larsson i Tolta’ vid vigseln 1718, men gården skiljer sig från Takene. Dessutom 1724 nr 4 (bild 165 hö): ”d 1 Maii begrofs Per Persson ifrån Ö. Takene 4 mån.” – möjligen parets barn (f. ca jan 1724), ej bevisat.",
+   "BV4: Barn i första äktenskapet: Nils 1/1 1719 (bild 121) och Kiersti 22/11 1721 (bild 136 nr 43). Barnet ”Per Persson ifrån Ö. Takene 4 mån” (begr. 1/5 1724) är INTE hennes – han är tvilling till Per Nilsson och Kari Olufsdotter (bild 149 nr 9).",
+   "BV4: 15 jan 1727 (bild 164 hö nr 4) står ”Ingri Olofsdotter i Takene” som gudmor (utan ’änka’/’hustru’-titel läsbar) hos Per Nilsson och Karin Olofsdotter i Takene. Karin Olofsdotter (Per Nilssons hustru, barn i Takene 1719, 1721, 1724, 1727) och Malin Olofsdotter i Takene (gudmor vid Nils 1719) är troliga systrar till Ingrid – ej belagt. En ”Oluf Nilssons dotter Karin” döptes i Ö. Takene 1695 (bild 42).",
+   "BV4 OMLÄSNING VIGSEL 1727 (E I/1 bild 43, inklistrad lapp, sid 67), ordagrant så långt läsbart: ”d 29 Dec. [vigdes?] 1727. Olof Persson ifrån Kallgården(?) o[ch] En[k?]…(radslut skymt) | [Enkan?] Ingeri i Ö. Takene efter bar[n…?] (radslut) | […]falding(?) Morgong: 30 lod Silfver.” Ovanför, senare hand: ”[s.] Olof … dödde d 22 Aug: 1748”. Ordet framför ’Ingeri’ ser ut som ’Enkan’ men är osäkert (lappens vänsterkant och radsluten är delvis skymda); ’änka’ kan därför inte citeras som säker läsning. Morgongåvan 30 lod silver."
   ],
   "died": {
    "date": "1771",
@@ -13808,13 +13823,23 @@
    {
     "label": "Riksarkivet, Brunskog E I/1 (dödbok 1723), bild 163 hö, nr 8: ”d 17 dito Begrofs Sal. Oluf Nilsson i Takene[?] som lefwat Christel. och wäl uti 68½ åhr”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00163"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 42 vä (1695): ”Dnca Reminiscere Oluf Nilssons barn i Ö. Takene dotter Karin”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00042"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 136 vä, 1721 nr 41–42: fadder ”Oluf Nilss. i Takene” 16 och 22 nov 1721",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00136"
    }
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 10:e generationen.",
    "BU5 KANDIDAT-DÖD: E I/1 bild 163 hö, 1723 nr 8: ”d 17 dito [mars] Begrofs Sal. Oluf Nilsson i Ta[k/d]ene som lefwat Christel. och wäl uti 68½ åhr” → f. ca 1654. Ortnamnet läses Takene (osäkert ’Tadene’). Ingrid Olofsdotter f. 1693 bodde på Ö. Takene – förenligt med att detta är hennes far och Böret Persdotters make (MH: Böret f. ca 1655). Ingen hustru/barn nämns – identiteten är candidate.",
    "BU5 MYHERITAGE (5 matchningar för Olof Nilsson; 22 för Böret Persdotter): Böret Nilsson f. Persdotter ca 1655–1693, syskon Gunilla Hansson f. Persdotter och Mattes/Mats Persson; dotter Ingrid (”Jonsson Persson, född Olofsdotter, 1:a giftet”).",
-   "BU7 OMLÄSNING E I/1 bild 163 hö, 1723 nr 8 (förstoring): ”d 17. dito Begrofs Sal. Oluf Nilsson i Ta[d/k]ene som lefwat Christel. och wäl uti 68½ åhr.” Bokstaven efter ’Ta’ är tvetydig – i nr 2 på samma sida skrivs ’Ö. Ta-|kene’ med ett tydligare k. Ingen hustru nämns. OBS: mantalet har två Olof Nilsson (äldre och yngre) i Ö. Takene 1709–1715 och en Olof Nilsson i Väst. Takene 1711 – identiteten med Ingrids far är därför fortsatt bara candidate."
+   "BU7 OMLÄSNING E I/1 bild 163 hö, 1723 nr 8 (förstoring): ”d 17. dito Begrofs Sal. Oluf Nilsson i Ta[d/k]ene som lefwat Christel. och wäl uti 68½ åhr.” Bokstaven efter ’Ta’ är tvetydig – i nr 2 på samma sida skrivs ’Ö. Ta-|kene’ med ett tydligare k. Ingen hustru nämns. OBS: mantalet har två Olof Nilsson (äldre och yngre) i Ö. Takene 1709–1715 och en Olof Nilsson i Väst. Takene 1711 – identiteten med Ingrids far är därför fortsatt bara candidate.",
+   "BV4 DOP 1695 (C I/1 bild 42 vä, tydlig hand): ”Dnca Reminiscere Oluf Nilssons barn i Ö. Takene dotter Karin.” (Reminiscere 1695 ≈ slutet av feb/början av mars.) Visar att en Oluf Nilsson i Ö. Takene fick barn 1695 – om Böret Persdotter dog 1693 måste han ha gift om sig, eller så är detta den yngre Olof Nilsson (mantalet har två). Ingen mor nämns.",
+   "BV4: ”Oluf Nilss. i Takene” fadder 16 och 22 nov 1721 (bild 136 vä nr 41–42), alltså levande i Takene 1721 (jfr begr. 17/3 1723, 68½ år)."
   ],
   "summary": "Olof Nilsson (10:e gen.) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
   "places": [],
@@ -43326,7 +43351,10 @@
    "Död före 1731 (Ingrid har då barn med Olof Persson) – dödsår ej sökt (E I/1 1719–1730).",
    "BU7 VIGSEL E I/1 bild 34 hö (1718): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.”",
    "BU7 DÖD (kandidat): E I/1 bild 167 hö, 1726 nr 8: ”d 13 Martii begrofs Per Larsson i Toltan som förde en sachtmodig och Gudel. wandel och war 29 åhr” → f. ca 1697. Ingen annan Per Larsson vuxen i dödboken 1719–1730 (bild 157–172). Samma dag nr 9 är ett barn Per Larsson ’ifrån Tyrsbyn(?)’ 5 år 4 mån (döpt 16/5 1720, C I/1 bild 127 nr 18, marginal ’Begrofs d 13 Martii 1726’) – annan person.",
-   "BU7: Änkan Ingerid i Ö. Takene gifte om sig 29/12 1727 med Olof Persson (E I/1 bild 43, inklistrad lapp) → Per Larsson död senast 1727."
+   "BU7: Änkan Ingerid i Ö. Takene gifte om sig 29/12 1727 med Olof Persson (E I/1 bild 43, inklistrad lapp) → Per Larsson död senast 1727.",
+   "BV4 DOP 1721 (C I/1 bild 136 hö nr 43, 22 nov): dottern Kiersti med ”h. Ingri Olufsd:r” i Takene. Ingen Per Larsson-dop hittat i övrigt 1719 – nov 1726 (bild 121–164) utom Nils 1719 och Kiersti 1721 (se BV4-flagga om vilka bilder som är lästa).",
+   "BV4: 16 nov 1721 (bild 136 vä nr 41) står ”Oluf Nilss. i Takene, Per Larss. ibid” som faddrar – Per Larsson bodde i Takene 1721, i samma by som Oluf Nilsson.",
+   "BV4 OMLÄSNING VIGSEL 1727 (E I/1 bild 43, inklistrad lapp, sid 67), ordagrant så långt läsbart: ”d 29 Dec. [vigdes?] 1727. Olof Persson ifrån Kallgården(?) o[ch] En[k?]…(radslut skymt) | [Enkan?] Ingeri i Ö. Takene efter bar[n…?] (radslut) | […]falding(?) Morgong: 30 lod Silfver.” Ovanför, senare hand: ”[s.] Olof … dödde d 22 Aug: 1748”. Ordet framför ’Ingeri’ ser ut som ’Enkan’ men är osäkert (lappens vänsterkant och radsluten är delvis skymda); ’änka’ kan därför inte citeras som säker läsning. Morgongåvan 30 lod silver."
   ],
   "sources": [
    {
@@ -43344,6 +43372,18 @@
    {
     "label": "Riksarkivet, Brunskog dödbok i E I/1 (1726), bild 167 hö, nr 8: ”d 13 Martii begrofs Per Larsson i Toltan som förde en sachtmodig och Gudel. wandel och war 29 åhr”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00167"
+   },
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 136 hö (s. 249), 1721 nr 43 [dito = 22 nov 1721]: ”dito Christnades uti Christel. Församl. Namn Per Larssons och h. Ingri Olufsd:rs barn i Takene wid Namn Kiersti. Fadd: Erik Knutss. ibid, Per Nilss. ibid, h. Börit Jacobsd:r, h. Anna Christoph.d:r ibid.” Marginal/tillägg: ”begrofs 1784 d 25/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00136"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1, bild 136 vä, 1721 nr 41 (16 nov): fadder ”Oluf Nilss. i Takene, Per Larss. ibid” – Per Larsson bor i Takene nov 1721",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00136"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 43 (inklistrad lapp s. 67): 29 dec 1727 Olof Persson ifrån Kallgården(?) och [Enkan?] Ingeri i Ö. Takene; morgongåva 30 lod silver",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00043"
    }
   ],
   "search": [
@@ -43844,6 +43884,39 @@
   ],
   "search": [
    "Cajsa Svensdotter (f. 1824 Sunne, Lene)"
+  ]
+ },
+ {
+  "id": "kjersti_perlarsd_1721",
+  "name": "Kjersti Persdotter (1721, Ö. Takene)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1721-11-22",
+   "place": "Takene, Brunskog",
+   "note": "Dopdag; nr 43 står ’dito’ efter nr 42 ’d 22 dito’ (nov 1721, nr 41 är 16 nov)."
+  },
+  "died": {
+   "date": "1784-04-25",
+   "place": "",
+   "note": "Begravningsdag enligt tillägg i dopboken (”begrofs 1784 d 25/4”); samma tillägg är först skrivet vid nr 30 (bild 134) och där överstruket – flyttat till rätt barn. Bör kontrolleras i F I/1 (1783–1809), april 1784."
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Dotter till Per Larsson och Ingrid Olofsdotter i Takene, döpt 22 nov 1721; begravd 25 april 1784 enligt tillägg i dopboken. Helsyster till Nils Persson (1719).",
+  "notes": [
+   "DOP C I/1 bild 136 hö, 1721 nr 43: ”dito Christnades uti Christel. Församl. Namn Per Larssons och h. Ingri Olufsd:rs barn i Takene wid Namn Kiersti. Fadd: Erik Knutss. ibid, Per Nilss. ibid, h. Börit Jacobsd:r, h. Anna Christoph.d:r ibid.” Tillägg: ”begrofs 1784 d 25/4”. Namnet understruket och läses Kiersti/Christi."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 136 hö (s. 249), 1721 nr 43 [dito = 22 nov 1721]: ”dito Christnades uti Christel. Församl. Namn Per Larssons och h. Ingri Olufsd:rs barn i Takene wid Namn Kiersti. Fadd: Erik Knutss. ibid, Per Nilss. ibid, h. Börit Jacobsd:r, h. Anna Christoph.d:r ibid.” Marginal/tillägg: ”begrofs 1784 d 25/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00136"
+   }
+  ],
+  "search": [
+   "Kjersti Persdotter (1721, Ö. Takene)"
   ]
  }
 ]
