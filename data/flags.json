@@ -304,31 +304,11 @@
    ]
   },
   {
-   "title": "Sänk c-nils_larsson_toltan_d1715-elof_nilsson från candidate till lead",
-   "text": "Hypotesen att Elof är son till Nils Larsson i Toltan (begr. 20/2 1715, 80 år, f. ca 1635) vilar bara på att Elof tar Nils Larssons plats i mantalsföljden 1718 – vilket lika väl förklaras av att Elof gifte sig 1717 med änkan Marit Isaksdotter i Toltan och övertog hennes hushåll. Mot den står nu: dopet 26/5 1689 ”[E]luff Nilsson i Skog”, föräldrar Nils Christophersson och Anna Jonsdotter (bild 15, E-formen), Elofs täta faddersamband med Skog-hushållet (Nils och Karin Nilsdotter i Skog 1727–1735) och med Påhl Nilsson (”Elof och Påhl Nilssonar”, 1729), sonnamnet Christopher, samt herdaminnets bekräftelse av familjen i Skog. Föreslår: relationen till Nils Larsson sänks till lead; ny relation c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson som candidate.",
-   "persons": [
-    "elof_nilsson",
-    "nils_larsson_toltan_d1715",
-    "nils_christophersson_skog",
-    "olof_nilsson_skog1689"
-   ]
-  },
-  {
    "title": "Möjlig dubblett: olof_nilsson_skog1689 = elof_nilsson",
    "text": "Barnet 26/5 1689 (C I/1 bild 15) läses nu ”[E]luff Nilsson i Skog”. Om sammanslagning görs ska id elof_nilsson behållas (ändras aldrig). Föreslår ingen merge förrän vigselortnamnet 1717 (E I/1 bild 34) bekräftats som ”Skog” eller annan källa knyter Elof i Toltan till Skog. Åldersdiffen (annus nativitatis 1687 i A I/2–A I/3, ”1689” överskrivet i A I/1, 73 år 1760) är förenlig med ett dop 1689 eftersom 1700-talets åldersuppgifter ofta avviker 1–2 år.",
    "persons": [
     "elof_nilsson",
     "olof_nilsson_skog1689"
-   ]
-  },
-  {
-   "title": "”Stoy” är felläst – ska vara ”Skog”",
-   "text": "I noter/källor för nils_n_stoy, elof_nilsson och relationer står ”Nils Nilsson i Stoy”, ”Jon Gustafsson i Stoy”, ”Karin Nilsdotter i Stoy”. BU4 läser ortnamnet som ”Skog” (kurrent-Sk, C I/1 bild 165, 170, 176, 212); Jon Gustafsson står i Skog i mantal 1714 (A0003195 bild 502) och 1719 (A0003198 bild 506). Likaså ska ”Elof och Pehr Nilssonar i Toltan” (bild 176, 1729) läsas ”Elof och Påhl Nilssonar”, vilket försvagar basis för s-elof_nilsson-per_nilsson_toltan.",
-   "persons": [
-    "nils_n_stoy",
-    "elof_nilsson",
-    "per_nilsson_toltan",
-    "pal_nilsson_hagen"
    ]
   },
   {
@@ -3825,6 +3805,30 @@
    ],
    "verdict": "resolved",
    "why": "Sammanslagna 2026-10-10: nils_christophersson33→nils_christophersson_skog, anna_jonsd50→anna_jonsd_skog1689."
+  },
+  {
+   "title": "Sänk c-nils_larsson_toltan_d1715-elof_nilsson från candidate till lead",
+   "text": "Hypotesen att Elof är son till Nils Larsson i Toltan (begr. 20/2 1715, 80 år, f. ca 1635) vilar bara på att Elof tar Nils Larssons plats i mantalsföljden 1718 – vilket lika väl förklaras av att Elof gifte sig 1717 med änkan Marit Isaksdotter i Toltan och övertog hennes hushåll. Mot den står nu: dopet 26/5 1689 ”[E]luff Nilsson i Skog”, föräldrar Nils Christophersson och Anna Jonsdotter (bild 15, E-formen), Elofs täta faddersamband med Skog-hushållet (Nils och Karin Nilsdotter i Skog 1727–1735) och med Påhl Nilsson (”Elof och Påhl Nilssonar”, 1729), sonnamnet Christopher, samt herdaminnets bekräftelse av familjen i Skog. Föreslår: relationen till Nils Larsson sänks till lead; ny relation c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson som candidate.",
+   "persons": [
+    "elof_nilsson",
+    "nils_larsson_toltan_d1715",
+    "nils_christophersson_skog",
+    "olof_nilsson_skog1689"
+   ],
+   "verdict": "resolved",
+   "why": "Åtgärdat 2026-10-10: relationen sänkt till lead; ”Stoy” ändrat till ”Skog” i namn/sammanfattning (id:n oförändrade)."
+  },
+  {
+   "title": "”Stoy” är felläst – ska vara ”Skog”",
+   "text": "I noter/källor för nils_n_stoy, elof_nilsson och relationer står ”Nils Nilsson i Stoy”, ”Jon Gustafsson i Stoy”, ”Karin Nilsdotter i Stoy”. BU4 läser ortnamnet som ”Skog” (kurrent-Sk, C I/1 bild 165, 170, 176, 212); Jon Gustafsson står i Skog i mantal 1714 (A0003195 bild 502) och 1719 (A0003198 bild 506). Likaså ska ”Elof och Pehr Nilssonar i Toltan” (bild 176, 1729) läsas ”Elof och Påhl Nilssonar”, vilket försvagar basis för s-elof_nilsson-per_nilsson_toltan.",
+   "persons": [
+    "nils_n_stoy",
+    "elof_nilsson",
+    "per_nilsson_toltan",
+    "pal_nilsson_hagen"
+   ],
+   "verdict": "resolved",
+   "why": "Åtgärdat 2026-10-10: relationen sänkt till lead; ”Stoy” ändrat till ”Skog” i namn/sammanfattning (id:n oförändrade)."
   }
  ],
  "backlog": [

@@ -10252,7 +10252,7 @@
  },
  {
   "id": "nils_n_stoy",
-  "name": "Nils Nilsson i Skog (tidigare läst ”Stoy”)",
+  "name": "Nils Nilsson i Skog (tidigare läst ”Skog”)",
   "status": "verified",
   "sex": "m",
   "living": false,
@@ -10263,7 +10263,7 @@
   "places": [
    "Skog, Brunskog"
   ],
-  "summary": "Bonde i Stoy, gift med Britta Claesdotter. Faddrar vid Elof Nilssons barn (Per 1728, Nils 1735) och Elof Nilsson vid hans barn 1727 och 1729 – trolig bror eller nära släkting till Elof Nilsson (samma patronymikon; kallas ”Elof och Pehr Nilssonar i Toltan” 1729). Namngiven som far i dopen 1727 och 1729; släktskap med Elof Nilsson är bara lead.",
+  "summary": "Bonde i Skog, gift med Britta Claesdotter. Faddrar vid Elof Nilssons barn (Per 1728, Nils 1735) och Elof Nilsson vid hans barn 1727 och 1729 – trolig bror eller nära släkting till Elof Nilsson (samma patronymikon; kallas ”Elof och Pehr Nilssonar i Toltan” 1729). Namngiven som far i dopen 1727 och 1729; släktskap med Elof Nilsson är bara lead.",
   "notes": [
    "1727 nr 10 (C I/1 bild 165): Elof Nilsson i Toltan fadder till Nils Nilssons och Britta Claesdotters son Nils.",
    "1729 nr 7 (bild 176): faddrar ”Elof och Pehr Nilssonar i Toltan”.",
@@ -10299,7 +10299,7 @@
  },
  {
   "id": "britta_claesd_stoy",
-  "name": "Britta Claesdotter (Stoy)",
+  "name": "Britta Claesdotter (Skog)",
   "status": "verified",
   "sex": "f",
   "living": false,
@@ -10310,7 +10310,7 @@
   "places": [
    "Stoy, Brunskog"
   ],
-  "summary": "Hustru till Nils Nilsson i Stoy; mor till Nils (1727) och Anders (1729).",
+  "summary": "Hustru till Nils Nilsson i Skog; mor till Nils (1727) och Anders (1729).",
   "notes": [],
   "sources": [
    {
@@ -10328,7 +10328,7 @@
  },
  {
   "id": "nils_nn27",
-  "name": "Nils Nilsson (1727, Stoy)",
+  "name": "Nils Nilsson (1727, Skog)",
   "status": "verified",
   "sex": "m",
   "living": false,
@@ -10340,7 +10340,7 @@
   "places": [
    "Stoy, Brunskog"
   ],
-  "summary": "Son till Nils Nilsson och Britta Claesdotter i Stoy; Elof Nilsson i Toltan var fadder.",
+  "summary": "Son till Nils Nilsson och Britta Claesdotter i Skog; Elof Nilsson i Toltan var fadder.",
   "notes": [
    "C I/1 bild 165, 1727 nr 10: ”d 11 Febr. … Nils Nilsson och h. Britta Claesdotter barn i Stoy, Nils kallat. Fadd: Jon Gustafsson i Stoy och Elof Nilsson i Toltan.”"
   ],
@@ -10356,7 +10356,7 @@
  },
  {
   "id": "anders_nn29",
-  "name": "Anders Nilsson (1729, Stoy)",
+  "name": "Anders Nilsson (1729, Skog)",
   "status": "verified",
   "sex": "m",
   "living": false,
@@ -10368,7 +10368,7 @@
   "places": [
    "Stoy, Brunskog"
   ],
-  "summary": "Son till Nils Nilsson och Britta Claesdotter i Stoy; faddrar ”Elof och Pehr Nilssonar i Toltan”.",
+  "summary": "Son till Nils Nilsson och Britta Claesdotter i Skog; faddrar ”Elof och Pehr Nilssonar i Toltan”.",
   "notes": [
    "C I/1 bild 176, 1729 nr 7: ”d 12 Febr. … som kallades Anders. Fadd: Elof och Pehr Nilssonar i Toltan, hust. Gertrud Bondesdotter ibm, Karin Nilsdotter i Stoy.”"
   ],
@@ -17296,7 +17296,7 @@
    "Toltan",
    "”Frostån” (osäker läsning)"
   ],
-  "summary": "Gift 28 dec 1758 med Marit Christophersdotter från Åsen. Son till Nils Larsson och Kjersti Olsdotter, Toltan (ej samma som Nils Nilsson i Stoy).",
+  "summary": "Gift 28 dec 1758 med Marit Christophersdotter från Åsen. Son till Nils Larsson och Kjersti Olsdotter, Toltan (ej samma som Nils Nilsson i Skog).",
   "notes": [
    "DÖDBOK F I/1 bild 66 (s. 105), Begrafne 1799, jan. 6, nr 1: ”D.M. Nils Nilsson i Frastån[?] född 1735 9/4[?] uti Toltan af D.M. Nils Larsson och H. Kjersti Olsd. Gift 1758 28/12 med H. Marit Christophersd. från Åsen. Afled den 28 December uti Hals af Slag. 63 år 10 mån.”",
    "DOPBOK 1735 (C I/1 bild 209, sida 391 hö, nr 5): ”9 Martii Nils Larsson och Hust. Kerstin Olofsd. i Toltan Son Nils. Fadd. Olof Nilsson, Nils Ingesson ibid. Hust. Marit Olofsd., Ingrid Mattsd. ibidem.” Verifierar föräldrarna Nils Larsson och Kerstin/Kjersti Olsdotter. (Fadder ’Olof Nilsson’ kan vara Elof Nilsson – ej bevisat.)",
