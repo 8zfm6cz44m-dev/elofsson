@@ -13618,5 +13618,46 @@
   "child": "karin_olofsd_toltan",
   "status": "candidate",
   "basis": "Vigsel E I/1 bild 32 hö (1716): ”Pig. Karin Olufsdotter i Ö: Takene” g.m. Per Nilsson; trolig identitet med Karin döpt 1695 som ”Oluf Nilssons barn i Ö. Takene” (bild 42) – namn, by och ålder (21 år) stämmer, Per Nilsson står i Ö. Takene-mantalet 1718–1720. Ingen källa säger uttryckligen att bruden är Oluf Nilssons dotter."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-lisken_elofsd27_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "lisken_elofsd27_persjon",
+  "status": "strong",
+  "basis": "Nyed C/2 (C0038558) bild 19 (1727): ”Lisken Elofsdotter i Persjön född d 27 aug: fadren Elof Ersson, modren Maria Olofsdotter” – OBS konflikt med Erik f. 22/1 1728 (samma föräldrar, bild 21), därför strong."
+ },
+ {
+  "id": "s-karin_elofsd35-lisken_elofsd27_persjon",
+  "type": "sibling",
+  "a": "karin_elofsd35",
+  "b": "lisken_elofsd27_persjon",
+  "status": "strong",
+  "basis": "Båda döpta i Persjön med föräldrarna Elof Ersson och Maria Olofsdotter (Nyed C/2 b.19, 1727; Älvsbacka C/1 b.17, 1735); Karis koppling till Persjön-dopet är strong."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-erik_elofsson28_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "erik_elofsson28_persjon",
+  "status": "strong",
+  "basis": "Nyed C/2 bild 21 (1728): ”Eric Elofsson i Persjön född d 22 Januarii, fadren Elof Ersson modren Maria Olofsdotter” – strong p.g.a. datumkonflikt med Lisken 1727."
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-olof_elofsson29_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "olof_elofsson29_persjon",
+  "status": "verified",
+  "basis": "Nyed C/2 bild 26 (1729): ”Olof Elofsson i Persjön född d 28 octber fadren Elof Ersson modren Maria Olofsdotter döpt hemma för dess swaghet”"
  }
 ]
