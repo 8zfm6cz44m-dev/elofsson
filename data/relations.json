@@ -13485,5 +13485,13 @@
   "b": "janek_orzechowski",
   "status": "family",
   "basis": "Ywonne 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”. Hel- eller halvbror okänt."
+ },
+ {
+  "id": "p-kjersti_perlarsd_1721-mans_mansson_amot_g1746",
+  "type": "partner",
+  "a": "kjersti_perlarsd_1721",
+  "b": "mans_mansson_amot_g1746",
+  "status": "verified",
+  "basis": "F I/1 bild 12 hö (1784 nr 12): ”Hust: Kjerstin Persd:r från Åmot … gift 1746 … Måns Månsson i Åmot”"
  }
 ]

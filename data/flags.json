@@ -280,6 +280,15 @@
       ],
       "priority": 3,
       "next_step": "Fråga familjen om Janeks födelseår; sök födelseakt Kielce 1923–1940."
+    },
+    {
+      "title": "Var tog Christopher Nilsson i Skog vägen efter 1713?",
+      "text": "Han lämnar Skog i mantal 1713 (Jon Göstafsson i hans ställe). Inga spår i Brunskogs död-/vigselbok 1712–1716. Trolig flytt till Boda (Elins hemsocken, Olsrud[?]). Sök Boda mantal 1714–1720 och Boda dop (C I/1) efter barn till Christopher Nilsson × Elin Göstafsdotter. Släktskapen med Nils Christophersson i Skog (patronymikon + gård) är fortfarande obelagd.",
+      "persons": [
+        "christopher_nilsson_skog",
+        "elin_gostafsd_1713",
+        "nils_christophersson_skog"
+      ]
     }
   ],
   "conflicts": [
@@ -950,16 +959,6 @@
       "persons": [
         "karin_nilsdotter19",
         "sven_ersson"
-      ]
-    },
-    {
-      "title": "Christopher Nilsson i Skog (g. 1713 m. Elin Göstafsdotter) vs Christopher Nilsson i Edane (hustru Karin Hansdotter 1715–17)",
-      "text": "Dopboken C I/1 1714–1729 (bild 86–181, hela perioden genomläst) har INGET barn till Christopher Nilsson och Elin Göstafsdotter. Däremot döps barn till Christopher Nilsson och H. Karin/Kari [Hans]d:r i Edane: 31/8 1715 Anders[?] (bild 97, fadern bara ”Christophers”), 24/12 1717 Anna (bild 112), 26/5 1720 Per (bild 128), 2/7 1725 Anders (bild 155). Antingen är Edane-Christopher en annan man än Skog-Christopher (vigd 7/6 1713 med Elin), eller dog Elin tidigt och han gifte om sig med Karin. ”Christopher Nilsson från Edanen”, begr. 7/6 1741, 72 år (E I/1 bild 92) passar Edane-mannen. Obs: en tredje Christopher Nilsson bor i Smådal med Marit Nilsdotter (barn Nils 1727 bild 166, Marit 1729 bild 178) och står fadder 1729 (bild 178). Nästa steg: sök Elin Göstafsdotters död 1713–15 (dödbok i E I/1 bild 138–150) och ett vigsel Christopher Nilsson × Karin 1713–15 (E I/1 bild 29–33).",
-      "persons": [
-        "christopher_nilsson_skog",
-        "elin_gostafsd_1713",
-        "christopher_nilsson_edane",
-        "karin_hansd_edane"
       ]
     }
   ],
@@ -3980,6 +3979,27 @@
       "next_step": "Fråga Ywonne om namnet Jarczyńska; Irenas dopakt Kielce 1926 (arkivbeställning).",
       "doable": false,
       "resolution": "Ywonne 2026-10-10: flicknamnet är Orzechowska; Jarczyńska är namnet från ett tidigare äktenskap med en äldre man, före Bolesław."
+    },
+    {
+      "title": "Christopher Nilsson i Skog ≠ Christopher Nilsson i Edane",
+      "text": "Mantalslängderna för Brunskog 1711 (A0003192 bild 482 hö Edane ”Christop: Nilsson” 1 1; bild 486 vä Skog ”Christopher Nilsson”) och 1712 (A0003193 bild 444 hö Edane; bild 448 vä Skog) har samtidigt en Christopher Nilsson i Edane och en i Skog. Edane-Christopher har hustru redan 1711 och står kvar i Edane 1711–1719 (hustru Karin Hansdotter, barn 1715–1725). Skog-Christopher var dräng och gifte sig 7/6 1713 med Elin Göstafsdotter; han försvinner ur Skog i mantal 1713 där Jon Göstafsson tar över. Ingen död för Elin och ingen vigsel Christopher×Karin i Brunskog 1712–1716. Alltså två olika män. ”Christopher Nilsson från Edanen” (begr. 1741, 72 år, f. ca 1669) hör till Edane-Christopher och ska inte användas för Skog-Christopher.",
+      "persons": [
+        "christopher_nilsson_skog",
+        "christopher_nilsson_edane",
+        "karin_hansd_edane",
+        "elin_gostafsd_1713"
+      ]
+    },
+    {
+      "title": "Christopher Nilsson i Skog (g. 1713 m. Elin Göstafsdotter) vs Christopher Nilsson i Edane (hustru Karin Hansdotter 1715–17)",
+      "text": "Dopboken C I/1 1714–1729 (bild 86–181, hela perioden genomläst) har INGET barn till Christopher Nilsson och Elin Göstafsdotter. Däremot döps barn till Christopher Nilsson och H. Karin/Kari [Hans]d:r i Edane: 31/8 1715 Anders[?] (bild 97, fadern bara ”Christophers”), 24/12 1717 Anna (bild 112), 26/5 1720 Per (bild 128), 2/7 1725 Anders (bild 155). Antingen är Edane-Christopher en annan man än Skog-Christopher (vigd 7/6 1713 med Elin), eller dog Elin tidigt och han gifte om sig med Karin. ”Christopher Nilsson från Edanen”, begr. 7/6 1741, 72 år (E I/1 bild 92) passar Edane-mannen. Obs: en tredje Christopher Nilsson bor i Smådal med Marit Nilsdotter (barn Nils 1727 bild 166, Marit 1729 bild 178) och står fadder 1729 (bild 178). Nästa steg: sök Elin Göstafsdotters död 1713–15 (dödbok i E I/1 bild 138–150) och ett vigsel Christopher Nilsson × Karin 1713–15 (E I/1 bild 29–33).",
+      "persons": [
+        "christopher_nilsson_skog",
+        "elin_gostafsd_1713",
+        "christopher_nilsson_edane",
+        "karin_hansd_edane"
+      ],
+      "resolution": "BW4 (omgång 59): två olika män – båda står samtidigt i mantal 1711–1712 (Edane A0003192_00482, Skog 00486); Skog-Christopher försvinner ur Skog 1713, Edane-Christopher kvar 1711–1719."
     }
   ],
   "backlog": [
