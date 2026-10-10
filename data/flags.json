@@ -1,31 +1,6 @@
 {
  "open": [
   {
-   "title": "Christopher Svensson f. 1754: födelseort/föräldrar ej funna",
-   "text": "Såldebråten (A I/6 bild 66 och A I/7 bild 13) 1753–71 är Pål Anderssons gård (Pål Andersson f. 1719 27/3, Britta Elofsd., Kerstin Månsdotter änka f. 1681) – ingen Sven Ersson/Karin/Christopher där. Christopher dyker upp först som dräng/änkling i Gönäs/Såldebråten 1778–82 (vigsel 1778 E I/1 bild 114). Gönäs A I/8 (C0037109) bild 180–181 (fol. 168–169, 1777): Per Nilsson/Elin Svensd. och en 'Nils Sv…' (1758?) – släktband ej styrkt. Dop i Frykerud 1753–54 genomläst tidigare; grannsocknar ej hunna. Dödboken 1803 (F/1 bild 101) anger bara 'Gifta Christopher Svensson i Såldebråten, 49 år 4 mån 8 dgr'. MH-föräldrar Sven Ersson/Karin Nilsdotter står kvar som lead.",
-   "persons": [
-    "christopher_svensson_saldebraten",
-    "sven_ersson",
-    "karin_nilsdotter19"
-   ],
-   "priority": 1,
-   "next_step": "Sök dop i grannsocknar Boda/Kil/Gönäs och vigsel 1778 E I/1 bild 114.",
-   "doable": true,
-   "source": "Dopböcker Fryksände, Ämtervik, Kil (Riksarkivet bildvisning) okt 1753-54"
-  },
-  {
-   "title": "Arne Andersson: vigsel 1746 med Ingerd Nilsd. eller bara Marit Jönsdotter?",
-   "text": "E I/1 bild 64 (1746 nr 2): ”14 Martii Arne Andersson från Crona, Enkl. Pig. Ingierd Nilsd. fr. Ranglarud”. Om det är samme Arne (f. 26/1 1724 Ragnerud, fadder i Krona) var han gift med Ingerd Nilsd. före Marit Jönsdotter (barn 1752 och 1754 med Marit). Vigseln med Marit Jönsdotter ej funnen i E I/1 bild 63–72 (1744–54).",
-   "persons": [
-    "arne_andersson",
-    "marit_jonsd_ragnilsrud"
-   ],
-   "priority": 2,
-   "next_step": "Kolla om Arne Andersson gift 1746 med Ingerd Nilsd; jämför med Marit Jönsdotter, Brunskog E I/1 bild 63-72.",
-   "doable": true,
-   "source": "Brunskog E I/1 bild 64 (1746 nr 2) + dödbok E I/1 1746-52 (Ingerd Nilsd Ragnilsrud) + husförhör A I/1 Ragnilsrud"
-  },
-  {
    "title": "Bolesław Kogut: födelseakt-lead Ostrowiec Św. 1915 akt 28 (mor Anna Kogut)",
    "text": "Geneteka B 13sk: Bolesław Kogut, 1915, akt 28, mor Anna Kogut, far saknas, Ostrowiec Świętokrzyski (Rzeczki), Uwagi 'Data urodzenia: 14.01.1915 r.'. Passar år, namn och region (Świętokrzyskie) men datum 14.1 mot 15.1 och inget om Trzcińsko-Zdrój/Irena. Lead, ej bevisat – akten måste läsas; även dopdatum kan vara 15.1.",
    "persons": [
@@ -94,19 +69,6 @@
    "source": "Riksarkivet: husförhör Risäter/Nedre Ullerud 1880-90 (födelsedatum 30/8 1848?), Grava husförhör A I/20 C0037387, Brunskog utflyttning till Grava 1872"
   },
   {
-   "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
-   "text": "Husförhör A I/1 bild 72 (Ö. Glänna 1725–29) visar ”Son Jon Andersson” och indraget ”H. Malin Olofsd.” i Anders Sidriksons hushåll; dopet 22/11 1726 (C/3 bild 13): ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna … till namnen Ingerid”. Faderns efternamn ’Ingesson’ kan vara en feltolkning av ’Andersson’. Dotter Ingerid f. 1726 ej hittad i husförhörsraderna A I/1–A I/2 (överstrukna/svårlästa). Förslag: uppgradera Malin till strong och Jon Andersson (inte Ingesson) som kandidat; verifiering kräver A I/2–A I/4 Ö. Glänna med ’D. Ingerid’ 1726 eller dödbok.",
-   "persons": [
-    "fr_ingeridjonsd1726",
-    "fr_jon_far_ingerid",
-    "fr_malinolofsd_ingerid"
-   ],
-   "priority": 3,
-   "next_step": "Verifiera Jon Andersson och Malin Olofsdotter som föräldrar till Ingerid i Ö. Glänna (A I/1 bild 72, C/3 bild 13).",
-   "doable": true,
-   "source": "Frykerud dödbok F/1 1726-35 Ö. Glänna (Jon Andersson/Malin Olofsd) samt A I/2-A I/4 Ö. Glänna"
-  },
-  {
    "title": "Ingrid Olofsdotter (1693) – dop",
    "text": "Husförhör A I/1 anger ”Enk. Mod. Ingrid Olofsd” f. 1693 (67–70 år 1760–63). Dopbok C I/1 bild 34–38 (1693) genomläst: ingen Ingrid med fader Olof på Takene hittad (en Ingrid med fader Knut på Berge, bild 37). 1690-talets handstil är svårläst; kontrollera även 1692 och 1694 (bild 28–33, 39–42), eller söka via vigsel Olof Persson + Ingrid Olofsdotter (E I/1).",
    "persons": [
@@ -119,19 +81,6 @@
    "source": "Brunskog dopbok C I/1 bild 28-33 och 39-42 (1692, 1694); dödbok ca 1771"
   },
   {
-   "title": "Jan Elofssons söner August (1862) och Anders (1877): senare liv",
-   "text": "August Jansson f. 1862 (strong) = hemmansägare Wikene, Brunskog, g. Maria Olsdotter f. 1866, barn t.o.m. 1907. Anders Janson f. 1877 (strong) i Stockholm 1900, Lübeck före 1913, Solna 1930. Båda kopplingarna bygger på namn/födelseår/-församling; bekräfta via Brunskogs husförhör (Finnebäck/Gryttom) eller Stockholms/Solna utflyttning. Ingen Amerika-utvandring påvisad i folkräkningarna. Jan Elofssons första hustru Maria Persdotter (barn före 1862?) ej funnen.",
-   "persons": [
-    "jan_e",
-    "august_jansson62",
-    "anders_janson77"
-   ],
-   "priority": 3,
-   "next_step": "Bekräfta identitet via Brunskog husförhör Finnebäck/Gryttom, slå sedan ihop dubbletterna.",
-   "doable": true,
-   "source": "Riksarkivet: Brunskog husförhör Finnebäck/Gryttom (A II a/1, ca 1880-1900), Stockholm/Solna flyttlängder för Anders"
-  },
-  {
    "title": "Johan Olofssons barn (kommissionär i Arvika)",
    "text": "1910 Arvika köping N:o 266: barn Olof Gunnar 1897, Johan Gottfrid 1904, Anna Valborg Elvira 1909. Jan Källnes mor/far (”jan_forald”) torde vara ett av dessa (Anna Valborg Elvira f. 1909? eller en dotter född 1898–1903 som ej bor hemma 1910) – kontrollera Brunskog dop 1895–1903 och Arvika-husförhör. Morfar till Jan Källne ⇒ Jan Källnes förälder är en DOTTER till Johan: i 1910 finns bara Anna Valborg Elvira (f. 1909) som dotter – kan vara Jan Källnes mor, eller en äldre dotter f. ca 1896–1903.",
    "persons": [
@@ -142,18 +91,6 @@
    "next_step": "Fråga Jan Källne efter förälderns namn; kontrollera Brunskog dop 1895-1903 och Arvika församlingsutdrag.",
    "doable": false,
    "source": ""
-  },
-  {
-   "title": "Jonas Nilsson f. 3/5 1821 – gift 4/1 1857 med Lovisa Carlsdotter (strong)",
-   "text": "Vigselbok E I/2 bild 108: lysning 16/11 1856, vigsel 4/1 1857, ”Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene”, 36/26 år. Förälder ej angiven. 1859 (bild 116) nämns ”Jonas Nilsson och dess hustru Cajsa Svensdotter i Lene” som vittne – ev. annan Jonas Nilsson i Lene, eller Lovisa död/omgift; ej utrett.",
-   "persons": [
-    "fr_jonasnilsson1821",
-    "lovisa_carlsd_lene31"
-   ],
-   "priority": 3,
-   "next_step": "Reda ut Jonas Nilsson i Lene 1857 vs 1859 (Cajsa Svensdotter); verifiera lovisa_carlsd_lene31.",
-   "doable": true,
-   "source": "Riksarkivet: Frykerud husförhör A I/21b (1851-60) Lene + vigselbok E I/2 bild 116 (1859)"
   },
   {
    "title": "Maryanna Sochas födelse: dateringen 8.12.1817 stöds inte av Brzeziny 1817",
@@ -189,18 +126,6 @@
    "next_step": "Bouppteckning 1972 efter Nils Bertil; fråga släkten om Inges föräldrar.",
    "doable": false,
    "source": ""
-  },
-  {
-   "title": "Nils Jonsson (Takene) – möjlig härkomst Svartån, men Lisa Larsd ej belagd",
-   "text": "Kandidat: Nils Jonsson f. 1760 Svartån, son till Jon Nilsson 1724 och Brita Olsd 1727 (A I/5 b.79, A I/6 b.79). Ej bevisat: Lisa Larsd 1753 ej funnen i hushållet, vigsel 1787–92 ej funnen, och en annan Nils Jonsson/Marit Olsd fick barn i Ö. Takene 1779.",
-   "persons": [
-    "nils_jonsson_takene93",
-    "lisa_larsd_takene93"
-   ],
-   "priority": 3,
-   "next_step": "Sök vigsel Nils Jonsson x Lisa Larsdotter 1787-92 och Lisas hushåll Boda/Brunskog.",
-   "doable": true,
-   "source": "Brunskog E I/2-E I/3 vigsel 1780-92, husförhör A I/5-A I/6 Svartån/Takene"
   },
   {
    "title": "Två ’Nils Larsson’ i Toltan? (mantalsskriven vs. son till Lasse Erichsson f. 1699)",
@@ -317,21 +242,36 @@
    ]
   },
   {
-   "title": "Ingrid Olofsdotter (1693): två makar – Per Larsson och Olof Persson",
-   "text": "Dop 1/1 1719 (C I/1 bild 121) och dödbok 1785 (F I/1 bild 14) ger Nils Persson (Toltan, f. 1719 på Ö. Takene) föräldrarna Per Larsson och Ingrid Olofsdotter. ingrid_olofsd_1693 är i repo gift med Olof Persson (son Olof Olsson 1731). Kontrollera Per Larssons död (E I/1 1719–1730) och Ingrids vigsel med Olof Persson för att göra identiteten verified. Nils Persson och Olof Olsson (1731) blir då halvbröder.",
-   "persons": [
-    "ingrid_olofsd_1693",
-    "per_larsson_takene",
-    "nils_ihrsson_toltan",
-    "olof_persson_takene"
-   ]
-  },
-  {
    "title": "Christopher Nilsson från Edanen d. 1741 (72 år) = Christopher Nilsson i Skog?",
    "text": "E I/1 bild 92 (1741 nr 15): ”gamle … Mannen Christopher Nilsson från Edanen[?] … i 72 åhr” (f. ca 1669). Christopher Nilsson i Skog (mantal 1710) gifte sig 7/6 1713 med Elin Giöstafsdotter från Boda (bild 29). Kontrollera barnens dop 1714–1730 (C I/1) för var paret bodde, och om Elin nämns.",
    "persons": [
     "christopher_nilsson_skog",
     "elin_gostafsd_1713"
+   ]
+  },
+  {
+   "title": "Per Larsson (g. 1718 m. Ingrid Olofsdotter): död 1719–1727 – = Per Larsson i Toltan begr. 13/3 1726, 29 år?",
+   "text": "Brunskogs dödbok 1719–1730 (E I/1 bild 157–172) har ingen Per Larsson från Takene. Enda vuxne Per Larsson: 1726 nr 8 (bild 167 hö) ”Per Larsson i Toltan … war 29 åhr” (f. ca 1697). Vid vigseln 1718 kallas brudgummen ”Dr. Per Larsson i Tolta”. Stöder identiteten, men ingen hustru nämns. Ett barn ”Per Persson ifrån Ö. Takene 4 mån.” begravdes 1/5 1724 (bild 165) – kanske parets. Kontrollera dop jan 1724 (C I/1 ca bild 147–148) och mantal Toltan/Takene 1720–1726.",
+   "persons": [
+    "per_larsson_takene",
+    "ingrid_olofsd_1693"
+   ]
+  },
+  {
+   "title": "Ingerid (f. 1726 Ö. Glänna): fadern ’Sone/Jona Ingesson’ i dopet, men Malin Olofsdotters man 1729–36 är Inge Olofsson",
+   "text": "C/3 bild 13: ”[S/J]ona Ingessons och H: Malin Olofsdotters barn … Ingri” (förnamnet liknar mest ’Sone’; MyHeritage: Sonesdotter, syskon Nils Sonesson och Ingeborg Sonesdotter). A I/2 bild 84: ”Inge Olofsson / H: Malin Olofsdotter”. Ingerid kallas senare Jonsdotter/Jönsd./Jonesdr. Nästa steg: Frykerud vigsel E I/1 1720–26 (Malin Olofsdotter × Sone/Jon Ingesson eller × Inge Olofsson), dödbok F/1 1726–35 (Sone Ingesson?), syskonen Nils Sonesson och Ingeborg Sonesdotter i dopboken.",
+   "persons": [
+    "fr_ingeridjonsd1726",
+    "fr_jon_far_ingerid",
+    "fr_malinolofsd_ingerid"
+   ]
+  },
+  {
+   "title": "Nils Jonsson (far till Olof 6/2 1793): = Nils Jansson f. 1769 Takene (A I/6 s. 62, flyttad p. 152 1794)?",
+   "text": "Svartån-Nils (f. 1760) är gift med Marit Nilsdotter (A I/6 bild 82) och utesluten. A I/6 bild 73 (Ö. Takene s. 62) har ”Nils Jansson” f. 1769 i Takene, flyttad till p. 152 år 1794. Kontrollera A I/6 s. 152 och A I/7 efter Nils Jansson med hustru Lisa Larsdotter (f. 1753?) och sonen Olof 1793. Vigseln är inte funnen i Brunskog E I/3 1784–92 – sök i Boda/Glava.",
+   "persons": [
+    "nils_jonsson_takene93",
+    "lisa_larsd_takene93"
    ]
   }
  ],
@@ -983,6 +923,18 @@
     "nils_christophersson_skog",
     "anna_jonsd_skog1689",
     "petrus_sylvander1676"
+   ]
+  },
+  {
+   "title": "August Jansson (1862) är son i Jan Elofssons FÖRSTA äktenskap – Kajsa Jonsdotter är inte hans mor",
+   "text": "Brunskog A I/35 bild 42 (Finnebäck): ”Sonen i första äkt. August 62 4/8 Brunskog” och ”Sonen i andra D:o Anders 77 2/4 Finnebäck”; Jan Elofsson gifte sig (2:a gången) 21/12 1875 med Kajsa Jonsdotter. Relationen c-jan_e-kajsa_jonsd35_finneback-august_jan62 (verified, från folkräkningen 1880) är därför fel vad gäller modern. BU7 föreslår att den ersätts av c-jan_e-august_jan62 (bara fadern, verified). Mor till August är Jans första hustru (Maria Persdotter? – ej belagd). Dessutom är august_jan62 = august_jansson62 och anders_jan77 = anders_janson77 (dubbletter, strong) – förslag att slå ihop.",
+   "persons": [
+    "august_jan62",
+    "kajsa_jonsd35_finneback",
+    "jan_e",
+    "august_jan62",
+    "anders_jan77",
+    "anders_jan77"
    ]
   }
  ],
@@ -2907,7 +2859,7 @@
    "title": "Anders Janson (f. 1877) barnlös?",
    "text": "1930 Solna: hushållet endast Anders och Emilia – inga barn funna; identiteten med sonen i Finnebäck fortsatt strong, ej verified.",
    "persons": [
-    "anders_janson77"
+    "anders_jan77"
    ],
    "verdict": "obsolete",
    "why": "Dubblett av index 350 (identitetsfrågan anders_janson77 = anders_jan77)."
@@ -3863,6 +3815,67 @@
    ],
    "verdict": "resolved",
    "why": "Sammanslagna 2026-10-10 (nils_isaksson91 → nils_isaksson_toltan)."
+  },
+  {
+   "title": "Ingrid Olofsdotter (1693): två makar – Per Larsson och Olof Persson",
+   "text": "Löst av BU7.",
+   "persons": [
+    "ingrid_olofsd_1693",
+    "per_larsson_takene",
+    "olof_persson_takene",
+    "nils_ihrsson_toltan"
+   ]
+  },
+  {
+   "title": "Ingerid Jonsdotters föräldrar: Jon Andersson + Malin Olofsdotter (Östra Glänna) – troligt, ej bevisat",
+   "text": "Omformulerad av BU7.",
+   "persons": [
+    "fr_ingeridjonsd1726",
+    "fr_jon_far_ingerid",
+    "fr_malinolofsd_ingerid"
+   ]
+  },
+  {
+   "title": "Arne Andersson: vigsel 1746 med Ingerd Nilsd. eller bara Marit Jönsdotter?",
+   "text": "Löst av BU7.",
+   "persons": [
+    "arne_andersson",
+    "marit_jonsd_ragnilsrud"
+   ]
+  },
+  {
+   "title": "Jonas Nilsson f. 3/5 1821 – gift 4/1 1857 med Lovisa Carlsdotter (strong)",
+   "text": "Löst av BU7. Vigseln Jonas Nilsson × Cajsa Svensdotter ej funnen i Frykerud 1857–59 (troligen Sunne).",
+   "persons": [
+    "fr_jonasnilsson1821",
+    "lovisa_carlsd_lene31"
+   ]
+  },
+  {
+   "title": "Jan Elofssons söner August (1862) och Anders (1877): senare liv",
+   "text": "Löst av BU7 i sak; relationerna förs som strong.",
+   "persons": [
+    "jan_e",
+    "august_jan62",
+    "anders_jan77"
+   ]
+  },
+  {
+   "title": "Nils Jonsson (Takene) – möjlig härkomst Svartån, men Lisa Larsd ej belagd",
+   "text": "Svartån-hypotesen avförd av BU7.",
+   "persons": [
+    "nils_jonsson_takene93",
+    "lisa_larsd_takene93"
+   ]
+  },
+  {
+   "title": "Christopher Svensson f. 1754: födelseort/föräldrar ej funna",
+   "text": "Löst av BU7.",
+   "persons": [
+    "christopher_svensson_saldebraten",
+    "sven_ersson",
+    "karin_nilsdotter19"
+   ]
   }
  ],
  "backlog": [

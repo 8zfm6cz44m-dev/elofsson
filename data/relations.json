@@ -1815,8 +1815,8 @@
   "type": "sibling",
   "a": "anders_arnesson",
   "b": "olof_arnesson_ragnilsrud",
-  "status": "candidate",
-  "basis": "Båda ”frå Ragnilsrud”, patronymikon Arneson, gifta samma dag 1786 (E I/3 bild 12, nr 17 och 20) – bror ej bevisad."
+  "status": "strong",
+  "basis": "A I/1 bild 255 (Ragnilsrud nr 5): ”S. Anders Arness.” 1754 och ”S. Olof Arness.” 1756 i samma hushåll (Arne Andersson och Marit Jonsdotter). Identiteten mellan Olof 1756 och Olof Arnesson (g. 1786) är strong."
  },
  {
   "id": "p-olof_arnesson_ragnilsrud-ingrid_persd_vikene",
@@ -2632,8 +2632,8 @@
  {
   "id": "p-sven_ersson-karin_nilsdotter19",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "status": "verified",
+  "basis": "Stora Kil C/6 bild 135 (1754): ”Sven Erssons och Karin Nilsdotters barn i Måsserud”.",
   "a": "sven_ersson",
   "b": "karin_nilsdotter19"
  },
@@ -3055,8 +3055,8 @@
    "karin_nilsdotter19"
   ],
   "child": "christopher_svensson_saldebraten",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Christopher Svensson f. 1754: far Sven Ersson f. 1718, mor Karin Ersson f. Nilsdotter f. 1719."
+  "status": "strong",
+  "basis": "Stora Kil dopbok C/6 bild 135: ”d 21 Octob: [1754] föddes Sven Erssons och Karin Nilsdotters barn i Måsserud … til namn Christopher”. Frykerud A I/12 bild 16 ger Christopher Svensson i Såldebråten exakt 1754 21/10. Namn, patronymikon och exakt födelsedag stämmer. Flyttbetyget Kil→Frykerud är inte läst."
  },
  {
   "id": "c-sven_eriksson02-elin_palsdotter35-elin_svensdotter_gonas",
@@ -5825,8 +5825,8 @@
    "kajsa_jonsd35_finneback"
   ],
   "child": "august_jan62",
-  "status": "verified",
-  "basis": "Folkräkning 1880 Finnebäck s.5 rad 20: August f. 1862, Familjeställning ”s.” i Jan Elofssons hushåll (fam.nr 1) med hustrun ”h.” Kajsa Jonsdotter"
+  "status": "excluded",
+  "basis": "Folkräkning 1880 Finnebäck s.5 rad 20: August f. 1862, Familjeställning ”s.” i Jan Elofssons hushåll (fam.nr 1) med hustrun ”h.” Kajsa Jonsdotter | BU7 2026-10-10: Kajsa Jonsdotter (gift 1875) är inte Augusts mor – A I/35 bild 42 ”Sonen i första äkt. August 62 4/8”. Ersatt av c-jan_e-august_jan62."
  },
  {
   "id": "c-jan_e-kajsa_jonsd35_finneback-anders_jan77",
@@ -6700,96 +6700,96 @@
   "basis": "Folkräkning 1930 Frykerud: Gurli Elsa Maria f. 1920 i hushållet. VERIFIERAD (omgång 24): Folkräkning 1930, Frykerud, Köpung Gärdet, sida 31, fam. nr 1: Emanuelsson, Oskar Alfred f. 1881 i Frykerud, Hemmansägare Sadelmakare; Nilsson, Emilia Helena f. 1886 i Boda; barnpost Folk_128607738 (rad 50): 'Gurli Elsa Maria', Födelseår 1920, Födelseförsamling Frykerud, Familjeställning 'd.', Famstkod Barn"
  },
  {
-  "id": "p-august_jansson62-maria_olsd66_aj",
+  "id": "p-august_jan62-maria_olsd66_aj",
   "type": "partner",
   "status": "verified",
   "basis": "FOLKRÄKNING 1930 Brunskog, Wikene s. 29 rad 12–13 (Folk_128884130/-131): August Jansson f. 1862, gift, vigselår 1890; Olsson, Maria f. 1866, Familjeställning ”h.”, vigselår 1890.",
-  "a": "august_jansson62",
+  "a": "august_jan62",
   "b": "maria_olsd66_aj"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-hulda_aj91",
+  "id": "c-august_jan62-maria_olsd66_aj-hulda_aj91",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1900: Hulda Maria Jansson f. 1891 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog, s.38 rad 11 (Folk_109938485): Hulda Maria f. 1891 Brunskog, Familjeställning ”d.”, hushåll ”Jansson, August, f. 1862 i Brunskog, Hemmansegare; Olsdotter, Maria, f. 1866 i Brunskog”.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "hulda_aj91"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-annakristina_aj93",
+  "id": "c-august_jan62-maria_olsd66_aj-annakristina_aj93",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1900: Anna Kristina Jansson f. 1893 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog, s.38 rad 12: Anna Kristina f. 1893 Brunskog, Familjeställning ”d.”, hushåll Jansson, August f. 1862 + Olsdotter, Maria f. 1866.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "annakristina_aj93"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-johanalbin_aj95",
+  "id": "c-august_jan62-maria_olsd66_aj-johanalbin_aj95",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1900: Johan Albin Jansson f. 1895 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog, s.38 rad 13: Johan Albin f. 1895 Brunskog, Familjeställning ”s.”, hushåll Jansson, August f. 1862 + Olsdotter, Maria f. 1866.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "johanalbin_aj95"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-hildur_aj97",
+  "id": "c-august_jan62-maria_olsd66_aj-hildur_aj97",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1900: Hildur Karolina Jansson f. 1897 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1900 Brunskog (Folk_109938488), s.38 rad 14: Hildur Karolina f. 1897 Brunskog, Familjeställning ”d.”, hushåll Jansson, August f. 1862 + Olsdotter, Maria f. 1866.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "hildur_aj97"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-anders_herbert_aj01",
+  "id": "c-august_jan62-maria_olsd66_aj-anders_herbert_aj01",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1910: Anders Herbert Jansson f. 1901 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1910 Brunskog, s.35 rad 8 (Folk_125550228): Anders Herbert f. 1901 Brunskog, Familjeställning ”s.”, hushåll ”Jansson, August, f. 1862 i Brunskog, Hemmansägare; Olsson, Maria, f. 1866 i Brunskog”.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "anders_herbert_aj01"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-karlaugust_aj05",
+  "id": "c-august_jan62-maria_olsd66_aj-karlaugust_aj05",
   "type": "child",
   "status": "verified",
   "basis": "Folkräkning Brunskog (Wikene) 1910: Karl August Jansson f. 1905 i hushållet August Jansson/Maria Olsdotter (barn enligt hushållets ordning; familjeställning ej utläst) VERIFIERAD (omgång 24): Folkräkning 1910 Brunskog, s.35 rad 9 (Folk_125550229): Karl August f. 1905 Brunskog, Familjeställning ”s.”, samma hushåll Jansson, August f. 1862 + Olsson, Maria f. 1866.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "karlaugust_aj05"
  },
  {
-  "id": "c-august_jansson62-maria_olsd66_aj-tyra_aj07",
+  "id": "c-august_jan62-maria_olsd66_aj-tyra_aj07",
   "type": "child",
   "status": "verified",
   "basis": "FOLKRÄKNING 1930 Brunskog, Wikene (Folk_128884132/-133): svärsonen Nyström, Gustav Ragnar (”svärs.”) och hans hustru Jansson, Tyra Alina f. 1907 (”f. Jansson”) bor i fam. nr 2 i August Janssons hushåll – dotter-/svärsonsställning uttrycklig.",
   "parents": [
-   "august_jansson62",
+   "august_jan62",
    "maria_olsd66_aj"
   ],
   "child": "tyra_aj07"
  },
  {
-  "id": "p-anders_janson77-emilia_nilson80",
+  "id": "p-anders_jan77-emilia_nilson80",
   "type": "partner",
   "status": "verified",
   "basis": "Folkräkning 1930 Solna: gift (vigselår 1913), Emilia Kristina Wilhelmina Nilson f. 1880 i hushållet Anders Janson f. 1877 Brunskog VERIFIERAD (omgång 24): Folkräkning 1930 Solna/Stadsägan 73 Råsunda s.222 fam.1: Folk_130024578 Janson, Anders f.1877 Brunskog, Gift, Far/man; Folk_130024579 Nilson, Emilia Kristina Wilhelmina f.1880 Klara Stockholms stad, Gift, 'h.', Mor/fru.",
-  "a": "anders_janson77",
+  "a": "anders_jan77",
   "b": "emilia_nilson80"
  },
  {
@@ -13032,16 +13032,16 @@
    "ingrid_olofsd_1693"
   ],
   "child": "nils_ihrsson_toltan",
-  "status": "strong",
-  "basis": "Dop C I/1 bild 121 (1/1 1719): ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils” + dödbok F I/1 bild 14 (1785): ”Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r”. Föräldraskapet till Per Larsson och en Ingrid Olofsdotter i Takene är uttryckligt (verified); att Ingrid är samma person som id ingrid_olofsd_1693 (f. 1693, Ö. Takene) bygger på namn+gård+ålder – därför strong."
+  "status": "verified",
+  "basis": "Dop C I/1 bild 121 (1/1 1719) + dödbok F I/1 bild 14 (1785) ”f. Per Larsson, Mod. Ingrid Olofsd:r”; vigsel 25/3 1718 (E I/1 bild 34) och omgifte som änka 29/12 1727 med Olof Persson (E I/1 bild 43) binder ihop Per Larssons hustru med Olof Perssons hustru Ingrid Olofsdotter (mor till Olof Olsson 1731, ’Enk. Mod. Ingrid Olofsd 1693’ i A I/1)."
  },
  {
   "id": "p-per_larsson_takene-ingrid_olofsd_1693",
   "type": "partner",
   "a": "per_larsson_takene",
   "b": "ingrid_olofsd_1693",
-  "status": "strong",
-  "basis": "C I/1 bild 121 (1719) ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene”; identitet med ingrid_olofsd_1693 strong (se ovan)."
+  "status": "verified",
+  "basis": "Vigsel E I/1 bild 34 hö: ”d 25 Martii [1718] Sammanwigdes … Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene”; dop C I/1 bild 121 (1/1 1719) ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils”; änkan Ingerid i Ö. Takene gifter om sig med Olof Persson 29/12 1727 (E I/1 bild 43) och är 1731 ”h. Ingrid Olofsdr i Takene” (C I/1 bild 187)."
  },
  {
   "id": "c-anders_larsson_wikene-kari_wikene_1720-anders_andersson20",
@@ -13200,5 +13200,53 @@
   "b": "elin_gostafsd_1713",
   "status": "candidate",
   "basis": "E I/1 bild 29 (1713): Jon Giöstafsson och Elin Giöstafsdotter, båda ”i Olsrud[?] och Boda Sochn”, vigda samma dag. Samma patronymikon och gård; inte uttryckligen syskon."
+ },
+ {
+  "id": "s-nils_ihrsson_toltan-olof_olsson_1731",
+  "type": "sibling",
+  "a": "nils_ihrsson_toltan",
+  "b": "olof_olsson_1731",
+  "status": "strong",
+  "basis": "Halvbröder via modern Ingrid Olofsdotter: Nils (f. 1719, far Per Larsson) och Olof (f. 1731, far Olof Persson). Länken är vigseln 29/12 1727 (E I/1 bild 43) där änkan Ingerid i Ö. Takene gifter sig med Olof Persson – lappen anger inte hennes patronymikon."
+ },
+ {
+  "id": "c-arne_andersson-marit_jonsd_ragnilsrud-olof_arnesson_ragnilsrud",
+  "type": "child",
+  "parents": [
+   "arne_andersson",
+   "marit_jonsd_ragnilsrud"
+  ],
+  "child": "olof_arnesson_ragnilsrud",
+  "status": "strong",
+  "basis": "Husförhör A I/1 bild 255 (Ragnilsrud nr 5): ”S. Olof Arness.” 1756 i Arne Anderssons och Marit Jonsdotters hushåll. Att han är samma person som Olof Arnesson från Ragnilsrud, gift 1786 med Ingrid Persdotter från Vikene (E I/3 bild 12 nr 20), bygger på namn och gård – strong. Han blir då bror (inte bara möjlig bror) till Anders Arnesson 1754."
+ },
+ {
+  "id": "c-arne_andersson-marit_jonsd_ragnilsrud-ao7_johan_arnesson61",
+  "type": "child",
+  "parents": [
+   "arne_andersson",
+   "marit_jonsd_ragnilsrud"
+  ],
+  "child": "ao7_johan_arnesson61",
+  "status": "verified",
+  "basis": "Husförhör A I/1 bild 255 (Ragnilsrud nr 5): ”S. Johan Arness.” 1761 i Arne Anderssons och Marit Jonsdotters hushåll."
+ },
+ {
+  "id": "p-fr_jonasnilsson1821-bu7_cajsa_svensd24",
+  "type": "partner",
+  "a": "fr_jonasnilsson1821",
+  "b": "bu7_cajsa_svensd24",
+  "status": "strong",
+  "basis": "Dop C/6 bild 233 (7/7 1858) ”Lene: Jonas Nilsson o. h. Cajsa Svensd:r”; A I/23 bild 198: ’Jonas Nilsson äldre’ f. 1821 med H. Cajsa Svensd:r f. 1824. Vigseln är inte funnen. Identiteten med Jonas f. 3/5 1821 bygger på namn, by och födelseår (husförhöret skriver 7/5)."
+ },
+ {
+  "id": "c-jan_e-august_jan62",
+  "type": "child",
+  "parents": [
+   "jan_e"
+  ],
+  "child": "august_jan62",
+  "status": "verified",
+  "basis": "Husförhör A I/35 bild 42 (Finnebäck): Jan Elofssons ”Sonen i första äkt. August 62 4/8 Brunskog”. Ersätter c-jan_e-kajsa_jonsd35_finneback-august_jan62 (se konfliktflagga – Kajsa Jonsdotter är inte hans mor)."
  }
 ]

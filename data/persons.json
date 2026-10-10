@@ -5238,6 +5238,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog, Finnebäck (Jösse), sida 5 rad 18, fam. nr 1: Elofsson, Jan f. 1819 i Brunskog, Hemmansägare, Gift, Famstkod Far/man",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422066&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–90), bild 42 (s. 31?), Finnebäck: ”Enkl. Intaget Jan Elofsson 19 11/1 Ö. Takene, gift 21/12 75, enkl. 7/1 81”; ”H. Kajsa Jonsdotter 35 ?/2 Finnebäck” (struken); ”Sonen i första äkt. August 62 4/8 Brunskog” (struken, frejd: ”ha svag hörsel … p. 204, 81”) och åter ”i första s. August 62 4/8 Brunskog” (från p. 204, 82); ”Sonen i andra D:o Anders 77 2/4 Finnebäck”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00042"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/37 (1891–95), bild 36 (s. 33), Finnebäck: ”Intaget Enkl. Jan Elofsson 19 11/1 Takene” – bortflyttad till p. 509 4/11 1892; ”Son Anders 77 2/4 Finnebäck” – bortflyttad ”Maria Magdalena förs. Stockholm 92 22/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00036"
    }
   ],
   "search": [
@@ -5246,7 +5254,8 @@
   "notes": [
    "FOLKRÄKNING 1880 Brunskog, Finnebäck, sida 5 rad 18: hustru ”Jonsdotter, Kajsa, f. 1835” (ej Maria Persdotter); barn August f. 1862, Anders f. 1877. 1890 änkling, sida 4 rad 24, med Anders 1877.",
    "FOLKRÄKNING 1880 (Finnebäck, sida 5 rad 18–21): hushållet Jan Elofsson f. 1819 Hemmansägare, gift; ”Jonsdotter, Kajsa” f. 1835 (rad 19, Familjeställning ”h.”); ”August” f. 1862 (rad 20, Familjeställning ”s.”, ogift); ”Anders” f. 1877 (rad 21, Familjeställning ”s.”, ogift). Alla födda i Brunskog.",
-   "FOLKRÄKNING 1890 (Finnebäck, sida 4 rad 24, fam. nr 1): Elofsson, Jan f. 1819 hemmansegare, civilstånd Änka/Änkling; i hushållet endast Anders f. 1877."
+   "FOLKRÄKNING 1890 (Finnebäck, sida 4 rad 24, fam. nr 1): Elofsson, Jan f. 1819 hemmansegare, civilstånd Änka/Änkling; i hushållet endast Anders f. 1877.",
+   "BU7 HUSFÖRHÖR A I/35 bild 42 (Finnebäck): ”Enkl. Intaget Jan Elofsson 19 11/1 Ö. Takene”, gift (2:a gången) 21/12 1875, änkling 7/1 1881; ”H. Kajsa Jonsdotter 35” (struken); ”Sonen i första äkt. August 62 4/8 Brunskog”; ”Sonen i andra D:o Anders 77 2/4 Finnebäck”. A I/37 bild 36: Jan Elofsson flyttar inom socknen till p. 509 den 4/11 1892."
   ]
  },
  {
@@ -5926,7 +5935,8 @@
    "G3: Brunskog A I/1 register (bild 312–313) saknar byn Hunterud under H/N; Hunterud är sannolikt i annan socken (socken anges inte i B/1 1765). Nyeds husförhör A I/1a (C0038516) har ingen särskild byrubrik Hunterud enligt tidigare genomgång (G3 fann ingen inledande ortsregister i volymen: bild 4 = titel, 5–6 = förteckning/omslag).",
    "HUSFÖRHÖR A I/3 bild 166 (s. 153), Toltan nr 5: ”H. Karin Elofsd.” 1735 under Per Elofsson 1728; barn Marit 1768, Olof 1772.",
    "BT1: Nyed dopbok C/3 (C0038559) 1735 (bild 81–86, s. 117–end 1735) bläddrad (mycket tät, svårläst stående format) – ingen genomläsning fullbordad, ingen träff funnen. Åldersuppgifterna är inkonsekventa: dödbok 1800 ”88 år” ger f. ca 1712, husförhör/dop 1735 – dop kan alltså ligga i Nyed C/2 (1712-tiden) i stället. Ej löst.",
-   "BU1 DOP-SÖK: Nyed C/3 (C0038559) 1735 bild 81–90 genomläst post för post (namnen står först i varje post): ingen Kari/Karin Elofs-/Olofsdotter (närmast: 'Ingier Olofsdotter i Björketorp' 8 mars, 'Karin Jonsdotter' aug, 'Kirstin Olofsdotter' dec – fel förnamn/fader). Nyed C/4 (C0038560) börjar först 1738 – 1736–37 saknas i Nyed. Ny socken (SE/VA/13406) dop C/3 (C0038508) bild 26–32 (okt 1733–jan 1736) genomläst: ingen Kari med fader Elof/Olof (1735 nr 12 'Kari' har fader Bengt Bengtsson; 1734 nr 15 'Karin' är oäkta barn av Annika). Persjön förekommer inte som ort i dessa poster. Ny husförhör A I/1 (1711–1750) = C0038487 (220 bilder, ej genomsökt) är nästa källa för 'Persjön'."
+   "BU1 DOP-SÖK: Nyed C/3 (C0038559) 1735 bild 81–90 genomläst post för post (namnen står först i varje post): ingen Kari/Karin Elofs-/Olofsdotter (närmast: 'Ingier Olofsdotter i Björketorp' 8 mars, 'Karin Jonsdotter' aug, 'Kirstin Olofsdotter' dec – fel förnamn/fader). Nyed C/4 (C0038560) börjar först 1738 – 1736–37 saknas i Nyed. Ny socken (SE/VA/13406) dop C/3 (C0038508) bild 26–32 (okt 1733–jan 1736) genomläst: ingen Kari med fader Elof/Olof (1735 nr 12 'Kari' har fader Bengt Bengtsson; 1734 nr 15 'Karin' är oäkta barn av Annika). Persjön förekommer inte som ort i dessa poster. Ny husförhör A I/1 (1711–1750) = C0038487 (220 bilder, ej genomsökt) är nästa källa för 'Persjön'.",
+   "BU7 NY HUSFÖRHÖR A I/1 (1711–1750, C0038487, 220 bilder): bild 8 och 12 är arkivförteckning, och volymen saknar ortregister. Stickprov bild 150, 160, 162, 164, 195 och 216 (1735–53) visar täta namnkolumner utan läsbar rubrik ’Persjön’. Kari Elofs-/Olofsdotter hittades inte i stickproven. Volymen behöver genomgås sida för sida (ca 200 bilder); det hanns inte i BU7."
   ],
   "died": {
    "date": "1823-01-14",
@@ -7040,6 +7050,10 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1, bild 176 (1729 nr 7): ”Fadd. Elof och Påhl Nilssonar i Toltan” hos Nils Nilsson och Britta Claesdotter i Skog",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00176"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Örebro län 1722 (A0003201), bild 599 hö, Brunskog, Toltan-gruppen (½): Nils Larsson, Påhl Nilsson, Olof Nilsson, Nils Isaksson, Nils Larsson, H:o Marit, Nils Mattsson … (osäker läsning)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003201_00599"
    }
   ],
   "search": [
@@ -7122,7 +7136,9 @@
    "BU4 DÖD: A I/2 bild 159 – Elofs rad har nattvardsdatum t.o.m. 1768 (”14/9”, svagt). A I/3 bild 167 (s. 154, Toltan, ”inh.”): ”Elof Nilsson 1687” och ”H. Karin Nilsd. 1707” är överstrukna med förhörskryss men utan någon nattvardsnotering 1769–1774, medan Kari Börjesdotter 1689 på samma sida har 1769 (13/8, 7/11). Han finns inte på s. 151–153 (bild 164–166: sönerna Jan Elofsson 1718 och Per Elofsson 1728 med familjer). Slutsats: död (eller flyttad) mellan sept 1768 och början av 1769 – inte 1772. Dödbok 1749–82 saknas, så exakt datum kan inte fås.",
    "BU4 FADDRAR: ”Stoy” i tidigare noter är en felläsning av ”Skog” (Sk i kurrent liknar St). 1727 nr 10 (bild 165): ”Nils Nilssons och Britta Claesd:s Barn i Skog … Fadd. Jon Gustafsson i Skog och Elof Nilsson i Toltan”; Jon Gustafsson står i Skog i mantal 1714 (A0003195 bild 502) och 1719 (A0003198 bild 506), vilket bekräftar Skog. 1729 nr 7 (bild 176): ”Nils Nilssons och h. Britta Claesdotters i Skog Barn, som kallades Anders. Fadd. Elof och Påhl Nilssonar i Toltan, Hust. Gertrud Bondesdotter ibm, Karin Nilsdotter i Skog” – ”Påhl”, inte ”Pehr” (ring över a). 1735 nr 32 (bild 212): Elofs son Nils, ”Fadd. Nils Nilsson i Skog, Christopher Pålsson i Åsen; Hust. Gertrud Bondesdotter, Ingrid Elofsdotter ibidem”. Elof har alltså nära faddersamband med Skog-hushållet (Nils Nilsson och Karin Nilsdotter i Skog) och med Påhl Nilsson. Påhl Nilssons son heter Christopher och Elof döper en son Christopher 1748 – förenligt med farfar Nils Christophersson.",
    "BU4 VIGSEL 1717 (E I/1 bild 34) omzoomad: ”D. Elof Nilsson i [S?]+[k/t]+[o/e]+g/y” – stor ögla, ett högt kraftigt nedstapel, liten bokstav och lång nedåtögla. Formen stämmer med ”Skog” som det skrivs i dopboken 1727–1735 (Sk + o + g) bättre än med ”Hey/Hög”. Läsning: ”Skog[?]”, osäker.",
-   "BU5 MYHERITAGE (73 matchningar, lead): nästan alla träd: Elof Nilsson f. 1689 (Skog), d. 1772; syskon Petrus Nicolai Sylvander (38 träd), Pål Nilsson (13), Christopher Nilsson, Nils Nilsson, Per Nilsson Sylvander, Bartholdius Nicolai Duraeus; barn Per, Jan/Johan, Marit, Anna Elofsdotter, ”Nils Elofsson Sylvander”. Dödsåret 1772 motsägs av husförhören (BU4: borta 1768/69). Träden är sannolikt avskrivna från varandra och från Geni."
+   "BU5 MYHERITAGE (73 matchningar, lead): nästan alla träd: Elof Nilsson f. 1689 (Skog), d. 1772; syskon Petrus Nicolai Sylvander (38 träd), Pål Nilsson (13), Christopher Nilsson, Nils Nilsson, Per Nilsson Sylvander, Bartholdius Nicolai Duraeus; barn Per, Jan/Johan, Marit, Anna Elofsdotter, ”Nils Elofsson Sylvander”. Dödsåret 1772 motsägs av husförhören (BU4: borta 1768/69). Träden är sannolikt avskrivna från varandra och från Geni.",
+   "BU7 MANTAL 1722 (A0003201 bild 596–599, Brunskog; Toltan-gruppen bild 599 hö): Läsningen är osäker på grund av urblekt skrift: ”Nils Larsson”, ”Påhl Nilsson”, ”Olof[?] Nilsson”, ”Nils Isaksson[?]”, ”Nils Larsson”, ”H:o Marit”, ”Nils Mattsson”, ”Nils Jönsson”, ”Per Nilsson”, ”H:o Karin Jöns d.” Elof Nilsson står inte med namn i den här läsningen, men ’H:o Marit’ står kvar som 1720. Mantalet 1721 (A0003200) hade ingen Brunskog-rubrik i manifestets register och lästes inte.",
+   "BU7 OMLÄSNING MANTAL 1720 (A0003199 bild 530 vä): ”Nils Larsson och m:r”, ”Påhl Nilsson”, ”Lars Nilsson”, ”Nils Isaksson”, ”Nils Larsson”, ”H:o Marit” – bekräftar BU3."
   ],
   "timeline": [
    [
@@ -8014,7 +8030,7 @@
  },
  {
   "id": "olof_persson_takene",
-  "name": "Olof Persson (Takene, d. före 1760)",
+  "name": "Olof Persson (Ö. Takene, d. 1748)",
   "status": "strong",
   "sex": "m",
   "living": false,
@@ -8050,6 +8066,10 @@
    {
     "label": "Riksarkivet, Mantalslängder 1642-1820 Örebro län, Brunskog 1711, bild 484 hö: Toltan-gruppen",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003192_00484"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1727), bild 43 hö, inklistrad lapp (s. 67): ”d 29 Dec. … 1727 … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.” – senare tillägg ovanför: ”[Olof] dödde d 22 Aug: 1748”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00043"
    }
   ],
   "search": [
@@ -8064,8 +8084,14 @@
    "MANTAL Ö. Takene (D5): 1715 (A0003196_00497 hö 'Öst. Takene'): Nils Hansson, Jöns Persson, Johan Gustafsson, Nils Jönsson, Olof Nilsson (äldre), Olof Nilsson (yngre), Olof Gunnarsson, Olof Olsson, Lars Jonsson, Ingeborg(?) änka. 1720 (A0003199_00526 hö 'Öst. Takene'): Nils Hansson, Jon Hansson, Erik Pehrsson, Nils Jönsson, Anders Gunnarsson, Hu: Marit, Per Nilsson, Lars Larsson, Lars Gunnarsson, Olof Olsson, Olof Gunnarsson, Ingeborg?. Ingen 'Olof Persson' och ingen säker 'Per Larsson' i klass 1 – Olof Persson (f. ca 1703) förefaller mantalsskrivas först efter 1720 (ej funnen).",
    "VIGSEL E I/1 (C0036786) bild 38–47 genomläst för 1721–1731 (bild 38 = 1721–22, 39 = 1722, 40 = 1723, 41 = 1724–25, 42 = 1725, 43 = 1726–27, 44 = 1727, 45 = 1727–29, 46 = 1729–30, 47 = 1730–31): INGEN lysning/vigsel ”Olof Persson” × ”Ingrid Olofsdotter” funnen. 1730 (bild 46 hö + bild 47 vä, nr 1–14) innehåller inte paret; närmast: 1729-09-14 ”Drängen Christopher Påhlsson från Ågelan, och pigan Ingrid Mattsd. från Åsen” (annat par). Vigseln ligger därför före 1721, i annan socken (t.ex. Boda/Fryksände/Segerstad) eller är oläslig/ej indexerad; barnet Olof 7/2 1731 behöver inte vara första barnet.",
    "DOP C I/1 bild 60 (1702) och 62 (1703) kollade: ingen läsbar post med fader ”Olof Persson”/barn ”Olof” med fader ”Per” i Takene; 1700-talets tidiga handstil lämnar fadersnamn oläsliga. Olof Perssons ursprung (fader Per) fortsatt ej belagt.",
-   "DOP (bekräftad omläsning): Brunskog C I/1 bild 187 nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdr i Takene Barn, Olof; fadd. Olof Olofsson, Per Nilsson i Takene, Malin Olofsd., Kierstin Erlsd. ibidem” (sid 351). Inga syskon/barn till paret hittade i dopboken feb 1731–jan 1733 (bild 187–196)."
-  ]
+   "DOP (bekräftad omläsning): Brunskog C I/1 bild 187 nr 7: ”7 Febr. Olof Persson och h. Ingrid Olofsdr i Takene Barn, Olof; fadd. Olof Olofsson, Per Nilsson i Takene, Malin Olofsd., Kierstin Erlsd. ibidem” (sid 351). Inga syskon/barn till paret hittade i dopboken feb 1731–jan 1733 (bild 187–196).",
+   "BU7 VIGSEL E I/1 bild 43 hö (inklistrad lapp, 1727): ”d 29 Dec. … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.”; tillagt ovanför: ”dödde d 22 Aug: 1748”. Ortnamnet ’Hallgården’ osäkert."
+  ],
+  "died": {
+   "date": "1748-08-22",
+   "place": "Ö. Takene, Brunskog?",
+   "note": "Senare tillägg vid vigselposten 1727 (E I/1 bild 43): ”dödde d 22 Aug: 1748”. Dödboken i E I/1 slutar april 1748 och F I/1 börjar 1783 – ingen begravningspost."
+  }
  },
  {
   "id": "ingrid_olofsd_1693",
@@ -8112,6 +8138,14 @@
    {
     "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1718), bild 34 hö (s. 49): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1727), bild 43 hö, inklistrad lapp (s. 67): ”d 29 Dec. … 1727 … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.” – senare tillägg ovanför: ”[Olof] dödde d 22 Aug: 1748”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00043"
    }
   ],
   "search": [
@@ -8124,7 +8158,10 @@
    "HUSFÖRHÖR A I/1 bild 91 (omläst i halvsides-zoom): kolumnen för födelseår ger ”1693” för ”Enk. Mod. Ingrid Olofs” med åldrarna 67 (1760), 68, 69, 70 (1763) – internt konsekvent (1760−1693=67). Ingen åldersavvikelse i husförhöret. Åldern 1693 stämmer alltså med dopårtalet 1693 i trädet; ”Ingri f. 1703” i andra spår (C I/1 bild 62, 1 juni 1703: ”Matts barn i Åsen [Ingri]”) är en annan flicka (far Matts), inte Ingrid Olofsdotter.",
    "BU1 DOP-SÖK C I/1 1692 (bild 28–33) och 1694 (bild 39–42) genomläst: ingen Ingrid/Ingri med fader Olof. 1692: ’Dom. XVIII Salomons barn … dotter Ingri’ (fader Salomon); 1694 bild 41: ’Dito S[ven?] Jonssons barn i Åsnäs kallat Ingierd’ (fader Sven/Jon). Däremot 1695 bild 42: ’Dom. Reminiscere Oluf Nilssons barn i Ö. Takene, dotter Karin’ – en Olof Nilsson i Ö. Takene hade alltså döttrar på 1690-talet (stöder MyHeritage-faderns namn Olof Nilsson, men ej bevis). 1695-registreringen är mycket kortfattad (bara 2 poster på bild 42), så luckor i 1690-talets dopbok är troliga.",
    "BU1 DÖD: Brunskogs dödbok för 1749–1782 finns inte digitaliserad (E I/1:s dödbok slutar 1748, F I/1 börjar 1783). Husförhör A I/3 bild 64 visar henne struken med dödskors i 1771 års kolumn efter nattvard 17/4 1770 – stöder MyHeritage-uppgiften d. 1771.",
-   "BU5: Ingrid Olofsdotter på Takene var 1719 gift med Per Larsson (son Nils döpt 1/1 1719, C I/1 bild 121; Nils dödbok 1785 F I/1 bild 14: ”Mod. Ingrid Olofsd:r”). Hon var alltså gift två gånger: 1:o Per Larsson (d. före ca 1730), 2:o Olof Persson (son Olof Olsson 1731). Identiteten bygger på samma namn + Ö. Takene + ålder (f. 1693, son 1719) – strong. Stämmer med MyHeritage-trädets ”Ingrid … (född Olofsdotter 1:a giftet)” under Böret Persdotter. Fadder 1719 ”h. Malin Olufsd:r ibid” kan vara en syster (oprövat)."
+   "BU5: Ingrid Olofsdotter på Takene var 1719 gift med Per Larsson (son Nils döpt 1/1 1719, C I/1 bild 121; Nils dödbok 1785 F I/1 bild 14: ”Mod. Ingrid Olofsd:r”). Hon var alltså gift två gånger: 1:o Per Larsson (d. före ca 1730), 2:o Olof Persson (son Olof Olsson 1731). Identiteten bygger på samma namn + Ö. Takene + ålder (f. 1693, son 1719) – strong. Stämmer med MyHeritage-trädets ”Ingrid … (född Olofsdotter 1:a giftet)” under Böret Persdotter. Fadder 1719 ”h. Malin Olufsd:r ibid” kan vara en syster (oprövat).",
+   "BU7 VIGSEL 1: E I/1 bild 34 hö (1718): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.” (ortnamnet efter Per läses ’Tolta’ = Toltan). Sonen Nils döps 1/1 1719 (C I/1 bild 121).",
+   "BU7 VIGSEL 2: E I/1 bild 43 hö, inklistrad lapp med rubrik 1727 (s. 67): ”d 29 Dec. … Olof Persson ifrån Hallgården(?) och Enkan [Hustru] Ingerid i Ö: Takene … Morgong: 30 lod Silf.” Bruden kallas änka och bor på Ö. Takene; patronymikon står inte på lappen. Med dopet 7/2 1731 (”Olof Persson och h. Ingrid Olofsdr i Takene”) knyter detta Per Larssons änka till Olof Perssons hustru. Ovanför posten har en senare hand skrivit att Olof ”dödde d 22 Aug: 1748” (stämmer med MyHeritage 1703–1748). Lappen lästes inte av tidigare genomgång av bild 38–47.",
+   "BU7 PER LARSSONS DÖD: Brunskogs dödbok 1719–1730 (E I/1 bild 157–172) genomläst halvsida för halvsida. Ingen Per Larsson från Takene. Kandidat: 1726 nr 8 (bild 167 hö) ”d 13 Martii begrofs Per Larsson i Toltan … war 29 åhr” (f. ca 1697) – passar ’Dr. Per Larsson i Tolta’ vid vigseln 1718, men gården skiljer sig från Takene. Dessutom 1724 nr 4 (bild 165 hö): ”d 1 Maii begrofs Per Persson ifrån Ö. Takene 4 mån.” – möjligen parets barn (f. ca jan 1724), ej bevisat."
   ],
   "died": {
    "date": "1771",
@@ -8851,7 +8888,9 @@
    "DOP (C I/1 bild 148, nr 5): ”26 Jan: Christnades Anders Arnesson och h. Dordi Pehrsdotter i Ragnerud barn ... vid namn Arne. Fadd. Anders Arnesson [?] och Claves Pehrss. i Crona, h. Britta Pehrsdotter i Ragnerud.” Datum 26 jan 1724 = MyHeritage-trädets 1724-01-26. Marginalen vid posten: ”begraf. 1772 6/9” (senare hand; läsning osäker) – antyder död/begravning 1772. Föräldrar Anders Arnesson + Dordi Pehrsdotter stämmer med MH-trädet (Anders Arnesson f. 1685 + Dordi Persdotter 1684–1760). Identiteten med vår Arne (far till Anders f. 1754) bygger på namn+ort Ragnilsrud+datum från MH, inte på uttrycklig länk -> strong.",
    "VIGSEL 1746 (E I/1 bild 64, nr 2): ”14 Martii [vigde] Arne Andersson från Crona, Enkl. Pig. Ingierd Nilsd. fr. Ranglarud [Ragnilsrud]”. Kan vara samma Arne (föräldrars fadderbygd Krona) i ett första äktenskap, eller en annan Arne Andersson – ej avgjort. Hans giftermål med Marit Jönsdotter har ej hittats i Brunskogs E I/1 1744–1754 (bild 63–72).",
    "BT1: Vigsel E I/1 bild 64 (s. 109), 1746 nr 2, ”d 14 Martii”: ”Enkl. Arne Andersson från Crona … Pig. Ingierd Nilsd. fr. Ranglarud” – bruden Pigan, brudgummen markerad ”Enkl.” (enkling). Arne f. 26/1 1724 skulle vara 22 år och änkling (osannolikt); en äldre änkling Arne Andersson från Krona är en sannolik annan person. Gift med Marit Jönsdotter före 1752 – vigsel ej funnen. Dödbok 1746–47 (E I/1 bild 113–118) genomläst: ingen Ingerd Nilsd. från Ranglarud hittad (bild 113 maj–aug 1746, 114 aug 1746–jan 1747, 115 mars–sept 1747, 116 okt–dec 1747, 117 jan–april 1748, 118 april–sept 1748; i bild 118 nr 27 Karin Nilsd. Ranglarud, 87 år, enka – annan). Kvar: dödbok sep 1748–1752 (efter bild 118/119 ligger boken i annat format) samt A I/1 Ragnilsrud.",
-   "BU1 OMLÄSNING E I/1 bild 64 (1746 nr 2): ”Drängen(?) [överskrivet ’d 14 Martii’] Arne Andersson från Crona, / Enk.(?) Pig. Ingiard Nilsd:r fr Ranglarud. / vigdes d 14 Martii …”. Dessutom 1745 nr 4 (samma uppslag, vänster): ”d 28 Dec: … Dräng. Arne Andersson från S[l]orud(?): Pig. Ingierd Erik[s]dotter i Hytan(?)” – två olika Arne Andersson-vigslar 1745–46. Vilken (om någon) som är Arne f. 1724 i Ragnilsrud går inte att avgöra. Dödbok (i E I/1) 1746–48 bild 113–117 genomläst: ingen Ingierd Nilsdotter från Ragnilsrud/Krona begravd 1746–48; dödbok 1749–82 saknas. Dottern 1752 heter Ingierd (möjlig uppkallelse), men det är inget bevis."
+   "BU1 OMLÄSNING E I/1 bild 64 (1746 nr 2): ”Drängen(?) [överskrivet ’d 14 Martii’] Arne Andersson från Crona, / Enk.(?) Pig. Ingiard Nilsd:r fr Ranglarud. / vigdes d 14 Martii …”. Dessutom 1745 nr 4 (samma uppslag, vänster): ”d 28 Dec: … Dräng. Arne Andersson från S[l]orud(?): Pig. Ingierd Erik[s]dotter i Hytan(?)” – två olika Arne Andersson-vigslar 1745–46. Vilken (om någon) som är Arne f. 1724 i Ragnilsrud går inte att avgöra. Dödbok (i E I/1) 1746–48 bild 113–117 genomläst: ingen Ingierd Nilsdotter från Ragnilsrud/Krona begravd 1746–48; dödbok 1749–82 saknas. Dottern 1752 heter Ingierd (möjlig uppkallelse), men det är inget bevis.",
+   "BU7 HUSFÖRHÖR A I/1 bild 255 (s. 216, Ragnilsrud nr 5): ”Arne Andersson” 36–39 år, f. 1724; ”H. Marit Jons d[otter]” f. 1727 (överstruken, ’x’ 1762); barn ”D. Ingierd Arnesd.” 1752, ”S. Anders Arness.” 1754, ”S. Olof Arness.” 1756, ”S. Johan Arness.” 1761. Ingen hustru Ingerd Nilsdotter i hushållet, och ingen Ingerd Nilsdotter i Ragnilsrud-hushållen s. 212–216 (bild 251–255).",
+   "BU7 VIGSEL E I/1 bild 64 omläst: 1746 nr 2 (”d 14 Martii … Arne Andersson från Crona, Enk[ling] … Pig. Ingierd Nilsd:r fr Ranglarud”) – brudgummen kallas änkling och kommer från Krona. Arne f. 26/1 1724 var 22 år och har inget känt tidigare äktenskap. Vigseln med Marit Jönsdotter finns inte i Brunskog E I/1 1744–1754 (bild 63–72, kontroll av 1753 bild 72 i BU7). Den finns inte heller i Boda E I/1 (C0036596) 1747–1752 (bild 37–40 genomlästa). Marit kom troligen från en annan socken; MyHeritage säger att hon var dotter till Jon Jönsson och Anna Andersdotter."
   ],
   "sources": [
    {
@@ -8873,6 +8912,10 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1 (1688–1736), bild 148 (s. 273), 1724 nr 5: ”26 Jan: Christnades Anders Arnesson och h. Dordi Pehrsdotter i Ragnerud barn vid namn Arne. Fadd. Anders Arnesson [i Krona?] och Claves Pehrss. i Crona, h. Britta Pehrsdotter i Ragnerud”; marginal ”begraf. 1772 ⁶⁄₉”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00148"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1 (1760–63), bild 255 (s. 216), Ragnilsrud nr 5: ”Arne Andersson” 1724, ”H. Marit Jons d.” 1727, barn Ingierd 1752, Anders 1754, Olof 1756, Johan 1761",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00255"
    }
   ],
   "search": [
@@ -12283,6 +12326,10 @@
    {
     "label": "MyHeritage, Elofson Family Tree (Martin Elofsons användarträd), listvy + panelen ”Närmaste familj”, läst 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
    }
   ],
   "notes": [
@@ -12290,7 +12337,8 @@
    "Se relation: far till Christopher Svensson f. 1754 enligt MH.",
    "BU5 MYHERITAGE (37+33 matchningar, lead): Sven Ersson f. 1718, d. 1782 (ett träd 1789). Trädet ”Värmlandsrötter” (Mimmi) kallar honom ”Hammarsmedsonen Sven på Högvalta” / ”Bonden Hammarsmeden Sven” och ger modern som ”<Privat> Påhlsson (född Månsdotter)”, dvs. en Månsdotter som senare gifte sig med en Pålsson. Syskon: Sigrid Ersdotter (g. Eriksson), Stina Torstensson f. Ersdotter (”Påfwels wife 3”), Karin Eriksson. Barn: Nils, Eric/Erik, Olof, Christoffer/Christopher, Caisa, Anna, Karin Svensdotter.",
    "BU5 LEAD Högvalta: Högvalta ligger i Arvika landsförsamling (dopbok C I/5 C0036489 bild 45 och 47 nämner ”Öfre Högvalta”). Christopher Svenssons vigsel 1778 lästes tidigare ”i Gönäs [Hjörvalta?]” – sannolikt Högvalta. Modern ”Månsdotter” kan vara den Kerstin Månsdotter (f. 1681, änka) som bor på Såldebråten 1753–59 (A I/6 bild 66) – oprövat.",
-   "BU5 NEGATIVT: Arvika landsförsamlings dopbok C I/5 (C0036489) sept–dec 1753 (bild 43–44) och sept–nov 1754 (bild 47) genomsedda: ingen Christopher. Dop av Christopher Svensson fortfarande okänt."
+   "BU5 NEGATIVT: Arvika landsförsamlings dopbok C I/5 (C0036489) sept–dec 1753 (bild 43–44) och sept–nov 1754 (bild 47) genomsedda: ingen Christopher. Dop av Christopher Svensson fortfarande okänt.",
+   "BU7: Stora Kil C/6 bild 135 (1754): ”Sven Erssons och Karin Nilsdotters barn i Måsserud … Christopher”. Familjen bodde 1754 i Måsserud, Stora Kil (inte Högvalta, Arvika). Ingen hammarsmed nämns."
   ],
   "born": {
    "date": "1718?",
@@ -12298,7 +12346,9 @@
    "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
   "summary": "Sven Ersson – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-  "places": [],
+  "places": [
+   "Måsserud, Stora Kil"
+  ],
   "search": [
    "Sven Ersson"
   ]
@@ -12317,12 +12367,17 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/2 (1701-1726), bild 154: dop 27/29 nov 1719, 'Nils [?]son och h. Ingri [?] … kallad Karin'; fadder bl.a. Daniel Ek(?), Christopher (i Rörbäcken?), Sven Christop[hersson?]",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00154"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
    }
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
    "OMLÄSNING C/2 bild 154 (1719) i full upplösning: posten med marginal '27/29' (nov) börjar '… Nils [Hanss./Jönss.?] och h. Ingri i [Rörbäcken/Fryke…?] … kallad Karin. Fadd.: Daniel Ek(?), … Christopher i Rörbäcken(?), Sven Christop[hersson?], h. Kirsin Christophers[dotter] … Marit Svensd. i …' (ordagrann läsning ej möjlig; osäker). Posten OVANFÖR (föregående dop, datum ovan sidan/oläst) är 'Bengt Börjesson och h. Kirsin Jönsd. … i Frykerud kallad Karin' – DET är den Karin som tidigare lästes som '27/29 Nov' med fader Bengt Börjesson; det är en annan Karin (mor Kirsin Jönsdotter). Karin 27/29 nov 1719 = dotter till Nils (+ Ingri) – förenligt med 'Nilsdotter', men fadersnamn/patronymikon, mors namn och by är inte säkert lästa, så identiteten med Sven Erssons hustru är kandidat (ej verifierad). Ingen annan Karin-post med fader Nils syns på sidan.",
-   "BU5 MYHERITAGE (50 matchningar, lead): Karin Ersson f. Nilsdotter 1719–1785 (några 1786). Trädet Värmlandsrötter (Mimmi) anger syskon ”Jonas* (Magnus far) Nilsson” och ”Christoffer (Jonas bror) Nilsson”; andra träd: Annika Nilsdotter, Karin Andersson f. Nilsdotter. Barn: Nils, Eric/Erik, Christoffer Svensson (+ upp till 6 till). Föräldrar maskerade. Ingen ort i klartext."
+   "BU5 MYHERITAGE (50 matchningar, lead): Karin Ersson f. Nilsdotter 1719–1785 (några 1786). Trädet Värmlandsrötter (Mimmi) anger syskon ”Jonas* (Magnus far) Nilsson” och ”Christoffer (Jonas bror) Nilsson”; andra träd: Annika Nilsdotter, Karin Andersson f. Nilsdotter. Barn: Nils, Eric/Erik, Christoffer Svensson (+ upp till 6 till). Föräldrar maskerade. Ingen ort i klartext.",
+   "BU7: mor till Christopher f. 21/10 1754 i Måsserud, Stora Kil (C/6 bild 135): ”Sven Erssons och Karin Nilsdotters barn”."
   ],
   "born": {
    "date": "1719-11-27",
@@ -12330,7 +12385,9 @@
    "note": "dop Frykerud C/2 bild 154 (s. 210): marg. '27/29' (nov) – troligt dop av 'Karin'; fadern läses 'Nils [Hans/Jöns?]son' (osäker), inte Bengt Börjesson"
   },
   "summary": "Karin Ersson (född Nilsdotter) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-  "places": [],
+  "places": [
+   "Måsserud, Stora Kil"
+  ],
   "search": [
    "Karin Ersson (född Nilsdotter)"
   ]
@@ -12657,7 +12714,8 @@
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-   "BU5 DÖD (verified): F I/1 bild 44 vä (1793 nr 21): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år.” Bekräftar MyHeritage 1720–1793 och hustrun Kjersti Pålsdotter (MH ”Årnes” = Arnäs). Faderns patronymikon är överskrivet (’Larsson’ över annat ord)."
+   "BU5 DÖD (verified): F I/1 bild 44 vä (1793 nr 21): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år.” Bekräftar MyHeritage 1720–1793 och hustrun Kjersti Pålsdotter (MH ”Årnes” = Arnäs). Faderns patronymikon är överskrivet (’Larsson’ över annat ord).",
+   "BU7 DOP-SÖK (negativt): Brunskog C I/1 bild 121 hö–129 (april 1719–nov 1720, alla poster) genomlästa: inget barn Anders i Wikene. Wikene-dop i perioden: 4/4 1719 Anders Bengtsson och h. Marit Jonsd:r, barn [Pä]tter(?) (fadder ’Anders Larsson ibid’); 11/10 1719 Jöns(?) Månsson och Anna Olufsd:r, Nils; 1720 nr 3 Erik Persson(?) och h. Börit Påls dotter, Nils; 11/6 1720 Anders Jonsson och Marit Bengtsd:r, Bengt. Dopet kan ligga i dec 1720–1721 eller vara oregistrerat."
   ],
   "born": {
    "date": "1720",
@@ -13755,7 +13813,8 @@
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 10:e generationen.",
    "BU5 KANDIDAT-DÖD: E I/1 bild 163 hö, 1723 nr 8: ”d 17 dito [mars] Begrofs Sal. Oluf Nilsson i Ta[k/d]ene som lefwat Christel. och wäl uti 68½ åhr” → f. ca 1654. Ortnamnet läses Takene (osäkert ’Tadene’). Ingrid Olofsdotter f. 1693 bodde på Ö. Takene – förenligt med att detta är hennes far och Böret Persdotters make (MH: Böret f. ca 1655). Ingen hustru/barn nämns – identiteten är candidate.",
-   "BU5 MYHERITAGE (5 matchningar för Olof Nilsson; 22 för Böret Persdotter): Böret Nilsson f. Persdotter ca 1655–1693, syskon Gunilla Hansson f. Persdotter och Mattes/Mats Persson; dotter Ingrid (”Jonsson Persson, född Olofsdotter, 1:a giftet”)."
+   "BU5 MYHERITAGE (5 matchningar för Olof Nilsson; 22 för Böret Persdotter): Böret Nilsson f. Persdotter ca 1655–1693, syskon Gunilla Hansson f. Persdotter och Mattes/Mats Persson; dotter Ingrid (”Jonsson Persson, född Olofsdotter, 1:a giftet”).",
+   "BU7 OMLÄSNING E I/1 bild 163 hö, 1723 nr 8 (förstoring): ”d 17. dito Begrofs Sal. Oluf Nilsson i Ta[d/k]ene som lefwat Christel. och wäl uti 68½ åhr.” Bokstaven efter ’Ta’ är tvetydig – i nr 2 på samma sida skrivs ’Ö. Ta-|kene’ med ett tydligare k. Ingen hustru nämns. OBS: mantalet har två Olof Nilsson (äldre och yngre) i Ö. Takene 1709–1715 och en Olof Nilsson i Väst. Takene 1711 – identiteten med Ingrids far är därför fortsatt bara candidate."
   ],
   "summary": "Olof Nilsson (10:e gen.) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
   "places": [],
@@ -16620,7 +16679,8 @@
   "notes": [
    "SÖKNING 2026-10-06 (X2): Nils Olsson med hustru Anna Andersdotter och son Anders (f. 15/10 1853) har INTE återfunnits i Bodas husförhör A I/19 (C0036584) under rubriken N. Boda (alla bilder 12–53 genomgångna, ca fol 1–41, 1850–55), och inte heller bland N. Boda-sidorna bild 12–20 i A I/20 (C0036585). Dopboken C I/3 bild 91 är därmed enda primärkällan för föräldraskapet. Förväxla inte med Nils Olsson f. 1828 (Boda) g.m. Brita Andersdotter f. 1824, N. Boda (A I/19 bild 21; dop 27/2 1854 'B. Nils Olson o. h. Brita Andersd. i Norra Boda', C I/3 bild 92 s.149; folkräkn. 1880 N. Boda sida 3 rad 43): hans barn börjar med Brita Kajsa f. 27/2 1854, alltså en annan familj.",
    "LYSNING Boda E I/3 (C0036598) bild 14 (s. 12–13, lysningar 1852), nr 7: 7 maj 1852 ”Drängen Nils Olsson från Jonsbohl och Pig. Anna Nilsd. i N:r Boda” (åldrar 21/24 enligt kolumn; vigsel 31/5 1852). Kandidatpar men moderns patronymikon (Nilsdotter) stämmer inte med dopboken (Andersdotter) – ej sammankopplat (lead).",
-   "DÖDBÖCKER Boda F I/1 (C0036599) bild 57–59 (1853–56) genomlästa efter Nils Olsson / Anna Andersdotter: ingen träff på rätt person (1854: Gm Nils Olsson i Söd. Boda 53 år – annan, gift man)."
+   "DÖDBÖCKER Boda F I/1 (C0036599) bild 57–59 (1853–56) genomlästa efter Nils Olsson / Anna Andersdotter: ingen träff på rätt person (1854: Gm Nils Olsson i Söd. Boda 53 år – annan, gift man).",
+   "BU7 SÖK (negativt): Boda husförhör A I/20 (1856–60, C0036585) – ortregistret bild 9 (Norra Boda fol. 1; Jonsbol fol. 305, 313) och Jonsbol-sidorna bild 316 och 324 genomlästa: inget par Nils Olsson + Anna Andersdotter och ingen Anders f. 15/10 1853. Nattvardsungdomslängden 1858 (bild 346) har ingen Anders Nilsson f. 1853. Dopet C I/3 bild 91 (1853) kontrolläst igen: ”[Oct] 15 16 Anders – Nils Olsson o h. Anna Andersd:r N:r Boda; faddrar Jan Svensson o h. Maria Andersd:r ibm”."
   ]
  },
  {
@@ -20328,7 +20388,9 @@
    "FOLKRÄKNING 1880–1930: Ingen Jonas Nilsson f. 1821 med födelseort Frykerud/Lene funnen bland 11 värmländska träffar ⇒ död före 1880 eller ej indexerad. Maria Stina f. 1858 lever 1880 som piga (fadern sannolikt död).",
    "BU1 HUSFÖRHÖR Frykerud A I/23 (1861–65, C0037126) bild 198 (s. 212) Lene, översta hushållet: ”Jonas Nilsson äldre, Bonde, 21 ?/5, L[ene]” (dag svårläst 3 eller 7); ”Cajsa Svensd:r, H., [18]24 16/1, Sunne”; ”Nils Fredrik, Son, 58 7/7, L”; ”Maja Maria 62 12/2 L” (struken); ”Johan 64 5/9 L”. Anm.: ”1855 års Höst-Ting pliktfälld för …”. På s. 213 (bild 199) finns en annan ’Jonas Nilsson [yngre]’, f. [18]28, med hustru Maria Katrina Nilsd. (31). A I/22 (1856–60) är inte digitaliserad (C0037124/C0037125 ger fel).",
    "BU1 DOP Frykerud C/6 (C0037139) bild 233 (s. 436), juli 1858: ”7 | 9 | Lene: Jonas Nilsson o. h. Cajsa Svensd:r | Nils Fredrik” – alltså hustru Cajsa Svensdotter redan juli 1858.",
-   "BU1 VIGSEL E I/2 bild 108 omläst: ”[lysning] 1856 Nov 16 | Januari 4 | Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, begge från Lene | 36 / 26 | Wigde af Magn: Lanner”. Dödbok F/2 (C0037143) bild 113–116 (jan 1857–feb 1858) genomläst: ingen Lovisa Carlsdotter död. Motsägelse: 36-årige Jonas Nilsson (= f. 1821) gifter sig jan 1857 med Lovisa, men har juli 1858 hustru Cajsa Svensdotter (f. 1824 Sunne). Antingen fanns ytterligare en Jonas Nilsson ~36 år på Lene, eller Lovisa dog/flyttade utan notering. Ej löst."
+   "BU1 VIGSEL E I/2 bild 108 omläst: ”[lysning] 1856 Nov 16 | Januari 4 | Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, begge från Lene | 36 / 26 | Wigde af Magn: Lanner”. Dödbok F/2 (C0037143) bild 113–116 (jan 1857–feb 1858) genomläst: ingen Lovisa Carlsdotter död. Motsägelse: 36-årige Jonas Nilsson (= f. 1821) gifter sig jan 1857 med Lovisa, men har juli 1858 hustru Cajsa Svensdotter (f. 1824 Sunne). Antingen fanns ytterligare en Jonas Nilsson ~36 år på Lene, eller Lovisa dog/flyttade utan notering. Ej löst.",
+   "BU7: Lovisa Carlsdotter dog 1/3 1858 i barnsbörd, 28 år (F/2 bild 117). Det löser motsägelsen: Jonas Nilsson (36 år 1857) var 1:o gift 4/1 1857 med Lovisa Carlsdotter (dotter Maria Stina f. 21/2 1858) och 2:o med Cajsa Svensdotter f. 16/1 1824 Sunne (son Nils Fredrik f. 7/7 1858). Det betyder att Nils Fredrik föddes bara fyra månader efter Lovisas död. Vigseln med Cajsa finns inte i Frykerud E I/2 1857–1859 (bild 109–115 genomlästa); den skedde troligen i Sunne eller så är Nils Fredrik född före äktenskapet.",
+   "BU7 OMLÄSNING A I/23 bild 198 (förstoring): födelsedagen för ’Jonas Nilsson äldre’ står som ”21 7/5” (inte 3/5). Husförhöret A I/18/A I/20 ger 3/5 1821. Avvikelsen är liten och troligen en skrivvariant; identiteten bygger på namn, Lene och år 1821."
   ],
   "sources": [
    {
@@ -20354,6 +20416,14 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/6, bild 233 (1858 juli 7/9): Lene, Jonas Nilsson o. h. Cajsa Svensd:r, Nils Fredrik",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00233"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2 (1858), bild 117 vä, mars: ”1 | 7 | Lene: Inh. H. Lovisa Carlsd:r | Barnsbörd | 28”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00117"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/23 (1861–65), bild 198 (s. 212), Lene: ”Jonas Nilsson äldre, Bonde, 21 7/5(?) L.”; ”Cajsa Svensd:r H. 24 16/1 Sunne”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037126_00198"
    }
   ],
   "search": [
@@ -22532,7 +22602,8 @@
    "Slagen ihop med MyHeritage-leaden christopher_svensson54 (omgång 45): Christopher Svensson (1754) – MyHeritage: direkt anfader/anmoder, 7:e generationen. enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)",
    "BT1 DOP-SÖK: Boda dopbok C I/2 (C0036593) okt 1753 genomläst, bild 29 (s. 45, 1753 höger sida): nr 25 (5 okt) Jon Olofsson/Marit Nilsd. i Högboda, son Nils; nr 26 (14 okt) Nils Olofsson/Stina i Pröjstad(?), son Olof; nr 27 (1 nov) Dr. Christerson(?) o. h. Marit Jonsd. i Letboda – ingen Christopher Svensson/Sven som far. Tillsammans med tidigare Boda 1754 (bild 31) är Boda utesluten för okt 1753–okt 1754. Kvar: Fryksände C I/3, Ämtervik (V/Ö), Kil, Gönäs-grannar.",
    "BU1 VIGSEL Frykerud E I/1 bild 114 (s. 212), 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Svensson i Gönäs(?) med pigan Elin Svens dotter i Gönäs, morgongåfwor efter lag” – ingen uppgift om födelseort/föräldrar.",
-   "BU1 DOP-SÖK (negativt): Fryksände C I/3 (C0037198) okt 1753 (bild 57, nr 96–104, 13 okt–2 nov) och sept–nov 1754 (bild 70–71, nr 102–123): ingen Christopher. Östra Ämtervik C/2 (C0039801) bild 148–149 (sept–dec 1753) och C/3 (C0039802) bild 12–13 (aug–nov 1754): ingen Christopher. Tillsammans med Boda (BS1/BT1) och Frykerud är fem socknar uteslutna för okt 1753 och okt 1754. Kil ej hunnen (volym-id ej funnet)."
+   "BU1 DOP-SÖK (negativt): Fryksände C I/3 (C0037198) okt 1753 (bild 57, nr 96–104, 13 okt–2 nov) och sept–nov 1754 (bild 70–71, nr 102–123): ingen Christopher. Östra Ämtervik C/2 (C0039801) bild 148–149 (sept–dec 1753) och C/3 (C0039802) bild 12–13 (aug–nov 1754): ingen Christopher. Tillsammans med Boda (BS1/BT1) och Frykerud är fem socknar uteslutna för okt 1753 och okt 1754. Kil ej hunnen (volym-id ej funnet).",
+   "BU7 DOP FUNNET: Stora Kil C/6 (C0038909) bild 135 vä, 1754 okt: ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud …”. Födelsedagen 21/10 1754 är exakt samma som i Frykerud A I/12 bild 16, och föräldrarna är de som MyHeritage anger (Sven Ersson och Karin Nilsdotter). Ingen källa knyter uttryckligen Kil-barnet till Såldebråten-Christopher (inget flyttbetyg läst) – därför strong, inte verified. Volym-id Stora Kil (SE/VA/13504): dop C/1–C/14 = C0038904–C0038917 (C/6 1741–57 = C0038909), vigsel E/1 C0038918, husförhör A I/3 (1751–55) C0038878, A I/4 (1755–61) C0038879."
   ],
   "sources": [
    {
@@ -22562,6 +22633,10 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
    }
   ],
   "search": [
@@ -22569,8 +22644,8 @@
   ],
   "born": {
    "date": "1754-10-21",
-   "place": "(Frykerud?)",
-   "note": "Husförhör A I/12 bild 16: ”Christopther Svensson” 1754 21/10 (dag läst på förstoring; fältet före födelseår tomt). Dopet ej funnet."
+   "place": "Måsserud, Stora Kil",
+   "note": "Dop Stora Kil C/6 bild 135: född 21/10, döpt 22/10 1754, föräldrar Sven Ersson och Karin Nilsdotter i Måsserud. Datumet är exakt samma som i Frykeruds husförhör A I/12 (1754 21/10)."
   },
   "died": {
    "date": "1803-02-23",
@@ -24404,7 +24479,8 @@
    "DÖD (AF1): F/1 C0037142 bild 91 högersida (s. 157), ordagrant: ”Enk[an]: Ingrid Jonesdr i Rörbecken” – Oct 31 / Nov 9, ”Gicht”, 72 år 11 mån 8 dagar (⇒ f. ca 23 nov 1726; hf: 21/11 1726, dop 22 nov 1726). VERIFIERAD död. Ingerid överlevde Salomon Berger (d. 1790) som änka.",
    "A I/2 (1729–36) C0037103 bild 84 (sid. 133, Östra Glänna), kontroll 2:a gången, ordagrant (nedre halvan): ”Lars Andersson / H: Karin Olofsdotter” … ”Inge Olofsson [överstruken] / H: Malin Olofsdotter [överstruken]” … ”S: Jon Andersson / H: Ingerid Arfvidsdotter / H: Malin Olofsdotter [överstruken] / D: Karin Andersd [överstruken] / S: Olof Anders[son] [överstruken] …”. OBS: raden ”Inge Olofsson / H. Malin Olofsd” (överstrukna) ligger i ett eget hushåll ovanför Jon Anderssons – kan vara faderns namn ”Inge(sson/Olofsson)” i dopet 1726 (”Jona(?) Ingesson(?)”). Far till Ingerid är därför fortfarande oklar: antingen Jon Andersson (Anders Sidrikssons son) eller Inge Olofsson; ’D. Ingerid 26’ ej läst som barn i A I/2 bild 84.",
    "Dop 22 nov 1726 (C/3 bild 13) ’till namnen Ingerid’, föräldrar Jon (Ingesson?) och Malin Olofsdotter.",
-   "BU5 OMLÄSNING C/3 bild 13: faderns förnamn läses nu ”Sone” (inte ”Jona”): ”Föddes Sone Ingessons och H: Malin Olofsdotters barn i Östra Glänna”. MyHeritage-träden (8 matchningar) kallar henne ”Ingerid Berger/Pålsson (född Sonesdotter/Sånesdotter)” 1726–1799 med syskonen Nils Sonesson och Ingeborg Sonesdotter – förenligt med fadern Sone Ingesson. Detta talar emot hypotesen Jon Andersson som far. Varför hon senare kallas Jonsdotter är oförklarat (Sone/Jon-sammanblandning?)."
+   "BU5 OMLÄSNING C/3 bild 13: faderns förnamn läses nu ”Sone” (inte ”Jona”): ”Föddes Sone Ingessons och H: Malin Olofsdotters barn i Östra Glänna”. MyHeritage-träden (8 matchningar) kallar henne ”Ingerid Berger/Pålsson (född Sonesdotter/Sånesdotter)” 1726–1799 med syskonen Nils Sonesson och Ingeborg Sonesdotter – förenligt med fadern Sone Ingesson. Detta talar emot hypotesen Jon Andersson som far. Varför hon senare kallas Jonsdotter är oförklarat (Sone/Jon-sammanblandning?).",
+   "BU7: Jon Andersson-hypotesen avförs. Fadern i dopet är ’Sone(?)/Jona(?) Ingesson’ och modern Malin Olofsdotter (C/3 bild 13). Malins man i A I/2 bild 84 är Inge Olofsson."
   ],
   "sources": [
    {
@@ -24430,6 +24506,10 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/3 (1726), bild 13 vä: ”[d 21 Nov] Föddes Sone Ingessons och H: Malin Olofsdotters barn i Östra Glänna christnades d 22 Nov: til namn Ingeri. Fadd: Jonas Olofsson i Östra Glänna, Olof Arfwidsson ibid, Dr. Påhl Olufsson ibidem …”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729–36), bild 84 (s. 133), Östra Glänna: ”Inge Olofsson / H: Malin Olofsdotter” (båda överstrukna) följt av ”S: Jon Andersson / H: Ingri Arfwidsdotter”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00084"
    }
   ],
   "search": [
@@ -24760,20 +24840,22 @@
  },
  {
   "id": "fr_jon_far_ingerid",
-  "name": "Jon (Ingesson?) i Östra Glänna",
+  "name": "Sone/Jona Ingesson (Östra Glänna, far till Ingerid 1726)",
   "status": "candidate",
   "sex": "m",
   "living": false,
   "places": [
    "Östra Glänna, Frykerud"
   ],
-  "summary": "Förmodad far till Ingerid Jonsdotter (dop 22 nov 1726). Fadersnamnet läst ’Jona(s) Ingesson(?)’ – osäkert.",
+  "summary": "Far till Ingerid (döpt 22/11 1726) enligt Frykeruds dopbok: ”Sone(?)/Jona(?) Ingessons och H: Malin Olofsdotters barn i östra glänna”. Patronymikonet Ingesson är tydligt; förnamnet osäkert. Inte Jon Andersson.",
   "notes": [
    "DOP C/3 bild 13: ”Föddes Jona Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna”",
    "HUSFÖRHÖR Frykerud A I/1 (1725–29) C0037102 bild 72 (Östra Glänna, översta hushållet): ”Anders Sidrikson [Sidrichsson?]”, ”H. Marit Anders[d.]”, ”Dräng Pehr Olofsson”, ”Piga Malin Olofsd.”, ”Son Jon Andersson”, ”D. Elin Anders[d.]” (överstruken), ”D. Karin Andersd.”, och indraget längst ned ”H. Malin Olofsd[otter]” = sonen Jons hustru. Tyder på att dopets ’Jona Ingesson(?)’ i själva verket är Jon Andersson (cursiv; ’Ingesson’ osäker). HUSFÖRHÖR A I/2 (1729–36) C0037103 bild 84 (Östra Glänna, nedre vänstra delen): ”Jon Andersson” med ”H. Ingerid Arfwidsdotter” (andra hustru?) och överstruken ”H. Malin Olofsdotter”-rad; barnrader svårlästa (”D. Karin Jonsd.”?). Dopet av Ingerid 22/11 1726 (C/3 bild 13) läst om: ”Föddes Jona(?) Ingesson(?) och H. Malin Olofsdotter barn i östra Glänna Christnadas d. 22 Nov: till namnen Ingerid, fadd.: Jonas Olofsson i östra glänna, … Pehr Olufsson ibidem, h. Marit Olufsdotter, h. Ingerid Pehrs? dotter, östra Glänna”. Ingen ’D. Ingerid 26’ läst i A I/1–A I/2 (raderna svårlästa/överstrukna).",
    "Se Ingerids anteckning: A I/2 bild 84 har dessutom ett överstruket hushåll ”Inge Olofsson / H. Malin Olofsdotter” (egen post ovanför Jon Andersson) – alternativ far-kandidat ”Inge Olofsson” (kan ge dopets ”Ingesson”). Ej avgjort.",
    "BU1 OMLÄSNING C/3 bild 13 (22 nov 1726): ”Föddes Jona(?) Ingessons och H: Malin Olofsdotters barn i Östra Glänna Christnades d. 22 Nov: til namn Ingeri. Fadd: Jonas Olofsson i Östra Glänna, Olof Arfwidsson ibid:, Dr. Påhl Olufsson ibidem, Hustru Marit Olufsdotter, Hust. Ingri Olufsdotter i Östra Glänna.” Förnamnet (4 bokstäver, utan g-nedstapel) läses Jona/Jona[s]; patronymikonet tydligt ’Ingesson’ – inte Andersson.",
-   "BU1 HUSFÖRHÖR A I/1 bild 72 (Ö. Glänna): ”Anders Sidriksson / H: Marit Andersd. / Dräng: Inge(?) Olofsson / Piga: Malin Olofsd. / S: Jon Andersson / d: Elin Andersd. (struken) / d: Karin Andersd. / p: Malin Olofsdotter” – sista raden läses ’p:’ (piga), inte ’H:’. A I/2 bild 84: överstruket par ”Inge Olofsson / H: Malin Olofsdotter” (eget hushåll) samt längre ned ”S: Jon Andersson / H: Ingri Arfwidsdotter”. Malin Olofsdotters man 1729–36 är alltså Inge Olofsson, och Jon Anderssons hustru är Ingri Arfwidsdotter. Hypotesen ’Jon Andersson = Ingerids far’ stöds inte. Dopets ’Jona Ingesson’ förblir oidentifierad (ev. felskrivning för Inge Olofsson; Ingerid kallas dock senare Jonsdotter)."
+   "BU1 HUSFÖRHÖR A I/1 bild 72 (Ö. Glänna): ”Anders Sidriksson / H: Marit Andersd. / Dräng: Inge(?) Olofsson / Piga: Malin Olofsd. / S: Jon Andersson / d: Elin Andersd. (struken) / d: Karin Andersd. / p: Malin Olofsdotter” – sista raden läses ’p:’ (piga), inte ’H:’. A I/2 bild 84: överstruket par ”Inge Olofsson / H: Malin Olofsdotter” (eget hushåll) samt längre ned ”S: Jon Andersson / H: Ingri Arfwidsdotter”. Malin Olofsdotters man 1729–36 är alltså Inge Olofsson, och Jon Anderssons hustru är Ingri Arfwidsdotter. Hypotesen ’Jon Andersson = Ingerids far’ stöds inte. Dopets ’Jona Ingesson’ förblir oidentifierad (ev. felskrivning för Inge Olofsson; Ingerid kallas dock senare Jonsdotter).",
+   "BU7 OMLÄSNING C/3 bild 13 (förstoring): ”Födde[s] [S/J]ona Ingessons och H: Malin Olofsdotters barn i östra glänna christnades d 22 Nov: til namn Ingri.” Första bokstaven i förnamnet har inte samma nedåtgående J-ögla som ’Jonas Olufsson’ två rader längre ned. Den liknar mer ett S – alltså ’Sone’, som BU5 läste och som stämmer med MyHeritage (’Sonesdotter’). Ingerid kallas senare Jonsdotter/Jönsd./”Jonesdr” (dödbok 1799). ’Jonesdr’ kan vara en förvanskning av Sonesdotter – oprövat. Patronymikonet ’Ingesson’ är säkert.",
+   "BU7 A I/2 bild 84 (förstoring): paret ”Inge Olofsson / H: Malin Olofsdotter” (överstruket) står som eget hushåll. Jon Andersson har hustru ”Ingri Arfwidsdotter”. Malin Olofsdotters man 1729–36 heter alltså Inge Olofsson, inte Ingesson. Antingen är dopets namn fel, eller så var Malin först gift med en Sone/Jon Ingesson och sedan med Inge Olofsson. Det är ej utrett."
   ],
   "sources": [
    {
@@ -24786,6 +24868,14 @@
    },
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/2 (1729–1736) C0037103, bild 84 (Östra Glänna): Jon Andersson, H. Ingerid Arfwidsdotter, överstruken H. Malin Olofsdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00084"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726), bild 13 vä: ”[Nov] Födde[s] Sone(?)/Jona(?) Ingessons och H: Malin Olofsdotters barn i östra glänna christnades d 22 Nov: til namn Ingri. Fadd: Jonas Olufsson i östra glänna, Olof Arfwidsson ibid:, Dr: Påhl Olufsson ibidem, Hustru Marit Olufsdotter, Hust. Ingri Olufsdotter i östra glänna”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/2 (1729–36), bild 84 (s. 133), Östra Glänna: ”Inge Olofsson / H: Malin Olofsdotter” (båda överstrukna) följt av ”S: Jon Andersson / H: Ingri Arfwidsdotter”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037103_00084"
    }
   ],
@@ -25568,8 +25658,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1862",
-   "place": "Brunskog"
+   "date": "1862-08-04",
+   "place": "Brunskog",
+   "note": "Husförhör A I/35 bild 42: ”Sonen i första äkt. August 62 4/8 Brunskog” i Jan Elofssons hushåll, Finnebäck."
   },
   "places": [
    "Finnebäck"
@@ -25577,7 +25668,9 @@
   "summary": "Barn i Jan Elofssons hushåll 1880.",
   "notes": [
    "FOLKRÄKNING 1880: ”August, f. 1862 i Brunskog” i hushåll Jan Elofsson/Kajsa Jonsdotter.",
-   "IDENTITET (AN1): trolig fortsättning = august_jansson62 (1890 Gryttom, 1900/1910 Wikene, Brunskog; hustru Maria Olsdotter f. 1866; 7+ barn). Koppling strong, ej verified (namn+årtal+födelseförsamling)."
+   "IDENTITET (AN1): trolig fortsättning = august_jansson62 (1890 Gryttom, 1900/1910 Wikene, Brunskog; hustru Maria Olsdotter f. 1866; 7+ barn). Koppling strong, ej verified (namn+årtal+födelseförsamling).",
+   "BU7 HUSFÖRHÖR A I/35 bild 42 (Finnebäck): Jan Elofssons ”Sonen i första äkt. August 62 4/8 Brunskog”, med frejdanteckningen ”ha svag hörsel” och flyttnotis till p. 204 (1881) och tillbaka (1882). Folkräkningen 1910 noterar för hemmansägaren August Jansson f. 1862 i Wikene lytet ”hör illa”. Detta ovanliga gemensamma kännetecken stärker identiteten Jan Elofssons son = August Jansson i Wikene utöver namn, år och socken. Den direkta flytten till Gryttom/Wikene (ca 1890) är inte läst – fortfarande strong.",
+   "Sammanslagen med august_jansson62 (August Jansson (f. 1862, Gryttom/Wikene, Brunskog)). BU7 2026-10-10: identitet strong – A I/35 bild 42 ’ha svag hörsel’ = ’hör illa’ hos August Jansson i Wikene 1910; samma födelseår och socken. | Från august_jansson62: FOLKRÄKNING 1890 (Brunskog, Gryttom, sida 61 rad 8): Jansson, August f. 1862 i Brunskog, yrke ”h:egare”, gift; hustru Olsdotter, Maria f. 1866 i Brunskog. | Från august_jansson62: FOLKRÄKNING 1900 (Brunskog, Wikene, sida 38 rad 9): Jansson, August f. 1862 Brunskog, Hemmansegare, gift; hustru Olsdotter, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897 (alla Brunskog). | Från august_jansson62: FOLKRÄKNING 1910 (Brunskog, Wikene, sida 35 rad 2): Jansson, August f. 1862 Hemmansägare, lyte ”hör illa”; hustru Olsson, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897, Anders Herbert 1901, Karl August 1905, Tyra Alice 1907. | Från august_jansson62: IDENTITET: koppling till August f. 1862 i Jan Elofssons hushåll 1880 grundas på namn+födelseår+födelseförsamling (patronymikon Jansson efter fadern Jan) – ej uttrycklig källa; därför strong, inte verified. Ingen annan August Jansson f. 1862 Brunskog i 1890–1930 års register (sökning på födelseförsamling Brunskog gav endast denne). | Från august_jansson62: FOLKRÄKNING 1930 Brunskog, Wikene (s. 29 rad 12, Folk_128884130; sida i församlingsboken 401): August Jansson f. 1862 Brunskog, Hemmansägare, gift, vigselår 1890; hustru Olsson, Maria f. 1866 (”h.”); i fam. nr 2 dottern Tyra Alina (g. 1930) med svärsonen Gustav Ragnar Nyström f. 1904. | Från august_jansson62: BU7: Jan Elofssons son ”August 62 4/8 Brunskog” (A I/35 bild 42) har frejdanteckningen ”ha svag hörsel”. Hemmansägaren August Jansson f. 1862 i Wikene har lytet ”hör illa” i folkräkningen 1910. Detta stärker identiteten med august_jan62 (dubblett – föreslås sammanslagen). Fortfarande strong."
   ],
   "sources": [
    {
@@ -25587,6 +25680,26 @@
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Finnebäck sida 5 rad 20: August f. 1862 Brunskog, Familjeställning ”s.” (son), Barn, ogift",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422068&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–90), bild 42 (s. 31?), Finnebäck: ”Enkl. Intaget Jan Elofsson 19 11/1 Ö. Takene, gift 21/12 75, enkl. 7/1 81”; ”H. Kajsa Jonsdotter 35 ?/2 Finnebäck” (struken); ”Sonen i första äkt. August 62 4/8 Brunskog” (struken, frejd: ”ha svag hörsel … p. 204, 81”) och åter ”i första s. August 62 4/8 Brunskog” (från p. 204, 82); ”Sonen i andra D:o Anders 77 2/4 Finnebäck”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00042"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890 Brunskog (Gryttom), sida 61 rad 8: Jansson, August f. 1862 Brunskog, h:egare, gift; Olsdotter, Maria f. 1866",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103600013&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene), sida 38 rad 9: Jansson, August f. 1862, Hemmansegare, med hustru Maria och barn Hulda Maria, Anna Kristina, Johan Albin, Hildur Karolina",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene), sida 35 rad 2: Jansson, August f. 1862, Hemmansägare, hustru Maria f. 1866 och 7 barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): August Jansson f. 1862, hemmansägare, vigselår 1890",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884130&tab=post"
    }
   ],
   "search": [
@@ -25600,8 +25713,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1877",
-   "place": "Brunskog"
+   "date": "1877-04-02",
+   "place": "Finnebäck, Brunskog",
+   "note": "Husförhör A I/35 bild 42 och A I/37 bild 36: ”Anders 77 2/4 Finnebäck”."
   },
   "places": [
    "Finnebäck"
@@ -25609,7 +25723,9 @@
   "summary": "Barn i Jan Elofssons hushåll 1880 och 1890.",
   "notes": [
    "FOLKRÄKNING 1880/1890: ”Anders, f. 1877 i Brunskog” i hushåll Jan Elofsson.",
-   "IDENTITET (AN1): trolig fortsättning = anders_janson77 (1900 Stockholm fodermarsk; 1930 Solna förrådsföreståndare, gift 1913 med Emilia Nilson). Koppling strong, ej verified."
+   "IDENTITET (AN1): trolig fortsättning = anders_janson77 (1900 Stockholm fodermarsk; 1930 Solna förrådsföreståndare, gift 1913 med Emilia Nilson). Koppling strong, ej verified.",
+   "BU7 HUSFÖRHÖR A I/37 bild 36 (s. 33, Finnebäck): ”Son Anders 77 2/4 Finnebäck” i änklingen Jan Elofssons hushåll, bortflyttad till ”Maria Magdalena förs., Stockholm 92 22/4” (22 april 1892). Det stöder att fodermarsken Anders Jansson f. 1877 i Brunskog i Stockholm 1900 är Jan Elofssons son. Anders i Stockholm har inte kontrollerats mot Maria Magdalena inflyttningslängd 1892 – strong.",
+   "Sammanslagen med anders_janson77 (Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna). BU7 2026-10-10: identitet strong – Anders f. 2/4 1877 flyttade till Maria Magdalena, Stockholm 22/4 1892 (A I/37 bild 36). | Från anders_janson77: FOLKRÄKNING 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10, fam. nr 3: Jansson, Anders f. 1877 i Brunskog, yrke Fodermarsk, ogift, Famstkod Ensamstående; bor som hyresgäst i samma fastighet som urmakaren Anders Nilsson f. 1846 (Brunskog) med dottern Emilia Vilhelmina Kristina f. 1880 (kontorsbiträde). | Från anders_janson77: FOLKRÄKNING 1930 Solna, Råsunda (Stadsägan 73), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, Förrådsföreståndare A/B S.S.S., gift (vigselår 1913), inflyttad 1913 från Lübeck, Tyskland; hustru Nilson, Emilia Kristina Wilhelmina f. 1880 i Klara, Stockholm, bokförerska. | Från anders_janson77: IDENTITET: koppling till Anders f. 1877 i Jan Elofssons hushåll (Finnebäck) är strong, ej verified – bygger på namn + födelseår + födelseförsamling Brunskog; endast en Anders Jansson/Janson f. 1877 i Brunskog finns i 1890–1930 års register för Stockholm. Sambandet 1900→1930 stöds av hustrun Emilia (bodde 1900 i samma hus). 1890 och 1910 ej funna (utomlands?). | Från anders_janson77: TRÅD: Anders Nilsson f. 1846 i Brunskog (urmakare i Stockholm, hushållet i huset 1900) – möjligen släkt/landsman; ej utrett. | Från anders_janson77: FOLKRÄKNING 1930 Solna, Råsunda, Stadsägan 73 (s. 222 rad 23, Folk_130024578; födelseförsamling Brunskog, inflyttad 1913 från Lübeck): hushållet består endast av Anders (förrådsföreståndare A/B S.S.S.) och hustrun Emilia Kristina Wilhelmina Nilson f. 1880 Klara, Stockholm. Inga barn i hushållet och inga barn med fynd i 1900–1930 års register – barnlöst par så långt kontrollerat. | Från anders_janson77: BU7: Jan Elofssons son ”Anders 77 2/4 Finnebäck” flyttade 22/4 1892 till Maria Magdalena förs., Stockholm (A I/37 bild 36). Det stöder identiteten med anders_jan77 (dubblett – föreslås sammanslagen). Fortfarande strong."
   ],
   "sources": [
    {
@@ -25623,6 +25739,22 @@
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Finnebäck sida 5 rad 21: Anders f. 1877 Brunskog, Familjeställning ”s.” (son), Barn, ogift",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422069&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/37 (1891–95), bild 36 (s. 33), Finnebäck: ”Intaget Enkl. Jan Elofsson 19 11/1 Takene” – bortflyttad till p. 509 4/11 1892; ”Son Anders 77 2/4 Finnebäck” – bortflyttad ”Maria Magdalena förs. Stockholm 92 22/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036776_00036"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10: Jansson, Anders f. 1877 Brunskog, Fodermarsk, ogift",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_114467116&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Solna (Råsunda), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, förrådsföreståndare, gift 1913, inflyttad från Lübeck",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1930 Solna, Råsunda (s. 222): Anders Janson f. 1877 Brunskog, gift 1913, hushåll utan barn",
+    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
    }
   ],
   "search": [
@@ -27020,17 +27152,31 @@
   "summary": "Piga ’bygg. från Lene’, gift 4 jan 1857 i Frykerud med drängen Jonas Nilsson (36 år).",
   "notes": [
    "VIGSEL Frykerud E I/2 bild 108 (1857, s. 187): ”1856 Nov 16 [lysning] … Jan 4. Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, bygg. från Lene. Wigde af Magn: Lanner”, åldrar 36 resp. 26.",
-   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 17 träffar (person 3000464). SVAG: träffarna är Marta Lovisa Lundmark f. Andersdotter d.1901 och Anna Lovisa Petersson f. Carlsdotter f.1830 d.1919 med barn Anna Ulrica Jonasdotter +7 (Wedin/Stenkvis/Elmersson-träd). Namnet Carlsdotter + barn 'Jonasdotter' pekar möjligen på samma person som vår Lovisa (g. Jonas Nilsson, dotter Maria Stina): lead, kontrollera: Anna Lovisa Petersson f. Carlsdotter d.1919 (g. Petersson?) – troligen annan. Ingen verifiering utan primärkälla (Frykerud dödbok/husförhör Lene)."
+   "MyHeritage Smart Match (lead, ej verifierat; gratiskonto, dag/ort/föräldrar/make maskerade; endast år/syskon-/barnnamn synliga). 17 träffar (person 3000464). SVAG: träffarna är Marta Lovisa Lundmark f. Andersdotter d.1901 och Anna Lovisa Petersson f. Carlsdotter f.1830 d.1919 med barn Anna Ulrica Jonasdotter +7 (Wedin/Stenkvis/Elmersson-träd). Namnet Carlsdotter + barn 'Jonasdotter' pekar möjligen på samma person som vår Lovisa (g. Jonas Nilsson, dotter Maria Stina): lead, kontrollera: Anna Lovisa Petersson f. Carlsdotter d.1919 (g. Petersson?) – troligen annan. Ingen verifiering utan primärkälla (Frykerud dödbok/husförhör Lene).",
+   "BU7 DÖD F/2 bild 117 (1858, mars): ”1 | 7 | Lene: Inh. H. Lovisa Carlsd:r | Barnsbörd | 28”. Dottern Maria Stina döptes 22/2 1858 (C/6 bild 231: ”Lene: Jonas Nilsson o h. Lovisa Carlsd:r”). Lovisa dog alltså i barnsäng; Jonas Nilsson gifte om sig med Cajsa Svensdotter."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud vigselbok E I/2, bild 108, 1857: 4 jan, Dräng Jonas Nilsson (36) & Pigan Lovisa Carlsdatter (26) från Lene",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00108"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2 (1858), bild 117 vä, mars: ”1 | 7 | Lene: Inh. H. Lovisa Carlsd:r | Barnsbörd | 28”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00117"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6 (1858), bild 231 hö, februari: ”21. 22. Lene: Jonas Nilsson o h. Lovisa Carlsd:r – Maria Stina”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00231"
    }
   ],
   "search": [
    "Lovisa Carlsdotter (g. 1857 med Jonas Nilsson, Lene)"
-  ]
+  ],
+  "died": {
+   "date": "1858-03-01",
+   "place": "Lene, Frykerud",
+   "note": "Dödbok F/2 bild 117: död 1 mars, begr. 7 mars 1858, ”Barnsbörd”, 28 år – nio dagar efter dottern Maria Stinas födelse 21/2 1858."
+  }
  },
  {
   "id": "fr_mariastinajonasd1858",
@@ -28346,52 +28492,6 @@
   ]
  },
  {
-  "id": "august_jansson62",
-  "name": "August Jansson (f. 1862, Gryttom/Wikene, Brunskog)",
-  "status": "verified",
-  "sex": "m",
-  "living": false,
-  "summary": "Hemmansägare i Wikene, Brunskog; gift med Maria Olsdotter f. 1866. Troligen samma person som sonen August (f. 1862) i Jan Elofssons hushåll 1880.",
-  "notes": [
-   "FOLKRÄKNING 1890 (Brunskog, Gryttom, sida 61 rad 8): Jansson, August f. 1862 i Brunskog, yrke ”h:egare”, gift; hustru Olsdotter, Maria f. 1866 i Brunskog.",
-   "FOLKRÄKNING 1900 (Brunskog, Wikene, sida 38 rad 9): Jansson, August f. 1862 Brunskog, Hemmansegare, gift; hustru Olsdotter, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897 (alla Brunskog).",
-   "FOLKRÄKNING 1910 (Brunskog, Wikene, sida 35 rad 2): Jansson, August f. 1862 Hemmansägare, lyte ”hör illa”; hustru Olsson, Maria f. 1866; barn Hulda Maria 1891, Anna Kristina 1893, Johan Albin 1895, Hildur Karolina 1897, Anders Herbert 1901, Karl August 1905, Tyra Alice 1907.",
-   "IDENTITET: koppling till August f. 1862 i Jan Elofssons hushåll 1880 grundas på namn+födelseår+födelseförsamling (patronymikon Jansson efter fadern Jan) – ej uttrycklig källa; därför strong, inte verified. Ingen annan August Jansson f. 1862 Brunskog i 1890–1930 års register (sökning på födelseförsamling Brunskog gav endast denne).",
-   "FOLKRÄKNING 1930 Brunskog, Wikene (s. 29 rad 12, Folk_128884130; sida i församlingsboken 401): August Jansson f. 1862 Brunskog, Hemmansägare, gift, vigselår 1890; hustru Olsson, Maria f. 1866 (”h.”); i fam. nr 2 dottern Tyra Alina (g. 1930) med svärsonen Gustav Ragnar Nyström f. 1904."
-  ],
-  "sources": [
-   {
-    "label": "Riksarkivet, Folkräkning 1890 Brunskog (Gryttom), sida 61 rad 8: Jansson, August f. 1862 Brunskog, h:egare, gift; Olsdotter, Maria f. 1866",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103600013&tab=post"
-   },
-   {
-    "label": "Riksarkivet, Folkräkning 1900 Brunskog (Wikene), sida 38 rad 9: Jansson, August f. 1862, Hemmansegare, med hustru Maria och barn Hulda Maria, Anna Kristina, Johan Albin, Hildur Karolina",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109938483&tab=post"
-   },
-   {
-    "label": "Riksarkivet, Folkräkning 1910 Brunskog (Wikene), sida 35 rad 2: Jansson, August f. 1862, Hemmansägare, hustru Maria f. 1866 och 7 barn",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125550222&tab=post"
-   },
-   {
-    "label": "Riksarkivet, Folkräkning 1930 Brunskog, Wikene (s. 29, sida i församlingsboken 401): August Jansson f. 1862, hemmansägare, vigselår 1890",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128884130&tab=post"
-   }
-  ],
-  "born": {
-   "date": "1862",
-   "place": "Brunskog",
-   "note": "Folkräkningarna anger Brunskog som födelseförsamling"
-  },
-  "places": [
-   "Finnebäck",
-   "Gryttom",
-   "Wikene, Brunskog"
-  ],
-  "search": [
-   "August Jansson (f. 1862, Gryttom/Wikene, Brunskog)"
-  ]
- },
- {
   "id": "maria_olsd66_aj",
   "name": "Maria Olsdotter (f. 1866, g. Jansson, Wikene)",
   "status": "verified",
@@ -28625,48 +28725,6 @@
   ],
   "search": [
    "Tyra Alice Jansson (f. 1907, Wikene)"
-  ]
- },
- {
-  "id": "anders_janson77",
-  "name": "Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna",
-  "status": "verified",
-  "sex": "m",
-  "living": false,
-  "summary": "Troligen sonen Anders f. 1877 i Jan Elofssons hushåll. Fodermarsk i Stockholm 1900; bodde i Lübeck före 1913; gift 1913 med Emilia Kristina Wilhelmina Nilson f. 1880; förrådsföreståndare i Råsunda, Solna 1930.",
-  "notes": [
-   "FOLKRÄKNING 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10, fam. nr 3: Jansson, Anders f. 1877 i Brunskog, yrke Fodermarsk, ogift, Famstkod Ensamstående; bor som hyresgäst i samma fastighet som urmakaren Anders Nilsson f. 1846 (Brunskog) med dottern Emilia Vilhelmina Kristina f. 1880 (kontorsbiträde).",
-   "FOLKRÄKNING 1930 Solna, Råsunda (Stadsägan 73), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, Förrådsföreståndare A/B S.S.S., gift (vigselår 1913), inflyttad 1913 från Lübeck, Tyskland; hustru Nilson, Emilia Kristina Wilhelmina f. 1880 i Klara, Stockholm, bokförerska.",
-   "IDENTITET: koppling till Anders f. 1877 i Jan Elofssons hushåll (Finnebäck) är strong, ej verified – bygger på namn + födelseår + födelseförsamling Brunskog; endast en Anders Jansson/Janson f. 1877 i Brunskog finns i 1890–1930 års register för Stockholm. Sambandet 1900→1930 stöds av hustrun Emilia (bodde 1900 i samma hus). 1890 och 1910 ej funna (utomlands?).",
-   "TRÅD: Anders Nilsson f. 1846 i Brunskog (urmakare i Stockholm, hushållet i huset 1900) – möjligen släkt/landsman; ej utrett.",
-   "FOLKRÄKNING 1930 Solna, Råsunda, Stadsägan 73 (s. 222 rad 23, Folk_130024578; födelseförsamling Brunskog, inflyttad 1913 från Lübeck): hushållet består endast av Anders (förrådsföreståndare A/B S.S.S.) och hustrun Emilia Kristina Wilhelmina Nilson f. 1880 Klara, Stockholm. Inga barn i hushållet och inga barn med fynd i 1900–1930 års register – barnlöst par så långt kontrollerat."
-  ],
-  "sources": [
-   {
-    "label": "Riksarkivet, Folkräkning 1900 Stockholm, Jakob och Johannes rote 21, Geten 12, sida 74 rad 10: Jansson, Anders f. 1877 Brunskog, Fodermarsk, ogift",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_114467116&tab=post"
-   },
-   {
-    "label": "Riksarkivet, Folkräkning 1930 Solna (Råsunda), sida 222 rad 23: Janson, Anders f. 1877 Brunskog, förrådsföreståndare, gift 1913, inflyttad från Lübeck",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
-   },
-   {
-    "label": "Riksarkivet, Folkräkning 1930 Solna, Råsunda (s. 222): Anders Janson f. 1877 Brunskog, gift 1913, hushåll utan barn",
-    "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_130024578&tab=post"
-   }
-  ],
-  "born": {
-   "date": "1877",
-   "place": "Brunskog"
-  },
-  "places": [
-   "Finnebäck, Brunskog",
-   "Stockholm (Kungsholmen? Jakob och Johannes rote 21, Geten 12)",
-   "Lübeck (till 1913)",
-   "Råsunda, Solna"
-  ],
-  "search": [
-   "Anders Janson (Jansson) (f. 1877 Brunskog), förrådsföreståndare Solna"
   ]
  },
  {
@@ -39114,7 +39172,10 @@
    "DOP Brunskog C I/3 1793, bild 44 (s. 65), nr 8, 6 febr: ”Takene Olof – Nils Jonsson / Lisa Larsd[otter] 53 – [faddrar] Måns Jonsson, Kari Jonsd”. Moderns efternamn delvis överstruket/svårläst; talet 53 läses som mors födelseår (1753).",
    "HUSFÖRHÖR A I/5 (C0036744) bild 79 (folio 67, ”Ö. Takene Svartån” nr 14): ”Jon Nilson 1724 Svartån; Brita Olsd 1727 Takene; Brita Jansd 1755; Nils Jans 1760 (överstruket) ; Anna Jansd 1767; Kari Jansd 1765”; längst ned, efter marginal ”1784”: ”Anna Jansd 1767” och ”Nils Jansson 1760 ibm”. A I/6 (C0036745) bild 79 (folio 68): änkan ”Brita Olsd 27 Ö. Takene” med ”Nils Jansf [Jansson] 60 Svartån”, ”Marit Nilsd 62 [inflyttad p.67 88]”. KANDIDAT: Nils Jonsson f. 1760 Svartån som make till Lisa Larsd – ej bevisat (ingen Lisa Larsd i hushållet; mors/hustrus födelseår 1753 vs hans 1760).",
    "DOP 1779 C I/2 (C0036783) bild 160, nr 29, 8 aug: ”Ö. Takene Olof – Nils Jonsson / Marit Olsd” (faddrar Ol. Olsson, And. Andersson, Kjersti Jonsd, Karin Nilsd; ”Olof” överstruket). Det finns alltså en Nils Jonsson i Ö. Takene gift med Marit Olsd redan 1779 – antingen en annan man eller en första hustru före Lisa Larsd. Ej utrett.",
-   "VIGSEL E I/3 (C0036788) bild 13–16 (dec 1787–1792) genomläst på uppslagsnivå: ingen vigsel Nils Jonsson/Lisa Larsd (endast ”Nils Jonsson från Tobyn / Kjersti Jordsd fr Byn” 16/2 1788, ”Nils Jonsson fr Skog / Anna Nilsd fr Svartan” 19/6 1791, ”Nils Jonsson fr Mölnerud / Anna Andersd fr Skärmenäs” 13/12 1792). Vigseln bör sökas före 1787 eller i annan socken."
+   "VIGSEL E I/3 (C0036788) bild 13–16 (dec 1787–1792) genomläst på uppslagsnivå: ingen vigsel Nils Jonsson/Lisa Larsd (endast ”Nils Jonsson från Tobyn / Kjersti Jordsd fr Byn” 16/2 1788, ”Nils Jonsson fr Skog / Anna Nilsd fr Svartan” 19/6 1791, ”Nils Jonsson fr Mölnerud / Anna Andersd fr Skärmenäs” 13/12 1792). Vigseln bör sökas före 1787 eller i annan socken.",
+   "BU7 HUSFÖRHÖR A I/6 bild 82 (Ö. Takene Svartån): änkan Brita Olsdotter (1727) med sonen ”Nils Jansson 60 Svartån”, hans hustru ”Marit Nilsd. 62” och barnen ”Jan Nilsson 88” och ”Olof Nilsson 19/3 90”. Hela hushållet är överstruket och Marit utflyttad ”Boda 93”. Svartån-Nils (f. 1760) hade alltså hustrun Marit Nilsdotter och en son Olof f. 19/3 1790. Han är därmed INTE far till Olof f. 6/2 1793 med Lisa Larsdotter.",
+   "BU7: A I/6 bild 73 (s. 62, Ö. Takene) har en annan ”Nils Jansson” f. 1769 i Takene (flyttad till p. 152 1794) – möjlig kandidat. A I/6 bild 72–85 (Ö. Takene och Svartån) har ingen Lisa Larsdotter.",
+   "BU7 VIGSEL E I/3 bild 9–12 (1784–1787) genomlästa: ingen Nils Jonsson × Lisa Larsdotter. Däremot 1786 nr 19 ”Dr. Nils Nilsson i V. Furtan … Britta Ers[?]d.”, 1785 nr 18 m.fl. utan träff. Vigseln är inte funnen 1784–1792."
   ],
   "sources": [
    {
@@ -39128,6 +39189,14 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2, bild 160 (1779), nr 29: Ö. Takene Olof – Nils Jonsson / Marit Olsd",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00160"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/6 (1790–94), bild 82 (s. 70), Ö. Takene Svartån: ”Enk. Brita Olsd. 27 Takene”; ”S. Nils Jansson 60 Svartån” (överstruken); ”H. Marit Nilsd. 62” (utflyttad Boda 93); ”S. Jan Nilsson 88”; ”S. Olof Nilsson 19/3 90” (struken)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036746_00082"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/6, bild 73 (s. 62), Ö. Takene: ”Nils Jansson 1/7(?) Takene 69, p.152 94”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036746_00073"
    }
   ],
   "search": [
@@ -43250,11 +43319,14 @@
   "places": [
    "Ö. Takene, Brunskog"
   ],
-  "summary": "Far till Nils Persson (f. 1/1 1719 på Ö. Takene, sedermera kyrkvärd i Toltan) med hustru Ingrid Olofsdotter – enligt både dopet 1719 och dödboken 1785. Ingrid är sannolikt samma Ingrid Olofsdotter (1693) som senare var gift med Olof Persson på Ö. Takene.",
+  "summary": "Dräng Per Larsson ’i Tolta’ vigdes 25/3 1718 med pigan Ingerid Olofsdotter i Takene (E I/1 bild 34); far till Nils Persson f. 1/1 1719 på Ö. Takene. Död före 29/12 1727, då Ingerid som änka gifte om sig med Olof Persson. Trolig död: Per Larsson i Toltan begr. 13/3 1726, 29 år (E I/1 bild 167) – kandidat.",
   "notes": [
    "DOP 1719 (C I/1 bild 121 vä, nr 1): ”d 1 Jan: Christnades … Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils. Fadd: Olof Olofss: i Takene, Per Nilsson ibid, h. Anna Christ…, h. Malin Olufsd:r ibid.”",
    "DÖD 1785 (F I/1 bild 14 hö, nr 10): sonen Nils Persson ”född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r”.",
-   "Död före 1731 (Ingrid har då barn med Olof Persson) – dödsår ej sökt (E I/1 1719–1730)."
+   "Död före 1731 (Ingrid har då barn med Olof Persson) – dödsår ej sökt (E I/1 1719–1730).",
+   "BU7 VIGSEL E I/1 bild 34 hö (1718): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.”",
+   "BU7 DÖD (kandidat): E I/1 bild 167 hö, 1726 nr 8: ”d 13 Martii begrofs Per Larsson i Toltan som förde en sachtmodig och Gudel. wandel och war 29 åhr” → f. ca 1697. Ingen annan Per Larsson vuxen i dödboken 1719–1730 (bild 157–172). Samma dag nr 9 är ett barn Per Larsson ’ifrån Tyrsbyn(?)’ 5 år 4 mån (döpt 16/5 1720, C I/1 bild 127 nr 18, marginal ’Begrofs d 13 Martii 1726’) – annan person.",
+   "BU7: Änkan Ingerid i Ö. Takene gifte om sig 29/12 1727 med Olof Persson (E I/1 bild 43, inklistrad lapp) → Per Larsson död senast 1727."
   ],
   "sources": [
    {
@@ -43264,6 +43336,14 @@
    {
     "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1 (1718), bild 34 hö (s. 49): ”d 25 Martii Sammanwigdes efter 3 åtskillige Lys: Dr. Per Larsson i Tolta och Pig: Ingerid Olufsd:r i Takene.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00034"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok i E I/1 (1726), bild 167 hö, nr 8: ”d 13 Martii begrofs Per Larsson i Toltan som förde en sachtmodig och Gudel. wandel och war 29 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00167"
    }
   ],
   "search": [
@@ -43285,12 +43365,17 @@
   ],
   "summary": "Enligt sonens begravningspost 1793 far till Anders Andersson (f. 1720 i Wikene). Patronymikonet är överskrivet och läses ’Larsson’ med osäkerhet.",
   "notes": [
-   "DÖD 1793 (F I/1 bild 44 vä, nr 21): ”… Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari …” – ’Larsson’ skrivet ovanpå ett annat ord."
+   "DÖD 1793 (F I/1 bild 44 vä, nr 21): ”… Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari …” – ’Larsson’ skrivet ovanpå ett annat ord.",
+   "BU7: En ’Anders Larsson ibid’ [Wikene] står som fadder 4/4 1719 (C I/1 bild 121 hö nr 4). Det visar att en Anders Larsson bodde i Wikene vid denna tid och stöder läsningen ’Larsson’ i dödboken 1793. Sonens dop är fortfarande inte funnet."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog dödbok F I/1 (1793), bild 44 vä, nr 21 (begr. 9 juni): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son [överskrivet] och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00044"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1719), bild 121 hö, nr 4 (4 april): Wikene, föräldrar Anders Bengtsson och h. Marit Jonsd:r; fadder ”Anders Larsson ibid”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00121"
    }
   ],
   "search": [
@@ -43696,6 +43781,69 @@
   ],
   "search": [
    "Andreas (Anderus) Jonae Renström (1669–1741), komminister i Brunskog"
+  ]
+ },
+ {
+  "id": "ao7_johan_arnesson61",
+  "name": "Johan Arnesson (Ragnilsrud, f. 1761)",
+  "status": "verified",
+  "sidoperson": true,
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1761",
+   "place": "Ragnilsrud, Brunskog",
+   "note": "Husförhör A I/1 bild 255: födelseår 1761"
+  },
+  "places": [
+   "Ragnilsrud, Brunskog"
+  ],
+  "summary": "Son till Arne Andersson och Marit Jonsdotter i Ragnilsrud enligt husförhöret 1760–63.",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 255 (s. 216, Ragnilsrud nr 5): ”S. Johan Arness.” 1761."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/1, bild 255 (s. 216), Ragnilsrud nr 5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036740_00255"
+   }
+  ],
+  "search": [
+   "Johan Arnesson (Ragnilsrud, f. 1761)"
+  ]
+ },
+ {
+  "id": "bu7_cajsa_svensd24",
+  "name": "Cajsa Svensdotter (f. 1824 Sunne, Lene)",
+  "status": "verified",
+  "sidoperson": true,
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1824-01-16",
+   "place": "Sunne",
+   "note": "Husförhör Frykerud A I/23 bild 198: ”24 16/1 Sunne”"
+  },
+  "places": [
+   "Lene, Frykerud"
+  ],
+  "summary": "Jonas Nilssons andra hustru på Lene, Frykerud; mor till Nils Fredrik (1858), Maja Maria (1862) och Johan (1864).",
+  "notes": [
+   "DOP C/6 bild 233 (juli 1858): ”7 | 9 | Lene: Jonas Nilsson o. h. Cajsa Svensd:r | Nils Fredrik”.",
+   "HUSFÖRHÖR A I/23 bild 198: ”Cajsa Svensd:r, H., 24 16/1, Sunne”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhör A I/23, bild 198 (s. 212), Lene",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037126_00198"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/6, bild 233 (juli 1858)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00233"
+   }
+  ],
+  "search": [
+   "Cajsa Svensdotter (f. 1824 Sunne, Lene)"
   ]
  }
 ]
