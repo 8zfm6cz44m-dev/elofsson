@@ -261,14 +261,13 @@
     },
     {
       "title": "Zdzisław Orzechowski (f. 1946): vem var fadern?",
-      "text": "Ywonne 2026-10-10: Zdzisław hade en annan far än Bolesław Kogut. Han bär Irenas flicknamn Orzechowski. Fadern kan vara förste maken Jarczyński eller någon annan. Fråga också när Irena gifte sig med Jarczyński och vad han hette i förnamn.",
+      "text": "Ywonne 2026-10-10: Zdzisław hade en annan far än Bolesław Kogut. Han bär Irenas flicknamn Orzechowski. Fadern är okänd.",
       "persons": [
         "zdzislaw",
-        "irena",
-        "jarczynski_irena"
+        "irena"
       ],
       "priority": 3,
-      "next_step": "Fråga Ywonne/Zdzisław om faderns namn och om Jarczyńskis förnamn och vigselår."
+      "next_step": "Fråga familjen om Zdzisławs far (låg prioritet)."
     }
   ],
   "conflicts": [

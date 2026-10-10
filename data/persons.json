@@ -2874,7 +2874,7 @@
    "place": "Trzcińsko-Zdrój",
    "note": "Gravstenar i Polen (MyHeritage), begravd Cmentarz Komunalny."
   },
-  "summary": "Ywonnes mor. Född Orzechowska, dotter till Stefan Orzechowski och Zofia Młodawska. Namnet Jarczyńska kommer från ett tidigare äktenskap med en man Jarczyński, före Bolesław Kogut, som hon aldrig var gift med.",
+  "summary": "Ywonnes mor. Född Orzechowska, dotter till Stefan Orzechowski och Zofia Młodawska. Jarczyńska är ett giftnamn från ett tidigare äktenskap. Var aldrig gift med Bolesław Kogut.",
   "flags": [
    "Namnkonflikt Irena/Helena"
   ],
@@ -44713,24 +44713,6 @@
   ],
   "search": [
    "Johan Elofsson (1746, Persjön)"
-  ]
- },
- {
-  "id": "jarczynski_irena",
-  "name": "N.N. Jarczyński",
-  "status": "family",
-  "sex": "m",
-  "living": false,
-  "born": {
-   "date": "",
-   "note": "Okänt"
-  },
-  "summary": "Irena Orzechowskas förste make (familjen: ”en gubbe”, alltså äldre än hon), före Bolesław Kogut. Förnamn och data okända.",
-  "sources": [
-   {
-    "label": "Familjeuppgift: Ywonne Henryka Elofsson (Martins mamma), skriftligt svar via Martin 2026-10-10",
-    "url": ""
-   }
   ]
  }
 ]

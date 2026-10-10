@@ -13461,15 +13461,6 @@
   "basis": "Älvsbacka C/1 bild 42 (1746): ”Johan Elofsson i Persjön född d 17 December”; marginal ”Fadren Elof Ersson, Modren Maria Ol:dotter”."
  },
  {
-  "id": "p-jarczynski_irena-irena",
-  "type": "partner",
-  "a": "jarczynski_irena",
-  "b": "irena",
-  "status": "family",
-  "label": "gifta",
-  "basis": "Ywonne 2026-10-10: Irena hette Jarczyńska ”när hon gifte sig med en gubbe före min pappa”. Vigselakt saknas."
- },
- {
   "id": "c-irena-zdzislaw",
   "type": "child",
   "parents": [
@@ -13477,6 +13468,6 @@
   ],
   "child": "zdzislaw",
   "status": "family",
-  "basis": "Familjeuppgift. Fadern är inte Bolesław Kogut (Ywonne 2026-10-10); vem han är är okänt – möjligen förste maken Jarczyński, men Zdzisław bär Irenas flicknamn Orzechowski."
+  "basis": "Familjeuppgift. Fadern är inte Bolesław Kogut (Ywonne 2026-10-10); vem han är är okänt."
  }
 ]
