@@ -99,13 +99,6 @@
       "source": "Riksarkivet: mantalslängder Toltan 1696-1735, Brunskog dopbok C I/1 1699 bild 51 och C I/1 bild 209"
     },
     {
-      "title": "Annas flicknamn: Opara eller Bartosińska",
-      "text": "Oförändrat: Opara i 1860/1864/1891, Bartosińska i 1856/1866/1900. Ej löst av BT3.",
-      "persons": [
-        "anna_bartosinska"
-      ]
-    },
-    {
       "title": "Białogon (id3912) innehåller bara Allegata, inte födelseböcker",
       "text": "Enheten A-1919-1941 (sy7000) har 9 kuvert 'Allegata' (1919, 1921-1942, 1924, 1927, 1929, 1930, 1931, 1932, 1940), dvs lösa bilagor till akter (ex. kopior av dopbevis för vigslar), inte själva födelseböckerna. Irenas födelseakt 1926 ligger därför troligen i S:t Wojciech/Katedra eller i ej skannad Białogon-bok; Geneteka B 13sk Orzechowska Irena 1925-27 ger 0. Irena kvarstår som lead.",
       "persons": [
@@ -1027,6 +1020,13 @@
         "pl4_andrzej_hencel_1818",
         "augustyn_hencel",
         "pl4_michal_hencel_1822"
+      ]
+    },
+    {
+      "title": "Wiktoria Szewczyks födelseår: ca 1874/75 (3 akter) mot ca 1866/67 (vigsel 1900)",
+      "text": "Åldrar: 33 år (vigsel 14.2.1900), 28 (1902 nr 211), 28 (1904 nr 125), 35 (1909 nr 324). Tre akter ger ca 1874/75. Födelseort 'Вылезовъ' (Wylezów?) är oidentifierad; inget dop i Kielce Katedra-index 1874–1875. Modern Antonina f. Gradzik d. dec 1885 i Szydłówek, 40 år (Katedra 1885 nr 822).",
+      "persons": [
+        "wiktoria_szewczyk"
       ]
     }
   ],
@@ -4184,6 +4184,31 @@
         "agnieszka_orzechowska_1849"
       ],
       "resolution": "PL4: vigselakten 1895 nr 169 har vittnet Stanisław Hencel, brudgummens morbror – ”Пенцлювъ” = felläsning av Hencel; modern är Agnieszka Hencel, förnamnet Antonina i akten är fel."
+    },
+    {
+      "title": "Dubblett jan_mlodawski / jan_mlodawski_1863: ej samma person – ingen merge",
+      "text": "Vigselakt Kielce 1900 nr 23 (omläst): Jan är 'сыномъ Яцка и Анны изъ Бартосинскихъ', bor i 'Роговице прихода Мніовъ', 37 år, 'родившимся въ деревнѣ Одровонжъ'. Födelseakt Mniów 1863 nr 74: Jan f. 26.8.1863 i Krasna, 'Stawił się Cyprjan Młodawski gospodarz w Krasnej'. Olika far (Jacek/Cyprian) och olika by (Rogowice/Krasna); Krasna-Jan gifte sig dessutom 1888 (Mniów nr 24) medan Jacek-sonen var ungkarl 1891. Bara åldern stämmer. Behåll som två personer.",
+      "persons": [
+        "jan_mlodawski",
+        "jan_mlodawski_1863"
+      ]
+    },
+    {
+      "title": "Annas flicknamn: Opara = Bartosińska (dubbelnamn i samma familj)",
+      "text": "Geneteka-index visar att Stanisław + Elżbieta Chlewicka i Zaborowice (Miedzierza) heter Opara 1819 (vigsel Mniów nr 4) och 1822 (dotter Katarzyna, Miedzierza nr 14), men Bartosiński 1828–1862 (barn inkl. Anna f. 26.7.1831, Miedzierza nr 63). Därmed är 'Anna z Oparów' och 'Anna z Bartosińskich' samma kvinna; namnväxlingen i Mniów-akterna 1856–1900 är ett alias, inte två kvinnor. Status strong: bygger på index (Miedzierza ej skannad); verifiering kräver bildläsning av Miedzierza 1831 nr 63 (AP Kielce/Szukaj w Archiwach).",
+      "persons": [
+        "anna_bartosinska",
+        "stanislaw_bartosinski",
+        "elzbieta_chlewicka"
+      ]
+    },
+    {
+      "title": "Annas flicknamn: Opara eller Bartosińska",
+      "text": "Oförändrat: Opara i 1860/1864/1891, Bartosińska i 1856/1866/1900. Ej löst av BT3.",
+      "persons": [
+        "anna_bartosinska"
+      ],
+      "resolution": "PL3: familjen hette Opara alias Bartosiński (Mniów 1819 nr 4, Miedzierza 1822 nr 14 = Opara; 1828–1862 = Bartosiński; Anna f. 26.7.1831 Miedzierza nr 63). Index, strong."
     }
   ],
   "backlog": [

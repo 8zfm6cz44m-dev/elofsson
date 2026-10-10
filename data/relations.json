@@ -14030,5 +14030,70 @@
   "b": "pl4_michal_hencel_1822",
   "status": "strong",
   "basis": "Samma mor Tekla z Skrzyńskich, Niewachłów (akt 369/1820, 380/1822)"
+ },
+ {
+  "id": "c-jan_mlodawski-wiktoria_szewczyk-bronislawa_mlodawska_1909",
+  "type": "child",
+  "parents": [
+   "jan_mlodawski",
+   "wiktoria_szewczyk"
+  ],
+  "child": "bronislawa_mlodawska_1909",
+  "status": "verified",
+  "basis": "Kielce S:t Wojciech 1909 akt 324 (skan 317-324.jpg): 'Явился работникъ изъ Шидлувка Іоаннъ Млодавскій сорока пяти лѣтъ ... отъ жены его Викторіи урожденной Шевчикъ тридцати пяти лѣтъ ... дано имя Бронислава'"
+ },
+ {
+  "id": "s-zofia-bronislawa_mlodawska_1909",
+  "type": "sibling",
+  "a": "zofia",
+  "b": "bronislawa_mlodawska_1909",
+  "status": "verified",
+  "basis": "Samma föräldrar (arbetaren Jan Młodawski från Szydłówek + Wiktoria f. Szewczyk) i akt 125/1904 och akt 324/1909"
+ },
+ {
+  "id": "s-boleslaw_mlodawski-bronislawa_mlodawska_1909",
+  "type": "sibling",
+  "a": "boleslaw_mlodawski",
+  "b": "bronislawa_mlodawska_1909",
+  "status": "verified",
+  "basis": "Samma föräldrar i akt 211/1902 och akt 324/1909"
+ },
+ {
+  "id": "c-szczepan_szewczyk-antonina_gradzik-franciszek_szewczyk_1885",
+  "type": "child",
+  "parents": [
+   "szczepan_szewczyk",
+   "antonina_gradzik"
+  ],
+  "child": "franciszek_szewczyk_1885",
+  "status": "verified",
+  "basis": "Kielce Katedra 1885 dödakt 825: 'умеръ Францишекъ Шевчикъ ... сынъ Щепана и Антонины урожденной Градзикъ'"
+ },
+ {
+  "id": "s-wiktoria_szewczyk-franciszek_szewczyk_1885",
+  "type": "sibling",
+  "a": "wiktoria_szewczyk",
+  "b": "franciszek_szewczyk_1885",
+  "status": "verified",
+  "basis": "Samma föräldrar Szczepan + Antonina f. Gradzik (vigsel Kielce 1900 nr 23; död Katedra 1885 nr 825)"
+ },
+ {
+  "id": "c-tomasz_gradzik-tekla_gradzik-antonina_gradzik",
+  "type": "child",
+  "parents": [
+   "tomasz_gradzik",
+   "tekla_gradzik"
+  ],
+  "child": "antonina_gradzik",
+  "status": "verified",
+  "basis": "Kielce Katedra 1885 dödakt 822: 'Антонина Шевчикъ ... сорока лѣтъ, дочь Томаша и Теклы супруговъ Градзиковъ, оставивъ овдовѣвшаго мужа Щепана'"
+ },
+ {
+  "id": "p-tomasz_gradzik-tekla_gradzik",
+  "type": "partner",
+  "a": "tomasz_gradzik",
+  "b": "tekla_gradzik",
+  "status": "strong",
+  "basis": "'супруговъ Градзиковъ' i dödakt Katedra 1885 nr 822"
  }
 ]
