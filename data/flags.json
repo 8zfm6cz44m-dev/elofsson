@@ -233,14 +233,6 @@
       ]
     },
     {
-      "title": "Christopher Nilsson från Edanen d. 1741 (72 år) = Christopher Nilsson i Skog?",
-      "text": "E I/1 bild 92 (1741 nr 15): ”gamle … Mannen Christopher Nilsson från Edanen[?] … i 72 åhr” (f. ca 1669). Christopher Nilsson i Skog (mantal 1710) gifte sig 7/6 1713 med Elin Giöstafsdotter från Boda (bild 29). Kontrollera barnens dop 1714–1730 (C I/1) för var paret bodde, och om Elin nämns.",
-      "persons": [
-        "christopher_nilsson_skog",
-        "elin_gostafsd_1713"
-      ]
-    },
-    {
       "title": "Per Larsson (g. 1718 m. Ingrid Olofsdotter): död 1719–1727 – = Per Larsson i Toltan begr. 13/3 1726, 29 år?",
       "text": "Brunskogs dödbok 1719–1730 (E I/1 bild 157–172) har ingen Per Larsson från Takene. Enda vuxne Per Larsson: 1726 nr 8 (bild 167 hö) ”Per Larsson i Toltan … war 29 åhr” (f. ca 1697). Vid vigseln 1718 kallas brudgummen ”Dr. Per Larsson i Tolta”. Stöder identiteten, men ingen hustru nämns. Ett barn ”Per Persson ifrån Ö. Takene 4 mån.” begravdes 1/5 1724 (bild 165) – kanske parets. Kontrollera dop jan 1724 (C I/1 ca bild 147–148) och mantal Toltan/Takene 1720–1726.",
       "persons": [
@@ -255,14 +247,6 @@
         "fr_ingeridjonsd1726",
         "fr_jon_far_ingerid",
         "fr_malinolofsd_ingerid"
-      ]
-    },
-    {
-      "title": "Nils Jonsson (far till Olof 6/2 1793): = Nils Jansson f. 1769 Takene (A I/6 s. 62, flyttad p. 152 1794)?",
-      "text": "Svartån-Nils (f. 1760) är gift med Marit Nilsdotter (A I/6 bild 82) och utesluten. A I/6 bild 73 (Ö. Takene s. 62) har ”Nils Jansson” f. 1769 i Takene, flyttad till p. 152 år 1794. Kontrollera A I/6 s. 152 och A I/7 efter Nils Jansson med hustru Lisa Larsdotter (f. 1753?) och sonen Olof 1793. Vigseln är inte funnen i Brunskog E I/3 1784–92 – sök i Boda/Glava.",
-      "persons": [
-        "nils_jonsson_takene93",
-        "lisa_larsd_takene93"
       ]
     },
     {
@@ -281,6 +265,13 @@
         "sven_ersson",
         "erik_palsson_hogvalta",
         "kerstin_mansdotter_hogvalta"
+      ]
+    },
+    {
+      "title": "Jon Larsson och Marit Persdotter i Arnäs – föräldrar till Nils Jonsson f. 27/9 1745",
+      "text": "Dödboken 1800 (F I/1 bild 73 nr 16) anger Nils Jonssons föräldrar: bonden Jon Larsson och h. Marit Persdotter, Arnäs. Sök dopet 27/9 1745 i C I/2 (C0036783) och familjen i Arnäs i A I/1 (C0036740). Även Lisa Larsdotters ursprung (Ullerud/Glava) är outrett.",
+      "persons": [
+        "nils_jonsson_takene93"
       ]
     }
   ],
@@ -952,6 +943,16 @@
       "persons": [
         "karin_nilsdotter19",
         "sven_ersson"
+      ]
+    },
+    {
+      "title": "Christopher Nilsson i Skog (g. 1713 m. Elin Göstafsdotter) vs Christopher Nilsson i Edane (hustru Karin Hansdotter 1715–17)",
+      "text": "Dopboken C I/1 1714–1729 (bild 86–181, hela perioden genomläst) har INGET barn till Christopher Nilsson och Elin Göstafsdotter. Däremot döps barn till Christopher Nilsson och H. Karin/Kari [Hans]d:r i Edane: 31/8 1715 Anders[?] (bild 97, fadern bara ”Christophers”), 24/12 1717 Anna (bild 112), 26/5 1720 Per (bild 128), 2/7 1725 Anders (bild 155). Antingen är Edane-Christopher en annan man än Skog-Christopher (vigd 7/6 1713 med Elin), eller dog Elin tidigt och han gifte om sig med Karin. ”Christopher Nilsson från Edanen”, begr. 7/6 1741, 72 år (E I/1 bild 92) passar Edane-mannen. Obs: en tredje Christopher Nilsson bor i Smådal med Marit Nilsdotter (barn Nils 1727 bild 166, Marit 1729 bild 178) och står fadder 1729 (bild 178). Nästa steg: sök Elin Göstafsdotters död 1713–15 (dödbok i E I/1 bild 138–150) och ett vigsel Christopher Nilsson × Karin 1713–15 (E I/1 bild 29–33).",
+      "persons": [
+        "christopher_nilsson_skog",
+        "elin_gostafsd_1713",
+        "christopher_nilsson_edane",
+        "karin_hansd_edane"
       ]
     }
   ],
@@ -3920,6 +3921,23 @@
         "christopher_svensson_saldebraten"
       ],
       "resolution": "BV1 (omgång 58): Högvalta ligger i Frykerud, inte Arvika. Frykerud A I/1 bild 41 och A I/3 bild 18: Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson; Sven d. 18/9 1782 Högvalta 64 år (F/1 bild 61), Karin d. 2/5 1785 (F/1 bild 66). Frågan om fadern fortsätter i ny flagga."
+    },
+    {
+      "title": "Nils Jonsson (far till Olof 6/2 1793): = Nils Jansson f. 1769 Takene (A I/6 s. 62, flyttad p. 152 1794)?",
+      "text": "LÖST (BV3): Nils Jonsson är bonde i Ö. Takene, f. 27/9 1745 i Arnäs, son till Jon Larsson och Marit Persdotter (dödbok 1800 F I/1 bild 73 nr 16), vigd 24/10 1779 med Lisa Larsdotter från Glava (E I/2 bild 34), död 14/4 1800. Familjen med Olof 6/2 93 står på A I/6 bild 69, A I/7 bild 70 och A I/8 bild 77. Nils Jansson f. 1769 är en annan person (son till Jon Persson) – hypotesen avförd. Obs: C0036746 är A I/7, inte A I/6.",
+      "persons": [
+        "nils_jonsson_takene93",
+        "lisa_larsd_takene93"
+      ]
+    },
+    {
+      "title": "Christopher Nilsson från Edanen d. 1741 (72 år) = Christopher Nilsson i Skog?",
+      "text": "E I/1 bild 92 (1741 nr 15): ”gamle … Mannen Christopher Nilsson från Edanen[?] … i 72 åhr” (f. ca 1669). Christopher Nilsson i Skog (mantal 1710) gifte sig 7/6 1713 med Elin Giöstafsdotter från Boda (bild 29). Kontrollera barnens dop 1714–1730 (C I/1) för var paret bodde, och om Elin nämns.",
+      "persons": [
+        "christopher_nilsson_skog",
+        "elin_gostafsd_1713"
+      ],
+      "resolution": "BV3 (omgång 58): Edane-Christopher har hustru Karin Hans[?]d:r och barn 1715–1725 (C I/1 bild 97–155); inga barn med Elin Göstafsdotter. Frågan om identitet med Skog-Christopher fortsätter i conflict-flaggan."
     }
   ],
   "backlog": [

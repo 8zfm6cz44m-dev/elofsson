@@ -11569,8 +11569,8 @@
   "type": "partner",
   "a": "nils_jonsson_takene93",
   "b": "lisa_larsd_takene93",
-  "status": "strong",
-  "basis": "Dop 1793 bild 44 nr 8 anger båda som föräldrar."
+  "status": "verified",
+  "basis": "Vigsel E I/2 (C0036787) bild 34, 24 okt 1779 nr 9: ”Dr. Nils Jönsson från Arnäs och Pig: Lisa Larsdotter från [Åsen?] i Glafwa S:n”; dödbok F I/1 bild 73 (1800 nr 16): ”Gift 1779 22/10 med Pigan Lisa Larsd:r från Glafwa sochn”."
  },
  {
   "id": "c-olof_andersson_takene02-marit_olsd_takene76-ao4_marit_olsd02",
@@ -13300,5 +13300,101 @@
   "child": "sven_ersson",
   "status": "strong",
   "basis": "Frykerud A I/3 (1736–41) bild 18, Högwalta: ”Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson”; A I/1 (1725–29) bild 41: samma par + ”[S?:] Swen Ericsson” sist i hushållet. Identitet med vår Sven: samma gård (Högvalta), där Swen Eriksson + H. Karin Nilsd:r bor 1746–53 (A I/5 bild 16) och ’född 1718 i Högvalt[a]’ (Stora Kils flyttlängd). Strong i st.f. verified: ’S:’ kan avse styvson (MyHeritage: modern omgift Pålsson)."
+ },
+ {
+  "id": "c-nils_jonsson_takene93-lisa_larsd_takene93-ingeborg_nilsd84_takene",
+  "type": "child",
+  "parents": [
+   "nils_jonsson_takene93",
+   "lisa_larsd_takene93"
+  ],
+  "child": "ingeborg_nilsd84_takene",
+  "status": "verified",
+  "basis": "Husförhör Brunskog Ö. Takene, D. i hushållet hos H. Nils Jonsson / H. Lisa Larsdr: A I/7 bild 70 (s. 59) och A I/8 bild 77 (s. 63)."
+ },
+ {
+  "id": "c-nils_jonsson_takene93-lisa_larsd_takene93-maria_nilsd87_takene",
+  "type": "child",
+  "parents": [
+   "nils_jonsson_takene93",
+   "lisa_larsd_takene93"
+  ],
+  "child": "maria_nilsd87_takene",
+  "status": "verified",
+  "basis": "Husförhör Brunskog Ö. Takene, D. i hushållet hos H. Nils Jonsson / H. Lisa Larsdr: A I/7 bild 70 (s. 59) och A I/8 bild 77 (s. 63)."
+ },
+ {
+  "id": "c-nils_jonsson_takene93-lisa_larsd_takene93-per_nilsson90_takene",
+  "type": "child",
+  "parents": [
+   "nils_jonsson_takene93",
+   "lisa_larsd_takene93"
+  ],
+  "child": "per_nilsson90_takene",
+  "status": "verified",
+  "basis": "Husförhör Brunskog Ö. Takene, S. i hushållet hos H. Nils Jonsson / H. Lisa Larsdr: A I/7 bild 70 (s. 59) och A I/8 bild 77 (s. 63)."
+ },
+ {
+  "id": "c-nils_jonsson_takene93-lisa_larsd_takene93-brita_nilsd96_takene",
+  "type": "child",
+  "parents": [
+   "nils_jonsson_takene93",
+   "lisa_larsd_takene93"
+  ],
+  "child": "brita_nilsd96_takene",
+  "status": "verified",
+  "basis": "Husförhör Brunskog Ö. Takene, D. i hushållet hos H. Nils Jonsson / H. Lisa Larsdr: A I/7 bild 70 (s. 59) och A I/8 bild 77 (s. 63)."
+ },
+ {
+  "id": "p-christopher_nilsson_edane-karin_hansd_edane",
+  "type": "partner",
+  "a": "christopher_nilsson_edane",
+  "b": "karin_hansd_edane",
+  "status": "verified",
+  "basis": "Dop C I/1 bild 112 (24/12 1717): ”Christopher Nilssons och H. Karin Hans[dotte]rs barn i Edane”."
+ },
+ {
+  "id": "c-christopher_nilsson_edane-karin_hansd_edane-anna_christophersd17_edane",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_edane",
+   "karin_hansd_edane"
+  ],
+  "child": "anna_christophersd17_edane",
+  "status": "verified",
+  "basis": "Dop C I/1 bild 112 (24/12 1717): ”Christnades Christopher Nilssons och H. Karin Hans[dotte]rs barn i Edane wid Nam Anna”."
+ },
+ {
+  "id": "c-christopher_nilsson_edane-karin_hansd_edane-anders_christophersson15_edane",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_edane",
+   "karin_hansd_edane"
+  ],
+  "child": "anders_christophersson15_edane",
+  "status": "candidate",
+  "basis": "Dop C I/1 bild 97 (31/8 1715): ”Christophers och H. Karins barn i Edane wid namn Anders[?]” – fadern utan patronymikon, men samma by och samma hustrunamn som 1717."
+ },
+ {
+  "id": "c-christopher_nilsson_edane-karin_hansd_edane-per_christophersson20_edane",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_edane",
+   "karin_hansd_edane"
+  ],
+  "child": "per_christophersson20_edane",
+  "status": "verified",
+  "basis": "Dop C I/1 bild 128 (26/5 1720): ”Christopher Nilssons och H. Karin [Hann]d:rs barn … wid namn Per”."
+ },
+ {
+  "id": "c-christopher_nilsson_edane-karin_hansd_edane-anders_christophersson25_edane",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_edane",
+   "karin_hansd_edane"
+  ],
+  "child": "anders_christophersson25_edane",
+  "status": "candidate",
+  "basis": "Dop C I/1 bild 155 (2/7 1725): ”Christopher Nilssons och H. Kari Hans[?]d:rs barn i Edane wid namn Anders” (namnet överstruket)."
  }
 ]
