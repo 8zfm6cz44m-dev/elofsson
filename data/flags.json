@@ -325,6 +325,14 @@
     "nils_ihrsson_toltan",
     "olof_persson_takene"
    ]
+  },
+  {
+   "title": "Christopher Nilsson från Edanen d. 1741 (72 år) = Christopher Nilsson i Skog?",
+   "text": "E I/1 bild 92 (1741 nr 15): ”gamle … Mannen Christopher Nilsson från Edanen[?] … i 72 åhr” (f. ca 1669). Christopher Nilsson i Skog (mantal 1710) gifte sig 7/6 1713 med Elin Giöstafsdotter från Boda (bild 29). Kontrollera barnens dop 1714–1730 (C I/1) för var paret bodde, och om Elin nämns.",
+   "persons": [
+    "christopher_nilsson_skog",
+    "elin_gostafsd_1713"
+   ]
   }
  ],
  "conflicts": [
@@ -957,6 +965,24 @@
    "persons": [
     "d7_matilda_nilsson_sylvander",
     "d7_anders_sylvander"
+   ]
+  },
+  {
+   "title": "Nils Knutsson: Ilin Andersdotter (Fösked 1711) eller Börit (Berga, gift 1718)?",
+   "text": "Dop 12/2 1711 (C I/1 bild 81): Anders, son till ”Nils Knutsson och Ilin And.” i Fösked. Dödbok 1742 (E I/1 bild 95, nr 9): Nils Knutsson från Berga, gift med h. Börit sedan 26/12 1718, död 10/3 1742, ”öfwer 50 åhr 4 Mån 2 W 4 d” → f. ca nov 1691. MyHeritage slår ihop dem till en man 1691–1742 (gift med Ilin f. 1688). Är det samme man skulle han vara ca 19 år 1711 och omgift 1718. Behöver Ilins död (E I/1 1711–1718) och vigseln 26/12 1718 (E I/1 ca bild 35–36) för att avgöra.",
+   "persons": [
+    "nils_knutsson91",
+    "ilin_andersd88",
+    "anders_nilsson_takene33"
+   ]
+  },
+  {
+   "title": "”Bartholdius Nicolai Duraeus” är inte son till Nils Christophersson i Skog",
+   "text": "Flera MyHeritage-träd anger Bartholdius Nicolai Duraeus som barn till Nils Christophersson och Anna Jonsdotter i Skog. Adelsvapen-Wiki (Duraeus) har Bartholdus Nicolai Duraeus f. 1598, kyrkoherde, d. 1633, son till kh Nicolaus Christphori i Kristdala (Småland). Det är en sammanblandning – lägg inte in honom.",
+   "persons": [
+    "nils_christophersson_skog",
+    "anna_jonsd_skog1689",
+    "petrus_sylvander1676"
    ]
   }
  ],
@@ -3827,6 +3853,16 @@
     "bu8_anna_britta_olsson_1920",
     "bu8_hulda_maria_andersson_1898"
    ]
+  },
+  {
+   "title": "Dubblett: nils_isaksson91 = nils_isaksson_toltan",
+   "text": "MyHeritage-posten Nils Isaksson 1691–1773 (51 matchningar, syster Marit Isaksdotter) är rimligen samma som Nils Isaksson i Toltan (mantal 1714–1720, dop 1723 med fadder Marit Isaksdotter). Föreslår sammanslagning (behåll nils_isaksson_toltan eller det id som har flest relationer). MyHeritage-trädet har också Jon Göstasson dubbelt (1500165 och 1500204).",
+   "persons": [
+    "nils_isaksson_toltan",
+    "nils_isaksson_toltan"
+   ],
+   "verdict": "resolved",
+   "why": "Sammanslagna 2026-10-10 (nils_isaksson91 → nils_isaksson_toltan)."
   }
  ],
  "backlog": [

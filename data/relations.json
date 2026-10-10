@@ -2752,17 +2752,17 @@
  {
   "id": "p-jon_gostasson80-karin_nilsd86",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "status": "verified",
+  "basis": "E I/1 bild 29 vä (1713): ”Drängen Jon Giöstafsson i Olsrud[?] och Boda Sochn, med P. Karin Nilsdotter i Skog”; E I/1 bild 94 vä (1741 nr 37): ”h. Karin Nilsdotter från Sk[og] som lefwat wäl med Jon från Dom: 1 p. Tr. 1713 til d 3 Nov: 1741”.",
   "a": "jon_skog_f1721",
   "b": "karin_skog_m1721"
  },
  {
-  "id": "p-nils_isaksson91-marit_olsd92",
+  "id": "p-nils_isaksson_toltan-marit_olsd92",
   "type": "partner",
   "status": "lead",
   "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
-  "a": "nils_isaksson91",
+  "a": "nils_isaksson_toltan",
   "b": "marit_olsd92"
  },
  {
@@ -2776,8 +2776,8 @@
  {
   "id": "p-johan_andersson_b-ingeborg_bryntesd",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "status": "verified",
+  "basis": "E I/1 bild 39 vä (30 nov 1722): ”dr. Johan Andersson i Lerhol med Pig. … Ingeborg Bryntesd:r ibid”; E I/1 bild 180 (1735): ”lefwat med sin hustru ifrån d 30 Nov. 1722”.",
   "a": "johan_andersson_b",
   "b": "ingeborg_bryntesd"
  },
@@ -2824,8 +2824,8 @@
  {
   "id": "p-nils_knutsson91-ilin_andersd88",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "status": "verified",
+  "basis": "C I/1 bild 81 hö (12 febr 1711): ”Nils Knutssons och Ilin And. barn i Fösker [Fösked]”.",
   "a": "nils_knutsson91",
   "b": "ilin_andersd88"
  },
@@ -3033,8 +3033,8 @@
    "ingeborg_bryntesd"
   ],
   "child": "boret_johansd30",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Böret Olsson f. Johansdotter 1730–1787: far Johan Andersson, mor Ingeborg Bryntesdotter (ej daterade)."
+  "status": "strong",
+  "basis": "C I/1 bild 182 vä (1730 nr 4): ”d 5 Febr. Johan Anderssons och Hust. Ingeborg Bryntesdotters i Lerhol Barn, Böret benämnt” – dopet är uttryckligt. Att detta barn är boret_johansd30 (Erik Olssons hustru, MyHeritage f. 1730) bygger på namn + år; därför strong, inte verified."
  },
  {
   "id": "c-christopher_svensson_saldebraten-elin_svensdotter_gonas-erik_christ",
@@ -3092,10 +3092,10 @@
   "basis": "MyHeritage-trädet: Anna Nilsson f. Jonsdotter 1768–1833 (g.m. Daniel Nilsson 1757–1849): far Jon Jansson 1744–1828, mor Ingjerd Jansson f. Andersdotter 1740–1812. Vår anna_jonsd67 är verifierad f. 9/10 1767 (Sandvik) och gift med Daniel Nilsson – identiteten ligger nära (ett års skillnad). Nedgraderad: dopboken (bild 132) anger föräldrarna Jon Jonsson och Gunild Andersdotter."
  },
  {
-  "id": "c-nils_isaksson91-marit_olsd92-marit_nilsd27",
+  "id": "c-nils_isaksson_toltan-marit_olsd92-marit_nilsd27",
   "type": "child",
   "parents": [
-   "nils_isaksson91",
+   "nils_isaksson_toltan",
    "marit_olsd92"
   ],
   "child": "marit_nilsd_toltan",
@@ -3121,8 +3121,8 @@
    "anna_jonsd_skog1689"
   ],
   "child": "karin_skog_m1721",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Karin Nilsdotter 1686–1741 (g.m. Jon Göstasson): far Nils Christophersson 1633–1719, mor Anna Jonsdotter 1650–1742 (f. Renstad)."
+  "status": "candidate",
+  "basis": "Höjs från lead. Karin Nilsdotter ”i Skog” vid vigseln 7/6 1713 (E I/1 bild 29), f. ca 1686 (55 år 1741, bild 94) – då Nils Christophersson var bonde i Skog (mantal 1700). Dubbelbröllop samma dag med Christopher Nilsson i Skog (mantal 1710 i Nils plats). Fadder 1729 tillsammans med Elof och Påhl Nilssonar (C I/1 bild 176). MyHeritage-träden (17) ger syskon Petrus Nicolai Sylvander/Pål Nilsson. Ingen källa nämner föräldrarna."
  },
  {
   "id": "c-christopher_persson_11-margareta_jonsd-nils_christophersson_skog",
@@ -3154,8 +3154,8 @@
    "ilin_andersd88"
   ],
   "child": "anders_nilsson_takene33",
-  "status": "lead",
-  "basis": "MyHeritage-trädet: Anders Nilsson 1711–1789: far Nils Knutsson 1691–1742, mor Ilin Knutsson f. Andersdotter f. 1688."
+  "status": "candidate",
+  "basis": "Dopet 12/2 1711 (C I/1 bild 81: ”Nils Knutssons och Ilin And. barn … blef kallad Anders”) är verified för barnet Anders. Höjs från lead till candidate: datumet stämmer exakt med MyHeritages Anders Nilsson f. 12/2 1711, men att han är Anders Nilsson på Ö. Takene (far till Olof 1733) vilar bara på MyHeritage."
  },
  {
   "id": "c-olof_olofsson_10-ingeborg_persd_10-marit_olofsd11",
@@ -13176,5 +13176,29 @@
   "child": "bu8_anna_britta_olsson_1920",
   "status": "verified",
   "basis": "Födelsebok C I/9 1920 nr 1: 'u.ä. Anna Britta', 'Erkänd Fader: Nils Arvid Olofsson Skog Brunskog 96 17/1', mor 'Hulda Maria Andersson Bråten 98 3/9'; A II a/3 bild 184 anm. 'Erkänt sig s. far t. barnet å pag 67, r. 9' = A II a/3 sid 67 rad 9 'd. u.ä. Anna Britta Olsson 20 1/1'."
+ },
+ {
+  "id": "p-christopher_nilsson_skog-elin_gostafsd_1713",
+  "type": "partner",
+  "a": "christopher_nilsson_skog",
+  "b": "elin_gostafsd_1713",
+  "status": "verified",
+  "basis": "E I/1 bild 29 vä (7 juni 1713): ”Dr. Christopher Nilsson i Skog, och P. Elin Giöstafsdotter i Olsrud[?] och Boda Sochn”."
+ },
+ {
+  "id": "s-christopher_nilsson_skog-karin_skog_m1721",
+  "type": "sibling",
+  "a": "christopher_nilsson_skog",
+  "b": "karin_skog_m1721",
+  "status": "candidate",
+  "basis": "Båda ”i Skog”, patronymikon Nilsson, vigda samma dag 7/6 1713 med syskonen Elin och Jon Giöstafs-barn från samma gård i Boda (E I/1 bild 29). Inte uttryckligen syskon."
+ },
+ {
+  "id": "s-jon_skog_f1721-elin_gostafsd_1713",
+  "type": "sibling",
+  "a": "jon_skog_f1721",
+  "b": "elin_gostafsd_1713",
+  "status": "candidate",
+  "basis": "E I/1 bild 29 (1713): Jon Giöstafsson och Elin Giöstafsdotter, båda ”i Olsrud[?] och Boda Sochn”, vigda samma dag. Samma patronymikon och gård; inte uttryckligen syskon."
  }
 ]
