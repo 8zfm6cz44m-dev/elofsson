@@ -12329,8 +12329,8 @@
  },
  {
   "id": "sven_ersson",
-  "name": "Sven Ersson",
-  "status": "lead",
+  "name": "Sven Ersson (Eriksson), Högvalta",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "sources": [
@@ -12345,6 +12345,34 @@
    {
     "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00073"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4, utflyttningslängd bild 18 (s. XIV) nr 39: Sven Eriksson ifrån Mosserud, född 1718 i Högvalt[a] och Frykeruds socken, h. Kari Nilsdotter född ibid. 1721, sonen Eric född ibid. 1747, Christopher född i Mosserud 1755, Magnus född ib. 1756 – flyttar till Carlsbol i Frykeruds socken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/5 (1746–53), bild 16 (s. 12), Högvalta: Swen Eriksson, H: Karin Nilsd:r; samma gård: Enkan Kerstin Månsdotter, Jon Ersson & H. Sigrid Ersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037106_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 18 (s. 12), Högwalta: [överstr.] Erik Påhlsson, H: Kerstin Månsd., S: Swen Eriksson, D: Stina Eriksdotter, S: Johan Eriksson, S: Påhl Eriksson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/1 (1725–29), bild 41 (s. 6), Högwalt: Erik Påhlsson, H: Kerstin Månsdotter, D: Sigrid[?] … [S?:] Swen Ericsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00041"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/1 (1744–1814), bild 61 (s. 99), 1782 sept: ”Gifte Sven Eriksson i Högwalta”, död 18, begr. 29, 64 år",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00061"
    }
   ],
   "notes": [
@@ -12353,25 +12381,41 @@
    "BU5 MYHERITAGE (37+33 matchningar, lead): Sven Ersson f. 1718, d. 1782 (ett träd 1789). Trädet ”Värmlandsrötter” (Mimmi) kallar honom ”Hammarsmedsonen Sven på Högvalta” / ”Bonden Hammarsmeden Sven” och ger modern som ”<Privat> Påhlsson (född Månsdotter)”, dvs. en Månsdotter som senare gifte sig med en Pålsson. Syskon: Sigrid Ersdotter (g. Eriksson), Stina Torstensson f. Ersdotter (”Påfwels wife 3”), Karin Eriksson. Barn: Nils, Eric/Erik, Olof, Christoffer/Christopher, Caisa, Anna, Karin Svensdotter.",
    "BU5 LEAD Högvalta: Högvalta ligger i Arvika landsförsamling (dopbok C I/5 C0036489 bild 45 och 47 nämner ”Öfre Högvalta”). Christopher Svenssons vigsel 1778 lästes tidigare ”i Gönäs [Hjörvalta?]” – sannolikt Högvalta. Modern ”Månsdotter” kan vara den Kerstin Månsdotter (f. 1681, änka) som bor på Såldebråten 1753–59 (A I/6 bild 66) – oprövat.",
    "BU5 NEGATIVT: Arvika landsförsamlings dopbok C I/5 (C0036489) sept–dec 1753 (bild 43–44) och sept–nov 1754 (bild 47) genomsedda: ingen Christopher. Dop av Christopher Svensson fortfarande okänt.",
-   "BU7: Stora Kil C/6 bild 135 (1754): ”Sven Erssons och Karin Nilsdotters barn i Måsserud … Christopher”. Familjen bodde 1754 i Måsserud, Stora Kil (inte Högvalta, Arvika). Ingen hammarsmed nämns."
+   "BU7: Stora Kil C/6 bild 135 (1754): ”Sven Erssons och Karin Nilsdotters barn i Måsserud … Christopher”. Familjen bodde 1754 i Måsserud, Stora Kil (inte Högvalta, Arvika). Ingen hammarsmed nämns.",
+   "BV1 HUSFÖRHÖR Stora Kil A I/4 (1755–61, C0038879) bild 73, s. 81, rubrik ”Mosserud”: ”Sven Ersson 43 / H. Karin Nilsd. 41 / Pigan Ingeborg Olsd. 27 / Sonen Christopher Svensson 1½ / [Sonen] Erik Svensson 7 / Olof Larsson [inskjuten] 12 / Drängen Anders Nilsson 17 / Sonen Magnus 1756” – hela hushållet överkorsat (utflyttat).",
+   "BV1 UTFLYTTNINGSLÄNGD Stora Kil A I/4 (C0038879) bild 18, s. XIV, nr 39 (ca 1756/57): ”No 39 Sven Eriksson ifrån Mosserud, [överstruket: ’mantalsförd? 38 år’] född 1718 i Högvalt[a?] och Fryke|ruds socken, med h. Kari Nilsdotter född ibid. 1721, och Sonen Eric född ibid. 1747 [skrivet ’17347’, överskrivet], Christopher född i Mosserud 1755 och Magnus född ib. 1756. Man och h. kunna läsa i bok och förstå förklaringen; woro sidst hos oss på husförhöret och sidst till Nattwarden d. [?] Nov: fört ett Christeligt Lefwerne. Pigan Ingeborg Olsdotter född i Boda socken 28 år gammal, kan läsa i bok, begick h. h. Nattward sidst … 13 dag[?] … oförwitad. Desse alla flytt[a] … til Carlsbol i Frykeruds socken.” Läsning av ortnamnet efter ’1718 i’ osäker (Högvalt/Hogvalt).",
+   "BV1 HUSFÖRHÖR Frykerud A I/6 (1753–59, C0037107) bild 15, fol. 4, ”Karsbol” (andra hushållet): ”Sven Erichsson 1718 / H. Karin Nilsd:r 1721 / S. Erik 1747 / S. Christopher 175[3/4, överskrivet] / S. Magnus 175[5/6] / ab. p. Ingeborg 1729” (+ ’4’ i kolumnen; ”30/10” vid Sven och Erik).",
+   "BV1 HUSFÖRHÖR Frykerud A I/1 (1725–29, C0037102) bild 41, s. 6, rubrik ”Högwalt” (Högvalta, Frykerud): ”Erik Påhlsson / H: Kerstin Månsdotter / D: Sigrid[?] / … [flera överstrukna drängar/pigor: Karin …, Dr. Erik Bengtsson, Anders Andersson, Pål Andersson, Marit …, Jöns(?) …] / P: Kerstin Larsdotter / [S?/F?:] Swen Ericsson”. Familjeställningen framför Swen är skymd av bläckplump – han står sist, efter pigan. Ingen hammarsmed nämns här.",
+   "BV1 HUSFÖRHÖR Frykerud A I/3 (1736–41, C0037104) bild 18, s. 12, rubrik ”Högwalta”: ”[överstruket:] Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson / p. Ingri Andersd. / [överstr.] p. Ingeborg Larsd. / [överstr.] dr. … Jönsson / [överstr.] p. Karin Eriksdotter / D: Stina Eriksdotter / … / S: Johan Eriksson / S: Påhl Eriksson / p. Karin Larsdotter”. ’S:’ = son (jfr ’D:’ för dotter). Ingen födelseårskolumn.",
+   "BV1 HUSFÖRHÖR Frykerud A I/5 (1746–53, C0037106) bild 16, s. 12, ”Högvalta”: första hushållet ”Jon Ersson / H. Sigrid Ersdotter / D. Ingeb. Jonsd. / D. Britta Jonsd. …”; därefter ”Enkan Kerstin Månsdotter” (egen rad); sist ”Swen Eriksson / H: Karin Nilsd:r / ab. D: Ingeborg Nilsd[otter?] / ab. Son Petter …sson / ab. … Olsdotter / dr Påhl Ersson / p. Ingeborg Månsd. / g. Nils Nilsson”. Sven och Karin alltså gifta och bosatta på Högvalta före 1753; inga barn utskrivna i denna längd.",
+   "BV1 DÖD Frykerud F/1 (C0037142) bild 61, s. 99 (Begrafne 1782), Sept: ”18 | 29 | Gifte Sven Eriksson i Högwal|ta | [dödsorsak svårläst] | 64”.",
+   "BV1 HÖGVALTA ligger i Frykerud (Frykeruds husförhör A I/1, A I/3, A I/5 har egen rubrik ’Högvalta’; byregistren A I/1 s. 6, A I/3 s. 12, A I/5 s. 12, A I/6 fol. 5). BU5:s antagande att Svens Högvalta är Arvika landsförsamling stämmer inte för denna familj.",
+   "BV1 NEGATIVT: Frykerud dopbok C/2 (C0037135) 1718 bild 145 hö–150 vä genomläst; ingen post med fader Erik och barn Sven hittad (en ’Swen’ bild 149 vä har fader Olof Jönsson; bild 149 hö, okt–dec 1718, nästan oläslig p.g.a. genomslag). Vigsel Frykerud E I/1 (C0037140) 1744–jan 1746 (bild 59–63) översiktligt läst utan träff."
   ],
   "born": {
-   "date": "1718?",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
+   "date": "1718",
+   "place": "Högvalta, Frykerud",
+   "note": "Stora Kils utflyttningslängd (A I/4 bild 18): ”född 1718 i Högvalt[a] och Frykeruds socken”; Frykerud A I/6 bild 15: 1718; dödbok 1782: 64 år. Stora Kil A I/4 bild 73 anger dock ålder 43 (≈1712). Dop ej funnet (Frykerud C/2 bild 145–150 genomlästa, bild 149 hö delvis oläslig)."
   },
-  "summary": "Sven Ersson – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+  "summary": "Sven Eriksson f. 1718 på Högvalta i Frykerud, son i Erik Påhlssons och Kerstin Månsdotters hushåll; gift med Karin Nilsdotter, bodde i Mosserud i Stora Kil ca 1754–56, flyttade till Karsbol i Frykerud och dog som gift på Högvalta 18/9 1782.",
   "places": [
-   "Måsserud, Stora Kil"
+   "Högvalta, Frykerud",
+   "Måsserud (Mosserud), Stora Kil",
+   "Karsbol, Frykerud"
   ],
   "search": [
    "Sven Ersson"
-  ]
+  ],
+  "died": {
+   "date": "1782-09-18",
+   "place": "Högvalta, Frykerud",
+   "note": "Frykerud F/1 bild 61: ”Gifte Sven Eriksson i Högwalta”, död 18 sept, begr. 29 sept 1782, 64 år; dödsorsak svårläst."
+  }
  },
  {
   "id": "karin_nilsdotter19",
-  "name": "Karin Ersson (född Nilsdotter)",
-  "status": "lead",
+  "name": "Karin Nilsdotter (Högvalta)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "sources": [
@@ -12386,26 +12430,55 @@
    {
     "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00073"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4, utflyttningslängd bild 18 (s. XIV) nr 39: Sven Eriksson ifrån Mosserud, född 1718 i Högvalt[a] och Frykeruds socken, h. Kari Nilsdotter född ibid. 1721, sonen Eric född ibid. 1747, Christopher född i Mosserud 1755, Magnus född ib. 1756 – flyttar till Carlsbol i Frykeruds socken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/5 (1746–53), bild 16 (s. 12), Högvalta: Swen Eriksson, H: Karin Nilsd:r; samma gård: Enkan Kerstin Månsdotter, Jon Ersson & H. Sigrid Ersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037106_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/1, bild 66 (s. 109), 1785 maj: ”Enkan Karin Nilsd:r i Högwalta”, död 2, begr. 8, ”Moderssjuka”[?], 65 år 4 mån 24 dgr",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00066"
    }
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
    "OMLÄSNING C/2 bild 154 (1719) i full upplösning: posten med marginal '27/29' (nov) börjar '… Nils [Hanss./Jönss.?] och h. Ingri i [Rörbäcken/Fryke…?] … kallad Karin. Fadd.: Daniel Ek(?), … Christopher i Rörbäcken(?), Sven Christop[hersson?], h. Kirsin Christophers[dotter] … Marit Svensd. i …' (ordagrann läsning ej möjlig; osäker). Posten OVANFÖR (föregående dop, datum ovan sidan/oläst) är 'Bengt Börjesson och h. Kirsin Jönsd. … i Frykerud kallad Karin' – DET är den Karin som tidigare lästes som '27/29 Nov' med fader Bengt Börjesson; det är en annan Karin (mor Kirsin Jönsdotter). Karin 27/29 nov 1719 = dotter till Nils (+ Ingri) – förenligt med 'Nilsdotter', men fadersnamn/patronymikon, mors namn och by är inte säkert lästa, så identiteten med Sven Erssons hustru är kandidat (ej verifierad). Ingen annan Karin-post med fader Nils syns på sidan.",
    "BU5 MYHERITAGE (50 matchningar, lead): Karin Ersson f. Nilsdotter 1719–1785 (några 1786). Trädet Värmlandsrötter (Mimmi) anger syskon ”Jonas* (Magnus far) Nilsson” och ”Christoffer (Jonas bror) Nilsson”; andra träd: Annika Nilsdotter, Karin Andersson f. Nilsdotter. Barn: Nils, Eric/Erik, Christoffer Svensson (+ upp till 6 till). Föräldrar maskerade. Ingen ort i klartext.",
-   "BU7: mor till Christopher f. 21/10 1754 i Måsserud, Stora Kil (C/6 bild 135): ”Sven Erssons och Karin Nilsdotters barn”."
+   "BU7: mor till Christopher f. 21/10 1754 i Måsserud, Stora Kil (C/6 bild 135): ”Sven Erssons och Karin Nilsdotters barn”.",
+   "BV1 DÖD Frykerud F/1 (C0037142) bild 66, s. 109 (Begrafne 1785), maj: ”Enkan Karin Nils d:r i Högwalta | 2 | 8 | Moders[?]sjuka | 65 | 4 | 24”.",
+   "BV1 Stora Kils utflyttningslängd (A I/4 bild 18): ”h. Kari Nilsdotter född ibid. [= Frykerud] 1721”; Frykerud A I/6 bild 15: ”H. Karin Nilsd:r 1721”."
   ],
   "born": {
-   "date": "1719-11-27",
+   "date": "1719",
    "place": "Frykerud",
-   "note": "dop Frykerud C/2 bild 154 (s. 210): marg. '27/29' (nov) – troligt dop av 'Karin'; fadern läses 'Nils [Hans/Jöns?]son' (osäker), inte Bengt Börjesson"
+   "note": "Dödbok 1785: 65 år 4 mån 24 dgr ⇒ f. ca 8 dec 1719 (nära dopet 27/29 nov 1719, C/2 bild 154, fader ’Nils …’, kandidat). Stora Kils flyttlängd och Frykerud A I/6 skriver 1721 (’född ibid.’ = Högvalta/Frykerud); Stora Kil A I/4 ålder 41 (≈1714)."
   },
-  "summary": "Karin Ersson (född Nilsdotter) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+  "summary": "Karin Nilsdotter, född i Frykerud ca 1719–21, gift med Sven Eriksson på Högvalta; bodde i Mosserud i Stora Kil 1754–56 och Karsbol i Frykerud; dog som änka på Högvalta 2/5 1785.",
   "places": [
-   "Måsserud, Stora Kil"
+   "Högvalta, Frykerud",
+   "Måsserud (Mosserud), Stora Kil",
+   "Karsbol, Frykerud"
   ],
   "search": [
    "Karin Ersson (född Nilsdotter)"
-  ]
+  ],
+  "died": {
+   "date": "1785-05-02",
+   "place": "Högvalta, Frykerud",
+   "note": "Frykerud F/1 bild 66: ”Enkan Karin Nilsd:r i Högwalta”, död 2 maj, begr. 8 maj 1785, 65 år 4 mån 24 dgr."
+  }
  },
  {
   "id": "sven_eriksson02",
@@ -22628,7 +22701,8 @@
    "BT1 DOP-SÖK: Boda dopbok C I/2 (C0036593) okt 1753 genomläst, bild 29 (s. 45, 1753 höger sida): nr 25 (5 okt) Jon Olofsson/Marit Nilsd. i Högboda, son Nils; nr 26 (14 okt) Nils Olofsson/Stina i Pröjstad(?), son Olof; nr 27 (1 nov) Dr. Christerson(?) o. h. Marit Jonsd. i Letboda – ingen Christopher Svensson/Sven som far. Tillsammans med tidigare Boda 1754 (bild 31) är Boda utesluten för okt 1753–okt 1754. Kvar: Fryksände C I/3, Ämtervik (V/Ö), Kil, Gönäs-grannar.",
    "BU1 VIGSEL Frykerud E I/1 bild 114 (s. 212), 24 juni 1778: ”vigdes hemma i egna kläder drängen Christopher Svensson i Gönäs(?) med pigan Elin Svens dotter i Gönäs, morgongåfwor efter lag” – ingen uppgift om födelseort/föräldrar.",
    "BU1 DOP-SÖK (negativt): Fryksände C I/3 (C0037198) okt 1753 (bild 57, nr 96–104, 13 okt–2 nov) och sept–nov 1754 (bild 70–71, nr 102–123): ingen Christopher. Östra Ämtervik C/2 (C0039801) bild 148–149 (sept–dec 1753) och C/3 (C0039802) bild 12–13 (aug–nov 1754): ingen Christopher. Tillsammans med Boda (BS1/BT1) och Frykerud är fem socknar uteslutna för okt 1753 och okt 1754. Kil ej hunnen (volym-id ej funnet).",
-   "BU7 DOP FUNNET: Stora Kil C/6 (C0038909) bild 135 vä, 1754 okt: ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud …”. Födelsedagen 21/10 1754 är exakt samma som i Frykerud A I/12 bild 16, och föräldrarna är de som MyHeritage anger (Sven Ersson och Karin Nilsdotter). Ingen källa knyter uttryckligen Kil-barnet till Såldebråten-Christopher (inget flyttbetyg läst) – därför strong, inte verified. Volym-id Stora Kil (SE/VA/13504): dop C/1–C/14 = C0038904–C0038917 (C/6 1741–57 = C0038909), vigsel E/1 C0038918, husförhör A I/3 (1751–55) C0038878, A I/4 (1755–61) C0038879."
+   "BU7 DOP FUNNET: Stora Kil C/6 (C0038909) bild 135 vä, 1754 okt: ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud …”. Födelsedagen 21/10 1754 är exakt samma som i Frykerud A I/12 bild 16, och föräldrarna är de som MyHeritage anger (Sven Ersson och Karin Nilsdotter). Ingen källa knyter uttryckligen Kil-barnet till Såldebråten-Christopher (inget flyttbetyg läst) – därför strong, inte verified. Volym-id Stora Kil (SE/VA/13504): dop C/1–C/14 = C0038904–C0038917 (C/6 1741–57 = C0038909), vigsel E/1 C0038918, husförhör A I/3 (1751–55) C0038878, A I/4 (1755–61) C0038879.",
+   "BV1 FLYTT: Stora Kils utflyttningslängd (A I/4 bild 18, nr 39) – ”Christopher född i Mosserud 1755” flyttar med föräldrarna Sven Eriksson och Kari Nilsdotter till Carlsbol i Frykeruds socken (ca 1756/57). Frykerud A I/6 bild 15 Karsbol: ”S. Christopher 175[3/4]” hos Sven Erichsson och Karin Nilsd:r. Därmed är Kil-barnet följt till Frykerud; länken till Såldebråten-Christopher (f. 21/10 1754 enl. A I/12) vilar fortfarande på samma födelsedag+socken (Frykerud A I/7 1759–71 Karsbol/Högvalta ej läst)."
   ],
   "sources": [
    {
@@ -22662,6 +22736,18 @@
    {
     "label": "Riksarkivet, Stora Kil dopbok C/6 (1741–1757), bild 135 vä (1754 oktober): ”d 21 Octob: föddes Sven Erssons och Karin Nilsdotters barn i Måsserud och döptes d 22 d:o af Hr Sven Vennerlöf til namn Christopher. Witn. Arfwid Göransson i Rågelanda och Gabriel Jansson i Måsserud; G[udmödrar] h. Kjerstin Larsdotter och Kjerstin Hindriksdotter i Rågelanda.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038909_00135"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00073"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4, utflyttningslängd bild 18 (s. XIV) nr 39: Sven Eriksson ifrån Mosserud, född 1718 i Högvalt[a] och Frykeruds socken, h. Kari Nilsdotter född ibid. 1721, sonen Eric född ibid. 1747, Christopher född i Mosserud 1755, Magnus född ib. 1756 – flyttar till Carlsbol i Frykeruds socken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
    }
   ],
   "search": [
@@ -43917,6 +44003,151 @@
   ],
   "search": [
    "Kjersti Persdotter (1721, Ö. Takene)"
+  ]
+ },
+ {
+  "id": "erik_palsson_hogvalta",
+  "name": "Erik Påhlsson (Högvalta, Frykerud)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {},
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "Överstruken i A I/3 (1736–41); hustrun är ’Enkan Kerstin Månsdotter’ i A I/5 (1746–53) ⇒ död före ca 1753."
+  },
+  "places": [
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Husbonde på Högvalta i Frykerud 1725–ca 1740 med hustru Kerstin Månsdotter; i hans hushåll står ’S: Swen Eriksson’, ’D: Stina Eriksdotter’, ’S: Johan Eriksson’, ’S: Påhl Eriksson’.",
+  "notes": [
+   "HUSFÖRHÖR A I/1 bild 41: ”Erik Påhlsson / H: Kerstin Månsdotter / D: Sigrid[?] … [S?:] Swen Ericsson”.",
+   "HUSFÖRHÖR A I/3 bild 18: ”[överstr.] Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson / … / D: Stina Eriksdotter / S: Johan Eriksson / S: Påhl Eriksson”.",
+   "MyHeritage (lead) kallar Svens far ’hammarsmeden på Högvalta’ och modern ’Månsdotter, omgift Pålsson’ – ingen yrkestitel syns i husförhören; om Sven är Eriks son eller styvson (Kerstins son i tidigare gifte med en annan Erik) är inte avgjort."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/1 (1725–29), bild 41 (s. 6), Högwalt: Erik Påhlsson, H: Kerstin Månsdotter, D: Sigrid[?] … [S?:] Swen Ericsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00041"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 18 (s. 12), Högwalta: [överstr.] Erik Påhlsson, H: Kerstin Månsd., S: Swen Eriksson, D: Stina Eriksdotter, S: Johan Eriksson, S: Påhl Eriksson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00018"
+   }
+  ],
+  "search": [
+   "Erik Påhlsson (Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "kerstin_mansdotter_hogvalta",
+  "name": "Kerstin Månsdotter (Högvalta, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1681?",
+   "place": "",
+   "note": "1681 enligt BU5:s läsning av Såldebråten A I/6 bild 66 (”Kerstin Månsdotter f. 1681, änka”) – samma person ej bekräftad."
+  },
+  "died": {},
+  "places": [
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Hustru till Erik Påhlsson på Högvalta (A I/1, A I/3), änka där 1746–53 (A I/5); mor (ev. styvmor) till Swen Eriksson.",
+  "notes": [
+   "A I/5 bild 16: ”Enkan Kerstin Månsdotter” på Högvalta, samma gård som Swen Eriksson och Jon Ersson/Sigrid Ersdotter."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/1 (1725–29), bild 41 (s. 6), Högwalt: Erik Påhlsson, H: Kerstin Månsdotter, D: Sigrid[?] … [S?:] Swen Ericsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037102_00041"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 18 (s. 12), Högwalta: [överstr.] Erik Påhlsson, H: Kerstin Månsd., S: Swen Eriksson, D: Stina Eriksdotter, S: Johan Eriksson, S: Påhl Eriksson",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/5 (1746–53), bild 16 (s. 12), Högvalta: Swen Eriksson, H: Karin Nilsd:r; samma gård: Enkan Kerstin Månsdotter, Jon Ersson & H. Sigrid Ersdotter",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037106_00016"
+   }
+  ],
+  "search": [
+   "Kerstin Månsdotter (Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "erik_svensson_1747",
+  "name": "Erik Svensson (f. 1747, Högvalta)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1747",
+   "place": "Högvalta, Frykerud",
+   "note": "Stora Kils utflyttningslängd: ”Sonen Eric född ibid. 1747”; Frykerud A I/6: ”S. Erik 1747”; Kil A I/4: 7 år."
+  },
+  "died": {},
+  "places": [
+   "Högvalta, Frykerud",
+   "Mosserud, Stora Kil",
+   "Karsbol, Frykerud"
+  ],
+  "summary": "Son till Sven Eriksson och Karin Nilsdotter, f. 1747 i Frykerud; flyttade med föräldrarna Stora Kil → Karsbol, Frykerud ca 1756/57. Troligen MyHeritages ’Eric/Erik Svensson’.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00073"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4, utflyttningslängd bild 18 (s. XIV) nr 39: Sven Eriksson ifrån Mosserud, född 1718 i Högvalt[a] och Frykeruds socken, h. Kari Nilsdotter född ibid. 1721, sonen Eric född ibid. 1747, Christopher född i Mosserud 1755, Magnus född ib. 1756 – flyttar till Carlsbol i Frykeruds socken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   }
+  ],
+  "search": [
+   "Erik Svensson (f. 1747, Högvalta)"
+  ]
+ },
+ {
+  "id": "magnus_svensson_1756",
+  "name": "Magnus Svensson (f. 1756, Mosserud, Stora Kil)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1756",
+   "place": "Mosserud, Stora Kil",
+   "note": "Kil A I/4 bild 73: ”Sonen Magnus 1756”; utflyttningslängd: ”Magnus född ib. 1756”; Frykerud A I/6: 175[5/6]. Dop i Stora Kil C/6 (C0038909) 1756 ej läst."
+  },
+  "died": {},
+  "places": [
+   "Mosserud, Stora Kil",
+   "Karsbol, Frykerud"
+  ],
+  "summary": "Son till Sven Eriksson och Karin Nilsdotter, f. 1756 i Mosserud, Stora Kil; flyttade med familjen till Karsbol i Frykerud.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4 (1755–61), bild 73 (s. 81), Mosserud: Sven Ersson 43, H. Karin Nilsd. 41, S. Christopher Svensson 1½, Erik Svensson 7, S. Magnus 1756 – hushållet överkorsat",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00073"
+   },
+   {
+    "label": "Riksarkivet, Stora Kil husförhörslängd A I/4, utflyttningslängd bild 18 (s. XIV) nr 39: Sven Eriksson ifrån Mosserud, född 1718 i Högvalt[a] och Frykeruds socken, h. Kari Nilsdotter född ibid. 1721, sonen Eric född ibid. 1747, Christopher född i Mosserud 1755, Magnus född ib. 1756 – flyttar till Carlsbol i Frykeruds socken",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038879_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 15 (fol. 4), Karsbol: Sven Erichsson 1718, H. Karin Nilsd:r 1721, S. Erik 1747, S. Christopher 175[3/4], S. Magnus 175[5/6]",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00015"
+   }
+  ],
+  "search": [
+   "Magnus Svensson (f. 1756, Mosserud, Stora Kil)"
   ]
  }
 ]

@@ -13267,5 +13267,38 @@
   "b": "kjersti_perlarsd_1721",
   "status": "verified",
   "basis": "Båda döpta som barn till Per Larsson och h. Ingrid Olufsdotter i Takene (C I/1 bild 121 nr 1, 1719; bild 136 nr 43, 1721)"
+ },
+ {
+  "id": "c-sven_ersson-karin_nilsdotter19-erik_svensson_1747",
+  "type": "child",
+  "parents": [
+   "sven_ersson",
+   "karin_nilsdotter19"
+  ],
+  "child": "erik_svensson_1747",
+  "status": "verified",
+  "basis": "Stora Kil utflyttningslängd A I/4 bild 18: ”…med h. Kari Nilsdotter … och Sonen Eric född ibid. 1747”; Frykerud A I/6 bild 15 ”S. Erik 1747” under Sven Erichsson/H. Karin Nilsd:r."
+ },
+ {
+  "id": "c-sven_ersson-karin_nilsdotter19-magnus_svensson_1756",
+  "type": "child",
+  "parents": [
+   "sven_ersson",
+   "karin_nilsdotter19"
+  ],
+  "child": "magnus_svensson_1756",
+  "status": "verified",
+  "basis": "Stora Kil A I/4 bild 73 ”Sonen Magnus 1756” under Sven Ersson/H. Karin Nilsd.; utflyttningslängd bild 18 ”Magnus född ib. 1756”; Frykerud A I/6 bild 15 ”S. Magnus”."
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-sven_ersson",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "sven_ersson",
+  "status": "strong",
+  "basis": "Frykerud A I/3 (1736–41) bild 18, Högwalta: ”Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson”; A I/1 (1725–29) bild 41: samma par + ”[S?:] Swen Ericsson” sist i hushållet. Identitet med vår Sven: samma gård (Högvalta), där Swen Eriksson + H. Karin Nilsd:r bor 1746–53 (A I/5 bild 16) och ’född 1718 i Högvalt[a]’ (Stora Kils flyttlängd). Strong i st.f. verified: ’S:’ kan avse styvson (MyHeritage: modern omgift Pålsson)."
  }
 ]
