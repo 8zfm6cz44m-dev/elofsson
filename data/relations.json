@@ -13469,5 +13469,13 @@
   "child": "zdzislaw",
   "status": "family",
   "basis": "Familjeuppgift. Fadern är inte Bolesław Kogut (Ywonne 2026-10-10); vem han är är okänt."
+ },
+ {
+  "id": "s-kasia-maciek",
+  "type": "sibling",
+  "a": "kasia",
+  "b": "maciek",
+  "status": "family",
+  "basis": "Båda barn till Zdzisław och Celina enligt familjen."
  }
 ]

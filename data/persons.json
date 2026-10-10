@@ -3182,14 +3182,18 @@
  },
  {
   "id": "maciek",
-  "name": "Maciek/Maczek",
+  "name": "Maciej Orzechowski",
   "status": "family",
   "sex": "m",
   "living": true,
-  "summary": "Barn till Zdzisław och Celina. Stavning osäker.",
+  "summary": "Son till Zdzisław och Celina Orzechowski; bror till Katarzyna (Kasia) Dzierżba. Namnet Maciej bekräftat av Martin 2026-10-10.",
   "search": [
+   "Maciej",
    "Maciek",
    "Maczek"
+  ],
+  "altNames": [
+   "Maciek (smeknamn)"
   ]
  },
  {
