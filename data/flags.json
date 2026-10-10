@@ -13,7 +13,7 @@
     },
     {
       "title": "Mammas sida: vem är vems barn?",
-      "text": "MyHeritage-listan ger Irenas bröder Ryszard (f. 1931) och Czesław samt Iwonas kusiner Zbigniew, Leszek, Krzysztof och Bozena, men inte vilken bror som är förälder, eller vilken fru (Stefania, Lucyna) som hör till vem. Kontrollera i trädvyn eller fråga familjen. Stefan/Zofia som Irenas föräldrar står i konflikt med flicknamnet Jarczyńska.",
+      "text": "MyHeritage-listan ger Irenas bröder Ryszard (f. 1931) och Czesław samt Ywonnes kusiner Zbigniew, Leszek, Krzysztof och Bozena, men inte vilken bror som är förälder, eller vilken fru (Stefania, Lucyna) som hör till vem. Kontrollera i trädvyn eller fråga familjen. Stefan/Zofia som Irenas föräldrar står i konflikt med flicknamnet Jarczyńska.",
       "persons": [
         "ryszard_o",
         "czeslaw_o",
@@ -26,7 +26,7 @@
         "irena"
       ],
       "priority": 2,
-      "next_step": "Fråga Iwona/familjen vem som är förälder till vem.",
+      "next_step": "Fråga Ywonne/familjen vem som är förälder till vem.",
       "doable": false,
       "source": ""
     },
@@ -185,18 +185,6 @@
       ]
     },
     {
-      "title": "Irenas flicknamn ”Jarczyńska”: varifrån kommer det?",
-      "text": "Irena är släktbekräftad dotter till Stefan Orzechowski och Zofia Młodawska (Iwona 2026-10-10), men namnet Jarczyńska har ingen förklaring (fosterhem, styvfar, adoptivnamn eller felaktig uppgift?).",
-      "persons": [
-        "irena",
-        "stefan",
-        "zofia"
-      ],
-      "priority": 3,
-      "next_step": "Fråga Iwona om namnet Jarczyńska; Irenas dopakt Kielce 1926 (arkivbeställning).",
-      "doable": false
-    },
-    {
       "title": "Påhl Nilsson (f. ca 1677) och Petrus Sylvander (f. 1676) – syskon?",
       "text": "Påhl Nilssons ålder (53 år 6 mån i jan 1731 → f. ca juli 1677) är förenlig med att han är son till Nils Christophersson i Skog och Anna Jonsdotter, men ligger bara ett år efter Petrus Nicolai Sylvander (f. 1676, herdaminnet). MyHeritage/Geni-träden (minst 12 träd) gör dem till syskon. Ingen primärkälla knyter Påhl till Skog; bevisläget för Påhl = son av Nils Christophersson är fortfarande lead. Behöver bouppteckning/dombok eller annan källa.",
       "persons": [
@@ -270,6 +258,17 @@
         "elof_ersson_persjon",
         "maria_olofsd_persjon"
       ]
+    },
+    {
+      "title": "Zdzisław Orzechowski (f. 1946): vem var fadern?",
+      "text": "Ywonne 2026-10-10: Zdzisław hade en annan far än Bolesław Kogut. Han bär Irenas flicknamn Orzechowski. Fadern kan vara förste maken Jarczyński eller någon annan. Fråga också när Irena gifte sig med Jarczyński och vad han hette i förnamn.",
+      "persons": [
+        "zdzislaw",
+        "irena",
+        "jarczynski_irena"
+      ],
+      "priority": 3,
+      "next_step": "Fråga Ywonne/Zdzisław om faderns namn och om Jarczyńskis förnamn och vigselår."
     }
   ],
   "conflicts": [
@@ -3957,6 +3956,19 @@
       "doable": true,
       "source": "Nyed dopbok C/4 1736-40 och Ny dop nov-dec 1734; Eda/Ny husförhör Persjön",
       "resolution": "BV2 (omgång 58): Persjön ligger i Älvsbacka kapellförsamling (Nyeds pastorat). Älvsbacka C/1 (C0039597) bild 17: Karin Elofsdotter i Persjön f. 20/5 1735, föräldrar Elof Ersson och Maria Olofsdotter (strong)."
+    },
+    {
+      "title": "Irenas flicknamn ”Jarczyńska”: varifrån kommer det?",
+      "text": "Irena är släktbekräftad dotter till Stefan Orzechowski och Zofia Młodawska (Ywonne 2026-10-10), men namnet Jarczyńska har ingen förklaring (fosterhem, styvfar, adoptivnamn eller felaktig uppgift?).",
+      "persons": [
+        "irena",
+        "stefan",
+        "zofia"
+      ],
+      "priority": 3,
+      "next_step": "Fråga Ywonne om namnet Jarczyńska; Irenas dopakt Kielce 1926 (arkivbeställning).",
+      "doable": false,
+      "resolution": "Ywonne 2026-10-10: flicknamnet är Orzechowska; Jarczyńska är namnet från ett tidigare äktenskap med en äldre man, före Bolesław."
     }
   ],
   "backlog": [
@@ -3980,7 +3992,7 @@
     },
     {
       "title": "Polen: Kielce → Trzcińsko-Zdrój",
-      "text": "Familjens väg: Kielce-trakten (Stefan 1902, Zofia †1933, Ryszard 1931, kusiner födda i Kielce 1955) → Trzcińsko-Zdrój (tyska Bad Schönfließ till 1945; Iwona f. 1956). Irena kan inte vara född i Trzcińsko-Zdrój 1926. Nästa steg: Geneteka (geneteka.genealodzy.pl) för Orzechowski/Młodawski i Kielce, PROGRES-register och Irenas riktiga födelseort (sannolikt Kielce-trakten).",
+      "text": "Familjens väg: Kielce-trakten (Stefan 1902, Zofia †1933, Ryszard 1931, kusiner födda i Kielce 1955) → Trzcińsko-Zdrój (tyska Bad Schönfließ till 1945; Ywonne f. 1956). Irena kan inte vara född i Trzcińsko-Zdrój 1926. Nästa steg: Geneteka (geneteka.genealodzy.pl) för Orzechowski/Młodawski i Kielce, PROGRES-register och Irenas riktiga födelseort (sannolikt Kielce-trakten).",
       "persons": [
         "irena",
         "stefan",

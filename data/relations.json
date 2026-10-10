@@ -16,7 +16,7 @@
   ],
   "child": "martin",
   "status": "family",
-  "basis": "Martin är användaren; Sune och Iwona är hans föräldrar."
+  "basis": "Martin är användaren; Sune och Ywonne är hans föräldrar."
  },
  {
   "id": "p-elof-ellen",
@@ -349,8 +349,8 @@
   "a": "boleslaw",
   "b": "irena",
   "status": "family",
-  "basis": "Familjen: Bolesław var far till samtliga Irenas barn. Vigselakt/civilstånd saknas. | Dubblett (omgång 45): Martins träd: 'Gift med' Trzcińsko-Zdrój (utan datum eller källa). Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead).",
-  "label": "vigsel ej belagd"
+  "basis": "Ywonne 2026-10-10: ”Mamma och min pappa var aldrig gifta.” Bolesław var inte far till alla Irenas barn – Zdzisław hade en annan far. | Tidigare: Martins träd ”Gift med” Trzcińsko-Zdrój (utan källa) – felaktigt. Smart Matches mot Izabela Orzechowskas träd nämner Bolesław Kogut och Irena Jarczyńska med 4-5 barn (lead).",
+  "label": "ogifta (samboende)"
  },
  {
   "id": "c-boleslaw-irena-zdzislaw",
@@ -360,8 +360,8 @@
    "irena"
   ],
   "child": "zdzislaw",
-  "status": "family",
-  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+  "status": "excluded",
+  "basis": "UTESLUTEN 2026-10-10: Ywonne: ”Min pappa var inte far till samtliga barn, Zdzisław hade en annan far.”"
  },
  {
   "id": "c-boleslaw-irena-grzegorz",
@@ -372,7 +372,7 @@
   ],
   "child": "grzegorz",
   "status": "family",
-  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+  "basis": "Familjeuppgift; Ywonne 2026-10-10 anger att endast Zdzisław hade en annan far."
  },
  {
   "id": "c-boleslaw-irena-roman",
@@ -383,7 +383,7 @@
   ],
   "child": "roman",
   "status": "family",
-  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+  "basis": "Familjeuppgift; Ywonne 2026-10-10 anger att endast Zdzisław hade en annan far."
  },
  {
   "id": "c-boleslaw-irena-janina",
@@ -394,7 +394,7 @@
   ],
   "child": "janina",
   "status": "family",
-  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+  "basis": "Familjeuppgift; Ywonne 2026-10-10 anger att endast Zdzisław hade en annan far."
  },
  {
   "id": "c-boleslaw-irena-iwona",
@@ -405,7 +405,7 @@
   ],
   "child": "iwona",
   "status": "family",
-  "basis": "Familjeuppgift. Orzechowski/Kogut-namnfrågan är olöst och får inte användas för att anta annan far."
+  "basis": "Familjeuppgift; Ywonne 2026-10-10 anger att endast Zdzisław hade en annan far."
  },
  {
   "id": "p-stefan-zofia",
@@ -424,7 +424,7 @@
   ],
   "child": "irena",
   "status": "family",
-  "basis": "Användarträd – konflikt med födelsenamnet Jarczyńska. | OMGÅNG 36: Martin bekräftar (2026-10-07) att Stefan Orzechowski var morfar till Iwona, alltså Irenas far. Att modern är Zofia Młodawska är inte uttryckligen bekräftat (gift 7/1 1923, d. 24/10 1933); namnet Jarczyńska är fortfarande oförklarat. | 2026-10-10: Iwona (Irenas dotter, Martins mamma) har bekräftat att Irena är dotter till Stefan Orzechowski och Zofia Młodawska (båda föräldrarna). Släktbekräftad; ingen dopakt hittad. Flicknamnet ”Jarczyńska” är fortfarande oförklarat."
+  "basis": "Användarträd – konflikt med födelsenamnet Jarczyńska. | OMGÅNG 36: Martin bekräftar (2026-10-07) att Stefan Orzechowski var morfar till Ywonne, alltså Irenas far. Att modern är Zofia Młodawska är inte uttryckligen bekräftat (gift 7/1 1923, d. 24/10 1933); namnet Jarczyńska är fortfarande oförklarat. | 2026-10-10: Ywonne (Irenas dotter, Martins mamma) har bekräftat att Irena är dotter till Stefan Orzechowski och Zofia Młodawska (båda föräldrarna). Släktbekräftad; ingen dopakt hittad. Flicknamnet ”Jarczyńska” är fortfarande oförklarat."
  },
  {
   "id": "p-zdzislaw-celina",
@@ -443,7 +443,7 @@
   ],
   "child": "kasia",
   "status": "family",
-  "basis": "Familjeuppgift. Martin bekräftar 2026-10-06: Katarzyna är Celinas dotter (Zdzisław är Iwonas bror)."
+  "basis": "Familjeuppgift. Martin bekräftar 2026-10-06: Katarzyna är Celinas dotter (Zdzisław är Ywonnes bror)."
  },
  {
   "id": "c-zdzislaw-celina-maciek",
@@ -13459,5 +13459,24 @@
   "child": "johan_elofsson46_persjon",
   "status": "verified",
   "basis": "Älvsbacka C/1 bild 42 (1746): ”Johan Elofsson i Persjön född d 17 December”; marginal ”Fadren Elof Ersson, Modren Maria Ol:dotter”."
+ },
+ {
+  "id": "p-jarczynski_irena-irena",
+  "type": "partner",
+  "a": "jarczynski_irena",
+  "b": "irena",
+  "status": "family",
+  "label": "gifta",
+  "basis": "Ywonne 2026-10-10: Irena hette Jarczyńska ”när hon gifte sig med en gubbe före min pappa”. Vigselakt saknas."
+ },
+ {
+  "id": "c-irena-zdzislaw",
+  "type": "child",
+  "parents": [
+   "irena"
+  ],
+  "child": "zdzislaw",
+  "status": "family",
+  "basis": "Familjeuppgift. Fadern är inte Bolesław Kogut (Ywonne 2026-10-10); vem han är är okänt – möjligen förste maken Jarczyński, men Zdzisław bär Irenas flicknamn Orzechowski."
  }
 ]
