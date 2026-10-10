@@ -324,6 +324,22 @@
    "persons": [
     "boleslaw"
    ]
+  },
+  {
+   "title": "Stanisław Orzechowski (f. 1905) död 1928–1934?",
+   "text": "Hustrun Aniela f. Misztal anges som 'wdowa' (24) vid omgifte 25.11.1934 (St Wojciech akt 82, index). Stanisławs dödspost saknas i Geneteka D 13sk.",
+   "persons": [
+    "aq4_stanislaw_orzechowski_1905",
+    "aniela_misztal"
+   ]
+  },
+  {
+   "title": "Józef Orzechowskis och Zofia Młodawskas död ej indexerade",
+   "text": "Geneteka D 13sk 1912–1945 (Orzechowski; Młodawska 1925–45) ger ingen post för Józef (f. 1875) eller Zofia (d. 24.10.1933). Skanoteka saknar St Wojciech 1912+ och Katedra 1934. Kräver USC Kielce/AP Kielce.",
+   "persons": [
+    "jozef_orzechowski",
+    "zofia"
+   ]
   }
  ],
  "conflicts": [
@@ -4124,6 +4140,16 @@
    "doable": false,
    "source": "",
    "resolution": "Ywonne 2026-10-10: Ryszard ∞ Stefania → Bożena, Zbyszek; Czesław → Krzysztof; Janek → Lucyna, Marzena (+ fler döttrar). Kvar: Leszek."
+  },
+  {
+   "title": "Józefs andra hustru: Obara = Kozubek",
+   "text": "Zofia Obara (vigsel 1921 akt 46, index) och Zofia Kozubek (Helena 1922 akt 18, index) är samma kvinna: född Kozubek 23.2.1876 i Dąbrowa (Katedra 1876 akt 130, bildläst), gift 1:o 1895 med Jan Obara (St Wojciech 1895 akt 67, bildläst), föräldrar Michał + Antonina Kundera i alla akter. Obara = första makens namn.",
+   "persons": [
+    "zofia_obara",
+    "jozef_orzechowski",
+    "helena_orzechowska_1922",
+    "jan_obara"
+   ]
   }
  ],
  "backlog": [

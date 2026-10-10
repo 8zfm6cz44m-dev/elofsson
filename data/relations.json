@@ -13808,5 +13808,113 @@
   "b": "marzena_orzechowska",
   "status": "family",
   "basis": "Ywonne 2026-10-10."
+ },
+ {
+  "id": "p-wladyslaw_lisowski-marianna_orzechowska_1897",
+  "type": "partner",
+  "a": "wladyslaw_lisowski",
+  "b": "marianna_orzechowska_1897",
+  "status": "strong",
+  "basis": "Geneteka S 1922 akt 45 Kielce św. Wojciech, 6.8.1922; brudens föräldrar Józef + Katarzyna Zatorska, ålder 25 (f. 1897) – index"
+ },
+ {
+  "id": "p-aq4_stanislaw_orzechowski_1905-aniela_misztal",
+  "type": "partner",
+  "a": "aq4_stanislaw_orzechowski_1905",
+  "b": "aniela_misztal",
+  "status": "strong",
+  "basis": "Geneteka S 1928 akt 52 Kielce św. Wojciech, 30.9.1928; brudgummens föräldrar Józef + Katarzyna Zatorska, 23 år – index"
+ },
+ {
+  "id": "p-wladyslaw_bugajski-wladyslawa_orzechowska_1907",
+  "type": "partner",
+  "a": "wladyslaw_bugajski",
+  "b": "wladyslawa_orzechowska_1907",
+  "status": "strong",
+  "basis": "Geneteka S 1931 akt 8 Kielce św. Wojciech, 2.2.1931; brudens föräldrar Józef + Katarzyna Zatorska, 22 år – index"
+ },
+ {
+  "id": "p-stanislaw_bryk-aniela_misztal",
+  "type": "partner",
+  "a": "stanislaw_bryk",
+  "b": "aniela_misztal",
+  "status": "strong",
+  "basis": "Geneteka S 1934 akt 82 Kielce św. Wojciech, 25.11.1934: Aniela Orzechowska, föräldrar Józef + Magdalena Bębnów, 24 wdowa – index"
+ },
+ {
+  "id": "p-jan_obara-zofia_obara",
+  "type": "partner",
+  "a": "jan_obara",
+  "b": "zofia_obara",
+  "status": "verified",
+  "basis": "Vigselakt Kielce św. Wojciech 1895 akt 67 (bildläst, fil 66-67.jpg): 'Яномъ Обара ... и Зофіею Козубекъ ... дочерью Михаила и Антонины урожденной Кундера'"
+ },
+ {
+  "id": "c-michal_kozubek-antonina_kundera-zofia_obara",
+  "type": "child",
+  "parents": [
+   "michal_kozubek",
+   "antonina_kundera"
+  ],
+  "child": "zofia_obara",
+  "status": "verified",
+  "basis": "Födelseakt Kielce Katedra 1876 akt 130 (bildläst): Michał Kozubek, 22, Dąbrowa, 'отъ жены его Антонины урожденной Кундера', namn Zofia; + vigselakt 1895 akt 67 samma föräldrar"
+ },
+ {
+  "id": "p-michal_kozubek-antonina_kundera",
+  "type": "partner",
+  "a": "michal_kozubek",
+  "b": "antonina_kundera",
+  "status": "verified",
+  "basis": "Akt 130/1876 Kielce Katedra: 'жены его Антонины урожденной Кундера'"
+ },
+ {
+  "id": "c-jozef_orzechowski-zofia_obara-helena_orzechowska_1922",
+  "type": "child",
+  "parents": [
+   "jozef_orzechowski",
+   "zofia_obara"
+  ],
+  "child": "helena_orzechowska_1922",
+  "status": "strong",
+  "basis": "Geneteka B 1922 akt 18 Kielce św. Wojciech: Helena Orzechowska, far Józef, mor Zofia Kozubek, Szydłówek, f. 12.01.1922 – index"
+ },
+ {
+  "id": "s-stefan-helena_orzechowska_1922",
+  "type": "sibling",
+  "a": "stefan",
+  "b": "helena_orzechowska_1922",
+  "status": "strong",
+  "basis": "Halvsyskon via Józef Orzechowski (index B 1922 akt 18)"
+ },
+ {
+  "id": "c-jan_obara-zofia_obara-marianna_obara_1908",
+  "type": "child",
+  "parents": [
+   "jan_obara",
+   "zofia_obara"
+  ],
+  "child": "marianna_obara_1908",
+  "status": "strong",
+  "basis": "Geneteka D 1920 akt 141 St Wojciech: Marianna Obara, Jan + Zofia Kozubek, 12 lat – index"
+ },
+ {
+  "id": "c-jan_obara-zofia_obara-stefania_obara_1913",
+  "type": "child",
+  "parents": [
+   "jan_obara",
+   "zofia_obara"
+  ],
+  "child": "stefania_obara_1913",
+  "status": "strong",
+  "basis": "Geneteka B 1913 akt 101 St Wojciech: Stefania Obara, Jan + Zofia Kozubek – index"
+ },
+ {
+  "id": "p-antoni_wach-antonina_orzechowska_1871",
+  "type": "partner",
+  "a": "antoni_wach",
+  "b": "antonina_orzechowska_1871",
+  "status": "verified",
+  "basis": "Vigselakt Kielce Katedra 1889 akt 22 (bildläst): Antoni Wach, 20, × Antonina Orzechowska, 18, Niewachlów, 'дочерью покойнаго Михала и Агнешки Хендзель супруговъ Оржеховскихъ'"
  }
 ]
