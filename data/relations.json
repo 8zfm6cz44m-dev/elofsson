@@ -1461,8 +1461,8 @@
   "type": "partner",
   "a": "johan_olofsson",
   "b": "anna_gata",
-  "status": "family",
-  "basis": "Jan Källne: JO gifte sig 1895 med Anna från Gata."
+  "status": "verified",
+  "basis": "SCB vigselutdrag Brunskog 1895 nr 6 (A0036639_00916): ”Kommissionären Johan Olsson Takene 50 19/11” och ”Egaredottern Anna Nilsson d:o [Takene] 70 2/4”, vigda [juni] 23 [1895] av kyrkoherden Peter Werner (månad läst som ditto efter nr 5 ”Juni 3” – osäker)."
  },
  {
   "id": "c-elof_nilsson-kari_nilsd07-nils_elofsson35",
@@ -13697,5 +13697,40 @@
   "b": "bronislawa_orzechowska_1910",
   "status": "verified",
   "basis": "Samma föräldrapar Józef Orzechowski + Katarzyna f. Zatorska, Szydłówek (akt 68/1903 resp. 27/1910)"
+ },
+ {
+  "id": "c-johan_olofsson-anna_gata-walborgmaria_jo01",
+  "type": "child",
+  "parents": [
+   "johan_olofsson",
+   "anna_gata"
+  ],
+  "child": "walborgmaria_jo01",
+  "status": "verified",
+  "basis": "SCB födelseutdrag Brunskog 1901 nr 64 (A0030565_00492): ”Nov. 8 Walborg Maria”; Fader ”Johan Olsson, Ag. från Takene 50 19/11”, Moder ”h.h. Anna Nilsdotter 70 2/4”."
+ },
+ {
+  "id": "s-walborgmaria_jo01-olofgunnar_jo97",
+  "type": "sibling",
+  "a": "walborgmaria_jo01",
+  "b": "olofgunnar_jo97",
+  "status": "verified",
+  "basis": "samma föräldrar enligt SCB-födelseutdrag (Johan Olsson 50 19/11 + Anna Nilsson/Nilsdotter 70 2/4)."
+ },
+ {
+  "id": "s-walborgmaria_jo01-johangottfrid_jo04",
+  "type": "sibling",
+  "a": "walborgmaria_jo01",
+  "b": "johangottfrid_jo04",
+  "status": "verified",
+  "basis": "samma föräldrar enligt SCB-födelseutdrag (Johan Olsson 50 19/11 + Anna Nilsson/Nilsdotter 70 2/4)."
+ },
+ {
+  "id": "s-walborgmaria_jo01-annavalborg_jo09",
+  "type": "sibling",
+  "a": "walborgmaria_jo01",
+  "b": "annavalborg_jo09",
+  "status": "verified",
+  "basis": "samma föräldrar enligt SCB-födelseutdrag (Johan Olsson 50 19/11 + Anna Nilsson/Nilsdotter 70 2/4)."
  }
 ]

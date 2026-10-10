@@ -4336,6 +4336,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Arvika köping, N:o 266, sida 87 rad 6: Olsson, Johan f. 1850 Brunskog, Kommissionär, gift; hustru Nilsson, Anna f. 1870 Brunskog; barn Olof Gunnar 1897, Johan Gottfrid 1904 (Brunskog), Anna Valborg Elvira 1909 (Arvika)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125616309&tab=post"
+   },
+   {
+    "label": "Riksarkivet, SCB vigselutdrag Brunskog 1895 nr 6: ”Kommissionären Johan Olsson Takene 50 19/11” – ”Egaredottern Anna Nilsson d:o 70 2/4”, vigda [juni] 23",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036639_00916"
    }
   ],
   "search": [
@@ -4349,7 +4353,8 @@
    "Arvika allehanda 1892-11-11 s.2 (lista): ”Johan Olsson, Takene” bland valda/röstande 1892.",
    "FOLKRÄKNING 1900 Takene Östra (Folk_109938081): Olsson, Johan f. 1850 Brunskog, Hemmansegare, gift med Nilsdotter, Anna f. 1870; son Olof Gunnar f. 1897; fadern Olof Elofsson (Familjeställning ”fader”) bor i hushållet.",
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87 rad 6: Johan Olsson f. 1850 Brunskog, Kommissionär, gift; hustrun Anna Nilsson f. 1870 Brunskog; barn Olof Gunnar f. 1897 Brunskog, Johan Gottfrid f. 1904 Brunskog, Anna Valborg Elvira f. 1909 Arvika.",
-   "FOLKRÄKNING 1880: en ANNAN Johan Olsson f. 1850 i Brunskog (ogift, Åmot, Familjeställning ”halfbroder” i Olof Olssons (f. 1842) hushåll, sida 44 rad 32) – ej vår Johan (denne bor 1880 hos fadern Olof Elofsson, Ö. Takene) – förväxla ej."
+   "FOLKRÄKNING 1880: en ANNAN Johan Olsson f. 1850 i Brunskog (ogift, Åmot, Familjeställning ”halfbroder” i Olof Olssons (f. 1842) hushåll, sida 44 rad 32) – ej vår Johan (denne bor 1880 hos fadern Olof Elofsson, Ö. Takene) – förväxla ej.",
+   "BW6: Barn enligt SCB-födelseutdrag: Olof Gunnar 30/5 1897, Walborg Maria 8/11 1901, Johan Gottfrid 24/5 1904 (Brunskog), Anna Valborg Elvira 18/9 1909 (Arvika köping). Faderns födelsedag 19/11 1850 anges i alla utdrag."
   ],
   "timeline": [
    [
@@ -7534,7 +7539,7 @@
  },
  {
   "id": "anna_gata",
-  "name": "Anna Nilsdotter (f. 1870 Brunskog), från Gata",
+  "name": "Anna Nilsdotter (Nilsson) (f. 1870-04-02 Brunskog), från Gata",
   "status": "family",
   "sex": "f",
   "places": [
@@ -7554,6 +7559,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Arvika, Stadsägan no 392: Olsson Nilsson, Anna f. 1870 Brunskog, Kommissionärsänka",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
+   },
+   {
+    "label": "Riksarkivet, SCB födelseutdrag Brunskog 1904 nr 29 och Arvika köping 1909 nr 101: modern ”Anna Nilsson” 70 2/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0030656_00487"
    }
   ],
   "search": [
@@ -7562,8 +7571,15 @@
   ],
   "notes": [
    "FOLKRÄKNING 1900 (Ö. Takene): Anna Nilsdotter f. 1870; 1910 (Arvika köping): Nilsson, Anna f. 1870 i Brunskog, i hushållet Johan Olsson, kommissionär (gift). Familjeställning ”h.” ej utläst ur sökposten; gift 1895 enligt släktuppgift.",
-   "FOLKRÄKNING 1930 Arvika (Folk_129011712): ”Olsson Nilsson, Anna, f. 1870 i Brunskog Värmlands län, Kommissionärsänka” med dottern Anna Valborg Elvira 1909 – bekräftar att Johan Olofsson var död 1930 (dödsdag 3 feb 1930 stämmer) och att Anna är hans änka."
-  ]
+   "FOLKRÄKNING 1930 Arvika (Folk_129011712): ”Olsson Nilsson, Anna, f. 1870 i Brunskog Värmlands län, Kommissionärsänka” med dottern Anna Valborg Elvira 1909 – bekräftar att Johan Olofsson var död 1930 (dödsdag 3 feb 1930 stämmer) och att Anna är hans änka.",
+   "SCB-födelseutdragen 1904 (Brunskog nr 29) och 1909 (Arvika köping nr 101) anger modern ”Anna Nilsson” född ”70 2/4” = 2 april 1870; hustru (”h.h.”) till kommissionär Johan Olsson 50 19/11.",
+   "FOLKRÄKNING 1930 Arvika Stadsägan no 392 (Folk_129011712), HELA hushållet: endast ”Olsson Nilsson, Anna, f. 1870 i Brunskog, Kommissionärsänka” och ”Anna Valborg Elvira, f. 1909 i Arvika” (d.).",
+   "SCB VIGSELUTDRAG Brunskog 1895 nr 6 (A0036639_00916): ”Kommissionären Johan Olsson Takene 50 19/11 / Egaredottern Anna Nilsson d:o 70 2/4”, vigda ” 23 [juni 1895] av Kyrkoherden Peter Werner. Obs: bostad anges ”d:o” = Takene (inte Gata)."
+  ],
+  "born": {
+   "date": "1870-04-02",
+   "place": "Brunskog"
+  }
  },
  {
   "id": "jan_kallne",
@@ -7676,6 +7692,9 @@
   ],
   "search": [
    "Källne"
+  ],
+  "notes": [
+   "BW6: SCB-födelseutdrag 1895–1912 ger JO och Anna fyra barn; enda dotter i livet efter 1910 är Anna Valborg Elvira f. 18/9 1909 (ogift 1930). Eftersom Jan kallar JO ”morfar” är hon mycket sannolikt Jans mor – ej belagt i primärkälla (se flagga). Enda Källne i folkräkningarna: Johan August Källne f. 1903 Sundals-Ryr, teol. stud. 1930 (lead)."
   ]
  },
  {
@@ -25802,7 +25821,7 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1848",
+   "date": "1848-08-30",
    "place": "Brunskog"
   },
   "places": [
@@ -25816,7 +25835,9 @@
    "FOLKRÄKNING 1890 Nedre Ullerud, Risätter, sida 46 rad 13: Gårdfarihandlande, gift; Nilsdotter, Mathilda f. 1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud.",
    "FOLKRÄKNING 1900 Tjusbol, sida 53 rad 35: gårdfarihandlande; Matilda; Hulda Maria 1888; Hjalmar Paulinus 1891.",
    "FOLKRÄKNING 1910 Tjusbol, sida 71 rad 7: Gårdfarihandlare, Änka/Änkling, ensamstående. 1930 sida 72 rad 48: Änkling (upplösningsår 1904), Inflyttningsår 1923, Inflyttad från Grava.",
-   "AN4 verifierad läsning av folkräkningsposterna: 1880 Risäter s.52 r.12 ogift handlande; 1890 Risätter s.46 r.13 gårdfarihandlande, g.; Nilsdotter, Mathilda f.1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud; 1900 Tjusbol s.53 r.35 + Hjalmar Paulinus 1891 Nedre Ullerud; 1910 Tjusbol s.71 r.7 änkling; 1930 s.72 r.48 änkling, gårdfarihandlare. Ingen post anger Grava före 1923 eller dag 30/8. Familjeställning: Gift 1890; födelseförsamling Brunskog. Hustruns son Johan Fredrik f. 1883 Gräsmark (före giftermålet?)."
+   "AN4 verifierad läsning av folkräkningsposterna: 1880 Risäter s.52 r.12 ogift handlande; 1890 Risätter s.46 r.13 gårdfarihandlande, g.; Nilsdotter, Mathilda f.1853 Gräsmark; Johan Fredrik 1883 Gräsmark; Hulda Maria 1888 Nedre Ullerud; 1900 Tjusbol s.53 r.35 + Hjalmar Paulinus 1891 Nedre Ullerud; 1910 Tjusbol s.71 r.7 änkling; 1930 s.72 r.48 änkling, gårdfarihandlare. Ingen post anger Grava före 1923 eller dag 30/8. Familjeställning: Gift 1890; födelseförsamling Brunskog. Hustruns son Johan Fredrik f. 1883 Gräsmark (före giftermålet?).",
+   "HUSFÖRHÖR Nedre Ullerud A I/19 (C0038283) bild 383, sid. 419 ”Risäter”: ensam rad ”[Hdl.? (osäker)] Anders Andersson | 48 | 30/8 | Brunskog | v[accinerad] | [flyttat från pag.] 565 | 80”. Samma person på sid. 565 (bild 514, ”Lösdrifvare utom församlingen”): ”dr. Anders Andersson 48 30/8 Brunskog” → hänvisning till Risäter. Exakt födelsedag 30/8 1848 i Brunskog = anders_ae48 (dop C I/5 bild 27; husförhör A I/23 bild 135 ”Son Anders 30/8 48”). Stark identitetsindikation; flyttkedjan Brunskog→Grava 1872→Nedre Ullerud ca 1878–80 ej läst i flyttlängd.",
+   "OBS: posten har status ”verified” i repot men summary säger ”ej styrkt” – status avser troligen folkräkningsläsningen; identiteten med anders_ae48 bör nu sättas strong (se flagga)."
   ],
   "sources": [
    {
@@ -25854,6 +25875,14 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Tjusbol s.72 r.48 (inflyttad Grava 1923)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128612748&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Nedre Ullerud husförhörslängd A I/19 (1876–1883), bild 383, sid. 419 Risäter: ”[Hdl.?] Anders Andersson 48 30/8 Brunskog”, flyttat från pag. 565, 80",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038283_00383"
+   },
+   {
+    "label": "Riksarkivet, Nedre Ullerud husförhörslängd A I/19, bild 514, sid. 565 (Lösdrifvare utom församlingen): ”dr. Anders Andersson 48 30/8 Brunskog”, flyttad till Risäter (pag. 422?)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0038283_00514"
    }
   ],
   "search": [
@@ -29691,7 +29720,8 @@
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Olof Gunnar f. 1897 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
    "FOLKRÄKNING 1930 Nyed (Molkom), sida 55 rad 42 (Folk_128911700): Olsson, Olof Gunnar f. 1897 i Brunskog, Banktjänsteman Kassakontrollant, gift (vigselår 1926), inflyttad 1920 från Arvika; hustru Svensson, Arvida f. 1900 i Borås; barn Karin Gunnel f. 1927 Nyed, Åke Gunnar f. 1929 Nyed. Samma namn+födelseår+ort; ”inflyttad från Arvika” stämmer med familjen i Arvika 1910, men föräldrar nämns inte i posten.",
-   "FOLKRÄKNING 1930 Nyed: hustru Arvida Svensson f. 1900 Borås (gift 1926), barn Karin Gunnel f. 1927 och Åke Gunnar f. 1929 – se ap5_arvida_svensson00, ap5_karingunnel_jo27, ap5_akegunnar_jo29."
+   "FOLKRÄKNING 1930 Nyed: hustru Arvida Svensson f. 1900 Borås (gift 1926), barn Karin Gunnel f. 1927 och Åke Gunnar f. 1929 – se ap5_arvida_svensson00, ap5_karingunnel_jo27, ap5_akegunnar_jo29.",
+   "SCB-FÖDELSEUTDRAG Brunskog 1897 nr 34 (A0036700_00483): ”34 | ” [maj] | 30 | 1 [levande född, m.] | Olof Gunnar | Fader: Johan Olson Eg. från Takene 50 19/11 | Moder: h.h. Anna Nilsdotter 70 2/4 | 1 [gift]”. Uttrycklig föräldraangivelse."
   ],
   "sources": [
    {
@@ -29701,11 +29731,15 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Nyed (Molkom) sida 55 rad 42: Olof Gunnar Olsson f. 1897 Brunskog, banktjänsteman, gift 1926, inflyttad 1920 från Arvika; hustru Arvida Svensson f. 1900 Borås; barn Karin Gunnel 1927, Åke Gunnar 1929",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128911700&tab=post"
+   },
+   {
+    "label": "Riksarkivet, SCB födelseutdrag Brunskog 1897, nr 34: ”[Maj] 30 – Olof Gunnar. Fader: Johan Olson Eg. från Takene 50 19/11. Moder: h.h. Anna Nilsdotter 70 2/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0036700_00483"
    }
   ],
   "born": {
-   "date": "1897",
-   "place": "Brunskog"
+   "date": "1897-05-30",
+   "place": "Takene, Brunskog"
   },
   "places": [
    "Arvika (1910)",
@@ -29725,7 +29759,8 @@
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Johan Gottfrid f. 1904 i Brunskog i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
    "FOLKRÄKNING 1930 Silbodal (Årjängs municipalsamhälle), sida 54 rad 25: Olsson, Johan Gottfrid f. 1904 i Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika, ensamstående. Samma namn+födelseår+ort; ”från Arvika” stämmer; föräldrar nämns ej.",
-   "FOLKRÄKNING 1930 Silbodal, Årjängs municipalsamhälle (s. 54 rad 25): Olsson, Johan Gottfrid f. 1904 Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika; ensamstående, inga barn. Familjeställning mot föräldrar ej utläst."
+   "FOLKRÄKNING 1930 Silbodal, Årjängs municipalsamhälle (s. 54 rad 25): Olsson, Johan Gottfrid f. 1904 Brunskog, Folkskollärare, ogift, inflyttad 1928 från Arvika; ensamstående, inga barn. Familjeställning mot föräldrar ej utläst.",
+   "SCB-FÖDELSEUTDRAG Brunskog 1904 nr 29 (A0030656_00487): ”Maj | 24 | 1 [levande född, m.] | Johan Gottfrid | Fader: Kommissionär Johan Olsson i Takene 50 19/11 | Moder: h.h. Anna Nilsson 70 2/4 | 1 [gift]”. Faderns födelsedag 19/11 1850 = johan_olofsson. Bekräftar föräldraskap uttryckligen."
   ],
   "sources": [
    {
@@ -29735,11 +29770,15 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Silbodal (Årjängs municipalsamhälle) sida 54 rad 25: Johan Gottfrid Olsson f. 1904 Brunskog, folkskollärare, ogift, inflyttad 1928 från Arvika",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128882563&tab=post"
+   },
+   {
+    "label": "Riksarkivet, SCB födelseutdrag Brunskog 1904, nr 29: ”Maj 24 – Johan Gottfrid. Fader: Kommissionär Johan Olsson i Takene, 50 19/11. Moder: h.h. Anna Nilsson, 70 2/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0030656_00487"
    }
   ],
   "born": {
-   "date": "1904",
-   "place": "Brunskog"
+   "date": "1904-05-24",
+   "place": "Takene, Brunskog"
   },
   "places": [
    "Arvika (1910)"
@@ -29758,7 +29797,8 @@
   "notes": [
    "FOLKRÄKNING 1910 Arvika köping N:o 266, sida 87: Anna Valborg Elvira f. 1909 i Arvika i hushållet Johan Olsson/Anna Nilsson (barn enligt hushållsuppbyggnad; familjeställning ej utläst).",
    "FOLKRÄKNING 1930 Arvika (Stadsägan no 392, Jösse kontrakt, Folk_129011712), sida 145 rad 36: ”Anna Valborg Elvira” f. 1909 i Arvika, Ogift, Familjeställning ”d.”, Famstkod Barn, familj nr 1, hos ”Olsson Nilsson, Anna, f. 1870 i Brunskog, Kommissionärsänka”. Ogift 1930 (21 år) – alltså ännu inte Källne 1930; ev. senare giftermål ej belagt. Dotterskapet nu uttryckligt (Familjeställning d.).",
-   "FOLKRÄKNING 1930 Arvika, Stadsägan no 392 (s. 145 rad 36): Anna Valborg Elvira f. 1909 Arvika, ogift, Familjeställning ”d.” (dotter) hos Olsson Nilsson, Anna f. 1870 Brunskog, Kommissionärsänka – bekräftar modern och att fadern Johan Olsson då var död."
+   "FOLKRÄKNING 1930 Arvika, Stadsägan no 392 (s. 145 rad 36): Anna Valborg Elvira f. 1909 Arvika, ogift, Familjeställning ”d.” (dotter) hos Olsson Nilsson, Anna f. 1870 Brunskog, Kommissionärsänka – bekräftar modern och att fadern Johan Olsson då var död.",
+   "SCB-FÖDELSEUTDRAG Arvika köping 1909 nr 101 (A0030812_00456): ”Sept. | 18 | 1 [levande född, k.] | Anna Valborg Elvira | Fader: Johan Olsson, kommissionär 50 19/11 | Moder: Anna Nilsson N:o 209 70 2/4”."
   ],
   "sources": [
    {
@@ -29772,11 +29812,15 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Arvika (s. 145): Anna Valborg Elvira f. 1909, d. hos kommissionärsänkan Anna Olsson Nilsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_129011712&tab=post"
+   },
+   {
+    "label": "Riksarkivet, SCB födelseutdrag Arvika köping 1909, nr 101: ”Sept. 18 – Anna Valborg Elvira. Fader: Johan Olsson, kommissionär, 50 19/11. Moder: Anna Nilsson, N:o 209, 70 2/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0030812_00456"
    }
   ],
   "born": {
-   "date": "1909",
-   "place": "Arvika"
+   "date": "1909-09-18",
+   "place": "Arvika köping"
   },
   "places": [
    "Arvika (1910)"
@@ -45542,5 +45586,33 @@
    "place": "Szydłówek (Kielce, S:t Wojciech)",
    "note": "Geneteka-index D 1912 akt 116, Kielce św. Wojciech: Bronisława Orzechowska, föräldrar Józef + Katarzyna Zatorska, Szydłówek, 'Uwagi: 2 lata', död 23.03.1912 – index, ej bildläst"
   }
+ },
+ {
+  "id": "walborgmaria_jo01",
+  "name": "Walborg (Valborg) Maria Olsson (f. 1901)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1901-11-08",
+   "place": "Takene, Brunskog"
+  },
+  "places": [
+   "Takene, Brunskog"
+  ],
+  "summary": "Dotter till kommissionär Johan Olsson (Olofsson) och Anna Nilsdotter, född 8 nov 1901 i Brunskog. Finns inte i hushållet 1910 – troligen död ung (systern Anna Valborg Elvira f. 1909 fick samma namn).",
+  "notes": [
+   "SCB-FÖDELSEUTDRAG Brunskog 1901 nr 64 (A0030565_00492): ”64 | Nov. | 8 | 1 [levande född, kvinnkön] | Walborg Maria | Fader: Johan Olsson, Ag. från Takene 50 19/11 | Moder: h.h. Anna Nilsdotter 70 2/4 | 1 [gift]”.",
+   "Saknas i folkräkning 1910 (Arvika köping N:o 266) och 1930 – död eller utflyttad före 1910 ej ännu belagt (dödsutdrag ej funnet)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, SCB födelseutdrag Brunskog 1901, nr 64: ”Nov. 8 – Walborg Maria. Fader: Johan Olsson, Ag. från Takene 50 19/11. Moder: h.h. Anna Nilsdotter 70 2/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0030565_00492"
+   }
+  ],
+  "search": [
+   "Walborg Maria Olsson 1901"
+  ]
  }
 ]
