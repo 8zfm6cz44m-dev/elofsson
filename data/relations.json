@@ -13732,5 +13732,81 @@
   "b": "annavalborg_jo09",
   "status": "verified",
   "basis": "samma föräldrar enligt SCB-födelseutdrag (Johan Olsson 50 19/11 + Anna Nilsson/Nilsdotter 70 2/4)."
+ },
+ {
+  "id": "p-ryszard_o-stefania_o",
+  "type": "partner",
+  "a": "ryszard_o",
+  "b": "stefania_o",
+  "basis": "Ywonne 2026-10-10: ”Ryszard var gift med Stefania”.",
+  "status": "family"
+ },
+ {
+  "id": "c-ryszard_o-stefania_o-bozena_o",
+  "type": "child",
+  "parents": [
+   "ryszard_o",
+   "stefania_o"
+  ],
+  "child": "bozena_o",
+  "basis": "Ywonne 2026-10-10: deras barn är Bożena (Kielce) och Zbyszek (Australien).",
+  "status": "family"
+ },
+ {
+  "id": "c-ryszard_o-stefania_o-zbigniew_o",
+  "type": "child",
+  "parents": [
+   "ryszard_o",
+   "stefania_o"
+  ],
+  "child": "zbigniew_o",
+  "basis": "Ywonne 2026-10-10: deras barn är Bożena (Kielce) och Zbyszek (Australien).",
+  "status": "family"
+ },
+ {
+  "id": "s-bozena_o-zbigniew_o",
+  "type": "sibling",
+  "a": "bozena_o",
+  "b": "zbigniew_o",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10."
+ },
+ {
+  "id": "c-czeslaw_o-krzysztof_o",
+  "type": "child",
+  "parents": [
+   "czeslaw_o"
+  ],
+  "child": "krzysztof_o",
+  "basis": "Ywonne 2026-10-10: ”Krzysztof var son till Czesław”.",
+  "status": "family"
+ },
+ {
+  "id": "c-janek_orzechowski-lucyna_o",
+  "type": "child",
+  "parents": [
+   "janek_orzechowski"
+  ],
+  "child": "lucyna_o",
+  "basis": "Ywonne 2026-10-10: ”Lucyna var dotter till Janek”.",
+  "status": "family"
+ },
+ {
+  "id": "c-janek_orzechowski-marzena_orzechowska",
+  "type": "child",
+  "parents": [
+   "janek_orzechowski"
+  ],
+  "child": "marzena_orzechowska",
+  "basis": "Ywonne 2026-10-10: ”Janeks andra dotter heter Marzena”.",
+  "status": "family"
+ },
+ {
+  "id": "s-lucyna_o-marzena_orzechowska",
+  "type": "sibling",
+  "a": "lucyna_o",
+  "b": "marzena_orzechowska",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10."
  }
 ]

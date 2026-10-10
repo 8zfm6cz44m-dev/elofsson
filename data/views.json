@@ -3934,16 +3934,16 @@
     1
    ],
    "czeslaw_o": [
-    5.5,
-    1
-   ],
-   "stefania_o": [
     6.5,
     1
    ],
-   "lucyna_o": [
-    7.5,
+   "stefania_o": [
+    5.5,
     1
+   ],
+   "lucyna_o": [
+    13.5,
+    2
    ],
    "christian": [
     9.5,
@@ -3954,7 +3954,7 @@
     2
    ],
    "leszek_o": [
-    11.5,
+    15.5,
     2
    ],
    "krzysztof_o": [
@@ -3962,7 +3962,7 @@
     2
    ],
    "bozena_o": [
-    13.5,
+    11.5,
     2
    ],
    "david_rozek": [
@@ -4314,12 +4314,16 @@
     -2
    ],
    "janek_orzechowski": [
-    8.5,
+    7.5,
     1
    ],
    "bronislawa_orzechowska_1910": [
     8.5,
     0
+   ],
+   "marzena_orzechowska": [
+    14.5,
+    2
    ]
   },
   "groups": []

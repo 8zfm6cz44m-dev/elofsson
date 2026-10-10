@@ -7777,16 +7777,20 @@
  },
  {
   "id": "stefania_o",
-  "name": "Stefania Orzechowski",
-  "status": "lead",
+  "name": "Stefania Orzechowska",
+  "status": "family",
   "sex": "f",
-  "living": false,
+  "living": true,
   "places": [],
-  "summary": "Ingift moster till Ywonne enligt MyHeritage (”Mors ingifta moster”); gift med en av Irenas bröder (vilken är inte angivet i listvyn).",
+  "summary": "Ryszard Orzechowskis hustru (Ywonne 2026-10-10); mor till Bożena och Zbigniew (Zbyszek).",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
    }
   ],
   "search": [
@@ -7801,50 +7805,63 @@
  {
   "id": "lucyna_o",
   "name": "Lucyna Orzechowska",
-  "status": "lead",
+  "status": "family",
   "sex": "f",
-  "living": false,
+  "living": true,
   "places": [],
-  "summary": "Ingift moster till Ywonne enligt MyHeritage; gift med en av Irenas bröder (vilken är inte angivet).",
+  "summary": "Dotter till Janek Orzechowski (Ywonne 2026-10-10), alltså Irenas halvbrorsdotter – inte ingift moster som MyHeritage anger.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
    }
   ],
   "search": [
    "Lucyna Orzechowska"
   ],
   "born": {
-   "date": "1931"
+   "date": "",
+   "note": "MyHeritage anger 1931 – oförenligt med att hon är Janeks dotter (Janek f. efter 1934); troligen fel."
   },
-  "died": {
-   "date": "Avliden"
-  },
-  "sidoperson": true
+  "sidoperson": true,
+  "notes": [
+   "MyHeritage-listvyn angav f. 1931, ”Avliden” och ”Mors ingifta moster” – motsägs av familjen (Ywonne 2026-10-10)."
+  ]
  },
  {
   "id": "zbigniew_o",
-  "name": "Zbigniew Orzechowski",
-  "status": "lead",
+  "name": "Zbigniew (Zbyszek) Orzechowski",
+  "status": "family",
   "sex": "m",
-  "living": false,
+  "living": true,
   "places": [],
-  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "summary": "Son till Ryszard och Stefania Orzechowski; bor i Australien (Ywonne 2026-10-10). Ywonnes kusin.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
    }
   ],
   "search": [
-   "Zbigniew Orzechowski"
+   "Zbyszek",
+   "Zbigniew"
   ],
   "born": {
    "date": "1955-07-01",
    "place": "Kielce"
   },
-  "sidoperson": true
+  "sidoperson": true,
+  "altNames": [
+   "Zbyszek"
+  ]
  },
  {
   "id": "leszek_o",
@@ -7853,7 +7870,7 @@
   "sex": "m",
   "living": false,
   "places": [],
-  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”); vems son han är är fortfarande okänt (inte nämnd i Ywonnes svar 2026-10-10).",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
@@ -7874,15 +7891,19 @@
  {
   "id": "krzysztof_o",
   "name": "Krzysztof Orzechowski",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": false,
   "places": [],
-  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "summary": "Son till Czesław Orzechowski (Ywonne 2026-10-10). Ywonnes kusin. Död 2017 enligt MyHeritage.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
    }
   ],
   "search": [
@@ -7898,16 +7919,20 @@
  },
  {
   "id": "bozena_o",
-  "name": "Bozena Orzechowska",
-  "status": "lead",
+  "name": "Bożena Orzechowska",
+  "status": "family",
   "sex": "f",
-  "living": false,
+  "living": true,
   "places": [],
-  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”), barn till Ryszard eller Czesław Orzechowski – vilken är inte angivet i listvyn.",
+  "summary": "Dotter till Ryszard och Stefania Orzechowski; bor i Kielce (Ywonne 2026-10-10). Ywonnes kusin.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
    }
   ],
   "search": [
@@ -45613,6 +45638,20 @@
   ],
   "search": [
    "Walborg Maria Olsson 1901"
+  ]
+ },
+ {
+  "id": "marzena_orzechowska",
+  "name": "Marzena Orzechowska",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "summary": "Dotter till Janek Orzechowski (Ywonne 2026-10-10); syster till Lucyna. Janek hade fler döttrar vars namn inte är kända.",
+  "sources": [
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10 (Ryszard g.m. Stefania, barn Bożena och Zbyszek; Krzysztof son till Czesław; Lucyna och Marzena döttrar till Janek)",
+    "url": ""
+   }
   ]
  }
 ]

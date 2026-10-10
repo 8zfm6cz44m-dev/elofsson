@@ -12,25 +12,6 @@
       "source": ""
     },
     {
-      "title": "Mammas sida: vem är vems barn?",
-      "text": "MyHeritage-listan ger Irenas bröder Ryszard (f. 1931) och Czesław samt Ywonnes kusiner Zbigniew, Leszek, Krzysztof och Bozena, men inte vilken bror som är förälder, eller vilken fru (Stefania, Lucyna) som hör till vem. Kontrollera i trädvyn eller fråga familjen. Stefan/Zofia som Irenas föräldrar står i konflikt med flicknamnet Jarczyńska.",
-      "persons": [
-        "ryszard_o",
-        "czeslaw_o",
-        "stefania_o",
-        "lucyna_o",
-        "zbigniew_o",
-        "leszek_o",
-        "krzysztof_o",
-        "bozena_o",
-        "irena"
-      ],
-      "priority": 2,
-      "next_step": "Fråga Ywonne/familjen vem som är förälder till vem.",
-      "doable": false,
-      "source": ""
-    },
-    {
       "title": "Nils Olsson & Anna Andersdotter (N. Boda): vigsel och hushåll ej funna",
       "text": "Anders Nilsson f. 15/10 1853 dopt 16/10 1853 (Boda C I/3 bild 91 s.147, nr 16): 'Anders; Nils Olsson o. h. Anna Andersd.: Nr Boda'; fadder Jan Svensson o. h. Maria Andersd. ibm. Föräldrarna syns inte i husförhör A I/19 N. Boda (bild 12–53, genomgånget) eller i A I/20 N. Boda (bild 12–20). Vigselbok E I/3 1842–1852 (bild 9–14) genomläst översiktligt: närmast liggande poster är (a) 31/5 1852 'Drängen Nils Olsson från [..]shakl(?) och Pig. Anna Nilsd. [i] N:r Boda' (åldrar 21/24 – modern Anna NILSdotter, ej Andersdotter) och (b) ca jan 1853 'Drängen Johannes Olofsson fr N:r Boda och Pig. Anna Andersdotter därstädes' (22/26). Ingen av dem matchar Nils Olsson + Anna Andersdotter exakt. Möjligt att hushållet står under annan by/rubrik (Södra Boda fol 42+, Bodatorp, Nordsjö, Renstad), eller att paret gift annan socken. Nästa steg: skanna A I/19 Södra Boda/Bodatorp/Renstad (fol 42–80, 217+) och dopbok C I/3 1855–58 efter syskon; kolla Anders i A I/21–A I/22 (1861–70) för föräldrahushåll.",
       "persons": [
@@ -325,6 +306,17 @@
       "persons": [
         "walborgmaria_jo01"
       ]
+    },
+    {
+      "title": "Leszek Orzechowski (ca 1950–1985): vems son?",
+      "text": "MyHeritage kallar honom Ywonnes kusin. Ywonne nämnde honom inte 2026-10-10. Möjliga fäder: Ryszard eller Czesław (Janek är för ung).",
+      "persons": [
+        "leszek_o",
+        "ryszard_o",
+        "czeslaw_o"
+      ],
+      "priority": 3,
+      "next_step": "Låg prioritet – fråga släkten vid tillfälle."
     }
   ],
   "conflicts": [
@@ -4105,6 +4097,26 @@
         "annavalborg_jo09",
         "jan_forald"
       ]
+    },
+    {
+      "title": "Mammas sida: vem är vems barn?",
+      "text": "MyHeritage-listan ger Irenas bröder Ryszard (f. 1931) och Czesław samt Ywonnes kusiner Zbigniew, Leszek, Krzysztof och Bozena, men inte vilken bror som är förälder, eller vilken fru (Stefania, Lucyna) som hör till vem. Kontrollera i trädvyn eller fråga familjen. Stefan/Zofia som Irenas föräldrar står i konflikt med flicknamnet Jarczyńska.",
+      "persons": [
+        "ryszard_o",
+        "czeslaw_o",
+        "stefania_o",
+        "lucyna_o",
+        "zbigniew_o",
+        "leszek_o",
+        "krzysztof_o",
+        "bozena_o",
+        "irena"
+      ],
+      "priority": 2,
+      "next_step": "Fråga Ywonne/familjen vem som är förälder till vem.",
+      "doable": false,
+      "source": "",
+      "resolution": "Ywonne 2026-10-10: Ryszard ∞ Stefania → Bożena, Zbyszek; Czesław → Krzysztof; Janek → Lucyna, Marzena (+ fler döttrar). Kvar: Leszek."
     }
   ],
   "backlog": [
