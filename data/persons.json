@@ -7121,7 +7121,8 @@
    "BU3 DOMSTOLSKÄLLOR: Jösse häradsrätts arkiv (SE/VA/11166, Värmlandsarkiv) – domböcker A I a vol. 7 (1713–1718) och 8 (1713–1721) och bouppteckningar F II (börjar först 1737) är inte digitaliserade hos RA. Göta hovrätts renoverade domböcker ”Värmlands län 1701–1813” (vol. 29 1714, 31 1715 m.fl. med Jösse) finns i Vadstena men är inte digitaliserade. Svea hovrätts E XI e innehåller inte Värmland.",
    "BU4 DÖD: A I/2 bild 159 – Elofs rad har nattvardsdatum t.o.m. 1768 (”14/9”, svagt). A I/3 bild 167 (s. 154, Toltan, ”inh.”): ”Elof Nilsson 1687” och ”H. Karin Nilsd. 1707” är överstrukna med förhörskryss men utan någon nattvardsnotering 1769–1774, medan Kari Börjesdotter 1689 på samma sida har 1769 (13/8, 7/11). Han finns inte på s. 151–153 (bild 164–166: sönerna Jan Elofsson 1718 och Per Elofsson 1728 med familjer). Slutsats: död (eller flyttad) mellan sept 1768 och början av 1769 – inte 1772. Dödbok 1749–82 saknas, så exakt datum kan inte fås.",
    "BU4 FADDRAR: ”Stoy” i tidigare noter är en felläsning av ”Skog” (Sk i kurrent liknar St). 1727 nr 10 (bild 165): ”Nils Nilssons och Britta Claesd:s Barn i Skog … Fadd. Jon Gustafsson i Skog och Elof Nilsson i Toltan”; Jon Gustafsson står i Skog i mantal 1714 (A0003195 bild 502) och 1719 (A0003198 bild 506), vilket bekräftar Skog. 1729 nr 7 (bild 176): ”Nils Nilssons och h. Britta Claesdotters i Skog Barn, som kallades Anders. Fadd. Elof och Påhl Nilssonar i Toltan, Hust. Gertrud Bondesdotter ibm, Karin Nilsdotter i Skog” – ”Påhl”, inte ”Pehr” (ring över a). 1735 nr 32 (bild 212): Elofs son Nils, ”Fadd. Nils Nilsson i Skog, Christopher Pålsson i Åsen; Hust. Gertrud Bondesdotter, Ingrid Elofsdotter ibidem”. Elof har alltså nära faddersamband med Skog-hushållet (Nils Nilsson och Karin Nilsdotter i Skog) och med Påhl Nilsson. Påhl Nilssons son heter Christopher och Elof döper en son Christopher 1748 – förenligt med farfar Nils Christophersson.",
-   "BU4 VIGSEL 1717 (E I/1 bild 34) omzoomad: ”D. Elof Nilsson i [S?]+[k/t]+[o/e]+g/y” – stor ögla, ett högt kraftigt nedstapel, liten bokstav och lång nedåtögla. Formen stämmer med ”Skog” som det skrivs i dopboken 1727–1735 (Sk + o + g) bättre än med ”Hey/Hög”. Läsning: ”Skog[?]”, osäker."
+   "BU4 VIGSEL 1717 (E I/1 bild 34) omzoomad: ”D. Elof Nilsson i [S?]+[k/t]+[o/e]+g/y” – stor ögla, ett högt kraftigt nedstapel, liten bokstav och lång nedåtögla. Formen stämmer med ”Skog” som det skrivs i dopboken 1727–1735 (Sk + o + g) bättre än med ”Hey/Hög”. Läsning: ”Skog[?]”, osäker.",
+   "BU5 MYHERITAGE (73 matchningar, lead): nästan alla träd: Elof Nilsson f. 1689 (Skog), d. 1772; syskon Petrus Nicolai Sylvander (38 träd), Pål Nilsson (13), Christopher Nilsson, Nils Nilsson, Per Nilsson Sylvander, Bartholdius Nicolai Duraeus; barn Per, Jan/Johan, Marit, Anna Elofsdotter, ”Nils Elofsson Sylvander”. Dödsåret 1772 motsägs av husförhören (BU4: borta 1768/69). Träden är sannolikt avskrivna från varandra och från Geni."
   ],
   "timeline": [
    [
@@ -8098,6 +8099,14 @@
    {
     "label": "Riksarkivet, Brunskog husförhör A I/3 (1769–1774), bild 64 (s. 52), Ö. Takene nr 7: Olof Olsson 1731 m. fam.; ”Gl. Mo. Ingrid Olofsd. 1693” överstruken, kors 1771",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036742_00064"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1719), bild 121 vä, nr 1: ”d 1 Jan: Christnades … Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils. Fadd: Olof Olofss: i Takene, Per Nilsson ibid, h. Anna Christ[ophersdotter?], h. Malin Olufsd:r ibid” (marginal ”785 8/5 begrofs”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00121"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
    }
   ],
   "search": [
@@ -8109,7 +8118,8 @@
    "SÖKNING C I/1 bild 34–38 (1693): ingen flicka Ingrid med fader Olof funnen (barn 1693: Börit, Lisbeth, Ingel/Ingeborg, Marit, Brynthe m.fl.; ”Ingri”/Ingel i Toltan med oläsligt faderns namn, bild 37). Hennes dop lär därför ligga utanför läst område eller vara oläsligt.",
    "HUSFÖRHÖR A I/1 bild 91 (omläst i halvsides-zoom): kolumnen för födelseår ger ”1693” för ”Enk. Mod. Ingrid Olofs” med åldrarna 67 (1760), 68, 69, 70 (1763) – internt konsekvent (1760−1693=67). Ingen åldersavvikelse i husförhöret. Åldern 1693 stämmer alltså med dopårtalet 1693 i trädet; ”Ingri f. 1703” i andra spår (C I/1 bild 62, 1 juni 1703: ”Matts barn i Åsen [Ingri]”) är en annan flicka (far Matts), inte Ingrid Olofsdotter.",
    "BU1 DOP-SÖK C I/1 1692 (bild 28–33) och 1694 (bild 39–42) genomläst: ingen Ingrid/Ingri med fader Olof. 1692: ’Dom. XVIII Salomons barn … dotter Ingri’ (fader Salomon); 1694 bild 41: ’Dito S[ven?] Jonssons barn i Åsnäs kallat Ingierd’ (fader Sven/Jon). Däremot 1695 bild 42: ’Dom. Reminiscere Oluf Nilssons barn i Ö. Takene, dotter Karin’ – en Olof Nilsson i Ö. Takene hade alltså döttrar på 1690-talet (stöder MyHeritage-faderns namn Olof Nilsson, men ej bevis). 1695-registreringen är mycket kortfattad (bara 2 poster på bild 42), så luckor i 1690-talets dopbok är troliga.",
-   "BU1 DÖD: Brunskogs dödbok för 1749–1782 finns inte digitaliserad (E I/1:s dödbok slutar 1748, F I/1 börjar 1783). Husförhör A I/3 bild 64 visar henne struken med dödskors i 1771 års kolumn efter nattvard 17/4 1770 – stöder MyHeritage-uppgiften d. 1771."
+   "BU1 DÖD: Brunskogs dödbok för 1749–1782 finns inte digitaliserad (E I/1:s dödbok slutar 1748, F I/1 börjar 1783). Husförhör A I/3 bild 64 visar henne struken med dödskors i 1771 års kolumn efter nattvard 17/4 1770 – stöder MyHeritage-uppgiften d. 1771.",
+   "BU5: Ingrid Olofsdotter på Takene var 1719 gift med Per Larsson (son Nils döpt 1/1 1719, C I/1 bild 121; Nils dödbok 1785 F I/1 bild 14: ”Mod. Ingrid Olofsd:r”). Hon var alltså gift två gånger: 1:o Per Larsson (d. före ca 1730), 2:o Olof Persson (son Olof Olsson 1731). Identiteten bygger på samma namn + Ö. Takene + ålder (f. 1693, son 1719) – strong. Stämmer med MyHeritage-trädets ”Ingrid … (född Olofsdotter 1:a giftet)” under Böret Persdotter. Fadder 1719 ”h. Malin Olufsd:r ibid” kan vara en syster (oprövat)."
   ],
   "died": {
    "date": "1771",
@@ -10441,14 +10451,17 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Ej känt."
+   "date": "1683",
+   "note": "Beräknat ur åldern 63 år vid begravning jan 1747. MyHeritage-träd: 1683/1684, ”Bråten”."
   },
   "places": [
    "Toltan, Brunskog"
   ],
   "summary": "Hustru till Påhl Nilsson i Toltan; mor till Christopher (1710), [överstruket] (1717), Elof (1720), Britta (1722). Återkommande gudmor i Toltan (bl.a. hos Elof Nilsson 1721, 1724, 1727–29, 1735).",
-  "notes": [],
+  "notes": [
+   "BU5 DÖD: E I/1 bild 114 hö, 1747 nr 2: ”d 18 Jan: Sal. Hust. Gertrud Bondesdotter från Toltan, som lefwat med Jacob Jacobsson från d 22 Febr. 1736, til d [6?] Jan: 1747, berömlig i 63 åhr.” Hon gifte alltså om sig 1736 som änka efter Påhl Nilsson (d. jan 1731).",
+   "BU5 MYHERITAGE (40 matchningar, lead): Gertrud Nilsson f. Bondesdotter 1683/84–1747, några träd ”Bondesdotter Bråten” (dvs. från Bråten), son Christoffer Pålsson (Åsen). Föräldrar maskerade. Bråten-ursprunget är obekräftat."
+  ],
   "sources": [
    {
     "label": "Riksarkivet, Brunskog födelsebok C I/1, bild 165 (s. 307), 1727 nr 10: ”d 11 Febr. Nils Nilsson och h. Britta Claesdotter barn i Stoy, Nils kallat. Fadd: Jon Gustafsson i Stoy och Elof Nilsson i Toltan; hust. Margreta Andersdotter, Gertrud Bondesdotter i Toltan”",
@@ -10469,11 +10482,20 @@
    {
     "label": "Riksarkivet, Brunskog födelse- och dopbok C I/1 (1688–1736), bild 133: 1721 d 16 juni: fadder ”h. Gertrud Bondesd: Tolta” vid Elof Nilssons dotter Britta",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00133"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1747), bild 114 hö, nr 2: ”Sal. Hust. Gertrud Bondesdotter från Toltan, som lefwat med Jacob Jacobsson från d 22 Febr. 1736 … i 63 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00114"
    }
   ],
   "search": [
    "Gertrud Bondesdotter (Toltan)"
-  ]
+  ],
+  "died": {
+   "date": "1747-01",
+   "place": "Toltan, Brunskog",
+   "note": "Begravd 18 jan 1747 (E I/1 bild 114 hö, nr 2), 63 år → f. ca 1683/84. Dödsdag i texten ”d [6?] Jan” delvis oläslig."
+  }
  },
  {
   "id": "marit_nilsd54",
@@ -10510,8 +10532,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänt"
+   "date": "1719-01-01",
+   "place": "Ö. Takene, Brunskog",
+   "note": "Döpt 1 jan 1719 (C I/1 bild 121, nr 1); dödboken 1785 anger född 1719 1/1 på Ö. Takene."
   },
   "places": [
    "Toltan (Ö. Toltan), Brunskog"
@@ -10521,7 +10544,9 @@
    "DOPBOK C I/2 bild 90, 1754 nr 23: ”d 7 Julii Nils Ihrsson(?) och hust. Marit Nilsdotter i Toltan Son Olof. Fadr: Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid Olofsdotter i Åsen, Karin Nilsdotter i Toltan.” Faderns patronymikon (Ihrsson/Ivarsson/Ersson) ej säkert läst.",
    "MYHERITAGE (användarträd, lead) – sammanslagen: ”Nils Persson (f. ca 1719)”, f. ca 1719 antas vara samma person (namn, tid, ort och släktled stämmer). Ingen primärkälla bakom MyHeritage-uppgiften.",
    "Dop 1748 (C0036783_00066): ”Nils Pehrsson och Hust. Marit Nilsdotter i Toltan Dotter Britta” – fadern heter Persson, inte Ihrsson.",
-   "BU1 OMLÄSNING C I/2 bild 90 (förstoring): nr 23 ”d 7 Julii Nils Pehrssons och hust. [Marit Nilsdotter] i Toltan Son Olof. Faddr. Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid [Elofsd.?] i Åsen, Karin Nilsdotter i Toltan.” Första bokstaven i patronymikonet är exakt samma slingrade P som i ”Pehr Svenssons” (nr 19, 2 maj, samma sida) och i fadderraden ”Nils Pehrsson i Toltan” (vänstersidan, 25 mars, tvillingarna Nils och Karin). ’Ihrsson’ var en felläsning – fadern heter Nils Pehrsson, samma som i dopet 1748 (bild 66) och Brittas dödpost 1805 (F I/1 b.94)."
+   "BU1 OMLÄSNING C I/2 bild 90 (förstoring): nr 23 ”d 7 Julii Nils Pehrssons och hust. [Marit Nilsdotter] i Toltan Son Olof. Faddr. Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid [Elofsd.?] i Åsen, Karin Nilsdotter i Toltan.” Första bokstaven i patronymikonet är exakt samma slingrade P som i ”Pehr Svenssons” (nr 19, 2 maj, samma sida) och i fadderraden ”Nils Pehrsson i Toltan” (vänstersidan, 25 mars, tvillingarna Nils och Karin). ’Ihrsson’ var en felläsning – fadern heter Nils Pehrsson, samma som i dopet 1748 (bild 66) och Brittas dödpost 1805 (F I/1 b.94).",
+   "BU5 FÖRÄLDRAR (verified): dop 1/1 1719 (C I/1 bild 121) ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils” + dödbok 1785 (F I/1 bild 14) ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan”. Dopposten har marginalnoten ”785 8/5 begrofs”, som knyter ihop de två källorna.",
+   "BU5 MYHERITAGE (6 matchningar): Nils Persson ca 1719/1723–1785/86; två träd kallar honom ”Nils Tolson/Tholson” (troligen sammanblandning med annan Nils); dotter Britta Olsson f. Nilsdotter."
   ],
   "sources": [
    {
@@ -10539,11 +10564,24 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/2 (1736–1781), bild 90 (s. 145), 1754 nr 23: ”d 7 Julii Nils Pehrssons och hust. Marit Nilsdotter i Toltan Son Olof” (BU1 omläsning)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00090"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1719), bild 121 vä, nr 1: ”d 1 Jan: Christnades … Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils. Fadd: Olof Olofss: i Takene, Per Nilsson ibid, h. Anna Christ[ophersdotter?], h. Malin Olufsd:r ibid” (marginal ”785 8/5 begrofs”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00121"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
    }
   ],
   "search": [
    "Nils Ihrsson (Toltan) – efternamn osäkert"
-  ]
+  ],
+  "died": {
+   "date": "1785-04-23",
+   "place": "Toltan, Brunskog",
+   "note": "F I/1 bild 14 hö, nr 10: afled den 23/4, begravd 3 maj 1785, 66 1/3 år. Kyrkvärd."
+  }
  },
  {
   "id": "marit_nilsd_toltan",
@@ -12182,7 +12220,10 @@
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-   "Se relation: far till Christopher Svensson f. 1754 enligt MH."
+   "Se relation: far till Christopher Svensson f. 1754 enligt MH.",
+   "BU5 MYHERITAGE (37+33 matchningar, lead): Sven Ersson f. 1718, d. 1782 (ett träd 1789). Trädet ”Värmlandsrötter” (Mimmi) kallar honom ”Hammarsmedsonen Sven på Högvalta” / ”Bonden Hammarsmeden Sven” och ger modern som ”<Privat> Påhlsson (född Månsdotter)”, dvs. en Månsdotter som senare gifte sig med en Pålsson. Syskon: Sigrid Ersdotter (g. Eriksson), Stina Torstensson f. Ersdotter (”Påfwels wife 3”), Karin Eriksson. Barn: Nils, Eric/Erik, Olof, Christoffer/Christopher, Caisa, Anna, Karin Svensdotter.",
+   "BU5 LEAD Högvalta: Högvalta ligger i Arvika landsförsamling (dopbok C I/5 C0036489 bild 45 och 47 nämner ”Öfre Högvalta”). Christopher Svenssons vigsel 1778 lästes tidigare ”i Gönäs [Hjörvalta?]” – sannolikt Högvalta. Modern ”Månsdotter” kan vara den Kerstin Månsdotter (f. 1681, änka) som bor på Såldebråten 1753–59 (A I/6 bild 66) – oprövat.",
+   "BU5 NEGATIVT: Arvika landsförsamlings dopbok C I/5 (C0036489) sept–dec 1753 (bild 43–44) och sept–nov 1754 (bild 47) genomsedda: ingen Christopher. Dop av Christopher Svensson fortfarande okänt."
   ],
   "born": {
    "date": "1718?",
@@ -12213,7 +12254,8 @@
   ],
   "notes": [
    "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-   "OMLÄSNING C/2 bild 154 (1719) i full upplösning: posten med marginal '27/29' (nov) börjar '… Nils [Hanss./Jönss.?] och h. Ingri i [Rörbäcken/Fryke…?] … kallad Karin. Fadd.: Daniel Ek(?), … Christopher i Rörbäcken(?), Sven Christop[hersson?], h. Kirsin Christophers[dotter] … Marit Svensd. i …' (ordagrann läsning ej möjlig; osäker). Posten OVANFÖR (föregående dop, datum ovan sidan/oläst) är 'Bengt Börjesson och h. Kirsin Jönsd. … i Frykerud kallad Karin' – DET är den Karin som tidigare lästes som '27/29 Nov' med fader Bengt Börjesson; det är en annan Karin (mor Kirsin Jönsdotter). Karin 27/29 nov 1719 = dotter till Nils (+ Ingri) – förenligt med 'Nilsdotter', men fadersnamn/patronymikon, mors namn och by är inte säkert lästa, så identiteten med Sven Erssons hustru är kandidat (ej verifierad). Ingen annan Karin-post med fader Nils syns på sidan."
+   "OMLÄSNING C/2 bild 154 (1719) i full upplösning: posten med marginal '27/29' (nov) börjar '… Nils [Hanss./Jönss.?] och h. Ingri i [Rörbäcken/Fryke…?] … kallad Karin. Fadd.: Daniel Ek(?), … Christopher i Rörbäcken(?), Sven Christop[hersson?], h. Kirsin Christophers[dotter] … Marit Svensd. i …' (ordagrann läsning ej möjlig; osäker). Posten OVANFÖR (föregående dop, datum ovan sidan/oläst) är 'Bengt Börjesson och h. Kirsin Jönsd. … i Frykerud kallad Karin' – DET är den Karin som tidigare lästes som '27/29 Nov' med fader Bengt Börjesson; det är en annan Karin (mor Kirsin Jönsdotter). Karin 27/29 nov 1719 = dotter till Nils (+ Ingri) – förenligt med 'Nilsdotter', men fadersnamn/patronymikon, mors namn och by är inte säkert lästa, så identiteten med Sven Erssons hustru är kandidat (ej verifierad). Ingen annan Karin-post med fader Nils syns på sidan.",
+   "BU5 MYHERITAGE (50 matchningar, lead): Karin Ersson f. Nilsdotter 1719–1785 (några 1786). Trädet Värmlandsrötter (Mimmi) anger syskon ”Jonas* (Magnus far) Nilsson” och ”Christoffer (Jonas bror) Nilsson”; andra träd: Annika Nilsdotter, Karin Andersson f. Nilsdotter. Barn: Nils, Eric/Erik, Christoffer Svensson (+ upp till 6 till). Föräldrar maskerade. Ingen ort i klartext."
   ],
   "born": {
    "date": "1719-11-27",
@@ -12522,26 +12564,32 @@
  {
   "id": "anders_andersson20",
   "name": "Anders Andersson (1720–1793)",
-  "status": "lead",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "sources": [
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1793), bild 44 vä, nr 21 (begr. 9 juni): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son [överskrivet] och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00044"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+   "BU5 DÖD (verified): F I/1 bild 44 vä (1793 nr 21): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år.” Bekräftar MyHeritage 1720–1793 och hustrun Kjersti Pålsdotter (MH ”Årnes” = Arnäs). Faderns patronymikon är överskrivet (’Larsson’ över annat ord)."
   ],
   "born": {
    "date": "1720",
-   "place": "",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
+   "place": "Wikene, Brunskog",
+   "note": "F I/1 bild 44: ”ibm född 1720”."
   },
   "died": {
-   "date": "1793",
-   "place": ""
+   "date": "1793-05-30",
+   "place": "Wikene, Brunskog",
+   "note": "F I/1 bild 44 vä, nr 21: afled 30 maj 1793 i rödsot, begravd 9 juni, 73 år."
   },
   "summary": "Anders Andersson (1720–1793) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
   "places": [],
@@ -12559,10 +12607,15 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1793), bild 44 vä, nr 21 (begr. 9 juni): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son [överskrivet] och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00044"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 8:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 8:e generationen.",
+   "BU5: Makens dödbok 1793 (F I/1 bild 44): gift 26/12 1744 med ”Pigan Kjersti Pålsd:r från Arnäs”. Hennes föräldrar (MH: Pål Nilsson f. ca 1696 + Kari Nilsdotter) ej prövade."
   ],
   "born": {
    "date": "1721",
@@ -12574,7 +12627,10 @@
    "place": ""
   },
   "summary": "Kjersti Andersson (född Pålsdotter, 1721) – MyHeritage: direkt anfader/anmoder, 8:e generationen.",
-  "places": [],
+  "places": [
+   "Arnäs, Brunskog",
+   "Wikene, Brunskog"
+  ],
   "search": [
    "Kjersti Andersson (född Pålsdotter, 1721)"
   ]
@@ -12777,7 +12833,8 @@
    "MANTAL (B4): 1",
    "MANTAL 1696 (G5, A0003176 bild 614 höger, Toltan): ”Isak Biörsson” står som egen mantalsskriven i Toltan strax efter ”Isak Larsson” – ger primärt stöd för att en Isak Björsson fanns i Toltan 1696 (tidigare enbart MyHeritage-lead). Koppling till Marit Isaksdotter fortfarande obevisad (ingen dop/död).",
    "K3 OMLÄST mantal 1696 A0003176_00614 (sida 620 hö, zoom): ”Isak Biörsson” (klart B, -ö-, -sson) som egen rad direkt under ”Isack Larsson”, kolumner 1/1. Bekräftat. Fortfarande lead/ej kopplad till Marit Isaksdotter.",
-   "BD2: Dödbok 1716–1719 (E I/1 bild 149, 152, 156, 157) genomläst för Toltan-poster: inga fler poster som nämner Isak Björssons hustru/barn eller 'änka efter Isak'. Bild 157 (1719, s.291) rad 17 (Isaks post, överstruken/infogad) oförändrad."
+   "BD2: Dödbok 1716–1719 (E I/1 bild 149, 152, 156, 157) genomläst för Toltan-poster: inga fler poster som nämner Isak Björssons hustru/barn eller 'änka efter Isak'. Bild 157 (1719, s.291) rad 17 (Isaks post, överstruken/infogad) oförändrad.",
+   "BU5 MYHERITAGE (12+10+10 matchningar): Isak Björsson/Björnsson ca 1645–1719; barn Nils Isaksson (alla träd). Inga nya namn. Marit Isaksdotter (1693/94–1733) har i träden brodern Nils Isaksson och barnen Johan/Jan och Anna Elofsdotter."
   ],
   "born": {
    "date": "ca 1645",
@@ -12804,10 +12861,15 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1719), bild 158 hö, nr 30: ”d 19 Julii begrofs h. Böret Erichsd:r ifrån Tolta som christel. och Gudel. lefwat uti 66 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00158"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 9:e generationen.",
+   "BU5 DÖD: E I/1 bild 158 hö (1719 nr 30): ”d 19 Julii begrofs h. Böret Erichsd:r ifrån Tolta som christel. och Gudel. lefwat uti 66 åhr.” Bekräftar MyHeritage (ca 1653–19/7 1719). Make anges inte; Isak Björsson i Toltan begravdes 12/4 samma år (bild 157)."
   ],
   "born": {
    "date": "ca 1653",
@@ -12816,7 +12878,8 @@
   },
   "died": {
    "date": "1719-07-19",
-   "place": ""
+   "place": "Toltan, Brunskog",
+   "note": "E I/1 bild 158 hö, 1719 nr 30: begravd 19 juli 1719, 66 år → f. ca 1653."
   },
   "summary": "Böret Björsson (född Eriksdotter) – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
   "places": [],
@@ -12957,7 +13020,8 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 9:e generationen.",
+   "BU5: MyHeritage-posten ”Påhl Nilsson” (make till Elin Svensdotter, 10 matchningar) är en annan person än Påhl Nilsson i Toltan (make till Gertrud Bondesdotter, d. 1731). Ej närmare utrett."
   ],
   "summary": "Påhl Nilsson – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
   "places": [],
@@ -12978,7 +13042,8 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 9:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 9:e generationen.",
+   "BU5 MYHERITAGE (36 matchningar, lead): Elin Nilsson f. Svensdotter 1712–1783 (ett träd ”Swensdotter Halvardsson”), två makar; barn Olof Pålsson/Påhlsson och Kerstin/Kjerstin Pålsdotter (g. Månsson resp. Nilsson); syskon Marit Svensdotter och Olof Svensson. Trädens Elin har alltså andra barn än vår ”Elin Pålsdotter f. ca 1735”; en dotter Elin nämns inte i klartext. Obs: Kjersti Pålsdotter f. 1721 (kjersti_palsd21) kan inte vara dotter till en kvinna f. 1712 – trädens familj är osäker."
   ],
   "summary": "Elin Svensdotter – MyHeritage: direkt anfader/anmoder, 9:e generationen.",
   "places": [],
@@ -13329,19 +13394,25 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1722), bild 163 vä, nr 4: ”d 29 April Begrofs Arne Andersson ifrån Rang[e]-|lerud, som bodt et berömmeligit lefwerne och war 77 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00163"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen; jfr arne_andersson i vårt träd."
+   "MyHeritage: direkt anfader/anmoder, 10:e generationen; jfr arne_andersson i vårt träd.",
+   "BU5 DÖD: E I/1 bild 163 vä, 1722 nr 4: ”d 29 April Begrofs Arne Andersson ifrån Rang:|larud(?) som hadt et berömmeligit lefwerne och war 77 [åhr]” (ortnamnet delat över radbrytningen, läses Ranglerud = Ragnerud; åldern ”77” tydlig). Bekräftar MyHeritage-trädets 1645–1722 och 29 apr 1722.",
+   "BU5 MYHERITAGE (94 matchningar, lead): syskon Walborg/Valborg Bengtsson f. Andersdotter, Sten Andersson, Hans Andersson; barn Ingrid Arnesdotter (g. Bryntesson), Marit Arnesdotter (g. Nilsson), Karin Andersdotter(?), Anders Arnesson. Ett amerikanskt träd: modern ”<Privat> Arnesson (born Andersson)” – obegripligt. Inga föräldranamn i klartext."
   ],
   "born": {
    "date": "1645",
-   "place": "Ragnerud, Brunskog (S)",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
+   "note": "Beräknat: 77 år vid begravning 29/4 1722."
   },
   "died": {
    "date": "1722-04-29",
-   "place": "Ragnerud, Brunskog (S)"
+   "place": "Ragnerud(?), Brunskog",
+   "note": "E I/1 bild 163 vä, 1722 nr 4: ”d 29 April Begrofs Arne Andersson ifrån Rang[e]|larud(?) … war 77 åhr” – begravningsdag."
   },
   "summary": "Arne Andersson (1645–1722) – MyHeritage: direkt anfader/anmoder, 10:e generationen; jfr arne_andersson i vårt träd.",
   "places": [],
@@ -13359,19 +13430,24 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1714), bild 147 vä: ”ult. Nov: begrofs h. Sigrid Johans dotter ifrån Rangelerud … på sitt 66 åhr” (överstruken dubblettpost 5 Dec.)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00147"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 10:e generationen.",
+   "BU5 DÖD: E I/1 bild 147 vä (1714): ”ult. Nov: begrofs h. Sigrid Johansdotter ifrån Rangelerud som länge hade utstådt en … sjukdom … på sitt 66 åhr”; därunder en överstruken post ”d 5 Decem: … Sigrid Johansdotter ifrån Ranglerud … 6[6?] åhr”. Bekräftar MyHeritage (1648–1714, Ragnerud). Läst i översiktsbild; detaljzoom avbröts (fliken stängdes)."
   ],
   "born": {
    "date": "1648",
-   "place": "Ragnerud, Brunskog (S)",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
+   "note": "Beräknat ur 66 år vid begravning nov 1714."
   },
   "died": {
-   "date": "1714-11-26",
-   "place": "Ragnerud, Brunskog (S)"
+   "date": "1714-11-30",
+   "place": "Ragnerud, Brunskog",
+   "note": "E I/1 bild 147 vä: ”ult. Nov: begrofs h. Sigrid Johansdotter ifrån Rangelerud … på sitt 66 åhr” (begravning 30 nov; MyHeritage anger död 26/11). En dubblettpost 5 dec är överstruken."
   },
   "summary": "Sigri Andersson (född Johansdotter, 1648) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
   "places": [],
@@ -13538,10 +13614,16 @@
    {
     "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1723), bild 163 hö, nr 8: ”d 17 dito Begrofs Sal. Oluf Nilsson i Takene[?] som lefwat Christel. och wäl uti 68½ åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00163"
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 10:e generationen.",
+   "BU5 KANDIDAT-DÖD: E I/1 bild 163 hö, 1723 nr 8: ”d 17 dito [mars] Begrofs Sal. Oluf Nilsson i Ta[k/d]ene som lefwat Christel. och wäl uti 68½ åhr” → f. ca 1654. Ortnamnet läses Takene (osäkert ’Tadene’). Ingrid Olofsdotter f. 1693 bodde på Ö. Takene – förenligt med att detta är hennes far och Böret Persdotters make (MH: Böret f. ca 1655). Ingen hustru/barn nämns – identiteten är candidate.",
+   "BU5 MYHERITAGE (5 matchningar för Olof Nilsson; 22 för Böret Persdotter): Böret Nilsson f. Persdotter ca 1655–1693, syskon Gunilla Hansson f. Persdotter och Mattes/Mats Persson; dotter Ingrid (”Jonsson Persson, född Olofsdotter, 1:a giftet”)."
   ],
   "summary": "Olof Nilsson (10:e gen.) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
   "places": [],
@@ -13562,7 +13644,9 @@
    }
   ],
   "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen."
+   "MyHeritage: direkt anfader/anmoder, 10:e generationen.",
+   "BU5 MYHERITAGE (22 matchningar, lead): Böret Nilsson f. Persdotter, f. ca 1655, d. 1693; syskon Gunilla Hansson (f. Persdotter) och Mattes/Mats Persson; dotter Ingrid Olofsdotter. Ett träd: ”Böret Nilsson (född Persdotter Mattsson)” – fadern kanske Per Mattsson (oprövat).",
+   "BU5 NEGATIVT: Brunskogs dödbok 1693 (E I/1 bild 124–125, nr 1–10 + årets slut) genomsedd i översikt utan att någon Böret/Börit Persdotter eller hustru till Oluf Nilsson kunde läsas. 1690-talshanden är svår; posten kan finnas men oläst. MyHeritage-dödsåret 1693 obekräftat."
   ],
   "summary": "Böret Persdotter – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
   "places": [],
@@ -13616,6 +13700,10 @@
    {
     "label": "Riksarkivet, Brunskog dopbok C I/1, bild 176 (1729 nr 7): ”Fadd. Elof och Påhl Nilssonar i Toltan”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00176"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1731), bild 173 vä, nr 2: ”d 24 Januarii Påhl Nilsson i Toltan, som lefwat berömligen i 53 åhr och 6 Man:”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00173"
    }
   ],
   "notes": [
@@ -13627,78 +13715,25 @@
    "MANTAL 1715–1720 (D5): ingen 'Påhl/Pål Nilsson' i Öst. Torten-grupperna (se elof_nilsson-noten för namnlistor). Möjlig kandidat endast i 1718 klass 2 'Öst. Torten' (A0003197_00489 vä) där första namnet läses '?? Nilsson' (J/P/O oklart) – kan vara Per/Påhl Nilsson men INTE säkert. Wester Toltan-rubrik hittades inte 1715–1720 (en enda 'Öst. Torten'-grupp per klass).",
    "MANTAL: ’Påhl Nilsson’ i gruppen Toltan 1722 (b.599), 1723 (A0003202 b.538), 1724, 1725 och 1730 – alltid direkt efter ’Nils Larsson (+ moder)’ och före ’Olof/Elof Nilsson’. Ålderstecken saknas i dessa längder (endast 1/1-kolumner för man/kvinna). Ingen ’son’/’änka’-text vid hans rad.",
    "MANTAL Toltan 1726–1729 (A0003205 b.460 hs; A0003206 b.471 hs; A0003207 b.517 hs; A0003208 b.571 vs/hs): ”Påhl Nilsson” (stavat ”Pähl Nilsson”) står direkt före Elof Nilsson i gruppen ’Toltan ½’, med ”Gust. Dordi” som första rad (hustru Gertrud?). 1729 (b.571 vs): klammer som binder ihop ”Påhl Nilsson” och ”Christopher Påhlsson” = samma hushåll. Från 1731 (b.515 hs) står ”Nils Påhlsson” (läsning osäker; kan vara ’Påhl Nilsson’) – därför är det inte säkert att Påhl själv lever efter 1730; kontrollera död i F I/ 1730–35 (ej genomsökt).",
-   "BU4: 1729 (bild 176) står ”Elof och Påhl Nilssonar i Toltan” som faddrar i Skog (hos Nils Nilsson i Skog) – det som tidigare lästs ”Pehr” är ”Påhl”. Sonen Christopher Pålsson i Åsen (fadder 1735, bild 212) bär namnet Christopher, förenligt med farfar Nils Christophersson i Skog. Geni/Wikipedia anger Pål Nilsson som syskon till Petrus Nicolai Sylvander (lead)."
+   "BU4: 1729 (bild 176) står ”Elof och Påhl Nilssonar i Toltan” som faddrar i Skog (hos Nils Nilsson i Skog) – det som tidigare lästs ”Pehr” är ”Påhl”. Sonen Christopher Pålsson i Åsen (fadder 1735, bild 212) bär namnet Christopher, förenligt med farfar Nils Christophersson i Skog. Geni/Wikipedia anger Pål Nilsson som syskon till Petrus Nicolai Sylvander (lead).",
+   "BU5 DÖD: E I/1 bild 173 vä, 1731 nr 2: ”d 24 Januarii Påhl Nilsson i Toltan, som lefwat berömligen i 53 åhr och 6 Man:” → f. ca juli 1677. Förklarar varför ”Nils Påhlsson” ersätter honom i mantalet från 1731.",
+   "BU5 MYHERITAGE (53 matchningar, lead): nästan alla träd ger Pål Nilsson f. 1677 (några 1679), d. 1731 (några 1732), son Christoffer/Christopher Pålsson (Åsen), syskon Petrus Nicolai Sylvander, Christoffer Nilsson, Nils Nilsson, Per Nilsson samt i ett träd ”Bartholdius Nicolai Duraeus”. Två träd kallar honom ”Pål Nilsson Skog”. Dödsåret stämmer med originalet."
   ],
   "born": {
-   "date": "",
-   "place": "Hagen, Toltan, Brunskog",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
+   "date": "1677",
+   "place": "",
+   "note": "Beräknat ur åldern 53 år 6 mån vid begravning 24/1 1731 (E I/1 bild 173). MyHeritage-träden (ca 45 st.) anger 1677 (några 1679)."
   },
   "summary": "Påhl Nilsson i Toltan, gift med Gertrud Bondesdotter. Dopböcker 1710, 1717, 1720, 1722: barn Christopher (1710), [överstruket] (15/9 1717), Elof (24/1 1720), Britta (16/12 1722). Far (sannolikt) till Christopher Påhlsson i Åsen. Möjlig bror till Elof Nilsson i Toltan (”Elof och Pehr Nilssonar i Toltan”) – ej bevisat.",
   "places": [],
   "search": [
    "Pål Nilsson (Hagen, Toltan)"
-  ]
- },
- {
-  "id": "nils_christophersson33",
-  "name": "Nils Christophersson (f. ca 1633)",
-  "status": "lead",
-  "sex": "m",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
   ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen."
-  ],
-  "born": {
-   "date": "1633?",
-   "place": "Skog, Brunskog",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
   "died": {
-   "date": "1719?",
-   "place": ""
-  },
-  "summary": "Nils Christophersson (f. ca 1633) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
-  "places": [],
-  "search": [
-   "Nils Christophersson (f. ca 1633)"
-  ]
- },
- {
-  "id": "anna_jonsd50",
-  "name": "Anna Jonsdotter (f. ca 1650)",
-  "status": "lead",
-  "sex": "f",
-  "living": false,
-  "sources": [
-   {
-    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
-    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
-   }
-  ],
-  "notes": [
-   "MyHeritage: direkt anfader/anmoder, 10:e generationen."
-  ],
-  "born": {
-   "date": "1650?",
-   "place": "Renstad",
-   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
-  },
-  "died": {
-   "date": "1742?",
-   "place": ""
-  },
-  "summary": "Anna Jonsdotter (f. ca 1650) – MyHeritage: direkt anfader/anmoder, 10:e generationen.",
-  "places": [],
-  "search": [
-   "Anna Jonsdotter (f. ca 1650)"
-  ]
+   "date": "1731-01-24",
+   "place": "Toltan, Brunskog",
+   "note": "Begravningsbok E I/1 bild 173 vä (1731 nr 2): ”d 24 Januarii Påhl Nilsson i Toltan, som lefwat berömligen i 53 åhr och 6 Man[ader]” – datum under rubriken Begrafne (troligen begravningsdag). Ålder ger f. ca juli 1677."
+  }
  },
  {
   "id": "johan_andersson_11",
@@ -14302,7 +14337,8 @@
   "places": [],
   "summary": "Christopher Persson, enligt MyHeritage-trädet gift med Margareta Jonsdotter och far till Nils Christophersson (f. ca 1633, Skog). Direkt anfader, 11:e generationen. Ingen datering/ort. Skild från Christopher Påhlsson i Åsen (f. ca 1700) som en tidigare koppling felaktigt pekade på.",
   "notes": [
-   "MyHeritage-panel för Nils Christophersson (1633–1719): ”Christopher Persson, Hans far” och ”Margareta Jonsdotter, Hans mor” (inga årtal)."
+   "MyHeritage-panel för Nils Christophersson (1633–1719): ”Christopher Persson, Hans far” och ”Margareta Jonsdotter, Hans mor” (inga årtal).",
+   "BU5 MYHERITAGE (48 matchningar, lead): namnet skrivs Kristofer/Kristoffer/Christoffer Persson; födelse 1602, 1612 eller ca 1620; död (ca) 1671; barn Jon Christoffersson och Lars Christoffersson (Nils nämns inte i klartext). Syskon i 15+ träd: ”Nicolaus Pauli Brunskogius (Örncrona)” / ”Nils Pålsson Brunskog” – dvs. träden gör honom till bror till prästen Nicolaus Pauli Brunskogius, vilket inte går ihop med patronymikonet Persson (Pauli = Pålsson). Ett annat kluster (norska träd) blandar in ”Mallene Hansdatter Hilden” – uppenbart fel person. Ingen primärkälla finns för 1600-talet (Brunskogs kyrkböcker börjar 1688)."
   ],
   "sources": [
    {
@@ -15167,7 +15203,8 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": ""
+   "date": "1633",
+   "note": "Beräknat ur 86 år vid begravning 1719 (E I/1 bild 157). Samma som MyHeritage-trädens 1633."
   },
   "places": [
    "Skog, Brunskog"
@@ -15176,7 +15213,10 @@
   "notes": [
    "BILD 15, 1689 ”Nilß Christopherson / Anna Jonsd.” som föräldrar till ”Oluff Nilsson i Skog”.",
    "MANTAL 1696 (A0003176_00615 hö nederst): Skog: ”Måns Jonsson” och ”Nils Christophersson” (två gårdar/brukare). Nils Christophersson är alltså mantalsskriven i Skog 1696 – stärker identiteten med fadern till Oluff Nilsson (dop 1689).",
-   "BU4: Bonde i Skog (mantal 1696, 1700). 1710 står ”Christopher Nilsson” i hans ställe i Skog (A0003191 bild 431). Herdaminnet gör honom till far till komminister Petrus Nicolai Sylvander (f. 1676) – samma föräldrapar som 1689-dopet (”Nilß Christopherson / Anna Jonsd.”). Geni/Wikipedia: f. 1633, d. 1719 (oprövat)."
+   "BU4: Bonde i Skog (mantal 1696, 1700). 1710 står ”Christopher Nilsson” i hans ställe i Skog (A0003191 bild 431). Herdaminnet gör honom till far till komminister Petrus Nicolai Sylvander (f. 1676) – samma föräldrapar som 1689-dopet (”Nilß Christopherson / Anna Jonsd.”). Geni/Wikipedia: f. 1633, d. 1719 (oprövat).",
+   "BU5 DÖD: E I/1 bild 157 hö (1719 nr 18): ”d 19 Ap: Begrofs Nils Christophersson ifrån Skog som warit en … Man och fört et berömmeligit och Gudeligit lefwerne uti 86 åhr.” → f. ca 1633. Bekräftar MyHeritage-trädens 1633–1719 (60 matchningar).",
+   "BU5 MYHERITAGE (60 matchningar, lead): syskon Lars Christoffersson, Jon Christoffersson, Kirstin/Chirstin Christophersdotter (g. Larsson resp. Björnsson); barn Petrus Nicolai Sylvander (32 träd), Bartholdius Nicolai Duraeus, Per Nilsson, Christopher Nilsson. Föräldrar maskerade (vårt eget träd: Christopher Persson + Margareta Jonsdotter).",
+   "Sammanslagen med nils_christophersson33 (2026-10-10, BU5): Nils Christophersson (f. ca 1633); MyHeritage-uppgifter: född {'date': '1633?', 'place': 'Skog, Brunskog', 'note': 'enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)'}, död {'date': '1719-04-19', 'place': 'Skog, Brunskog', 'note': 'Se nils_christophersson_skog: E I/1 bild 157, 86 år.'}."
   ],
   "sources": [
    {
@@ -15194,11 +15234,24 @@
    {
     "label": "Riksarkivet, Mantalslängder Brunskog 1700, bild 387 vä: Skogh ¼ – ”Nils Christophersson”",
     "url": "https://sok.riksarkivet.se/bildvisning/A0003180_00387"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1719), bild 157 hö, nr 18: ”d 19 Ap: Begrofs Nils Christophersson ifrån Skog som warit en … Man och fört et berömmeligit och Gudeligit lefwerne uti 86 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00157"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
    "Nils Christophersson (Skog, 1689)"
-  ]
+  ],
+  "died": {
+   "date": "1719-04-19",
+   "place": "Skog, Brunskog",
+   "note": "E I/1 bild 157 hö, 1719 nr 18: begravd 19 april 1719, 86 år → f. ca 1633."
+  }
  },
  {
   "id": "anna_jonsd_skog1689",
@@ -15207,7 +15260,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": ""
+   "date": "1650?",
+   "place": "Renstad",
+   "note": "enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)"
   },
   "places": [
    "Skog, Brunskog"
@@ -15215,7 +15270,10 @@
   "summary": "Mor till Oluff Nilsson, döpt 26 maj 1689.",
   "notes": [
    "BILD 15, 1689: ”Anna Jonsd.” som hustru till Nilß Christopherson.",
-   "BU4: Adelsvapen-Wiki/Wikipedia (Geni): Anna Jonsdotter ca 1650–1742, f. i Renstad, Boda, dotter till Jon Elofsson och Birgitta (Pålsdotter) Brunskogia – oprövat. Om det stämmer finns både Elof (morfar Jon Elofssons far?) och Pål (mormor Birgitta Pålsdotter) i namnförrådet – just namnen på Elof och Påhl Nilsson i Toltan. Endast lead."
+   "BU4: Adelsvapen-Wiki/Wikipedia (Geni): Anna Jonsdotter ca 1650–1742, f. i Renstad, Boda, dotter till Jon Elofsson och Birgitta (Pålsdotter) Brunskogia – oprövat. Om det stämmer finns både Elof (morfar Jon Elofssons far?) och Pål (mormor Birgitta Pålsdotter) i namnförrådet – just namnen på Elof och Påhl Nilsson i Toltan. Endast lead.",
+   "BU5 MYHERITAGE (22 matchningar, lead): Anna Christophersson f. Jonsdotter (”Jonsdotter Renstad”), f. ca 1650, d. 1742; syskon Andorus Jonae Renström och Marit Jonsdotter Elofsson; barn Petrus Nicolai Sylvander, Bartholdius Nicolai Duraeus, Christopher Nilsson.",
+   "BU5 NEGATIVT: Brunskogs begravningar 1742 (E I/1 bild 95–99, nr 1–67) genomsedda – ingen Anna Jonsdotter / änka efter Nils Christophersson (hon hade då varit ca 92). Dödsåret 1742 kan avse annan socken (t.ex. Glava hos sonen Petrus).",
+   "Sammanslagen med anna_jonsd50 (2026-10-10, BU5): Anna Jonsdotter (f. ca 1650); MyHeritage-uppgifter: född {'date': '1650?', 'place': 'Renstad', 'note': 'enligt MyHeritage-listvy (ej kontrollerat mot primärkälla)'}, död {'date': '1742?', 'place': ''}."
   ],
   "sources": [
    {
@@ -15225,11 +15283,19 @@
    {
     "label": "A. Edestam, Karlstads stifts herdaminne (1970): Petrus Nicolai Sylvander son till Nils Christofersson i Skog, Brunskog, och Anna Jonsdotter",
     "url": "https://books.google.com/books?id=bBEXAAAAIAAJ&q=%22son+till+bonden+Nils+Christofersson+i+Skog%22"
+   },
+   {
+    "label": "MyHeritage, Elofson Family Tree, listvy 2026-10-06",
+    "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
    }
   ],
   "search": [
    "Anna Jonsdotter (Skog, 1689)"
-  ]
+  ],
+  "died": {
+   "date": "1742?",
+   "place": ""
+  }
  },
  {
   "id": "isak_l_toltan",
@@ -17695,29 +17761,35 @@
  {
   "id": "z5_nils_palsson12",
   "name": "Nils Pålsson (1712–1746, Hagen, Toltan)",
-  "status": "lead",
+  "status": "candidate",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1712",
-   "place": "Toltan, Brunskog",
-   "note": "endast sökträffsrubrik/snippet sett"
+   "date": "1712-08",
+   "place": "Toltan, Brunskog?",
+   "note": "Beräknat ur dödsålder 34 år 3 mån 1 v vid död 1/12 1746 → f. ca aug 1712. Dop ej sökt (C I/1 1712 ≈ bild 82)."
   },
   "died": {
-   "date": "1746",
-   "place": ""
+   "date": "1746-12-01",
+   "place": "Toltan, Brunskog",
+   "note": "E I/1 bild 114 vä, 1746 nr 19: begravd 14 dec, död 1 dec 1746, 34 år 3 mån 1 vecka."
   },
   "places": [
    "Hagen, Toltan, Brunskog"
   ],
   "summary": "Geni-profil ”Nils Pålsson (1712–1746)” med hemvist Hagen, Toltan – möjligen son till Påhl Nilsson (Hagen, Toltan) och Gertrud Bondesdotter, dvs syskon till Christopher Påhlsson (1710). Profilen kunde inte öppnas (Geni visar captcha/robotspärr – ej klickad). PUBLICERAD UPPGIFT – EJ PRIMÄRKÄLLA. Kvalitet: lead, användarträd, endast sökrubrik sedd.",
   "notes": [
-   "Geni-träffens text (sökmotor): ”Nils Pålsson who lived at Hagen, Toltan, Brunskog (1712-1746)” – profilsidan ej läst."
+   "Geni-träffens text (sökmotor): ”Nils Pålsson who lived at Hagen, Toltan, Brunskog (1712-1746)” – profilsidan ej läst.",
+   "BU5 PRIMÄRKÄLLA: E I/1 bild 114 vä, 1746 nr 19: ”d 14 Dec: Nils Påhlsson i Toltan, som lefwat med h: Karin, från d 28 Sept: 1743, til d 1 Dec: 1746. [o]straffeligen i 34 åhr, 3 Månader, 1 Weka” → f. ca aug 1712, gift 28/9 1743 med Karin. Bekräftar Geni-uppgiften 1712–1746 och att en Nils Påhlsson fanns i Toltan (mantal 1731–35). Patronymikon + by + ålder gör honom till trolig son av Påhl Nilsson (d. 1731) och Gertrud Bondesdotter – ingen källa säger det uttryckligen. Status höjs från lead till candidate."
   ],
   "sources": [
    {
     "label": "Geni, Nils Pålsson (1712–1746) – användarträd, ej öppnad (captcha)",
     "url": "https://www.geni.com/people/Nils-P%C3%A5lsson/6000000089492626914"
+   },
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1746), bild 114 vä, nr 19: ”d 14 Dec: Nils Påhlsson i Toltan, som lefwat med h: Karin, från d 28 Sept: 1743, til d 1 Dec: 1746 … i 34 åhr, 3 Månader, 1 Weka”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00114"
    }
   ],
   "search": [
@@ -24083,7 +24155,8 @@
    "Vigsel Salomon Berger–Ingerid ej funnen i E I/1 bild 85–87 (1759 aug–1761 jun) – se unresolved",
    "DÖD (AF1): F/1 C0037142 bild 91 högersida (s. 157), ordagrant: ”Enk[an]: Ingrid Jonesdr i Rörbecken” – Oct 31 / Nov 9, ”Gicht”, 72 år 11 mån 8 dagar (⇒ f. ca 23 nov 1726; hf: 21/11 1726, dop 22 nov 1726). VERIFIERAD död. Ingerid överlevde Salomon Berger (d. 1790) som änka.",
    "A I/2 (1729–36) C0037103 bild 84 (sid. 133, Östra Glänna), kontroll 2:a gången, ordagrant (nedre halvan): ”Lars Andersson / H: Karin Olofsdotter” … ”Inge Olofsson [överstruken] / H: Malin Olofsdotter [överstruken]” … ”S: Jon Andersson / H: Ingerid Arfvidsdotter / H: Malin Olofsdotter [överstruken] / D: Karin Andersd [överstruken] / S: Olof Anders[son] [överstruken] …”. OBS: raden ”Inge Olofsson / H. Malin Olofsd” (överstrukna) ligger i ett eget hushåll ovanför Jon Anderssons – kan vara faderns namn ”Inge(sson/Olofsson)” i dopet 1726 (”Jona(?) Ingesson(?)”). Far till Ingerid är därför fortfarande oklar: antingen Jon Andersson (Anders Sidrikssons son) eller Inge Olofsson; ’D. Ingerid 26’ ej läst som barn i A I/2 bild 84.",
-   "Dop 22 nov 1726 (C/3 bild 13) ’till namnen Ingerid’, föräldrar Jon (Ingesson?) och Malin Olofsdotter."
+   "Dop 22 nov 1726 (C/3 bild 13) ’till namnen Ingerid’, föräldrar Jon (Ingesson?) och Malin Olofsdotter.",
+   "BU5 OMLÄSNING C/3 bild 13: faderns förnamn läses nu ”Sone” (inte ”Jona”): ”Föddes Sone Ingessons och H: Malin Olofsdotters barn i Östra Glänna”. MyHeritage-träden (8 matchningar) kallar henne ”Ingerid Berger/Pålsson (född Sonesdotter/Sånesdotter)” 1726–1799 med syskonen Nils Sonesson och Ingeborg Sonesdotter – förenligt med fadern Sone Ingesson. Detta talar emot hypotesen Jon Andersson som far. Varför hon senare kallas Jonsdotter är oförklarat (Sone/Jon-sammanblandning?)."
   ],
   "sources": [
    {
@@ -24105,6 +24178,10 @@
    {
     "label": "Riksarkivet, Frykerud dödbok F/1 (1744–1814) C0037142, bild 91 (s. 157, ”Begrafne 1799”): [Enkan] Ingrid Jonesdr i Rörbecken, död 31 okt, begr. 9 nov, Gicht, 72 år 11 mån 8 dagar",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00091"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726), bild 13 vä: ”[d 21 Nov] Föddes Sone Ingessons och H: Malin Olofsdotters barn i Östra Glänna christnades d 22 Nov: til namn Ingeri. Fadd: Jonas Olofsson i Östra Glänna, Olof Arfwidsson ibid, Dr. Påhl Olufsson ibidem …”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00013"
    }
   ],
   "search": [
@@ -42425,7 +42502,8 @@
   ],
   "summary": "Make till Elin/Ellen Skogsberg, Edgerton MN.",
   "notes": [
-   "FOLKRÄKNING 1910 Edgerton: 'Albert Okerman Make M 38 Sweden' hushållschef; hustru Ellen, barn Thiel (2), Marie (7), Melford (5)."
+   "FOLKRÄKNING 1910 Edgerton: 'Albert Okerman Make M 38 Sweden' hushållschef; hustru Ellen, barn Thiel (2), Marie (7), Melford (5).",
+   "BU5 MYHERITAGE (3 matchningar, lead): ”Gustaf Albert Okerman” f. 1872, d. 1940; syskon Charles (Karl August) Okerman + 6–7 till; barn Ida Marie Okerman (g. Ibelle) + 2–4 till. Namnet tyder på svenskt Åkerman. Ej kontrollerat i original."
   ],
   "sources": [
    {
@@ -42542,7 +42620,8 @@
   ],
   "summary": "Far till Olof Ragnar f. 9 okt 1902 enligt SCB-födelseutdrag Brunskog 1902. Kan vara identisk med annan August Olsson i persons.json – kontrollera innan sammanslagning.",
   "notes": [
-   "SCB FÖDDA Brunskog 1902 (nr 62): Fader: ”Gift Ä(?) August Olsson fr. Toltan” (f. 66 …); Moder: ”H.H. Emma Jansdotter” (f. 71 31/10)."
+   "SCB FÖDDA Brunskog 1902 (nr 62): Fader: ”Gift Ä(?) August Olsson fr. Toltan” (f. 66 …); Moder: ”H.H. Emma Jansdotter” (f. 71 31/10).",
+   "BU5 MYHERITAGE (28 matchningar): träffarna gäller främst ”Karl August Olsson Lloyd” 1866–1951 (syskon Jonas Fredrik Olsson Lloyd; barn Arvid Sixten Emanuel, Karl Georg Hilding m.fl.) och en August Olsson 1866 med syskon Nils Peter Olsson och dotter Doris Linnea. Ingen träff nämner hustrun Emma Jansdotter eller sonen Olof Ragnar – troligen namnbröder, inte vår August. Ingen åtgärd."
   ],
   "sources": [
    {
@@ -42870,6 +42949,121 @@
   ],
   "search": [
    "Christopher Nilsson (Skog, mantal 1710)"
+  ]
+ },
+ {
+  "id": "jacob_jacobsson_toltan",
+  "name": "Jacob Jacobsson (Toltan, g. 1736 m. Gertrud Bondesdotter)",
+  "status": "verified",
+  "sidoperson": true,
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt"
+  },
+  "places": [
+   "Toltan, Brunskog"
+  ],
+  "summary": "Gertrud Bondesdotters andre make (änka efter Påhl Nilsson); gifta 22 febr 1736 enligt hennes begravningspost 1747.",
+  "notes": [
+   "DÖD/BEGR. Gertrud Bondesdotter 1747 nr 2 (E I/1 bild 114 hö): ”d 18 Jan: Sal. Hust. Gertrud Bondesdotter från Toltan, som lefwat med Jacob Jacobsson från d 22 Febr. 1736, til d [6?] Jan: 1747, berömlig i 63 åhr.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog E I/1 (dödbok 1747), bild 114 hö, nr 2: Gertrud Bondesdotter ”lefwat med Jacob Jacobsson från d 22 Febr. 1736”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00114"
+   }
+  ],
+  "search": [
+   "Jacob Jacobsson (Toltan, g. 1736 m. Gertrud Bondesdotter)"
+  ]
+ },
+ {
+  "id": "per_larsson_takene",
+  "name": "Per Larsson (Ö. Takene, far till Nils 1719)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt"
+  },
+  "places": [
+   "Ö. Takene, Brunskog"
+  ],
+  "summary": "Far till Nils Persson (f. 1/1 1719 på Ö. Takene, sedermera kyrkvärd i Toltan) med hustru Ingrid Olofsdotter – enligt både dopet 1719 och dödboken 1785. Ingrid är sannolikt samma Ingrid Olofsdotter (1693) som senare var gift med Olof Persson på Ö. Takene.",
+  "notes": [
+   "DOP 1719 (C I/1 bild 121 vä, nr 1): ”d 1 Jan: Christnades … Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils. Fadd: Olof Olofss: i Takene, Per Nilsson ibid, h. Anna Christ…, h. Malin Olufsd:r ibid.”",
+   "DÖD 1785 (F I/1 bild 14 hö, nr 10): sonen Nils Persson ”född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r”.",
+   "Död före 1731 (Ingrid har då barn med Olof Persson) – dödsår ej sökt (E I/1 1719–1730)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/1 (1719), bild 121 vä, nr 1: ”d 1 Jan: Christnades … Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils. Fadd: Olof Olofss: i Takene, Per Nilsson ibid, h. Anna Christ[ophersdotter?], h. Malin Olufsd:r ibid” (marginal ”785 8/5 begrofs”)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036782_00121"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
+   }
+  ],
+  "search": [
+   "Per Larsson (Ö. Takene, far till Nils 1719)"
+  ]
+ },
+ {
+  "id": "anders_larsson_wikene",
+  "name": "Anders La[rs]son (Wikene, far till Anders Andersson 1720)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "summary": "Enligt sonens begravningspost 1793 far till Anders Andersson (f. 1720 i Wikene). Patronymikonet är överskrivet och läses ’Larsson’ med osäkerhet.",
+  "notes": [
+   "DÖD 1793 (F I/1 bild 44 vä, nr 21): ”… Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son och h. Kari …” – ’Larsson’ skrivet ovanpå ett annat ord."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1793), bild 44 vä, nr 21 (begr. 9 juni): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son [överskrivet] och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00044"
+   }
+  ],
+  "search": [
+   "Anders La[rs]son (Wikene, far till Anders Andersson 1720)"
+  ]
+ },
+ {
+  "id": "kari_wikene_1720",
+  "name": "Kari (hustru till Anders La[rs]son, Wikene)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "note": "Okänt"
+  },
+  "places": [
+   "Wikene, Brunskog"
+  ],
+  "summary": "Mor till Anders Andersson (f. 1720 i Wikene) enligt hans begravningspost 1793; patronymikon anges inte.",
+  "notes": [
+   "DÖD 1793 (F I/1 bild 44 vä, nr 21): ”… af Bonden Anders La[rs]son och h. Kari”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog dödbok F I/1 (1793), bild 44 vä, nr 21 (begr. 9 juni): ”Bonden Mr Anders Andersson från Wikene, ibm född 1720 af Bonden Anders La[rs]son [överskrivet] och h. Kari; gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs. Afled den 30 sistl. Maji uti rödsot. 73 år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00044"
+   }
+  ],
+  "search": [
+   "Kari (hustru till Anders La[rs]son, Wikene)"
   ]
  }
 ]

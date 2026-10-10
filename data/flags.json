@@ -342,6 +342,50 @@
    "priority": 3,
    "next_step": "Fråga Iwona om namnet Jarczyńska; Irenas dopakt Kielce 1926 (arkivbeställning).",
    "doable": false
+  },
+  {
+   "title": "Påhl Nilsson (f. ca 1677) och Petrus Sylvander (f. 1676) – syskon?",
+   "text": "Påhl Nilssons ålder (53 år 6 mån i jan 1731 → f. ca juli 1677) är förenlig med att han är son till Nils Christophersson i Skog och Anna Jonsdotter, men ligger bara ett år efter Petrus Nicolai Sylvander (f. 1676, herdaminnet). MyHeritage/Geni-träden (minst 12 träd) gör dem till syskon. Ingen primärkälla knyter Påhl till Skog; bevisläget för Påhl = son av Nils Christophersson är fortfarande lead. Behöver bouppteckning/dombok eller annan källa.",
+   "persons": [
+    "pal_nilsson_hagen",
+    "petrus_sylvander1676",
+    "nils_christophersson_skog"
+   ]
+  },
+  {
+   "title": "Oluf Nilsson i Takene, begr. 17 mars 1723, 68½ år = Böret Persdotters make?",
+   "text": "E I/1 bild 163 hö (1723 nr 8). Ålder (f. ca 1654) passar Böret Persdotter f. ca 1655 och dottern Ingrid Olofsdotter f. 1693 på Ö. Takene. Ingen hustru eller barn nämns. Böret Persdotters död 1693 (MyHeritage) hittades inte i dödboken 1693 (bild 124–125, svår hand). Kontrollera mantal Takene 1690–1722 och om Oluf Nilsson gifte om sig efter 1693.",
+   "persons": [
+    "olof_nilsson_10",
+    "boret_persd_10",
+    "ingrid_olofsd_1693"
+   ]
+  },
+  {
+   "title": "Sven Ersson – ”hammarsmedsonen på Högvalta” (Arvika landsförsamling)",
+   "text": "MyHeritage-trädet Värmlandsrötter: Sven Ersson 1718–1782, son till hammarsmeden på Högvalta, mor ”Månsdotter” omgift Pålsson; syskon Sigrid, Stina (g. Pål Torstensson som 3:e hustru), Karin Ersdotter. Högvalta ligger i Arvika landsförsamling (C I/5 bild 45, 47). Nästa steg: Arvika landsförsamlings husförhör A I/1 (1760–74, C0036446) för Högvalta, dödbok 1782/1785 för Sven Ersson och Karin Nilsdotter, och Frykerud Rörbäcken (Pål Torstensson/Stina Ersdotter) som länk. Christopher Svenssons vigsel 1778 (”i Gönäs [Hjörvalta?]”) bör omläsas mot ”Högvalta”.",
+   "persons": [
+    "sven_ersson",
+    "karin_nilsdotter19",
+    "christopher_svensson_saldebraten"
+   ]
+  },
+  {
+   "title": "Böret Persdotters död 1693 ej funnen",
+   "text": "MyHeritage: Böret Persdotter ca 1655–1693. Brunskogs begravningar 1693 (E I/1 bild 124–125) har ingen läsbar Böret/Börit Persdotter. Lead kvarstår.",
+   "persons": [
+    "boret_persd_10"
+   ]
+  },
+  {
+   "title": "Ingrid Olofsdotter (1693): två makar – Per Larsson och Olof Persson",
+   "text": "Dop 1/1 1719 (C I/1 bild 121) och dödbok 1785 (F I/1 bild 14) ger Nils Persson (Toltan, f. 1719 på Ö. Takene) föräldrarna Per Larsson och Ingrid Olofsdotter. ingrid_olofsd_1693 är i repo gift med Olof Persson (son Olof Olsson 1731). Kontrollera Per Larssons död (E I/1 1719–1730) och Ingrids vigsel med Olof Persson för att göra identiteten verified. Nils Persson och Olof Olsson (1731) blir då halvbröder.",
+   "persons": [
+    "ingrid_olofsd_1693",
+    "per_larsson_takene",
+    "nils_ihrsson_toltan",
+    "olof_persson_takene"
+   ]
   }
  ],
  "conflicts": [
@@ -3760,6 +3804,27 @@
    "source": "Skanoteka Białogon id3912 födelseböcker 1926 (A-1919-1941, ej genomsökt); Katedra id57 saknar 1926-akter",
    "verdict": "resolved",
    "why": "Iwona (Martins mamma, Irenas dotter) bekräftade 2026-10-10 att Stefan och Zofia är Irenas föräldrar. Relationen satt till family. Kvar: varför ”Jarczyńska” – egen fråga om familjen vet."
+  },
+  {
+   "title": "Påhl Nilsson efter 1730 – ”Nils Påhlsson” i mantalet 1731–35",
+   "text": "Påhl Nilsson i Toltan begravdes 24 jan 1731, 53 år 6 mån (E I/1 bild 173). Nils Påhlsson i Toltan (f. ca aug 1712, gift 28/9 1743 med Karin, d. 1/12 1746, E I/1 bild 114) är den som står i mantalet från 1731. Gertrud Bondesdotter gifte om sig 22/2 1736 med Jacob Jacobsson och begravdes 18/1 1747, 63 år (bild 114).",
+   "persons": [
+    "pal_nilsson_hagen",
+    "z5_nils_palsson12",
+    "gertrud_bondesd_toltan"
+   ]
+  },
+  {
+   "title": "Dubbletter: nils_christophersson33 = nils_christophersson_skog, anna_jonsd50 = anna_jonsd_skog1689",
+   "text": "MyHeritage-importens Nils Christophersson (f. ca 1633, Skog) och Anna Jonsdotter (f. ca 1650, Renstad) är samma personer som nils_christophersson_skog och anna_jonsd_skog1689. Dödboken 1719 (E I/1 bild 157) bekräftar Nils Christophersson i Skog, 86 år. Föreslår sammanslagning (behåll de äldre id:na) och att relationerna c-christopher_persson_11-margareta_jonsd-nils_christophersson33 flyttas.",
+   "persons": [
+    "nils_christophersson_skog",
+    "nils_christophersson_skog",
+    "anna_jonsd_skog1689",
+    "anna_jonsd_skog1689"
+   ],
+   "verdict": "resolved",
+   "why": "Sammanslagna 2026-10-10: nils_christophersson33→nils_christophersson_skog, anna_jonsd50→anna_jonsd_skog1689."
   }
  ],
  "backlog": [

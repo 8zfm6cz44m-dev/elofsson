@@ -2680,8 +2680,8 @@
  {
   "id": "p-anders_andersson20-kjersti_palsd21",
   "type": "partner",
-  "status": "lead",
-  "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
+  "status": "verified",
+  "basis": "F I/1 bild 44 vä (1793 nr 21): Anders Andersson från Wikene ”gift 1744 26/12 med Pigan Kjersti Pålsd:r från Arnäs”.",
   "a": "anders_andersson20",
   "b": "kjersti_palsd21"
  },
@@ -2854,12 +2854,12 @@
   "b": "gertrud_bondesd_toltan"
  },
  {
-  "id": "p-nils_christophersson33-anna_jonsd50",
+  "id": "p-nils_christophersson_skog-anna_jonsd_skog1689",
   "type": "partner",
   "status": "lead",
   "basis": "MyHeritage listvy: direkt anfader/anmoder listade som par (samma generation, man före hustru); ej bekräftat i primärkälla",
-  "a": "nils_christophersson33",
-  "b": "anna_jonsd50"
+  "a": "nils_christophersson_skog",
+  "b": "anna_jonsd_skog1689"
  },
  {
   "id": "p-johan_andersson_11-nn_olsd_11",
@@ -3114,24 +3114,24 @@
   "basis": "Dödbok F I/1 b.36 (1791) nr 10: Nils Jonsson från Skog ”född uti Beckelid 1722 19/12 af Wäl. Jon Thols[son] och h. Ingjerd Jonsd.”. Bekräftar MyHeritage-trädet (tidigare lead); efternamn Tholsson läst över radbrytning. VERIFIERAD (omgång 24): Dop Brunskog C I/1 (C0036782_00142, 1722 nr 44): ”§ 19 dito [= Dec 1722] Christnades uti hel[…] enfaldighet N. Jon Tholsson och h. Ingerd Jonsd[otter] Barn i Beckelid vid namn [överstruket, Nils]. Fadd. Erik Jacobsson i Wikene …”; stämmer med dödbok F I/1 b.36 (1791 nr 10): ”född uti Beckelid 1722 19/12 af Wäl. Jon Tholsson(?) och h. Ingjerd Jonsd.”. (Kandidatdopet 17 sept 1722 är alltså fel; rätt är 19 dec.)"
  },
  {
-  "id": "c-nils_christophersson33-anna_jonsd50-karin_nilsd86",
+  "id": "c-nils_christophersson_skog-anna_jonsd_skog1689-karin_nilsd86",
   "type": "child",
   "parents": [
-   "nils_christophersson33",
-   "anna_jonsd50"
+   "nils_christophersson_skog",
+   "anna_jonsd_skog1689"
   ],
   "child": "karin_skog_m1721",
   "status": "lead",
   "basis": "MyHeritage-trädet: Karin Nilsdotter 1686–1741 (g.m. Jon Göstasson): far Nils Christophersson 1633–1719, mor Anna Jonsdotter 1650–1742 (f. Renstad)."
  },
  {
-  "id": "c-christopher_persson_11-margareta_jonsd-nils_christophersson33",
+  "id": "c-christopher_persson_11-margareta_jonsd-nils_christophersson_skog",
   "type": "child",
   "parents": [
    "christopher_persson_11",
    "margareta_jonsd"
   ],
-  "child": "nils_christophersson33",
+  "child": "nils_christophersson_skog",
   "status": "lead",
   "basis": "MyHeritage-trädet: Nils Christophersson 1633–1719: far Christopher Persson, mor Margareta Jonsdotter (inga årtal)."
  },
@@ -13025,5 +13025,62 @@
   "b": "petrus_sylvander1676",
   "status": "lead",
   "basis": "Följer av c-nils_christophersson_skog-anna_jonsd_skog1689-elof_nilsson (candidate) + herdaminnet; Geni/Wikipedia-syskonlista (Elof Nilsson, Pål Nilsson, Kristoffer Nilsson m.fl.) är oprövad."
+ },
+ {
+  "id": "c-pal_nilsson_hagen-gertrud_bondesd_toltan-z5_nils_palsson12",
+  "type": "child",
+  "parents": [
+   "pal_nilsson_hagen",
+   "gertrud_bondesd_toltan"
+  ],
+  "child": "z5_nils_palsson12",
+  "status": "candidate",
+  "basis": "E I/1 bild 114 vä (1746 nr 19): ”Nils Påhlsson i Toltan … i 34 åhr, 3 Månader, 1 Weka” (f. ca aug 1712) – patronymikon Påhlsson, by Toltan, född mellan syskonen Christopher (1710) och barnet 1717. Ingen källa säger uttryckligen vem fadern var."
+ },
+ {
+  "id": "p-gertrud_bondesd_toltan-jacob_jacobsson_toltan",
+  "type": "partner",
+  "a": "gertrud_bondesd_toltan",
+  "b": "jacob_jacobsson_toltan",
+  "status": "verified",
+  "basis": "E I/1 bild 114 hö (1747 nr 2): ”Sal. Hust. Gertrud Bondesdotter från Toltan, som lefwat med Jacob Jacobsson från d 22 Febr. 1736”."
+ },
+ {
+  "id": "c-per_larsson_takene-ingrid_olofsd_1693-nils_ihrsson_toltan",
+  "type": "child",
+  "parents": [
+   "per_larsson_takene",
+   "ingrid_olofsd_1693"
+  ],
+  "child": "nils_ihrsson_toltan",
+  "status": "strong",
+  "basis": "Dop C I/1 bild 121 (1/1 1719): ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils” + dödbok F I/1 bild 14 (1785): ”Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r”. Föräldraskapet till Per Larsson och en Ingrid Olofsdotter i Takene är uttryckligt (verified); att Ingrid är samma person som id ingrid_olofsd_1693 (f. 1693, Ö. Takene) bygger på namn+gård+ålder – därför strong."
+ },
+ {
+  "id": "p-per_larsson_takene-ingrid_olofsd_1693",
+  "type": "partner",
+  "a": "per_larsson_takene",
+  "b": "ingrid_olofsd_1693",
+  "status": "strong",
+  "basis": "C I/1 bild 121 (1719) ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene”; identitet med ingrid_olofsd_1693 strong (se ovan)."
+ },
+ {
+  "id": "c-anders_larsson_wikene-kari_wikene_1720-anders_andersson20",
+  "type": "child",
+  "parents": [
+   "anders_larsson_wikene",
+   "kari_wikene_1720"
+  ],
+  "child": "anders_andersson20",
+  "status": "candidate",
+  "basis": "F I/1 bild 44 vä (1793 nr 21): ”ibm född 1720 af Bonden Anders La[rs]son och h. Kari” – faderns patronymikon överskrivet och osäkert; dop 1720 ej kontrollerat (C I/1 ca bild 125–130)."
+ },
+ {
+  "id": "p-anders_larsson_wikene-kari_wikene_1720",
+  "type": "partner",
+  "a": "anders_larsson_wikene",
+  "b": "kari_wikene_1720",
+  "status": "candidate",
+  "basis": "F I/1 bild 44 (1793): ”Bonden Anders La[rs]son och h. Kari” som föräldrar till Anders Andersson."
  }
 ]
