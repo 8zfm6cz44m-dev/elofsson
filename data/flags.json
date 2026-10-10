@@ -294,17 +294,6 @@
       ]
     },
     {
-      "title": "Leszek Orzechowski (ca 1950–1985): vems son?",
-      "text": "MyHeritage kallar honom Ywonnes kusin. Ywonne nämnde honom inte 2026-10-10. Möjliga fäder: Ryszard eller Czesław (Janek är för ung).",
-      "persons": [
-        "leszek_o",
-        "ryszard_o",
-        "czeslaw_o"
-      ],
-      "priority": 3,
-      "next_step": "Låg prioritet – fråga släkten vid tillfälle."
-    },
-    {
       "title": "Bolesław Kogut – födelseakt Ostrowiec 1915 akt 28 ej läsbar online",
       "text": "Gravstenen (Trzcińsko-Zdrój) ger 15.01.1915; Geneteka-index Ostrowiec Św. (Rzeczki) 1915 akt 28 ger 'Data urodzenia 14.01.1915', mor Anna Kogut, far saknas. Boken 1914–1917 (AP Kielce 21/3060/0/-/24) är inte skannad. Kräver beställd kopia för att avgöra identitet och föräldrar.",
       "persons": [
@@ -4209,6 +4198,18 @@
         "anna_bartosinska"
       ],
       "resolution": "PL3: familjen hette Opara alias Bartosiński (Mniów 1819 nr 4, Miedzierza 1822 nr 14 = Opara; 1828–1862 = Bartosiński; Anna f. 26.7.1831 Miedzierza nr 63). Index, strong."
+    },
+    {
+      "title": "Leszek Orzechowski (ca 1950–1985): vems son?",
+      "text": "MyHeritage kallar honom Ywonnes kusin. Ywonne nämnde honom inte 2026-10-10. Möjliga fäder: Ryszard eller Czesław (Janek är för ung).",
+      "persons": [
+        "leszek_o",
+        "ryszard_o",
+        "czeslaw_o"
+      ],
+      "priority": 3,
+      "next_step": "Låg prioritet – fråga släkten vid tillfälle.",
+      "resolution": "Ywonne 2026-10-10: son till Czesław, bror till Krzysztof."
     }
   ],
   "backlog": [

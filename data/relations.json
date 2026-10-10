@@ -14095,5 +14095,23 @@
   "b": "tekla_gradzik",
   "status": "strong",
   "basis": "'супруговъ Градзиковъ' i dödakt Katedra 1885 nr 822"
+ },
+ {
+  "id": "c-czeslaw_o-leszek_o",
+  "type": "child",
+  "parents": [
+   "czeslaw_o"
+  ],
+  "child": "leszek_o",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10: Leszek var son till Czesław."
+ },
+ {
+  "id": "s-krzysztof_o-leszek_o",
+  "type": "sibling",
+  "a": "krzysztof_o",
+  "b": "leszek_o",
+  "status": "family",
+  "basis": "Ywonne 2026-10-10: Leszek var bror till Krzysztof."
  }
 ]

@@ -7882,15 +7882,19 @@
  {
   "id": "leszek_o",
   "name": "Leszek Orzechowski",
-  "status": "lead",
+  "status": "family",
   "sex": "m",
   "living": false,
   "places": [],
-  "summary": "Ywonnes kusin enligt MyHeritage (”Mors kusin”); vems son han är är fortfarande okänt (inte nämnd i Ywonnes svar 2026-10-10).",
+  "summary": "Son till Czesław Orzechowski och bror till Krzysztof (Ywonne 2026-10-10). Ywonnes kusin. Död 1985 enligt MyHeritage.",
   "sources": [
    {
     "label": "MyHeritage, ”Elofson Family Tree” (Martin Elofsons användarträd), listvyn 2026-10-05",
     "url": "https://www.myheritage.se/family-trees/elofson/OYYV73B3W7ZE4NSY2JZMLEW567JDBNI"
+   },
+   {
+    "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”Leszek var bror till Krzysztof och son till Czesław”",
+    "url": ""
    }
   ],
   "search": [
