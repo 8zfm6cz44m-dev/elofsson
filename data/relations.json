@@ -5802,9 +5802,9 @@
   "basis": "Boda husförhör A I/25 bild 301 (s.302 Nolsjö): hushåll B. Nils Andersson / H. Johanna Persdotter, barnrad ”s. Harald” (d.=dotter, s.=son, ditto-tecken); ordagrann utflyttning/rader se updates"
  },
  {
-  "id": "p-aa48_ullerud-mathilda_nilsd53_gras",
+  "id": "p-anders_ae48-mathilda_nilsd53_gras",
   "type": "partner",
-  "a": "aa48_ullerud",
+  "a": "anders_ae48",
   "b": "mathilda_nilsd53_gras",
   "status": "verified",
   "basis": "Folkräkning 1890 Nedre Ullerud (Folk_103500648): hushåll Andersson, Anders f. 1848 (gift) + Nilsdotter, Mathilda f. 1853. VERIFIERAD (omgång 24): Folkräkning 1890 Nedre Ullerud/Risätter s.46 fam.1: Folk_103500648 Andersson, Anders f.1848 Brunskog, Gift, Far/man, Gårdfarihandlande; Folk_103500649 Nilsdotter, Mathilda f.1853 Gräsmark, Gift, 'h.', Mor/fru."
@@ -14113,5 +14113,45 @@
   "b": "leszek_o",
   "status": "family",
   "basis": "Ywonne 2026-10-10: Leszek var bror till Krzysztof."
+ },
+ {
+  "id": "c-anders_ae48-mathilda_nilsd53_gras-ca1_hulda_maria88",
+  "type": "child",
+  "parents": [
+   "anders_ae48",
+   "mathilda_nilsd53_gras"
+  ],
+  "child": "ca1_hulda_maria88",
+  "status": "verified",
+  "basis": "A I/21 bild 333 s.324 rad 22: ”[B.] äkta Hulda Maria 88 19/2 N.U.” i Anders Anderssons och Mathilda Nilsdotters hushåll"
+ },
+ {
+  "id": "c-anders_ae48-mathilda_nilsd53_gras-ca1_hjalmar_paulinus91",
+  "type": "child",
+  "parents": [
+   "anders_ae48",
+   "mathilda_nilsd53_gras"
+  ],
+  "child": "ca1_hjalmar_paulinus91",
+  "status": "verified",
+  "basis": "A I/21 bild 333 s.324 rad 23: ”Hjalmar Paulinus 91 22/6” (barn, äkta) i hushållet"
+ },
+ {
+  "id": "c-mathilda_nilsd53_gras-ca1_johan_fredrik83",
+  "type": "child",
+  "parents": [
+   "mathilda_nilsd53_gras"
+  ],
+  "child": "ca1_johan_fredrik83",
+  "status": "verified",
+  "basis": "A I/21 bild 333 s.324 rad 21: ”B. hennes o.ä. Johan Fredrik 83 2/4” – Mathildas son utom äktenskap, ej Anders son"
+ },
+ {
+  "id": "s-ca1_hulda_maria88-ca1_hjalmar_paulinus91",
+  "type": "sibling",
+  "a": "ca1_hulda_maria88",
+  "b": "ca1_hjalmar_paulinus91",
+  "status": "verified",
+  "basis": "samma föräldrar, A I/21 bild 333"
  }
 ]
