@@ -220,15 +220,6 @@
       ]
     },
     {
-      "title": "Sven Ersson: Erik Påhlsson far eller styvfar?",
-      "text": "Varken Svens dop (1718 eller 1712) eller Erik Påhlssons vigsel med Kerstin Månsdotter har hittats. Frykerud E I/1 börjar 1708; bild 10–21 utan träff. C/2 bild 149 hö (okt–dec 1718) är delvis oläslig p.g.a. genomslag. A I/3 ’S: Swen Eriksson’ står före Eriks övriga barn (Stina, Johan, Påhl) – förenligt med att han är Eriks äldste son. Nästa steg: läs Sigrid Eriksdotters dop 1710 (C/2 ca bild 85–95) för att se om fadern är Erik Påhlsson i Högvalta, och mantalslängder Frykerud 1710–1720 (Högvalta) för en tidigare husbonde ’Erik’ (hammarsmed).",
-      "persons": [
-        "sven_ersson",
-        "erik_palsson_hogvalta",
-        "kerstin_mansdotter_hogvalta"
-      ]
-    },
-    {
       "title": "Nils Svensson f. 10/2 1759 = nils_svensson_saldebraten?",
       "text": "Ny person nils_svensson_1759_hogvalta (son till Sven Ersson). Leaden nils_svensson_saldebraten (vittne med h. Brita Eriksdotter i Såldebråten 1788–97) kan vara samma man – ej kontrollerat (sök A I/10–A I/12 Såldebråten efter ’Nils Svensson 1759 10/2’). Slå ihop först efter primärkälla.",
       "persons": [
@@ -314,6 +305,15 @@
         "karin_olofsd_toltan",
         "elof_nilsson",
         "nils_larsson_toltan"
+      ]
+    },
+    {
+      "title": "Sven Ersson: Erik Påhlsson troligen STYVFAR – Högvaltas husbonde hette Erik Nilsson 1710–1713",
+      "text": "Mantalslängderna för Frykerud visar Högvalta 1710 och 1711 med ”Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’), 1712 bara Jonas Jönsson, 1713 ”Jonas Jönsson / Erich Nilsson[?]”, 1715 och 1718 ”Erich [Nilsson?/Pålsson?]” (oläsligt efternamn), 1719 ingen Högvalta-rubrik funnen, men 1720 ”Erich P[å]lsson”, 1722 ”Erich Påhlsson / Pehr Nilsson” och 1725 ”Erik Pålsson / Per Nilsson”. Samtidigt finns 1710–11 en annan Erik Påhlsson: ”Corporalen Erich Påhwelsson i Lene” (fadder 15/16 jan 1710, C/2 bild 85) och ”Rustmästarens … i Lene Erich Påhwelssons och Malin Månsdotters” son Gabriel döpt 6 febr 1711 (C/2 bild 94). Rimligaste tolkning: Kerstin Månsdotter var först gift med Erik Nilsson på Högvalta (far till Sigrid f. ~1710 och Sven f. 1718?), och gifte om sig ca 1719–20 med den f.d. korpralen/rustmästaren Erik Påhlsson från Lene (änkling efter Malin Månsdotter?). I så fall är Erik Påhlsson styvfar och Svens patronymikon ’Ersson’ kommer från Erik Nilsson. Detta är INTE bevisat: avgörande är (a) säker läsning av efternamnet 1715/1718, (b) Erik Nilssons död ca 1718–19 (Frykeruds dödbok före 1744 saknas – kolla ev. bouppteckning/Fryksdals häradsrätt), (c) vigsel Erik Påhlsson × Kerstin Månsdotter ca 1719–20 i E I/1 (C0037140) ca bild 18–20 – ej omläst av CA2.",
+      "persons": [
+        "sven_ersson",
+        "erik_palsson_hogvalta",
+        "kerstin_mansdotter_hogvalta"
       ]
     }
   ],
@@ -4223,6 +4223,17 @@
         "olof_nilsson_10",
         "per_nilsson_toltan"
       ]
+    },
+    {
+      "title": "Sven Ersson: Erik Påhlsson far eller styvfar?",
+      "text": "Varken Svens dop (1718 eller 1712) eller Erik Påhlssons vigsel med Kerstin Månsdotter har hittats. Frykerud E I/1 börjar 1708; bild 10–21 utan träff. C/2 bild 149 hö (okt–dec 1718) är delvis oläslig p.g.a. genomslag. A I/3 ’S: Swen Eriksson’ står före Eriks övriga barn (Stina, Johan, Påhl) – förenligt med att han är Eriks äldste son. Nästa steg: läs Sigrid Eriksdotters dop 1710 (C/2 ca bild 85–95) för att se om fadern är Erik Påhlsson i Högvalta, och mantalslängder Frykerud 1710–1720 (Högvalta) för en tidigare husbonde ’Erik’ (hammarsmed).",
+      "persons": [
+        "sven_ersson",
+        "erik_palsson_hogvalta",
+        "kerstin_mansdotter_hogvalta"
+      ],
+      "kind": "resolved",
+      "resolution": "Ersatt av CA2-flaggan (mantal Högvalta: Erik Nilsson 1710–13, Erik Påhlsson från 1720/22 – troligen styvfar)."
     }
   ],
   "backlog": [

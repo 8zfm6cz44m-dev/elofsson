@@ -44545,7 +44545,19 @@
   "notes": [
    "HUSFÖRHÖR A I/1 bild 41: ”Erik Påhlsson / H: Kerstin Månsdotter / D: Sigrid[?] … [S?:] Swen Ericsson”.",
    "HUSFÖRHÖR A I/3 bild 18: ”[överstr.] Erik Påhlsson / H: Kerstin Månsd. / S: Swen Eriksson / … / D: Stina Eriksdotter / S: Johan Eriksson / S: Påhl Eriksson”.",
-   "MyHeritage (lead) kallar Svens far ’hammarsmeden på Högvalta’ och modern ’Månsdotter, omgift Pålsson’ – ingen yrkestitel syns i husförhören; om Sven är Eriks son eller styvson (Kerstins son i tidigare gifte med en annan Erik) är inte avgjort."
+   "MyHeritage (lead) kallar Svens far ’hammarsmeden på Högvalta’ och modern ’Månsdotter, omgift Pålsson’ – ingen yrkestitel syns i husförhören; om Sven är Eriks son eller styvson (Kerstins son i tidigare gifte med en annan Erik) är inte avgjort.",
+   "CA2 DOP Frykerud C/2 (C0037135) bild 94 höger (1711): ”6 Febr. Rustmästarens son i Lene Erich Påhwelssons och Malin Månsdotters, kallad Gabriel. Faddrar Rustmästaren[?] Bengt [Seb..?/Pehrsson?] Corporalen Lars Larsson i Fölle.” – en Erik Påhlsson, rustmästare i Lene 1711, med hustru MALIN (inte Kerstin) Månsdotter. Identitet med Högvalta-Erik oprövad.",
+   "CA2 DOP Frykerud C/2 bild 85 höger, 15/16 jan 1710 (Olof Olofsson och h. Marit i Apelungstorp[?], barn Ingeborg): bland faddrarna ”Corporalen Erich Påhwelsson i Lene”.",
+   "CA2 MANTALSLÄNGD 1710 (Örebro län, SE/RA/55203/55203.19), bild A0003191_00358, höger, Frykerud: ”Högwalta Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’).",
+   "CA2 MANTALSLÄNGD 1711 (Örebro län, SE/RA/55203/55203.19), bild A0003192_00408, höger: ”Högwallta, Jonas Jönsson / Erik Nilsson”.",
+   "CA2 MANTALSLÄNGD 1712 (Örebro län, SE/RA/55203/55203.19), bild A0003193_00356, höger: ”Högwallta, Jonas Jönsson” – ingen Erik.",
+   "CA2 MANTALSLÄNGD 1713 (Örebro län, SE/RA/55203/55203.19), bild A0003194_00406, höger: ”Högwallta, Jonas Jönsson / Erich Nilsson[?]”.",
+   "CA2 MANTALSLÄNGD 1715 (Örebro län, SE/RA/55203/55203.19), bild A0003196_00404, höger: ”Högwallta, Erich [Nilsson?/Pålsson?] / Jonas Jönsson” – efternamnet osäkert.",
+   "CA2 MANTALSLÄNGD 1718 (Örebro län, SE/RA/55203/55203.19), bild A0003197_00419, höger: ”1: Högwalta – Erich [Nilsson?/Pålsson?] / Jonas Jönsson” (Erik med tre streck i kolumnerna) – efternamnet osäkert.",
+   "CA2 MANTALSLÄNGD 1719 (Örebro län, SE/RA/55203/55203.19), bild A0003198_00418–421, Frykerud genomsökt (bild 418–421): ingen rubrik Högvalta hittad.",
+   "CA2 MANTALSLÄNGD 1720 (Örebro län, SE/RA/55203/55203.19), bild A0003199_00476, höger överst: ”Item / ½ Frykerudz giärning[?] Nils Olsson och / 1 Högwallta | Erich P[å]lsson[?] / Jonas Jönsson” – ring över andra bokstaven talar för Pålsson.",
+   "CA2 MANTALSLÄNGD 1722 (Örebro län, SE/RA/55203/55203.19), bild A0003201_00455, vänster nederst: ”Högwalta 1 | 1 Erich Påhlsson / 1 Pehr Nilsson” (å-ring tydlig).",
+   "CA2 MANTALSLÄNGD 1725 (Örebro län, SE/RA/55203/55203.19), bild A0003204_00368, höger överst: ”Högwalta 1 | … / 1. Erik Pålsson / 1. Per Nilsson” – tydligt skilt från ’Per Nilsson’ på raden under."
   ],
   "sources": [
    {
@@ -44555,6 +44567,50 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 18 (s. 12), Högwalta: [överstr.] Erik Påhlsson, H: Kerstin Månsd., S: Swen Eriksson, D: Stina Eriksdotter, S: Johan Eriksson, S: Påhl Eriksson",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/2 (1701–1726), bild 94 höger, 6 febr 1711: ”Rustmästarens son i Lene Erich Påhwelssons och Malin Månsdotters, kallad Gabriel”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00094"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/2, bild 85 höger, 15/16 jan 1710: fadder ”Corporalen Erich Påhwelsson i Lene”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00085"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1710 Örebro län (Frykerud), bild 358: Högvalta – ”Högwalta Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003191_00358"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1711 Örebro län (Frykerud), bild 408: Högvalta – ”Högwallta, Jonas Jönsson / Erik Nilsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003192_00408"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1712 Örebro län (Frykerud), bild 356: Högvalta – ”Högwallta, Jonas Jönsson” – ingen Erik",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003193_00356"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1713 Örebro län (Frykerud), bild 406: Högvalta – ”Högwallta, Jonas Jönsson / Erich Nilsson[?]”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003194_00406"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1715 Örebro län (Frykerud), bild 404: Högvalta – ”Högwallta, Erich [Nilsson?/Pålsson?] / Jonas Jönsson” – efternamnet osäkert",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003196_00404"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1718 Örebro län (Frykerud), bild 419: Högvalta – ”1: Högwalta – Erich [Nilsson?/Pålsson?] / Jonas Jönsson” (Erik med tre streck i kolumnerna) – efternamnet osäkert",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003197_00419"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1720 Örebro län (Frykerud), bild 476: Högvalta – ”Item / ½ Frykerudz giärning[?] Nils Olsson och / 1 Högwallta | Erich P[å]lsson[?] / Jonas Jönsson” – ring över andra bokstaven talar för Pålsson",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003199_00476"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1722 Örebro län (Frykerud), bild 455: Högvalta – ”Högwalta 1 | 1 Erich Påhlsson / 1 Pehr Nilsson” (å-ring tydlig)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003201_00455"
+   },
+   {
+    "label": "Riksarkivet, mantalslängd 1725 Örebro län (Frykerud), bild 368: Högvalta – ”Högwalta 1 | … / 1. Erik Pålsson / 1. Per Nilsson” – tydligt skilt från ’Per Nilsson’ på raden under",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003204_00368"
    }
   ],
   "search": [
