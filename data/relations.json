@@ -14239,5 +14239,16 @@
   "child": "christopher_christophersson_1730_olsrud",
   "status": "strong",
   "basis": "1730 nr 2, hö (s. 239): ”[1 Jan., ’item’] Christnades Christophers och Elins barn i Olsrud till Christopher, testes Per Olsson, Olof Olsson i Ringsta, Q. test. h:r Marja Åman i Ringsta, h:r Ingebor i Olsrud.” Marg.: ”begrofs 1731 d. 26 Maj”. (bild 134)"
+ },
+ {
+  "id": "c-elof_ersson_persjon-maria_olofsd_persjon-johan_elofsson30_persjon",
+  "type": "child",
+  "parents": [
+   "elof_ersson_persjon",
+   "maria_olofsd_persjon"
+  ],
+  "child": "johan_elofsson30_persjon",
+  "status": "candidate",
+  "basis": "Älvsbacka E I/1 bild 14 (1741): ”Johan Elofsson ifrån Persiön dödde d 22 Maji … war 10 åhr 5 månader och 3 weckor gammal” – patronymikon + by + att ny son Johan döps 1746 (namnupprepning); föräldrar ej angivna, dop ej funnet."
  }
 ]
