@@ -43857,19 +43857,20 @@
  {
   "id": "christopher_nilsson_skog",
   "name": "Christopher Nilsson (Skog, mantal 1710)",
-  "status": "lead",
+  "status": "verified",
   "sidoperson": true,
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänt; Geni/Wikipedia anger en Kristoffer Nilsson 1678–1771 som son till Nils Christophersson och Anna Jonsdotter (oprövat)."
+   "date": "1678",
+   "place": "Renstad[?], Boda",
+   "note": "Enligt begravningsposten 1771: ”född i Renstad[?] 1678”, föräldrar Nils Christophersson och Anna Jönsdotter."
   },
   "places": [
    "Skog, Brunskog",
    "Olsrud, Boda"
   ],
-  "summary": "Bonde/brukare i Skog 1710–1712 (mantal); vigd 7/6 1713 med Elin Göstafsdotter i Olsrud, Boda, och flyttade dit: står som Christopher Nilsson i Olsrud, Boda, i mantal 1714 och 1719 och som far till sju barn i Bodas dopbok 1714–1730. Ej samme man som Christopher Nilsson i Edane.",
+  "summary": "Född 1678 (Renstad?) som son till Nils Christophersson och Anna Jönsdotter; brukare i Skog, Brunskog 1710–1712; vigd 7/6 1713 med Elin Göstafsdotter i Olsrud, Boda, där han bodde till sin död 23/1 1771 (92¾ år). Mantalsskriven i Olsrud 1714–1745; 1746 ersatt av en son ’[Lage?] Christophersson’.",
   "notes": [
    "MANTAL 1700 (A0003180 bild 387 vä nederst): ”¼ – Skogh – [Carl?] Månsson / Nils Christophersson” (Nils med tre markeringar).",
    "MANTAL 1710 (A0003191 bild 431 hö nederst): ”Skog – Carl Månsson / Christopher Nilsson”.",
@@ -43884,7 +43885,10 @@
    "CA4 MANTAL BODA 1714 (A0003195 bild 497 hö nederst → 498 vä överst): sista byn på bild 497 är ”Olßrud ¼ – Olof Jonsson”; bild 498 vä fortsätter ”Transporterat: Måns Jonsson / Christopher Nilsson / Anders [Olsson?] / Erik Amundsson / Jon Nilsson” innan nästa by (”Wär…”). Christopher Nilsson står alltså i OLSRUD, Boda, redan 1714 – året efter att han försvann ur Skog och året efter vigseln med Elin Göstafsdotter ’i Olsrud och Boda Sochn’.",
    "CA4 MANTAL BODA 1719 (A0003198 bild 508): vä kolumn nederst ”Olsrud ¼ – Nils Bengtsson”; hö kolumn överst ”Transporterat: Måns Jönsson / Christopher Nilsson / Anders [..]sson / Bengt Ersson / …” – samma följd som 1714 → Christopher Nilsson kvar i Olsrud 1719. (Obs: 1719 står även en ”Nils Christophersson” i Boda, bild 507 hö, annan by.)",
    "CA4 DOPBOK BODA: Christopher (+ ”h. Elin”) i Olsrud som föräldrar 19/2 1714 (Britta, bild 81), 4/9 1715 (Nils, bild 87), 18/1 1717 (Marit, bild 92); som fadder i Olsrud 19/12 1714 (bild 84 hö), 30/1 1715 (bild 85), aug 1715 (bild 87), 20/1 1717 (bild 92 vä nr 2: ’Christopher i Olsrud’), 31/3 1717 (bild 93).",
-   "CA4 DOPBOK BODA 1729 (bild 134 vä, nr 25, 26 dec): Bengt Ersson och Marit Pers dotter i Olsrud, barn Karin; ”Fadd: And: Pålsson och Christoph. Nilsson i Olsrud, Hust. Maria Jöns d:r, Kerstin Hans[?] d:r i Olsrud” – uttryckligt patronymikon: Christopher i Olsrud = CHRISTOPHER NILSSON. Även fadder 11/7 1729 (bild 132 hö nr 10) och jan 1730 (bild 136 vä nr 16: ’Christopher i Olsrud’). Barn i Boda: Britta 19/2 1714 (b.81), Nils 4/9 1715 (b.87, troligen död före 1721), Marit 18/1 1717 (b.92), Jon 3/8 1718 (b.99), Nils 4/9 1721 (b.109, marg. ’död’), Johan 23/2 1724 (b.118), Anna april 1726 (b.125), Christopher jan 1730 (b.134, begr. 26/5 1731). Död ej funnen inom C I/1-genomläsningen; Boda dödbok (ingår ev. i E I/1 C0036596, 1690–1772) ej genomläst."
+   "CA4 DOPBOK BODA 1729 (bild 134 vä, nr 25, 26 dec): Bengt Ersson och Marit Pers dotter i Olsrud, barn Karin; ”Fadd: And: Pålsson och Christoph. Nilsson i Olsrud, Hust. Maria Jöns d:r, Kerstin Hans[?] d:r i Olsrud” – uttryckligt patronymikon: Christopher i Olsrud = CHRISTOPHER NILSSON. Även fadder 11/7 1729 (bild 132 hö nr 10) och jan 1730 (bild 136 vä nr 16: ’Christopher i Olsrud’). Barn i Boda: Britta 19/2 1714 (b.81), Nils 4/9 1715 (b.87, troligen död före 1721), Marit 18/1 1717 (b.92), Jon 3/8 1718 (b.99), Nils 4/9 1721 (b.109, marg. ’död’), Johan 23/2 1724 (b.118), Anna april 1726 (b.125), Christopher jan 1730 (b.134, begr. 26/5 1731). Död ej funnen inom C I/1-genomläsningen; Boda dödbok (ingår ev. i E I/1 C0036596, 1690–1772) ej genomläst.",
+   "CB2 DÖD (verified): Boda E I/1 bild 81 hö (s. 137, ’1771 Begrafne’) nr 4, ’Febr. 3.’, forts. bild 82 vä: ”[Enkm.?] Christopher Nilsson i Olsrud, född i Renstad[?] 1678, fad. Nils Christophersson, mod. Anna Jönsdotter, gift 1713 d. 7 Junii med Pig. Elin Göstafsdotter i Olsrud, som afled den 21 April 1745; Han afled af ålderdom den 23 Januar. [ejusd.?], lefwat en fridsamlig[?] och berömlig man uti 92¾ år.” Ortnamnet läst ’..nstad’ – passar Renstad i Boda (Anna Jonsdotters uppgivna födelseort). Posten binder ihop Skog-Christopher (vigd 1713) med Olsrud och bekräftar föräldrarna Nils Christophersson × Anna Jönsdotter → Geni-uppgiften ’Kristoffer Nilsson 1678–1771’ stämmer.",
+   "CB2 MANTAL BODA Olsrud ¼: 1730 (A0003209 b.497 vä) Olof Nilsson, Anders Pålsson, Måns Jönsson, Nils Bengtsson, Christoph. Nilsson, Bengt Ersson; 1735 (A0003214 b.539 vä) Anders Pålsson, Måns Jöns., Nils Bengtsson, Christopher Nilsson (4 pers.), Bengt Ersson; 1742 (A0003222 b.478 vä) [Lage?] Andersson, Britta, Måns Jönsson, Nils Bengtsson, Christopher Nilsson (4), Bengt Ersson; 1745 (A0003224 b.532 vä) [Lage?] Andersson, Hust. Ingrid ..., Nils Bengtsson, Christopher Nilsson (5), Bengt Ersson; 1746 (A0003225 b.558 vä) och 1747 (A0003226 b.585 hö) står i stället ”[Lage?] Christophersson” sist på gården. Christopher (67 år 1745) faller ur mantal 1746 – en son ’[Lage?/Inge?] Christophersson’ tar över hans del. Förnamnet osäkert (samma skrivning som grannen ’[Lage?] Andersson’); ingen sådan son finns bland dopen 1714–1730 – kontrollera husförhör A I/1 (C0036566) och dop 1727–29.",
+   "CB2: Boda E I/1 bild 130 hö, begravda 1734 nr 16: ”d. 4 Augusti Christopher i Olsrud[s] barn 1½ åhr” – okänt barn f. ca 1733 (dopet ej kontrollerat)."
   ],
   "sources": [
    {
@@ -43926,11 +43930,48 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/1, bild 134 vä, 1729 nr 25, 26 dec: faddrar ”Anders Pålsson och Christoph. Nilsson i Olsrud”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036592_00134"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 81 hö–82 vä, begravda 1771 nr 4 (3 febr): ”Christopher Nilsson i Olsrud, född i Renstad[?] 1678, fad. Nils Christophersson, mod. Anna Jönsdotter, gift 1713 d. 7 Junii med Pig. Elin Göstafsdotter i Olsrud, som afled den 21 April 1745; Han afled af ålderdom den 23 Januar. ... 92¾ år”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00081"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 82 vä (forts. av 1771 nr 4)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00082"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1730, bild 497 vä: Olsrud – ”Christoph. Nilsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003209_00497"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1735, bild 539 vä: Olsrud ¼ – ”Christopher Nilsson” (4 personer)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003214_00539"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1742, bild 478 vä: Olsrud ¼ – ”Christopher Nilsson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003222_00478"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1745, bild 532 vä: Olsrud ¼ – ”Christopher Nilsson” (5 personer)",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003224_00532"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1746, bild 558 vä: Olsrud ¼ – ”[Lage?] Christophersson” i st. f. Christopher",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003225_00558"
+   },
+   {
+    "label": "Riksarkivet, Mantalslängder Värmlands län, Boda 1747, bild 585 hö: Olsrud ¼ – ”[Lage?] Christophersson”",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0003226_00585"
    }
   ],
   "search": [
    "Christopher Nilsson (Skog, mantal 1710)"
-  ]
+  ],
+  "died": {
+   "date": "1771-01-23",
+   "place": "Olsrud, Boda",
+   "note": "Död av ålderdom 23 jan 1771, begravd 3 febr 1771, 92¾ år (Boda E I/1 bild 81–82)."
+  }
  },
  {
   "id": "jacob_jacobsson_toltan",
@@ -44391,18 +44432,18 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Okänt"
+   "date": "1688?",
+   "note": "Beräknat ur 57 år vid begravning 1745."
   },
   "places": [
-   "Olsrud[?], Boda",
-   "Skog, Brunskog"
+   "Olsrud, Boda"
   ],
   "summary": "Vigd 7 juni 1713 (1 sönd. e. Trefaldighet) med drängen Christopher Nilsson i Skog, samma dag som hennes trolige bror Jon Göstafsson vigdes med Karin Nilsdotter i Skog (dubbelbröllop, två syskonpar).",
   "notes": [
    "VIGSEL 1713 (E I/1 bild 29 vä): ”Dr. Christopher Nilsson i Skog, och P. Elin Giöstafsdotter i Olsrud[?] och Boda Sochn. Morgongåfwa 30 lod Silf:r.” Ortnamnet ”Olsrud” är osäkert läst.",
    "BW4: Ingen begravning av Elin Göstafsdotter i Brunskogs dödbok 1712–1716 (E I/1 bild 143–150, genomlästa). Maken Christopher Nilsson lämnar Skog i mantal 1713; paret kan ha flyttat till Boda – Boda död/dop 1713–1730 bör kontrolleras.",
-   "CA4: Bosatt i OLSRUD, Boda efter vigseln 1713. Boda C I/1 bild 93 hö (31 mars 1717, nr 10): ”Qvinfolks faddrar hustro Anna Lars dotter och hustro Elin Giöstafs dotter i Olsrud” (manfolks vittnen ”Christopher och Olof i Olsrud”). Även fadder 30 jan 1715 (bild 85 vä nr 4: ”test: Olof och Christoph: i Olsrud, Qvinfolk h: Sigri och h. Elin ibid”). Barn i Boda: Britta 19/2 1714 (bild 81), Nils 4/9 1715 (bild 87), Marit 18/1 1717 (bild 92) …"
+   "CA4: Bosatt i OLSRUD, Boda efter vigseln 1713. Boda C I/1 bild 93 hö (31 mars 1717, nr 10): ”Qvinfolks faddrar hustro Anna Lars dotter och hustro Elin Giöstafs dotter i Olsrud” (manfolks vittnen ”Christopher och Olof i Olsrud”). Även fadder 30 jan 1715 (bild 85 vä nr 4: ”test: Olof och Christoph: i Olsrud, Qvinfolk h: Sigri och h. Elin ibid”). Barn i Boda: Britta 19/2 1714 (bild 81), Nils 4/9 1715 (bild 87), Marit 18/1 1717 (bild 92) …",
+   "CB2 DÖD: Boda E I/1 bild 141 vä, Begrafne 1745 nr 1: ”d. 21 April begrofs Hustru Elin Gåstafs dotter i Olsrud lefwat gudfruchteligen[?] och berömmeligen å war 57 år gml.” Makens post 1771 (bild 81–82): ”Elin Göstafsdotter i Olsrud, som afled den 21 April 1745”. Trolig far: Gösta Johansson i Olsrud, begr. dec 1731, 82 år (bild 128) – lead."
   ],
   "sources": [
    {
@@ -44412,11 +44453,24 @@
    {
     "label": "Riksarkivet, Boda dopbok C I/1, bild 93 hö (s. 165), 1717 nr 10, 31 mars: Anders och hustro Marjas barn i Olsrud, Jon; faddrar ”Christopher och Olof i Olsrud … hustro Anna Lars dotter och hustro Elin Giöstafs dotter i Olsrud”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036592_00093"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 141 vä, ’Begrafne 1745’ nr 1: ”d. 21 April begrofs Hustru Elin Gåstafs dotter i Olsrud lefwat gudfruchteligen[?] och berömmeligen å war 57 år gml.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00141"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 81–82, makens begravning 1771: ”... gift 1713 d. 7 Junii med Pig. Elin Göstafsdotter i Olsrud, som afled den 21 April 1745”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00081"
    }
   ],
   "search": [
    "Elin Göstafsdotter (Olsrud?, Boda; g. 1713 m. Christopher Nilsson i Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1745-04-21",
+   "place": "Olsrud, Boda",
+   "note": "Begravd 21 april 1745, 57 år → f. ca 1688. Dödsdatum 21/4 1745 enl. makens begravningspost 1771."
+  }
  },
  {
   "id": "andorus_renstrom1669",
@@ -46732,7 +46786,8 @@
   "summary": "Barn till Christopher [Nilsson] och Elin [Göstafsdotter] i Olsrud, Boda (dop 1715-09-04).",
   "notes": [
    "DOP Boda C I/1 bild 87: 1715 nr 23, hö: ”d: 4 Septembr: Christophers barn och Elins i Olsrud christnades af cappel. till Nils, testes Erich och Måns i Olsrud, Qvinfolks faddrar h. Marja och h. Kirstin alt i Olsrud.”",
-   "Under posten en senare anteckning ”[..]gr 1726 12/9” (betydelse osäker – ev. begravd 12/9 1726; ej kontrollerat i dödbok)."
+   "Under posten en senare anteckning ”[..]gr 1726 12/9” (betydelse osäker – ev. begravd 12/9 1726; ej kontrollerat i dödbok).",
+   "CB2: Ingen begravning av Nils (f. 1715) hittad i Boda E I/1 1715–1721 (bild 116–121; 1721–22 saknas nästan helt). Anteckningen under dopposten (C I/1 bild 87) ser ut som ”[..]gr 17 26/12 9[?]” – kan vara sidhänvisning; den 11 sept 1726 begravs ’Anna Christophers dotter 40 weker’ (bild 125), ingen Nils. Att namnet Nils ges igen 1721 är fortfarande enda indiciet på att han dött."
   ],
   "sources": [
    {
@@ -46760,7 +46815,8 @@
   ],
   "summary": "Barn till Christopher [Nilsson] och Elin [Göstafsdotter] i Olsrud, Boda (dop 1717-01-18).",
   "notes": [
-   "DOP Boda C I/1 bild 92: 1717 nr 1, vä: ”d. 18 Januarij Christnades Christophers och hustro Elins barn i Olsrud vid Namn Marit, Manfolks vittnen Bengt i Hög[bo]da, Nils Larsson i Boda, Qvinfolks faddrar h. Marja i Olsrud, h. Anna ibid.”"
+   "DOP Boda C I/1 bild 92: 1717 nr 1, vä: ”d. 18 Januarij Christnades Christophers och hustro Elins barn i Olsrud vid Namn Marit, Manfolks vittnen Bengt i Hög[bo]da, Nils Larsson i Boda, Qvinfolks faddrar h. Marja i Olsrud, h. Anna ibid.”",
+   "CB2: Boda E I/1 bild 117 vä, begravda 1717 nr 27 (under ’d. 22 Septemb.’): ”item Marit Christoph: dotter 2 månar 2 weker 2 dygn gl.” – ingen by; åldern passar inte Marit dp 18/1 1717 (då ~8 mån) om siffran är ’2’; kan vara ’8 månar’. Osäker – kontrollera."
   ],
   "sources": [
    {
@@ -46788,12 +46844,17 @@
   ],
   "summary": "Barn till Christopher [Nilsson] och Elin [Göstafsdotter] i Olsrud, Boda (dop 3/8 1718).",
   "notes": [
-   "DOP Boda C I/1 bild 99: 1718 nr 23, vä: ”d. 3 Augusti Christnades Christophers och h. Elins barn i Olsrud till Jon, test: Anders i Olsrud, Bengt i [Fatt]tan, Qvinfolks faddrar h. Marja och h. Anna i Olsrud.”"
+   "DOP Boda C I/1 bild 99: 1718 nr 23, vä: ”d. 3 Augusti Christnades Christophers och h. Elins barn i Olsrud till Jon, test: Anders i Olsrud, Bengt i [Fatt]tan, Qvinfolks faddrar h. Marja och h. Anna i Olsrud.”",
+   "CB2 VIGSEL (strong för Jon 1718 eller Johan 1724): Boda E I/1 bild 39 hö, vigda 1751 nr 6: ”d. 26 Dec: Manhaftige Soldaten Jon Christophersson från Olsrud, med Enkian Hustru Karin Olofsdotter i Södra Ginnstad.” – en Jon Christophersson från Olsrud levde alltså 1751. Ingen begravning av Jon f. 1718 hittad 1718–1764. Ej att förväxla med (a) Jon Christophersson f. ca 1690, g. 28/12 1737 m. änkan Kirstin (bild 31 vä), begr. 23/4 1758, 68 år (bild 158 vä), och (b) Nämndeman Jon Christophersson i Högboda, g. 22/10 1752 m. Kierstin Amundsdotter, begr. 14/3 1762, 38 år (bild 162 vä) → f. ca 1723/24."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda dopbok C I/1, bild 99 vä: 1718 nr 23, vä: ”d. 3 Augusti Christnades Christophers och h. Elins barn i Olsrud till Jon, test: Anders i Olsrud, Bengt i [Fatt]tan, Qvinfolks faddrar h. Marja och h. Anna i Olsrud.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036592_00099"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 39 hö, vigda 1751 nr 6: ”d. 26 Dec: Manhaftige Soldaten Jon Christophersson från Olsrud, med Enkian Hustru Karin Olofsdotter i Södra Ginnstad.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00039"
    }
   ],
   "search": [
@@ -46847,7 +46908,8 @@
   ],
   "summary": "Barn till Christopher [Nilsson] och Elin [Göstafsdotter] i Olsrud, Boda (dop 23/2 1724).",
   "notes": [
-   "DOP Boda C I/1 bild 118: 1724 nr 10, vä (s. 208): ”dito [= d. 23 Febr.] Christophers och Elins barn i Olsrud Christnades till Johan, testes Jöns Jönsson i Vägsrud[?] och Anders i Olsrud, Q. h. Marja i Olsrud, h. Ingebor Nilsd. ibid.”"
+   "DOP Boda C I/1 bild 118: 1724 nr 10, vä (s. 208): ”dito [= d. 23 Febr.] Christophers och Elins barn i Olsrud Christnades till Johan, testes Jöns Jönsson i Vägsrud[?] och Anders i Olsrud, Q. h. Marja i Olsrud, h. Ingebor Nilsd. ibid.”",
+   "CB2: Möjlig identitet med ’Nämndem: Jon Christophersson i Högboda’, g. 22/10 1752 m. Kierstin Amundsdotter, död 9/3 1762 i hetsig feber, begr. 14/3 1762, 38 år (Boda E I/1 bild 162 vä) → f. ca 1723/24 – lead (Högboda hade egna Christopher-familjer: Christopher Bengtsson d. 1743, 31 år). Ingen begravning av Johan som barn hittad."
   ],
   "sources": [
    {
@@ -46875,17 +46937,27 @@
   ],
   "summary": "Barn till Christopher [Nilsson] och Elin [Göstafsdotter] i Olsrud, Boda (dop april 1726).",
   "notes": [
-   "DOP Boda C I/1 bild 125: 1726 nr 6, hö (s. 221): ”d. [1?] April Christophers och Elins i Olsrud barn benämnd Anna, testes Måns Jönsson i Olsrud, Nils Bryngelsson i Kalen[?], Q: h. Marja Jöns d:r i Olsrud, h. Marit Pers dotter ibid.”"
+   "DOP Boda C I/1 bild 125: 1726 nr 6, hö (s. 221): ”d. [1?] April Christophers och Elins i Olsrud barn benämnd Anna, testes Måns Jönsson i Olsrud, Nils Bryngelsson i Kalen[?], Q: h. Marja Jöns d:r i Olsrud, h. Marit Pers dotter ibid.”",
+   "CB2 DÖD: Boda E I/1 bild 147 hö, 1751 nr 11: ”d. 15 Dec: Pig. Anna Christophers dotter från Olsrud, 25 åhr, 8 Månader och 3 Weckor gammal, död i Bränsiukt.” Åldern ger f. ca 24 mars 1726 – stämmer med dopet ’d. [1?] April’ 1726 (C I/1 bild 125). OBS: 1726 nr 13 (bild 125 vä) ”d. 11 Septembr Anna Christophers dotter 40 weker gl.” (utan by) är därför ett annat barn."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Boda dopbok C I/1, bild 125 hö: 1726 nr 6, hö (s. 221): ”d. [1?] April Christophers och Elins i Olsrud barn benämnd Anna, testes Måns Jönsson i Olsrud, Nils Bryngelsson i Kalen[?], Q: h. Marja Jöns d:r i Olsrud, h. Marit Pers dotter ibid.”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036592_00125"
+   },
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 147 hö, Begrafne 1751 nr 11: ”d. 15 Dec: Pig. Anna Christophers dotter från Olsrud, 25 åhr, 8 Månader och 3 Weckor gammal, död i Bränsiukt.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00147"
    }
   ],
   "search": [
    "Anna Christophersdotter (f. 1726, Olsrud, Boda)"
-  ]
+  ],
+  "died": {
+   "date": "1751-12-15",
+   "place": "Olsrud, Boda",
+   "note": "Begravd/död 15 dec 1751, 25 år 8 mån 3 v (→ f. ca 24 mars 1726), ogift (’Pig.’), död i bränsjuka."
+  }
  },
  {
   "id": "christopher_christophersson_1730_olsrud",
@@ -46907,7 +46979,8 @@
   ],
   "summary": "Barn till Christopher Nilsson och Elin [Göstafsdotter] i Olsrud, Boda; döpt jan 1730, begravd 26/5 1731.",
   "notes": [
-   "DOP Boda C I/1 bild 134: 1730 nr 2, hö (s. 239): ”[1 Jan., ’item’] Christnades Christophers och Elins barn i Olsrud till Christopher, testes Per Olsson, Olof Olsson i Ringsta, Q. test. h:r Marja Åman i Ringsta, h:r Ingebor i Olsrud.” Marg.: ”begrofs 1731 d. 26 Maj”."
+   "DOP Boda C I/1 bild 134: 1730 nr 2, hö (s. 239): ”[1 Jan., ’item’] Christnades Christophers och Elins barn i Olsrud till Christopher, testes Per Olsson, Olof Olsson i Ringsta, Q. test. h:r Marja Åman i Ringsta, h:r Ingebor i Olsrud.” Marg.: ”begrofs 1731 d. 26 Maj”.",
+   "CB2: Begravningen 26/5 1731 (dopbokens marginal) står INTE i Boda E I/1 (1731 nr 1–13, bild 127 hö–128 vä)."
   ],
   "sources": [
    {
@@ -47119,6 +47192,38 @@
   ],
   "search": [
    "Sigri (Sigrid) Ersdotter (f. 1710, Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "gosta_johansson_olsrud",
+  "name": "Gösta Johansson i Olsrud (d. 1731, Boda)",
+  "status": "lead",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1649?",
+   "note": "Beräknat ur 82 år vid begravning 1731."
+  },
+  "died": {
+   "date": "1731-12",
+   "place": "Olsrud, Boda",
+   "note": "Begravd ’samma tid’ som 12 dec 1731."
+  },
+  "places": [
+   "Olsrud, Boda"
+  ],
+  "summary": "Gammal man i Olsrud, Boda, begravd dec 1731, 82 år. Trolig far till Elin och Jon Göstafsson (båda ’i Olsrud’ 1713) – oprövat; namnet passar patronymikon.",
+  "notes": [
+   "DÖD Boda E I/1 bild 128 vä, 1731 nr 12: ”Samma tid Gösta Johansson i Olsrud lefwat fredsam och enfaldigt[?] i 82 åhr”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Boda E I/1 (C0036596) bild 128 vä, begravda 1731 nr 12: ”Samma tid Gösta Johansson i Olsrud ... i 82 åhr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036596_00128"
+   }
+  ],
+  "search": [
+   "Gösta Johansson i Olsrud (d. 1731, Boda)"
   ]
  }
 ]

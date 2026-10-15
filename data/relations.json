@@ -14334,5 +14334,26 @@
   "b": "sven_ersson",
   "status": "strong",
   "basis": "Båda barn till Erik Påhlsson och Kerstin Månsdotter (dop 1710 bild 90 hö; A I/1 bild 41 ’D: Sigrid … Swen Ericsson’)."
+ },
+ {
+  "id": "c-nils_christophersson_skog-anna_jonsd_skog1689-christopher_nilsson_skog",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog",
+   "anna_jonsd_skog1689"
+  ],
+  "child": "christopher_nilsson_skog",
+  "status": "verified",
+  "basis": "Boda E I/1 (C0036596) bild 81 hö–82 vä, begravda 1771 nr 4: ”Christopher Nilsson i Olsrud, född i Renstad[?] 1678, fad. Nils Christophersson, mod. Anna Jönsdotter, gift 1713 d. 7 Junii med Pig. Elin Göstafsdotter i Olsrud ...” – vigseldatumet 7/6 1713 identifierar honom med Christopher Nilsson i Skog (Brunskog E I/1 bild 29). Att Nils Christophersson × Anna Jönsdotter är just Skog-paret (nils_christophersson_skog/anna_jonsd_skog1689) vilar på namnparet + Skog (Nils Christophersson i Skog 1700, Christopher efterträder honom 1710)."
+ },
+ {
+  "id": "c-gosta_johansson_olsrud-elin_gostafsd_1713",
+  "type": "child",
+  "parents": [
+   "gosta_johansson_olsrud"
+  ],
+  "child": "elin_gostafsd_1713",
+  "status": "lead",
+  "basis": "Endast namn + by: Elin Göstafsdotter ’i Olsrud’ 1713; Gösta Johansson i Olsrud begr. dec 1731, 82 år (E I/1 bild 128 vä)."
  }
 ]
