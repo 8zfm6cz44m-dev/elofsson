@@ -14143,5 +14143,101 @@
   "b": "ca1_hjalmar_paulinus91",
   "status": "verified",
   "basis": "samma föräldrar, A I/21 bild 333"
+ },
+ {
+  "id": "p-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten",
+  "type": "partner",
+  "a": "nils_svensson_1759_hogvalta",
+  "b": "britta_eriksd_1762_saldebraten",
+  "status": "verified",
+  "basis": "E I/1 bild 120: ”Drängen Nils Svenson i Högvalta och Pigan Britta Eritsdotter i Lene”, 29/12 1782; A I/10 bild 18: ”H. Britta Eriksdr 1762 27/3”."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-britta_christophersd_1714_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "britta_christophersd_1714_olsrud",
+  "status": "strong",
+  "basis": "Boda C I/1 bild 81 hö, 19 febr 1714: ”Christophers och h: Elins barn i Olsrud” (marg. Britta). Patronymikon saknas → strong."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-nils_christophersson_1715_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "nils_christophersson_1715_olsrud",
+  "status": "strong",
+  "basis": "1715 nr 23, hö: ”d: 4 Septembr: Christophers barn och Elins i Olsrud christnades af cappel. till Nils, testes Erich och Måns i Olsrud, Qvinfolks faddrar h. Marja och h. Kirstin alt i Olsrud.” (bild 87). Patronymikon för föräldrarna saknas i posten; Elin kallas ’Giöstafsdotter i Olsrud’ i samma bok 1717 (bild 93)."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-marit_christophersd_1717_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "marit_christophersd_1717_olsrud",
+  "status": "strong",
+  "basis": "1717 nr 1, vä: ”d. 18 Januarij Christnades Christophers och hustro Elins barn i Olsrud vid Namn Marit, Manfolks vittnen Bengt i Hög[bo]da, Nils Larsson i Boda, Qvinfolks faddrar h. Marja i Olsrud, h. Anna ibid.” (bild 92). Patronymikon för föräldrarna saknas i posten; Elin kallas ’Giöstafsdotter i Olsrud’ i samma bok 1717 (bild 93)."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-jon_christophersson_1718_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "jon_christophersson_1718_olsrud",
+  "status": "strong",
+  "basis": "1718 nr 23, vä: ”d. 3 Augusti Christnades Christophers och h. Elins barn i Olsrud till Jon, test: Anders i Olsrud, Bengt i [Fatt]tan, Qvinfolks faddrar h. Marja och h. Anna i Olsrud.” (bild 99)"
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-nils_christophersson_1721_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "nils_christophersson_1721_olsrud",
+  "status": "strong",
+  "basis": "1721 nr 20, hö (s. 193): ”d. 4 Sept: Christnades i Herrans Namn, Christophers och hustro Elins Gustafs dotter i Olsrud vid namn Nils, Manfolks faddrar H: Didrich i Biörkenäs och Dr Anders i Ringsta, Q: vittne h: Marja Åman, Marit Pers dotter i Olsrud.” Marg. ”död”. (bild 109). Moderns patronymikon uttryckligt; faderns saknas."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-johan_christophersson_1724_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "johan_christophersson_1724_olsrud",
+  "status": "strong",
+  "basis": "1724 nr 10, vä (s. 208): ”dito [= d. 23 Febr.] Christophers och Elins barn i Olsrud Christnades till Johan, testes Jöns Jönsson i Vägsrud[?] och Anders i Olsrud, Q. h. Marja i Olsrud, h. Ingebor Nilsd. ibid.” (bild 118)"
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-anna_christophersd_1726_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "anna_christophersd_1726_olsrud",
+  "status": "strong",
+  "basis": "1726 nr 6, hö (s. 221): ”d. [1?] April Christophers och Elins i Olsrud barn benämnd Anna, testes Måns Jönsson i Olsrud, Nils Bryngelsson i Kalen[?], Q: h. Marja Jöns d:r i Olsrud, h. Marit Pers dotter ibid.” (bild 125)"
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-christopher_christophersson_1730_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "christopher_christophersson_1730_olsrud",
+  "status": "strong",
+  "basis": "1730 nr 2, hö (s. 239): ”[1 Jan., ’item’] Christnades Christophers och Elins barn i Olsrud till Christopher, testes Per Olsson, Olof Olsson i Ringsta, Q. test. h:r Marja Åman i Ringsta, h:r Ingebor i Olsrud.” Marg.: ”begrofs 1731 d. 26 Maj”. (bild 134)"
  }
 ]
