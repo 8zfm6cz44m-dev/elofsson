@@ -280,15 +280,6 @@
       ]
     },
     {
-      "title": "Sven Ersson: Erik Påhlsson troligen STYVFAR – Högvaltas husbonde hette Erik Nilsson 1710–1713",
-      "text": "Mantalslängderna för Frykerud visar Högvalta 1710 och 1711 med ”Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’), 1712 bara Jonas Jönsson, 1713 ”Jonas Jönsson / Erich Nilsson[?]”, 1715 och 1718 ”Erich [Nilsson?/Pålsson?]” (oläsligt efternamn), 1719 ingen Högvalta-rubrik funnen, men 1720 ”Erich P[å]lsson”, 1722 ”Erich Påhlsson / Pehr Nilsson” och 1725 ”Erik Pålsson / Per Nilsson”. Samtidigt finns 1710–11 en annan Erik Påhlsson: ”Corporalen Erich Påhwelsson i Lene” (fadder 15/16 jan 1710, C/2 bild 85) och ”Rustmästarens … i Lene Erich Påhwelssons och Malin Månsdotters” son Gabriel döpt 6 febr 1711 (C/2 bild 94). Rimligaste tolkning: Kerstin Månsdotter var först gift med Erik Nilsson på Högvalta (far till Sigrid f. ~1710 och Sven f. 1718?), och gifte om sig ca 1719–20 med den f.d. korpralen/rustmästaren Erik Påhlsson från Lene (änkling efter Malin Månsdotter?). I så fall är Erik Påhlsson styvfar och Svens patronymikon ’Ersson’ kommer från Erik Nilsson. Detta är INTE bevisat: avgörande är (a) säker läsning av efternamnet 1715/1718, (b) Erik Nilssons död ca 1718–19 (Frykeruds dödbok före 1744 saknas – kolla ev. bouppteckning/Fryksdals häradsrätt), (c) vigsel Erik Påhlsson × Kerstin Månsdotter ca 1719–20 i E I/1 (C0037140) ca bild 18–20 – ej omläst av CA2.",
-      "persons": [
-        "sven_ersson",
-        "erik_palsson_hogvalta",
-        "kerstin_mansdotter_hogvalta"
-      ]
-    },
-    {
       "title": "Rensa ”Per Nilsson … Marit Nilsdotter 1748” ur övriga poster",
       "text": "Källetiketten för C0036783_00066 i per_nilsson_toltan och elof_nilsson-noter (”1748: Per Nilsson och Marit Nilsdotter”) samt Brittas dödpost-notering om ”kasuell inversion” bygger på felläsningen. Dopet 1748 säger Nils Pehrsson, liksom dödboken 1805 och vigseln 1747 – ingen inversion föreligger.",
       "persons": [
@@ -304,6 +295,20 @@
         "ca1_johan_fredrik83",
         "anders_ae48",
         "mathilda_nilsd53_gras"
+      ]
+    },
+    {
+      "title": "Två Erik Påhlsson 1710–11: Högvalta (h. Kirstin) och Lene (rustmästare, h. Malin)",
+      "text": "C/2 bild 85 hö (jan 1710) ’Corporalen Erich Påfwolsson i Lene’; bild 94 hö (6 febr 1711) ’Rustmästarens son i Lene Erich Påfwelssons och Malin Månsdotters, kallat Gabriel’ vs bild 90 hö (maj 1710) ’Erich Påfwelsons och h: Kirstin Månsd. Barn i Högvalt’. Olika hustrur och bara 8,5 mån mellan barnen ⇒ troligen två män. Vilken som är Svens far är ändå klart (Högvalta-Erik). Kolla rullor (Värmlands regemente) om Högvalta-Erik var soldat/korpral.",
+      "persons": [
+        "erik_palsson_hogvalta"
+      ]
+    },
+    {
+      "title": "Kerstin Månsdotter på Såldebråten (f. 1681) är troligen en annan kvinna",
+      "text": "C/2 bild 151 vä (1719): ’Anders Jonssons och h. Kirstin Månsd. son i Såldebråten kallad Påfwel’. Den änka Kerstin Månsdotter f. 1681 som BU5 såg på Såldebråten 1753–59 (A I/6 bild 66) är sannolikt Anders Jonssons hustru, inte Högvalta-Kerstin (som är ’Enkan’ på Högvalta i A I/5 bild 16). Födelseår 1681 bör inte föras över på kerstin_mansdotter_hogvalta utan prövning.",
+      "persons": [
+        "kerstin_mansdotter_hogvalta"
       ]
     }
   ],
@@ -4285,6 +4290,26 @@
       "persons": [
         "mathilda_nilsd53_gras"
       ]
+    },
+    {
+      "title": "Sven Ersson: Erik Påhlsson är far, inte styvfar (stängt)",
+      "text": "Flaggan ’Erik Påhlsson troligen STYVFAR – Högvaltas husbonde hette Erik Nilsson 1710–1713’ motsägs av dopboken: C/2 bild 90 hö, 22/29 maj 1710: ”Erich Påfwelsons och h: Kirstin Månsd[otter]s Barn i Högvalt. nambd Sigri.” Paret var alltså gift och bosatt på Högvalta redan 1710. Omläsning av mantalen ger ’Erich P[å]hlsson’ 1713, 1714 (A0003195_00412), 1715 och 1718; bara 1710 är osäkert (P/N). Erik i Högvalta är fadder 2 mars 1718. Sven f. 1718 föddes därmed inom äktenskapet Erik Påhlsson × Kerstin Månsdotter, och patronymikonet Ersson pekar på Erik Påhlsson. Ingen ’Erik Nilsson’ med barn i Högvalta finns i C/2 1709–1711. (Svens egen dopnotis saknas fortfarande.)",
+      "persons": [
+        "sven_ersson",
+        "erik_palsson_hogvalta",
+        "kerstin_mansdotter_hogvalta"
+      ]
+    },
+    {
+      "title": "Sven Ersson: Erik Påhlsson troligen STYVFAR – Högvaltas husbonde hette Erik Nilsson 1710–1713",
+      "text": "Mantalslängderna för Frykerud visar Högvalta 1710 och 1711 med ”Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’), 1712 bara Jonas Jönsson, 1713 ”Jonas Jönsson / Erich Nilsson[?]”, 1715 och 1718 ”Erich [Nilsson?/Pålsson?]” (oläsligt efternamn), 1719 ingen Högvalta-rubrik funnen, men 1720 ”Erich P[å]lsson”, 1722 ”Erich Påhlsson / Pehr Nilsson” och 1725 ”Erik Pålsson / Per Nilsson”. Samtidigt finns 1710–11 en annan Erik Påhlsson: ”Corporalen Erich Påhwelsson i Lene” (fadder 15/16 jan 1710, C/2 bild 85) och ”Rustmästarens … i Lene Erich Påhwelssons och Malin Månsdotters” son Gabriel döpt 6 febr 1711 (C/2 bild 94). Rimligaste tolkning: Kerstin Månsdotter var först gift med Erik Nilsson på Högvalta (far till Sigrid f. ~1710 och Sven f. 1718?), och gifte om sig ca 1719–20 med den f.d. korpralen/rustmästaren Erik Påhlsson från Lene (änkling efter Malin Månsdotter?). I så fall är Erik Påhlsson styvfar och Svens patronymikon ’Ersson’ kommer från Erik Nilsson. Detta är INTE bevisat: avgörande är (a) säker läsning av efternamnet 1715/1718, (b) Erik Nilssons död ca 1718–19 (Frykeruds dödbok före 1744 saknas – kolla ev. bouppteckning/Fryksdals häradsrätt), (c) vigsel Erik Påhlsson × Kerstin Månsdotter ca 1719–20 i E I/1 (C0037140) ca bild 18–20 – ej omläst av CA2.",
+      "persons": [
+        "sven_ersson",
+        "erik_palsson_hogvalta",
+        "kerstin_mansdotter_hogvalta"
+      ],
+      "kind": "resolved",
+      "resolution": "CB6: dop 22/29 maj 1710 (C/2 bild 90 hö) ”Erich Påfwelsons och h: Kirstin Månsd:s Barn i Högvalt. nambd Sigri” + mantal 1713–18 läses Påhlsson – Erik Påhlsson var Högvaltas husbonde och gift med Kerstin redan 1710; styvfarshypotesen faller."
     }
   ],
   "backlog": [

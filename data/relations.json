@@ -14307,5 +14307,32 @@
   "b": "cb5_stina_nilsd56_langnas",
   "status": "verified",
   "basis": "Gräsmark A I/18b bild 132 s.509, samma föräldrar"
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-sigri_ersd_1710_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "sigri_ersd_1710_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/2 bild 90 hö, 22/29 maj 1710: ”Erich Påfwelsons och h: Kirstin Månsd[otter]s Barn i Högvalt. nambd Sigri.”"
+ },
+ {
+  "id": "p-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta",
+  "type": "partner",
+  "a": "erik_palsson_hogvalta",
+  "b": "kerstin_mansdotter_hogvalta",
+  "status": "verified",
+  "basis": "Dop 1710 C/2 bild 90 hö (”Erich Påfwelsons och h: Kirstin Månsd.”); A I/1 bild 41 och A I/3 bild 18 (”Erik Påhlsson / H: Kerstin Månsd.”). Gifta senast 1709."
+ },
+ {
+  "id": "s-sigri_ersd_1710_hogvalta-sven_ersson",
+  "type": "sibling",
+  "a": "sigri_ersd_1710_hogvalta",
+  "b": "sven_ersson",
+  "status": "strong",
+  "basis": "Båda barn till Erik Påhlsson och Kerstin Månsdotter (dop 1710 bild 90 hö; A I/1 bild 41 ’D: Sigrid … Swen Ericsson’)."
  }
 ]
