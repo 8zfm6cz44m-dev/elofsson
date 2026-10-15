@@ -10572,7 +10572,7 @@
  },
  {
   "id": "per_nilsson_toltan",
-  "name": "Per Nilsson i Toltan",
+  "name": "Per Nilsson (Ö. Takene, g. 1716, d. 1741)",
   "status": "lead",
   "sex": "m",
   "living": false,
@@ -10581,9 +10581,9 @@
    "note": "Beräknat: 56 år vid död april 1741."
   },
   "places": [
-   "Toltan, Brunskog"
+   "Ö. Takene, Brunskog"
   ],
-  "summary": "Per Nilsson i Toltan: 1721 och jan 1724 hustru Karin Olufsdotter (barn [överstruket] 1721; tvillingarna Pär och Ingerd 15/1 1724). 1729: ”Elof och Pehr Nilssonar i Toltan”; 1748: Per Nilsson och Marit Nilsdotter (dotter Britta). Möjlig bror till Elof Nilsson – ej bevisat; Per i 1721/24 och 1748 kan vara samma man med två hustrur (ej bevisat).",
+  "summary": "Per Nilsson kom 1716 utifrån (”ifrån [Kolbotten?] å Kantewijk[?]”) och gifte sig 10/6 1716 med Karin Olufsdotter i Ö. Takene; bonde i Ö. Takene (mantal 1718–1720, 1729), barn 1719–1727; dödad i skogen 6/4 1741, begr. 12/4 1741, 56 år. Inte identisk med någon ”Per Nilsson i Toltan” – 1729-fadder = Påhl Nilsson, 1747/1748 = Nils Pehrsson.",
   "notes": [
    "Identitet mellan Per Nilsson 1729 och Per Nilsson 1748 ej bevisad.",
    "MANTALSLÄNGD 1712 (A0003193_00445, block 'Öst. Tortan'): ”Per Nilsson” bland Toltans bönder (efter Daniel Ersson?, före Olof Hansson). Stöder att Per Nilsson bor i Toltan redan 1712 (bror till Elof? ej bevisat).",
@@ -10595,7 +10595,12 @@
    "MANTAL 1712 (D5, A0003193_00445 hö, omläst med zoom): rubrik 'Öst. Torten' (stavat 'Öst: Torten'), enda Toltan-gruppen; namn: [Anders?/Börje?] Bryntesson, Hans Ersson, 'Per Nilsson' (tydligt läst, 3:e namnet), Claes Hansson, Börje Bryntesson, 'Gustafs änka Brita'. Gruppen ligger efter Åsen ('Åsnäs': Olof Andersson, Per Nilsson, Nils Nilsson, Erik Larsson/Hansson, Johan Jonsson, Nils Åsnäs?; OBS även en 'Per Nilsson' i Åsen-gruppen 1712!) och före Gryttorn. Ö. Takene 1712 (samma uppslag, hö överst): Nils Persson?, Erik Larsson/Persson, Nils Jönsson, Olof Nilsson, Olof Gunnarsson, Olof Olofsson, Håkan Nilsson, Per Ersson?, Olof Nilsson. 1713 (A0003194_00483 vä): 'Öst. Torten' = [Anders?] Bryntesson, Hans Ersson, Daniel Andersson, Olof Hansson, Börje Bryntesson, Gustafs änka Brita – ingen Per Nilsson 1713. Per Nilsson (1712) kan alltså vara Åsen- eller Toltan-man; ingen 'Isak' i någon av grupperna.",
    "BU6 DÖD: E I/1 bild 90 hö, 1741 nr 5: ”d 12 Apr. Per Nilsson i Tolanen [Toltan], som warit berömlig Man, lefwat med Karin Olofsdotter från d 10 Junii 1716, til d 6 Apr. 1741, tå han i Nol-[?] Skog wid Nya hammarens … blef til döds slagen … Hans ålder … til 56 åhr.” → f. ca 1685, gift 10/6 1716 med Karin Olofsdotter. Karin levde alltså 1741 – Per Nilsson och Marit Nilsdotter 1748 är därmed en annan Per (eller Per gifte aldrig om sig). Per f. ca 1685 passar i åldersföljden för Nils Christophersons barn (MyHeritage-syskonlistan har en ”Per Nilsson”) – oprövat.",
    "CA5: Per Nilsson (begr. 12/4 1741, 56 år) och hustru Karin Olofsdotter bodde i Ö. Takene, inte Toltan: vigsel 1716 ”Karin Olufsdotter i Ö: Talene”, dop 1721/1724 ”i Talene/Talena” (samma poster har separat ”Tolta”), begravning 1741 ”Per Nilsson i Ta[k]ene”. Repo-läsningen ”Tolanen [Toltan]” i E I/1 bild 90 är felaktig. Han kom 1716 ”ifrån [Kolbotten?] å Kantewijk[?]”. Därmed är han sannolikt en annan man än ”Pehr Nilsson i Toltan” (fadder 1729) och Per Nilsson x Marit Nilsdotter i Toltan 1748 – mantalets Per Nilsson i Ö. Takene 1718–1720 passar honom. Föreslår att posten delas: Per Nilsson i Ö. Takene (g. 1716, d. 1741) resp. Per Nilsson i Toltan (1729/1748).",
-   "CA5: Fadder 1721 ”Lars Nilss: i Tolta” (C I/1 bild 134 hö nr 30) – möjlig släkting, ej utrett."
+   "CA5: Fadder 1721 ”Lars Nilss: i Tolta” (C I/1 bild 134 hö nr 30) – möjlig släkting, ej utrett.",
+   "CB3 OMLÄSNING DOP 1748 (C I/2 bild 66 vä, nr 9, zoom): ”d 4 Martii Nils Pehrssons och hust. Marit Nilsdotters i Toltan dotter Britta. Fadd. Elof Nilsson i Toltan, Christopher Påhlsson i Toltan eller Åsen; hustru Ingrid Elofsdotter i Toltan, Kerstin Olofsdotter i Toltan.” Fadern är Nils Pehrsson (= nils_ihrsson_toltan), INTE Per Nilsson. Uppgiften ”Per Nilsson och h. Marit Nilsdotter 1748” är en felläsning.",
+   "CB3 VIGSEL 1747 (E I/1 bild 65 hö, 1747 nr 5): ”d 17 Maji Dr. Nils Pehrsson från Öst. Takene, Pig. Marit Nilsdotter i Toltan.” – Marit Nilsdotters man är Nils Pehrsson (nils_ihrsson_toltan, f. 1/1 1719 Ö. Takene), stämmer med hans dödpost 1785 (”gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan”). Ingen vigsel Per Nilsson × Marit Nilsdotter.",
+   "CB3 KONTROLL DOP 1729 (C I/1 bild 176 vä, nr 7, zoom): ”d 12 Febr. Nils Nilssons och h. Britta Claesd:rs i Skog Barn, som kallades Anders. Fadd. Elof och Påhl Nilssonar i Toltan, Hust. Gertrud Bondesd:r ibm, Karin Nilsd:r i Skog.” – ”Påhl” (med hans hustru Gertrud Bondesdotter direkt efter), inte Pehr. Bekräftar BU4.",
+   "CB3 MANTAL 1729 (A0003208 bild 570 vä, gruppen ”Öst. Takene”): raderna läses [Nils Larsson?]; {Nils Bengtsson / Per Bengtsson}; {Anund Nilsson? / Per Olofsson}; {Gustaf Persson? / Jacob Larsson}; ”Per Nilsson”; ”Nils Larsson”; ”Olof Larsson”; ”Per Gudmundsson”; Olof Olofsson … – Per Nilsson står som bonde i Ö. Takene 1729. I gruppen efter ”Öst. Torten” på högersidan (läst som ”Gyltarud”): ”Per Andersson”, ”Påhl Nilsson”, ”Gustaf Dordi” … – ingen Per Nilsson där.",
+   "CB3 SLUTSATS: Alla belägg för en ”Per Nilsson i Toltan” efter 1716 försvinner vid omläsning: (1) fadder 1729 = ”Elof och Påhl Nilssonar i Toltan” (C I/1 bild 176); (2) dop 4/3 1748 = ”Nils Pehrssons och hust. Marit Nilsdotters i Toltan dotter Britta” (C I/2 bild 66); (3) vigsel 17/5 1747 = ”Dr. Nils Pehrsson från Öst. Takene, Pig. Marit Nilsdotter i Toltan” (E I/1 bild 65). Det finns alltså ingen andra man att dela ut – posten ska bara byta ort/namn till Ö. Takene och tappa de Toltan-baserade relationerna. ”Per Nilsson” i Toltan-grupperna i mantalet 1707–1712 är en tidigare man (sannolikt Påhl Nilsson f. ca 1677, jfr backlog-flaggan) och kan inte vara Ö. Takene-Per, som kom utifrån 1716."
   ],
   "sources": [
    {
@@ -10636,12 +10641,13 @@
    }
   ],
   "search": [
+   "Per Nilsson i Ö. Takene",
    "Per Nilsson i Toltan"
   ],
   "died": {
    "date": "1741-04-06",
-   "place": "Toltan, Brunskog",
-   "note": "E I/1 bild 90 hö, 1741 nr 5: dödad av olyckshändelse i skogen 6 april, begr. 12 april 1741, 56 år."
+   "place": "Ö. Takene, Brunskog",
+   "note": "E I/1 bild 90 hö, 1741 nr 5: ”Per Nilsson i Ta[k]ene … blef til döds slagen … 56 åhr”; begr. 12/4 1741."
   }
  },
  {
@@ -10746,7 +10752,8 @@
    "Dop 1748 (C0036783_00066): ”Nils Pehrsson och Hust. Marit Nilsdotter i Toltan Dotter Britta” – fadern heter Persson, inte Ihrsson.",
    "BU1 OMLÄSNING C I/2 bild 90 (förstoring): nr 23 ”d 7 Julii Nils Pehrssons och hust. [Marit Nilsdotter] i Toltan Son Olof. Faddr. Nils Olofsson i Toltan, Erik Nilsson i Toltan; hust. Ingrid [Elofsd.?] i Åsen, Karin Nilsdotter i Toltan.” Första bokstaven i patronymikonet är exakt samma slingrade P som i ”Pehr Svenssons” (nr 19, 2 maj, samma sida) och i fadderraden ”Nils Pehrsson i Toltan” (vänstersidan, 25 mars, tvillingarna Nils och Karin). ’Ihrsson’ var en felläsning – fadern heter Nils Pehrsson, samma som i dopet 1748 (bild 66) och Brittas dödpost 1805 (F I/1 b.94).",
    "BU5 FÖRÄLDRAR (verified): dop 1/1 1719 (C I/1 bild 121) ”Per Larssons och h: Ingrid Olufsd:rs barn i Takene wid namn Nils” + dödbok 1785 (F I/1 bild 14) ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f. Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan”. Dopposten har marginalnoten ”785 8/5 begrofs”, som knyter ihop de två källorna.",
-   "BU5 MYHERITAGE (6 matchningar): Nils Persson ca 1719/1723–1785/86; två träd kallar honom ”Nils Tolson/Tholson” (troligen sammanblandning med annan Nils); dotter Britta Olsson f. Nilsdotter."
+   "BU5 MYHERITAGE (6 matchningar): Nils Persson ca 1719/1723–1785/86; två träd kallar honom ”Nils Tolson/Tholson” (troligen sammanblandning med annan Nils); dotter Britta Olsson f. Nilsdotter.",
+   "CB3: vigseln 17/5 1747 funnen (E I/1 bild 65 hö nr 5) – bekräftar dödbokens ”gift 1747 17/5”. Dopet 1748 (C I/2 bild 66 nr 9) ger tydligt ”Nils Pehrssons”, inte Per Nilsson."
   ],
   "sources": [
    {
@@ -10772,6 +10779,14 @@
    {
     "label": "Riksarkivet, Brunskog dödbok F I/1 (1785), bild 14 hö, nr 10 (begr. 3 maj): ”Kyrkwärden Mr Nils Persson från Toltan, född 1719 1/1 på Ö. Takene, f[ader] Per Larsson, Mod. Ingrid Olofsd:r; gift 1747 17/5 med Pig. Marit Nilsdotter i Toltan … 66 1/3 år”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036789_00014"
+   },
+   {
+    "label": "Riksarkivet, Brunskog vigselbok E I/1, bild 65 hö, 1747 nr 5: ”d 17 Maji Dr. Nils Pehrsson från Öst. Takene, Pig. Marit Nilsdotter i Toltan.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036786_00065"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/2, bild 66 vä, 1748 nr 9: ”d 4 Martii Nils Pehrssons och hust. Marit Nilsdotters i Toltan dotter Britta. Fadd. Elof Nilsson i Toltan, Christopher Påhlsson i Toltan eller Åsen; hustru Ingrid Elofsdotter i Toltan, Kerstin Olofsdotter i Toltan.”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036783_00066"
    }
   ],
   "search": [
@@ -16313,7 +16328,8 @@
   "summary": "Hustru Britta Nilsdotter från Toltan, f. 1748 ibid. som dotter till Nils Persson och Marit Nilsdotter; gift 1773 med drängen Per Olofsson från Skog (då tjänande i Toltan) som efterlevde; 9 barn varav 2 döttrar levde; död 22/2 1805, begravd 25/3 1805. Möjlig syster till Olof Nilsson (f. 1754 Toltan, föräldrar ’Nils Ihrsson(?) och Marit Nilsd.’) – fadersnamnet Persson/Ihrsson måste avgöras.",
   "notes": [
    "DÖDBOK F I/1 1805 bild 94 (s. 161) nr 10 (margin ”25 | 10”): ”Hust. Britta Nilsd. fr Toltan född ibid. 1748 ⁴⁄ₘ af Nils Persson och H. Marit Nilsd. Rev. Gift 1773 med Dr Per Olofsson fr. Skog, då tjenande i Toltan, hvilken efterlefver, och haft med honom 9 barn, af hvilka 2:ne döttrar lefva. Varit en god maka, [huld] moder, klok husmoder, … Sjuknade den 22 sistl. Febr. …” Skarpt läsbar högupplöst bild; ”Nils Persson” står tydligt.",
-   "KORRIGERING (F I/1 bild 94–95, högupplöst): dödsdag 10 mars 1805 – raden slutar på nästa sida ”… att Hon d. 10 Martii stilla afsomnade efter en lefnad af 57 åhr 6 dagar”; 22 febr är insjuknandet. 57 år 6 dagar från 4/3 1748 ger exakt 10/3 1805 => födelse 4 mars 1748 = dopet C I/2 bild 66 (”d 4 Martii Per Nilsson och h. Marit Nilsdotter i Toltan, dotter Britta”). Dödboken skriver fadern som ”Nils Persson” (förmodligen kasuell ombyte av Per Nilsson) – hon är alltså dotter till Per Nilsson i Toltan och Marit Nilsdotter. Gift 1773 med drängen Per Olofsson fr. Skog."
+   "KORRIGERING (F I/1 bild 94–95, högupplöst): dödsdag 10 mars 1805 – raden slutar på nästa sida ”… att Hon d. 10 Martii stilla afsomnade efter en lefnad af 57 åhr 6 dagar”; 22 febr är insjuknandet. 57 år 6 dagar från 4/3 1748 ger exakt 10/3 1805 => födelse 4 mars 1748 = dopet C I/2 bild 66 (”d 4 Martii Per Nilsson och h. Marit Nilsdotter i Toltan, dotter Britta”). Dödboken skriver fadern som ”Nils Persson” (förmodligen kasuell ombyte av Per Nilsson) – hon är alltså dotter till Per Nilsson i Toltan och Marit Nilsdotter. Gift 1773 med drängen Per Olofsson fr. Skog.",
+   "CB3: Dopet 4/3 1748 (C I/2 bild 66 vä nr 9) lyder ”Nils Pehrssons och hust. Marit Nilsdotters i Toltan dotter Britta” – stämmer med dödboken 1805 (”af Nils Persson och H. Marit Nilsd.”); ingen inversion. Hon är inte dotter till per_nilsson_toltan."
   ],
   "sources": [
    {

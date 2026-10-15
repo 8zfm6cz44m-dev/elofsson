@@ -280,23 +280,21 @@
       ]
     },
     {
-      "kind": "open",
-      "title": "Per Nilsson (per_nilsson_toltan) är troligen två män – Ö. Takene (g. 1716, d. 1741) och Toltan (1729/1748, g.m. Marit Nilsdotter)",
-      "text": "CA5: Talene/Tolena i dop 1721/1724 och vigsel 1716 = Takene; Per Nilssons begravning 1741 (E I/1 bild 90 hö) läses ”Per Nilsson i Ta[k]ene”, inte Toltan. Per Nilsson i Toltan 1729 och 1748 med hustru Marit Nilsdotter är sannolikt en annan man. Dela per_nilsson_toltan i två personer efter kontroll av Toltan-mantalet 1729–48 och relationerna s-elof_nilsson-per_nilsson_toltan / c-nils_larsson_toltan-per_nilsson_toltan (båda lead, Toltan-baserade).",
-      "persons": [
-        "per_nilsson_toltan",
-        "karin_olofsd_toltan",
-        "elof_nilsson",
-        "nils_larsson_toltan"
-      ]
-    },
-    {
       "title": "Sven Ersson: Erik Påhlsson troligen STYVFAR – Högvaltas husbonde hette Erik Nilsson 1710–1713",
       "text": "Mantalslängderna för Frykerud visar Högvalta 1710 och 1711 med ”Jonas Jönsson / Erich Nilsson” (tydligt ’Nilsson’), 1712 bara Jonas Jönsson, 1713 ”Jonas Jönsson / Erich Nilsson[?]”, 1715 och 1718 ”Erich [Nilsson?/Pålsson?]” (oläsligt efternamn), 1719 ingen Högvalta-rubrik funnen, men 1720 ”Erich P[å]lsson”, 1722 ”Erich Påhlsson / Pehr Nilsson” och 1725 ”Erik Pålsson / Per Nilsson”. Samtidigt finns 1710–11 en annan Erik Påhlsson: ”Corporalen Erich Påhwelsson i Lene” (fadder 15/16 jan 1710, C/2 bild 85) och ”Rustmästarens … i Lene Erich Påhwelssons och Malin Månsdotters” son Gabriel döpt 6 febr 1711 (C/2 bild 94). Rimligaste tolkning: Kerstin Månsdotter var först gift med Erik Nilsson på Högvalta (far till Sigrid f. ~1710 och Sven f. 1718?), och gifte om sig ca 1719–20 med den f.d. korpralen/rustmästaren Erik Påhlsson från Lene (änkling efter Malin Månsdotter?). I så fall är Erik Påhlsson styvfar och Svens patronymikon ’Ersson’ kommer från Erik Nilsson. Detta är INTE bevisat: avgörande är (a) säker läsning av efternamnet 1715/1718, (b) Erik Nilssons död ca 1718–19 (Frykeruds dödbok före 1744 saknas – kolla ev. bouppteckning/Fryksdals häradsrätt), (c) vigsel Erik Påhlsson × Kerstin Månsdotter ca 1719–20 i E I/1 (C0037140) ca bild 18–20 – ej omläst av CA2.",
       "persons": [
         "sven_ersson",
         "erik_palsson_hogvalta",
         "kerstin_mansdotter_hogvalta"
+      ]
+    },
+    {
+      "title": "Rensa ”Per Nilsson … Marit Nilsdotter 1748” ur övriga poster",
+      "text": "Källetiketten för C0036783_00066 i per_nilsson_toltan och elof_nilsson-noter (”1748: Per Nilsson och Marit Nilsdotter”) samt Brittas dödpost-notering om ”kasuell inversion” bygger på felläsningen. Dopet 1748 säger Nils Pehrsson, liksom dödboken 1805 och vigseln 1747 – ingen inversion föreligger.",
+      "persons": [
+        "per_nilsson_toltan",
+        "britta_nilsd_toltan48",
+        "nils_ihrsson_toltan"
       ]
     }
   ],
@@ -4258,6 +4256,19 @@
       ],
       "kind": "resolved",
       "resolution": "Löst av CA4."
+    },
+    {
+      "title": "Per Nilsson (per_nilsson_toltan) är troligen två män – Ö. Takene (g. 1716, d. 1741) och Toltan (1729/1748, g.m. Marit Nilsdotter)",
+      "text": "CB3: Det finns bara EN man. ”Per Nilsson i Toltan 1729/1748” är felläsningar: 1729 = ”Elof och Påhl Nilssonar i Toltan” (C I/1 bild 176); 1748 = ”Nils Pehrssons och hust. Marit Nilsdotters i Toltan dotter Britta” (C I/2 bild 66); vigseln 17/5 1747 = ”Dr. Nils Pehrsson från Öst. Takene, Pig. Marit Nilsdotter i Toltan” (E I/1 bild 65) – Marit Nilsdotters man är nils_ihrsson_toltan (Nils Persson f. 1719), som redan står som far till britta_nilsd_toltan48. Åtgärd: byt namn/ort på per_nilsson_toltan till Ö. Takene, behåll p-/c-relationerna med Karin Olofsdotter, ta bort s-elof_nilsson-per_nilsson_toltan och c-nils_larsson_toltan-per_nilsson_toltan. Inget nytt id behövs (cb3_per_nilsson_toltan skapas INTE).",
+      "persons": [
+        "per_nilsson_toltan",
+        "karin_olofsd_toltan",
+        "elof_nilsson",
+        "nils_larsson_toltan",
+        "nils_ihrsson_toltan",
+        "pal_nilsson_hagen",
+        "britta_nilsd_toltan48"
+      ]
     }
   ],
   "backlog": [

@@ -2291,8 +2291,8 @@
   "type": "sibling",
   "a": "elof_nilsson",
   "b": "per_nilsson_toltan",
-  "status": "lead",
-  "basis": "C I/1 bild 176, 1729: ”Fadd: Elof och Pehr Nilssonar i Toltan”. Ej bevisat."
+  "status": "excluded",
+  "basis": "C I/1 bild 176, 1729: ”Fadd: Elof och Pehr Nilssonar i Toltan”. Ej bevisat. | CB3: AVFÖRD – TA BORT. Enda basis var fadderraden 1729, som lyder ”Fadd. Elof och Påhl Nilssonar i Toltan, Hust. Gertrud Bondesd:r ibm” (C I/1 bild 176 vä nr 7, C0036782_00176). Syskonhypotesen gäller Påhl Nilsson (finns redan som s-elof_nilsson-pal_nilsson_hagen, candidate). Per Nilsson i Ö. Takene kom utifrån 1716 (E I/1 bild 32)."
  },
  {
   "id": "c-nils_jonsson22-marit_jonsd21-marit_nilsd54",
@@ -4482,8 +4482,8 @@
    "nils_larsson_toltan"
   ],
   "child": "per_nilsson_toltan",
-  "status": "lead",
-  "basis": "Samma bakgrund som Elof: patronymikon Nilsson i Toltan, ingen primärkälla."
+  "status": "excluded",
+  "basis": "Samma bakgrund som Elof: patronymikon Nilsson i Toltan, ingen primärkälla. | CB3: AVFÖRD – TA BORT. Basis var ”patronymikon Nilsson i Toltan”; per_nilsson_toltan bodde i Ö. Takene och kom 1716 ”ifrån [Kolbotten?] å Kantewijk[?]” (E I/1 bild 32 hö, C0036786_00032) – ingen koppling till Nils Larsson i Toltan (d. 1715, 80 år)."
  },
  {
   "id": "c-anders_persson_vakarr_1851-brita_cajsa_andersdotter_1851-karolina_christina_andersdotter_1839",
