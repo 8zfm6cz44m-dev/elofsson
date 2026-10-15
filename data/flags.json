@@ -214,9 +214,9 @@
    "title": "Karin Olofsdotter 1695 (al5_karin_olofsd95) = Karin Olufsdotter g. 1716 med Per Nilsson (karin_olofsd_toltan)? – och Toltan/Takene-läsningen",
    "text": "BW5 läser dopet 1695 (C I/1 bild 42) och vigseln 1716 (E I/1 bild 32 hö) som ”Ö. Takene”, inte Toltan. Repo har dopet under ”Ö. Toltan” (al5_olof_nilsson_otoltan) och paret Per Nilsson/Karin under ”Toltan” (Tolena/Talena i dopen 1721/1724). Mantalet: Olof Nilsson i Öst. Takene 1690–1715; Per Nilsson i Ö. Takene 1718–1720. Föreslår: al5_olof_nilsson_otoltan och olof_nilsson_10 är troligen samma man (Oluf Nilsson i Ö. Takene) och Karin 1695 = Karin g. 1716 (strong efter omprövning). Kontrollera Tolena/Talena-läsningen i bild 134/149 och Per Nilssons begravning 1741 (E I/1 bild 90).",
    "persons": [
-    "al5_karin_olofsd95",
     "karin_olofsd_toltan",
-    "al5_olof_nilsson_otoltan",
+    "karin_olofsd_toltan",
+    "olof_nilsson_10",
     "olof_nilsson_10",
     "per_nilsson_toltan"
    ]
@@ -307,6 +307,24 @@
    "text": "PL4: Geneteka B (w=13sk) Socha, förnamn Marianna, 1814–1822: 9 träffar, endast Nawarzyce (1816, 1817 ×2), Obrazów (1819, 1821) och Kije – avlägsna socknar, föräldrar utan koppling. Socha (alla förnamn) 1815–1822: endast Odrowąż 1815 och Nawarzyce. Inga Socha i Morawica/Chęciny/Kielce/Brzeziny i indexet. Brzeziny 1819 är inte skannat på Skanoteka (enhetslistan hoppar 1818→1820) och saknas i Geneteka. Vigselakt 1833 akt 3 anger inga föräldrar (redan bildläst; ej omläst nu). Brzeziny dödsindex 1843–1846 (SkZ) innehåller ingen Maryanna Zatorska. Kvar: Brzeziny 1819 (AP Kielce/stiftsarkivet), Brzeziny dödsfall 1847–1851 (index hämtade men ej genomlästa).",
    "persons": [
     "maryanna_socha"
+   ]
+  },
+  {
+   "title": "Lisa Larsdotter (f. 1752) – från Gransjön i Glava, föräldrar ej funna",
+   "text": "CA5: Vigseln 1779 (Brunskog E I/2 bild 34) ger troligen ”från Gransjön i Glafwa S:”. Glava B/1 utflyttade 1778–80 och inflyttade 1770–79 saknar henne; Glava A I/1 (från 1779) Gransjön fol. 69–70 saknar henne; Glava har inga husförhör före 1779. Tidigare (BW3) negativt i Glava dop 1752–53 och Nedre/Övre Ullerud dop 1752–53. Nästa steg: Glava dop C I/4 (C0037354) 1750–56 för en Lisa med far Lars i Gransjön (födelseår kan avvika), Glava död F I/1 (C0037360) för Lars i Gransjön, Ullerud husförhör (Övre Ullerud A I/2 C0039810 1769–76; Nedre Ullerud A I/n) för en Lars-familj som flyttat till Glava, och Ullerud dop 1749–1755 (bredare intervall).",
+   "persons": [
+    "lisa_larsd_takene93"
+   ]
+  },
+  {
+   "kind": "open",
+   "title": "Per Nilsson (per_nilsson_toltan) är troligen två män – Ö. Takene (g. 1716, d. 1741) och Toltan (1729/1748, g.m. Marit Nilsdotter)",
+   "text": "CA5: Talene/Tolena i dop 1721/1724 och vigsel 1716 = Takene; Per Nilssons begravning 1741 (E I/1 bild 90 hö) läses ”Per Nilsson i Ta[k]ene”, inte Toltan. Per Nilsson i Toltan 1729 och 1748 med hustru Marit Nilsdotter är sannolikt en annan man. Dela per_nilsson_toltan i två personer efter kontroll av Toltan-mantalet 1729–48 och relationerna s-elof_nilsson-per_nilsson_toltan / c-nils_larsson_toltan-per_nilsson_toltan (båda lead, Toltan-baserade).",
+   "persons": [
+    "per_nilsson_toltan",
+    "karin_olofsd_toltan",
+    "elof_nilsson",
+    "nils_larsson_toltan"
    ]
   }
  ],
@@ -4204,6 +4222,17 @@
     "anders_ae48",
     "anders_ae48",
     "mathilda_nilsd53_gras"
+   ]
+  },
+  {
+   "title": "Karin Olofsdotter 1695 (al5_karin_olofsd95) = Karin Olufsdotter g. 1716 med Per Nilsson (karin_olofsd_toltan) – och Toltan/Takene-läsningen",
+   "text": "CA5: Talene/Talena/Tolena i 1716–1741 = Takene. Samma poster skiljer uttryckligen ”i Talene” från ”i Tolta” (dop 1721 nr 30, bild 134 hö: fadder ”Anund Olufss: i Talene, Lars Nilss: i Tolta”; vigselsidan 1716, E I/1 bild 32 hö: ”Karin Olufsdotter i Ö: Talene” resp. ”Nils [E/H]ansson i Tolta”), och Olof Gunmundsson ”i Talene” (vigd 10/6 1716) begravs 1753 ”från Takenn” (E I/2 bild 121 nr 13). Dopet 1695 (bild 42 vä) lyder ”Oluf Nilsons barn i Ö. Takene, dotter Karin”. Karin Olofsdotter, änka efter Per Nilsson, begravs 25/3 1754 ”från Öst. Takenn, 59 åhr” (E I/2 bild 122 nr 7) → f. ca 1695. FÖRSLAG: slå ihop al5_karin_olofsd95 in i karin_olofsd_toltan (byt namn till ”Karin Olofsdotter (Ö. Takene, 1695–1754)”, ort Ö. Takene), föräldrarelation till olof_nilsson_10 som strong; slå ihop al5_olof_nilsson_otoltan in i olof_nilsson_10 (samma doppost 1695/1697 – ren dubblett). Rätta per_nilsson_toltan: Per Nilsson g. 1716/d. 1741 bodde i Ö. Takene (”Per Nilsson i Ta[k]ene”, E I/1 bild 90 hö), inte Toltan; Toltan-mannen 1729/1748 är troligen en annan Per.",
+   "persons": [
+    "karin_olofsd_toltan",
+    "karin_olofsd_toltan",
+    "olof_nilsson_10",
+    "olof_nilsson_10",
+    "per_nilsson_toltan"
    ]
   }
  ],

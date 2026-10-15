@@ -6260,14 +6260,14 @@
   "basis": "A I/1 bild 55: Påhl Månsson/Elin Nilsdotter, ”måg Pehr Larsson / H: Brita Påhlsdotter / S: Jonas Påhlsson” samma hushåll VERIFIERAD (omgång 24): Riksarkivet, Frykerud husförhör A I/1 (1725-29) C0037102_00055 (Rörbäcken, vänster sida, omläst): ”Pähl Månsson / H: Elin Nilsdotter / måg: Pehr Larsson(?) / H: Brita Påhlsd(otter) / S: Jonas Påhlsson” – hushåll med Påhl Månsson och Elin Nilsdotter; Brita är hustru till svärsonen (måg) och har patronymikonet Påhlsdotter, dvs dotter i hushållet; Jonas Påhlsson är son. Jonas relation till föräldrarna är redan verified (c-fr_palmansson_rorbacken-fr_elinnilsd_rorbacken-fr_jonaspalsson, dop C/2 bild 95). Läsning av Britas patronymikon något trunkerad (osäker)."
  },
  {
-  "id": "c-al5_olof_nilsson_otoltan-al5_karin_olofsd95",
+  "id": "c-olof_nilsson_10-karin_olofsd_toltan",
   "type": "child",
   "parents": [
-   "al5_olof_nilsson_otoltan"
+   "olof_nilsson_10"
   ],
-  "child": "al5_karin_olofsd95",
-  "status": "verified",
-  "basis": "Dop 1695 (Reminiscere): ”Olof Nilsson barn i O. Takner(Toltan), dotter Karin” – Brunskog dop C I/1 bild 42."
+  "child": "karin_olofsd_toltan",
+  "status": "strong",
+  "basis": "Dop 1695 (Reminiscere): ”Olof Nilsson barn i O. Takner(Toltan), dotter Karin” – Brunskog dop C I/1 bild 42. | CA5: dopet 1695 (Oluf Nilsons barn i Ö. Takene, dotter Karin) knyts till Karin g. 1716 via ort + ålder 59 vid begravning 1754 – identiteten slutledd, därför strong."
  },
  {
   "id": "c-al5_lasse_erichsson_toltan-al5_nils_lassesson99",
@@ -13602,22 +13602,12 @@
   "basis": "C I/1 bild 46 hö (1697): ”Dnca 2d. post Paschae. Oluf Nilssons barn i Ö. Takene s. Mattes”. Mantalet 1694–1696 har bara en Olof Nilsson i Öst. Takene. (Om olof_nilsson_10 = Ingrids far är fortfarande MyHeritage/candidate.)"
  },
  {
-  "id": "s-al5_karin_olofsd95-mattes_olufsson_1697",
+  "id": "s-karin_olofsd_toltan-mattes_olufsson_1697",
   "type": "sibling",
-  "a": "al5_karin_olofsd95",
+  "a": "karin_olofsd_toltan",
   "b": "mattes_olufsson_1697",
   "status": "strong",
   "basis": "Båda döpta som ”Oluf Nilssons barn i Ö. Takene” (C I/1 bild 42 vä 1695, bild 46 hö 1697); endast en Olof Nilsson i Öst. Takene i mantalet 1694–1696. Modern nämns inte."
- },
- {
-  "id": "c-olof_nilsson_10-karin_olofsd_toltan",
-  "type": "child",
-  "parents": [
-   "olof_nilsson_10"
-  ],
-  "child": "karin_olofsd_toltan",
-  "status": "candidate",
-  "basis": "Vigsel E I/1 bild 32 hö (1716): ”Pig. Karin Olufsdotter i Ö: Takene” g.m. Per Nilsson; trolig identitet med Karin döpt 1695 som ”Oluf Nilssons barn i Ö. Takene” (bild 42) – namn, by och ålder (21 år) stämmer, Per Nilsson står i Ö. Takene-mantalet 1718–1720. Ingen källa säger uttryckligen att bruden är Oluf Nilssons dotter."
  },
  {
   "id": "c-elof_ersson_persjon-maria_olofsd_persjon-lisken_elofsd27_persjon",
