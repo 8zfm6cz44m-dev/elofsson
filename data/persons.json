@@ -26095,8 +26095,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1853-06-19",
-   "place": "Gräsmark"
+   "date": "1853-06-17",
+   "place": "Långnäs, Gräsmark",
+   "note": "född 17/6, döpt 19/6 1853 (dop C I/5 bild 125 ”17 | 19”; husförhör A I/18b bild 132 ”17/6 53”). Nedre Ullerud-längden anger 19/6 = dopdagen."
   },
   "places": [
    "Nedre Ullerud"
@@ -26104,7 +26105,9 @@
   "summary": "Hustru till aa48_ullerud 1890–1900 (änkling 1904).",
   "notes": [
    "FOLKRÄKNING 1890/1900: ”Nilsdotter, Mathilda/Matilda, f. 1853 i Gräsmark”.",
-   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 20: ”H. Nilsdr, Mathilda | 53 | 19/6 | Grämark”, gift 27/1 88, inflyttad från ”Frykerud 7/4 88”. Död före 1910 (änkling, upplösningsår 1904 enligt folkräkning 1930)."
+   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 20: ”H. Nilsdr, Mathilda | 53 | 19/6 | Grämark”, gift 27/1 88, inflyttad från ”Frykerud 7/4 88”. Död före 1910 (änkling, upplösningsår 1904 enligt folkräkning 1930).",
+   "DOP Gräsmark C I/5 (C0037503) bild 125, s. 223, 1853 juni nr 49: ”Mathilda | 17 | 19 | Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter. Faddrar: Per Jönsson och h. Maria Pettersd:r ibid.” Moderns ålder 28.",
+   "HUSFÖRHÖR Gräsmark A I/18b (C0037486) bild 132 s.509 Långnäs: ”〃 Mathilda 17/6 53 D:o” i hushållet ”Backst. Nils Andersson … 15 Gunnarskog / H Lena Pettersdotter 13/11 25 Sunne”, systrar Maria 3/1 49 och Stina 13/12 56. Bekräftar födelsedag 17/6 (19/6 = dopdag)."
   ],
   "sources": [
    {
@@ -26114,6 +26117,14 @@
    {
     "label": "Riksarkivet, Nedre Ullerud husförhörslängd A I/21 (1886–1895), bild 333, sid. 324 Risätter/Nyängen/Jeriko, rad 19–23: ”Andersson, Anders, gårdfarihandl[ande] | 48 | 30/8 | Brunskog | [gift] 27/1 88 | [från] GB 409”; ”H. Nilsdr, Mathilda | 53 | 19/6 | Grämark [Gräsmark] | [inflyttad från] Frykerud 7/4 88”; ”B. hennes o.ä. Johan Fredrik | 83 | 2/4 | [Gräsmark]”; ”B. äkta Hulda Maria | 88 | 19/2 | N.U.”; ”Hjalmar Paulinus | 91 | 22/6 | [N.U.]”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038285_00333"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark födelse- och dopbok C I/5 (1838–1859), bild 125, s. 223, år 1853, juni, nr 49: ”Mathilda | 17 | 19 | Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter. Faddrar: Per Jönsson och h. Maria Pettersd:r ibid.”, moderns ålder 28",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037503_00125"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/18b (1856–1860), bild 132, sid. 509 Långnäs: ”Backst. Nils Andersson | 23/4[?] | 15 | Gunnarskog”; ”H. Lena Pettersdotter | 13/11 | 25 | Sunne”; ”Dot. Maria | 3/1 | 49 | Långnäs”; ”〃 Mathilda | 17/6 | 53 | D:o”; ”〃 Stina | 13/12 | 56 | D:o”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037486_00132"
    }
   ],
   "search": [
@@ -46888,6 +46899,146 @@
   ],
   "search": [
    "Johan Elofsson (f. ca dec 1730, Persjön, d. 1741)"
+  ]
+ },
+ {
+  "id": "cb5_nils_andersson_langnas",
+  "name": "Nils Andersson (f. 1815 Gunnarskog, backstugusittare i Långnäs, Gräsmark, d. 1883)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1815",
+   "place": "Gunnarskog",
+   "note": "A I/18b: ”23/4[?] 15 Gunnarskog”; A I/27: ”15 23/3 Gunnarskog” – dag 23, månad mars eller april (otydligt)"
+  },
+  "died": {
+   "date": "1883-07-16",
+   "place": "Långnäs, Gräsmark",
+   "note": "A I/27 bild 329 dödkolumn ”16/7 83”; dödbok ej digitaliserad"
+  },
+  "places": [
+   "Långnäs, Gräsmark"
+  ],
+  "summary": "Backstugusittare/inhyses i Långnäs, Gräsmark, f. 1815 i Gunnarskog, änkling 8/3 1877, d. 16/7 1883. Far till Maria 1849, Mathilda 1853 och Stina 1856.",
+  "notes": [
+   "DOP Gräsmark C I/5 bild 125 nr 49 (1853): ”Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter.”",
+   "HUSFÖRHÖR Gräsmark A I/18b bild 132 s.509: ”Backst. Nils Andersson 23/4[?] 15 Gunnarskog”, hustru Lena Pettersdotter, döttrar Maria 3/1 49, Mathilda 17/6 53, Stina 13/12 56 (alla Långnäs).",
+   "HUSFÖRHÖR Gräsmark A I/27 bild 329 s.366: ”Backst. Enkl. Nils Andersson 15 23/3 Gunnarskog”, äktenskap upplöst ”77 8/3”, död ”16/7 83”. Ensam på sidan (Mathilda bor inte här 1881)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Gräsmark födelse- och dopbok C I/5 (1838–1859), bild 125, s. 223, år 1853, juni, nr 49: ”Mathilda | 17 | 19 | Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter. Faddrar: Per Jönsson och h. Maria Pettersd:r ibid.”, moderns ålder 28",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037503_00125"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/18b (1856–1860), bild 132, sid. 509 Långnäs: ”Backst. Nils Andersson | 23/4[?] | 15 | Gunnarskog”; ”H. Lena Pettersdotter | 13/11 | 25 | Sunne”; ”Dot. Maria | 3/1 | 49 | Långnäs”; ”〃 Mathilda | 17/6 | 53 | D:o”; ”〃 Stina | 13/12 | 56 | D:o”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037486_00132"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/27 (1881–1885), bild 329, sid. 366 Långnäs (H): ”Backst. Enkl. Nils Andersson | 15 | 23/3 | Gunnarskog”, änkling ”77 8/3”, död ”16/7 83”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037495_00329"
+   }
+  ],
+  "search": [
+   "Nils Andersson (f. 1815 Gunnarskog, backstugusittare i Långnäs, Gräsmark, d. 1883)"
+  ]
+ },
+ {
+  "id": "cb5_lena_pettersdotter_langnas",
+  "name": "Lena Pettersdotter (f. 1825 Sunne, d. 1877?)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1825-11-13",
+   "place": "Sunne",
+   "note": "A I/18b: ”13/11 25 Sunne”"
+  },
+  "died": {
+   "date": "1877-03-08",
+   "note": "härlett: maken Nils Andersson änkling ”77 8/3” (A I/27 bild 329); dödbok ej läst/digitaliserad – osäkert"
+  },
+  "places": [
+   "Långnäs, Gräsmark"
+  ],
+  "summary": "Född 13/11 1825 i Sunne, gift med backstugusittaren Nils Andersson i Långnäs, Gräsmark; mor till Maria 1849, Mathilda 1853, Stina 1856. Troligen död 8/3 1877.",
+  "notes": [
+   "DOP Gräsmark C I/5 bild 125 nr 49 (1853): ”h. Lena Pettersdotter”, moderns ålder 28. Faddern ”h. Maria Pettersd:r ibid.” kan vara hennes syster (ej verifierat).",
+   "HUSFÖRHÖR Gräsmark A I/18b bild 132: ”H Lena Pettersdotter 13/11 25 Sunne”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Gräsmark födelse- och dopbok C I/5 (1838–1859), bild 125, s. 223, år 1853, juni, nr 49: ”Mathilda | 17 | 19 | Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter. Faddrar: Per Jönsson och h. Maria Pettersd:r ibid.”, moderns ålder 28",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037503_00125"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/18b (1856–1860), bild 132, sid. 509 Långnäs: ”Backst. Nils Andersson | 23/4[?] | 15 | Gunnarskog”; ”H. Lena Pettersdotter | 13/11 | 25 | Sunne”; ”Dot. Maria | 3/1 | 49 | Långnäs”; ”〃 Mathilda | 17/6 | 53 | D:o”; ”〃 Stina | 13/12 | 56 | D:o”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037486_00132"
+   },
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/27 (1881–1885), bild 329, sid. 366 Långnäs (H): ”Backst. Enkl. Nils Andersson | 15 | 23/3 | Gunnarskog”, änkling ”77 8/3”, död ”16/7 83”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037495_00329"
+   }
+  ],
+  "search": [
+   "Lena Pettersdotter (f. 1825 Sunne, d. 1877?)"
+  ]
+ },
+ {
+  "id": "cb5_maria_nilsd49_langnas",
+  "name": "Maria Nilsdotter (f. 1849 Långnäs, Gräsmark)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1849-01-03",
+   "place": "Långnäs, Gräsmark"
+  },
+  "died": {},
+  "places": [
+   "Långnäs, Gräsmark"
+  ],
+  "summary": "Dotter till Nils Andersson och Lena Pettersdotter i Långnäs; äldre syster till Mathilda Nilsdotter.",
+  "notes": [
+   "HUSFÖRHÖR Gräsmark A I/18b bild 132: ”Dot. Maria 3/1 49 Långnäs”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/18b (1856–1860), bild 132, sid. 509 Långnäs: ”Backst. Nils Andersson | 23/4[?] | 15 | Gunnarskog”; ”H. Lena Pettersdotter | 13/11 | 25 | Sunne”; ”Dot. Maria | 3/1 | 49 | Långnäs”; ”〃 Mathilda | 17/6 | 53 | D:o”; ”〃 Stina | 13/12 | 56 | D:o”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037486_00132"
+   }
+  ],
+  "search": [
+   "Maria Nilsdotter (f. 1849 Långnäs, Gräsmark)"
+  ]
+ },
+ {
+  "id": "cb5_stina_nilsd56_langnas",
+  "name": "Stina Nilsdotter (f. 1856 Långnäs, Gräsmark)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1856-12-13",
+   "place": "Långnäs, Gräsmark"
+  },
+  "died": {},
+  "places": [
+   "Långnäs, Gräsmark"
+  ],
+  "summary": "Dotter till Nils Andersson och Lena Pettersdotter i Långnäs; yngre syster till Mathilda Nilsdotter.",
+  "notes": [
+   "HUSFÖRHÖR Gräsmark A I/18b bild 132: ”〃 Stina 13/12 56 D:o”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Gräsmark husförhörslängd A I/18b (1856–1860), bild 132, sid. 509 Långnäs: ”Backst. Nils Andersson | 23/4[?] | 15 | Gunnarskog”; ”H. Lena Pettersdotter | 13/11 | 25 | Sunne”; ”Dot. Maria | 3/1 | 49 | Långnäs”; ”〃 Mathilda | 17/6 | 53 | D:o”; ”〃 Stina | 13/12 | 56 | D:o”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037486_00132"
+   }
+  ],
+  "search": [
+   "Stina Nilsdotter (f. 1856 Långnäs, Gräsmark)"
   ]
  }
 ]

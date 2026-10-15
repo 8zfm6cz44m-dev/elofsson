@@ -296,6 +296,15 @@
         "britta_nilsd_toltan48",
         "nils_ihrsson_toltan"
       ]
+    },
+    {
+      "title": "Vem är far till Johan Fredrik f. 2/4 1883 Gräsmark?",
+      "text": "Nedre Ullerud A I/21 bild 333 kallar honom ”B. hennes o.ä. Johan Fredrik” (Mathildas barn utom äktenskap), dvs. ingen fader angiven. Iakttagelse: Anders Andersson f. 1848 tog ut ”Hinderslöshetsbetyg till Frykerud 20/3 83” (A I/19 bild 383, A I/20 bild 323) – två veckor före Johan Fredriks födelse – men vigseln skedde först 27/1 1888. Det antyder att Anders och Mathilda planerade giftermål redan 1883 och att Anders kan vara barnafadern, men ingen källa säger det. Gräsmarks dopbok 1883 är inte digitaliserad hos Riksarkivet (C I/5 slutar 1859).",
+      "persons": [
+        "ca1_johan_fredrik83",
+        "anders_ae48",
+        "mathilda_nilsd53_gras"
+      ]
     }
   ],
   "conflicts": [
@@ -4269,6 +4278,13 @@
         "pal_nilsson_hagen",
         "britta_nilsd_toltan48"
       ]
+    },
+    {
+      "title": "Mathilda Nilsdotters födelsedag: 17/6 (inte 19/6) 1853",
+      "text": "Dopboken Gräsmark C I/5 bild 125 nr 49 har ”17 | 19” (född 17, döpt 19 juni) och husförhöret A I/18b bild 132 ”Mathilda 17/6 53”. Nedre Ullerud-längdens 19/6 är dopdagen.",
+      "persons": [
+        "mathilda_nilsd53_gras"
+      ]
     }
   ],
   "backlog": [
@@ -6581,6 +6597,24 @@
         "maryanna_socha"
       ],
       "next_step": "Statusanteckning om källtäckning: Maryanna Sochas föräldrars vigsel ligger före 1810 (Brzeziny endast skorowidz, ej skannat); maryanna_socha är verified som hustru till Marcin Zatorski (vigsel 1833 akt 3, 1864 akt 152). Geneteka-kandidaterna 1801-1810 kan inte bekräftas utan bild."
+    },
+    {
+      "title": "Vigseln 27/1 1888 ej läsbar digitalt",
+      "text": "Frykeruds vigselböcker hos RA: E I/1 (1708–1814) C0037140, E I/2 (1814–1861) C0037141 – inget efter 1861. Nedre Ullerud: E I/1 (1723–1818) C0038294, E I/2 (1799–1861) C0038295 – inget efter 1861. Vigseln 1888 kan därför inte läsas hos RA (ev. ArkivDigital eller landsarkivet i Värmland/Karlstad).",
+      "persons": [
+        "anders_ae48",
+        "mathilda_nilsd53_gras"
+      ]
+    },
+    {
+      "title": "Döds-/begravningsböcker Nedre Ullerud saknas digitalt",
+      "text": "Nedre Ullerud hos RA: husförhör t.o.m. A I/21 (1886–95) C0038285, flytt B/1 (1822–60) C0038286, dop C/1–C/7 (t.o.m. 1860) C0038287–C0038293, vigsel E I/1–2 (t.o.m. 1861) C0038294–95; ingen F-serie digitaliserad. Mathildas död (1904 enligt folkräkning 1930 ”upplösningsår 1904”) och Anders död (efter 1930) kan inte läsas här. Folkräkningssöket (1900/1910/1930 för Hulda Maria och Hjalmar Paulinus) gav ALTCHA två gånger (efter 30 s väntan) och hoppades över.",
+      "persons": [
+        "anders_ae48",
+        "mathilda_nilsd53_gras",
+        "ca1_hulda_maria88",
+        "ca1_hjalmar_paulinus91"
+      ]
     }
   ]
 }

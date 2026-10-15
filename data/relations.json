@@ -14250,5 +14250,62 @@
   "child": "johan_elofsson30_persjon",
   "status": "candidate",
   "basis": "Älvsbacka E I/1 bild 14 (1741): ”Johan Elofsson ifrån Persiön dödde d 22 Maji … war 10 åhr 5 månader och 3 weckor gammal” – patronymikon + by + att ny son Johan döps 1746 (namnupprepning); föräldrar ej angivna, dop ej funnet."
+ },
+ {
+  "id": "c-cb5_nils_andersson_langnas-cb5_lena_pettersdotter_langnas-mathilda_nilsd53_gras",
+  "type": "child",
+  "parents": [
+   "cb5_nils_andersson_langnas",
+   "cb5_lena_pettersdotter_langnas"
+  ],
+  "child": "mathilda_nilsd53_gras",
+  "status": "verified",
+  "basis": "Gräsmark C I/5 bild 125 nr 49 (juni 1853): ”Mathilda | 17 | 19 | Långnäs af Inh. Nils Andersson och h. Lena Pettersdotter” – stämmer med Nedre Ullerud A I/21 bild 333 ”Nilsdr, Mathilda 53 19/6 Gräsmark”; husförhör A I/18b bild 132: ”Dot. … Mathilda 17/6 53”"
+ },
+ {
+  "id": "p-cb5_nils_andersson_langnas-cb5_lena_pettersdotter_langnas",
+  "type": "partner",
+  "a": "cb5_nils_andersson_langnas",
+  "b": "cb5_lena_pettersdotter_langnas",
+  "status": "verified",
+  "basis": "Gräsmark C I/5 bild 125: ”Inh. Nils Andersson och h. Lena Pettersdotter”"
+ },
+ {
+  "id": "c-cb5_nils_andersson_langnas-cb5_lena_pettersdotter_langnas-cb5_maria_nilsd49_langnas",
+  "type": "child",
+  "parents": [
+   "cb5_nils_andersson_langnas",
+   "cb5_lena_pettersdotter_langnas"
+  ],
+  "child": "cb5_maria_nilsd49_langnas",
+  "status": "verified",
+  "basis": "Gräsmark A I/18b bild 132 s.509: ”Dot.” i hushållet Nils Andersson/Lena Pettersdotter"
+ },
+ {
+  "id": "s-mathilda_nilsd53_gras-cb5_maria_nilsd49_langnas",
+  "type": "sibling",
+  "a": "mathilda_nilsd53_gras",
+  "b": "cb5_maria_nilsd49_langnas",
+  "status": "verified",
+  "basis": "Gräsmark A I/18b bild 132 s.509, samma föräldrar"
+ },
+ {
+  "id": "c-cb5_nils_andersson_langnas-cb5_lena_pettersdotter_langnas-cb5_stina_nilsd56_langnas",
+  "type": "child",
+  "parents": [
+   "cb5_nils_andersson_langnas",
+   "cb5_lena_pettersdotter_langnas"
+  ],
+  "child": "cb5_stina_nilsd56_langnas",
+  "status": "verified",
+  "basis": "Gräsmark A I/18b bild 132 s.509: ”Dot.” i hushållet Nils Andersson/Lena Pettersdotter"
+ },
+ {
+  "id": "s-mathilda_nilsd53_gras-cb5_stina_nilsd56_langnas",
+  "type": "sibling",
+  "a": "mathilda_nilsd53_gras",
+  "b": "cb5_stina_nilsd56_langnas",
+  "status": "verified",
+  "basis": "Gräsmark A I/18b bild 132 s.509, samma föräldrar"
  }
 ]
