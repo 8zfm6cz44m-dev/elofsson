@@ -14403,5 +14403,35 @@
   "child": "nils_jonsson_1757_ginnstad",
   "status": "candidate",
   "basis": "C I/2 bild 40 vä, 1757 nr 6: ”Vice Corp: Jon F[ö]s[t?] och hust. Karin Olofsd:r i Södra Grimstad Son Nils” – Karin-länken verified, men identiteten Jon F[ö]st = Jon Christophersson (1751) och = Jon f. 1718 är indicier."
+ },
+ {
+  "id": "c-nils_christophersson_skog-oluf_nilsson_skog1692",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog"
+  ],
+  "child": "oluf_nilsson_skog1692",
+  "status": "strong",
+  "basis": "C I/1 bild 31 hö: ”Dnica Trinitatis Nils Christ:s barn i Skog Oluf kallads” (1692). Endast fadern nämns; Nils Christophersson är den ende Nils i Skog-gruppen i mantalet 1696/1700."
+ },
+ {
+  "id": "c-nils_christophersson_skog-ingel_nilsd_skog1694",
+  "type": "child",
+  "parents": [
+   "nils_christophersson_skog"
+  ],
+  "child": "ingel_nilsd_skog1694",
+  "status": "strong",
+  "basis": "C I/1 bild 40 vä: ”Dnica Sexagesimae Nilses barn i Skog D. Ingel b:d” (1694). Endast faderns förnamn; Nils Christophersson ende Nils i Skog."
+ },
+ {
+  "id": "c-b4_lars_ersson_toltan-per_larsson_takene",
+  "type": "child",
+  "parents": [
+   "b4_lars_ersson_toltan"
+  ],
+  "child": "per_larsson_takene",
+  "status": "candidate",
+  "basis": "C I/1 bild 46 vä (1696): ”Lasse E[r]sons barn i Toltan Pär” + begravning 13/3 1726 ’Per Larsson i Toltan … 29 åhr’ (E I/1 bild 167) och vigsel 1718 ’Dr. Per Larsson i Tolta’ (E I/1 bild 34)."
  }
 ]
