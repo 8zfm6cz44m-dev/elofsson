@@ -343,6 +343,14 @@
    "persons": [
     "erik_elofsson28_persjon"
    ]
+  },
+  {
+   "title": "Erik Påhlssons och Kerstin Månsdotters död ej funnen",
+   "text": "Frykeruds dödbok F/1 (C0037142) börjar 1744 (bild 11); 1691–1743 finns ingen separat dödbok (äldre ’1672–1706’ ingår i C/1). F/1 bild 11–24 (1744–febr 1754) översiktligt genomlästa: ingen Erik Påhlsson och ingen Kerstin Månsdotter i Högvalta. Närmaste namnar: ’h. Kerstin Månsdotter från N. Nöbbele[?] 50 år’ 10 febr 1747 (bild 16 hö) och ’h. Karin Månsdotter i Lene 66 år’ 19 dec 1746 (bild 16 vä) – andra personer. Erik dog sannolikt före 1744 (överstruken i A I/3 1736–41). Kerstin står som ’Enkan’ i A I/5 (1746–53) men saknas i A I/6 (1753–59, bild 16) – dog eller flyttade ca 1746–53; hennes död bör sökas noggrannare i F/1 bild 15–24 (rad för rad) och ev. i grannsocknar.",
+   "persons": [
+    "erik_palsson_hogvalta",
+    "kerstin_mansdotter_hogvalta"
+   ]
   }
  ],
  "conflicts": [
@@ -1039,6 +1047,13 @@
    "text": "Åldrar: 33 år (vigsel 14.2.1900), 28 (1902 nr 211), 28 (1904 nr 125), 35 (1909 nr 324). Tre akter ger ca 1874/75. Födelseort 'Вылезовъ' (Wylezów?) är oidentifierad; inget dop i Kielce Katedra-index 1874–1875. Modern Antonina f. Gradzik d. dec 1885 i Szydłówek, 40 år (Katedra 1885 nr 822).",
    "persons": [
     "wiktoria_szewczyk"
+   ]
+  },
+  {
+   "title": "Sven Erssons födelseår: 1717 (dop?) / 1718 (husförhör) / 1712 (Kil-ålder)",
+   "text": "C/2 bild 138 hö har ett barn till Erich Påhlsson och Kirstin Månsd. i Högwalt i febr 1717, namnet troligen ’Swen’ (mörkare bläck). Husförhör/flyttlängd ger 1718, dödboken 64 år (sept 1782 ⇒ 1717/18), Kil A I/4 ålder 43 (≈1712). C/2 1711–1716 genomläst utan annan Sven. Troligast född febr 1717.",
+   "persons": [
+    "sven_ersson"
    ]
   }
  ],

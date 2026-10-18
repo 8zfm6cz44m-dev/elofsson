@@ -14543,5 +14543,32 @@
   "child": "nils_nilss_1804_saldebraten",
   "status": "verified",
   "basis": "DOP Frykerud C/5 bild 184 (s. 319), ”Födde och Döpte 1804”, Nov. 16 17: ”Säldebråten Nils Svenssons och Britta Ersdrs Son, Vitt. Herr Commissions Landtmätaren Ad: Fred. Stenbeck och dess Fru Magd. Wachenfeldt”; barn ”Nils”, marg. ”död den 12 aug: 1810”."
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-ingeborg_ersd_1713_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "ingeborg_ersd_1713_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/2 bild 120 hö, 13/16 aug 1713: ”Erich Påhlsons och h. Kirstin Månsd. dotter i Högvalt. kallad Ingeborg”."
+ },
+ {
+  "id": "s-ingeborg_ersd_1713_hogvalta-sigri_ersd_1710_hogvalta",
+  "type": "sibling",
+  "a": "ingeborg_ersd_1713_hogvalta",
+  "b": "sigri_ersd_1710_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Erich Påfwelsson/Påhlsson och h. Kirstin Månsdotter i Högvalt (C/2 bild 90 hö 1710, bild 120 hö 1713)."
+ },
+ {
+  "id": "s-ingeborg_ersd_1713_hogvalta-sven_ersson",
+  "type": "sibling",
+  "a": "ingeborg_ersd_1713_hogvalta",
+  "b": "sven_ersson",
+  "status": "strong",
+  "basis": "Båda döpta med föräldrarna Erich Påhlsson och h. Kirstin Månsd. i Högvalt (C/2 bild 120 hö 1713; bild 138 hö 1717)."
  }
 ]
