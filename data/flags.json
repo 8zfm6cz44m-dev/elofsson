@@ -303,20 +303,13 @@
       ]
     },
     {
-      "title": "Vem tog över Olsrud 1746: ’[Lage?] Christophersson’",
-      "text": "Mantal Boda 1745 (A0003224 b.532) har Christopher Nilsson i Olsrud; 1746 (A0003225 b.558) och 1747 (A0003226 b.585) står ’[Lage?/Inge?] Christophersson’ på hans plats. Ingen sådan son i dopen 1714–1730. Kontrollera husförhör Boda A I/1 (C0036566) och mantal 1748–1760. En ’Jon Christophersson från Olsrud’, soldat, vigdes 26/12 1751 (E I/1 bild 39 hö).",
-      "persons": [
-        "christopher_nilsson_skog",
-        "jon_christophersson_1718_olsrud",
-        "johan_christophersson_1724_olsrud"
-      ]
-    },
-    {
       "title": "Jon 1718 vs Johan 1724",
-      "text": "Ingen begravning av Jon (1718) hittad 1718–1764 (1721–22 saknas nästan helt i dödboken). En Jon Christophersson ’från Olsrud’ vigs 1751 – kan vara endera. ’Jon Christophersson i Högboda’, 38 år 1762 (f. ca 1724), kan vara Johan 1724. Båda kan alltså ha levt; frågan är olöst.",
+      "text": "Ingen begravning av Jon (1718) hittad 1718–1764 (1721–22 saknas nästan helt i dödboken). En Jon Christophersson ’från Olsrud’ vigs 1751 – kan vara endera. ’Jon Christophersson i Högboda’, 38 år 1762 (f. ca 1724), kan vara Johan 1724. Båda kan alltså ha levt; frågan är olöst. | CC1: Ingen av dem bor i Olsrud 1759–68. Soldaten Jon Christophersson från Olsrud (g. 1751 m. änkan Karin Olofsdotter i S. Ginnstad) heter 1757 ’Vice Corp: Jon F[ö]st[?]’ (C I/2 bild 40, son Nils f. 17/2 1757) och är borta 1759 (Karin ’Enk.’ i A I/1 bild 39; ingen begravning i Boda 1757–59 → trolig fältdöd). Nämndeman Jon Christophersson i Högboda d. 1762, 38 år (f. ca 1724). Om Högboda-mannen är Johan 1724 måste soldaten vara Jon 1718 – men ingen källa binder ihop dem uttryckligen. Nästa steg: generalmönsterrullor Värmlands regemente (soldaten F[ö]st, Boda rote) med ålder; Högboda-mannens vigsel 1752 (bild 40) om ursprung anges.",
       "persons": [
+        "johan_christophersson_1724_olsrud",
         "jon_christophersson_1718_olsrud",
-        "johan_christophersson_1724_olsrud"
+        "karin_olofsd_1718_ginnstad",
+        "nils_jonsson_1757_ginnstad"
       ]
     }
   ],
@@ -4339,6 +4332,25 @@
       ],
       "kind": "resolved",
       "resolution": "Rensat 2026-10-18: felaktig källetikett borttagen hos per_nilsson_toltan, gamla noter markerade FÖRÅLDRAD; elof_nilsson-noterna nämner inte Per/Marit 1748."
+    },
+    {
+      "title": "Vem tog över Olsrud 1746: ’[Lage?] Christophersson’",
+      "text": "Löst (CC1): Det är sonen PÅHL Christophersson, döpt 4/9 1715 (C I/1 bild 87: ”… christnades af cappel. till Påhl” – tidigare felläst ’Nils’; id nils_christophersson_1715_olsrud bör döpas om). Mantal 1746 (A0003225 b.558) och 1750 (A0003230 b.466–467) ’Påhl Christophersson’ (samma bokstavsform som grannen ’Påhl Andersson’). Vigd 1/1 1744 med Karin Halfwardsdotter (E I/1 bild 34). Husförhör A I/1 bild 117 (1759–63) och A I/2 bild 100 (1764–68): ”1. Påhl Christophersson” f. 1715, hustru Karin f. 1718, ”Fad. Enkl. Christopher Nilss.” f. 1678, ”Dott. Britta Christophersd.” f. 1713, ”Dott. Son oä: Nils Olsson” f. 1749.",
+      "persons": [
+        "nils_christophersson_1715_olsrud",
+        "christopher_nilsson_skog",
+        "karin_halfwardsd_1718_olsrud"
+      ]
+    },
+    {
+      "title": "’Nils Christophersson’ f. 1715 är felläst – skall vara Påhl",
+      "text": "Dopposten C I/1 bild 87 (4/9 1715) har ’till Påhl’ (understruket, å-ring). Id nils_christophersson_1715_olsrud avser Påhl Christophersson; namnfältet bör ändras (id kan behållas eller bytas till pahl_christophersson_1715_olsrud). Anteckningen ’[..]gr 1726 12/9’ under posten kan inte vara hans begravning. Följd: Nils f. 1721 (marg. ’död’) är den ende Nils; argumentet ’Nils gavs igen 1721 → den förste dog’ faller.",
+      "persons": [
+        "nils_christophersson_1715_olsrud",
+        "nils_christophersson_1721_olsrud"
+      ],
+      "kind": "resolved",
+      "resolution": "Namnet ändrat till Påhl Christophersson (id behållet: nils_christophersson_1715_olsrud)."
     }
   ],
   "backlog": [

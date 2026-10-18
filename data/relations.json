@@ -14160,8 +14160,8 @@
    "elin_gostafsd_1713"
   ],
   "child": "britta_christophersd_1714_olsrud",
-  "status": "strong",
-  "basis": "Boda C I/1 bild 81 hö, 19 febr 1714: ”Christophers och h: Elins barn i Olsrud” (marg. Britta). Patronymikon saknas → strong."
+  "status": "verified",
+  "basis": "A I/1 bild 117 ”D. Britta Christ.dotter” f. 1713 och A I/2 bild 100 ”Dott. Britta Christophersd.” f. 1713 i Christopher Nilssons/Påhls hushåll; dop 19/2 1714 (C I/1 bild 81). Befintlig relation – uppgradera strong → verified."
  },
  {
   "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-nils_christophersson_1715_olsrud",
@@ -14171,8 +14171,8 @@
    "elin_gostafsd_1713"
   ],
   "child": "nils_christophersson_1715_olsrud",
-  "status": "strong",
-  "basis": "1715 nr 23, hö: ”d: 4 Septembr: Christophers barn och Elins i Olsrud christnades af cappel. till Nils, testes Erich och Måns i Olsrud, Qvinfolks faddrar h. Marja och h. Kirstin alt i Olsrud.” (bild 87). Patronymikon för föräldrarna saknas i posten; Elin kallas ’Giöstafsdotter i Olsrud’ i samma bok 1717 (bild 93)."
+  "status": "verified",
+  "basis": "Uppgradering: A I/2 bild 100 s. 84 anger ”Fad. Enkl. Christopher Nilss.” (f. 1678) i Påhl Christopherssons (f. 1715) hushåll – uttrycklig familjeställning; dop 4/9 1715 ’Christophers barn och Elins i Olsrud … till Påhl’ (C I/1 bild 87). Befintlig relation – uppgradera strong → verified."
  },
  {
   "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-marit_christophersd_1717_olsrud",
@@ -14355,5 +14355,53 @@
   "child": "elin_gostafsd_1713",
   "status": "lead",
   "basis": "Endast namn + by: Elin Göstafsdotter ’i Olsrud’ 1713; Gösta Johansson i Olsrud begr. dec 1731, 82 år (E I/1 bild 128 vä)."
+ },
+ {
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-gosta_christophersson_1733_olsrud",
+  "type": "child",
+  "parents": [
+   "christopher_nilsson_skog",
+   "elin_gostafsd_1713"
+  ],
+  "child": "gosta_christophersson_1733_olsrud",
+  "status": "strong",
+  "basis": "Boda C I/1 bild 143 hö, 1733 nr 3: ”Christophers och h. Elins barn i Olsrud till Gösta” (förnamnspar + Olsrud, som för syskonen); begr. 1734 ’Christopher i Olsrud[s] barn 1½ åhr’ (E I/1 bild 130)."
+ },
+ {
+  "id": "c-britta_christophersd_1714_olsrud-nils_olsson_1749_olsrud",
+  "type": "child",
+  "parents": [
+   "britta_christophersd_1714_olsrud"
+  ],
+  "child": "nils_olsson_1749_olsrud",
+  "status": "candidate",
+  "basis": "A I/2 bild 100: ”Dott. Son oä: Nils Olsson” f. 1749 – oäkta dotterson till Christopher Nilsson; Britta (f. 1713/14, ogift 1768) är enda dottern i hushållet. Modern ej namngiven."
+ },
+ {
+  "id": "p-nils_christophersson_1715_olsrud-karin_halfwardsd_1718_olsrud",
+  "type": "partner",
+  "a": "nils_christophersson_1715_olsrud",
+  "b": "karin_halfwardsd_1718_olsrud",
+  "status": "verified",
+  "basis": "Boda E I/1 bild 34 hö, 1744 nr 1: ”d. 1 Jan: … sammanwigdes drängen Påhl Christophersson i Olsrud med … Karin Halfwardz dotter ifrån [M]olsiö”; husförhör A I/1 bild 117 och A I/2 bild 100: ”1. Påhl Christophersson … h. Karin …” f. 1718."
+ },
+ {
+  "id": "p-jon_christophersson_1718_olsrud-karin_olofsd_1718_ginnstad",
+  "type": "partner",
+  "a": "jon_christophersson_1718_olsrud",
+  "b": "karin_olofsd_1718_ginnstad",
+  "status": "candidate",
+  "basis": "E I/1 bild 39 hö, 1751 nr 6: ”Soldaten Jon Christophersson från Olsrud, med Enkian Hustru Karin Olofsdotter i Södra Ginnstad” – äktenskapet är belagt, men om soldaten är Jon f. 1718 eller Johan f. 1724 är inte bevisat (se flagga)."
+ },
+ {
+  "id": "c-jon_christophersson_1718_olsrud-karin_olofsd_1718_ginnstad-nils_jonsson_1757_ginnstad",
+  "type": "child",
+  "parents": [
+   "jon_christophersson_1718_olsrud",
+   "karin_olofsd_1718_ginnstad"
+  ],
+  "child": "nils_jonsson_1757_ginnstad",
+  "status": "candidate",
+  "basis": "C I/2 bild 40 vä, 1757 nr 6: ”Vice Corp: Jon F[ö]s[t?] och hust. Karin Olofsd:r i Södra Grimstad Son Nils” – Karin-länken verified, men identiteten Jon F[ö]st = Jon Christophersson (1751) och = Jon f. 1718 är indicier."
  }
 ]
