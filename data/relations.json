@@ -14433,5 +14433,115 @@
   "child": "per_larsson_takene",
   "status": "candidate",
   "basis": "C I/1 bild 46 vä (1696): ”Lasse E[r]sons barn i Toltan Pär” + begravning 13/3 1726 ’Per Larsson i Toltan … 29 åhr’ (E I/1 bild 167) och vigsel 1718 ’Dr. Per Larsson i Tolta’ (E I/1 bild 34)."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-catharina_nilsd_1783_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "catharina_nilsd_1783_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 50 (s. 68), ”Döpte 1783”, Aug 7 8: barn ”Cathrina”, föräldrar ”Nils Svensson, H. Britta Ersdotter i Såldebråten”; vittnen ”Herrar Ingenieurs Bengt och Olof Ågren, Herr Kameraren Torsten Ågren, Madame Lisa Frykholm, Mademoiselles Lisa M. Schröder och Greta Lisa Wallmen”, dopare ”Dito” [Lars Allster]."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-cajsa_nilsd_1785_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "cajsa_nilsd_1785_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 60 (s. 87), ”Döpte 1785”, [Juli] 16 17: barn ”Cajsa”, föräldrar ”Nils Svensson H: Britta Eriksdr i Såldebråten”; vittnen ”Christopher Svensson H. Lena Salomonsdr i Rörbäcken Anders Andersson H: Ingri Bengtsdr i Såldebråten”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-anna_nilsd_1787_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "anna_nilsd_1787_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 71 (s. 108), ”Döpte 1787”, [Dec] 19 20: barn ”Anna”, marg. ”död 1803”, föräldrar ”Nils Svensson H. Britta Eriksdr i Såldebråten”; vittnen ”Anders Andersson och H. Ingri Bengtsdotter i Såldebråten”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-stina_nilsd_1790_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "stina_nilsd_1790_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 85 (s. 132), ”Döpte 1790”, [April] 2 4: barn ”Stina”, föräldrar ”Nils Svensson H:u Britta Eriks dotter i Såldebråten”; vittnen ”Ingenieuren Herr Olof Ågren, Fru Stina Maria Morell”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-sven_nilss_1792_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "sven_nilss_1792_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 97 (s. 154), ”Döpte 1792”, [April] 7 8: barn ”Sven”, marg. ”död 1799”, föräldrar ”Nils Svensson H: Britta Ericsdotter i Säldebråt”; vittnen ”Anders Jonesson, Olof Andersson H: Kjersti Andersdr H: Catharina Andersdr i Ås”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-lena_nilsd_1795_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "lena_nilsd_1795_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 121 (s. 198), ”Döpte 1795”, Nov 1 1: ”Säldebråt Nils Svenssons H: Britta Ericsdotters Dtr. Witt: Nils Jonss: i Kjöpung. Anders Nilsson i Skållerud H: Lena Salomonsdtr i Säldebråt H: Anna Larsdtr i Myr[ – ]. d[öpt]: af Tillström”; barn ”Lena”, marg. ”Död”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-erik_nilss_1797_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "erik_nilss_1797_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 138 (s. 230), ”Födde och Döpte 1797”, Dec 23 24: ”Säldebråt. Nils Svenssons H: Britta Eriksdotters Son. Wittn: Christopher Svensson, Hustr. Lena Salomonsdtr i Säldebråt Elof Ersson i V: Glanne H: Lisa Olsdtr Frykholm i Solberg. D[öpt] af Tillström”; barn ”Erik” (ingen dödsanteckning i marginalen)."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-sven_nilss_1800_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "sven_nilss_1800_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 154 (s. 263), ”Födde och Döpte år 1800”, Aug 26 28: ”Säldebråten Nils Svenssons och Hust. Brita Ersdotters barn. wit: Christopher Svensson och Hust. Lena Samuelsdotr ibidem Magnus Svensson i Karsbol och Hust: Margeta Svensdotr i Klaxås”; barn ”Sven”."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-lena_nilsd_1802_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "lena_nilsd_1802_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 169 (s. 291), ”Födde och Döpte år 1802”, Octob. 1 3: ”Säldebråten Nils Svenssons och Hust. Brite Ersdotrs Dotr. vitnen Christopher Svensson Hust. Lena Salomonsdotr i Säldebråt och Elof Ersson i V: Glenne”; barn ”Lena” (ingen marginalanteckning)."
+ },
+ {
+  "id": "c-nils_svensson_1759_hogvalta-britta_eriksd_1762_saldebraten-nils_nilss_1804_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1759_hogvalta",
+   "britta_eriksd_1762_saldebraten"
+  ],
+  "child": "nils_nilss_1804_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/5 bild 184 (s. 319), ”Födde och Döpte 1804”, Nov. 16 17: ”Säldebråten Nils Svenssons och Britta Ersdrs Son, Vitt. Herr Commissions Landtmätaren Ad: Fred. Stenbeck och dess Fru Magd. Wachenfeldt”; barn ”Nils”, marg. ”död den 12 aug: 1810”."
  }
 ]

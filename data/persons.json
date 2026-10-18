@@ -45941,7 +45941,11 @@
    "place": "Karsbol, Frykerud",
    "note": "Husförhör A I/7–A I/9: 1759 10/2."
   },
-  "died": {},
+  "died": {
+   "date": "1827-06-06",
+   "place": "Såldebråten, Frykerud",
+   "note": "Död 6/6, begravd 17/6 1827, lungsot, 68 år 3 mån 27 dagar (F/2 bild 57) – åldern stämmer exakt med f. 10/2 1759. A I/16 bild 208: ”Död d. 6/6 1827”."
+  },
   "places": [
    "Karsbol, Frykerud",
    "Högvalta, Frykerud"
@@ -45950,7 +45954,9 @@
   "notes": [
    "HUSFÖRHÖR A I/7 bild 81 Karsbol: ”S Nils Svensson” 1759 10/2; bild 217 Högvalta ”S. Nils” 1759 10/2; A I/8 bild 243 ”S. Nils Sv.” 1759 10/2; A I/9 bild 225 ”S. Nils Svensson” 1759 10/2. Dop i Frykerud C/4 feb 1759 ej läst. Troligen MyHeritages syskon ’Nils Svensson’ (vittne vid Olofs dop 1802).",
    "CA4: I A I/9 bild 225 (Högvalta, fol. 201) är raden ”S. Nils Svensson 1759 10/2” överstruken (ingen läsbar flyttanteckning). Han finns inte på Högvalta i A I/10 bild 180 (fol. 162; där bara Magnus Svensson 1756 med familj och Enk. Karin Nilsdr 1719 27/11, död 2/6 1785). Vigd 29/12 1782 som ”Drängen Nils Svenson i Högvalta” med Britta Eriksdotter i Lene (E I/1 bild 120). Står därefter i Såldebråten med samma födelsedatum 1759 10/2 – se nils_svensson_saldebraten (föreslås sammanslagning).",
-   "Sammanslagen med nils_svensson_saldebraten (Nils Svensson (Såldebråten, Frykerud)). CA4: vigsel Frykerud E I/1 b.120 29/12 1782 'Drängen Nils Svenson i Högvalta' + husförhör Såldebråten A I/10–12 '1759 10/2' – samma man | Från nils_svensson_saldebraten: DOPBOK C/5 bild 72 (1788), 109 (1793), 125 (1796): vittnen ”Nils Svensson och Hu. Brita Eriksdotter i Säldebråten”; bild 138 (dec 1797): Nils Svensons H. Britta Eriksdr har son Erik, vittne Christopher Svensson/Lena Salomonsdr. Ömsesidigt vittnesskap – släktskap trolig men ej bevisad. | Från nils_svensson_saldebraten: CA4 VIGSEL Frykerud E I/1 bild 120 (s. 224), ”Wigde 1782”, Dec 29, No 13: ”Drängen Nils Svenson i Högvalta och Pigan Britta Eritsdotter i Lene”, ’Lars Allster’, morgongåva ”30 lod silf”. – Nils kommer alltså FRÅN HÖGVALTA, där Sven Erssons son Nils 1759 10/2 bodde (A I/9 bild 225, raden överstruken utan flyttanteckning). | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/10 bild 18 (fol. 7) Såldebråten: ”Nils Svensson” 1759 10/2; ”H. Britta Eriksdr” 1762 27/3; ”D. Catharina” 1783 7/8, marg. ”Död d. 14/9 1784”; ”D. Cajsa” 1785 16/7; ”D. Anna” 1787 19/12; ”D. Stina” 1790 2/4. | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/11 bild 17 (fol. 7) Såldebråten: ”Nils Swensson” 59 10/2; ”H. Britta Eriksdr” 62 28/3; ”D. Cajsa” 85 16/7; ”D. Anna” 87 19/12 (överstr.); ”D. Stina” 90 2/4; ”Son Sven” 92 och ”Dr Lena” 95 1/11 (båda överstr., klammer ”Död”); ”S: Erik”; ”S: Sven”. | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/12 bild 17 (fol. 6) Såldebråten: ”Nils Svensson” 1759 10/2; ”H. Britta Eriksd.” 1762 [28]/3; ”D. Caisa” 1785 16/7; ”D. Anna” 1787 [19]/12 (flyttkol. ”Död 180[.]”); ”D. Stina” 1790 2/4; ”S. Sven[?]” 1792 ”Död 1799” (överstr.); ”D. Lena” 1795 1/11 (överstr., ”Död”); ”S. Erik” 1797 (en överstruken rad ”S. Erik … Död 1799” och en ny rad ”S. Eric 1797” – oklart); ”Son Sven” 1800; ”Dtr Lena” 1802 (överstr.); ”S. Nils” 1804."
+   "Sammanslagen med nils_svensson_saldebraten (Nils Svensson (Såldebråten, Frykerud)). CA4: vigsel Frykerud E I/1 b.120 29/12 1782 'Drängen Nils Svenson i Högvalta' + husförhör Såldebråten A I/10–12 '1759 10/2' – samma man | Från nils_svensson_saldebraten: DOPBOK C/5 bild 72 (1788), 109 (1793), 125 (1796): vittnen ”Nils Svensson och Hu. Brita Eriksdotter i Säldebråten”; bild 138 (dec 1797): Nils Svensons H. Britta Eriksdr har son Erik, vittne Christopher Svensson/Lena Salomonsdr. Ömsesidigt vittnesskap – släktskap trolig men ej bevisad. | Från nils_svensson_saldebraten: CA4 VIGSEL Frykerud E I/1 bild 120 (s. 224), ”Wigde 1782”, Dec 29, No 13: ”Drängen Nils Svenson i Högvalta och Pigan Britta Eritsdotter i Lene”, ’Lars Allster’, morgongåva ”30 lod silf”. – Nils kommer alltså FRÅN HÖGVALTA, där Sven Erssons son Nils 1759 10/2 bodde (A I/9 bild 225, raden överstruken utan flyttanteckning). | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/10 bild 18 (fol. 7) Såldebråten: ”Nils Svensson” 1759 10/2; ”H. Britta Eriksdr” 1762 27/3; ”D. Catharina” 1783 7/8, marg. ”Död d. 14/9 1784”; ”D. Cajsa” 1785 16/7; ”D. Anna” 1787 19/12; ”D. Stina” 1790 2/4. | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/11 bild 17 (fol. 7) Såldebråten: ”Nils Swensson” 59 10/2; ”H. Britta Eriksdr” 62 28/3; ”D. Cajsa” 85 16/7; ”D. Anna” 87 19/12 (överstr.); ”D. Stina” 90 2/4; ”Son Sven” 92 och ”Dr Lena” 95 1/11 (båda överstr., klammer ”Död”); ”S: Erik”; ”S: Sven”. | Från nils_svensson_saldebraten: CA4 HUSFÖRHÖR A I/12 bild 17 (fol. 6) Såldebråten: ”Nils Svensson” 1759 10/2; ”H. Britta Eriksd.” 1762 [28]/3; ”D. Caisa” 1785 16/7; ”D. Anna” 1787 [19]/12 (flyttkol. ”Död 180[.]”); ”D. Stina” 1790 2/4; ”S. Sven[?]” 1792 ”Död 1799” (överstr.); ”D. Lena” 1795 1/11 (överstr., ”Död”); ”S. Erik” 1797 (en överstruken rad ”S. Erik … Död 1799” och en ny rad ”S. Eric 1797” – oklart); ”Son Sven” 1800; ”Dtr Lena” 1802 (överstr.); ”S. Nils” 1804.",
+   "DÖD Frykerud F/2 bild 57 (s. 93), 1827 ”Junii Månad”, död 6, begr. 17: ”Säldebråten Enkemannen Nils Svensson”, ”Lungsot”, 68 år 3 [mån] 27 [dagar].",
+   "HUSFÖRHÖR A I/13 bild 16 (fol. 5), A I/14 bild 142 (fol. 127), A I/15 bild 180 (fol. 158): ”Nils Svensson” 1759 10/2 i Såldebråten; A I/16 bild 208 (fol. 195): ”Enkl. Nils Svensson” 59 10/2, överstruken, ”Död d. 6/6 1827”."
   ],
   "sources": [
    {
@@ -45996,6 +46002,26 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svensson 1759 10/2, H. Britta Eriksd 1762 [2]8/3, D. Caisa 1785 16/7, D. Anna 1787 (Död 180[?]), D. Stina 1790 2/4, S. Sven 1792 (Död 1799), D. Lena 1795 1/11 (död), S. Erik 1797, Son Sven 1800, Dr Lena 1802 (överstr.), S. Nils 1804",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2 (1814–61), bild 57 (s. 93), 1827 Junii: död 6, begr. 17: ”Säldebråten Enkemannen Nils Svensson”, lungsot, 68 år 3 mån 27 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00057"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 142 (fol. 127), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdr 1762 23/3, S. Erik 1797 23/12, Sven 1800 26/8",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00142"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 180 (fol. 158), Såldebråten: Nils Svensson 1759, H. Britta Ersdr 1762 (överstr., ”död den 1 sept: 1818”), Gift S. Erik 1797 med H. Sophie Klingberg 1803, Gift S. Sven 1800 med H. Maria Nilsdr 1804",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00180"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Enkl. Nils Svensson” 59 10/2 (överstr., ”Död d. 6/6 1827”); ”Gift S: Sven” 1800 26/8, ”H: Maria Nilsdr” 1804 27/6, S. Nils 1823 27/12, Erik Gustaf 1826 18/2 (”Död d. 24 Mars 1829”), D. Britta Lisa 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
    }
   ],
   "search": [
@@ -46803,7 +46829,9 @@
   "summary": "Hustru till Nils Svensson (f. 10/2 1759) på Såldebråten; vigda 29/12 1782 (Frykerud E I/1 bild 120), då ”Pigan Britta Eriksdotter i Lene”.",
   "notes": [
    "VIGSEL E I/1 bild 120 (s. 224) 1782 dec 29 nr 13: ”Drängen Nils Svenson i Högvalta och Pigan Britta Eritsdotter i Lene”.",
-   "HUSFÖRHÖR A I/10 bild 18, A I/11 bild 17, A I/12 bild 17 (Såldebråten): ”H. Britta Eriksdr” 1762."
+   "HUSFÖRHÖR A I/10 bild 18, A I/11 bild 17, A I/12 bild 17 (Såldebråten): ”H. Britta Eriksdr” 1762.",
+   "DÖD Frykerud F/2 bild 28 (s. 34), 1818 ”September”, död 1, begr. ”D:o”: ”Sälldebråten Hustru Brita Ersdotter”, ”Vattusot”, 56 [år] 5 [mån] 4 [dagar].",
+   "HUSFÖRHÖR A I/15 bild 180 (fol. 158): ”H: Britta Ersdr” 1762 överstruken, ”Död den 1 Sept: 1818”."
   ],
   "sources": [
    {
@@ -46813,11 +46841,36 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–91), bild 18 (fol. 7), Såldebråten",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/2 (1814–61), bild 28 (s. 34), 1818 sept: död 1, begr. d:o [6]: ”Sälldebråten Hustru Brita Ersdotter”, vattusot, 56 år 5 mån 4 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037143_00028"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 142 (fol. 127), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdr 1762 23/3, S. Erik 1797 23/12, Sven 1800 26/8",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00142"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 180 (fol. 158), Såldebråten: Nils Svensson 1759, H. Britta Ersdr 1762 (överstr., ”död den 1 sept: 1818”), Gift S. Erik 1797 med H. Sophie Klingberg 1803, Gift S. Sven 1800 med H. Maria Nilsdr 1804",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00180"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5, bild 50/60/71/85/97/121/138/154/169/184: dop av tio barn 1783–1804 med modern Britta Eriksdotter/Ersdotter i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00050"
    }
   ],
   "search": [
    "Britta Eriksdotter (f. 1762, Lene → Såldebråten, Frykerud)"
-  ]
+  ],
+  "died": {
+   "date": "1818-09-01",
+   "place": "Såldebråten, Frykerud",
+   "note": "Död 1/9 1818, begravd 6/9 (”D:o”), vattusot, 56 år 5 mån 4 dagar (F/2 bild 28) → född ca 28/3 1762, vilket stöder 28/3 (A I/11–12) framför 27/3 (A I/10); A I/13–14 skriver 23/3."
+  }
  },
  {
   "id": "britta_christophersd_1714_olsrud",
@@ -47584,6 +47637,470 @@
   ],
   "search": [
    "Ingel Nilsdotter (Skog, döpt 1694)"
+  ]
+ },
+ {
+  "id": "catharina_nilsd_1783_saldebraten",
+  "name": "Catharina Nilsdotter (1783–1784, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1783-08-07",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 7, döpt 8 aug 1783 (Frykerud C/5 bild 50, s. 68)."
+  },
+  "died": {
+   "date": "1784-09-14",
+   "place": "Såldebråten, Frykerud",
+   "note": "Enligt A I/10 bild 18; dödbok F/1 ej kontrollerad för detta datum."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 7/8 1783, död 14/9 1784.",
+  "notes": [
+   "DOP Frykerud C/5 bild 50 (s. 68), ”Döpte 1783”, Aug 7 8: barn ”Cathrina”, föräldrar ”Nils Svensson, H. Britta Ersdotter i Såldebråten”; vittnen ”Herrar Ingenieurs Bengt och Olof Ågren, Herr Kameraren Torsten Ågren, Madame Lisa Frykholm, Mademoiselles Lisa M. Schröder och Greta Lisa Wallmen”, dopare ”Dito” [Lars Allster].",
+   "HUSFÖRHÖR A I/10 bild 18: ”D. Catharina” 1783 7/8, marg. ”Död d. 14/9 1784” (CA4:s läsning)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 50 (s. 68), 7/8 1783: Cathrina, föräldrar Nils Svensson och H. Britta Ersdotter i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00050"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–91), bild 18 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00018"
+   }
+  ],
+  "search": [
+   "Catharina Nilsdotter (1783–1784, Såldebråten)"
+  ]
+ },
+ {
+  "id": "cajsa_nilsd_1785_saldebraten",
+  "name": "Cajsa Nilsdotter (f. 1785, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1785-07-16",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 16, döpt 17 juli 1785 (Frykerud C/5 bild 60, s. 87)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud",
+   "Lene, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 16/7 1785; flyttade till Lene 1808 (möjligen gift dec 1807 med Per Magnusson i Gönäs – ej bekräftat).",
+  "notes": [
+   "DOP Frykerud C/5 bild 60 (s. 87), ”Döpte 1785”, [Juli] 16 17: barn ”Cajsa”, föräldrar ”Nils Svensson H: Britta Eriksdr i Såldebråten”; vittnen ”Christopher Svensson H. Lena Salomonsdr i Rörbäcken Anders Andersson H: Ingri Bengtsdr i Såldebråten”.",
+   "HUSFÖRHÖR A I/10 bild 18 ”D. Cajsa” 1785 16/7; A I/11 bild 17 ”D. Cajsa” 85 16/7; A I/12 bild 17 ”D: Caisa” 1785 16/7 (ingen flyttanteckning).",
+   "HUSFÖRHÖR A I/13 bild 16 (fol. 5): ”D. Cajsa” 1785 16/7, överstruken, utflyttad ”Lene 1808”.",
+   "VIGSEL (möjlig, ej bekräftad) Frykerud E I/1 bild 158 (s. 298), dec 1807: ”Dräng: Pår Magnusson uti Gjönäs och Pigan Caisa Nilsdotter i Såldebråten” – ”vigde den [2]6 Decemb: af dito Man”. A I/13 anger dock utflyttning till ”Lene 1808”, inte Gönäs; i Lene A I/14 (bild 98–103) hittades ingen Per Magnusson med Cajsa 1785 16/7 (en ”pig: Caisa Nilsdr 1785 [?]/1 Lene” på bild 98 har annat datum). Det fanns 1812–16 en annan Nils (Nils Nilsson 1761) i Såldebråten, så identiteten är osäker."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 60 (s. 87), 16/7 1785: Cajsa, föräldrar Nils Svensson och H. Britta Eriksdr i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00060"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–91), bild 18 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 (1708–1814), bild 158 (s. 298), dec 1807: ”Dräng: Pår Magnusson uti Gjönäs och Pigan Caisa Nilsdotter i Såldebråten”, vigde [2]6 dec.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00158"
+   }
+  ],
+  "search": [
+   "Cajsa Nilsdotter (f. 1785, Såldebråten)"
+  ]
+ },
+ {
+  "id": "anna_nilsd_1787_saldebraten",
+  "name": "Anna Nilsdotter (1787–1803, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1787-12-19",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 19, döpt 20 dec 1787 (Frykerud C/5 bild 71, s. 108)."
+  },
+  "died": {
+   "date": "1803",
+   "place": "Såldebråten, Frykerud",
+   "note": "Dopbokens marginal ”död 1803” och A I/12 bild 17 ”Död 1803”."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 19/12 1787, död 1803.",
+  "notes": [
+   "DOP Frykerud C/5 bild 71 (s. 108), ”Döpte 1787”, [Dec] 19 20: barn ”Anna”, marg. ”död 1803”, föräldrar ”Nils Svensson H. Britta Eriksdr i Såldebråten”; vittnen ”Anders Andersson och H. Ingri Bengtsdotter i Såldebråten”.",
+   "HUSFÖRHÖR A I/12 bild 17: ”D: Anna” 1787 19/12, överstruken, flyttkol. ”Död 1803”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 71 (s. 108), 19/12 1787: Anna (marg. ”död 1803”), föräldrar Nils Svensson och H. Britta Eriksdr i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00071"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–91), bild 18 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   }
+  ],
+  "search": [
+   "Anna Nilsdotter (1787–1803, Såldebråten)"
+  ]
+ },
+ {
+  "id": "stina_nilsd_1790_saldebraten",
+  "name": "Stina Nilsdotter (f. 1790, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1790-04-02",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 2, döpt 4 april 1790 (Frykerud C/5 bild 85, s. 132)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud",
+   "Forsnor, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 2/4 1790; flyttade till Forsnor 1810 och gifte sig troligen 22/6 1810 med hemmansbrukaren Jonas Jonsson i Forsnor.",
+  "notes": [
+   "DOP Frykerud C/5 bild 85 (s. 132), ”Döpte 1790”, [April] 2 4: barn ”Stina”, föräldrar ”Nils Svensson H:u Britta Eriks dotter i Såldebråten”; vittnen ”Ingenieuren Herr Olof Ågren, Fru Stina Maria Morell”.",
+   "HUSFÖRHÖR A I/12 bild 17: ”D: Stina” 1790 2/4 (ingen flyttanteckning).",
+   "HUSFÖRHÖR A I/13 bild 16 (fol. 5): ”D. Stina” 1790 2/4, överstruken, utflyttad ”Forsnor 1810”.",
+   "VIGSEL (trolig) Frykerud E I/1 bild 163 (s. 308), 1810: ”lyst d. 20 maij” – ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt” – ”vigde den 22 dito [juni] af dito Man” [Ekstedt]. Stämmer med utflyttningen ”Forsnor 1810” i A I/13 bild 16; maken ej identifierad vidare (ej följd i Forsnor A I/14 fol. 36)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 85 (s. 132), 2/4 1790: Stina, föräldrar Nils Svensson och H:u Britta Eriksdotter i Såldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00085"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/10 (1784–91), bild 18 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037111_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 (1708–1814), bild 163 (s. 308), 1810: lyst 20 maj, vigde 22 juni: ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00163"
+   }
+  ],
+  "search": [
+   "Stina Nilsdotter (f. 1790, Såldebråten)"
+  ]
+ },
+ {
+  "id": "sven_nilss_1792_saldebraten",
+  "name": "Sven Nilsson (1792–1799, Såldebråten)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1792-04-07",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 7, döpt 8 april 1792 (Frykerud C/5 bild 97, s. 154)."
+  },
+  "died": {
+   "date": "1799",
+   "place": "Såldebråten, Frykerud",
+   "note": "Dopbokens marginal ”död 1799”; A I/12 bild 17 ”Död 1799”."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Son till Nils Svensson och Britta Eriksdotter, född 7/4 1792, död 1799.",
+  "notes": [
+   "DOP Frykerud C/5 bild 97 (s. 154), ”Döpte 1792”, [April] 7 8: barn ”Sven”, marg. ”död 1799”, föräldrar ”Nils Svensson H: Britta Ericsdotter i Säldebråt”; vittnen ”Anders Jonesson, Olof Andersson H: Kjersti Andersdr H: Catharina Andersdr i Ås”.",
+   "HUSFÖRHÖR A I/11 bild 17 ”Son Sven” 92 (överstr., ”Död”); A I/12 bild 17 ”S: Sven Död 1799” 1792 (överstr.)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 97 (s. 154), 7/4 1792: Sven (marg. ”död 1799”), föräldrar Nils Svensson och H: Britta Ericsdotter i Säldebråt",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00097"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   }
+  ],
+  "search": [
+   "Sven Nilsson (1792–1799, Såldebråten)"
+  ]
+ },
+ {
+  "id": "lena_nilsd_1795_saldebraten",
+  "name": "Lena Nilsdotter (f. 1795, d. ung, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1795-11-01",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född och döpt 1 nov 1795 (Frykerud C/5 bild 121, s. 198)."
+  },
+  "died": {
+   "date": "",
+   "place": "Såldebråten, Frykerud",
+   "note": "Död som barn före 1802 (då en ny Lena föddes); datum ej funnet."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 1/11 1795, död som barn.",
+  "notes": [
+   "DOP Frykerud C/5 bild 121 (s. 198), ”Döpte 1795”, Nov 1 1: ”Säldebråt Nils Svenssons H: Britta Ericsdotters Dtr. Witt: Nils Jonss: i Kjöpung. Anders Nilsson i Skållerud H: Lena Salomonsdtr i Säldebråt H: Anna Larsdtr i Myr[ – ]. d[öpt]: af Tillström”; barn ”Lena”, marg. ”Död”.",
+   "HUSFÖRHÖR A I/11 bild 17 ”Dr Lena” 95 1/11 (överstr., ”Död”); A I/12 bild 17 ”D: Lena” 1795 1/11 överstr., flyttkol. ”Död”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 121 (s. 198), 1/11 1795: Lena (marg. ”Död”), Nils Svenssons och H: Britta Ericsdotters dotter i Säldebråt",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00121"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   }
+  ],
+  "search": [
+   "Lena Nilsdotter (f. 1795, d. ung, Såldebråten)"
+  ]
+ },
+ {
+  "id": "erik_nilss_1797_saldebraten",
+  "name": "Erik Nilsson (f. 1797, Såldebråten)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1797-12-23",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 23, döpt 24 dec 1797 (Frykerud C/5 bild 138, s. 230)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Son till Nils Svensson och Britta Eriksdotter, född 23/12 1797 i Såldebråten; gift 23/6 1822 med Sophia Klingberg i Fagerås.",
+  "notes": [
+   "DOP Frykerud C/5 bild 138 (s. 230), ”Födde och Döpte 1797”, Dec 23 24: ”Säldebråt. Nils Svenssons H: Britta Eriksdotters Son. Wittn: Christopher Svensson, Hustr. Lena Salomonsdtr i Säldebråt Elof Ersson i V: Glanne H: Lisa Olsdtr Frykholm i Solberg. D[öpt] af Tillström”; barn ”Erik” (ingen dödsanteckning i marginalen).",
+   "HUSFÖRHÖR A I/12 bild 17: en överstruken rad ”S: Erik … Död 1799” (1797) och längre ned en ny rad ”S: Eric” 1797 med läsmärken – oklart om den överstrukna raden avser ett fel (jfr brodern Sven, död 1799).",
+   "HUSFÖRHÖR A I/13 bild 16 ”S. Erik” 1797; A I/14 bild 142 (fol. 127) ”S. Erik” 1797 23/12; A I/15 bild 180 (fol. 158) ”Gift S: Erik” 1797 23/12 med ”H: Sophie Klingberg” 1803 (inflyttad ”p:36 22”). Den överstrukna raden ”S. Erik … Död 1799” i A I/12 är alltså ett felskrivet/strukit inslag – Erik levde och gifte sig 1822.",
+   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 13: ”lyst den 2 junii” – ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” – ”vigde den 23 junii af v: Pastor J: Ekstedt”.",
+   "Ej återfunnen på Såldebråten i A I/16 (1823–30) fol. 188–199; troligen utflyttad 1822/23 (Fagerås?) – ej följd vidare."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 138 (s. 230), 23/12 1797: Erik, Nils Svenssons och H: Britta Eriksdotters son i Säldebråt",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00138"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/11 (1792–97), bild 17 (fol. 7), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037112_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 142 (fol. 127), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdr 1762 23/3, S. Erik 1797 23/12, Sven 1800 26/8",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00142"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 180 (fol. 158), Såldebråten: Nils Svensson 1759, H. Britta Ersdr 1762 (överstr., ”död den 1 sept: 1818”), Gift S. Erik 1797 med H. Sophie Klingberg 1803, Gift S. Sven 1800 med H. Maria Nilsdr 1804",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00180"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814–61), bild 37 (s. 52), 1822 nr 13–14: ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” vigde 23 juni; ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” vigde 6 oktober",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00037"
+   }
+  ],
+  "search": [
+   "Erik Nilsson (f. 1797, Såldebråten)"
+  ]
+ },
+ {
+  "id": "sven_nilss_1800_saldebraten",
+  "name": "Sven Nilsson (f. 1800, Såldebråten)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1800-08-26",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 26, döpt 28 aug 1800 (Frykerud C/5 bild 154, s. 263)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Son till Nils Svensson och Britta Eriksdotter, född 26/8 1800; gift 6/10 1822 med Maria Nilsdotter (f. 27/6 1804); övertog hemmanet i Såldebråten.",
+  "notes": [
+   "DOP Frykerud C/5 bild 154 (s. 263), ”Födde och Döpte år 1800”, Aug 26 28: ”Säldebråten Nils Svenssons och Hust. Brita Ersdotters barn. wit: Christopher Svensson och Hust. Lena Samuelsdotr ibidem Magnus Svensson i Karsbol och Hust: Margeta Svensdotr i Klaxås”; barn ”Sven”.",
+   "HUSFÖRHÖR A I/12 bild 17: ”Son Sven” 1800 (ej överstruken). Obs: vittnet ”Lena Samuelsdotr” är troligen skrivfel för Lena Salomonsdotter.",
+   "HUSFÖRHÖR A I/14 bild 142 ”Sven” 1800 26/8; A I/15 bild 180 ”Gift S: Sven” 1800 26/8 med ”H: Maria Nilsdr” 1804 27/6 (inflyttad ”p:275 22”); A I/16 bild 208 (fol. 195) husbonde i Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nilsdr” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (”Död d. 24 Mars 1829”), ”D. Britta Lisa” 1827.",
+   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 14: ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” – ”vigde den 6 october af Dito Man” [J. Ekstedt]."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 154 (s. 263), 26/8 1800: Sven, Nils Svenssons och Hust. Brita Ersdotters barn i Säldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00154"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 142 (fol. 127), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdr 1762 23/3, S. Erik 1797 23/12, Sven 1800 26/8",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00142"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 180 (fol. 158), Såldebråten: Nils Svensson 1759, H. Britta Ersdr 1762 (överstr., ”död den 1 sept: 1818”), Gift S. Erik 1797 med H. Sophie Klingberg 1803, Gift S. Sven 1800 med H. Maria Nilsdr 1804",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00180"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814–61), bild 37 (s. 52), 1822 nr 13–14: ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” vigde 23 juni; ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” vigde 6 oktober",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Enkl. Nils Svensson” 59 10/2 (överstr., ”Död d. 6/6 1827”); ”Gift S: Sven” 1800 26/8, ”H: Maria Nilsdr” 1804 27/6, S. Nils 1823 27/12, Erik Gustaf 1826 18/2 (”Död d. 24 Mars 1829”), D. Britta Lisa 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   }
+  ],
+  "search": [
+   "Sven Nilsson (f. 1800, Såldebråten)"
+  ]
+ },
+ {
+  "id": "lena_nilsd_1802_saldebraten",
+  "name": "Lena Nilsdotter (f. 1802, Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1802-10-01",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 1, döpt 3 okt 1802 (Frykerud C/5 bild 169, s. 291)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 1/10 1802; överstruken i A I/12 (trol. död som barn).",
+  "notes": [
+   "DOP Frykerud C/5 bild 169 (s. 291), ”Födde och Döpte år 1802”, Octob. 1 3: ”Säldebråten Nils Svenssons och Hust. Brite Ersdotrs Dotr. vitnen Christopher Svensson Hust. Lena Salomonsdotr i Säldebråt och Elof Ersson i V: Glenne”; barn ”Lena” (ingen marginalanteckning).",
+   "HUSFÖRHÖR A I/12 bild 17: ”Dtr Lena” 1802 – raden överstruken (troligen död, ej bekräftat)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 169 (s. 291), 1/10 1802: Lena, Nils Svenssons och Hust. Brite Ersdotters dotter i Säldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00169"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   }
+  ],
+  "search": [
+   "Lena Nilsdotter (f. 1802, Såldebråten)"
+  ]
+ },
+ {
+  "id": "nils_nilss_1804_saldebraten",
+  "name": "Nils Nilsson (1804–1810, Såldebråten)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1804-11-16",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 16, döpt 17 nov 1804 (Frykerud C/5 bild 184, s. 319)."
+  },
+  "died": {
+   "date": "1810-08-12",
+   "place": "Såldebråten, Frykerud",
+   "note": "Dopbokens marginal C/5 bild 184."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Son till Nils Svensson och Britta Eriksdotter, född 16/11 1804, död 12/8 1810.",
+  "notes": [
+   "DOP Frykerud C/5 bild 184 (s. 319), ”Födde och Döpte 1804”, Nov. 16 17: ”Säldebråten Nils Svenssons och Britta Ersdrs Son, Vitt. Herr Commissions Landtmätaren Ad: Fred. Stenbeck och dess Fru Magd. Wachenfeldt”; barn ”Nils”, marg. ”död den 12 aug: 1810”.",
+   "HUSFÖRHÖR A I/12 bild 17: ”S. Nils” 1804.",
+   "HUSFÖRHÖR A I/13 bild 16 (fol. 5): ”S. Nils” 1804, överstruken, ”Död 1810”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/5 (1778–1807), bild 184 (s. 319), 16/11 1804: Nils (marg. ”död den 12 aug: 1810”), Nils Svenssons och Britta Ersdotters son i Säldebråten",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037138_00184"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/13 (1806–12), bild 16 (fol. 5), Såldebråten: Nils Svensson 1759 10/2, H. Britta Ersdotter 1762 23/3, D. Cajsa 1785 (→ Lene 1808), D. Stina 1790 (→ Forsnor 1810), S. Erik 1797, S. Sven 1800, S. Nils 1804 (Död 1810)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037114_00016"
+   }
+  ],
+  "search": [
+   "Nils Nilsson (1804–1810, Såldebråten)"
   ]
  }
 ]
