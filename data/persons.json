@@ -47510,10 +47510,15 @@
   "places": [
    "Högvalta, Frykerud"
   ],
-  "summary": "Dotter till Erik Påhlsson och Kerstin Månsdotter i Högvalta, döpt 29 maj 1710; troligen den ’D: Sigrid’ som står i Erik Påhlssons hushåll i A I/1 och senare gift med Jon Ersson på Högvalta.",
+  "summary": "Dotter till Erik Påhlsson och Kerstin Månsdotter i Högvalta, född 22 maj 1710; gift 28 dec 1729 med drängen Jon Ersson från Västra Glänne; bodde i Svenserud på 1730-talet och på Högvalta från ca 1741. Barn: Brita 1730, Ingeborg 1733, Sigrid 1742.",
   "notes": [
    "DOP C/2 bild 90 hö (överst): ”22/29 May. Erich Påfwelsons och h: Kirstin Månsd[otter]s Barn i Högvalt. nambd Sigri. faddrar Befallningsman[nen] Mons[ieu]r Engelbrecht [Wagon?], Fendrick Jonas Smolenaius[?], Mad. Christina [Tamitz?], Mad. Sara Wargh, Karin Pehrsd. i Rud[?] …” – ’Påfwelsons’ och ’Hög[valt]’ lästa i högsta upplösning.",
-   "CC3 HUSFÖRHÖR A I/6 (C0037107) bild 16, fol. 5, ”Högvalta”: ”Jon Ersson” 1703 8/11 / ”H. Sigrid Ersd:r” 1710 22/5 / ab d. Britta Jonsd:r 1730 / ab d. Ingeborg 1733 / d. Sigrid 1742 / ab dr Nils Larsson 1738 / ab g. Pär Jonsson / ab p. Kerstin Månsd:r ×1736 [piga, ej änkan] / ab dr Olof Swensson 1739 / … / ’Södmor[?]’ Britta Börjesd:r 1682. Födelsedatumet 22/5 1710 är exakt dopdatumet för ’Erich Påfwelsons och h. Kirstin Månsd:s barn i Högvalt nambd Sigri’ (C/2 bild 90 hö, född 22, döpt 29 maj 1710) ⇒ Jon Erssons hustru Sigrid Ersdotter = Sigri f. 1710, dotter till Erik Påhlsson. Föreslås: identiteten verified."
+   "CC3 HUSFÖRHÖR A I/6 (C0037107) bild 16, fol. 5, ”Högvalta”: ”Jon Ersson” 1703 8/11 / ”H. Sigrid Ersd:r” 1710 22/5 / ab d. Britta Jonsd:r 1730 / ab d. Ingeborg 1733 / d. Sigrid 1742 / ab dr Nils Larsson 1738 / ab g. Pär Jonsson / ab p. Kerstin Månsd:r ×1736 [piga, ej änkan] / ab dr Olof Swensson 1739 / … / ’Södmor[?]’ Britta Börjesd:r 1682. Födelsedatumet 22/5 1710 är exakt dopdatumet för ’Erich Påfwelsons och h. Kirstin Månsd:s barn i Högvalt nambd Sigri’ (C/2 bild 90 hö, född 22, döpt 29 maj 1710) ⇒ Jon Erssons hustru Sigrid Ersdotter = Sigri f. 1710, dotter till Erik Påhlsson. Föreslås: identiteten verified.",
+   "CD6 VIGSEL E I/1 bild 32 hö (s. 57): ”d. 28 Dec. [1729] wigdes uti wanlig stånd dr: Jon Ersson från wäst: glänna med pigan Sigri Eriks dotter i Högwalta, 3 ordinarie lysningar … d. 7. 14. och 21. Decemb. i morgongåfwor 30 lod silfwer.”",
+   "CD6 DOP 1730 (C/3 bild 53 hö): bland faddrarna ”piga Ingebor Eriks dotter i Högwalta” – troligen systern Ingeborg f. 1713 (ingeborg_ersd_1713_hogvalta), som alltså levde 1730.",
+   "CD6 A I/5 bild 16: ”ab g. Påhl Ersson” i Jons hushåll – troligen Sigrids bror Påhl Eriksson (jfr A I/3 bild 18).",
+   "CD6 A I/7 bild 217: hennes sista nattvardsnotering ser ut att vara 1762; Jon och dottern har noteringar 1763.",
+   "CD6 A I/7 (C0037108) bild 217 (fol. 202) Högvalta: vänstermarginalen har en klammer kring Jon, hustrun och dottern Sigrid med texten ”Abf[lyttade] t[ill] Lun[d?]” (osäker läsning); nattvardsnoteringar för Jon och dottern slutar 1763, för hustrun 1762; Sigrids rad har ett horisontellt streck genom katekesrutorna. Överst vid Jons rad: ”1770 / Gn: Eq[?] / 1771”. Hushållet finns inte på Högvalta i A I/8 (1771–77)."
   ],
   "sources": [
    {
@@ -47523,11 +47528,24 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 16 (fol. 5), Högvalta: ”Jon Ersson” 1703 8/11, ”H. Sigrid Ersd:r” 1710 22/5, ab d. Britta Jonsd:r 1730, ab d. Ingeborg 1733, d. Sigrid 1742",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 32 höger (s. 57), 28 dec 1729: ”dr: Jon Ersson från wäst: glänna med pigan Sigri Eriks dotter i Högwalta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00032"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: H. Sigrid Ers: 1710 22/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
    }
   ],
   "search": [
    "Sigri (Sigrid) Ersdotter (f. 1710, Högvalta, Frykerud)"
-  ]
+  ],
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "Ej funnen i Frykerud F/1 bild 33–44 (1761–1770) under Högvalta; flyttade troligen med mannen ca 1763 till ’Lun[d?]’ (A I/7 bild 217); hennes rad där är genomstruken (möjligen död) – obekräftat."
+  }
  },
  {
   "id": "gosta_johansson_olsrud",
@@ -48379,12 +48397,17 @@
   "summary": "Dotter till Erik Påhlsson och Kerstin Månsdotter i Högvalta, döpt 16 aug 1713. Senare öde okänt.",
   "notes": [
    "DOP C/2 bild 120 hö (s. 236), 1713: ”13/16 Aug. Erich Påhlsons och h. Kirstin Månsd. dotter i Högvalt. kallad Ingeborg. Fadd[ra]r woro Mester Johan wid Fryksforsen[?] Larsson, Swen Nilsson i Glenne, Nils Swensson ibid. h. Sara Frisman, h. Anna i Glenne.”",
-   "Ingen Ingeborg Eriksdotter syns i A I/1 (1725–29) eller A I/3 (1736–41) enligt befintliga noter – kan ha dött som barn eller flyttat; dödbok saknas före 1744."
+   "Ingen Ingeborg Eriksdotter syns i A I/1 (1725–29) eller A I/3 (1736–41) enligt befintliga noter – kan ha dött som barn eller flyttat; dödbok saknas före 1744.",
+   "CD6: Fadder vid systerdottern Britas dop 15 nov 1730 (C/3 bild 53 hö): ”piga Ingebor Eriks dotter i Högwalta” – trolig identitet (samma gård, rätt patronymikon), levde alltså 1730."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Frykerud dopbok C/2 (1701–1726), bild 120 höger (s. 236), 13/16 aug 1713: ”Erich Påhlsons och h. Kirstin Månsd. dotter i Högvalt. kallad Ingeborg”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00120"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3, bild 53 höger (s. 84), 15 nov 1730: fadder ”piga Ingebor Eriks dotter i Högwalta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00053"
    }
   ],
   "search": [
@@ -49260,6 +49283,227 @@
   ],
   "search": [
    "Jon Larsson (soldat i Boda; 1:e man till Karin Halfvardsdotter, g. 1740)"
+  ]
+ },
+ {
+  "id": "britta_jonsd_1730_hogvalta",
+  "name": "Brita (Britta) Jonsdotter (f. 1730)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1730-11-13",
+   "place": "Br[a]nsarud[?], Frykerud",
+   "note": "Född 13, döpt 15 nov 1730 (C/3 bild 53 hö). A I/6 bild 16: ab d. Britta Jonsd:r 1730 13/11."
+  },
+  "places": [
+   "Frykerud",
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Dotter till Jon Ersson och Sigri Eriksdotter, född 13 nov 1730; står som dotter i Högvalta A I/5–A I/6, utflyttad (ab) under 1753–59.",
+  "notes": [
+   "DOP C/3 bild 53 hö (s. 84): ”d. 13 November föddes Jon Erssons och Hustrun Sigri Eriks dotters barn i Br[a]nsarud[?]. Christnades d. 15 dito till namn Brita. fadd: Wälborne Hr Fendrik Fromarie[?] på Her[r]fåttar[?], Hr Fendrik Carlsten på Gerantorp, Hr Göra[n] Warg, Hr Fellberg i Carlstad, Fru Maria Appolonia på Gerantorp, Hustru Sigri Olufsdotter i Br[a]nsarud, piga Ingebor Eriks dotter i Högwalta, piga Margeta Måns dotter ifrån Gåsbohl[?]”.",
+   "HUSFÖRHÖR A I/6 bild 16 (fol. 5) Högvalta: ”ab d. Britta Jonsd:r” 1730 13/11."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 53 höger (s. 84), 13/15 nov 1730: ”Jon Erssons och Hustrun Sigri Eriks dotters barn i Br[a]nsarud[?] … till namn Brita”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00053"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 16 (fol. 5), Högvalta: ab d. Britta Jonsd:r 1730 13/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00016"
+   }
+  ],
+  "search": [
+   "Brita (Britta) Jonsdotter (f. 1730)"
+  ]
+ },
+ {
+  "id": "ingeborg_jonsd_1733_hogvalta",
+  "name": "Ingeborg Jonsdotter (f. 1733)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1733-04-05",
+   "place": "Svenserud, Frykerud",
+   "note": "Född 5, hemdöpt 6 april 1733 (C/3 bild 90 hö). A I/6 bild 16: ab d. Ingeborg 1733 5/4."
+  },
+  "places": [
+   "Svenserud, Frykerud",
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Dotter till Jon Ersson och Sigri Eriksdotter, född 5 april 1733 i Svenserud; i föräldrarnas hushåll på Högvalta A I/5, utflyttad (ab) under A I/6 (1753–59).",
+  "notes": [
+   "DOP C/3 bild 90 hö (s. 150), 1733: ”d. 5 April föddes Jon Erssons och Hustru Sigri Eriks dotters barn i Swenserud[?]. Christnades hemma d. 6 dito til namn Ingebor: fadd: Pehr Nilsson i Högwalta, … [drängen?] från … Oluf och Måns: H: Ingri Olufsdotter i Högwalta, H: Sigri Olufsdotter i Swenserud[?].” (Byns namn läst ’Br/Swansarud’; A I/3 visar familjen i Svenserud.)",
+   "HUSFÖRHÖR A I/5 bild 16 (s. 12): ”Ingeb: Jonsd:r”; A I/6 bild 16: ”ab d. Ingeborg” 1733 5/4."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 90 höger (s. 150), 5/6 april 1733: ”Jon Erssons och Hustru Sigri Eriks dotters barn … til namn Ingebor”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00090"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 16 (fol. 5), Högvalta: ab d. Ingeborg 1733 5/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00016"
+   }
+  ],
+  "search": [
+   "Ingeborg Jonsdotter (f. 1733)"
+  ]
+ },
+ {
+  "id": "sigrid_jonsd_1742_hogvalta",
+  "name": "Sigrid Jonsdotter (f. 1742, Högvalta)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1742-04-12",
+   "place": "Högvalta, Frykerud",
+   "note": "Född 12 april 1742, döpt i Skog (C/3 bild 169 hö). A I/6: d. Sigrid 1742 12/4; A I/7: 1742 12/4."
+  },
+  "places": [
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Dotter till Jon Ersson och Sigrid Eriksdotter på Högvalta, född 12 april 1742; hemma hos föräldrarna i A I/5–A I/7 (till 1760-talet).",
+  "notes": [
+   "DOP C/3 bild 169 hö (s. 300), 1742: ”d. 12 dito [April] föddes Jon Erikssons och Hust: Sigrid Eriks dotters barn från Högwalta döptes i Skog af Hr Peter Friberg och kallades Sigrid. Faddr woro … Johan Jonsson från Lene[?], Hust: Lisa Kellin i Högwalta.”",
+   "HUSFÖRHÖR A I/5 bild 16: ”D: Sigrid Jonsdott:r”; A I/6 bild 16: ”d. Sigrid” 1742 12/4; A I/7 bild 217 (fol. 202): ”d. Sigrid J:” 1742 12/4.",
+   "CD6: Ingår i klammern ”Abf[lyttade] t[ill] Lun[d?]” med föräldrarna i A I/7 bild 217; sista nattvardsnotering 1763."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 169 höger (s. 300), 12 april 1742: ”Jon Erikssons och Hust: Sigrid Eriks dotters barn från Högwalta … kallades Sigrid”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00169"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: d. Sigrid J: 1742 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   }
+  ],
+  "search": [
+   "Sigrid Jonsdotter (f. 1742, Högvalta)"
+  ]
+ },
+ {
+  "id": "jon_ersson_1703_hogvalta",
+  "name": "Jon Ersson (f. 1703, Västra Glänne → Svenserud → Högvalta, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1703-11-08",
+   "place": "",
+   "note": "A I/6 och A I/7: 1703 8/11. Dop ej läst."
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "Ej funnen i Frykerud F/1 bild 33–44 (1761–1770) under Högvalta; flyttade troligen ca 1763 till ’Lun[d?]’ (A I/7 bild 217) – dödsnotis bör sökas under den byn."
+  },
+  "places": [
+   "Västra Glänne, Frykerud",
+   "Svenserud, Frykerud",
+   "Högvalta, Frykerud"
+  ],
+  "summary": "Dräng från Västra Glänne, gift 28 dec 1729 med Sigri Eriksdotter i Högvalta; bodde i Svenserud på 1730-talet och brukade Högvalta från 1741 (mantal). Står på Högvalta i A I/5–A I/7.",
+  "notes": [
+   "VIGSEL E I/1 bild 32 hö (s. 57), 1729: ”d. 28 Dec. wigdes uti wanlig stånd dr: Jon Ersson från wäst: glänna med pigan Sigri Eriks dotter i Högwalta, 3 ordinarie lysningar gingo för sig d. 7. 14. och 21. Decemb. i morgongåfwor 30 lod silfwer.”",
+   "HUSFÖRHÖR A I/3 (1736–41) bild 16 (s. 8) Swenserud: ”Jon Eriksson / H: Sigrid Eriksd.”.",
+   "HUSFÖRHÖR A I/5 (1746–53) bild 16 (s. 12) Högvalta: ”Jon Ersson / H. Sigrid Ersdotter / Ingeb: Jonsd:r / D: Britta Jonsd:r / p. Marit Nilsd:r / ab g. Påhl Ersson / … / D: Sigrid Jonsdott:r”.",
+   "HUSFÖRHÖR A I/6 (1753–59) bild 16 och A I/7 (1759–71) bild 217 (fol. 202) Högvalta: ”Jon Ersson” 1703 8/11, ”H. Sigrid Ers:” 1710 22/5, ”d. Sigrid J:” 1742 12/4. I A I/7 har Jon, hustrun och dottern nattvardsnoteringar 1759–1763; ovanför Jons rad står ”1770 / Gn: Eq[?] / 1771”. Hushållet finns inte på Högvalta i A I/8 (1771–77, bild 242–243).",
+   "CD6 A I/7 (C0037108) bild 217 (fol. 202) Högvalta: vänstermarginalen har en klammer kring Jon, hustrun och dottern Sigrid med texten ”Abf[lyttade] t[ill] Lun[d?]” (osäker läsning); nattvardsnoteringar för Jon och dottern slutar 1763, för hustrun 1762; Sigrids rad har ett horisontellt streck genom katekesrutorna. Överst vid Jons rad: ”1770 / Gn: Eq[?] / 1771”. Hushållet finns inte på Högvalta i A I/8 (1771–77)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 32 höger (s. 57), 28 dec 1729: ”dr: Jon Ersson från wäst: glänna med pigan Sigri Eriks dotter i Högwalta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00032"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 16 (s. 8), Swenserud: Jon Eriksson, H: Sigrid Eriksd.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/5 (1746–53), bild 16 (s. 12), Högvalta: Jon Ersson, H. Sigrid Ersdotter, Ingeb. Jonsd:r, D: Britta Jonsd:r, D: Sigrid Jonsdott:r",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037106_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 16 (fol. 5), Högvalta: Jon Ersson 1703 8/11",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/7 (1759–71), bild 217 (fol. 202), Högvalta: Jon Ersson 1703 8/11, H. Sigrid Ers: 1710 22/5, d. Sigrid J: 1742 12/4",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037108_00217"
+   }
+  ],
+  "search": [
+   "Jon Ersson (f. 1703, Västra Glänne → Svenserud → Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "jonas_jonsson_1736_svenserud",
+  "name": "Jonas Jonsson (f. 1736, Svenserud, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1736-03-15",
+   "place": "Svenserud, Frykerud",
+   "note": "Född 15, döpt 16 mars 1736 i Skog (C/3 bild 123 vä)."
+  },
+  "died": {
+   "date": "",
+   "note": "Finns inte i föräldrarnas hushåll i A I/5 (1746–53) – troligen död som barn före 1744 (dödbok saknas) – ej belagt."
+  },
+  "places": [
+   "Svenserud, Frykerud"
+  ],
+  "summary": "Son till Jon Ersson och Sigri Eriksdotter i Svenserud, född 15 mars 1736. Senare öde okänt.",
+  "notes": [
+   "DOP C/3 bild 123 vä (s. 211), 1736: ”d. 15 Martij föddes Jon Erssons och Hustru Sigri Eriks dotters barn i Swenserud Christnades i Skog d. 16 dito til namn Jonas. Fadd: Daniel Falk i Skog, M[ås?] Oluf Andersson i Åsen, dr: Pehr Clemetsson[?], Mad: Anna Marg: De Tern i Skog, H: Ingebor Swens dotter i Swenserud.”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 123 vänster (s. 211), 15/16 mars 1736: ”Jon Erssons och Hustru Sigri Eriks dotters barn i Swenserud … til namn Jonas”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00123"
+   }
+  ],
+  "search": [
+   "Jonas Jonsson (f. 1736, Svenserud, Frykerud)"
+  ]
+ },
+ {
+  "id": "margareta_jonsd_1739_svenserud",
+  "name": "Margareta Jonsdotter (f. 1739, Svenserud, Frykerud)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1739-03-20",
+   "place": "Svenserud, Frykerud",
+   "note": "Född 20, döpt 23 mars 1739 (C/3 bild 150 vä)."
+  },
+  "died": {
+   "date": "",
+   "note": "Finns inte i föräldrarnas hushåll i A I/5 (1746–53) – troligen död som barn före 1744 – ej belagt."
+  },
+  "places": [
+   "Svenserud, Frykerud"
+  ],
+  "summary": "Dotter till Jon Eriksson och Sigrid Eriksdotter i Svenserud, född 20 mars 1739. Senare öde okänt.",
+  "notes": [
+   "DOP C/3 bild 150 vä (s. 265), 1739: ”d. 20 Mart. föddes Jon Erikssons och h: Sigrid Eriks dotters barn i Swenserud, christnades d. 23 dito til namn Margareta. Faddr: Lars Gullicksson i Lindsnar, Olof Olofsson i Swenserud, dr. Johan Sälling i Högwalta, h: Elin Pehrsd[otter?] i Myra[?], h: Ingebor Swensd: i Swenserud, p. Stina Sälling i Högwalta, p. Ingierd Andersd: i Öjenbohl[?].”"
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 150 vänster (s. 265), 20/23 mars 1739: ”Jon Erikssons och h: Sigrid Eriks dotters barn i Swenserud … til namn Margareta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00150"
+   }
+  ],
+  "search": [
+   "Margareta Jonsdotter (f. 1739, Svenserud, Frykerud)"
   ]
  }
 ]

@@ -14838,5 +14838,92 @@
   "b": "karin_halfwardsd_1718_olsrud",
   "status": "strong",
   "basis": "Boda E I/2 bild 55 vä, 1799 nr 12: ”Gift 1:o 1740 30/11 med Sold. Jon Larsson i Boda; 2:o 1744 1/1 med Bdr Pål Christophersson i Olserud.”"
+ },
+ {
+  "id": "c-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta-britta_jonsd_1730_hogvalta",
+  "type": "child",
+  "parents": [
+   "jon_ersson_1703_hogvalta",
+   "sigri_ersd_1710_hogvalta"
+  ],
+  "child": "britta_jonsd_1730_hogvalta",
+  "status": "verified",
+  "basis": "C/3 bild 53 hö: ”d. 13 November föddes Jon Erssons och Hustrun Sigri Eriks dotters barn … till namn Brita”; A I/6 bild 16: ”ab d. Britta Jonsd:r 1730 13/11”."
+ },
+ {
+  "id": "p-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta",
+  "type": "partner",
+  "a": "jon_ersson_1703_hogvalta",
+  "b": "sigri_ersd_1710_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud E I/1 bild 32 hö (s. 57): ”d. 28 Dec. [1729] wigdes … dr: Jon Ersson från wäst: glänna med pigan Sigri Eriks dotter i Högwalta”; husförhör A I/3 bild 16, A I/5–A I/7 som man och hustru."
+ },
+ {
+  "id": "c-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta-ingeborg_jonsd_1733_hogvalta",
+  "type": "child",
+  "parents": [
+   "jon_ersson_1703_hogvalta",
+   "sigri_ersd_1710_hogvalta"
+  ],
+  "child": "ingeborg_jonsd_1733_hogvalta",
+  "status": "verified",
+  "basis": "C/3 bild 90 hö: ”d. 5 April föddes Jon Erssons och Hustru Sigri Eriks dotters barn … til namn Ingebor”; A I/6 bild 16 ”ab d. Ingeborg 1733 5/4”."
+ },
+ {
+  "id": "c-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta-sigrid_jonsd_1742_hogvalta",
+  "type": "child",
+  "parents": [
+   "jon_ersson_1703_hogvalta",
+   "sigri_ersd_1710_hogvalta"
+  ],
+  "child": "sigrid_jonsd_1742_hogvalta",
+  "status": "verified",
+  "basis": "C/3 bild 169 hö: ”d. 12 dito [april 1742] föddes Jon Erikssons och Hust: Sigrid Eriks dotters barn från Högwalta … kallades Sigrid”; A I/6–A I/7 ”d. Sigrid 1742 12/4”."
+ },
+ {
+  "id": "s-britta_jonsd_1730_hogvalta-ingeborg_jonsd_1733_hogvalta",
+  "type": "sibling",
+  "a": "britta_jonsd_1730_hogvalta",
+  "b": "ingeborg_jonsd_1733_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Jon Ersson och Sigri Eriksdotter (C/3 bild 53 hö, bild 90 hö)."
+ },
+ {
+  "id": "s-ingeborg_jonsd_1733_hogvalta-sigrid_jonsd_1742_hogvalta",
+  "type": "sibling",
+  "a": "ingeborg_jonsd_1733_hogvalta",
+  "b": "sigrid_jonsd_1742_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Jon Ersson och Sigri/Sigrid Eriksdotter (C/3 bild 90 hö, bild 169 hö)."
+ },
+ {
+  "id": "c-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta-jonas_jonsson_1736_svenserud",
+  "type": "child",
+  "parents": [
+   "jon_ersson_1703_hogvalta",
+   "sigri_ersd_1710_hogvalta"
+  ],
+  "child": "jonas_jonsson_1736_svenserud",
+  "status": "verified",
+  "basis": "C/3 bild 123 vä: ”d. 15 Martij föddes Jon Erssons och Hustru Sigri Eriks dotters barn i Swenserud … til namn Jonas”."
+ },
+ {
+  "id": "c-jon_ersson_1703_hogvalta-sigri_ersd_1710_hogvalta-margareta_jonsd_1739_svenserud",
+  "type": "child",
+  "parents": [
+   "jon_ersson_1703_hogvalta",
+   "sigri_ersd_1710_hogvalta"
+  ],
+  "child": "margareta_jonsd_1739_svenserud",
+  "status": "verified",
+  "basis": "C/3 bild 150 vä: ”d. 20 Mart. föddes Jon Erikssons och h: Sigrid Eriks dotters barn i Swenserud … til namn Margareta”."
+ },
+ {
+  "id": "s-britta_jonsd_1730_hogvalta-sigrid_jonsd_1742_hogvalta",
+  "type": "sibling",
+  "a": "britta_jonsd_1730_hogvalta",
+  "b": "sigrid_jonsd_1742_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Jon Ersson och Sigri/Sigrid Eriksdotter (C/3 bild 53 hö, 169 hö); båda i hushållet A I/5–A I/6."
  }
 ]
