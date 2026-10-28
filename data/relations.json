@@ -15195,5 +15195,153 @@
   "b": "sigrid_jonsd_1742_hogvalta",
   "status": "verified",
   "basis": "VIGSEL E I/1 (C0037140) bild 95 hö (s. 177), dec 1766: ”D[itt]o item på lika sätt wigdes dr Sven Olofsson i Myrestad med pig: Sigrid Jönsdotter ibidem morgongåfwa 40 lod silfwer” (datum i marginalen ’Dec 2[8?]’ på föregående post). + HUSFÖRHÖR A I/7 (C0037108) bild 107 (fol. 94) Myrstad: ”Död Jon Ersson” [överstruken] 1703 8/11; ”Enkan Sigrid Ersdotter” 1710 22/5; ”M. Sven Olofsson” 1743 [?]/3; ”H. Sigrid Jonsdr” 1742 12/4; överstruken ”f. Ingeborg Jons[?]” 1759 18/6. (Marginalnoten ’Abf. t. Lun[?]’ i Högvalta bild 217 avser alltså troligen flytt till Myrstad – läsningen ’Lund’ bör strykas; Lund fol. 145 bild 158 och A I/8 Lund s. 177 bild 190 genomsökta utan träff.) Födelsedatum 1742 12/4 i husförhöret är identiskt med Sigrids i Högvalta (A I/6–7) och hennes föräldrar bor i samma hushåll."
+ },
+ {
+  "id": "p-pal_gostafsson_fosked-britta_nilsd_fosked",
+  "type": "partner",
+  "a": "pal_gostafsson_fosked",
+  "b": "britta_nilsd_fosked",
+  "status": "verified",
+  "basis": "Föräldrar i dopen 1724–1732 (C I/1 bild 152, 156, 167, 179, 193)"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-nils_palsson_1724_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "nils_palsson_1724_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 152 hö nr 40: ”Påhl Giöstafssons Soldat[s] h. Britta Nilsd:rs Barn i Foskn ved Namn Nils”"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-jon_palsson_1725_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "jon_palsson_1725_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 156 vä nr 18: ”Påhl Giöstafssons och Britta N[il]sd:rs barn i Foskn ved namn Jon”"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-marit_palsd_1727_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "marit_palsd_1727_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 167 vä nr 23: ”Påhl Giöstafssons och h. Britta Nilsd:rs Barn från Föskn, N. Marit”"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-britta_palsd_1729_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "britta_palsd_1729_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 179 vä nr 29: ”Påhl Giöstafssons och hust. Börnt Nilsd:rs i Föskn Barn, Britta kallad”"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-karin_palsd_1732_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "karin_palsd_1732_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 193 vä nr 9: ”Påhl Giöstafssons och h. Britta Nilsd:rs i Föskn Barn, Karin”"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-claes_nilsson_1731_skog",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "claes_nilsson_1731_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 189 hö nr 30: ”d 18 Sept. [1731] Nils Nilssons och h. Britta Claesdotters i Skog Barn, Claes”"
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-barn_jon_karin_1732_skog",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "barn_jon_karin_1732_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 192 hö nr 6: ”d 13 Febr. [1732] Jon Giöstafssons och h. Karin Nilsd:rs i Skog Barn”"
+ },
+ {
+  "id": "s-jon_skog_f1721-pal_gostafsson_fosked",
+  "type": "sibling",
+  "a": "jon_skog_f1721",
+  "b": "pal_gostafsson_fosked",
+  "status": "lead",
+  "basis": "Endast samma patronymikon (Giöstafsson) och MyHeritage-träd; inga ömsesidiga faddrar funna 1724–1732 (C I/1 bild 152–193)."
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-pal_nilsson_1733_skog",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "pal_nilsson_1733_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 196 hö nr 3: ”d 7. Jan: [1733] Nils Nilssons och Hust. Brita Claesd:rs i Skog Barn, Påhl”"
+ },
+ {
+  "id": "c-pal_gostafsson_fosked-britta_nilsd_fosked-nils_palsson_1735_fosked",
+  "type": "child",
+  "parents": [
+   "pal_gostafsson_fosked",
+   "britta_nilsd_fosked"
+  ],
+  "child": "nils_palsson_1735_fosked",
+  "status": "verified",
+  "basis": "C I/1 bild 209 hö nr 3: ”d 9 Febr. Påhl Giöstafssons och Hust. Brita Nilsd:rs i Föskn Son Nils”"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-jon_nilsson_1739_skog",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "jon_nilsson_1739_skog",
+  "status": "verified",
+  "basis": "C I/2 bild 23 vä nr 13: ”d 4 Martii [1739] Nils Nilssons och Hust. Britta Claesdotters i Skog Son Jön”"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-karin_nilsd_1742_skog",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "karin_nilsd_1742_skog",
+  "status": "verified",
+  "basis": "C I/2 bild 40 hö nr 8: ”d 7 Jan: [1742] Nils Nilssons och Hust. Britta Claesdotters i Skog dotter Karin”"
+ },
+ {
+  "id": "c-nils_n_stoy-britta_claesd_stoy-per_nilsson_1745_skog",
+  "type": "child",
+  "parents": [
+   "nils_n_stoy",
+   "britta_claesd_stoy"
+  ],
+  "child": "per_nilsson_1745_skog",
+  "status": "verified",
+  "basis": "C I/2 bild 54 vä nr 33: ”d 1. Sept: [1745] Nils Nilssons och Hust. Britta Claesdotters i Skog Son Pehr”"
  }
 ]

@@ -353,14 +353,6 @@
       ]
     },
     {
-      "title": "Påhl Göstafsson × Britta Nilsdotter i ’Fösta’ – ytterligare syskonpar?",
-      "text": "C I/1: Påhl Giöstafsson (soldat) och h. Britta Nilsdotter har barn Nils (aug 1724, bild 152 hö nr 40, ”Påhl Giöstafssons Soldat[?] h. Britta Nilsd:rs Barn i Fösta[?] ved namn Nils”), Jon (29/9 1725, bild 156 vä nr 18) och Marit (16/4 1727, bild 167 vä nr 23, ”Påhl Giöstafssons och h. Britta Nilsd:rs Barn från Fösta[?], N. Marit”). Ortnamnet skrivet ’Föstn/Fösta’ – skiljer sig tydligt från ’Skog’. MyHeritage gör Påhl Göstasson till bror till Jon Göstafsson i Skog. Om Britta Nilsdotter också var dotter till Nils Christophersson vore det ett tredje syskonpar – men inget i faddrarna (Tallvigen, Fösta, Byn) pekar på Skog. Endast lead; ej ny person i trädet. Ytterligare barn: Britta 1/11 1729 (bild 179 vä nr 29, ”Påhl Giöstafssons och h. B[ritta?] Nilsd:rs Barn i Föste, Britta kallad”).",
-      "persons": [
-        "jon_skog_f1721",
-        "nils_christophersson_skog"
-      ]
-    },
-    {
       "title": "Karin Nilsdotter i Skog (g. 1713) – dotter till Nils Christophersson? (CD5-genomgång)",
       "text": "Genomläsning av Brunskog dop C I/1 1713–1729 (bild 90–180) och vigsel E I/1 1721–29 gav inga uttryckliga föräldrauppgifter för Karin Nilsdotter eller Nils Nilsson i Skog. Starkaste indicierna: Karin och Christopher Nilsson (verifierad son) vigdes samma dag 1713 ’i Skog’ med syskonen Jon/Elin Giöstafsbarn; Nils Christophersson står kvar som fadder i Skog mars 1715 (bild 95); täta ömsesidiga faddrar mellan Jon/Karin i Skog och Påhl Nilsson/Gertrud Bondesdotter i Toltan (1714–1728) samt Elof Nilsson i Toltan; Karin och Påhl står tillsammans som faddrar 1723 (bild 147, ’Per Nilss. i Toltan’ = Påhl enligt CB3-regeln). Status oförändrad: candidate. Nästa steg: bouppteckning efter Nils Christophersson 1719 eller Anna Jönsdotter 1742/43 (Jösse/Gillbergs härads häradsrätt), samt Brunskogs husförhör (äldsta A I/1 börjar 1760 – för sent).",
       "persons": [
@@ -391,6 +383,18 @@
       "persons": [
         "ingeborg_jonsd_1733_hogvalta",
         "olof_olofsson_1754_g_ingeborg"
+      ]
+    },
+    {
+      "title": "Nils Nilsson i Skog (g. m. Britta Claesdotter) – son till Nils Christophersson? (CE5)",
+      "text": "CE5 läste Brunskog dop C I/1 bild 180–216 och C I/2 bild 11–69 (1729–jan 1749) samt dödbok E I/1 bild 101–118 (1743–48) och 163–181 (1722–1735). Nils Nilsson och Britta Claesdotter i Skog har sju kända barn 1727–1745 (Nils, Anders, Claes †1731, Påhl 1733, Jon 1739, Karin 1742, Per 1745). Ingen post anger Nils Nilssons föräldrar eller ålder; hans begravning saknas t.o.m. juni 1748 (han levde som fadder 1747, C I/2 bild 64 hö nr 39 ’Nils Nilsson i Skog’). Barn sent som 1745 gör en födsel ca 1695–1705 rimlig. Starkaste indiciet: faddrarna vid Påhls dop 1733 (C I/1 bild 196) – Christopher Nilsson i Olsrud (verifierad son till Nils Christophersson), Elof Nilsson, Gertrud Bondesdotter (Påhl Nilssons änka) och Karin Nilsdotter i Skog samtidigt, och sonen uppkallad Påhl. Föreslagen status för syskonskap Nils–Christopher/Elof/Karin: candidate (oförändrat), föräldraskap Nils Christophersson: candidate. Vigseln ej funnen i Brunskog 1713–1726. Nästa steg: husförhör finns först 1760 – Nils (ev. död före 1760); bouppteckning efter Nils Nilsson i Skog (Gillbergs härad) 1749–1760.",
+      "persons": [
+        "nils_n_stoy",
+        "britta_claesd_stoy",
+        "nils_christophersson_skog",
+        "christopher_nilsson_skog",
+        "elof_nilsson",
+        "karin_skog_m1721"
       ]
     }
   ],
@@ -4554,6 +4558,15 @@
       ],
       "kind": "resolved",
       "resolution": "CE3: Jon död april 1768 i Myrstad (F/1 bild 41 vä, ”Jon Ersson 64”); Sigrid änka hos dottern i Myrstad, ”Död” i A I/8 bild 128 – dödspost 1771–77 ej funnen (ny CE3-flagga)."
+    },
+    {
+      "title": "Påhl Göstafsson × Britta Nilsdotter i ’Fösta’ – ortnamnet = Fösked (CE5)",
+      "text": "Ortnamnet läst i högsta zoom på C I/1 bild 152, 156, 167, 179: skrivet ’Foſkn/Föſkn’ (s + k, ingen t-stapel) = Fösked i Brunskog (jfr ’Foſke’ i E I/1 bild 29 hö 1713). Britta Nilsdotter dog i barnsäng 1735: E I/1 bild 180 vä nr 8: ”d 2 Martii Hust. Brita Nilsdotter från Föskn, som från S. Botolphi tid 1714 lefde med Påhl Giöstafsson til d 17 Febr. 1735. Berömel. gwinna 43 åhr, dödde på Barnsäng.” + nr 9 (bild 180 hö): ”D. S. Påhls och dess Hust. Britas barn i Föskn 3 weckor gl. följde Modren i sama Kista.” → f. ca 1692, gift ca 17 juni 1714 (vigseln ej funnen i Brunskog E I/1 bild 29–30 – kanske annan socken). Barn: Nils 1724, Jon 1725 (†1726), Marit 1727, Britta 1729, Karin 1732, Nils 1735 (†1735). Påhl senare fadder i Edane 1744–1747. Inga faddrar från Skog; MyHeritage-länken Påhl–Jon Göstafsson (bröder) förblir lead. Britta Nilsdotter ingen indikation på koppling till Nils Christophersson.",
+      "persons": [
+        "pal_gostafsson_fosked",
+        "britta_nilsd_fosked",
+        "jon_skog_f1721"
+      ]
     }
   ],
   "backlog": [
