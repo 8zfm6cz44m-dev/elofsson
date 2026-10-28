@@ -12803,17 +12803,6 @@
   "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
  },
  {
-  "id": "c-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg-d7_leaf_arvid_v",
-  "type": "child",
-  "parents": [
-   "d7_andrew_leaf",
-   "d7_maria_jonasdotter_skogsberg"
-  ],
-  "child": "d7_leaf_arvid_v",
-  "status": "strong",
-  "basis": "Iowa födelse-/dödsregister och/eller census 1920 anger föräldrarna Andrew Leaf och Mary Skogsberg."
- },
- {
   "id": "p-d7_andrew_leaf-d7_maria_jonasdotter_skogsberg",
   "type": "partner",
   "a": "d7_andrew_leaf",
@@ -12826,8 +12815,8 @@
   "type": "partner",
   "a": "d7_albert_okerman",
   "b": "d7_elin_jonasdotter_skogsberg",
-  "status": "strong",
-  "basis": "Census 1910 Edgerton: Albert Okerman head, hustru Ellen (= Elin Skogsberg, MN 1905)."
+  "status": "verified",
+  "basis": "Iowa County Marriages: Albert Okerman – Ellen Skogsberg, vigsel 26 dec 1901 Woodbury Twp, Iowa (QJDS-GXJF)"
  },
  {
   "id": "p-d7_john_skogsberg-susan",
@@ -16424,5 +16413,109 @@
   "child": "jan_ksiol_1844",
   "status": "verified",
   "basis": "Katedra 1844 akt 674 (bildläst): far Jan Ksel, rolnik i Szydłówek, mor Agata z Osuchów 30 år. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1844a&kt=1&plik=665-674.jpg"
+ },
+ {
+  "id": "p-ub5_anders_nilsson_1825_edane-ub5_anna_olsdotter_1827_skog",
+  "type": "partner",
+  "a": "ub5_anders_nilsson_1825_edane",
+  "b": "ub5_anna_olsdotter_1827_skog",
+  "status": "verified",
+  "basis": "A I/33 bild 191: 'B. Anders Nilsson … H. Anna Olsdotter'"
+ },
+ {
+  "id": "c-ub5_anders_nilsson_1825_edane-ub5_anna_olsdotter_1827_skog-d7_anders_sylvander",
+  "type": "child",
+  "parents": [
+   "ub5_anders_nilsson_1825_edane",
+   "ub5_anna_olsdotter_1827_skog"
+  ],
+  "child": "d7_anders_sylvander",
+  "status": "verified",
+  "basis": "A I/33 bild 191 'Son Anders Sylvander'; dopbok 1852 bild 42 'Anders – Anders Nilsson o H. Anna Olsd:r i Skog'"
+ },
+ {
+  "id": "c-ub5_anders_nilsson_1825_edane-ub5_anna_olsdotter_1827_skog-betty_a1854",
+  "type": "child",
+  "parents": [
+   "ub5_anders_nilsson_1825_edane",
+   "ub5_anna_olsdotter_1827_skog"
+  ],
+  "child": "betty_a1854",
+  "status": "verified",
+  "basis": "A I/33 bild 191 'Dot. Betty 54 28/9'; A I/35 bild 185 'Måg Olof Persson, H. Betty Andersdotter 54 28/9'"
+ },
+ {
+  "id": "c-ub5_anders_nilsson_1825_edane-ub5_anna_olsdotter_1827_skog-ub5_olof_andersson_1856_skog",
+  "type": "child",
+  "parents": [
+   "ub5_anders_nilsson_1825_edane",
+   "ub5_anna_olsdotter_1827_skog"
+  ],
+  "child": "ub5_olof_andersson_1856_skog",
+  "status": "verified",
+  "basis": "A I/33 bild 191 'Son Olof 56 28/12'"
+ },
+ {
+  "id": "c-ub5_anders_nilsson_1825_edane-ub5_anna_olsdotter_1827_skog-ub5_magnus_sylvander_1864",
+  "type": "child",
+  "parents": [
+   "ub5_anders_nilsson_1825_edane",
+   "ub5_anna_olsdotter_1827_skog"
+  ],
+  "child": "ub5_magnus_sylvander_1864",
+  "status": "verified",
+  "basis": "A I/33 bild 191 'Magnus 64 25/10'; NUMIDENT föräldrar Anders Nilson, Anna Olson"
+ },
+ {
+  "id": "p-ub5_magnus_sylvander_1864-ub5_ellen_nilson_sylvander_1877",
+  "type": "partner",
+  "a": "ub5_magnus_sylvander_1864",
+  "b": "ub5_ellen_nilson_sylvander_1877",
+  "status": "verified",
+  "basis": "Pennsylvania County Marriages: Magnus A Sylvander – Ellen W Nilson 7 maj 1898 Mount Jewett (VFST-VCM)"
+ },
+ {
+  "id": "c-ub5_magnus_sylvander_1864-ub5_ellen_nilson_sylvander_1877-ub5_walter_harold_sylvander_1898",
+  "type": "child",
+  "parents": [
+   "ub5_magnus_sylvander_1864",
+   "ub5_ellen_nilson_sylvander_1877"
+  ],
+  "child": "ub5_walter_harold_sylvander_1898",
+  "status": "strong",
+  "basis": "PA födelse 1898 Mount Jewett föräldrar Magnus och Ellen W. Sylvander; census 1910 (MG7L-H67)"
+ },
+ {
+  "id": "c-ub5_magnus_sylvander_1864-ub5_ellen_nilson_sylvander_1877-ub5_paul_w_sylvander_1902",
+  "type": "child",
+  "parents": [
+   "ub5_magnus_sylvander_1864",
+   "ub5_ellen_nilson_sylvander_1877"
+  ],
+  "child": "ub5_paul_w_sylvander_1902",
+  "status": "strong",
+  "basis": "census 1910 McKeesport (MG7L-H67)"
+ },
+ {
+  "id": "c-d7_albert_okerman-d7_elin_jonasdotter_skogsberg-ub5_rolland_okerman_1913",
+  "type": "child",
+  "parents": [
+   "d7_albert_okerman",
+   "d7_elin_jonasdotter_skogsberg"
+  ],
+  "child": "ub5_rolland_okerman_1913",
+  "status": "verified",
+  "basis": "NUMIDENT anger föräldrarna Albert G Okerman och Ellen Skogsberg"
+ },
+ {
+  "id": "c-d7_albert_okerman-d7_elin_jonasdotter_skogsberg-ub5_carol_okerman_1916",
+  "type": "child",
+  "parents": [
+   "d7_albert_okerman",
+   "d7_elin_jonasdotter_skogsberg"
+  ],
+  "child": "ub5_carol_okerman_1916",
+  "status": "verified",
+  "basis": "NUMIDENT anger föräldrarna Albert G Okerman och Ellen Skogsberg"
  }
 ]

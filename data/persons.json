@@ -21431,7 +21431,7 @@
  {
   "id": "d7_anders_sylvander",
   "name": "Anders Sylvander (Skog)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
@@ -21447,7 +21447,10 @@
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166), rubrik Skog: ”Anders Sylvander 52 19/7 Skog; H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda; Anna 79 5/11 Fryksände; Nils 82 2/10 Boda; Johan 85 21/6 Skog; Hulda 91 9/12 Skog”. Flyttkolumnen: ”Amerika 95 18/10” (klammer över föräldrarna) och ”Amerika 95 18/10” (klammer över Nils, Johan, Hulda); Anna: ”nedre 95” (ej Amerika).",
    "Födelseår står som tvåsiffrigt (52 = 1852).",
    "USA (FamilySearch): Andrew Sylvander f. ca 1853 Sweden, änkling, huvud i hushåll i Coraopolis, Allegheny, Pennsylvania 1910 med barnen Nelse (27, Sweden), Hulda (18, Sweden), Elmer (14, PA), Esther (10, PA); 1930 Mount Jewett, McKean PA, änkling 77 med dotter Anna 50. Matchning: förnamn+efternamn (Sylvander = sällsynt), födelseår 1852/1853, födelseland Sweden, barnnamn Nils/Hulda/Anna, änkling (hustrun Matilda sinnessjuk 1895). Ankomstår ej bekräftat i posten; Ellis Island 10 aug 1895 (Anders Sylvander f. 1852) ligger FÖRE utflyttningsdatumet 18/10 1895 och är ej kopplad. Möjlig död: Find a Grave Andrew Sylvander d. 13 feb 1942 Bridge View Cemetery, Mount Jewett (födelseår där 1843 – avvikande, ej säkert samma).",
-   "BN3: Find a Grave: Andrew Sylvander, begravning 13 feb 1942 Bridge View Cemetery, Mount Jewett, McKean PA (grav 1843 enl. index; census 1910/1920/1930 ger 1853 = överens med SE 1852). Födelse- och dödsdatum ej i skriven attest; 1940 census saknar honom. Pennsylvania births: dotter Ester f. 1900 Hamlin Twp, McKean, föräldrar Andrew Sylvander och Mathilda – hustrun levde alltså i PA 1900. 'Hjalmer Sylvander' f. 1896 Mount Jewett (föräldrar Anders Sylvander) = sannolikt Elmer. Ingen koppling till Erickson-familjen i Mount Jewett funnen (ej sökt systematiskt)."
+   "BN3: Find a Grave: Andrew Sylvander, begravning 13 feb 1942 Bridge View Cemetery, Mount Jewett, McKean PA (grav 1843 enl. index; census 1910/1920/1930 ger 1853 = överens med SE 1852). Födelse- och dödsdatum ej i skriven attest; 1940 census saknar honom. Pennsylvania births: dotter Ester f. 1900 Hamlin Twp, McKean, föräldrar Andrew Sylvander och Mathilda – hustrun levde alltså i PA 1900. 'Hjalmer Sylvander' f. 1896 Mount Jewett (föräldrar Anders Sylvander) = sannolikt Elmer. Ingen koppling till Erickson-familjen i Mount Jewett funnen (ej sökt systematiskt).",
+   "UB5 DOPBOK 1852 (C I/5 bild 42, årsrubrik 1852 bild 41): ”[juli] 19 20 Anders – Anders Nilsson o H. Anna Olsd:r i Skog, 25” = född 19 juli 1852 (bekräftar A I/37). A I/33 har felaktigt ”52 12/2” (överstruket); ingen Anders 12/2 i februari 1852 i dopboken.",
+   "UB5 FÖRÄLDRAR/SYSKON: A I/33 bild 191 och A I/35 bild 185 (Skog, På Åsen): ”Son Anders Sylvander” hos Anders Nilsson (f. 20/12 1825 Edane) och Anna Olsdotter (f. 29/11 1827 Skog, d. 3/3 1882). Syskon: Betty f. 28/9 1854 (= betty_a1854, g. Olof Persson, ’Måg’ i A I/35), Olof f. 28/12 1856, Magnus f. 25/10 1864 (Magnus A. Sylvander, McKeesport PA). Gift med Matilda Nilsson före 1879 (A I/35 'gifte sonen'). ⇒ Sylvander-grenen är släkt med Olof Persson/Dernere-familjen via systern Betty.",
+   "UB5 USA: Find a Grave-index visar hustrun Mathilda Sylvander begravd 12 april 1905 och dottern Anna (5 nov 1879 – 27 juli 1951) i samma Bridge View Cemetery, Mount Jewett, där Andrew är begravd 13 feb 1942 – familjegraven stärker att Andrew = Anders. Bror Magnus bodde också i Mount Jewett 1898. FamilySearch-träd: Anders Andersson Sylvander 1852–1942 (G6G6-3T5, lead). Status höjs till verified (identitet: namn, år, fru Mathilda, barn Anna med exakt födelsedatum, bror med NUMIDENT som anger Skog och föräldrarna)."
   ],
   "sources": [
    {
@@ -21477,16 +21480,45 @@
    {
     "label": "FamilySearch, US Census 1930 Hamlin (Mount Jewett), McKean PA: Andrew Sylvander f. 1853 Sweden",
     "url": "https://www.familysearch.org/ark:/61903/1:1:XHCR-T2D"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5, 1852 sid. 62 (bild 42; årsrubrik 'Födde och Döpte i Brunskogs Församling 1852' bild 41): juli 19/20 'Anders' – 'Anders Nilsson o H. Anna Olsd:r i Skog', moderns ålder 25",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00042"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/33 (1871–1880), Skog sid. 181 (bild 191), 'På Åsen': B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 12/2 (sic) D:o; Dot. Betty 54 28/9; Son Olof 56 28/12; Magnus 64 25/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036772_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Mathilda Sylvander begravd 12 april 1905, Bridge View Cemetery, Mount Jewett",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVLQ-MXBD"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Anna Sylvander 5 nov 1879 – 27 juli 1951, Bridge View Cemetery, Mount Jewett",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVLQ-MXBZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 McKean, Pennsylvania: Andrew Sylvander f. 1853 Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MFYN-B12"
    }
   ],
   "search": [
    "Anders Sylvander (Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1942-02-13",
+   "place": "Mount Jewett, McKean, Pennsylvania",
+   "note": "Find a Grave-index: död/begravd 13 feb 1942 Bridge View Cemetery (gravens födelseår 1843 = fel)"
+  }
  },
  {
   "id": "d7_matilda_nilsson_sylvander",
   "name": "Matilda Nilsson (g. Sylvander)",
-  "status": "lead",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -21501,7 +21533,8 @@
   "notes": [
    "HUSFÖRHÖR A I/37 bild 162: ”H. Matilda Nilsson (sinnessjuk) 55 7/1 Boda” – Amerika 95 18/10.",
    "USA: ingen post funnen för Matilda; Andrew Sylvander är änkling i 1910 års folkräkning (Coraopolis) – hon är därmed död före 1910 (ev. i USA eller Sverige, ej belagt).",
-   "BN3: Pennsylvania födelseindex: Ester Sylvander f. 1900 Hamlin Twp, McKean, mor 'Mathilda' – Matilda (f. ca 1855?) levde i USA 1900; 1910 census har Andrew som änkling (död 1900–1910). Census 1910 Russell, Warren PA: 'Mathilda Sylvander f. 1855 Sweden' (MG6J-7HT) – ej kopplad."
+   "BN3: Pennsylvania födelseindex: Ester Sylvander f. 1900 Hamlin Twp, McKean, mor 'Mathilda' – Matilda (f. ca 1855?) levde i USA 1900; 1910 census har Andrew som änkling (död 1900–1910). Census 1910 Russell, Warren PA: 'Mathilda Sylvander f. 1855 Sweden' (MG6J-7HT) – ej kopplad.",
+   "UB5: Find a Grave-index ”Mathilda Sylvander”, död/begravd 12 april 1905, Bridge View Cemetery, Mount Jewett – samma kyrkogård som maken Andrew (1942) och dottern Anna (1951). Stämmer med att hon levde 1900 (dottern Ester f. 1900, mor Mathilda) och att Andrew var änkling 1910."
   ],
   "sources": [
    {
@@ -21515,11 +21548,20 @@
    {
     "label": "FamilySearch, Pennsylvania Births: Ester Sylvander 1900, mor Mathilda",
     "url": "https://www.familysearch.org/ark:/61903/1:1:HFV2-S82M"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Mathilda Sylvander begravd 12 april 1905, Bridge View Cemetery, Mount Jewett, McKean PA",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVLQ-MXBD"
    }
   ],
   "search": [
    "Matilda Nilsson (g. Sylvander)"
-  ]
+  ],
+  "died": {
+   "date": "1905-04-12",
+   "place": "Mount Jewett, McKean, Pennsylvania",
+   "note": "begravningsdatum enl. Find a Grave-index (Bridge View Cemetery)"
+  }
  },
  {
   "id": "d7_sylvander_anna",
@@ -21540,7 +21582,8 @@
    "HUSFÖRHÖR A I/37 bild 162 (fol. 166): flyttkolumn ”nedre 95” (ej Amerika)",
    "FÖRSAMLINGSBOK A II a/1 bild 215 (fol. 205, Skog/Åsen): ”Anna Sylvander 79 5/11 Fryksände” – utflyttad: ”Amerika 96 15/5”.",
    "SCB Frykerud 1879 (A0036167_00112): född 5 nov 1879, föräldrar Anders Sylvander (handelsföreståndare) och Mathilda Nilsdotter, Edet. Husförhörets ’Fryksände’ är fel.",
-   "USA: Anna Sylvander f. ca 1880 Sweden, ogift dotter i fadern Andrews hushåll Mount Jewett, McKean PA 1930 (50 år); även Anna Sylvander f. 1880 Warren PA 1920 och f. 1881 Conewango Twp, Warren PA 1940 (troliga samma person, ej säkrat). Matchning: namn, födelseår, födelseland, fadern Andrew. Återkomst 15/5 1896 stämmer med att hon fortsatt i USA."
+   "USA: Anna Sylvander f. ca 1880 Sweden, ogift dotter i fadern Andrews hushåll Mount Jewett, McKean PA 1930 (50 år); även Anna Sylvander f. 1880 Warren PA 1920 och f. 1881 Conewango Twp, Warren PA 1940 (troliga samma person, ej säkrat). Matchning: namn, födelseår, födelseland, fadern Andrew. Återkomst 15/5 1896 stämmer med att hon fortsatt i USA.",
+   "UB5: Find a Grave-index ”Anna Sylvander” 5 nov 1879 – 27 juli 1951, Bridge View Cemetery, Mount Jewett – exakt födelsedatum = SCB Frykerud 1879."
   ],
   "sources": [
    {
@@ -21562,11 +21605,20 @@
    {
     "label": "FamilySearch, US Census 1940 Conewango Twp, Warren, PA: Anna Sylvander f. 1881 Sweden",
     "url": "https://www.familysearch.org/ark:/61903/1:1:KQ78-DQM"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Anna Sylvander 5 nov 1879 – 27 juli 1951, Bridge View Cemetery, Mount Jewett",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVLQ-MXBZ"
    }
   ],
   "search": [
    "Anna Andersdotter Sylvander"
-  ]
+  ],
+  "died": {
+   "date": "1951-07-27",
+   "place": "Mount Jewett, McKean, Pennsylvania",
+   "note": "Find a Grave-index, Bridge View Cemetery; födelsedatum 5 nov 1879 = SCB"
+  }
  },
  {
   "id": "d7_sylvander_nils",
@@ -21723,7 +21775,7 @@
  {
   "id": "d7_maria_jonasdotter_skogsberg",
   "name": "Maria Jonasdotter Skogsberg (f. 1874)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -21741,7 +21793,8 @@
    "USA: ingen säker träff. Maria Skogsberg f. 1873 Sweden, Chicago 1940 (K4MT-9PK) och Ellis Island 1910 – ej belagd som samma; troligen gift under annat namn. Ej matchad.",
    "SCB 1874: 21 okt 'Maria, 2:a barnet i 1:a äktenskapet'; 'Soldaten Jonas Olson Skogsberg och hustrun Stina Nilsdotter, gifta 2 år'. Släktskap VERIFIERAT (husförhörets Elina Nilsdotter = Stina).",
    "USA: Mary Skogsberg Leaf f. 21 okt 1874, d. 20 juni 1964, begravd Graceland Park Cemetery, Sioux City, Woodbury, Iowa (Find a Grave). Exakt födelsedatum = SCB 21/10 1874. Vigsel 3 maj 1899 Woodbury, Iowa: 'Mary Thogsberg' (25 år, f. ca 1874), föräldrar 'Jonas Thogsberg' och 'Stima Thogsberg' (= Jonas Skogsberg/Stina Nilsdotter), make Andrew Leaf (29). Iowa-födelseuppgifter nämner modern 'Mary Skogsberg', make Andrew Leaf, barn bl.a. Lillian Marie, Florence Hildegae, Dora Josephine, Joseph Theodore Leaf. Matchning: exakt födelsedatum + förnamn + efternamn + föräldrarnas förnamn (Jonas, Stina). Ej verified: ingen enskild post anger både födelseort Brunskog och datum.",
-   "BN3: Census 1920 Sioux City: Mary Leaf 46 f. Sweden, make Andrew Leaf, barn Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5. Iowa-födelseregister: barn Florence Hildegae (1900), Joseph Theodore (3/10 1902), Lillian Marie (28/2 1905), Dora Josephine (1908), Harvey Victor (24/7 1914) med mor 'Mary Skogsberg'. Iowa dödsregister: Arvid Leaf d. 27/5 1934, mor 'Mary Shoogshing?'."
+   "BN3: Census 1920 Sioux City: Mary Leaf 46 f. Sweden, make Andrew Leaf, barn Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5. Iowa-födelseregister: barn Florence Hildegae (1900), Joseph Theodore (3/10 1902), Lillian Marie (28/2 1905), Dora Josephine (1908), Harvey Victor (24/7 1914) med mor 'Mary Skogsberg'. Iowa dödsregister: Arvid Leaf d. 27/5 1934, mor 'Mary Shoogshing?'.",
+   "UB5 DÖDSATTEST Iowa 1964 (certifikat 64-14366): Mary Leaf, 89 år, f. ”21 Oct 1874” Sweden, d. 20 juni 1964 Sioux City, begravd 22 juni; far ”Skogsberg”. Primärkälla med exakt SCB-datum + faderns efternamn, vigselns föräldrar Jonas/Stina ⇒ verified. FS-träd: Maria Skogsberg 1874–1964 (PFN8-2T9, lead)."
   ],
   "sources": [
    {
@@ -21763,16 +21816,25 @@
    {
     "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
+   },
+   {
+    "label": "FamilySearch, Iowa Death Records (1952–1967), certifikat 64-14366: Mary Leaf f. 21 okt 1874 Sweden, d. 20 juni 1964 Sioux City; far Skogsberg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:61KN-81VZ"
    }
   ],
   "search": [
    "Maria Jonasdotter Skogsberg (f. 1874)"
-  ]
+  ],
+  "died": {
+   "date": "1964-06-20",
+   "place": "Sioux City, Woodbury, Iowa",
+   "note": "Iowa dödsattest 64-14366; begravd 22 juni 1964"
+  }
  },
  {
   "id": "d7_elin_jonasdotter_skogsberg",
   "name": "Elin Jonasdotter Skogsberg (f. 1877)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
@@ -21789,7 +21851,8 @@
    "HUSFÖRHÖR A I/37 bild 167 (fol. 171): ”Elin 77 3/1 Skog” – ”Nordamerika 94 26/4”.",
    "USA: Elin Skogsberg f. 1877 Brunskog, Arvika, Värmland, Sweden, 26 år, Edgerton, Pipestone, Minnesota (MN statscensus 1905), alias Ellen Okerman – gift Albert Okerman, son Lee Milford Okerman (MN födelse-/dopindex); FamilySearch-träd: Elin ”Ellen” Skogsberg 1877–1967 (KLG6-VR1, användarträd = lead). Matchning: namn, födelseår, födelseort Brunskog, ankomst efter 26 apr 1894. Föräldrar ej angivna i posten.",
    "SCB 1877: 3 jan 'Elin (3:e barnet)', föräldrar 'Skogsberg Jonas, soldat' och 'Nilsdotter Stina, Skog'. Släktskap och födelsedatum VERIFIERADE. (Hon är Ellen Okerman i Minnesota; födelsedatum 3 jan 1877 kan nu användas vid USA-matchning.)",
-   "BN3: Census 1910 Edgerton, Pipestone MN: Albert Okerman 38 (f. Sweden), Ellen, barn Thiel 2, Marie 7, Melford 5. Senare NUMIDENT-post 'Ellen Okerman' med make Nestor Hill (ev. omgift/dotter, ej utrett). Dödsattest 1967 med föräldrar ej funnen i indexet."
+   "BN3: Census 1910 Edgerton, Pipestone MN: Albert Okerman 38 (f. Sweden), Ellen, barn Thiel 2, Marie 7, Melford 5. Senare NUMIDENT-post 'Ellen Okerman' med make Nestor Hill (ev. omgift/dotter, ej utrett). Dödsattest 1967 med föräldrar ej funnen i indexet.",
+   "UB5 California Death Index: Ellen Okerman f. ”03 Jan 1877” Sweden, d. 15 maj 1967 Los Angeles – exakt SCB-datum 3 jan 1877. Vigsel 26 dec 1901 Woodbury, Iowa (Sioux City, där systern Mary Leaf bodde): Albert Okerman – Ellen Skogsberg 25 år. Barnens NUMIDENT (Carol Wesly, Rolland Lamont) anger modern ”Ellen Skogsberg”. Bosatt Edgerton/Osborne Twp, Pipestone MN 1905–1920, Gardena/Inglewood, Los Angeles 1930–1950. ⇒ verified. Tidigare not om 'NUMIDENT Ellen Okerman med make Nestor Hill' avser en annan person (Ellen Okerman Anderson f. 1916 Winton MN, föräldrar Alex Okerman/Lydia)."
   ],
   "sources": [
    {
@@ -21807,11 +21870,28 @@
    {
     "label": "FamilySearch, US Census 1910 Edgerton, Pipestone MN: Ellen Okerman, make Albert, barn Thiel, Marie, Melford",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2P9-L9J"
+   },
+   {
+    "label": "FamilySearch, California Death Index: Ellen Okerman f. 3 jan 1877 Sweden, d. 15 maj 1967 Los Angeles",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VPKR-NC4"
+   },
+   {
+    "label": "FamilySearch, Iowa County Marriages: Albert Okerman (30, föräldrar John Okerman, Maria Jöranson) – Ellen Skogsberg (25), vigsel 26 dec 1901 Woodbury Twp, Woodbury, Iowa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QJDS-GXJF"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Inglewood, Los Angeles: Albert och Ellen Okerman (f. 1877 Sweden), barn Marie, Rolland, Carol W",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K97T-JQR"
    }
   ],
   "search": [
    "Elin Jonasdotter Skogsberg (f. 1877)"
-  ]
+  ],
+  "died": {
+   "date": "1967-05-15",
+   "place": "Los Angeles, California",
+   "note": "California Death Index"
+  }
  },
  {
   "id": "d7_britta_maria_nolen",
@@ -26984,18 +27064,28 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1854",
-   "place": "Brunskog"
+   "date": "1854-09-28",
+   "place": "Skog, Brunskog",
+   "note": "A I/33 och A I/35"
   },
   "places": [],
   "summary": "Hustru till Olof Persson (f. 1854) i Skog; mor till Hilda Maria Olsson (g. Paul Eriksson).",
   "notes": [
-   "FOLKRÄKNING 1900 Skog sida 20: ”Andersdotter, Betty, f. 1854 i Brunskog”, i Olof Perssons hushåll (ingen familjeställning angiven i hushållslistan)."
+   "FOLKRÄKNING 1900 Skog sida 20: ”Andersdotter, Betty, f. 1854 i Brunskog”, i Olof Perssons hushåll (ingen familjeställning angiven i hushållslistan).",
+   "UB5: A I/33 bild 191: ”Dot. Betty 54 28/9” hos Anders Nilsson/Anna Olsdotter (På Åsen, Skog). A I/35 bild 185: ”Måg Olof Persson … H. Betty Andersdotter 54 28/9 Skog”, barn Anna 79 18/12 och Hilda Maria 82 22/9 – samma familj som Olof Persson (Dernere). Betty är alltså syster till Anders Sylvander och Magnus Sylvander."
   ],
   "sources": [
    {
     "label": "Riksarkivet, folkräkning 1900, Brunskog, Skog, sida 20 rad 10: Olof Viktor (s.) hos Persson, Olof f. 1854 + Betty Andersdotter",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937592&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/33 (1871–1880), Skog sid. 181 (bild 191), 'På Åsen': B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 12/2 (sic) D:o; Dot. Betty 54 28/9; Son Olof 56 28/12; Magnus 64 25/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036772_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
    }
   ],
   "search": [
@@ -43631,7 +43721,7 @@
  {
   "id": "d7_andrew_leaf",
   "name": "Andrew Leaf (Sioux City, f. 1870 Sverige)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -43642,7 +43732,8 @@
   "notes": [
    "VIGSEL 3 maj 1899 Woodbury: Andrew Leaf (grom, f. 1870/71) och Mary Skogsberg/Thogsberg; föräldrar till Mary 'Jonas Thogsberg, Stima Thogsberg'.",
    "DÖD Iowa dödsregister: död 9 juni 1960 Sioux City, född 29 okt 1870 Sweden, begravd 11 juni 1960; Find a Grave Graceland Park Cemetery.",
-   "Födelsemånad 29 okt 1870 (dödsregister/NUMIDENT) vs sept 1871 (1900 census) – ej kopplat till svensk födelseort."
+   "Födelsemånad 29 okt 1870 (dödsregister/NUMIDENT) vs sept 1871 (1900 census) – ej kopplat till svensk födelseort.",
+   "UB5: Iowa dödsattest 60-14642: Andrew Leaf f. 29 okt 1870 Sweden, d. 9 juni 1960 Sioux City, begravd 11 juni; föräldrar ej ifyllda ('No Data'). Svensk hemort fortfarande okänd."
   ],
   "sources": [
    {
@@ -43656,6 +43747,10 @@
    {
     "label": "FamilySearch, Iowa County Marriages, 3 maj 1899 Woodbury: Andrew Leaf – Mary Skogsberg",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QJDS-H9NQ"
+   },
+   {
+    "label": "FamilySearch, Iowa Death Records 1952–1967, cert. 60-14642: Andrew Leaf f. 29 okt 1870 Sweden, d. 9 juni 1960 Sioux City",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:61KF-ZTG2"
    }
   ],
   "born": {
@@ -43710,7 +43805,8 @@
   "summary": "Son till Andrew Leaf och Mary Skogsberg; gift 18 jan 1928 Woodbury. Död ej utrett.",
   "notes": [
    "FÖDELSEREGISTER Iowa: Joseph Theodore Leaf f. 3 okt 1902 Sioux City, föräldrar Mary Skogsberg, Andrew Leaf.",
-   "FOLKRÄKNING 1920: 'Joseph T Leaf Son M 17 Iowa' i Andrew Leafs hushåll."
+   "FOLKRÄKNING 1920: 'Joseph T Leaf Son M 17 Iowa' i Andrew Leafs hushåll.",
+   "UB5: Iowa födelseuppteckningar 1921–47: Joseph Theodore Leaf (f. 1903 Sioux City) far till barn med hustrun Gladys Louise […]. Död ej funnen."
   ],
   "sources": [
    {
@@ -43728,6 +43824,10 @@
    {
     "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
+   },
+   {
+    "label": "FamilySearch, Iowa Birth Records 1921–1947: Joseph Theodore Leaf far, maka Gladys Louise",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPZN-Z6G5"
    }
   ],
   "born": {
@@ -43776,7 +43876,7 @@
  },
  {
   "id": "d7_leaf_dora_josephine",
-  "name": "Dora Josephine Leaf (f. 1908)",
+  "name": "Dora Josephine Leaf (g. Matthaidess) (1908–1992)",
   "status": "strong",
   "sex": "f",
   "living": false,
@@ -43786,7 +43886,8 @@
   "summary": "Dotter till Andrew Leaf och Mary Skogsberg. Död ej utrett.",
   "notes": [
    "FÖDELSEINDEX Iowa: Dora Josephine Leaf f. 1908, föräldrar Mary Skogsberg, Andrew Leaf.",
-   "FOLKRÄKNING 1920: 'Dora J Leaf Dotter F 11 Iowa'."
+   "FOLKRÄKNING 1920: 'Dora J Leaf Dotter F 11 Iowa'.",
+   "UB5: Find a Grave-index: Dora Josephine Leaf Matthaidess 22 aug 1908 – 22 okt 1992, Graceland Park Cemetery, Sioux City. Iowa födelseuppteckningar 1921–47: Dora Josephine Leaf (f. 1909 Sioux City) mor till barn med maken Enno Walter Matthaidess."
   ],
   "sources": [
    {
@@ -43796,19 +43897,32 @@
    {
     "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Dora Josephine Leaf Matthaidess 22 aug 1908 – 22 okt 1992",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVV3-J667"
+   },
+   {
+    "label": "FamilySearch, Iowa Birth Records 1921–1947: Dora Josephine Leaf, make Enno Walter Matthaidess",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPZC-WQFV"
    }
   ],
   "born": {
-   "date": "1908",
-   "place": "Iowa"
+   "date": "1908-08-22",
+   "place": "Sioux City, Iowa"
   },
   "search": [
    "Dora Josephine Leaf (f. 1908)"
-  ]
+  ],
+  "died": {
+   "date": "1992-10-22",
+   "place": "Sioux City, Iowa",
+   "note": "Find a Grave-index, Graceland Park Cemetery"
+  }
  },
  {
   "id": "d7_leaf_paul_e",
-  "name": "Paul E. Leaf (f. ca 1911)",
+  "name": "Paul Emanuel Leaf (1910–1987)",
   "status": "strong",
   "sex": "m",
   "living": false,
@@ -43817,22 +43931,35 @@
   ],
   "summary": "Son till Andrew Leaf och Mary i hushållet 1920 och 1930. Död ej utrett.",
   "notes": [
-   "FOLKRÄKNING 1920: 'Paul E Leaf Son M 9 Iowa'; även 1925 och 1930 års hushåll."
+   "FOLKRÄKNING 1920: 'Paul E Leaf Son M 9 Iowa'; även 1925 och 1930 års hushåll.",
+   "UB5: Find a Grave-index: Paul Emanuel Leaf 23 mars 1910 – 22 dec 1987, Calvary Cemetery, Sioux City; SSDI Paul Leaf f. 23 mars 1910, d. dec 1987 Woodbury."
   ],
   "sources": [
    {
     "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Paul Emanuel Leaf 23 mars 1910 – 22 dec 1987, Calvary Cemetery, Sioux City",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVGZ-FL99"
+   },
+   {
+    "label": "FamilySearch, SSDI: Paul Leaf f. 23 mars 1910, d. dec 1987 Woodbury, Iowa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:JLLK-MYF"
    }
   ],
   "born": {
-   "date": "1911",
-   "place": "Iowa",
-   "note": "ca; 9 år 1920"
+   "date": "1910-03-23",
+   "place": "Iowa"
   },
   "search": [
    "Paul E. Leaf (f. ca 1911)"
-  ]
+  ],
+  "died": {
+   "date": "1987-12-22",
+   "place": "Sioux City, Woodbury, Iowa",
+   "note": "Find a Grave-index, Calvary Cemetery; SSDI dec 1987 Woodbury"
+  }
  },
  {
   "id": "d7_leaf_harvey_victor",
@@ -43845,12 +43972,33 @@
   ],
   "summary": "Son till Andrew Leaf och Mary Skogsberg (födelseindex). Död ej utrett.",
   "notes": [
-   "FÖDELSEINDEX Iowa: Harvey Victor Leaf f. 24 juli 1914, föräldrar Mary Skogrberg, Andrew Leaf. (Möjligen = 'Arved V' i 1920, men Arvid dog 1934; ej utrett.)"
+   "FÖDELSEINDEX Iowa: Harvey Victor Leaf f. 24 juli 1914, föräldrar Mary Skogrberg, Andrew Leaf. (Möjligen = 'Arved V' i 1920, men Arvid dog 1934; ej utrett.)",
+   "Sammanslagen med d7_leaf_arvid_v (Arvid (Harvey) Victor Leaf (1914–1934)). UB5: samma person (f. 24/7 1914, d. 1934) | Från d7_leaf_arvid_v: DÖDSREGISTER Iowa: Arvid Leaf död 27 maj 1934, f. 1915, föräldrar Andrew Leaf, 'Mary Shoogshing?' (= Skogsberg). | Från d7_leaf_arvid_v: FOLKRÄKNING 1920: 'Arved V Leaf Son M 5 Iowa'. | Från d7_leaf_arvid_v: UB5: Find a Grave-index 'Arvid Victor Leaf' f. 1914, d. maj 1934, Graceland Park Cemetery. Iowa födelseindex 'Harvey Victor Leaf' f. 24 juli 1914, föräldrar Mary Skogrberg/Andrew Leaf. Census 1920 'Arved V' 5 år. Iowa dödsregister: Arvid Leaf d. 27 maj 1934 (Sioux Twp, Plymouth / Sioux City), mor Mary S… ⇒ Harvey Victor = Arvid Victor = samma person; d7_leaf_harvey_victor är dubblett."
   ],
   "sources": [
    {
     "label": "FamilySearch, Iowa, Födelser i län: Harvey Victor Leaf f. 24 juli 1914",
     "url": "https://www.familysearch.org/ark:/61903/1:1:XVNB-YBW"
+   },
+   {
+    "label": "FamilySearch, Iowa Dödsfallsuppteckningar 1904-1951: Arvid Leaf d. 27 maj 1934 Sioux City, föräldrar Andrew Leaf, Mary Shoogshing?",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:68CR-NHXZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Arvid Victor Leaf 1914 – maj 1934, Graceland Park Cemetery",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:CKSQ-YXZM"
+   },
+   {
+    "label": "FamilySearch, Iowa födelseindex: Harvey Victor Leaf f. 24 juli 1914, föräldrar Mary Skogrberg, Andrew Leaf",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XVNB-YBW"
+   },
+   {
+    "label": "FamilySearch, Iowa Death Records: Arvid Leaf d. 27 maj 1934 Sioux Twp, Plymouth",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q24D-S12R"
    }
   ],
   "born": {
@@ -43859,43 +44007,11 @@
   },
   "search": [
    "Harvey Victor Leaf (f. 24 juli 1914)"
-  ]
- },
- {
-  "id": "d7_leaf_arvid_v",
-  "name": "Arvid V. Leaf (f. ca 1915, d. 1934)",
-  "status": "strong",
-  "sex": "m",
-  "living": false,
-  "places": [
-   "Sioux City, Iowa"
   ],
-  "summary": "Son till Andrew Leaf och Mary ('Shoogshing?'); död 27 maj 1934.",
-  "notes": [
-   "DÖDSREGISTER Iowa: Arvid Leaf död 27 maj 1934, f. 1915, föräldrar Andrew Leaf, 'Mary Shoogshing?' (= Skogsberg).",
-   "FOLKRÄKNING 1920: 'Arved V Leaf Son M 5 Iowa'."
-  ],
-  "sources": [
-   {
-    "label": "FamilySearch, Iowa Dödsfallsuppteckningar 1904-1951: Arvid Leaf d. 27 maj 1934 Sioux City, föräldrar Andrew Leaf, Mary Shoogshing?",
-    "url": "https://www.familysearch.org/ark:/61903/1:1:68CR-NHXZ"
-   },
-   {
-    "label": "FamilySearch, US Census 1920, Sioux City Precinct 9, Woodbury, Iowa: Andrew Leaf 49 f. Sweden head; Mary 46 f. Sweden; Joseph T 17, Lillian M 14, Dora J 11, Paul E 9, Arved V 5 (alla f. Iowa)",
-    "url": "https://www.familysearch.org/ark:/61903/1:1:MD9S-VM6"
-   }
-  ],
-  "born": {
-   "date": "1915",
-   "place": "Iowa"
-  },
   "died": {
    "date": "1934-05-27",
    "place": "Sioux City, Woodbury, Iowa"
-  },
-  "search": [
-   "Arvid V. Leaf (f. ca 1915, d. 1934)"
-  ]
+  }
  },
  {
   "id": "d7_susan_skogsberg_john",
@@ -43927,8 +44043,8 @@
  },
  {
   "id": "d7_albert_okerman",
-  "name": "Albert Okerman (f. ca 1872 Sverige)",
-  "status": "candidate",
+  "name": "Albert G. Okerman (f. 1 apr 1872 Sverige, d. 22 apr 1940 Los Angeles)",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "places": [
@@ -43937,26 +44053,48 @@
   "summary": "Make till Elin/Ellen Skogsberg, Edgerton MN.",
   "notes": [
    "FOLKRÄKNING 1910 Edgerton: 'Albert Okerman Make M 38 Sweden' hushållschef; hustru Ellen, barn Thiel (2), Marie (7), Melford (5).",
-   "BU5 MYHERITAGE (3 matchningar, lead): ”Gustaf Albert Okerman” f. 1872, d. 1940; syskon Charles (Karl August) Okerman + 6–7 till; barn Ida Marie Okerman (g. Ibelle) + 2–4 till. Namnet tyder på svenskt Åkerman. Ej kontrollerat i original."
+   "BU5 MYHERITAGE (3 matchningar, lead): ”Gustaf Albert Okerman” f. 1872, d. 1940; syskon Charles (Karl August) Okerman + 6–7 till; barn Ida Marie Okerman (g. Ibelle) + 2–4 till. Namnet tyder på svenskt Åkerman. Ej kontrollerat i original.",
+   "UB5: Vigsel 26 dec 1901 Woodbury, Iowa: Albert Okerman, 30 år, föräldrar ”John Okerman” och ”Maria Jöranson”, med Ellen Skogsberg. California Death Index: d. 22 april 1940 Los Angeles, f. 1 april 1872; Find a Grave-index Inglewood Park Cemetery (f. 1 apr 1871). NUMIDENT f. 1 april 1872. Census 1905 Edgerton, 1910 Edgerton, 1920 Osborne Twp (Pipestone) som Albert G, 1930 Gardena, 1940 Inglewood. Svensk födelseort ej funnen. Möjlig mor: Marie Christine Okerman d. 12 aug 1913 Edgerton, f. 1835 Sverige (ej kopplad)."
   ],
   "sources": [
    {
     "label": "FamilySearch, US Census 1910 Edgerton, Pipestone, Minnesota: Albert Okerman 38 head; Ellen; Thiel 2, Marie 7, Melford 5",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2P9-L9J"
+   },
+   {
+    "label": "FamilySearch, Iowa County Marriages: Albert Okerman (30, föräldrar John Okerman, Maria Jöranson) – Ellen Skogsberg (25), vigsel 26 dec 1901 Woodbury Twp, Woodbury, Iowa",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QJDS-GXJF"
+   },
+   {
+    "label": "FamilySearch, California Death Index: Albert Okerman d. 22 apr 1940 Los Angeles, f. 1 apr 1872",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VG5D-S1L"
+   },
+   {
+    "label": "FamilySearch, NUMIDENT: Albert Okerman f. 1 april 1872",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K44-HZFX"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Albert Okerman, Inglewood Park Cemetery",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVGS-S9NC"
    }
   ],
   "born": {
-   "date": "1872",
+   "date": "1872-04-01",
    "place": "Sweden",
-   "note": "ca"
+   "note": "NUMIDENT/CDI 1 apr 1872; Find a Grave 1 apr 1871"
   },
   "search": [
    "Albert Okerman (f. ca 1872 Sverige)"
-  ]
+  ],
+  "died": {
+   "date": "1940-04-22",
+   "place": "Los Angeles, California",
+   "note": "California Death Index; begravd Inglewood Park Cemetery"
+  }
  },
  {
   "id": "d7_okerman_marie",
-  "name": "Marie Okerman (f. ca 1903)",
+  "name": "Ida Marie Okerman (g. Ibelle) (f. 1 nov 1902)",
   "status": "strong",
   "sex": "f",
   "living": false,
@@ -43965,18 +44103,26 @@
   ],
   "summary": "Dotter till Albert Okerman och Ellen (Elin Skogsberg). Död ej utrett.",
   "notes": [
-   "FOLKRÄKNING 1910: 'Marie Okerman Dotter F 7 Minnesota'."
+   "FOLKRÄKNING 1910: 'Marie Okerman Dotter F 7 Minnesota'.",
+   "UB5: Minnesota födelse/dop: Ida Marie Okerman f. 1 nov 1902 Pipestone, föräldrar Albert Okerman, Ellen Skogsbert. 1950 i moderns hushåll som Ida Marie Ibelle (Los Angeles)."
   ],
   "sources": [
    {
     "label": "FamilySearch, US Census 1910 Edgerton, Pipestone, Minnesota",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2P9-L9J"
+   },
+   {
+    "label": "FamilySearch, Minnesota födslar och dop: Ida Marie Okerman f. 1 nov 1902 Pipestone; föräldrar Albert Okerman, Ellen Skogsbert",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FDS2-T6P"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Los Angeles: Ellen Okerman, barn Ida Marie Ibelle",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XLB-H8VW"
    }
   ],
   "born": {
-   "date": "1903",
-   "place": "Minnesota",
-   "note": "ca; 7 år 1910"
+   "date": "1902-11-01",
+   "place": "Pipestone, Minnesota"
   },
   "search": [
    "Marie Okerman (f. ca 1903)"
@@ -43993,18 +44139,22 @@
   ],
   "summary": "Son till Albert Okerman och Ellen (Elin Skogsberg). Död ej utrett.",
   "notes": [
-   "FOLKRÄKNING 1910: 'Melford Okerman Son M 5 Minnesota'; BN1: Lee Milford Okerman i MN födelseindex."
+   "FOLKRÄKNING 1910: 'Melford Okerman Son M 5 Minnesota'; BN1: Lee Milford Okerman i MN födelseindex.",
+   "UB5: Minnesota födelse: Lee Milford Okerman f. 19 juli 1905 Pipestone, föräldrar Albert Okerman, Ellen Skogsberg. Vigsel i Los Angeles (Lee Milfred Okerman)."
   ],
   "sources": [
    {
     "label": "FamilySearch, US Census 1910 Edgerton, Pipestone, Minnesota",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2P9-L9J"
+   },
+   {
+    "label": "FamilySearch, Minnesota födslar och dop: Lee Milford Okerman f. 19 juli 1905 Pipestone; föräldrar Albert Okerman, Ellen Skogsberg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FDSL-HPP"
    }
   ],
   "born": {
-   "date": "1905",
-   "place": "Minnesota",
-   "note": "ca; 5 år 1910"
+   "date": "1905-07-19",
+   "place": "Pipestone, Minnesota"
   },
   "search": [
    "Melford (Lee Milford) Okerman (f. ca 1905)"
@@ -44012,7 +44162,7 @@
  },
  {
   "id": "d7_okerman_thiel",
-  "name": "Thiel Okerman (f. ca 1908)",
+  "name": "Floyd Albert Okerman ('Thiel' 1910) (f. 22 mars 1908)",
   "status": "strong",
   "sex": "m",
   "living": false,
@@ -44021,18 +44171,26 @@
   ],
   "summary": "Son till Albert Okerman och Ellen (Elin Skogsberg). Död ej utrett.",
   "notes": [
-   "FOLKRÄKNING 1910: 'Thiel Okerman Son M 2 Minnesota'."
+   "FOLKRÄKNING 1910: 'Thiel Okerman Son M 2 Minnesota'.",
+   "UB5: 'Thiel' (2 år 1910) = Floyd Albert Okerman: Minnesota födelse f. 22 mars 1908 Pipestone, föräldrar Albert Okerman, Ellen Skogeberg; census 1920 Osborne Twp 'Floyd A Okerman' f. 1908 hos Albert/Ellen."
   ],
   "sources": [
    {
     "label": "FamilySearch, US Census 1910 Edgerton, Pipestone, Minnesota",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2P9-L9J"
+   },
+   {
+    "label": "FamilySearch, Minnesota födslar och dop: Floyd Albert Okerman f. 22 mars 1908 Pipestone; föräldrar Albert Okerman, Ellen Skogeberg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FDSL-QQ2"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Osborne Twp, Pipestone: Floyd A Okerman f. 1908",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MWBG-Y38"
    }
   ],
   "born": {
-   "date": "1908",
-   "place": "Minnesota",
-   "note": "ca; 2 år 1910"
+   "date": "1908-03-22",
+   "place": "Pipestone, Minnesota"
   },
   "search": [
    "Thiel Okerman (f. ca 1908)"
@@ -44221,7 +44379,8 @@
   "summary": "Brunskog-född man i USA vars föräldrar anges som Per Olson och Stina Nilson – samma namn som föräldrarna till Olof Persson f. 1873 i Svartåna (d7_olof_persson_svartana_1873). Han kan vara Olofs äldre bror, men det är inte belagt.",
   "notes": [
    "FAMILYSEARCH NUMIDENT (BU2): 'Andrew Haugberg', född '13 January 1861', födelseort 'Brunskog Ver*, Sweden', Social Program Application Date 'February 1937', föräldrar 'Stina Nilson' och 'Per Olson'. I SCB 1873 står föräldrarna till Olof (f. 27/1 1873, 5:e barnet) som 'Per Olsson och hustrun Stina Nilsdotter, gifta 17 år', alltså gifta ca 1856, så en son född 1861 är möjlig. Patronymikon + föräldranamn räcker inte: kräver Brunskogs dopbok 1861 (C I/5 är digitaliserad t.o.m. 1860, så Brunskog husförhör A I/35–37, Svartåna) för att se om en Anders f. 13/1 1861 finns hos Per Olsson/Stina Nilsdotter.",
-   "BU8: Brunskogs dopbok 1861 nr 7 bekräftar en son Anders f. 13 jan 1861 i Svartåna till 'Inh. Per Olsson, H. Stina Nilsd:r' (modern 30 år, stämmer med f. 1830). Husförhör A I/35 (1881–90) har 'Son Anders 61 13/1 Svartåna' i Per Olssons och Stina Nilsdotters hushåll, tillsammans med Maria 67 och Olof 73, och utflyttningen 'Nordamerika 8[1?] 14/4' (14 april 1881, år kan vara 84). Att svenska Anders är NUMIDENT:s Andrew Haugberg är STRONG: exakt födelsedatum, socken och båda föräldranamnen stämmer, och efternamnet Haugberg är taget i USA. Minneapolis-posterna (d. 28/9 1948, maka Augusta) är lead och knyts till NUMIDENT bara genom namn och år."
+   "BU8: Brunskogs dopbok 1861 nr 7 bekräftar en son Anders f. 13 jan 1861 i Svartåna till 'Inh. Per Olsson, H. Stina Nilsd:r' (modern 30 år, stämmer med f. 1830). Husförhör A I/35 (1881–90) har 'Son Anders 61 13/1 Svartåna' i Per Olssons och Stina Nilsdotters hushåll, tillsammans med Maria 67 och Olof 73, och utflyttningen 'Nordamerika 8[1?] 14/4' (14 april 1881, år kan vara 84). Att svenska Anders är NUMIDENT:s Andrew Haugberg är STRONG: exakt födelsedatum, socken och båda föräldranamnen stämmer, och efternamnet Haugberg är taget i USA. Minneapolis-posterna (d. 28/9 1948, maka Augusta) är lead och knyts till NUMIDENT bara genom namn och år.",
+   "UB5: Minnesota Deaths: Andrew Haugberg, 87 år, f. 1861 Sverige, d. 28 sept 1948 Minneapolis (cert. 22672, p 4131), far '… Haugberg', maka Augusta; Find a Grave-index Lakewood Cemetery, Minneapolis. Son William G Haugberg f. 1888 Minneapolis, d. 9 april 1950 Plymouth Twp (dödsattest 5857: far Andrew Haugberg, mor Augusta Anderson). Andrew Haugberg står i Minneapolis adresskalendrar från 1888–89 (passar utflyttning 1881/84). Haugberg är ett mycket ovanligt namn och ingen annan Andrew Haugberg f. ca 1861 finns i indexen; kopplingen NUMIDENT (f. 13/1 1861 Brunskog) ↔ Minneapolis-mannen är därför STRONG (år, land, namn), inte verified (dödsattesten saknar exakt datum/föräldranamn)."
   ],
   "sources": [
    {
@@ -44239,11 +44398,32 @@
    {
     "label": "FamilySearch, Minnesota Deaths 1887–2001 / Find a Grave (lead): Andrew Haugberg, f. 1861 Sverige, d. 28 sept 1948 Minneapolis, maka Augusta, begravd Lakewood Cemetery; 1910 Minneapolis f. 1862 Sverige m. maka Augusta och söner William A och Elmer T; Minneapolis-kataloger 1888–1898",
     "url": "https://www.familysearch.org/sv/search/record/results?q.surname=Haugberg&q.givenName=Andrew"
+   },
+   {
+    "label": "FamilySearch, Minnesota Deaths 1887–2001: Andrew Haugberg d. 28 sept 1948 Minneapolis, 87 år, f. 1861 Sweden, maka Augusta (cert. 22672)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:HWH8-2M2M"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Andrew Haugberg 1861 – 28 sept 1948, Lakewood Cemetery, Minneapolis",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVP3-LFYJ"
+   },
+   {
+    "label": "FamilySearch, Minnesota Deaths: William G Haugberg d. 9 april 1950 Plymouth, f. 1888 Minneapolis; far Andrew Haugberg, mor Augusta Anderson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:HT6V-C53Z"
+   },
+   {
+    "label": "FamilySearch, US Census 1910 Minneapolis: Andrew Haugberg f. 1862 Sweden, maka Augusta",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2GC-1HN"
    }
   ],
   "search": [
    "Andrew Haugberg (f. 13 jan 1861 Brunskog, USA)"
-  ]
+  ],
+  "died": {
+   "date": "1948-09-28",
+   "place": "Minneapolis, Hennepin, Minnesota",
+   "note": "Minnesota dödsattest cn 22672 (87 år, f. 1861 Sweden); begravd Lakewood Cemetery"
+  }
  },
  {
   "id": "lars_nilsson_toltan",
@@ -55279,6 +55459,334 @@
   ],
   "search": [
    "Jan Ksioł (Ksel) (f. 1844, Szydłówek)"
+  ]
+ },
+ {
+  "id": "ub5_anders_nilsson_1825_edane",
+  "name": "Anders Nilsson (f. 20 dec 1825 Edane, Skog/Åsen)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1825-12-20",
+   "place": "Edane"
+  },
+  "places": [
+   "Skog (På Åsen), Brunskog"
+  ],
+  "summary": "Bonde på Åsen i Skog; far till Anders Sylvander (f. 1852), Betty Andersdotter (g. Olof Persson), Olof (f. 1856) och Magnus Sylvander (f. 1864, USA).",
+  "notes": [
+   "HUSFÖRHÖR A I/33 bild 191 (sid. 181, Skog 'På Åsen'): ”B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 …; Dot. Betty 54 28/9; Son Olof 56 28/12; ” Magnus 64 25/10”.",
+   "HUSFÖRHÖR A I/35 bild 185 (sid. 185): samma hushåll; hustrun Anna Olsdotter ”död 82 3/3”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/33 (1871–1880), Skog sid. 181 (bild 191), 'På Åsen': B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 12/2 (sic) D:o; Dot. Betty 54 28/9; Son Olof 56 28/12; Magnus 64 25/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036772_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
+   }
+  ],
+  "search": [
+   "Anders Nilsson (f. 20 dec 1825 Edane, Skog/Åsen)"
+  ]
+ },
+ {
+  "id": "ub5_anna_olsdotter_1827_skog",
+  "name": "Anna Olsdotter (f. 29 nov 1827 Skog, d. 3 mars 1882)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1827-11-29",
+   "place": "Skog, Brunskog"
+  },
+  "died": {
+   "date": "1882-03-03",
+   "place": "Skog, Brunskog",
+   "note": "A I/35 flyttkolumn: 'död 82 3/3'"
+  },
+  "places": [
+   "Skog (På Åsen), Brunskog"
+  ],
+  "summary": "Hustru till Anders Nilsson på Åsen, Skog; mor till Anders Sylvander, Betty, Olof och Magnus.",
+  "notes": [
+   "HUSFÖRHÖR A I/33 bild 191: ”H. Anna Olsdotter 27 29/11 Skog”. A I/35 bild 185: överstruken, ”död 82 3/3”.",
+   "Dopbok 1852 (C I/5 bild 42): modern till Anders f. 19 juli 1852 'H. Anna Olsd:r i Skog', 25 år."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/33 (1871–1880), Skog sid. 181 (bild 191), 'På Åsen': B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 12/2 (sic) D:o; Dot. Betty 54 28/9; Son Olof 56 28/12; Magnus 64 25/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036772_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
+   },
+   {
+    "label": "Riksarkivet, Brunskog dopbok C I/5, 1852 sid. 62 (bild 42; årsrubrik 'Födde och Döpte i Brunskogs Församling 1852' bild 41): juli 19/20 'Anders' – 'Anders Nilsson o H. Anna Olsd:r i Skog', moderns ålder 25",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036785_00042"
+   }
+  ],
+  "search": [
+   "Anna Olsdotter (f. 29 nov 1827 Skog, d. 3 mars 1882)"
+  ]
+ },
+ {
+  "id": "ub5_olof_andersson_1856_skog",
+  "name": "Olof Andersson (f. 28 dec 1856 Skog)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1856-12-28",
+   "place": "Skog, Brunskog"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Nordamerika/Pennsylvania 1882–1889"
+  ],
+  "summary": "Son till Anders Nilsson och Anna Olsdotter; i Nordamerika (Pennsylvania) 1882–1889, åter och gift 26 maj 1890.",
+  "notes": [
+   "HUSFÖRHÖR A I/35 bild 185: ”Son Olof 56 28/12 D:o” – ut ”Nordamerika 82 [3]/9”; ny rad ”Olof 56 28/12” in ”Pennsylvania Nordamerika” / ”Nordamerika 89 23/10”, gift ”90 26/5”, ut ”Se Uddan(?) 90 14/11” (läsning av sista orten osäker). Anm.: ”Saknar kyrkoskrivning under tiden 3/9 82 – 1/3 85. Annons i Post- och Inrikes Tidn. 4/6 1885 (N:o 126 A.)”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
+   }
+  ],
+  "search": [
+   "Olof Andersson (f. 28 dec 1856 Skog)"
+  ]
+ },
+ {
+  "id": "ub5_magnus_sylvander_1864",
+  "name": "Magnus Andersson Sylvander (f. 25 okt 1864 Skog, d. 25 mars 1951 McKeesport PA)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1864-10-25",
+   "place": "Skog, Brunskog"
+  },
+  "died": {
+   "date": "1951-03-25",
+   "place": "McKeesport, Allegheny, Pennsylvania",
+   "note": "Find a Grave-index; begravd McKeesport and Versailles Cemetery"
+  },
+  "places": [
+   "Skog, Brunskog",
+   "Nordamerika 1882",
+   "Mount Jewett, McKean PA",
+   "McKeesport/Pittsburgh, Allegheny PA"
+  ],
+  "summary": "Yngre bror till Anders Sylvander; Nordamerika 6 apr 1882; gift 1898 Mount Jewett med Ellen W. Nilson; död 1951 McKeesport.",
+  "notes": [
+   "HUSFÖRHÖR A I/33 bild 191 och A I/35 bild 185: ”Magnus 64 25/10” son till Anders Nilsson/Anna Olsdotter; A I/35 ut ”Nordam. 82 6/4”.",
+   "NUMIDENT (ansökan mars 1937): ”Magnus Anderson Sylvander”, f. ”25 October 1864”, födelseort ”Skog, Sweden”, föräldrar ”Anders Nilson” och ”Anna Olson” – exakt datum, ort och båda föräldrar = VERIFIED.",
+   "Find a Grave-index: Magnus A Sylvander 25 okt 1864 – 25 mars 1951, McKeesport and Versailles Cemetery, McKeesport PA.",
+   "Vigsel Pennsylvania (McKean County): Magnus A Sylvander – Ellen W Nilson/Nelson, licens 4 maj 1898, vigsel 7 maj 1898 Mount Jewett.",
+   "Folkräkning 1910 McKeesport Ward 9: Magnus A Sylvander f. 1865 Sweden, hustru Ellen W, barn Paul W, Walter H, Theod[ore?]; 1950 Pittsburgh med Ellen W. Barn: Walter Harold f. 22 aug 1898 Mount Jewett (PA födelse, föräldrar Magnus och Ellen W.), d. 4 okt 1929; Paul W f. 15 juni 1902 d. 14 nov 1946 (Find a Grave, McKeesport)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/33 (1871–1880), Skog sid. 181 (bild 191), 'På Åsen': B. Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog; Son Anders Sylvander 52 12/2 (sic) D:o; Dot. Betty 54 28/9; Son Olof 56 28/12; Magnus 64 25/10",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036772_00191"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhör A I/35 (1881–1890), Skog sid. 185 (bild 185): Anders Nilsson 25 20/12 Edane; H. Anna Olsdotter 27 29/11 Skog (död 82 3/3); Son Olof 56 28/12 (Nordamerika 82, åter 89 23/10, gift 90 26/5); Magnus 64 25/10 (Nordam. 82 6/4); Måg Olof Persson; H. Betty Andersdotter 54 28/9; gifte son Anders Sylvander 52 19/7 Skog med H. Matilda Nilsson 55 Boda, barn Anna 79, Nils 82, Johan 85",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00185"
+   },
+   {
+    "label": "FamilySearch, NUMIDENT: Magnus Anderson Sylvander f. 25 okt 1864 Skog, Sweden; föräldrar Anders Nilson, Anna Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K4J-LYLD"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Magnus A Sylvander 25 okt 1864 – 25 mars 1951, McKeesport and Versailles Cemetery",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVK4-KRJ3"
+   },
+   {
+    "label": "FamilySearch, Pennsylvania County Marriages: Magnus A Sylvander – Ellen W Nilson, 7 maj 1898 Mount Jewett, McKean",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VFST-VCM"
+   },
+   {
+    "label": "FamilySearch, US Census 1910 McKeesport Ward 9, Allegheny PA: Magnus A Sylvander f. 1865 Sweden, hustru Ellen W, barn Paul W, Walter H m.fl.",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MG7L-H67"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Pittsburgh: Magnus A Sylvander f. 1865 Sweden, hustru Ellen W",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XBR-CZ2K"
+   }
+  ],
+  "search": [
+   "Magnus Andersson Sylvander (f. 25 okt 1864 Skog, d. 25 mars 1951 McKeesport PA)"
+  ]
+ },
+ {
+  "id": "ub5_ellen_nilson_sylvander_1877",
+  "name": "Ellen Wilhelmina Nilson (g. Sylvander) (1877–1959)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1877-07-04",
+   "place": "",
+   "note": "Find a Grave-index"
+  },
+  "died": {
+   "date": "1959-06-10",
+   "place": "McKeesport, Allegheny, PA"
+  },
+  "places": [
+   "Mount Jewett, McKean PA",
+   "McKeesport, Allegheny PA"
+  ],
+  "summary": "Hustru till Magnus A. Sylvander (vigsel 7 maj 1898 Mount Jewett). Födelseort ej utredd.",
+  "notes": [
+   "Find a Grave-index: 'Ellen Whilamena Nilson Sylvander' 4 juli 1877 – 10 juni 1959, begravd McKeesport. Vigsel 1898 med Magnus A Sylvander."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, Pennsylvania County Marriages: Magnus A Sylvander – Ellen W Nilson, 7 maj 1898 Mount Jewett",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VFST-VCM"
+   }
+  ],
+  "search": [
+   "Ellen Wilhelmina Nilson (g. Sylvander) (1877–1959)"
+  ]
+ },
+ {
+  "id": "ub5_walter_harold_sylvander_1898",
+  "name": "Walter Harold Sylvander (1898–1929)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1898-08-22",
+   "place": "Mount Jewett, McKean, Pennsylvania"
+  },
+  "died": {
+   "date": "1929-10-04",
+   "place": "McKeesport, Pennsylvania",
+   "note": "Find a Grave-index"
+  },
+  "places": [
+   "Mount Jewett PA",
+   "McKeesport PA"
+  ],
+  "summary": "Son till Magnus A. Sylvander och Ellen W.",
+  "notes": [
+   "PA födelseindex: Walter Harold Sylvander f. 1898 Mount Jewett, föräldrar Magnus Sylvander, Ellen W. Sylvander. Find a Grave-index: 22 aug 1898 – 4 okt 1929, McKeesport."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1910 McKeesport: Walter H Sylvander, son till Magnus A och Ellen W",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MG7L-H67"
+   }
+  ],
+  "search": [
+   "Walter Harold Sylvander (1898–1929)"
+  ]
+ },
+ {
+  "id": "ub5_paul_w_sylvander_1902",
+  "name": "Paul W. Sylvander (1902–1946)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902-06-15",
+   "place": "Pennsylvania"
+  },
+  "died": {
+   "date": "1946-11-14",
+   "place": "McKeesport, Pennsylvania",
+   "note": "Find a Grave-index, McKeesport and Versailles Cemetery"
+  },
+  "places": [
+   "McKeesport PA"
+  ],
+  "summary": "Son till Magnus A. Sylvander och Ellen W. (census 1910).",
+  "notes": [
+   "Census 1910 McKeesport: Paul W Sylvander i Magnus A Sylvanders hushåll. Find a Grave-index: 15 juni 1902 – 14 nov 1946."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1910 McKeesport: Paul W Sylvander, son till Magnus A och Ellen W",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MG7L-H67"
+   }
+  ],
+  "search": [
+   "Paul W. Sylvander (1902–1946)"
+  ]
+ },
+ {
+  "id": "ub5_rolland_okerman_1913",
+  "name": "Rolland Lamont Okerman (1913–2004)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1913-06-11",
+   "place": "Edgerton, Minnesota"
+  },
+  "died": {
+   "date": "2004-08-01",
+   "place": "",
+   "note": "NUMIDENT"
+  },
+  "places": [
+   "Edgerton MN",
+   "Lawndale, Los Angeles CA"
+  ],
+  "summary": "Son till Albert G. Okerman och Ellen (Elin) Skogsberg.",
+  "notes": [
+   "NUMIDENT: Rolland Lamont Okerman f. 11 juni 1913 Edgerton MN, d. 1 aug 2004; föräldrar ”Albert G Okerman” och ”Ellen Skog[sberg]”. Census 1920 Osborne Twp, 1940 Inglewood i föräldrarnas hushåll."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, NUMIDENT: Rolland Lamont Okerman f. 11 juni 1913 Edgerton MN, d. 1 aug 2004; föräldrar Albert G Okerman, Ellen Skogsberg",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K43-JSD8"
+   }
+  ],
+  "search": [
+   "Rolland Lamont Okerman (1913–2004)"
+  ]
+ },
+ {
+  "id": "ub5_carol_okerman_1916",
+  "name": "Carol Wesly Okerman (1916–1994)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1916-04-13",
+   "place": "Edgerton, Minnesota"
+  },
+  "died": {
+   "date": "1994-08-24",
+   "place": "",
+   "note": "NUMIDENT"
+  },
+  "places": [
+   "Edgerton MN",
+   "Santa Clarita, Los Angeles CA"
+  ],
+  "summary": "Son till Albert G. Okerman och Ellen (Elin) Skogsberg.",
+  "notes": [
+   "NUMIDENT: Carol Wesly Okerman (man) f. 13 april 1916 Edgerton MN, d. 24 aug 1994; föräldrar ”Ellen Skogsberg” och ”Albert G Okerman”."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, NUMIDENT: Carol Wesly Okerman f. 13 april 1916 Edgerton MN, d. 24 aug 1994; föräldrar Ellen Skogsberg, Albert G Okerman",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K4Z-YC6Z"
+   }
+  ],
+  "search": [
+   "Carol Wesly Okerman (1916–1994)"
   ]
  }
 ]
