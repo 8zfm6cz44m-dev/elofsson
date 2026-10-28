@@ -14925,5 +14925,49 @@
   "b": "sigrid_jonsd_1742_hogvalta",
   "status": "verified",
   "basis": "Båda döpta som barn till Jon Ersson och Sigri/Sigrid Eriksdotter (C/3 bild 53 hö, 169 hö); båda i hushållet A I/5–A I/6."
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-karin_jonsd_1714_skog",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "karin_jonsd_1714_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 90 vä: ”d. 21 Apr. [1714] christnades … Jons Giöstafssons och hust: Karin Nilsdotters barn [i Skog] … Karin”"
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-johan_jonsson_1715_skog",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "johan_jonsson_1715_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 97 vä: ”d 24 [Junii 1715] Christnades Jon Gustafssons och h. [Britta→Karin] Nilsdotters barn ifrån Skog ved namn Johan”; E I/1 bild 177: ”Johan och Britta Jon Gioståfssons och Karin Nilsdotters Barn i Skog”"
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-britta_jonsd_1718_skog",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "britta_jonsd_1718_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 117 vä: ”Jon Giöstafssons och h. Karin Nilsd:rs barn ifrån Skog ved namn Britta” (juli 1718); E I/1 bild 177"
+ },
+ {
+  "id": "c-jon_skog_f1721-karin_skog_m1721-nils_jonsson_1726_skog",
+  "type": "child",
+  "parents": [
+   "jon_skog_f1721",
+   "karin_skog_m1721"
+  ],
+  "child": "nils_jonsson_1726_skog",
+  "status": "verified",
+  "basis": "C I/1 bild 162 vä nr 25: ”d 25 Sept. [1726] … Jon Giöstafss[ons] och h. Kari Nilsd:rs Barn i Skog ved namn Nils”"
  }
 ]

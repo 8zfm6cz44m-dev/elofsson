@@ -314,7 +314,7 @@
     },
     {
       "title": "Två söner Oluf till Nils Christophersson i Skog (1689 och 1692)",
-      "text": "C I/1 bild 15 hö: Oluff Nilsson i Skog döpt 26/5 1689 (föräldrar Nils Christophersson / Anna Jonsd.). C I/1 bild 31 hö: ’Dnica Trinitatis’ [22/5] 1692 ”Nils Christ:s barn i Skog Oluf kallads”. Om läsningen ’Oluf’ håller dog troligen 1689 års Oluf före maj 1692 – det försvagar olof_nilsson_skog1689 som kandidat till Elof Nilsson (f. 1687/89 i Toltan) ytterligare. Kontrollera Brunskogs dödbok 1691–92 (E I/1 bild 119–123) efter ett Skog-barn.",
+      "text": "C I/1 bild 15 hö: Oluff Nilsson i Skog döpt 26/5 1689 (föräldrar Nils Christophersson / Anna Jonsd.). C I/1 bild 31 hö: ’Dnica Trinitatis’ [22/5] 1692 ”Nils Christ:s barn i Skog Oluf kallads”. Om läsningen ’Oluf’ håller dog troligen 1689 års Oluf före maj 1692 – det försvagar olof_nilsson_skog1689 som kandidat till Elof Nilsson (f. 1687/89 i Toltan) ytterligare. Kontrollera Brunskogs dödbok 1691–92 (E I/1 bild 119–123) efter ett Skog-barn. | CD5: CD5 sökte inte dödbok 1691–92 (utanför uppdraget). Inget nytt om Oluf 1689/1692 i dop 1697–1701 eller dödbok 1737–1742. Flaggan står kvar.",
       "persons": [
         "nils_christophersson_skog",
         "olof_nilsson_skog1689",
@@ -358,6 +358,24 @@
       "persons": [
         "jon_ersson_1703_hogvalta",
         "sigri_ersd_1710_hogvalta"
+      ]
+    },
+    {
+      "title": "Påhl Göstafsson × Britta Nilsdotter i ’Fösta’ – ytterligare syskonpar?",
+      "text": "C I/1: Påhl Giöstafsson (soldat) och h. Britta Nilsdotter har barn Nils (aug 1724, bild 152 hö nr 40, ”Påhl Giöstafssons Soldat[?] h. Britta Nilsd:rs Barn i Fösta[?] ved namn Nils”), Jon (29/9 1725, bild 156 vä nr 18) och Marit (16/4 1727, bild 167 vä nr 23, ”Påhl Giöstafssons och h. Britta Nilsd:rs Barn från Fösta[?], N. Marit”). Ortnamnet skrivet ’Föstn/Fösta’ – skiljer sig tydligt från ’Skog’. MyHeritage gör Påhl Göstasson till bror till Jon Göstafsson i Skog. Om Britta Nilsdotter också var dotter till Nils Christophersson vore det ett tredje syskonpar – men inget i faddrarna (Tallvigen, Fösta, Byn) pekar på Skog. Endast lead; ej ny person i trädet. Ytterligare barn: Britta 1/11 1729 (bild 179 vä nr 29, ”Påhl Giöstafssons och h. B[ritta?] Nilsd:rs Barn i Föste, Britta kallad”).",
+      "persons": [
+        "jon_skog_f1721",
+        "nils_christophersson_skog"
+      ]
+    },
+    {
+      "title": "Karin Nilsdotter i Skog (g. 1713) – dotter till Nils Christophersson? (CD5-genomgång)",
+      "text": "Genomläsning av Brunskog dop C I/1 1713–1729 (bild 90–180) och vigsel E I/1 1721–29 gav inga uttryckliga föräldrauppgifter för Karin Nilsdotter eller Nils Nilsson i Skog. Starkaste indicierna: Karin och Christopher Nilsson (verifierad son) vigdes samma dag 1713 ’i Skog’ med syskonen Jon/Elin Giöstafsbarn; Nils Christophersson står kvar som fadder i Skog mars 1715 (bild 95); täta ömsesidiga faddrar mellan Jon/Karin i Skog och Påhl Nilsson/Gertrud Bondesdotter i Toltan (1714–1728) samt Elof Nilsson i Toltan; Karin och Påhl står tillsammans som faddrar 1723 (bild 147, ’Per Nilss. i Toltan’ = Påhl enligt CB3-regeln). Status oförändrad: candidate. Nästa steg: bouppteckning efter Nils Christophersson 1719 eller Anna Jönsdotter 1742/43 (Jösse/Gillbergs härads häradsrätt), samt Brunskogs husförhör (äldsta A I/1 börjar 1760 – för sent).",
+      "persons": [
+        "karin_skog_m1721",
+        "nils_christophersson_skog",
+        "pal_nilsson_hagen",
+        "nils_n_stoy"
       ]
     }
   ],
@@ -4470,6 +4488,14 @@
       ],
       "kind": "resolved",
       "resolution": "Id bytt till pahl_christophersson_1715_olsrud (2026-10-28)."
+    },
+    {
+      "title": "Anna Jönsdotter (Nils Christophersons hustru) död 1742 i Skog",
+      "text": "E I/1 bild 100 vä, 1742 nr 69: ”d 26 Dec: gl. Enkian Hustru Anna Jöns dotter från Skog, som lefwatt gudeligen i 92 åhr.” Bekräftar MyHeritage-trädens dödsår 1742 och f. ca 1650; hon dog alltså i Brunskog (Skog), inte Glava. Tidigare negativ läsning (BU5/BU6, bild 95–99) missade bild 100.",
+      "persons": [
+        "anna_jonsd_skog1689",
+        "nils_christophersson_skog"
+      ]
     }
   ],
   "backlog": [
