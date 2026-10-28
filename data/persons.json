@@ -22631,7 +22631,8 @@
   "summary": "Brunskog-född kvinna med patronymikon Ellefs- (fader Elef/Elof?), gift i Kristiania 1865; ingen länk till Elof Perssons barn (hon är född 1842, efter Elofs kända barnaskara).",
   "notes": [
    "VIGSEL Gamle Aker 1865-06-05: \"Karsa Ellefsdtr\" f. 1842 Brunskog Wærmeland, brur (pv00000005648599). FT 1865 Kristiania Sagveien: \"Kaisa Ellefsdatter f. 1843 Sverrige, Kone g, Seildugarb\" (pf01038027053796). FT 1875 Kristiania Maridalsveien 56: \"Kaisa Gundersen f. 1842 Brunskog Sverige\" (pf01052055055182) i samma hus som Anna Ellefsen f. 1853 Brunskog (Anna Ellefsen i trädet, no_anna_ellefsen53) – identitet Kaisa Ellefsdatter = Kaisa Gundersen sannolik men ej bevisad; släktskap Kaisa/Anna ej belagt (möjligen syskon, båda med patronymikon Ellefs-).",
-   "BQ2 (STRONG): Vigselposten anger uttryckligen fader 'Ellef Larsen' och födelseort 'Brunskog Wærmeland', f. 1842 (23 år). Detta stämmer med Brunskog-doppet 1842 (Kajsa, fader Elof Larsson, mor Brita Nilsd., se ar2_elof_larsson_brunskog): 4 uppgifter matchar (namn Kajsa/Karsa, år 1842, Brunskog, fader Elof/Ellef Larsson/Larsen). Moderns namn saknas i vigselposten och Brunskog-doppets bild/id har ej lästs av BQ2 → ej verified. Brudgommens far Hans Gundersen. FT 1875 Kristiania Maridalsveien 56: hush. 06 'Kaisa Gundersen' f. 1842 Brunskog, hu g, make Gulbrand Gundersen f. 1841 Nitedal (seildugsfabrik, trædreier), barn Carl Oluf 1868, Alma Elevine 1871, Lauritz Albert 1872, Jeny Signora 1875. (Gundersen = Gulbrands patronymikon efter far Gunder/Hans Gundersen.) Chefen kan höja till verified när Brunskog-doppet 1842 läst (modern Brita Nilsd.)."
+   "BQ2 (STRONG): Vigselposten anger uttryckligen fader 'Ellef Larsen' och födelseort 'Brunskog Wærmeland', f. 1842 (23 år). Detta stämmer med Brunskog-doppet 1842 (Kajsa, fader Elof Larsson, mor Brita Nilsd., se ar2_elof_larsson_brunskog): 4 uppgifter matchar (namn Kajsa/Karsa, år 1842, Brunskog, fader Elof/Ellef Larsson/Larsen). Moderns namn saknas i vigselposten och Brunskog-doppets bild/id har ej lästs av BQ2 → ej verified. Brudgommens far Hans Gundersen. FT 1875 Kristiania Maridalsveien 56: hush. 06 'Kaisa Gundersen' f. 1842 Brunskog, hu g, make Gulbrand Gundersen f. 1841 Nitedal (seildugsfabrik, trædreier), barn Carl Oluf 1868, Alma Elevine 1871, Lauritz Albert 1872, Jeny Signora 1875. (Gundersen = Gulbrands patronymikon efter far Gunder/Hans Gundersen.) Chefen kan höja till verified när Brunskog-doppet 1842 läst (modern Brita Nilsd.).",
+   "UA3: Maken = Gulbrand Hansen (Gundersen) f. 1841 Nittedal, far Hans Gundersen (vigsel Gamle Aker 5/6 1865). FT 1875 Maridalsveien 56 hush. 06: barn Carl Oluf 1868, Alma Elevine 1871, Lauritz Albert 1872, Jeny Signora 1875."
   ],
   "sources": [
    {
@@ -22670,12 +22671,17 @@
   ],
   "summary": "Ung tjänstepiga född i Brunskog, Eidsvoll 1875; inga föräldrar nämnda, ingen trädlänk.",
   "notes": [
-   "FT 1875 Eidsvoll prestegjeld, Strand: \"Anna Johannesdatter f. 1858 Brunskog i Vermland Sverig, Tyende ug Tjenestepige\"."
+   "FT 1875 Eidsvoll prestegjeld, Strand: \"Anna Johannesdatter f. 1858 Brunskog i Vermland Sverig, Tyende ug Tjenestepige\".",
+   "UA3 NEGATIV: 'Anna Johannesdatter' f. 1859 Brunskog, vigd Petrus (Sofienberg) 24/4 1896 med Martin Mikaelsen Wold, har 'bruras far Johannes Nielssen' – alltså INTE dotter till Johannes Olsson (Näs); ej samma person som no_anna_johannesd58 (eller så är no_anna_johannesd58 felkopplad – kontrollera)."
   ],
   "sources": [
    {
     "label": "Digitalarkivet, Folketelling 1875 Eidsvoll, Strand: Anna Johannesdatter f. 1858 Brunskog i Vermland, tjenestepige",
     "url": "https://www.digitalarkivet.no/en/census/person/pf01052052005238"
+   },
+   {
+    "label": "Digitalarkivet, Petrus (Sofienberg) viede 1896 s.134 nr 25: Anna Johannesdatter f. 1859 Brunskog, far Johannes Nielssen",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000005732042"
    }
   ],
   "search": [
@@ -22699,7 +22705,11 @@
   "summary": "Snickare och sågverksbyggmästare i Hurdal 1875; patronymikon Josephsen (fader Josef). Ingen trädlänk.",
   "notes": [
    "FT 1875 Hurdal, Strømmen (husmandsplads): \"Olaf Josephsen Berg f. 1844 Brunskog i Vermelands Län Sverrig, hf g, Inderst, Snedker og Saugbrugsbygmester m.m.\"",
-   "BQ2: Fullständig norsk livslinje: f. 6/12 1844 Värmland (fader Josef Berg), flyttade Hurdal→Eidsvold 1871/72 som 'Møller, Svensk', gift Hurdal 20/4 1873 med Josefine Isaksdatter f. 1855 Østre Toten; barn Julia Kathinka f. 1873 Hurdal, ett barn f. 1875; FT 1891 Østre Toten Krabysanden; död 9/10 1892 (49 år). För koppling till Brunskog-dop 1844 (Olof, Lerhol): kontrollera att dopet är 6/12 1844 (el. 1–2 dagar tidigare) och att fadern heter Josef – då 3 oberoende uppgifter (namn, datum, fader) och status kan höjas till strong/verified. Dopets bild-id ej läst av BQ2 (Riksarkivet ej i uppdraget)."
+   "BQ2: Fullständig norsk livslinje: f. 6/12 1844 Värmland (fader Josef Berg), flyttade Hurdal→Eidsvold 1871/72 som 'Møller, Svensk', gift Hurdal 20/4 1873 med Josefine Isaksdatter f. 1855 Østre Toten; barn Julia Kathinka f. 1873 Hurdal, ett barn f. 1875; FT 1891 Østre Toten Krabysanden; död 9/10 1892 (49 år). För koppling till Brunskog-dop 1844 (Olof, Lerhol): kontrollera att dopet är 6/12 1844 (el. 1–2 dagar tidigare) och att fadern heter Josef – då 3 oberoende uppgifter (namn, datum, fader) och status kan höjas till strong/verified. Dopets bild-id ej läst av BQ2 (Riksarkivet ej i uppdraget).",
+   "UA3 VIGSEL Hurdal 20/4 1873 s.136 nr 9: 'Olaf Josefsen Berg', ungk., f. 1844 Wermland, Strømmen; brudgommens far 'Josef Berg'; brud Josefine Isaksdtr. f. 1855 Østre Thoten (far Isak Iversen).",
+   "UA3 BARN: Julie Kathinka f. 10/10 1873 (dop Hurdal 23/11 1873; FT 1875 'Hans d'; FT 1891 'd'; konf. Hoff 1888) och Isak f. 23/11 1875 (dop 20/2 1876), död 17/2 1877.",
+   "UA3 SYSKON I NORGE: August Josefsen Berg f. 1846 'Lerhol Sverige' (FT 1875 Hurdals glasverk; far Josef Berg enl. vigsel 1873; död 30/6 1892), Emanuel Josefsen f. 1857 'Lerhol Sverige' ('August Josefsens Broder', FT 1875) och Emma Berg f. 1849 Brunskog (vigsel Hurdal 1882, far 'Josef Eriksen Berg, murer'). August var fadder vid Olafs barns dop 1873/1876. FT 1891: 'Johan Edvart Nilssen Berg' f. 1877 Hurdalen bor hos Olaf som 'Bergs Søstersøn'.",
+   "UA3: Faddrar vid Julie Kathinkas dop 1873 var bl.a. 'August Berg' och 'Johan Berg' – Johan Berg kan vara ytterligare en bror (ej utrett)."
   ],
   "sources": [
    {
@@ -22720,6 +22730,14 @@
    },
    {
     "label": "Digitalarkivet, Folketelling 1891 Østre Toten, Krabysanden: Olaf Josefsen Berg f. 1844 Vermland Sverige, maskinist/snedker/smed",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052766006070"
+   },
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, viede 1873 s.136 nr 9: Olaf Josefsen Berg, far Josef Berg",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000000720646"
+   },
+   {
+    "label": "Digitalarkivet, FT 1891 Østre Toten, Krabysanden: Olaf Josefsen Berg, maskinist/snickare/smed, f. 1844 Vermland",
     "url": "https://www.digitalarkivet.no/en/census/person/pf01052766006070"
    }
   ],
@@ -25920,7 +25938,10 @@
    "FOLKRÄKNING: ”Karl Johan, f. 1877 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
    "Boda A I/25 bild 301 rad 8 ”Karl Johan” 77 1/7; ingen utflyttning.",
    "FOLKRÄKNING 1900 Boda Nolsjö, sida 27 rad 28: ”Karl Johan”, f. 1877 Boda, Skomakare i Nils Anderssons hushåll (s.). Samma yrke (skomakare) och namn/födelseår/-ort i 1910 och 1930 (Norra Boda); gift 1902 (Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker; barn Vilhelm 1904 och Herman Sigurd 1908 f. Kristiania). Identiteten bygger på namn+födelseår/-ort+yrke, ej uttrycklig familjeställning 1910/1930 – status strong, ej verified. (Fråga: ”verified” sattes ej; ändra till strong om chefen vill vara strikt.)",
-   "FOLKRÄKNING 1930 Boda Norra Boda s.3 r.28 (post 128380656): Karl Johan Nilsson f. 1877 Boda, husägare/biyrke skomakare, Gift 1902, inflyttad 1910 från Oslo; hushåll: Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker samt Gustaf Adolf Sköldberg f. 1913 Stockholm. Sönerna Vilhelm 1904/Herman Sigurd 1908 ej i hushållet 1930 (ej funna: sökning Herman Sigurd 1908 gav endast Karlstad-född Sigurd Herman Hermansson – annan person)."
+   "FOLKRÄKNING 1930 Boda Norra Boda s.3 r.28 (post 128380656): Karl Johan Nilsson f. 1877 Boda, husägare/biyrke skomakare, Gift 1902, inflyttad 1910 från Oslo; hushåll: Milla Gudbrandsdotter Fagerheim f. 1873 Ringsaker samt Gustaf Adolf Sköldberg f. 1913 Stockholm. Sönerna Vilhelm 1904/Herman Sigurd 1908 ej i hushållet 1930 (ej funna: sökning Herman Sigurd 1908 gav endast Karlstad-född Sigurd Herman Hermansson – annan person).",
+   "UA3 VIGSEL KRISTIANIA 1902: Gamle Aker kirkebok 1898–1910 s.203 nr 6, vigd 15/1 1902: brudgum 'Karl Johan Nilsen' f. 1877, födelseort 'Nordejer i Wermland Boda Tonnet' (index; läs: Nordsjö(?) i Värmland, Boda), bosted Therengd 32 [Thereses gate 32]; brud 'Milla Gudbrandsen' f. 1873 Ringsaker; 'brudgommens far: Nils Andersen' (= Nils Andersson f. 1844, nils_ae44); 'bruras far: Gudbrand Pedersen Engerheim' [=Fagerheim]. Bekräftar svenska FT 1930 'gift 1902' och faderns namn.",
+   "UA3 BARN I KRISTIANIA: son 'Gut' 1902 (Rikshospitalet, dopreg. 1902 nr 284, far 'Carl Johan Nilson' f. 1877), Vilhelm döpt 25/9 1904 (Rikshospitalet, far 'Karl Johan Nilson'), Herman Sigurd f. 3/6 1908 döpt 19/7 1908 i Trefoldighet (far 'Carl Nilsen', mor 'Milla Fogerheina', bosted Mauritz Hansens gate 4 III).",
+   "UA3 FT 1900 Kristiania: två indexposter 'Karl Nilsen f. 1877 Værmland Sverige', el ug dagarbeider (Tomte), Bjølsengade 15 (pf01037045215559/-560) – kan vara han (ogift, Värmland, 1877) men är inte bekräftad (lead)."
   ],
   "sources": [
    {
@@ -25950,6 +25971,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 (Boda, Norra Boda), sida 3 rad 28: Nilsson, Karl Johan f. 1877 Boda, Husägare, biyrke Skomakare, Gift (vigselår 1902), inflyttad 1910 från Oslo",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380656&tab=post"
+   },
+   {
+    "label": "Digitalarkivet, Gamle Aker kirkebok 1898–1910 (0301M3), viede 1902 s.203 nr 6, 15/1 1902: Karl Johan Nilsen f. 1877 Boda Wermland, far Nils Andersen × Milla Gudbrandsen f. 1873 Ringsaker, far Gudbrand Pedersen",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000005370862"
    }
   ],
   "search": [
@@ -28834,8 +28859,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1873",
-   "place": "Ringsaker, Norge"
+   "date": "1873-08-14",
+   "place": "Saugstad-eie, Ringsaker, Hedmark, Norge",
+   "note": "konfirmation Ringsaker 1888: f. 14/8 1873 'SougstadE.', döpt 26/10 1873"
   },
   "places": [
    "Kristiania",
@@ -28843,7 +28869,11 @@
   ],
   "summary": "Hustru till Karl Johan Nilsson (f. 1877 Boda) i folkräkningarna 1910 och 1930 (Norra Boda).",
   "notes": [
-   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan, sida 4 rad 33: ”Gudbrandsdotter Fagerheim, Milla, f. 1873 i Ringsaker, Norge” i hushållet Karl Johan Nilsson; 1930 samma hushåll (vigselår 1902)."
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan, sida 4 rad 33: ”Gudbrandsdotter Fagerheim, Milla, f. 1873 i Ringsaker, Norge” i hushållet Karl Johan Nilsson; 1930 samma hushåll (vigselår 1902).",
+   "UA3 KONFIRMATION Ringsaker 30/9 1888 (s.221 nr 24): 'Milla G. Fagerheim', f. 14/8 1873, födelseort 'SougstadE.' [Saugstad-eie], döpt 26/10 1873, bosted Fagerheim; far Gulbrand Pedersen (Gb.), mor Nikoline Olsdtr.",
+   "UA3 FT 1891 Ringsaker, Strømmen (hos Teodor Andersen Krogvig): 'Milla Gudbrandsdtr.' f. 1873 Ringsaker, Tjenestetyende ug. Föräldrahemmet Fagerheim 1891: syskon Oluf 1875, Pauline 1877, Gunda 1879, Netta 1881, Syverin/Severin 1884.",
+   "UA3 FT 1900 Kristiania, Deichmanns gate 3 (hos möbelsnickaren Karl Johan Pettersen): 'Milla Fagerheim' f. 1873 Hedemarken, el ug, Kjolesyerske (klänningssömmerska).",
+   "UA3 VIGSEL Gamle Aker 15/1 1902 med Karl Johan Nilsen f. 1877 Boda; barn i Kristiania: 'Gut' 1902, Vilhelm 1904, Herman Sigurd 1908 (se n44k_karljohan77)."
   ],
   "sources": [
    {
@@ -28853,6 +28883,22 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 (Boda, Norra Boda), sida 3 rad 28",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128380656&tab=post"
+   },
+   {
+    "label": "Digitalarkivet, Ringsaker kirkebok 1879–1890 (0412P), konfirmerte 1888 s.221 nr 24: Milla G. Fagerheim f. 14/8 1873, döpt 26/10 1873, far Gulbrand Pedersen, mor Nikoline Olsdtr.",
+    "url": "https://www.digitalarkivet.no/en/view/279/pk00000001437805"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Ringsaker, Strømmen: Milla Gudbrandsdtr. f. 1873, tjenestetyende",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052725007456"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1900 Kristiania, Deichmanns gate 3: Milla Fagerheim f. 1873 Hedemarken, kjolesyerske",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01037045048484"
+   },
+   {
+    "label": "Digitalarkivet, Gamle Aker viede 1902 s.203 nr 6: brud Milla Gudbrandsen f. 1873 Ringsaker",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000005370863"
    }
   ],
   "search": [
@@ -28874,12 +28920,17 @@
   ],
   "summary": "Son (hushållsmedlem) till Karl Johan Nilsson och Milla Fagerheim; f. 1904 i Kristiania.",
   "notes": [
-   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Vilhelm, f. 1904 i Födsel Stiftelsen Vor Frelsers förs. Kristiania, Norge”."
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Vilhelm, f. 1904 i Födsel Stiftelsen Vor Frelsers förs. Kristiania, Norge”.",
+   "UA3 DOP: Baptism register for Rikshospitalet 1904–1906, s.67–68 nr 675: 'barn Vilhelm, f. 1904; far Karl Johan Nilson; mor Milla Fagerheim', döpt 25/9 1904 (född på Rikshospitalets fødselsstiftelse, födelsedag ej i indexet)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 (Boda annex), sida 4 rad 33 (hushåll)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   },
+   {
+    "label": "Digitalarkivet, Baptism register for Rikshospitalet 1904–1906, 1904 s.67–68 nr 675: Vilhelm, far Karl Johan Nilson, mor Milla Fagerheim, döpt 25/9 1904",
+    "url": "https://www.digitalarkivet.no/en/view/255/pd00000021369150"
    }
   ],
   "search": [
@@ -28893,20 +28944,26 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1908",
-   "place": "Trefaldighetsförs., Kristiania, Norge"
+   "date": "1908-06-03",
+   "place": "Trefoldighet menighet, Kristiania, Norge",
+   "note": "döpt 19/7 1908"
   },
   "places": [
    "Norra Boda"
   ],
   "summary": "Son (hushållsmedlem) till Karl Johan Nilsson och Milla Fagerheim; f. 1908 i Kristiania.",
   "notes": [
-   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Herman Sigurd, f. 1908 i Trefaldighetsförs. Kristiania, Norge”."
+   "FOLKRÄKNING 1910 Boda annex, Norra Boda Lyckan: ”Herman Sigurd, f. 1908 i Trefaldighetsförs. Kristiania, Norge”.",
+   "UA3 DOP: Trefoldighet kirkebok 1900–1914 (0301M22), 1908 s.193 nr 51: 'Herman Sigurd' f. 3/6 1908, döpt 19/7 1908; far 'Carl Nilsen' (index f.år 1887, sannolikt felskrivet för 1877), mor 'Milla Fogerheina' [Fagerheim] f. 1873, bosted Mauritz Hansens gate 4 III."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1910 (Boda annex), sida 4 rad 33 (hushåll)",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125552461&tab=post"
+   },
+   {
+    "label": "Digitalarkivet, Trefoldighet kirkebok 1900–1914, døpte 1908 s.193 nr 51: Herman Sigurd f. 3/6 1908, döpt 19/7, far Carl Nilsen, mor Milla Fagerheim",
+    "url": "https://www.digitalarkivet.no/en/view/255/pd00000022461682"
    }
   ],
   "search": [
@@ -38829,7 +38886,8 @@
   "summary": "Fader till Olaf Josephsen Berg, dopfört i Brunskog dec 1844 (Lerhol).",
   "notes": [
    "DOP 1844-12-06/07: \"Olaf. Lerhal. Joseph Berg H. Cajsa Ols[d]r\" (gudfäder Anders Andersson ... H. Kari Olsd ibm)",
-   "DOP 1853-11-04/05: \"Anna. Olaf Larsson o h. Britta [Nilsd., överskrivet 'Maria Andersd'] i v. Fäshed\" (C0036785_00046) – samma föräldrar som Kajsa 1842"
+   "DOP 1853-11-04/05: \"Anna. Olaf Larsson o h. Britta [Nilsd., överskrivet 'Maria Andersd'] i v. Fäshed\" (C0036785_00046) – samma föräldrar som Kajsa 1842",
+   "UA3 NORGE: 'Josef Berg' anges som far i Hurdal-vigslarna för Olaf Josefsen Berg (20/4 1873) och August Josefsen Berg (15/7 1873), och som 'Josef Eriksen Berg, Murer' för Emma Berg f. 1849 Brunskog (Hurdal 2/5 1882) – Josef Berg var alltså murare och hette Eriksson i patronymikon. Barn i Norge: Olaf 1844, August 1846 (FT 1875 'Lerhol Sverige'), Emma 1849 (Brunskog), Emanuel 1857 ('Lerhol Sverige'). Josef själv ej funnen i norska folkräkningar (sökt Jo*f/Joseph × Berg/Erik*, f. 1800–1830)."
   ],
   "sources": [
    {
@@ -52940,6 +52998,688 @@
   ],
   "search": [
    "Swen Swenson (1860–1909, Solem Lutheran Cemetery)"
+  ]
+ },
+ {
+  "id": "no_karlnilsson_gut02",
+  "name": "Gosse Nilsson (f. 1902, Rikshospitalet, Kristiania)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "Rikshospitalet (Fødselsstiftelsen), Kristiania, Norge",
+   "note": "dopregister Rikshospitalet 1901–1903, år 1902 nr 284: barnet antecknat endast som 'Gut'"
+  },
+  "places": [
+   "Kristiania"
+  ],
+  "summary": "Son (namnlös 'Gut' i registret) till Carl Johan Nilson f. 1877 och Milla Fagerheim f. 1873, född 1902 på Rikshospitalets fødselsstiftelse. Ej i familjen 1910 – troligen död ung (dödspost ej funnen).",
+  "notes": [
+   "DOP (indexerad transkription, Digitalarkivet): Baptism register for Rikshospitalet 1901–1903, 1902 löpnr 284: 'barn: Gut; far: Carl Johan Nilson, f. 1877; mor: Milla Fagerheim, f. 1873'. Datum ej angivet i indexet; ej bildläst.",
+   "Status strong (inte verified): föräldrarna identifieras via namn + födelseår (1877/1873) + Milla Fagerheim, som exakt matchar paret i Gamle Aker-vigseln 15/1 1902 och Vilhelms dop 1904."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Baptism register for Rikshospitalet (Fødselsstiftelsen) 1901–1903, 1902 nr 284: barn 'Gut', far Carl Johan Nilson f. 1877, mor Milla Fagerheim f. 1873",
+    "url": "https://www.digitalarkivet.no/en/view/255/pd00000022615923"
+   }
+  ],
+  "search": [
+   "Gosse Nilsson (f. 1902, Rikshospitalet, Kristiania)"
+  ]
+ },
+ {
+  "id": "no_gulbrand_pedersen40",
+  "name": "Gulbrand (Gudbrand) Pedersen Fagerheim (f. 1840, Ringsaker)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1840",
+   "place": "Ringsaker, Hedmark, Norge"
+  },
+  "places": [
+   "Fagerheim (gnr 241 bnr 6), Ringsaker"
+  ],
+  "summary": "Far till Milla Fagerheim; skräddare och gårdbrukare (selveier) på Fagerheim i Ringsaker.",
+  "notes": [
+   "KONFIRMATION Ringsaker 30/9 1888 s.221 nr 24: konfirmant 'Milla G. Fagerheim', f. 14/8 1873 'SougstadE.', döpt 26/10 1873, bosted Fagerheim; far 'Gulbrand Pedersen, Gb.', mor 'Nikoline Olsdtr.'",
+   "FT 1891 Ringsaker, Saugstads krets, Fagerheim (gnr 241/6): 001 Gulbrand Pedersen 1840 Ringsaker, Familiens overhode g; 002 Nekoline Olsdr 1844 Hustru; barn Oluf 1875, Pauline 1877, Gunda 1879, Netta 1881, Syverin 1884 (Søn/Datter).",
+   "FT 1900 Ringsaker, Fagerheim: 'Gudbrand Pedersen' 1840, hf g, 'Skrædder for egen regning. Gårdbruger, selveier'; Nikoline Olsdatter 1844 hm; Oluf 1875, Netta 1881, Severin 1884.",
+   "VIGSEL Gamle Aker 1902: 'bruras far: Gudbrand Pedersen Engerheim' (indexets 'Engerheim' = Fagerheim, felläsning)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Ringsaker kirkebok 1879–1890, konfirmerte 1888 s.221 nr 24: Milla G. Fagerheim, far Gulbrand Pedersen, mor Nikoline Olsdtr.",
+    "url": "https://www.digitalarkivet.no/en/view/279/pk00000001437805"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1891 Ringsaker, Fagerheim: Gulbrand Pedersen 1840, familiens overhode",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052725004712"
+   },
+   {
+    "label": "Digitalarkivet, Folketelling 1900 Ringsaker, Fagerheim: Nikoline Olsdatter 1844 (hushållet Gudbrand Pedersen)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01037049004903"
+   }
+  ],
+  "search": [
+   "Gulbrand (Gudbrand) Pedersen Fagerheim (f. 1840, Ringsaker)"
+  ]
+ },
+ {
+  "id": "no_nikoline_olsd44",
+  "name": "Nikoline Olsdatter (f. 1844, Ringsaker)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1844",
+   "place": "Ringsaker, Hedmark, Norge"
+  },
+  "places": [
+   "Fagerheim, Ringsaker"
+  ],
+  "summary": "Mor till Milla Fagerheim; hustru till Gulbrand Pedersen på Fagerheim, Ringsaker.",
+  "notes": [
+   "KONFIRMATION Ringsaker 1888 (Milla G. Fagerheim): 'mor Nikoline Olsdtr.'. FT 1891 'Nekoline Olsdr' 1844 Hustru; FT 1900 'Nikoline Olsdatter' 1844 hm, 'Steller i huset'."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Folketelling 1900 Ringsaker, Fagerheim: Nikoline Olsdatter f. 1844, hm g",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01037049004903"
+   },
+   {
+    "label": "Digitalarkivet, Ringsaker konfirmerte 1888 s.221 nr 24",
+    "url": "https://www.digitalarkivet.no/en/view/279/pk00000001437805"
+   }
+  ],
+  "search": [
+   "Nikoline Olsdatter (f. 1844, Ringsaker)"
+  ]
+ },
+ {
+  "id": "no_josefine_isaksd55",
+  "name": "Josefine Isaksdatter (f. 1855 Østre Toten, g. Berg)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1855",
+   "place": "Østre Toten, Norge"
+  },
+  "places": [
+   "Strømmen, Hurdal",
+   "Krabysanden, Østre Toten"
+  ],
+  "summary": "Hustru till Olaf Josephsen Berg (f. 1844 Brunskog); gift Hurdal 20/4 1873; änka 1892.",
+  "notes": [
+   "VIGSEL Hurdal 20/4 1873 (s.136 nr 9): brudgum Olaf Josefsen Berg, ungk., f. 1844 Wermland, bosted Strømmen, far Josef Berg; brud 'Josefine Isaksdtr.', pige, f. 1855 Østre Thoten, far Isak Iversen.",
+   "FT 1875 Hurdal, Strømmen: 007 Josephine Isaksdatter 1855 Østre Toten, 'Hans Kone' g. FT 1891 Østre Toten, Krabysanden: 'Josefine Berg, f Isaksen' 1854, hu, Inderst, g.",
+   "Fadder i Hurdal 16/8 1903 som 'Josefine Isaksen Berg, Kone' (pd00000004991467) – levde kvar efter makens död 1892."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, viede 1873 s.136 nr 9: Olaf Josefsen Berg × Josefine Isaksdtr., far Josef Berg resp. Isak Iversen",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000000720646"
+   },
+   {
+    "label": "Digitalarkivet, FT 1875 Hurdal, Strømmen: Olaf Josephsen Berg med hustru Josephine Isaksdatter och barn",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054001234"
+   },
+   {
+    "label": "Digitalarkivet, FT 1891 Østre Toten, Krabysanden: Olaf Josefsen Berg, Josefine Berg f Isaksen, Julie Kathinka, systersonen Johan Edvart Nilssen Berg",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052766006070"
+   }
+  ],
+  "search": [
+   "Josefine Isaksdatter (f. 1855 Østre Toten, g. Berg)"
+  ]
+ },
+ {
+  "id": "no_juliekathinka_berg73",
+  "name": "Julie Kathinka Olafsdatter Berg (f. 1873, Hurdal)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1873-10-10",
+   "place": "Ødemarkeie, Hurdal, Norge",
+   "note": "döpt 23/11 1873 Hurdal kirke"
+  },
+  "places": [
+   "Hurdal",
+   "Krabysanden, Østre Toten"
+  ],
+  "summary": "Dotter till Olaf Josephsen Berg och Josefine Isaksdatter; konfirmerad Hoff (Østre Toten) 1888.",
+  "notes": [
+   "DOP Hurdal 23/11 1873 (s.213 nr 69): barn 'Julie Kathinka', far 'Olaf Josefsen, Smedker [snedker], Berg', mor 'Josefine Isaksdtr., Kone, Strømmen'; faddrar bl.a. August Berg, Johan Berg, Justine Hermansdtr. (Værket).",
+   "FT 1875 Hurdal, Strømmen: 'Julia Kathinka Olafsdatter' 1873 Hurdalen, 'Hans d'. FT 1891 Østre Toten, Krabysanden: 'Julie Kathinka Olafsdt. Berg' 1873 Hurdalen, d, ug.",
+   "KONFIRMATION Østre Toten (Hoff) 30/9 1888: 'Julie Kathinka Olsdtr. Berg' f. 10/10 1873 Hurdalen, Ødemarkeie, bosted Møllerhaugen, Rognebyeie (pk00000000314529)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, døpte 1873 s.213 nr 69: Julie Kathinka, far Olaf Josefsen, mor Josefine Isaksdtr.",
+    "url": "https://www.digitalarkivet.no/en/view/255/pd00000001583725"
+   },
+   {
+    "label": "Digitalarkivet, FT 1891 Østre Toten, Krabysanden: Julie Kathinka Olafsdt. Berg, d",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052766006072"
+   },
+   {
+    "label": "Digitalarkivet, Østre Toten (Hoff) kirkebok 1878–1896, konfirmerte 1888: Julie Kathinka Olsdtr. Berg f. 10/10 1873",
+    "url": "https://www.digitalarkivet.no/en/view/279/pk00000000314529"
+   }
+  ],
+  "search": [
+   "Julie Kathinka Olafsdatter Berg (f. 1873, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_isak_berg75",
+  "name": "Isak Olafsen Berg (1875–1877, Hurdal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1875-11-23",
+   "place": "Strømmen, Hurdal, Norge",
+   "note": "döpt 20/2 1876"
+  },
+  "places": [
+   "Strømmen, Hurdal"
+  ],
+  "summary": "Son till Olaf Josephsen Berg och Josefine Isaksdatter; död som barn 17/2 1877.",
+  "notes": [
+   "DOP Hurdal 20/2 1876 (s.231 nr 12): barn 'Isak', far 'Olaf Berg, Indst., Strømmen', mor 'Josefine Isaksdtr., Kone, Strømmen'; faddrar bl.a. August Berg (Værket).",
+   "FT 1875 Hurdal, Strømmen: '!! Olafsen' f. 1875 (namn ej utskrivet) i Olafs hushåll.",
+   "DÖD Hurdal: 'Isak Olafsen Berg' f. 23/11 1875, bosted Strømmen, Barn, avdød 17/2 1877 (indexdatum)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, døpte 1876 s.231 nr 12: Isak, far Olaf Berg, mor Josefine Isaksdtr.",
+    "url": "https://www.digitalarkivet.no/en/view/255/pd00000001585108"
+   },
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, døde 1877: Isak Olafsen Berg f. 23/11 1875",
+    "url": "https://www.digitalarkivet.no/en/view/267/pg00000000751502"
+   }
+  ],
+  "died": {
+   "date": "1877-02-17",
+   "place": "Strømmen, Hurdal, Norge",
+   "note": "indexdatum (begravning/död ej särskilt)"
+  },
+  "search": [
+   "Isak Olafsen Berg (1875–1877, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_august_josefsen_berg46",
+  "name": "August Josefsen Berg (f. 1846 Lerhol, snickare Hurdals glasverk)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1846",
+   "place": "Lerhol, Brunskog, Värmland",
+   "note": "FT 1875 'Lerhol Sverige'; FT 1891 'Nedre Ullerød, Sverige' (motsägelse); vigsel 1873 'Wermland'"
+  },
+  "places": [
+   "Hurdals glasverk, Hurdal"
+  ],
+  "summary": "Bror till Olaf Josephsen Berg; snickare/verksmästare vid Hurdals glasverk, gift 1873 med Karen Justine Hermansdatter; död 30/6 1892.",
+  "notes": [
+   "VIGSEL Hurdal 15/7 1873 (s.137 nr 16): brudgum 'August Josefsen Berg', snedker ungk., f. 1846 Wermland, bosted Glasværket; 'brudgommens far: Josef Berg'; brud Karen Justine Hermansdtr. f. 1855 Glasværket, far Herman Olsen.",
+   "FT 1875 Hurdal, Hurdals Glasværk: 001 'August Josefsen' 1846 'Lerhol Sverige', hf g, Snedker ved Glasværket; 002 Karen Justine Hermandsdatter 1855 Kone; 003 Charlotte Augustsdatter 1874 d; 004 'Emanuel Josefsen' 1857 'Lerhol Sverige', 'Logerende, August Josefsens Broder', ug, arbeider ved Wærket.",
+   "FT 1891 Hurdal, Hurdals Glasvark (gnr 5/10): 004 'August Josefsen Berg' 1846 'Nedre Ullerød, Sverige', familiens overhode g; 005 Justine Hermandsdtr. Berg 1855; barn Anna 1877, Hulda 1880, Vilhelm 1882, Marie 1885, Gustov Adolf 1887, Karl Johan 1890 (Datter/Søn); svärmor Sofie Gulliksdtr.",
+   "DÖD Hurdal 1892 (s.113 nr 10): 'August Berg', snedker, g., f. 1846 Sverige, Glasværket, död 30/6 1892 (begr. 5/7, anmält till lensmannen).",
+   "FADDER: 'August Berg' fadder vid brodern Olafs barns dop 1873 (Julie Kathinka) och 1876 (Isak); 'August Berg, Værksmester' trolovar vid Emma Bergs vigsel 1882.",
+   "FÖDELSEORT: Lerhol (1875) talar för Brunskog (fadern Josef Berg i Lerhol 1844); 'Nedre Ullerød' 1891 kan avse annan uppgift – Brunskog-dop 1846 ej läst. Status strong: faderns namn Josef Berg + Lerhol + bror till Olaf (fadder) och Emanuel ('Broder')."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1860–1877, viede 1873 s.137 nr 16: August Josefsen Berg f. 1846 Wermland, far Josef Berg × Karen Justine Hermansdtr.",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000000720689"
+   },
+   {
+    "label": "Digitalarkivet, FT 1875 Hurdal, Hurdals Glasværk: August Josefsen f. 1846 Lerhol Sverige, hushåll med brodern Emanuel Josefsen",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054002966"
+   },
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal, Hurdals Glasvark: August Josefsen Berg f. 1846 Nedre Ullerød, med hustru och sex barn",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   },
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1878–1906, døde 1892 s.113 nr 10: August Berg, snedker, f. 1846 Sverige, død 30/6 1892",
+    "url": "https://www.digitalarkivet.no/en/view/267/pg00000000325850"
+   }
+  ],
+  "died": {
+   "date": "1892-06-30",
+   "place": "Glasværket, Hurdal, Norge",
+   "note": "begravd 5/7 1892"
+  },
+  "search": [
+   "August Josefsen Berg (f. 1846 Lerhol, snickare Hurdals glasverk)"
+  ]
+ },
+ {
+  "id": "no_karenjustine_hermansd55",
+  "name": "Karen Justine Hermansdatter (f. 1855, Hurdal; g. Berg)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1855-01-07",
+   "place": "Glasværket, Hurdal, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Hustru till August Josefsen Berg, gift Hurdal 15/7 1873.",
+  "notes": [
+   "VIGSEL Hurdal 15/7 1873: brud 'Karen Justine Hermansdtr.' f. 7/1 1855 Glasværket, far Herman Olsen. FT 1875 'Kone'; FT 1891 'Justine Hermandsdtr. Berg' Hustru g. Fadder (som 'Justine Hermansdtr., Værket') vid Julie Kathinka Bergs dop 1873."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal viede 1873 s.137 nr 16: Karen Justine Hermansdtr. f. 1855-01-07 Glasværket",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000000720689"
+   },
+   {
+    "label": "Digitalarkivet, FT 1875 Hurdal: Karen Justine Hermandsdatter, Kone",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054002967"
+   }
+  ],
+  "search": [
+   "Karen Justine Hermansdatter (f. 1855, Hurdal; g. Berg)"
+  ]
+ },
+ {
+  "id": "no_emanuel_josefsen57",
+  "name": "Emanuel Josefsen (Berg) (f. 1857, Lerhol)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1857",
+   "place": "Lerhol, Brunskog, Värmland",
+   "note": "FT 1875 'Lerhol Sverige'"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Bror till August och Olaf Josefsen Berg; arbetare vid Hurdals glasverk 1875.",
+  "notes": [
+   "FT 1875 Hurdal, Hurdals Glasværk: 004 'Emanuel Josefsen' 1857 'Lerhol Sverige', 'Logerende, August Josefsens Broder', ug, Arbeider ved Wærket.",
+   "Senare öde osäkert: flera 'Emanuel Berg' f. 1855–59 i Kristiania/Tinn har norsk födelseort (Toten/Hurdalen) – ej identifierade med honom."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Hurdal, Hurdals Glasværk: Emanuel Josefsen f. 1857 Lerhol Sverige, 'August Josefsens Broder'",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054002966"
+   }
+  ],
+  "search": [
+   "Emanuel Josefsen (Berg) (f. 1857, Lerhol)"
+  ]
+ },
+ {
+  "id": "no_emma_berg49",
+  "name": "Emma Berg (f. 1849 Brunskog, g. 1882 Nyberg, Hurdal)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1849",
+   "place": "Brunskog, Värmland"
+  },
+  "places": [
+   "Hurdal"
+  ],
+  "summary": "Dotter till 'Josef Eriksen Berg, murer'; gift i Hurdal 2/5 1882 med änklingen Martin Iversen Nyberg; syster till August (trolovare vid vigseln) och sannolikt Olaf.",
+  "notes": [
+   "VIGSEL Hurdal 2/5 1882 (s.25 nr 1), lysning 19/3, 26/3, 2/4: brud 'Emma Berg' f. 1849 'Brunskog i Wermland', konfirmerad Brunskog; 'brurs far: Josef Eriksen Berg, Murer'; brudgum Martin Iversen Nyberg f. 1851 Nannestad, husmand/værksarb., enkemand; trolovare 'August Berg, Værksmester' och Andreas Olsen Nymoen.",
+   "Faderns patronymikon 'Eriksen' är ny uppgift om Josef Berg (Lerhol). Status strong: namn Josef Berg + Brunskog + broderns medverkan; Brunskog-dop 1849 ej läst.",
+   "LEAD: FT 1891 Østre Toten, Olaf Bergs hushåll: 'Johan Edvart Nilssen Berg' f. 1877 Hurdalen, 'Bergs Søstersøn' – en syster till Olaf hade alltså en son 1877 i Hurdal (kan vara Emma före giftet 1882; ej verifierat)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Hurdal ministerialbok 1878–1906, viede 1882 s.25 nr 1: Martin Iversen Nyberg × Emma Berg f. 1849 Brunskog, brurs far Josef Eriksen Berg, murer",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000000910202"
+   }
+  ],
+  "search": [
+   "Emma Berg (f. 1849 Brunskog, g. 1882 Nyberg, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_charlotte_augustsd74",
+  "name": "Charlotte Augustsdatter (f. 1874, Hurdal)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1874",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1875 Hurdal: 'Charlotte Augustsdatter' 1874 Hurdalen, d (ej i hushållet 1891)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052054002966"
+   }
+  ],
+  "search": [
+   "Charlotte Augustsdatter (f. 1874, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_anna_augustsd77",
+  "name": "Anna Augustsdatter Berg (f. 1877, Hurdal)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1877",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Anna Augustsdt. Berg' 1877 Hurdalen, Datter."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Anna Augustsdatter Berg (f. 1877, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_hulda_augustsd80",
+  "name": "Hulda Augustsdatter Berg (f. 1880, Hurdal)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1880",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Hulda Augustsdtr. Berg' 1880 Hurdalen, Datter."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Hulda Augustsdatter Berg (f. 1880, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_vilhelm_augustsen82",
+  "name": "Vilhelm Augustsen Berg (f. 1882, Hurdal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1882",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Vilhelm Augustsen Berg' 1882 Hurdalen, Søn."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Vilhelm Augustsen Berg (f. 1882, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_marie_augustsd85",
+  "name": "Marie Augustsdatter Berg (f. 1885, Hurdal)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1885",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Marie Augustsdtr. Berg' 1885 Hurdalen, Datter."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Marie Augustsdatter Berg (f. 1885, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_gustavadolf_augustsen87",
+  "name": "Gustav Adolf Augustsen Berg (f. 1887, Hurdal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1887",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Gustov Adolf Augustsen Berg' 1887 Hurdalen, Søn."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Gustav Adolf Augustsen Berg (f. 1887, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_karljohan_augustsen90",
+  "name": "Karl Johan Augustsen Berg (f. 1890, Hurdal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1890-05",
+   "place": "Hurdal, Akershus, Norge"
+  },
+  "places": [
+   "Hurdals glasverk"
+  ],
+  "summary": "Barn till August Josefsen Berg och Karen Justine Hermansdatter, Hurdals glasverk.",
+  "notes": [
+   "FT 1891 Hurdal: 'Karl Johan Augustsen Berg' f. 'mai 1890' Hurdalen, Søn."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1891 Hurdal (hushållet August Josefsen Berg)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052719001695"
+   }
+  ],
+  "search": [
+   "Karl Johan Augustsen Berg (f. 1890, Hurdal)"
+  ]
+ },
+ {
+  "id": "no_gulbrand_gundersen41",
+  "name": "Gulbrand Hansen Gundersen (f. 1841, Nittedal)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1841",
+   "place": "Nittedal, Akershus, Norge"
+  },
+  "places": [
+   "Maridalsveien 56, Kristiania"
+  ],
+  "summary": "Make till Kaisa Ellefsdatter f. 1842 Brunskog; trädreier vid segelduksfabrik i Kristiania.",
+  "notes": [
+   "VIGSEL Gamle Aker 5/6 1865 s.149 nr 31: brudgum 'Gulbrand Hansen' f. Nittedal, bosted Christiania, far Hans Gundersen; brud 'Karsa Ellefsdtr' f. 1842 Brunskog Wærmeland, far Ellef Larsen.",
+   "FT 1875 Kristiania, Maridalsveien 56, hush. 06: 034 'Gulbrand Gundersen' 1841 Nittedal, hf g, Seildugsfabr. trædreier; 035 Kaisa Gundersen 1842 Brunskog Sverige, hu g; barn Carl Oluf 1868, Alma Elevine 1871, Lauritz Albert 1872, Jeny Signora 1875 (alla Kristiania)."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, Gamle Aker kirkebok 1865–1873, viede 1865 s.149 nr 31: Gulbrand Hansen × Karsa Ellefsdtr f. 1842 Brunskog",
+    "url": "https://www.digitalarkivet.no/en/view/327/pv00000005648599"
+   },
+   {
+    "label": "Digitalarkivet, FT 1875 Kristiania, Maridalsveien 56, hush. 06 (Gulbrand och Kaisa Gundersen med barn)",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   }
+  ],
+  "search": [
+   "Gulbrand Hansen Gundersen (f. 1841, Nittedal)"
+  ]
+ },
+ {
+  "id": "no_carloluf_gundersen68",
+  "name": "Carl Oluf Gundersen (f. 1868, Kristiania)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1868",
+   "place": "Kristiania, Norge"
+  },
+  "places": [
+   "Maridalsveien 56, Kristiania"
+  ],
+  "summary": "Barn till Gulbrand Gundersen och Kaisa Ellefsdatter (f. 1842 Brunskog).",
+  "notes": [
+   "FT 1875 Kristiania, Maridalsveien 56, hush. 06: Carl Oluf Gundersen f. 1868 Kristiania, familjeställning 's' i Gulbrand och Kaisa Gundersens hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Kristiania, Maridalsveien 56, hush. 06",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   }
+  ],
+  "search": [
+   "Carl Oluf Gundersen (f. 1868, Kristiania)"
+  ]
+ },
+ {
+  "id": "no_almaelevine_gundersen71",
+  "name": "Alma Elevine Gundersen (f. 1871, Kristiania)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1871",
+   "place": "Kristiania, Norge"
+  },
+  "places": [
+   "Maridalsveien 56, Kristiania"
+  ],
+  "summary": "Barn till Gulbrand Gundersen och Kaisa Ellefsdatter (f. 1842 Brunskog).",
+  "notes": [
+   "FT 1875 Kristiania, Maridalsveien 56, hush. 06: Alma Elevine Gundersen f. 1871 Kristiania, familjeställning 'd' i Gulbrand och Kaisa Gundersens hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Kristiania, Maridalsveien 56, hush. 06",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   }
+  ],
+  "search": [
+   "Alma Elevine Gundersen (f. 1871, Kristiania)"
+  ]
+ },
+ {
+  "id": "no_lauritzalbert_gundersen72",
+  "name": "Lauritz Albert Gundersen (f. 1872, Kristiania)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1872",
+   "place": "Kristiania, Norge"
+  },
+  "places": [
+   "Maridalsveien 56, Kristiania"
+  ],
+  "summary": "Barn till Gulbrand Gundersen och Kaisa Ellefsdatter (f. 1842 Brunskog).",
+  "notes": [
+   "FT 1875 Kristiania, Maridalsveien 56, hush. 06: Lauritz Albert Gundersen f. 1872 Kristiania, familjeställning 's' i Gulbrand och Kaisa Gundersens hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Kristiania, Maridalsveien 56, hush. 06",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   }
+  ],
+  "search": [
+   "Lauritz Albert Gundersen (f. 1872, Kristiania)"
+  ]
+ },
+ {
+  "id": "no_jenysignora_gundersen75",
+  "name": "Jeny Signora Gundersen (f. 1875, Kristiania)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1875",
+   "place": "Kristiania, Norge"
+  },
+  "places": [
+   "Maridalsveien 56, Kristiania"
+  ],
+  "summary": "Barn till Gulbrand Gundersen och Kaisa Ellefsdatter (f. 1842 Brunskog).",
+  "notes": [
+   "FT 1875 Kristiania, Maridalsveien 56, hush. 06: Jeny Signora Gundersen f. 1875 Kristiania, familjeställning 's/d' i Gulbrand och Kaisa Gundersens hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Digitalarkivet, FT 1875 Kristiania, Maridalsveien 56, hush. 06",
+    "url": "https://www.digitalarkivet.no/en/census/person/pf01052055055182"
+   }
+  ],
+  "search": [
+   "Jeny Signora Gundersen (f. 1875, Kristiania)"
   ]
  }
 ]

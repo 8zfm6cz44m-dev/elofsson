@@ -15770,5 +15770,267 @@
   "child": "lloyd_thompson_1905_solem",
   "status": "strong",
   "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-n44k_karljohan77-milla_fagerheim73-no_karlnilsson_gut02",
+  "type": "child",
+  "parents": [
+   "n44k_karljohan77",
+   "milla_fagerheim73"
+  ],
+  "child": "no_karlnilsson_gut02",
+  "status": "strong",
+  "basis": "Rikshospitalet dopregister 1902 nr 284: 'Gut', far Carl Johan Nilson f. 1877, mor Milla Fagerheim f. 1873 (index)"
+ },
+ {
+  "id": "c-no_gulbrand_pedersen40-no_nikoline_olsd44-milla_fagerheim73",
+  "type": "child",
+  "parents": [
+   "no_gulbrand_pedersen40",
+   "no_nikoline_olsd44"
+  ],
+  "child": "milla_fagerheim73",
+  "status": "verified",
+  "basis": "Ringsaker konfirmerte 1888 s.221 nr 24: 'Milla G. Fagerheim' f. 14/8 1873, far Gulbrand Pedersen, mor Nikoline Olsdtr.; Gamle Aker vigsel 1902: bruras far Gudbrand Pedersen"
+ },
+ {
+  "id": "p-no_gulbrand_pedersen40-no_nikoline_olsd44",
+  "type": "partner",
+  "a": "no_gulbrand_pedersen40",
+  "b": "no_nikoline_olsd44",
+  "status": "verified",
+  "basis": "FT 1891 Ringsaker Fagerheim: Gulbrand Pedersen familiens overhode g / Nekoline Olsdr Hustru g; FT 1900 hf/hm"
+ },
+ {
+  "id": "c-no_olaf_josephsen44-no_josefine_isaksd55-no_juliekathinka_berg73",
+  "type": "child",
+  "parents": [
+   "no_olaf_josephsen44",
+   "no_josefine_isaksd55"
+  ],
+  "child": "no_juliekathinka_berg73",
+  "status": "verified",
+  "basis": "Hurdal dop 23/11 1873: far Olaf Josefsen, mor Josefine Isaksdtr.; FT 1875 'Hans d'; FT 1891 'd'"
+ },
+ {
+  "id": "c-no_olaf_josephsen44-no_josefine_isaksd55-no_isak_berg75",
+  "type": "child",
+  "parents": [
+   "no_olaf_josephsen44",
+   "no_josefine_isaksd55"
+  ],
+  "child": "no_isak_berg75",
+  "status": "verified",
+  "basis": "Hurdal dop 20/2 1876: 'Isak', far Olaf Berg, mor Josefine Isaksdtr."
+ },
+ {
+  "id": "p-no_olaf_josephsen44-no_josefine_isaksd55",
+  "type": "partner",
+  "a": "no_olaf_josephsen44",
+  "b": "no_josefine_isaksd55",
+  "status": "verified",
+  "basis": "Hurdal vigsel 20/4 1873 s.136 nr 9; FT 1875 'Hans Kone'"
+ },
+ {
+  "id": "s-no_juliekathinka_berg73-no_isak_berg75",
+  "type": "sibling",
+  "a": "no_juliekathinka_berg73",
+  "b": "no_isak_berg75",
+  "status": "verified",
+  "basis": "samma föräldrar enl. dop 1873 och 1876"
+ },
+ {
+  "id": "p-no_august_josefsen_berg46-no_karenjustine_hermansd55",
+  "type": "partner",
+  "a": "no_august_josefsen_berg46",
+  "b": "no_karenjustine_hermansd55",
+  "status": "verified",
+  "basis": "Hurdal vigsel 15/7 1873 s.137 nr 16; FT 1875/1891"
+ },
+ {
+  "id": "c-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol-no_august_josefsen_berg46",
+  "type": "child",
+  "parents": [
+   "ar2_josef_berg_lerhol",
+   "ar2_cajsa_olsd_lerhol"
+  ],
+  "child": "no_august_josefsen_berg46",
+  "status": "strong",
+  "basis": "Hurdal vigsel 1873: brudgommens far 'Josef Berg'; FT 1875 född 'Lerhol Sverige'; patronymikon Josefsen; bror till Olaf (fadder) – modern ej angiven i norsk källa, Brunskog-dop 1846 ej läst"
+ },
+ {
+  "id": "s-no_august_josefsen_berg46-no_olaf_josephsen44",
+  "type": "sibling",
+  "a": "no_august_josefsen_berg46",
+  "b": "no_olaf_josephsen44",
+  "status": "strong",
+  "basis": "båda 'Josefsen Berg', far 'Josef Berg' i resp. vigsel Hurdal 1873; August fadder vid Olafs barns dop 1873 och 1876"
+ },
+ {
+  "id": "s-no_august_josefsen_berg46-no_emanuel_josefsen57",
+  "type": "sibling",
+  "a": "no_august_josefsen_berg46",
+  "b": "no_emanuel_josefsen57",
+  "status": "verified",
+  "basis": "FT 1875 Hurdal: Emanuel Josefsen 'August Josefsens Broder'"
+ },
+ {
+  "id": "c-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol-no_emanuel_josefsen57",
+  "type": "child",
+  "parents": [
+   "ar2_josef_berg_lerhol",
+   "ar2_cajsa_olsd_lerhol"
+  ],
+  "child": "no_emanuel_josefsen57",
+  "status": "strong",
+  "basis": "FT 1875: 'August Josefsens Broder', f. 1857 Lerhol, patronymikon Josefsen; modern ej angiven"
+ },
+ {
+  "id": "c-ar2_josef_berg_lerhol-ar2_cajsa_olsd_lerhol-no_emma_berg49",
+  "type": "child",
+  "parents": [
+   "ar2_josef_berg_lerhol",
+   "ar2_cajsa_olsd_lerhol"
+  ],
+  "child": "no_emma_berg49",
+  "status": "strong",
+  "basis": "Hurdal vigsel 1882: brurs far 'Josef Eriksen Berg, Murer', bruden f. 1849 Brunskog; modern ej angiven"
+ },
+ {
+  "id": "s-no_august_josefsen_berg46-no_emma_berg49",
+  "type": "sibling",
+  "a": "no_august_josefsen_berg46",
+  "b": "no_emma_berg49",
+  "status": "strong",
+  "basis": "samma far Josef (Eriksen) Berg enl. vigslar 1873 och 1882; August trolovare vid Emmas vigsel"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_charlotte_augustsd74",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_charlotte_augustsd74",
+  "status": "verified",
+  "basis": "FT 1875 Hurdal: 'Charlotte Augustsdatter' 1874 Hurdalen, d (ej i hushållet 1891). (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_anna_augustsd77",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_anna_augustsd77",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Anna Augustsdt. Berg' 1877 Hurdalen, Datter. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_hulda_augustsd80",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_hulda_augustsd80",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Hulda Augustsdtr. Berg' 1880 Hurdalen, Datter. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_vilhelm_augustsen82",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_vilhelm_augustsen82",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Vilhelm Augustsen Berg' 1882 Hurdalen, Søn. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_marie_augustsd85",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_marie_augustsd85",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Marie Augustsdtr. Berg' 1885 Hurdalen, Datter. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_gustavadolf_augustsen87",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_gustavadolf_augustsen87",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Gustov Adolf Augustsen Berg' 1887 Hurdalen, Søn. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "c-no_august_josefsen_berg46-no_karenjustine_hermansd55-no_karljohan_augustsen90",
+  "type": "child",
+  "parents": [
+   "no_august_josefsen_berg46",
+   "no_karenjustine_hermansd55"
+  ],
+  "child": "no_karljohan_augustsen90",
+  "status": "verified",
+  "basis": "FT 1891 Hurdal: 'Karl Johan Augustsen Berg' f. 'mai 1890' Hurdalen, Søn. (folkräkning med familjeställning)"
+ },
+ {
+  "id": "p-no_gulbrand_gundersen41-no_kaisa_ellefsd42",
+  "type": "partner",
+  "a": "no_gulbrand_gundersen41",
+  "b": "no_kaisa_ellefsd42",
+  "status": "verified",
+  "basis": "Gamle Aker vigsel 5/6 1865 s.149 nr 31; FT 1875 hf/hu i samma hushåll"
+ },
+ {
+  "id": "c-no_gulbrand_gundersen41-no_kaisa_ellefsd42-no_carloluf_gundersen68",
+  "type": "child",
+  "parents": [
+   "no_gulbrand_gundersen41",
+   "no_kaisa_ellefsd42"
+  ],
+  "child": "no_carloluf_gundersen68",
+  "status": "verified",
+  "basis": "FT 1875 Kristiania Maridalsveien 56 hush. 06: barn (s/d) till hf Gulbrand Gundersen och hu Kaisa Gundersen"
+ },
+ {
+  "id": "c-no_gulbrand_gundersen41-no_kaisa_ellefsd42-no_almaelevine_gundersen71",
+  "type": "child",
+  "parents": [
+   "no_gulbrand_gundersen41",
+   "no_kaisa_ellefsd42"
+  ],
+  "child": "no_almaelevine_gundersen71",
+  "status": "verified",
+  "basis": "FT 1875 Kristiania Maridalsveien 56 hush. 06: barn (s/d) till hf Gulbrand Gundersen och hu Kaisa Gundersen"
+ },
+ {
+  "id": "c-no_gulbrand_gundersen41-no_kaisa_ellefsd42-no_lauritzalbert_gundersen72",
+  "type": "child",
+  "parents": [
+   "no_gulbrand_gundersen41",
+   "no_kaisa_ellefsd42"
+  ],
+  "child": "no_lauritzalbert_gundersen72",
+  "status": "verified",
+  "basis": "FT 1875 Kristiania Maridalsveien 56 hush. 06: barn (s/d) till hf Gulbrand Gundersen och hu Kaisa Gundersen"
+ },
+ {
+  "id": "c-no_gulbrand_gundersen41-no_kaisa_ellefsd42-no_jenysignora_gundersen75",
+  "type": "child",
+  "parents": [
+   "no_gulbrand_gundersen41",
+   "no_kaisa_ellefsd42"
+  ],
+  "child": "no_jenysignora_gundersen75",
+  "status": "verified",
+  "basis": "FT 1875 Kristiania Maridalsveien 56 hush. 06: barn (s/d) till hf Gulbrand Gundersen och hu Kaisa Gundersen"
  }
 ]
