@@ -49543,7 +49543,8 @@
    "UTVANDRING: Göteborgspolisens emigrantlistor börjar 1869 – familjen (utflyttad Frykerud 18/9 1868) finns därför inte där. Ankomstlista (Castle Garden/New York 1868) ej funnen: FamilySearch kräver inloggning.",
    "USA-namn: Nels/Nils Swenson.",
    "CENSUS (UA6): FamilySearch-indexet av 1870 läser ”Swensen” (Ancestry: ”Sausen”) och ger födelseort Sweden för alla nio. 1870/1875 års census saknar relationskolumn. 1875 bor Nils kvar i Solem med 5 av barnen – hustrun Johanna finns inte i hushållet (död 1870–75? ej bekräftat).",
-   "1880–: Nils och Johanna ej återfunna i 1880 års census eller i MN statscensus 1885 (sonen Nils 18 år bor 1885 hos systern Hilma Thompson). Ingen dödspost hittad i FamilySearch (MN County Deaths, Find a Grave-index Douglas Co.)."
+   "1880–: Nils och Johanna ej återfunna i 1880 års census eller i MN statscensus 1885 (sonen Nils 18 år bor 1885 hos systern Hilma Thompson). Ingen dödspost hittad i FamilySearch (MN County Deaths, Find a Grave-index Douglas Co.).",
+   "UB7: Ej i US Census 1880 Solem Twp (alla 129 svenskfödda i FS-indexet genomgångna; Hilmas och sonen Nils' hushåll hittat under namnet Osmondsen). Sonen Nils (13) bor 1880 hos dottern Hilma → Nils d.ä. trol. död 1875–1880. Hilmas dödsruna 1928 kallar föräldrarna ”Mr. and Mrs. Nils Swenson”; konfirmation i Moe church. Dödsdatum/grav fortfarande okänd (Solem/Moe lutherska kyrkböcker ej indexerade för död)."
   ],
   "sources": [
    {
@@ -52371,7 +52372,11 @@
    "place": "Såldebråten, Frykerud",
    "note": "A I/21b bild 221; dopbok ej kontrollerad."
   },
-  "died": {},
+  "died": {
+   "date": "1894-12-03",
+   "place": "Herman, Grant County, Minnesota (begr. Lakeside Cemetery, Herman)",
+   "note": "Find a Grave 221512112 (Olof J Swenson, f. 12 jan 1851 Värmlands län) – identitet strong, ej verified"
+  },
   "places": [
    "Såldebråten, Frykerud",
    "Nordamerika (emigrerade 1868)"
@@ -52382,7 +52387,8 @@
    "HUSFÖRHÖR A I/24b bild 102 (fol. 413): utflyttad ”Nord Amerika 68”.",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
    "OBS: ”Ole Sausen” anges f. omkr. 1849 i 1870 års census mot 12/1 1851 i husförhören – åldersavvikelse 2 år, vanligt i census.",
-   "USA-namn: Ole Swenson."
+   "USA-namn: Ole Swenson.",
+   "UB7 (strong): Find a Grave-stenen Olof J Swenson f. 12 jan 1851 Värmland stämmer med dopet 14 jan 1851 i Frykerud (FS VWHY-ZJF) och med ”O J Swenson f. 1851” i faderns hushåll i Solem 1875. Grant Co. gränsar till Douglas Co. Kandidathushållet Ole J Swenson f. 1852 i Logan, Grant Co. 1885 (hustru Rose, söner Cleveland W 1884, Eugene W 1885; FS MQXW-KJ8, MQXW-KJ6) ligger nära Herman (Clealand Swenson 12 år i Herman village 1895, FS MQ6Z-RR5) – trol. samma familj, ej bekräftat. Saknar dödsruna/föräldranamn → inte verified."
   ],
   "sources": [
    {
@@ -52412,6 +52418,14 @@
    {
     "label": "FamilySearch, MN State Census 1875, Solem, Douglas Co.: O J Swenson f. 1851 Sweden i Nils Swensons hushåll",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XXY"
+   },
+   {
+    "label": "Find a Grave, memorial 221512112: Olof J Swenson, f. 12 jan 1851 Värmlands län, Sweden, d. 3 dec 1894, begr. Lakeside Cemetery, Herman, Grant Co., MN (inga familjelänkar)",
+    "url": "https://www.findagrave.com/memorial/221512112"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Olof J Swenson, f. 12 jan 1851, d. 3 dec 1894, Lakeside Cemetery, Herman, Grant Co.",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6ZW9-QGHK"
    }
   ],
   "search": [
@@ -52542,7 +52556,9 @@
    "FIND A GRAVE 136092969 (Hilma Caroline Swenson Thompson): född ”2 Feb 1858” i Värmlands län; bio: ”Daughter of Nils & Johanne (Olsdotter) Swenson.” Dödsruna (Park Region Echo 20 sept 1928): född i Vermland, ”At the age of 10 years, she, with her parents, came to America and settled on a farm in Douglas county”; konfirmerad i Moe church; gift jan 1876 med Torge Thompson; död 11 sep 1928 på sjukhuset i Barrett. Identitet: exakt födelsedatum 2/2 1858 (A I/23 bild 305) + föräldranamn + Värmland + utvandring vid 10 års ålder (1868) – säker match (källan sekundär, därför strong på USA-uppgifterna).",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
    "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg).",
-   "UA6: dödsregistret 1928 anger fadern ”Nels Swenson” (dödsdatum 12/9; Find a Grave 11/9)."
+   "UA6: dödsregistret 1928 anger fadern ”Nels Swenson” (dödsdatum 12/9; Find a Grave 11/9).",
+   "UB7: dödsrunorna för barnen Edwin (1973) och Arnold (1978) anger modern som ”Hilma (Swenson) Thompson”; Amandas MN dödsindex 1978 moderns flicknamn SWENSON.",
+   "UB7: Dödsrunan 1928 (Find a Grave 136092969): ”daughter of Mr. and Mrs. Nils Swenson, was born in Vermland, Sweden, the 2nd day of February, 1858. At the age of 10 years, she, with her parents, came to America … confirmed by Rev. Lauritz Carlson at the Moe church … 1876 the 2nd day of January … married to Torge Thompson. This being the first marriage in the Solem congregation.” Tolv barn, 37 barnbarn. Inga syskon nämns."
   ],
   "sources": [
    {
@@ -52588,6 +52604,14 @@
    {
     "label": "FamilySearch, US Census 1910, Solem, Douglas Co.: Hilma C Thompson f. 1858 Sweden, invandrad 1868, hustru till Torge Thompson",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XRQ"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Kensington village/Solem Twp, Douglas Co., MN: Helena C Thompsen, Maka, 42 år, f. Sweden, i Torge Thompsens hushåll (gifta 24 år) med 8 barn",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PW3"
+   },
+   {
+    "label": "FamilySearch, US Census 1880, Solem (ED 12), Douglas Co., MN: Hilme Osmondsen, 22, f. Sweden, i Torge Osmondsens hushåll (med brodern Nils 13)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MZ9Q-45X"
    }
   ],
   "search": [
@@ -52788,7 +52812,9 @@
    "HUSFÖRHÖR under ”Nils Svensson N:o 1” och ”Johanna Olsd:r”: ”Nils” 67; A I/24b bild 102: utflyttad ”Nord Amerika 68”.",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
    "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg).",
-   "USA-namn: Nils Swenson."
+   "USA-namn: Nils Swenson.",
+   "UB7: I 1880 års census bor Nils (13) redan hos systern Hilma och svågern Torge (indexerat under patronymikon Osmondsen). Föräldrarna Nils och Johanna finns inte bland de 129 svenskfödda i Solem Twp 1880 (FS-index genomgånget) → trol. döda (eller utflyttade) före juni 1880.",
+   "Lead (ej bekräftat): ELCA dop Elbow Lake: Olenord Swenson f. 8/10 1896, föräldrar Nils Swenson och Anne Swenson (FS QVNR-S6B3) – kan vara hans son; vanligt namn, ej identifierat."
   ],
   "sources": [
    {
@@ -52810,6 +52836,10 @@
    {
     "label": "FamilySearch, MN State Census 1885, Solem: Nils Swenson, 18 år, f. 1867 Sweden, i svågern Terge Thompsons hushåll (systern Helena)",
     "url": "https://www.familysearch.org/ark:/61903/1:1:MQXZ-GGP"
+   },
+   {
+    "label": "FamilySearch, US Census 1880, Solem (ED 12), Douglas Co., MN, s. 470C, hushåll 8019099: Nils Osmondsen, 13 år, f. Sweden, ”Other”, i Torge Osmondsens [= Torge Thompsons] hushåll med Tore och Mary Osmondsen (63), Hilme 22 f. Sweden, Mary 3 och Anne 1",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MZ9Q-45N"
    }
   ],
   "search": [
@@ -53307,9 +53337,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1851-04-04",
+   "date": "1851-04",
    "place": "Norge",
-   "note": "Find a Grave"
+   "note": "US Census 1900: April 1851 Norway; Find a Grave 4 apr 1851"
   },
   "died": {
    "date": "1918-12-28",
@@ -53340,6 +53370,14 @@
    {
     "label": "FamilySearch, US Census 1910, Solem, Douglas Co.: Torge Thompson f. 1851 Norway, invandrad 1861, med hustru Hilma C och barn",
     "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XR3"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Kensington village/Solem Twp (ED 37), Douglas Co., MN: Torge Thompsen, Head, 49, f. apr 1851 Norway, gift 24 år",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWS"
+   },
+   {
+    "label": "FamilySearch, US Census 1880, Solem (ED 12), Douglas Co., MN: Torge Osmondsen, 29, f. Norway (indexerat under patronymikon), med föräldrarna Tore och Mary Osmondsen, hustru Hilme och döttrarna Mary 3, Anne 1",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MZ9Q-45N"
    }
   ],
   "search": [
@@ -53349,25 +53387,26 @@
  {
   "id": "marie_thompson_1876_solem",
   "name": "Marie (Mary) Thompson, gift Samuelson (1876–1969)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1876",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1876-10-10",
+   "place": "Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1969",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1969-05-19",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900 ”Dotter” + ELCA vigselpost (via Find a Grave) med föräldrarna Tarje och Hilma Thompson."
   ],
   "sources": [
    {
@@ -53377,6 +53416,18 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Marie Thompsen, Dotter, 24 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWQ"
+   },
+   {
+    "label": "Find a Grave, memorial 97055900: Marie Thompson Samuelson, f. 10 okt 1876 MN, d. 19 maj 1969 Douglas Co., begr. Immanuel Lutheran Cem., Barrett; bio citerar ELCA-kyrkobok: vigsel 21 nov 1901 Elbow Lake, far Tarje Thompson, mor Hilma Thompson, make Carl Samuelson (St Petri Lutheran, Evansville)",
+    "url": "https://www.findagrave.com/memorial/97055900"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Marie Thompson, konfirmation 7 nov 1891, född 10 okt [1876], föräldrar Torge/Hilma Thompson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-S8MD"
    }
   ],
   "search": [
@@ -53386,25 +53437,26 @@
  {
   "id": "hannah_thompson_1878_solem",
   "name": "Hannah Thompson, gift Peterson (1878–1968)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1878",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1878-04-09",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1968",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1968-04-23",
+   "place": "Pelican Lake Nursing Home, Ashby, Grant County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900 ”Dotter” + dödsruna 1968 ”daughter of Torger and Helma Thompson”."
   ],
   "sources": [
    {
@@ -53414,6 +53466,18 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Hannah S Thompsen, Dotter, 21 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PW7"
+   },
+   {
+    "label": "Find a Grave, memorial 136085306: Hannah Thompson Peterson, f. 9 apr 1878; dödsruna Park Region Echo 2 maj 1968: ”the daughter of Torger and Helma Thompson”, död 23 apr 1968, 89 år 12 dagar; make John Albert Peterson (1874–1958)",
+    "url": "https://www.findagrave.com/memorial/136085306"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Hannah Sophie Thompsen, konfirmation 29 okt 1893, föräldrar Torge/Hilma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-S89L"
    }
   ],
   "search": [
@@ -53422,26 +53486,28 @@
  },
  {
   "id": "tilda_thompson_1881_solem",
-  "name": "Tilda A. (Hilda) Thompson, gift Peterson (1881–1957)",
-  "status": "strong",
+  "name": "Tilda Amalie (Hilda, Tillie) Thompson, gift Peterson (1881–1957)",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1881",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1881-09-11",
+   "place": "Kensington, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1957",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1957-03-05",
+   "place": "Minot, Ward County, North Dakota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "UB7: ej i föräldrahemmet 1900 (19 år, trol. i tjänst/gift). Syskonrelation uttrycklig i broderns dödsruna (”one sister, Tillie”) men ingen egen census med relation till Torge funnen → strong.",
+   "VERIFIED (UB7): ELCA-konfirmationsbok 1896 med föräldrarna Torje och Hilma Thompson och födelsedatum 11/9 1881 (= Find a Grave), samt moderns dödsruna 1928 (”Mrs. Hilda Peterson, Balfour, N.D.”)."
   ],
   "sources": [
    {
@@ -53451,6 +53517,26 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "Find a Grave, memorial 10207111: Tilda A. Thompson Peterson, f. 11 sep 1881 Kensington, Douglas Co., d. 5 mar 1957 Minot, ND, begr. Balfour Cemetery (ND); länkad till föräldrarna Torge och Hilma Caroline; make Linus Robert Johansson Peterson (1871–1942)",
+    "url": "https://www.findagrave.com/memorial/10207111"
+   },
+   {
+    "label": "Find a Grave, memorial 136093595: Leonard Thompsons dödsruna 1958: ”preceded in death by two brothers, Henry and Carl, and one sister, Tillie”",
+    "url": "https://www.findagrave.com/memorial/136093595"
+   },
+   {
+    "label": "FamilySearch, US Census 1940, Logan Co., North Dakota: Tilda Peterson f. 1882 Minnesota, make Linus Peterson, barn Milton, Rueben, Kenneth, Arlo",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KM9F-JKF"
+   },
+   {
+    "label": "FamilySearch, United States, Evangelical Lutheran Church in America records ca. 1800–1900 (Elbow Lake-pastoratet, folder 41742_314912): Tilda Amalie Thompson, konfirmation 22 nov 1896, född 11/9 1881, far Torje Thompson, mor Hilma Thompson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-SYXS"
+   },
+   {
+    "label": "Find a Grave 136092969: Hilma Thompsons dödsruna (Park Region Echo 20 sep 1928) räknar bland överlevande barn ”Mrs. Hilda Peterson, Balfour, N.D.”",
+    "url": "https://www.findagrave.com/memorial/136092969"
    }
   ],
   "search": [
@@ -53460,25 +53546,26 @@
  {
   "id": "selma_thompson_1882_solem",
   "name": "Selma Thompson, gift Syvertson (1882–1966)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1882",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1882-06-27",
+   "place": "Solem Township, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1966",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1966-04-20",
+   "place": "Douglas County Hospital, Alexandria, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): dödsruna 1966 ”the daughter of Torge and Helma Thompson”. Ej i föräldrahemmet 1900."
   ],
   "sources": [
    {
@@ -53488,6 +53575,10 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "Find a Grave, memorial 119910447: Selma Thompson Syvertson; dödsruna Park Region Echo 5 maj 1966: ”born in Solem township June 27, 1882, the daughter of Torge and Helma Thompson … united in marriage to Ole Syvertson”; maken Ole död 1920; begr. St. Petri Cemetery, Alexandria",
+    "url": "https://www.findagrave.com/memorial/119910447"
    }
   ],
   "search": [
@@ -53497,25 +53588,26 @@
  {
   "id": "amanda_thompson_1886_solem",
   "name": "Amanda Thompson, gift Alvstad (1886–1978)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1886",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1886-01-16",
+   "place": "Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1978",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1978-12-18",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900 ”Dotter” + MN dödsindex 1978 moderns flicknamn SWENSON."
   ],
   "sources": [
    {
@@ -53525,6 +53617,14 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Amanda Thompsen, Dotter, 14 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWW"
+   },
+   {
+    "label": "Find a Grave, memorial 50117943: Amanda Thompson Alvstad, f. 16 jan 1886, d. 18 dec 1978; bio: MN Official Marriage System Knute Alvstad × Amanda Thompson 27 dec 1908 Douglas Co. cert. H-540; MNHS dödsindex 1978-MN-031004, Mother's Maiden Name SWENSON; begr. Peace Lutheran Cem., Barrett",
+    "url": "https://www.findagrave.com/memorial/50117943"
    }
   ],
   "search": [
@@ -53534,25 +53634,26 @@
  {
   "id": "henry_theodore_thompson_1887_solem",
   "name": "Henry Theodore Thompson (1887–1934)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1887",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1887-09-10",
+   "place": "Douglas County, Minnesota",
+   "note": "ELCA-dopbok (QVNR-S5X8): Birth Date ”10 9 87”, dop ”9 10 87” (indexet visar född 10 sep, döpt 9 okt 1887)"
   },
   "died": {
-   "date": "1934",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1934-10",
+   "place": "Manitoba, Kanada",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): ”Son” i census 1900 och 1910."
   ],
   "sources": [
    {
@@ -53562,6 +53663,22 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Henry T Thompsen, Son, 13 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PW4"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co., MN, ark 1B: Henry Thompson, Son, 22 år, f. Minnesota i Torge Thompsons hushåll (hustru Hilma C f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XR7"
+   },
+   {
+    "label": "Find a Grave, memorial 167692910: Henry Theodore Thompson, f. 1887 Kensington, d. okt 1934 Manitoba, begr. Mountview Cemetery, Silverwood; makor Selma Amanda Wolley (1889–1916, g. 1912) och Maude Alice Bailey Donaldson (1902–1966, g. 1923)",
+    "url": "https://www.findagrave.com/memorial/167692910"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake): Henry Theodor Thompson, dop 9 okt 1887, född 10 sep 1887, far Torge Thompson, mor Hilma C Thompson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-S5X8"
    }
   ],
   "search": [
@@ -53570,26 +53687,27 @@
  },
  {
   "id": "carl_a_thompson_1890_solem",
-  "name": "Carl A. Thompson (1890–1909)",
-  "status": "strong",
+  "name": "Carl Arthur Thompson (1890–1909)",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1890",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1890-02-26",
+   "place": "Douglas County, Minnesota",
+   "note": "ELCA-dopbok (QVNR-S5NX)"
   },
   "died": {
-   "date": "1909",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1909-04-25",
+   "place": "Fergus Falls, Otter Tail County, Minnesota",
+   "note": "Minnesota Deaths 1887–2001 (FS H23H-G1MM): död 25 april 1909 Fergus Falls (stämmer med notisens ”Sunday morning”); Find a Grave anger 29 apr = tidningsdatum"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900 ”Son” + dödsnotis 1909. FaG anger död 29 apr 1909 (= tidningens datum); notisen säger ”Sunday morning” → trol. söndag 25 apr 1909 (ej bekräftat)."
   ],
   "sources": [
    {
@@ -53599,6 +53717,22 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Carl A Thompsen, Son, 10 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWH"
+   },
+   {
+    "label": "Find a Grave, memorial 136092689: Carl A. Thompson, f. feb 1890, d. Fergus Falls 1909; dödsnotis Alexandria Post News 29 apr 1909: ”Carl Thompson, son of Mr. and Mrs. Torge Thompson, died at the hospital for the insane at Fergus Falls Sunday morning”; begr. Solem (norska lutherska kyrkan norr om stan)",
+    "url": "https://www.findagrave.com/memorial/136092689"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Carl Arthur Thompson, dop 30 mar 1890, född 26 feb 1890, föräldrar Torge/Hilma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-S5NX"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths 1887–2001: Carl Thompson, död 25 apr 1909 Fergus Falls, Otter Tail Co.",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:H23H-G1MM"
    }
   ],
   "search": [
@@ -53608,25 +53742,26 @@
  {
   "id": "ella_j_thompson_1892_solem",
   "name": "Ella J. Thompson, gift Ranstedt (1892–1972)",
-  "status": "strong",
+  "status": "verified",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1892",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1892-06-27",
+   "place": "Solem Township, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1972",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1972-03-08",
+   "place": "Brainerd, Crow Wing County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900/1910 ”Dotter” + dödsruna 1972."
   ],
   "sources": [
    {
@@ -53636,6 +53771,18 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Ella J Thompsen, Dotter, 8 år, f. Minnesota i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWC"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co., MN, ark 1B: Ella Thompson, Dotter, 17 år i Torge Thompsons hushåll (hustru Hilma C f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XRW"
+   },
+   {
+    "label": "Find a Grave, memorial 136085753: Ella J. Thompson Ranstedt; dödsruna: ”born June 27, 1892, the daughter of Torge and Hilma Thompson in Solem Township … married Emil Ranstedt February 5, 1920”; 4 barn Yvonne, Dorland, Aurolea, Estelle; begr. Solem Lutheran Cemetery",
+    "url": "https://www.findagrave.com/memorial/136085753"
    }
   ],
   "search": [
@@ -53645,25 +53792,26 @@
  {
   "id": "leonard_thompson_1894_solem",
   "name": "Leonard Thompson (1894–1958)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1894",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1894-06-20",
+   "place": "Solem Township, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1958",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1958-03-06",
+   "place": "University of Minnesota Hospital, Minneapolis",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900/1910 ”Son” + dödsruna 1958."
   ],
   "sources": [
    {
@@ -53673,6 +53821,22 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Lenord Thompsen, Son, 6 år i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PWZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co., MN, ark 1B: Lenard E Thompson, Son, 14 år i Torge Thompsons hushåll (hustru Hilma C f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XR4"
+   },
+   {
+    "label": "Find a Grave, memorial 136093595: Leonard Thompson; dödsruna Park Region Echo 20 mar 1958: ”born in Solem township on June 20, 1894, the son of Torge and Hilma Thompson”; tio år farmare i Manitoba; dotter Mildred (Mrs. Carl Enberg); hustru Rella (Pearson)",
+    "url": "https://www.findagrave.com/memorial/136093595"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Leonard Thompsen, dop 15 jul 1894, född 20 jun 1894, föräldrar Torge/Hilma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-SJKY"
    }
   ],
   "search": [
@@ -53682,25 +53846,26 @@
  {
   "id": "edwin_eugene_thompson_1898_solem",
   "name": "Edwin Eugene Thompson (1898–1973)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1898",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1898-07-27",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1973",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1973-12-04",
+   "place": "Urness Township, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1900/1910 ”Son” + dödsruna 1973."
   ],
   "sources": [
    {
@@ -53710,6 +53875,22 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1900, Solem Township/Kensington village (ED 37), Douglas Co., MN, ark 4B rad 79 ff.: Edwin E Thompsen, Son, 2 år i Torge Thompsens hushåll (Head Torge f. apr 1851 Norway, Helena C maka f. Sweden, gifta 24 år)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M9S7-PW8"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co., MN, ark 1B: Edwin E Thompson, Son, 12 år i Torge Thompsons hushåll (hustru Hilma C f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XRH"
+   },
+   {
+    "label": "Find a Grave, memorial 136092950: Edwin Eugene Thompson; dödsruna Lake Region Echo 19 dec 1973: ”born on July 27, 1898 the son of Torge and Hilma (Swenson) Thompson”; gift 6 maj 1939 med Adeline Mattson; barn Ardyce, Muriel, Earl",
+    "url": "https://www.findagrave.com/memorial/136092950"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Edwin Eugene Thompsen, dop 28 aug 1898, född 27 jul 1898, föräldrar Torge/Hilma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-SFPV"
    }
   ],
   "search": [
@@ -53719,25 +53900,26 @@
  {
   "id": "arnold_w_thompson_1900_solem",
   "name": "Arnold W. Thompson (1900–1978)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1900",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1900-07-13",
+   "place": "Solem Township, Douglas County, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "died": {
-   "date": "1978",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1978-10-05",
+   "place": "Douglas County Hospital, Alexandria, Minnesota",
+   "note": "Find a Grave/dödsruna"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "VERIFIED (UB7): census 1910 ”Son” + dödsruna 1978."
   ],
   "sources": [
    {
@@ -53747,6 +53929,18 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co., MN, ark 1B: Arnald W Thompson, Son, 10 år i Torge Thompsons hushåll (hustru Hilma C f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XRC"
+   },
+   {
+    "label": "Find a Grave, memorial 136092683: Arnold W. Thompson; dödsruna Lake Region Press 19 okt 1978: ”born in Solem Township on July 13, 1900, the son of Torge and Hilma (Swenson) Thompson … united in marriage to Elsie Schultz on June 14, 1922”; söner Francis och Roy",
+    "url": "https://www.findagrave.com/memorial/136092683"
+   },
+   {
+    "label": "FamilySearch, ELCA records ca. 1800–1900 (Elbow Lake-pastoratet): Arnold Webster Thompson, dop 2 sep 1900, född 13 jul 1900, föräldrar Torge/Hilma",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVNR-S5L4"
    }
   ],
   "search": [
@@ -53760,21 +53954,22 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1905",
-   "place": "Solem township, Douglas County, Minnesota (trol.)",
-   "note": "Find a Grave"
+   "date": "1905-08-03",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave 136326314"
   },
   "died": {
-   "date": "1905",
-   "place": "",
-   "note": "Find a Grave"
+   "date": "1905-08-03",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave 136326314 (född och död samma dag)"
   },
   "places": [
    "Douglas County, Minnesota"
   ],
   "summary": "Barn till Torge Thompson och Hilma Caroline Swenson (f. 1858 Såldebråten, Frykerud).",
   "notes": [
-   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern)."
+   "Länkad som barn på Hilma Caroline Swenson Thompsons Find a Grave-sida (136092969) och nämnd i dödsrunan 1928 (Carl och Lloyd döda före modern).",
+   "UB7: Find a Grave 136326314: född och död 3 aug 1905, begr. Solem Lutheran Cemetery. Ej i census (död före 1910) – kvar som strong."
   ],
   "sources": [
    {
@@ -53784,6 +53979,10 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths 1887–2001: Lloyd Thompson, död 3 aug 1905 Solem Township, Douglas Co. (föräldrar Torge/Hilma enligt sökträff)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:WGRQ-3R2M"
    }
   ],
   "search": [
@@ -54555,6 +54754,10 @@
    {
     "label": "FamilySearch, Canada Census of Northwest Provinces 1906, Winnipeg: Anton Nordstrom f. 1874 Sverige, hustru Jennie, dotter Vera",
     "url": "https://www.familysearch.org/ark:/61903/1:1:KHJY-CG3"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1918,034107: HOLST, JOHN ANGUS x NORDSTROM, VERA ELIZABETH, 19/06/1918, Odanah",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "died": {
@@ -54581,11 +54784,16 @@
   ],
   "summary": "Barn till Anton Nordstrom och Martha Janet Peterson.",
   "notes": [
-   "MB VITAL STATISTICS födelse 1899-004418: ”NORDSTROM LILLIAN GLADYS, 25/03/1899, WINNIPEG; Mother PETERSON MARTHA JEANETTE”."
+   "MB VITAL STATISTICS födelse 1899-004418: ”NORDSTROM LILLIAN GLADYS, 25/03/1899, WINNIPEG; Mother PETERSON MARTHA JEANETTE”.",
+   "UB7: gift 1922-12-27 i Minnedosa med Hilbert Carl Enquist (MB vigsel 1922,045268)."
   ],
   "sources": [
    {
     "label": "Manitoba Vital Statistics, födelse reg. 1899-004418",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1922,045268: ENQUIST, HILBERT CARL x NORDSTROM, LILLIAN GLADYS, 27/12/1922, Minnedosa",
     "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
@@ -54642,7 +54850,8 @@
   "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson.",
   "notes": [
    "MB födelse 1905-008460: ”PAUL MILTON, 21/02/1905, WINNIPEG; Mother PETERSON JENNIE”.",
-   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”).",
+   "UB7: gift 1939-10-16 i Minnedosa med Elsie Elizabeth Gordon (MB vigsel 1939,039747)."
   ],
   "sources": [
    {
@@ -54652,6 +54861,10 @@
    {
     "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1939,039747: NORDSTROM, PAUL MILTON x GORDON, ELSIE ELIZABETH, 16/10/1939, Minnedosa",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "search": [
@@ -54661,7 +54874,7 @@
  {
   "id": "ua5_edna_maud_nordstrom_1906",
   "name": "Edna Maud Nordstrom (f. 1906 Winnipeg)",
-  "status": "candidate",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -54671,19 +54884,29 @@
   "places": [
    "Winnipeg"
   ],
-  "summary": "Troligen barn till Anton Nordstrom och Martha Janet Peterson (modern indexerad som ”Mary Jane” Peterson).",
+  "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson; död 21 dagar gammal i Winnipeg.",
   "notes": [
-   "MB födelse 1906-007065: ”EDNA MAUD, 24/11/1906, WINNIPEG; Mother PETERSON MARY JANE”. Förnamnet avviker (Mary Jane mot Martha Janet/Jennie) – därför candidate."
+   "MB födelse 1906-007065: ”EDNA MAUD, 24/11/1906, WINNIPEG; Mother PETERSON MARY JANE”. Förnamnet avviker (Mary Jane mot Martha Janet/Jennie) – därför candidate.",
+   "UB7: Dödsregistret (Edna Mary, 21 dagar, död 14/12 1906) passar exakt födelsen 24/11 1906 (Edna Maud, mor ”Mary Jane” Peterson). Familjen bodde i Winnipeg 1899–1908 och barnet faller i luckan mellan Paul (feb 1905) och Liola (jul 1908); syskonen Walter (1904) och Liola (1908) dog också späda i Winnipeg. Moderns förnamn ”Mary Jane” = felindexering av Martha Janet/Jennie → strong."
   ],
   "sources": [
    {
     "label": "Manitoba Vital Statistics, födelse 1906-007065",
     "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Manitoba Vital Statistics, död reg. 1906-002300: Edna Mary Nordstrom, död 14/12/1906 Winnipeg, 21 dagar",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "search": [
    "Edna Maud Nordstrom (f. 1906 Winnipeg)"
-  ]
+  ],
+  "died": {
+   "date": "1906-12-14",
+   "place": "Winnipeg, Manitoba",
+   "note": "MB Vital Statistics död 1906-002300: ”NORDSTROM EDNA MARY, 14/12/1906, 21 DAYS, FEMALE, WPG”"
+  }
  },
  {
   "id": "ua5_liola_edith_nordstrom_1908",
@@ -54734,7 +54957,8 @@
   "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson; familjen nu i Minnedosa-trakten.",
   "notes": [
    "MB födelse 1912-005005: ”CLARENCE HEMMING ANTHONY, 31/01/1912, R.M. OF ODANAH; Mother PETERSON JENNIE”.",
-   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”).",
+   "UB7: gift 1939-05-31 i R.M. of Saskatchewan (Rapid City-trakten), Manitoba med Gladys Anzonetta Robertson (MB vigsel 1939,023627)."
   ],
   "sources": [
    {
@@ -54744,6 +54968,10 @@
    {
     "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1939,023627: NORDSTROM, CLARENCE HENNING x ROBERTSON, GLADYS ANZONETTA, 31/05/1939, R.M. of Saskatchewan (Rapid City-trakten), Manitoba",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "search": [
@@ -54766,7 +54994,8 @@
   "summary": "Barn till Anton Nordstrom och Martha Janette Peterson.",
   "notes": [
    "MB födelse 1915-209565: ”EVA ASTRID EVANGELINE, 17/11/1915, R.M. OF ODANAH; Mother PETERSON MARTHA JANETTE”.",
-   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”).",
+   "UB7: gift 1940-06-14 i Brandon med George Robert Holden (MB vigsel 1940,023016)."
   ],
   "sources": [
    {
@@ -54776,6 +55005,10 @@
    {
     "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1940,023016: HOLDEN, GEORGE ROBERT x NORDSTROM, EVA ASTRID EVANGELINE, 14/06/1940, Brandon",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "search": [
@@ -54854,8 +55087,8 @@
  },
  {
   "id": "ua5_john_august_holt",
-  "name": "John August Holt (make till Vera Nordstrom)",
-  "status": "candidate",
+  "name": "John Angus Holst (make till Vera Nordstrom)",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {},
@@ -54864,12 +55097,17 @@
   ],
   "summary": "Nämnd i Vera Elizabeth Holts dödsregistrering 1967; troligen hennes (avlidne) make.",
   "notes": [
-   "UA5 – BC death reg. 67-09-009616 (Vera Elizabeth Holt): annan person på posten ”John August Holt”; Vera var ”Widowed”. Relationen ej uttryckt i indexet → candidate."
+   "UA5 – BC death reg. 67-09-009616 (Vera Elizabeth Holt): annan person på posten ”John August Holt”; Vera var ”Widowed”. Relationen ej uttryckt i indexet → candidate.",
+   "UB7: Manitobas vigselregister ger namnet John ANGUS HOLST (inte ”John August Holt”); vigsel 19 juni 1918 i R.M. of Odanah (Minnedosa-trakten), där Nordstroms bodde. Kontrollera om Veras efternamn i senare källor är Holst eller Holt."
   ],
   "sources": [
    {
     "label": "FamilySearch, BC Death Registrations 1967 reg. 67-09-009616: Vera Elizabeth Holt f. 26 Feb 1897 Manitoba, far Anton Nordstrom, mor Janet Peterson",
     "url": "https://www.familysearch.org/ark:/61903/1:1:FLBJ-93R"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1918,034107: HOLST, JOHN ANGUS x NORDSTROM, VERA ELIZABETH, 19/06/1918, Odanah",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
    }
   ],
   "search": [
@@ -55954,6 +56192,1298 @@
   ],
   "search": [
    "Carol Wesly Okerman (1916–1994)"
+  ]
+ },
+ {
+  "id": "carl_samuelson_1873_barrett",
+  "name": "Carl Samuelson (1873–1916, Barrett, Grant Co., MN)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1873-02-10",
+   "place": "Barrett, Grant County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1916-02-15",
+   "place": "Grant County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Make till Marie Thompson (g. 21 nov 1901 Elbow Lake). Föräldrar Edward Anton Marcus Samuelson och Elen Gurina Johnsdatter. MNHS dödscertifikat 1916-MN-004920.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 97055838: Carl Samuelson (1873–1916, Barrett, Grant Co., MN), f. 1873-02-10 Barrett, Grant County, Minnesota, d. 1916-02-15 Grant County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/97055838"
+   }
+  ],
+  "search": [
+   "Carl Samuelson (1873–1916, Barrett, Grant Co., MN)"
+  ]
+ },
+ {
+  "id": "john_albert_peterson_1874_todd",
+  "name": "John Albert Peterson (1874–1958)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1874-08-12",
+   "place": "Birchdale Township, Todd County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1958-10-08",
+   "place": "Sauk Centre, Stearns County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Hotellägare i Barrett, sedan farmare vid Kensington och verkstadsarbetare i Brainerd; gift 4 okt 1903 med Hannah Thompson.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136085286: John Albert Peterson (1874–1958), f. 1874-08-12 Birchdale Township, Todd County, Minnesota, d. 1958-10-08 Sauk Centre, Stearns County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/136085286"
+   }
+  ],
+  "search": [
+   "John Albert Peterson (1874–1958)"
+  ]
+ },
+ {
+  "id": "linus_robert_peterson_1871",
+  "name": "Linus Robert Johansson Peterson (1871–1942, Balfour, ND)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1871-06-07",
+   "place": "Sverige",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1942-09-11",
+   "place": "Balfour, McHenry County, North Dakota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Svenskfödd make till Tilda Thompson; bodde i North Dakota (Logan Co. 1940, Balfour).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 10207113: Linus Robert Johansson Peterson (1871–1942, Balfour, ND), f. 1871-06-07 Sverige, d. 1942-09-11 Balfour, McHenry County, North Dakota",
+    "url": "https://www.findagrave.com/memorial/10207113"
+   }
+  ],
+  "search": [
+   "Linus Robert Johansson Peterson (1871–1942, Balfour, ND)"
+  ]
+ },
+ {
+  "id": "ole_syvertson_1876_vaga",
+  "name": "Ole Syvertson (Severson) (1876–1921, Urness Twp)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1876-02-02",
+   "place": "Vågå, Gudbrandsdalen, Norge",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1921-03-28",
+   "place": "Urness Township, Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Norskfödd farmare i Urness township, make till Selma Thompson. Dödsruna: död måndag 28 mars [1921], 45 år 1 mån 26 dagar. (Selmas dödsruna säger felaktigt 1920.)",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 119910433: Ole Syvertson (Severson) (1876–1921, Urness Twp), f. 1876-02-02 Vågå, Gudbrandsdalen, Norge, d. 1921-03-28 Urness Township, Douglas County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/119910433"
+   }
+  ],
+  "search": [
+   "Ole Syvertson (Severson) (1876–1921, Urness Twp)"
+  ]
+ },
+ {
+  "id": "knute_n_alvstad_1876",
+  "name": "Knute N. Alvstad (1876–1967)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1876-05-02",
+   "place": "Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1967-03-16",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Make till Amanda Thompson, gifta 27 dec 1908 i Douglas Co.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 50117789: Knute N. Alvstad (1876–1967), f. 1876-05-02 Minnesota, d. 1967-03-16 Douglas County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/50117789"
+   }
+  ],
+  "search": [
+   "Knute N. Alvstad (1876–1967)"
+  ]
+ },
+ {
+  "id": "selma_amanda_wolley_1889",
+  "name": "Selma Amanda Wolley Thompson (1889–1916)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1889-06-11",
+   "place": "Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1916-06-07",
+   "place": "Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Första hustru till Henry Theodore Thompson (g. 1912); död i tuberkulos 1916, begr. Solem Lutheran Cemetery.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136134241: Selma Amanda Wolley Thompson (1889–1916), f. 1889-06-11 Minnesota, d. 1916-06-07 Douglas County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/136134241"
+   }
+  ],
+  "search": [
+   "Selma Amanda Wolley Thompson (1889–1916)"
+  ]
+ },
+ {
+  "id": "maude_alice_bailey_1902",
+  "name": "Maude Alice Bailey (Thompson, Donaldson) (1902–1966)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1966",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Andra hustru till Henry Theodore Thompson (g. 1923), Manitoba; begr. Mountview Cemetery, Silverwood.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 167692909: Maude Alice Bailey (Thompson, Donaldson) (1902–1966), f. 1902, d. 1966",
+    "url": "https://www.findagrave.com/memorial/167692909"
+   }
+  ],
+  "search": [
+   "Maude Alice Bailey (Thompson, Donaldson) (1902–1966)"
+  ]
+ },
+ {
+  "id": "emil_ranstedt_1890_urness",
+  "name": "Emil Ranstedt (1890–1944)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1890",
+   "place": "Urness Township, Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1944-02-17",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Make till Ella J. Thompson (g. 5 feb 1920); tidigare gift med Ida M. Dunham (1913) och Alphia Underdahl (1918, d. 1919). Begr. Long Island National Cemetery.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 82628771: Emil Ranstedt (1890–1944), f. 1890 Urness Township, Douglas County, Minnesota, d. 1944-02-17",
+    "url": "https://www.findagrave.com/memorial/82628771"
+   }
+  ],
+  "search": [
+   "Emil Ranstedt (1890–1944)"
+  ]
+ },
+ {
+  "id": "rella_margaret_pearson_1902",
+  "name": "Rella Margaret Mary Pearson (Thompson, Osterberg) (1902–1980)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902-08-27",
+   "place": "Manitoba, Kanada",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1980-05-05",
+   "place": "Volusia County, Florida",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Hustru till Leonard Thompson (mor till Mildred f. 1924); omgift 1939 med Edwin Osterberg; begr. Brandon Cemetery (MB).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 52875378: Rella Margaret Mary Pearson (Thompson, Osterberg) (1902–1980), f. 1902-08-27 Manitoba, Kanada, d. 1980-05-05 Volusia County, Florida",
+    "url": "https://www.findagrave.com/memorial/52875378"
+   }
+  ],
+  "search": [
+   "Rella Margaret Mary Pearson (Thompson, Osterberg) (1902–1980)"
+  ]
+ },
+ {
+  "id": "elsie_a_schultz_1902",
+  "name": "Elsie A. Schultz Thompson (1902–1979)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1902-01-14",
+   "place": "Leaf Valley, Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1979-02-21",
+   "place": "Alexandria, Douglas County, Minnesota",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Dotter till Carl och Hulda (Kitzman) Schultz; gift 14 juni 1922 med Arnold W. Thompson.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136092963: Elsie A. Schultz Thompson (1902–1979), f. 1902-01-14 Leaf Valley, Douglas County, Minnesota, d. 1979-02-21 Alexandria, Douglas County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/136092963"
+   }
+  ],
+  "search": [
+   "Elsie A. Schultz Thompson (1902–1979)"
+  ]
+ },
+ {
+  "id": "adeline_lenore_mattson_1922",
+  "name": "Adeline Lenore Mattson Thompson (1922–1984)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1922",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1984",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Gift 6 maj 1939 med Edwin Eugene Thompson.",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136092671: Adeline Lenore Mattson Thompson (1922–1984), f. 1922, d. 1984",
+    "url": "https://www.findagrave.com/memorial/136092671"
+   }
+  ],
+  "search": [
+   "Adeline Lenore Mattson Thompson (1922–1984)"
+  ]
+ },
+ {
+  "id": "morris_t_samuelson_1903",
+  "name": "Morris T. Samuelson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1903",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1981",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136034869: Morris T. Samuelson, f. 1903, d. 1981",
+    "url": "https://www.findagrave.com/memorial/136034869"
+   }
+  ],
+  "search": [
+   "Morris T. Samuelson"
+  ]
+ },
+ {
+  "id": "mildred_c_samuelson_1906",
+  "name": "Mildred C. Samuelson (gift Nelson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1906",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2002",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136082738: Mildred C. Samuelson (gift Nelson), f. 1906, d. 2002",
+    "url": "https://www.findagrave.com/memorial/136082738"
+   }
+  ],
+  "search": [
+   "Mildred C. Samuelson (gift Nelson)"
+  ]
+ },
+ {
+  "id": "valance_a_samuelson_1913",
+  "name": "Valance A. Samuelson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1913",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2000",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 97216468: Valance A. Samuelson, f. 1913, d. 2000",
+    "url": "https://www.findagrave.com/memorial/97216468"
+   }
+  ],
+  "search": [
+   "Valance A. Samuelson"
+  ]
+ },
+ {
+  "id": "lorrel_samuelson_1915",
+  "name": "Lorrel Samuelson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1915",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1997",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 97216445: Lorrel Samuelson, f. 1915, d. 1997",
+    "url": "https://www.findagrave.com/memorial/97216445"
+   }
+  ],
+  "search": [
+   "Lorrel Samuelson"
+  ]
+ },
+ {
+  "id": "kenneth_lincoln_peterson_1911",
+  "name": "Kenneth Lincoln ”Ken” Peterson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1911",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1979",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 177550070: Kenneth Lincoln ”Ken” Peterson, f. 1911, d. 1979",
+    "url": "https://www.findagrave.com/memorial/177550070"
+   }
+  ],
+  "search": [
+   "Kenneth Lincoln ”Ken” Peterson"
+  ]
+ },
+ {
+  "id": "reuben_webster_peterson_1915",
+  "name": "Reuben Webster Peterson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1915",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1980",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 189100543: Reuben Webster Peterson, f. 1915, d. 1980",
+    "url": "https://www.findagrave.com/memorial/189100543"
+   }
+  ],
+  "search": [
+   "Reuben Webster Peterson"
+  ]
+ },
+ {
+  "id": "adelle_larine_peterson_1917",
+  "name": "Adelle Larine Peterson (gift Iverson, Payne)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1917",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2016",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 200329212: Adelle Larine Peterson (gift Iverson, Payne), f. 1917, d. 2016",
+    "url": "https://www.findagrave.com/memorial/200329212"
+   }
+  ],
+  "search": [
+   "Adelle Larine Peterson (gift Iverson, Payne)"
+  ]
+ },
+ {
+  "id": "hazel_loraine_syvertson_1905",
+  "name": "Hazel Loraine Syvertson (gift Rose)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1905",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1949",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 40769003: Hazel Loraine Syvertson (gift Rose), f. 1905, d. 1949",
+    "url": "https://www.findagrave.com/memorial/40769003"
+   }
+  ],
+  "search": [
+   "Hazel Loraine Syvertson (gift Rose)"
+  ]
+ },
+ {
+  "id": "orville_winston_syvertson_1908",
+  "name": "Orville Winston Syvertson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1908",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1953",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 144417255: Orville Winston Syvertson, f. 1908, d. 1953",
+    "url": "https://www.findagrave.com/memorial/144417255"
+   }
+  ],
+  "search": [
+   "Orville Winston Syvertson"
+  ]
+ },
+ {
+  "id": "evelyn_ovidia_syvertson_1910",
+  "name": "Evelyn Ovidia Syvertson (gift Johnson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1910",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1955",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 68222257: Evelyn Ovidia Syvertson (gift Johnson), f. 1910, d. 1955",
+    "url": "https://www.findagrave.com/memorial/68222257"
+   }
+  ],
+  "search": [
+   "Evelyn Ovidia Syvertson (gift Johnson)"
+  ]
+ },
+ {
+  "id": "thomas_sherman_syvertson_1912",
+  "name": "Thomas Sherman Syvertson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1912",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1956",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 144417273: Thomas Sherman Syvertson, f. 1912, d. 1956",
+    "url": "https://www.findagrave.com/memorial/144417273"
+   }
+  ],
+  "search": [
+   "Thomas Sherman Syvertson"
+  ]
+ },
+ {
+  "id": "gladys_syvertson_1913",
+  "name": "Gladys Syvertson (gift Fahlin)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1913",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2001",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 120836040: Gladys Syvertson (gift Fahlin), f. 1913, d. 2001",
+    "url": "https://www.findagrave.com/memorial/120836040"
+   }
+  ],
+  "search": [
+   "Gladys Syvertson (gift Fahlin)"
+  ]
+ },
+ {
+  "id": "lila_jeanette_syvertson_1915",
+  "name": "Lila Jeanette Syvertson (gift Mohagen)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1915",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1990",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 119901180: Lila Jeanette Syvertson (gift Mohagen), f. 1915, d. 1990",
+    "url": "https://www.findagrave.com/memorial/119901180"
+   }
+  ],
+  "search": [
+   "Lila Jeanette Syvertson (gift Mohagen)"
+  ]
+ },
+ {
+  "id": "norman_leroy_syvertson_1916",
+  "name": "Norman Leroy Syvertson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1916",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1996",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 141212736: Norman Leroy Syvertson, f. 1916, d. 1996",
+    "url": "https://www.findagrave.com/memorial/141212736"
+   }
+  ],
+  "search": [
+   "Norman Leroy Syvertson"
+  ]
+ },
+ {
+  "id": "eldora_mercedes_syvertson_1918",
+  "name": "Eldora Mercedes Syvertson (gift Meyer)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1918",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1979",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 293526243: Eldora Mercedes Syvertson (gift Meyer), f. 1918, d. 1979",
+    "url": "https://www.findagrave.com/memorial/293526243"
+   }
+  ],
+  "search": [
+   "Eldora Mercedes Syvertson (gift Meyer)"
+  ]
+ },
+ {
+  "id": "vernetta_lucille_syvertson_1920",
+  "name": "Vernetta Lucille Syvertson (gift Krautkramer, Von Utter)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1920",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1996",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 133695795: Vernetta Lucille Syvertson (gift Krautkramer, Von Utter), f. 1920, d. 1996",
+    "url": "https://www.findagrave.com/memorial/133695795"
+   }
+  ],
+  "search": [
+   "Vernetta Lucille Syvertson (gift Krautkramer, Von Utter)"
+  ]
+ },
+ {
+  "id": "vivian_loretta_alvstad_1916",
+  "name": "Vivian Loretta Alvstad",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1916",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2005",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 10783282: Vivian Loretta Alvstad, f. 1916, d. 2005",
+    "url": "https://www.findagrave.com/memorial/10783282"
+   }
+  ],
+  "search": [
+   "Vivian Loretta Alvstad"
+  ]
+ },
+ {
+  "id": "laura_adelaide_alvstad_1919",
+  "name": "Laura Adelaide Alvstad (gift Funovits)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1919",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2013",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 116068588: Laura Adelaide Alvstad (gift Funovits), f. 1919, d. 2013",
+    "url": "https://www.findagrave.com/memorial/116068588"
+   }
+  ],
+  "search": [
+   "Laura Adelaide Alvstad (gift Funovits)"
+  ]
+ },
+ {
+  "id": "lorane_virgil_alvstad_1925",
+  "name": "Lorane Virgil Alvstad",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1925",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2008",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 50004630: Lorane Virgil Alvstad, f. 1925, d. 2008",
+    "url": "https://www.findagrave.com/memorial/50004630"
+   }
+  ],
+  "search": [
+   "Lorane Virgil Alvstad"
+  ]
+ },
+ {
+  "id": "wincie_terena_thompson_1914",
+  "name": "Wincie Terena Thompson (gift Eppleston)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1914",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2005",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 152271535: Wincie Terena Thompson (gift Eppleston), f. 1914, d. 2005",
+    "url": "https://www.findagrave.com/memorial/152271535"
+   }
+  ],
+  "search": [
+   "Wincie Terena Thompson (gift Eppleston)"
+  ]
+ },
+ {
+  "id": "irene_thompson_1915",
+  "name": "Irene Thompson (gift Nelson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1915",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1985",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136082680: Irene Thompson (gift Nelson), f. 1915, d. 1985",
+    "url": "https://www.findagrave.com/memorial/136082680"
+   }
+  ],
+  "search": [
+   "Irene Thompson (gift Nelson)"
+  ]
+ },
+ {
+  "id": "lillian_a_thompson_1924",
+  "name": "Lillian A. Thompson (gift Reid)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1924",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1993",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 201016417: Lillian A. Thompson (gift Reid), f. 1924, d. 1993",
+    "url": "https://www.findagrave.com/memorial/201016417"
+   }
+  ],
+  "search": [
+   "Lillian A. Thompson (gift Reid)"
+  ]
+ },
+ {
+  "id": "margaret_e_thompson_1927",
+  "name": "Margaret E. Thompson",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1927",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1929",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 167692912: Margaret E. Thompson, f. 1927, d. 1929",
+    "url": "https://www.findagrave.com/memorial/167692912"
+   }
+  ],
+  "search": [
+   "Margaret E. Thompson"
+  ]
+ },
+ {
+  "id": "yvonne_eleanor_ranstedt_1922",
+  "name": "Yvonne Eleanor ”Randy” Ranstedt (gift Hinrichs)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1922",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1997",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 132585431: Yvonne Eleanor ”Randy” Ranstedt (gift Hinrichs), f. 1922, d. 1997",
+    "url": "https://www.findagrave.com/memorial/132585431"
+   }
+  ],
+  "search": [
+   "Yvonne Eleanor ”Randy” Ranstedt (gift Hinrichs)"
+  ]
+ },
+ {
+  "id": "dorland_eugene_ranstedt_1924",
+  "name": "Dorland Eugene Ranstedt",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1924",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1997",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 138487982: Dorland Eugene Ranstedt, f. 1924, d. 1997",
+    "url": "https://www.findagrave.com/memorial/138487982"
+   }
+  ],
+  "search": [
+   "Dorland Eugene Ranstedt"
+  ]
+ },
+ {
+  "id": "aurolea_deloris_ranstedt_1926",
+  "name": "Aurolea Deloris Ranstedt (gift Nelson)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1926",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2016",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 157862213: Aurolea Deloris Ranstedt (gift Nelson), f. 1926, d. 2016",
+    "url": "https://www.findagrave.com/memorial/157862213"
+   }
+  ],
+  "search": [
+   "Aurolea Deloris Ranstedt (gift Nelson)"
+  ]
+ },
+ {
+  "id": "estelle_loreley_ranstedt_1927",
+  "name": "Estelle Loreley Ranstedt (gift Brown)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1927",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "2023",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 250804070: Estelle Loreley Ranstedt (gift Brown), f. 1927, d. 2023",
+    "url": "https://www.findagrave.com/memorial/250804070"
+   }
+  ],
+  "search": [
+   "Estelle Loreley Ranstedt (gift Brown)"
+  ]
+ },
+ {
+  "id": "mildred_margaret_thompson_1924",
+  "name": "Mildred Margaret Thompson (gift Enberg)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1924",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1998",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 135616265: Mildred Margaret Thompson (gift Enberg), f. 1924, d. 1998",
+    "url": "https://www.findagrave.com/memorial/135616265"
+   }
+  ],
+  "search": [
+   "Mildred Margaret Thompson (gift Enberg)"
+  ]
+ },
+ {
+  "id": "francis_earl_thompson_1923",
+  "name": "Francis Earl Thompson",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1923",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "died": {
+   "date": "1995",
+   "place": "",
+   "note": "Find a Grave"
+  },
+  "places": [],
+  "summary": "Barnbarn till Torge och Hilma Thompson (Solem).",
+  "notes": [],
+  "sources": [
+   {
+    "label": "Find a Grave, memorial 136093694: Francis Earl Thompson, f. 1923, d. 1995",
+    "url": "https://www.findagrave.com/memorial/136093694"
+   }
+  ],
+  "search": [
+   "Francis Earl Thompson"
+  ]
+ },
+ {
+  "id": "ua5_hilbert_carl_enquist",
+  "name": "Hilbert Carl Enquist",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "okänt"
+  },
+  "places": [
+   "Minnedosa"
+  ],
+  "summary": "Gift 1922-12-27 i Minnedosa med Lillian Nordstrom (barn till Anton Nordstrom).",
+  "notes": [
+   "MB VIGSEL 1922,045268: ”ENQUIST, HILBERT CARL x NORDSTROM, LILLIAN GLADYS”, 1922-12-27, Minnedosa."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1922,045268: ENQUIST, HILBERT CARL x NORDSTROM, LILLIAN GLADYS, 27/12/1922, Minnedosa",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Hilbert Carl Enquist"
+  ]
+ },
+ {
+  "id": "ua5_elsie_elizabeth_gordon",
+  "name": "Elsie Elizabeth Gordon",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "okänt"
+  },
+  "places": [
+   "Minnedosa"
+  ],
+  "summary": "Gift 1939-10-16 i Minnedosa med Paul Nordstrom (barn till Anton Nordstrom).",
+  "notes": [
+   "MB VIGSEL 1939,039747: ”NORDSTROM, PAUL MILTON x GORDON, ELSIE ELIZABETH”, 1939-10-16, Minnedosa."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1939,039747: NORDSTROM, PAUL MILTON x GORDON, ELSIE ELIZABETH, 16/10/1939, Minnedosa",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Elsie Elizabeth Gordon"
+  ]
+ },
+ {
+  "id": "ua5_gladys_anzonetta_robertson",
+  "name": "Gladys Anzonetta Robertson",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "okänt"
+  },
+  "places": [
+   "R.M. of Saskatchewan (Rapid City-trakten), Manitoba"
+  ],
+  "summary": "Gift 1939-05-31 i R.M. of Saskatchewan (Rapid City-trakten), Manitoba med Clarence Nordstrom (barn till Anton Nordstrom).",
+  "notes": [
+   "MB VIGSEL 1939,023627: ”NORDSTROM, CLARENCE HENNING x ROBERTSON, GLADYS ANZONETTA”, 1939-05-31, R.M. of Saskatchewan (Rapid City-trakten), Manitoba."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1939,023627: NORDSTROM, CLARENCE HENNING x ROBERTSON, GLADYS ANZONETTA, 31/05/1939, R.M. of Saskatchewan (Rapid City-trakten), Manitoba",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Gladys Anzonetta Robertson"
+  ]
+ },
+ {
+  "id": "ua5_george_robert_holden",
+  "name": "George Robert Holden",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "",
+   "place": "",
+   "note": ""
+  },
+  "died": {
+   "date": "",
+   "place": "",
+   "note": "okänt"
+  },
+  "places": [
+   "Brandon"
+  ],
+  "summary": "Gift 1940-06-14 i Brandon med Eva Nordstrom (barn till Anton Nordstrom).",
+  "notes": [
+   "MB VIGSEL 1940,023016: ”HOLDEN, GEORGE ROBERT x NORDSTROM, EVA ASTRID EVANGELINE”, 1940-06-14, Brandon."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1940,023016: HOLDEN, GEORGE ROBERT x NORDSTROM, EVA ASTRID EVANGELINE, 14/06/1940, Brandon",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "George Robert Holden"
   ]
  }
 ]

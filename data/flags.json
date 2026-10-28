@@ -421,6 +421,28 @@
     "sofia_nilsd_1862_saldebraten",
     "olof_johan_nilsson_1851_saldebraten"
    ]
+  },
+  {
+   "title": "Tilda A. Thompson (1881): två barn i 1940 års census saknas",
+   "text": "US Census 1940 Logan Co., ND (FS KM9F-JKF) visar även sönerna Milton och Arlo Peterson hos Tilda och Linus; ej på Find a Grave, födelseår ej lästa – ej tillagda.",
+   "persons": [
+    "tilda_thompson_1881_solem"
+   ]
+  },
+  {
+   "title": "Selma Syvertson: dottern Wilma (Burns) och Amanda: Dorothy Irene (1911) ej tillagda",
+   "text": "Selmas dödsruna 1966 nämner ”Mrs. Wilma Burns of Vancouver, BC” (ej i FaG-barnlistan); Amanda Alvstads FaG-bio nämner Dorothy Irene (Alvstad) Robinson f. 1911 utan dödsår. Ej tillagda – kan leva/okänd död.",
+   "persons": [
+    "selma_thompson_1882_solem",
+    "amanda_thompson_1886_solem"
+   ]
+  },
+  {
+   "title": "Olof Johan Nilsson (1851): död 1894 i Herman, Grant Co.? – bekräfta",
+   "text": "Find a Grave 221512112 Olof J Swenson f. 12 jan 1851 Värmland, d. 3 dec 1894, Lakeside Cemetery Herman. Födelsedatum passar dopet 14/1 1851 Frykerud. Behöver dödsruna (Herman Review dec 1894) eller kyrkobok som nämner föräldrar/syskon samt bekräftelse att Ole J Swenson i Logan 1885 (hustru Rose, Cleveland W, Eugene W) är samme.",
+   "persons": [
+    "olof_johan_nilsson_1851_saldebraten"
+   ]
   }
  ],
  "conflicts": [
@@ -4751,6 +4773,14 @@
    "persons": [
     "aq1_josef_pj79",
     "aq1_hezekiel_pj83"
+   ]
+  },
+  {
+   "title": "Vera Nordstroms make heter John Angus Holst (ej John August Holt)",
+   "text": "Manitoba vigselregister 1918,034107: HOLST, JOHN ANGUS x NORDSTROM, VERA ELIZABETH, 19/6 1918 Odanah. ua5_john_august_holt bör döpas om och höjas till verified.",
+   "persons": [
+    "ua5_john_august_holt",
+    "ua5_vera_elizabeth_nordstrom_1897"
    ]
   }
  ],
