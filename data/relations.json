@@ -15630,5 +15630,145 @@
   "child": "anna_ulrika_1828_fageras",
   "status": "candidate",
   "basis": "A I/16 bild 50: ”Anna Ulrika” 26/12 1828 sist i hushållet där Stina Nilsdotter (gift maj 1828 med J. M. Svanström) bor; föräldrar ej utskrivna – kontrollera dopbok C/6 dec 1828."
+ },
+ {
+  "id": "p-hilma_carolina_nilsd_1858_saldebraten-torge_thompson_1851_solem",
+  "type": "partner",
+  "a": "hilma_carolina_nilsd_1858_saldebraten",
+  "b": "torge_thompson_1851_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092980 (Torge Thompson): ”Torge married Hilma Swenson, Jan. 2, 1876”; Hilmas dödsruna (Park Region Echo 20/9 1928, på Find a Grave 136092969): gift med Torge Thompson jan 1876, första vigseln i Solem-församlingen."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-marie_thompson_1876_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "marie_thompson_1876_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-hannah_thompson_1878_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "hannah_thompson_1878_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-tilda_thompson_1881_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "tilda_thompson_1881_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-selma_thompson_1882_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "selma_thompson_1882_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-amanda_thompson_1886_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "amanda_thompson_1886_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-henry_theodore_thompson_1887_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "henry_theodore_thompson_1887_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-carl_a_thompson_1890_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "carl_a_thompson_1890_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-ella_j_thompson_1892_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "ella_j_thompson_1892_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-leonard_thompson_1894_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "leonard_thompson_1894_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-edwin_eugene_thompson_1898_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "edwin_eugene_thompson_1898_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-arnold_w_thompson_1900_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "arnold_w_thompson_1900_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
+ },
+ {
+  "id": "c-torge_thompson_1851_solem-hilma_carolina_nilsd_1858_saldebraten-lloyd_thompson_1905_solem",
+  "type": "child",
+  "parents": [
+   "torge_thompson_1851_solem",
+   "hilma_carolina_nilsd_1858_saldebraten"
+  ],
+  "child": "lloyd_thompson_1905_solem",
+  "status": "strong",
+  "basis": "Find a Grave 136092969 (Hilma Caroline Swenson Thompson) familjelänkar + dödsruna Park Region Echo 20/9 1928 (12 barn, överlevande uppräknade); Find a Grave 136092980 (Torge Thompson) barnlista."
  }
 ]
