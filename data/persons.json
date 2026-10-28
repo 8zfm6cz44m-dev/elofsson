@@ -16919,14 +16919,15 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1885",
-   "place": "Uppsala, Uppsala län"
+   "date": "1885-07-19",
+   "place": "Uppsala"
   },
   "summary": "Hannas syster, f. 1885 i Uppsala.",
   "notes": [
    "Folkräkning 1900 Gullsbyn i August Nilssons hushåll.",
    "HUSFÖRHÖR A II a/1 (E1): Anna Maria f. 19/7 1885 Upsala, dotter hos August Nilsson, Gullsby Ängen sida 144 (bild 154 rad 12); flyttade till sida 282 ”01 6/11” (1901-11-06) – ej Amerika på denna sida. Hennes vidare öde ej spårat (sida 282 = Svartåna, bild 292).",
-   "Folkräkning 1900 Gullsbyn: ”Anna Maria, f. 1885 i Uppsala Uppsala län” i familj 1 med August Nilsson och Stina Jansdotter. Efter flytt 1901 inte funnen: Anna Maria Augustsson f. 1885 i Frykerud (1900 Skogsberg, 1910 Skållerud) och Anna f. 1885 Brunskog (Olof Olsson/Kerstin Andersdotter, Långjohanstorp) är ANDRA personer."
+   "Folkräkning 1900 Gullsbyn: ”Anna Maria, f. 1885 i Uppsala Uppsala län” i familj 1 med August Nilsson och Stina Jansdotter. Efter flytt 1901 inte funnen: Anna Maria Augustsson f. 1885 i Frykerud (1900 Skogsberg, 1910 Skållerud) och Anna f. 1885 Brunskog (Olof Olsson/Kerstin Andersdotter, Långjohanstorp) är ANDRA personer.",
+   "UB4 – HUSFÖRHÖR (primär, bildläst) A II a/1 bild 285 (sida 275, Svartåna, 'Tomta', Per Gustaf Nilssons gård) rad 22 ordagrant: 'Anna Maria Augustsd:r | p. | 85 19/7 | Ups. ?', inflyttad från '144 01' (Gullsby Ängen 1901); utflyttningskolumn: 'Amerika 06 25/5' (= utflyttad till Amerika 25 maj 1906). Rättelse: hon flyttade 1901 till sida 275 (bild 285), inte sida 282. Ingen amerikansk/kanadensisk post funnen (Ellis Island-index 1906 för Anna Augustsdotter/Augustson f. 1883–87 och Manitobas vigselregister: ingen träff)."
   ],
   "sources": [
    {
@@ -16940,9 +16941,17 @@
    {
     "label": "Riksarkivet, Brunskog folkräkning 1900 Gullsbyn (Folk_109937342): Anna Maria f. 1885 i Uppsala Uppsala län i August Nilssons hushåll",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_109937342&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1 (1896–1909), bild 285 (sida 275, Svartåna/Tomta), rad 22: 'Anna Maria Augustsd:r p. 85 19/7 Ups.?', in från 144 01, ut 'Amerika 06 25/5'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00285"
    }
   ],
-  "places": [],
+  "places": [
+   "Gullsby Ängen, Brunskog",
+   "Svartåna (Tomta), Brunskog – piga 1901–06",
+   "Amerika 1906"
+  ],
   "search": [
    "Anna Maria Augustsson"
   ]
@@ -27224,11 +27233,19 @@
    "date": "1890-12-07",
    "place": "Brunskog"
   },
-  "places": [],
+  "places": [
+   "Skog, Brunskog",
+   "Amerika 1909",
+   "Columbus, Ohio (1918)",
+   "La Porte, Indiana (1930)",
+   "Jamestown, New York"
+  ],
   "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
   "notes": [
    "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Johan Efraim, f. 1890 i Brunskog”.",
-   "HUSFÖRHÖR A II a/3 bild 184 rad 4: ”d. Johan Efraim 90 7/12 L.”; utflyttning ordagrant ”Amerika 09 8/10” (8 okt 1909; siffror något osäkra)."
+   "HUSFÖRHÖR A II a/3 bild 184 rad 4: ”d. Johan Efraim 90 7/12 L.”; utflyttning ordagrant ”Amerika 09 8/10” (8 okt 1909; siffror något osäkra).",
+   "UB4 – USA (strong): WWII-draftkort 25 apr 1942 Jamestown NY ordagrant 'Efraim Olson, Födelsedatum 07 Dec 1890, Födelseort Vermeland, Sweden', arbetsgivare Jamestown Steel Partition. WWI-draftkort Ohio 20 maj 1918 (Franklinton, Columbus) och 1917–18 (Jeddoe, Portage Co, Ohio): 'f. 7 december 1890, Verland/Verlnland, Sweden'. Veteranadministrationens masterindex: militärtjänst 6 sept 1919, f. 7 dec 1890, d. 31 aug 1955. NUMIDENT: Efraim J Olson f. 7 Dec 1890, d. 31 Aug 1955. NY State Death Index: Efraim J Olson d. 31 aug 1955. Find a Grave-index: Efraim John Olson, begravd Jamestown, Chautauqua NY, d. 31 aug 1955 (f. anges 7 dec 1891). Exakt födelsedag (7/12 1890) + Värmland + utvandring 1909 (FamilySearch-träd: invandring 1909) + Jamestown där systern Anna (g. Eriksson) bodde 1915–30 = stark match. Föräldrar ej angivna i någon post.",
+   "UB4 – Familj: folkräkning 1930 La Porte, Indiana: Efraim J Olson f. 1891 Sweden, hustru Edith V, barn Barbara A, Betty E, George. 1940 och 1950 Jamestown NY: Efraim Olson f. 1891 Sweden, hustru Edith, barn George, Betty, Barbara. FamilySearch-träd GT22-QK6 (lead): hustru Edith Victoria Gustafson (1893–1988), vigsel ca 1923 Indiana; barn George Olson (1923–1996), Betty Edith Olson (1926–1999), Barbara A Olson (1927–)."
   ],
   "sources": [
    {
@@ -27238,11 +27255,48 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 184: Johan Efraim 90 7/12, ”Amerika 09 8/10”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "FamilySearch, United States WWII Draft Registration Cards 1942: Efraim Olson f. 07 Dec 1890 Vermeland, Sweden, Jamestown NY, 25 apr 1942",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKVQ-18BQ"
+   },
+   {
+    "label": "FamilySearch, Ohio WWI Draft Registration 1918: Efraim Olson f. 7 dec 1890 Verland, Sweden, Columbus",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:7ZWJ-T4T2"
+   },
+   {
+    "label": "FamilySearch, US Social Security NUMIDENT: Efraim J Olson f. 7 Dec 1890, d. 31 Aug 1955",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K35-1Z69"
+   },
+   {
+    "label": "FamilySearch, New York State Death Index: Efraim J Olson d. 31 aug 1955",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QGR2-DXTF"
+   },
+   {
+    "label": "FamilySearch, Find a Grave-index: Efraim John Olson d. 31 aug 1955, Jamestown NY",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6PM4-LRHQ"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 La Porte, Indiana: Efraim J Olson, hustru Edith V, barn Barbara A, Betty E, George",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XH9V-LXJ"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Jamestown NY: Efraim Olson, hustru Edith, barn George, Betty, Barbara",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KQ13-LT2"
+   },
+   {
+    "label": "FamilySearch, US Veterans Administration Master Index: Efraim Olson f. 7 dec 1890, d. 31 aug 1955",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:WMKV-TNT2"
    }
   ],
   "search": [
    "Johan Efraim Olsson (f. 1890, Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1955-08-31",
+   "place": "New York (staten), USA; begravd Jamestown, Chautauqua, NY",
+   "note": "NUMIDENT + NY State Death Index + Find a Grave-index"
+  }
  },
  {
   "id": "ol_gerda_elisabet_1893",
@@ -27254,11 +27308,15 @@
    "date": "1893-04-30",
    "place": "Brunskog"
   },
-  "places": [],
+  "places": [
+   "Skog, Brunskog",
+   "Amerika 1909 (Ellis Island 21 maj 1909)"
+  ],
   "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
   "notes": [
    "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Gerda Elisabet, f. 1893 i Brunskog”.",
-   "HUSFÖRHÖR A II a/3 bild 184 rad 5: ”d. Gerda Elisabet 93 30/4”; utflyttning ordagrant ”Amerika 09 16/4” (16 april 1909; dag osäker)."
+   "HUSFÖRHÖR A II a/3 bild 184 rad 5: ”d. Gerda Elisabet 93 30/4”; utflyttning ordagrant ”Amerika 09 16/4” (16 april 1909; dag osäker).",
+   "UB4 – ELLIS ISLAND (primärkälla, index läst): 'Gerda E Olsson', kvinna, 16 år, ogift, hemort 'Brunskog, Werml, Sweden', ankomst 21 maj 1909 med S.S. Mauretania från Liverpool (T715-1271, sida 149); anhöriga: 'Olof Person – Far' och 'Johan Eriksson – Svåger' (= systern Annas make Erik Johan/John Eriksson, Jamestown NY). Namn+ålder+Brunskog+fadern+svågern = säker identitet; stämmer med husförhörets 'Amerika 09 16/4'. Senare liv (gifte, död) ej funnet: 88 Gerda f. 1892–94 i Sverige i Jamestown-folkräkningar, ingen kan knytas utan efternamn."
   ],
   "sources": [
    {
@@ -27268,6 +27326,10 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 184: Gerda Elisabet 93 30/4, ”Amerika 09 16/4”",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00184"
+   },
+   {
+    "label": "FamilySearch, New York Passenger Arrival Lists (Ellis Island): Gerda E Olsson 16, Brunskog Werml., Mauretania 21 maj 1909, far Olof Person, svåger Johan Eriksson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:JXBS-B3P"
    }
   ],
   "search": [
@@ -28487,7 +28549,7 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1883",
+   "date": "1883-06-27",
    "place": "Brunskog"
   },
   "places": [
@@ -28496,7 +28558,8 @@
   "summary": "Son i Per Gustaf Nilssons och Betty Olsdotters hushåll.",
   "notes": [
    "FOLKRÄKNING 1890/1900: Johan Fridolf f. 1883 Brunskog",
-   "FOLKRÄKNING 1900 Svartåna: ”s.” (son). 1910 Svartåna fam 2: ”Gifte son” Persson, Johan Fridolf f. 1883, gift med Alma Maria Alfredsson f. 1883 i Grava; inga barn 1910. 1930 ej funnen (ej undersökt: Amerika?)."
+   "FOLKRÄKNING 1900 Svartåna: ”s.” (son). 1910 Svartåna fam 2: ”Gifte son” Persson, Johan Fridolf f. 1883, gift med Alma Maria Alfredsson f. 1883 i Grava; inga barn 1910. 1930 ej funnen (ej undersökt: Amerika?).",
+   "UB4 – A II a/1 bild 285 (sida 275, Svartåna 'Tomta') rad 16 ordagrant: 'Johan Fridolf | Nr 344 49/04 | 83 27/6 | L.' (son till Per Gustaf Nilsson f. 46 och Betty Olsdotter f. 50 22/6 Takene; värnpliktsnummer 344/1904); ingen utflyttning 1896–1909. Ingen amerikansk post med f. 27 juni 1883 hittad i denna omgång."
   ],
   "sources": [
    {
@@ -28510,6 +28573,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1910, Brunskog, Svartåna, s. 23 rad 15 (fam 2): Persson, Johan Fridolf 1883 Brunskog, gift, ”Gifte son”; Alfredsson, Alma Maria 1883 Grava",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_125549675"
+   },
+   {
+    "label": "Riksarkivet, Brunskog församlingsbok A II a/1, bild 285 (sida 275, Svartåna/Tomta), rad 16: 'Johan Fridolf Nr 344 49/04 83 27/6'",
+    "url": "https://sok.riksarkivet.se/bildvisning/00053596_00285"
    }
   ],
   "search": [
@@ -37888,18 +37955,28 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1897",
-   "place": "Brunskog"
+   "date": "1897-05-02",
+   "place": "Takene, Brunskog",
+   "note": "FamilySearch-index till A II a/3"
   },
   "places": [],
   "summary": "Hustru till Nils Arvid Olofsson (f. 1896 Skog), g. 1929; Toltan, Brunskog 1930. Möjligen dotter till August Nilsson (Gullsby) – ej bevisat.",
   "notes": [
-   "FOLKRÄKNING 1930 Brunskog, Toltan (s. 350 i församlingsboken), fam. 1: ”Olofsson, Nils Arvid, f. 1896 i Brunskog, Hemmansägare (yrke 1925 Fabriksarbetare; gift, vigselår 1929, inflyttad 1929 från Amerika); Augustsson, Gerda Katarina, f. 1897 i Brunskog; Olofsson, Bengt Olof, f. 1928 i Brunskog; Betty Ingegärd, f. 1930 i Brunskog”."
+   "FOLKRÄKNING 1930 Brunskog, Toltan (s. 350 i församlingsboken), fam. 1: ”Olofsson, Nils Arvid, f. 1896 i Brunskog, Hemmansägare (yrke 1925 Fabriksarbetare; gift, vigselår 1929, inflyttad 1929 från Amerika); Augustsson, Gerda Katarina, f. 1897 i Brunskog; Olofsson, Bengt Olof, f. 1928 i Brunskog; Betty Ingegärd, f. 1930 i Brunskog”.",
+   "UB4 – FÖRÄLDRAR (strong, ej bildläst): FamilySearch-index till Brunskog A II a/3 (1909–1920), filmref SE-VA-13065-AIIa-3-0347-0322 (= bild 347, sida 322): 'Gerda Katrina Olsson, f. 2 May 1897, Takene', dotter i hushållet 'Toltan Labråten'; samma hushålls-index har syskonen Frida Amalia, Arvid Natanael m.fl. FamilySearch-träd P73S-B8N/P739-NHD: dotter till August Olsson (1866–1952, 'fr. Toltan') och Emma Jansdotter/Jansson (f. 1871), vigda 13 mars 1897 – alltså helsyster till Olof Ragnar (olov_ragnar_augustson_1902). Efternamnet Augustsson 1930 = fadersnamnet August. Hon är INTE dotter till August Nilsson i Gullsbyn. Bör bildläsas: Riksarkivet 00053598_00347."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1930, Brunskog, Toltan, sida 25 rad 34, fam. 1",
     "url": "https://sok.riksarkivet.se/?postid=Folk_128883955"
+   },
+   {
+    "label": "FamilySearch, Sweden Household Examination Books (Brunskog A II a/3, 1909–1920, bild 347 sida 322): Gerda Katrina Olsson f. 2 maj 1897 Takene, dotter, Toltan Labråten",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-DBTN"
+   },
+   {
+    "label": "FamilySearch Family Tree P73S-B8N (lead): Gerda Katrina Olsson f. 2 maj 1897, föräldrar August Olsson och Emma Jansson",
+    "url": "https://www.familysearch.org/tree/person/details/P73S-B8N"
    }
   ],
   "search": [
@@ -41335,7 +41412,8 @@
   "summary": "Son till John (Erik Johan) och Anna Erickson, född i Pennsylvania ca 1905 (efter ankomsten 1903); känd i Jamestown 1915 och 1920.",
   "notes": [
    "NY STATE CENSUS 1915 Jamestown: Sidney J Erickson, son, 10 år; folkräkning 1920 Jamestown: Sidney Erickson, son, 15 år, född Pennsylvania, syskon Paul W och Harry E.",
-   "UB1: NY State Census 1925 Jamestown: Sidney Erickson 20 år, ”Son” (fortfarande hos föräldrarna). Senare öde/död ej funnet; FamilySearch-trädet GC1W-FB7 har ingen död."
+   "UB1: NY State Census 1925 Jamestown: Sidney Erickson 20 år, ”Son” (fortfarande hos föräldrarna). Senare öde/död ej funnet; FamilySearch-trädet GC1W-FB7 har ingen död.",
+   "UB4: Folkräkning USA 1910 Bradford, McKean Co, PA: Sidney Erickson f. 1905 Pennsylvania, föräldrar John och Anna Erickson (= familjen före flytten till Jamestown). NY State Census 1925 Jamestown: Sidney Erickson, son, 20 år, f. 1905, amerikansk medborgare. Efter 1925 ingen säker post (dödsindex för Sidney Erickson f. 1904–06 i TX, OR, WA, CA, WI kan inte knytas till honom)."
   ],
   "sources": [
    {
@@ -41348,6 +41426,14 @@
    },
    {
     "label": "FamilySearch, New York State Census 1925, Jamestown, Chautauqua (s. 28, fam. 234, rad 45): Sidney Erickson, 20 år, f. 1905, son i hushållet",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KS95-641"
+   },
+   {
+    "label": "FamilySearch, US Census 1910 Bradford, McKean, PA: Sidney Erickson f. 1905 PA, föräldrar John och Anna Erickson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MGDK-XNZ"
+   },
+   {
+    "label": "FamilySearch, New York State Census 1925 Jamestown: Sidney Erickson, son, 20",
     "url": "https://www.familysearch.org/ark:/61903/1:1:KS95-641"
    }
   ],
@@ -43542,12 +43628,17 @@
    "place": "Brunskog, Värmland"
   },
   "places": [
-   "Illinois, USA"
+   "Toltan, Brunskog",
+   "Chicago, Cook Co, Illinois",
+   "Wauconda, Lake Co, Illinois"
   ],
   "summary": "Son till August Olsson (från Toltan, f. 1866) och Emma Jansdotter (f. 1871); född 9 okt 1902 i Brunskog enligt SCB-födelseutdrag. Inte barn till August Nilsson/Stina Jansdotter (Gullsbyn).",
   "notes": [
    "FAMILYSEARCH (lead): 'Olov Ragnar or Ragnor Olson or Augustoson', USA naturalisering och medborgarskap, 14 juni 1934, Illinois; född 9 okt 1902 Brunskog, Varmland, Sweden; maka Anna. Ingen känd Ragnar b. 1902 i persons.json; föräldrar ej angivna i indexet.",
-   "BT2: SCB 1902 nr 62 (bild 490): född okt 9, dopnamn ”Olaf Ragner”; Fader ”Gift Ä(?) August Olsson fr. Toltan” (f. 66), Moder ”H.H. Emma Jansdotter” (f. 71 31/10). Efternamnet Augustson i USA = fadersnamnet August + son."
+   "BT2: SCB 1902 nr 62 (bild 490): född okt 9, dopnamn ”Olaf Ragner”; Fader ”Gift Ä(?) August Olsson fr. Toltan” (f. 66), Moder ”H.H. Emma Jansdotter” (f. 71 31/10). Efternamnet Augustson i USA = fadersnamnet August + son.",
+   "UB4 – Naturalisering Chicago (Petitions for Naturalization, N. District of Illinois) ordagrant: 'Olov Ragnar Augustoson, Födelsedatum 9 Oct 1902, Födelseort Warmland, Sweden', naturaliserad 5 dec 1940, cert. 213768; maka 'Anna', född 'Vang Valdres, Norway'. Tidigare post 14 juni 1934 'Olov Ragnar or Ragnor Olson or Augustoson' f. 9 okt 1902 Brunskog.",
+   "UB4 – Vigsel Cook County 10 okt 1931: 'Olav Ragnor Olson', 28 år, med 'Anna Wilhelmine Weflen', 28 år. Cook County födelsebevis: far Ragnar Olson f. 1902 Sweden, mor Anna Weglen (barnet f. 1935, levande/okänt – ej inlagt). Folkräkning 1950 Wauconda, Lake Co, IL: 'O R Olson' f. 1903 Sweden, hustru Anna W Olson.",
+   "UB4 – FamilySearch-träd P739-NHD (lead): Olof Ragnar Olsson f. 9 okt 1902 Brunskog, d. 1962, begravd Wauconda Cemetery; föräldrar August Olsson (1866–1952) och Emma Jansson, vigda 13 mars 1897; 11 syskon: Gerda Katrina 1897, Frida Amalia 1898, Johan Helmer 1900, Anna Paulina 1904, Arvid Natanael 1906, Signe Maria 1910, Göran Bertil 1912, Arne Gottfrid 1914, Britta Ingeborg 1917, Margit Elisabet 1920."
   ],
   "sources": [
    {
@@ -43557,11 +43648,32 @@
    {
     "label": "Riksarkivet, SCB Utdrag födelse- och dopbok Brunskog 1902 (A0030595), bild 490, nr 62: ”9 Okt. Olaf Ragner”, far August Olsson fr. Toltan, mor Emma Jansdotter",
     "url": "https://sok.riksarkivet.se/bildvisning/A0030595_00490"
+   },
+   {
+    "label": "FamilySearch, Illinois District and Circuit Court Naturalization Records: Olov Ragnar Augustoson f. 9 Oct 1902 Warmland, nat. 5 Dec 1940, maka Anna f. Vang Valdres, Norway",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6YNM-8NWM"
+   },
+   {
+    "label": "FamilySearch, Illinois Cook County Marriages: Olav Ragnor Olson 28 + Anna Wilhelmine Weflen 28, 10 okt 1931",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q21K-3N93"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Wauconda, Lake, Illinois: O R Olson f. 1903 Sweden, hustru Anna W",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6X12-SBZF"
+   },
+   {
+    "label": "FamilySearch Family Tree P739-NHD (lead): Olof Ragnar Olsson 1902–1962, Wauconda Cemetery",
+    "url": "https://www.familysearch.org/tree/person/details/P739-NHD"
    }
   ],
   "search": [
    "Olov Ragnar Olson/Augustson (f. 9 okt 1902, Brunskog)"
-  ]
+  ],
+  "died": {
+   "date": "1962",
+   "place": "Illinois, USA; begravd Wauconda Cemetery, Lake Co, Illinois",
+   "note": "endast FamilySearch-träd P739-NHD (1 källa) – ej primärbelagt"
+  }
  },
  {
   "id": "us_elmer_sylvander",
@@ -57484,6 +57596,145 @@
   ],
   "search": [
    "George Robert Holden"
+  ]
+ },
+ {
+  "id": "ub4_edith_victoria_gustafson_1893",
+  "name": "Edith Victoria Olson f. Gustafson (1893–1988)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1893"
+  },
+  "died": {
+   "date": "1988"
+  },
+  "places": [
+   "La Porte, Indiana",
+   "Jamestown, New York"
+  ],
+  "summary": "Hustru till Efraim (Johan Efraim) Olson; gifta ca 1923 i Indiana.",
+  "notes": [
+   "Folkräkning 1930 La Porte IN: 'Edith V Olson' hustru till Efraim J Olson; 1940/1950 Jamestown NY 'Edith Olson'. Flicknamn Gustafson och åren 1893–1988 endast från FamilySearch-träd LH5T-2GZ (lead)."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1930 La Porte, Indiana: Edith V Olson, hustru",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XH9V-LXJ"
+   },
+   {
+    "label": "FamilySearch Family Tree LH5T-2GZ (lead): Edith Victoria Gustafson 1893–1988",
+    "url": "https://www.familysearch.org/tree/person/details/LH5T-2GZ"
+   }
+  ],
+  "search": [
+   "Edith Victoria Olson f. Gustafson (1893–1988)"
+  ]
+ },
+ {
+  "id": "ub4_george_olson_1923",
+  "name": "George Olson (1923–1996)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1923",
+   "place": "Indiana?"
+  },
+  "died": {
+   "date": "1996"
+  },
+  "places": [
+   "La Porte, Indiana",
+   "Jamestown, New York"
+  ],
+  "summary": "Son till Efraim Olson och Edith V. (Gustafson).",
+  "notes": [
+   "Folkräkningar 1930 La Porte och 1940 Jamestown: son 'George' i Efraim Olsons hushåll. Åren 1923–1996 från FamilySearch-träd GT22-WTT (lead)."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1940 Jamestown NY: George, son till Efraim Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KQ13-LT2"
+   },
+   {
+    "label": "FamilySearch Family Tree GT22-WTT (lead)",
+    "url": "https://www.familysearch.org/tree/person/details/GT22-WTT"
+   }
+  ],
+  "search": [
+   "George Olson (1923–1996)"
+  ]
+ },
+ {
+  "id": "ub4_betty_edith_olson_1926",
+  "name": "Betty Edith Olson (1926–1999)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1926"
+  },
+  "died": {
+   "date": "1999"
+  },
+  "places": [
+   "La Porte, Indiana",
+   "Jamestown, New York"
+  ],
+  "summary": "Dotter till Efraim Olson och Edith V. (Gustafson).",
+  "notes": [
+   "Folkräkningar 1930 'Betty E', 1940 och 1950 Jamestown 'Betty (E) Olson' dotter. Åren 1926–1999 från FamilySearch-träd GT2K-5HV (lead). Systern Barbara A Olson (f. 1927, dödsdatum okänt) ej inlagd."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1950 Jamestown NY: Efraim Olson, hustru Edith, barn Barbara A, Betty E",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XPR-BRZM"
+   },
+   {
+    "label": "FamilySearch Family Tree GT2K-5HV (lead)",
+    "url": "https://www.familysearch.org/tree/person/details/GT2K-5HV"
+   }
+  ],
+  "search": [
+   "Betty Edith Olson (1926–1999)"
+  ]
+ },
+ {
+  "id": "ub4_anna_wilhelmina_weflen_1903",
+  "name": "Anna Wilhelmina Olson f. Weflen (Weglen) (1903–1997)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1903",
+   "place": "Vang, Valdres, Norge"
+  },
+  "died": {
+   "date": "1997",
+   "note": "endast FamilySearch-träd P73S-W4B"
+  },
+  "places": [
+   "Chicago, Illinois",
+   "Wauconda, Illinois"
+  ],
+  "summary": "Norskfödd hustru till Olof Ragnar Olson/Augustson från Brunskog; gifta 10 okt 1931 i Cook County.",
+  "notes": [
+   "Vigsel Cook County 10 okt 1931: 'Anna Wilhelmine Weflen' 28 år. Naturaliseringen 1940 för maken: maka Anna, född Vang Valdres, Norway. 1950 Wauconda: Anna W Olson."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, Illinois Cook County Marriages 10 okt 1931: Anna Wilhelmine Weflen",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q21K-3N93"
+   },
+   {
+    "label": "FamilySearch Family Tree P73S-W4B (lead): 1903–1997",
+    "url": "https://www.familysearch.org/tree/person/details/P73S-W4B"
+   }
+  ],
+  "search": [
+   "Anna Wilhelmina Olson f. Weflen (Weglen) (1903–1997)"
   ]
  }
 ]

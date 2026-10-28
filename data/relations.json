@@ -16956,5 +16956,62 @@
   "b": "ua5_george_robert_holden",
   "status": "verified",
   "basis": "Manitoba Vital Statistics vigselregister 1940,023016: ”HOLDEN, GEORGE ROBERT x NORDSTROM, EVA ASTRID EVANGELINE”, 1940-06-14, Brandon"
+ },
+ {
+  "id": "p-ol_johan_efraim_1890-ub4_edith_victoria_gustafson_1893",
+  "type": "partner",
+  "a": "ol_johan_efraim_1890",
+  "b": "ub4_edith_victoria_gustafson_1893",
+  "status": "strong",
+  "basis": "US Census 1930 La Porte IN (XH9V-LXJ): Efraim J Olson + hustru Edith V; 1940 Jamestown (KQ13-LT2)"
+ },
+ {
+  "id": "c-ol_johan_efraim_1890-ub4_edith_victoria_gustafson_1893-ub4_george_olson_1923",
+  "type": "child",
+  "parents": [
+   "ol_johan_efraim_1890",
+   "ub4_edith_victoria_gustafson_1893"
+  ],
+  "child": "ub4_george_olson_1923",
+  "status": "strong",
+  "basis": "US Census 1930/1940: George son i Efraim och Edith Olsons hushåll"
+ },
+ {
+  "id": "c-ol_johan_efraim_1890-ub4_edith_victoria_gustafson_1893-ub4_betty_edith_olson_1926",
+  "type": "child",
+  "parents": [
+   "ol_johan_efraim_1890",
+   "ub4_edith_victoria_gustafson_1893"
+  ],
+  "child": "ub4_betty_edith_olson_1926",
+  "status": "strong",
+  "basis": "US Census 1930/1940/1950: Betty E dotter i Efraim och Edith Olsons hushåll"
+ },
+ {
+  "id": "p-olov_ragnar_augustson_1902-ub4_anna_wilhelmina_weflen_1903",
+  "type": "partner",
+  "a": "olov_ragnar_augustson_1902",
+  "b": "ub4_anna_wilhelmina_weflen_1903",
+  "status": "strong",
+  "basis": "Cook County Marriages: 'Olav Ragnor Olson' + 'Anna Wilhelmine Weflen' 10 okt 1931 (Q21K-3N93); naturalisering 1940: maka Anna f. Vang Valdres (6YNM-8NWM)"
+ },
+ {
+  "id": "s-aq2_gerda_katarina_augustsson_1897-olov_ragnar_augustson_1902",
+  "type": "sibling",
+  "a": "aq2_gerda_katarina_augustsson_1897",
+  "b": "olov_ragnar_augustson_1902",
+  "status": "strong",
+  "basis": "FamilySearch-index A II a/3 bild 347 (Toltan Labråten, Gerda Katrina f. 2/5 1897) + FamilySearch-träd P739-NHD (syskon under August Olsson och Emma Jansson). Bör bildläsas för verified."
+ },
+ {
+  "id": "c-bt2_august_olsson_toltan66-bt2_emma_jansdotter71-aq2_gerda_katarina_augustsson_1897",
+  "type": "child",
+  "parents": [
+   "bt2_august_olsson_toltan66",
+   "bt2_emma_jansdotter71"
+  ],
+  "child": "aq2_gerda_katarina_augustsson_1897",
+  "status": "strong",
+  "basis": "FamilySearch-index Brunskog A II a/3 (SE-VA-13065-AIIa-3-0347-0322): Gerda Katrina Olsson f. 2 maj 1897 Takene, dotter, Toltan Labråten; FamilySearch-träd P73S-B8N: föräldrar August Olsson (1866–1952) och Emma Jansson, vigda 13/3 1897"
  }
 ]
