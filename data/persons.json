@@ -49033,7 +49033,9 @@
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
    "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg).",
    "UTVANDRING: Göteborgspolisens emigrantlistor börjar 1869 – familjen (utflyttad Frykerud 18/9 1868) finns därför inte där. Ankomstlista (Castle Garden/New York 1868) ej funnen: FamilySearch kräver inloggning.",
-   "USA-namn: Nels/Nils Swenson."
+   "USA-namn: Nels/Nils Swenson.",
+   "CENSUS (UA6): FamilySearch-indexet av 1870 läser ”Swensen” (Ancestry: ”Sausen”) och ger födelseort Sweden för alla nio. 1870/1875 års census saknar relationskolumn. 1875 bor Nils kvar i Solem med 5 av barnen – hustrun Johanna finns inte i hushållet (död 1870–75? ej bekräftat).",
+   "1880–: Nils och Johanna ej återfunna i 1880 års census eller i MN statscensus 1885 (sonen Nils 18 år bor 1885 hos systern Hilma Thompson). Ingen dödspost hittad i FamilySearch (MN County Deaths, Find a Grave-index Douglas Co.)."
   ],
   "sources": [
    {
@@ -49079,6 +49081,14 @@
    {
     "label": "Minnesota Territorial and State Censuses 1849–1905 (Ancestry fritt sökindex, coll. 1058), Douglas County: ”Nils Swenson”, f. omkr. 1824 (censusår dolt i fri vy, trol. 1875; post-id i följd 3969133–3969138 = samma hushåll)",
     "url": "https://www.ancestry.com/search/collections/1058/records/3969133"
+   },
+   {
+    "label": "FamilySearch, United States Census 1870, Solem Township, Douglas Co., MN: Nils Swensen, 48 år, f. 1822 Sweden, Head; i hushållet Johanna 1829, Ole 1849, Mary 1853, Helma 1857, Sven 1862, Sophie 1863, Anna 1865, Nils 1867 (alla f. Sweden)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7GV"
+   },
+   {
+    "label": "FamilySearch, Minnesota State Census 1875, Solem, Douglas Co., MN: Nils Swenson, 51 år, f. 1824 Sweden; i hushållet O J 1851, Helena 1858, Swen 1861, Sophia 1863, Nils 1868 (Johanna, Mary och Anna saknas)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XXT"
    }
   ],
   "search": [
@@ -51805,7 +51815,8 @@
    "HUSFÖRHÖR A I/24b bild 102 (fol. 413): utflyttad ”Nord Amerika 68”.",
    "USA (UA4): kallas ”Johanne (Olsdotter) Swenson” i dottern Hilmas Find a Grave-bio (136092969); familjen bosatt i Douglas County, Minnesota från 1868.",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
-   "USA-namn: Johanne Swenson."
+   "USA-namn: Johanne Swenson.",
+   "UA6: saknas i Nils Swensons hushåll i MN statscensus 1875 (FS MKN8-XXT). Sonen Swen Swensons dödsregister 1909 kallar henne ”Johanna Olson” (FS H6XF-8X2M)."
   ],
   "sources": [
    {
@@ -51831,6 +51842,10 @@
    {
     "label": "1870 United States Federal Census (Ancestry fritt sökindex, coll. 7163), Douglas County, Minnesota: ”Johanne Sausen”, f. omkr. 1829 (bild 4265057_00283; födelseort dold i fri vy)",
     "url": "https://www.ancestry.com/search/collections/7163/records/41883881"
+   },
+   {
+    "label": "FamilySearch, United States Census 1870, Solem Township, Douglas Co., MN: Johanna Swensen, f. 1829 Sweden, i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7GK"
    }
   ],
   "search": [
@@ -51877,6 +51892,18 @@
    {
     "label": "1870 United States Federal Census (Ancestry fritt sökindex, coll. 7163), Douglas County, Minnesota: ”Ole Sausen”, f. omkr. 1849 (bild 4265057_00283; födelseort dold i fri vy)",
     "url": "https://www.ancestry.com/search/collections/7163/records/41883882"
+   },
+   {
+    "label": "FamilySearch, Sverige dop 1611–1920: Olaf Johan, döpt 14 jan 1851 Frykerud, föräldrar Nils Svensson och Johanna Olsdotter (index)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VWHY-ZJF"
+   },
+   {
+    "label": "FamilySearch, US Census 1870, Solem Twp, Douglas Co., MN: Ole Swensen f. 1849 Sweden i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7G2"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1875, Solem, Douglas Co.: O J Swenson f. 1851 Sweden i Nils Swensons hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XXY"
    }
   ],
   "search": [
@@ -51904,7 +51931,8 @@
    "HUSFÖRHÖR A I/21b bild 221 (fol. 207), under ”Nils Swensson” och ”H:u Johanna Olsd:r”: ”Maria Cajsa” 27/11 52 ibm.",
    "HUSFÖRHÖR A I/24b bild 102 (fol. 413): utflyttad ”Nord Amerika 68”.",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
-   "USA-namn: Mary Swenson."
+   "USA-namn: Mary Swenson.",
+   "UA6: saknas i hushållet 1875 (trol. gift eller i tjänst); giftermål ej funnet i FS-index."
   ],
   "sources": [
    {
@@ -51922,6 +51950,14 @@
    {
     "label": "1870 United States Federal Census (Ancestry fritt sökindex, coll. 7163), Douglas County, Minnesota: ”Mary Sausen”, f. omkr. 1853 (bild 4265057_00283; födelseort dold i fri vy)",
     "url": "https://www.ancestry.com/search/collections/7163/records/41883883"
+   },
+   {
+    "label": "FamilySearch, Sverige dop 1611–1920: Maria Cajsa, döpt 30 nov 1852 Frykerud, föräldrar Nils Svensson och Johanna Olsdotter (index)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VWHT-P9L"
+   },
+   {
+    "label": "FamilySearch, US Census 1870, Solem Twp, Douglas Co., MN: Mary Swensen f. 1853 Sweden i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7GL"
    }
   ],
   "search": [
@@ -51961,6 +51997,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/24b (1866–70), bild 102 (fol. 413), Såldebråten: ”Nils Svensson N:o 1. Bonde” 23 27/12 med hustru Johanna Olsd:r 29 16/2 och barnen Olof Johan 51, Maja Cajsa 52, Johanna Ulrika 55, Sven 60, Sofia 62, Anna 65, Hilma Carolina 58, Nils 67 – alla utflyttade ”Nord Amerika 68” (25/? resp. 18/9 1868); längst ned ”Sven Nilsson, Enkem, Fadern” 00 26/8 L., Enkling ”63 7/5”, överstruken, flyttad till p. 412 år 67",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037128_00102"
+   },
+   {
+    "label": "FamilySearch, Sverige dop 1611–1920: Johanna Ullrika, döpt 8 jul 1855 Frykerud, föräldrar Nils Swensson och Johanna Olsdotter (index)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VWHT-LHY"
    }
   ],
   "search": [
@@ -51993,7 +52033,8 @@
    "HUSFÖRHÖR under ”Nils Svensson N:o 1” och ”Johanna Olsd:r”: ”Hilma Carolina” 58 2/2; A I/24b bild 102: utflyttad ”Nord Amerika 68”.",
    "FIND A GRAVE 136092969 (Hilma Caroline Swenson Thompson): född ”2 Feb 1858” i Värmlands län; bio: ”Daughter of Nils & Johanne (Olsdotter) Swenson.” Dödsruna (Park Region Echo 20 sept 1928): född i Vermland, ”At the age of 10 years, she, with her parents, came to America and settled on a farm in Douglas county”; konfirmerad i Moe church; gift jan 1876 med Torge Thompson; död 11 sep 1928 på sjukhuset i Barrett. Identitet: exakt födelsedatum 2/2 1858 (A I/23 bild 305) + föräldranamn + Värmland + utvandring vid 10 års ålder (1868) – säker match (källan sekundär, därför strong på USA-uppgifterna).",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
-   "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg)."
+   "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg).",
+   "UA6: dödsregistret 1928 anger fadern ”Nels Swenson” (dödsdatum 12/9; Find a Grave 11/9)."
   ],
   "sources": [
    {
@@ -52015,6 +52056,30 @@
    {
     "label": "Minnesota Territorial and State Censuses 1849–1905 (Ancestry fritt sökindex, coll. 1058), Douglas County: ”Helma Swenson”, f. omkr. 1858 (censusår dolt i fri vy, trol. 1875; post-id i följd 3969133–3969138 = samma hushåll)",
     "url": "https://www.ancestry.com/search/collections/1058/records/3969135"
+   },
+   {
+    "label": "FamilySearch, Sverige dop 1611–1920: Hilma Carolina, döpt 7 feb 1858 Frykerud, föräldrar Nils Svensson och Johanna Olsdotter (index)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VWHT-2NL"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths 1887–2001: Hilma Caroline Thompson, död 12 sep 1928 Barrett, Grant Co., MN, f. 1858 Sweden; far Nels Swenson; make Torge Thompson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:ZXJR-X5N2"
+   },
+   {
+    "label": "FamilySearch, US Census 1870, Solem Twp: Helma Swensen f. 1857 Sweden i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7GG"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1875, Solem: Helena Swenson f. 1858 Sweden i Nils Swensons hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XXB"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1885, Solem: Helena Thompson f. 1858 Sweden i Terge Thompsons hushåll, där även brodern Nils Swenson 18 år (f. 1867 Sweden) och svärföräldrarna Tor och Mary Osmonson bor",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MQXZ-GGK"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co.: Hilma C Thompson f. 1858 Sweden, invandrad 1868, hustru till Torge Thompson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XRQ"
    }
   ],
   "search": [
@@ -52032,7 +52097,11 @@
    "place": "Såldebråten, Frykerud",
    "note": "Husförhör A I/23 bild 305 / A I/24b bild 102; dopbok ej kontrollerad."
   },
-  "died": {},
+  "died": {
+   "date": "1909-06-14",
+   "place": "Solem Township, Douglas County, Minnesota, USA",
+   "note": "Minnesota Deaths 1887–2001 (FS H6XF-8X2M): Swen Swenson, 48 år, f. 1860 Sweden, föräldrar Nels Swenson och Johanna Olson. Begravd Solem Lutheran Cemetery (Find a Grave 130713209)."
+  },
   "places": [
    "Såldebråten, Frykerud",
    "Nordamerika (emigrerade 1868)"
@@ -52042,7 +52111,10 @@
    "HUSFÖRHÖR under ”Nils Svensson N:o 1” och ”Johanna Olsd:r”: ”Sven” 60; A I/24b bild 102: utflyttad ”Nord Amerika 68”.",
    "CENSUS (UA4): 1870 US Census Douglas Co., MN (Ancestry 7163, poster 41883880–41883888, bild 4265057_00283), hushåll ”Sausen” (= Swenson/Swanson): Nils 1822 (make Johanne), Johanne 1829 (make Nils), Ole 1849, Mary 1853, Hilma 1857, Sven 1862, Solhie [Sophie] 1863, Anna 1865, Nils 1867. Matchar 8 av 9 utvandrade (Johanna Ulrika 1855 saknas i hushållet) med rätt födelseordning; dottern Hilmas dödsruna bekräftar att familjen 1868 slog sig ned i Douglas County. Födelseort syns inte i fri vy (6 tecken, trol. ”Sweden”). Status strong (1870 års census anger inte relation till hushållsföreståndaren).",
    "MN STATSCENSUS (UA4): Douglas County, poster 3969133 (Nils ~1824), 3969135 (Helma ~1858), 3969136 (Swen ~1861), 3969137 (Sophia ~1863), 3969138 (Nils ~1868) i följd = samma hushåll; 3969134 trol. hustrun (ej sedd). Censusår och relation dolda i fri vy (betalvägg).",
-   "USA-namn: Swen Swenson."
+   "USA-namn: Swen Swenson.",
+   "USA (UA6): = swen_swenson_1860_solem (dödsregister med föräldranamn) – slå ihop.",
+   "UA6: döpt 3/7 1860 (FS-index; födelsedatum ej i indexet). MN statscensus 1895: Swen Swenson f. 1859 Sweden ensam i Lund, Douglas Co. (FS MQ6Q-6P2) – trol. samme, ej säkert.",
+   "Sammanslagen med swen_swenson_1860_solem (Swen Swenson (1860–1909, Solem Lutheran Cemetery)). UA6: Minnesota dödsregister 1909 – Swen Swenson f. 1860 Sverige, föräldrar Nels Swenson och Johanna Olson | Från swen_swenson_1860_solem: FIND A GRAVE 130713209: ”Swen Swenson” 1860 – 15 Jun 1909, Solem Lutheran Cemetery, Kensington, Douglas Co., MN; inga familjemedlemmar länkade. | Från swen_swenson_1860_solem: IDENTITET (UA6): dödsregistret 1909 ger föräldranamnen Nels Swenson + Johanna Olson (= Nils Svensson + Johanna Olsdotter), född 1860 i Sverige, död i Solem Twp – samma township som familjen 1870 (FS MDHM-7GP) och 1875 (FS MKN8-XX1). Tre oberoende kriterier uppfyllda → samma person som sven_nilsson_1860_saldebraten."
   ],
   "sources": [
    {
@@ -52060,6 +52132,34 @@
    {
     "label": "Minnesota Territorial and State Censuses 1849–1905 (Ancestry fritt sökindex, coll. 1058), Douglas County: ”Swen Swenson”, f. omkr. 1861 (censusår dolt i fri vy, trol. 1875; post-id i följd 3969133–3969138 = samma hushåll)",
     "url": "https://www.ancestry.com/search/collections/1058/records/3969136"
+   },
+   {
+    "label": "FamilySearch, United States Census 1870, Solem Township, Douglas Co., MN: Sven Swensen, f. 1862 Sweden, i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7GP"
+   },
+   {
+    "label": "FamilySearch, Minnesota State Census 1875, Solem, Douglas Co., MN: Swen Swenson, f. 1861 Sweden, i Nils Swensons hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XX1"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths, 1887–2001: Swen Swenson, död 14 jun 1909 Solem Township, Douglas Co., MN, 48 år, f. 1860 Sweden; far Nels Swenson, mor Johanna Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:H6XF-8X2M"
+   },
+   {
+    "label": "FamilySearch, Sverige dop 1611–1920: Sven, döpt 3 jul 1860 Frykerud, föräldrar Nils Svensson och Johanna Olsdotter (index)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:VWHY-DMZ"
+   },
+   {
+    "label": "Find a Grave, memorial 130713209: Swen Swenson, 1860–15 Jun 1909, Solem Lutheran Cemetery, Kensington, Douglas County, Minnesota",
+    "url": "https://www.findagrave.com/memorial/130713209/swen-swenson"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths, 1887–2001: Swen Swenson, död 14 jun 1909 Solem Township, Douglas Co., MN, ålder 48, född 1860 Sweden; far Nels Swenson, mor Johanna Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:H6XF-8X2M"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Death Records and Certificates, 1900–1955: Swen Swenson, död 14 juni 1909, 48 år; föräldrar Nels Swenson och Johanna Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FDD5-G6K"
    }
   ],
   "search": [
@@ -52105,6 +52205,14 @@
    {
     "label": "Minnesota Territorial and State Censuses 1849–1905 (Ancestry fritt sökindex, coll. 1058), Douglas County: ”Sophia Swenson”, f. omkr. 1863 (censusår dolt i fri vy, trol. 1875; post-id i följd 3969133–3969138 = samma hushåll)",
     "url": "https://www.ancestry.com/search/collections/1058/records/3969137"
+   },
+   {
+    "label": "FamilySearch, US Census 1870, Solem Twp: Sophie Swensen f. 1863 Sweden i Nils Swensens hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MDHM-7G5"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1875, Solem: Sophia Swenson f. 1863 Sweden i Nils Swensons hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XFM"
    }
   ],
   "search": [
@@ -52186,6 +52294,14 @@
    {
     "label": "Minnesota Territorial and State Censuses 1849–1905 (Ancestry fritt sökindex, coll. 1058), Douglas County: ”Nils Swenson”, f. omkr. 1868 (censusår dolt i fri vy, trol. 1875; post-id i följd 3969133–3969138 = samma hushåll)",
     "url": "https://www.ancestry.com/search/collections/1058/records/3969138"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1875, Solem: Nils Swenson f. 1868 Sweden i Nils Swensons hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN8-XF9"
+   },
+   {
+    "label": "FamilySearch, MN State Census 1885, Solem: Nils Swenson, 18 år, f. 1867 Sweden, i svågern Terge Thompsons hushåll (systern Helena)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MQXZ-GGP"
    }
   ],
   "search": [
@@ -52697,7 +52813,8 @@
   ],
   "summary": "Norskfödd farmare i Solem township nära Red Rock Lake; gift 2 jan 1876 med Hilma Caroline Swenson (f. 1858 Frykerud). Föräldrar enligt Find a Grave Thore Osmundson och Margit Tarjesdatter.",
   "notes": [
-   "FIND A GRAVE 136092980: ”Torge married Hilma Swenson, Jan. 2, 1876.” Barn enligt bio: Mary, Hannah, Tilda, Selma, Amanda, Henry, Carl, Leonard, Ella, Edwin, Arnold, Lloyd."
+   "FIND A GRAVE 136092980: ”Torge married Hilma Swenson, Jan. 2, 1876.” Barn enligt bio: Mary, Hannah, Tilda, Selma, Amanda, Henry, Carl, Leonard, Ella, Edwin, Arnold, Lloyd.",
+   "UA6: dödsdatum 24 dec 1918 enligt MN dödsregister (Find a Grave 28 dec) – dödsrunan för Hilma säger julafton → 24/12 trol. rätt."
   ],
   "sources": [
    {
@@ -52707,6 +52824,14 @@
    {
     "label": "Find a Grave, memorial 136092969: Hilma Caroline Swenson Thompson, b. 2 Feb 1858 Värmlands län, Sweden, d. 11 Sep 1928 Barrett, Grant Co., Minnesota, begr. Solem Lutheran Cemetery, Kensington, Douglas Co., MN; bio med dödsruna ur Park Region Echo 20 sept 1928",
     "url": "https://www.findagrave.com/memorial/136092969/hilma-caroline-thompson"
+   },
+   {
+    "label": "FamilySearch, Minnesota, Deaths 1887–2001: Targert [Torge] Thompson, död 24 dec 1918 Solem Township, Douglas Co., f. 1851 Norway; föräldrar Tori Osmundson och Margaret Torgesdotter; hustru Helma Swenson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:C2FG-3X2M"
+   },
+   {
+    "label": "FamilySearch, US Census 1910, Solem, Douglas Co.: Torge Thompson f. 1851 Norway, invandrad 1861, med hustru Hilma C och barn",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2LG-XR3"
    }
   ],
   "search": [
@@ -53155,39 +53280,6 @@
   ],
   "search": [
    "Lloyd Thompson (1905–1905)"
-  ]
- },
- {
-  "id": "swen_swenson_1860_solem",
-  "name": "Swen Swenson (1860–1909, Solem Lutheran Cemetery)",
-  "status": "candidate",
-  "sex": "m",
-  "living": false,
-  "born": {
-   "date": "1860",
-   "place": "",
-   "note": "Find a Grave, endast år"
-  },
-  "died": {
-   "date": "1909-06-15",
-   "place": "",
-   "note": "Find a Grave"
-  },
-  "places": [
-   "Kensington, Douglas County, Minnesota"
-  ],
-  "summary": "Begravd på samma kyrkogård (Solem Lutheran, Douglas Co., MN) som Hilma Caroline Swenson Thompson; födelseår 1860 = Sven Nilsson f. 1860 i Såldebråten. Ingen familjelänk eller bio på Find a Grave – möjlig dubblett av sven_nilsson_1860_saldebraten.",
-  "notes": [
-   "FIND A GRAVE 130713209: ”Swen Swenson” 1860 – 15 Jun 1909, Solem Lutheran Cemetery, Kensington, Douglas Co., MN; inga familjemedlemmar länkade."
-  ],
-  "sources": [
-   {
-    "label": "Find a Grave, memorial 130713209: Swen Swenson, 1860–15 Jun 1909, Solem Lutheran Cemetery, Kensington, Douglas County, Minnesota",
-    "url": "https://www.findagrave.com/memorial/130713209/swen-swenson"
-   }
-  ],
-  "search": [
-   "Swen Swenson (1860–1909, Solem Lutheran Cemetery)"
   ]
  },
  {
