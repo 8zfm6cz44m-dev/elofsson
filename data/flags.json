@@ -6924,6 +6924,35 @@
         "nils_olsson_1749_olsrud",
         "marit_mansd_1747_skog"
       ]
+    },
+    {
+      "title": "Sven Nilsson f. 1800 – dödsår saknas",
+      "text": "I livet 1869 (A I/24b bild 101, fol. 412, ”Sven Nilsson Enkem.”). Hittades inte i Såldebråten i A I/25 (1871–75; bild 387–404 genomsedda). Frykeruds död-/begravningsbok efter feb 1861 är inte digitaliserad – kontrollera A I/24b fol. 412 Död-kolumn noggrannare, A I/25 resterande Såldebråten-sidor och ev. Fattighus.",
+      "persons": [
+        "sven_nilss_1800_saldebraten"
+      ]
+    },
+    {
+      "title": "Maria Nilsdotter f. 1804 – död 7/5 1863 endast indirekt",
+      "text": "Dödsdatum härlett ur änklings-kolumnen ”63 7/5” för Sven Nilsson i A I/24b (bild 101–102). Dödbok för 1863 saknas digitalt; bör bekräftas med ev. CD-/Sveriges dödbok.",
+      "persons": [
+        "maria_nilsd_1804_kronodelen"
+      ]
+    },
+    {
+      "title": "Nils Svensson f. 1823 – familjen emigrerade till Nordamerika 1868",
+      "text": "A I/24b bild 102 (fol. 413): hela familjen (Nils, Johanna Olsd:r och 8 barn) utflyttade ”Nord Amerika 68”. Sök i emigrantregister (Göteborgs passagerarlistor 1868) och amerikanska källor.",
+      "persons": [
+        "nils_svensson_1823_saldebraten",
+        "johanna_olsd_1829_saldebraten"
+      ]
+    },
+    {
+      "title": "Jonas Jonsson f. 1786 – födelsedatum 10/3 eller ca 10/5?",
+      "text": "Husförhör A I/14–A I/16: 10/3 1786. Dödboken F/2 bild 56 anger ålder 40 år 5 mån 20 dagar vid död 31/10 1826, vilket motsvarar ca 11/5 1786. Kontrollera Frykerud dopbok C/5 1786.",
+      "persons": [
+        "jonas_jonsson_1786_forsnor"
+      ]
     }
   ]
 }

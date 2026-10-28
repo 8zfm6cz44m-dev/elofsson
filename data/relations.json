@@ -15378,5 +15378,257 @@
   "b": "kerstin_mansdotter_hogvalta",
   "status": "candidate",
   "basis": "A I/6 bild 17 (fol. 6): ”Corp: B. Bodman 1693 26/11 / H. Kerstin M[åns]dr 1689 8/3 / S. Påhl Ersson 1729 10/4” – vigsel ej funnen; läsningen av efternamnet och ’M[åns]dr’ osäker."
+ },
+ {
+  "id": "p-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten",
+  "type": "partner",
+  "a": "nils_svensson_1823_saldebraten",
+  "b": "johanna_olsd_1829_saldebraten",
+  "status": "verified",
+  "basis": "A I/20 bild 313 (fol. 292): ”Gifte S:n Nils Swensson” 27/12 23 [= son till Br. Swen Nilsson] med ”H:u Johanna Olsd:r” 16/2 29; anteckning ”Gift 11/8 50. med Johanna Olsd:r”; A I/21b bild 221 samma par. Vigselboken E I/2 1850 ej kontrollerad."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-olof_johan_nilsson_1851_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "olof_johan_nilsson_1851_saldebraten",
+  "status": "family",
+  "basis": "A I/21b bild 221 (fol. 207): barn under Nils Swensson och H:u Johanna Olsd:r: ”Barn: Olof Johan” 12/1 51 ibm."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-maria_cajsa_nilsd_1852_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "maria_cajsa_nilsd_1852_saldebraten",
+  "status": "family",
+  "basis": "A I/21b bild 221 (fol. 207): barn under Nils Swensson och H:u Johanna Olsd:r: ”Maria Cajsa” 27/11 52 ibm."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-johanna_ulrika_nilsd_1855_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "johanna_ulrika_nilsd_1855_saldebraten",
+  "status": "family",
+  "basis": "A I/21b bild 221 (fol. 207): barn under Nils Swensson och H:u Johanna Olsd:r: ”Johanna Ullrika” 4/7 55 ”in loco”."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-hilma_carolina_nilsd_1858_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "hilma_carolina_nilsd_1858_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 305 / A I/24b bild 102: barn under Nils Svensson N:o 1 och Johanna Olsd:r: ”Hilma Carolina” 58 2/2."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-sven_nilsson_1860_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "sven_nilsson_1860_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 305 / A I/24b bild 102: barn under Nils Svensson N:o 1 och Johanna Olsd:r: ”Sven” 60."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-sofia_nilsd_1862_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "sofia_nilsd_1862_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 305 / A I/24b bild 102: barn under Nils Svensson N:o 1 och Johanna Olsd:r: ”Sofia” 62 2/11."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-anna_nilsd_1865_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "anna_nilsd_1865_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 305 / A I/24b bild 102: barn under Nils Svensson N:o 1 och Johanna Olsd:r: ”Anna” 65 10/2."
+ },
+ {
+  "id": "c-nils_svensson_1823_saldebraten-johanna_olsd_1829_saldebraten-nils_nilsson_1867_saldebraten",
+  "type": "child",
+  "parents": [
+   "nils_svensson_1823_saldebraten",
+   "johanna_olsd_1829_saldebraten"
+  ],
+  "child": "nils_nilsson_1867_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 305 / A I/24b bild 102: barn under Nils Svensson N:o 1 och Johanna Olsd:r: ”Nils” 67."
+ },
+ {
+  "id": "p-nils_eriksson_1823_forsnor-britta_matsd_1829_boda",
+  "type": "partner",
+  "a": "nils_eriksson_1823_forsnor",
+  "b": "britta_matsd_1829_boda",
+  "status": "family",
+  "basis": "A I/20 bild 88: ”Gift med Britta Matsd:r …” på Nils Erikssons rad; A I/24a bild 92: Nils Eriksson och ”Britta Matsdotter H.” med barn."
+ },
+ {
+  "id": "p-erik_johan_eriksson_1835_forsnor-maja_cajsa_larsd_1840_saldebraten",
+  "type": "partner",
+  "a": "erik_johan_eriksson_1835_forsnor",
+  "b": "maja_cajsa_larsd_1840_saldebraten",
+  "status": "family",
+  "basis": "A I/23 bild 60 (vigsel 1864, anteckning), A I/24a bild 92 och A I/25 bild 406: man och hustru med gemensamma barn."
+ },
+ {
+  "id": "c-erik_johan_eriksson_1835_forsnor-maja_cajsa_larsd_1840_saldebraten-olof_adolf_eriksson_1864",
+  "type": "child",
+  "parents": [
+   "erik_johan_eriksson_1835_forsnor",
+   "maja_cajsa_larsd_1840_saldebraten"
+  ],
+  "child": "olof_adolf_eriksson_1864",
+  "status": "family",
+  "basis": "A I/24a bild 92 och A I/25 bild 406: barn under Erik Johan Eriksson och Maja Cajsa: ”Olof Adolf” 64 12/8."
+ },
+ {
+  "id": "c-erik_johan_eriksson_1835_forsnor-maja_cajsa_larsd_1840_saldebraten-elisabeth_eriksd_1868",
+  "type": "child",
+  "parents": [
+   "erik_johan_eriksson_1835_forsnor",
+   "maja_cajsa_larsd_1840_saldebraten"
+  ],
+  "child": "elisabeth_eriksd_1868",
+  "status": "family",
+  "basis": "A I/24a bild 92 och A I/25 bild 406: barn under Erik Johan Eriksson och Maja Cajsa: ”Elisabeth” 68 15/10."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-carl_emil_nilsson_1850_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "carl_emil_nilsson_1850_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Carl Emil, talar illa” 50 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-charlotta_nilsd_1857_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "charlotta_nilsd_1857_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Charlotta” 57 4/10 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-olle_johan_nilsson_1861_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "olle_johan_nilsson_1861_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Olle Johan” 61 16/5 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-nils_fredrik_nilsson_1863_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "nils_fredrik_nilsson_1863_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Nils Fredrik” 63 31/7 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-sofia_elisabeth_nilsd_1865_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "sofia_elisabeth_nilsd_1865_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Sofia Elisabeth” 65 18/11 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-carolina_nilsd_1866_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "carolina_nilsd_1866_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Carolina” 66 22/11, Död ”66 10/12” under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "c-nils_eriksson_1823_forsnor-britta_matsd_1829_boda-carolina_nilsd_1868_forsnor",
+  "type": "child",
+  "parents": [
+   "nils_eriksson_1823_forsnor",
+   "britta_matsd_1829_boda"
+  ],
+  "child": "carolina_nilsd_1868_forsnor",
+  "status": "family",
+  "basis": "A I/24a bild 92: ”Carolina” 68 3/2 under Nils Eriksson och Britta Matsdotter."
+ },
+ {
+  "id": "p-stina_nilsd_1790_saldebraten-johan_magnus_svanstrom_1807",
+  "type": "partner",
+  "a": "stina_nilsd_1790_saldebraten",
+  "b": "johan_magnus_svanstrom_1807",
+  "status": "verified",
+  "basis": "Frykerud E I/2 bild 57 (1828): ”Byggmästare[ns] Sonen Johan Magnus Svanström på Fagerås och Enkan Stina Nilsdotter därstädes”, vigda maj 1828; A I/16 bild 50 samma hushåll, utfl. Lungsund 1829."
+ },
+ {
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-britta_stina_jonsd_1820_fageras",
+  "type": "child",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "britta_stina_jonsd_1820_fageras",
+  "status": "family",
+  "basis": "A I/15 bild 49 / A I/16 bild 50: ”D: Britta Stina” 14/4 20 (A I/16), ”Britta Stina” 1820 14/4 (A I/15); 1829 flyttad till p. 37 (Swanströms hushåll) som ”Flick. Britta Stina Jonsd:r”, under Jonas Jonsson och H: Stina Nilsd:r."
+ },
+ {
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-johannes_jonsson_1822_fageras",
+  "type": "child",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "johannes_jonsson_1822_fageras",
+  "status": "family",
+  "basis": "A I/15 bild 49 / A I/16 bild 50: ”Son Johannes” 1822 (A I/15); ”S: Johannes” 10/9 22, utfl. ”p. 195. 29” (A I/16), under Jonas Jonsson och H: Stina Nilsd:r."
+ },
+ {
+  "id": "c-stina_nilsd_1790_saldebraten-johan_magnus_svanstrom_1807-anna_ulrika_1828_fageras",
+  "type": "child",
+  "parents": [
+   "stina_nilsd_1790_saldebraten",
+   "johan_magnus_svanstrom_1807"
+  ],
+  "child": "anna_ulrika_1828_fageras",
+  "status": "candidate",
+  "basis": "A I/16 bild 50: ”Anna Ulrika” 26/12 1828 sist i hushållet där Stina Nilsdotter (gift maj 1828 med J. M. Svanström) bor; föräldrar ej utskrivna – kontrollera dopbok C/6 dec 1828."
  }
 ]
