@@ -47895,14 +47895,17 @@
   "died": {},
   "places": [
    "Såldebråten, Frykerud",
-   "Forsnor, Frykerud"
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
   ],
-  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 2/4 1790; flyttade till Forsnor 1810 och gifte sig troligen 22/6 1810 med hemmansbrukaren Jonas Jonsson i Forsnor.",
+  "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 2/4 1790; gift 22/6 1810 med hemmansbrukaren Jonas Jonsson i Forsnor (bekräftat i husförhör); flyttade till Fagerås 1819.",
   "notes": [
    "DOP Frykerud C/5 bild 85 (s. 132), ”Döpte 1790”, [April] 2 4: barn ”Stina”, föräldrar ”Nils Svensson H:u Britta Eriks dotter i Såldebråten”; vittnen ”Ingenieuren Herr Olof Ågren, Fru Stina Maria Morell”.",
    "HUSFÖRHÖR A I/12 bild 17: ”D: Stina” 1790 2/4 (ingen flyttanteckning).",
    "HUSFÖRHÖR A I/13 bild 16 (fol. 5): ”D. Stina” 1790 2/4, överstruken, utflyttad ”Forsnor 1810”.",
-   "VIGSEL (trolig) Frykerud E I/1 bild 163 (s. 308), 1810: ”lyst d. 20 maij” – ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt” – ”vigde den 22 dito [juni] af dito Man” [Ekstedt]. Stämmer med utflyttningen ”Forsnor 1810” i A I/13 bild 16; maken ej identifierad vidare (ej följd i Forsnor A I/14 fol. 36)."
+   "VIGSEL (trolig) Frykerud E I/1 bild 163 (s. 308), 1810: ”lyst d. 20 maij” – ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt” – ”vigde den 22 dito [juni] af dito Man” [Ekstedt]. Stämmer med utflyttningen ”Forsnor 1810” i A I/13 bild 16; maken ej identifierad vidare (ej följd i Forsnor A I/14 fol. 36).",
+   "HUSFÖRHÖR A I/14 bild 49 (fol. 37) Forsnor: ”H Stina Nils d:r” 1790 2/4 hustru till ”Jonas Jonsson” 1786 10/3 – födelsedatumet stämmer exakt med dopet (C/5 bild 85), vilket bekräftar vigseln 1810.",
+   "HUSFÖRHÖR A I/15 bild 58 (fol. 42) Forsnor: hushållet utflyttat ”Fagerås 1819”."
   ],
   "sources": [
    {
@@ -47928,6 +47931,14 @@
    {
     "label": "Riksarkivet, Frykerud vigselbok E I/1 (1708–1814), bild 163 (s. 308), 1810: lyst 20 maj, vigde 22 juni: ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00163"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 49 (fol. 37), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4, ”D:n Caisa” 1810, ”S: Nils” 1813, ”D: Britta Lena” 1815 26/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
    }
   ],
   "search": [
@@ -47988,9 +47999,9 @@
    "note": "Född och döpt 1 nov 1795 (Frykerud C/5 bild 121, s. 198)."
   },
   "died": {
-   "date": "",
+   "date": "1800-10-26",
    "place": "Såldebråten, Frykerud",
-   "note": "Död som barn före 1802 (då en ny Lena föddes); datum ej funnet."
+   "note": "Trolig (strong): F/1 bild 95, ”Barnet Lena Nilsdotr i Säldebråt”, död 26/10, begr. 9/11 1800, koppor – men åldern anges 7 år 2 mån 13 dagar (Lena f. 1/11 1795 var 4 år 11 mån 25 dagar). Se flagga."
   },
   "places": [
    "Såldebråten, Frykerud"
@@ -47998,7 +48009,8 @@
   "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 1/11 1795, död som barn.",
   "notes": [
    "DOP Frykerud C/5 bild 121 (s. 198), ”Döpte 1795”, Nov 1 1: ”Säldebråt Nils Svenssons H: Britta Ericsdotters Dtr. Witt: Nils Jonss: i Kjöpung. Anders Nilsson i Skållerud H: Lena Salomonsdtr i Säldebråt H: Anna Larsdtr i Myr[ – ]. d[öpt]: af Tillström”; barn ”Lena”, marg. ”Död”.",
-   "HUSFÖRHÖR A I/11 bild 17 ”Dr Lena” 95 1/11 (överstr., ”Död”); A I/12 bild 17 ”D: Lena” 1795 1/11 överstr., flyttkol. ”Död”."
+   "HUSFÖRHÖR A I/11 bild 17 ”Dr Lena” 95 1/11 (överstr., ”Död”); A I/12 bild 17 ”D: Lena” 1795 1/11 överstr., flyttkol. ”Död”.",
+   "DÖD (trolig) Frykerud F/1 bild 95 (Begrafne 1800), okt.: ”Barnet Lena Nilsdotr i Säldebråt” – ”Dito [okt.] 26”, begr. ”9 nov:”, ”Dito” [= Koppor, jfr raden ovan ”Barn Eric Andersson i Såldebråten … Koppor”], ålder ”7 2 13”. Lena f. 1795 står kvar i A I/12 (1797–1807) och en ny Lena döptes 1/10 1802, vilket passar dödsår 1800. Åldern stämmer dock inte; ingen annan Lena Nilsdotter i Såldebråten funnen 1795–97 (F/1 bild 80–86 genomlästa)."
   ],
   "sources": [
    {
@@ -48012,6 +48024,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/1 (1744–1814), bild 95, 1800 okt.: ”Barnet Lena Nilsdotr i Säldebråt”, död 26 okt, begr. 9 nov, koppor (”Dito”), 7 år 2 mån 13 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00095"
    }
   ],
   "search": [
@@ -48031,7 +48047,8 @@
   },
   "died": {},
   "places": [
-   "Såldebråten, Frykerud"
+   "Såldebråten, Frykerud",
+   "Forsnor, Frykerud"
   ],
   "summary": "Son till Nils Svensson och Britta Eriksdotter, född 23/12 1797 i Såldebråten; gift 23/6 1822 med Sophia Klingberg i Fagerås.",
   "notes": [
@@ -48039,7 +48056,9 @@
    "HUSFÖRHÖR A I/12 bild 17: en överstruken rad ”S: Erik … Död 1799” (1797) och längre ned en ny rad ”S: Eric” 1797 med läsmärken – oklart om den överstrukna raden avser ett fel (jfr brodern Sven, död 1799).",
    "HUSFÖRHÖR A I/13 bild 16 ”S. Erik” 1797; A I/14 bild 142 (fol. 127) ”S. Erik” 1797 23/12; A I/15 bild 180 (fol. 158) ”Gift S: Erik” 1797 23/12 med ”H: Sophie Klingberg” 1803 (inflyttad ”p:36 22”). Den överstrukna raden ”S. Erik … Död 1799” i A I/12 är alltså ett felskrivet/strukit inslag – Erik levde och gifte sig 1822.",
    "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 13: ”lyst den 2 junii” – ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” – ”vigde den 23 junii af v: Pastor J: Ekstedt”.",
-   "Ej återfunnen på Såldebråten i A I/16 (1823–30) fol. 188–199; troligen utflyttad 1822/23 (Fagerås?) – ej följd vidare."
+   "Ej återfunnen på Såldebråten i A I/16 (1823–30) fol. 188–199; troligen utflyttad 1822/23 (Fagerås?) – ej följd vidare.",
+   "HUSFÖRHÖR A I/16 bild 59 (fol. 48) Forsnor: ”Erik Nils son” 23/12 97 Frykerud med H. Lisa Sophia Klingberg och sönerna Nils 1823, Olof 1826 – alltså bosatt i Forsnor från 1823 (inte Fagerås).",
+   "HUSFÖRHÖR A I/17 bild 65 (fol. 51) ”Forsnor 1/4”: ”B[onde] Erik Nilsson” 23/12 97 ”Såldebråt[en]”, ”H. Lisa Sophia Klingberg” 22/8 03 ”Lund”, S. Nils 26/4 23 Forsnor, S. Olof 4/8 26 Forsnor; A I/18 bild 84 (fol. 73) ”Forsnor 1/4”: ”18. B. Erik Nilsson” 23/12 97 Fryk., ”H. Lisa Sofia Klingberg” 22/8 03, Barn Nils, Olof, Erik Johan 10/7 35; A I/19 bild 99 (fol. 86) Forsnor 1841–45: samma hushåll, inga fler barn."
   ],
   "sources": [
    {
@@ -48069,6 +48088,26 @@
    {
     "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814–61), bild 37 (s. 52), 1822 nr 13–14: ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” vigde 23 juni; ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” vigde 6 oktober",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 59 (fol. 48), Forsnor: ”Erik Nils son” 23/12 1797 Frykerud, ”H: Lisa Sophia Klingberg” 22/8 1803, ”Son Nils” 1823, ”Olof” 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00059"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 65 (fol. 51), Forsnor 1/4: B. Erik Nilsson 23/12 1797 Såldebråten, H. Lisa Sophia Klingberg 22/8 1803 Lund, S. Nils 26/4 1823, S. Olof 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00065"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 84 (fol. 73), Forsnor 1/4: B. Erik Nilsson 23/12 1797, H. Lisa Sofia Klingberg 22/8 1803, barn Nils 1823, Olof 4/8 1826, Erik Johan 10/7 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00084"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 99 (fol. 86), Forsnor: Erik Nilsson 1797, H. Lisa Sophia Klingberg 1803, barn Nils, Olof, Erik Johan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00099"
+   },
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806–60), bild 109 (s. 192), april 1823: född 26, döpt 27: ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn” – Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00109"
    }
   ],
   "search": [
@@ -48095,7 +48134,10 @@
    "DOP Frykerud C/5 bild 154 (s. 263), ”Födde och Döpte år 1800”, Aug 26 28: ”Säldebråten Nils Svenssons och Hust. Brita Ersdotters barn. wit: Christopher Svensson och Hust. Lena Samuelsdotr ibidem Magnus Svensson i Karsbol och Hust: Margeta Svensdotr i Klaxås”; barn ”Sven”.",
    "HUSFÖRHÖR A I/12 bild 17: ”Son Sven” 1800 (ej överstruken). Obs: vittnet ”Lena Samuelsdotr” är troligen skrivfel för Lena Salomonsdotter.",
    "HUSFÖRHÖR A I/14 bild 142 ”Sven” 1800 26/8; A I/15 bild 180 ”Gift S: Sven” 1800 26/8 med ”H: Maria Nilsdr” 1804 27/6 (inflyttad ”p:275 22”); A I/16 bild 208 (fol. 195) husbonde i Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nilsdr” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (”Död d. 24 Mars 1829”), ”D. Britta Lisa” 1827.",
-   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 14: ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” – ”vigde den 6 october af Dito Man” [J. Ekstedt]."
+   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 14: ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” – ”vigde den 6 october af Dito Man” [J. Ekstedt].",
+   "HUSFÖRHÖR A I/17 bild 220 (fol. 203) Såldebråten: ”Sven Nilsson” 26/8 00 Såldebråt, hushållsföreståndare med H. Maria Nilsd:r och barnen Nils, Britta Lisa, Erik Johan, Sven.",
+   "HUSFÖRHÖR A I/18 bild 255 (fol. 252) Såldebråten (12. husförhör 1838): ”Sven Nilsson” 26/8 00, i marginalen ”Kyrkovärd 29/10”.",
+   "HUSFÖRHÖR A I/19 bild 335 (fol. 315) Såldebråten 1841–45: ”Br[ukare] Swen Nilsson” 26/8 00, ”H. Maja Nilsd:r” 27/6 04, barn Nils 1823, Erik Johan 1830, Swen 1833, Brita Lisa 1835, Maja Sophia 1838, Carl Emil 1842; marginal ”Kyrkovård”."
   ],
   "sources": [
    {
@@ -48125,6 +48167,22 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Enkl. Nils Svensson” 59 10/2 (överstr., ”Död d. 6/6 1827”); ”Gift S: Sven” 1800 26/8, ”H: Maria Nilsdr” 1804 27/6, S. Nils 1823 27/12, Erik Gustaf 1826 18/2 (”Död d. 24 Mars 1829”), D. Britta Lisa 1827",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 335 (fol. 315), Såldebråten: Br. Swen Nilsson 26/8 1800 (”Kyrkovård”), H. Maja Nilsd:r 27/6 1804, barn Nils 1823, Erik Johan 1830, Swen 1833, Brita Lisa 1835, Maja Sophia 1838, Carl Emil 17/8 1842",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00335"
+   },
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806–60), bild 112 (s. 198), dec 1823: född 27, döpt 28: ”Såldebråten Sven Nilssons och Maria Nils d:rs Barn” – Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00112"
    }
   ],
   "search": [
@@ -48133,7 +48191,7 @@
  },
  {
   "id": "lena_nilsd_1802_saldebraten",
-  "name": "Lena Nilsdotter (f. 1802, Såldebråten)",
+  "name": "Lena Nilsdotter (1802–1804, Såldebråten)",
   "status": "verified",
   "sex": "f",
   "living": false,
@@ -48142,14 +48200,19 @@
    "place": "Såldebråten, Frykerud",
    "note": "Född 1, döpt 3 okt 1802 (Frykerud C/5 bild 169, s. 291)."
   },
-  "died": {},
+  "died": {
+   "date": "1804-02-07",
+   "place": "Såldebråten, Frykerud",
+   "note": "F/1 bild 104: död 7/2, begr. 12/2 1804, bröstfeber, 1 år 4 mån 6 dagar – stämmer exakt med f. 1/10 1802."
+  },
   "places": [
    "Såldebråten, Frykerud"
   ],
   "summary": "Dotter till Nils Svensson och Britta Eriksdotter, född 1/10 1802; överstruken i A I/12 (trol. död som barn).",
   "notes": [
    "DOP Frykerud C/5 bild 169 (s. 291), ”Födde och Döpte år 1802”, Octob. 1 3: ”Säldebråten Nils Svenssons och Hust. Brite Ersdotrs Dotr. vitnen Christopher Svensson Hust. Lena Salomonsdotr i Säldebråt och Elof Ersson i V: Glenne”; barn ”Lena” (ingen marginalanteckning).",
-   "HUSFÖRHÖR A I/12 bild 17: ”Dtr Lena” 1802 – raden överstruken (troligen död, ej bekräftat)."
+   "HUSFÖRHÖR A I/12 bild 17: ”Dtr Lena” 1802 – raden överstruken (troligen död, ej bekräftat).",
+   "DÖD Frykerud F/1 bild 104 (Begrafne 1804, höger sida), febr.: ”Barn Lena Nilsdotr i Såldebråten” – död 7, begr. 12 – ”Bröstfeber” – 1 år 4 [mån] 6 [dagar]."
   ],
   "sources": [
    {
@@ -48159,6 +48222,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/12 (1797–1807), bild 17 (fol. 6), Såldebråten: Nils Svenssons hushåll",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037113_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/1 (1744–1814), bild 104, 1804 febr.: ”Barn Lena Nilsdotr i Säldebråten”, död 7, begr. 12, bröstfeber, 1 år 4 mån 6 dagar",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00104"
    }
   ],
   "search": [
@@ -48236,6 +48303,648 @@
   ],
   "search": [
    "Ingeborg Ersdotter (f. 1713, Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "maria_nilsd_1804_kronodelen",
+  "name": "Maria (Maja) Nilsdotter (f. 1804, Kronodelen V. Glänne → Såldebråten)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1804-06-27",
+   "place": "Kronodelen, Västra Glänne, Frykerud",
+   "note": "Husförhör A I/15–A I/18: 27/6 1804; A I/17 födelseort ”Kronodel[en]”."
+  },
+  "died": {},
+  "places": [
+   "Kronodelen, Västra Glänne, Frykerud",
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Gift 6/10 1822 med Sven Nilsson i Såldebråten; brukarhustru i Såldebråten, mor till minst sju barn 1823–1838.",
+  "notes": [
+   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 14: ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne” – ”vigde den 6 october” (CC4:s läsning).",
+   "HUSFÖRHÖR A I/16 bild 208 (fol. 195): ”H: Maria Nils d:r” 27/6 04 Fryker[ud]; A I/17 bild 220 (fol. 203): ”H. Maria Nilsd:r” 27/6 04 ”Kronodel[en]”; A I/18 bild 255 (fol. 252): ”H. Maja Nilsd:r” 27/6 04 ”ibm”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814–61), bild 37 (s. 52), 1822 nr 14: ”Drängen Sven Nilsson i Såldebråten och Pigan Maria Nilsdotr i Kronodelen west. Glenne”, vigde 6 okt.",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nils d:r” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (överstr., ”Död d. 24 Mars 1829”), ”D. Britta Lisa” 9/12 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   }
+  ],
+  "search": [
+   "Maria (Maja) Nilsdotter (f. 1804, Kronodelen V. Glänne → Såldebråten)"
+  ]
+ },
+ {
+  "id": "nils_svensson_1823_saldebraten",
+  "name": "Nils Svensson (f. 1823, Såldebråten)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1823-12-27",
+   "place": "Såldebråten, Frykerud",
+   "note": "Född 27, döpt 28 dec 1823 (C/6 bild 112)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "DOP Frykerud C/6 bild 112 (s. 198), dec 1823, 27 28: ”Såldebråten Sven Nilssons och Maria Nils d:rs Barn” – ”Nils”.",
+   "HUSFÖRHÖR A I/16 bild 208 ”S. Nils” 27/12 23; A I/17 bild 220 ”S. Nils” 27/12 23; A I/18 bild 255 ”Barn: Nils” 27/12 23."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806–60), bild 112 (s. 198), dec 1823: född 27, döpt 28: ”Såldebråten Sven Nilssons och Maria Nils d:rs Barn” – Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00112"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nils d:r” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (överstr., ”Död d. 24 Mars 1829”), ”D. Britta Lisa” 9/12 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   }
+  ],
+  "search": [
+   "Nils Svensson (f. 1823, Såldebråten)"
+  ]
+ },
+ {
+  "id": "erik_gustaf_svensson_1826_saldebraten",
+  "name": "Erik Gustaf Svensson (1826–1829, Såldebråten)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1826-02-18",
+   "place": "Såldebråten, Frykerud",
+   "note": "Husförhör A I/16: 18/2 1826."
+  },
+  "died": {
+   "date": "1829-03-24",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/16 bild 208: ”Död d. 24 Mars 1829”; dödbok F/2 ej kontrollerad."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/16 bild 208: ”Erik Gustaf” 18/2 26 Fryker[ud], överstruken, ”Död d. 24 Mars 1829”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nils d:r” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (överstr., ”Död d. 24 Mars 1829”), ”D. Britta Lisa” 9/12 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   }
+  ],
+  "search": [
+   "Erik Gustaf Svensson (1826–1829, Såldebråten)"
+  ]
+ },
+ {
+  "id": "britta_lisa_svensd_1827_saldebraten",
+  "name": "Britta Lisa Svensdotter (1827–1830-tal, Såldebråten)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1827-12-09",
+   "place": "Såldebråten, Frykerud",
+   "note": "Husförhör A I/16 och A I/17: 9/12 1827."
+  },
+  "died": {
+   "date": "",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/17 bild 220: ”Död 26/4” (år ej angivet, 1830–1835)."
+  },
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/16 bild 208: ”D. Britta Lisa” 9/12 27 Fryker[ud]; A I/17 bild 220: ”D. Britta Lisa” 9/12 27 Såldebråt, överstruken, i utflyttningskolumnen ”Död 26/4” (år ej utskrivet, mellan 1830 och 1835 – en ny Britta Lisa föddes 28/9 1835)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 208 (fol. 195), Såldebråten: ”Gift S: Sven” 26/8 1800, ”H: Maria Nils d:r” 27/6 1804, ”S. Nils” 27/12 1823, ”Erik Gustaf” 18/2 1826 (överstr., ”Död d. 24 Mars 1829”), ”D. Britta Lisa” 9/12 1827",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00208"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   }
+  ],
+  "search": [
+   "Britta Lisa Svensdotter (1827–1830-tal, Såldebråten)"
+  ]
+ },
+ {
+  "id": "erik_johan_svensson_1830_saldebraten",
+  "name": "Erik Johan Svensson (f. 1830, Såldebråten)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1830-08-03",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/18: 3/8 1830 (A I/17 kan läsas 7/8)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/17 bild 220: ”S: Erik Johan” [3 el. 7]/8 30 Såldebråten; A I/18 bild 255: ”Erik Johan” 3/8 30 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   }
+  ],
+  "search": [
+   "Erik Johan Svensson (f. 1830, Såldebråten)"
+  ]
+ },
+ {
+  "id": "sven_svensson_1833_saldebraten",
+  "name": "Sven Svensson (f. 1833, Såldebråten)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1833-03-22",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/17 och A I/18: 22/3 1833."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/17 bild 220: ”S. Sven” 22/3 33 Såldebr[åten]; A I/18 bild 255: ”Sven” 22/3 33 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 220 (fol. 203), Såldebråten: Sven Nilsson 26/8 1800, H. Maria Nilsd:r 27/6 1804 Kronodelen, S. Nils 27/12 1823, D. Britta Lisa 9/12 1827 (överstr., ”Död 26/4”), S. Erik Johan 1830, S. Sven 22/3 1833",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00220"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   }
+  ],
+  "search": [
+   "Sven Svensson (f. 1833, Såldebråten)"
+  ]
+ },
+ {
+  "id": "britta_lisa_svensd_1835_saldebraten",
+  "name": "Britta Lisa Svensdotter (f. 1835, Såldebråten)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1835-09-28",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/18: 28/9 1835."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 255: ”Britta Lisa” 28/9 35 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   }
+  ],
+  "search": [
+   "Britta Lisa Svensdotter (f. 1835, Såldebråten)"
+  ]
+ },
+ {
+  "id": "maja_sophia_svensd_1838_saldebraten",
+  "name": "Maja Sophia Svensdotter (f. 1838, Såldebråten)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1838-12",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/19: [?]/12 1838 (dagen otydlig, möjligen 1); A I/18 läses ”1/2 38” eller ”[?]/12 38”."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 255: ”Maja Sophia” [?]/[1]2 38 ibm; A I/19 bild 335: ”Maja Sophia” ·/12 38 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 255 (fol. 252), Såldebråten: Sven Nilsson 26/8 1800 (”Kyrkovärd”), H. Maja Nilsd:r 27/6 1804, barn Nils 27/12 1823, Erik Johan 3/8 1830, Sven 22/3 1833, Britta Lisa 28/9 1835, Maja Sophia 1838",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00255"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 335 (fol. 315), Såldebråten: Br. Swen Nilsson 26/8 1800 (”Kyrkovård”), H. Maja Nilsd:r 27/6 1804, barn Nils 1823, Erik Johan 1830, Swen 1833, Brita Lisa 1835, Maja Sophia 1838, Carl Emil 17/8 1842",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00335"
+   }
+  ],
+  "search": [
+   "Maja Sophia Svensdotter (f. 1838, Såldebråten)"
+  ]
+ },
+ {
+  "id": "carl_emil_svensson_1842_saldebraten",
+  "name": "Carl Emil Svensson (f. 1842, Såldebråten)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1842-08-17",
+   "place": "Såldebråten, Frykerud",
+   "note": "A I/19: 17/8 1842 (dagen delvis skymd av bläckplump)."
+  },
+  "died": {},
+  "places": [
+   "Såldebråten, Frykerud"
+  ],
+  "summary": "Barn till Sven Nilsson (f. 1800) och Maria Nilsdotter (f. 1804) i Såldebråten.",
+  "notes": [
+   "HUSFÖRHÖR A I/19 bild 335 (fol. 315): ”Carl Emil” 17/8 42 ibm, sist i barnaskaran efter Maja Sophia."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 335 (fol. 315), Såldebråten: Br. Swen Nilsson 26/8 1800 (”Kyrkovård”), H. Maja Nilsd:r 27/6 1804, barn Nils 1823, Erik Johan 1830, Swen 1833, Brita Lisa 1835, Maja Sophia 1838, Carl Emil 17/8 1842",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00335"
+   }
+  ],
+  "search": [
+   "Carl Emil Svensson (f. 1842, Såldebråten)"
+  ]
+ },
+ {
+  "id": "sophia_klingberg_1803_forsnor",
+  "name": "Lisa Sophia Klingberg (f. 1803, Fagerås → Forsnor, Frykerud)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1803-08-22",
+   "place": "Lund, Frykerud",
+   "note": "A I/16 bild 59 och A I/17 bild 65: 22/8 1803; A I/17 födelseort ”Lund” (by i Frykerud). Ej kontrollerad i dopbok."
+  },
+  "died": {},
+  "places": [
+   "Lund, Frykerud",
+   "Fagerås, Frykerud",
+   "Såldebråten, Frykerud",
+   "Forsnor, Frykerud"
+  ],
+  "summary": "Gift 23/6 1822 med Erik Nilsson från Såldebråten; bodde med honom i Forsnor från 1823.",
+  "notes": [
+   "VIGSEL Frykerud E I/2 bild 37 (s. 52), 1822 nr 13: ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås” – ”vigde den 23 junii” (CC4).",
+   "HUSFÖRHÖR A I/15 bild 180: ”H: Sophie Klingberg” 1803, inflyttad ”p:36 22”; A I/16 bild 59 (fol. 48) Forsnor: ”H: Lisa Sophia Klingberg” 22/8 03.",
+   "DOP C/6 bild 109: modern kallas ”Lisa Sophia Klingberg”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 65 (fol. 51), Forsnor 1/4: B. Erik Nilsson 23/12 1797 Såldebråten, H. Lisa Sophia Klingberg 22/8 1803 Lund, S. Nils 26/4 1823, S. Olof 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00065"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 84 (fol. 73), Forsnor 1/4: B. Erik Nilsson 23/12 1797, H. Lisa Sofia Klingberg 22/8 1803, barn Nils 1823, Olof 4/8 1826, Erik Johan 10/7 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00084"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/2 (1814–61), bild 37 (s. 52), 1822 nr 13: ”Drängen Eric Nilsson från Såldebråten och Pigan Sophia Klingberg i Fagerås”, vigde 23 juni",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037141_00037"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 59 (fol. 48), Forsnor: ”Erik Nils son” 23/12 1797 Frykerud, ”H: Lisa Sophia Klingberg” 22/8 1803, ”Son Nils” 1823, ”Olof” 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00059"
+   },
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806–60), bild 109 (s. 192), april 1823: född 26, döpt 27: ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn” – Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00109"
+   }
+  ],
+  "search": [
+   "Lisa Sophia Klingberg (f. 1803, Fagerås → Forsnor, Frykerud)"
+  ]
+ },
+ {
+  "id": "nils_eriksson_1823_forsnor",
+  "name": "Nils Eriksson (f. 1823, Forsnor)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1823-04-26",
+   "place": "Forsnor, Frykerud",
+   "note": "Född 26, döpt 27 april 1823 (C/6 bild 109); A I/16 skriver 6/4."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud"
+  ],
+  "summary": "Barn till Erik Nilsson (f. 1797) och Lisa Sophia Klingberg (f. 1803) i Forsnor.",
+  "notes": [
+   "DOP Frykerud C/6 bild 109 (s. 192), april 1823, 26 27: ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn” – ”Nils”.",
+   "HUSFÖRHÖR A I/16 bild 59: ”Son Nils” [2]6/4 23 Fryker[ud]."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud födelse- och dopbok C/6 (1806–60), bild 109 (s. 192), april 1823: född 26, döpt 27: ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn” – Nils",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037139_00109"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 59 (fol. 48), Forsnor: ”Erik Nils son” 23/12 1797 Frykerud, ”H: Lisa Sophia Klingberg” 22/8 1803, ”Son Nils” 1823, ”Olof” 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00059"
+   }
+  ],
+  "search": [
+   "Nils Eriksson (f. 1823, Forsnor)"
+  ]
+ },
+ {
+  "id": "olof_eriksson_1826_forsnor",
+  "name": "Olof Eriksson (f. 1826, Forsnor)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1826-08-04",
+   "place": "Forsnor, Frykerud",
+   "note": "A I/16: 4/8 1826 (månaden möjligen 6)."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud"
+  ],
+  "summary": "Barn till Erik Nilsson (f. 1797) och Lisa Sophia Klingberg (f. 1803) i Forsnor.",
+  "notes": [
+   "HUSFÖRHÖR A I/16 bild 59: ”Olof” 4/8 26 Fryker[ud], under ”Son Nils”; A I/17 bild 65: ”S. Olof” 4/8 26 Forsnor; A I/18 bild 84: ”Olof” 4/8 26 ibm."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/16 (1823–30), bild 59 (fol. 48), Forsnor: ”Erik Nils son” 23/12 1797 Frykerud, ”H: Lisa Sophia Klingberg” 22/8 1803, ”Son Nils” 1823, ”Olof” 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037117_00059"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/17 (1830–35), bild 65 (fol. 51), Forsnor 1/4: B. Erik Nilsson 23/12 1797 Såldebråten, H. Lisa Sophia Klingberg 22/8 1803 Lund, S. Nils 26/4 1823, S. Olof 4/8 1826",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037118_00065"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 84 (fol. 73), Forsnor 1/4: B. Erik Nilsson 23/12 1797, H. Lisa Sofia Klingberg 22/8 1803, barn Nils 1823, Olof 4/8 1826, Erik Johan 10/7 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00084"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 99 (fol. 86), Forsnor: Erik Nilsson 1797, H. Lisa Sophia Klingberg 1803, barn Nils, Olof, Erik Johan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00099"
+   }
+  ],
+  "search": [
+   "Olof Eriksson (f. 1826, Forsnor)"
+  ]
+ },
+ {
+  "id": "erik_johan_eriksson_1835_forsnor",
+  "name": "Erik Johan Eriksson (f. 1835, Forsnor)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1835-07-10",
+   "place": "Forsnor, Frykerud",
+   "note": "A I/18: 10/7 1835."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud"
+  ],
+  "summary": "Barn till Erik Nilsson (f. 1797) och Lisa Sophia Klingberg (f. 1803) i Forsnor.",
+  "notes": [
+   "HUSFÖRHÖR A I/18 bild 84 (fol. 73) Forsnor: ”Erik Johan” 10/7 35 ibm, under Nils och Olof; A I/19 bild 99 (fol. 86) ”Erik Johan” 1835."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/18 (1835–40), bild 84 (fol. 73), Forsnor 1/4: B. Erik Nilsson 23/12 1797, H. Lisa Sofia Klingberg 22/8 1803, barn Nils 1823, Olof 4/8 1826, Erik Johan 10/7 1835",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037119_00084"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/19 (1841–45), bild 99 (fol. 86), Forsnor: Erik Nilsson 1797, H. Lisa Sophia Klingberg 1803, barn Nils, Olof, Erik Johan",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037120_00099"
+   }
+  ],
+  "search": [
+   "Erik Johan Eriksson (f. 1835, Forsnor)"
+  ]
+ },
+ {
+  "id": "jonas_jonsson_1786_forsnor",
+  "name": "Jonas Jonsson (f. 1786, Forsnor → Fagerås, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1786-03-10",
+   "place": "",
+   "note": "A I/14 bild 49 och A I/15 bild 58: 1786 10/3 (i A I/14 ser 8:an ut som 3)."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
+  ],
+  "summary": "Hemmansbrukare i Forsnor; gift 22/6 1810 med Stina Nilsdotter från Såldebråten; flyttade med familjen till Fagerås 1819.",
+  "notes": [
+   "VIGSEL Frykerud E I/1 bild 163 (s. 308), 1810: ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt” – ”vigde den 22 dito [juni]” (CC4).",
+   "HUSFÖRHÖR A I/14 bild 49 (fol. 37) Forsnor: ”Jonas Jonsson” 1786 10/3 med ”H Stina Nils d:r” 1790 2/4 och barnen Caisa 1810, Nils 1813, Britta Lena 1815 26/5.",
+   "HUSFÖRHÖR A I/15 bild 58 (fol. 42) Forsnor: samma hushåll + ”Inga Maja” 1818; utflyttade ”Fagerås 1819”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 49 (fol. 37), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4, ”D:n Caisa” 1810, ”S: Nils” 1813, ”D: Britta Lena” 1815 26/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1 (1708–1814), bild 163 (s. 308), 1810: ”Drängen, Hemansbrukaren Jonas Jonsson i Forsnor och Pigan Stina Nilsdotr från Säldebråt”, vigde 22 juni",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00163"
+   }
+  ],
+  "search": [
+   "Jonas Jonsson (f. 1786, Forsnor → Fagerås, Frykerud)"
+  ]
+ },
+ {
+  "id": "cajsa_jonsd_1810_forsnor",
+  "name": "Cajsa Jonsdotter (f. 1810, Forsnor)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1810",
+   "place": "Forsnor, Frykerud",
+   "note": "Husförhör A I/14–A I/15; dopbok ej kontrollerad."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
+  ],
+  "summary": "Barn till Jonas Jonsson och Stina Nilsdotter i Forsnor; flyttade med föräldrarna till Fagerås 1819.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 49 / A I/15 bild 58, Forsnor, under ”Jonas Jonsson” och ”H Stina Nils d:r”: ”D:n Caisa” 1810."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 49 (fol. 37), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4, ”D:n Caisa” 1810, ”S: Nils” 1813, ”D: Britta Lena” 1815 26/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
+   }
+  ],
+  "search": [
+   "Cajsa Jonsdotter (f. 1810, Forsnor)"
+  ]
+ },
+ {
+  "id": "nils_jonsson_1813_forsnor",
+  "name": "Nils Jonsson (f. 1813, Forsnor)",
+  "status": "family",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1813",
+   "place": "Forsnor, Frykerud",
+   "note": "Husförhör A I/14–A I/15; dopbok ej kontrollerad."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
+  ],
+  "summary": "Barn till Jonas Jonsson och Stina Nilsdotter i Forsnor; flyttade med föräldrarna till Fagerås 1819.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 49 / A I/15 bild 58, Forsnor, under ”Jonas Jonsson” och ”H Stina Nils d:r”: ”S: Nils” 1813."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 49 (fol. 37), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4, ”D:n Caisa” 1810, ”S: Nils” 1813, ”D: Britta Lena” 1815 26/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
+   }
+  ],
+  "search": [
+   "Nils Jonsson (f. 1813, Forsnor)"
+  ]
+ },
+ {
+  "id": "britta_lena_jonsd_1815_forsnor",
+  "name": "Britta Lena Jonsdotter (f. 1815, Forsnor)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1815-05-26",
+   "place": "Forsnor, Frykerud",
+   "note": "Husförhör A I/14–A I/15; dopbok ej kontrollerad."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
+  ],
+  "summary": "Barn till Jonas Jonsson och Stina Nilsdotter i Forsnor; flyttade med föräldrarna till Fagerås 1819.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 49 / A I/15 bild 58, Forsnor, under ”Jonas Jonsson” och ”H Stina Nils d:r”: ”D: Britta Lena” 1815 26/5."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/14 (1812–17), bild 49 (fol. 37), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4, ”D:n Caisa” 1810, ”S: Nils” 1813, ”D: Britta Lena” 1815 26/5",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037115_00049"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
+   }
+  ],
+  "search": [
+   "Britta Lena Jonsdotter (f. 1815, Forsnor)"
+  ]
+ },
+ {
+  "id": "inga_maja_jonsd_1818_forsnor",
+  "name": "Inga Maja Jonsdotter (f. 1818, Forsnor)",
+  "status": "family",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1818",
+   "place": "Forsnor, Frykerud",
+   "note": "Husförhör A I/14–A I/15; dopbok ej kontrollerad."
+  },
+  "died": {},
+  "places": [
+   "Forsnor, Frykerud",
+   "Fagerås, Frykerud"
+  ],
+  "summary": "Barn till Jonas Jonsson och Stina Nilsdotter i Forsnor; flyttade med föräldrarna till Fagerås 1819.",
+  "notes": [
+   "HUSFÖRHÖR A I/14 bild 49 / A I/15 bild 58, Forsnor, under ”Jonas Jonsson” och ”H Stina Nils d:r”: ”Inga Maja” 1818 (endast A I/15)."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/15 (1817–23), bild 58 (fol. 42), Forsnor: ”Jonas Jonsson” 1786 10/3, ”H. Stina Nils d:r” 1790 2/4, D: Caisa 1810, S: Nils 1813, D: Britta Lena 1815 26/5, Inga Maja 1818 – hela hushållet överstruket, utflyttat ”Fagerås 1819”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037116_00058"
+   }
+  ],
+  "search": [
+   "Inga Maja Jonsdotter (f. 1818, Forsnor)"
   ]
  }
 ]

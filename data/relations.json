@@ -14570,5 +14570,194 @@
   "b": "sven_ersson",
   "status": "strong",
   "basis": "Båda döpta med föräldrarna Erich Påhlsson och h. Kirstin Månsd. i Högvalt (C/2 bild 120 hö 1713; bild 138 hö 1717)."
+ },
+ {
+  "type": "partner",
+  "id": "p-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen",
+  "a": "sven_nilss_1800_saldebraten",
+  "b": "maria_nilsd_1804_kronodelen",
+  "status": "verified",
+  "basis": "Vigsel E I/2 bild 37 (6/10 1822) + A I/16 bild 208 ”Gift S: Sven … H: Maria Nils d:r”."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-nils_svensson_1823_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "nils_svensson_1823_saldebraten",
+  "status": "verified",
+  "basis": "DOP Frykerud C/6 bild 112 (s. 198), dec 1823, 27 28: ”Såldebråten Sven Nilssons och Maria Nils d:rs Barn” – ”Nils”."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-erik_gustaf_svensson_1826_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "erik_gustaf_svensson_1826_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/16 bild 208: ”Erik Gustaf” 18/2 26 Fryker[ud], överstruken, ”Död d. 24 Mars 1829”."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-britta_lisa_svensd_1827_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "britta_lisa_svensd_1827_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/16 bild 208: ”D. Britta Lisa” 9/12 27 Fryker[ud]; A I/17 bild 220: ”D. Britta Lisa” 9/12 27 Såldebråt, överstruken, i utflyttningskolumnen ”Död 26/4” (år ej utskrivet, mellan 1830 och 1835 – en ny Britta Lisa föddes 28/9 1835)."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-erik_johan_svensson_1830_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "erik_johan_svensson_1830_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/17 bild 220: ”S: Erik Johan” [3 el. 7]/8 30 Såldebråten; A I/18 bild 255: ”Erik Johan” 3/8 30 ibm."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-sven_svensson_1833_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "sven_svensson_1833_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/17 bild 220: ”S. Sven” 22/3 33 Såldebr[åten]; A I/18 bild 255: ”Sven” 22/3 33 ibm."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-britta_lisa_svensd_1835_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "britta_lisa_svensd_1835_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/18 bild 255: ”Britta Lisa” 28/9 35 ibm."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-maja_sophia_svensd_1838_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "maja_sophia_svensd_1838_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/18 bild 255: ”Maja Sophia” [?]/[1]2 38 ibm; A I/19 bild 335: ”Maja Sophia” ·/12 38 ibm."
+ },
+ {
+  "type": "child",
+  "id": "c-sven_nilss_1800_saldebraten-maria_nilsd_1804_kronodelen-carl_emil_svensson_1842_saldebraten",
+  "parents": [
+   "sven_nilss_1800_saldebraten",
+   "maria_nilsd_1804_kronodelen"
+  ],
+  "child": "carl_emil_svensson_1842_saldebraten",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/19 bild 335 (fol. 315): ”Carl Emil” 17/8 42 ibm, sist i barnaskaran efter Maja Sophia."
+ },
+ {
+  "type": "partner",
+  "id": "p-erik_nilss_1797_saldebraten-sophia_klingberg_1803_forsnor",
+  "a": "erik_nilss_1797_saldebraten",
+  "b": "sophia_klingberg_1803_forsnor",
+  "status": "verified",
+  "basis": "Vigsel E I/2 bild 37 (23/6 1822) + A I/16 bild 59 Forsnor ”Erik Nils son … H: Lisa Sophia Klingberg”."
+ },
+ {
+  "type": "child",
+  "id": "c-erik_nilss_1797_saldebraten-sophia_klingberg_1803_forsnor-nils_eriksson_1823_forsnor",
+  "parents": [
+   "erik_nilss_1797_saldebraten",
+   "sophia_klingberg_1803_forsnor"
+  ],
+  "child": "nils_eriksson_1823_forsnor",
+  "status": "verified",
+  "basis": "DOP Frykerud C/6 bild 109 (s. 192), april 1823, 26 27: ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn” – ”Nils”."
+ },
+ {
+  "type": "child",
+  "id": "c-erik_nilss_1797_saldebraten-sophia_klingberg_1803_forsnor-olof_eriksson_1826_forsnor",
+  "parents": [
+   "erik_nilss_1797_saldebraten",
+   "sophia_klingberg_1803_forsnor"
+  ],
+  "child": "olof_eriksson_1826_forsnor",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/16 bild 59: ”Olof” 4/8 26 Fryker[ud], under ”Son Nils”; A I/17 bild 65: ”S. Olof” 4/8 26 Forsnor; A I/18 bild 84: ”Olof” 4/8 26 ibm."
+ },
+ {
+  "type": "child",
+  "id": "c-erik_nilss_1797_saldebraten-sophia_klingberg_1803_forsnor-erik_johan_eriksson_1835_forsnor",
+  "parents": [
+   "erik_nilss_1797_saldebraten",
+   "sophia_klingberg_1803_forsnor"
+  ],
+  "child": "erik_johan_eriksson_1835_forsnor",
+  "status": "family",
+  "basis": "HUSFÖRHÖR A I/18 bild 84 (fol. 73) Forsnor: ”Erik Johan” 10/7 35 ibm, under Nils och Olof; A I/19 bild 99 (fol. 86) ”Erik Johan” 1835."
+ },
+ {
+  "type": "partner",
+  "id": "p-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten",
+  "a": "jonas_jonsson_1786_forsnor",
+  "b": "stina_nilsd_1790_saldebraten",
+  "status": "verified",
+  "basis": "Vigsel E I/1 bild 163 (22/6 1810) + A I/14 bild 49 Forsnor: ”Jonas Jonsson … H Stina Nils d:r 1790 2/4” – födelsedatumet 2/4 1790 är exakt Stinas (dop C/5 bild 85)."
+ },
+ {
+  "type": "child",
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-cajsa_jonsd_1810_forsnor",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "cajsa_jonsd_1810_forsnor",
+  "status": "family",
+  "basis": "A I/14 bild 49 / A I/15 bild 58 Forsnor: ”D:n Caisa” 1810 i Jonas Jonssons och Stina Nilsdotters hushåll."
+ },
+ {
+  "type": "child",
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-nils_jonsson_1813_forsnor",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "nils_jonsson_1813_forsnor",
+  "status": "family",
+  "basis": "A I/14 bild 49 / A I/15 bild 58 Forsnor: ”S: Nils” 1813 i Jonas Jonssons och Stina Nilsdotters hushåll."
+ },
+ {
+  "type": "child",
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-britta_lena_jonsd_1815_forsnor",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "britta_lena_jonsd_1815_forsnor",
+  "status": "family",
+  "basis": "A I/14 bild 49 / A I/15 bild 58 Forsnor: ”D: Britta Lena” 1815 26/5 i Jonas Jonssons och Stina Nilsdotters hushåll."
+ },
+ {
+  "type": "child",
+  "id": "c-jonas_jonsson_1786_forsnor-stina_nilsd_1790_saldebraten-inga_maja_jonsd_1818_forsnor",
+  "parents": [
+   "jonas_jonsson_1786_forsnor",
+   "stina_nilsd_1790_saldebraten"
+  ],
+  "child": "inga_maja_jonsd_1818_forsnor",
+  "status": "family",
+  "basis": "A I/14 bild 49 / A I/15 bild 58 Forsnor: ”Inga Maja” 1818 (endast A I/15) i Jonas Jonssons och Stina Nilsdotters hushåll."
  }
 ]

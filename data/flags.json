@@ -1055,6 +1055,13 @@
    "persons": [
     "sven_ersson"
    ]
+  },
+  {
+   "title": "Lena Nilsdotter f. 1795 – dödsposten 1800 anger fel ålder?",
+   "text": "F/1 bild 95: ”Barnet Lena Nilsdotr i Säldebråt” död 26/10 1800 (koppor), ålder 7 år 2 mån 13 dagar ⇒ född ca 13/8 1793. Nils Svenssons Lena föddes 1/11 1795 (C/5 bild 121) och skulle ha varit 4 år 11 mån. Ingen annan Lena Nilsdotter i Såldebråten känd; A I/12 har Lena 1795 med ”Död” och ny Lena döps 1802. Trolig identitet men åldersuppgiften avviker – kontrollera om annan Nils-familj fanns i Såldebråten 1793 (A I/11 bild 17 m.fl. sidor).",
+   "persons": [
+    "lena_nilsd_1795_saldebraten"
+   ]
   }
  ],
  "excluded": [
@@ -4412,6 +4419,22 @@
    "text": "Dödboken F/2 bild 28: död 1/9 1818, 56 år 5 mån 4 dagar → född 28/3 1762 (stöder A I/11–12). A I/10 har 27/3, A I/13–14 skriver 23/3 (troligen felläsning av 28).",
    "persons": [
     "britta_eriksd_1762_saldebraten"
+   ]
+  },
+  {
+   "title": "Erik Nilsson f. 1797 – bostad efter 1822 var Forsnor, inte Fagerås",
+   "text": "Dop C/6 bild 109 (april 1823): ”Forsnor Erik Nilssons och Lisa Sophia Klingbergs Barn”; A I/16 bild 59 (fol. 48), A I/17 bild 65 (fol. 51), A I/18 bild 84 (fol. 73), A I/19 bild 99 (fol. 86): familjen i Forsnor 1823–1845. Fagerås var hustruns hem före vigseln.",
+   "persons": [
+    "erik_nilss_1797_saldebraten",
+    "sophia_klingberg_1803_forsnor"
+   ]
+  },
+  {
+   "title": "Stina Nilsdotter f. 1790 – vigseln med Jonas Jonsson bekräftad",
+   "text": "A I/14 bild 49 (fol. 37) Forsnor: ”Jonas Jonsson” 1786 10/3, ”H Stina Nils d:r” 1790 2/4 – exakt Stinas dopdatum (C/5 bild 85). Vigseln 22/6 1810 (E I/1 bild 163) avser alltså henne.",
+   "persons": [
+    "stina_nilsd_1790_saldebraten",
+    "jonas_jonsson_1786_forsnor"
    ]
   }
  ],
