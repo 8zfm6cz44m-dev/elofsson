@@ -24844,7 +24844,8 @@
    "FOLKRÄKNING 1890 Eda, Emterud norra: ”Nilsson, Kristina” f. 1867 i Boda, småskolelärarinna, ogift, ensamstående, sida 7 rad 29 (stämmer med utflyttning Boda A I/25 till Eda 15/3 1889).",
    "FOLKRÄKNING 1900 Eda, Emterud norra: gift, ”h.” (hustru) till Gustaf Persson Eklund f. 1869 i Boda, småskolelärarinna; dotter Dagny Elvira f. 1899 i Eda. 1910 (Emterud södra): hustru ”h.”; 1930 (S:a Emterud): ”Nilsson, Kristina … Gift, vigselår 1897, h., f. Nilsson”, make ”Eklund, Gustav” f. 1869 Boda. Sedan flytten till Eda 1889 gift 1897 med Gustaf Eklund; barn Dagny Elvira 1899, Gustaf Hubert 1901, Karl Bertil 1905.",
    "HUSFÖRHÖR Eda A I/28 (C0036941) bild 60, sida 50 Emterud norra, sista raden på sidan: ”Nilsson Kristina, småskolelärarinna” 67 18/8 Boda; inflyttad från Boda. Bekräftar utflyttningen Boda A I/25 'Eda 89 15/3'. Ensamstående, ej gift 1889-95 (ingen make nämns på raden). Raden ligger efter hushåll (Hellgren/Nordmark m.fl.) på samma sida; ingen familjeställning/hushållstillhörighet utöver egen rad.",
-   "Sök 1900/1910/1930: ingen Kristina Eklund f. 1867 i indexet; ej ytterligare kontrollerat om syskon i Eda 1930."
+   "Sök 1900/1910/1930: ingen Kristina Eklund f. 1867 i indexet; ej ytterligare kontrollerat om syskon i Eda 1930.",
+   "UB2 – LEAD (FamilySearch Family Tree PMJF-RZ3, användarträd): Kristina Nilsson f. 18/8 1867 Boda, vigd 2/1 1897 Boda med Gustaf Persson (K4Y4-ZLB, 1869–1957), död 13/7 1942 Eda. Stannade i Sverige – ingen Nordamerika-koppling."
   ],
   "sources": [
    {
@@ -24886,6 +24887,10 @@
    {
     "label": "Riksarkivet, Eda husförhörslängd A I/28 (1886-1895), bild 60 (sida 50, Emterud norra, sista raden): ”Nilsson Kristina, småskolelärarinna” f. 67 18/8, födelseort ”Boda”, flyttningskolumn ”Boda” (inflyttningsår/sida svårläst, ca 89); förhörsmarkeringar (m) i alla år 1886-95-kolumnerna",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036941_00060"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead): Kristina Nilsson 1867–1942, d. Eda",
+    "url": "https://www.familysearch.org/tree/person/details/PMJF-RZ3"
    }
   ],
   "search": [
@@ -31565,13 +31570,16 @@
   },
   "places": [
    "Östra Takene, Brunskog",
-   "Stockholm (Adolf Fredrik)"
+   "Stockholm (Adolf Fredrik)",
+   "Chicago, Illinois, USA"
   ],
   "summary": "Son till Olof Jansson och Britta Nilsdotter, f. 14/3 1861; kallad Carl Setterlund i A I/35; flyttade 23/12 1884 till Adolf Fredrik, Stockholm.",
   "notes": [
    "Folkräkning 1880 Ö. Takene (Folk_120423127, sida 27 rad 4): Karl f. 1861 Brunskog, Ogift, ”s.”. Födelsen 1861 ligger efter A I/27 (1856–60); A I/29 ej läst. Ej funnen i 1890–1910 under Karl/Brunskog.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
-   "A I/35 bild 197: ”Son Carl Setterlund 61 14/3” (född 14/3 1861 Ö. Takene) – tog alltså namnet Setterlund liksom halvbrodern Nils; flyttade till Adolf Fredriks församling, Stockholm 23/12 1884."
+   "A I/35 bild 197: ”Son Carl Setterlund 61 14/3” (född 14/3 1861 Ö. Takene) – tog alltså namnet Setterlund liksom halvbrodern Nils; flyttade till Adolf Fredriks församling, Stockholm 23/12 1884.",
+   "UB2 – DÖDSREGISTER ILLINOIS (FamilySearch-index Q2MD-J3TL): ”Carl Zetterlund, Birth 14 Mar 1861 Varmland, Sweden; Death 12 Oct 1943 Chicago, Cook, Illinois; Burial 16 Oct 1943 Chicago; Marital status Single; Occupation Machinist; age 82; father Olof Johnson; mother Britta Nilson; informant Elsa S Long”. Födelsedatum 14/3 1861 + Värmland + föräldrarna Olof Jansson/Britta Nilsdotter = vår Carl Setterlund (A I/35 bild 197) → verified. Samma föräldranamn i brodern Gustaf Zetterlunds dödsregistrering (Chicago 9/7 1944, N3WG-JF5).",
+   "UB2 – US CENSUS 1930 Chicago: Carl Zetterlund 69, f. Sverige, immigration 1886, Single, Guest; 1940 Chicago: 79, Single, Lodger. Flyttade från Adolf Fredrik, Stockholm 23/12 1884 → USA 1886 (enligt census). Ingen hustru/inga barn kända (ogift vid döden)."
   ],
   "sources": [
    {
@@ -31589,11 +31597,32 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   },
+   {
+    "label": "FamilySearch, Illinois Deaths and Stillbirths / Cook County deaths: Carl Zetterlund, f. 14 Mar 1861 Värmland, Sverige, d. 12 Oct 1943 Chicago, begr. 16 Oct 1943; ogift, maskinist; far Olof Johnson, mor Britta Nilson; uppgiftslämnare Elsa S Long",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2MD-J3TL"
+   },
+   {
+    "label": "FamilySearch, Cook County, Illinois Deaths: Carl Zetterlund f. 1861, d. 12 Oct 1943 Chicago; far Olof Johnson, mor Britta Nilson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:NQ4H-QYC"
+   },
+   {
+    "label": "FamilySearch, US Census 1930, Chicago, Cook, Illinois: Carl Zetterlund, 69 år, f. 1861 Sverige, invandrad 1886, ogift, gäst (guest) i hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XS58-4NZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1940, Chicago, Cook, Illinois: Carl Zetterlund, 79 år, f. 1861 Sverige, ogift, inneboende (lodger), samma bostad 1935",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K4MR-9JJ"
    }
   ],
   "search": [
    "Carl (Karl) Setterlund (f. 14/3 1861)"
-  ]
+  ],
+  "died": {
+   "date": "1943-10-12",
+   "place": "Chicago, Cook, Illinois, USA",
+   "note": "Illinois-dödsregister: begravd 16/10 1943 Chicago; ogift, maskinist, 82 år"
+  }
  },
  {
   "id": "karin_oj64",
@@ -32291,15 +32320,17 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1901",
-   "place": "Brunskog"
+   "date": "1901-04-23",
+   "place": "Brunskog",
+   "note": "FamilySearch-index husförhör Brunskog 1896–1909 och 1909–1920, Takene: f. 23 Apr 1901"
   },
   "places": [
    "Brunskog"
   ],
   "summary": "Son i Johan Nilssons och Kristina Persdotters hushåll, Takene; 1930 jordbruksarbetare hos modern (”Johansson”).",
   "notes": [
-   "FOLKRÄKNING 1910: Ivar Georg f. 1901 i hushållet; 1930: Johansson, Ivar Georg f. 1901 Brunskog hos Kristina Nilsson Persdotter. Obs: möjligen identisk med ivar_nilson_takene_usa (ej bevisat)."
+   "FOLKRÄKNING 1910: Ivar Georg f. 1901 i hushållet; 1930: Johansson, Ivar Georg f. 1901 Brunskog hos Kristina Nilsson Persdotter. Obs: möjligen identisk med ivar_nilson_takene_usa (ej bevisat).",
+   "UB2 – Födelsedatum 23/4 1901 (FamilySearch-index Brunskog husförhör, föräldrar Johan Nilsson/Kristina Persdotter). Ingen träff i USA med Ivar Nilson/Nelson/Johnson f. 23/4 1901. Obs: ’Ivar Nilson från Takene’ i Svenska Amerikanaren 1944 (ivar_nilson_takene_usa) passar troligen bättre Karl Ivar Nilson f. 11/1 1894 Brunskog (naturaliserad Illinois 5/5 1931, FS 61NZ-S9HJ; WWI-registrering Chicago QR2M-X5W2) – annan person, ej utredd här."
   ],
   "sources": [
    {
@@ -32309,6 +32340,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Brunskog Takene sida 24 rad 14: Nilsson Persdotter, Kristina f. 1863 Boda, änka (upplösningsår 1927), inflyttad 1869 från Boda; Johansson, Ivar Georg f. 1901",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883887&tab=post"
+   },
+   {
+    "label": "FamilySearch, Sweden Household Examination Books, Brunskog 1909–1920, Takene Nolgården: Ivar Georg f. 23 Apr 1901 Brunskog, föräldrar Johan Nilsson, Kristina Persdotter",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-BZX1"
    }
   ],
   "search": [
@@ -32962,8 +32997,9 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1874",
-   "place": "Sunne"
+   "date": "1874-05-19",
+   "place": "Sunne",
+   "note": "FamilySearch-index husförhör Arvika 1901–05 och Sunne 1876–80/1886–90: f. 19 May 1874 Sunne"
   },
   "places": [
    "Sunne"
@@ -32971,7 +33007,8 @@
   "summary": "Barn till folkskolläraren Nils Zetterlund (nils_ne) och Lovisa Jansdotter; f. 1874 i Sunne.",
   "notes": [
    "FOLKRÄKNING 1880 Sunne sida 125: i Nils Zetterlunds hushåll, f. 1874 i Sunne.",
-   "FOLKRÄKNING 1900 Arvika köping N:o 137: mekaniker, ogift, ”s.” hos fadern; ej funnen 1910/1930 (troligen utvandrad eller död)."
+   "FOLKRÄKNING 1900 Arvika köping N:o 137: mekaniker, ogift, ”s.” hos fadern; ej funnen 1910/1930 (troligen utvandrad eller död).",
+   "UB2 – Födelsedatum 19/5 1874 (FamilySearch-index Arvika 1901–05; även Sunne husförhör 1876–80 QGR9-SPBK, där indexerat ’Nils Kristoffer Jansd:r’ i Nils Zetterlunds hushåll). Ingen träff i Nordamerika (US/Kanada census, död, Find a Grave) under Zetterlund/Setterlund/Zetterland f. 1872–76."
   ],
   "sources": [
    {
@@ -32981,6 +33018,10 @@
    {
     "label": "Riksarkivet, Folkräkning 1900 Arvika köping N:o 137, sida 49 rad 36: Nils Kristoffer Zetterlund 1874 Sunne, mekaniker, ogift, familjeställning ”s.”",
     "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_113724061&tab=post"
+   },
+   {
+    "label": "FamilySearch, Sweden Household Examination Books 1874–1931, Arvika 1901–1905, N:o 137: Nils Kristoffer Zetterlund f. 19 May 1874 Sunne",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-XSH8"
    }
   ],
   "search": [
