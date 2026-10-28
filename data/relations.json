@@ -14969,5 +14969,62 @@
   "child": "nils_jonsson_1726_skog",
   "status": "verified",
   "basis": "C I/1 bild 162 vä nr 25: ”d 25 Sept. [1726] … Jon Giöstafss[ons] och h. Kari Nilsd:rs Barn i Skog ved namn Nils”"
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-johan_ersson_1723_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "johan_ersson_1723_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/2 bild 166 hö, 15/19 maj 1723: ”Erich Påhlsons barn i Högvalt Modern h. Kirstin. barnet nambdt Johannes”."
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-stina_ersd_1726_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "stina_ersd_1726_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/2 bild 185 hö, 8/13 mars 1726: ”Erik Påhlssons och h. Kirsten Måns[-]dotters barn i Högwalta … til namn Christina”."
+ },
+ {
+  "id": "s-johan_ersson_1723_hogvalta-sven_ersson",
+  "type": "sibling",
+  "a": "johan_ersson_1723_hogvalta",
+  "b": "sven_ersson",
+  "status": "strong",
+  "basis": "Samma föräldrar (C/2 bild 166 hö 1723; A I/3 bild 18 ’S: Swen Eriksson … S: Johan Eriksson’)."
+ },
+ {
+  "id": "s-stina_ersd_1726_hogvalta-sven_ersson",
+  "type": "sibling",
+  "a": "stina_ersd_1726_hogvalta",
+  "b": "sven_ersson",
+  "status": "strong",
+  "basis": "Samma föräldrar (C/2 bild 185 hö 1726; A I/3 bild 18 ’S: Swen Eriksson … D: Stina Eriksdotter’)."
+ },
+ {
+  "id": "c-sven_ersson-karin_nilsdotter19-nils_svensson_1745_hogvalta",
+  "type": "child",
+  "parents": [
+   "sven_ersson",
+   "karin_nilsdotter19"
+  ],
+  "child": "nils_svensson_1745_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/3 bild 191 hö, 23/24 aug 1745: ”Svens Erssons och h. Karin Nilsdrs barn i Högwalt, kallat Nils”."
+ },
+ {
+  "id": "s-johan_ersson_1723_hogvalta-stina_ersd_1726_hogvalta",
+  "type": "sibling",
+  "a": "johan_ersson_1723_hogvalta",
+  "b": "stina_ersd_1726_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta med föräldrarna Erik Påhlsson och Kerstin Månsdotter i Högvalta (C/2 bild 166 hö 1723, bild 185 hö 1726)."
  }
 ]
