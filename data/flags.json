@@ -418,6 +418,13 @@
    "persons": [
     "ryszard_o"
    ]
+  },
+  {
+   "title": "Karin Olofsdotter (f. 1864): födelsedag 11 jan (svensk källa) mot 13 jan (USA)",
+   "text": "Repo: 1864-01-11 (A I/35). Cook County death 1952 och naturalisering 1936 anger 13 Jan 1864. Kontrollera Brunskog dopbok C I/6 1864 (A0021056, ca bild 30–35).",
+   "persons": [
+    "karin_oj64"
+   ]
   }
  ],
  "conflicts": [
@@ -1142,6 +1149,13 @@
    "text": "Gravstenen i Kielce (Stary Cmentarz 15B/1/16) anger zm. 6 VIII 1972 och ligger i grav med Stanisława (2000) och Jan (1994). MyHeritage-trädet anger d. 13.8.1972 i Trzcińsko-Zdrój med jordfästning där, men Trzcińsko-Zdrójs gravregister (grobonet) har ingen Stefan Orzechowski. Föreslag: ändra död till 1972-08-06, Kielce; 13.8 kan vara begravningsdag. Verifiering: dödsakt USC Kielce 1972.",
    "persons": [
     "stefan"
+   ]
+  },
+  {
+   "title": "Anton Nordstroms dödsår: 1946 (Find a Grave) mot 1954 (Manitoba dödsregister)",
+   "text": "Find a Grave 236916743 anger död 1946; Manitoba Vital Statistics reg. 1954-003892 anger död 6/6 1954 i Minnedosa, f. 9/2 1874 Sverige, änkling. Registret (primärindex) bör gälla; Find a Grave-posten saknar födelsedata och är troligen felskriven.",
+   "persons": [
+    "anton_winnipeg_cousin"
    ]
   }
  ],
@@ -4621,6 +4635,13 @@
    "text": "Kielce Stary Cmentarz 16A/4/26: ”ORZECHOWSCY JÓZEFA żyła lat 85 zm. 23.VI.1983 / CZESŁAW żył lat 64 zm. 30.VII.1958” → Czesław f. ca 1894, för gammal för att vara son till Stefan (f. 1901). Utesluten för czeslaw_o.",
    "persons": [
     "czeslaw_o"
+   ]
+  },
+  {
+   "title": "Gustaf Olofsson f. 1866: födelsedag 3 okt enligt dopboken",
+   "text": "A I/35 lästes ”66 4/10(?)”. Dopboken C I/6 1866 nr 137 (bild A0021056_00076) ger född 3 okt, döpt 5 okt; Cook County 1944 anger 6 okt. Dopboken gäller: 1866-10-03.",
+   "persons": [
+    "gustaf_oj66"
    ]
   }
  ],

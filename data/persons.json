@@ -18573,7 +18573,7 @@
  {
   "id": "anton_winnipeg_cousin",
   "name": "Anton Nordstrom (Anton Andersson Norström, f. 9 febr 1874 Brunskog; kusin i Winnipeg 1903)",
-  "status": "strong",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "places": [
@@ -18588,7 +18588,12 @@
    "BU2: Manifestets 'Cousin Anton [..]strom, 371 Alexander Ave., Winnipeg' (Teutonic 7 maj 1903) är Anton/Anthony NORDSTROM. Henderson's Winnipeg Directory 1903 och 1904 har en enda boende på 371 Alexander: 'Nordstrom, Anthony, teamster' (1903 Windatt & Co., 1904 Winnipeg Coal Co.). Förnamn, '-strom'-slutet och den exakta adressen stämmer, så identiteten med manifestets kusin är stark. Senare: 1907–08 'Nordstrom Anton teamstr h 259 Gunnell'; folkräkning 1906 Winnipeg (f. 1874 Sverige); 1916 Odanah; 1926 Minnedosa (f. 1874, invandrad 1894, maka Martha Janet, barn Paul Milton, Clarence Henning, Eva Astroid); begravd Minnedosa 1946. I en BC-dödsregistrering för dottern Vera Elizabeth Holt står föräldrarna Anton Nordstrom och Janet Peterson (FamilySearch FLBJ-93R). OBEVISAT: hans svenska ursprung och hur han är kusin till Augustsson-bröderna (barn till ett syskon till August Nilsson eller till modern). Avgångslistan från England 27 apr 1893 (Anton Nordstrom f. 1874, FamilySearch 68LP-99PH) är bara en lead. FamilySearch-trädprofilen GQJG-JHJ saknar uppgifter.",
    "BU8 – SVENSKT URSPRUNG: Brunskog C I/6 1874 nr 8: 'Anton', född 9, döpt 10 febr 1874, föräldrar Anders Andersson och Maria Kajsa Nilsdotter, Nolby. A I/35 (1881–90) bild 253: 'Son Anton 74 9/2 Nolby', familjen 'Vistas i Ångermanland vid Sågverk', utflyttad Härnösand 1885. Folkräkning 1890 Gudmundrå, Sprängsvikens Ångsåg: fadern heter 'Andersson Norström, Anders', med sonen Anton f. 1874 i Brunskog. Gudmundrå in- och utflyttningslängd B I/3 bild 100, 1893 nr 22: '18/3 | 865 | Arb. Anton Norström f. 74 | Sprängsviken | N. America'. Han finns inte i de svenska folkräkningarna 1900 och 1910 (Riksarkivets index: Anton Nordström f. 1874 bara Norrbotten 1900 och Stockholm 1910/1930, andra personer). Avresan från Liverpool 27/4 1893 (Anton Nordstrom 19, Laurentian till Quebec) ligger 5–6 veckor efter flyttattesten och stämmer.",
    "BU8 – KUSINSKAP: modern Maria Kajsa Nilsdotter (f. 4/2 1849) är dotter till Nils Jansson och Britta Olsdotter (dop 1849; A I/31 bild 225) och därmed helsyster till August Nilsson f. 1855. Anton är alltså kusin på fädernet till Johan Albin, Anna Maria, Nils Einar och Hanna Augustsson. Det stämmer med 'Cousin' i manifestet 1903.",
-   "Status för identiteten Winnipeg-Anton = Anton Norström f. 1874 Brunskog: STRONG (namnet Norström/Nordstrom, födelseåret, utvandringen till N. Amerika våren 1893 och den belagda kusinrelationen; det finns ingen kanadensisk handling som nämner Brunskog eller föräldrarna)."
+   "Status för identiteten Winnipeg-Anton = Anton Norström f. 1874 Brunskog: STRONG (namnet Norström/Nordstrom, födelseåret, utvandringen till N. Amerika våren 1893 och den belagda kusinrelationen; det finns ingen kanadensisk handling som nämner Brunskog eller föräldrarna).",
+   "UA5 – MANITOBA DÖDSREGISTRERING 1954-003892 ordagrant (index): ”NORDSTROM ANTON, MALE, DoD 06/06/1954, Place of death MINNEDOSA, Marital status WIDOWED, DoB 09/02/1874, Age 80 YEARS, PoB SWEDEN”. Exakt samma födelsedatum som dopet i Brunskog C I/6 1874 nr 8 (född 9 febr 1874) + Sverige + Minnedosa (Find a Grave) → identiteten Winnipeg-/Minnedosa-Anton = Anton Andersson Norström f. 1874 Brunskog nu VERIFIED.",
+   "UA5 – VIGSEL Manitoba 1896-001542: ”NORDSTROM ANTON – PETERSON MARTHA JANET, 11/12/1896, WINNIPEG”. Enda Nordstrom–Peterson-vigseln i Manitobas index.",
+   "UA5 – BARN (MB födelseregister, modern Peterson; faderns namn ej indexerat): Vera Elizabeth 1897, Lillian Gladys 1899, Walter Hilding 1904 (d. 1904), Paul Milton 1905, Edna Maud 1906 (mor ”Mary Jane”, candidate), Liola Edith 1908 (d. 1908), Clarence Hemming Anthony 1912 (Odanah), Eva Astrid Evangeline 1915 (Odanah). Ev. barn 1900–03 och 1909–11 ej funna i indexet.",
+   "UA5 – Find a Grave 236916743 anger dödsår 1946; Manitobas dödsregister anger 6 juni 1954 – registret går före (se flagga).",
+   "UA5 – Canada Census 1916 Odanah MB: ”Anton Nordstrom, 42, f. 1874 Sweden, ankomst 1894, Married, Swede”. 1906 Winnipeg och 1926 Marquette: med hustru Jennie/Martha Janet och barn."
   ],
   "sources": [
    {
@@ -18642,6 +18647,34 @@
    {
     "label": "FamilySearch, UK Outgoing Passenger Lists: Anton Nordstrom, 19 år, f. 1874, ogift, 'LAB', Liverpool 27 apr 1893, S/S Laurentian (Allan Line) till Quebec",
     "url": "https://www.familysearch.org/ark:/61903/1:1:68LP-99PH"
+   },
+   {
+    "label": "Manitoba Vital Statistics, död reg. 1954-003892 (Anton Nordstrom, Minnedosa 06/06/1954, f. 09/02/1874 Sweden)",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1896-001542 (Anton Nordstrom – Martha Janet Peterson, Winnipeg 11/12/1896)",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Find a Grave 236916743, Anton ”Tony” Nordstrom, Minnedosa Cemetery",
+    "url": "https://www.findagrave.com/memorial/236916743/anton-nordstrom"
+   },
+   {
+    "label": "FamilySearch, Canada Census of Northwest Provinces 1906, Winnipeg: Anton Nordstrom f. 1874 Sverige, hustru Jennie, dotter Vera",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KHJY-CG3"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1916, Odanah MB: Anton Nordstrom 42, f. 1874 Sverige, ankomst 1894, gift",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KMGK-GF8"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   },
+   {
+    "label": "FamilySearch, BC Death Registrations 1967 reg. 67-09-009616: Vera Elizabeth Holt f. 26 Feb 1897 Manitoba, far Anton Nordstrom, mor Janet Peterson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FLBJ-93R"
    }
   ],
   "search": [
@@ -18653,9 +18686,9 @@
    "note": "Dopbok Brunskog C I/6 1874 nr 8 (döpt 10 febr); A I/35 '74 9/2 Nolby'. Kanadensiska folkräkningar: f. 1874 Sverige."
   },
   "died": {
-   "date": "1946",
+   "date": "1954-06-06",
    "place": "Minnedosa, Manitoba, Kanada",
-   "note": "Find a Grave-index: Anton 'Tony' Nordstrom, begravd Minnedosa Cemetery, död 1946"
+   "note": "Manitoba Vital Statistics död reg. 1954-003892: DoB 09/02/1874, PoB Sweden, änkling, 80 år. (Find a Grave anger felaktigt 1946.)"
   }
  },
  {
@@ -30982,7 +31015,8 @@
    "A I/25 bild 140: ”Dotter Britta ?/12 52 ibm”; A I/27 bild 142: ”egen d. Brita 4/12 52 ibm”. Folkräkning 1880 Ö. Takene (Folk_120423126, sida 27 rad 3): Britta f. 1852 Brunskog, Ogift, ”d.”. Senare öden ej utredda.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
    "Gift 6/3 1881 med missionstalaren Petrus Johansson (Ny socken, Värmland) enligt A I/35 bild 197; utflyttad till Ny 8/12 1881. Petrus Johansson ej utredd här (f. ca 1846? – annan agent söker honom).",
-   "AQ1: Hustru till Petrus Johansson i folkräkningarna 1890 Takene, 1900 Ö. Takene, 1910 Degernästorp (Degerfors); 8 barn 1881–1897 (stjärn­barn Ester och Josef f. 1876/1879 hör till Petrus första äktenskap)."
+   "AQ1: Hustru till Petrus Johansson i folkräkningarna 1890 Takene, 1900 Ö. Takene, 1910 Degernästorp (Degerfors); 8 barn 1881–1897 (stjärn­barn Ester och Josef f. 1876/1879 hör till Petrus första äktenskap).",
+   "UA5 – Find a Grave (gravregister Arvika): ”Britta Olsson Rensta, 4 Dec 1852 – 3 Apr 1944 (aged 91), Arvika kyrkogård, plot 10B 0103”. Födelsedatum = vårt 1852-12-04 → strong för dödsdatum (kan vara begravningsdatum). Även hennes son Gustav Renstas kanadensiska dödsregistrering 1976 anger modern ”Olof-dotter Britta”."
   ],
   "sources": [
    {
@@ -31012,11 +31046,20 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Find a Grave 320620833, Britta Olsson Rensta (4 Dec 1852 – 3 Apr 1944), Arvika kyrkogård",
+    "url": "https://www.findagrave.com/memorial/320620833/britta-rensta"
    }
   ],
   "search": [
    "Britta Olofsdotter (f. 1852)"
-  ]
+  ],
+  "died": {
+   "date": "1944-04-03",
+   "place": "Arvika (begravd Arvika kyrkogård, 10B 0103)",
+   "note": "Find a Grave 320620833 – ”death date listed may be the interment date”"
+  }
  },
  {
   "id": "maria_oj55",
@@ -31106,7 +31149,7 @@
  },
  {
   "id": "karin_oj64",
-  "name": "Karin Olofsdotter (f. 1864)",
+  "name": "Karin Olofsdotter / Karin Zetterlund (1864–1952, Chicago)",
   "status": "verified",
   "sex": "f",
   "living": false,
@@ -31116,13 +31159,17 @@
    "note": "A I/35 bild 197: ”Karin 64 11/1”."
   },
   "places": [
-   "Östra Takene, Brunskog"
+   "Östra Takene, Brunskog",
+   "Chicago, Illinois"
   ],
   "summary": "Barn till Olof Jansson och Britta Nilsdotter på Ö. Takene (halvsyskon till Erik Nilsson Zetterlund). Dotter (”d.”) hos Olof Jansson 1880 och 1890.",
   "notes": [
    "Folkräkning 1880 Ö. Takene (Folk_120423128, sida 27 rad 5): Karin f. 1864, Ogift, ”d.”. 1890 Takene (Folk_103598076, sida 22 rad 6): Karin f. 1864 Brunskog, Ogift, ”d.” i Olof Janssons hushåll.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
-   "A I/35 bild 197: ”Dotter Karin 64 11/1” – ingen utflyttning noterad 1881–90 (stämmer med folkräkning 1890 på Takene)."
+   "A I/35 bild 197: ”Dotter Karin 64 11/1” – ingen utflyttning noterad 1881–90 (stämmer med folkräkning 1890 på Takene).",
+   "UA5 – USA, VERIFIED: Cook County death (Q2M4-N69V) ordagrant: ”Karin Zetterlund, Female, 88, born 13 Jan 1864, Sweden; 11404 So Bell; Single; Domestic; died 25 Jul 1952 Chicago; Rosehill; Father Olaf Johnson, Mother Brtta Nelson”. Naturalisering (deklaration) 7 maj 1936 Cook County: ”Karn or Karin Olafsdaugther Zetterlund, born 13 Jan 1864, Warmland, Sweden” (cert. 116705); medborgarskap 24 nov 1941. Föräldrar + Värmland + 1864 + bodde med brodern Gustaf Zetterlund 1900–1940 → samma person som Karin f. 1864 på Ö. Takene.",
+   "UA5 – Avvikelse: repo har f. 1864-01-11 (svensk källa); amerikanska källor anger 13 jan 1864 – svensk källa går före; se flagga.",
+   "UA5 – Ellis Island 19 nov 1903 ”Carin Zetterlund 40, Al” gäller en annan Karin (från Ål, Dalarna) – hon var redan i Chicago 1900 (”Carrie Zetterlund 36” hos Gust)."
   ],
   "sources": [
    {
@@ -31140,32 +31187,53 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   },
+   {
+    "label": "FamilySearch, Illinois Cook County Deaths: Karin Zetterlund d. 25 Jul 1952, f. 13 Jan 1864 Sweden, föräldrar Olaf Johnson och Brtta Nelson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2M4-N69V"
+   },
+   {
+    "label": "FamilySearch, Illinois naturalisering (Declaration of Intention) 7 maj 1936: Karin Olafsdaugther Zetterlund f. 13 Jan 1864 Warmland, Sweden",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6BS5-6Y41"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Chicago: Karin Zetterlund 76 i Gusta Zetterlunds hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K49S-61S"
    }
   ],
   "search": [
    "Karin Olofsdotter (f. 1864)"
-  ]
+  ],
+  "died": {
+   "date": "1952-07-25",
+   "place": "Chicago, Cook County, Illinois, USA",
+   "note": "Cook County death reg. nr 50293; ogift; domestic; begravd Rosehill"
+  }
  },
  {
   "id": "gustaf_oj66",
-  "name": "Gustaf Olofsson (f. 1866)",
+  "name": "Gustaf Olofsson / Gustaf Zetterlund (1866–1944, Chicago)",
   "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1866-10-04",
+   "date": "1866-10-03",
    "place": "Östra Takene, Brunskog",
-   "note": "A I/35 bild 197: ”66 4/10” (osäker läsning)."
+   "note": "Dopbok Brunskog C I/6 1866 nr 137 (bild A0021056_00076): född 3 okt, döpt 5 okt. Cook County-dödsregistret anger 6 okt 1866 (ålder 77 år 9 mån 3 d)."
   },
   "places": [
    "Östra Takene, Brunskog",
-   "Nordamerika"
+   "Chicago, Illinois (1888–1944)"
   ],
   "summary": "Son till Olof Jansson och Britta Nilsdotter, f. ca 4/10 1866; utvandrade till Nordamerika 1888 (tillstånd att lämna riket 1888). Halvbror till Erik Nilsson Zetterlund.",
   "notes": [
    "Folkräkning 1880 Ö. Takene (Folk_120423129, sida 27 rad 6): Gustaf f. 1866 Brunskog, Ogift, ”s.”. Senare öde ej funnet.",
    "HUSFÖRHÖR A I/35 bild 197 (fol. 197, Ö. Takene; anm. överst: ”Skrifven hos sin måg p. 196”): ”Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter 1. Britta 52 4/12 Ö. Takene – gift 6/3 81; – Maja 55 3/11 do; Son Carl Setterlund 61 14/3 do; Dotter Karin 64 11/1 do; Son Gustaf 66 4/10(?) do.” Utflyttning: Britta ”Ny 81 8/12” (anm. ”Gift med missionstalaren Petrus Johansson, Ny socken, Wermland”); Maja ”Storkyrkan, Stockholm 83 26/1”; Carl ”Adolf Fred., Stockholm 84 23/12” (anm. ”Marone(?) arb.” osäker); Gustaf ”Nordamerika 88 ?/?” (anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”); Karin ingen utflyttning noterad.",
-   "A I/35 bild 197: ”Son Gustaf 66 4/10(?)”; anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”; utflyttad till Nordamerika 1888 (datum osäkert: ”88 ?/8”)."
+   "A I/35 bild 197: ”Son Gustaf 66 4/10(?)”; anm. ”in ex. 1887: Erhållit nådigt tillstånd att lämna riket 1?/2 88”; utflyttad till Nordamerika 1888 (datum osäkert: ”88 ?/8”).",
+   "UA5 – DOP (primär) Brunskog C I/6 1866 bild 76 nr 137, ordagrant: ”137 | [Oct] 3 | 5 | 1 [m] | Gustaf | Bonden Olof Jönsson [Jansson] och h. Britta Nilsdotter | Östra Takene p. 197”. Födelsedagen är alltså 3 okt 1866 (ej 4/10 som i A I/35-läsningen).",
+   "UA5 – USA, VERIFIED: Cook County death record (FamilySearch Q2MD-8G5F) ordagrant: ”Gustaf Zetterlund, Male, 77, born 06 Oct 1866, Varmland, Sweden; 1454 Berwyn Ave; Single; Contractor; died 09 Jul 1944 Chicago; buried Rosehill 13 Jul 1944; Father Olof Johnson, Mother Britta Nilson” (informant/annan person: Karin Zetterlund). Föräldranamn (Olof Jansson/Britta Nilsdotter) + Värmland + 1866 + utvandring 1888 (US Census 1900: ankomst 1888) = samme man. Han tog släktnamnet Zetterlund som halvbrodern Erik Nilsson Zetterlund.",
+   "UA5 – US CENSUS: 1900 Chicago Ward 24 (Gust, f. Oct 1866, ankomst 1888, ogift, med ”Carrie Zetterlund” 36); 1930 Chicago (Gustaf 63, ogift, med ”Corin Zetterlund” 65); 1940 Chicago Ward 48 (Gusta 72, ogift, med Karin Zetterlund 76) – systern Karin (karin_oj64) bodde hos honom.",
+   "UA5 – VARNING: Gustave Zetterlund (23 okt 1866 – 16 maj 1951, Ogden, Utah; Find a Grave 103521123) är en ANNAN man; FamilySearch-trädet (GR1Y-B3D) har felaktigt kopplat 1900-census i Chicago till honom. Gifte sig aldrig (Single 1900–1944); inga barn kända."
   ],
   "sources": [
    {
@@ -31183,11 +31251,40 @@
    {
     "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 197 (fol. 197), Ö. Takene: Inh. Olof Jansson 21 10/12 Skog; H. Britta Nilsdotter 20 15/2 Strand; Dotter Britta 52 4/12 (gift 6/3 81, Ny 8/12 81); Maja 55 3/11 (Storkyrkan Stockholm 83); Son Carl Setterlund 61 14/3 (Adolf Fredrik Stockholm 84); Dotter Karin 64 11/1; Son Gustaf 66 (Nordamerika 88)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00197"
+   },
+   {
+    "label": "Riksarkivet, Brunskog C I/6 (1861–1874), bild 76: dop 1866 nr 137 Gustaf, f. 3/10, föräldrar Bonden Olof Jansson och h. Britta Nilsdotter, Östra Takene p. 197",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0021056_00076"
+   },
+   {
+    "label": "FamilySearch, Illinois Cook County Deaths 1871–1998: Gustaf Zetterlund d. 9 Jul 1944, f. 6 Oct 1866 Varmland, föräldrar Olof Johnson och Britta Nilson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2MD-8G5F"
+   },
+   {
+    "label": "FamilySearch, Illinois Deaths and Stillbirths 1916–1948: Gustaf Zetterlund, 77y 9m 3d",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:N3WG-JF5"
+   },
+   {
+    "label": "FamilySearch, US Census 1900 Chicago Ward 24: Gust Zetterlund f. Oct 1866, ankomst 1888, med Carrie Zetterlund 36",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MSQZ-4QJ"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 Chicago: Gustaf Zetterlund 63, med Corin Zetterlund 65",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XS5L-8NZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1940 Chicago Ward 48: Gusta Zetterlund 72, med Karin Zetterlund 76",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:K49S-61S"
    }
   ],
   "search": [
    "Gustaf Olofsson (f. 1866)"
-  ]
+  ],
+  "died": {
+   "date": "1944-07-09",
+   "place": "Chicago, Cook County, Illinois, USA",
+   "note": "Cook County death reg. nr 19798; ogift; contractor; begravd Rosehill 13 juli 1944"
+  }
  },
  {
   "id": "betty_j1853_skog",
@@ -36677,8 +36774,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1881",
-   "place": "Södra Ny, Värmland"
+   "date": "1881-11-01",
+   "place": "Södra Ny, Värmland",
+   "note": "Find a Grave/gravregister"
   },
   "places": [
    "Ny",
@@ -36687,7 +36785,8 @@
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. Född 1881 – troligen dotter till Britta (g. 6/3 1881).",
   "notes": [
-   "FOLKRÄKNING 1890 ”Rebecka Naemi, f. 1881 i Ny”; 1910 Degernästorp ”Rebecka Naëmi, f. 1881 i Södra Ny”."
+   "FOLKRÄKNING 1890 ”Rebecka Naemi, f. 1881 i Ny”; 1910 Degernästorp ”Rebecka Naëmi, f. 1881 i Södra Ny”.",
+   "UA5 – Find a Grave: ”Rebecka Naemi Rensta 1 Nov 1881 – 12 Aug 1973” (unikt namn + år; strong)."
   ],
   "sources": [
    {
@@ -36697,11 +36796,19 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Find a Grave 320622761, Rebecka Naemi Rensta (1 Nov 1881 – 12 Aug 1973)",
+    "url": "https://www.findagrave.com/memorial/320622761/rebecka-naemi-rensta"
    }
   ],
   "search": [
    "Rebecka Naemi Johansson (f. 1881 Ny)"
-  ]
+  ],
+  "died": {
+   "date": "1973-08-12",
+   "note": "Find a Grave 320622761 (Rebecka Naemi Rensta)"
+  }
  },
  {
   "id": "aq1_hezekiel_pj83",
@@ -36742,8 +36849,9 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1885",
-   "place": "Stora Tuna, Kopparbergs län"
+   "date": "1885-03-23",
+   "place": "Stora Tuna, Kopparbergs län",
+   "note": "Find a Grave/gravregister"
   },
   "places": [
    "Stora Tuna",
@@ -36752,7 +36860,8 @@
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
   "notes": [
-   "FOLKRÄKNING 1890, 1900 och 1910 (Degernästorp): Hanna Maria f. 1885 Stora Tuna, hemmavarande."
+   "FOLKRÄKNING 1890, 1900 och 1910 (Degernästorp): Hanna Maria f. 1885 Stora Tuna, hemmavarande.",
+   "UA5 – Find a Grave: ”Hanna Maria Rensta 23 Mar 1885 – 16 Dec 1978” (namn + år matchar; begravningsort ej läst; strong)."
   ],
   "sources": [
    {
@@ -36766,11 +36875,19 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Find a Grave 320612130, Hanna Maria Rensta (23 Mar 1885 – 16 Dec 1978)",
+    "url": "https://www.findagrave.com/memorial/320612130/hanna-maria-rensta"
    }
   ],
   "search": [
    "Hanna Maria Johansson (f. 1885 Stora Tuna)"
-  ]
+  ],
+  "died": {
+   "date": "1978-12-16",
+   "note": "Find a Grave 320612130 (Hanna Maria Rensta)"
+  }
  },
  {
   "id": "aq1_sara_pj87",
@@ -36868,7 +36985,9 @@
    "FOLKRÄKNING 1900 Takene: ”Bror Gustaf Benjamin, f. 1892 i Brunskog”; 1910 Degernästorp: ”Johansson, Bror Gustaf Benjamin”; 1930 Arvika, obefintlighetsboken s.19 (överförd 1925), s.184 r.1: ”Rensta, Bror Gustaf Benjamin f. 1892 Brunskog, ogift, vistas i Canada”. Samma tre namn + födelseår/-ort.",
    "FAMILYSEARCH-INDEX: Bror Gustaf Benjamin Rensta f. 12/8 1892 Brunskog, föräldrar Petrus Johansson + Britta Olsson (verified som person redan; födelsedatum nytt). Kanada: invandringspost 1924 Three Rivers, Quebec, ålder 32, ogift, f. Brunskog (verified identitet: samma tre namn + efternamn Rensta + födelseort). Fortsatt öde (STRONG): 'Gustav (B.) Rensta' f. 12 aug 1892 'Sweden' i USA:s Alien Case Files + NUMIDENT, och Find a Grave 'Gustav Rensta' 1892-11 maj 1976 Kelowna BC; make i BC dödsregister 'Gustav Rensta' med hustru Jean Rensta (post ej öppnad). Rensta är ovanligt namn, men ingen post binder Gustav till Brunskog – kräver t.ex. BC-dödsbevis (föräldrar/födelseort) eller 1921/1931 Canada census.",
    "Redan verified. Extra stöd (FamilySearch): Sverige, Husförhörsböcker 1874-1931: Bror Gustaf Benjamin Rensta, 'Födelse 12 augusti 1892 Brunskog', 'Föräldrar Petrus Johansson, Britta Olsson', syskon Hanna Maria, Elias Emfrid, Rut, Rebecka Naemi Rensta, Elsa Debora Johansson. Kanada, Immigrationsregister 1919-1924: 'Invandring 1924 Trois-Rivières, Quebec, Födelse 1892 Brunskog'. BC Death Registration 1976 (Kelowna) ej funnen.",
-   "FAMILYSEARCH BN2: Canada Census 1 juni 1931, Montreal, Quebec: Gustav Rensta f. 1893 Sweden (ytterligare belägg efter invandring 1924 Trois-Rivieres). BC Death Registration 1872-1986 indexerar 'Gustav Rensta' endast som make till Jean Rensta (hennes registrering); hans egen dödsregistrering ej indexerad. Gravindex Kelowna 11 maj 1976 oförändrat."
+   "FAMILYSEARCH BN2: Canada Census 1 juni 1931, Montreal, Quebec: Gustav Rensta f. 1893 Sweden (ytterligare belägg efter invandring 1924 Trois-Rivieres). BC Death Registration 1872-1986 indexerar 'Gustav Rensta' endast som make till Jean Rensta (hennes registrering); hans egen dödsregistrering ej indexerad. Gravindex Kelowna 11 maj 1976 oförändrat.",
+   "UA5 – BC DÖDSREGISTRERING 76-09-008809 (bild 004479360_01094) ordagrant: ”Rensta / Gustav / Male / Kelowna General Hospital, Kelowna, British Columbia / 1596 Mountain Ave. [överstruket 1134 Bernard Ave.], Kelowna B.C. / Widowed / [maka] Unknown / Retired Labourer / Birthdate August 12, 1892 / Birthplace Farmland, Sweden / Father Rensta Johanson – Sweden / Mother [maiden] Olof-dotter Britta – Sweden / Informant … No relationship / Burial May 14, 1976, Kelowna City Cemetery / Date of death May 11 1976”. Födelsedatum 12/8 1892 + Värmland (”Farmland”) + föräldrarna (Petrus) Johansson och Britta Olofsdotter → dödsfallet i Kelowna är nu VERIFIED (tidigare strong, endast Find a Grave-index).",
+   "UA5 – Hustru: Jean f. Simms (1887–1968, Mountain, Ontario), se ua5_jean_simms_rensta; Gustav var informant vid hennes död 1968 (”Husband”). Inga barn kända."
   ],
   "sources": [
    {
@@ -36906,6 +37025,14 @@
    {
     "label": "FamilySearch, Canada Census 1931 Montreal: Gustav Rensta f. 1893 Sweden",
     "url": "https://www.familysearch.org/search/record/results?q.surname=Rensta&q.birthLikeDate.from=1890&q.birthLikeDate.to=1894"
+   },
+   {
+    "label": "BC Archives, Registration of Death 1976-09-008809, Gustav Rensta (bild 004479360_01094)",
+    "url": "https://search-collections.royalbcmuseum.bc.ca/Image/Genealogy/4f8b19fb-e0eb-4a40-a276-532388bc6c7b"
+   },
+   {
+    "label": "BC Archives genealogi-sökning Rensta (2 dödsposter: Jean 1968, Gustav 1976)",
+    "url": "https://search-collections.royalbcmuseum.bc.ca/Genealogy/Results?search=Search&as.type_birth=true&as.type_marriage=true&as.type_death=true&as.last_name=Rensta"
    }
   ],
   "search": [
@@ -36913,8 +37040,8 @@
   ],
   "died": {
    "date": "1976-05-11",
-   "place": "Kelowna, British Columbia, Canada",
-   "note": "STRONG (ej verified): Find a Grave-index 'Gustav Rensta' f. 1892, d. 11 maj 1976, Kelowna Memorial Park Cemetery. Koppling bygger på ovanligt efternamn + exakt födelsedatum 12 aug 1892, inte på en post som nämner Brunskog/föräldrar."
+   "place": "Kelowna General Hospital, Kelowna, British Columbia, Kanada",
+   "note": "BC Registration of Death 1976-09-008809: f. 12 aug 1892 'Farmland [=Värmland], Sweden', far 'Rensta Johanson', mor 'Olof-dotter Britta'; änkling; begravd Kelowna City Cemetery 14 maj 1976."
   }
  },
  {
@@ -36933,7 +37060,9 @@
    "Toltan, Brunskog"
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll, f. 11/10 1894. Hålls isär från Rut Olsson f. 1894 Wikene (g. 1925 med Adolf Wilhelm Nilsson); giftermålet 1925 gäller inte henne.",
-  "notes": [],
+  "notes": [
+   "UA5 – Find a Grave: ”Rut Rensta 11 Oct 1894 – 17 Oct 1974” – födelsedatum exakt = vårt 1894-10-11 (strong för dödsdatum)."
+  ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1900 Brunskog Östra Takene s.30 r.41: Petrus Johansson f. 1846 Väse; hustru Britta Olsdotter f. 1852; barn Hesekiel Natanael, Hanna Maria, Sara Elisabet, Elsa Debora, Bror Gustaf Benjamin, Rut, Elias Ernfrid",
@@ -36946,21 +37075,30 @@
    {
     "label": "Riksarkivet, Folkräkning 1930 Brunskog Toltan s.26 r.24: Olsson, Rut f. 1894 Brunskog, h., g. 1925, f. Olsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_128883994&tab=post"
+   },
+   {
+    "label": "Find a Grave 320620796, Rut Rensta (11 Oct 1894 – 17 Oct 1974)",
+    "url": "https://www.findagrave.com/memorial/320620796/rut-rensta"
    }
   ],
   "search": [
    "Rut Johansson (f. 1894 Brunskog), g. 1925 Adolf Wilhelm Nilsson"
-  ]
+  ],
+  "died": {
+   "date": "1974-10-17",
+   "note": "Find a Grave 320620796 (Rut Rensta)"
+  }
  },
  {
   "id": "aq1_elias_pj97",
-  "name": "Elias Ernfrid Johansson (f. 1897 Brunskog)",
+  "name": "Elias Ernfrid Johansson (Fred Elias Rensta) (f. 1897 Brunskog)",
   "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
    "date": "1897",
-   "place": "Brunskog"
+   "place": "Brunskog",
+   "note": "Find a Grave (USA) anger 24 feb 1897 – ej kontrollerat mot svensk källa"
   },
   "places": [
    "Takene, Brunskog",
@@ -36968,7 +37106,8 @@
   ],
   "summary": "Barn i Petrus Johanssons (f. 1846 Väse, predikant) hushåll. ",
   "notes": [
-   "FOLKRÄKNING 1900 Östra Takene och 1910 Degernästorp: Elias Ernfrid f. 1897 Brunskog."
+   "FOLKRÄKNING 1900 Östra Takene och 1910 Degernästorp: Elias Ernfrid f. 1897 Brunskog.",
+   "UA5 – USA (STRONG, ej verified): Find a Grave 122989750 ordagrant ”Fred Elias Rensta, Birth 24 Feb 1897 Sweden, Death 6 Sep 1979 (aged 82) Sacramento … East Lawn Memorial Park”, maka Helen H. Lindroth Rensta (1911–2009). US Census 1950 Sacramento: ”Fred C Rensta, Head, 53, born Sweden, Plaster/Building Contractor, citizen”. Koppling: det unika släktnamnet Rensta (brodern Gustav Rensta i Kanada, modern Britta Olsson Rensta), förnamnet Elias och födelseår 1897. Exakt födelsedag 24/2 1897 bör kontrolleras mot Brunskogs dopbok/SCB 1897 för verified."
   ],
   "sources": [
    {
@@ -36978,11 +37117,24 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Degerfors kapell, Degernästorp s.70 r.35: Petrus Johansson f. 1846 Väse, predikant, husägare; Britta Olsson f. 1852 (”Väse”); barn Rebecka Naëmi, Hanna Maria, Sara Elisabet, Elsa Debora, Rut, Elias Ernfrid",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_121320034&tab=post"
+   },
+   {
+    "label": "Find a Grave 122989750, Fred Elias Rensta (24 Feb 1897 Sweden – 6 Sep 1979 Sacramento)",
+    "url": "https://www.findagrave.com/memorial/122989750/fred-elias-rensta"
+   },
+   {
+    "label": "FamilySearch, United States Census 1950, Fred C Rensta, Sacramento",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XGC-N8DR"
    }
   ],
   "search": [
    "Elias Ernfrid Johansson (f. 1897 Brunskog)"
-  ]
+  ],
+  "died": {
+   "date": "1979-09-06",
+   "place": "Sacramento, California, USA",
+   "note": "Find a Grave 122989750 (strong identitet)"
+  }
  },
  {
   "id": "aq1_adolf_nilsson84",
@@ -53718,6 +53870,410 @@
   ],
   "search": [
    "Jeny Signora Gundersen (f. 1875, Kristiania)"
+  ]
+ },
+ {
+  "id": "ua5_martha_janet_peterson",
+  "name": "Martha Janet (Janet Martha, Jennie) Nordstrom f. Peterson",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1879-09-24",
+   "note": "Manitoba dödsregistrering 1939-040289: DoB 24/09/1879"
+  },
+  "died": {
+   "date": "1939-10-14",
+   "place": "Minnedosa, Manitoba, Kanada",
+   "note": "MB Vital Statistics death reg. 1939-040289, 60 år"
+  },
+  "places": [
+   "Winnipeg, Manitoba",
+   "Minnedosa, Manitoba"
+  ],
+  "summary": "Hustru till Anton Nordstrom (f. 1874 Brunskog); vigda i Winnipeg 11 dec 1896. Död 14 okt 1939 i Minnedosa, begravd Minnedosa Cemetery.",
+  "notes": [
+   "MB VITAL STATISTICS (vigsel 1896,001542): ”NORDSTROM ANTON – PETERSON MARTHA JANET, 11/12/1896, WINNIPEG”.",
+   "MB VITAL STATISTICS (död 1939-040289): ”NORDSTROM JANET MARTHA, DoD 14/10/1939, Minnedosa, DoB 24/09/1879, 60 years”.",
+   "FIND A GRAVE 236916755: ”Martha Peterson Nordstrom, d. 1939, Minnedosa Cemetery”, länkad som maka till Anton ”Tony” Nordstrom.",
+   "Födelseland ej angivet i indexet.",
+   "UA5 – Kanadensiska folkräkningar: 1906 Winnipeg ”Anton Nordstrom (1874 Sweden) – maka Jennie – barn Vera”; 1926 Marquette/Woodlands ”Anton Nordstrom – maka Martha Janet Nordstrom – barn Clarence Henning, Paul Milton, Eva Astroid”. Dotterns dödsregistrering (BC 1967) anger modern ”Janet Peterson” och fadern Anton Nordstrom → Jennie = Martha Janet; partnerskapet verified."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, vigsel reg. 1896-001542 (Anton Nordstrom – Martha Janet Peterson, Winnipeg 11/12/1896)",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Manitoba Vital Statistics, död reg. 1939-040289 (Janet Martha Nordstrom, Minnedosa 14/10/1939)",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "Find a Grave 236916755, Martha Peterson Nordstrom",
+    "url": "https://www.findagrave.com/memorial/236916755/martha-nordstrom"
+   },
+   {
+    "label": "FamilySearch, Canada Census of Northwest Provinces 1906, Winnipeg: Anton Nordstrom f. 1874 Sverige, hustru Jennie, dotter Vera",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KHJY-CG3"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   }
+  ],
+  "search": [
+   "Martha Janet (Janet Martha, Jennie) Nordstrom f. Peterson"
+  ]
+ },
+ {
+  "id": "ua5_vera_elizabeth_nordstrom_1897",
+  "name": "Vera Elizabeth Holt f. Nordstrom (1897–1967)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1897-02-26",
+   "place": "Winnipeg, Manitoba"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Dotter till Anton Nordstrom och Martha Janet Peterson; gift Holt; död 1967 i North Surrey, BC.",
+  "notes": [
+   "MB VITAL STATISTICS födelse 1897-004689: ”NORDSTROM VERA ELIZABETH, 26/02/1897, WINNIPEG; Parents married YES; Mother maiden PETERSON, given JENNY MORDEN”. Faderns namn ej indexerat.",
+   "UA5 – BC DÖDSREGISTRERING 67-09-009616 (FamilySearch-index): ”Vera Elizabeth Holt, Female, 70, born 26 Feb 1897, Manitoba, Widowed, died 12 Jul 1967 North Surrey, BC; father Anton Nordstrom; mother Janet Peterson”; även nämnd John August Holt (troligen avliden make). 1906 års census: dotter Vera i Anton och Jennie Nordstroms hushåll."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse reg. 1897-004689",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, BC Death Registrations 1967 reg. 67-09-009616: Vera Elizabeth Holt f. 26 Feb 1897 Manitoba, far Anton Nordstrom, mor Janet Peterson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FLBJ-93R"
+   },
+   {
+    "label": "FamilySearch, Canada Census of Northwest Provinces 1906, Winnipeg: Anton Nordstrom f. 1874 Sverige, hustru Jennie, dotter Vera",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KHJY-CG3"
+   }
+  ],
+  "died": {
+   "date": "1967-07-12",
+   "place": "North Surrey, British Columbia, Kanada",
+   "note": "BC death reg. 67-09-009616; änka"
+  },
+  "search": [
+   "Vera Elizabeth Holt f. Nordstrom (1897–1967)"
+  ]
+ },
+ {
+  "id": "ua5_lillian_gladys_nordstrom_1899",
+  "name": "Lillian Gladys Nordstrom (f. 1899 Winnipeg)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1899-03-25",
+   "place": "Winnipeg, Manitoba"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Janet Peterson.",
+  "notes": [
+   "MB VITAL STATISTICS födelse 1899-004418: ”NORDSTROM LILLIAN GLADYS, 25/03/1899, WINNIPEG; Mother PETERSON MARTHA JEANETTE”."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse reg. 1899-004418",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Lillian Gladys Nordstrom (f. 1899 Winnipeg)"
+  ]
+ },
+ {
+  "id": "ua5_walter_hilding_nordstrom_1904",
+  "name": "Walter Hilding Nordstrom (1904–1904)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1904-02-04",
+   "place": "Winnipeg, Manitoba"
+  },
+  "died": {
+   "date": "1904-07-02",
+   "place": "Winnipeg",
+   "note": "4 månader, MB död 1904-003817"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson; dog 4 månader gammal.",
+  "notes": [
+   "MB födelse 1904-008527: ”WALTER HILDING, 04/02/1904, WINNIPEG; Mother PETERSON JENNIE”.",
+   "MB död 1904-003817: ”WALTER HILDING, 02/07/1904, WINNIPEG, age 4 MONTHS”."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1904-008527 och död 1904-003817",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Walter Hilding Nordstrom (1904–1904)"
+  ]
+ },
+ {
+  "id": "ua5_paul_milton_nordstrom_1905",
+  "name": "Paul Milton Nordstrom (f. 1905 Winnipeg)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1905-02-21",
+   "place": "Winnipeg, Manitoba"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson.",
+  "notes": [
+   "MB födelse 1905-008460: ”PAUL MILTON, 21/02/1905, WINNIPEG; Mother PETERSON JENNIE”.",
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1905-008460",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   }
+  ],
+  "search": [
+   "Paul Milton Nordstrom (f. 1905 Winnipeg)"
+  ]
+ },
+ {
+  "id": "ua5_edna_maud_nordstrom_1906",
+  "name": "Edna Maud Nordstrom (f. 1906 Winnipeg)",
+  "status": "candidate",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1906-11-24",
+   "place": "Winnipeg, Manitoba"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Troligen barn till Anton Nordstrom och Martha Janet Peterson (modern indexerad som ”Mary Jane” Peterson).",
+  "notes": [
+   "MB födelse 1906-007065: ”EDNA MAUD, 24/11/1906, WINNIPEG; Mother PETERSON MARY JANE”. Förnamnet avviker (Mary Jane mot Martha Janet/Jennie) – därför candidate."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1906-007065",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Edna Maud Nordstrom (f. 1906 Winnipeg)"
+  ]
+ },
+ {
+  "id": "ua5_liola_edith_nordstrom_1908",
+  "name": "Liola (Lyla) Edith Nordstrom (1908–1908)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1908-07-14",
+   "place": "Winnipeg, Manitoba"
+  },
+  "died": {
+   "date": "1908-08-01",
+   "place": "Winnipeg",
+   "note": "14 dagar, MB död 1908-003342"
+  },
+  "places": [
+   "Winnipeg"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Peterson; dog 14 dagar gammal.",
+  "notes": [
+   "MB födelse 1908-005535: ”LIOLA EDITH, 14/07/1908, WINNIPEG; Mother PETERSON MARTHA”.",
+   "MB död 1908-003342: ”LYLA EDITH, 01/08/1908, WPG, age 14 DAYS”."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1908-005535 och död 1908-003342",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   }
+  ],
+  "search": [
+   "Liola (Lyla) Edith Nordstrom (1908–1908)"
+  ]
+ },
+ {
+  "id": "ua5_clarence_hemming_anthony_nordstrom_1912",
+  "name": "Clarence Hemming Anthony Nordstrom (f. 1912, R.M. of Odanah)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1912-01-31",
+   "place": "R.M. of Odanah (Minnedosa-trakten), Manitoba"
+  },
+  "places": [
+   "Odanah/Minnedosa, Manitoba"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Janet (Jennie) Peterson; familjen nu i Minnedosa-trakten.",
+  "notes": [
+   "MB födelse 1912-005005: ”CLARENCE HEMMING ANTHONY, 31/01/1912, R.M. OF ODANAH; Mother PETERSON JENNIE”.",
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1912-005005",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   }
+  ],
+  "search": [
+   "Clarence Hemming Anthony Nordstrom (f. 1912, R.M. of Odanah)"
+  ]
+ },
+ {
+  "id": "ua5_eva_astrid_evangeline_nordstrom_1915",
+  "name": "Eva Astrid Evangeline Nordstrom (f. 1915, R.M. of Odanah)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1915-11-17",
+   "place": "R.M. of Odanah (Minnedosa-trakten), Manitoba"
+  },
+  "places": [
+   "Odanah/Minnedosa"
+  ],
+  "summary": "Barn till Anton Nordstrom och Martha Janette Peterson.",
+  "notes": [
+   "MB födelse 1915-209565: ”EVA ASTRID EVANGELINE, 17/11/1915, R.M. OF ODANAH; Mother PETERSON MARTHA JANETTE”.",
+   "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”)."
+  ],
+  "sources": [
+   {
+    "label": "Manitoba Vital Statistics, födelse 1915-209565",
+    "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, Canada Prairie Provinces Census 1926, Marquette/Woodlands MB: Anton Nordstrom f. 1874 Sverige, hustru Martha Janet, barn Clarence Henning, Paul Milton, Eva Astroid",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPR8-N2KZ"
+   }
+  ],
+  "search": [
+   "Eva Astrid Evangeline Nordstrom (f. 1915, R.M. of Odanah)"
+  ]
+ },
+ {
+  "id": "ua5_jean_simms_rensta",
+  "name": "Jean Rensta f. Simms (1887–1968)",
+  "status": "verified",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1887-10-09",
+   "place": "Mountain, Ontario, Kanada"
+  },
+  "died": {
+   "date": "1968-06-05",
+   "place": "Kelowna General Hospital, Kelowna, British Columbia"
+  },
+  "places": [
+   "Kelowna, B.C.",
+   "Mountain, Ontario"
+  ],
+  "summary": "Hustru till Bror Gustaf Benjamin (Gustav) Rensta från Brunskog. Född 1887 i Mountain, Ontario, dotter till John Simms och Agnes McAllister (båda f. Irland); död 1968 i Kelowna.",
+  "notes": [
+   "BC DÖDSREGISTRERING 68-09-008228 (bild 004479280_00869) ordagrant: ”RENSTA Jean … Kelowna, B.C. … Glenmore Street 1824 … Female, Canadian, White, Married, [född] Mountain, Ontario; Date of Birth October 9th 1887; Age 80 … husband … Gustav RENSTA; father SIMMS John; mother McAllister Agnes; birthplace father Ireland, mother Ireland … Kelowna B.C. 6th June 1968; informant [signatur] Gustav Rensta, Relationship Husband”. Dödsdatum enligt index 1968-06-05.",
+   "Vigseldatum/-ort ej funnet (ej i BC:s vigselindex under Rensta; troligen Quebec/Ontario efter 1924)."
+  ],
+  "sources": [
+   {
+    "label": "BC Archives, Registration of Death 1968-09-008228, Jean Rensta (bild 004479280_00869)",
+    "url": "https://search-collections.royalbcmuseum.bc.ca/Image/Genealogy/d3c957fd-feb3-4d60-abd6-ef1b86d382ff"
+   }
+  ],
+  "search": [
+   "Jean Rensta f. Simms (1887–1968)"
+  ]
+ },
+ {
+  "id": "ua5_helen_lindroth_rensta",
+  "name": "Helen H. Rensta f. Lindroth (1911–2009)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1911-08-01",
+   "place": "Kanada",
+   "note": "Find a Grave 1 aug 1911; 1950 års census: 38 år, f. Canada"
+  },
+  "died": {
+   "date": "2009-05-20",
+   "place": "Lincoln, Placer County, California, USA"
+  },
+  "places": [
+   "Sacramento, California"
+  ],
+  "summary": "Hustru till Fred Elias (Elias Ernfrid) Rensta i Sacramento; född 1911 i Kanada, död 2009.",
+  "notes": [
+   "US CENSUS 1950 Sacramento (ED 70-13, s. 75, rad 12–13): ”Fred C Rensta, Head, 53, Sweden, Plaster, Building Contractor, citizen Yes”; ”Helen H Rensta, Maka (wife), F, 38 years, Canada”.",
+   "FIND A GRAVE 122990185: ”Helen H. Lindroth Rensta, 1 Aug 1911 – 20 May 2009, Lincoln, Placer County”, begravd East Lawn Memorial Park, Sacramento; länkad som maka till Fred Elias Rensta."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, United States Census 1950, Fred C Rensta, Sacramento (hushåll med Helen H)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XGC-N8DR"
+   },
+   {
+    "label": "Find a Grave 122990185, Helen H. Lindroth Rensta",
+    "url": "https://www.findagrave.com/memorial/122990185/helen-h-rensta"
+   }
+  ],
+  "search": [
+   "Helen H. Rensta f. Lindroth (1911–2009)"
+  ]
+ },
+ {
+  "id": "ua5_john_august_holt",
+  "name": "John August Holt (make till Vera Nordstrom)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {},
+  "places": [
+   "British Columbia"
+  ],
+  "summary": "Nämnd i Vera Elizabeth Holts dödsregistrering 1967; troligen hennes (avlidne) make.",
+  "notes": [
+   "UA5 – BC death reg. 67-09-009616 (Vera Elizabeth Holt): annan person på posten ”John August Holt”; Vera var ”Widowed”. Relationen ej uttryckt i indexet → candidate."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, BC Death Registrations 1967 reg. 67-09-009616: Vera Elizabeth Holt f. 26 Feb 1897 Manitoba, far Anton Nordstrom, mor Janet Peterson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FLBJ-93R"
+   }
+  ],
+  "search": [
+   "John August Holt (make till Vera Nordstrom)"
   ]
  }
 ]

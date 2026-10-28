@@ -16032,5 +16032,133 @@
   "child": "no_jenysignora_gundersen75",
   "status": "verified",
   "basis": "FT 1875 Kristiania Maridalsveien 56 hush. 06: barn (s/d) till hf Gulbrand Gundersen och hu Kaisa Gundersen"
+ },
+ {
+  "id": "p-anton_winnipeg_cousin-ua5_martha_janet_peterson",
+  "type": "partner",
+  "a": "anton_winnipeg_cousin",
+  "b": "ua5_martha_janet_peterson",
+  "status": "verified",
+  "basis": "Manitoba Vital Statistics vigsel 1896-001542: ”NORDSTROM ANTON – PETERSON MARTHA JANET, 11/12/1896, WINNIPEG”; Find a Grave 236916743/236916755 länkar Anton ”Tony” och Martha Peterson Nordstrom som makar (Minnedosa Cemetery); Anton änkling vid död 1954, Janet Martha d. 1939 Minnedosa. BC death 1967 (dottern Vera): far Anton Nordstrom, mor Janet Peterson; Canada Census 1926: Anton med maka Martha Janet."
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_vera_elizabeth_nordstrom_1897",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_vera_elizabeth_nordstrom_1897",
+  "status": "verified",
+  "basis": "MB födelse 1897-004689, mor PETERSON JENNY MORDEN, föräldrar gifta; enda Nordstrom–Peterson-paret i Manitoba. + Canada Census 1906/1926 (barn i Antons hushåll); BC death 1967: far Anton Nordstrom, mor Janet Peterson"
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_lillian_gladys_nordstrom_1899",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_lillian_gladys_nordstrom_1899",
+  "status": "strong",
+  "basis": "MB födelse 1899-004418, mor PETERSON MARTHA JEANETTE."
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_walter_hilding_nordstrom_1904",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_walter_hilding_nordstrom_1904",
+  "status": "strong",
+  "basis": "MB födelse 1904-008527, mor PETERSON JENNIE."
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_paul_milton_nordstrom_1905",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_paul_milton_nordstrom_1905",
+  "status": "verified",
+  "basis": "MB födelse 1905-008460, mor PETERSON JENNIE. + Canada Census 1906/1926 (barn i Antons hushåll)"
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_edna_maud_nordstrom_1906",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_edna_maud_nordstrom_1906",
+  "status": "candidate",
+  "basis": "MB födelse 1906-007065, mor PETERSON MARY JANE (förnamn avviker)."
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_liola_edith_nordstrom_1908",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_liola_edith_nordstrom_1908",
+  "status": "strong",
+  "basis": "MB födelse 1908-005535, mor PETERSON MARTHA."
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_clarence_hemming_anthony_nordstrom_1912",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_clarence_hemming_anthony_nordstrom_1912",
+  "status": "verified",
+  "basis": "MB födelse 1912-005005, R.M. of Odanah, mor PETERSON JENNIE; mellannamnet Anthony. + Canada Census 1906/1926 (barn i Antons hushåll)"
+ },
+ {
+  "id": "c-anton_winnipeg_cousin-ua5_martha_janet_peterson-ua5_eva_astrid_evangeline_nordstrom_1915",
+  "type": "child",
+  "parents": [
+   "anton_winnipeg_cousin",
+   "ua5_martha_janet_peterson"
+  ],
+  "child": "ua5_eva_astrid_evangeline_nordstrom_1915",
+  "status": "verified",
+  "basis": "MB födelse 1915-209565, R.M. of Odanah, mor PETERSON MARTHA JANETTE. + Canada Census 1906/1926 (barn i Antons hushåll)"
+ },
+ {
+  "id": "p-aq1_bror_pj92-ua5_jean_simms_rensta",
+  "type": "partner",
+  "a": "aq1_bror_pj92",
+  "b": "ua5_jean_simms_rensta",
+  "status": "verified",
+  "basis": "BC Registration of Death 68-09-008228 (Jean Rensta): ”husband … Gustav RENSTA”, informant Gustav Rensta, ”Relationship to deceased Husband”; Gustavs egen dödsregistrering 1976: ”Widowed”."
+ },
+ {
+  "id": "p-aq1_elias_pj97-ua5_helen_lindroth_rensta",
+  "type": "partner",
+  "a": "aq1_elias_pj97",
+  "b": "ua5_helen_lindroth_rensta",
+  "status": "strong",
+  "basis": "US Census 1950 Sacramento: Fred C Rensta (Head, 53, Sweden) och Helen H Rensta (wife, 38, Canada); Find a Grave 122989750/122990185 länkar Fred Elias Rensta och Helen H. Lindroth Rensta som makar."
+ },
+ {
+  "id": "s-gustaf_oj66-karin_oj64",
+  "type": "sibling",
+  "a": "gustaf_oj66",
+  "b": "karin_oj64",
+  "status": "verified",
+  "basis": "Båda har i Cook County-dödsregistren föräldrarna Olof/Olaf Johnson och Britta Nilson/Nelson; bodde i samma hushåll i Chicago 1900, 1930 och 1940; båda barn till Olof Jansson och Britta Nilsdotter i A I/35 bild 197."
+ },
+ {
+  "id": "p-ua5_vera_elizabeth_nordstrom_1897-ua5_john_august_holt",
+  "type": "partner",
+  "a": "ua5_vera_elizabeth_nordstrom_1897",
+  "b": "ua5_john_august_holt",
+  "status": "candidate",
+  "basis": "BC death reg. 67-09-009616: Vera Elizabeth Holt (änka), John August Holt nämnd på posten (relation ej indexerad)."
  }
 ]
