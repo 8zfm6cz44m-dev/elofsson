@@ -390,13 +390,6 @@
       ]
     },
     {
-      "title": "Johanna Ulrika f. 1855 saknas i 1870 års hushåll i Douglas Co.",
-      "text": "I 1870 års census (Douglas Co., MN) finns alla utvandrade barn utom Johanna Ulrika (f. 4/7 1855). Kan ha dött under resan/första åren eller tjänat i annat hushåll. Sök 1870 (Hannah/Johanna/Ulrika Swenson/Nelson f. ~1855) och dödsuppgifter.",
-      "persons": [
-        "johanna_ulrika_nilsd_1855_saldebraten"
-      ]
-    },
-    {
       "title": "August Josefsen Berg – födelseort Lerhol (Brunskog) eller Nedre Ullerud?",
       "text": "FT 1875 Hurdal anger 'Lerhol Sverige', FT 1891 'Nedre Ullerød, Sverige'. Brunskog dop 1846 (C I/5) bör läsas för August, Josef Bergs son; även Emma 1849 och Emanuel 1857.",
       "persons": [
@@ -419,16 +412,8 @@
       ]
     },
     {
-      "title": "Nils Svensson (1823) och Johanna Olsdotter (1829): död och grav okänd",
-      "text": "Familjen finns i Solem Twp, Douglas Co. 1870 (FS MDHM-7GV) och Nils med 5 barn 1875 (FS MKN8-XXT) – Johanna saknas 1875. Ingen av dem återfunnen i US Census 1880, MN statscensus 1885/1895 eller i FamilySearch-dödsindex/Find a Grave-index (Douglas Co.). Sannolikt döda före 1885 (sonen Nils bor 1885 hos systern Hilma). Nästa steg: Solem lutherska församlings kyrkobok (ELCA-arkiv), Douglas County dödsregister före 1887, bildgenomgång av 1880 Solem Twp.",
-      "persons": [
-        "nils_svensson_1823_saldebraten",
-        "johanna_olsd_1829_saldebraten"
-      ]
-    },
-    {
       "title": "Johanna Ulrika (1855), Maria Cajsa (1852), Anna (1865), Sofia (1862), Olof Johan (1851): senare öden okända",
-      "text": "Johanna Ulrika saknas redan 1870; Maria och Anna saknas 1875; Ole J. och Sophia finns 1875 men ej säkert senare. Kandidat: Ole J Swenson f. 1852 Sweden, Logan, Grant Co., MN 1885 med hustru Rose och barn Cleveland W 1884, Eugene W 1885 (FS MQXW-KJ8) – ej bekräftad. Douglas Co.-giften 1868–1895 verkar inte vara indexerade i FamilySearch (inte ens Hilma–Torge 1876 hittas).",
+      "text": "Johanna Ulrika saknas redan 1870; Maria och Anna saknas 1875; Ole J. och Sophia finns 1875 men ej säkert senare. Kandidat: Ole J Swenson f. 1852 Sweden, Logan, Grant Co., MN 1885 med hustru Rose och barn Cleveland W 1884, Eugene W 1885 (FS MQXW-KJ8) – ej bekräftad. Douglas Co.-giften 1868–1895 verkar inte vara indexerade i FamilySearch (inte ens Hilma–Torge 1876 hittas). | UA4: I 1870 års census (Douglas Co., MN) finns alla utvandrade barn utom Johanna Ulrika (f. 4/7 1855). Kan ha dött under resan/första åren eller tjänat i annat hushåll. Sök 1870 (Hannah/Johanna/Ulrika Swenson/Nelson f. ~1855) och dödsuppgifter.",
       "persons": [
         "johanna_ulrika_nilsd_1855_saldebraten",
         "maria_cajsa_nilsd_1852_saldebraten",
@@ -7048,6 +7033,14 @@
       "text": "Husförhör A I/14–A I/16: 10/3 1786. Dödboken F/2 bild 56 anger ålder 40 år 5 mån 20 dagar vid död 31/10 1826, vilket motsvarar ca 11/5 1786. Kontrollera Frykerud dopbok C/5 1786.",
       "persons": [
         "jonas_jonsson_1786_forsnor"
+      ]
+    },
+    {
+      "title": "Nils Svensson (1823) och Johanna Olsdotter (1829): död och grav okänd",
+      "text": "Familjen finns i Solem Twp, Douglas Co. 1870 (FS MDHM-7GV) och Nils med 5 barn 1875 (FS MKN8-XXT) – Johanna saknas 1875. Ingen av dem återfunnen i US Census 1880, MN statscensus 1885/1895 eller i FamilySearch-dödsindex/Find a Grave-index (Douglas Co.). Sannolikt döda före 1885 (sonen Nils bor 1885 hos systern Hilma). Nästa steg: Solem lutherska församlings kyrkobok (ELCA-arkiv), Douglas County dödsregister före 1887, bildgenomgång av 1880 Solem Twp.",
+      "persons": [
+        "nils_svensson_1823_saldebraten",
+        "johanna_olsd_1829_saldebraten"
       ]
     }
   ]
