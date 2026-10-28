@@ -353,14 +353,6 @@
       ]
     },
     {
-      "title": "Jon Ersson och Sigrid Eriksdotters död ej funnen",
-      "text": "Frykerud F/1 (C0037142) bild 33–44 (1761–1770) genomlästa översiktligt utan träff på Högvalta. A I/7 bild 217 har marginalnoten ”Abf[lyttade] t[ill] Lun[d?]” vid hushållet (sista nattvard 1763) – sök hushållet i A I/7 under byn Lund (fol. okänd, bild ≈ fol+13/14) och i A I/8 (1771–77), därefter F/1 under ’Lund’. Bild 37 i F/1 är en dubblett av bild 36.",
-      "persons": [
-        "jon_ersson_1703_hogvalta",
-        "sigri_ersd_1710_hogvalta"
-      ]
-    },
-    {
       "title": "Påhl Göstafsson × Britta Nilsdotter i ’Fösta’ – ytterligare syskonpar?",
       "text": "C I/1: Påhl Giöstafsson (soldat) och h. Britta Nilsdotter har barn Nils (aug 1724, bild 152 hö nr 40, ”Påhl Giöstafssons Soldat[?] h. Britta Nilsd:rs Barn i Fösta[?] ved namn Nils”), Jon (29/9 1725, bild 156 vä nr 18) och Marit (16/4 1727, bild 167 vä nr 23, ”Påhl Giöstafssons och h. Britta Nilsd:rs Barn från Fösta[?], N. Marit”). Ortnamnet skrivet ’Föstn/Fösta’ – skiljer sig tydligt från ’Skog’. MyHeritage gör Påhl Göstasson till bror till Jon Göstafsson i Skog. Om Britta Nilsdotter också var dotter till Nils Christophersson vore det ett tredje syskonpar – men inget i faddrarna (Tallvigen, Fösta, Byn) pekar på Skog. Endast lead; ej ny person i trädet. Ytterligare barn: Britta 1/11 1729 (bild 179 vä nr 29, ”Påhl Giöstafssons och h. B[ritta?] Nilsd:rs Barn i Föste, Britta kallad”).",
       "persons": [
@@ -384,6 +376,21 @@
       "persons": [
         "erik_palsson_hogvalta",
         "kerstin_mansdotter_hogvalta"
+      ]
+    },
+    {
+      "title": "Sigri Ersdotters (f. 1710) död – år 1771–1777 ej funnet i F/1",
+      "text": "A I/7 Myrstad (bild 107) har henne som ’Enkan’ med nattvard t.o.m. ca 1770; A I/8 Myrstad (bild 128) stryker henne med ’Död’. F/1 bild 45–56 (1770–1778) översiktligt genomlästa utan säker träff på Myrstad – bör läsas rad för rad (särskilt 1771–1773, bild 45–49).",
+      "persons": [
+        "sigri_ersd_1710_hogvalta"
+      ]
+    },
+    {
+      "title": "Ingeborg Jonsdotter (f. 1733) – make Olof Olofsson och hushåll i Myrstad?",
+      "text": "Vigd 12 maj 1754 (E I/1 bild 74 hö) med dr Olof Olofsson från ’K[?]bol och K[ils?] sokn’. A I/8 Myrstad (bild 127) har Olof Olsson f. 1731 och H: Ingeborg Jonsd. f. ’1730’ med barn Olof 1759, Stina 1762, Jonas 1772. Identitet ej belagd (födelseår avviker). Kontrollera A I/6–A I/7 Myrstad (A I/7 fol. 93–96, bild 106–109) och dop C/4 1755–1762.",
+      "persons": [
+        "ingeborg_jonsd_1733_hogvalta",
+        "olof_olofsson_1754_g_ingeborg"
       ]
     }
   ],
@@ -4528,6 +4535,25 @@
       "persons": [
         "britta_christophersd_1714_olsrud"
       ]
+    },
+    {
+      "title": "’Abf. t. Lun[d?]’ i A I/7 Högvalta bild 217 – familjen fanns i Myrstad",
+      "text": "Lund (A I/7 fol. 145 bild 158; A I/8 s. 177 bild 190) saknar familjen. I stället står Jon Ersson (död), änkan Sigrid Ersdotter och dottern Sigrid med maken Sven Olofsson i Myrstad, A I/7 fol. 94 bild 107. Jon död april 1768 (F/1 bild 41 vä).",
+      "persons": [
+        "jon_ersson_1703_hogvalta",
+        "sigri_ersd_1710_hogvalta",
+        "sigrid_jonsd_1742_hogvalta"
+      ]
+    },
+    {
+      "title": "Jon Ersson och Sigrid Eriksdotters död ej funnen",
+      "text": "Frykerud F/1 (C0037142) bild 33–44 (1761–1770) genomlästa översiktligt utan träff på Högvalta. A I/7 bild 217 har marginalnoten ”Abf[lyttade] t[ill] Lun[d?]” vid hushållet (sista nattvard 1763) – sök hushållet i A I/7 under byn Lund (fol. okänd, bild ≈ fol+13/14) och i A I/8 (1771–77), därefter F/1 under ’Lund’. Bild 37 i F/1 är en dubblett av bild 36.",
+      "persons": [
+        "jon_ersson_1703_hogvalta",
+        "sigri_ersd_1710_hogvalta"
+      ],
+      "kind": "resolved",
+      "resolution": "CE3: Jon död april 1768 i Myrstad (F/1 bild 41 vä, ”Jon Ersson 64”); Sigrid änka hos dottern i Myrstad, ”Död” i A I/8 bild 128 – dödspost 1771–77 ej funnen (ny CE3-flagga)."
     }
   ],
   "backlog": [

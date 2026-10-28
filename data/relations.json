@@ -15152,5 +15152,48 @@
   "child": "nils_jansson_1824_olsrud",
   "status": "verified",
   "basis": "Husförhör A I/13 bild 165 (C0036578_00165): ’S. Jan 22/6 22’ resp. ’Son Nils 7/9 24’ under Jan Nilsson och h. Stina Jonsdotter."
+ },
+ {
+  "id": "c-erik_jonsson_1703_vglanne-britta_borjesd_1703_vglanne-jon_ersson_1703_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_jonsson_1703_vglanne",
+   "britta_borjesd_1703_vglanne"
+  ],
+  "child": "jon_ersson_1703_hogvalta",
+  "status": "strong",
+  "basis": "C/2 bild 39 vä: ”8/11 Novemb: Erich Jonsons och h. Britta Bör-jas[?] dotters barn i w. glenne … Jon” – datum 8/11 1703 och by V. Glänne stämmer exakt med A I/6–7 (1703 8/11) och vigseln 1729 (”dr: Jon Ersson från wäst: glänna”). Strong i stället för verified endast eftersom kopplingen går via datum+by, inte uttrycklig hänvisning."
+ },
+ {
+  "id": "p-erik_jonsson_1703_vglanne-britta_borjesd_1703_vglanne",
+  "type": "partner",
+  "a": "erik_jonsson_1703_vglanne",
+  "b": "britta_borjesd_1703_vglanne",
+  "status": "verified",
+  "basis": "C/2 bild 39 vä: ”Erich Jonsons och h. Britta Börjas[?] dotters barn”"
+ },
+ {
+  "id": "p-olof_olofsson_1754_g_ingeborg-ingeborg_jonsd_1733_hogvalta",
+  "type": "partner",
+  "a": "olof_olofsson_1754_g_ingeborg",
+  "b": "ingeborg_jonsd_1733_hogvalta",
+  "status": "strong",
+  "basis": "VIGSEL E I/1 (C0037140) bild 74 hö (s. 137), 1754: ”d: 12 Maij wigdes för altaret på [?] samma [?] sätt dr: Olof Olofsson från K[?]=bol och Kils[?] Sokn med p: Ingeborg Jönsdr från Högwalt efter 3ne laga stådda lysningar morgongåfwa” (groms by osäkert läst, ’Ka[n?]bol’; ’Kils Sokn’ osäkert – möjligen ’dito Sokn’). – Jons dotter Ingeborg (f. 1733) är den enda Ingeborg Jonsdotter i Högvalta (A I/5–6) och flyttade ut 1753–59."
+ },
+ {
+  "id": "p-anders_olofsson_1757_g_brita-britta_jonsd_1730_hogvalta",
+  "type": "partner",
+  "a": "anders_olofsson_1757_g_brita",
+  "b": "britta_jonsd_1730_hogvalta",
+  "status": "strong",
+  "basis": "VIGSEL E I/1 (C0037140) bild 79 hö (s. 147), 1757: ”Junij 5 wigdes för altaret i wanlig brudstånd dr Anders Olofsson i Kar[t?]bol med p: Brita Jönsdr i Högwalt morgongåfwa … lysningarna stådde lagligen”. – Jons dotter Brita (f. 1730) är enda Brita Jonsdotter i Högvalta (A I/5–6) och flyttade ut 1753–59."
+ },
+ {
+  "id": "p-sven_olofsson_1743_myrstad-sigrid_jonsd_1742_hogvalta",
+  "type": "partner",
+  "a": "sven_olofsson_1743_myrstad",
+  "b": "sigrid_jonsd_1742_hogvalta",
+  "status": "verified",
+  "basis": "VIGSEL E I/1 (C0037140) bild 95 hö (s. 177), dec 1766: ”D[itt]o item på lika sätt wigdes dr Sven Olofsson i Myrestad med pig: Sigrid Jönsdotter ibidem morgongåfwa 40 lod silfwer” (datum i marginalen ’Dec 2[8?]’ på föregående post). + HUSFÖRHÖR A I/7 (C0037108) bild 107 (fol. 94) Myrstad: ”Död Jon Ersson” [överstruken] 1703 8/11; ”Enkan Sigrid Ersdotter” 1710 22/5; ”M. Sven Olofsson” 1743 [?]/3; ”H. Sigrid Jonsdr” 1742 12/4; överstruken ”f. Ingeborg Jons[?]” 1759 18/6. (Marginalnoten ’Abf. t. Lun[?]’ i Högvalta bild 217 avser alltså troligen flytt till Myrstad – läsningen ’Lund’ bör strykas; Lund fol. 145 bild 158 och A I/8 Lund s. 177 bild 190 genomsökta utan träff.) Födelsedatum 1742 12/4 i husförhöret är identiskt med Sigrids i Högvalta (A I/6–7) och hennes föräldrar bor i samma hushåll."
  }
 ]
