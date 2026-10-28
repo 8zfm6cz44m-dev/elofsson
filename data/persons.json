@@ -16549,7 +16549,8 @@
    "FOLKRÄKNING 1890 Boda, Renstad: 'Andersdotter, Ingegärd Maria, f. 1857 i Boda' i hushåll med Anders Nilsson och barnen Johan Alfred, Anna Maria, Karl August. 1900 anges Karl som 'hans s. i 1:a g.' och hustrun heter då Lena (f. 1858). Moderskap inte uttryckligen angivet i 1890 (hushållet visar 'Karl August s.').",
    "DOPBOK Boda C I/3 bild 107: ”14 | 18 | Ingjerd Maria | N. Boda (25) B. Anders Swensson och H. Maria Jordsd.”; faddrar ”B. Jord Jordsson och H. Maria Jansd. fr. Renstad”. Föräldrar: Anders Svensson / Maria Jordsdotter, N. Boda (nr 25).",
    "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”. – Maken (Anders Nilsson f. 1853?) var 1880 i Nordamerika enligt anteckningen; ej namngiven.",
-   "UB1: Ingegärd Maria emigrerade INTE själv. Det var maken Anders Nilsson (f. 15/10 1853 Boda) som var i Nordamerika 1880 (FR 1880: ’mannen i Nord Amerika’); Boda A I/25 bild 311 visar honom hitflyttad från ”Amerika 8?” (troligen 1883; siffran svårläst). Familjen flyttade till Brunskog ca 1891 (bortflyttad-kolumn ”Brunskog 9?”). Hennes vidare öde (död före 1900?) bör sökas i Brunskog A I/37 (C0036776, Svartåna ca bild 200–226) – ej funnet i denna omgång."
+   "UB1: Ingegärd Maria emigrerade INTE själv. Det var maken Anders Nilsson (f. 15/10 1853 Boda) som var i Nordamerika 1880 (FR 1880: ’mannen i Nord Amerika’); Boda A I/25 bild 311 visar honom hitflyttad från ”Amerika 8?” (troligen 1883; siffran svårläst). Familjen flyttade till Brunskog ca 1891 (bortflyttad-kolumn ”Brunskog 9?”). Hennes vidare öde (död före 1900?) bör sökas i Brunskog A I/37 (C0036776, Svartåna ca bild 200–226) – ej funnet i denna omgång.",
+   "Family Tree MQ41-6BX (lead, UB3 sidofynd): Ingjerd Maria Andersdotter f. 14 dec 1857 Boda, död 16 apr 1894 Brunskog – förklarar att hon är borta före 1900 och Anders Nilssons omgifte 1896. Dödbok Brunskog 1894 ej kontrollerad."
   ],
   "sources": [
    {
@@ -17026,7 +17027,8 @@
    "FOLKRÄKNING 1900 Brunskog, Svartåna: Anders Nilsson f. 1853 Boda, hemmansegare; hustru Lena Andersdotter f. 1858; Karl August 'hans s. i 1:a g.' (alltså son i hans första äktenskap).",
    "Husförhör A I/25 bild 311: ”Hitflyttad Amerika 8?” (sista siffran osäker) – Anders var i Amerika; familjen bortflyttad till Brunskog ca 1892. Ingegärd Maria är borta före 1900; Lena/Lina (f. 1858) är styvmor.",
    "HUSFÖRHÖR A II a/3 bild 253 (Svartåna, ’Hagen’ nr 24, kol. lyte ”272”): ”B. Anders Nilsson 53 15/10 Boda, Hemeg.”; gift-kol. ordagrant ”2 96 31/10” (2:a giftet 31 okt 1896) och in-kol. ”94 16/4” (inflyttad 16 apr 1894). ”H. Lena Andersdotter 58 2/11 Boda” (in samma). Barn: Johan Alfred 84 4/7 (g. 11 3/5 = 3 maj 1911), Arvid Emanuel Andersson 96 2/9 L. Ingen död/utflyttning för Anders 1909–1920 (inte överstruken). Ingen Amerika-notering i denna bok (Amerika 1888 ses i Boda A I/25).",
-   "BT2 (flagga 75): Boda A I/21 (C0036586) N. Boda bild 8–14 (s. 2–8, 1861–65) genomgånget: ingen Anders f. 1853 och inget hushåll Nils Olsson + Anna Andersdotter. Folkräkningsindex 1880 saknar Anders f. 1853 Boda (finns 1890/1900/1910 Värmlands län)."
+   "BT2 (flagga 75): Boda A I/21 (C0036586) N. Boda bild 8–14 (s. 2–8, 1861–65) genomgånget: ingen Anders f. 1853 och inget hushåll Nils Olsson + Anna Andersdotter. Folkräkningsindex 1880 saknar Anders f. 1853 Boda (finns 1890/1900/1910 Värmlands län).",
+   "FAMILY TREE G1SY-JXG (lead): Anders Nilsson f. 15 okt 1853 Boda, död 30 nov 1927 Brunskog, begr. 11 dec 1927; källor endast svenska (husförhör, vigsel med Ingjerd Maria, dödbok Brunskog). Inga nordamerikanska poster kopplade; Amerikavistelsen (före 1880 och ’hitflyttad Amerika 88’) har inte hittats i amerikanska index (namnet Andrew Nelson/Anders Nilsson för vanligt utan exakt datum)."
   ],
   "sources": [
    {
@@ -17064,13 +17066,22 @@
    {
     "label": "Riksarkivet, Brunskog församlingsbok A II a/3 (1909-1920), bild 253: Svartåna Hagen (nr 24): Anders Nilsson 53 15/10 Boda, Hemeg., in 94 16/4; Lena Andersdotter 58 2/11 Boda",
     "url": "https://sok.riksarkivet.se/bildvisning/00053598_00253"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead): Anders Nilsson 1853–1927, G1SY-JXG",
+    "url": "https://www.familysearch.org/tree/person/details/G1SY-JXG"
    }
   ],
   "search": [
    "Anders Nilsson"
   ],
   "country": "US",
-  "country_note": "Vistades en tid i Amerika 1880-talet (A I/25 bild 311); återvände."
+  "country_note": "Vistades en tid i Amerika 1880-talet (A I/25 bild 311); återvände.",
+  "died": {
+   "date": "1927-11-30",
+   "place": "Brunskog",
+   "note": "Family Tree G1SY-JXG (lead, källa: 'Parish Death Record Brunskog'); begravd 11 dec 1927. Ej bildkontrollerat."
+  }
  },
  {
   "id": "maria_katrina_andersdotter",
@@ -26661,7 +26672,8 @@
   "notes": [
    "FOLKRÄKNING 1880 Finnebäck sida 5: ”Jonsdotter, Kajsa, f. 1835 i Brunskog” gift i hushållet Jan Elofsson f. 1819.",
    "FOLKRÄKNING 1880: Familjeställning ordagrant ”h.” i Jan Elofssons hushåll – hustru. Död före 1890 (Jan änkling).",
-   "MyHeritage Smart Match (lead, 42 träffar; 12 lästa): endast 2-3 av 12 träffar kan vara rätt person - 'Cajsa Elofsson (född Jonsdotter)' f. 1835, död 1881 (ägare Anderson Family Site/Martha Gay Anderson, USA, två kopior), syskon Nils Jonsson (+3 fler) och barn 'August Jansson' (+2 fler) - stämmer med vår make Jan Elofsson och söner August och Anders. Övriga 9 träffar är andra personer (andra föräldrar/make). NYTT: dödsår 1881 och syskon Nils Jonsson (+3 okända) - lead, kontrollera dödbok Brunskog 1881 och Finnebäck husförhör."
+   "MyHeritage Smart Match (lead, 42 träffar; 12 lästa): endast 2-3 av 12 träffar kan vara rätt person - 'Cajsa Elofsson (född Jonsdotter)' f. 1835, död 1881 (ägare Anderson Family Site/Martha Gay Anderson, USA, två kopior), syskon Nils Jonsson (+3 fler) och barn 'August Jansson' (+2 fler) - stämmer med vår make Jan Elofsson och söner August och Anders. Övriga 9 träffar är andra personer (andra föräldrar/make). NYTT: dödsår 1881 och syskon Nils Jonsson (+3 okända) - lead, kontrollera dödbok Brunskog 1881 och Finnebäck husförhör.",
+   "UB3: ingen Nordamerika-koppling – död i Brunskog ca 1881 (före 1890)."
   ],
   "sources": [
    {
@@ -28313,7 +28325,8 @@
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
   "notes": [
    "DOP: Boda C I/3 bild 67: 1843 mars ”14. 15. Kajsa – Leboda: B. Kristoffer Nilsson : Maria Nilsd.  / Vitt: Anders Jakobsson Hu Maria Jonsd ibm”, moderns ålder 32",
-   "FOLKRÄKNING: Kajsa Kristoffersdotter f. 1843 i Boda var gift med hemmansägaren Nils Jansson f. 1842 (Brunskog), Gullsby, Brunskog (1880 s.9 r.10, 1890 s.7 r.16: ”Mor/fru”), son Johan f. 1877. 1900 och 1910 änka och hemmansägare i Gullsby (1910 s.13 r.16, ensamstående). Står även i föräldrahemmets (Lerboda) hushåll 1880–1910 som frånvarande ”Barn, Gift/Änka”. Detta är Kajsa som gift sig till Brunskog. Ingen Amerikaindikation."
+   "FOLKRÄKNING: Kajsa Kristoffersdotter f. 1843 i Boda var gift med hemmansägaren Nils Jansson f. 1842 (Brunskog), Gullsby, Brunskog (1880 s.9 r.10, 1890 s.7 r.16: ”Mor/fru”), son Johan f. 1877. 1900 och 1910 änka och hemmansägare i Gullsby (1910 s.13 r.16, ensamstående). Står även i föräldrahemmets (Lerboda) hushåll 1880–1910 som frånvarande ”Barn, Gift/Änka”. Detta är Kajsa som gift sig till Brunskog. Ingen Amerikaindikation.",
+   "UB3 (Nordamerika-sökning): ingen utvandring – kvar i Gullsby/Lerboda enligt folkräkningar 1880–1910 och FamilySearch-index Boda 1895–1906 (Lerboda, f. 14 Mar 1843)."
   ],
   "sources": [
    {
@@ -28391,7 +28404,8 @@
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter i Boda. Dopposten anger föräldrarna uttryckligen; identiteten Maria Nilsd. = Maja Nilsdotter f. 1811 (Lene) stöds av moderns ålder och vigseln 4/1 1841 (Kristoffer Nilsson/Maja Nilsdr).",
   "notes": [
    "DOP: Boda C I/3 bild 82: 1848 jan ”22. 23. Johannes – Leboda: Kristoffer Nilsson g. Maria Nilsd.”, moderns ålder 37, fadder Jan Nilsson o. Catrina Jönsd. ibm",
-   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.47: ”Kristoffersson, Johannes f. 1848 i Boda, Hemmansägare, Ogift, Barn” (hushållets första namn). Hushåll: Johannes 1848, Kajsa 1843 (Gift), Anna Stina 1845 (Piga), Karl 1851. Ej funnen 1890/1900/1910 under namnet Kristoffersson (död 1880–90 eller emigrerad? ej belagt)."
+   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.47: ”Kristoffersson, Johannes f. 1848 i Boda, Hemmansägare, Ogift, Barn” (hushållets första namn). Hushåll: Johannes 1848, Kajsa 1843 (Gift), Anna Stina 1845 (Piga), Karl 1851. Ej funnen 1890/1900/1910 under namnet Kristoffersson (död 1880–90 eller emigrerad? ej belagt).",
+   "FAMILYSEARCH (index, Sverige husförhörsböcker 1874–1931, Boda A I/25, 1883–1894): ”Johannes Kristiansson”, f. 22 Jan 1848 Boda, bostad Lerboda, död 2 Mar 1890 – samma födelsedatum som dopet. Han dog alltså i Boda och utvandrade INTE. Family Tree M2N4-HL3 (lead) har samma dödsdatum."
   ],
   "sources": [
    {
@@ -28401,11 +28415,24 @@
    {
     "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda 1 m. Kr.sk. s.25 r.47: Johannes Kristoffersson f. 1848 Boda, Hemmansägare, Ogift, Barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430568&tab=post"
+   },
+   {
+    "label": "FamilySearch, Sweden Household Examination Books 1874–1931 (index), Boda A I/25: Johannes Kristiansson f. 22 Jan 1848 Boda, Lerboda, död 2 Mar 1890",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL54-3XV2"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead): Johannes Christophersson 1848–1890, M2N4-HL3",
+    "url": "https://www.familysearch.org/tree/person/details/M2N4-HL3"
    }
   ],
   "search": [
    "Johannes Kristoffersson (f. 1848, Boda)"
-  ]
+  ],
+  "died": {
+   "date": "1890-03-02",
+   "place": "Lerboda, Boda",
+   "note": "FamilySearch-index till Boda husförhör A I/25 (1883–94): Johannes ”Kristiansson” f. 22 Jan 1848, Lerboda, död 2 Mar 1890. Bilden ej lokaliserad."
+  }
  },
  {
   "id": "kn_carl1851",
@@ -28424,7 +28451,8 @@
   "summary": "Barn till Kristoffer Nilsson och Maria (Maja) Nilsdotter, Leboda, Boda (moderns ålder 40 stämmer med Maja f. 1811).",
   "notes": [
    "DOP: Boda C I/3 bild 88: 1851 sept ”10. 12. Carl – Lerbada: Christoffer Nilsson o. Hr. Maria Nilsd.”, moderns ålder 40, faddrar Nils Christoffersson o. Hr Lisa Olsd. i Nr Boda",
-   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.50: ”Kristoffersson, Karl f. 1851 i Boda, Ogift, Barn”. Inte funnen 1890–1910 med Kristoffersson/Christoffersson (Värmlands län) – möjlig emigration eller död, EJ belagt."
+   "FOLKRÄKNING 1880 Boda/Lerboda s.25 r.50: ”Kristoffersson, Karl f. 1851 i Boda, Ogift, Barn”. Inte funnen 1890–1910 med Kristoffersson/Christoffersson (Värmlands län) – möjlig emigration eller död, EJ belagt.",
+   "FAMILYSEARCH (index, Boda A I/25, 1883–1894): ”Karl Kristiansdotter” [sic], f. 10 Sep 1851 Boda, Lerboda, död 13 Aug 1883. Family Tree M22P-KSF (lead) har död 14 apr 1883. Han dog i Boda – ingen emigration. Dödsdatum bör kontrolleras i Boda dödbok/SCB 1883."
   ],
   "sources": [
    {
@@ -28434,11 +28462,20 @@
    {
     "label": "Riksarkivet, folkräkning 1880 Boda/Lerboda s.25 r.50: Karl Kristoffersson f. 1851 Boda, Ogift, Barn",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430571&tab=post"
+   },
+   {
+    "label": "FamilySearch, Sweden Household Examination Books 1874–1931 (index), Boda A I/25: Karl f. 10 Sep 1851 Boda, Lerboda, död 13 Aug 1883",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-FLDT"
    }
   ],
   "search": [
    "Carl Kristoffersson (f. 1851, Boda)"
-  ]
+  ],
+  "died": {
+   "date": "1883-08-13",
+   "place": "Lerboda, Boda",
+   "note": "FamilySearch-index Boda A I/25: död 13 Aug 1883. Family Tree M22P-KSF anger 14 apr 1883 (konflikt, bild ej läst)."
+  }
  },
  {
   "id": "per_gustaf_nilsson_1846",
@@ -28646,7 +28683,8 @@
   "summary": "Son i Kristoffer Erikssons hushåll på Ö. Takene (1880, 1890).",
   "notes": [
    "FOLKRÄKNING 1880/1890: Erik f. 1862 Brunskog; ej i 1900 (flyttat/utvandrat? ej undersökt)",
-   "FOLKRÄKNING 1900/1910/1930: Erik Kristoffersson f. 1862 i Brunskog (Värmlands län), slaktare i Arvika köping 1900, Vik i Arvika 1910, hemmansägare Vik-Solvik 1930; gift 1892 med Karin Nilsdotter (f. 1865 Brunskog); barn Folke Teodor 1894, Gurli Margareta 1900. Identifiering mot Kristoffer Erikssons son = strong (namn+födelseår+födelseförsamling+patronymikon, ingen uttrycklig faderspost). Svarar på 'saknas 1900': han finns i Arvika, inte Amerika."
+   "FOLKRÄKNING 1900/1910/1930: Erik Kristoffersson f. 1862 i Brunskog (Värmlands län), slaktare i Arvika köping 1900, Vik i Arvika 1910, hemmansägare Vik-Solvik 1930; gift 1892 med Karin Nilsdotter (f. 1865 Brunskog); barn Folke Teodor 1894, Gurli Margareta 1900. Identifiering mot Kristoffer Erikssons son = strong (namn+födelseår+födelseförsamling+patronymikon, ingen uttrycklig faderspost). Svarar på 'saknas 1900': han finns i Arvika, inte Amerika.",
+   "UB3: ingen Nordamerika-sökning behövs – bosatt i Arvika 1900–1930 (folkräkningar)."
   ],
   "sources": [
    {
@@ -29099,7 +29137,8 @@
   "notes": [
    "FOLKRÄKNING 1880/1900 Nordsjö/Nolsjö, Boda",
    "MyHeritage Smart Match (lead, 10 träffar, alla lästa; ägare bl.a. Olsson/Pär Olsson, Dahl/Helena Holte Glöersen, Anne-Marie Mårtensson, Høgmoe/Lund/Svensson, Berglund, Roos, Rune Larsson): f. 1831, DÖD 1915 (endast årtal; ej i vårt träd). Namnformer 'Britta Ersson/Brita Erson (född Jonasdotter)'. Syskon: Kajsa Nilsson (född Jonasdotter) / Kajsa Eriksdotter / Kajsa Jonasdotter + 3-6 fler syskon (namn maskerade). Barn: Erik Jonasson/Erik Johan Jonasson (ett träd: 'Erik Jonasson, USA 1882', dvs. utvandrad) +5 fler barn. Stark träff på namn+år+make Jonas Eriksson; kontrollera död 1915 och syskonskaran (Kajsa Jonasdotter gift Nilsson) i Boda/Brunskog.",
-   "BK1: SCB död Boda (annex) 1915, bild A0031187_00259 (nr 25): ”Britta Jonasdotter, f. d. egare-enka, Nordsjö”, f. 31 19/3 (=19/3 1831). Namn + födelseår 1831 + Nordsjö stämmer; enka 1915 (maken Jonas Ersson död före). Dödsår 1915 bekräftat."
+   "BK1: SCB död Boda (annex) 1915, bild A0031187_00259 (nr 25): ”Britta Jonasdotter, f. d. egare-enka, Nordsjö”, f. 31 19/3 (=19/3 1831). Namn + födelseår 1831 + Nordsjö stämmer; enka 1915 (maken Jonas Ersson död före). Dödsår 1915 bekräftat.",
+   "UB3: ingen utvandring (död Boda 1915). MyHeritage-uppgiften att sonen Erik Johan Jonasson (f. 1857) utvandrade 1882 motsägs delvis av Family Tree G1MD-M9T (lead): Erik Johan Jonasson f. 18 maj 1857 Boda, död 6 okt 1940 Boda – han kan ha återvänt; ej utrett."
   ],
   "sources": [
    {
@@ -30007,17 +30046,28 @@
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1861 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
-   "Sökning folkräkning 1890–1930 (Adolf Persson f. 1861): ingen träff som stämmer med Boda-födelse; träffarna f. 1861 är Frykerud-födda (Adolf i Västra Ämtervik; Per Adolf Myrestad) = andra personer. Möjlig utvandring."
+   "Sökning folkräkning 1890–1930 (Adolf Persson f. 1861): ingen träff som stämmer med Boda-födelse; träffarna f. 1861 är Frykerud-födda (Adolf i Västra Ämtervik; Per Adolf Myrestad) = andra personer. Möjlig utvandring.",
+   "HUSFÖRHÖR Brunskog A I/35 (1881–90) bild 94, Nolby s. 86, Per Adamssons hushåll: ”Adolf 61 15/3 Do”, inflyttad från 194 [83 12/11], ordagrant i flyttkolumnen (blyerts, svagt): ”Nordamerika 86 26/3” (dag osäker); frejdkolumn ”fast (fol 236) 5/2 86”. Utvandrade alltså till Nordamerika våren 1886.",
+   "Family Tree GGGC-RSL (lead): Adolf Persson f. 15 mars 1861 Boda – inga uppgifter efter utvandringen. Ingen träff i amerikanska index (Adolf + 1861 + Sverige, födelseort Boda/Brunskog)."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Adolf f. 1861 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 94 (Nolby s. 86): Adolf 61 15/3, ”Nordamerika 86 26/3” (blyerts)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00094"
+   },
+   {
+    "label": "FamilySearch, Sverige husförhörsböcker 1874–1931 (index): Adolf (Elofsdotter) f. 15 Mar 1861 Boda, Nohlby, Brunskog 1881–1890",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-ZQLM"
    }
   ],
   "born": {
-   "date": "1861",
-   "place": "Boda"
+   "date": "1861-03-15",
+   "place": "Boda",
+   "note": "Brunskog husförhör A I/35 bild 94 (Nolby s. 86): ”Adolf 61 15/3 Do [Boda]”"
   },
   "places": [
    "Nolby, Brunskog"
@@ -30079,12 +30129,17 @@
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1866 i Boda, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
-   "Sökning 1890–1930 (Anna f. 1866 Boda, Persdotter): ingen säker träff. Anna Persdotter f. 1866 i Högerud är en annan person."
+   "Sökning 1890–1930 (Anna f. 1866 Boda, Persdotter): ingen säker träff. Anna Persdotter f. 1866 i Högerud är en annan person.",
+   "HUSFÖRHÖR Brunskog A I/35 bild 94 (Nolby s. 86), Per Adamssons hushåll: ”Anna Lisa 66 14/6 Do”, flyttkolumn ordagrant ”Nordamerika 89 10/5” (utvandrad 10 maj 1889). (UB3, sidofynd)"
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Anna f. 1866 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 94 (Nolby s. 86): Anna Lisa 66 14/6, ”Nordamerika 89 10/5”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00094"
    }
   ],
   "born": {
@@ -30107,17 +30162,24 @@
   "summary": "Barn i Per Adamssons och Britta Elofsdotters hushåll i Nolby 1880 (folkräkning).",
   "notes": [
    "FOLKRÄKNING 1880 Nohlby sida 12: förnamn utan efternamn, f. 1869 i Brunskog, i hushållet Per Adamsson/Britta Elofsdotter (barn enligt hushållsuppbyggnad; egen familjeställning ej utläst).",
-   "Sökning 1890–1930 (Karin Persdotter f. 1869 Brunskog): ingen träff. Möjlig utvandring eller giftermål under annat namn."
+   "Sökning 1890–1930 (Karin Persdotter f. 1869 Brunskog): ingen träff. Möjlig utvandring eller giftermål under annat namn.",
+   "HUSFÖRHÖR Brunskog A I/35 bild 94, Nolby s. 86: ”Karin 69 10/9 Nolby”, flyttkolumn ordagrant ”Nordamerika 87 27/6” (utvandrad 27 juni 1887). Systern Anna Lisa (66 14/6) har på raden ovanför ”Nordamerika 89 10/5”.",
+   "Family Tree G19N-ZKQ (lead): Karin Persson f. 10 sep 1869 Nolby – inga uppgifter efter utvandringen. Ingen träff i amerikanska index med födelseort Brunskog/Nolby."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880 Brunskog Nohlby sida 12: Karin f. 1869 i hushållet Per Adamsson",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120422427&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Brunskog husförhörslängd A I/35 (1881–1890), bild 94 (Nolby s. 86): Karin 69 10/9 Nolby, ”Nordamerika 87 27/6”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0036774_00094"
    }
   ],
   "born": {
-   "date": "1869",
-   "place": "Brunskog"
+   "date": "1869-09-10",
+   "place": "Nolby, Brunskog",
+   "note": "Brunskog A I/35 bild 94: ”Karin 69 10/9 Nolby”"
   },
   "places": [
    "Nolby, Brunskog"
@@ -31028,7 +31090,8 @@
   "notes": [
    "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat).",
    "FOLKRÄKNING 1930: ingen träff på Nils Oskar f. 1881 Boda (sökning med förnamn+år+födelseförsamling gav endast 1890 och 1900) – troligen utflyttad/utvandrad; ej utrett.",
-   "SCB födelseutdrag 1881 Boda nr 23, bild A0036224_00295: Maj 6, Nils Oskar, fader August Andersson, moder Maria Johannesdotter, Renstad."
+   "SCB födelseutdrag 1881 Boda nr 23, bild A0036224_00295: Maj 6, Nils Oskar, fader August Andersson, moder Maria Johannesdotter, Renstad.",
+   "FAMILYSEARCH (index Boda): Nils Oskar f. 6 maj 1881 finns i Renstad både 1883–94 och 1895–1906 (QL54-NPJ4 m.fl.) – han var alltså kvar i Boda minst till ca 1900. Ingen säker träff i amerikanska index (en Oscar Anderson f. 6 May 1881 Sweden, död 14 Apr 1946, NUMIDENT 6K31-46XW, saknar föräldrar/ort – kan inte knytas). Folkräkning 1910 kunde ej sökas (captcha)."
   ],
   "sources": [
    {
@@ -31080,20 +31143,26 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1861",
-   "place": "Boda, Värmlands län"
+   "date": "1861-07-19",
+   "place": "Boda",
+   "note": "FamilySearch-index Boda A I/24"
   },
   "places": [
    "Nordsjö, Boda"
   ],
   "summary": "Olof Augusts yngre bror, styvson hos Anders Jansson 1880. Inga senare folkräkningsposter hittade – troligen död eller utvandrad.",
   "notes": [
-   "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32): ”Johannesson, Johan, f. 1861 i Boda”, familjeställning ”stjs.” (styvson) hos hemmansägaren Anders Jansson f. 1834 och Anna Andersdotter f. 1826; syskon Olof August 1857, Britta Kajsa 1859. Sökning på Johan Johannesson/Johansson f. 1861 Boda 1890–1930 gav inga träffar."
+   "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32): ”Johannesson, Johan, f. 1861 i Boda”, familjeställning ”stjs.” (styvson) hos hemmansägaren Anders Jansson f. 1834 och Anna Andersdotter f. 1826; syskon Olof August 1857, Britta Kajsa 1859. Sökning på Johan Johannesson/Johansson f. 1861 Boda 1890–1930 gav inga träffar.",
+   "FAMILYSEARCH (index Boda A I/24, 1877–82, Nordsjö Mon): Johan Johannesson f. 19 Jul 1861 Boda i Anders Janssons och Anna Andersdotters hushåll (syskon Maria 23/3 1855, Olof August 3/2 1857, Britta Kajsa 3/6 1859). Saknas i Boda-index 1883–94 och 1895–1906 – flyttade/emigrerade ca 1882. Sidan i RA-bilden (C0036589 bild 269–274) ej lokaliserad; ingen träff i amerikanska index eller Family Tree."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Boda, Nordsjö (s. 32): Johan Johannesson f. 1861, stjs.",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_120430866&tab=post"
+   },
+   {
+    "label": "FamilySearch index, Boda A I/24 (1877–82), Nordsjö Mon: Johan Johannesson f. 19 Jul 1861",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5H-MPKZ"
    }
   ],
   "search": [
@@ -38240,23 +38309,41 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1860",
+   "date": "1860-01-20",
    "place": "Boda"
   },
   "places": [],
   "summary": "Son till Anders Svensson (Ask) och Maria Jordsdotter, N. Boda 1880; bror till Ingegärd Maria.",
   "notes": [
-   "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”."
+   "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+   "FAMILYSEARCH (index Boda husförhör): Johan Andersson f. 20 Jan 1860 Boda – N. Boda 1883–94 med hustru Anna Charlotta Jonasdotter (f. 1 jan 1858 Frykerud) och döttrarna Anna Maria 27/11 1888, Elin Charlotta 19/7 1890; Bodatorp 1895–1906 (A II a/1) med Kajsa Nordblad Jansdotter (f. 13 jul 1861 Boda), Anna Karolina [=Charlotta] Jonasdotter, Anna Maria 1888, Elin Charlotta 1890, Emma Elisabeth 4/10 1893, Gunnar Fabian Nordblad 13/6 1888 Grava (styvson) och Karl Einar 9/11 1904. Johan utvandrade INTE (Family Tree P9DS-WBR: död 11 maj 1940 Boda, lead). Hans barn Carl Einar (1904) och Maria Konkordia (1906) utvandrade till Illinois, se nya personer."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Boda, Norra Boda, sida 2 rad 45, fam. 1",
     "url": "https://sok.riksarkivet.se/?postid=Folk_120429450"
+   },
+   {
+    "label": "FamilySearch index, Boda husförhör A I/25 (1883–94), N. Boda: Johan Andersson f. 20 Jan 1860, Anna Charlotta Jonesdotter 1858, Anna Maria 1888, Elin Charlotta 1890",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL54-XH7Z"
+   },
+   {
+    "label": "FamilySearch index, Boda församlingsbok A II a/1 (1895–1906), Bodatorp: Johan Andersson f. 20 Jan 1860 m. Kajsa Nordblad Jansdotter 1861, barn inkl. Karl Einar 9 Nov 1904",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-H2BW"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead): Johan Andersson 1860–1940, P9DS-WBR",
+    "url": "https://www.familysearch.org/tree/person/details/P9DS-WBR"
    }
   ],
   "search": [
    "Johan Andersson (f. 1860, Boda; N. Boda)"
-  ]
+  ],
+  "died": {
+   "date": "1940-05-11",
+   "place": "Boda",
+   "note": "Family Tree P9DS-WBR (lead)"
+  }
  },
  {
   "id": "aq2_augusta_andersdotter_1867_nboda",
@@ -38265,23 +38352,33 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1867",
+   "date": "1867-05-11",
    "place": "Boda"
   },
   "places": [],
   "summary": "Dotter till Anders Svensson (Ask) och Maria Jordsdotter, N. Boda 1880; syster till Ingegärd Maria.",
   "notes": [
-   "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”."
+   "FOLKRÄKNING 1880 Boda, Norra Boda (s. 2 rad 45), fam. 1: ”Svensson Ask, Anders, f. 1828 i Boda, Hemmansägare; Jordsdotter, Maria, f. 1825 i Boda; Ingegärd Maria, f. 1857 (d. h., g.; ’mannen i Nord Amerika’); Johan, f. 1860; Augusta, f. 1867 (alla Boda)”.",
+   "FAMILYSEARCH (index): Augusta (”Jordsdotter”) f. 11 maj 1867 Boda, i föräldrahemmet N. Boda 1877–82, 1883–94 och 1895–1906 – ingen emigration. Family Tree P9DS-HSC (lead): död 24 jul 1919 Boda."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Folkräkning 1880, Boda, Norra Boda, sida 2 rad 45, fam. 1",
     "url": "https://sok.riksarkivet.se/?postid=Folk_120429450"
+   },
+   {
+    "label": "FamilySearch index, Boda A II a/1 (1895–1906), Norra Boda: Augusta f. 11 May 1867 Boda med Anders Svensson Ask och Maria Jordsdotter",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL57-RZVD"
    }
   ],
   "search": [
    "Augusta Andersdotter (f. 1867, Boda; N. Boda)"
-  ]
+  ],
+  "died": {
+   "date": "1919-07-24",
+   "place": "Boda",
+   "note": "Family Tree P9DS-HSC (lead)"
+  }
  },
  {
   "id": "aq2_anders_andersson_1816_nordsjo",
@@ -57735,6 +57832,195 @@
   ],
   "search": [
    "Anna Wilhelmina Olson f. Weflen (Weglen) (1903–1997)"
+  ]
+ },
+ {
+  "id": "ub3_carl_einar_johnson_1904",
+  "name": "Carl Einar Johnson (Karl Einar Johansson, f. 1904 Boda, d. 1993 Illinois)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1904-11-09",
+   "place": "Bodatorp, Boda"
+  },
+  "died": {
+   "date": "1993-08-01",
+   "place": "Crystal Lake, McHenry, Illinois, USA"
+  },
+  "places": [
+   "Bodatorp, Boda",
+   "Chicago, Illinois",
+   "Crystal Lake, Illinois"
+  ],
+  "summary": "Son till Johan Andersson (f. 1860) och Kajsa Jansdotter i Bodatorp; utvandrade till Illinois, naturaliserad 1929, död 1993.",
+  "notes": [
+   "FAMILYSEARCH index Boda A II a/1 (1895–1906) Bodatorp: ”Karl Einar f. 9 Nov 1904 Boda” i Johan Anderssons hushåll.",
+   "NATURALISATION Illinois (index): ”Carl Einar Johnson, natu. 6 Feb 1929 Illinois, f. 9 Nov 1904 Karlstad, Borba [=Boda], Sweden” – samma födelsedatum.",
+   "SSDI: Carl E Johnson f. 9 Nov 1904, död 1 Aug 1993 Illinois. Family Tree GY3N-CLV (lead): död Crystal Lake, McHenry, IL; även naturalisation 21 apr 1924 och WWII-registrering 16 okt 1940 Chicago."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, Illinois District and Circuit Court Naturalization Records: Carl Einar Johnson, natu. 6 Feb 1929, f. 9 Nov 1904 ”Karlstad, Borba, Sweden”",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:617M-YVZ6"
+   },
+   {
+    "label": "FamilySearch, US Social Security Death Index: Carl E Johnson f. 9 Nov 1904, d. 1 Aug 1993 Illinois",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:J16S-K6R"
+   },
+   {
+    "label": "FamilySearch index Boda A II a/1 Bodatorp (1895–1906): Karl Einar f. 9 Nov 1904",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-H2BW"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead) GY3N-CLV",
+    "url": "https://www.familysearch.org/tree/person/details/GY3N-CLV"
+   }
+  ],
+  "search": [
+   "Carl Einar Johnson (Karl Einar Johansson, f. 1904 Boda, d. 1993 Illinois)"
+  ]
+ },
+ {
+  "id": "ub3_maria_konkordia_1906",
+  "name": "Maria Konkordia Johansson Swanson (f. 1906 Boda, d. 1995 Illinois)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1906-04-01",
+   "place": "Bodatorp, Boda"
+  },
+  "died": {
+   "date": "1995-02-17",
+   "place": "Oak Lawn, Cook, Illinois, USA"
+  },
+  "places": [
+   "Bodatorp, Boda",
+   "Chicago, Illinois"
+  ],
+  "summary": "Dotter till Johan Andersson (f. 1860) och Kajsa Jansdotter; utvandrade 1923 till Chicago, gift med Karl Gunnar Emilson/Swanson (f. 1899 Boda), naturaliserad 1941.",
+  "notes": [
+   "NATURALISATION Illinois (index): ”Maria Konkordia Johansson Swanson, natu. 7 Jul 1941, f. 1 Apr 1906 Boda, Sweden”, make Karl Gunnar f. 1899 Boda.",
+   "VIGSEL Cook County (index): Karl Gunnar Emilson (f. 1899) och Maria Konkordia Johnson (f. 1905).",
+   "SSDI: Maria Swanson f. 1 Apr 1906, död 17 Feb 1995 Oak Lawn, Cook, IL. Family Tree PNS9-VY5 (lead): dop 13 maj 1906 Boda, immigration 1923; censusar 1930 och 1950 som Maria (C) Swanson."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, Illinois Naturalization Records: Maria Konkordia Johansson Swanson, natu. 7 Jul 1941, f. 1 Apr 1906 Boda",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6BVC-17QX"
+   },
+   {
+    "label": "FamilySearch, Illinois Cook County Marriages: Karl Gunnar Emilson & Maria Konkordia Johnson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q21J-F1YS"
+   },
+   {
+    "label": "FamilySearch, SSDI: Maria Swanson 1 Apr 1906 – 17 Feb 1995 Oak Lawn",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:J259-YJQ"
+   },
+   {
+    "label": "FamilySearch, Sverige husförhörsböcker (index) Boda: Maria Konkordia",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-H21N"
+   },
+   {
+    "label": "FamilySearch Family Tree (lead) PNS9-VY5",
+    "url": "https://www.familysearch.org/tree/person/details/PNS9-VY5"
+   }
+  ],
+  "search": [
+   "Maria Konkordia Johansson Swanson (f. 1906 Boda, d. 1995 Illinois)"
+  ]
+ },
+ {
+  "id": "ub3_karl_gunnar_emilson_1899",
+  "name": "Karl Gunnar Emilson (Swanson) (f. 1899 Boda)",
+  "status": "strong",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1899",
+   "place": "Boda"
+  },
+  "places": [
+   "Chicago, Illinois"
+  ],
+  "summary": "Make till Maria Konkordia Johansson, gifta i Cook County, Illinois.",
+  "notes": [
+   "Naturalisationsindex för Maria Konkordia anger maken ”Karl Gunnar, f. 1899 Boda, Sweden”; vigselindex Cook County: Karl Gunnar Emilson."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, Illinois Cook County Marriages: Karl Gunnar Emilson f. 1899",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q21J-F1YS"
+   }
+  ],
+  "search": [
+   "Karl Gunnar Emilson (Swanson) (f. 1899 Boda)"
+  ]
+ },
+ {
+  "id": "ub3_kajsa_jansdotter_1861",
+  "name": "Kajsa Jansdotter (Nordblad) (f. 1861 Boda)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1861-07-13",
+   "place": "Björkenäs, Boda"
+  },
+  "died": {
+   "date": "1942-07-02",
+   "place": "Boda",
+   "note": "Family Tree PSZ2-QRD (lead)"
+  },
+  "places": [
+   "Bodatorp, Boda"
+  ],
+  "summary": "Johan Anderssons (f. 1860) andra hustru, mor till Carl Einar och Maria Konkordia; son Gunnar Fabian Nordblad (f. 1888 Grava) sedan tidigare.",
+  "notes": [
+   "FamilySearch index Boda A II a/1 Bodatorp: ”Kajsa Nordblad Jansdotter, gift, f. 13 Jul 1861 Boda” i Johan Anderssons hushåll."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch index Boda A II a/1 Bodatorp (1895–1906)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL5W-H2BW"
+   }
+  ],
+  "search": [
+   "Kajsa Jansdotter (Nordblad) (f. 1861 Boda)"
+  ]
+ },
+ {
+  "id": "ub3_anna_charlotta_jonasd_1858",
+  "name": "Anna Charlotta Jonasdotter (f. 1858 Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1858-01-01",
+   "place": "Frykerud"
+  },
+  "died": {
+   "date": "1897-11-01",
+   "place": "Bodatorp, Boda",
+   "note": "Family Tree PCHT-QTM (lead)"
+  },
+  "places": [
+   "Norra Boda",
+   "Bodatorp, Boda"
+  ],
+  "summary": "Johan Anderssons (f. 1860) första hustru, mor till Anna Maria 1888, Elin Charlotta 1890 och Emma Elisabeth 1893.",
+  "notes": [
+   "FamilySearch index Boda A I/25 N. Boda (1883–94): gift i Johan Anderssons hushåll, f. 1 Jan 1858 Frykerud."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch index Boda A I/25 N. Boda",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QL54-XH7Z"
+   }
+  ],
+  "search": [
+   "Anna Charlotta Jonasdotter (f. 1858 Frykerud)"
   ]
  }
 ]

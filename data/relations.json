@@ -17013,5 +17013,51 @@
   "child": "aq2_gerda_katarina_augustsson_1897",
   "status": "strong",
   "basis": "FamilySearch-index Brunskog A II a/3 (SE-VA-13065-AIIa-3-0347-0322): Gerda Katrina Olsson f. 2 maj 1897 Takene, dotter, Toltan Labråten; FamilySearch-träd P73S-B8N: föräldrar August Olsson (1866–1952) och Emma Jansson, vigda 13/3 1897"
+ },
+ {
+  "id": "c-aq2_johan_andersson_1860_nboda-ub3_kajsa_jansdotter_1861-ub3_carl_einar_johnson_1904",
+  "type": "child",
+  "parents": [
+   "aq2_johan_andersson_1860_nboda",
+   "ub3_kajsa_jansdotter_1861"
+  ],
+  "child": "ub3_carl_einar_johnson_1904",
+  "status": "strong",
+  "basis": "FamilySearch index Boda A II a/1 Bodatorp: Karl Einar 9 Nov 1904 i Johan Anderssons och Kajsa Jansdotters hushåll (familjeställning ej utläst); naturalisation 1929 med samma födelsedatum."
+ },
+ {
+  "id": "c-aq2_johan_andersson_1860_nboda-ub3_kajsa_jansdotter_1861-ub3_maria_konkordia_1906",
+  "type": "child",
+  "parents": [
+   "aq2_johan_andersson_1860_nboda",
+   "ub3_kajsa_jansdotter_1861"
+  ],
+  "child": "ub3_maria_konkordia_1906",
+  "status": "strong",
+  "basis": "FamilySearch index Boda (Maria Konkordia, QL5W-H21N) + Family Tree PNS9-VY5 (barn till Johan Andersson); naturalisation 1941 f. 1 Apr 1906 Boda."
+ },
+ {
+  "id": "p-ub3_maria_konkordia_1906-ub3_karl_gunnar_emilson_1899",
+  "type": "partner",
+  "a": "ub3_maria_konkordia_1906",
+  "b": "ub3_karl_gunnar_emilson_1899",
+  "status": "strong",
+  "basis": "Cook County vigselindex Q21J-F1YS; naturalisation 6BVC-17QX nämner make Karl Gunnar f. 1899 Boda."
+ },
+ {
+  "id": "p-aq2_johan_andersson_1860_nboda-ub3_anna_charlotta_jonasd_1858",
+  "type": "partner",
+  "a": "aq2_johan_andersson_1860_nboda",
+  "b": "ub3_anna_charlotta_jonasd_1858",
+  "status": "strong",
+  "basis": "FamilySearch index Boda A I/25 N. Boda: Johan Andersson och Anna Charlotta Jonesdotter, båda 'gift' i samma hushåll."
+ },
+ {
+  "id": "p-aq2_johan_andersson_1860_nboda-ub3_kajsa_jansdotter_1861",
+  "type": "partner",
+  "a": "aq2_johan_andersson_1860_nboda",
+  "b": "ub3_kajsa_jansdotter_1861",
+  "status": "strong",
+  "basis": "FamilySearch index Boda A II a/1 Bodatorp: Kajsa Nordblad Jansdotter 'gift' i Johan Anderssons hushåll."
  }
 ]
