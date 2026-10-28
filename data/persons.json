@@ -3002,8 +3002,9 @@
    "note": "25.7.1901 enligt julianska kalendern; registrerad i Kielce 15.3.1903 (akt 68) - sen anmälan. Tidigare antaget år 1902/1903 är fel."
   },
   "died": {
-   "date": "1972-08-13",
-   "place": "Trzcińsko-Zdrój"
+   "date": "1972-08-06",
+   "place": "Kielce",
+   "note": "Gravsten (Kielce, Cmentarz parafialny stary, 15B/1/16): ”STEFAN ORZECHOWSKI ŻYŁ LAT 72 ZM. 6 VIII 1972”, samma grav som Stanisława (d. 2000) och Jan (d. 1994). MyHeritage-trädets 13.8.1972 Trzcińsko-Zdrój är sannolikt fel (ev. begravningsdag); se UA2-flagga."
   },
   "summary": "Född 7.8.1901 i Szydłówek vid Kielce, son till arbetaren Józef Orzechowski och Katarzyna född Zatorska. Gifte sig 7.1.1923 i S:t Wojciech, Kielce, med Zofia Młodawska (marginalnot i födelseakten + Geneteka). Åldern 21 vid vigseln stämmer med födelsen 1901.",
   "sources": [
@@ -3049,6 +3050,10 @@
    {
     "label": "MyHeritage Record Match (väntande): 'Stefan Orzechowski i Världsträdet hos Geni' (record-40000-214098655): Född 1902 (plats saknas), Död 1972, Barn 'Ryszard Orzechowski och 2 till'; make ej angiven. Geni = användarträd = lead.",
     "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500013/stefan-orzechowski#matches"
+   },
+   {
+    "label": "Grobonet – Biuro Cmentarzy Parafii Katedralnej Kielce, Cmentarz parafialny stary w Kielcach (ul. Ogrodowa), sektor 15B, rząd 1, grób 16, gravkort osoba/115725–115727 + gravstensfoto: ”ŚP. STEFAN ORZECHOWSKI ŻYŁ LAT 72 ZM. 6 VIII 1972 / STANISŁAWA ORZECHOWSKA ŻYŁA LAT 92 ZM. 24 VI 2000 / JAN ORZECHOWSKI ŻYŁ LAT 58 ZM. 8 IV 1994 / POKÓJ ICH DUSZOM”",
+    "url": "https://kielce.grobonet.com/osoba/115725"
    }
   ],
   "search": [
@@ -3065,7 +3070,8 @@
    "MYHERITAGE-SÖKNING: gravstenssamlingen visar INGEN Stefan Orzechowski d. 1972 i Trzcińsko-Zdrój (ortboostade träffar för Orzechowski där: Szczepan 31.10.1938-12.2.2012 och Piotr 8.8.1931-30.4.1998, båda 'Cmentarz Komunalny w Trzcińsku Zdroju'; Zofia Orzechowska 14.7.1941-9.11.2003 samma kyrkogård). Ej släktkopplade. Stefans grav är alltså inte indexerad där (eller felstavad).",
    "OMGÅNG 36: Bekräftat av Martin: Stefan Orzechowski var morfar till Iwona (Irenas far).",
    "GENETEKA (BQ3, index): Stefan Orzechowski gifte om sig 1934: S 1934 akt 49, Kielce Katedra, 'Stefan Orzechowski, föräldrar Józef, Katarzyna Zatorska, 32 wdowiec ur. Szydłówek' x 'Stanisława Smuga, föräldrar Piotr, Marianna Iwan, 25, ur. Starachowice'. Bekräftar att Zofia dog 1933 och att Stefan hade en andra hustru. Irena (f. 1926) och Ryszard (f. 1931): inga födelseposter Orzechowski/Jarczyński i Geneteka B 1925-1927 resp. 1930-1932 (Kielce) – ej indexerat. Białogon (Skanoteka id3912): endast en enhet 'A-1919-1941' (id3912-sy7000, 9 böcker kt1919/1921/1924/1927/1929/1930/1931/1932/1940, ca 800 oindexerade bilder); ej genomläst. Szydłówek hörde till S:t Wojciech/Katedra, ingen Białogon-post funnen i Geneteka för Orzechowski.",
-   "BR1: Skanoteka saknar bilder för Katedra 1934 (id57 sy1934: 'Zawartość katalogu jest niedostępna'), och Kielce S:t Wojciech/Kielce (id239) slutar 1911 i enhetslistan (1921 saknas). Omgiftet 1934 (akt 49, Stanisława Smuga) och Józefs omgifte 1921 (akt 46, Zofia Obara) kan därför inte bildläsas; kvar som Geneteka-index (strong)."
+   "BR1: Skanoteka saknar bilder för Katedra 1934 (id57 sy1934: 'Zawartość katalogu jest niedostępna'), och Kielce S:t Wojciech/Kielce (id239) slutar 1911 i enhetslistan (1921 saknas). Omgiftet 1934 (akt 49, Stanisława Smuga) och Józefs omgifte 1921 (akt 46, Zofia Obara) kan därför inte bildläsas; kvar som Geneteka-index (strong).",
+   "UA2 GRAVSTEN: familjegrav Kielce Stary Cmentarz 15B/1/16: Stefan (zm. 6.8.1972, 'żył lat 72'), Stanisława Orzechowska (zm. 24.6.2000, 92 år → f. ca 1908 = Stanisława Smuga, 25 år 1934) och Jan Orzechowski (zm. 8.4.1994, 58 år → f. ca 1935/36 = Janek, son i andra äktenskapet). Kombinationen av tre namn+åldrar stämmer med familjeuppgifterna → strong. 'Lat 72' är ett år för mycket mot f. 7.8.1901 (han dog dagen före 71-årsdagen) – vanlig avrundning på gravstenar."
   ]
  },
  {
@@ -3083,7 +3089,8 @@
   },
   "died": {
    "date": "1933-10-24",
-   "place": "Kielce"
+   "place": "Kielce",
+   "note": "Gravsten (Kielce, Cmentarz parafialny nowy, A9/1/14): ”ZOFIA ORZECHOWSKA żyła lat 29 zm. 24 X 1933” – 29 år stämmer med f. 17.4.1904. Begravd i samma grav som sonen Ryszard."
   },
   "summary": "Född 17.4.1904 i Szydłówek vid Kielce, dotter till arbetaren Jan Młodawski och Wiktoria född Szewczyk. Gifte sig 7.1.1923 i S:t Wojciech, Kielce, med Stefan Orzechowski (marginalnot i födelseakten + Geneteka). Släktträdet anger 'Młodawska' - rätt stavning enligt akt/index är Młodawska.",
   "sources": [
@@ -3117,6 +3124,10 @@
    {
     "label": "MyHeritage, profilsida Zofia Orzechowska (født Mlodawska) i Martins träd (profil-id 1500014): Född 28 juni 1904 (ingen ort), Död 24 okt 1933 Kielce. Trädets födelsedatum 28.6.1904 avviker från verified-posten 17.4.1904 (akt 125) - trädets dag är fel. Väntande Record Match mot Geni 'Zofia Mlodawska-Orzechowska' (record-40000-214098622): Född 1904, Död 1933, Barn 'Ryszard Orzechowski och 2 till'.",
     "url": "https://www.myheritage.se/profile-OYYV73B3W7ZE4NSY2JZMLEW567JDBNI-1500014/zofia"
+   },
+   {
+    "label": "Grobonet – Biuro Cmentarzy Parafii Katedralnej Kielce, Cmentarz parafialny nowy w Kielcach, sektor A9, rząd 1, grób 14 (gammal adress G2/1/2/24), gravkort osoba/28896 och 13616 + gravstensfoto: ”Ś.P. ZOFIA ORZECHOWSKA żyła lat 29 zm. 24 X 1933 / RYSZARD ORZECHOWSKI zginął śmiercią tragiczną * 11 VI 1931 † 11 VI 1990”",
+    "url": "https://kielce.grobonet.com/osoba/13616"
    }
   ],
   "search": [
@@ -3133,7 +3144,8 @@
    "SYSKON: Bolesław Stanisław Młodawski f. 13.7.1902 (akt 211) – äldre bror; samma föräldrar Jan Młodawski + Wiktoria Szewczyk.",
    "MYHERITAGE-SÖKNING (BG1): 'Zofia Łucja Młodawska' f. 1902 (FamilySearch-träd + MyHeritage-träd Kubarska/Kubarski, syskon Marianna Maria Kusztal) är en annan person (f. 1902, ej 1904) - redan uteslutet namnlik (Niekłań).",
    "BQ3: Białogon-skanningar (id3912) ej genomsökta; ingen Białogon-post för Młodawska/Orzechowska i Geneteka.",
-   "PL2: Ingen dödspost 1933 i Geneteka D 13sk (sökt Orzechowski 1912–1945 och Młodawska 1925–1945) – St Wojciech/Katedra-döda 1933 ej indexerade för henne."
+   "PL2: Ingen dödspost 1933 i Geneteka D 13sk (sökt Orzechowski 1912–1945 och Młodawska 1925–1945) – St Wojciech/Katedra-döda 1933 ej indexerade för henne.",
+   "UA2 GRAVSTEN: ”Ś.P. ZOFIA ORZECHOWSKA żyła lat 29 zm. 24 X 1933” (Cmentarz parafialny nowy w Kielcach, sektor A9 rząd 1 nr 14; samma sten som Ryszard Orzechowski 1931–1990). Datum + ålder stämmer exakt med befintliga data → bekräftar dödsdatum och begravningsplats (strong; gravsten, ej dödsakt)."
   ]
  },
  {
@@ -7751,6 +7763,10 @@
    {
     "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: ”alla Irenas bröder är döda, inklusive Janek Orzechowski”",
     "url": ""
+   },
+   {
+    "label": "Grobonet – Biuro Cmentarzy Parafii Katedralnej Kielce, Cmentarz parafialny nowy w Kielcach, sektor A9, rząd 1, grób 14 (gammal adress G2/1/2/24), gravkort osoba/28896 och 13616 + gravstensfoto: ”Ś.P. ZOFIA ORZECHOWSKA żyła lat 29 zm. 24 X 1933 / RYSZARD ORZECHOWSKI zginął śmiercią tragiczną * 11 VI 1931 † 11 VI 1990”",
+    "url": "https://kielce.grobonet.com/osoba/13616"
    }
   ],
   "search": [
@@ -7761,9 +7777,13 @@
    "place": "Kielce"
   },
   "died": {
-   "date": "",
-   "note": "Avliden (Ywonne 2026-10-10); datum okänt."
-  }
+   "date": "1990-06-11",
+   "place": "Kielce",
+   "note": "Gravsten: ”zginął śmiercią tragiczną * 11 VI 1931 † 11 VI 1990” (omkom genom olycka/tragisk död på 59-årsdagen). Begravd Cmentarz parafialny nowy w Kielcach A9/1/14 med modern Zofia."
+  },
+  "notes": [
+   "UA2 GRAVSTEN: ”RYSZARD ORZECHOWSKI zginął śmiercią tragiczną * 11 VI 1931 † 11 VI 1990”, samma grav som ”ZOFIA ORZECHOWSKA żyła lat 29 zm. 24 X 1933” (Kielce, Cmentarz parafialny nowy, A9/1/14). Födelsedatum 11.6.1931 = exakt som i MyHeritage-trädet; gemensam grav med modern Zofia styrker identiteten (strong). Hustrun Stefania står inte på stenen."
+  ]
  },
  {
   "id": "czeslaw_o",
@@ -43300,17 +43320,27 @@
   "summary": "Stefan Orzechowskis andra hustru (gift 1934, 25 år, f. Starachowice), enligt Geneteka-index.",
   "notes": [
    "GENETEKA S 1934 akt 49, Kielce Katedra: brudgum 'Stefan Orzechowski', föräldrar 'Józef, Katarzyna Zatorska', 'on 32 wdowiec ur. Szydłówek'; brud 'Stanisława Smuga', föräldrar 'Piotr, Marianna Iwan', 'ona 25 ur. Starachowice'. Index, ej bildläst.",
-   "PL2: Geneteka S 1934 akt 49 Kielce Katedra, Data ślubu: 02.04.1934; Uwagi 'on 32 wdowiec ur. Szydłówek, ona 25 ur. Starachowice p. Wąchock', Miejscowość: Kielce. Föräldrar Piotr Smuga och Marianna Iwan."
+   "PL2: Geneteka S 1934 akt 49 Kielce Katedra, Data ślubu: 02.04.1934; Uwagi 'on 32 wdowiec ur. Szydłówek, ona 25 ur. Starachowice p. Wąchock', Miejscowość: Kielce. Föräldrar Piotr Smuga och Marianna Iwan.",
+   "UA2 GRAVSTEN: begravd med maken Stefan och sonen Jan i Kielce, Cmentarz parafialny stary 15B/1/16. Identitet strong (namn+ålder+gravgemenskap)."
   ],
   "sources": [
    {
     "label": "Geneteka-index S 1934 akt 49 Kielce Katedra",
     "url": "https://geneteka.genealodzy.pl/"
+   },
+   {
+    "label": "Grobonet – Biuro Cmentarzy Parafii Katedralnej Kielce, Cmentarz parafialny stary w Kielcach (ul. Ogrodowa), sektor 15B, rząd 1, grób 16, gravkort osoba/115725–115727 + gravstensfoto: ”ŚP. STEFAN ORZECHOWSKI ŻYŁ LAT 72 ZM. 6 VIII 1972 / STANISŁAWA ORZECHOWSKA ŻYŁA LAT 92 ZM. 24 VI 2000 / JAN ORZECHOWSKI ŻYŁ LAT 58 ZM. 8 IV 1994 / POKÓJ ICH DUSZOM”",
+    "url": "https://kielce.grobonet.com/osoba/115725"
    }
   ],
   "search": [
    "Stanisława Smuga (g. Orzechowska)"
-  ]
+  ],
+  "died": {
+   "date": "2000-06-24",
+   "place": "Kielce",
+   "note": "Gravsten: ”STANISŁAWA ORZECHOWSKA ŻYŁA LAT 92 ZM. 24 VI 2000” (Kielce Stary Cmentarz 15B/1/16, med Stefan och Jan) → f. ca 1908, stämmer med 25 år 2.4.1934."
+  }
  },
  {
   "id": "d7_andrew_leaf",
@@ -45731,12 +45761,13 @@
   "sex": "m",
   "living": false,
   "born": {
-   "date": "",
-   "note": "Efter 1934 (Stefans andra äktenskap); exakt okänt."
+   "date": "ca 1935/36",
+   "note": "58 år vid döden 8.4.1994 (gravsten)"
   },
   "died": {
-   "date": "",
-   "note": "Avliden (Ywonne 2026-10-10); datum okänt."
+   "date": "1994-04-08",
+   "place": "Kielce",
+   "note": "Gravsten: ”JAN ORZECHOWSKI ŻYŁ LAT 58 ZM. 8 IV 1994”, Kielce Cmentarz parafialny stary 15B/1/16, med föräldrarna Stefan och Stanisława."
   },
   "altNames": [
    "Janek Orzechowski"
@@ -45754,7 +45785,14 @@
    {
     "label": "Familjeuppgift: Ywonne Henryka Elofsson via Martin 2026-10-10: Janek var yngsta barnet, halvbror till Irena och hennes bröder; Stefan gifte om sig efter att Zofia dog och de fick Janek",
     "url": ""
+   },
+   {
+    "label": "Grobonet – Biuro Cmentarzy Parafii Katedralnej Kielce, Cmentarz parafialny stary w Kielcach (ul. Ogrodowa), sektor 15B, rząd 1, grób 16, gravkort osoba/115725–115727 + gravstensfoto: ”ŚP. STEFAN ORZECHOWSKI ŻYŁ LAT 72 ZM. 6 VIII 1972 / STANISŁAWA ORZECHOWSKA ŻYŁA LAT 92 ZM. 24 VI 2000 / JAN ORZECHOWSKI ŻYŁ LAT 58 ZM. 8 IV 1994 / POKÓJ ICH DUSZOM”",
+    "url": "https://kielce.grobonet.com/osoba/115725"
    }
+  ],
+  "notes": [
+   "UA2 GRAVSTEN: Jan Orzechowski d. 8.4.1994, 58 år, i föräldrarnas grav (Stefan 1972, Stanisława 2000). Strong för identitet med Janek."
   ]
  },
  {

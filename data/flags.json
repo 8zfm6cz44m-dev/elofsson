@@ -411,6 +411,13 @@
     "no_august_josefsen_berg46",
     "ar2_josef_berg_lerhol"
    ]
+  },
+  {
+   "title": "Ryszard Orzechowski: 'zginął śmiercią tragiczną' 11.6.1990",
+   "text": "Gravstenen anger att Ryszard omkom genom tragisk död på sin 59-årsdag (11.6.1931–11.6.1990), begravd hos modern Zofia (d. 1933) på Cmentarz parafialny nowy, Kielce A9/1/14. Dödsakt USC Kielce 1990 / ev. tidningsnotis (Echo Dnia, Słowo Ludu juni 1990) kan ge omständigheter. Fråga Ywonne.",
+   "persons": [
+    "ryszard_o"
+   ]
   }
  ],
  "conflicts": [
@@ -1128,6 +1135,13 @@
    "text": "Husförhör A I/5 och A I/6 (bild 123) ger ’13/4 1783’, dopboken C I/2 bild 128 vä 1783 nr 16 har dopdatum Julii 20. Dopboken bör gälla; hans död 1790 (marg. ’Dr[unkn.?] 21/[?] 1790’, A I/6 ’† 90’, A I/7 saknar honom) är ännu inte kontrollerad i E I/2 (1790 ≈ bild 40–45).",
    "persons": [
     "jan_nilsson_1783_olsrud"
+   ]
+  },
+  {
+   "title": "Stefan Orzechowskis död: 6.8.1972 Kielce (gravsten) mot 13.8.1972 Trzcińsko-Zdrój (MyHeritage)",
+   "text": "Gravstenen i Kielce (Stary Cmentarz 15B/1/16) anger zm. 6 VIII 1972 och ligger i grav med Stanisława (2000) och Jan (1994). MyHeritage-trädet anger d. 13.8.1972 i Trzcińsko-Zdrój med jordfästning där, men Trzcińsko-Zdrójs gravregister (grobonet) har ingen Stefan Orzechowski. Föreslag: ändra död till 1972-08-06, Kielce; 13.8 kan vara begravningsdag. Verifiering: dödsakt USC Kielce 1972.",
+   "persons": [
+    "stefan"
    ]
   }
  ],
@@ -4601,6 +4615,13 @@
    ],
    "kind": "resolved",
    "resolution": "UA4: Douglas County, Minnesota – census 1870 och Find a Grave (Hilma Caroline Swenson Thompson)."
+  },
+  {
+   "title": "Czesław Orzechowski d. 1958 i Kielce är INTE Irenas bror",
+   "text": "Kielce Stary Cmentarz 16A/4/26: ”ORZECHOWSCY JÓZEFA żyła lat 85 zm. 23.VI.1983 / CZESŁAW żył lat 64 zm. 30.VII.1958” → Czesław f. ca 1894, för gammal för att vara son till Stefan (f. 1901). Utesluten för czeslaw_o.",
+   "persons": [
+    "czeslaw_o"
+   ]
   }
  ],
  "backlog": [
