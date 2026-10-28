@@ -351,6 +351,13 @@
     "erik_palsson_hogvalta",
     "kerstin_mansdotter_hogvalta"
    ]
+  },
+  {
+   "title": "Påhls id är missvisande",
+   "text": "Personen med id nils_christophersson_1715_olsrud heter Påhl (Pål) Christophersson – bekräftat igen av dödposten 1799 (E I/2 bild 55 hö: ”Pål Christophersson … född 1715 4/9 af Bdr. Christopher och h. Elin”). Id behålls enligt instruktion.",
+   "persons": [
+    "nils_christophersson_1715_olsrud"
+   ]
   }
  ],
  "conflicts": [
@@ -4435,6 +4442,23 @@
    "persons": [
     "stina_nilsd_1790_saldebraten",
     "jonas_jonsson_1786_forsnor"
+   ]
+  },
+  {
+   "title": "Nils Olsson (f. 1749) – modern är Britta Christophersdotter",
+   "text": "Boda C I/2 bild 15 hö (C0036593_00015), 1749: ”d. 8 föddes Pig. Britta Christophersd:rs i Olsrud oägta Son Nils.” Relationen c-britta_christophersd_1714_olsrud-nils_olsson_1749_olsrud höjs från candidate till verified. Fadern ej angiven.",
+   "persons": [
+    "nils_olsson_1749_olsrud",
+    "britta_christophersd_1714_olsrud"
+   ]
+  },
+  {
+   "title": "Påhl Christophersson och Karin Halfvardsdotter – barnlösa, döda 1799",
+   "text": "Inga dop 1744–47 (Boda C I/1) och inga barn i husförhören 1759–1799. Karin d. 28/11 1799 (nära 82 år), Påhl d. 12/12 1799 (84¼ år), Boda E I/2 bild 55. Karin var änka efter soldaten Jon Larsson (g. 30/11 1740) och dotter till Halfvard Olsson och Marit Jonsdotter i Nordsjö. Gården gick till systersonen Nils Olsson (f. 1749).",
+   "persons": [
+    "nils_christophersson_1715_olsrud",
+    "karin_halfwardsd_1718_olsrud",
+    "nils_olsson_1749_olsrud"
    ]
   }
  ],

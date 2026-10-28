@@ -14374,8 +14374,8 @@
    "britta_christophersd_1714_olsrud"
   ],
   "child": "nils_olsson_1749_olsrud",
-  "status": "candidate",
-  "basis": "A I/2 bild 100: ”Dott. Son oä: Nils Olsson” f. 1749 – oäkta dotterson till Christopher Nilsson; Britta (f. 1713/14, ogift 1768) är enda dottern i hushållet. Modern ej namngiven."
+  "status": "verified",
+  "basis": "Boda C I/2 bild 15 hö (C0036593_00015), 1749 11 juni: ”d. 8 föddes Pig. Britta Christophersd:rs i Olsrud oägta Son Nils.” Uppgraderas från candidate."
  },
  {
   "id": "p-nils_christophersson_1715_olsrud-karin_halfwardsd_1718_olsrud",
@@ -14759,5 +14759,84 @@
   "child": "inga_maja_jonsd_1818_forsnor",
   "status": "family",
   "basis": "A I/14 bild 49 / A I/15 bild 58 Forsnor: ”Inga Maja” 1818 (endast A I/15) i Jonas Jonssons och Stina Nilsdotters hushåll."
+ },
+ {
+  "id": "p-nils_olsson_1749_olsrud-marit_mansd_1747_skog",
+  "type": "partner",
+  "a": "nils_olsson_1749_olsrud",
+  "b": "marit_mansd_1747_skog",
+  "status": "verified",
+  "basis": "A I/5 bild 123 s. 114 (marg. ”gift”): ”Nils Olsson … h. Marit Månsd:r”; A I/4 bild 114, A I/6 bild 123."
+ },
+ {
+  "id": "c-nils_olsson_1749_olsrud-marit_mansd_1747_skog-nils_nilsson_1781_olsrud",
+  "type": "child",
+  "parents": [
+   "nils_olsson_1749_olsrud",
+   "marit_mansd_1747_skog"
+  ],
+  "child": "nils_nilsson_1781_olsrud",
+  "status": "verified",
+  "basis": "A I/4 bild 114, A I/5 bild 123, A I/6 bild 123: ”S. Nils Nilsson 1781” i hushållet."
+ },
+ {
+  "id": "c-nils_olsson_1749_olsrud-marit_mansd_1747_skog-jan_nilsson_1783_olsrud",
+  "type": "child",
+  "parents": [
+   "nils_olsson_1749_olsrud",
+   "marit_mansd_1747_skog"
+  ],
+  "child": "jan_nilsson_1783_olsrud",
+  "status": "verified",
+  "basis": "A I/5 bild 123: ”S. Jan Nilsson 13/4 1783”; A I/6 bild 123."
+ },
+ {
+  "id": "c-nils_olsson_1749_olsrud-marit_mansd_1747_skog-christopher_nilsson_1786_olsrud",
+  "type": "child",
+  "parents": [
+   "nils_olsson_1749_olsrud",
+   "marit_mansd_1747_skog"
+  ],
+  "child": "christopher_nilsson_1786_olsrud",
+  "status": "verified",
+  "basis": "A I/6 bild 123 s. 111: ”S. Christopher Nilsson … 86”."
+ },
+ {
+  "id": "c-nils_olsson_1749_olsrud-marit_mansd_1747_skog-jon_nilsson_1788_olsrud",
+  "type": "child",
+  "parents": [
+   "nils_olsson_1749_olsrud",
+   "marit_mansd_1747_skog"
+  ],
+  "child": "jon_nilsson_1788_olsrud",
+  "status": "verified",
+  "basis": "A I/6 bild 123 s. 111: ”S. Jon Nilsson … 88”."
+ },
+ {
+  "id": "c-halfvard_olsson_nordsjo-marit_jonsd_nordsjo-karin_halfwardsd_1718_olsrud",
+  "type": "child",
+  "parents": [
+   "halfvard_olsson_nordsjo",
+   "marit_jonsd_nordsjo"
+  ],
+  "child": "karin_halfwardsd_1718_olsrud",
+  "status": "strong",
+  "basis": "Boda E I/2 bild 55 vä (C0036597_00055), 1799 nr 12: ”Hustru Kari Halfvardsd:r … född i Nordsjö 1718 1/1 af Bdr. Halfvard Olsson och h. Marit Jonsd:r.” Dödbok (sekundär för födelsen); dopet ej kontrollerat."
+ },
+ {
+  "id": "p-halfvard_olsson_nordsjo-marit_jonsd_nordsjo",
+  "type": "partner",
+  "a": "halfvard_olsson_nordsjo",
+  "b": "marit_jonsd_nordsjo",
+  "status": "strong",
+  "basis": "Boda E I/2 bild 55 vä, 1799 nr 12: ”Bdr. Halfvard Olsson och h. Marit Jonsd:r”."
+ },
+ {
+  "id": "p-jon_larsson_sold_boda_1740-karin_halfwardsd_1718_olsrud",
+  "type": "partner",
+  "a": "jon_larsson_sold_boda_1740",
+  "b": "karin_halfwardsd_1718_olsrud",
+  "status": "strong",
+  "basis": "Boda E I/2 bild 55 vä, 1799 nr 12: ”Gift 1:o 1740 30/11 med Sold. Jon Larsson i Boda; 2:o 1744 1/1 med Bdr Pål Christophersson i Olserud.”"
  }
 ]
