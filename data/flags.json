@@ -928,15 +928,6 @@
       ]
     },
     {
-      "title": "Tekla Hencels flicknamn: Skrzyńska eller Piotrowska?",
-      "text": "Franciszek Henzel 1816 (Geneteka): mor Tekla Skrzyńska. Augustyn 1820 akt 369 (läst på bild): 'Tekli z […]ńskich' (Geneteka 'Slerzyńska'). Franciszeks vigsel 1838 akt 73: 'Tekli ze Skrzyńskich'. Augustyns vigsel 1841 akt 148: 'Tekli z Piotrowskich'. Tre källor säger Skrzyńska, en Piotrowska. Möjligen skrivarfel, eller Jan gifte om sig med en Tekla Piotrowska (nej: samma förnamn är osannolikt) – föreslå Skrzyńska som huvudläsning. Kräver omläsning av 1841 akt 148 på nära håll och av Jan+Teklas vigsel (ca 1808-1815, saknas i Skanoteka 1813-1816).",
-      "persons": [
-        "tekla_hencel_mor",
-        "augustyn_hencel",
-        "franciszek_hencel_1816"
-      ]
-    },
-    {
       "title": "Anna (Młodawska) – flicknamn Opara eller Bartosińska",
       "text": "Vigselakt Mniów 1856 nr 12 (Jacek Młodawski x Anna z Bartosińskich Sołtykowa, änka efter Michał Sołtyk, född Zaborowice, Miedzierza) och födelseakt 1866 nr 131 samt vigsel 1900 anger Bartosińska; födelseakt 1860 nr 33 (Jan) och 1864 nr 55 (Piotr Paweł) samt vigsel 1891 anger 'z Oparów'. Åldern passar (25 år 1856, 30 år 1860, 36 år 1864, 37 år 1866). Möjlig förklaring: tilltalsnamn/tidigare giftermål eller skrivarfel – oklart. Båda varianterna bör behållas.",
       "persons": [
@@ -1099,17 +1090,6 @@
         "johan_elofsson30_persjon",
         "lisken_elofsd27_persjon",
         "olof_elofsson29_persjon"
-      ]
-    },
-    {
-      "title": "Hencel-fadern: Efraim Hentschel (1818) eller Jan Hentel (1820)?",
-      "text": "Katedra 1818 akt 361 (Andrzej): fadern 'Efraim Hentschel', 44 år, mästare i Ciesielski-yrket, Niewachłów, hustru Tekla z Skrzyńskich 27 år, vittne Melchior Freind (gruvarbetare). Katedra 1820 akt 369 (Augustyn): 'Jan Hentel', 45 år, samma yrke och by, hustru Tekla (30 år), samma vittne Melchior Frejnd. Franciszeks vigsel 1838 och Augustyns 1841 säger 'Jan'. Samma man med två förnamn (tysk protestantisk Efraim / katolsk Jan?) eller skrivfel – ej avgjort. Tekla Skrzyńska nu belagd i fyra källor mot en (Piotrowska 1841). Tillägg: akt 380/1822 (Michał) har också 'Efraim Hentchel', 48 år, 'Mayster Fabryczny', samma hustru Tekla z Skrzyńskich – Efraim i två akter (1818, 1822), Jan i 1820/1838/1841. Sannolikt samma man (dubbelnamn eller tyskt dopnamn Efraim).",
-      "persons": [
-        "hencel_jan_1820",
-        "tekla_hencel_mor",
-        "pl4_andrzej_hencel_1818",
-        "augustyn_hencel",
-        "pl4_michal_hencel_1822"
       ]
     },
     {
@@ -4657,6 +4637,65 @@
       ],
       "kind": "resolved",
       "resolution": "UA6: samma person, sammanslagen."
+    },
+    {
+      "title": "Józef och Antonina Zatorskis död funnen (1877/1878)",
+      "text": "Antonina f. Ksel dog 21.7.1877 i Szydłówek (Katedra 1877 akt 409, verified; 'дочь покойнаго Яна и живущей Агаты, оставивъ мужа Іосифа'). Józef Zatorski, 'крестьянинъ деревни Шидлувка', dog 27.2.1878 på S:t Alexanders sjukhus i Kielce (Katedra 1878 akt 104; ålder 30, inga släktuppgifter – strong). Barnen Marianna (1885), Jan (1897) och Franciszka (1908) anges i sina vigselakter som barn till 'покойныхъ Іосифа и Антонины урожденной Ксель'. Löser tidigare 'död före 1895 – troligen 1872–1889 i S:t Wojciech'.",
+      "persons": [
+        "jozef_zatorski",
+        "antonina_zatorska_n"
+      ]
+    },
+    {
+      "title": "Hencel-fadern: Efraim/Jan = Ernest Hensel, död 11.4.1832",
+      "text": "Katedra 1832 akt 366 (bildläst): 'zmarł Ernest Hensel Cieśla Fabryki Rządowey lat pięćdziesiąt dwa maiący, pozostawiwszy Małżonkę Teklę z Skrzyńskich Henslową, tudzież Dzieci Franciszka, Augustyna i Michała' (Niewachłów, 11.4.1832). Hustru och barn binder ihop namnen Efraim (1818, 1822), Jan (1820, 1838, 1841) och Ernest (1832) – en och samma man. Dödsåret löser även 'Jan Hencel död 1820–1838 ej funnen'.",
+      "persons": [
+        "hencel_jan_1820",
+        "tekla_hencel_mor",
+        "augustyn_hencel",
+        "franciszek_hencel_1816",
+        "pl4_michal_hencel_1822",
+        "pl4_andrzej_hencel_1818"
+      ]
+    },
+    {
+      "title": "Agnieszka Orzechowska f. Hencel död 20.3.1895 (Katedra akt 138)",
+      "text": "Löser backloggen 'Dödsakt Agnieszka Orzechowska/Hencel ej funnen i Katedras dödsindex 1890-1894': hon dog 8/20 mars 1895 i Niewachlów, 48 år, 'дочь Августина Хенцеля и Маріанны урожденной Шрекъ, вдова по смерти Михала' (bildläst).",
+      "persons": [
+        "agnieszka_orzechowska_1849"
+      ]
+    },
+    {
+      "title": "Anna Młodawska f. Bartosińska död 5.11.1903 i Rogowice; Jacek levde då",
+      "text": "Mniów 1903 akt 100 (bildläst): 'умерла Анна Млодавска урожденная Бартошиньская ... оставивъ послѣ себя овдовѣвшаго мужа Яцента Млодавскаго'. Jaceks egen död ej funnen 1904–1915 (Geneteka D Mniów).",
+      "persons": [
+        "anna_bartosinska",
+        "jacek_mlodawski"
+      ]
+    },
+    {
+      "title": "Hencel-fadern: Efraim Hentschel (1818) eller Jan Hentel (1820)?",
+      "text": "Katedra 1818 akt 361 (Andrzej): fadern 'Efraim Hentschel', 44 år, mästare i Ciesielski-yrket, Niewachłów, hustru Tekla z Skrzyńskich 27 år, vittne Melchior Freind (gruvarbetare). Katedra 1820 akt 369 (Augustyn): 'Jan Hentel', 45 år, samma yrke och by, hustru Tekla (30 år), samma vittne Melchior Frejnd. Franciszeks vigsel 1838 och Augustyns 1841 säger 'Jan'. Samma man med två förnamn (tysk protestantisk Efraim / katolsk Jan?) eller skrivfel – ej avgjort. Tekla Skrzyńska nu belagd i fyra källor mot en (Piotrowska 1841). Tillägg: akt 380/1822 (Michał) har också 'Efraim Hentchel', 48 år, 'Mayster Fabryczny', samma hustru Tekla z Skrzyńskich – Efraim i två akter (1818, 1822), Jan i 1820/1838/1841. Sannolikt samma man (dubbelnamn eller tyskt dopnamn Efraim).",
+      "persons": [
+        "hencel_jan_1820",
+        "tekla_hencel_mor",
+        "pl4_andrzej_hencel_1818",
+        "augustyn_hencel",
+        "pl4_michal_hencel_1822"
+      ],
+      "kind": "resolved",
+      "resolution": "UA1: Katedra 1832 akt 366 – ”zmarł Ernest Hensel Cieśla Fabryki Rządowey lat 52 … Małżonkę Teklę z Skrzyńskich … Dzieci Franciszka, Augustyna i Michała”; Efraim/Jan/Ernest = samma man, d. 11.4.1832."
+    },
+    {
+      "title": "Tekla Hencels flicknamn: Skrzyńska eller Piotrowska?",
+      "text": "Franciszek Henzel 1816 (Geneteka): mor Tekla Skrzyńska. Augustyn 1820 akt 369 (läst på bild): 'Tekli z […]ńskich' (Geneteka 'Slerzyńska'). Franciszeks vigsel 1838 akt 73: 'Tekli ze Skrzyńskich'. Augustyns vigsel 1841 akt 148: 'Tekli z Piotrowskich'. Tre källor säger Skrzyńska, en Piotrowska. Möjligen skrivarfel, eller Jan gifte om sig med en Tekla Piotrowska (nej: samma förnamn är osannolikt) – föreslå Skrzyńska som huvudläsning. Kräver omläsning av 1841 akt 148 på nära håll och av Jan+Teklas vigsel (ca 1808-1815, saknas i Skanoteka 1813-1816).",
+      "persons": [
+        "tekla_hencel_mor",
+        "augustyn_hencel",
+        "franciszek_hencel_1816"
+      ],
+      "kind": "resolved",
+      "resolution": "UA1: dödsakten 1832 (Katedra akt 366) skriver ”Teklę z Skrzyńskich” – Skrzyńska (4 av 5 akter)."
     }
   ],
   "backlog": [

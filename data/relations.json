@@ -16160,5 +16160,269 @@
   "b": "ua5_john_august_holt",
   "status": "candidate",
   "basis": "BC death reg. 67-09-009616: Vera Elizabeth Holt (änka), John August Holt nämnd på posten (relation ej indexerad)."
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-zat_agnieszka_1838",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "zat_agnieszka_1838",
+  "status": "verified",
+  "basis": "Brzeziny 1838 akt 3 (bildläst): far Marcin Zatorski, mor Maryanna z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1838&kt=1&plik=001-003.jpg"
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-zat_stanislaw_1840",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "zat_stanislaw_1840",
+  "status": "verified",
+  "basis": "Brzeziny 1840 akt 106 (bildläst): far Marcin Zatorski, mor Maryanna z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1840&kt=1&plik=106-111.jpg"
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-zat_stanislaw_1845",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "zat_stanislaw_1845",
+  "status": "verified",
+  "basis": "Brzeziny 1845 akt 113 (bildläst): far Marcin Zatorski, mor Maryanna z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1845&kt=1&plik=112-117.jpg"
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-zat_wincenty_1848",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "zat_wincenty_1848",
+  "status": "verified",
+  "basis": "Brzeziny 1848 akt 5 (bildläst): far Marcin Zatorski, mor Maryanna z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1848&kt=1&plik=004-009.jpg"
+ },
+ {
+  "id": "c-marcin_zatorski-maryanna_socha-zat_magdalena_1851",
+  "type": "child",
+  "parents": [
+   "marcin_zatorski",
+   "maryanna_socha"
+  ],
+  "child": "zat_magdalena_1851",
+  "status": "verified",
+  "basis": "Brzeziny 1851 akt 37 (bildläst): far Marcin Zatorski, mor Maryanna z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1851&kt=1&plik=037-044.jpg"
+ },
+ {
+  "id": "c-grzegorz_zatorski-wiktoria_socha_zatorska-zat_franciszka_1829",
+  "type": "child",
+  "parents": [
+   "grzegorz_zatorski",
+   "wiktoria_socha_zatorska"
+  ],
+  "child": "zat_franciszka_1829",
+  "status": "verified",
+  "basis": "Brzeziny 1829 akt 13 (bildläst): far Grzegorz Zatorski, mor Wiktorya z Sochów. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1829&kt=1&plik=010-015.jpg"
+ },
+ {
+  "id": "c-grzegorz_zatorski-ewa_wojciechowska_zatorska-zat_franciszek_1834",
+  "type": "child",
+  "parents": [
+   "grzegorz_zatorski",
+   "ewa_wojciechowska_zatorska"
+  ],
+  "child": "zat_franciszek_1834",
+  "status": "verified",
+  "basis": "Brzeziny 1834 akt 89 (bildläst): far Grzegorz Zatorski, mor Ewa z Woyciechowskich. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1834&kt=1&plik=088-093.jpg"
+ },
+ {
+  "id": "c-grzegorz_zatorski-ewa_wojciechowska_zatorska-zat_maryanna_1837",
+  "type": "child",
+  "parents": [
+   "grzegorz_zatorski",
+   "ewa_wojciechowska_zatorska"
+  ],
+  "child": "zat_maryanna_1837",
+  "status": "verified",
+  "basis": "Brzeziny 1837 akt 81 (bildläst): far Grzegorz Zatorski, mor Ewa z Woyciechowskich. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1837&kt=1&plik=076-081.jpg"
+ },
+ {
+  "id": "c-grzegorz_zatorski-ewa_wojciechowska_zatorska-zat_jozefa_1839",
+  "type": "child",
+  "parents": [
+   "grzegorz_zatorski",
+   "ewa_wojciechowska_zatorska"
+  ],
+  "child": "zat_jozefa_1839",
+  "status": "verified",
+  "basis": "Brzeziny 1839 akt 23 (bildläst): far Grzegorz Zatorski, mor Ewa z Woyciechowskich. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1839&kt=1&plik=022-027.jpg"
+ },
+ {
+  "id": "c-grzegorz_zatorski-ewa_wojciechowska_zatorska-zat_marcin_1843",
+  "type": "child",
+  "parents": [
+   "grzegorz_zatorski",
+   "ewa_wojciechowska_zatorska"
+  ],
+  "child": "zat_marcin_1843",
+  "status": "verified",
+  "basis": "Brzeziny 1843 akt 88 (bildläst): far Grzegorz Zatorski, mor Ewa z Woyciechowskich. https://metryki.genealodzy.pl/index.php?op=pg&id=2612&se=&sy=1843&kt=1&plik=088-093.jpg"
+ },
+ {
+  "id": "p-grzegorz_zatorski-wiktoria_socha_zatorska",
+  "type": "partner",
+  "a": "grzegorz_zatorski",
+  "b": "wiktoria_socha_zatorska",
+  "status": "verified",
+  "basis": "Brzeziny 1829 akt 13: 'Grzegorz Zatorski ... z iego Małżonki Wiktoryi z Sochów'"
+ },
+ {
+  "id": "p-grzegorz_zatorski-ewa_wojciechowska_zatorska",
+  "type": "partner",
+  "a": "grzegorz_zatorski",
+  "b": "ewa_wojciechowska_zatorska",
+  "status": "verified",
+  "basis": "Brzeziny 1834 akt 89 m.fl.: 'Grzegorz Zatorski ... z Jego Małżonki Ewy z Woyciechowskich'; dödsakt 1845 akt 3: 'Ewa Zatorska Żona Zmarłego'"
+ },
+ {
+  "id": "p-walenty_cedro-aq4_marianna_zatorska_1867",
+  "type": "partner",
+  "a": "walenty_cedro",
+  "b": "aq4_marianna_zatorska_1867",
+  "status": "verified",
+  "basis": "Katedra 1885 akt 132 (bildläst): Walenty Cedro × Marianna Zatorska, 19 år, född och boende i Szydłówek, dotter till avlidne Józef och Antonina f. Ksel. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1885b&kt=1&plik=132.jpg"
+ },
+ {
+  "id": "p-aq4_jan_zatorski_1868-aniela_kowalczyk_zatorska",
+  "type": "partner",
+  "a": "aq4_jan_zatorski_1868",
+  "b": "aniela_kowalczyk_zatorska",
+  "status": "verified",
+  "basis": "Katedra 1897 akt 61 (bildläst): Jan Zatorski, 27, ungkarl, född och boende i Szydłówek, son till avl. Józef och Antonina z Kselów × Aniela Kowalczyk, 18, Niewachlów. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1897b&kt=1&plik=060-061.jpg"
+ },
+ {
+  "id": "p-jozef_tworek-pl4_franciszka_zatorska_1873",
+  "type": "partner",
+  "a": "jozef_tworek",
+  "b": "pl4_franciszka_zatorska_1873",
+  "status": "verified",
+  "basis": "S:t Wojciech 1908 akt 61 (bildläst): Józef Tworek × Franciszka Zatorska, 35, född och boende i Szydłówek, dotter till avl. Józef och Antonina f. Ksel. https://metryki.genealodzy.pl/index.php?op=pg&id=239&se=&sy=1908&kt=2&plik=60-61.jpg"
+ },
+ {
+  "id": "c-michal_orzechowski-agnieszka_orzechowska_1849-wojciech_orzechowski_1868",
+  "type": "child",
+  "parents": [
+   "michal_orzechowski",
+   "agnieszka_orzechowska_1849"
+  ],
+  "child": "wojciech_orzechowski_1868",
+  "status": "verified",
+  "basis": "Katedra 1868 akt 195 (bildläst): far Michał Orzechowski 25, Niewachlów, mor Agnieszka f. Hencel 20. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1868a&kt=1&plik=194-203.jpg"
+ },
+ {
+  "id": "s-wojciech_orzechowski_1868-jozef_orzechowski",
+  "type": "sibling",
+  "a": "wojciech_orzechowski_1868",
+  "b": "jozef_orzechowski",
+  "status": "verified",
+  "basis": "Samma föräldrar Michał Orzechowski + Agnieszka f. Hencel i Katedra 1868 akt 195 och 1875 akt 100."
+ },
+ {
+  "id": "p-hencel_stanislaw_jozef_1858-antonina_stepniowska_hencel",
+  "type": "partner",
+  "a": "hencel_stanislaw_jozef_1858",
+  "b": "antonina_stepniowska_hencel",
+  "status": "verified",
+  "basis": "Katedra 1882 akt 182 (bildläst) + 1913 akt 250. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1882b&kt=1&plik=182.jpg"
+ },
+ {
+  "id": "p-jan_marek_1854-hencel_walerja_1855",
+  "type": "partner",
+  "a": "jan_marek_1854",
+  "b": "hencel_walerja_1855",
+  "status": "verified",
+  "basis": "Katedra 1881 akt 47 (bildläst): Jan Marek × Wiktoria Hencel, dotter till Augustyn och Marianna f. Szrek. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1881b&kt=1&plik=047-048.jpg"
+ },
+ {
+  "id": "c-jacek_mlodawski-anna_bartosinska-julianna_mlodawska_1862",
+  "type": "child",
+  "parents": [
+   "jacek_mlodawski",
+   "anna_bartosinska"
+  ],
+  "child": "julianna_mlodawska_1862",
+  "status": "verified",
+  "basis": "Mniów 1862 akt 45 (bildläst): far Jacek Młodawski, mor Anna z Oparów. https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1862&kt=1&plik=036-045.jpg"
+ },
+ {
+  "id": "c-jacek_mlodawski-anna_bartosinska-antonina_mlodawska_gonciarz",
+  "type": "child",
+  "parents": [
+   "jacek_mlodawski",
+   "anna_bartosinska"
+  ],
+  "child": "antonina_mlodawska_gonciarz",
+  "status": "verified",
+  "basis": "Mniów 1889 akt 23 och 1897 akt 4 (bildlästa): 'дочерью Яцка и Анны съ Опаровъ'. https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1897&kt=3&plik=004-009.jpg"
+ },
+ {
+  "id": "p-blazej_gonciarz-antonina_mlodawska_gonciarz",
+  "type": "partner",
+  "a": "blazej_gonciarz",
+  "b": "antonina_mlodawska_gonciarz",
+  "status": "verified",
+  "basis": "Mniów 1889 akt 23 + 1897 akt 4 (änkling Błażej Gonciarz). https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1889&kt=2&plik=022-025.jpg"
+ },
+ {
+  "id": "p-florian_szczawinski-julianna_mlodawska_1862",
+  "type": "partner",
+  "a": "florian_szczawinski",
+  "b": "julianna_mlodawska_1862",
+  "status": "strong",
+  "basis": "Mniów 1892 akt 9 (bildläst delvis): 'Щавиньскій Флоріанъ съ Млодавскою Юліанною', bruden dotter till Jacek och Anna, Rogowice. https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1892&kt=2&plik=008-010.jpg"
+ },
+ {
+  "id": "p-piotr_pawel_mlodawski_1864-dorota_nawara",
+  "type": "partner",
+  "a": "piotr_pawel_mlodawski_1864",
+  "b": "dorota_nawara",
+  "status": "candidate",
+  "basis": "Geneteka S 1893 akt 26 Tumlin (index): 'Piotr Młodawski | Jacek, Anna Opara | Dorota Nawara | Aleksander, Marianna Marcisz' – föräldranamnen pekar på Piotr Paweł f. 1864; ej bildläst."
+ },
+ {
+  "id": "c-tomasz_mlodawski-anna_gebska-marianna_mlodawska_1828",
+  "type": "child",
+  "parents": [
+   "tomasz_mlodawski",
+   "anna_gebska"
+  ],
+  "child": "marianna_mlodawska_1828",
+  "status": "verified",
+  "basis": "Mniów 1828 akt 71 (bildläst): 'Tomasz Młodawski włościan rolnik we wsi Rogowicach ... z iego Małżonki Anny z Gębskich'. https://metryki.genealodzy.pl/index.php?op=pg&id=1317&se=&sy=1828&kt=1&plik=070-075.jpg"
+ },
+ {
+  "id": "c-jan_ksiol-agata_ksiol-karol_ksiol_1841",
+  "type": "child",
+  "parents": [
+   "jan_ksiol",
+   "agata_ksiol"
+  ],
+  "child": "karol_ksiol_1841",
+  "status": "verified",
+  "basis": "Katedra 1841 akt 513 (bildläst): far Jan Xell, rolnik i Szydłówek, mor Agata z Osuchów 28 år. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1841a&kt=1&plik=511-518.jpg"
+ },
+ {
+  "id": "c-jan_ksiol-agata_ksiol-jan_ksiol_1844",
+  "type": "child",
+  "parents": [
+   "jan_ksiol",
+   "agata_ksiol"
+  ],
+  "child": "jan_ksiol_1844",
+  "status": "verified",
+  "basis": "Katedra 1844 akt 674 (bildläst): far Jan Ksel, rolnik i Szydłówek, mor Agata z Osuchów 30 år. https://metryki.genealodzy.pl/index.php?op=pg&id=57&se=&sy=1844a&kt=1&plik=665-674.jpg"
  }
 ]
