@@ -44948,11 +44948,15 @@
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1681?",
+   "date": "1689-03-08",
    "place": "",
-   "note": "1681 enligt BU5:s läsning av Såldebråten A I/6 bild 66 (”Kerstin Månsdotter f. 1681, änka”) – samma person ej bekräftad."
+   "note": "A I/6 (C0037107) bild 17 (fol. 6, Svenserud): ”H. Kerstin M[åns]dr … 1689 8/3”, med ’S. Påhl Ersson 1729 10/4’ på raden under. Ersätter 1681 (som gällde Såldebråten-Kerstin)."
   },
-  "died": {},
+  "died": {
+   "date": "1760-05-10?",
+   "place": "Högvalta, Frykerud",
+   "note": "Kandidat: F/1 bild 31 hö, maj 1760: ”10 | Högwalt Ä[?]: Kirstin Månsdr | 7[1?]” – ålder 71 stämmer med f. 8/3 1689; åldersiffran och titeln (Ä/H) svårlästa."
+  },
   "places": [
    "Högvalta, Frykerud"
   ],
@@ -44966,7 +44970,13 @@
    "CC3 MANTAL 1739 (A0003219_00380 vä): ”Högwalta | 1. | 1. Änk: Kirstin Månsdotter / 1. Olof [Sylvator?]” – hon är änka och brukare 1739.",
    "CC3 MANTAL: änkan Kerstin brukar Högvalta 1738 (A0003218_00145 hö ’1 Änkan Kirstin’) och 1739 (A0003219_00380 vä ’Änk: Kirstin Månsdotter’); 1740 (A0003220_00389 vä, mycket blekt) troligen ’änk. Kirstin Måns[dotter]’; 1741 (A0003221_00393 hö) har svärsonen Jon Ersson tagit över (’1. Jon Ersson / 1. Änk: Lisa Kiällin[?] / 1. Jonas Olsson / Anna’). Död ej funnen i F/1 1744–febr 1754.",
    "CD1: Mor till Johannes 1723 (C/2 bild 166 hö, ’Modern h. Kirstin’) och Christina 1726 (C/2 bild 185 hö, ’h. Kirsten Måns[-]dotters’). Om hon är f. ca 1681 vore hon ca 45 år 1726 – ålder 1681 är därmed tveksam (stöder att Såldebråten-Kerstin f. 1681 är en annan person).",
-   "CD1 DÖD-SÖK (negativt): Frykerud F/1 (C0037142) bild 11–27 (1744–april 1756) radvis genomläst, bild 28–30 (1756–59) översiktligt: ingen post för Kerstin Månsdotter i Högvalta/änkan i Högvalta. Närliggande namnar som INTE är hon: ’h. Kerstin Månsd:r från N. Näs[?]’ 50 år, 10 feb 1747 (bild 16 hö); ’h. Karin Månsdotter i Lena’ 66 år, 19 dec 1746 (bild 16 vä). Hon kan ha flyttat från Högvalta (jfr Såldebråten-Kerstin f. 1681) eller dött före 1744/efter 1759."
+   "CD1 DÖD-SÖK (negativt): Frykerud F/1 (C0037142) bild 11–27 (1744–april 1756) radvis genomläst, bild 28–30 (1756–59) översiktligt: ingen post för Kerstin Månsdotter i Högvalta/änkan i Högvalta. Närliggande namnar som INTE är hon: ’h. Kerstin Månsd:r från N. Näs[?]’ 50 år, 10 feb 1747 (bild 16 hö); ’h. Karin Månsdotter i Lena’ 66 år, 19 dec 1746 (bild 16 vä). Hon kan ha flyttat från Högvalta (jfr Såldebråten-Kerstin f. 1681) eller dött före 1744/efter 1759.",
+   "CE1 GUDMOR: ”hust: Kirstin Måns dotter i Högwalta” 11/14 maj 1727 (C/3 bild 19 hö, Jon Larssons barn Jonas i Gunnarsbytorp); ”hustru Kirstine Måns dotter i Högwalta” 23/28 okt 1727 (C/3 bild 23 hö, Lars Larssons barn Hindrik i Fagerås) – samma post har ’piga Sigri Eriks dotter i Högwalta’.",
+   "CE1 GUDMOR 1735: ”hustru Kirstin Måns dotter i Högwalta” vid dop 14/15 juni 1735 (C/3 bild 115 vä, Jon Arfwidssons barn Ingebor i Kiöping) – hon levde och bodde i Högvalta juni 1735.",
+   "CE1 NEGATIVT: Frykerud C/3 bild 17–123 (1727 – april 1736) genomläst sida för sida: enda nya barnet till Erik Påhlsson/Kerstin Månsdotter är Påhl 10/13 april 1729 (bild 35 vä). Inga fler barn 1727–1736.",
+   "CE1 DÖD-SÖK F/1 (C0037142) bild 28 (april 1756 – mars 1757) och bild 29 (april 1757 – juni 1758) lästa rad för rad i zoom: ingen post för Kerstin Månsdotter i Högvalta. Närliggande: 22 dec 1756 ”H. Kirstin Påhlsd:r i Ås, 69 år” (annan person); 8 mars 1757 ”H. Kirstin Håkansd:r från Dalgbråt 61 år”; 14 aug 1757 ”Enkan Kirstin Amundsd:r från N. Näs 67”.",
+   "CE1 A I/6 (C0037107) bild 17 (fol. 6), marginal ’Svenserud’: ”Corp: B. Bodman 1693 26/11 / [i marginalen ’obt’?] H. Kerstin M[åns]dr 1689 8/3 / S. Påhl Ersson 1729 10/4 / ab p.[?] Kerstin And[ersdotte]r 1726 / ab Sl.[?] Ingeb. Nilsdr 1739 / ab p. Anna Bengtsdr / H. Annicka Olsdr 1735 11/7 …”. Kerstin Månsdotter tycks alltså omgift med korpralen B. Bodman (f. 1693) och bo på Svenserud 1753–59 med sonen Påhl. Omgiftet ej funnet i E I/1 1748–58 (bild 66–82). I A I/6 bild 16 (Högvalta) står hon ’ab: Hl. Kerstin Månsd:r’ (flyttad) efter ’ab. g. Påhl Ersson’.",
+   "CE1 DÖD F/1 (C0037142) bild 31 hö (1760): ”Maji 10 | Högwalt Ä[?]: Kirstin Månsdr | 7[1?]” – trolig dödspost för henne (namn, gård och ålder ≈71 passar f. 1689). Övriga lästa F/1-bilder 28–31 (april 1756 – nov 1760) utan annan Kerstin Månsdotter."
   ],
   "sources": [
    {
@@ -45008,6 +45018,22 @@
    {
     "label": "Riksarkivet, Frykerud dopbok C/2, bild 185 höger, 8/13 mars 1726: ”Erik Påhlssons och h. Kirsten Månsdotters barn i Högwalta … Christina”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037135_00185"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3, bild 19 höger, 11/14 maj 1727: gudmor ”hust: Kirstin Måns dotter i Högwalta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00019"
+   },
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3, bild 115 vänster, 14/15 juni 1735: gudmor ”hustru Kirstin Måns dotter i Högwalta”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00115"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 17 (fol. 6), Svenserud: ”Corp: B. Bodman … H. Kerstin M[åns]dr 1689 8/3 / S. Påhl Ersson 1729 10/4”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00017"
+   },
+   {
+    "label": "Riksarkivet, Frykerud död- och begravningsbok F/1, bild 31 höger, 10 maj 1760: ”Högwalt Ä[?]: Kirstin Månsdr 7[1?]”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037142_00031"
    }
   ],
   "search": [
@@ -49984,7 +50010,8 @@
   "summary": "Son till Erik Påhlsson och Kerstin Månsdotter i Högvalta, döpt 19 maj 1723; sannolikt ’S: Johan Eriksson’ i A I/3 (1736–41).",
   "notes": [
    "DOP C/2 bild 166 höger (s. 233), 1723: ”15/19 Maj. Erich Påhlsons barn i Högvalt Modern h. Kirstin. barnet nambdt Johannes. Faddrar Fendrich Lars Carlsteen, h. Bengt Brettmann[?], Mester Jean i Persbol[?]; Fadderskor Mad. Ingeborg [Brattmann?] fr. Hensbacka[?], h. Sigri Påhlsd. i Fryksforsen[?], Britta i Röjserud[?]” – född 15, döpt 19 maj 1723. ’Erich Påhlsons’, ’Högvalt’, ’Kirstin’ och ’Johannes’ säkert lästa; fadderlistan delvis osäker.",
-   "Identitet med ’S: Johan Eriksson’ i Erik Påhlssons hushåll A I/3 bild 18 (1736–41) mycket trolig (samma föräldrar och gård, A I/3 saknar födelseår)."
+   "Identitet med ’S: Johan Eriksson’ i Erik Påhlssons hushåll A I/3 bild 18 (1736–41) mycket trolig (samma föräldrar och gård, A I/3 saknar födelseår).",
+   "CE1 KANDIDAT DÖD: Frykerud F/1 bild 28 hö, 20 jan 1757: ”Jan Eriksson från Högvalt, 43 år” – åldern ger f. ca 1713/14, vilket inte stämmer med Johannes f. 1723 (33 år). Identitet oprövad; kan vara en annan Jan Eriksson på Högvalta."
   ],
   "sources": [
    {
@@ -51042,6 +51069,127 @@
   ],
   "search": [
    "Per (Pehr) Nilsson (Skog, f. 1745)"
+  ]
+ },
+ {
+  "id": "pahl_ersson_1729_hogvalta",
+  "name": "Påhl Ersson (f. 1729, Högvalta, Frykerud)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1729-04-10",
+   "place": "Högvalta, Frykerud",
+   "note": "Född 10, döpt 13 april 1729 (C/3 bild 35 vä). Frykerud A I/6 bild 17 (fol. 6) ger exakt ’1729 10/4’."
+  },
+  "died": {},
+  "places": [
+   "Högvalta, Frykerud",
+   "Svenserud, Frykerud"
+  ],
+  "summary": "Son till Erik Påhlsson och Kerstin Månsdotter i Högvalta, f. 10 april 1729. Bor 1746–53 hos systern Sigrid och svågern Jon Ersson på Högvalta, flyttar ca 1753 till Svenserud (styvfadern korpral B. Bodmans hushåll) och gifter sig 9 juni 1754 med Annika Olofsdotter.",
+  "notes": [
+   "DOP C/3 (C0037136) bild 35 vä (s. 49), 1729: ”d 10 d:o [april] föddes Erik Påhlssons och hustru Kirstin Måns dotters barn i Högwalta, Christnades d 13 dito til namn Påhl. fadd:r wälborna Hr Fendrik Petter Froumarie på Hersätter, Pehr Nilsson i Högwalta, dr: Pehr Larsson i Högwalta, wälborna Fru Anna Maja Warg på Hersätter, hustru Ingri Olufs dotter i Högwalta, piga Kirstine Lars dotter och piga Marit Lars dotter i Högwalta.” (föregående post ’d 7 April’).",
+   "HUSFÖRHÖR A I/5 (C0037106) bild 16, Högvalta, Jon Erssons hushåll: ”ab g. [Påhl, överstruket och omskrivet ovanför] Ersson”.",
+   "CE1 HUSFÖRHÖR A I/5 (C0037106) bild 16, Högvalta, i Jon Erssons hushållsblock: ”ab g. Påhl Ersson” (överstruken rad) och längre ned ”g. Påhl Ersson / Hl.[?] Kerstin Månsd[otte]r”, därefter egen rad ”Enkan Kirstin Månsd[otte]r”. Vem ’Hl. Kerstin Månsdr’ under Påhl är (modern eller en hustru) går inte att avgöra här.",
+   "CE1 HUSFÖRHÖR A I/6 (C0037107) bild 16 (fol. 5), Jon Erssons hushåll: ”ab. g. Påhl Ersson” och ”ab: Hl. Kerstin Månsd:r” (båda ’ab’ = flyttade). Födelseårskolumnen (1728 20/5, ×1736 m.fl.) kan inte säkert kopplas radvis – ÄLDRE läsningen ’Påhl 1728 20/5’ bör inte användas.",
+   "CE1 VIGSEL-SÖK: Frykerud E I/1 (C0037140) bild 66–82 (1748 – okt 1758) lästa i zoom; enda vigseln för Påhl är 9 juni 1754 (bild 74 hö) med Annika Olofsdotter.",
+   "CE1 HUSFÖRHÖR A I/5 (C0037106) bild 16, Högvalta, Jon Erssons hushåll: först ”ab g. Påhl Ersson” (raden överstruken), längre ned i samma hushållsblock ”g. Påhl Ersson / H. Kerstin Månsd[otte]r” – därefter nytt hushåll ”Enkan Kirstin Månsd[otter]”. Påhl var alltså gift med en Kerstin Månsdotter före 1753.",
+   "CE1 HUSFÖRHÖR A I/6 (C0037107) bild 16 (fol. 5), Jon Erssons hushåll: ”ab. g. Påhl Ersson 1728 20/5” / ”ab. H. Kerstin Månsd:r 1736” – båda med ’ab’ (frånvarande/utflyttade) och nattvardsnoteringar bara i de första kolumnerna (1753–54).",
+   "CE1 VIGSEL-SÖK (negativt): Frykerud E I/1 (C0037140) bild 70–82 (maj 1751 – okt 1758) lästa i zoom sida för sida: ingen vigsel Påhl Ersson × Kerstin Månsdotter. Namne: 9 juni 1754 (bild 74 hö) ”dr. Påhl Eriksson från Svenserud[?] med p. Annika Olofsdr från …bol, efter 3 lagen ståndna lysningar i Nyeds[?] Sokn” – annan brud, troligen annan person.",
+   "CE1 HUSFÖRHÖR A I/6 (C0037107) bild 17 (fol. 6, Högvalta/marginal ’Svenserud’): hushåll ”Corp: B. Bodman [?] … 1693 26/11 / H. Kerstin M[åns?]dr … 16[89?] / S. Påhl Ersson … 1729 10/4 / ab. H. Kerstin And[ersdotte]r[?] / ab. Sl. Ingeb. Nilsdr / ab. p. Anna Bengtsdr / H. Annicka Olsdr 1735 11/7 …”. Födelsedatum 1729 10/4 stämmer exakt med dopet. Påhl står här som ’S.’ (son) till hustrun Kerstin M…dr ⇒ modern Kerstin Månsdotter troligen omgift med korpralen B. Bodman (läsning av namn och modersnamn osäker, bör kontrolleras).",
+   "CE1 VIGSEL 1754: Frykerud E I/1 (C0037140) bild 74 hö, 9 juni 1754: ”wigdes i wanlig brudstånd dr: Påhl Eriksson från Swenserud med p: Annika Olofsdr från …bol, efter 3 lagen ståndna lysningar i Nyeds[?] Sokn, morgongåfwa … silfwer” – brudens namn och Svenserud stämmer med A I/6 bild 17 (’H. Annicka Olsdr 1735 11/7’ i Påhl Erssons hushåll) ⇒ detta är Påhls (andra) vigsel."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud dopbok C/3 (1726–1746), bild 35 vänster (s. 49), 10/13 april 1729: ”Erik Påhlssons och hustru Kirstin Måns dotters barn i Högwalta … til namn Påhl”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037136_00035"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/3 (1736–41), bild 18 (s. 12), Högwalta: ”S: Påhl Eriksson” i Erik Påhlssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037104_00018"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 16 (fol. 5), Högvalta: ”ab. g. Påhl Ersson 1728 20/5”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/5 (1746–53), bild 16 (s. 12), Högvalta: ”ab g. Påhl Ersson” i Jon Erssons hushåll",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037106_00016"
+   },
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 74 höger, 9 juni 1754: ”dr: Påhl Eriksson från Swenserud med p: Annika Olofsdr”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00074"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6 (1753–59), bild 17 (fol. 6), Svenserud/Högvalta: ”S. Påhl Ersson 1729 10/4”, ”H. Annicka Olsdr 1735 11/7”",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00017"
+   }
+  ],
+  "search": [
+   "Påhl Ersson (f. 1729, Högvalta, Frykerud)"
+  ]
+ },
+ {
+  "id": "annika_olofsd_1735_svenserud",
+  "name": "Annika Olofsdotter (f. 1735, Svenserud, Frykerud)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1735-07-11",
+   "place": "",
+   "note": "A I/6 bild 17: ”H. Annicka Olsdr 1735 11/7” (datum avläst, kontrollera)."
+  },
+  "died": {},
+  "places": [
+   "Svenserud, Frykerud"
+  ],
+  "summary": "Gift 9 juni 1754 med Påhl Eriksson från Svenserud (E I/1 bild 74 hö); hustru i hans hushåll i A I/6.",
+  "notes": [
+   "VIGSEL E I/1 bild 74 hö, 9 juni 1754: ”dr: Påhl Eriksson från Swenserud med p: Annika Olofsdr från …bol”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud vigselbok E I/1, bild 74 höger, 9 juni 1754",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037140_00074"
+   },
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6, bild 17 (fol. 6)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00017"
+   }
+  ],
+  "search": [
+   "Annika Olofsdotter (f. 1735, Svenserud, Frykerud)"
+  ]
+ },
+ {
+  "id": "b_bodman_corp_svenserud",
+  "name": "B. Bodman (korpral, Svenserud, Frykerud)",
+  "status": "candidate",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1693-11-26",
+   "place": "",
+   "note": "A I/6 bild 17: ”Corp: B. Bodman … 1693 26/11” (förnamnsinitial B., efternamn osäkert läst)."
+  },
+  "died": {},
+  "places": [
+   "Svenserud, Frykerud"
+  ],
+  "summary": "Korpral på Svenserud 1753–59; hushållsföreståndare över ’H. Kerstin M[åns]dr 1689’ och ’S. Påhl Ersson 1729’ – sannolikt Kerstin Månsdotters andre make.",
+  "notes": [
+   "A I/6 bild 17 (fol. 6): ”Corp: B. Bodman”."
+  ],
+  "sources": [
+   {
+    "label": "Riksarkivet, Frykerud husförhörslängd A I/6, bild 17 (fol. 6)",
+    "url": "https://sok.riksarkivet.se/bildvisning/C0037107_00017"
+   }
+  ],
+  "search": [
+   "B. Bodman (korpral, Svenserud, Frykerud)"
   ]
  }
 ]

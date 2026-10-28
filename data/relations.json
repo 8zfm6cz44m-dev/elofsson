@@ -15343,5 +15343,40 @@
   "child": "per_nilsson_1745_skog",
   "status": "verified",
   "basis": "C I/2 bild 54 vä nr 33: ”d 1. Sept: [1745] Nils Nilssons och Hust. Britta Claesdotters i Skog Son Pehr”"
+ },
+ {
+  "id": "c-erik_palsson_hogvalta-kerstin_mansdotter_hogvalta-pahl_ersson_1729_hogvalta",
+  "type": "child",
+  "parents": [
+   "erik_palsson_hogvalta",
+   "kerstin_mansdotter_hogvalta"
+  ],
+  "child": "pahl_ersson_1729_hogvalta",
+  "status": "verified",
+  "basis": "Frykerud C/3 bild 35 vä, 10/13 april 1729: ”föddes Erik Påhlssons och hustru Kirstin Måns dotters barn i Högwalta, Christnades d 13 dito til namn Påhl”; A I/3 bild 18: ”S: Påhl Eriksson” i samma hushåll."
+ },
+ {
+  "id": "s-pahl_ersson_1729_hogvalta-sigri_ersd_1710_hogvalta",
+  "type": "sibling",
+  "a": "pahl_ersson_1729_hogvalta",
+  "b": "sigri_ersd_1710_hogvalta",
+  "status": "verified",
+  "basis": "Båda döpta som barn till Erik Påhlsson och Kerstin Månsdotter i Högvalta (C/2 bild 90 hö 1710; C/3 bild 35 vä 1729); Påhl bor hos systern Sigrid och svågern Jon Ersson i A I/5–A I/6 bild 16."
+ },
+ {
+  "id": "p-pahl_ersson_1729_hogvalta-annika_olofsd_1735_svenserud",
+  "type": "partner",
+  "a": "pahl_ersson_1729_hogvalta",
+  "b": "annika_olofsd_1735_svenserud",
+  "status": "verified",
+  "basis": "E I/1 bild 74 hö, 9 juni 1754: ”dr: Påhl Eriksson från Swenserud med p: Annika Olofsdr”; A I/6 bild 17: ”S. Påhl Ersson 1729 10/4 … H. Annicka Olsdr 1735”."
+ },
+ {
+  "id": "p-b_bodman_corp_svenserud-kerstin_mansdotter_hogvalta",
+  "type": "partner",
+  "a": "b_bodman_corp_svenserud",
+  "b": "kerstin_mansdotter_hogvalta",
+  "status": "candidate",
+  "basis": "A I/6 bild 17 (fol. 6): ”Corp: B. Bodman 1693 26/11 / H. Kerstin M[åns]dr 1689 8/3 / S. Påhl Ersson 1729 10/4” – vigsel ej funnen; läsningen av efternamnet och ’M[åns]dr’ osäker."
  }
 ]

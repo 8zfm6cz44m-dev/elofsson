@@ -345,8 +345,8 @@
       ]
     },
     {
-      "title": "Erik Påhlssons och Kerstin Månsdotters död ej funnen",
-      "text": "Frykeruds dödbok F/1 (C0037142) börjar 1744 (bild 11); 1691–1743 finns ingen separat dödbok (äldre ’1672–1706’ ingår i C/1). F/1 bild 11–24 (1744–febr 1754) översiktligt genomlästa: ingen Erik Påhlsson och ingen Kerstin Månsdotter i Högvalta. Närmaste namnar: ’h. Kerstin Månsdotter från N. Nöbbele[?] 50 år’ 10 febr 1747 (bild 16 hö) och ’h. Karin Månsdotter i Lene 66 år’ 19 dec 1746 (bild 16 vä) – andra personer. Erik dog sannolikt före 1744 (överstruken i A I/3 1736–41). Kerstin står som ’Enkan’ i A I/5 (1746–53) men saknas i A I/6 (1753–59, bild 16) – dog eller flyttade ca 1746–53; hennes död bör sökas noggrannare i F/1 bild 15–24 (rad för rad) och ev. i grannsocknar. | CD1: F/1 bild 11–30 genomlästa utan träff. Hon står som änka på Högvalta i A I/5 (1746–53) men inte i A I/6. Möjligen flyttad.",
+      "title": "Erik Påhlssons (ca 1737) och Kerstin Månsdotters (trol. 10/5 1760) död",
+      "text": "Frykeruds dödbok F/1 (C0037142) börjar 1744 (bild 11); 1691–1743 finns ingen separat dödbok (äldre ’1672–1706’ ingår i C/1). F/1 bild 11–24 (1744–febr 1754) översiktligt genomlästa: ingen Erik Påhlsson och ingen Kerstin Månsdotter i Högvalta. Närmaste namnar: ’h. Kerstin Månsdotter från N. Nöbbele[?] 50 år’ 10 febr 1747 (bild 16 hö) och ’h. Karin Månsdotter i Lene 66 år’ 19 dec 1746 (bild 16 vä) – andra personer. Erik dog sannolikt före 1744 (överstruken i A I/3 1736–41). Kerstin står som ’Enkan’ i A I/5 (1746–53) men saknas i A I/6 (1753–59, bild 16) – dog eller flyttade ca 1746–53; hennes död bör sökas noggrannare i F/1 bild 15–24 (rad för rad) och ev. i grannsocknar. | CD1: F/1 bild 11–30 genomlästa utan träff. Hon står som änka på Högvalta i A I/5 (1746–53) men inte i A I/6. Möjligen flyttad. | CE1: F/1 bild 31 hö: ”Högwalt Ä[?]: Kirstin Månsdr 7[1?]”. A I/6 bild 17 ger henne f. 8/3 1689 som hustru till korpral B. Bodman på Svenserud, med sonen Påhl Ersson. Bekräfta åldersiffran, titeln och omgiftet (sök vigsel Bodman × Kerstin i E I/1 1738–47 och Bodman i A I/5/A I/7). | CE1: Dödboken (F/1) börjar 1744; mantal visar honom sista gången 1737 och änkan Kirstin 1738. Ingen ny källa i CE1.",
       "persons": [
         "erik_palsson_hogvalta",
         "kerstin_mansdotter_hogvalta"
@@ -360,14 +360,6 @@
         "nils_christophersson_skog",
         "pal_nilsson_hagen",
         "nils_n_stoy"
-      ]
-    },
-    {
-      "title": "Påhl Eriksson (A I/3) – dop ej funnet",
-      "text": "C/2 1719–1726 (bild 150–191) radvis genomläst: barn till Erik Påhlsson/Kerstin Månsdotter endast Johannes 1723 (bild 166 hö) och Christina 1726 (bild 185 hö). Påhl Eriksson är alltså sannolikt född efter mars 1726 – sök i C/3 (C0037136) 1727–1732. Mantal 1745 Högvalta: ’[Påhl?/Jan?] Ersson’.",
-      "persons": [
-        "erik_palsson_hogvalta",
-        "kerstin_mansdotter_hogvalta"
       ]
     },
     {
@@ -4566,6 +4558,15 @@
         "pal_gostafsson_fosked",
         "britta_nilsd_fosked",
         "jon_skog_f1721"
+      ]
+    },
+    {
+      "title": "Påhl Eriksson (A I/3) – dop ej funnet",
+      "text": "Funnen: Frykerud C/3 (C0037136) bild 35 vä: född 10, döpt 13 april 1729, ’Erik Påhlssons och hustru Kirstin Måns dotters barn i Högwalta … Påhl’. A I/6 ger 1728 20/5 (felaktigt).",
+      "persons": [
+        "pahl_ersson_1729_hogvalta",
+        "erik_palsson_hogvalta",
+        "kerstin_mansdotter_hogvalta"
       ]
     }
   ],
