@@ -14164,13 +14164,13 @@
   "basis": "A I/1 bild 117 ”D. Britta Christ.dotter” f. 1713 och A I/2 bild 100 ”Dott. Britta Christophersd.” f. 1713 i Christopher Nilssons/Påhls hushåll; dop 19/2 1714 (C I/1 bild 81). Befintlig relation – uppgradera strong → verified."
  },
  {
-  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-nils_christophersson_1715_olsrud",
+  "id": "c-christopher_nilsson_skog-elin_gostafsd_1713-pahl_christophersson_1715_olsrud",
   "type": "child",
   "parents": [
    "christopher_nilsson_skog",
    "elin_gostafsd_1713"
   ],
-  "child": "nils_christophersson_1715_olsrud",
+  "child": "pahl_christophersson_1715_olsrud",
   "status": "verified",
   "basis": "Uppgradering: A I/2 bild 100 s. 84 anger ”Fad. Enkl. Christopher Nilss.” (f. 1678) i Påhl Christopherssons (f. 1715) hushåll – uttrycklig familjeställning; dop 4/9 1715 ’Christophers barn och Elins i Olsrud … till Påhl’ (C I/1 bild 87). Befintlig relation – uppgradera strong → verified."
  },
@@ -14378,9 +14378,9 @@
   "basis": "Boda C I/2 bild 15 hö (C0036593_00015), 1749 11 juni: ”d. 8 föddes Pig. Britta Christophersd:rs i Olsrud oägta Son Nils.” Uppgraderas från candidate."
  },
  {
-  "id": "p-nils_christophersson_1715_olsrud-karin_halfwardsd_1718_olsrud",
+  "id": "p-pahl_christophersson_1715_olsrud-karin_halfwardsd_1718_olsrud",
   "type": "partner",
-  "a": "nils_christophersson_1715_olsrud",
+  "a": "pahl_christophersson_1715_olsrud",
   "b": "karin_halfwardsd_1718_olsrud",
   "status": "verified",
   "basis": "Boda E I/1 bild 34 hö, 1744 nr 1: ”d. 1 Jan: … sammanwigdes drängen Påhl Christophersson i Olsrud med … Karin Halfwardz dotter ifrån [M]olsiö”; husförhör A I/1 bild 117 och A I/2 bild 100: ”1. Påhl Christophersson … h. Karin …” f. 1718."
