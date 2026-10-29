@@ -17075,5 +17075,76 @@
   "b": "uc2_maria_olofsdotter_1861",
   "status": "strong",
   "basis": "Brunskog A I/35: Adolf (fol. 86, bild 94) '(fol 236) 5/2 86' och Maria (fol. 236, bild 236) '(fol 86) 5/2 86', båda 'Nordamerika 86 26/3'; Kristiania emigrantprotokoll nr 12, 9/4 1886: 'Adolf Nolby' 25 g och 'Maria Nolby' 25 g 'Hustru' i följd (pe00000000994453/4)."
+ },
+ {
+  "id": "p-ol_gerda_elisabet_1893-ud2_carl_arvid_soderquist_1891",
+  "type": "partner",
+  "a": "ol_gerda_elisabet_1893",
+  "b": "ud2_carl_arvid_soderquist_1891",
+  "status": "verified",
+  "basis": "New York County Marriages: Carl A Soderquist × Gertrude E Olson (föräldrar Olof Person/Betty Anderson), 26 juni 1916 Chautauqua (QKJM-DW8S)"
+ },
+ {
+  "id": "c-ud2_carl_arvid_soderquist_1891-ol_gerda_elisabet_1893-ud2_norma_b_soderquist_1917",
+  "type": "child",
+  "parents": [
+   "ud2_carl_arvid_soderquist_1891",
+   "ol_gerda_elisabet_1893"
+  ],
+  "child": "ud2_norma_b_soderquist_1917",
+  "status": "strong",
+  "basis": "Census 1920/1930 Jamestown 'Daughter'; Find a Grave 270424900"
+ },
+ {
+  "id": "c-ud2_carl_arvid_soderquist_1891-ol_gerda_elisabet_1893-ud2_audrey_elizabeth_soderquist_1919",
+  "type": "child",
+  "parents": [
+   "ud2_carl_arvid_soderquist_1891",
+   "ol_gerda_elisabet_1893"
+  ],
+  "child": "ud2_audrey_elizabeth_soderquist_1919",
+  "status": "strong",
+  "basis": "Census 1920/1930/1940 'Daughter'; 1950 Gertrude 'Mother-in-law' hos George/Audrey Voit; Find a Grave 272964699"
+ },
+ {
+  "id": "c-ud2_carl_arvid_soderquist_1891-ol_gerda_elisabet_1893-ud2_carol_soderquist_1923",
+  "type": "child",
+  "parents": [
+   "ud2_carl_arvid_soderquist_1891",
+   "ol_gerda_elisabet_1893"
+  ],
+  "child": "ud2_carol_soderquist_1923",
+  "status": "strong",
+  "basis": "Census 1930 och 1940 Jamestown: Carol 'Daughter'"
+ },
+ {
+  "id": "p-ak3_paul_werner_olsson_1901-ud2_rose_mary_sitter_1898",
+  "type": "partner",
+  "a": "ak3_paul_werner_olsson_1901",
+  "b": "ud2_rose_mary_sitter_1898",
+  "status": "strong",
+  "basis": "Census 1950 Erie (hustru Rose M); Find a Grave 8899894/8899891 (m. 1923); dödsannons"
+ },
+ {
+  "id": "c-ak3_paul_werner_olsson_1901-ud2_rose_mary_sitter_1898-ud2_audrey_louise_olson_1930",
+  "type": "child",
+  "parents": [
+   "ak3_paul_werner_olsson_1901",
+   "ud2_rose_mary_sitter_1898"
+  ],
+  "child": "ud2_audrey_louise_olson_1930",
+  "status": "strong",
+  "basis": "Census 1950 Erie: Audrey L dotter; Find a Grave 112280619 länkad som barn"
+ },
+ {
+  "id": "c-ol_johan_efraim_1890-ub4_edith_victoria_gustafson_1893-ud2_barbara_a_olson_1926",
+  "type": "child",
+  "parents": [
+   "ol_johan_efraim_1890",
+   "ub4_edith_victoria_gustafson_1893"
+  ],
+  "child": "ud2_barbara_a_olson_1926",
+  "status": "verified",
+  "basis": "NUMIDENT 6KMP-QW5C: föräldrar Efraim J Olson / Edith V Gustafson; census 1930–1950"
  }
 ]

@@ -22758,7 +22758,8 @@
   "notes": [
    "A II a/1 bild 209 (sida 199): ”Olof Persson 54 23/11 L., g. 79 31/1 (1:a hustru Betty Andersdotter 54 28/9), omgift 06 [?]/4 m. Anna Brunzell 69 1/5 Mångskog”. Barn: Anna 79 18/12, Hilda Maria 82 22/9, Olof Viktor 85 2/3, Signe Karolina 88 10/5, Johan Efraim 90 7/12, Gerda Elisabet 93 30/4, Nils David 96, Paul (oäkta?) 98.",
    "HUSFÖRHÖR A II a/3 bild 184 (Skog, Dernere, nr 'Der nere'): ”B. Olof Persson … Hemeg. … 54 23/11 … L.”; gift-kolumner ”1. 79 31/1 … 2. 06 14/4(?)”, in ”05 27/1”; utflyttning (kol. 19) ordagrant ”V. Emterwik 18 9/3” (Västra Ämtervik 9 mars 1918). Fru ”H. Anna Brunzell 69 1/5 Mskog” (Mångskog), in ”04 17/2”, ut ”do do” (samma). Barn i hushållet: Johan Efraim, Gerda Elisabet, Nils Arvid, Paul Werner, 2:a giftet Anders Ragnar 07 15/8 och Ida Kristina 09 7/10 (utflyttade V. Ämtervik 18 9/3).",
-   "FOLKRÄKNING 1910 Brunskog, Skog sida 16: Olof Persson f. 1854 hemmansägare; hustru Anna Brunzell f. 1869 Mångskog; barn Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909."
+   "FOLKRÄKNING 1910 Brunskog, Skog sida 16: Olof Persson f. 1854 hemmansägare; hustru Anna Brunzell f. 1869 Mångskog; barn Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909.",
+   "UD2 – Find a Grave 191557000: Olof Persson f. 23 nov 1854 Brunskog, d. 23 dec 1941 Brunskog, Brunskogs kyrkogård; gravstensfoto 'Olof Persson Kyrkbyn 1854-1941'; 'Married Betty Andersdotter in 1879'; barn länkade: Anna Olofsdotter Eriksson, Gertrude Elisabet Olson Soderquist, Warner Paul Olson. Födelsedatum stämmer med husförhöret (54 23/11). Dödsdatum bör kontrolleras i Brunskogs dödbok/SCB 1941."
   ],
   "sources": [
    {
@@ -22772,11 +22773,20 @@
    {
     "label": "Riksarkivet, Folkräkning 1910 Brunskog, Skog, sida 16 rad 26: Olof Persson f. 1854 hemmansägare, Brunzell, Anna f. 1869 Mangskog, Nils Arvid 1896, Paul Werner 1901, Anders Ragnar 1907, Ida Kristina 1909",
     "url": "https://sok.riksarkivet.se/folkrakningar/?page=1&postid=Folk_125549356&tab=post"
+   },
+   {
+    "label": "Find a Grave 191557000: Olof Persson 1854–1941, Brunskogs kyrkogård",
+    "url": "https://www.findagrave.com/memorial/191557000"
    }
   ],
   "search": [
    "Olof Persson (Skog, Dernere, f. 1854)"
-  ]
+  ],
+  "died": {
+   "date": "1941-12-23",
+   "place": "Brunskog",
+   "note": "Find a Grave 191557000 (gravsten 'Olof Persson Kyrkbyn 1854-1941', Brunskogs kyrkogård) – dödsdatum ej kontrollerat i dödbok"
+  }
  },
  {
   "id": "hilda_maria_olsdotter_1882",
@@ -22883,14 +22893,16 @@
   },
   "places": [
    "Skog Dernere",
-   "Amerika 1907"
+   "Amerika 1907",
+   "Jamestown, New York (1912–1920)"
   ],
   "summary": "Dotter till Olof Persson; Amerika 1907.",
   "notes": [
    "A II a/1 bild 209 rad 7: ”Signe Karolina 88 10/5”, utflyttning ordagrant ”d° 07 20/5” (”d°” = ”Amerika” från raden ovan) = 20 maj 1907.",
    "FAMILYSEARCH (candidate): Ellis Island 21 aug 1907, S.S. Caronia från Liverpool, sida 71: 'Signe K Olson', kvinna, 18 år, ogift, hemort 'Sunne, Werml., Sweden' (ej Brunskog), anhöriga: 'Olof Person' (Fader) och 'Edv Olson' (Bror). Fadersnamnet Olof Person stämmer med Olof Persson, men hemorten Sunne, åldern 18 (hon var 19) och brodern 'Edv' (ingen känd bror Edv; Johan Efraim f. 1890?) avviker; avresa 20 maj 1907 mot ankomst 21 aug tyder på uppehåll. Ingen senare post (folkräkning/död) hittad.",
    "FAMILYSEARCH BN2: Sökning Signe, f. Brunskog 1887-89, USA: inga poster som matchar f. 10 maj 1888 (Signe Peterson/Schoijen f. 15 mars 1888 'Sonner', Värmland, naturaliserad Illinois 1912, är annan födelsedag – ej kopplad). Giftnamn ej funnet.",
-   "UC2 – GÖTEBORGS EMIGRANTLISTA (strong, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 → Grimsby, kontrakt 52 (familjegrupp): 'Olsson, Karolina | America | 24 | Q | Jamestown N.Y.' först i gruppen med 'Gerturde' 19 (America), 'Arvid' Brunskog 17/1 96 och 'Verner' 7/5 01 (= hennes bröder Nils Arvid och Paul Werner, exakta datum). Åldern 24 stämmer med f. 10/5 1888. Hon hade alltså bott i Amerika (hemort 'America'), var hemma i Sverige 1912 och reste tillbaka till Jamestown NY med syskonen. Ingen födelseort/datum för henne själv i listan – strong, inte verified. Stödjer att Ellis Island-posten 1907 (Signe K Olson, fader Olof Person) är hon."
+   "UC2 – GÖTEBORGS EMIGRANTLISTA (strong, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 → Grimsby, kontrakt 52 (familjegrupp): 'Olsson, Karolina | America | 24 | Q | Jamestown N.Y.' först i gruppen med 'Gerturde' 19 (America), 'Arvid' Brunskog 17/1 96 och 'Verner' 7/5 01 (= hennes bröder Nils Arvid och Paul Werner, exakta datum). Åldern 24 stämmer med f. 10/5 1888. Hon hade alltså bott i Amerika (hemort 'America'), var hemma i Sverige 1912 och reste tillbaka till Jamestown NY med syskonen. Ingen födelseort/datum för henne själv i listan – strong, inte verified. Stödjer att Ellis Island-posten 1907 (Signe K Olson, fader Olof Person) är hon.",
+   "UD2 – FOLKRÄKNING USA 1920 Jamestown (strong): 'Signa C Olson', 'Sister-in-law', 31 år, f. 1889 Sverige, inv. 1908, ogift, i Arvil C Soderquists hushåll där hustrun är 'Gertrude O' (= systern Gerda Elisabet, vigd 1916 med föräldrar Olof Person/Betty Anderson). Signa C = Signe Karolina; åldern ±1 och invandring 1908 (hon kom aug 1907) stämmer. Efter 1920 ingen säker post: inga vigsel- eller dödsposter med föräldrarna Olof/Betty hittade (NY County Marriages, NUMIDENT, SSDI); hon gifte sig troligen efter 1920 – giftnamn okänt. Hon finns inte länkad på systrarnas Find a Grave-sidor."
   ],
   "sources": [
    {
@@ -22904,6 +22916,10 @@
    {
     "label": "Riksarkivet, Göteborgs poliskammare, emigrantlistor E IX/97 (1912), bild 292: Olsson Karolina 24, America → Jamestown N.Y. (med Gerturde 19, Arvid 17/1 96 Brunskog, Verner 7/5 01)",
     "url": "https://sok.riksarkivet.se/bildvisning/A0056986_00292"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown NY: Signa C Olson, svägerska i Arvil C Soderquists hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKY-MCJ"
    }
   ],
   "search": [
@@ -26267,7 +26283,8 @@
    "FOLKRÄKNING: ”Nils, f. 1872 i Boda Värmlands län” i Nils Anderssons och Johanna Persdotters hushåll (utan uttrycklig familjeställning i den indexerade posten).",
    "UTFLYTTNING Boda A I/25 bild 301 (s.302 Nolsjö, rad 6, ”s. Nils” 72 18/6): bortflyttad ”Amerika 90 10/3 6.” (läst: Amerika 1890, 10 mars, nr 6; dag 10 eller 13 svårläst); namnet överstruket. SON uttryckligen (”s.”).",
    "SÖKNING AMERIKA (ingen träff): Ellis Island (statueofliberty.org arrival-search) Nilsson/Nilson + residence Boda/Nolsjo/Nordsjo gav inga poster för 1892–93; enda Boda-Nilsson-poster är 1896–1909 (t.ex. Nils Nilson 5 maj 1906 'Boda', Nils Peter Nilson 22 juli 1906 'Boda') – ej kopplade till honom (Boda ej entydigt, ålder/familj okänd). Swedish American Newspapers: 0 träffar på Nolsjö/Nolsö/Nordsjö Boda/Smedåsen/'Boda socken'. Castle Garden (mars 1890): sidan kunde inte nås via Chrome-extensionen.",
-   "UC2 – WHITE STAR LINE, KRISTIANIA (candidate, index läst i Digitalarkivet): White Star Line (Kristiania-kontoret), passagerarprotokoll nr 1 (1883–1890), år 1890, S.S. Teutonic, löpnr 3797 (grupp 3758–3923): 'Nils Nilson', m, 17 år (beräknat f. 1873), bostad 'Boda', destination 'Crystal Falls, Mich.'. Husförhöret har 'Amerika 90 10/3'; Nils f. 18/6 1872 var 17 år i mars 1890 – åldern och hemorten stämmer, men protokollet saknar exakt datum och föräldrar och namnet är vanligt. Candidate, ej verified. Destinationen Crystal Falls (Iron County, Michigan) är ny ledtråd för amerikansk sökning."
+   "UC2 – WHITE STAR LINE, KRISTIANIA (candidate, index läst i Digitalarkivet): White Star Line (Kristiania-kontoret), passagerarprotokoll nr 1 (1883–1890), år 1890, S.S. Teutonic, löpnr 3797 (grupp 3758–3923): 'Nils Nilson', m, 17 år (beräknat f. 1873), bostad 'Boda', destination 'Crystal Falls, Mich.'. Husförhöret har 'Amerika 90 10/3'; Nils f. 18/6 1872 var 17 år i mars 1890 – åldern och hemorten stämmer, men protokollet saknar exakt datum och föräldrar och namnet är vanligt. Candidate, ej verified. Destinationen Crystal Falls (Iron County, Michigan) är ny ledtråd för amerikansk sökning.",
+   "UD2 – AMERIKA-SÖKNING utan träff (FamilySearch, okt 2026): Nels/Nils Nelson/Nilson/Nilsson/Nelsen f. 1871–74 i Sverige med bostad Iron County, Michigan (folkräkningar 1900–1940): inga träffar (Nels Nelson i Bates/Crystal Falls 1910–30 är född i Wisconsin). Exakt f. 18 juni 1872 i amerikanska register: ingen svensk träff (Nils Nilson f. 6 jun 1872 Hornesand, naturaliserad Spokane 1915 – annan person). Michigan dödsregister 1867–1952: inga svenskfödda Nels/Nils Nelson f. 1871–74. Sökning på föräldrarna Nils/Johanna ger ingen träff. Möjligt att han bytte efternamn, flyttade vidare eller dog tidigt; WWI-registreringen omfattade inte män födda 1872. Fortsatt candidate för White Star-posten 1890."
   ],
   "sources": [
    {
@@ -27390,7 +27407,7 @@
  },
  {
   "id": "ol_gerda_elisabet_1893",
-  "name": "Gerda Elisabet Olsson (f. 1893, Skog)",
+  "name": "Gerda Elisabet Olsson (Gertrude Soderquist) (1893–1953)",
   "status": "verified",
   "sex": "f",
   "living": false,
@@ -27400,14 +27417,18 @@
   },
   "places": [
    "Skog, Brunskog",
-   "Amerika 1909 (Ellis Island 21 maj 1909)"
+   "Amerika 1909 (Ellis Island 21 maj 1909)",
+   "Jamestown, New York"
   ],
-  "summary": "Barn till Olof Persson (f. 1854) och Betty Andersdotter, Skog (Hildas yngre syskon).",
+  "summary": "Dotter till Olof Persson och Betty Andersdotter, Skog. Utvandrade 1909, kallades Gertrude; gift 1916 i Jamestown med Carl Arvid Soderquist; död 1953 i Jamestown.",
   "notes": [
    "FOLKRÄKNING 1900 Skog sida 20, Olof Perssons hushåll: 1900: ”Gerda Elisabet, f. 1893 i Brunskog”.",
    "HUSFÖRHÖR A II a/3 bild 184 rad 5: ”d. Gerda Elisabet 93 30/4”; utflyttning ordagrant ”Amerika 09 16/4” (16 april 1909; dag osäker).",
    "UB4 – ELLIS ISLAND (primärkälla, index läst): 'Gerda E Olsson', kvinna, 16 år, ogift, hemort 'Brunskog, Werml, Sweden', ankomst 21 maj 1909 med S.S. Mauretania från Liverpool (T715-1271, sida 149); anhöriga: 'Olof Person – Far' och 'Johan Eriksson – Svåger' (= systern Annas make Erik Johan/John Eriksson, Jamestown NY). Namn+ålder+Brunskog+fadern+svågern = säker identitet; stämmer med husförhörets 'Amerika 09 16/4'. Senare liv (gifte, död) ej funnet: 88 Gerda f. 1892–94 i Sverige i Jamestown-folkräkningar, ingen kan knytas utan efternamn.",
-   "UC2 – GÖTEBORGS EMIGRANTLISTA (strong, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 → Grimsby, kontrakt 52: '\" Gerturde | America | 19 | Q | [Jamestown N.Y.]' i familjegruppen Olsson med Karolina 24, Arvid (Brunskog 17/1 96) och Verner (7/5 01). 19 år stämmer med f. 30/4 1893; hon använde alltså namnet Gertrude/Gerturde i Amerika, hade varit på besök i Sverige 1912 och återvände till Jamestown NY. Viktigt söknamn för senare amerikanska poster: Gertrude Olson, f. ca 1893, Jamestown."
+   "UC2 – GÖTEBORGS EMIGRANTLISTA (strong, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 → Grimsby, kontrakt 52: '\" Gerturde | America | 19 | Q | [Jamestown N.Y.]' i familjegruppen Olsson med Karolina 24, Arvid (Brunskog 17/1 96) och Verner (7/5 01). 19 år stämmer med f. 30/4 1893; hon använde alltså namnet Gertrude/Gerturde i Amerika, hade varit på besök i Sverige 1912 och återvände till Jamestown NY. Viktigt söknamn för senare amerikanska poster: Gertrude Olson, f. ca 1893, Jamestown.",
+   "UD2 – VIGSEL (primärindex, verified): New York County Marriages 1908–1937: 'Gertrude E Olson', 23 år, f. 1893, föräldrar 'Olof Person' och 'Betty Anderson', vigd 26 June 1916 i Chautauqua County, NY, med Carl A Soderquist (24, föräldrar Victor Soderquist/Erika Anderson). Föräldranamnen = Olof Persson och Betty Andersdotter.",
+   "UD2 – Social Security-dödsindex: Gertrude Soderquist f. 30 Apr 1893 (exakt födelsedag), d. 16 Mar 1953. Find a Grave 131923963: 'Gertrude Elisabet Olson Soderquist', f. 30 apr 1893 Brunskog, d. 16 mar 1953 Jamestown, Lake View Cemetery sektion 18; länkade föräldern Olof Persson (1854–1941), make Carl Arvid, syskon Anna Olofsdotter Eriksson och Warner Paul Olson, barn Norma och Audrey.",
+   "UD2 – Folkräkningar Jamestown: 1920 'Gertrude O Sederquist' hustru, 26, f. Sverige, inv. 1909, med systern 'Signa C Olson' (svägerska till hushållsföreståndaren); 1930, 1940 Gertrude Soderquist; 1950 änka hos dottern Audrey Voit."
   ],
   "sources": [
    {
@@ -27425,11 +27446,36 @@
    {
     "label": "Riksarkivet, Göteborgs poliskammare, emigrantlistor E IX/97 (1912), bild 292: Olsson Gerturde 19, America → Jamestown N.Y.",
     "url": "https://sok.riksarkivet.se/bildvisning/A0056986_00292"
+   },
+   {
+    "label": "FamilySearch, New York County Marriages 1908–1937: Gertrude E Olson (föräldrar Olof Person/Betty Anderson) × Carl A Soderquist, 26 juni 1916 Chautauqua",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKJM-DW8S"
+   },
+   {
+    "label": "FamilySearch, US Social Security death index: Gertrude Soderquist f. 30 Apr 1893, d. 16 Mar 1953",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6KMG-TY34"
+   },
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown: Gertrude O Sederquist med svägerska Signa C Olson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKY-MCJ"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 Jamestown: Gertrude Soderquist",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X7HK-2DB"
+   },
+   {
+    "label": "Find a Grave 131923963: Gertrude Elisabet Olson Soderquist 1893–1953, Lake View Cemetery Jamestown",
+    "url": "https://www.findagrave.com/memorial/131923963"
    }
   ],
   "search": [
    "Gerda Elisabet Olsson (f. 1893, Skog)"
-  ]
+  ],
+  "died": {
+   "date": "1953-03-16",
+   "place": "Jamestown, Chautauqua Co, New York, USA",
+   "note": "SSDI/NUMIDENT + Find a Grave 131923963, Lake View Cemetery sektion 18"
+  }
  },
  {
   "id": "ol_nils_arvid_1896",
@@ -27449,7 +27495,8 @@
    "BT2: A II a/3 bild 75 = sid 67 (Bråten ⅛ m. skatte) har bara 8 rader/radnummer 1–9 (Jan Nilsson, Anders Jansson m.fl.); ”rad 19” finns inte där – hänvisningen ”pag 67,19” avser troligen annan sida/volym (föregående församlingsbok A II a/2?) eller radnumrering som ej ses. Barnet ej identifierat; SCB födda 1915–16 (A0031185_00359, A0031257_00355) ej genomsökta.",
    "BU8 – RÄTTELSE av tidigare läsning (bild 184 rad 10): 'Amerika 16 1/9' står i kolumnerna 9–10 'Inflyttad eller återinförd', inte i utflyttningskolumnen. Raden betyder alltså att han kom TILLBAKA från Amerika den 1 sept 1916; han reste inte ut igen. Utflyttningskolumnen på rad 10 är tom. Han var 'Hem eg son' och dräng i Skog och fick värnpliktsnummer '232 48/1917'. Förloppet: Amerika 18/10 1912, åter i Brunskog 1/9 1916, sedan kvar (gifte sig senare med Gerda Katarina Augustsson).",
    "BU8: Hänvisningen lyder ordagrant 'pag 67, r. 9' (rad 9, inte 19). A II a/3 sid 67 (bild 75, Bråten) rad 9: 'd. u.ä. Anna Britta Olsson 20 1/1 Brunskog'. Födelseboken 1920 nr 1 har 'Erkänd Fader: Nils Arvid Olofsson Skog Brunskog 96 17/1' och modern Hulda Maria Andersson, Bråten, f. 3/9 1898. Anteckningen 'F.b. 1/9 16' framför hör troligen till inflyttningen 1916 (flyttbetyg?). Erkännandet gjordes vid eller efter barnets födelse 1/1 1920.",
-   "UC2 – GÖTEBORGS POLISKAMMARE, EMIGRANTLISTA (primär, bildläst): Göteborgs poliskammare före 1900, Inkomna uppgifter om utvandrade personer E IX/97 (1912), bild A0056986_00292, vänstra sidan = fortsättning av förteckning I över utvandrare med ångfartyget 'Salmo' som 23 okt 1912 avgår till Grimsby (rubrik på bild 291). Kontrakt nr 52, en familjegrupp (klammer) ordagrant: '52 Olsson, Karolina | America | 24 | Q | Jamestown N.Y.' / '\" \" Gerturde | \" | 19 | Q | \"' / '\" \" Arvid | Brunskog, Vrml | 17/1 96 | M | \"' / '\" \" Verner | \" | 7/5 01 | M | \"'. Födelsedagarna 17/1 1896 och 7/5 1901 är exakt Nils Arvids och Paul Werners; Karolina 24 år och 'Gerturde' 19 år med hemort 'America' passar systrarna Signe Karolina (f. 10/5 1888) och Gerda Elisabet (f. 30/4 1893) som redan bott i Amerika och följde bröderna. Destination Jamestown, New York (där systern Anna och Erik Johan Eriksson bodde). Husförhörets 'Amerika 12 18/10' = flyttattest; utresan från Göteborg skedde 23 okt 1912 via Grimsby. (Han återkom till Brunskog 1/9 1916.)"
+   "UC2 – GÖTEBORGS POLISKAMMARE, EMIGRANTLISTA (primär, bildläst): Göteborgs poliskammare före 1900, Inkomna uppgifter om utvandrade personer E IX/97 (1912), bild A0056986_00292, vänstra sidan = fortsättning av förteckning I över utvandrare med ångfartyget 'Salmo' som 23 okt 1912 avgår till Grimsby (rubrik på bild 291). Kontrakt nr 52, en familjegrupp (klammer) ordagrant: '52 Olsson, Karolina | America | 24 | Q | Jamestown N.Y.' / '\" \" Gerturde | \" | 19 | Q | \"' / '\" \" Arvid | Brunskog, Vrml | 17/1 96 | M | \"' / '\" \" Verner | \" | 7/5 01 | M | \"'. Födelsedagarna 17/1 1896 och 7/5 1901 är exakt Nils Arvids och Paul Werners; Karolina 24 år och 'Gerturde' 19 år med hemort 'America' passar systrarna Signe Karolina (f. 10/5 1888) och Gerda Elisabet (f. 30/4 1893) som redan bott i Amerika och följde bröderna. Destination Jamestown, New York (där systern Anna och Erik Johan Eriksson bodde). Husförhörets 'Amerika 12 18/10' = flyttattest; utresan från Göteborg skedde 23 okt 1912 via Grimsby. (Han återkom till Brunskog 1/9 1916.)",
+   "UD2: Inga amerikanska poster för Arvid Olson f. 1895–97 i Sverige i Chautauqua County (folkräkning NY 1915, 1920) – stämmer med att han återkom till Brunskog 1/9 1916 (BU8)."
   ],
   "sources": [
    {
@@ -27892,7 +27939,8 @@
    "FAMILYSEARCH (strong, ej verified: födelseort anges bara 'Sweden', föräldrar ej angivna): Warner Paul Olson f. 7 maj 1901 Sweden = exakt samma födelsedatum som Paul Werner (1901-05-07). WWII draft (4:e registreringen) 16 feb 1942, Erie PA, arbetsgivare Erie Meter System; Find a Grave: död 24 okt 1975, begravd Calvary Cemetery, Millcreek Twp, Erie PA; SSDI död okt 1975 Erie. Folkräkning 1950 (1 apr, Erie): Warner P Olson f. 1902 Sweden, hustru Rose M, barn Audrey L och Nancy K. Dödsannons (GenealogyBank): Warner P Olson, hustru Rose M Sitter Olson, barn Audrey L Olson Steimer, Nancy K Fries (troligen levande/okända – ej inlagda). Erie ligger nära McKean Co PA där svågern Erik Johan Eriksson bodde.",
    "Status oförändrad (strong). Pennsylvania WWII Draft Registration Cards: 'Warner Paul Olson', Erie, 'Födelse 7 maj 1901, , Sweden'; Hitta en grav: Warner Paul Olson, f. 7 maj 1901, d. 24 oktober 1975, Calvary Cemetery, Millcreek Township, Erie. Datum stämmer exakt med vår post (7 maj 1901) och död 1975 stämmer med uppgiften om 1975. Födelseort Brunskog och föräldrar anges inte i dessa poster; dödsattest/naturalisering ej funna.",
    "FAMILYSEARCH BN2: Sökning (Warner/Paul Olson f. 1900-03 Sweden, Erie PA) ger endast WWII-draft 1942, SSDI, gravindex (Calvary Cemetery), folkräkning 1950 samt dödsannons (hustru Rose M Sitter Olson). Ingen folkräkning 1930/1940 och ingen post med föräldrar indexerad; status kvar strong.",
-   "UC2 – GÖTEBORGS EMIGRANTLISTA (primär, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 Göteborg → Grimsby, kontrakt 52: 'Olsson, Verner | [Brunskog, Vrml] | 7/5 01 | M | [Jamestown N.Y.]' i grupp med bror Arvid (17/1 96, Brunskog) och systrarna Karolina 24 och 'Gerturde' 19 (hemort America). Bekräftar resan 1912 och första destinationen Jamestown NY; det exakta födelsedatumet 7/5 1901 är samma som i Warner Paul Olson-posterna i Erie PA (status för Erie-identiteten fortfarande strong, men emigrationen är nu primärbelagd)."
+   "UC2 – GÖTEBORGS EMIGRANTLISTA (primär, bildläst): E IX/97 (1912) bild A0056986_00292, S/S Salmo 23 okt 1912 Göteborg → Grimsby, kontrakt 52: 'Olsson, Verner | [Brunskog, Vrml] | 7/5 01 | M | [Jamestown N.Y.]' i grupp med bror Arvid (17/1 96, Brunskog) och systrarna Karolina 24 och 'Gerturde' 19 (hemort America). Bekräftar resan 1912 och första destinationen Jamestown NY; det exakta födelsedatumet 7/5 1901 är samma som i Warner Paul Olson-posterna i Erie PA (status för Erie-identiteten fortfarande strong, men emigrationen är nu primärbelagd).",
+   "UD2 – Find a Grave 8899894 'Warner Paul Olson', f. 7 maj 1901 Brunskog, d. 24 okt 1975 Erie: länkad till fadern Olof Persson (1854–1941, Brunskog), syskonen Anna Olofsdotter Eriksson och Gertrude Elisabet Olson Soderquist, hustru Rose Mary Sitter Olson (1898–1986, m. 1923) och dottern Audrey Louise Olson Steimer (1930–2012). Syskonlänkarna (användarlagda) knyter Erie-mannen till Jamestown-syskonen; tillsammans med exakt födelsedatum och emigrantlistan 1912 är identiteten mycket säker (Find a Grave = användarträd, därför ej egen primärkälla)."
   ],
   "sources": [
    {
@@ -27910,6 +27958,10 @@
    {
     "label": "Riksarkivet, Göteborgs poliskammare, emigrantlistor E IX/97 (1912), bild 292: Olsson Verner 7/5 01, Brunskog → Jamestown N.Y., S/S Salmo 23 okt 1912",
     "url": "https://sok.riksarkivet.se/bildvisning/A0056986_00292"
+   },
+   {
+    "label": "Find a Grave 8899894: Warner Paul Olson 1901–1975 (länkad till Olof Persson och syskon)",
+    "url": "https://www.findagrave.com/memorial/8899894"
    }
   ],
   "search": [
@@ -57936,16 +57988,17 @@
  },
  {
   "id": "ub4_george_olson_1923",
-  "name": "George Olson (1923–1996)",
-  "status": "strong",
+  "name": "George Olson (1922–1996)",
+  "status": "verified",
   "sex": "m",
   "living": false,
   "born": {
-   "date": "1923",
-   "place": "Indiana?"
+   "date": "1922-07-28",
+   "place": "La Porte, Indiana"
   },
   "died": {
-   "date": "1996"
+   "date": "1996-02-07",
+   "place": "Eagle River, Anchorage, Alaska (senaste bostad)"
   },
   "places": [
    "La Porte, Indiana",
@@ -57953,7 +58006,8 @@
   ],
   "summary": "Son till Efraim Olson och Edith V. (Gustafson).",
   "notes": [
-   "Folkräkningar 1930 La Porte och 1940 Jamestown: son 'George' i Efraim Olsons hushåll. Åren 1923–1996 från FamilySearch-träd GT22-WTT (lead)."
+   "Folkräkningar 1930 La Porte och 1940 Jamestown: son 'George' i Efraim Olsons hushåll. Åren 1923–1996 från FamilySearch-träd GT22-WTT (lead).",
+   "UD2 – NUMIDENT: George Olson f. 28 Jul 1922 Laporte, Indiana, d. 7 Feb 1996, bostad Eagle River, Alaska; föräldrar 'Efraim J Olson' och 'Edith V Gustufson'. Rättar födelseår 1923 → 1922."
   ],
   "sources": [
    {
@@ -57963,6 +58017,10 @@
    {
     "label": "FamilySearch Family Tree GT22-WTT (lead)",
     "url": "https://www.familysearch.org/tree/person/details/GT22-WTT"
+   },
+   {
+    "label": "FamilySearch, NUMIDENT: George Olson f. 28 Jul 1922, föräldrar Efraim J Olson / Edith V Gustafson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K9S-ZYSX"
    }
   ],
   "search": [
@@ -57971,15 +58029,17 @@
  },
  {
   "id": "ub4_betty_edith_olson_1926",
-  "name": "Betty Edith Olson (1926–1999)",
+  "name": "Betty Edith Olson (1926–2018)",
   "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
-   "date": "1926"
+   "date": "1926-12-04",
+   "place": "La Porte, Indiana"
   },
   "died": {
-   "date": "1999"
+   "date": "2018-03-12",
+   "place": "Jamestown, NY (dödsannons)"
   },
   "places": [
    "La Porte, Indiana",
@@ -57987,7 +58047,8 @@
   ],
   "summary": "Dotter till Efraim Olson och Edith V. (Gustafson).",
   "notes": [
-   "Folkräkningar 1930 'Betty E', 1940 och 1950 Jamestown 'Betty (E) Olson' dotter. Åren 1926–1999 från FamilySearch-träd GT2K-5HV (lead). Systern Barbara A Olson (f. 1927, dödsdatum okänt) ej inlagd."
+   "Folkräkningar 1930 'Betty E', 1940 och 1950 Jamestown 'Betty (E) Olson' dotter. Åren 1926–1999 från FamilySearch-träd GT2K-5HV (lead). Systern Barbara A Olson (f. 1927, dödsdatum okänt) ej inlagd.",
+   "UD2 – RÄTTELSE: Dödsannons (US Obituary Record, publicerad 8 juli 2018 Jamestown): Betty E Olson f. 4 dec 1926 La Porte, d. 12 mars 2018, 91 år; föräldrar Efraim J Olson och Edith Gustafson Olson; syskon George Olson och Barbara O Richmond. Döden 1999 (UB4) gäller tvillingsystern Barbara (NUMIDENT d. 5 jan 1999)."
   ],
   "sources": [
    {
@@ -57997,6 +58058,10 @@
    {
     "label": "FamilySearch Family Tree GT2K-5HV (lead)",
     "url": "https://www.familysearch.org/tree/person/details/GT2K-5HV"
+   },
+   {
+    "label": "FamilySearch, US Obituary Record: Betty E Olson f. 4 dec 1926, d. 12 mars 2018",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:61XX-ZRKH"
    }
   ],
   "search": [
@@ -58261,6 +58326,261 @@
   ],
   "search": [
    "Maria Olofsdotter (f. 1861, Svartåna), g. med Adolf Persson"
+  ]
+ },
+ {
+  "id": "ud2_carl_arvid_soderquist_1891",
+  "name": "Carl Arvid Soderquist (1891–1946)",
+  "status": "verified",
+  "sex": "m",
+  "living": false,
+  "born": {
+   "date": "1891-11-23",
+   "place": "Obbola, Sverige",
+   "note": "WWI- och WWII-draftkort"
+  },
+  "died": {
+   "date": "1946-11-05",
+   "place": "Jamestown, Chautauqua Co, New York, USA",
+   "note": "Find a Grave, Lake View Cemetery sektion 18"
+  },
+  "places": [
+   "Jamestown, New York"
+  ],
+  "summary": "Svenskfödd make till Gerda Elisabet (Gertrude) Olsson från Skog; vigda 26 juni 1916 i Chautauqua County, NY.",
+  "notes": [
+   "UD2 – VIGSEL (primärindex): New York, County Marriages 1908–1937: 'Carl A Soderquist', 24 år, f. 1892, föräldrar Victor Soderquist och Erika Anderson, gift 26 June 1916 Chautauqua, New York med 'Gertrude E Olson', 23 år, f. 1893, föräldrar 'Olof Person' och 'Betty Anderson'.",
+   "UD2 – WWI-draftkort 1917–18 Jamestown och WWII-draftkort 26 apr 1942 Jamestown: 'Carl Arvid Soderquist', f. 23 Nov 1891 Obbola, Sweden (1942 kontaktperson Gertrude Soderquist). Folkräkning 1920 (Arvil C Soderquist, 28, inv. 1912), 1930 (Arvid, inv. 1911) och 1940 (C Arvid) Jamestown med hustru Gertrude och döttrarna.",
+   "UD2 – Find a Grave 131923964: f. 23 nov 1891 Sverige, d. 5 nov 1946 Jamestown, Lake View Cemetery sektion 18; make till Gertrude Elisabet Olson Soderquist, barn Norma och Audrey."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, New York County Marriages 1908–1937: Carl A Soderquist × Gertrude E Olson, 26 juni 1916 Chautauqua",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKJM-DWZZ"
+   },
+   {
+    "label": "FamilySearch, WWII Draft Registration 1942: Carl Arvid Soderquist f. 23 Nov 1891 Obbola, Jamestown",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKVQ-RCCL"
+   },
+   {
+    "label": "FamilySearch, WWI Draft Registration 1917–18: Carl Arvid Soderquist f. 23 Nov 1891, Jamestown",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:WQ33-1JPZ"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 Jamestown: Arvid Soderquist hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X7HK-2DY"
+   },
+   {
+    "label": "Find a Grave 131923964: Carl Arvid Soderquist 1891–1946, Lake View Cemetery Jamestown",
+    "url": "https://www.findagrave.com/memorial/131923964"
+   }
+  ],
+  "search": [
+   "Carl Arvid Soderquist (1891–1946)"
+  ]
+ },
+ {
+  "id": "ud2_norma_b_soderquist_1917",
+  "name": "Norma B. Soderquist, g. Lindorm (1917–1969)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1917-12-15",
+   "place": "New York (Jamestown?)"
+  },
+  "died": {
+   "date": "1969-12-06",
+   "place": "",
+   "note": "Find a Grave 270424900, Lake View Cemetery Jamestown"
+  },
+  "places": [
+   "Jamestown, New York"
+  ],
+  "summary": "Dotter till Carl Arvid Soderquist och Gertrude (Gerda Elisabet) Olson; gift Lindorm.",
+  "notes": [
+   "UD2 – Folkräkning 1920 Jamestown: 'Norma B Sederquist', dotter, 2 år, f. NY; 1930: Norma, 12. Find a Grave 270424900: Norma B. Soderquist Lindorm, f. 15 dec 1917, d. 6 dec 1969, Lake View Cemetery; föräldrar Carl Arvid och Gertrude Elisabet."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1920 Jamestown: Arvil C Soderquist hushåll (Norma B, svägerska Signa C Olson)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MJKY-MCJ"
+   },
+   {
+    "label": "Find a Grave 270424900: Norma B. Soderquist Lindorm",
+    "url": "https://www.findagrave.com/memorial/270424900"
+   }
+  ],
+  "search": [
+   "Norma B. Soderquist, g. Lindorm (1917–1969)"
+  ]
+ },
+ {
+  "id": "ud2_audrey_elizabeth_soderquist_1919",
+  "name": "Audrey Elizabeth Soderquist, g. Voit (1919–2021)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1919-12-19",
+   "place": "Jamestown, Chautauqua Co, New York"
+  },
+  "died": {
+   "date": "2021-09-16",
+   "place": "Melbourne, Brevard Co, Florida",
+   "note": "Find a Grave 272964699; begravd Lake View Cemetery Jamestown"
+  },
+  "places": [
+   "Jamestown, New York",
+   "Florida"
+  ],
+  "summary": "Dotter till Carl Arvid Soderquist och Gertrude Olson; gift med George Voit (1919–2015).",
+  "notes": [
+   "UD2 – Folkräkning 1920 (dotter 1 mån.), 1930 och 1940 Jamestown (Audrey, dotter). 1950 Jamestown: George Voit 31 och hustru 'Andrey' 30 med modern Gertrude Soderquist (svärmor) i hushållet. Find a Grave 272964699: f. 19 dec 1919 Jamestown, d. 16 sep 2021 Melbourne FL; föräldrar Carl Arvid och Gertrude Elisabet, make George Voit 1919–2015."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1940 Jamestown: C Arvid Soderquist hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:KQ13-XMC"
+   },
+   {
+    "label": "FamilySearch, US Census 1950 Jamestown: George Voit hushåll med svärmor Gertrude Soderquist",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6XTB-RCVQ"
+   },
+   {
+    "label": "Find a Grave 272964699: Audrey Elizabeth Soderquist Voit",
+    "url": "https://www.findagrave.com/memorial/272964699"
+   }
+  ],
+  "search": [
+   "Audrey Elizabeth Soderquist, g. Voit (1919–2021)"
+  ]
+ },
+ {
+  "id": "ud2_carol_soderquist_1923",
+  "name": "Carol Soderquist (f. ca 1923)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1923",
+   "place": "New York"
+  },
+  "died": null,
+  "places": [
+   "Jamestown, New York"
+  ],
+  "summary": "Dotter till Carl Arvid Soderquist och Gertrude Olson; vidare öde okänt.",
+  "notes": [
+   "UD2 – Folkräkning 1930 Jamestown: Carol, dotter, 7 år, f. NY; 1940: Carol, dotter, 17. Inte länkad på Find a Grave; död ej funnen (kan leva – inga nutida uppgifter sökta)."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, US Census 1930 Jamestown: Gertrude Soderquist (döttrar Norma, Audrey, Carol)",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X7HK-2DB"
+   }
+  ],
+  "search": [
+   "Carol Soderquist (f. ca 1923)"
+  ]
+ },
+ {
+  "id": "ud2_rose_mary_sitter_1898",
+  "name": "Rose Mary Olson f. Sitter (1898–1986)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1898-04-12",
+   "place": "Erie, Pennsylvania"
+  },
+  "died": {
+   "date": "1986-06-04",
+   "place": "Erie, Pennsylvania"
+  },
+  "places": [
+   "Erie, Pennsylvania"
+  ],
+  "summary": "Hustru till Warner Paul (Paul Werner) Olson; gifta 1923.",
+  "notes": [
+   "UD2 – Find a Grave 8899891: Rose Mary Sitter Olson, f. 12 apr 1898 Erie, d. 4 juni 1986 Erie; föräldrar Peter Francis Sitter och Philomena Heintz; make Warner Paul Olson (m. 1923). Folkräkning 1950 Erie: Warner P Olson med hustru Rose M (redan i repo)."
+  ],
+  "sources": [
+   {
+    "label": "Find a Grave 8899891: Rose Mary Sitter Olson",
+    "url": "https://www.findagrave.com/memorial/8899891"
+   }
+  ],
+  "search": [
+   "Rose Mary Olson f. Sitter (1898–1986)"
+  ]
+ },
+ {
+  "id": "ud2_audrey_louise_olson_1930",
+  "name": "Audrey Louise Olson, g. Steimer (1930–2012)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1930-02-17",
+   "place": "Erie, Pennsylvania"
+  },
+  "died": {
+   "date": "2012-02-08",
+   "place": "Erie, Pennsylvania",
+   "note": "Find a Grave 112280619, Trinity Cemetery"
+  },
+  "places": [
+   "Erie, Pennsylvania"
+  ],
+  "summary": "Dotter till Warner Paul Olson och Rose Mary Sitter.",
+  "notes": [
+   "UD2 – Find a Grave 112280619 (länkad som barn på faderns minnessida 8899894): f. 17 feb 1930 Erie, d. 8 feb 2012 Erie. Folkräkning 1950 Erie: Audrey L, dotter. Systern Nancy K (Fries) – ej inlagd (möjligen levande)."
+  ],
+  "sources": [
+   {
+    "label": "Find a Grave 112280619: Audrey Louise Olson Steimer",
+    "url": "https://www.findagrave.com/memorial/112280619"
+   }
+  ],
+  "search": [
+   "Audrey Louise Olson, g. Steimer (1930–2012)"
+  ]
+ },
+ {
+  "id": "ud2_barbara_a_olson_1926",
+  "name": "Barbara A. Olson, g. Richmond (1926–1999)",
+  "status": "strong",
+  "sex": "f",
+  "living": false,
+  "born": {
+   "date": "1926-12-04",
+   "place": "La Porte, Indiana"
+  },
+  "died": {
+   "date": "1999-01-05",
+   "place": "Jamestown, NY (senaste bostad)"
+  },
+  "places": [
+   "La Porte, Indiana",
+   "Jamestown, New York"
+  ],
+  "summary": "Dotter (tvilling med Betty Edith) till Efraim J. Olson och Edith V. Gustafson.",
+  "notes": [
+   "UD2 – NUMIDENT: 'Barbara Olson Richmond', f. 4 Dec 1926 Laporte, Indiana, d. 5 Jan 1999, bostad Jamestown; föräldrar 'Efraim J Olson' och 'Edith V Gustafson'. Folkräkning 1930 La Porte, 1940 och 1950 Jamestown: Barbara A, dotter."
+  ],
+  "sources": [
+   {
+    "label": "FamilySearch, NUMIDENT: Barbara Olson Richmond f. 4 Dec 1926, föräldrar Efraim J Olson / Edith V Gustafson",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6KMP-QW5C"
+   },
+   {
+    "label": "FamilySearch, US Census 1930 La Porte IN: Efraim J Olson hushåll",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XH9V-LXJ"
+   }
+  ],
+  "search": [
+   "Barbara A. Olson, g. Richmond (1926–1999)"
   ]
  }
 ]
