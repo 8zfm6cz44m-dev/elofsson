@@ -58461,7 +58461,7 @@
   "name": "Carol Soderquist (f. ca 1923)",
   "status": "strong",
   "sex": "f",
-  "living": false,
+  "living": true,
   "born": {
    "date": "1923",
    "place": "New York"
