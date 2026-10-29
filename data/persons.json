@@ -20933,7 +20933,8 @@
    "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 75 (1838): lysn. 7 dec, vigd 26 dec 1838, ”v. Ringstad” Brudgum Nils Persson (31), ”ibm. Pig. Maja Nilsd.” (28) – ort Ringstad, ej Lene; ålder 28 vs Maja 27; EJ identifierad med Maja.",
    "HUSFÖRHÖR Frykerud A I/18 bild 183 (Lene, Nils Jonssons hushåll): barn ”Maja” 10/10 11 ibm; utflyttad ”Boda 41”; anm. höger sida: ”Gift d. 4/1 41. Lyst 1:a gång 28/11 40 med Dr Kristoffer Hälleb[?] i Boda”.",
    "VIGSEL Frykerud E I/2 bild 79 (1841, jan): ”4 ... N. Boda. Br. Dr. Kristoffer Nilsson / Lene pig. Maja Nilsdr / vigde af L. Ralander” åldrar 25 resp. 28 (brudgum 25, brud 28).",
-   "FOLKRÄKNING 1880–1910: Ingen Maja/Maria Nilsdotter f. 1811 i Frykerud/Boda funnen (sökt Maja och Maria Nilsdotter 1811 + Frykerud-filter; Värmlandsträffar var Brattfors/Fernebo, Nyed, Övre Ullerud, Segerstad, Eda-Köla, Brunskog m.fl., ingen med Frykerud/Boda som födelseort) ⇒ död före 1880."
+   "FOLKRÄKNING 1880–1910: Ingen Maja/Maria Nilsdotter f. 1811 i Frykerud/Boda funnen (sökt Maja och Maria Nilsdotter 1811 + Frykerud-filter; Värmlandsträffar var Brattfors/Fernebo, Nyed, Övre Ullerud, Segerstad, Eda-Köla, Brunskog m.fl., ingen med Frykerud/Boda som födelseort) ⇒ död före 1880.",
+   "FOLKRÄKNING 1880–1910 (UC1): ingen Maja/Maria Nilsdotter f. 1811 Frykerud – troligen död före 1880."
   ],
   "sources": [
    {
@@ -20964,7 +20965,7 @@
  {
   "id": "fr_lenanilsd1815",
   "name": "Lena Nilsdotter",
-  "status": "verified",
+  "status": "strong",
   "sex": "f",
   "living": false,
   "born": {
@@ -20982,7 +20983,8 @@
    "AK6 LEAD (svag): Frykerud vigselbok E I/2 bild 81 (1842): lysn. 24 nov, vigd 27 nov? 1842, ”Lene. T.Dr. Lars Bengtsson ibm. pig. Elin Lisa Nilsd[otter]”, åldrar 27 och 25. Lars Bengtsson f. 1815 ”Nor” var dräng i Nils Jonssons hushåll (A I/18 bild 183), men bruden är 25 år och heter Elin Lisa; ingen koppling till Lena (f. 27/12 1815, 26 år) bevisad.",
    "HUSFÖRHÖR Frykerud A I/20 (1846–50) bild 200 (sid 182) Lene: ”Syskon: Pigan Lena Nilsd 27/12 15 ibm” – ogift, kvar på Lene efter moderns död 1848; yngre syskon Jonas och Sven bor samma sida. (Rad kan bära anteckning ’Sjukling’ – ej säkert läst.)",
    "FOLKRÄKNING 1880 Frykerud/Lene s.32 r.28: ”Nilsdotter, Lena f. 1815 i Frykerud, ogift, Barn” i hushåll med brodern Sven Nilsson f. 1828 (Hemmansägare). 1890 Lene s.39 r.17 (Ensamstående, hushåll med Sven). 1900 Lene s.34 r.41: ensamt hushåll, Hemmansägare, 85 år, ogift. Levde alltså kvar på hemgården Lene livet ut (död efter 1900). Inga Amerika-/Norgeindikationer.",
-   "UB6 – Ingen Nordamerika-sökning behövs: folkräkningarna 1880, 1890 och 1900 visar henne kvar på Lene, Frykerud (redan i repo). Avfärdad som emigrant."
+   "UB6 – Ingen Nordamerika-sökning behövs: folkräkningarna 1880, 1890 och 1900 visar henne kvar på Lene, Frykerud (redan i repo). Avfärdad som emigrant.",
+   "FOLKRÄKNING 1880/1890/1900 (UC1): ogift, bor kvar på fädernegården Lene i Frykerud; 1880 och 1890 som ”systern/syster” till hemmansägaren Sven Nilsson f. 1828; 1900 själv hemmansägare (Sven borta, troligen död 1890–1900). Identitet strong: by Lene + födelseår + uttrycklig syskonrelation till Sven 1828 (födelsedag anges ej i folkräkning)."
   ],
   "sources": [
    {
@@ -21008,6 +21010,18 @@
    {
     "label": "Riksarkivet, folkräkning 1900 Frykerud/Lene s.34 r.41: Lena Nilsdotter f. 1815 Frykerud, Hemmansägare, Ensamstående",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_119379630&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Frykerud, Lene, s. 32 rad 28, fam. 1: ”Nilsson, Sven, f. 1828 i Frykerud, Hemmansägare” och ”Nilsdotter, Lena, f. 1815 i Frykerud”, ogift, familjeställning ”systern”",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_119246448"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Frykerud, Lene, s. 39 rad 17: fam. 1 Nilsson, Sven 1828 Frykerud hemmansegare; fam. 2 Nilsdotter, Lena 1815 Frykerud, ogift, ”syster”",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103489498"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Frykerud, Lene, s. 34 rad 41: ”Nilsdotter, Lena, f. 1815 i Frykerud, Hemmansägare”, ogift, ensamstående",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_119379630"
    }
   ],
   "search": [
@@ -21034,7 +21048,8 @@
    "HUSFÖRHÖR A I/15 bild 126 (s. 105): ”Caisa 20/12 1818” i Nils Jonssons hushåll, Lene.",
    "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”D. Kajsa Nilsd 20/12 18 ibm”, utflyttad ”p:193:49” (till sid 193 i boken, 1849). Bild 211 (sid 193) Lene: ”Pig. Cajsa Nilsd 20/12 18 ibm, inflyttad p.182 49” – piga i annat hushåll på Lene 1849–50. Ogift.",
    "VIGSEL Frykerud E I/2 bild 105 (1855): 5 aug 1855 (lysning 10/12 1854): ”Torparen Drängen Nils Bengtsson [25] och Pigan Cajsa Nilsdatter, bygg. från Lene [37]”. Ålder 37 stämmer med f. 20/12 1818; Lene; förälder ej nämnd i vigselboken → strong (ej verified).",
-   "FOLKRÄKNING 1880 Klaxås s.22 r.19: ”Nilsdotter, Kajsa f. 1818 i Frykerud, Gift, Mor/fru” i Nils Bengtssons hushåll; 1890 s.32 r.41?, 1900 s.28 (hemma, 82 år). Död mellan 1900 och 1910 (Nils änkling 1910). Barnlöst äktenskap (inga barn i hushållen)."
+   "FOLKRÄKNING 1880 Klaxås s.22 r.19: ”Nilsdotter, Kajsa f. 1818 i Frykerud, Gift, Mor/fru” i Nils Bengtssons hushåll; 1890 s.32 r.41?, 1900 s.28 (hemma, 82 år). Död mellan 1900 och 1910 (Nils änkling 1910). Barnlöst äktenskap (inga barn i hushållen).",
+   "FOLKRÄKNING 1880 (UC1): fyra Kajsa Nilsdotter f. 1818 Frykerud: piga, Karlstads annex obefintliga (Folk_119260722); inhyses Skog, Frykerud (Folk_119247386); hustru till hemmansägaren Nils Bengtsson f. 1830 i Klaxås, Frykerud (Folk_119245956); inhyses V. Tolerud, Grava (Folk_119264708). Kan inte avgöras utan husförhör (Lene-flyttkedja)."
   ],
   "sources": [
    {
@@ -21091,7 +21106,8 @@
    "BU1 DOP Frykerud C/6 (C0037139) bild 233 (s. 436), juli 1858: ”7 | 9 | Lene: Jonas Nilsson o. h. Cajsa Svensd:r | Nils Fredrik” – alltså hustru Cajsa Svensdotter redan juli 1858.",
    "BU1 VIGSEL E I/2 bild 108 omläst: ”[lysning] 1856 Nov 16 | Januari 4 | Dräng Jonas Nilsson och Pigan Lovisa Carlsdatter, begge från Lene | 36 / 26 | Wigde af Magn: Lanner”. Dödbok F/2 (C0037143) bild 113–116 (jan 1857–feb 1858) genomläst: ingen Lovisa Carlsdotter död. Motsägelse: 36-årige Jonas Nilsson (= f. 1821) gifter sig jan 1857 med Lovisa, men har juli 1858 hustru Cajsa Svensdotter (f. 1824 Sunne). Antingen fanns ytterligare en Jonas Nilsson ~36 år på Lene, eller Lovisa dog/flyttade utan notering. Ej löst.",
    "BU7: Lovisa Carlsdotter dog 1/3 1858 i barnsbörd, 28 år (F/2 bild 117). Det löser motsägelsen: Jonas Nilsson (36 år 1857) var 1:o gift 4/1 1857 med Lovisa Carlsdotter (dotter Maria Stina f. 21/2 1858) och 2:o med Cajsa Svensdotter f. 16/1 1824 Sunne (son Nils Fredrik f. 7/7 1858). Det betyder att Nils Fredrik föddes bara fyra månader efter Lovisas död. Vigseln med Cajsa finns inte i Frykerud E I/2 1857–1859 (bild 109–115 genomlästa); den skedde troligen i Sunne eller så är Nils Fredrik född före äktenskapet.",
-   "BU7 OMLÄSNING A I/23 bild 198 (förstoring): födelsedagen för ’Jonas Nilsson äldre’ står som ”21 7/5” (inte 3/5). Husförhöret A I/18/A I/20 ger 3/5 1821. Avvikelsen är liten och troligen en skrivvariant; identiteten bygger på namn, Lene och år 1821."
+   "BU7 OMLÄSNING A I/23 bild 198 (förstoring): födelsedagen för ’Jonas Nilsson äldre’ står som ”21 7/5” (inte 3/5). Husförhöret A I/18/A I/20 ger 3/5 1821. Avvikelsen är liten och troligen en skrivvariant; identiteten bygger på namn, Lene och år 1821.",
+   "FOLKRÄKNING 1880–1910 (UC1): ingen Jonas Nilsson f. 1821 Frykerud."
   ],
   "sources": [
    {
@@ -21151,7 +21167,8 @@
    "AK6 LEAD (svag): Boda B/1 (C0036591) bild 11, inflyttade 1842, nr 4: ”G.Dr. Kristoffer Nilsson – Frykerud – Smedsered – L. Rolander” (G.Dr = gift dräng). Kristofer f. 1823 vore 19 år – troligen annan person; ej identifierad.",
    "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”S. Christoffer 10/12 2? ibm” överstruken, utflyttad ”p:193:48”. Bild 211 (sid 193) Lene: ”B. Christoffer Nilsson 10/12 23 Frykerud, inflyttad p.182 48” – egen bonde på sid 193 från 1848. Ogift (ingen hustru på raden).",
    "FOLKRÄKNING 1880–1910: Ingen Kristofer/Christofer/Kristoffer Nilsson f. 1823 (Krist*/Christ*) i Värmlands län ⇒ död före 1880 eller emigrerad (ingen Amerikaindikation i folkräkningen; ej belagt).",
-   "UB6 – Nordamerika: ingen träff på Christopher/Kristoffer Nelson/Nilsson f. 1822–24 Sverige som kan knytas till Frykerud (FamilySearch; bl.a. Minnesota 1857, Michigan, Nebraska – inga födelseorter). Svenska index (1874+) har ingen Christoffer Nilsson f. 1823 Frykerud. Död före 1874 i Sverige är lika trolig som emigration; Frykeruds död- och flyttlängder 1848–74 behövs (död/vigsel ej digitaliserade efter 1861 enl. brief)."
+   "UB6 – Nordamerika: ingen träff på Christopher/Kristoffer Nelson/Nilsson f. 1822–24 Sverige som kan knytas till Frykerud (FamilySearch; bl.a. Minnesota 1857, Michigan, Nebraska – inga födelseorter). Svenska index (1874+) har ingen Christoffer Nilsson f. 1823 Frykerud. Död före 1874 i Sverige är lika trolig som emigration; Frykeruds död- och flyttlängder 1848–74 behövs (död/vigsel ej digitaliserade efter 1861 enl. brief).",
+   "FOLKRÄKNING 1880–1910 (UC1): ingen Kristofer/Christopher Nilsson f. 1823 Frykerud."
   ],
   "sources": [
    {
@@ -21174,7 +21191,7 @@
  {
   "id": "fr_svennilsson1828",
   "name": "Sven Nilsson",
-  "status": "verified",
+  "status": "strong",
   "sex": "m",
   "living": false,
   "born": {
@@ -21189,7 +21206,8 @@
   "notes": [
    "HUSFÖRHÖR A I/18 bild 183 (fol. 173) Lene: barn i Nils Jonssons hushåll.",
    "HUSFÖRHÖR Frykerud A I/20 bild 200 (sid 182) Lene: ”Bonden Dr. Sven Nilsson 27/9 28 ibm” – tar över hemmanet efter moderns död 1848; ogift. Anm. höger: ”Casser(?) Bus 1850” (oklar).",
-   "FOLKRÄKNING 1880 Frykerud/Lene s.32 r.27: ”Nilsson, Sven f. 1828 i Frykerud, Hemmansägare, Ogift”, hushåll med systern Lena Nilsdotter f. 1815. 1890 s.39 r.16 samma (Hemmanseg., ogift). Ej i 1900 års träff (död 1890–1900 eller ej indexerad). Ogift, inga barn."
+   "FOLKRÄKNING 1880 Frykerud/Lene s.32 r.27: ”Nilsson, Sven f. 1828 i Frykerud, Hemmansägare, Ogift”, hushåll med systern Lena Nilsdotter f. 1815. 1890 s.39 r.16 samma (Hemmanseg., ogift). Ej i 1900 års träff (död 1890–1900 eller ej indexerad). Ogift, inga barn.",
+   "FOLKRÄKNING 1880/1890 (UC1): hemmansägare på Lene, Frykerud (fädernegården), ingen hustru/barn i hushållet, systern Lena 1815 bor hos honom. Saknas 1900 (Lena då hemmansägare) – död 1890–1900 trolig. Strong (by + år + syskonrelation)."
   ],
   "sources": [
    {
@@ -21207,6 +21225,14 @@
    {
     "label": "Riksarkivet, folkräkning 1890 Frykerud/Lene s.39 r.16",
     "url": "https://sok.riksarkivet.se/folkrakningar/?postid=Folk_103489497&tab=post"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1880, Frykerud, Lene, s. 32, fam. 1: ”Nilsson, Sven, f. 1828 i Frykerud, Hemmansägare” med systern Lena f. 1815",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_119246447"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1890, Frykerud, Lene, s. 39: Nilsson, Sven 1828 Frykerud, Hemmanseg.; Lena Nilsdotter 1815 ”syster” i fam. 2",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_103489497"
    }
   ],
   "search": [
@@ -23497,7 +23523,8 @@
   "summary": "Äldste kände sonen till klarinettblåsaren Anders Stridsberg och Britta Lisa Jonsdotter, f. 16 sept 1806 i Mällgårds boställe, Segerstad.",
   "notes": [
    "DOP Segerstad C/2 bild 41 (s. 65): ”1806 Sept. 16 | 17 Andreas – Clarinet. Blås. Anders Stridsberg och dess hustr. Britta Lisa Jonsdr i Mällgårds boställe” (modern 26 år; faddrar ”Olof Närfsson(?) och dess hustr. Britta Christ(iansd) i Mällgården”).",
-   "HUSFÖRHÖR Segerstad A I/9 bild 38 (fol. 26): ”Son Andreas 16 / 1806 här” i hushållet ”Clarin. blås. And. Stridsberg 1783 By … Hustru Britta Lisa Jonsdr 22/1 1780 …stad … Son Andreas 1806 här; Dtr. Britta Caisa 17/6 -10 här; Dtr. [Maria?] Charlotta 26/9 12 här … dog d. 7/12 1814; Son Jan Fredrik 22/5 15 här”."
+   "HUSFÖRHÖR Segerstad A I/9 bild 38 (fol. 26): ”Son Andreas 16 / 1806 här” i hushållet ”Clarin. blås. And. Stridsberg 1783 By … Hustru Britta Lisa Jonsdr 22/1 1780 …stad … Son Andreas 1806 här; Dtr. Britta Caisa 17/6 -10 här; Dtr. [Maria?] Charlotta 26/9 12 här … dog d. 7/12 1814; Son Jan Fredrik 22/5 15 här”.",
+   "FOLKRÄKNING (UC1): ingen Stridsberg f. 1800–1820 med Segerstad-koppling i registret (Stridsberg 1800–1820: Jan 1819 Värmland 1880/1890 och Stina 1817 Värmland 1880/1890 – födelseförsamling ej kontrollerad) och ingen Andreas f. 1806 med födelseförs. Segerstad. Värmlandsfödda Andreas Andersson 1806 finns 1880/1890 (Folk_120348672, Folk_103528858) – födelseförsamling ej kontrollerad (avbrutet, se flagga)."
   ],
   "sources": [
    {
@@ -31096,7 +31123,8 @@
    "FOLKRÄKNING 1890 och 1900 Boda, Renstad: ”Nils Oskar, f. 1881 i Boda” i August Anderssons hushåll. Ej i 1880 års hushåll – född efter folkräkningen 1880 (Maria kan ha dött i barnsäng 1881/82, ej kontrollerat).",
    "FOLKRÄKNING 1930: ingen träff på Nils Oskar f. 1881 Boda (sökning med förnamn+år+födelseförsamling gav endast 1890 och 1900) – troligen utflyttad/utvandrad; ej utrett.",
    "SCB födelseutdrag 1881 Boda nr 23, bild A0036224_00295: Maj 6, Nils Oskar, fader August Andersson, moder Maria Johannesdotter, Renstad.",
-   "FAMILYSEARCH (index Boda): Nils Oskar f. 6 maj 1881 finns i Renstad både 1883–94 och 1895–1906 (QL54-NPJ4 m.fl.) – han var alltså kvar i Boda minst till ca 1900. Ingen säker träff i amerikanska index (en Oscar Anderson f. 6 May 1881 Sweden, död 14 Apr 1946, NUMIDENT 6K31-46XW, saknar föräldrar/ort – kan inte knytas). Folkräkning 1910 kunde ej sökas (captcha)."
+   "FAMILYSEARCH (index Boda): Nils Oskar f. 6 maj 1881 finns i Renstad både 1883–94 och 1895–1906 (QL54-NPJ4 m.fl.) – han var alltså kvar i Boda minst till ca 1900. Ingen säker träff i amerikanska index (en Oscar Anderson f. 6 May 1881 Sweden, död 14 Apr 1946, NUMIDENT 6K31-46XW, saknar föräldrar/ort – kan inte knytas). Folkräkning 1910 kunde ej sökas (captcha).",
+   "FOLKRÄKNING 1910/1930 (UC1): Sökt Nils Oskar f. 1880–82 födelseförs. Boda samt Oskar f. 1881 Boda – endast 1880(annan)/1890/1900-poster. Inga Nils Oskar Andersson f. 1881 i Värmland 1910/1930 (de tre rikstäckande träffarna Västerbotten 1910, Jämtland 1930, Blekinge 1910 har annan födelseförsamling). Ej i Sverige 1910 → utvandring 1900–1910 trolig."
   ],
   "sources": [
    {
@@ -31158,7 +31186,8 @@
   "summary": "Olof Augusts yngre bror, styvson hos Anders Jansson 1880. Inga senare folkräkningsposter hittade – troligen död eller utvandrad.",
   "notes": [
    "FOLKRÄKNING 1880 Boda, Nordsjö (s. 32): ”Johannesson, Johan, f. 1861 i Boda”, familjeställning ”stjs.” (styvson) hos hemmansägaren Anders Jansson f. 1834 och Anna Andersdotter f. 1826; syskon Olof August 1857, Britta Kajsa 1859. Sökning på Johan Johannesson/Johansson f. 1861 Boda 1890–1930 gav inga träffar.",
-   "FAMILYSEARCH (index Boda A I/24, 1877–82, Nordsjö Mon): Johan Johannesson f. 19 Jul 1861 Boda i Anders Janssons och Anna Andersdotters hushåll (syskon Maria 23/3 1855, Olof August 3/2 1857, Britta Kajsa 3/6 1859). Saknas i Boda-index 1883–94 och 1895–1906 – flyttade/emigrerade ca 1882. Sidan i RA-bilden (C0036589 bild 269–274) ej lokaliserad; ingen träff i amerikanska index eller Family Tree."
+   "FAMILYSEARCH (index Boda A I/24, 1877–82, Nordsjö Mon): Johan Johannesson f. 19 Jul 1861 Boda i Anders Janssons och Anna Andersdotters hushåll (syskon Maria 23/3 1855, Olof August 3/2 1857, Britta Kajsa 3/6 1859). Saknas i Boda-index 1883–94 och 1895–1906 – flyttade/emigrerade ca 1882. Sidan i RA-bilden (C0036589 bild 269–274) ej lokaliserad; ingen träff i amerikanska index eller Family Tree.",
+   "FOLKRÄKNING (UC1): Johan f. 1861 födelseförs. Boda ger endast 1880-poster; ingen av de 33 Johan Johannesson f. 1861 födda i Värmlands län 1890–1930 har födelseförsamling Boda. Bekräftar att han lämnat Sverige eller dött före 1890."
   ],
   "sources": [
    {
@@ -37339,7 +37368,8 @@
    "FOLKRÄKNING 1890 ”Hezekiel Natanaël, f. 1883 i Ljusnarsberg”; 1900 ”Hesekiel Natanael”. Ej i 1910 (utflyttad/Amerika?).",
    "UB6 – Exakt födelsedag 31/3 1883 (Ljusnarsberg). Familjen flyttade från Takene till Strömtorp i Degerfors sn (Örebro län) – stämmer med Missionsvännens 70-årsnotis 1916 (’Petrus Johansson i Strömtorp’). Hesekiel står med i Degerfors-längden AIIa 2 (årsintervall ej angivet i indexet). Detta förklarar varför han saknas i Värmland 1910 – han flyttade sannolikt med familjen till Degerfors, inte nödvändigtvis till Amerika.",
    "UB6 – NORDAMERIKA: Inga träffar på Hesekiel/Hezekiel f. 1883 Sverige i amerikanska/kanadensiska index (FamilySearch, även under efternamnet Rensta som syskonen Gustav, Elias, Hanna, Rebecka, Rut använde). FS-trädet PQ2X-2GN (Heseikiel Nathanael Petrusson) saknar död/make. Ingen Amerikakoppling belagd.",
-   "UB6 – Brunskog AIIa 1 (1896–1909) Takene s. 304 (FS bild 317): Hesekiel (rad 6) omfattas av klammern 'Karlskoga 01 11/11' tillsammans med föräldrarna och de yngre syskonen – familjen flyttade till Karlskoga (Strömtorp, sedermera Degerfors) 11 nov 1901. Rebecka Naemi flyttade separat till Västra Ämtervik 9/11 1900. Hesekiel saknas därför i Värmland 1910. Ingen Amerikakoppling funnen; nästa steg: Degerfors/Karlskoga husförhör 1901–1930 (utflyttning/död) och SCB/Sveriges dödbok."
+   "UB6 – Brunskog AIIa 1 (1896–1909) Takene s. 304 (FS bild 317): Hesekiel (rad 6) omfattas av klammern 'Karlskoga 01 11/11' tillsammans med föräldrarna och de yngre syskonen – familjen flyttade till Karlskoga (Strömtorp, sedermera Degerfors) 11 nov 1901. Rebecka Naemi flyttade separat till Västra Ämtervik 9/11 1900. Hesekiel saknas därför i Värmland 1910. Ingen Amerikakoppling funnen; nästa steg: Degerfors/Karlskoga husförhör 1901–1930 (utflyttning/död) och SCB/Sveriges dödbok.",
+   "FOLKRÄKNING 1910/1930 (UC1): ingen Hesekiel/Hezekiel/Natanael f. 1882–84 med födelseförs. Ljusnarsberg efter 1900; ingen Rensta-post för honom (bara Bror Gustaf Benjamin, Rebecka Naëmi, Ruth, Hulda Maj-Britt 1930). Föräldrarnas hushåll 1910 i Degernästorp, Degerfors kapell saknar honom. Han var alltså inte folkbokförd i Sverige 1910 under dessa namn – utvandring 1901–1910 eller död trolig; nästa steg Degerfors AIIa 2 utflyttningskolumn."
   ],
   "sources": [
    {
@@ -37361,6 +37391,10 @@
    {
     "label": "FamilySearch, Brunskog husförhör 1891–95: Hesekiel Natanaél f. 31 mars 1883 'Ljusmanberg'",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QL54-JBGX"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Degerfors kapell, Degernästorp, s. 70 rad 35: Johansson, Petrus f. 1846 Väse, predikant husägare; Olsson, Britta f. 1852 Väse; barn Rebecka Naëmi 1881, Hanna Maria 1885, Sara Elisabet 1887, Elsa Debora 1889, Rut 1894, Elias Ernfrid 1897 – Hesekiel saknas",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_121320034"
    }
   ],
   "search": [
@@ -38073,7 +38107,8 @@
   "summary": "Hustru till Nils Arvid Olofsson (f. 1896 Skog), g. 1929; Toltan, Brunskog 1930. Möjligen dotter till August Nilsson (Gullsby) – ej bevisat.",
   "notes": [
    "FOLKRÄKNING 1930 Brunskog, Toltan (s. 350 i församlingsboken), fam. 1: ”Olofsson, Nils Arvid, f. 1896 i Brunskog, Hemmansägare (yrke 1925 Fabriksarbetare; gift, vigselår 1929, inflyttad 1929 från Amerika); Augustsson, Gerda Katarina, f. 1897 i Brunskog; Olofsson, Bengt Olof, f. 1928 i Brunskog; Betty Ingegärd, f. 1930 i Brunskog”.",
-   "UB4 – FÖRÄLDRAR (strong, ej bildläst): FamilySearch-index till Brunskog A II a/3 (1909–1920), filmref SE-VA-13065-AIIa-3-0347-0322 (= bild 347, sida 322): 'Gerda Katrina Olsson, f. 2 May 1897, Takene', dotter i hushållet 'Toltan Labråten'; samma hushålls-index har syskonen Frida Amalia, Arvid Natanael m.fl. FamilySearch-träd P73S-B8N/P739-NHD: dotter till August Olsson (1866–1952, 'fr. Toltan') och Emma Jansdotter/Jansson (f. 1871), vigda 13 mars 1897 – alltså helsyster till Olof Ragnar (olov_ragnar_augustson_1902). Efternamnet Augustsson 1930 = fadersnamnet August. Hon är INTE dotter till August Nilsson i Gullsbyn. Bör bildläsas: Riksarkivet 00053598_00347."
+   "UB4 – FÖRÄLDRAR (strong, ej bildläst): FamilySearch-index till Brunskog A II a/3 (1909–1920), filmref SE-VA-13065-AIIa-3-0347-0322 (= bild 347, sida 322): 'Gerda Katrina Olsson, f. 2 May 1897, Takene', dotter i hushållet 'Toltan Labråten'; samma hushålls-index har syskonen Frida Amalia, Arvid Natanael m.fl. FamilySearch-träd P73S-B8N/P739-NHD: dotter till August Olsson (1866–1952, 'fr. Toltan') och Emma Jansdotter/Jansson (f. 1871), vigda 13 mars 1897 – alltså helsyster till Olof Ragnar (olov_ragnar_augustson_1902). Efternamnet Augustsson 1930 = fadersnamnet August. Hon är INTE dotter till August Nilsson i Gullsbyn. Bör bildläsas: Riksarkivet 00053598_00347.",
+   "FOLKRÄKNING 1900 och 1910 (UC1): Gerda Katrina/Katarina f. 1897 Brunskog står som ”d.” (dotter) i August Olssons (f. 1866) och Emma Jansdotters (f. 1871) hushåll i Toltan, med syskonen Frida Amalia, Johan Helmer, Olof Ragnar 1902, Anna Paulina, Arvid Natanael, Signe Maria. Föräldraskapet är därmed primärkällebelagt."
   ],
   "sources": [
    {
@@ -38087,6 +38122,14 @@
    {
     "label": "FamilySearch Family Tree P73S-B8N (lead): Gerda Katrina Olsson f. 2 maj 1897, föräldrar August Olsson och Emma Jansson",
     "url": "https://www.familysearch.org/tree/person/details/P73S-B8N"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Brunskog, Toltan, s. 30 rad 17, fam. 1: Olsson, August f. 1866 Brunskog, hemmansägare; Jansson, Emma f. 1871 Brunskog; barn Gerda Katarina 1897 (”d.”), Frida Amalia 1898, Johan Helmer 1900, Olof Ragnar 1902, Anna Paulina 1904, Arvid Natanael 1906, Signe Maria 1910 (alla Brunskog)",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_125549999"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Brunskog, Toltan, s. 33 rad 34, fam. 2: August f. 1866, Jansdotter Emma f. 1871, Gerda Katrina 1897 (d.), Frida Amalia 1898, Johan Helmer 1900 (fam. 1 Olof Andersson 1834 Mangskog + Katrina Larsdotter 1829 V. Ämtervik)",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_109938259"
    }
   ],
   "search": [
@@ -47970,12 +48013,18 @@
   ],
   "summary": "Dotter till Anders Andersson (Elofsson) f. 1848 och Mathilda Nilsdotter; ”äkta” enligt husförhöret (född några veckor efter vigseln 27/1 1888).",
   "notes": [
-   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 22: ”[B.] äkta Hulda Maria | 88 | 19/2 | N.U.”"
+   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 22: ”[B.] äkta Hulda Maria | 88 | 19/2 | N.U.”",
+   "FOLKRÄKNING 1900 (UC1): ”d.” i Anders Anderssons hushåll, Tjusbol (bekräftar föräldraskapet via familjeställning).",
+   "LEAD (UC1, candidate): Folkräkning 1910 Lysekil, Skottgränd 17: ”Andersdotter, Hulda Maria, f. 1888 i Ullerud Värmlands län, Piga f.”, ogift (Folk_125899590); 1930 Norrköpings Norra, obefintlighetsboken: samma namn/år/”Ullerud”, tjänarinna, ogift, inflyttad 1911 från Hedvig Eleonora Stockholm, överförd 1921 (Folk_129153350). Födelseförsamling anges bara ”Ullerud” (Nedre eller Övre?) och patronymikon Andersdotter stämmer – men ingen familjeställning/födelsedag; ej bevisad. Ingen annan Hulda Maria f. 1888 Nedre Ullerud finns 1910/1930."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Nedre Ullerud husförhörslängd A I/21 (1886–1895), bild 333, sid. 324 Risätter/Nyängen/Jeriko, rad 19–23: ”Andersson, Anders, gårdfarihandl[ande] | 48 | 30/8 | Brunskog | [gift] 27/1 88 | [från] GB 409”; ”H. Nilsdr, Mathilda | 53 | 19/6 | Grämark [Gräsmark] | [inflyttad från] Frykerud 7/4 88”; ”B. hennes o.ä. Johan Fredrik | 83 | 2/4 | [Gräsmark]”; ”B. äkta Hulda Maria | 88 | 19/2 | N.U.”; ”Hjalmar Paulinus | 91 | 22/6 | [N.U.]”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038285_00333"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Nedre Ullerud, Tjusbol, s. 53 rad 37, fam. 1: ”Hulda Maria, f. 1888 i Nedre Ullerud”, d. (dotter) till Anders Andersson f. 1848 Brunskog, gårdfarihandlande, och Matilda Nilsdotter f. 1853 Gräsmark; bror Hjalmar Paulinus 1891",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_110650043"
    }
   ],
   "search": [
@@ -47998,12 +48047,21 @@
   ],
   "summary": "Son till Anders Andersson (Elofsson) f. 1848 och Mathilda Nilsdotter.",
   "notes": [
-   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 23: ”Hjalmar Paulinus | 91 | 22/6”. Folkräkning 1900 Tjusbol: Hjalmar Paulinus 1891 Nedre Ullerud."
+   "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 23: ”Hjalmar Paulinus | 91 | 22/6”. Folkräkning 1900 Tjusbol: Hjalmar Paulinus 1891 Nedre Ullerud.",
+   "FOLKRÄKNING 1910 (UC1): dräng i Risäter, Nedre Ullerud (fam. 5 i hemmansägaren Anders Janssons gård, där halvbrodern Johan Fredrik var dräng 1900). Ingen post 1930 (sökt Hjalmar/Hjalmar Paulinus f. 1890–92, födelseförs. Nedre Ullerud/Ullerud) – utflyttad ur Sverige, död eller ej registrerad 1930."
   ],
   "sources": [
    {
     "label": "Riksarkivet, Nedre Ullerud husförhörslängd A I/21 (1886–1895), bild 333, sid. 324 Risätter/Nyängen/Jeriko, rad 19–23: ”Andersson, Anders, gårdfarihandl[ande] | 48 | 30/8 | Brunskog | [gift] 27/1 88 | [från] GB 409”; ”H. Nilsdr, Mathilda | 53 | 19/6 | Grämark [Gräsmark] | [inflyttad från] Frykerud 7/4 88”; ”B. hennes o.ä. Johan Fredrik | 83 | 2/4 | [Gräsmark]”; ”B. äkta Hulda Maria | 88 | 19/2 | N.U.”; ”Hjalmar Paulinus | 91 | 22/6 | [N.U.]”",
     "url": "https://sok.riksarkivet.se/bildvisning/C0038285_00333"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Nedre Ullerud, Tjusbol, s. 53 rad 38: Hjalmar Paulinus f. 1891 Nedre Ullerud, son i Anders Anderssons hushåll",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_110650044"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1910, Nedre Ullerud, Risäter, s. 56 rad 16, fam. 5: ”Andersson, Hjalmar Paulinus, f. 1891 i Nedre Ullerud Värmlands län, Dräng”, ogift, ensamstående",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_126688732"
    }
   ],
   "search": [
@@ -48027,7 +48085,9 @@
   "notes": [
    "HUSFÖRHÖR Nedre Ullerud A I/21 bild 333 s.324 rad 21: ”B. hennes o.ä. Johan Fredrik | 83 | 2/4 | [Gräsmark]”",
    "HUSFÖRHÖR Frykerud A I/28 bild 37 s.35 rad 13: ”Johan Fredrik, o.ä. B. 83 2/4 D:o [Gräsmark]” under modern Matilda Nilsdotter; utflyttad till N. Ullerud 7/2 88. Fader ej angiven.",
-   "Frykerud A I/27 s.188 (bild 177) och s.46 (bild 46): ”Johan Fredrik o.ä. B./Barn 83 2/4 Gräsmark” under modern; fader anges inte någonstans i Frykerud-längderna (A I/27, A I/28). Gräsmarks dopbok efter 1859 ej digitaliserad."
+   "Frykerud A I/27 s.188 (bild 177) och s.46 (bild 46): ”Johan Fredrik o.ä. B./Barn 83 2/4 Gräsmark” under modern; fader anges inte någonstans i Frykerud-längderna (A I/27, A I/28). Gräsmarks dopbok efter 1859 ej digitaliserad.",
+   "FOLKRÄKNING 1900 (UC1): dräng i Risäter, Nedre Ullerud, ”Andersson, Johan Fredrik f. 1883 i Gräsmark” – bär styvfaderns patronymikon Andersson. Ensam post (fam. 4) i hemmansägaren Anders Janssons gård; inte i mor/styvfars hushåll i Tjusbol. Identitet: namn+år+födelseförsamling Gräsmark (enda Johan Fredrik f. 1883 Gräsmark i Nedre Ullerud) = strong.",
+   "FOLKRÄKNING 1910/1930 (UC1): ingen Johan Fredrik/Johan/Fredrik f. 1883 med födelseförsamling Gräsmark som passar (enda Johan f. 1883 Gräsmark 1910 är son i Lekvattnet, Folk_126713296 – annan person). Troligen utvandrad eller död 1900–1910; ej utrett."
   ],
   "sources": [
    {
@@ -48045,6 +48105,10 @@
    {
     "label": "Riksarkivet, Frykerud husförhörslängd A I/28 (1886–1890), bild 37, sid. 35 Bodetta, rad 12–13: ”u.m. Matilda Nilsdotter, Inh[ysehjon] | 53 | 19/6 | Gräsmark | [gift] 27/1 88 | v. | [från] 46 G.B.”; ”Johan Fredrik, o.ä. B[arn] | 83 | 2/4 | D:o [Gräsmark]”; anm. ”Lysn. 9/12 87 med And. Andersson fr. Risätter, N. Ullerud | absolv. 22/5 87”; flyttat ”N. Ullerud 7/2 88” (utflyttningsnr 9 och 10)",
     "url": "https://sok.riksarkivet.se/bildvisning/C0037132_00037"
+   },
+   {
+    "label": "Riksarkivet, Folkräkning 1900, Nedre Ullerud, Risäter, s. 43 rad 24, fam. 4: ”Andersson, Johan Fredrik, f. 1883 i Gräsmark Värmlands län, dräng”, ogift, ensamstående (i Anders Janssons gård, Risäter)",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_110649540"
    }
   ],
   "search": [

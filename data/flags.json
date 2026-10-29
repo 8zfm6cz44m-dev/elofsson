@@ -443,6 +443,23 @@
    "persons": [
     "olof_johan_nilsson_1851_saldebraten"
    ]
+  },
+  {
+   "title": "Folkräkningssök UC1 avbrutet vid möjlig captcha (Stridsberg)",
+   "text": "Sökningen Fornamn=Jan Fredrik, födelseår 1814–16, födelselän Värmland gav ett svar utan träfflista men med ALTCHA-kod (tolkat som captcha; nästa sökning gick dock igenom). Enligt instruktion avbröts alla Riksarkivet-sökningar där. Ej gjort: Jan Fredrik Stridsberg/Andersson 1815, Jan Stridsberg 1819 och Stina Stridsberg 1817 (Värmland – födelseförsamling ej kontrollerad), Andreas Andersson 1806 (Folk_120348672/103528858), syskonen Karolina Christina 1839/Anna Lisa 1843/Jan Petter 1845.",
+   "persons": [
+    "andreas_stridsberg_1806",
+    "jan_fredrik_stridsberg_1815"
+   ]
+  },
+  {
+   "title": "Mor/styvfar-barnen i Nedre Ullerud försvinner 1900–1930",
+   "text": "Johan Fredrik (1883 Gräsmark) är dräng i Risäter 1900 men finns inte 1910/1930; Hjalmar Paulinus (1891) är dräng i Risäter 1910 men finns inte 1930; Hulda Maria (1888) finns i Tjusbol 1900 och möjligen som piga i Lysekil 1910 (’Ullerud’) → Stockholm Hedvig Eleonora → Norrköping 1911, obefintlig 1921 (candidate). Utvandring trolig – kontrollera emigrantregister/SCB utflyttade och Nedre Ullerud församlingsbok 1896–1930 (ej digitaliserad på RA).",
+   "persons": [
+    "ca1_johan_fredrik83",
+    "ca1_hjalmar_paulinus91",
+    "ca1_hulda_maria88"
+   ]
   }
  ],
  "conflicts": [

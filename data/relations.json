@@ -17000,8 +17000,8 @@
   "type": "sibling",
   "a": "aq2_gerda_katarina_augustsson_1897",
   "b": "olov_ragnar_augustson_1902",
-  "status": "strong",
-  "basis": "FamilySearch-index A II a/3 bild 347 (Toltan Labråten, Gerda Katrina f. 2/5 1897) + FamilySearch-träd P739-NHD (syskon under August Olsson och Emma Jansson). Bör bildläsas för verified."
+  "status": "verified",
+  "basis": "Folkräkning 1910 Brunskog Toltan (Folk_125549999): Gerda Katarina 1897 och Olof Ragnar 1902 båda barn i August Olssons och Emma Janssons hushåll."
  },
  {
   "id": "c-bt2_august_olsson_toltan66-bt2_emma_jansdotter71-aq2_gerda_katarina_augustsson_1897",
@@ -17011,8 +17011,8 @@
    "bt2_emma_jansdotter71"
   ],
   "child": "aq2_gerda_katarina_augustsson_1897",
-  "status": "strong",
-  "basis": "FamilySearch-index Brunskog A II a/3 (SE-VA-13065-AIIa-3-0347-0322): Gerda Katrina Olsson f. 2 maj 1897 Takene, dotter, Toltan Labråten; FamilySearch-träd P73S-B8N: föräldrar August Olsson (1866–1952) och Emma Jansson, vigda 13/3 1897"
+  "status": "verified",
+  "basis": "Folkräkning 1910 Brunskog Toltan s.30 r.17 (Folk_125549999): Gerda Katarina f. 1897 Brunskog, familjeställning ”d.” i Olsson, August 1866 + Jansson, Emma 1871; även 1900 (Folk_109938259) ”d.” i August/Emma Jansdotter. Samma namn/år/förs. som Augustsson, Gerda Katarina 1897 i Toltan 1930."
  },
  {
   "id": "c-aq2_johan_andersson_1860_nboda-ub3_kajsa_jansdotter_1861-ub3_carl_einar_johnson_1904",
@@ -17059,5 +17059,13 @@
   "b": "ub3_kajsa_jansdotter_1861",
   "status": "strong",
   "basis": "FamilySearch index Boda A II a/1 Bodatorp: Kajsa Nordblad Jansdotter 'gift' i Johan Anderssons hushåll."
+ },
+ {
+  "id": "s-fr_lenanilsd1815-fr_svennilsson1828",
+  "type": "sibling",
+  "a": "fr_lenanilsd1815",
+  "b": "fr_svennilsson1828",
+  "status": "verified",
+  "basis": "Folkräkning 1880 Frykerud, Lene, s.32 r.28 (Folk_119246448): Lena Nilsdotter f. 1815 Frykerud, familjeställning ”systern” till hemmansägaren Sven Nilsson f. 1828 Frykerud; 1890 (Folk_103489498) ”syster”."
  }
 ]
