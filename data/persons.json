@@ -55035,7 +55035,8 @@
   "summary": "Barn till Anton Nordstrom och Martha Janet Peterson.",
   "notes": [
    "MB VITAL STATISTICS födelse 1899-004418: ”NORDSTROM LILLIAN GLADYS, 25/03/1899, WINNIPEG; Mother PETERSON MARTHA JEANETTE”.",
-   "UB7: gift 1922-12-27 i Minnedosa med Hilbert Carl Enquist (MB vigsel 1922,045268)."
+   "UB7: gift 1922-12-27 i Minnedosa med Hilbert Carl Enquist (MB vigsel 1922,045268).",
+   "UC3 – FIND A GRAVE-INDEX (via FamilySearch): ordagrant 'Gladys Lillian Nordstrom Enquist, Begravning Minnedosa, Minto-Odanah Rural Municipality, Manitoba, Canada, Födelse 25 mars 1899, Död 27 augusti 1986'. Exakt samma födelsedag som MB-födelsen 1899-004418 + flicknamn Nordstrom + gift Enquist 1922 i Minnedosa → strong (sekundärt index, ingen primär dödsregistrering läst)."
   ],
   "sources": [
    {
@@ -55045,11 +55046,19 @@
    {
     "label": "Manitoba Vital Statistics, vigsel reg. 1922,045268: ENQUIST, HILBERT CARL x NORDSTROM, LILLIAN GLADYS, 27/12/1922, Minnedosa",
     "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Gladys Lillian Nordstrom Enquist, f. 25 mars 1899, d. 27 aug 1986, begravd Minnedosa MB",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:Q2BY-NTT2"
    }
   ],
   "search": [
    "Lillian Gladys Nordstrom (f. 1899 Winnipeg)"
-  ]
+  ],
+  "died": {
+   "date": "1986-08-27",
+   "note": "Find a Grave-index (FamilySearch Q2BY-NTT2): 'Gladys Lillian Nordstrom Enquist', f. 25 mars 1899, d. 27 aug 1986, begravd Minnedosa (Minto-Odanah RM), Manitoba. Dödsort ej angiven."
+  }
  },
  {
   "id": "ua5_walter_hilding_nordstrom_1904",
@@ -55208,7 +55217,8 @@
   "notes": [
    "MB födelse 1912-005005: ”CLARENCE HEMMING ANTHONY, 31/01/1912, R.M. OF ODANAH; Mother PETERSON JENNIE”.",
    "UA5 – Canada Census 1926 (Marquette/Woodlands, MB): barn i Anton och Martha Janet Nordstroms hushåll (indexerat ”Clarence Henning”, ”Paul Milton”, ”Eva Astroid”).",
-   "UB7: gift 1939-05-31 i R.M. of Saskatchewan (Rapid City-trakten), Manitoba med Gladys Anzonetta Robertson (MB vigsel 1939,023627)."
+   "UB7: gift 1939-05-31 i R.M. of Saskatchewan (Rapid City-trakten), Manitoba med Gladys Anzonetta Robertson (MB vigsel 1939,023627).",
+   "UC3 – FIND A GRAVE-INDEX (via FamilySearch 6RJ7-71RZ): ordagrant 'Clarence Henning Nordstrom, Dödsdatum 1956, Burial, Rosewood Memorial Gardens, Brandon, Manitoba'. Samma namnform ('Henning') som i 1926 års census och vigseln 1939; FamilySearch-trädet GQ12-4SR (lead) ger 1912–1956. Status strong för dödsåret; exakt datum saknas (MB Vital Statistics death 1956 bör ge datum)."
   ],
   "sources": [
    {
@@ -55222,11 +55232,20 @@
    {
     "label": "Manitoba Vital Statistics, vigsel reg. 1939,023627: NORDSTROM, CLARENCE HENNING x ROBERTSON, GLADYS ANZONETTA, 31/05/1939, R.M. of Saskatchewan (Rapid City-trakten), Manitoba",
     "url": "https://vitalstats.gov.mb.ca/Query.php"
+   },
+   {
+    "label": "FamilySearch, Find a Grave Index: Clarence Henning Nordstrom, d. 1956, Rosewood Memorial Gardens, Brandon MB",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6RJ7-71RZ"
    }
   ],
   "search": [
    "Clarence Hemming Anthony Nordstrom (f. 1912, R.M. of Odanah)"
-  ]
+  ],
+  "died": {
+   "date": "1956",
+   "place": "begravd Rosewood Memorial Gardens, Brandon, Manitoba",
+   "note": "Find a Grave-index 6RJ7-71RZ, endast år"
+  }
  },
  {
   "id": "ua5_eva_astrid_evangeline_nordstrom_1915",
