@@ -493,6 +493,21 @@
    "title": "Två Elofsson från Brunskog via Kristiania okt–nov 1902 (Oslo-protokoll + White Star Line) – vem är de?",
    "text": "Oslo politidistrikt, emigrantprotokoll nr 20 (1901–1903), resegrupp 01539, expedierad 30 okt, avresa 31 okt 1902 med S/S Angelo (agent Elster): person 0015 'Olaf Elofson (Nilson)', m, 29 år (ber. f. 1873), ug, 'bogholder' (bokhållare), bostad 'Wærmeland', destination 'Colorado', biljett 288 kr, anm. 'Fripas Fl.betyg' (frisedel från värnplikt + flyttningsbetyg) – https://www.digitalarkivet.no/en/view/557/pe00000001062758; direkt följd av person 0016 'Martin Elovson', m, 22 år (f. 1880), ug, Wærmeland → Colorado – https://www.digitalarkivet.no/en/view/557/pe00000001062759 (skannad sida https://media.digitalarkivet.no/em20100217610397). Samma två i White Star Line (Kristiania-kontoret), passagerarprotokoll nr 3 (1900–1906), S.S. Oceanic, avgång 5 nov 1902, löpnr 3809–3826: 'Olof Elofsson', 29, bostad Brunskog → 'Denver, Col.' (https://www.digitalarkivet.no/en/view/194/pe00000001316592) och 'Martin Elofsson', 22, Brunskog → 'Denver, Col.' (https://www.digitalarkivet.no/en/view/194/pe00000001316593; skannad https://media.digitalarkivet.no/em20110223670544). Tillägget '(Nilson)' tyder på att Olof officiellt hette Nilsson och att Elofsson är ett antaget släktnamn (far/farfar Elof) – alltså troligen Olof Nilsson f. ca 1873 och Martin Nilsson f. ca 1880 i Brunskog, bröder, med Elof i släkten; bokhållare-yrket är ovanligt. Ingen person med namnet Elofsson f. 1868–1884 finns i persons.json. Bör sökas i Brunskog A II a/1 (1896–1909) på utflyttning 'Amerika 02' okt 1902 (Olof 73 / Martin 80) och i folkräkningen 1900 (Olof Nilsson f. 1873 + Martin Nilsson f. 1880, Brunskog, samma hushåll). Inte inlagda som personer.",
    "persons": []
+  },
+  {
+   "title": "Vigsel Nils Nilsson × Britta Claesdotter ca 1725 – varken i Brunskog eller Boda (CF2)",
+   "text": "Mantal Skog: Nils Nilsson egen rad utan hustru 1720–1725 (A0003199_00532, A0003201_00601, A0003202_00540, A0003203_00601, A0003204_00494), med hustru 1726 (A0003205_00461) → vigsel mellan mantalsskrivningarna 1725 och 1726. Brunskog E I/1 bild 40–45 (1723–27) och Boda E I/1 bild 24–26 (1723–28) saknar posten. Vigseln skedde sannolikt i Brittas hemsocken. Nästa steg: vigselböcker Mangskog (saknas före 1748?), Gunnarskog, Arvika, Frykerud (E I/1 C0037140), Ny – 1725; alternativt Brunskog lysningar om separat lysningsbok finns. Inget 'Claes' i Skog i mantal 1720–26.",
+   "persons": [
+    "nils_n_stoy",
+    "britta_claesd_stoy"
+   ]
+  },
+  {
+   "title": "Nils Christophersson i Rinnefors (Boda) g. 1713 med Kari Månsdotter – namne till Nils Christophersson i Skog? (CF2)",
+   "text": "Boda E I/1 bild 17 hö (s. 19), 1713 nr 7: ”dito die Nils Christopher[s]son [i] Rinnefor[s] med Pig. Kari Månsdotter … vigdes af v. P. Hesselgren i Boda gård”. Kan inte vara den 80-årige Nils Christophersson i Skog (hustru Anna Jönsdotter d. 1742). Oklart om släkt (t.ex. son till Christopher Nilsson f. 1678? – nej, för ung). Lämnas som namne tills Boda husförhör/mantal Rinnefors 1713–30 kontrollerats.",
+   "persons": [
+    "nils_christophersson_skog"
+   ]
   }
  ],
  "conflicts": [
