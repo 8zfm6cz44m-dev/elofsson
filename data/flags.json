@@ -495,14 +495,6 @@
    "persons": []
   },
   {
-   "title": "Vigsel Nils Nilsson × Britta Claesdotter ca 1725 – varken i Brunskog eller Boda (CF2)",
-   "text": "Mantal Skog: Nils Nilsson egen rad utan hustru 1720–1725 (A0003199_00532, A0003201_00601, A0003202_00540, A0003203_00601, A0003204_00494), med hustru 1726 (A0003205_00461) → vigsel mellan mantalsskrivningarna 1725 och 1726. Brunskog E I/1 bild 40–45 (1723–27) och Boda E I/1 bild 24–26 (1723–28) saknar posten. Vigseln skedde sannolikt i Brittas hemsocken. Nästa steg: vigselböcker Mangskog (saknas före 1748?), Gunnarskog, Arvika, Frykerud (E I/1 C0037140), Ny – 1725; alternativt Brunskog lysningar om separat lysningsbok finns. Inget 'Claes' i Skog i mantal 1720–26.",
-   "persons": [
-    "nils_n_stoy",
-    "britta_claesd_stoy"
-   ]
-  },
-  {
    "title": "Nils Christophersson i Rinnefors (Boda) g. 1713 med Kari Månsdotter – namne till Nils Christophersson i Skog? (CF2)",
    "text": "Boda E I/1 bild 17 hö (s. 19), 1713 nr 7: ”dito die Nils Christopher[s]son [i] Rinnefor[s] med Pig. Kari Månsdotter … vigdes af v. P. Hesselgren i Boda gård”. Kan inte vara den 80-årige Nils Christophersson i Skog (hustru Anna Jönsdotter d. 1742). Oklart om släkt (t.ex. son till Christopher Nilsson f. 1678? – nej, för ung). Lämnas som namne tills Boda husförhör/mantal Rinnefors 1713–30 kontrollerats.",
    "persons": [
@@ -7324,6 +7316,14 @@
    "persons": [
     "aq2_anna_maria_olsson_1881_takene",
     "anna_maria_nilsson_1886"
+   ]
+  },
+  {
+   "title": "Vigsel Nils Nilsson × Britta Claesdotter ca 1725 – varken i Brunskog eller Boda (CF2)",
+   "text": "Mantal Skog: Nils Nilsson egen rad utan hustru 1720–1725 (A0003199_00532, A0003201_00601, A0003202_00540, A0003203_00601, A0003204_00494), med hustru 1726 (A0003205_00461) → vigsel mellan mantalsskrivningarna 1725 och 1726. Brunskog E I/1 bild 40–45 (1723–27) och Boda E I/1 bild 24–26 (1723–28) saknar posten. Vigseln skedde sannolikt i Brittas hemsocken. Nästa steg: vigselböcker Mangskog (saknas före 1748?), Gunnarskog, Arvika, Frykerud (E I/1 C0037140), Ny – 1725; alternativt Brunskog lysningar om separat lysningsbok finns. Inget 'Claes' i Skog i mantal 1720–26.",
+   "persons": [
+    "nils_n_stoy",
+    "britta_claesd_stoy"
    ]
   }
  ]
