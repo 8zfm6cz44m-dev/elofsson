@@ -481,6 +481,18 @@
     "karin_skog_m1721",
     "nils_christophersson_skog"
    ]
+  },
+  {
+   "title": "Nils Oskar Andersson (f. 1881 Boda) = 'Nils O. Augustson', Boda, White Star Line 17 april 1901?",
+   "text": "White Star Line Kristiania: Nils O. Augustson, 20, Boda → New York, S.S. Teutonic 17/4 1901. Patronymikon efter fadern August Andersson. Candidate – kontrollera Boda utflyttningslängd april 1901 och Ellis Island (Teutonic, slutet av april 1901).",
+   "persons": [
+    "jo_nilsoskar81"
+   ]
+  },
+  {
+   "title": "Två Elofsson från Brunskog via Kristiania okt–nov 1902 (Oslo-protokoll + White Star Line) – vem är de?",
+   "text": "Oslo politidistrikt, emigrantprotokoll nr 20 (1901–1903), resegrupp 01539, expedierad 30 okt, avresa 31 okt 1902 med S/S Angelo (agent Elster): person 0015 'Olaf Elofson (Nilson)', m, 29 år (ber. f. 1873), ug, 'bogholder' (bokhållare), bostad 'Wærmeland', destination 'Colorado', biljett 288 kr, anm. 'Fripas Fl.betyg' (frisedel från värnplikt + flyttningsbetyg) – https://www.digitalarkivet.no/en/view/557/pe00000001062758; direkt följd av person 0016 'Martin Elovson', m, 22 år (f. 1880), ug, Wærmeland → Colorado – https://www.digitalarkivet.no/en/view/557/pe00000001062759 (skannad sida https://media.digitalarkivet.no/em20100217610397). Samma två i White Star Line (Kristiania-kontoret), passagerarprotokoll nr 3 (1900–1906), S.S. Oceanic, avgång 5 nov 1902, löpnr 3809–3826: 'Olof Elofsson', 29, bostad Brunskog → 'Denver, Col.' (https://www.digitalarkivet.no/en/view/194/pe00000001316592) och 'Martin Elofsson', 22, Brunskog → 'Denver, Col.' (https://www.digitalarkivet.no/en/view/194/pe00000001316593; skannad https://media.digitalarkivet.no/em20110223670544). Tillägget '(Nilson)' tyder på att Olof officiellt hette Nilsson och att Elofsson är ett antaget släktnamn (far/farfar Elof) – alltså troligen Olof Nilsson f. ca 1873 och Martin Nilsson f. ca 1880 i Brunskog, bröder, med Elof i släkten; bokhållare-yrket är ovanligt. Ingen person med namnet Elofsson f. 1868–1884 finns i persons.json. Bör sökas i Brunskog A II a/1 (1896–1909) på utflyttning 'Amerika 02' okt 1902 (Olof 73 / Martin 80) och i folkräkningen 1900 (Olof Nilsson f. 1873 + Martin Nilsson f. 1880, Brunskog, samma hushåll). Inte inlagda som personer.",
+   "persons": []
   }
  ],
  "conflicts": [
@@ -4842,6 +4854,28 @@
     "aq2_gerda_katarina_augustsson_1897",
     "olov_ragnar_augustson_1902",
     "august_nilsson_gullsbyn"
+   ]
+  },
+  {
+   "title": "Augustsson-bröderna funna i Kristiania emigrantprotokoll 24 april 1903",
+   "text": "Johan Alben Augustson (19) och Nils Einar Augustson (15), 'Vormeland', Sverige, avreste Kristiania 24/4 1903 med S/S Angelo mot 'Canada' (Oslo politidistrikt emigrantprotokoll nr 21, grupp 00207, personer 0326–0327). Fyller luckan mellan utflyttningen 6/4 1903 och Teutonic Liverpool 29/4–Ellis Island 7/5. Utresan gick via Kristiania, inte Göteborg.",
+   "persons": [
+    "johan_albin_augustsson",
+    "nils_ejnar_augustsson"
+   ]
+  },
+  {
+   "title": "Anders Nilsson (f. 1853 N. Boda) utvandrade via Kristiania 1 okt 1880 → Menominee",
+   "text": "Oslo politidistrikt emigrantprotokoll nr 7: 'Anders Nilson', 27, gift, Arb, Boda Werml., 1 okt 1880, S/S Hero → Menominee (pe00000000942187). Förklarar folkräkningen 1880 ('mannen i Nord Amerika') för hustrun Ingegärd Maria. Strong.",
+   "persons": [
+    "anders_nilsson53_boda"
+   ]
+  },
+  {
+   "title": "Gustaf Olofsson/Zetterlund via Kristiania 15 mars 1888 → Chicago",
+   "text": "Oslo politidistrikt emigrantprotokoll nr 14: 'Gustaf Olsson', 21, Arb, Brunskog → Chicago, S/S Geiser 15 mars 1888 (pe00000001020655). Strong.",
+   "persons": [
+    "gustaf_oj66"
    ]
   }
  ],
